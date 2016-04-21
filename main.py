@@ -66,8 +66,11 @@ for noun in nounsArray.splitlines():
 # select all word which ratio compounds > 25%
 # direct hyponyms - len(target word) >=4
 for noun in nounsInput:
-    cpd, hyponym, total_lens = cpdRatio(noun, 1, noun)
-    if (round(float(cpd)/hyponym) >= 0.25 and round(float(total_lens)/hyponym)>=4):
+    noun = standanizeNoun(noun)
+    cpd, hyponym, total_lens = cpdRatio(wn.synsets(noun)[0],1, noun)
+    if hyponym and (int(round(float(cpd)*100/hyponym)) >= 25 and int(round(float(total_lens)/hyponym))>= 4):
         #multiple form of noun
-        print noun
+        print noun, int(round(float(cpd)*100/hyponym)), len(noun), int(round(float(total_lens)/hyponym))
+    # if hyponym:
+    #     print noun, int(round(float(cpd)*100/hyponym)), len(noun), int(round(float(total_lens)/hyponym))
 # calculate this ratio
