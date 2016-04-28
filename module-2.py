@@ -4,17 +4,39 @@ from nltk.corpus import wordnet as wn
 import nltk
 import re
 
-INPUT = 'data/easy.txt'
-NOUNS = 'all-wordnet-nouns.txt'
-# get input
-inputData = open(INPUT, 'r').read()
+def findAllItemFromArray(inputData, searchData):
+	result = []
+	for noun in searchData:
+	    # if re.search(r'\b' + noun + r'\b', inputData):
+	    #     result.append(noun)
+	    #     re.sub(r'\b' + noun + r'\b', '', inputData)
+	    if re.search(r''+noun, inputData):
+	        result.append(noun)
+	        re.sub(r''+noun, '', inputData)
+	return result
 
-# scan all nouns in text -> textNounsArray
-#get all nouns to array
-#check if noun in input: add space to first of input  to check (example -> ample)
-nounsInput = []
-nounsArray = open(NOUNS, 'r').read()
-for noun in nounsArray.splitlines():
-    if re.search(r'\b' + noun + r'\b', inputData):
-        nounsInput.append(noun)
-        re.sub(r'\b' + noun + r'\b', '', inputData)
+INPUT = 'data/easy.txt'
+BLW_NOUNS = 'all-BLW.txt'
+NOUNS = 'all-SORTED-wordnet-nouns.txt'
+# get input
+inputFile = open(INPUT, 'r')
+inputData = inputFile.read()
+inputFile.close()
+
+#get all BLW
+inputFile= open(BLW_NOUNS, 'r')
+BLWnounsArray = inputFile.read()
+inputFile.close()
+
+#get all nouns
+inputFile= open(NOUNS, 'r')
+NounsArray = inputFile.read()
+inputFile.close()
+
+tmp = inputData
+nounsBLWInput = findAllItemFromArray(tmp, BLWnounsArray.splitlines())
+# tmp = inputData
+nounsInput = findAllItemFromArray(tmp, NounsArray.splitlines())
+# print nounsBLWInput
+# print nounsInput
+print "ratio: ", float(len(nounsBLWInput))/len(nounsInput)*100, "%"
