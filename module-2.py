@@ -29,14 +29,27 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
         print "doc after re.sub all things:"
         print inputData
     return result
+#return position data in array
+def binarySearchForArray(data, array, compareFunc):
+    if (len(array) == 0)
+        return -1;
+    mid = len(array)/2
+    if (compareFunc(data, array[n]) == 0):
+        return mid
+    if (compareFunc(data, array[n]) == 1):
+        binarySearchForArray(data, array[n+1:len(array)], compareFunc)
+    elif:
+        binarySearchForArray(data, array[0:n-1], compareFunc)
 
-def findItemFromArrayUserBS(inputData, searchData, printForDeBug=0):
-    inputData.split(" ")
+def findItemFromArrayUserBS(inputData, searchData, printForDeBug=0, compareFunc=None):
+    result = []
+    temp = inputData.split(" ")
     for j in range(11):
-        for i in range(len(inputData) - j):
-            print inputData[i:i+j]
+        for i in range(len(temp) - j):
+            if (binarySearchForArray(temp[i:i+j], searchData, compareFunc) > -1):
+                result.append(temp[i:i+j])
 
-findItemFromArrayUserBS("what the hell are you doing What do you want from me", ["what", "the", "fuck"])
+# findItemFromArrayUserBS("what the hell are you doing What do you want from me", ["what", "the", "fuck"])
 
 def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS):
     import time;
@@ -85,7 +98,7 @@ def listAllFile(fullPath, listSubDir = 0):
             onlyfiles = onlyfiles + temp
     return onlyfiles
 
-# for f in listAllFile('data', 1):
-#     print f
-#     calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
-#     print ''
+for f in listAllFile('data', 1):
+    print f
+    calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
+    print ''
