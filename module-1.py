@@ -38,7 +38,8 @@ def cpdRatio(SynsetNoun, level, hypernymName):
     for synset in allHyponyms:
         for lemma in synset.lemmas():
             hyponym = hyponym + 1
-            if re.search(hypernymName, lemma.name()): #noun in cpd hyponym, don't care whole word???
+            #use sandalizeNounsForRegex to avoid . in some nouns like a.e can be understand '.' in regex
+            if re.search(standandlizeNounsForRegex(hypernymName), lemma.name()): #noun in cpd hyponym, don't care whole word???
                 cpd = cpd + 1
                 cpdByLvls[level] = cpdByLvls[level] + 1 #count cpd in current level
             total_lens = total_lens + len(lemma.name())
@@ -140,4 +141,4 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile):
     outputAllbacsicLvlWord.close()
     outputABLW.close()
 
-# getStatisticsWithAllNouns('all-SORTED-wordnet-nouns.txt', ["all-nouns-STATISTIC.txt", "all-BLW-statistic.txt", "all-BLW.txt"])
+getStatisticsWithAllNouns('all-SORTED-wordnet-nouns.txt', ["all-nouns-STATISTIC.txt", "all-BLW-statistic.txt", "all-BLW.txt"])
