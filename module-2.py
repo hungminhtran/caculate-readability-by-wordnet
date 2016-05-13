@@ -10,27 +10,25 @@ import re
 #medium text: ratio:  28.0          % ['course', 'culture', 'mean', 'right', 's', 'technology', 'trade']
 #hard text:   ratio:  24.2424242424 % ['barometer', 'call', 'office', 'out', 'perfect', 'street', 'system', 'well']
 
-def standandlizeNounsForSearch(noun):
-    tnoun = noun.replace('.', '\.')
-    return tnoun
-
-def findAllItemFromArray(inputData, searchData):
+def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
     result = []
     # complile first to make runtime faster when using too many time
     # prog = re.compile(pattern)
     # result = prog.match(string)
     for noun in searchData:
-        temp = r"\b" + standandlizeNounsForSearch(noun) + r"\b"
+        temp = r"\b" + mod1.standandlizeNounsForRegex(noun) + r"\b"
         inputData, isFinOut = re.subn(temp, ' ', inputData) #avoid concat string can be created new noun
         if (isFinOut > 0):
             result.append(noun)
-            print temp
-            print inputData
-    print "doc after re.sub all things:"
-    print inputData
+            if (printForDeBug == 1):
+                print temp
+                print inputData
+    if (printForDeBug):
+        print "doc after re.sub all things:"
+        print inputData
     return result
 
-def calculateReabilityByWordnet(INPUT, BLW_NOUNS, NOUNS):
+def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS):
     import time;
     startTime = time.time();
 
@@ -63,4 +61,21 @@ def calculateReabilityByWordnet(INPUT, BLW_NOUNS, NOUNS):
     print nounsInput
     print "time cost: ", time.time() - startTime
 
-calculateReabilityByWordnet('data/medium.txt','all-BLW.txt','all-SORTED-wordnet-nouns.txt')
+def listAllFile(fullPath, listSubDir = 0):
+    from os import listdir
+    from os.path import isfile, join, isdir
+
+    onlyfiles = []
+    for f in listdir(fullPath):
+        tf = join(fullPath, f)
+        if isfile(tf):
+            onlyfiles.append(tf)
+        elif (listSubDir):
+            temp = listAllFile(tf, listSubDir)
+            onlyfiles = onlyfiles + temp
+    return onlyfiles
+
+for f in listAllFile('data', 1):
+    print f
+    calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
+    print ''

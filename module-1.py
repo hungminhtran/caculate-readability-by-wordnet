@@ -12,6 +12,9 @@ def standanizeNoun(noun):
     tnoun = noun.replace(' ', '_')
     tnoun = wn.morphy(tnoun, wn.NOUN)
     return tnoun
+def standandlizeNounsForRegex(noun):
+    tnoun = noun.replace('.', '\.')
+    return tnoun
 
 #compound ration of a word / hyponym
 #input: noun
