@@ -1,0 +1,32 @@
+data/easy.txt
+ratio:  21.4285714286 %
+blw:
+['can', 'cold', 'hold', 'orange', 'plain', 'potato', 's', 'soap', 'sour', 'test', 'vinegar', 'well']
+all nouns:
+['a', 'apple', 'at', 'bad', 'best', 'bitter', 'blindfold', 'can', 'chew', 'cold', 'eating', 'feel', 'food', 'four', 'have', 'hold', 'in', 'it', 'like', 'little', 'mouth', 'much', 'nose', 'or', 'orange', 'people', 'person', 'piece', 'pinch', 'plain', 'potato', 'put', 's', 'same', 'say', 'smell', 'soap', 'sour', 't', 'taste', 'tasting', 'tell', 'test', 'then', 'time', 'tongue', 'two', 'use', 'vinegar', 'well', 'while', 'will', 'won', 'work', 'working', 'works']
+time cost:  9.20087695122
+
+data/hard.txt
+ratio:  16.6666666667 %
+blw:
+['barometer', 'call', 'office', 'out', 'perfect', 'street', 'system', 'well']
+all nouns:
+['the street', 'a', 'aid', 'an', 'answer', 'barometer', 'be', 'building', 'call', 'case', 'colleague', 'credit', 'examination', 'full', 'give', 'given', 'grade', 'grading', 'hand', 'he', 'height', 'high', 'instructor', 'it', 'judge', 'length', 'lower', 'measure', 'office', 'out', 'perfect', 'physics', 'possible', 'question', 'read', 'referee', 'rope', 'score', 'set', 'student', 'system', 'tall', 'time', 'top', 'well', 'while', 'who', 'zero']
+time cost:  9.13069701195
+
+data/medium.txt
+ratio:  12.0689655172 %
+blw:
+['course', 'culture', 'mean', 'right', 's', 'technology', 'trade']
+all nouns:
+['a', 'are', 'as', 'at', 'be', 'beginning', 'blame', 'business', 'change', 'common', 'course', 'culture', 'days', 'difference', 'difficulty', 'dominant', 'end', 'essential', 'failure', 'getting', 'growing', 'have', 'haven', 'heart', 'in', 'international', 'isn', 'it', 'job', 'knowing', 'language', 'learning', 'major', 'may', 'mean', 'more', 'much', 'now', 'or', 'people', 'place', 're', 'remains', 'replacing', 'respect', 'right', 's', 'so', 'spread', 'success', 't', 'technology', 'trade', 'two', 'using', 'work', 'world', 'young']
+time cost:  9.51883602142
+
+data/sub/sub-medium.txt
+ratio:  12.0689655172 %
+blw:
+['course', 'culture', 'mean', 'right', 's', 'technology', 'trade']
+all nouns:
+['a', 'are', 'as', 'at', 'be', 'beginning', 'blame', 'business', 'change', 'common', 'course', 'culture', 'days', 'difference', 'difficulty', 'dominant', 'end', 'essential', 'failure', 'getting', 'growing', 'have', 'haven', 'heart', 'in', 'international', 'isn', 'it', 'job', 'knowing', 'language', 'learning', 'major', 'may', 'mean', 'more', 'much', 'now', 'or', 'people', 'place', 're', 'remains', 'replacing', 'respect', 'right', 's', 'so', 'spread', 'success', 't', 'technology', 'trade', 'two', 'using', 'work', 'world', 'young']
+time cost:  9.47941708565
+

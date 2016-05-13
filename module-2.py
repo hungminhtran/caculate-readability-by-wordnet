@@ -4,6 +4,8 @@ from nltk.corpus import wordnet as wn
 import nltk
 import re
 
+#need filter for 've, 't, ? ~ -, _
+
 #result to compare: Are their true?
 #
 #easy text:   ratio:  39.1304347826 % ['can', 'cold', 'hold', 'orange', 'plain', 'potato', 's', 'vinegar', 'well']
@@ -27,6 +29,14 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
         print "doc after re.sub all things:"
         print inputData
     return result
+
+def findItemFromArrayUserBS(inputData, searchData, printForDeBug=0):
+    inputData.split(" ")
+    for j in range(11):
+        for i in range(len(inputData) - j):
+            print inputData[i:i+j]
+
+findItemFromArrayUserBS("what the hell are you doing What do you want from me", ["what", "the", "fuck"])
 
 def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS):
     import time;
@@ -75,7 +85,7 @@ def listAllFile(fullPath, listSubDir = 0):
             onlyfiles = onlyfiles + temp
     return onlyfiles
 
-for f in listAllFile('data', 1):
-    print f
-    calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
-    print ''
+# for f in listAllFile('data', 1):
+#     print f
+#     calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
+#     print ''

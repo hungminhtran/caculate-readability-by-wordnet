@@ -141,4 +141,4 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile):
     outputAllbacsicLvlWord.close()
     outputABLW.close()
 
-getStatisticsWithAllNouns('all-SORTED-wordnet-nouns.txt', ["all-nouns-STATISTIC.txt", "all-BLW-statistic.txt", "all-BLW.txt"])
+# getStatisticsWithAllNouns('all-SORTED-wordnet-nouns.txt', ["all-nouns-STATISTIC.txt", "all-BLW-statistic.txt", "all-BLW.txt"])    
