@@ -6,48 +6,37 @@ import re
 
 #need filter for 've, 't, ? ~ -, _
 
-#result to compare: Are their true?
-#
-#easy text:   ratio:  39.1304347826 % ['can', 'cold', 'hold', 'orange', 'plain', 'potato', 's', 'vinegar', 'well']
-#medium text: ratio:  28.0          % ['course', 'culture', 'mean', 'right', 's', 'technology', 'trade']
-#hard text:   ratio:  24.2424242424 % ['barometer', 'call', 'office', 'out', 'perfect', 'street', 'system', 'well']
-
-def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
+def findAllItemFromArray(inputData, searchData):
     result = []
-    # complile first to make runtime faster when using too many time
-    # prog = re.compile(pattern)
-    # result = prog.match(string)
+    inputData = " " + inputData
+    inputData = mod1.standandlizeNounsForInputRegex(inputData)
+    print inputData
     for noun in searchData:
-        temp = r"\b" + mod1.standandlizeNounsForRegex(noun) + r"\b"
-        inputData, isFinOut = re.subn(temp, ' ', inputData) #avoid concat string can be created new noun
-        if (isFinOut > 0):
-            result.append(noun)
-            if (printForDeBug == 1):
-                print temp
-                print inputData
-    if (printForDeBug):
-        print "doc after re.sub all things:"
-        print inputData
+        if (noun not in "".join(result)): #remove some conflit data
+            temp = " " + mod1.standanlizeNounsForSearchRegex(noun) + "[ 's]"
+            if (re.search(temp, inputData)):
+                result.append(noun)
     return result
-#return position data in array
-def binarySearchForArray(data, array, compareFunc):
-    if (len(array) == 0)
-        return -1;
-    mid = len(array)/2
-    if (compareFunc(data, array[n]) == 0):
-        return mid
-    if (compareFunc(data, array[n]) == 1):
-        binarySearchForArray(data, array[n+1:len(array)], compareFunc)
-    elif:
-        binarySearchForArray(data, array[0:n-1], compareFunc)
 
-def findItemFromArrayUserBS(inputData, searchData, printForDeBug=0, compareFunc=None):
-    result = []
-    temp = inputData.split(" ")
-    for j in range(11):
-        for i in range(len(temp) - j):
-            if (binarySearchForArray(temp[i:i+j], searchData, compareFunc) > -1):
-                result.append(temp[i:i+j])
+# #return position data in array
+# def binarySearchForArray(data, array, compareFunc):
+#     if (len(array) == 0):
+#         return -1;
+#     mid = len(array)/2
+#     if (compareFunc(data, array[n]) == 0):
+#         return mid
+#     if (compareFunc(data, array[n]) == 1):
+#         binarySearchForArray(data, array[n+1:len(array)], compareFunc)
+#     else:
+#         binarySearchForArray(data, array[0:n-1], compareFunc)
+
+# def findItemFromArrayUserBS(inputData, searchData, printForDeBug=0, compareFunc=None):
+#     result = []
+#     temp = inputData.split(" ")
+#     for j in range(11):
+#         for i in range(len(temp) - j):
+#             if (binarySearchForArray(temp[i:i+j], searchData, compareFunc) > -1):
+#                 result.append(temp[i:i+j])
 
 # findItemFromArrayUserBS("what the hell are you doing What do you want from me", ["what", "the", "fuck"])
 
@@ -97,8 +86,8 @@ def listAllFile(fullPath, listSubDir = 0):
             temp = listAllFile(tf, listSubDir)
             onlyfiles = onlyfiles + temp
     return onlyfiles
-
-for f in listAllFile('data', 1):
-    print f
-    calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
-    print ''
+calculateReabilityByWordnetForEnglish('./data/_testData.txt','all-BLW.txt','all-SORTED-wordnet-nouns.txt')
+# for f in listAllFile('data', 1):
+#     print f
+#     calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
+#     print ''

@@ -12,10 +12,20 @@ def standanizeNoun(noun):
     tnoun = noun.replace(' ', '_')
     tnoun = wn.morphy(tnoun, wn.NOUN)
     return tnoun
-def standandlizeNounsForRegex(noun):
-    tnoun = noun.replace('.', '\.')
+#clean 's, 've, 're
+#make . mean \.
+#remove all ['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']
+def standandlizeNounsForInputRegex(noun):
+    #puctuation = ['\!', '"', '\#', '\$', '\%', '\&', '\(', '\)', '\*', '\+', ',', '-', '\.', '/', ':', ';', '<', '=', '>', '\?', '\@', '\[', '\\', '\]', '\^', '_', '`', '\{', '\|', '\}', '\~']
+    puctuation = ['!', '"', '\#', '\$', '\%', '\&', '\(', '\)', '\*', '\+', ',', '\.', ':', ';', '<', '=', '>', '\?', '\@', '\[', r'\\', '\]', '\^', '_', '`', '\{', '\|', '\}', '\~']
+    tnoun = re.sub(r"|".join(puctuation), r" __ ", noun)
+    tnoun = tnoun.lower()
     return tnoun
 
+def standanlizeNounsForSearchRegex(noun):
+    tnoun = re.sub('\.', '\.', noun)
+    tnoun = tnoun.lower()
+    return tnoun
 #compound ration of a word / hyponym
 #input: noun
 #output: (cpd, hyponym, total_hyponym_len)
