@@ -8,12 +8,11 @@ import re
 
 def findAllItemFromArray(inputData, searchData):
     result = []
-    inputData = " " + inputData
     inputData = mod1.standandlizeNounsForInputRegex(inputData)
     print inputData
     for noun in searchData:
         if (noun not in "".join(result)): #remove some conflit data
-            temp = " " + mod1.standanlizeNounsForSearchRegex(noun) + "[ 's]"
+            temp = mod1.standanlizeNounsForSearchRegex(noun) + "[\ 's]" + "|" + "\ " + mod1.standanlizeNounsForSearchRegex(noun)
             if (re.search(temp, inputData)):
                 result.append(noun)
     return result
