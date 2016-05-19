@@ -73,8 +73,8 @@ def listAllFile(fullPath, listSubDir = 0):
             onlyfiles = onlyfiles + temp
     return onlyfiles
 
-calculateReabilityByWordnetForEnglish('data/_testData.txt','all-BLW.txt','all-SORTED-wordnet-nouns.txt', 1)
-# for f in listAllFile('data', 1):
-#     print f
-#     calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
-#     print ''
+# calculateReabilityByWordnetForEnglish('data/_testData.txt','all-BLW.txt','all-SORTED-wordnet-nouns.txt', 1)
+for f in listAllFile('data', 1):
+    print f
+    calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
+    print ''
