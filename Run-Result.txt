@@ -1,32 +1,907 @@
-data/easy.txt
-ratio:  21.4285714286 %
-blw:
-['can', 'cold', 'hold', 'orange', 'plain', 'potato', 's', 'soap', 'sour', 'test', 'vinegar', 'well']
-all nouns:
-['a', 'apple', 'at', 'bad', 'best', 'bitter', 'blindfold', 'can', 'chew', 'cold', 'eating', 'feel', 'food', 'four', 'have', 'hold', 'in', 'it', 'like', 'little', 'mouth', 'much', 'nose', 'or', 'orange', 'people', 'person', 'piece', 'pinch', 'plain', 'potato', 'put', 's', 'same', 'say', 'smell', 'soap', 'sour', 't', 'taste', 'tasting', 'tell', 'test', 'then', 'time', 'tongue', 'two', 'use', 'vinegar', 'well', 'while', 'will', 'won', 'work', 'working', 'works']
-time cost:  9.20087695122
+what's up? how can you do that? buildings. they're still suck. apples! are the stupid. some papers still worth. paper card, tree
+['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']
+'hood 's gravenhage .22 0 1 1-dodecanol 1-hitter 16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3-hitter
+a-scan ultrasonography
+a-team a. a. milne a. conan doyle a. testudineus  a.e. a/c are
+academician' academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
 
-data/hard.txt
-ratio:  16.6666666667 %
-blw:
-['barometer', 'call', 'office', 'out', 'perfect', 'street', 'system', 'well']
-all nouns:
-['the street', 'a', 'aid', 'an', 'answer', 'barometer', 'be', 'building', 'call', 'case', 'colleague', 'credit', 'examination', 'full', 'give', 'given', 'grade', 'grading', 'hand', 'he', 'height', 'high', 'instructor', 'it', 'judge', 'length', 'lower', 'measure', 'office', 'out', 'perfect', 'physics', 'possible', 'question', 'read', 'referee', 'rope', 'score', 'set', 'student', 'system', 'tall', 'time', 'top', 'well', 'while', 'who', 'zero']
-time cost:  9.13069701195
+\bcan\b
+what __s up? how   you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter 16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3-hitter
+a-scan ultrasonography
+a-team a. a. milne a. conan doyle a. testudineus  a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
 
-data/medium.txt
-ratio:  12.0689655172 %
-blw:
-['course', 'culture', 'mean', 'right', 's', 'technology', 'trade']
-all nouns:
-['a', 'are', 'as', 'at', 'be', 'beginning', 'blame', 'business', 'change', 'common', 'course', 'culture', 'days', 'difference', 'difficulty', 'dominant', 'end', 'essential', 'failure', 'getting', 'growing', 'have', 'haven', 'heart', 'in', 'international', 'isn', 'it', 'job', 'knowing', 'language', 'learning', 'major', 'may', 'mean', 'more', 'much', 'now', 'or', 'people', 'place', 're', 'remains', 'replacing', 'respect', 'right', 's', 'so', 'spread', 'success', 't', 'technology', 'trade', 'two', 'using', 'work', 'world', 'young']
-time cost:  9.51883602142
+\bcard\b
+what __s up? how   you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper  , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter 16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3-hitter
+a-scan ultrasonography
+a-team a. a. milne a. conan doyle a. testudineus  a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
 
-data/sub/sub-medium.txt
-ratio:  12.0689655172 %
-blw:
-['course', 'culture', 'mean', 'right', 's', 'technology', 'trade']
-all nouns:
-['a', 'are', 'as', 'at', 'be', 'beginning', 'blame', 'business', 'change', 'common', 'course', 'culture', 'days', 'difference', 'difficulty', 'dominant', 'end', 'essential', 'failure', 'getting', 'growing', 'have', 'haven', 'heart', 'in', 'international', 'isn', 'it', 'job', 'knowing', 'language', 'learning', 'major', 'may', 'mean', 'more', 'much', 'now', 'or', 'people', 'place', 're', 'remains', 'replacing', 'respect', 'right', 's', 'so', 'spread', 'success', 't', 'technology', 'trade', 'two', 'using', 'work', 'world', 'young']
-time cost:  9.47941708565
+\be\b
+what __s up? how   you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper  , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter 16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3-hitter
+a-scan ultrasonography
+a-team a. a. milne a. conan doyle a. testudineus  a. . a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
 
+\bhitter\b
+what __s up? how   you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper  , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-  16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3- 
+a-scan ultrasonography
+a-team a. a. milne a. conan doyle a. testudineus  a. . a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\bpapers\b
+what __s up? how   you do that? buildings. they __re still suck. apples! are the stupid. some   still worth. paper  , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-  16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3- 
+a-scan ultrasonography
+a-team a. a. milne a. conan doyle a. testudineus  a. . a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\bpaper\b
+what __s up? how   you do that? buildings. they __re still suck. apples! are the stupid. some   still worth.    , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-  16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3- 
+a-scan ultrasonography
+a-team a. a. milne a. conan doyle a. testudineus  a. . a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\bteam\b
+what __s up? how   you do that? buildings. they __re still suck. apples! are the stupid. some   still worth.    , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-  16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3- 
+a-scan ultrasonography
+a-  a. a. milne a. conan doyle a. testudineus  a. . a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\bultrasonography\b
+what __s up? how   you do that? buildings. they __re still suck. apples! are the stupid. some   still worth.    , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-  16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3- 
+a-scan  
+a-  a. a. milne a. conan doyle a. testudineus  a. . a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\bworth\b
+what __s up? how   you do that? buildings. they __re still suck. apples! are the stupid. some   still  .    , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-  16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3- 
+a-scan  
+a-  a. a. milne a. conan doyle a. testudineus  a. . a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+doc after re.sub all things:
+what __s up? how   you do that? buildings. they __re still suck. apples! are the stupid. some   still  .    , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-  16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3- 
+a-scan  
+a-  a. a. milne a. conan doyle a. testudineus  a. . a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+set(['e', 'hitter', 'paper', 'can', 'team', 'worth', 'card', 'ultrasonography'])
+\ba\. a\. milne\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter 16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3-hitter
+a-scan ultrasonography
+a-team   a. conan doyle a. testudineus  a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\ba\. conan doyle\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter 16 pf 1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3-hitter
+a-scan ultrasonography
+a-team     a. testudineus  a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\b16 pf\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter   1750s 17 november 18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3-hitter
+a-scan ultrasonography
+a-team     a. testudineus  a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\b17 november\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter   1750s   18 18-karat gold 20/20
+24/7 2 chronicles 2 esdras 3-d 3-hitter
+a-scan ultrasonography
+a-team     a. testudineus  a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\b18-karat gold\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter   1750s   18   20/20
+24/7 2 chronicles 2 esdras 3-d 3-hitter
+a-scan ultrasonography
+a-team     a. testudineus  a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\b2 chronicles\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter   1750s   18   20/20
+24/7   2 esdras 3-d 3-hitter
+a-scan ultrasonography
+a-team     a. testudineus  a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\b2 esdras\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter   1750s   18   20/20
+24/7     3-d 3-hitter
+a-scan ultrasonography
+a-team     a. testudineus  a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\ba-scan ultrasonography\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter   1750s   18   20/20
+24/7     3-d 3-hitter
+ 
+a-team     a. testudineus  a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\ba\. testudineus\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter   1750s   18   20/20
+24/7     3-d 3-hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+zygophyllum fabagos
+
+\bzygophyllum fabagos\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22 0 1 1-dodecanol 1-hitter   1750s   18   20/20
+24/7     3-d 3-hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\b0\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22   1 1-dodecanol 1-hitter   1750s   18   20/20
+24/7     3-d 3-hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\b1\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22      -dodecanol  -hitter   1750s   18   20/20
+24/7     3-d 3-hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\b1750s\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22      -dodecanol  -hitter       18   20/20
+24/7     3-d 3-hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\b18\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22      -dodecanol  -hitter           20/20
+24/7     3-d 3-hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\b20\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .22      -dodecanol  -hitter            / 
+24/7     3-d 3-hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\b22\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+24/7     3-d 3-hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\b24\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /7     3-d 3-hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\b3\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /7      -d  -hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\b7\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+a-team        a.e. a/c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\ba\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /c are
+academician __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bacademician\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /c are
+  __ academicianships academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bacademicianships\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /c are
+  __   academicism. academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bacademicism\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /c are
+  __    . academism; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bacademism\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /c are
+  __    .  ; academy,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bacademy\b
+what __s up? how can you do that? buildings. they __re still suck. apples! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /c are
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bapples\b
+what __s up? how can you do that? buildings. they __re still suck.  ! are the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /c are
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bare\b
+what __s up? how can you do that? buildings. they __re still suck.  !   the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /c  
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bbuildings\b
+what __s up? how can you do that?  . they __re still suck.  !   the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /c  
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bc\b
+what __s up? how can you do that?  . they __re still suck.  !   the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bcan\b
+what __s up? how   you do that?  . they __re still suck.  !   the stupid. some papers still worth. paper card, tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bcard\b
+what __s up? how   you do that?  . they __re still suck.  !   the stupid. some papers still worth. paper  , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -d  -hitter
+ 
+ -team         .e.  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bd\b
+what __s up? how   you do that?  . they __re still suck.  !   the stupid. some papers still worth. paper  , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -   -hitter
+ 
+ -team         .e.  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bdo\b
+what __s up? how   you   that?  . they __re still suck.  !   the stupid. some papers still worth. paper  , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -   -hitter
+ 
+ -team         .e.  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\be\b
+what __s up? how   you   that?  . they __re still suck.  !   the stupid. some papers still worth. paper  , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -hitter            / 
+ /       -   -hitter
+ 
+ -team         . .  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bhitter\b
+what __s up? how   you   that?  . they __re still suck.  !   the stupid. some papers still worth. paper  , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -team         . .  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bpapers\b
+what __s up? how   you   that?  . they __re still suck.  !   the stupid. some   still worth. paper  , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -team         . .  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bpaper\b
+what __s up? how   you   that?  . they __re still suck.  !   the stupid. some   still worth.    , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -team         . .  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bstill\b
+what __s up? how   you   that?  . they __re   suck.  !   the stupid. some     worth.    , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -team         . .  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bstupid\b
+what __s up? how   you   that?  . they __re   suck.  !   the  . some     worth.    , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -team         . .  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bsuck\b
+what __s up? how   you   that?  . they __re    .  !   the  . some     worth.    , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -team         . .  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bteam\b
+what __s up? how   you   that?  . they __re    .  !   the  . some     worth.    , tree
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -          . .  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\btree\b
+what __s up? how   you   that?  . they __re    .  !   the  . some     worth.    ,  
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -          . .  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bworth\b
+what __s up? how   you   that?  . they __re    .  !   the  . some      .    ,  
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -          . .  /   
+  __    .  ;  ,
+zygomycetes"
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bzygomycetes\b
+what __s up? how   you   that?  . they __re    .  !   the  . some      .    ,  
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -          . .  /   
+  __    .  ;  ,
+ "
+zygomycota:
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bzygomycota\b
+what __s up? how   you   that?  . they __re    .  !   the  . some      .    ,  
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -          . .  /   
+  __    .  ;  ,
+ "
+ :
+(zygomycotina
+[zygophyllaceae
+zygophyllum
+ 
+
+\bzygomycotina\b
+what __s up? how   you   that?  . they __re    .  !   the  . some      .    ,  
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -          . .  /   
+  __    .  ;  ,
+ "
+ :
+( 
+[zygophyllaceae
+zygophyllum
+ 
+
+\bzygophyllaceae\b
+what __s up? how   you   that?  . they __re    .  !   the  . some      .    ,  
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -          . .  /   
+  __    .  ;  ,
+ "
+ :
+( 
+[ 
+zygophyllum
+ 
+
+\bzygophyllum\b
+what __s up? how   you   that?  . they __re    .  !   the  . some      .    ,  
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -          . .  /   
+  __    .  ;  ,
+ "
+ :
+( 
+[ 
+ 
+ 
+
+doc after re.sub all things:
+what __s up? how   you   that?  . they __re    .  !   the  . some      .    ,  
+[ __! __,  __" __,  __# __,  __$ __,  __% __,  __& __, " __",  __( __,  __) __,  __* __,  __+ __,  __, __,  __- __,  __. __,  __/ __,  __: __,  __; __,  __< __,  __= __,  __> __,  __? __,  __@ __,  __[ __,  __\\ __,  __] __,  __^ __,  ___ __,  __` __,  __{ __,  __| __,  __} __,  __~ __]
+ __hood  __s gravenhage .       -dodecanol  -             / 
+ /       -   - 
+ 
+ -          . .  /   
+  __    .  ;  ,
+ "
+ :
+( 
+[ 
+ 
+ 
+
+set(['apple', '1750s', 'zygomycota', 'paper', 'are', 'still', 'zygomycetes', 'academism', '24', '2 chronicles', '20', '22', '2 esdras', 'zygophyllaceae', 'zygophyllum', '1', '0', '3', '16 pf', '7', 'a. testudineus', 'academicism', 'worth', 'building', 'a. a. milne', '17 november', 'do', 'a-scan ultrasonography', 'academy', '18-karat gold', 'academician', 'suck', 'zygophyllum fabago', 'card', 'a', 'c', 'e', 'd', 'hitter', '18', 'tree', 'stupid', 'can', 'academicianship', 'team', 'zygomycotina', 'a. conan doyle'])
+ratio:  17.0212765957 %
+blw:
+set(['e', 'hitter', 'paper', 'can', 'team', 'worth', 'card', 'ultrasonography'])
+all nouns:
+set(['apple', '1750s', 'zygomycota', 'paper', 'are', 'still', 'zygomycetes', 'academism', '24', '2 chronicles', '20', '22', '2 esdras', 'zygophyllaceae', 'zygophyllum', '1', '0', '3', '16 pf', '7', 'a. testudineus', 'academicism', 'worth', 'building', 'a. a. milne', '17 november', 'do', 'a-scan ultrasonography', 'academy', '18-karat gold', 'academician', 'suck', 'zygophyllum fabago', 'card', 'a', 'c', 'e', 'd', 'hitter', '18', 'tree', 'stupid', 'can', 'academicianship', 'team', 'zygomycotina', 'a. conan doyle'])
+time cost:  17.2608067989

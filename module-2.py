@@ -4,57 +4,35 @@ from nltk.corpus import wordnet as wn
 import nltk
 import re
 
-#need filter for 've, 't, ? ~ -, _
-
-#result to compare: Are their true?
-#
-#easy text:   ratio:  39.1304347826 % ['can', 'cold', 'hold', 'orange', 'plain', 'potato', 's', 'vinegar', 'well']
-#medium text: ratio:  28.0          % ['course', 'culture', 'mean', 'right', 's', 'technology', 'trade']
-#hard text:   ratio:  24.2424242424 % ['barometer', 'call', 'office', 'out', 'perfect', 'street', 'system', 'well']
-
 def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
     result = []
-    for noun in searchData:
-        temp = r"\b" + mod1.standandlizeNounsForRegex(noun) + r"\b"
-        inputData, isFinOut = re.subn(temp, ' ', inputData) #avoid concat string can be created new noun
-        if (isFinOut > 0):
-            result.append(noun)
-            if (printForDeBug == 1):
-                print temp
-                print inputData
+    inputData = mod1.standandlizeNounsForInputRegex(inputData)
+    for i  in range(len(searchData)):
+        #for plural nouns
+        tempT = [r"\b" + mod1.standanlizeNounsForSearchRegex(searchData[i]) + 's' + r"\b", r"\b" + mod1.standanlizeNounsForSearchRegex(searchData[i]) + r"\b"]
+        for j in range(len(tempT)):
+            inputData, isFinOut = re.subn(tempT[j], ' ', inputData) #avoid concat string can be created new noun
+            if (isFinOut > 0):
+                result.append(searchData[i])
+                if (printForDeBug == 1):
+                    print tempT[j]
+                    print inputData
+    result = set(result)
     if (printForDeBug):
         print "doc after re.sub all things:"
         print inputData
+        print result
     return result
-#return position data in array
-def binarySearchForArray(data, array, compareFunc):
-    if (len(array) == 0)
-        return -1;
-    mid = len(array)/2
-    if (compareFunc(data, array[n]) == 0):
-        return mid
-    if (compareFunc(data, array[n]) == 1):
-        binarySearchForArray(data, array[n+1:len(array)], compareFunc)
-    elif:
-        binarySearchForArray(data, array[0:n-1], compareFunc)
 
-def findItemFromArrayUserBS(inputData, searchData, printForDeBug=0, compareFunc=None):
-    result = []
-    temp = inputData.split(" ")
-    for j in range(11):
-        for i in range(len(temp) - j):
-            if (binarySearchForArray(temp[i:i+j], searchData, compareFunc) > -1):
-                result.append(temp[i:i+j])
-
-# findItemFromArrayUserBS("what the hell are you doing What do you want from me", ["what", "the", "fuck"])
-
-def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS):
+def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS, printForDeBug=0):
     import time;
     startTime = time.time();
 
     # get input
     inputFile = open(INPUT, 'r')
     inputData = inputFile.read()
+    inputData = inputData.lower()
+    print inputData
     inputFile.close()
 
     #get all BLW
@@ -68,9 +46,9 @@ def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS):
     inputFile.close()
 
     tmp = inputData
-    nounsBLWInput = findAllItemFromArray(tmp, BLWnounsArray.splitlines())
+    nounsBLWInput = findAllItemFromArray(tmp, BLWnounsArray.splitlines(), printForDeBug)
     # tmp = inputData
-    nounsInput = findAllItemFromArray(tmp, NounsArray.splitlines())
+    nounsInput = findAllItemFromArray(tmp, NounsArray.splitlines(), printForDeBug)
     if (len(nounsInput) == 0):
         print "no BLW"
     else:
@@ -95,7 +73,8 @@ def listAllFile(fullPath, listSubDir = 0):
             onlyfiles = onlyfiles + temp
     return onlyfiles
 
-for f in listAllFile('data', 1):
-    print f
-    calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
-    print ''
+calculateReabilityByWordnetForEnglish('data/_testData.txt','all-BLW.txt','all-SORTED-wordnet-nouns.txt', 1)
+# for f in listAllFile('data', 1):
+#     print f
+#     calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
+#     print ''
