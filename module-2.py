@@ -14,9 +14,6 @@ import re
 
 def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
     result = []
-    # complile first to make runtime faster when using too many time
-    # prog = re.compile(pattern)
-    # result = prog.match(string)
     for noun in searchData:
         temp = r"\b" + mod1.standandlizeNounsForRegex(noun) + r"\b"
         inputData, isFinOut = re.subn(temp, ' ', inputData) #avoid concat string can be created new noun
