@@ -1,0 +1,107 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.097</idno>
+				<idno type="Number of sentences">79</idno>
+				<idno type="Number of tokens">964</idno>
+				<idno type="Number of token types">430</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t15">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">People all over the world know Mother Teresa as the Mother Teresa of Kolkata.</sent>
+				<sent id ="2">She left her own wealthy country and wealthy family as a young woman and came to India.</sent>
+				<sent id ="3">There she became a nun and started living in a convent.</sent>
+				<sent id ="4">She founded a religious organization named Missionaries of Charity for the poor.</sent>
+				<sent id ="5">The Sisters of that organization are engaged in charitable works throughout the world.</sent>
+				<sent id ="6">She was given The Templeton Award and The Nobel Prize for Peace.</sent>
+				<sent id ="7">The Indian government awarded her the highest honor, Bharat Ratna.</sent>
+				<sent id ="8">Now she is Blessed Mother Teresa.</sent>
+				<sent id ="9">Before Teresa entered the religious life, her name was Agnesa Gonxha Bonjaxhiu.</sent>
+				<sent id ="10">Her father's name was Nikola Bonjaxhiu and Mother's name was Dranafile Bonjaxhiu.</sent>
+				<sent id ="11">Her father used to work as a contractor making houses and her mother was a housewife.</sent>
+				<sent id ="12">Teresa was the youngest among the three brothers and sisters.</sent>
+				<sent id ="13">Teresa's family members were the citizens of Albania.</sent>
+				<sent id ="14">But at the time of her birth the family was working at a place named Scopje in Kosovo.</sent>
+				<sent id ="15">Teresa was born there.</sent>
+				<sent id ="16">Most of the people of Albania are Muslims.</sent>
+				<sent id ="17">But the family of Teresa was (Catholic) Christian.</sent>
+				<sent id ="18">Teresa's father died in 1917 when she was only seven years old.</sent>
+				<sent id ="19">With three children her mother had to pass the days in great hardship.</sent>
+				<sent id ="20">She worked hard to bring up her children by tailoring.</sent>
+				<sent id ="21">Teresa's mother was a very pious lady.</sent>
+				<sent id ="22">So she always prayed to God.</sent>
+				<sent id ="23">Teresa used to go to Church with her mother and spend time in praying hours together.</sent>
+				<sent id ="24">Call to a religious life Teresa's continuous prayer to God made her relationship with Him intimate.</sent>
+				<sent id ="25">There was a youth organization in the parish where she lived.</sent>
+				<sent id ="26">She joined that organization as a member and took part with them in different charitable activities.</sent>
+				<sent id ="27">One day, all on a sudden Teresa heard the call of God in her heart.</sent>
+				<sent id ="28">God said to her: Leave the family, leave your kinsmen, be a missionary in the service of the poor.</sent>
+				<sent id ="29">At the age of twelve she heard this call of God.</sent>
+				<sent id ="30">At the age of eighteen she left Scopje and decided to join the Order of the Loreto Sisters in Ireland.</sent>
+				<sent id ="31">After that she joined the Novitiate of the Loreto Sisters.</sent>
+				<sent id ="32">This house of formation was situated at Darjeeling in India.</sent>
+				<sent id ="33">For the first time in 1931, she took the vows of poverty, obedience and chastity.</sent>
+				<sent id ="34">At this time she gave up her former name Agnes and took the new name Sister Mary Teresa.</sent>
+				<sent id ="35">In may 1938 Sister Teresa made the Perpetual Profession of Vows.</sent>
+				<sent id ="36">Sister Teresa taught geography and Christianity at St. Mary's School of the Loreto Community.</sent>
+				<sent id ="37">She always thought of dedicating herself to their service.</sent>
+				<sent id ="38">In 1946 she got another call from God. God said to her: Serve me in the poorest of the poor.</sent>
+				<sent id ="39">This call knocked again and again on the door of her heart.</sent>
+				<sent id ="40">Sister Teresa decided to found a Religious Order.</sent>
+				<sent id ="41">She obtained the necessary permission from the Pope.</sent>
+				<sent id ="42">In October 1950 she got the permission of the Pope to found a new community.</sent>
+				<sent id ="43">The Pope named the Congregation of Sister Teresa as the Diocesan Order of the Calcutta Diocese.</sent>
+				<sent id ="44">But afterwards this name was changed to the Order of the Missionaries of Charity.</sent>
+				<sent id ="45">These people have nobody to love them and to care for them.</sent>
+				<sent id ="46">They consider themselves as a burden to the society.</sent>
+				<sent id ="47">People consider them as outcasts.</sent>
+				<sent id ="48">After a few days she opened a centre for the dying and named it Immaculate Heart.</sent>
+				<sent id ="49">Later on she opened another centre for the lepers named Shanti Nagar (City of Peace) which was simultaneously an orphanage.</sent>
+				<sent id ="50">She gradually began to open centers to shelter the homeless in different countries outside India.</sent>
+				<sent id ="51">Mother Teresa found most joy serving.</sent>
+				<sent id ="52">She nursed the lepers, tuberculosis patients, AIDS patients, orphans and the disabled persons.</sent>
+				<sent id ="53">She used to clean the sores on hands and legs of the lepers by washing the wounds with hot water.</sent>
+				<sent id ="54">She used to nurse and take care of everyone personally.</sent>
+				<sent id ="55">She used to give them money and dresses when necessity arose.</sent>
+				<sent id ="56">The patients used to embrace her and she also used to embrace them.</sent>
+				<sent id ="57">She had no feeling of repugnance.</sent>
+				<sent id ="58">In 1971 Pope Paul VI conferred Pope John XXIII Peace Award on Mother Teresa.</sent>
+				<sent id ="59">In the same year she was given The Kennedy Prize of the U.S.A.</sent>
+				<sent id ="60">In 1972 she was honored with The Nehru Award.</sent>
+				<sent id ="61">In 1975 she received The Albert Switzer International Award.</sent>
+				<sent id ="62">In 1980 she received the highest honor Bharat Ratna.</sent>
+				<sent id ="63">In 1996 she was honored with the citizenship of the U.S.A.</sent>
+				<sent id ="64">Before being honored with the Nobel Prize for Peace, Mother Teresa received immense love from people across the world.</sent>
+				<sent id ="65">But the Nobel Peace Prize was the greatest honor in her life.</sent>
+				<sent id ="66">She was given The Nobel Peace Prize for her work of bringing peace throughout the world.</sent>
+				<sent id ="67">At the Nobel Peace Prize Giving Ceremony, Mother Teresa said: I am accepting this award on behalf of the poor.</sent>
+				<sent id ="68">The millions of the poor people of the world are my brothers and sisters.</sent>
+				<sent id ="69">We all are members of the same family.</sent>
+				<sent id ="70">Mother Teresa died on 5 September 1997.</sent>
+				<sent id ="71">In these centers AIDS patients, lepers and phthisis patients are provided with food and shelter.</sent>
+				<sent id ="72">People with serious problems are given counseling here.</sent>
+				<sent id ="73">Helpless, destitute and abandoned children, boys and girls are given shelter.</sent>
+				<sent id ="74">Many schools are also run at these centers.</sent>
+				<sent id ="75">Laid to rest with full state honor Mother Teresa was not the Head of any State.</sent>
+				<sent id ="76">But she was more than that.</sent>
+				<sent id ="77">She had done what many Heads of States could not do.</sent>
+				<sent id ="78">So she was given a burial with full State Honor.</sent>
+				<sent id ="79">Mother Teresa in death bed On 19 October 2003, in a solemn ceremony she was proclaimed as Blessed Teresa.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

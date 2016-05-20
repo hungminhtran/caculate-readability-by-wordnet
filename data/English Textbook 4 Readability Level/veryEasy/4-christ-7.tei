@@ -1,0 +1,115 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.927</idno>
+				<idno type="Number of sentences">87</idno>
+				<idno type="Number of tokens">764</idno>
+				<idno type="Number of token types">333</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t62">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">God loves all human beings equally because He has created them.</sent>
+				<sent id ="2">He wants to correct them if they do wrong.</sent>
+				<sent id ="3">He does not want His creation to be spoiled.</sent>
+				<sent id ="4">But man did not realize it before.</sent>
+				<sent id ="5">He expressed His love through His words and deeds.</sent>
+				<sent id ="6">He visits the houses of both the rich and the poor.</sent>
+				<sent id ="7">Both saints and sinners are equally dear to Him.</sent>
+				<sent id ="8">He forgives and accepts even the sinners if they change their mind and become good.</sent>
+				<sent id ="9">We shall come to know from this chapter that Jesus loves the sinners too.</sent>
+				<sent id ="10">Once Meena's father gave her a beautiful pen.</sent>
+				<sent id ="11">She used to take the pen to school with her.</sent>
+				<sent id ="12">One day she lost it.</sent>
+				<sent id ="13">She searched around for hours, but could not find it.</sent>
+				<sent id ="14">With a heavy heart she started weeping.</sent>
+				<sent id ="15">The teacher said to her, Why are you crying?</sent>
+				<sent id ="16">She replied, I've lost my pen.</sent>
+				<sent id ="17">I looked for it but in vain.</sent>
+				<sent id ="18">The teacher asked all the students if they had found it.</sent>
+				<sent id ="19">But they replied in the negative.</sent>
+				<sent id ="20">So the teacher checked their bags.</sent>
+				<sent id ="21">He found the pen in Monti's bag.</sent>
+				<sent id ="22">But how could it be there in Monti's bag?</sent>
+				<sent id ="23">One could easily guess that Monti took it without Meena's knowledge.</sent>
+				<sent id ="24">To steal is a sin.</sent>
+				<sent id ="25">They will speak ill of you if you steal.</sent>
+				<sent id ="26">Jesus Christ is also hurt if he sees anyone to steal.</sent>
+				<sent id ="27">Monti repented her wrong doing.</sent>
+				<sent id ="28">She said, I'm sorry for what I've done.</sent>
+				<sent id ="29">I'm really ashamed of it.</sent>
+				<sent id ="30">I won't do it any more.</sent>
+				<sent id ="31">So saying Monti gave the pen back to Meena and asked her to forgive her.</sent>
+				<sent id ="32">At this Monti's teacher and all the classmates became very happy.</sent>
+				<sent id ="33">Meena too became happy.</sent>
+				<sent id ="34">This is how Jesus brings about changes in the mind of sinners.</sent>
+				<sent id ="35">Here is another story.</sent>
+				<sent id ="36">This will also tell you how Jesus corrects a sinner by changing the sinnerÊs mind.</sent>
+				<sent id ="37">Jesus loves all.</sent>
+				<sent id ="38">He loves the sinners too.</sent>
+				<sent id ="39">He wants the sinners to change their mind.</sent>
+				<sent id ="40">So he visits the houses of sinners.</sent>
+				<sent id ="41">Jesus becomes happy if a sinner changes his mind.</sent>
+				<sent id ="42">The following story will tell us more clearly about it.</sent>
+				<sent id ="43">Jesus says to Zacchaeus, Get down from the tree.</sent>
+				<sent id ="44">I'll go to your house today.</sent>
+				<sent id ="45">There was a tax collector named Zacchaeus.</sent>
+				<sent id ="46">He used to collect tax from people by force.</sent>
+				<sent id ="47">He did people much wrong.</sent>
+				<sent id ="48">Since, he was a very favourite employee of the country's ruler.</sent>
+				<sent id ="49">Nobody could say anything against him.</sent>
+				<sent id ="50">The amount of taxes he collected from the people was more than what was due.</sent>
+				<sent id ="51">The ruler of the country never told him anything for his dishonesty.</sent>
+				<sent id ="52">Thus Zacchaeus gathered much wealth and became rich.</sent>
+				<sent id ="53">He did it out of greed and had no peace of mind.</sent>
+				<sent id ="54">So he thought that he would confess his sins to Jesus.</sent>
+				<sent id ="55">But he did not find an opportunity to do so.</sent>
+				<sent id ="56">One day Jesus was going to the town of Jericho.</sent>
+				<sent id ="57">His disciples were also with him.</sent>
+				<sent id ="58">Many people started following him.</sent>
+				<sent id ="59">Zacchaeus was trying to see who Jesus was.</sent>
+				<sent id ="60">But he was short in size and could not see Jesus because of the crowd.</sent>
+				<sent id ="61">I will go to your house today.</sent>
+				<sent id ="62">Zacchaeus hurried down and welcomed him with great joy.</sent>
+				<sent id ="63">Jesus and his disciples went to Zacchaeus house.</sent>
+				<sent id ="64">Zacchaeus committed much sins and thought that Jesus would never go to his house.</sent>
+				<sent id ="65">But now he was very happy to see Jesus in his house.</sent>
+				<sent id ="66">A great change came over him.</sent>
+				<sent id ="67">He put his faith in Jesus.</sent>
+				<sent id ="68">He promised not to commit sins any more.</sent>
+				<sent id ="69">They spoke ill of Jesus.</sent>
+				<sent id ="70">Zacchaeus said Lord, please listen sir!</sent>
+				<sent id ="71">Jesus said to him, Salvation has come to this house today.</sent>
+				<sent id ="72">He further said, I've come to the world to seek and save the lost.</sent>
+				<sent id ="73">How nice the story is!</sent>
+				<sent id ="74">It tells us how kind Jesus is.</sent>
+				<sent id ="75">It also tells us that Jesus goes to the house of sinners as well.</sent>
+				<sent id ="76">Because he wants to change sinner's mind.</sent>
+				<sent id ="77">Jesus forgives them who change their mind.</sent>
+				<sent id ="78">Jesus will forgive us only when we promise not to commit sins any more.</sent>
+				<sent id ="79">The story of Zacchaeus teaches us that Jesus loves all human being.</sent>
+				<sent id ="80">He loves the sinners in particular.</sent>
+				<sent id ="81">He never hates them.</sent>
+				<sent id ="82">He wants to correct the sinners through his love.</sent>
+				<sent id ="83">He came to the world for the salvation of mankind.</sent>
+				<sent id ="84">We have also committed sins.</sent>
+				<sent id ="85">Jesus will forgive our sins and bless us.</sent>
+				<sent id ="86">Like Zacchaeus we must confess our sins to Jesus and correct ourselves.</sent>
+				<sent id ="87">Draw a picture showing Zacchaeus on the top of a tree and Jesus under it.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,113 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-25</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.178</idno>
+				<idno type="Number of sentences">85</idno>
+				<idno type="Number of tokens">1236</idno>
+				<idno type="Number of token types">533</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t141">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Is the population increasing?</sent>
+				<sent id ="2">In order to find the answer, one has to look at population statistics, which requires some searching.</sent>
+				<sent id ="3">These two figures show that in the 10 years between 1991 and 2001 the population of Bangladesh has increased by 1.78 crore.</sent>
+				<sent id ="4">According to the 2001 census report the annual population growth rate is 1.48 percent.2</sent>
+				<sent id ="5">Based on these, it can be predicted that in 2010 the population will be 15 crore.</sent>
+				<sent id ="6">Students have already learned in the earlier classes about the problems created by rapid increase in population.</sent>
+				<sent id ="7">Rapid increase in population brings in its wake several problems.</sent>
+				<sent id ="8">Individuals and government are under great pressure to provide the basic necessities of food, clothe, shelter, treatment, andeducation for the increasing population.</sent>
+				<sent id ="9">Again, providing employment for the huge workforce is also a major problem.</sent>
+				<sent id ="10">To fulfil these basic needs require economic solvency and resource.</sent>
+				<sent id ="11">There are some other issues that arise due to population increase.</sent>
+				<sent id ="12">There being not much employment for the rural people, many are migrating to cities, or urban areas.</sent>
+				<sent id ="13">This is leading to the cropping up of unplanned and unhygienic slums in the cities.</sent>
+				<sent id ="14">It is not possible to provide even the minimum of healthful living conditions.</sent>
+				<sent id ="15">The first and the most basic necessity for the people is food.</sent>
+				<sent id ="16">Now, the question is how to meet the food requirements for the increasing population?</sent>
+				<sent id ="17">The answer is, by increasing food production.</sent>
+				<sent id ="18">In that case, the food production has to go on increasing with the increasing population, but to what limits can this go on.</sent>
+				<sent id ="19">No cultivable land is left fallow in Bangladesh.</sent>
+				<sent id ="20">There is no possibility of getting more cultivable land.</sent>
+				<sent id ="21">The amount of forestland necessary for environmental equilibrium is also not enough.</sent>
+				<sent id ="22">So if more of the forest is cut down, environmental equilibrium will be severely affected.</sent>
+				<sent id ="23">The population of Bangladesh has increased from 5.52 to 12.9 crore in the last 40 years (1961 2001).</sent>
+				<sent id ="24">That is, it has more than doubled.</sent>
+				<sent id ="25">To provide for the double population, the amount of food produced had to be more than doubled too.</sent>
+				<sent id ="26">What needs to be done to increase food production?</sent>
+				<sent id ="27">It requires healthy seeds of high- yielding variety, fertiliser, insecticide, herbicide, and supply of plenty of water for the land.</sent>
+				<sent id ="28">The IRRI (International Rice Research Institute) and BRRI (Bangladesh Rice Research Institute) are two varieties of high-yielding rice.</sent>
+				<sent id ="29">In addition to fertiliser, plenty of water is needed to cultivate IRRI and BRRI.</sent>
+				<sent id ="30">What is needed for supply of water is a source and irrigation management.</sent>
+				<sent id ="31">Rain is a source of water.</sent>
+				<sent id ="32">Water bodies that hold the rainwater, for example, rivers, canals, lakes, ponds and low land can also be source of water.</sent>
+				<sent id ="33">Supply of water to the land from these sources is the traditional way.</sent>
+				<sent id ="34">About 37 percent of the cultivable land are watered from these surface water sources.</sent>
+				<sent id ="35">Surface water is contaminated by human activities.</sent>
+				<sent id ="36">On the other hand, IRRI and BRRI can be cultivated throughout the year.</sent>
+				<sent id ="37">Again, for a good harvest, plenty of water is needed.</sent>
+				<sent id ="38">This extra water has to be supplied by irrigation.</sent>
+				<sent id ="39">As the surface water is not sufficient for irrigation, scientists have come up with an alternative'underground water.</sent>
+				<sent id ="40">Nowadays, the underground water is widely used for irrigation throughout the year and for all sorts of crops.</sent>
+				<sent id ="41">This method has increased crop production and the food requirement is also being met.</sent>
+				<sent id ="42">But excess use of underground water is causing some harmful effects too, which is neither visible yet nor can be estimated.</sent>
+				<sent id ="43">The underground water is extracted by deep tubewells, and the water distributed through channels.</sent>
+				<sent id ="44">As more and more underground water is extracted by deep tubewells, the groundwater table falls and goes further away from the surface.</sent>
+				<sent id ="45">From the above discussion it is understood that increased population demands increased food production which requires increased irrigation by water extracted by deep tube-wells.</sent>
+				<sent id ="46">This leads to decreased water on the surface and subsoil, leading to imbalance in the environment.</sent>
+				<sent id ="47">To save the people from the impending situation, several measures to control or limit the population needs to be undertaken.</sent>
+				<sent id ="48">This will not create any new problem, rather will improve the quality of life.</sent>
+				<sent id ="49">Because of the rapidly increasing population, it is becoming necessary to arrange employment for the able workforce.</sent>
+				<sent id ="50">How can this be done?</sent>
+				<sent id ="51">Agriculture is the profession of most people.</sent>
+				<sent id ="52">About 60 percent of the workforce is involved with agriculture or related activities.</sent>
+				<sent id ="53">Agriculture can no more provide work to more people, so profession alternative to agriculture has to be thought out.</sent>
+				<sent id ="54">Other alternatives can be profession related to industrial work, business, and social services.</sent>
+				<sent id ="55">Besides, opportunities for selfemployment need to be created.</sent>
+				<sent id ="56">The Government of Bangladesh has paid increased attention to industries to create employment opportunities.</sent>
+				<sent id ="57">New industries are being set up in different places.</sent>
+				<sent id ="58">Among the industries are jute, spinning and textile, steel, paper, chemical and medicine, fertiliser, and so on.</sent>
+				<sent id ="59">For the above mentioned industries, mills and factories, lots of soft water is needed.</sent>
+				<sent id ="60">Some factories do not need very good quality water, such as tannery, which can use the surface water available anywhere.</sent>
+				<sent id ="61">Cement factories require lots of water.</sent>
+				<sent id ="62">For example, to prepare one ton of paper requires 90,920 litres of water.</sent>
+				<sent id ="63">Again, production of one ton of steel requires 45,500 litres of water.</sent>
+				<sent id ="64">The water for these industrial activities is extracted from underground.</sent>
+				<sent id ="65">The increased extraction of water is causing the underground water table to fall.</sent>
+				<sent id ="66">As a result, less pure drinking water is collected underground and less is available to the people.</sent>
+				<sent id ="67">These measures have both good and bad aspects.</sent>
+				<sent id ="68">The good aspect is that the country is gradually achieving self-sufficiency in food production.</sent>
+				<sent id ="69">The grazing land for cattle is also being brought under cultivation leading to shortage of cattle feed.</sent>
+				<sent id ="70">The weather is becoming dry, and all these together are causing desertification and environmental imbalance.</sent>
+				<sent id ="71">The sum of all the people'male, female, child, old, disabled'living in a country is the population of that country.</sent>
+				<sent id ="72">The sum of all the people living in all the countries of the world is the world population.</sent>
+				<sent id ="73">Over time, the world population is gradually increasing, currently it has exceeded 6 billion.</sent>
+				<sent id ="74">Population study as a discipline is known as demography.</sent>
+				<sent id ="75">Demographic information is important for planning, particularly by governments, in fields such as health, education, housing, social security, employment, and environmental preservation.</sent>
+				<sent id ="76">Usually natural growth rate is calculated from the crude birth rate and crude death rate.</sent>
+				<sent id ="77">The crude birth and death rates are calculated for a period of one year.</sent>
+				<sent id ="78">So the ratio of birth and death to the total population is multiplied by But the natural growth rate is calculated in per 100 population.</sent>
+				<sent id ="79">So, dividing the difference between crude birth rate and crude death rate by 10 will give the natural growth rate.</sent>
+				<sent id ="80">The natural growth rate can also be calculated directly from the number of births and deaths instead of from birth and death rates.</sent>
+				<sent id ="81">Children, widows, and aged couples usually do not influence the increase in population.</sent>
+				<sent id ="82">But in calculating the birth rate, they are also included in the calculation (denominator), so the calculated birth rate is qualified as crude.</sent>
+				<sent id ="83">On the other hand, the death rate among different ages is not the same.</sent>
+				<sent id ="84">Besides birth and death, migration also affects the population increase or decrease.</sent>
+				<sent id ="85">The natural growth rate is so termed because it does not consider the migration factor, only the births and deaths are taken into consideration.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

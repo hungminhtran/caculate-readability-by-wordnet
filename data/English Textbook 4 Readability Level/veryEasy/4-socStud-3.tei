@@ -1,0 +1,76 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.666</idno>
+				<idno type="Number of sentences">48</idno>
+				<idno type="Number of tokens">455</idno>
+				<idno type="Number of token types">212</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t97">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We live in a family.</sent>
+				<sent id ="2">Outside the family we have neighbours, friends and relatives.</sent>
+				<sent id ="3">In the school we have classmates, teachers and many others.</sent>
+				<sent id ="4">All of them form society. Man is a social being.</sent>
+				<sent id ="5">From time immemorial man lives together.</sent>
+				<sent id ="6">Each man lives in some society or other.</sent>
+				<sent id ="7">The basis of society is unity, cooperation and living together.</sent>
+				<sent id ="8">Each society has certain rules and regulations.</sent>
+				<sent id ="9">We will observe them.</sent>
+				<sent id ="10">Our family consists of father, mother, brothers and sisters.</sent>
+				<sent id ="11">We grow up with their love and affection.</sent>
+				<sent id ="12">We will respect our elders and love our youngers.</sent>
+				<sent id ="13">Young or old will live peacefully together.</sent>
+				<sent id ="14">We will help them and co-operate them in their various work.</sent>
+				<sent id ="15">We will remember the motto?</sent>
+				<sent id ="16">we will read in due time and play in due time.</sent>
+				<sent id ="17">We will never misbehave or show misconduct with any member of the family.</sent>
+				<sent id ="18">Those who live around us are our neighbours.</sent>
+				<sent id ="19">They are close to us.</sent>
+				<sent id ="20">They come forward to help us in weal and woe.</sent>
+				<sent id ="21">So the role of neighbours is very important in our society.</sent>
+				<sent id ="22">Of the neighbours some are seniors, some are juniors, some are of the same age.</sent>
+				<sent id ="23">We will never offend the neighbours and we will share their joys and sorrows.</sent>
+				<sent id ="24">We will also invite them to our functions.</sent>
+				<sent id ="25">If we prepare any good food, we will send them some of it.</sent>
+				<sent id ="26">We will develop the mentality to live together peacefully.</sent>
+				<sent id ="27">We study at school and learn many useful things about society.</sent>
+				<sent id ="28">We also learn about hospitality and help towards people who are poor and in trouble.</sent>
+				<sent id ="29">In our spare time we take part in various games and sports and cultural activities.</sent>
+				<sent id ="30">From school we go on picnics and educational excursions to places of historical interests.</sent>
+				<sent id ="31">Through participation in these activities we come to learn new things.</sent>
+				<sent id ="32">As a result co-operation, sympathy, discipline, duty, politeness etc.</sent>
+				<sent id ="33">These social qualities are developed in us.</sent>
+				<sent id ="34">We need these social qualities to carry out our responsibilities in society.</sent>
+				<sent id ="35">Let us take down the following table in our notebooks and complete it.</sent>
+				<sent id ="36">Our duty is to go to school in time and learn our lessons inventively.</sent>
+				<sent id ="37">We will behave well with our classmates.</sent>
+				<sent id ="38">At school our teachers teach us many things with love and affection.</sent>
+				<sent id ="39">They always think about our welfare.</sent>
+				<sent id ="40">We will never misbehave with them.</sent>
+				<sent id ="41">We will obey their advice.</sent>
+				<sent id ="42">We will respect and honour them.</sent>
+				<sent id ="43">We will behave well with them, help them and co-operate them in their troubles.</sent>
+				<sent id ="44">Various classes of people live in society.</sent>
+				<sent id ="45">We are dependent on them and we will behave well with them.</sent>
+				<sent id ="46">Time is valuable in our life.</sent>
+				<sent id ="47">We will do our daily duties the same day.</sent>
+				<sent id ="48">We will never put off any work for tomorrow.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

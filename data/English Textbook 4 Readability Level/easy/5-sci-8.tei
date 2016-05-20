@@ -1,0 +1,128 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.06</idno>
+				<idno type="Number of sentences">100</idno>
+				<idno type="Number of tokens">1157</idno>
+				<idno type="Number of token types">423</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t56">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We have already learnt that matter can exist in three physical states-solid, liquid and gaseous.</sent>
+				<sent id ="2">However, structurally, matter can be classified into two types.</sent>
+				<sent id ="3">Let us discuss about these two types of matter.</sent>
+				<sent id ="4">If we keep breaking a copper wire, we will find that the broken pieces are also made of copper.</sent>
+				<sent id ="5">However, all these tiny pieces are also made of copper.</sent>
+				<sent id ="6">Substances like these, which yield none but smaller pieces of the same substance as they are broken are called elements.</sent>
+				<sent id ="7">For example, copper is an element, as it can be seen here.</sent>
+				<sent id ="8">Iron, gold, silver, oxygen, hydrogen, argon, neon etc. are also elements.</sent>
+				<sent id ="9">A total of 92 elements have been known to exist in nature.</sent>
+				<sent id ="10">In addition, scientists have made a few more new elements.</sent>
+				<sent id ="11">The total number of elements discovered so far is 110.</sent>
+				<sent id ="12">Now, let us break a piece of chalk into pieces.</sent>
+				<sent id ="13">At that stage no characteristics or properties of chalk will be found in the broken pieces.</sent>
+				<sent id ="14">Instead, these pieces will bear the properties of calcium, carbon and oxygen.</sent>
+				<sent id ="15">Therefore we see that a number of elements are obtained when we break chalk.</sent>
+				<sent id ="16">Here, chalk is a compound.</sent>
+				<sent id ="17">Water, sugar, kerosene, salt, urea fertilizer etc. are also compounds.</sent>
+				<sent id ="18">Oxygen and hydrogen can be chemically combined to produce water.</sent>
+				<sent id ="19">Again, by passing electricity through water mixed with acid, water can be separated into two elements - oxygen and hydrogen.</sent>
+				<sent id ="20">So what have we just learnt?</sent>
+				<sent id ="21">Structurally, substances can be divided into two types: elements and compounds.</sent>
+				<sent id ="22">Now, fill in the table given below by writing down the names of five elements and five compounds.</sent>
+				<sent id ="23">However, do not mention the names of the elements and compounds which have been discussed above.</sent>
+				<sent id ="24">Have you ever noticed how gold glitters?</sent>
+				<sent id ="25">But does a piece of coal do so?</sent>
+				<sent id ="26">No, it does not.</sent>
+				<sent id ="27">Gold is a metal, and coal is a nonmetal.</sent>
+				<sent id ="28">However, they are both elements.</sent>
+				<sent id ="29">When metal is polished, it glitters.</sent>
+				<sent id ="30">For example, plates, bowls etc. can be made from aluminium.</sent>
+				<sent id ="31">Besides, electricity and heat can flow easily through metal.</sent>
+				<sent id ="32">Also remember that since the density of metal is higher, metals have more mass than nonmetals.</sent>
+				<sent id ="33">Other than this, most metals are solid at room temperature.</sent>
+				<sent id ="34">For example, iron, silver, gold, tin, copper, zinc are all solid.</sent>
+				<sent id ="35">However, there are exceptions to this, such as mercury, which is found in liquid state at room temperature.</sent>
+				<sent id ="36">For example, gold, silver, iron, aluminium etc. are metals or metallic elements.</sent>
+				<sent id ="37">Hydrogen, oxygen, nitrogen, carbon, iodine etc. are examples of nonmetals.</sent>
+				<sent id ="38">Heat and electricity cannot pass easily through nonmetals.</sent>
+				<sent id ="39">Nonmetals usually do not glitter even if rubbed.</sent>
+				<sent id ="40">For example, sulphur does not have any lustre.</sent>
+				<sent id ="41">Again, since the density of nonmetals are low, they are lighter than metals.</sent>
+				<sent id ="42">Nonmetals are not very flexible, so they cannot be hammered into flat plates or drawn out into wire.</sent>
+				<sent id ="43">At room temperature, most nonmetals are found in their gaseous form.</sent>
+				<sent id ="44">Gases such as hydrogen, oxygen and nitrogen are examples of these.</sent>
+				<sent id ="45">Some nonmetals also exist in solid state at room temperature, such as sulphur, carbon and iodine.</sent>
+				<sent id ="46">A few nonmetals even exist as liquids at room temperature, such as bromine.</sent>
+				<sent id ="47">Metals are good conductors of heat, but nonmetals are not.</sent>
+				<sent id ="48">Because of this, upon application of heat, metals become heated more quickly than nonmetals do.</sent>
+				<sent id ="49">They are called semimetals or metalloids.</sent>
+				<sent id ="50">Now, fill up the table given below by writing down five features of metals and five features of nonmetals.</sent>
+				<sent id ="51">These particles retain the original properties of the element.</sent>
+				<sent id ="52">However, they cannot exist independently.</sent>
+				<sent id ="53">They either join with each other or with the smallest particles of other elements.</sent>
+				<sent id ="54">These very small particles are called atoms.</sent>
+				<sent id ="55">Atoms are the basic building blocks of matter.</sent>
+				<sent id ="56">Usually an elemental substance is made of innumerable atoms of the same type.</sent>
+				<sent id ="57">However, different elemental substances are made of different types of atoms.</sent>
+				<sent id ="58">For example, all atoms of copper have identical properties.</sent>
+				<sent id ="59">All atoms of iron are also identical.</sent>
+				<sent id ="60">However, the characteristics of iron atoms and copper atoms are very much different.</sent>
+				<sent id ="61">In case of gaseous elements, atoms usually do not exist separately, they remain joined to each other in small groups.</sent>
+				<sent id ="62">For example, a single hydrogen atom cannot exist, two atoms of hydrogen join to form a larger particle.</sent>
+				<sent id ="63">These particles can exist freely in nature.</sent>
+				<sent id ="64">They are called molecules.</sent>
+				<sent id ="65">However, in nature, there are exceptions to this.</sent>
+				<sent id ="66">For example, gases such as argon and neon (also known as inert gases) can exist in nature as single atoms.</sent>
+				<sent id ="67">Since they can exist as single atoms, they are also called molecules.</sent>
+				<sent id ="68">However, these molecules consist of only one atom.</sent>
+				<sent id ="69">On the other hand, molecules of hydrogen consist of two atoms.</sent>
+				<sent id ="70">Not only gases - atoms of multiple elements can join and form molecules of solid or liquid compounds.</sent>
+				<sent id ="71">Molecules can be of both elements and compounds.</sent>
+				<sent id ="72">For example, two oxygen atoms can join with each other and form a single molecule of oxygen.</sent>
+				<sent id ="73">This molecule will have all the properties of oxygen gas.</sent>
+				<sent id ="74">This is a molecule of the element oxygen.</sent>
+				<sent id ="75">Again, an atom of oxygen and two atoms of hydrogen can combine to form a molecule of water.</sent>
+				<sent id ="76">This molecule of water will possess all the properties of water.</sent>
+				<sent id ="77">Similarly, one nitrogen atom and three hydrogen atoms combine to form a molecule of ammonia.</sent>
+				<sent id ="78">You already know that substances can exist in nature in solid, liquid and gaseous physical states.</sent>
+				<sent id ="79">For example, iron is solid, water is liquid and oxygen is gaseous.</sent>
+				<sent id ="80">We know that substances have definite shapes and volumes in their solid states.</sent>
+				<sent id ="81">In their liquid states, substances have definite volumes but no definite shapes.</sent>
+				<sent id ="82">You also know that in their gaseous form, substances have neither definite volumes nor definite shapes.</sent>
+				<sent id ="83">What is the reason behind this?</sent>
+				<sent id ="84">The reason behind this is the structure of matter.</sent>
+				<sent id ="85">All substances are composed of innumerable molecules.</sent>
+				<sent id ="86">These molecules attract each other.</sent>
+				<sent id ="87">However, in their solid state, the attraction between molecules is the greatest.</sent>
+				<sent id ="88">In that state the atoms remain very close to each other and are packed very closely.</sent>
+				<sent id ="89">So, in their solid state, the shape or volume of substances remain constant.</sent>
+				<sent id ="90">In this state the molecules cannot move.</sent>
+				<sent id ="91">If heat is supplied to solids, the molecules of solids start to vibrate more.</sent>
+				<sent id ="92">At one point the vibration of the molecules increases considerably due to sufficient application of heat.</sent>
+				<sent id ="93">As a result, the forces of attraction between the molecules decrease and the substance achieves liquid state.</sent>
+				<sent id ="94">At this state the atoms can no longer remain attached to each other closely.</sent>
+				<sent id ="95">This causes the substance to become gaseous.</sent>
+				<sent id ="96">As the molecules are separated from each other, they move further apart.</sent>
+				<sent id ="97">These clusters of molecules rush around separately.</sent>
+				<sent id ="98">Because of this the volumes of liquids remain constant.</sent>
+				<sent id ="99">However, since the molecules can move around, liquids do not have definite shapes like solids do.</sent>
+				<sent id ="100">So, in its gaseous state, neither the volume nor the shape of a substance is constant.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

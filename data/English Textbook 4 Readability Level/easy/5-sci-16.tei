@@ -1,0 +1,72 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-16</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.895</idno>
+				<idno type="Number of sentences">44</idno>
+				<idno type="Number of tokens">525</idno>
+				<idno type="Number of token types">268</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t48">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Bangladesh is a small country.</sent>
+				<sent id ="2">But it has a large population which is increasing day by day.</sent>
+				<sent id ="3">Because of this huge population, our country is suffering from many problems.</sent>
+				<sent id ="4">Our country is plagued by deficiency of food, unemployment problems, lack of medical facilities, environmental pollution and such other problems.</sent>
+				<sent id ="5">In Standard IV you have learnt about some aspects of environmental pollution.</sent>
+				<sent id ="6">In this chapter, we are going to learn more about population and the environment.</sent>
+				<sent id ="7">Let us first know what population is and how the population of a country is determined;</sent>
+				<sent id ="8">what population density is and how it is determined;</sent>
+				<sent id ="9">what demography is;</sent>
+				<sent id ="10">how birth and mortality rates are determined;</sent>
+				<sent id ="11">and how per capita land is determined.</sent>
+				<sent id ="12">Do you know what the population of Bangladesh is?</sent>
+				<sent id ="13">How can this population be determined?</sent>
+				<sent id ="14">If you are asked how many people live in your house, you will obviously be able to answer that.</sent>
+				<sent id ="15">How will you be able to answer it?</sent>
+				<sent id ="16">By counting, right?</sent>
+				<sent id ="17">Our forest resources are rapidly diminishing as wood is being used for building houses and as fuel.</sent>
+				<sent id ="18">As a result, rainfall has decreased, which is leaving a negative effect on the weather and the climate.</sent>
+				<sent id ="19">You have learnt that if the population of a country increases, the number of industries of that country increases proportionally.</sent>
+				<sent id ="20">The wastes released from these factories are washed into different rivers and canals, polluting the water.</sent>
+				<sent id ="21">Soil erosion cannot be caused easily by rain, water currents or floods if plants, creepers and grass cover the soil.</sent>
+				<sent id ="22">Thus, if the forests and trees of a region diminish, soil erosion increases there.</sent>
+				<sent id ="23">Erosion of soil causes the fertility of soil to decrease and agricultural production to decline.</sent>
+				<sent id ="24">Industrial wastes also pollute the soil.</sent>
+				<sent id ="25">You have learnt the effect of excessive population on the environment.</sent>
+				<sent id ="26">The impact of population on our daily lives are also quite visible.</sent>
+				<sent id ="27">Not even the school you go to is free from the effects of increasing population.</sent>
+				<sent id ="28">An example will help you understand the fact.</sent>
+				<sent id ="29">Increase in the population of a country equals the increase in the number of newborn children.</sent>
+				<sent id ="30">As a result, the number of young boys and girls also increases.</sent>
+				<sent id ="31">These boys and girls go to the schools for admission which results in huge rush.</sent>
+				<sent id ="32">Many children cannot get themselves admitted into the schools of their choice.</sent>
+				<sent id ="33">If too many children get admitted into a school, it suffers from various problems.</sent>
+				<sent id ="34">Classrooms cannot accommodate the children properly.</sent>
+				<sent id ="35">More students have to be crammed together on the same bench.</sent>
+				<sent id ="36">The teacher cannot take care of all the students equally well.</sent>
+				<sent id ="37">This hampers the learning process of the students.</sent>
+				<sent id ="38">The environment of the school also gets dirty and unhealthy due to the presence of too many students.</sent>
+				<sent id ="39">We should protect our environment to live a healthy life and for a prosperous future.</sent>
+				<sent id ="40">Human beings and their various activities cause the destruction and pollution of environment.</sent>
+				<sent id ="41">Again, it is only man who can save the environment.</sent>
+				<sent id ="42">Therefore, all of us should be aware of this matter.</sent>
+				<sent id ="43">We should take care of the plants and animals.</sent>
+				<sent id ="44">We should keep our homes and school premises neat and clean.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

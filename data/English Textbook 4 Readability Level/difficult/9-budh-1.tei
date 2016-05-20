@@ -1,0 +1,169 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-budh-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:04.188</idno>
+				<idno type="Number of sentences">141</idno>
+				<idno type="Number of tokens">1690</idno>
+				<idno type="Number of token types">621</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t37">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Both Buddha and Bodhisattva are well known and very pious names to the Buddhists.</sent>
+				<sent id ="2">On hearing these two names their minds are filled with devotion and faith.</sent>
+				<sent id ="3">Buddha and Bodhisattva, these two words are co-related.</sent>
+				<sent id ="4">We should know the meanings and importance of these two names.</sent>
+				<sent id ="5">All Buddhists of the world are the followers of the Buddha.</sent>
+				<sent id ="6">The name of the doctrine preached by the Buddha is called Buddhalogy.</sent>
+				<sent id ="7">The followers of this doctrine should know perfectly about the Buddha and the Bodhisattva.</sent>
+				<sent id ="8">Here by Buddha, we should not understand only Gautama Buddha.</sent>
+				<sent id ="9">Again by Bodhisattva we should not mean only the life history of Buddha's previous births.</sent>
+				<sent id ="10">We should try to know the immense and deep meanings of these two names.</sent>
+				<sent id ="11">Here we will try to know what the Buddha is.</sent>
+				<sent id ="12">Here Bodhi means Enlightenment or wisdom.</sent>
+				<sent id ="13">He who acquires Buddhahood or wisdom is called Buddha.</sent>
+				<sent id ="14">The word Buddha means omniscient.</sent>
+				<sent id ="15">Wisdom differs from general knowledge of worldly things.</sent>
+				<sent id ="16">Wisdom means super human knowledge. So wisdom carries special meaning.</sent>
+				<sent id ="17">Therefore its inner meaning is very vast.</sent>
+				<sent id ="18">In general sense Buddha means a wise man.</sent>
+				<sent id ="19">But it is not the fact. That is why, all wise men of the world are not the Buddhas.</sent>
+				<sent id ="20">The Buddha is possessed of infinite wisdom.</sent>
+				<sent id ="21">The extent of His wisdom is endless.</sent>
+				<sent id ="22">Man with his limited knowledge cannot measure Him.</sent>
+				<sent id ="23">We should know when and why the Buddha appears in this world.</sent>
+				<sent id ="24">Before the appearance of the Buddha, there arise some events.</sent>
+				<sent id ="25">At a time when the world becomes polluted by the disorder i.e. breach of the peace, riot, mental and physical disturbance, violence etc.</sent>
+				<sent id ="26">man depends more on physical strength than conscience.</sent>
+				<sent id ="27">The world is filled with injustice and bad conduct.</sent>
+				<sent id ="28">The man praises false than truth.</sent>
+				<sent id ="29">The world becomes unfit to dwell on.</sent>
+				<sent id ="30">Then, men wait anxiously to have a fully wise man.</sent>
+				<sent id ="31">At that time only the Buddha appears in the world.</sent>
+				<sent id ="32">Some may think that the same Buddha appears in the world again and again.</sent>
+				<sent id ="33">But that is not true.</sent>
+				<sent id ="34">Because one who attains emancipation, is not subject to death and birth or cycle of birth.</sent>
+				<sent id ="35">The Buddha is an emancipated One.</sent>
+				<sent id ="36">He has realized Nibbana.</sent>
+				<sent id ="37">After emancipation He never comes to this world.</sent>
+				<sent id ="38">According to Buddha-theory every being has right to be a Buddha.</sent>
+				<sent id ="39">So, some one does not appear in this world again and again.</sent>
+				<sent id ="40">A being by his own effort can become Buddha in this world.</sent>
+				<sent id ="41">That means, the way to be a Buddha is open to all.</sent>
+				<sent id ="42">What is the means to be a Buddha?</sent>
+				<sent id ="43">One who realizes perfectly impermanence sorrows and non-soul or non-substance-the three characteristics of this world becomes a Buddha.</sent>
+				<sent id ="44">One who follows the Noble Eightfold path and realizes four Noble Truths, it is possible for him to become a Buddha.</sent>
+				<sent id ="45">Besides these, one has to fulfil ten perfections viz.</sent>
+				<sent id ="46">charity, observance of precepts, renunciation, abstinence, courage, truth, meditation, compassion, upekkha and wisdom.</sent>
+				<sent id ="47">These ten perfections have been divided into thirty in accordance with perfection, sub-perfection and super-human perfection.</sent>
+				<sent id ="48">It is too difficult to fulfil all these perfections.</sent>
+				<sent id ="49">To fulfil all these it requires the accumulations of good deeds of so many births.</sent>
+				<sent id ="50">To accumulate merits one has to take so many births.</sent>
+				<sent id ="51">Not only as a human being, one takes birth as other beings also.</sent>
+				<sent id ="52">In those lives he has to face a lot of sorrows.</sent>
+				<sent id ="53">In this way, performing all these perfections in various lives, so many Buddhas were born before in this world and will be born in future also.</sent>
+				<sent id ="54">Among the Buddhas the Samma Sambuddha is the most superior to all.</sent>
+				<sent id ="55">One who will be a Samma Sambuddha, will fulfil ten perfections by His own effort through many births.</sent>
+				<sent id ="56">In the last birth He is born as a man.</sent>
+				<sent id ="57">In this life He attains Arhattahood (Sainthood) and attains omniscience to become Buddha.</sent>
+				<sent id ="58">Then He preaches His newly discovered doctrine to the beings.</sent>
+				<sent id ="59">Being compassionate He showed them the path of eradication of sorrow and ways to obtain Nibbana.</sent>
+				<sent id ="60">It is to be noted that the appearance of the Buddha is very rare.</sent>
+				<sent id ="61">There is no mention that two Samma Sambuddhas had appeared in this world at the same time.</sent>
+				<sent id ="62">After Great demise (Mahaparinibbana) of a Samma Sambuddha, another Samma Sambuddha appears in this world after so many aeons of years.</sent>
+				<sent id ="63">There appeared so many Buddhas in this world.</sent>
+				<sent id ="64">But we know the names of twenty eight Buddhas only.</sent>
+				<sent id ="65">According to above list Gautama is the last Buddha.</sent>
+				<sent id ="66">The Buddhists are following His doctrine for more than 2500 years.</sent>
+				<sent id ="67">The Buddhists worship Him placing His image or photo in front of them.</sent>
+				<sent id ="68">Though there is no record of worshipping in this way, the Buddhists worship Him in rememberance.</sent>
+				<sent id ="69">Because He showed the path to extinction of the desires and to be free from sorrows.</sent>
+				<sent id ="70">Moreover He showed the path leading to Nibbana.</sent>
+				<sent id ="71">Gautama Buddha forecast that in future a Buddha named Ariyametta will appear in this world.</sent>
+				<sent id ="72">The commentators say that the doctrine of Gautama Buddha will remain for five thousand years only.</sent>
+				<sent id ="73">After so many years will pass away when, injustices etc. said before will come into existence then only the Metta Budddha will appear in this world.</sent>
+				<sent id ="74">The Pacceka Buddha becomes a Buddha after achieving sainthood through meditation.</sent>
+				<sent id ="75">Being emancipated He breaks the cycle of rebirth.</sent>
+				<sent id ="76">His wisdom acquired by meditation is confined to Himself.</sent>
+				<sent id ="77">Innumerable such saints known as emancipated Pacceka Buddhas were born and are being born in this world.</sent>
+				<sent id ="78">Hence Buddhists believe that the world is not without Arhants or Buddha.</sent>
+				<sent id ="79">As the name of Pacceka Buddhas and their preaching are completely confined to themselves, it is not possible to give names of them directly or indirectly as an example.</sent>
+				<sent id ="80">The Samma Sambuddha has many disciples.</sent>
+				<sent id ="81">They have again many other disciples.</sent>
+				<sent id ="82">They follow the path charted out by the Buddha.</sent>
+				<sent id ="83">Among them some leading honest life obtain Sainthood.</sent>
+				<sent id ="84">That means, they will never be born in this world to suffer.</sent>
+				<sent id ="85">They are on the way to Nibbana or final emancipation.</sent>
+				<sent id ="86">They are called Savaka Buddha.</sent>
+				<sent id ="87">Gautama Buddha had many disciples who were Savaka Buddhas.</sent>
+				<sent id ="88">Some are noteworthy to mention here.</sent>
+				<sent id ="89">They are : Agrasravaka Sariputta and Moggallayana, Mahasravaka Kassapa, Vinaydhar Upali, Dharmavandarika Ananda, Lavishresta Sivali, Agrasravika Mahaprajapati Gautama and Utpolvarna.</sent>
+				<sent id ="90">Besides, there were many Savaka Buddhas during the time of the Buddha.</sent>
+				<sent id ="91">They sacrificed their lives for the welfare of beings and help others to realize Nibbana.</sent>
+				<sent id ="92">Bodhi means wisdom by which man attains salvation.</sent>
+				<sent id ="93">One who tries for this wisdom is called Bodhisattva.</sent>
+				<sent id ="94">Bodhisattva is not the Buddha but he is the future Buddha.</sent>
+				<sent id ="95">In any life he will be a Buddha.</sent>
+				<sent id ="96">For becoming a Buddha, he has to be born in so many clans for so many births.</sent>
+				<sent id ="97">He has to fulfil ten perfections, ten sub-perfections and ten super human perfections.</sent>
+				<sent id ="98">It is the main characteristic or speciality of a Bodhisattva to do good deeds through so many births.</sent>
+				<sent id ="99">According to Pali literature Siddharttha was born several times as different beings to become a Buddha.</sent>
+				<sent id ="100">In those births he was known as Bodhisattva.</sent>
+				<sent id ="101">It is said that innumerable years ago Dipankar Buddha appeared in this world.</sent>
+				<sent id ="102">At that time Sumedha Tapasa by name lived in Amaravati.</sent>
+				<sent id ="103">Once the citizens of Amaravati invited the Buddha.</sent>
+				<sent id ="104">The Buddha accepted their invitation.</sent>
+				<sent id ="105">Then He started for Amaravati with many disciples.</sent>
+				<sent id ="106">It was a rainy reason.</sent>
+				<sent id ="107">Due to rain the roads became muddy and quite unfit to walk on.</sent>
+				<sent id ="108">The inhabitants started to reconstruct the road.</sent>
+				<sent id ="109">Sumedha Tapasa also joined with them.</sent>
+				<sent id ="110">The road was not completely done then, Dipankar Buddha reached at the incomplete road with His disciples.</sent>
+				<sent id ="111">Only a few cubits of that road is to be completed.</sent>
+				<sent id ="112">The inhabitants became anxious.</sent>
+				<sent id ="113">Sumedha Tapasa understood that there was no other alternative.</sent>
+				<sent id ="114">Throwing his spade, without any delay, he lay down on that portion of the Muddy road and very politely requested that the Buddha should walk over the body of him.</sent>
+				<sent id ="115">Dipankar Buddha accepted his request.</sent>
+				<sent id ="116">When the Buddha was walking upon his body he made determination that he would in future be a Buddha like Him.</sent>
+				<sent id ="117">Dipankar Buddha noticed all the signs required to be a future Buddha.</sent>
+				<sent id ="118">He told him (Sumedha) that his determination will be fulfilled and he will be a Buddha in future.</sent>
+				<sent id ="119">From that day onward the life of a Bodhisattva had started.</sent>
+				<sent id ="120">Fulfilling all necessary requisite perfections through many births, he was born as Siddharttha by name in the palace of king Suddhodana.</sent>
+				<sent id ="121">In due course, after attaining Buddhahood, he became Gautama Buddha by name.</sent>
+				<sent id ="122">It is remarkable that before taking birth as Siddharttha by name in this very life, he was a Bodhisattva.</sent>
+				<sent id ="123">These life-stories are elaborately written in the Jatakas.</sent>
+				<sent id ="124">According to Jataka stories, Gautama Buddha was born 550 times as a Bodhisattva.</sent>
+				<sent id ="125">But at present only 547 life-stories are found.</sent>
+				<sent id ="126">The remaining three are missing.</sent>
+				<sent id ="127">In Jataka stories it is 16 Buddhist Religious Studies mentioned that he full filled perfection by doing good deeds such as charity etc.</sent>
+				<sent id ="128">In completing the stages of perfections, he was born as a king of Kusabati, Mahasudassana by name (Sudaissana Jataka), as a king Makhadeva by name (Makhadeva Jataka), as a king Mahajanka by name (Mahajanaka Jataka) etc.</sent>
+				<sent id ="129">Besides these, he was born as a candal, Sudra, Kshatriya etc. Moreover he was born as beasts and birds, such as a monkey (Vanarinda Jataka), as a peacock (Mora Jataka) etc.</sent>
+				<sent id ="130">Here some are mentioned to note.</sent>
+				<sent id ="131">From the above studies we observe some differences between the Buddha and the Bodhisattva.</sent>
+				<sent id ="132">After completion of ten perfections he, who attains Buddhahood in the last birth is called a Buddha.</sent>
+				<sent id ="133">The Buddha achieves Mahaparinirvana i.e. deliverance from cycle of births by extinction of desires.</sent>
+				<sent id ="134">The Buddhas know three periods.</sent>
+				<sent id ="135">They are aware of past, present and future The Buddhas are omniscient.</sent>
+				<sent id ="136">They know every earthly things.</sent>
+				<sent id ="137">It is possible for them to forecast about the present and the next life of the beings.</sent>
+				<sent id ="138">The Buddhas are possessed of steady mind.</sent>
+				<sent id ="139">They are above passion, attachment, antipathy, delusion, hatred and praise.</sent>
+				<sent id ="140">They are not touched by any kind of criticism.</sent>
+				<sent id ="141">They are emancipated one.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

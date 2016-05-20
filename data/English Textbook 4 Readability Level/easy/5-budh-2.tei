@@ -1,0 +1,107 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-budh-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.905</idno>
+				<idno type="Number of sentences">79</idno>
+				<idno type="Number of tokens">836</idno>
+				<idno type="Number of token types">367</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t5">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Worship is very important for the Buddhists.</sent>
+				<sent id ="2">For this reason every Buddhist should offer worship.</sent>
+				<sent id ="3">By worship one can earn unlimited virtues.</sent>
+				<sent id ="4">It creates amity in mind.</sent>
+				<sent id ="5">It uplifts the consciousness of offering and develops interest in doing virtuous deeds.</sent>
+				<sent id ="6">The Buddhists offer worship to the Buddha everyday.</sent>
+				<sent id ="7">These worships are- Worship with flower, Worship with food, Worship with drinks etc.</sent>
+				<sent id ="8">Why is worship with candle performed?</sent>
+				<sent id ="9">We perform this to the Buddha.</sent>
+				<sent id ="10">The light of candle removes darkness.</sent>
+				<sent id ="11">The Buddha removed the ignorance of the three worlds (Heaven, world and hell) by igniting the light of wisdom.</sent>
+				<sent id ="12">As the light of the candle is transitory, so is the life of a human being.</sent>
+				<sent id ="13">Everything on earth is impermanent.</sent>
+				<sent id ="14">This meditation of impermanence removes greed, hatred and delusion (fascination).</sent>
+				<sent id ="15">To get rid of all sorts of cravings the virtues of the Buddha are remembered.</sent>
+				<sent id ="16">This worship with candle may be performed in the monastery or in one's own house.</sent>
+				<sent id ="17">It requires cleanliness of body and concentration of mind.</sent>
+				<sent id ="18">There are some rules to offer worship.</sent>
+				<sent id ="19">Having been neat and clean, you are to stand before the portrait or the image of the Buddha.</sent>
+				<sent id ="20">Now take your seat kneeling down with a candle in your hand.</sent>
+				<sent id ="21">Pay your tribute to the Triple-gems first.</sent>
+				<sent id ="22">Then recite the verse of worship.</sent>
+				<sent id ="23">The candle with thick oil removes the darkness.</sent>
+				<sent id ="24">With that candle I do worship the omniscient Buddha, the destroyer of ignorance of the three worlds.</sent>
+				<sent id ="25">After reciting the verse, pay homage to the Buddha with due respect.</sent>
+				<sent id ="26">Then stand up and put the candle on the altar before the image of the Buddha.</sent>
+				<sent id ="27">Why do we perform worship with incense?</sent>
+				<sent id ="28">This worship is performed with perfumed incense.</sent>
+				<sent id ="29">The sweet smell of incense spreads all around and makes scented.</sent>
+				<sent id ="30">Let the result of our virtuous deeds reach everywhere like the essence of incense.</sent>
+				<sent id ="31">In worshipping with incense, prayer is performed remembering the virtues of the Buddha.</sent>
+				<sent id ="32">The evening is the right time to worship with incense.</sent>
+				<sent id ="33">Then pay tribute (Vandana) to the triple- gems.</sent>
+				<sent id ="34">Thereafter recite the verse of worship with incense.</sent>
+				<sent id ="35">I do worship that Worthy person Buddha with this incense full of sweet smell.</sent>
+				<sent id ="36">After reciting the verse, pay tribute to the Buddha.</sent>
+				<sent id ="37">You should always perform the worship in the monastery or at your residence.</sent>
+				<sent id ="38">Make the habit to recite the verses with a sweet tone.</sent>
+				<sent id ="39">Offering means sacrifice.</sent>
+				<sent id ="40">To sacrifice something with no interest is offering.</sent>
+				<sent id ="41">The significance of offering is boundless.</sent>
+				<sent id ="42">Human mind becomes purified and delusion is removed by offering.</sent>
+				<sent id ="43">The feelings of offering make a man sympathetic to the helpless and destitute.</sent>
+				<sent id ="44">It helps to earn peace and happiness in present and preceding lives.</sent>
+				<sent id ="45">In the Pali verse there are ten kinds of best offerings.</sent>
+				<sent id ="46">Such as food, soft drinks, cloth, perfume, bed-stead, dwelling-house etc.</sent>
+				<sent id ="47">Before offering, the charitable person (the donor) should be conscious of three concerns.</sent>
+				<sent id ="48">It is better to offer the money or materials earned by honest means with cheerful mind.</sent>
+				<sent id ="49">The best offering relates with no greed, hatred and delusion.</sent>
+				<sent id ="50">The offering is the best when it is offered to the deserving persons.</sent>
+				<sent id ="51">The man of virtues is the best among the human beings.</sent>
+				<sent id ="52">So best returns may be earned by offering to the man of virtues.</sent>
+				<sent id ="53">There are several kinds of offering.</sent>
+				<sent id ="54">The Buddhists offer by observing different functions.</sent>
+				<sent id ="55">Among them Sanghadan (Offering to the monks), Offering of eight kinds of materials, Offering of Yellow robes etc.</sent>
+				<sent id ="56">Offering to the monks is known as Sanghadan.</sent>
+				<sent id ="57">The Buddhists perform Sanghadan desiring welfare of their kith and kins.</sent>
+				<sent id ="58">Sanghadan is performed for the welfare of the close relatives.</sent>
+				<sent id ="59">It brings virtues for the performer too.</sent>
+				<sent id ="60">This function of offering may be observed in the monastery or in one's own house.</sent>
+				<sent id ="61">At least five monks are required to observe Sanghadan.</sent>
+				<sent id ="62">The laities observe Sanghadana inviting five monks at their own residence.</sent>
+				<sent id ="63">The Buddhists who live family life are the laities.</sent>
+				<sent id ="64">The laities keep their offering materials before the monks as soon as they arrive at the house of the laity.</sent>
+				<sent id ="65">All kinds of food are placed in the utensils.</sent>
+				<sent id ="66">All the family members along with kith and kins sit in front of the monks with folded hands.</sent>
+				<sent id ="67">They pay tribute to the Triratana and then accept five precepts.</sent>
+				<sent id ="68">Then the verse of Sanghadana is recited for three times.</sent>
+				<sent id ="69">We offer these offerings to the monks with necessary materials.</sent>
+				<sent id ="70">They deliver religious speech.</sent>
+				<sent id ="71">Thereafter everybody present in the function gives thanks to the monks.</sent>
+				<sent id ="72">Whenever you go to the monastery, you should offer to the monks as much as you can.</sent>
+				<sent id ="73">Besides this you should come forward to help the poor neighbours.</sent>
+				<sent id ="74">There may be a poor mate in your class.</sent>
+				<sent id ="75">He can seldom buy note-book or pen for writing in time.</sent>
+				<sent id ="76">You can help him with these.</sent>
+				<sent id ="77">You should offer food to the hungry animals.</sent>
+				<sent id ="78">In this way the habit of doing charity will grow in you.</sent>
+				<sent id ="79">By dint of this virtuous charity your life will be graceful with happiness.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

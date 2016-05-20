@@ -1,0 +1,83 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-budh-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.222</idno>
+				<idno type="Number of sentences">55</idno>
+				<idno type="Number of tokens">702</idno>
+				<idno type="Number of token types">349</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t62">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The meaning of Samgiti is council or convention.</sent>
+				<sent id ="2">In, the history Buddhism Samgiti is also known as Samghayana.</sent>
+				<sent id ="3">Hundreds of aged Arhats (of profound wisdom) Bhikkhus used to attend the Councils.</sent>
+				<sent id ="4">These conventions are known as the Samgiti or the Council in the history of Buddhism.</sent>
+				<sent id ="5">Soon after the Great Passing away of-the Buddha, the First Council was held at the Saptaparni cave of Rajgriha.</sent>
+				<sent id ="6">In this First Council five hundred Arhat Bhikkhus were present for which it was also known as the Panchasatika Samgiti.</sent>
+				<sent id ="7">The Couuncil continued for four months.</sent>
+				<sent id ="8">He introduced many rules and regulations for the Bhikkhus.</sent>
+				<sent id ="9">But all these were extemporal.</sent>
+				<sent id ="10">So, all these messages of the Buddha remained scattered among his disciples.</sent>
+				<sent id ="11">Otherwise it might cause controversies later on.</sent>
+				<sent id ="12">This fear, however, inspired them to convene the First Council.</sent>
+				<sent id ="13">There was another factor of holding the First Council too.</sent>
+				<sent id ="14">He received the news of the great demise of Buddha on the way to Kushinagara from Paba.</sent>
+				<sent id ="15">Each and everyone present at the place at that time was very much shocked at the news.</sent>
+				<sent id ="16">They thought the dead body of the Buddha was still existing.</sent>
+				<sent id ="17">But it required enough money as well as a great deal of labour.</sent>
+				<sent id ="18">They worried -Who would assist by giving such a big amouunt of money ?</sent>
+				<sent id ="19">At that time, Ajatashatru was the king of Magadha.</sent>
+				<sent id ="20">He was in his first part of life, very much opposed to the Buddha.</sent>
+				<sent id ="21">But later on, he was initiated and became the most devoted follower of the Buddha.</sent>
+				<sent id ="22">Some leading Bhikkhus went to the king Ajatashatru and proposed to him for help to hold the Council.</sent>
+				<sent id ="23">He gladly accepted the proposal.</sent>
+				<sent id ="24">All the Bhikkhus except Ananda took their seats in due time of the day.</sent>
+				<sent id ="25">At the moment, all of a sudden all the Bhikkhus surprisingly found Ananda sitting on his seat reserved for him.</sent>
+				<sent id ="26">He attained Arhathood (Enlightenment) as soon as the convention was about to start and occupied his seat supernaturally.</sent>
+				<sent id ="27">All other Bhikkhus present there, congratulated Ananda cordially.</sent>
+				<sent id ="28">Mahakashyapa Thero was unanimously elected not only the Chairman but also the interrogator of the convention of the First Council.</sent>
+				<sent id ="29">The meeting decided that firstly the collection of the Vinaya would be completed.</sent>
+				<sent id ="30">For his vast knowledge in the vinaya, the Buddha conferred Upali Thero the title of vinayadhara.</sent>
+				<sent id ="31">Mahakashyapa Thero invited Upali to take the seat of Dhamma (Dharmasana) and asked all sorts of questions on the Vinaya.</sent>
+				<sent id ="32">The councellors paid attention to all the questons and answers.</sent>
+				<sent id ="33">Upali Thero answered the questions in a slow and steady manner one by one.</sent>
+				<sent id ="34">Thus the Vinaya was compiled with the full support of all the five hundred enlightened Bhikkhus present in the Convention.</sent>
+				<sent id ="35">Thereafter, the compilation and collection of the Dhamma started.</sent>
+				<sent id ="36">Mahakashyapa became the interrogator this time also by himself.</sent>
+				<sent id ="37">He invited Ananda Thero, the Shrutidhara as entitled by the Buddha and Ananda took the seat of Dhamma.</sent>
+				<sent id ="38">He was asked various questions on the Brahmajala Sutta, Samannaphala Sutta, the Digha Nikaya, the Majjhima Nikaya etc.</sent>
+				<sent id ="39">Ananda Thero answered all the questions satisfactorily.</sent>
+				<sent id ="40">Then all these answers were duly accepted by all the councillors.</sent>
+				<sent id ="41">In this way, the Sutta Pitaka was compiled.</sent>
+				<sent id ="42">In the First Council, there was no refreence of the Abhidhamma, (the philosophy part of the Mamma).</sent>
+				<sent id ="43">It was combined with the Dhamma.</sent>
+				<sent id ="44">Now we shall try to determine the historical importance of the First Council.</sent>
+				<sent id ="45">The Mahaparinibbana Sutta, of course, approves it.</sent>
+				<sent id ="46">He rather, proposed to convene the Council two to three months later.</sent>
+				<sent id ="47">By this time, he had only a comment.</sent>
+				<sent id ="48">If we are not alert till now, the number of Bhikkhus like Subhadra will increase day by day.</sent>
+				<sent id ="49">It is, therefore, evident that Subhadra was just an instance.</sent>
+				<sent id ="50">The other leading Bhikkhus, realizing the threat, also gave their consent on this ground.</sent>
+				<sent id ="51">The First Council bears a great importance and significance in the history of Buddhism.</sent>
+				<sent id ="52">Five more Councils were held after the First Council.</sent>
+				<sent id ="53">The second Council took place at Balukaram of Vaishali hundred years after of the Buddha's Mahaparinibbana.</sent>
+				<sent id ="54">The emperor Asoka arraanged the Third Council at Pataliputra in the Third Century B. C.</sent>
+				<sent id ="55">Both the Fifth and the Sixth Councils took place in Burma (now Myanmar).</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

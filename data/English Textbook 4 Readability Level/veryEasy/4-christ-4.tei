@@ -1,0 +1,81 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.87</idno>
+				<idno type="Number of sentences">53</idno>
+				<idno type="Number of tokens">496</idno>
+				<idno type="Number of token types">234</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t59">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The whole of mankind were addicted to sin.</sent>
+				<sent id ="2">There was a need to free mankind from the curse of sin.</sent>
+				<sent id ="3">The God wanted to set people free from sin.</sent>
+				<sent id ="4">So, God planned to send a Saviour to the earth.</sent>
+				<sent id ="5">The Saviour was none but the Lord God's own and only son.</sent>
+				<sent id ="6">He would set mankind free from sin.</sent>
+				<sent id ="7">But he must be born of a mother.</sent>
+				<sent id ="8">The Lord God chose Mary for this purpose.</sent>
+				<sent id ="9">However, the God had already decided Mary to be the mother of the Saviour.</sent>
+				<sent id ="10">So He sent the angel Gabriel to her to know if she agreed to this.</sent>
+				<sent id ="11">In the picture above, we see Mary and the archangel Gabriel.</sent>
+				<sent id ="12">They are talking to each other.</sent>
+				<sent id ="13">We learn it from the story of the Holy Bible.</sent>
+				<sent id ="14">Let us now read the story.</sent>
+				<sent id ="15">There was a village called Nazareth in the province of Galilee.</sent>
+				<sent id ="16">The girl's name was Mary.</sent>
+				<sent id ="17">The angel came to her and said, Peace be with you!</sent>
+				<sent id ="18">The Lord is with you and has greatly blessed you.</sent>
+				<sent id ="19">Mary was amazed by the message.</sent>
+				<sent id ="20">She wondered what his words meant.</sent>
+				<sent id ="21">The angel said to her, Dont be afraid, Mary.</sent>
+				<sent id ="22">God has blessed you.</sent>
+				<sent id ="23">He will be great and he will be called the Son of God.</sent>
+				<sent id ="24">The Lord God will make him a king as his ancestor David was.</sent>
+				<sent id ="25">He will be the king of the descendants of Jacob for ever.</sent>
+				<sent id ="26">His kingdom will never end! Mary said to the angel, I am a virgin.</sent>
+				<sent id ="27">How, can it be?</sent>
+				<sent id ="28">The angel answered, The Holy Spirit will come on you.</sent>
+				<sent id ="29">Gods power will rest upon you.</sent>
+				<sent id ="30">For this reason the holy child will be called the Son of God.</sent>
+				<sent id ="31">Remember your relative Elizabeth.</sent>
+				<sent id ="32">She herself is now six months pregnant, even though she is very old.</sent>
+				<sent id ="33">For there is nothing that God cannot do.</sent>
+				<sent id ="34">Mary said, I am the Lords servant.</sent>
+				<sent id ="35">May it happen to me as you have said.</sent>
+				<sent id ="36">The angel then left her.</sent>
+				<sent id ="37">This is how Mary surrendered herself to the will of the Lord God.</sent>
+				<sent id ="38">Surrender means giving oneself up to someoneÊs wishes.</sent>
+				<sent id ="39">Mary gave herself up to the Lord God.</sent>
+				<sent id ="40">No human being but the Lord God Himself would have His power rest on her.</sent>
+				<sent id ="41">So, how could Mary avoid it!</sent>
+				<sent id ="42">He decided to send His son Jesus as the Saviour whose mother would be Mary.</sent>
+				<sent id ="43">The Lord God chose Mary to be the mother of His son.</sent>
+				<sent id ="44">Mary was promised in marriage to Joseph.</sent>
+				<sent id ="45">Mary gave herself up to the will of God with complete faith in Him.</sent>
+				<sent id ="46">Mary accepted the will of God and acted accordingly.</sent>
+				<sent id ="47">We should lead a simple life like Mary.</sent>
+				<sent id ="48">We should remain faithful in our prayers.</sent>
+				<sent id ="49">We should act according to God's desire.</sent>
+				<sent id ="50">Mary said, I am the Lord's servant.</sent>
+				<sent id ="51">May the Lord's wishes be fulfilled in me.</sent>
+				<sent id ="52">Write in your own words what Mary had replied to the angel.</sent>
+				<sent id ="53">Write what we should do to follow the path of God.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

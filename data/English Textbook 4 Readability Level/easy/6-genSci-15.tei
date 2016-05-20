@@ -1,0 +1,115 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.772</idno>
+				<idno type="Number of sentences">87</idno>
+				<idno type="Number of tokens">969</idno>
+				<idno type="Number of token types">437</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t87">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">There are various types of animal in this world.</sent>
+				<sent id ="2">The cow, goat, elephant, horse, humans walk on their legs.</sent>
+				<sent id ="3">Again, robin, crow, stork, kite, fly in the air with their wings spread out.</sent>
+				<sent id ="4">Some animals, like that of malarial parasite, are so small that they can not only be seen by naked eye.</sent>
+				<sent id ="5">Again, some animals are very big, like the blue whale, which may even weigh 150 tons.</sent>
+				<sent id ="6">Based on the presence of the vertebral column, the animal kingdom is divided into invertebrates and vertebrates.</sent>
+				<sent id ="7">Chapter six dealt with what are invertebrates and vertebrates.</sent>
+				<sent id ="8">This chapter deals with the invertebrates in greater details.</sent>
+				<sent id ="9">Animals that do not have vertebral column or spinal cord are called invertebrates.</sent>
+				<sent id ="10">For example: earthworm, spider, crab, scorpion, cockroach, prawn, snail, fly, mosquito, and so on.</sent>
+				<sent id ="11">There are more invertebrates than vertebrates in this world.</sent>
+				<sent id ="12">Based on the various characteristics, the animal kingdom is divided into ten phyla, nine of which are invertebrates.</sent>
+				<sent id ="13">Common features of invertebrates Like vertebrates, the invertebrates have some common features, which are enumerated below.</sent>
+				<sent id ="14">Invertebrates do not have vertebral column or spinal cord.</sent>
+				<sent id ="15">They range from unicellular to multicellular organisms.</sent>
+				<sent id ="16">Usually their organ of respiration is skin.</sent>
+				<sent id ="17">Their alimentary canal is simple Brief description of the invertebrates:</sent>
+				<sent id ="18">Nine out of the ten phyla, into which the animal kingdom is divided, are the invertebrates.</sent>
+				<sent id ="19">The names of the phyla along with a brief description of their main features is given below.</sent>
+				<sent id ="20">These are unicellular animals, and were the first ones to be created.</sent>
+				<sent id ="21">They live individually or in groups.</sent>
+				<sent id ="22">Some, like malarial parasite and micro- organism causing dysentery, live in other organism as they are parasitic in nature.</sent>
+				<sent id ="23">These animals live in water.</sent>
+				<sent id ="24">They contains numerous perforations on their body.</sent>
+				<sent id ="25">Water and nutrients enter the body through the pores.</sent>
+				<sent id ="26">Commonly known as sponge.</sent>
+				<sent id ="27">Most remain stationary in one place.</sent>
+				<sent id ="28">These are marine animals.</sent>
+				<sent id ="29">They have a hollow body, known as coelenteron.</sent>
+				<sent id ="30">Has a mouth but no anus.</sent>
+				<sent id ="31">This opening used to take food and excrete waste.</sent>
+				<sent id ="32">Has six to ten tentacles that surround the mouth.</sent>
+				<sent id ="33">They are flat soft-bodied, and usually parasitic in nature.</sent>
+				<sent id ="34">Has a mouth but no anus.</sent>
+				<sent id ="35">Roundworms are cylindrical, tapering animals with simple bodies.</sent>
+				<sent id ="36">Have both mouth and anus.</sent>
+				<sent id ="37">Many live as parasites in plants and animals, where they may cause disease.</sent>
+				<sent id ="38">These are soft bodied animal with mouth and anus.</sent>
+				<sent id ="39">The body is divided into ring-like segments.</sent>
+				<sent id ="40">The body is covered by a durable shell.</sent>
+				<sent id ="41">It has mouth and jaws.</sent>
+				<sent id ="42">Has a pair of articulated legs, and compound eyes.</sent>
+				<sent id ="43">These are marine animal.</sent>
+				<sent id ="44">The body has numerous spiny projections, and has a body tube.</sent>
+				<sent id ="45">These are soft-bodied, and are covered by a hard external shell.</sent>
+				<sent id ="46">An Invertebrate Animal Prawn, common name applied to numerous species of shrimp-like, ten-legged crustaceans.</sent>
+				<sent id ="47">There are over 60 species in the world.</sent>
+				<sent id ="48">The most notable among the species is the golda prawns.</sent>
+				<sent id ="49">Bangladesh has earned a place for itself in the world for cultivating prawn in fresh water.</sent>
+				<sent id ="50">Currently, prawn is being cultivated in ten southern districts of Bangladesh.</sent>
+				<sent id ="51">Though prawn is commonly called a fish, it is not a fish.</sent>
+				<sent id ="52">The prawns vary in size.</sent>
+				<sent id ="53">They live in the fresh waters of pond, rivers, canals and lake, and also in the salty sea waters.</sent>
+				<sent id ="54">It has a long, serrated rostrum, or beak, that projects from the shell.</sent>
+				<sent id ="55">A exoskeleton that is segmented only from the outside, covers the body.</sent>
+				<sent id ="56">The body is divided into two parts'a fused head and thorax the cephalothorax, and abdomen.</sent>
+				<sent id ="57">A hard covering called carapace covers the head and thorax part.</sent>
+				<sent id ="58">The shrimps have thirteen pairs of appendages on the cephalothorax.</sent>
+				<sent id ="59">The abdomen contains six pairs of appendages.</sent>
+				<sent id ="60">Some of the appendages may have pincers.</sent>
+				<sent id ="61">These appendages have various function, like sensory, swimming, feeding, and walking.</sent>
+				<sent id ="62">It has a long, serrated rostrum, or beak, that projects from the head in the midline.</sent>
+				<sent id ="63">This is used as a defence organ.</sent>
+				<sent id ="64">The appendages in the head is called antennae, which works as sensory organ.</sent>
+				<sent id ="65">On either side of the rostrum, the head usually has a pair of compound eyes.</sent>
+				<sent id ="66">The abdomen is formed of six segments.</sent>
+				<sent id ="67">A tail portion'telson'bears the anus, an elongated opening that is occasionally used in swimming.</sent>
+				<sent id ="68">Abdominal appendages may be used in locomotion but frequently have other functions, such as respiration.</sent>
+				<sent id ="69">A pair of excretory openings that serve as kidneys are located near the antennae, or the second appendage.</sent>
+				<sent id ="70">This is the organ of excretion of waste products.</sent>
+				<sent id ="71">The shrimps can live in both fresh and saline water.</sent>
+				<sent id ="72">They usually crawl along the bed of the water bodies, and can swim from one place to another too.</sent>
+				<sent id ="73">They do not move much during the daytime, at night they look for their food.</sent>
+				<sent id ="74">Habitat, diet, and growth: Shrimps eat both organic and inorganic food.</sent>
+				<sent id ="75">Many of them eat small plants and animals, such as corals, insects, small snails, tadpole take, small fish.</sent>
+				<sent id ="76">Many strain take small particles of organic and inorganic food from the water.</sent>
+				<sent id ="77">The mouth parts is in the rostrum, which is used to take all sorts of food.</sent>
+				<sent id ="78">The exoskeleton protects the body maintains the shape of the body, and protects it from external injury.</sent>
+				<sent id ="79">The exoskeleton does not grow, so at intervals, the shrimps shed the exoskeleton and grow a new one.</sent>
+				<sent id ="80">Shrimps are a source of protein which is very tasty.</sent>
+				<sent id ="81">There is a great demand of shrimp in the foreign countries.</sent>
+				<sent id ="82">Bangladesh is earning huge amount of foreign exchange through export of shrimps.</sent>
+				<sent id ="83">Hence, it is called the silver crop of Bangladesh.</sent>
+				<sent id ="84">About 7.6 percent of the foreign exchange earned by Bangladesh comes from the export of shrimps.</sent>
+				<sent id ="85">Lots of people are engaged in the cultivation of, and businesses related to shrimp.</sent>
+				<sent id ="86">This serves as employment for them.</sent>
+				<sent id ="87">So this industry helps to reduce unemployment in the country.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

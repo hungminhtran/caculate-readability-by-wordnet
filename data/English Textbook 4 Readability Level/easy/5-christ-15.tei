@@ -1,0 +1,91 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.173</idno>
+				<idno type="Number of sentences">63</idno>
+				<idno type="Number of tokens">781</idno>
+				<idno type="Number of token types">334</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t19">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Along with the Catholic Church some other Christian churches hold that there are 7 Sacraments (holy rites of sanctification).</sent>
+				<sent id ="2">But some Protestant Churches recognize just 2 Sacraments, viz., Baptism (Immersion) and the Lord's Supper.</sent>
+				<sent id ="3">We know that Jesus himself instituted these Sacraments.</sent>
+				<sent id ="4">In other words, Sacraments are holy and efficacious signs given to us by Jesus for our sanctification.</sent>
+				<sent id ="5">Of the Seven Sacraments, we have learned about Baptism, Confession and Holy Communion.</sent>
+				<sent id ="6">We learned that we enter into the family of God through baptism.</sent>
+				<sent id ="7">Then we grow strong in faith by the grace of Christ.</sent>
+				<sent id ="8">By confessing we obtain forgiveness of our sins and reconcile with God and fellowmen.</sent>
+				<sent id ="9">Here we will discuss about the Sacrament of Confirmation at length.</sent>
+				<sent id ="10">The Significance of Confirmation Confirmation is an important Sacrament.</sent>
+				<sent id ="11">Baptism, Communion and Confirmation - these three Sacraments are called the Sacraments of initiation into the Christian life.</sent>
+				<sent id ="12">No fullness comes in our Christian life until we receive the aaaaSacrament of Confirmation by a bishop or a priest.</sent>
+				<sent id ="13">Until this Sacrament our journey into the Christian life remains incomplete.</sent>
+				<sent id ="14">New life is given to us when we receive baptism.</sent>
+				<sent id ="15">This new life is to be lived in God's love.</sent>
+				<sent id ="16">This new life reaches its fulfillment at the Sacrament of Confirmation conferred by a Bishop or a Priest.</sent>
+				<sent id ="17">By the reception of the Sacrament of Confirmation we are enriched with the power of the Holy Spirit.</sent>
+				<sent id ="18">Our Christian faith attains maturity.</sent>
+				<sent id ="19">Maturity here means the ability to understand what is good or what is bad.</sent>
+				<sent id ="20">The Sacrament of Confirmation strengthens us with the power of the Spirit.</sent>
+				<sent id ="21">Then one can understand what is virtuous and what is sinful.</sent>
+				<sent id ="22">By this Sacrament one grows to be mature in the Christian faith and hope.</sent>
+				<sent id ="23">Who can receive this Sacrament?</sent>
+				<sent id ="24">Each baptized person not yet confirmed can and should receive this Sacrament of Confirmation.</sent>
+				<sent id ="25">That is to say baptism must precede the Sacrament of Confirmation.</sent>
+				<sent id ="26">One should have the age of discretion before receiving the Sacrament of Confirmation.</sent>
+				<sent id ="27">One has to personally express his intention to The Bishop confers the Sacrament of Confirmation receive this Sacrament.</sent>
+				<sent id ="28">He must take part in Christian ceremony having cleanness in heart.</sent>
+				<sent id ="29">In the celebration of Confirmation, candidates are anointed on the forehead with the sacred chrism blessed by a Bishop.</sent>
+				<sent id ="30">The Bishop extends his hands over the head and invokes the Holy Spirit.</sent>
+				<sent id ="31">Normally only the Bishop can confer the Sacrament of Confirmation.</sent>
+				<sent id ="32">But in two instances a priest can also confer this Sacrament.</sent>
+				<sent id ="33">First, a Priest can confer the Sacrament of Confirmation on an adult immediately after he is baptized.</sent>
+				<sent id ="34">The use of chrism in the Sacrament of Confirmation Why is chrism used in this Sacrament?</sent>
+				<sent id ="35">In the Old Testament, the king was anointed with oil.</sent>
+				<sent id ="36">By Confirmation we are initiated into the Christian life.</sent>
+				<sent id ="37">After being anointed the king had the authority to administer and rule his country.</sent>
+				<sent id ="38">Likewise by Confirmation we gain the power to administer and rule ourselves with the power of the Holy Spirit.</sent>
+				<sent id ="39">Oil is necessary for our physical health.</sent>
+				<sent id ="40">So oil keeps the child fresh.</sent>
+				<sent id ="41">Then no evil power can attack us easily.</sent>
+				<sent id ="42">The power of the Holy Spirit is like the oil for us.</sent>
+				<sent id ="43">The Holy Spirit heals us.</sent>
+				<sent id ="44">A wound is healed when oil is applied.</sent>
+				<sent id ="45">The Sacrament of Confirmation imprints on the soul an indelible spiritual mark.</sent>
+				<sent id ="46">This mark or seal is an impression of the Holy Spirit.</sent>
+				<sent id ="47">This seal of the Holy Spirit marks our total belonging to Christ as believers.</sent>
+				<sent id ="48">This means that we receive the Sacrament of Confirmation only once in our life.</sent>
+				<sent id ="49">Why is this seal imprinted?</sent>
+				<sent id ="50">We know that the possession of a thing is ensured by a seal.</sent>
+				<sent id ="51">In the ancient times a seal was imprinted on the body of a soldier when he entered the Army.</sent>
+				<sent id ="52">That was never to be erased.</sent>
+				<sent id ="53">The seal meant a guarantee that this person was a soldier of a particular country or kingdom.</sent>
+				<sent id ="54">By Confirmation one becomes a faithful follower and a courageous witness of Christ.</sent>
+				<sent id ="55">He or she becomes a soldier of Christ to fight against sins in this world.</sent>
+				<sent id ="56">We can bear testimony to our faith and religion with courage.</sent>
+				<sent id ="57">He is no longer afraid to die for his religious belief.</sent>
+				<sent id ="58">The following are the effects of the Sacrament of Confirmation:</sent>
+				<sent id ="59">It roots us more firmly in the divine filiation with God the Father and communion with His children.</sent>
+				<sent id ="60">It unites us more firmly to Christ Jesus.</sent>
+				<sent id ="61">It increases the gifts of the Holy Spirit in us.</sent>
+				<sent id ="62">It renders our bond with the Church more perfect.</sent>
+				<sent id ="63">It makes us courage to confess the name of Christ boldly, and never to be ashamed of the Cross.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

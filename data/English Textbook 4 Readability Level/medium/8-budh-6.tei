@@ -1,0 +1,175 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-budh-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.254</idno>
+				<idno type="Number of sentences">147</idno>
+				<idno type="Number of tokens">2033</idno>
+				<idno type="Number of token types">804</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t107">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The places associated with memories of the Buddha and His Dharma are very sacred to the Buddhists.</sent>
+				<sent id ="2">Visits to historical places causes the mind to broaden.</sent>
+				<sent id ="3">The old memories of the Bouddha-Dharma wake in the mind.</sent>
+				<sent id ="4">Many glorious achievements of the disciples of the Buddha and the Buddhist kings are hidden in these places.</sent>
+				<sent id ="5">As a result of excavating these places, many Buddha stupas and monasteries have been discovered.</sent>
+				<sent id ="6">The Buddha was the founder of an epoch-making chapter in the shaping of the stream of unity in the Indian history.</sent>
+				<sent id ="7">The members of His Sangha preached the words of the Buddha in the cities and every nook and corner of this country.</sent>
+				<sent id ="8">The Sangha of the Buddha became a big human Sangha.</sent>
+				<sent id ="9">Fa Hien, Huen Tsang and other Buddhist travellers had left behind the history of the glory of the Buddhists.</sent>
+				<sent id ="10">The then Buddha monasteries became the centres for the discussion of the Dharma and the scriptures of the Buddha.</sent>
+				<sent id ="11">The disciples of the Buddha not only taught the Dharma but also taught Astrology, Ayurvedic medical science, Mathematics, arts and crafts and sculpure.</sent>
+				<sent id ="12">Taxila, Nalanda and Vikramshila were the best institutions of learning in those ages.</sent>
+				<sent id ="13">Shilbhadra, Atish Dipankar were the world famous scholars.</sent>
+				<sent id ="14">Still now the rules of the kings like Ashok, Prasenjit, Dharmapal reveals the Buddhist culture in ancient India.</sent>
+				<sent id ="15">Emperor Asok and Emperor Kaniska propagated the words of the Buddha in and outside India.</sent>
+				<sent id ="16">Buddhist educational institutions like Paharpur, Mahasthangarh, Maynamati propagated cultural activities in Bangladesh.</sent>
+				<sent id ="17">The artistry of Ajanta and Ellora are the bright evidence of fine arts.</sent>
+				<sent id ="18">That is why the Buddhist historical places are so important.</sent>
+				<sent id ="19">It was the capital of Batsa of the sixteen locality of ancient India: King Udayana was on the throne.</sent>
+				<sent id ="20">The present name is Kosama.</sent>
+				<sent id ="21">It is situated on the bank of Yamuna, about forty kilometre south of Allhabad of Uttar Pradesh (U.P.) of India.</sent>
+				<sent id ="22">It was a city near Prayag.</sent>
+				<sent id ="23">By river the distance of Kosambi from Beneras was thirty Yojanas (league).</sent>
+				<sent id ="24">The Chinese traveller Fa-Hien saw the Ghositarama monastery of Kosambi.</sent>
+				<sent id ="25">At that time a good number of Sthabirvadin monks used to live there.</sent>
+				<sent id ="26">Huen Tsang visited Kosambi.</sent>
+				<sent id ="27">In his travel diary he indicated that, it was spread over twelve hundred kilometre.</sent>
+				<sent id ="28">In Kosambi, he saw a large number of monasteries, stupas, temples and the building of Ghosita Sresthi (millionaire) in broken condition.</sent>
+				<sent id ="29">At that time a large number of monks were living in the monasteries.</sent>
+				<sent id ="30">In the light of the above description, Cunningham pointed Kosam as the old city of Kosambi.</sent>
+				<sent id ="31">Many ruins have been discovered there after archaeological excavation.</sent>
+				<sent id ="32">Fortresses, deep wells, drains, earthen-pots, gold coins or sealed coins, stamps, seals, room for the guards, inscription (writing on stones) are worth mentioning.</sent>
+				<sent id ="33">From these we get the identity of the locality found at the excavated site of Kosam.</sent>
+				<sent id ="34">By this, it is proved that the city of Kosambi was well fortified or protected by different walls.</sent>
+				<sent id ="35">One can witness here the advancement of administration by seal-stamp (mohur), trade by currency or coins and education by alphabets.</sent>
+				<sent id ="36">Kosambi is the place commemorated with the Buddha.</sent>
+				<sent id ="37">In Ghositarama (monastery) of Kosambi, the monks were divided into two groups as a result of quarrel between a Vinaydhar and a Sutradhar.</sent>
+				<sent id ="38">Afterwards the lay disciples also took sides, between these two groups.</sent>
+				<sent id ="39">As the quarrel was not settled, the Buddha observed Barshabas (Rainy retreat) in the forest of Parileyya.</sent>
+				<sent id ="40">In that forest, he was worshipped by an elephant and served honey by a monkey on the full-moon day of Bhadda (Bang.</sent>
+				<sent id ="41">Bhadra) which later became renowned as the Madhu-punnamasa (Bang.</sent>
+				<sent id ="42">Taxila is very old and famous among the ancient educational Institutions of India.</sent>
+				<sent id ="43">At the very time of the advent of the Buddha Bhagavan, this University was in existence.</sent>
+				<sent id ="44">Even before the age of the Buddha (Pre-Buddhistic age), there was a big University in Taxila.</sent>
+				<sent id ="45">This was the capital of Gandhar (kingdorn).</sent>
+				<sent id ="46">It is situated by the side of Saraikala railway junction twenty four kilometre from the city of Rawalpindi.</sent>
+				<sent id ="47">The ruins of ancient Taxila are spread over eight kilometres.</sent>
+				<sent id ="48">Even the Indian Aryas had established their colony in this place in ancient time.</sent>
+				<sent id ="49">Minister Chanakya of Maurya king Chandragupta was a great scholar of this University.</sent>
+				<sent id ="50">Panini, the writer of theory of Astadhayee Grammar was one of the famous students of this University.</sent>
+				<sent id ="51">The other two scholar monks named Dharmarakkha and Matanga were the famous students of this University.</sent>
+				<sent id ="52">They went to China to propagate the Dharma of the Buddha.</sent>
+				<sent id ="53">During the reigns of the kings of Gupta a good number of students in groups came to this University for studies.</sent>
+				<sent id ="54">Even in the Jataks like Panchayudha, Varuna, Tilamutthi, Sivi etc, the glory of this University is mentioned.</sent>
+				<sent id ="55">Here different arts and sciences were taught.</sent>
+				<sent id ="56">In the book Mahavagga also, there is a description of the great glory of this University.</sent>
+				<sent id ="57">The Buddhists had named the Taxila as Takkasila.</sent>
+				<sent id ="58">As per the Jatak, the Buddha in a certain birth sacrificed His life by donating His head.</sent>
+				<sent id ="59">In the Kumbhakar Jatak it is mentioned that Taxila was the capital of a king named Naggaji.</sent>
+				<sent id ="60">The Emperor Bindusar sent prince Ashok to subdue the revolt at Taxila.</sent>
+				<sent id ="61">It is learnt from the book Dipavamsa that a Buddhist king named Dipankar and his twelve descendants ruled Taxila.</sent>
+				<sent id ="62">At the time of Kaniska, a Kusan king, the glory of it gradually decreas as the capital was shifted to Puruspur from Taxila.</sent>
+				<sent id ="63">Princes, rich and dignified persons of Mithila, Indrapatha (Bang.</sent>
+				<sent id ="64">Indrapastha), Kosal, Deccan etc. used to give much importance to Taxila for studies.</sent>
+				<sent id ="65">The royal physician Jivak studied Ayurvedic Medical Science for seven years in the University of Taxila.</sent>
+				<sent id ="66">It is said that, he completed the 14-year course of Ayurvedic Medical Science in seven years.</sent>
+				<sent id ="67">So he was given the highest degree of Ayurvedic by the University.</sent>
+				<sent id ="68">The Hun (a race) attacked and destroyed this city at 450 A.D. Its present name is Peshwar.</sent>
+				<sent id ="69">This is situated in the North-Western Frontier province of Pakistan.</sent>
+				<sent id ="70">In ancient time, it was the capital of Gandhar State.</sent>
+				<sent id ="71">Here the Buddhist king named Kaniska reigned.</sent>
+				<sent id ="72">During his reign this city became the main centre of whole of Asia.</sent>
+				<sent id ="73">During his time, the Tripitak was written in Sanskrit at the 4th Buddhist Conference (according to Mahayana system).</sent>
+				<sent id ="74">It is indicated in the Rajatarangini of Kalahana that, the Emperor Kaniska built a very big monastery (Vihar) and a shrine (Cheitya) in Puruspur.</sent>
+				<sent id ="75">The vihar and the Cheitya was known as Kaniska vihar and Kaniska chetiya respectively.</sent>
+				<sent id ="76">The height of the Kaniska stup was about 121.52 mitre.</sent>
+				<sent id ="77">The height of the platform on which the stup was built was about 45.57 mitre in height.</sent>
+				<sent id ="78">The platform is of five storied.</sent>
+				<sent id ="79">The Chinese travellers Fa-Hien, Sung Hun, Huen Tsang were surprised at the sight of the Dhatustup (relic shrine).</sent>
+				<sent id ="80">Hue-Tsang saw the Kaniska vihar at ruined condition.</sent>
+				<sent id ="81">Though fallen, he went from one peak to another by the attached ladder.</sent>
+				<sent id ="82">The Arabian traveller Al-Beruni also mentioned about one Kaniska chetiya.</sent>
+				<sent id ="83">The Buddhist Conference was held at the time of the Emperor Kaniska.</sent>
+				<sent id ="84">The famous learned monk Vasumitra, great poet Ashaghos and other five hundred scholars attended the Conference.</sent>
+				<sent id ="85">Only the Sarvastivadin monks (the monks of sect of Sarvastivada) attended the Conference.</sent>
+				<sent id ="86">Emperor Kaniska kept the scripts of the whole Tripitak engraved on copper plates in a iron house under the earth.</sent>
+				<sent id ="87">It is a matter of regret that, those scripts of the Tripitak have not been found.</sent>
+				<sent id ="88">During the reion of Kaniska propagators were sent to China from Puruspur to propagate the Dharma of the Buddha.</sent>
+				<sent id ="89">After this Conference the book Mahavibhasa Shastra was written in three volumes, namely, Abhidharma Vibhasa Shastra, Vinay Vibhasa Shastra and Sutra Vibhasa-Shastra.</sent>
+				<sent id ="90">Many ruins of Buddhist cultures are still seen in Puruspur.</sent>
+				<sent id ="91">Paharpur is situated at a distance of about four kilometre from Jamalganj railway station of Naogaon district.</sent>
+				<sent id ="92">This is a famous historical place.</sent>
+				<sent id ="93">The king of the Pal dynasty ruled Bangladesh from 6th A.D. to 12 th century A.D.</sent>
+				<sent id ="94">At that time it was a renowned city.</sent>
+				<sent id ="95">King Dharmapal, at the begining of his rule built a big monastery here.</sent>
+				<sent id ="96">It was named as Sompur Mahavihar.</sent>
+				<sent id ="97">This place including the adjacent areas was known as the Barendra Area.</sent>
+				<sent id ="98">The ruins of this monastery have been discovered and identified as the Sompur Mahavihar.</sent>
+				<sent id ="99">The village Ompur is still carrying reminiscence of the ancient name.</sent>
+				<sent id ="100">At that time, there was no such huge monastery in the regions south of the Himalayas.</sent>
+				<sent id ="101">Kingdom of Dharmapal extended from Narmada of North India to Ujjaini.</sent>
+				<sent id ="102">In his kingdom it was the best monastery.</sent>
+				<sent id ="103">His wife Rana Devi was described as the Murtimati kirti, because, she also established many monasteries and temples.</sent>
+				<sent id ="104">Those monasteries and temples were built centering the Sompur Vihar.</sent>
+				<sent id ="105">The broadness of king Dharmapal and his patronization towards the Dharma of the Buddha stand out till today as the bright instances of his contribution.</sent>
+				<sent id ="106">Dharmapal established fifty other Buddhist educational institutions keeping the Sompur vihar as the Central institution.</sent>
+				<sent id ="107">There were 117 rooms in the Sompur vihar.</sent>
+				<sent id ="108">The monks used to live there.</sent>
+				<sent id ="109">There is a similarity between this great monastery (Mahavihar) and the Borubhudur Buddhist monastery of Indonesia.</sent>
+				<sent id ="110">By, this, it is presumed that the Barubhdur monastery was constructed in accordance with the Sompur vihar.</sent>
+				<sent id ="111">As a result of excavation some engraved inscriptions and many stone statues of the time of king Mahendrapal were found.</sent>
+				<sent id ="112">The engraved coins of the time of Caliph Harun-al-Rashid were also discovered.</sent>
+				<sent id ="113">The learned Bodhibhadra lived in the Mahavihar of Sompur.</sent>
+				<sent id ="114">Many books written by monk Bodhibhadra were translated into Tibetan language.</sent>
+				<sent id ="115">The Achariya Dipankar Sreegyan translated Madyamker Ratnadipa of Bhavaviveka residing at this monastery.</sent>
+				<sent id ="116">Vipulasree Mittra reconstructed teacher's monastery.</sent>
+				<sent id ="117">It is located on the bank of the river Karatoya near the railway station of Bogra.</sent>
+				<sent id ="118">The ancient name of Mahasthangarh was Pundravardhan.</sent>
+				<sent id ="119">Once this Pundravardhan was the centre for administration of North Bengal.</sent>
+				<sent id ="120">The history of Mahasthangarh is very old.</sent>
+				<sent id ="121">At the times of Mauryas, Guptas and Palas, it was a religious centre for the Buddhists.</sent>
+				<sent id ="122">After excavation, many ruins of different ages have been discovered in this place.</sent>
+				<sent id ="123">Many evidences of the time of the Buddha are present here.</sent>
+				<sent id ="124">The archaeologists have agreed with one voice that the ancient Pundravardhan is the Mahasthan (garh).</sent>
+				<sent id ="125">This was the biggest city in the ancient Bengal.</sent>
+				<sent id ="126">In the year 1808 archaeologist Bucanan Hamilton first gave the description of this place.</sent>
+				<sent id ="127">On the basis of this description, Sir A. Cunningham visited this place in the year 1879.</sent>
+				<sent id ="128">He proceeded in light of the word Pan-phan-on (Pundravardhan) mentioned in the travel description of Chinese traveller Huen Tsang.</sent>
+				<sent id ="129">After further research in the year 1931, an authentical proof was found about Pundravardhan in the inscription of Ashok i.e.</sent>
+				<sent id ="130">In the year 1973-74, the Archaeological Department during the excavation of the Jungle named Narapatir Dhapa, the full data of Bhasu vihar has been found.</sent>
+				<sent id ="131">From the ruins of the monastery ancient coins, other materials, jhani (Bang.</sent>
+				<sent id ="132">dyane) Buddha i.e. the Buddha with meditation, Bodhisattva Avalokitesvar, Tara Manjusree, Dharmachakra and statues of the female devotees have been discovered.</sent>
+				<sent id ="133">Besid these, outside this monastery, there are signs of dwelling house of Govinda, pool of Mankani and house of Veragi (Bang.</sent>
+				<sent id ="134">Huen Tsang visited the ancient Pundravardhan.</sent>
+				<sent id ="135">At that time, he saw many stups, educational institutions including the Bhasu vihar.</sent>
+				<sent id ="136">Emperor Ashok built a stup placing the relics of the Buddha in theBhasu vihar.</sent>
+				<sent id ="137">Long ago, the excavation-work of Mahasthangarh was started.</sent>
+				<sent id ="138">It has not yet been completed.</sent>
+				<sent id ="139">It has been left half done or it is lying in half excavated condition.</sent>
+				<sent id ="140">In the eastern side of the excavated place, a mosque and a Madrasa (Muslim educational institution) have been built now.</sent>
+				<sent id ="141">On the southern part, a small village has come into existence.</sent>
+				<sent id ="142">In the village a primary school has been established.</sent>
+				<sent id ="143">To the archaeologist this place is very important.</sent>
+				<sent id ="144">You should see the Buddhist, historical places of Bangladesh.</sent>
+				<sent id ="145">Everywhere beneath the earth of Bangladesh relics of Buddhist culture are hidden.</sent>
+				<sent id ="146">Paharpur, Mahasthangarh, Maynamati and other historical places have become places of reverence to the Buddhists as the old memorial places.</sent>
+				<sent id ="147">It also inspires the tourists to know the unknown.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,166 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-bdGlobal-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.922</idno>
+				<idno type="Number of sentences">138</idno>
+				<idno type="Number of tokens">2007</idno>
+				<idno type="Number of token types">944</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t93">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The Bangalees are an ancient nation with rich cultural heritage.</sent>
+				<sent id ="2">Our culture denotes what we are, how we live, what we use and create, what events we celebrate etc.</sent>
+				<sent id ="3">In that sense, our food, shelter, utensils, means of transport, dress, ornaments, festivals, songs and music, language and literature together define our culture.</sent>
+				<sent id ="4">All these are directly related to creativity.</sent>
+				<sent id ="5">Yet, some activities are more important than others from the cultural point of view.</sent>
+				<sent id ="6">The activities that reflect the power of thinking and intellectual status of a nation, are considered as art.</sent>
+				<sent id ="7">This chapter introduces visual art, literature, and music as part of Bengali art and culture.</sent>
+				<sent id ="8">Bangladesh has an abundance of alluvial land.</sent>
+				<sent id ="9">People have been using this land along with bamboos produced here to build houses.</sent>
+				<sent id ="10">Traditionally these houses have two, four, or eight roofs with bamboo frames called tarja.</sent>
+				<sent id ="11">Sometimes these frames are covered with a kind of long grass called shon.</sent>
+				<sent id ="12">Most of the houses in the rural areas replicate this type.</sent>
+				<sent id ="13">Once upon a time, many temples were built here with diced bricks.</sent>
+				<sent id ="14">Those bricks were not like the ones we see now.</sent>
+				<sent id ="15">They were special.</sent>
+				<sent id ="16">Many pictures were engraved on the soil plates first, and then burnt to give permanent images.</sent>
+				<sent id ="17">This craft is known as terracotta (burnt soil).</sent>
+				<sent id ="18">The Kantaji's Temple in Dinajpur is very famous for its terracotta as they depict the story of the Ramayana.</sent>
+				<sent id ="19">The Sompur Bihar of Paharpur is also famous for its terracotta.</sent>
+				<sent id ="20">This type of art reveals the social life of that particular time.</sent>
+				<sent id ="21">The tradition of making idols of gods and goddesses of Hindu and Buddhist communities using black stones and soil is also very ancient and famous.</sent>
+				<sent id ="22">The palm-leaf books (punthi) of the Pal era are equally wonderful.</sent>
+				<sent id ="23">The modern art critics also appreciate the pictures drawn there with locally available colours.</sent>
+				<sent id ="24">After all these years the pictures are still bright.</sent>
+				<sent id ="25">These punthis are some holy books of the Buddhist community.</sent>
+				<sent id ="26">The handloom industry of the Bengal is also very famous.</sent>
+				<sent id ="27">The dukul cloths of the ancient Bengal were well known to all.</sent>
+				<sent id ="28">In this regard, koutillya says that the dukuls of pundradesh (North Bengal) were dark in colour and as smooth as jewels.</sent>
+				<sent id ="29">Dukul was a kind of fine cloth whereas khoumobostro was a little coarse.</sent>
+				<sent id ="30">Besides, the potrorn, a kind of silk like the andy/muga, of Magadha and Pundra was legendary too.</sent>
+				<sent id ="31">In that ancient time, the dukul, potrorn, khoumo and carpash were exported to foreign countries.</sent>
+				<sent id ="32">Some other famous cloths produced in the Bengal were khasa, elachi, hamam, chouta, utani, susij, kosa, malmal, duria, miraband etc.</sent>
+				<sent id ="33">The maslin of Bengal was simply legendary for its fineness and unparallel quality.</sent>
+				<sent id ="34">The sharees of Bengal such as silk, jamdani, tangail, maslin, garad are still outstanding.</sent>
+				<sent id ="35">Since the Sultani era the architecture of Bengal was influenced by the Iranian and Turani culture.</sent>
+				<sent id ="36">Many mosques as well as houses and offices with large dome and entrance were built following their tradition.</sent>
+				<sent id ="37">Some of them are the choto sona masjid, the nawab katra, and the lalbag fort.</sent>
+				<sent id ="38">We cannot but avoid the Nakshikantha of the Bengal.</sent>
+				<sent id ="39">For long the village women have been sewing a local kind of quilt full of beautiful visuals, and stories.</sent>
+				<sent id ="40">Sewing nakshikantha is still in practice among the unprivileged women in our society.</sent>
+				<sent id ="41">The oldest form of Bangla discovered so far is charjapada.</sent>
+				<sent id ="42">It was discovered by Pundit Hara Prashad Shastri from the royal court of Nepal.</sent>
+				<sent id ="43">Afterwards Dr. Muhammad Shahidullah worked out its time.</sent>
+				<sent id ="44">From his research we understand that the Buddhist monks wrote them nearly 1500 years ago.</sent>
+				<sent id ="45">In the present context, they are too difficult to understand.</sent>
+				<sent id ="46">Besides, we need to realize the thematic meaning along with the denotative meaning of the texts.</sent>
+				<sent id ="47">Lui Pa and Kantho Pa are two of the famous charjapada writers.</sent>
+				<sent id ="48">Below is an example of charja followed by its translation in modern Bangla.</sent>
+				<sent id ="49">It means that the five senses of our body are like five branches.</sent>
+				<sent id ="50">We communicate with this world through them.</sent>
+				<sent id ="51">Too much obsession with them leads us to worldly affairs and danger.</sent>
+				<sent id ="52">The Sultani era was also very much influenced by Sri Chaitanya Dev and his baishnaba philosophy.</sent>
+				<sent id ="53">During this period, Kirtanas were very trendy.</sent>
+				<sent id ="54">The kirtanas are stuffed with emotion, and love stories of Lord Sri Krishna and Radha.</sent>
+				<sent id ="55">These are commonly known as baishnaba padabali.</sent>
+				<sent id ="56">Some of the eminent lyricists of baishnaba padaboli are Bidyapati, Chandi Das, Gyandash, Gobinda Das and so on.</sent>
+				<sent id ="57">During this time the Hindus and the Muslims were living in parity and many Muslim poets also became famous by composing vaishnaba padabali.</sent>
+				<sent id ="58">Apart from all these, many poets composed different sorts of lyric-stories based on the local gods and goddesses.</sent>
+				<sent id ="59">These are known as Mangal Kabya.</sent>
+				<sent id ="60">The Chandimangal of Mukundaram, The Dharmamangal of Ghonoram, and The Manoshamangal of Bijoygupta are quite renowned.</sent>
+				<sent id ="61">The Annadamangal of Bharot Chandra depicts the social condition of the then time.</sent>
+				<sent id ="62">Another important field of literature is Punthi.</sent>
+				<sent id ="63">It was very much loved by the Muslims.</sent>
+				<sent id ="64">These were based on fictitious Iranian stories blended with romantic elements.</sent>
+				<sent id ="65">Recitation from punthis in front of a gathering was very popular then.</sent>
+				<sent id ="66">Copying punthi for preservation was also the go of the day.</sent>
+				<sent id ="67">Some of the well known punthis are Yusuf- Zolekha, Laily-Majnu, Saiful Mulk Bodiuzzaman, Jongonama, etc.</sent>
+				<sent id ="68">The Padmabati composed by Alawal is hugely celebrated in Bangla literature.</sent>
+				<sent id ="69">The introduction of Bangla prose began from the British period.</sent>
+				<sent id ="70">Writers like Michael Madhusudan Dutta, Mir Mosharraf Hossain, Dinabandhu Mitra and some others had significant roles in the growth of Bangla literature.</sent>
+				<sent id ="71">Bangladesh is a land of music.</sent>
+				<sent id ="72">Here music is composed even by farmers while ploughing their lands, it is composed by the boatmen while plying through rivers and cannels.</sent>
+				<sent id ="73">Even the common people compose their own kind of music with spiritual feelings.</sent>
+				<sent id ="74">Music is a means of prayer for many people.</sent>
+				<sent id ="75">It is interesting that the old form of Bangla literature charjapada and popular baishnaba padabali were written in musical forms.</sent>
+				<sent id ="76">Besides, the kirtanas were quite popular among the Hindu community and they still are.</sent>
+				<sent id ="77">However, the baul music and the bhatiali are adored and sung not by any particular community; rather they are sung by all.</sent>
+				<sent id ="78">Many local songs such as murshidi, palagaan, baromashya, bhaoyaiya, and gomvira have enriched the musical arena of this country.</sent>
+				<sent id ="79">Once upon a time, soirees for panchali, kheur, and khemta were very popular in the urban areas.</sent>
+				<sent id ="80">With the passage of time, the Bangali musical devotees were influenced by the classical music of the northern India.</sent>
+				<sent id ="81">This ultimately paved the way for the modern music in Bangla.</sent>
+				<sent id ="82">Nidhu Babu, Kali Mirja and some others are pioneers in this area but it gained excellence by Rabindra Nath Tagore.</sent>
+				<sent id ="83">Our national anthem amar sonar Bangla, ami tomai valobashi is a creation of Rabindro Nath Tagore too.</sent>
+				<sent id ="84">He has borrowed the melody of this music from the Baul songs.</sent>
+				<sent id ="85">Afterwards, many others following the paths of Rabindra Nath have enhanced the growth of modern Bangla songs.</sent>
+				<sent id ="86">Among them, Kazi Nazrul Islam stands apart for his approach and variety.</sent>
+				<sent id ="87">He has composed nearly six thousand songs in his twenty year long creative career.</sent>
+				<sent id ="88">Institutions play important roles in shaping up people's intellect and creativity in the modern civilization.</sent>
+				<sent id ="89">Like all other countries, Bangladesh has some institutions for this purpose.</sent>
+				<sent id ="90">The Bangla Academy was established in the context of the Language Movement.</sent>
+				<sent id ="91">To establish such an academy was an election pledge of the Joint Alliance (Juktofront) in 1954.</sent>
+				<sent id ="92">It symbolizes intellectual potentials of the Bangalee and has been working for the improvement of Bangla language and literature.</sent>
+				<sent id ="93">The Bangladesh Shilpokala Academy has been working for the development of creative arts, such as, fine arts, music, drama, and dance.</sent>
+				<sent id ="94">Every district has a branch of Shilpokala Academy now that provides infrastructural facilities and support services for the promotion, enhancement, and research of creative arts.</sent>
+				<sent id ="95">The Bangladesh Shishu Academy involves children in liberal arts, and literature through their activities.</sent>
+				<sent id ="96">This institution has branches in every district head quarter too.</sent>
+				<sent id ="97">Like all other advanced countries, Bangladesh has many universities, and libraries to exercise rational aspects of life.</sent>
+				<sent id ="98">The National Museums of the country preserve the antiques for exhibition and research.</sent>
+				<sent id ="99">The country also has many zoos, botanical gardens, national forests, novo-theatres, and science museums.</sent>
+				<sent id ="100">They too are playing important roles in the preservation and expansion of our culture.</sent>
+				<sent id ="101">Some other Govt.</sent>
+				<sent id ="102">museums are functioning to do the same.</sent>
+				<sent id ="103">The Barendra Museum in Rajshahi, or the Muktijuddho Jadughor in Dhaka are two examples of non-Govt.</sent>
+				<sent id ="104">initiative in this regard.</sent>
+				<sent id ="105">Institutions like Bulbul Lolitokala Academy (Bangladesh Academy of Fine Arts/BAFA) and Chayanat are working relentlessly to exercise and uphold Bengali culture.</sent>
+				<sent id ="106">Udichi and Kranti are two organizations that have been practising people's music (gonosangit) from long before the independence war.</sent>
+				<sent id ="107">Organizations like Khelaghor and Kochi Kanchar Ashor work around the country to organize and groom up children and teen agers.</sent>
+				<sent id ="108">Many drama-organizations are regularly performing theatre all over the country.</sent>
+				<sent id ="109">The role of Sommilito Sannskritk Jote, Rabindra Sangit Sommilon Parishod, Natyo Somonnoy Porishod, and Abriti Somonnoy Porishod have Dhaka based activities to nourish Bangalee culture.</sent>
+				<sent id ="110">Now let us know the eminent educationists of our country who have introduced Bangla education, art and culture to the whole world.</sent>
+				<sent id ="111">Dr. Mohammad Shahidullah and Dr. Mohammad Enamul Haq are two famous language researchers of our country.</sent>
+				<sent id ="112">Dr. Mohammad Shahidullah has written the history of Bangla literature and language.</sent>
+				<sent id ="113">He has also worked on the period of writing charjapada, and compiled a dictionary of dialects in Bangla.</sent>
+				<sent id ="114">Dr. Mohammad Enamul Haq has composed the history of Bangla literature while 40 Bangladesh and Global Studies working at the royal court of the Arakans.</sent>
+				<sent id ="115">Abdul Karim Sahityabisharad and Mohammad Mansoruddin have analysed our folk, and punthi-based literature to study our cultural practice in the rural areas.</sent>
+				<sent id ="116">Abul Fazal, Motahar Hossain Chowdhury, Kazi Motahar Hossain, Abdul Haq, Dr. Ahmed Sharif are renowned for their reflective and rational articles.</sent>
+				<sent id ="117">Since, Bangladesh is a land of poetry, we have many distinguished poets.</sent>
+				<sent id ="118">Our poetry has reached a certain height with the contributions of Jasimuddin, Ahsan Habib, Shamsur Rahman, Al Mahmud, Shahid Kadri and many others.</sent>
+				<sent id ="119">Additionally our theatre is enriched by some talented playwrights.</sent>
+				<sent id ="120">Among them the pioneers are Munir Chowdhuri, Syed Shamsul Haq, Abdullah Al Mamun, and Selim Al Din.</sent>
+				<sent id ="121">The name of Sufia Kamal is remarkable for her courageous roles at any crisis of the nation.</sent>
+				<sent id ="122">We also remember Shamsunnnahar for her contribution in education, and Jahanara Imam for her roles in spreading the messages of the Liberation War.</sent>
+				<sent id ="123">We all know that the Bangalee are obsessed with the songs of Rabindra Nath and Nazrul Islam.</sent>
+				<sent id ="124">The songs of Radharaman or Hason Raja plunge listeners into deep spiritual thinking.</sent>
+				<sent id ="125">In the field of Bangla folk songs, if we consider Abbas Uddin Ahmed the emperor, then Abdul Alim must be the prince.</sent>
+				<sent id ="126">Shilpachryia Jainul Abedin is the torch bearer /pioneer of our visual art.</sent>
+				<sent id ="127">Kamrul Hasan, S M Sultan, and Safiuddin Ahmed are equally celebrated in this area.</sent>
+				<sent id ="128">We also acknowledge the talent of sculptor Navera Ahmed, who stands apart in her style and individuality.</sent>
+				<sent id ="129">We are proud of architect A. F. R Khan who has designed many sky scrapers, and famous buildings, and establishments around the world.</sent>
+				<sent id ="130">The fame of Ustad Alauddin Khan goes beyond our borders.</sent>
+				<sent id ="131">He is ever remembered in this subcontinent for his contributions to classical music.</sent>
+				<sent id ="132">His younger brother Ustad Ayat Ali Khan is equally celebrated in this regard.</sent>
+				<sent id ="133">We cannot but remember Bulbul Chowdhury who opened the field of dance as a performing art for Bangalee Muslim society.</sent>
+				<sent id ="134">He has invaluable achievements in dance in his short span of life.</sent>
+				<sent id ="135">Our cinema too is rich with the involvement of many talented people.</sent>
+				<sent id ="136">Jahir Raihan, Alamgir Kabir, Suvash Dutta, Khan Ata, Tareq Masud are some of our talented cinema- personalities.</sent>
+				<sent id ="137">On the other hand, Tofajjel Hossain, Abdus Salam, and Jahur Hossain Chowdhury are regarded as the light house in the area of journalism.</sent>
+				<sent id ="138">Thus many talented and dignified people are still working hard in different disciplines of culture.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,145 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-13</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.135</idno>
+				<idno type="Number of sentences">117</idno>
+				<idno type="Number of tokens">1325</idno>
+				<idno type="Number of token types">488</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t17">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The Pentecost A great festival of the Christians is the Pentecost.</sent>
+				<sent id ="2">Before the Christians, the Jews used to observe this feast.</sent>
+				<sent id ="3">How did this festival start to be observed by the Christians?</sent>
+				<sent id ="4">What does the festival really mean?</sent>
+				<sent id ="5">It is important for us to know this.</sent>
+				<sent id ="6">We know that the Israelites got freedom from the slavery of the Egyptians under the leadership of Moses.</sent>
+				<sent id ="7">They had a feast of unleavened bread on the preceding night of the day when they were freed from Egypt.</sent>
+				<sent id ="8">They called this feast as the Feast of Deliverance.</sent>
+				<sent id ="9">After gaining freedom from the slavery of Egypt, they used to observe the feast of deliverance on that day.</sent>
+				<sent id ="10">After seven weeks of the festival of deliverance i.e. on the fiftieth day they used to observe another festival.</sent>
+				<sent id ="11">That festival was known as The Pentecost.</sent>
+				<sent id ="12">So the Pentecost means the fiftieth day.</sent>
+				<sent id ="13">Before this day they used to harvest new grains.</sent>
+				<sent id ="14">Then they used to thank God by observing the Pentecost.</sent>
+				<sent id ="15">The event of the resurrection of Jesus is very important for us.</sent>
+				<sent id ="16">We got freedom from the bondage of sin just as the Jews gained freedom from their slavery in Egypt.</sent>
+				<sent id ="17">After the resurrection Jesus promised to his disciples that he would send the Holy Spirit.</sent>
+				<sent id ="18">The Apostles of Jesus assembled in a house fifty days after the resurrection.</sent>
+				<sent id ="19">They were in great fear of the Jews.</sent>
+				<sent id ="20">At this time the Holy Spirit came down on them.</sent>
+				<sent id ="21">This is the day that we observe as the Pentecost.</sent>
+				<sent id ="22">After the death of Jesus, the Apostles were living in great fear of the Jews because they had killed Jesus.</sent>
+				<sent id ="23">They thought, perhaps they would also be killed by the Jews.</sent>
+				<sent id ="24">Moreover the Apostles had deep faith and hope in Jesus.</sent>
+				<sent id ="25">Now Jesus was no more with them.</sent>
+				<sent id ="26">So they were disappointed.</sent>
+				<sent id ="27">Thus the community which he founded would never grow.</sent>
+				<sent id ="28">So he sent his Spirit on his disciples.</sent>
+				<sent id ="29">The Spirit of Jesus came down on the Apostles fifty days after the resurrection of Jesus.</sent>
+				<sent id ="30">The fiftieth day arrived according to the custom of the Jews.</sent>
+				<sent id ="31">On this day the Apostles were assembled together in a house.</sent>
+				<sent id ="32">They heard a sound like that of a strong wind blowing.</sent>
+				<sent id ="33">The house where they were staying was filled with that sound.</sent>
+				<sent id ="34">They saw that something like tongues of fire came down and rested on them on each one separately.</sent>
+				<sent id ="35">Then they all were filled with the Holy Spirit.</sent>
+				<sent id ="36">The Holy Spirit gave them power to speak.</sent>
+				<sent id ="37">Each of them received the power of speech of them began to speak in different language.</sent>
+				<sent id ="38">Jews from many countries of the world had gathered there.</sent>
+				<sent id ="39">A large number of devout Jews also came to Jerusalem from those countries.</sent>
+				<sent id ="40">A large crowd of people gathered around the house where the Apostles were staying.</sent>
+				<sent id ="41">They came near the house while they heard the sound of violent wind.</sent>
+				<sent id ="42">They were much astonished to hear each of the Apostles speaking in their own language.</sent>
+				<sent id ="43">They thought that the Apostles were drunk with wine.</sent>
+				<sent id ="44">We know that Jesus was baptized in the River Jordan.</sent>
+				<sent id ="45">The Holy Spirit came down on him on that day in the form of a dove.</sent>
+				<sent id ="46">Why did the Holy Spirit come down in the form of the tongues of fire?</sent>
+				<sent id ="47">We shall be able to understand that well if we try to know the different effects or qualities of fire.</sent>
+				<sent id ="48">Fire attracts man.</sent>
+				<sent id ="49">We can see fire in the darkness.</sent>
+				<sent id ="50">So Jesus wanted that the qualities which the Holy Spirit gave us could shine like dazzling light.</sent>
+				<sent id ="51">Fire gives heat.</sent>
+				<sent id ="52">In the days of winter, we light fire and protect ourselves from the cold and feel the warmth.</sent>
+				<sent id ="53">Love is like heat or warmth in our life.</sent>
+				<sent id ="54">In the winter, we are protected by warmth.</sent>
+				<sent id ="55">Heat and cold are opposites.</sent>
+				<sent id ="56">Many people die in the cold of winter.</sent>
+				<sent id ="57">Likewise when love is lacking, many people die.</sent>
+				<sent id ="58">Jesus wanted to save all men from death by his love.</sent>
+				<sent id ="59">Fire decreases the volume of matter.</sent>
+				<sent id ="60">Any matter is reduced much when it is burnt with fire.</sent>
+				<sent id ="61">Likewise our vanity and pride become ashes when they are burnt by the fire of the Holy Spirit.</sent>
+				<sent id ="62">Then we can be gentle and humble.</sent>
+				<sent id ="63">Fire gives light.</sent>
+				<sent id ="64">Darkness is vanished when the light shines.</sent>
+				<sent id ="65">Darkness is a symbol of sin, falsehood and ignorance.</sent>
+				<sent id ="66">But light is a symbol of holiness, truth and wisdom.</sent>
+				<sent id ="67">We can overcome our attraction for sin with the power of the Holy Spirit who is with us.</sent>
+				<sent id ="68">Thus we can accept the light of Jesus after we quit all paths of darkness possessed by Satan.</sent>
+				<sent id ="69">Fire spreads all around.</sent>
+				<sent id ="70">When we light a little fire to a heap of straw it does not remain motionless.</sent>
+				<sent id ="71">It increases gradually and spreads on all sides.</sent>
+				<sent id ="72">In this way a little fire assumes a huge shape.</sent>
+				<sent id ="73">The Holy Spirit helps us to make our belief, hope and love effective.</sent>
+				<sent id ="74">With the power of the Holy Spirit we share our faith, hope and love with others.</sent>
+				<sent id ="75">We do not hide the word of God within ourselves but spread it to others.</sent>
+				<sent id ="76">Fire brings unity.</sent>
+				<sent id ="77">Afterwards the papers lose their former distinctive colors.</sent>
+				<sent id ="78">No dissension remains among us as we get in touch with the Holy Spirit.</sent>
+				<sent id ="79">Rather we experience unity within ourselves.</sent>
+				<sent id ="80">Fire destroys malice.</sent>
+				<sent id ="81">We can destroy things by fire which we don't like.</sent>
+				<sent id ="82">Likewise with the power of the Holy Spirit we burn and destroy the sins of our heart.</sent>
+				<sent id ="83">That is to say, we can obtain forgiveness of our sins and made clean.</sent>
+				<sent id ="84">They understood that Jesus himself was with them.</sent>
+				<sent id ="85">The Spirit of Jesus himself helped them to understand this.</sent>
+				<sent id ="86">Peter began to speak about Jesus fearlessly to the Jewish people after receiving the power of the Holy Spirit.</sent>
+				<sent id ="87">He reminded them of what was foretold about Jesus in the Holy Scripture.</sent>
+				<sent id ="88">There was the explanation of all the events of Jesus life in the Holy Scripture.</sent>
+				<sent id ="89">Peter spoke boldly about Jesus being killed by the Jewish people.</sent>
+				<sent id ="90">Many of those who heard his sermon were converted.</sent>
+				<sent id ="91">Many of them believed in Jesus.</sent>
+				<sent id ="92">They asked Peter and the other apostles: What shall we do, brothers?</sent>
+				<sent id ="93">Many of them believed his message and were baptized.</sent>
+				<sent id ="94">About three thousand people were added to the group that day.</sent>
+				<sent id ="95">The Apostles received different gifts from the Holy Spirit.</sent>
+				<sent id ="96">We also got the Holy Spirit at the time of our baptism.</sent>
+				<sent id ="97">This was renewed at the time of the Sacrament of Confirmation by a bishop or a priest.</sent>
+				<sent id ="98">So we have also received gifts of the Holy Spirit.</sent>
+				<sent id ="99">For instance: Wisdom: By this gift we learn to know the will of God.</sent>
+				<sent id ="100">God sees everything.</sent>
+				<sent id ="101">We can also see God by this gift.</sent>
+				<sent id ="102">Understanding: By this gift we can understand the love of God and meaning of His Word.</sent>
+				<sent id ="103">Counsel: This gift helps us to speak the truth, to do the right thing and to be clean.</sent>
+				<sent id ="104">Fortitude: By this gift we can overcome all obstacles and dangers.</sent>
+				<sent id ="105">We no longer are afraid to speak and preach about God.</sent>
+				<sent id ="106">This gift gives us courage in our sorrows and sufferings.</sent>
+				<sent id ="107">Knowledge: By this gift we remain faithful to God and true follower of the true path.</sent>
+				<sent id ="108">Piety: By this gift we learn to be humble and to worship God.</sent>
+				<sent id ="109">Fear Of The Lord: By virtue of this gift we are strengthened in faith that God is all-powerful.</sent>
+				<sent id ="110">Nothing can move without His command.</sent>
+				<sent id ="111">We fear God of out of love and in this way overcome our sins.</sent>
+				<sent id ="112">The fruits of these gifts of the Holy Spirit will be visible if they remain in the hearts of men.</sent>
+				<sent id ="113">O! Holy Spirit, give me your strength.</sent>
+				<sent id ="114">Let me lead my life with Your power at all times.</sent>
+				<sent id ="115">Let me remain far from all sins.</sent>
+				<sent id ="116">Help me to be obedient to my parents and elders.</sent>
+				<sent id ="117">This is my prayer to you in the name of the Lord Jesus Christ.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

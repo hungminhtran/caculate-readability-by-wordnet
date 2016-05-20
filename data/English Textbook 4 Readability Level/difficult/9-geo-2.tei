@@ -1,0 +1,176 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-geo-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.75</idno>
+				<idno type="Number of sentences">148</idno>
+				<idno type="Number of tokens">3191</idno>
+				<idno type="Number of token types">656</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t81">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Some imazinary lines extending from east to west and from north to south are drawn on a map of the world to determine the location of any place.</sent>
+				<sent id ="2">These lines are known as the parallels of latitude and the meridians of longitude respectively.</sent>
+				<sent id ="3">In geography, latitude and longitude are two important topics.</sent>
+				<sent id ="4">One can determine the location of a place with the help of latitude and longitude.</sent>
+				<sent id ="5">With the location of the longitude, one can determine the time of that place.</sent>
+				<sent id ="6">Moreover, the northern and the southern position of any place can be determined through latitudes.</sent>
+				<sent id ="7">Similarly, the western and the eastern position of any location from the Prime Meridian can be ascertained by longitude.</sent>
+				<sent id ="8">Degree of latitude or a part of it is known as the latitude, while the degree of longitude of a part of it is termed as longtitude.</sent>
+				<sent id ="9">Latitude : Before we learn what is actually meant by the degree of latitude, we will have to have an idea about the axis, the equator and parallels of latitudes.</sent>
+				<sent id ="10">The imazinary line which runs north to south through the centre of the earth is known as axis.</sent>
+				<sent id ="11">The northernmost point of this axis is known as the north pole and the southernmost point is the south pole.</sent>
+				<sent id ="12">Keeping both the poles in equal distance, an imazinary line has been drawn which encircles the globe from west to east is known as the equator or the terrestrial equator.</sent>
+				<sent id ="13">Due to the spherical shape of the earth, this line is also circular.</sent>
+				<sent id ="14">So, this line is also known as the equatorial circle.</sent>
+				<sent id ="15">The equator has divided the earth into two equal halves.</sent>
+				<sent id ="16">The part lying north to the equator is known as the Northern Hemisphere and that to the south as the Southern Hemisphere.</sent>
+				<sent id ="17">With the help of the equator, one can determine the angular distance of a place situated either in the northern or in the southern hemisphere.</sent>
+				<sent id ="18">So, to find out the angular distance of a place upon the surface, the only thing is to be done is to connect with an imazinary line, any point of that place with the centre of the earth.</sent>
+				<sent id ="19">Again, the meridian which passes over that point ultimately meets the equator on a certain point, and that the meeting point is connected by an imazinary line with the centre of the earth.</sent>
+				<sent id ="20">The imazinary line is actually the radius of the earth sphere.</sent>
+				<sent id ="21">The value of the angle thus formed through those two lines is equivalent to the latitude of that particular place.</sent>
+				<sent id ="22">Therefore, the latitude is the angular distance of a place north or south of the equator.</sent>
+				<sent id ="23">If a line is drawn from any place on the earth to its centre then that line will create an angle with the equatorial plane.</sent>
+				<sent id ="24">The value of that angle is the latitude of that place (Fig. 4).</sent>
+				<sent id ="25">The latitude of a place situated to the north of the equator is desigrated as the north latitude and that of the south as the south latitude.</sent>
+				<sent id ="26">The total value of the angle created by the circle at the centre of the earth is These angles are being divided into degrees (), minutes ( ) and seconds ( ).</sent>
+				<sent id ="27">Thus the value of the equator is The latitude of the north pole is 90 North and that of the south pole is 90 South.</sent>
+				<sent id ="28">This is because that the angular distance of each of the poles is 90 from the equator.</sent>
+				<sent id ="29">These angles are being divided into degrees and minutes and on the basis of these angles, the imazinary lines are drawn parallel to the equator.</sent>
+				<sent id ="30">These are known as the parallels of latitudes.</sent>
+				<sent id ="31">The latitudes are parallel to one another and every one of them is a full circle.</sent>
+				<sent id ="32">The circumference of the latitudes decrease with the increase of their values.</sent>
+				<sent id ="33">Some of the parallels arc quite important.</sent>
+				<sent id ="34">The 23.5 latitude in the northern and southern hemispheres are known as theTropic of Cancer and the Tropic of Capricorn respectively.</sent>
+				<sent id ="35">Besides, the 66.5 north and south latitudes are known as the Arctic and Antarctic circles respectively (Fig. .</sent>
+				<sent id ="36">The equator is known as the great circle.</sent>
+				<sent id ="37">The degree of latitude of all the places located in the same parallel is the same.</sent>
+				<sent id ="38">The latitude of the region near the equator, in other words, the latitudes having the value of 0 to 30 are called the low latitudes.</sent>
+				<sent id ="39">Similarly, latitudes having the value of 30 to 60 are known as the mid latitude and those of 60 to 90 are the high latitudes.</sent>
+				<sent id ="40">There are different methods of determining the latitude of a place.</sent>
+				<sent id ="41">Out of them we are discussing about two methods.</sent>
+				<sent id ="42">Determining latitude with the help of a pole star :</sent>
+				<sent id ="43">We know that the earth is divided into two hemispheres, the northern hemisphere and the southern hemisphere.</sent>
+				<sent id ="44">Every night from any place of the northern hemisphere one can see the pole star in a fixed position in the northern sky.</sent>
+				<sent id ="45">But the altitude of the pole star from the horizon does not remain the same.</sent>
+				<sent id ="46">It differs with the difference of the place, that means, the altitude of the pole star in the horizon is different for different places.</sent>
+				<sent id ="47">In the equator, the location of the pole star is in the horizon and its altitude is From the equator towards north pole for every 1 of approach the altitude also increases.</sent>
+				<sent id ="48">Ultimately in the pole, the altitude of the pole star rises to So, the degree of latitude for the equator is 0 and that of the north pole is.</sent>
+				<sent id ="49">In other words, the degree of latitude increases with any approach towards the north pole.</sent>
+				<sent id ="50">Thus the latitude of any place in the northern hemisphere is equivalent to the degree of altitude of pole star.</sent>
+				<sent id ="51">So, the latitude of any place can be derived from the altitude of the pole star.</sent>
+				<sent id ="52">But it is not possible to determine the latitude of any place in the southern hemisphere by the pole star, nor possible to determine the latitude through this method in day time.</sent>
+				<sent id ="53">Determination of latitude by sextant : Sextant is an instrument by which the altitude of the sun can be measured.</sent>
+				<sent id ="54">The latitude of any place can be determined after finding out the altitude of the noon sun with the help of a sextant.</sent>
+				<sent id ="55">The following formula can be applied to find out the latitude of a place.</sent>
+				<sent id ="56">If the place under consideration is in the northern hemisphere then it will require to add the declination value of north and to subtract the declination value of south.</sent>
+				<sent id ="57">Similarly, if the place is in the southern hemisphere then the declination value of south is to added and that of the north to be subtracted.</sent>
+				<sent id ="58">The terrestrial equator can be graduated to degrees, minutes and seconds and through these points imazinary lines can be drawn from north to south pole which are known as the meridians of longitude.</sent>
+				<sent id ="59">The longitudes are also known as meridians.</sent>
+				<sent id ="60">The meridian which passes through the Greenwich can be taken as the Prime Meridian and the angular distance of the meridians can be measured from the prime meridian.</sent>
+				<sent id ="61">The meridian which passes from north to south pole through Greenwich in the neighbourhood of London is termed as the Prime Meridian.</sent>
+				<sent id ="62">The value of this line has been determined as 0. Other meridians of longitudes can be drawn through the angular distance from the Prime Meridian.</sent>
+				<sent id ="63">For example, the meridians that lie 45 East of the prime meridian is known as 45 East Longitude or east meridian and all the places lying on this longitude has the same longitudinal value of 45 East Longitude.</sent>
+				<sent id ="64">So, we can say that the longitude of any given point on the globe is measured as an angular distance eastward or westward from the prime meridian.</sent>
+				<sent id ="65">We further know that the longitude of the prime meridian is The value of the angles created by the circumference at centre of the earth is So, if 360 meridians are drawn from pole to pole at equal interval of 1, then they will lie at 1 of longitude apart.</sent>
+				<sent id ="66">Hence, the total number of 360 meridians are equally divided into two parts of 180 each in the western and the eastern side of the prime meridian.</sent>
+				<sent id ="67">As the earth is a sphere, so the 180 east and west longitude is virtually the same line.</sent>
+				<sent id ="68">Like that of the latitudes, the longitudes can also be divided into minutes and seconds.</sent>
+				<sent id ="69">One minute of longitude is 1/60th part of a degree of longitude.</sent>
+				<sent id ="70">The value of both the latitude and longitude will be 0 when the prime meridian crosses the equator vertically.</sent>
+				<sent id ="71">And this point has been recognised as a place located somewhere in the Gulf of Guinea.</sent>
+				<sent id ="72">Determination of longitude : The longitude of a place can be determined by two methods.</sent>
+				<sent id ="73">These are : by the difference of local time, by Greenwich mean time.</sent>
+				<sent id ="74">By the difference of local time : We know that the earth is a sphere.</sent>
+				<sent id ="75">It has been moving continuously around its own axis from west to east.</sent>
+				<sent id ="76">Consequently different places of the earth have been facing the sun at different times.</sent>
+				<sent id ="77">Whenever, the meridian of any place comes in front of the sun i.e. when the sun appears just overhead, then it is considered as noon and the local time is taken as 12 noon.</sent>
+				<sent id ="78">Ultimately other times of the place are determined on the basis of local time.</sent>
+				<sent id ="79">We know that there is a difference of 4 minutes of time for 1 of difference of longitude.</sent>
+				<sent id ="80">In other way, we can say that for every 4 minutes, the longitude differs by For example, if in any place, the local time is 12 noon, then the local time for any place located 5 east of the previous place will be 12.00 noon + (5 4 minutes) = 12 hours 20 minutes.</sent>
+				<sent id ="81">For the place lying 5 west of the former place, the local time would be 12.00 noon - (5 4 minutes) = 12.00 - 20.00 minutes = 11 hours 40 minutes.</sent>
+				<sent id ="82">By Greenwich mean time : We all know that the longitude of Greenwich is 0. The actual time of Greenwich can be read from the Chronometer.</sent>
+				<sent id ="83">To determine the longitude of a place by sextant, one will have to record the highest altitude that the sun attains there at noon and that position will have to be treated as 12.00 noon.</sent>
+				<sent id ="84">The longitude of the place mentioned above can now be determined from the difference of time that occurs between the indicated place and Greenwich.</sent>
+				<sent id ="85">If the place is located east of Greenwich then the local time would be more than that of Greenwich and if it is located west of the Greenwich, its local time would be less than that of Greenwich.</sent>
+				<sent id ="86">All the parallels of latitude are parallel to each other but the meridians are not; All the parallels are full circles and the meridians are half circles; The lengths of each of the meridians are equal but that of parallels are not equal;</sent>
+				<sent id ="87">Parallels always run in a east-west direction, whereas the meridians in a north- south direction;</sent>
+				<sent id ="88">The highest value of parallel is 90, whereas that of meridian is 180.</sent>
+				<sent id ="89">Local Time : Everyday the earth moves round her axis from west to east.</sent>
+				<sent id ="90">As a result, the sun appears earlier in the places located in the east.</sent>
+				<sent id ="91">Due to rotation of the earth, the sun reaches the zenith of the sky, or in other words, the sun reaches its highest altitude on a certain place and that hour is treated as 12.00 noon.</sent>
+				<sent id ="92">On the basis of this noon time, the other time for the day is determined.</sent>
+				<sent id ="93">The time thus determined is the local time for that place.</sent>
+				<sent id ="94">So, the local time of a place is determined on the basis of the highest altitude of the sun which can be observed with the help of a sextant.</sent>
+				<sent id ="95">The earth at the centre creates The earth requires 1,440 minutes (24 hours 60 minutes) to cover this distance of 360 for one time.</sent>
+				<sent id ="96">So, the earth needs 4 minutes (1,440 360) to rotate 1 of longitude.</sent>
+				<sent id ="97">Therefore, for 1 difference of longitude, the difference of time will be 4 minutes.</sent>
+				<sent id ="98">Standard Time : If the sun's noon position on the meridian is taken as 12 O' clock and if that is accepeted as the basis of determining the local time then this would create confusion in maintaining, time among the different parts of the same country.</sent>
+				<sent id ="99">To avoid this confusion each country of the world has introduced a new concept of maintaining time known as standard time.</sent>
+				<sent id ="100">The standard time of the country is that time which passes through the central part of the country.</sent>
+				<sent id ="101">There may be several standard times for a large country like the United States of America and Canada.</sent>
+				<sent id ="102">The United States of America has four different standard times, whereas Canada has five.</sent>
+				<sent id ="103">In those countries, more than one standard time has been introduced to run administration and other works more efficiently relating to postal, railway, wireless, telephone etc.</sent>
+				<sent id ="104">The local time of Greenwich (0 meridian) has been accepted as the standard time for the world.</sent>
+				<sent id ="105">Accordingly, the standard time in Bangladesh is six hours ahead of Greenwich time.</sent>
+				<sent id ="106">90 East meridian has passed through the middle part of the country and the standard time of Bangladesh is calculated from the local time of that meridian.</sent>
+				<sent id ="107">Antipodes : Antipode means the relative position of two places which are situated on the earth's surface just opposite to each other.</sent>
+				<sent id ="108">To locate the antipode of a place an imazinary straight line is drawn through the earth from that place to the opposite position which passes through the centre.</sent>
+				<sent id ="109">The point where this line touches the opposite side of the globe is the antipodal position to the former point.</sent>
+				<sent id ="110">That means the later point is the antipodal to the former point.</sent>
+				<sent id ="111">If the latitude of a place is known then the latitude of its antipode can be ascertained.</sent>
+				<sent id ="112">The latitude of a place will be the same as that of its antipode.</sent>
+				<sent id ="113">The two places must be situated on the different sides of the equator, that means one is in the northern hemisphere and the other one in the southern hemisphere.</sent>
+				<sent id ="114">So, if the latitude of a place is 70 North, then the latitude of its antipode will be 70 South.</sent>
+				<sent id ="115">The total value of the meridian of a place and that of its antipode will always be 180.</sent>
+				<sent id ="116">The meridian of a place if be east, the meridian of the antipode would be west.</sent>
+				<sent id ="117">For example, the antipode of 40 East longitude will be 180-- 40 = 140 West longitude.</sent>
+				<sent id ="118">The difference of time for these two places will be 12 hours.</sent>
+				<sent id ="119">In fig. 7, the point B is the antipode of A. The antipode of Dhaka is situated in the Pacific near Chile of South America.</sent>
+				<sent id ="120">Travelling towards east or west from any place will require adjustment of local time which ultimately creates problems even for adjustment of days of the week.</sent>
+				<sent id ="121">This problems stands acute if anybody crosses 180 longitude towards east or west from a particular place.</sent>
+				<sent id ="122">To avoid this problem or an imazinary line has been drawn absolutely over the waterbodies from north to south.</sent>
+				<sent id ="123">This imazinary line is known as International Date Line.</sent>
+				<sent id ="124">Necessity of the International Date Line : We know that for the difference of 1 of longitude, there is a difference of time of 4 minutes.</sent>
+				<sent id ="125">So, for every 15 of longitude, there will be a difference of an hour.</sent>
+				<sent id ="126">Thus travelling eastward from prime meridian (Greenwich) up to 180, one would be 12 hours ahead of the schedule and travelling westward 12 hours behind the schedule.</sent>
+				<sent id ="127">If it is 10 A.M. on Monday in Greenwich, then the corresponding time would be 10 P.M. on the same day at 180 East longitude, whereas, the time at 180 West longitude would be 10 P.M. on the previous day i.e.</sent>
+				<sent id ="128">But 180 East or 180 West longitude is virtually the same longitude.</sent>
+				<sent id ="129">So, it is observed that the local time differs by 24 hours or one day in the same longitude.</sent>
+				<sent id ="130">There is a change of day and date if one crosses this line which is known as the International Date Line (Fig. .</sent>
+				<sent id ="131">Any ship or aeroplane sailing towards east from Greenwich will have to subtract one day and sailing towards west will have to add one day to adjust with the local time.</sent>
+				<sent id ="132">The International Date Line is virtually 180 east and west longitude.</sent>
+				<sent id ="133">It crosses through the Aleutian on the north-eastern part of Siberia, Fiji and Chatham islands.</sent>
+				<sent id ="134">To avoid the problems of adjusting local time, the International Date Line has been so set that it passes only over the waterbodies turning 12 towards east just near the Bering Strait, 7 towards west near the Aleutian islands and 11 towards east near Fiji and Chatham islands.</sent>
+				<sent id ="135">Had it not been drawn this way, the people would have to count two different local times in two different parts of the same island.</sent>
+				<sent id ="136">Equator : The imaginary line lying midway between the poles, which encircles the earth from west to east.</sent>
+				<sent id ="137">The latitude : The angular distance of a point on the earth's surface north or south of the equator, as measured from the centre of the earth, is the latitude, of that place.</sent>
+				<sent id ="138">The lines of longitude : The imaginary lines which are drawn from north pole to south pole through equator connecting each of the different points created by graduating the equator into degrees, minutes and seconds.</sent>
+				<sent id ="139">Declination : The day when the sun gives its rays vertically over a latitude is the declination of the sun for that day.</sent>
+				<sent id ="140">The Prime Meridian : The Prime Meridian is the line that passes from north to south over Greenwich near London.</sent>
+				<sent id ="141">The Local Time : Due to rotation of the earth on its axis when the sun reaches its highest position in the sky in some particular place, it is taken as noon-day and the time records as 12 O clock.</sent>
+				<sent id ="142">This is accepted as the Local Time of the place and other time of the day is calculated from this local time.</sent>
+				<sent id ="143">Standard Time : The time which is referred to the mean time of a certain meridian.</sent>
+				<sent id ="144">Every country determines its time from the meantime of the meridian which passes through the middle of that country and this is known as Standard Time of that country.</sent>
+				<sent id ="145">Antipode : A point on the earth surface is known as antipode of another point when it is situated just on the opposite side of the globe corresponding to that point.</sent>
+				<sent id ="146">International Date Line : From any fixed place if any body crosses the 180 longitude he will observe that it creates problems to determine the day of the week along with the differences of local time.</sent>
+				<sent id ="147">To avoid this anomaly depending on 180 longitude, an imaginary line is drawn from north to south exclusively over the waters.</sent>
+				<sent id ="148">The imaginary line is known as the International Date Line.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

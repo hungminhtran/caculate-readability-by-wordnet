@@ -1,0 +1,61 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-18</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.631</idno>
+				<idno type="Number of sentences">33</idno>
+				<idno type="Number of tokens">309</idno>
+				<idno type="Number of token types">171</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t95">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">There are many countries like ours in the world.</sent>
+				<sent id ="2">Just as there are children so there are also adults in these countries.</sent>
+				<sent id ="3">The language, culture and food habits of each are different.</sent>
+				<sent id ="4">But the fundamental requirement of all is the same.</sent>
+				<sent id ="5">All have the equal rights to enjoy these requirements.</sent>
+				<sent id ="6">This is called universal brotherhood.</sent>
+				<sent id ="7">If we maintain universal brotherhood, human qualities in all will be developed.</sent>
+				<sent id ="8">There will be understanding among.</sent>
+				<sent id ="9">All will help and cooperate one another.</sent>
+				<sent id ="10">There will be built friendship among all.</sent>
+				<sent id ="11">There will be peace in the world.</sent>
+				<sent id ="12">Let us copy the table below and write down the necessity of developing universal brotherhood.</sent>
+				<sent id ="13">We will always try to build up universal brotherhood.</sent>
+				<sent id ="14">The countries surrounding ours are our neighbours.</sent>
+				<sent id ="15">Generally there are some common elements among the neighbours.</sent>
+				<sent id ="16">We often find that we can import from them the goods we do not produce.</sent>
+				<sent id ="17">Without mutual cooperation with neighbours economic development is hindered.</sent>
+				<sent id ="18">The peace and stability of the country are affected.</sent>
+				<sent id ="19">So the idea of regional cooperation has developed.</sent>
+				<sent id ="20">There are some countries in a particular region.</sent>
+				<sent id ="21">We live in the south of Asia.</sent>
+				<sent id ="22">The name of this region is South Asia.</sent>
+				<sent id ="23">Besides Bangladesh, there are India, Pakistan, Nepal, Bhutan, Sri Lanka, and Maldives in this region.</sent>
+				<sent id ="24">Shahid Ziaur Rahaman, the then President of Bangladesh, envisaged this organization.</sent>
+				<sent id ="25">Let us read the names of the capitals of SAARC countries in the table below.</sent>
+				<sent id ="26">The secretariat of SAARC is situated in Katmandu.</sent>
+				<sent id ="27">The basic principle of SAARC is that any decision of the organization must be unanimous.</sent>
+				<sent id ="28">Regional integrity and sovereignty must be maintained.</sent>
+				<sent id ="29">No country will interfere in the political affairs of other countries.</sent>
+				<sent id ="30">Cooperation for mutual welfare is required.</sent>
+				<sent id ="31">Let us write down the principles of SAARC by copying the table below.</sent>
+				<sent id ="32">Let us read the other .goals</sent>
+				<sent id ="33">and objectives in the table.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

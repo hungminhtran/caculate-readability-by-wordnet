@@ -1,0 +1,70 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.464</idno>
+				<idno type="Number of sentences">42</idno>
+				<idno type="Number of tokens">410</idno>
+				<idno type="Number of token types">194</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t86">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We live in a family.</sent>
+				<sent id ="2">The family consists of parents and the children.</sent>
+				<sent id ="3">Each member of the family has some work to do.</sent>
+				<sent id ="4">Keeping the house neat and clean;</sent>
+				<sent id ="5">Growing fruit trees and flowers in the vacant space around the house;</sent>
+				<sent id ="6">Looking after them; Tending the domestic animals and birds, etc.</sent>
+				<sent id ="7">All this is family development work.</sent>
+				<sent id ="8">Likewise, there is development work in the school.</sent>
+				<sent id ="9">We use them and we will take good care of them.</sent>
+				<sent id ="10">We will make sure that these articles are not damaged.</sent>
+				<sent id ="11">We will not write anything on the inside or the outside of the classroom walls.</sent>
+				<sent id ="12">We will not cut any marks on them.</sent>
+				<sent id ="13">We will keep the school neat and clean.</sent>
+				<sent id ="14">We will take down the following table in our notebooks.</sent>
+				<sent id ="15">We will take part in the development work in the school.</sent>
+				<sent id ="16">This development work will include growing flowers and vegetables in the empty space.</sent>
+				<sent id ="17">We will fence them in order to protect them.</sent>
+				<sent id ="18">We will water the plants and put fertilizers around the stems.</sent>
+				<sent id ="19">We will never keep the premises dirty.</sent>
+				<sent id ="20">We will develop a library in the school.</sent>
+				<sent id ="21">We will donate books to the best of our ability.</sent>
+				<sent id ="22">We will collect books for the library.</sent>
+				<sent id ="23">In oar spare time we will read books.</sent>
+				<sent id ="24">This is how we will increase our knowledge of the outside world beyond our textbooks.</sent>
+				<sent id ="25">We will become enlightened.</sent>
+				<sent id ="26">We will read books of the library and put them in the right place.</sent>
+				<sent id ="27">We will never tear the books, mark the pages and fold them.</sent>
+				<sent id ="28">We will not speak unnecessarily in the library.</sent>
+				<sent id ="29">We will maintain silence.</sent>
+				<sent id ="30">We take down in our notebooks the following table of development work in the school.</sent>
+				<sent id ="31">We will take part in the development in our school through various organizations.</sent>
+				<sent id ="32">Of these organizations, the most remarkable are Scouting and Girls Guide.</sent>
+				<sent id ="33">The first stage of Scouting is called cubing.</sent>
+				<sent id ="34">Cubing is formed with boys aged between six and eleven.</sent>
+				<sent id ="35">A group of 24 cubs form a group.</sent>
+				<sent id ="36">In each school one or two groups may be formed.</sent>
+				<sent id ="37">Each week a meeting is held for training of the cubs.</sent>
+				<sent id ="38">A group of Yellow Birds is formed with girls aged between six and ten.</sent>
+				<sent id ="39">Their training is generally given through games.</sent>
+				<sent id ="40">The maximum number of girls in this group is Their motto is to help1.</sent>
+				<sent id ="41">We will also form Cubs and Groups of Yellow Birds in our school.</sent>
+				<sent id ="42">Thus we will develop our society and country.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,65 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-bdGlobal-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.265</idno>
+				<idno type="Number of sentences">37</idno>
+				<idno type="Number of tokens">509</idno>
+				<idno type="Number of token types">266</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t32">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Almost half of the population in Bangladesh is women.</sent>
+				<sent id ="2">The development of society or the advancement of the country is not possible keeping this half deprived of rights or letting them fall behind.</sent>
+				<sent id ="3">Begum Rokeya has compared a man and a woman with two wheels of a car.</sent>
+				<sent id ="4">If one wheel is bigger and the other is smaller, the car cannot move forward smoothly.</sent>
+				<sent id ="5">Similar is the case with our society.</sent>
+				<sent id ="6">Women play the main role in childcare.</sent>
+				<sent id ="7">Thus the future of the nation is built in their hand.</sent>
+				<sent id ="8">Women of Bangladesh lag behind men in many ways.</sent>
+				<sent id ="9">They are still deprived of economic rights, social rights, cultural rights and many more.</sent>
+				<sent id ="10">They are also victims to many types of discriminations.</sent>
+				<sent id ="11">Many parents in our country consider a female child a burden.</sent>
+				<sent id ="12">They think a male child, after growing up, will earn to feed his parents and will hold the helm of the family.</sent>
+				<sent id ="13">From this mentality parents prefer a male child to a female child.</sent>
+				<sent id ="14">But the situation is changing now.</sent>
+				<sent id ="15">Girls are also coming forward equally with boys to take up the responsibilities of a family and the society.</sent>
+				<sent id ="16">Similarly, the society's attitude to women, although slowly, is also changing.</sent>
+				<sent id ="17">Our constitution and government regulations give women equal status with men as citizens.</sent>
+				<sent id ="18">They have equal rights as men in services, in other professions and in case of wages.</sent>
+				<sent id ="19">But in real life women are deprived of these rights in many respects.</sent>
+				<sent id ="20">They are victims of deprivation in family and in society, too.</sent>
+				<sent id ="21">A family does not show equal interest in educating a female child as to a male child.</sent>
+				<sent id ="22">Especially in villages, girls are married away in minor ages.</sent>
+				<sent id ="23">As a result, girls are not allowed to go beyond primary or secondary levels despite being good students.</sent>
+				<sent id ="24">Besides, there are instances of physical and mental tortures too.</sent>
+				<sent id ="25">We read many news of violence against women in daily newspapers.</sent>
+				<sent id ="26">Equal rights of men and women are acknowledged in the constitution of Bangladesh.</sent>
+				<sent id ="27">Equal rights of women are also mentioned in the United Nations charter about removing discrimination towards women.</sent>
+				<sent id ="28">Here equal rights mean equal rights along with men in family, in society, in state, that is, every stage in national life.</sent>
+				<sent id ="29">It is not that men and women are equal only in casting votes and in opportunity of contesting in polls.</sent>
+				<sent id ="30">Women and men should have equal rights in educational institutions, job and employment, salary and wages and in all respects.</sent>
+				<sent id ="31">To mention mother's name has been made mandatory with the name of the father, whereas the previous rule was to mention father's name only.</sent>
+				<sent id ="32">The Government has made strict law to stop violence against women including acid violence.</sent>
+				<sent id ="33">Maternity leave for women has been extended.</sent>
+				<sent id ="34">Women have started to get benefits of these steps.</sent>
+				<sent id ="35">But a total change will not come without spread of education and raising consciousness in society.</sent>
+				<sent id ="36">But it is clear that women in Bangladesh are growing conscious about their rights.</sent>
+				<sent id ="37">The biggest evidences are their participation in various meetings, associations and organisations.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

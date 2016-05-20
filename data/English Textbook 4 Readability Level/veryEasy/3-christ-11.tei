@@ -1,0 +1,65 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.688</idno>
+				<idno type="Number of sentences">37</idno>
+				<idno type="Number of tokens">301</idno>
+				<idno type="Number of token types">163</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t3">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">By this time we have heard of the word disciple many times.</sent>
+				<sent id ="2">We have also heard of the word Apostle.</sent>
+				<sent id ="3">But we do not yet know the real meaning of the words.</sent>
+				<sent id ="4">So we shall now try to learn the real meanings of these words.</sent>
+				<sent id ="5">Jesus told his disciples, Follow me.</sent>
+				<sent id ="6">What do we mean by the word follow?</sent>
+				<sent id ="7">The word follow means to come or go after or behind someone.</sent>
+				<sent id ="8">Each of them was sent with special divine duty of preaching Jesus's teachings.</sent>
+				<sent id ="9">Twelve Apostles of Jesus Christ Our Lord Jesus had many disciples.</sent>
+				<sent id ="10">However he chose only twelve from them.</sent>
+				<sent id ="11">He sent them to far off places with a special mission.</sent>
+				<sent id ="12">Their special duty was to preach his messages.</sent>
+				<sent id ="13">He sent them to preach peace, kindness, love and forgiveness.</sent>
+				<sent id ="14">Jesus Christ chose his Apostles for some special tasks.</sent>
+				<sent id ="15">preach messages of Jesus to all men.</sent>
+				<sent id ="16">ask people to change their mind.</sent>
+				<sent id ="17">make people have faith in Jesus.</sent>
+				<sent id ="18">baptise the faithful.</sent>
+				<sent id ="19">cure human diseases.</sent>
+				<sent id ="20">drive out the evils from human beings.</sent>
+				<sent id ="21">look after the Churches of Jesus Christ.</sent>
+				<sent id ="22">Jesus had twelve Apostles.</sent>
+				<sent id ="23">At the same time he had many other disciples too.</sent>
+				<sent id ="24">The disciples were not only men.</sent>
+				<sent id ="25">Many women also were his disciples.</sent>
+				<sent id ="26">Jesus also loved them.</sent>
+				<sent id ="27">Who can be the disciples of Jesus?</sent>
+				<sent id ="28">All human beings can be his disciples.</sent>
+				<sent id ="29">We also can be his disciples.</sent>
+				<sent id ="30">What are the qualities one should have to be his disciple?</sent>
+				<sent id ="31">The first and foremost quality is faith.</sent>
+				<sent id ="32">To love God and all men equally is the second quality.</sent>
+				<sent id ="33">The third one is to serve others.</sent>
+				<sent id ="34">Those who can do these shall become the disciples of Jesus.</sent>
+				<sent id ="35">Jesus, we love you.</sent>
+				<sent id ="36">We obey you as our Saviour.</sent>
+				<sent id ="37">Make a list of the qualities one should have to become the disciple of Jesus.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

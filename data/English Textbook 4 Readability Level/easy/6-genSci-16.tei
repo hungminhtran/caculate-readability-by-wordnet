@@ -1,0 +1,142 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-16</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.792</idno>
+				<idno type="Number of sentences">114</idno>
+				<idno type="Number of tokens">1369</idno>
+				<idno type="Number of token types">545</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t88">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The human body consists of head, neck, trunk, upper limbs and lower limbs.</sent>
+				<sent id ="2">Hairs cover the external surface of the body.</sent>
+				<sent id ="3">The major organs, seen from outside, are limbs, eyes, ear, nose, and so on.</sent>
+				<sent id ="4">Organs are formed of groups of tissues.</sent>
+				<sent id ="5">Tissues are again formed of groups of cells.</sent>
+				<sent id ="6">The origin of these cells and their function are same.</sent>
+				<sent id ="7">Integrated function of two or more organs form systems.</sent>
+				<sent id ="8">For example, the digestive system digests food, the skeletal system gives the body its shape and form.</sent>
+				<sent id ="9">There are several other systems in the body, the coordinated outcome of which is human being as a whole.</sent>
+				<sent id ="10">The skeleton forms the structural framework of the body.</sent>
+				<sent id ="11">On this framework attached are the muscles which together give the body its form and shape.</sent>
+				<sent id ="12">The muscles are in turn covered by skin.</sent>
+				<sent id ="13">All these together give the external structure of the human body.</sent>
+				<sent id ="14">Besides, cartilage, blood, nerves all contribute to the buildup of the body.</sent>
+				<sent id ="15">The skin forms a continuous layer over the surface of the body.</sent>
+				<sent id ="16">The skin consists of two main layers, an outer epidermis, and an inner dermis.</sent>
+				<sent id ="17">Epidermis: This is the outer layer of the skin.</sent>
+				<sent id ="18">it is thin on the lips and other parts of the skin.</sent>
+				<sent id ="19">Specialised parts of the skin are the nails and hairs.</sent>
+				<sent id ="20">This layer also contains hairs.</sent>
+				<sent id ="21">Dermis: The dermis is thicker than the epidermis.</sent>
+				<sent id ="22">Blood capillaries, nerves, lymphatics, apocrine sweat glands, eccrine sweat glands, sebaceous glands, and hair follicles are present in this layer.</sent>
+				<sent id ="23">The eccrine sweat glands are more numerous in the palm and sole.</sent>
+				<sent id ="24">It protects the tissues beneath from mechanical injury, cold, heat, ultraviolet rays in sunlight and drying.</sent>
+				<sent id ="25">It forms a barrier that helps prevent harmful microorganisms and chemicals from entering the body.</sent>
+				<sent id ="26">The skin also helps to regulate body temperature through sweating It excretes some waste products.</sent>
+				<sent id ="27">The melanin in the skin protects the body from the harmful ultraviolet rays of the sun.</sent>
+				<sent id ="28">These sensory receptors detect various stimuli, including pain, heat, cold, itch, and pressure.</sent>
+				<sent id ="29">Sensory receptors are more dense in hairless areas, such as the fingertips and lips.</sent>
+				<sent id ="30">Scattered in the epidermis are a dark pigment called melanin.</sent>
+				<sent id ="31">This pigment gives colour to the skin, and protects it from the sun's ultraviolet rays.</sent>
+				<sent id ="32">Melanin is more in dark skinned people particularly in those who live in hot and humid climatic conditions.</sent>
+				<sent id ="33">Just below the dermis is a layer of fat.</sent>
+				<sent id ="34">This fat gives the body its external contours.</sent>
+				<sent id ="35">Hence, one should take daily baths to keep the body clean.</sent>
+				<sent id ="36">The skin also helps to regulate body temperature.</sent>
+				<sent id ="37">The capillaries in the skin dilate during summer and constrict during winter.</sent>
+				<sent id ="38">In fact, the skin helps to maintain a uniform temperature in the body, whatever is the temperature of the surrounding.</sent>
+				<sent id ="39">The bones of the skeleton are covered by the muscles, which in turn is covered by fatty tissue and skin.</sent>
+				<sent id ="40">Muscle characterised by the ability to contract, usually in response to a stimulus from the nervous system.</sent>
+				<sent id ="41">The muscle covering the bones is the skeletal muscle or flesh.</sent>
+				<sent id ="42">It is reddish in colour, the muscle cells are arranged in layers.</sent>
+				<sent id ="43">The end of the muscle form thick white bundles before attaching to the bones.</sent>
+				<sent id ="44">There is about 75 percent water in the muscles.</sent>
+				<sent id ="45">In general, the muscles contract as required and then return to its original state.</sent>
+				<sent id ="46">For example, muscles of the limbs.</sent>
+				<sent id ="47">There are some muscles that are not under one's voluntary control.</sent>
+				<sent id ="48">These muscles work on their own, for example, the muscles in the intestine and stomach.</sent>
+				<sent id ="49">Basically, muscles are of two kind-voluntary and involuntary.</sent>
+				<sent id ="50">This bending or straightening of the elbow is under one's control or wish.</sent>
+				<sent id ="51">Muscles that respond to conscious effort, that is, they can be moved at will, are the voluntary muscles.</sent>
+				<sent id ="52">Most of the muscles in the body are voluntary in nature.</sent>
+				<sent id ="53">They are attached to the bones of the skeleton and so they are also known as skeletal muscles.</sent>
+				<sent id ="54">They help in movement of different parts, and also in locomotion.</sent>
+				<sent id ="55">* Involuntary muscles: The digestive tract has the responsibility to transport the food from mouth to anus.</sent>
+				<sent id ="56">The muscles of the alimentary canal contract and relax to propel the food forward.</sent>
+				<sent id ="57">But the action of this muscle is not one's control.</sent>
+				<sent id ="58">The propulsion of food cannot be stopped at will at any point.</sent>
+				<sent id ="59">Such muscles that are not under one's conscious control are called involuntary muscles.</sent>
+				<sent id ="60">The muscle in the alimentary canal are called smooth muscle.</sent>
+				<sent id ="61">There is another type of involuntary muscle, the cardiac muscle.</sent>
+				<sent id ="62">This muscle forms the wall of the heart.</sent>
+				<sent id ="63">It contracts and relaxes at its own rhythm and thus propel the blood throughout he body.</sent>
+				<sent id ="64">How muscles can be strengthened: The muscles of the neck, limbs, abdomen all work in different ways.</sent>
+				<sent id ="65">Human Body: External Structere, Skin, Muscles, Bones (Skeleton) 207 and strong they are.</sent>
+				<sent id ="66">Swimming is a very good exercise.</sent>
+				<sent id ="67">It brings all the muscles of the body into action and thus keep all parts active.</sent>
+				<sent id ="68">Children frequently play with dolls.</sent>
+				<sent id ="69">These dolls may be made of clay, cotton, jute fibre.</sent>
+				<sent id ="70">To these dolls, first two strong sticks are tied together such that they cross each other.</sent>
+				<sent id ="71">This forms the framework over which clay, cotton or jute are moulded to give the required shape of a doll.</sent>
+				<sent id ="72">It is then coloured and made attractive for children.</sent>
+				<sent id ="73">Similarly, human body has a framework too, which is formed by the bones joined together as the skeleton.</sent>
+				<sent id ="74">Muscles, fat and skin cover this skeleton.</sent>
+				<sent id ="75">In vertebrates, such as humans, the skeleton is known as the endoskeleton as it is formed within the body.</sent>
+				<sent id ="76">Skeleton provides the framework, and supports the soft tissue.</sent>
+				<sent id ="77">It helps humans to stand upright and move about.</sent>
+				<sent id ="78">It affords special protection to highly important structure and organs.</sent>
+				<sent id ="79">For example, the skull protects the brain, the thorax protects the heart and lungs.</sent>
+				<sent id ="80">It bears the weight of the body.</sent>
+				<sent id ="81">The weight of the different parts pass through different bones and finally through the lower limb to the ground.</sent>
+				<sent id ="82">It provides attachment for muscles so that movement may take place at the joints.</sent>
+				<sent id ="83">The bones are a storehouse for minerals such as calcium and phosphorus.</sent>
+				<sent id ="84">Human body is formed of 206 big and small bones.</sent>
+				<sent id ="85">The bones are of different size and shape.</sent>
+				<sent id ="86">Some are long, some short, again some are flat.</sent>
+				<sent id ="87">The longest bone is femur, and the smallest is stapes, a small bone in the middle ear.</sent>
+				<sent id ="88">According to the arrangement the skeleton is made of four main parts'the skull, trunk, upper and lower limbs.</sent>
+				<sent id ="89">Skull: The skull is a bony covering that protects the brain from external injury.</sent>
+				<sent id ="90">In it lodges the ear, nose, and eye.</sent>
+				<sent id ="91">Trunk: The middle part consisting of the vertebral column, and the ribs and their cartilage'the thorax.</sent>
+				<sent id ="92">The vertebral column keeps the body upright, and bears the weight of the skull.</sent>
+				<sent id ="93">Thorax: This is like a cage.</sent>
+				<sent id ="94">Thorax protects the heart and lungs.</sent>
+				<sent id ="95">They help in movement The bones join one another to form the complete skeleton.</sent>
+				<sent id ="96">The regions of union between bones or cartilages is the joints.</sent>
+				<sent id ="97">Joints are two types: moveable and immovable.</sent>
+				<sent id ="98">In moveable joints: the bones forming the joint can move against each other.</sent>
+				<sent id ="99">For example, elbow joint, wrist joint.</sent>
+				<sent id ="100">In immovable joints: the bones are fused together and so cannot move against each other.</sent>
+				<sent id ="101">For example, the skull bones.</sent>
+				<sent id ="102">Structure of bone: The bones are formed of bone cells or osteocytes.</sent>
+				<sent id ="103">The bones are very strong.</sent>
+				<sent id ="104">It is composed of calcium and phosphorus, along with water.</sent>
+				<sent id ="105">The ends of the bones are covered by cartilage, which are formed of softer tissue than bones.</sent>
+				<sent id ="106">The tip of the nose, the pinna of external ear are formed of cartilage.</sent>
+				<sent id ="107">Cartilage is softer, more elastic, and more compressible than bone.</sent>
+				<sent id ="108">The skeleton is formed of bones and cartilage.</sent>
+				<sent id ="109">The bones are covered by the periosteum, and inside it are the blood vessels and nerves.</sent>
+				<sent id ="110">At the two ends of long bones are a region of soft bone with pores.</sent>
+				<sent id ="111">This is the spongy bone.</sent>
+				<sent id ="112">In the central hollow of the long bones is the bone marrow.</sent>
+				<sent id ="113">Between the spongy bone and the cartilage is the cortex.</sent>
+				<sent id ="114">It is the hardest part of bone.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

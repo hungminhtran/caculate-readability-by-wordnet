@@ -1,0 +1,99 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.876</idno>
+				<idno type="Number of sentences">71</idno>
+				<idno type="Number of tokens">861</idno>
+				<idno type="Number of token types">376</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t47">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Everything around us-trees, houses, soil, water, air, animals, vehicles, factories etc.-makes up our environment.</sent>
+				<sent id ="2">We also often talk about the environment of houses, schools or marketplaces.</sent>
+				<sent id ="3">That is to say, the environment of a place is composed of everything around it.</sent>
+				<sent id ="4">The things which exist in an environment are called its elements.</sent>
+				<sent id ="5">The elements of environment can be divided into two types: natural elements and manmade or artificial elements.</sent>
+				<sent id ="6">Soil, water, air, mountains, rivers, forests, animals, plants etc. are natural elements of the environment.</sent>
+				<sent id ="7">Manmade elements of the environment include buildings, vehicles, roads and highways, factories, dams etc.</sent>
+				<sent id ="8">Just as the elements of a place can make it beautiful, they can also pollute it.</sent>
+				<sent id ="9">Buildings and roads constructed in planned ways make the environment beautiful.</sent>
+				<sent id ="10">Keeping buildings and roads and streets clean also keep the environment beautiful.</sent>
+				<sent id ="11">Dirty buildings and roads made without planning pollute the environment.</sent>
+				<sent id ="12">Clean air, fertile soil and pure water keep the environment healthy.</sent>
+				<sent id ="13">On the other hand, polluted air, infertile soil, dirty water etc. pollute the environment.</sent>
+				<sent id ="14">Natural disasters like earthquakes, floods, tidal waves, wildfires, volcanic eruptions, tornadoes, cyclones, tsunamis etc. cause great damage to the environment.</sent>
+				<sent id ="15">In most cases, these disasters occur as a result of using the environment in unplanned ways.</sent>
+				<sent id ="16">Wildfires cause plants in the forests to burn, and destroy them.</sent>
+				<sent id ="17">Plants do not grow in the infertile burnt land of the forests.</sent>
+				<sent id ="18">Crops do not grow in the burnt soil either.</sent>
+				<sent id ="19">Humans, animals and birds cannot live in such environments.</sent>
+				<sent id ="20">Cyclones and tornadoes cause great damage to human communities, plants, animals, birds and farms.</sent>
+				<sent id ="21">Humans cause lot of damage to the natural environment for their own benefit.</sent>
+				<sent id ="22">Lots of bricks are needed to build houses, factories, roads etc.</sent>
+				<sent id ="23">Because of this, many brickyards are built around the city.</sent>
+				<sent id ="24">The black smoke from the brickyards pollute the air.</sent>
+				<sent id ="25">The black smoke emitted from factories and mechanical vehicles also pollute the air.</sent>
+				<sent id ="26">Many people dispose of garbage here and there - in streets, in rivers and streams etc.</sent>
+				<sent id ="27">This pollutes air and water.</sent>
+				<sent id ="28">This causes rivers and streams to become filled, causing water clogging.</sent>
+				<sent id ="29">In Dhaka, many of you are familiar with the troubles caused by water clogging.</sent>
+				<sent id ="30">Water clogging is also harmful to crops in rural areas.</sent>
+				<sent id ="31">Also, people dispose of factory waste and urban and rural household garbage here and there.</sent>
+				<sent id ="32">Because of the lack of proper waste disposal facilities, the soil, water and air become polluted.</sent>
+				<sent id ="33">Humans cut down trees of forests in order to prepare farmlands and build houses.</sent>
+				<sent id ="34">Because of this, forests and trees in nature are diminishing day by day.</sent>
+				<sent id ="35">You know that plants release oxygen into the atmosphere and absorb carbon dioxide form the atmosphere.</sent>
+				<sent id ="36">Fish and other aquatic creatures cannot live in polluted water.</sent>
+				<sent id ="37">Also, aquatic plants do not grow there.</sent>
+				<sent id ="38">Bathing in polluted water causes various skin diseases.</sent>
+				<sent id ="39">If the environment becomes polluted, it becomes harmful for animals, plants and humans.</sent>
+				<sent id ="40">Plants, animals and humans survive by adapting with the environment.</sent>
+				<sent id ="41">This is called natural balance.</sent>
+				<sent id ="42">Environmental pollution ruins the balance of nature and causes natural disasters.</sent>
+				<sent id ="43">Once the environment becomes polluted, it is very difficult and expensive to free it from pollution.</sent>
+				<sent id ="44">Excessive use and improper disposal of polythene here and there causes serious problems in the sewerage and water disposal systems.</sent>
+				<sent id ="45">Polythene bags dropped here and there can clog up the mouths of water and sewerage pipes.</sent>
+				<sent id ="46">Polythene and plastic do not decompose, and they do not become mixed with the soil.</sent>
+				<sent id ="47">Polythene remain unchanged for years in water or soil.</sent>
+				<sent id ="48">This stunts the growth of plants.</sent>
+				<sent id ="49">This is a type of soil pollution.</sent>
+				<sent id ="50">No plants grow in polluted soil.</sent>
+				<sent id ="51">Crops cannot be grown in it.</sent>
+				<sent id ="52">We have also learnt that polluted soil, water and air is harmful for humans and other animals.</sent>
+				<sent id ="53">A pollution-free environment is needed in order to live healthily.</sent>
+				<sent id ="54">In order to keep our environment pollution-free, we must refrain from things which may pollute the environment.</sent>
+				<sent id ="55">Waste from factories must be treated so that they cannot pollute the environment.</sent>
+				<sent id ="56">We must take care of plants in order to prevent pollution of air.</sent>
+				<sent id ="57">We must plant trees around our houses, participate in forestation, participate in tree-planting endeavours regularly, and plant lots of trees.</sent>
+				<sent id ="58">We must take care of plants, and tell people not to cut down trees unnecessarily.</sent>
+				<sent id ="59">Air becomes polluted if organic wastes are burnt.</sent>
+				<sent id ="60">They should be buried underground by digging holes.</sent>
+				<sent id ="61">This would prevent the environment from becoming polluted.</sent>
+				<sent id ="62">Plastic, polythene, glass and metal objects cannot be disposed of here and there.</sent>
+				<sent id ="63">They should be recycled and reused.</sent>
+				<sent id ="64">This would help to keep the environment pollution-free.</sent>
+				<sent id ="65">You know that many people earn their living by making cardboard from discarded paper.</sent>
+				<sent id ="66">Therefore we should dispose of waste paper in a separate place.</sent>
+				<sent id ="67">Observe how the natural environment around your school is being polluted.</sent>
+				<sent id ="68">Make a list of the sources of pollution, and describe methods to get rid of them.</sent>
+				<sent id ="69">Soil, water, air, plants, animals etc. are natural resources.</sent>
+				<sent id ="70">They are needed in order for us to survive and maintain the balance of nature.</sent>
+				<sent id ="71">We can conserve the environment by preserving and using the resources of the environment properly.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

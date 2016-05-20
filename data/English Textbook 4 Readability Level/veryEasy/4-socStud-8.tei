@@ -1,0 +1,145 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.755</idno>
+				<idno type="Number of sentences">117</idno>
+				<idno type="Number of tokens">1139</idno>
+				<idno type="Number of token types">530</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t102">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We are citizens of Bangladesh.</sent>
+				<sent id ="2">It is situated in the eastern part of the land called Bangla.</sent>
+				<sent id ="3">Its earlier name was East Bengal.</sent>
+				<sent id ="4">The western part of Bangla is called West Bengal.</sent>
+				<sent id ="5">It is a province of India.</sent>
+				<sent id ="6">In ancient times there was no land called Bangla.</sent>
+				<sent id ="7">Each area had a separate name.</sent>
+				<sent id ="8">They are Banga, Samatat, Gaura, Pundra, Harikel and Kara.</sent>
+				<sent id ="9">In the fourteenth century this area was named Bangalah, Subsequently its name was Bangla.</sent>
+				<sent id ="10">In ancient times the social, economic and religious aspects were remarkable.</sent>
+				<sent id ="11">Now we will come to know about these aspects.</sent>
+				<sent id ="12">From ancient times numerous villages grew up in Bangal.</sent>
+				<sent id ="13">The social life of the villages was simple because of its geographical features.</sent>
+				<sent id ="14">Most of the people were farmers and fishermen.</sent>
+				<sent id ="15">In every village, there was a village council.</sent>
+				<sent id ="16">This council consisted of local celebrities.</sent>
+				<sent id ="17">Through the local council the administration of the village would run.</sent>
+				<sent id ="18">The maintenance of law and order and justice were the responsibility of the village council.</sent>
+				<sent id ="19">All the needs of the people were met in the village.</sent>
+				<sent id ="20">For this reason these villages were called self- sufficient.</sent>
+				<sent id ="21">Let us copy the table below in our notebooks and complete it.</sent>
+				<sent id ="22">In every village people would live in harmony.</sent>
+				<sent id ="23">Various functions and festivals would take place all the year round.</sent>
+				<sent id ="24">People would enjoy themselves on the occasions.</sent>
+				<sent id ="25">From ancient times the soil of Bengal was fertile.</sent>
+				<sent id ="26">The climate was suitable for agriculture.</sent>
+				<sent id ="27">The fields were ploughed with ploughs fitted with iron files.</sent>
+				<sent id ="28">Bulls and buffalos were used for ploughing.</sent>
+				<sent id ="29">The main crops of Bengal were rice and sugarcane.</sent>
+				<sent id ="30">Rice and fish were their staple foods.</sent>
+				<sent id ="31">For this reason rice was grown in plenty.</sent>
+				<sent id ="32">Plenty of fish was available in rivers and canals.</sent>
+				<sent id ="33">Sweets were people's favourite.</sent>
+				<sent id ="34">Molasses and sugar would be made from the juice of sugarcane.</sent>
+				<sent id ="35">In ancient Bengal oatmeal, pulses and oilcakes were grown.</sent>
+				<sent id ="36">All kinds of spices would be made.</sent>
+				<sent id ="37">A variety of fruits used to be grown.</sent>
+				<sent id ="38">Various cash crops were cultivated.</sent>
+				<sent id ="39">Of the cash crops, jute and cotton were the main.</sent>
+				<sent id ="40">Clothes would be woven from the cotton produced in the village.</sent>
+				<sent id ="41">Silk was also cultivated.</sent>
+				<sent id ="42">Along with agriculture, various kinds of cottage industries grew up in ancient Bengal.</sent>
+				<sent id ="43">In these cottage industries, mainly cotton and silk clothes were woven.</sent>
+				<sent id ="44">Clothes would be made of jute also.</sent>
+				<sent id ="45">In ancient Bengal trade and commerce were in vogue.</sent>
+				<sent id ="46">Merchants from abroad used to come here.</sent>
+				<sent id ="47">Merchants from different parts of India also came to Bengal.</sent>
+				<sent id ="48">In the beginning, a kind of marble was used in business as money.</sent>
+				<sent id ="49">Later coins made of brass, silver and gold came into vogue.</sent>
+				<sent id ="50">From ancient times the people of Bengal were believers in religion.</sent>
+				<sent id ="51">They would believe that the human soul lives on after death.</sent>
+				<sent id ="52">They used to observe various rituals to pay respects to the dead.</sent>
+				<sent id ="53">They worshipped the sun, rivers, trees, forests, hills, etc as gods.</sent>
+				<sent id ="54">They also worshipped different animals.</sent>
+				<sent id ="55">They used rice, bananas, banana trees, coconut, perfumes, betel leaves, etc in this worship.</sent>
+				<sent id ="56">They drew lines, blew conch shells and uttered religious notes through the lips.</sent>
+				<sent id ="57">Later in ancient Bengal, various religious beliefs developed.</sent>
+				<sent id ="58">Of them, Vedic religion, Jaina religion, Buddhism, Baishnaba religion are the main.</sent>
+				<sent id ="59">Besides, it is learnt that in the coastal areas, Islam began to be preached.</sent>
+				<sent id ="60">After the arrival of the Aryans, Vedic religion was on its way.</sent>
+				<sent id ="61">In course of time this religion spread far and wide.</sent>
+				<sent id ="62">The Vedas are the sacred books of this religion.</sent>
+				<sent id ="63">The Vedic religion is called the original religion or Hinduism.</sent>
+				<sent id ="64">Like the people of Bengal, the Aryans were the worshippers of Nature.</sent>
+				<sent id ="65">They used to worship various objects of Nature as gods and goddesses.</sent>
+				<sent id ="66">Temples were built in various parts of Bengal.</sent>
+				<sent id ="67">In these temples, images of gods and goddesses would be placed.</sent>
+				<sent id ="68">Arrangements were made for worship.</sent>
+				<sent id ="69">Flowers, fruits, various kinds of food were offered in honour of the gods and goddesses.</sent>
+				<sent id ="70">Jaina religion was preached by Mahabir.</sent>
+				<sent id ="71">The Jainas believed that in the natural process all activities of the world are conducted.</sent>
+				<sent id ="72">Unlike the Vedic religion there were no strict rules and regulations in Jainasm.</sent>
+				<sent id ="73">This religion received special adherence in some people.</sent>
+				<sent id ="74">The places of worship of the Jainas are called Bihara1 or monastery.</sent>
+				<sent id ="75">Gautama Buddha is the founder of Buddhism.</sent>
+				<sent id ="76">The principles of Buddhism are simple and straightforward.</sent>
+				<sent id ="77">The basic teaching of this religion is: non-violence is the best religion.</sent>
+				<sent id ="78">To Buddhists, it is a great sin to kill living beings.</sent>
+				<sent id ="79">In ancient Bengal many among the ordinary people accepted this religion.</sent>
+				<sent id ="80">Towards the end of the ancient period, the Baishnaba religion made its appearance.</sent>
+				<sent id ="81">The followers of this religion regarded Krishna as a god and Radha as a goddess.</sent>
+				<sent id ="82">They arrange joyous festivals in honour of Krishna and Radha.</sent>
+				<sent id ="83">Now let us copy in our notebooks the table below and complete it.</sent>
+				<sent id ="84">In various settlements of Ancient Bengal different types of culture developed.</sent>
+				<sent id ="85">But certain common characteristics are found.</sent>
+				<sent id ="86">We will learn about them from the table below.</sent>
+				<sent id ="87">They also used to eat meat, pulses and vegetables.</sent>
+				<sent id ="88">Their favourite foods included milk and milk foods.</sent>
+				<sent id ="89">dress In Ancient Bengal the main dress of men was dhuti.</sent>
+				<sent id ="90">Women wore sari, hair styles and used coloured substances.</sent>
+				<sent id ="91">They were very fond of gold and silver jewellery.</sent>
+				<sent id ="92">Sports In ancient Bengal various kinds of games and sports were in vogue.</sent>
+				<sent id ="93">Men were fond of running, boat race, ha du du, wrestling and stick games.</sent>
+				<sent id ="94">Women were fond of the games like kari, guti, kanamachi and bagbandhi.</sent>
+				<sent id ="95">At that time, pasha game was also popular.</sent>
+				<sent id ="96">Both men and women participated in this game.</sent>
+				<sent id ="97">Festivals In Ancient Bengal numerous festivals were in vogue.</sent>
+				<sent id ="98">Nobanna, paushparban, holy, charak, gajon, rathjatra, julanjatra, rashjatra, dolejatra, etc deserve special mention.</sent>
+				<sent id ="99">Besides, Shasti, Gaehalud, Pankhili, etc. were favourite functions.</sent>
+				<sent id ="100">On these occasions, songs and dances were arranged.</sent>
+				<sent id ="101">Musical instruments like the drum, the flute, etc were used.</sent>
+				<sent id ="102">There have been various songs, nursery rhymes, arts, etc. in Bengal from ancient times.</sent>
+				<sent id ="103">These are important aspects of folk tradition of Bengal.</sent>
+				<sent id ="104">There have been innumerable songs in Bengal from ancient times.</sent>
+				<sent id ="105">These songs are called folk songs.</sent>
+				<sent id ="106">These are composed orally and passed on from mouth to mouth.</sent>
+				<sent id ="107">The noteworthy songs of that time include baul, jhanpan, kirtan, pachali, etc.</sent>
+				<sent id ="108">Nursery Rhymes There were in vogue many nursery rhymes from ancient times.</sent>
+				<sent id ="109">These rhymes are composed on various aspects of social life.</sent>
+				<sent id ="110">People used hanging pots made of jute and fans made of palmyra leaves.</sent>
+				<sent id ="111">Earthen pitchers, pots and pans, flower vases, toys, etc. were in vogue.</sent>
+				<sent id ="112">People made crockery with silver, brass, copper, etc.</sent>
+				<sent id ="113">They engraved designs on them.</sent>
+				<sent id ="114">Besides, they painted pictures on them and drew designs in different places.</sent>
+				<sent id ="115">These are important aspects of our folk art.</sent>
+				<sent id ="116">Bangladesh is our dear motherland.</sent>
+				<sent id ="117">We will learn more about our history and culture.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

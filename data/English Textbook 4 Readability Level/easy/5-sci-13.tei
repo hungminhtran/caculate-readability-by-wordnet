@@ -1,0 +1,194 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-13</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.835</idno>
+				<idno type="Number of sentences">166</idno>
+				<idno type="Number of tokens">2005</idno>
+				<idno type="Number of token types">808</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t45">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The current age is the age of science and technology.</sent>
+				<sent id ="2">Man has had many remarkable achievements making use of science and technology.</sent>
+				<sent id ="3">At the dawn of creation humans were not like this - they were weak and powerless.</sent>
+				<sent id ="4">They had to survive depending only on the kindness of nature.</sent>
+				<sent id ="5">They lived on fruits which grew in the forests or on the flesh of animals.</sent>
+				<sent id ="6">Tree bark and leaves served as their clothes.</sent>
+				<sent id ="7">They lived under trees or on tree branches.</sent>
+				<sent id ="8">Like other animals they suffered from cold, heat, rain and storms.</sent>
+				<sent id ="9">However, in later times, humans used their intelligence to build houses for living to get protection from rain and storms.</sent>
+				<sent id ="10">Humans once ate all their food raw.</sent>
+				<sent id ="11">Then they discovered fire using their intelligence and talent.</sent>
+				<sent id ="12">They began building houses and farming.</sent>
+				<sent id ="13">They started using various types of tools for farming, such as spades, shears, ploughs etc.</sent>
+				<sent id ="14">Thus, humans gradually entered the era of science and technology although they were not aware of it.</sent>
+				<sent id ="15">They learnt to harness the forces of nature for their own purposes.</sent>
+				<sent id ="16">This way man started to live on earth by conquering nature using their own intelligence.</sent>
+				<sent id ="17">Many things take place in nature.</sent>
+				<sent id ="18">Days and nights occur alternately.</sent>
+				<sent id ="19">The sun rises every morning following a certain pattern.</sent>
+				<sent id ="20">We experience rain and storms, as well as earthquakes and other natural disasters.</sent>
+				<sent id ="21">Summer arrives, followed by winter.</sent>
+				<sent id ="22">We suffer from many diseases and are healed by medicine.</sent>
+				<sent id ="23">The earth revolves around the sun.</sent>
+				<sent id ="24">The moon revolves around the earth.</sent>
+				<sent id ="25">Why and how do all these things of nature occur?</sent>
+				<sent id ="26">Why do we suffer from diseases?</sent>
+				<sent id ="27">Humans have searched for the answers to these questions for ages.</sent>
+				<sent id ="28">They performed many experiments in order to discover the causes behind these events.</sent>
+				<sent id ="29">From this, they acquired different types of knowledge.</sent>
+				<sent id ="30">Science is the process of acquisition of knowledge through research.</sent>
+				<sent id ="31">It helps human beings to acquire new concepts.</sent>
+				<sent id ="32">With the help of science, man has developed various fields related to his life and means of livelihood.</sent>
+				<sent id ="33">Due to advancements made in the medical sector, many deadly diseases can now be cured.</sent>
+				<sent id ="34">Development of factories now makes it possible to produce large quantities of goods in much less time.</sent>
+				<sent id ="35">Advancements made in the agricultural sector have helped us to reduce the deficiency of food quite significantly.</sent>
+				<sent id ="36">Science and technology are very closely related.</sent>
+				<sent id ="37">They go hand in hand.</sent>
+				<sent id ="38">Technology must be used in order to utilize valuable innovations of the scientists for the benefit of mankind.</sent>
+				<sent id ="39">Therefore, technology is developed for utilizing the scientific discoveries and inventions.</sent>
+				<sent id ="40">For example, in ancient times, humans did not know the uses of fire.</sent>
+				<sent id ="41">Science taught them the use of fire.</sent>
+				<sent id ="42">The knives, scythes, shears, sickles, ploughs etc. were also manufactured using scientific knowledge.</sent>
+				<sent id ="43">These are examples of technology.</sent>
+				<sent id ="44">We will state some examples in order to explain the relationships between science and technology.</sent>
+				<sent id ="45">Do you know the name of the scientist Sir Isaac Newton?</sent>
+				<sent id ="46">He discovered the laws of gravitation.</sent>
+				<sent id ="47">In his laws, Newton said that all objects attract each other.</sent>
+				<sent id ="48">He stated that different planets revolve around the sun.</sent>
+				<sent id ="49">Rockets and artificial satellites were developed based on Newton's laws of gravitation.</sent>
+				<sent id ="50">Here, the discovery of Newton's laws of gravitation was a scientific act.</sent>
+				<sent id ="51">The development of rockets and artificial satellites are examples of technology.</sent>
+				<sent id ="52">Let us consider electricity.</sent>
+				<sent id ="53">He scientist who discovered electricity did not have any idea about the numerous ways in which it could be utilized.</sent>
+				<sent id ="54">Technologists have built many types of machines to use electricity for many different purposes.</sent>
+				<sent id ="55">Many types of technology have been developed based on the discovery of electricity.</sent>
+				<sent id ="56">Besides, overhead projectors and multimedia projectors are now used all over the world in order to give lessons in classrooms.</sent>
+				<sent id ="57">We can use the Internet to access libraries all around the world.</sent>
+				<sent id ="58">In ancient times, ox-carts and horse-drawn carriages were used to travel by road.</sent>
+				<sent id ="59">No other forms of transportation existed in those days.</sent>
+				<sent id ="60">Nowadays, there are many types of vehicles with modern technology which can be used to travel by road.</sent>
+				<sent id ="61">Motorcars, trains, steamers and aeroplanes are examples of vehicles which utilize modern technology.</sent>
+				<sent id ="62">In the past, people used to transfer information and news from one place to another on foot or on horseback.</sent>
+				<sent id ="63">These ways of exchange of information was very time-consuming.</sent>
+				<sent id ="64">The ancient piece of technology known as the plough is still used in many countries.</sent>
+				<sent id ="65">Low- lift pumps are used to lift water from deep wells, reservoirs, rivers and streams for irrigation purposes.</sent>
+				<sent id ="66">Drum-seeders are used for seeding.</sent>
+				<sent id ="67">There are also machines used for harvesting and threshing crops.</sent>
+				<sent id ="68">These types of agricultural technology have made the jobs of farmers much easier.</sent>
+				<sent id ="69">The invention of high yielding variety (HYV) of paddy and other food grain seeds are results of science and technology.</sent>
+				<sent id ="70">Plants of HYV food grain have increased our grain yield by many times.</sent>
+				<sent id ="71">Pictures of certain types of agricultural technology are shown here.</sent>
+				<sent id ="72">Now mention the names of a few types of agricultural technology which you know about.</sent>
+				<sent id ="73">In the field of medicine, science and technology have allowed us to develop new types of medicines and equipment.</sent>
+				<sent id ="74">Previously, only X-rays were used in order to observe the state of the internal organs of the body.</sent>
+				<sent id ="75">Now, sound waves are used in ultrasonography to take pictures of the internal organs of the body.</sent>
+				<sent id ="76">ECGs are used to detect heart diseases.</sent>
+				<sent id ="77">Laser beams are used to perform many complex operations without causing any loss of blood.</sent>
+				<sent id ="78">Modern medical technology allows us to implant or transplant different malfunctioning organs.</sent>
+				<sent id ="79">For example, it is now possible to implant artificial kidneys, or pacemakers in case of heart problems.</sent>
+				<sent id ="80">Injections and vaccinations are used to provide protection from tuberculosis, diphtheria, whooping cough, measles and pox.</sent>
+				<sent id ="81">Insulin prepared using modern technology has made the lives of diabetes patients easier.</sent>
+				<sent id ="82">These are all products of modern medical technology.</sent>
+				<sent id ="83">A number of examples of medical technology have been illustrated in the following diagram.</sent>
+				<sent id ="84">Now mention a few examples of medical technology which you know about.</sent>
+				<sent id ="85">In our everyday lives, two widely-used examples of science and technology are automatic doors and remote controls.</sent>
+				<sent id ="86">Now we will discuss about automatic doors and remote controls.</sent>
+				<sent id ="87">Have you ever stood in front of a closed door and seen it open by itself?</sent>
+				<sent id ="88">Those of you who have been abroad may have seen like this.</sent>
+				<sent id ="89">Doors like this are also found in some places of our country.</sent>
+				<sent id ="90">You will usually see this type of doors in large offices, shops and airports.</sent>
+				<sent id ="91">Large hotels also have this type of doors.</sent>
+				<sent id ="92">Usually, we have to open latches or locks, or push or pull the doors in order to open them.</sent>
+				<sent id ="93">But automatic doors open by themselves, because of which they are known as automatic doors.</sent>
+				<sent id ="94">Why do automatic doors open by themselves?</sent>
+				<sent id ="95">How do they function?</sent>
+				<sent id ="96">Actually, automatic doors do not open by themselves.</sent>
+				<sent id ="97">This machine is called a sensor.</sent>
+				<sent id ="98">There are many types of sensors.</sent>
+				<sent id ="99">Among them, pressure sensors, light sensors and motion sensors are used the most widely.</sent>
+				<sent id ="100">Heron of Alexandria invented the first automatic door.</sent>
+				<sent id ="101">Imagine that a pressure sensor is being used in an automatic door.</sent>
+				<sent id ="102">That is to say, pressure sensors are triggered by pressure.</sent>
+				<sent id ="103">Light sensors are triggered when light is obstructed.</sent>
+				<sent id ="104">TV remote control b.</sent>
+				<sent id ="105">Operating a toy car with remote control Motion sensors are triggered by your movements or motion.</sent>
+				<sent id ="106">So, when you come in front of the door, it opens.</sent>
+				<sent id ="107">This is how automatic doors work.</sent>
+				<sent id ="108">Remote control Previously, we have discussed about televisions.</sent>
+				<sent id ="109">In case of some TV sets the power button has to be pressed in order to operate it.</sent>
+				<sent id ="110">Buttons also need to be pressed in order to increase or decrease the volume.</sent>
+				<sent id ="111">However, a small device can now be used to do these things from a distance.</sent>
+				<sent id ="112">Many of you know the name of this device, and many of you have probably used it.</sent>
+				<sent id ="113">It is called a remote control.</sent>
+				<sent id ="114">The meaning of the term remote control is to control something from a distance.</sent>
+				<sent id ="115">It is also called a remote in its shortened form.</sent>
+				<sent id ="116">The first remote control was invented in the year It was invented by scientist Nicola Tesla.</sent>
+				<sent id ="117">Some buttons turn switches on or off, some change the channels, some increase or decrease the volume.</sent>
+				<sent id ="118">TV remotes do this by means of beams of a type of invisible light called infrared ray.</sent>
+				<sent id ="119">Some remotes work by using radio signals.</sent>
+				<sent id ="120">The term infrared is new to you.</sent>
+				<sent id ="121">Infra means low.</sent>
+				<sent id ="122">Since the brightness of this ray is less than that of the colour red, it is called infrared ray.</sent>
+				<sent id ="123">It cannot be seen with the naked eye.</sent>
+				<sent id ="124">If a button is pressed to change the channel, the channel is changed.</sent>
+				<sent id ="125">If a button is pressed to increase the volume, the volume increases.</sent>
+				<sent id ="126">Infrared rays cannot pass through obstacles.</sent>
+				<sent id ="127">That is why a remote control does not work if there is an obstacle between itself and the TV.</sent>
+				<sent id ="128">Similarly, radio waves are emitted from a remote and ring the bell when a button is pressed on the remote.</sent>
+				<sent id ="129">Radio waves are also used to operate toy cars with remote control.</sent>
+				<sent id ="130">So now you can understand how the remote controls work.</sent>
+				<sent id ="131">It has improved our quality of life.</sent>
+				<sent id ="132">The infant mortality rates have decreased.</sent>
+				<sent id ="133">People are recovering from many complex diseases and regaining healthy lives.</sent>
+				<sent id ="134">Technology is being used to grow more food.</sent>
+				<sent id ="135">This has caused the food production in our country to rise.</sent>
+				<sent id ="136">Science and technology have not only contributed to food production, but also to the preservation and distribution of food.</sent>
+				<sent id ="137">Better houses are being built, and people can travel quickly from one place to another.</sent>
+				<sent id ="138">Many new synthetic substances can be created using science and technology.</sent>
+				<sent id ="139">They include clothes made of nylon, terelyne and polyester; plastic toys, household appliances, chemical fertilizers etc.</sent>
+				<sent id ="140">We have obtained new sources of energy through the use of science and technology.</sent>
+				<sent id ="141">The use of technology in the extraction of coal, oil and gas is increasing day by day.</sent>
+				<sent id ="142">Solar energy obtained from the sun is being used.</sent>
+				<sent id ="143">Water electricity is being generated by using the kinetic energy of water currents to rotate turbines.</sent>
+				<sent id ="144">Electricity is being generated using wind energy.</sent>
+				<sent id ="145">Wind energy is used to lift water for irrigation.</sent>
+				<sent id ="146">Besides, biogas is generated from cow dung and human faeces, which is used for cooking and lighting lamps.</sent>
+				<sent id ="147">In this way, biogas, solar energy and wind energy are being used to meet the energy demands of village people.</sent>
+				<sent id ="148">Television, radio, telephone, fax, email and the Internet have revolutionized the fields of education, information exchange and communication.</sent>
+				<sent id ="149">We can use them to exchange information quickly an economically.</sent>
+				<sent id ="150">These types of information technology have helped to bring the world closer to us.</sent>
+				<sent id ="151">It is as if the world has become smaller.</sent>
+				<sent id ="152">The use of technology has improved the quality of every aspect of our lives.</sent>
+				<sent id ="153">The use of technology has resulted in increased production in factories.</sent>
+				<sent id ="154">It has increased the quality of products and decreased the cost of production.</sent>
+				<sent id ="155">Robots are used to perform tasks which are dangerous for human beings.</sent>
+				<sent id ="156">They are also performing many intricate tasks in place of humans.</sent>
+				<sent id ="157">However, misuse of technology has also resulted in certain problems.</sent>
+				<sent id ="158">Also, fumes emitted from defective motor cars pollute the air, resulting in breathing problems and various types of diseases.</sent>
+				<sent id ="159">The misuse of radios, televisions and computers create many problems in the human body.</sent>
+				<sent id ="160">They include decrease in hearing, aches in the neck or shoulders, tears drying up, poor eyesight etc.</sent>
+				<sent id ="161">A substance called CFC which is emitted from air-conditioners and refrigerators damage the ozone layer of the earth's atmosphere.</sent>
+				<sent id ="162">Bombs and chemical weapons used in deadly warfare are products of technology.</sent>
+				<sent id ="163">They can be used to kill millions of people.</sent>
+				<sent id ="164">So, we should be aware of the proper use of technology.</sent>
+				<sent id ="165">We should know about the negative effects of misuse of technology and refrain from misusing it.</sent>
+				<sent id ="166">It is a matter of relief that awareness of these negative effects are rising worldwide day by day.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

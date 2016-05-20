@@ -1,0 +1,93 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.42</idno>
+				<idno type="Number of sentences">65</idno>
+				<idno type="Number of tokens">638</idno>
+				<idno type="Number of token types">285</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t36">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We all live in a family.</sent>
+				<sent id ="2">The members of a family love and respect one another.</sent>
+				<sent id ="3">Love, affection, care and respect keep one another very close.</sent>
+				<sent id ="4">Everyone in the family does some work.</sent>
+				<sent id ="5">What kind of work does each of us do in the family?</sent>
+				<sent id ="6">Let us write in the table below the work we do in the family daily.</sent>
+				<sent id ="7">Our parents work very hard to bring us up.</sent>
+				<sent id ="8">They always look after us so that we never face miseries.</sent>
+				<sent id ="9">Our mother prepares food for us.</sent>
+				<sent id ="10">Particularly, mothers remain more cautious about these things.</sent>
+				<sent id ="11">Father works very hard.</sent>
+				<sent id ="12">He works in the office, industries, fields and runs business.</sent>
+				<sent id ="13">In some families, the mother also goes out to work and earn money.</sent>
+				<sent id ="14">Someone's mother is a teacher, Someone's mother is a doctor or nurse.</sent>
+				<sent id ="15">Someone's mother is an engineer.</sent>
+				<sent id ="16">Again, some mothers work in the offices or counts.</sent>
+				<sent id ="17">Parents arrange necessary things for the family.</sent>
+				<sent id ="18">Besides, fathers help the mothers in different household works.</sent>
+				<sent id ="19">We can also do some work in the family.</sent>
+				<sent id ="20">We can arrange reading table and school bag.</sent>
+				<sent id ="21">We can arrange the dining table.</sent>
+				<sent id ="22">We can bring our mother water.</sent>
+				<sent id ="23">We can feed the poultry.</sent>
+				<sent id ="24">We can water the vegetable gardens or flower and fruit plants around the house.</sent>
+				<sent id ="25">We can plant trees and take care of them.</sent>
+				<sent id ="26">Besides, we can clean the courtyard and the areas around the house.</sent>
+				<sent id ="27">We can go to the field with food and water for our father.</sent>
+				<sent id ="28">We can also feed and give water the goats.</sent>
+				<sent id ="29">We can also help them.</sent>
+				<sent id ="30">For example, we can help our paternal or maternal grandparents to take their medicines.</sent>
+				<sent id ="31">We can bring their food on time.</sent>
+				<sent id ="32">We can read the newspapers for them.</sent>
+				<sent id ="33">Sometimes we can accompany.</sent>
+				<sent id ="34">Besides, we can help uncles and aunts in their work.</sent>
+				<sent id ="35">We go to school to study.</sent>
+				<sent id ="36">Beside studies, we also have other work.</sent>
+				<sent id ="37">For example, we can keep the classroom, school, buildings and schoolyards neat and clean.</sent>
+				<sent id ="38">We can help the teachers in different works.</sent>
+				<sent id ="39">We will keep chairs, tables, benches and other furniture of the school clean.</sent>
+				<sent id ="40">We will look after them so that they are not spoiled.</sent>
+				<sent id ="41">We shall do these works with discipline.</sent>
+				<sent id ="42">We will learn through scouting to do things in a disciplined manner.</sent>
+				<sent id ="43">The boy and girls of 5 to 25 years old can join the scouts.</sent>
+				<sent id ="44">There are three sections of scouts.</sent>
+				<sent id ="45">For example, there are Cub Scout, Scout and Rover Scout.</sent>
+				<sent id ="46">Scouting helps make the boys and girls patriotic, good and ideal citizens.</sent>
+				<sent id ="47">In 1907, Lord Baden Powel of Britain started the scout movement.</sent>
+				<sent id ="48">Cub means offspring of the lion.</sent>
+				<sent id ="49">There are many works in the school which are not possible to be done alone.</sent>
+				<sent id ="50">All the students are to work together to do those works.</sent>
+				<sent id ="51">For the development of the school, we can grow flowers and vegetables.</sent>
+				<sent id ="52">We can take part in planting trees during the Tree Plantation Week.</sent>
+				<sent id ="53">We can help the elders in fish farming in the school pond.</sent>
+				<sent id ="54">We will take part in these development works along with our studies.</sent>
+				<sent id ="55">Picture 3: Keeping the classrooms and the school premises neat and clean.</sent>
+				<sent id ="56">Besides family and school, we can participate in different development works of the locality.</sent>
+				<sent id ="57">We can help in repairing a damaged road and bridge of our neighbourhood or community.</sent>
+				<sent id ="58">We can fix a particular place for dumping wastes.</sent>
+				<sent id ="59">We can also make a small library in our neighbourhood or community.</sent>
+				<sent id ="60">All of us from the area will plant trees in various open spaces.</sent>
+				<sent id ="61">We will take care of them.</sent>
+				<sent id ="62">Sometimes we will take part in cleaning our area.</sent>
+				<sent id ="63">As a result, our environment will not be polluted.</sent>
+				<sent id ="64">We will also save ourselves somewhat from the attack of dengue and other serious diseases.</sent>
+				<sent id ="65">In this way, we can develop our family, school and the area.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

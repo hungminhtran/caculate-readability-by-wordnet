@@ -1,0 +1,183 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-17</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.96</idno>
+				<idno type="Number of sentences">155</idno>
+				<idno type="Number of tokens">1942</idno>
+				<idno type="Number of token types">676</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t61">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Suppose in a morning you got up from bed and saw that it had been raining heavily.</sent>
+				<sent id ="2">After some time the sky became clear.</sent>
+				<sent id ="3">The sun was shining and the temperature went high.</sent>
+				<sent id ="4">Just after that you saw strong wind was blowing.</sent>
+				<sent id ="5">The wind was cold.</sent>
+				<sent id ="6">At afternoon you could see accumulation of dark clouds on north sky.</sent>
+				<sent id ="7">It might rain at any moment.</sent>
+				<sent id ="8">We have just heard about some situations of the day's weather.</sent>
+				<sent id ="9">Sum total of a day's situation or a few day's situations are called weather.</sent>
+				<sent id ="10">It means the total amount of temperature, pressure, wind, humidity and rainfall of a particular day or few days unified are called weather.</sent>
+				<sent id ="11">There is one meteorological office in each divisional city in our country.</sent>
+				<sent id ="12">We get weather information of different places of the country from these offices.</sent>
+				<sent id ="13">In the whole country or in some areas of the country, weather condition does not remain the same in every single day of the year.</sent>
+				<sent id ="14">It may be very hot in one day and very cold in another day.</sent>
+				<sent id ="15">One day, there may be raining from dawn to dusk.</sent>
+				<sent id ="16">On the other day when there may be no rain at all.</sent>
+				<sent id ="17">The average weather condition of an area for 30 to 40 years is called climate.</sent>
+				<sent id ="18">Where as climate is the average weather condition of a country or an area for few years.</sent>
+				<sent id ="19">Average conditions of few year's weather of an area is the climate.</sent>
+				<sent id ="20">All the composite parts or elements of weather are also same in case of climate.</sent>
+				<sent id ="21">Climate is the atmospheric conditions of a country or an area for a long period.</sent>
+				<sent id ="22">Climate of an area does not change rapidly.</sent>
+				<sent id ="23">About 30 to 40 years average weather report is to be consulted to calculate the climate of an area.</sent>
+				<sent id ="24">Weather Average condition of atmosphere of an area for a period of few days is called weather.</sent>
+				<sent id ="25">Temperature, pressure, humidity, blow of wind and rainfall are the elements of weather.</sent>
+				<sent id ="26">Weather is the condition of the atmosphere for a short period.</sent>
+				<sent id ="27">Weather condition changes rapidly.</sent>
+				<sent id ="28">Average weather condition can be calculated by consulting few day's weather report.</sent>
+				<sent id ="29">Composite parts or elements of weather and climate We have learnt earlier that each and every substance is made of one or more things.</sent>
+				<sent id ="30">Similarly, weather and climate are also made of few composite parts or elements.</sent>
+				<sent id ="31">Composite parts or elements of weather and climate are the same.</sent>
+				<sent id ="32">Weather and climate of a particular area have the following composite elements.</sent>
+				<sent id ="33">These elements are the elements of both weather and climate.</sent>
+				<sent id ="34">With the variation of these composite elements; weather and climate of an area also varies.</sent>
+				<sent id ="35">In short these composite elements are discussed below.</sent>
+				<sent id ="36">Air temperature : Main source of temperature is sun.</sent>
+				<sent id ="37">The air may be hot or cold depending on the amount of heat absorption by air.</sent>
+				<sent id ="38">Weather and climate of an area depend on high and low temperature of air.</sent>
+				<sent id ="39">For example, when temperature of an area is high the weather and climate of that area will be hot.</sent>
+				<sent id ="40">Air pressure : Air always exerts pressure all around.</sent>
+				<sent id ="41">Like other substances, it has weight.</sent>
+				<sent id ="42">Air pressure is formed due to this weight.</sent>
+				<sent id ="43">This pressure is called air pressure.</sent>
+				<sent id ="44">Direction of wind depends on air pressure.</sent>
+				<sent id ="45">For example, air from high pressure zone blows to the direction of low pressure zone.</sent>
+				<sent id ="46">Cold wind coming from the sea causes a fall in temperature of the shore areas.</sent>
+				<sent id ="47">Wind movement: Blowing of air occurs due to variation in temperature and pressure of the air.</sent>
+				<sent id ="48">Air blows continuously from one place to another.</sent>
+				<sent id ="49">The blowing air is called wind.</sent>
+				<sent id ="50">Humidity of air: Presence of water vapour in the air is called humidity.</sent>
+				<sent id ="51">Due to presence of humidity air temperature can not go up.</sent>
+				<sent id ="52">But in this condition there is a probability of rain.</sent>
+				<sent id ="53">Temperature of air can not rise up due to rain.</sent>
+				<sent id ="54">But in desert or rainless areas air temperature goes up.</sent>
+				<sent id ="55">When one or more things controls the functioning of some thing, it is called the factor or factors.</sent>
+				<sent id ="56">For example, good food is necessary for good health.</sent>
+				<sent id ="57">So, good food is the factor of good health.</sent>
+				<sent id ="58">Climate is different in different parts of the world because climate is controlled by few natural factors.</sent>
+				<sent id ="59">These factors are latitude Altitude Distance from sea wind movement Ocean currents Location of mountains Location of forests and Land relief etc.</sent>
+				<sent id ="60">In higher class you will learn how these factors affect or regulate the climate of an area.</sent>
+				<sent id ="61">Intensity of cold and acuteness of summer temperature are the basis of classification of world climates.</sent>
+				<sent id ="62">These climates are classified into two types; such as- Extreme climate and Moderate climate.</sent>
+				<sent id ="63">1) Extreme climate: Extreme cold and intensive heat are the characteristics of extreme climates.</sent>
+				<sent id ="64">These climates are seen in the interior region of a continent.</sent>
+				<sent id ="65">That is why, this type of climate is termed as continental climate.</sent>
+				<sent id ="66">2) Moderate climate: In this type of climate, there is no extremeness of winter and summer.</sent>
+				<sent id ="67">This climate prevails in the areas adjacent to the sea.</sent>
+				<sent id ="68">It is called maritime climate.</sent>
+				<sent id ="69">Atmospheric temperature is not same in all places of earth surface.</sent>
+				<sent id ="70">In some places the temperature is high.</sent>
+				<sent id ="71">For example, temperature of jakobabad of Pakistan is high, while it is low at Darjiling of India.</sent>
+				<sent id ="72">Defference in temperature depends on some factors.</sent>
+				<sent id ="73">These factors are I) Oblique sun rays Latitude Day length Altitude Humidity Wind movement Ocean current and Depth of atmosphere etc.</sent>
+				<sent id ="74">The normal air pressure on sea surface is 15 pound per square inch.</sent>
+				<sent id ="75">That means 1 kilogram per square centimeter.</sent>
+				<sent id ="76">Air pressure does not remain same all the time.</sent>
+				<sent id ="77">In a particular place air pressure is different at different times of the year.</sent>
+				<sent id ="78">It is also observed that the air pressure changes in morning , noon and evening.</sent>
+				<sent id ="79">Changes in air pressure occurs due to the following factors.</sent>
+				<sent id ="80">Variation of temperature: Volume of air is increased and density of air is reduced when heat is applied.</sent>
+				<sent id ="81">The hot air is lighter so its pressure is low.</sent>
+				<sent id ="82">On the other hand, cold air contains less water vapour; so it exerts more pressure .</sent>
+				<sent id ="83">when the air is hot, the air pressure is low.</sent>
+				<sent id ="84">Altitude : Density and weight gradually decrease with increased heights from the sea level.</sent>
+				<sent id ="85">Air pressure in high altitude is low.</sent>
+				<sent id ="86">So higher the altitude from sea level, lower is the air pressure.</sent>
+				<sent id ="87">Difference in water vapour contents: Air with water vapour is wet and warm, which is lighter compared to dry air.</sent>
+				<sent id ="88">That's why pressure of air with water vapour is low.</sent>
+				<sent id ="89">The dry air is heavy so its pressure is high.</sent>
+				<sent id ="90">Warm air is more capable of holding water vapours.</sent>
+				<sent id ="91">It is observed that the air pressure in rainy season is low.</sent>
+				<sent id ="92">Change in air pressure has close relationship with change of weather.</sent>
+				<sent id ="93">When air pressure is high, the atmosphere is clear and normal.</sent>
+				<sent id ="94">But when air pressure falls, a low pressure is developed.</sent>
+				<sent id ="95">Then there is a possibility of rain and storm.</sent>
+				<sent id ="96">Concept of determination of average temperature and pressure of air We have learnt from the first chapter of this book about temperature and thermometer.</sent>
+				<sent id ="97">Again in the third chapter we have learnt about barometer and its use.</sent>
+				<sent id ="98">We can determine daily, monthly and yearly average temperature of air by using maximum- minimum thermometer.</sent>
+				<sent id ="99">Barometer is used to measure air pressure.</sent>
+				<sent id ="100">By observing ascending and descending mercury level we get the forecast about rain and storm.</sent>
+				<sent id ="101">Air blows constantly.</sent>
+				<sent id ="102">To maintain the equilibrium in air pressure, blowing of air occurs.</sent>
+				<sent id ="103">Besides this, there are other factors which make the air blow.</sent>
+				<sent id ="104">Let us discuss these factors in short.-</sent>
+				<sent id ="105">Variation in air pressure is the main cause of blowing of air.</sent>
+				<sent id ="106">Hot air when full of water vapour becomes light and goes up and that space becomes partially vacuum.</sent>
+				<sent id ="107">For maintaining balance, air from high pressure zone blow towards low pressure zone.</sent>
+				<sent id ="108">Heavy air from high pressure zone blows at low altitude towards low pressure zone.</sent>
+				<sent id ="109">Where as the light air from low pressure zone blows at high altitude towards high pressure zone.</sent>
+				<sent id ="110">As a result, a circular path of blowing of wind is formed.</sent>
+				<sent id ="111">The earth rotates from the west to the east; so in north hemisphere air current turns on the right.</sent>
+				<sent id ="112">While in the south hemisphere it turns on the left.</sent>
+				<sent id ="113">It is known as Ferriel's law.</sent>
+				<sent id ="114">Usually we term it cloud when we see white cottony body floating in the air.</sent>
+				<sent id ="115">Actually cloud is the collection of water drops formed on dust particles floating in the air.</sent>
+				<sent id ="116">The clouds are found in different altitudes in the sky.</sent>
+				<sent id ="117">Depending on altitude clouds are classified into Cirrus cloud (high level cloud ), Altocumulus cloud (semi high level cloud) and Stratocumulus cloud (low level cloud).</sent>
+				<sent id ="118">The climate of all places of the world is not the same.</sent>
+				<sent id ="119">Some where rainfall is high and there are places where there is no rainfall at all.</sent>
+				<sent id ="120">In some places day temperature is high but the night is cold.</sent>
+				<sent id ="121">Some region is rich in vegetation while there are regions where there is no vegetation.</sent>
+				<sent id ="122">Some areas are good for cultivation but in some areas cultivation is not possible.</sent>
+				<sent id ="123">It is because, the climatic factors are not similar every where.</sent>
+				<sent id ="124">Variations of north-south climates are more than the variations in eastwest climates.</sent>
+				<sent id ="125">Climatic changes are more on the land than in water.</sent>
+				<sent id ="126">In north hemisphere land mass is greater so climatic changes are greater than south hemisphere.</sent>
+				<sent id ="127">On the basis of different climatic factors, the earth is divided into few climatic regions;</sent>
+				<sent id ="128">like Tropical, Temperate and monsoon, the Mediterranean, Arctic and antarctic regions Growth of plants depends on climate (rainfall and temperature).</sent>
+				<sent id ="129">It means rainfall determines nature of vegetation of an area.</sent>
+				<sent id ="130">For example, forest is formed where there is sufficient rainfall.</sent>
+				<sent id ="131">Where rainfall is scanty, grass land prevails there.</sent>
+				<sent id ="132">Where there is no rain at all, the thorny bushes may grow there.</sent>
+				<sent id ="133">In low temperature slow growing small plants and in high temperature rapidly growing plants grow.</sent>
+				<sent id ="134">In different climatic regions due to climatic effect different varieties of plants grow.</sent>
+				<sent id ="135">In areas with heavy rainfall (170 to 255 cm) deep forests of evergreen trees prevail.</sent>
+				<sent id ="136">These areas are located near equatorial region.</sent>
+				<sent id ="137">Plants like Teak, Mahogany, Rubber etc. grow in this type of forests.</sent>
+				<sent id ="138">On the other hand, when rainfall ranges from 125 to 200 centimeters in heavy monsoon rain prone area;</sent>
+				<sent id ="139">plants like Mahogany, Sal, Cane, Banyan, Mango, Black berry, Jackfruit etc. grow well.</sent>
+				<sent id ="140">Bangladesh is a country under the influence of monsoon wind.</sent>
+				<sent id ="141">In Mediterranean region sufficient rain fall occurs in winter.</sent>
+				<sent id ="142">Plants like Seder, Pine, Oak, Cork, Tulip etc. grow in this region.</sent>
+				<sent id ="143">Climate has a number of influences on agriculture.</sent>
+				<sent id ="144">Climate determines the type of crops of any climatic zone.</sent>
+				<sent id ="145">Areas near the equator experience heavy rainfall, which is not good for cultivation.</sent>
+				<sent id ="146">Rubber, Coffee, Sugarcane, Paddy etc. are the main agricultural products of these areas.</sent>
+				<sent id ="147">It was mentioned earlier that the Mediterranean region experience heavy rain.</sent>
+				<sent id ="148">This heavy rain helps this area to cultivate citrus fruits.</sent>
+				<sent id ="149">Besides Wheat, Maize, Cotton etc. are produced here.</sent>
+				<sent id ="150">Monsoon rain zone is very congenial for cultivation.</sent>
+				<sent id ="151">Medium rainfall and moderate temperature help cultivation of Paddy, Wheat, Millets, Sugar cane, Oil seeds, Tobacco, Jute etc.</sent>
+				<sent id ="152">In desert areas rainfall is negligible and the temperature fluctuates.</sent>
+				<sent id ="153">That is why, big trees do not grow and cultivation is not possible.</sent>
+				<sent id ="154">From the above discussion, it can be said that differences in plants and agricultural products is due to variation in climatic conditions in different regions.</sent>
+				<sent id ="155">nature, life style, clothing, complexion, food habit and culture vary due to difference in weather and climate.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,130 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-budh-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.243</idno>
+				<idno type="Number of sentences">102</idno>
+				<idno type="Number of tokens">1295</idno>
+				<idno type="Number of token types">587</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t63">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The eighteenth century means the period between 1701 A. D. to 1800 A.D.</sent>
+				<sent id ="2">According to history, the Buddhists were bound to flee away from Magadha around 1200 A.D. for various reasons.</sent>
+				<sent id ="3">They proceeded eastwards and came to Assam.</sent>
+				<sent id ="4">Some of them settled there.</sent>
+				<sent id ="5">Again most of theaBuddhists came to comilla and Noakhali and a few of them settled there too.</sent>
+				<sent id ="6">But the fleeing Buddhists did not feel themselves safe until they reached Chittagong.</sent>
+				<sent id ="7">The existing Buddhists of the present days are supposed to be the descendents of those who came from Magadha.</sent>
+				<sent id ="8">The people with surnames of Sinha in Comilla and Chowdlnlry in Noakhli are also the descendents of these Buddhists.</sent>
+				<sent id ="9">In the eighteenth century, the greater- region of Chittagong was under the Arakanese Buddhist king.</sent>
+				<sent id ="10">Some parts of the region were ruled by the Chakma kings.</sent>
+				<sent id ="11">The Chakmas claim that they came to Chittagong froni Champakanagara supposed to be somewhere naer Comilla.</sent>
+				<sent id ="12">The Chakmas are Buddhists by faith.</sent>
+				<sent id ="13">Sirajuddoula was defeated at Plassey in In 1760, the East India Company was given the authority to rule over Chittagong.</sent>
+				<sent id ="14">The Chakma king accepted the Sovereignty of the Mughals but defied the British rule resulting frequent fighting between them.</sent>
+				<sent id ="15">At that time, the Chakma, the Khyang, the Tanchangya and the Marma tribes lived here.</sent>
+				<sent id ="16">All of them were Buddists.</sent>
+				<sent id ="17">Some- Arakanese Buddhists also lived there with them.</sent>
+				<sent id ="18">The Barua Buddhists lived peacfully with them.</sent>
+				<sent id ="19">The old Buddhist monasteries bear the testimony to this.</sent>
+				<sent id ="20">In 1779, the Buddhists of the Marma community began to settle in Ramu and the Matamuhury region.</sent>
+				<sent id ="21">Then they-e stablished their rule over the town of Bandarban.</sent>
+				<sent id ="22">On the other hand., the Chakmas, for various reaasons, started moving towards the Chittagong Hill tracts.</sent>
+				<sent id ="23">Approximately in 1785, the Chakma King moved his capital to Rajanagar of Rangunia.</sent>
+				<sent id ="24">The remains of the capital at Rajanagar can still be found there.</sent>
+				<sent id ="25">Before that the Capital of the Chakma King is believed to have been somewhere near Satkania or Ramu.</sent>
+				<sent id ="26">There is still a place Chakma Kul by name at Ramu_Thana under Bandarban district.</sent>
+				<sent id ="27">Etymologically the word Satkania is supposed to be derived from Sak Kanya i.e. the Ghakma princess.</sent>
+				<sent id ="28">The Chakmas called the place as Hangar kul.</sent>
+				<sent id ="29">It is also belived that the original name of Shakpura of Boalkhali Thana was Chakmapur.</sent>
+				<sent id ="30">Almost at the same time, the Rakhain Buddhists came form Arakan to live in the district of Patuakhali.</sent>
+				<sent id ="31">But the Barua Buddhists went no where else and began to live permanently in Chittagong.</sent>
+				<sent id ="32">In those days, the Buddhists mainly lived by agriculture.</sent>
+				<sent id ="33">During the reign of the Arakanese Kings, the Barua Buddists were employed in the service of the kingdom.</sent>
+				<sent id ="34">The titles related to the service were, Chowdhury, Mutsuddy.</sent>
+				<sent id ="35">These titles are still found among the Buddists in Chittagong.</sent>
+				<sent id ="36">Since then, the Buddhists of Chittagong began to-make good progress in education and culture.</sent>
+				<sent id ="37">Apart from the region of Chittagong, Comilla and Noakhali, some Buddhists lived in North Bengal too.</sent>
+				<sent id ="38">They lived at some specific places of Rajshahi and Rangpur region.</sent>
+				<sent id ="39">Among them most of the Rajbangshis were Buddhists.</sent>
+				<sent id ="40">Probably some Arakanese Buddhists lived in Dhaka too.</sent>
+				<sent id ="41">Moghbazar may be noted as an instance of it.</sent>
+				<sent id ="42">Excepting this, Dhamrai of Dhaka has evolved from the word Dharmarajika.</sent>
+				<sent id ="43">In the Buddhist period, Savar was known as Sahore.</sent>
+				<sent id ="44">Nieteenth century stretches between the years 1801 and 1900 A. D.</sent>
+				<sent id ="45">Twentieth century began from At present, we are living in the last decade of the twentieth century.</sent>
+				<sent id ="46">Jan Bux Khan; the King of the Chakmas passed away in He fought against the British throughout his whole life.</sent>
+				<sent id ="47">In 1860, Chittagong Hill tracts was formed with the estern hilly region of the district of Chittagong.</sent>
+				<sent id ="48">In 1804, the Bomang King who was the King of the Marmas, established his rule in Bandarban.</sent>
+				<sent id ="49">In 1856, Sangharaia Saramedha Mahasthavir, an eminent Burmese Buddhist Bhikkhu, came to.</sent>
+				<sent id ="50">The Barua Buddhists who came from Magadha were the permanent settlers in Chittagong.</sent>
+				<sent id ="51">They performed their religious functions on the basis of memorized knowledge and some booklets written in Bengali.</sent>
+				<sent id ="52">On the otherhand, Hinduism influenced the Barua Buddhists to some extent from Seventeenth century.</sent>
+				<sent id ="53">Meanwhile, the Brahmins introduced the worship of the godesses Durga, Manasa and Shitala and Kartika Brata in the Buddhist villages.</sent>
+				<sent id ="54">Subsequently, the Buddhists came close to Hinduism.</sent>
+				<sent id ="55">Later they came to Mahamuni Pahartali from Sitakunda.</sent>
+				<sent id ="56">Mahamuni was, at that time, a famous place for the Buddhits.</sent>
+				<sent id ="57">The Chakma, Marma and the Barua Buddhists used to participate in the fair.</sent>
+				<sent id ="58">This was a yearly meeting place of the Buddhists.</sent>
+				<sent id ="59">Later the fair turned to continue for a month.</sent>
+				<sent id ="60">Sangharaj Saramedha stayed here for about two years.</sent>
+				<sent id ="61">During this period he visited various places of the Chakma and the Barua community.</sent>
+				<sent id ="62">He propagated the ideals of Buddhism against the charms and incantations, sacrificing the beasts and worship to gods and godesses.</sent>
+				<sent id ="63">106 Buddhist Religious Studies In 1875, the queen conferred him the Royal title on the occasion of yearly congregation (Punyaha).</sent>
+				<sent id ="64">Afterwards, the Sangharaj left for Arakan.</sent>
+				<sent id ="65">In 1864 the Sangharaj Saramedha again came to Chittagong with a group of Bhikkhus from Arakan.</sent>
+				<sent id ="66">By this time, he further propagated Theravada Buddhism among the Bhikkhus.</sent>
+				<sent id ="67">Affer staying for one year in Chittagong he went back to Burma.</sent>
+				<sent id ="68">From this time, thesBhikkhu Sangha of ChittagOng had gone divided into two main groups.</sent>
+				<sent id ="69">One of the groups is the Sangharaj Bhikkhu Sangha and the Mahasthavir Bhikkhu Sangha the other.</sent>
+				<sent id ="70">Side by side, the Buddhist laities also became divided into two groups or Nikayas which still exist among them.</sent>
+				<sent id ="71">The laities of these two groups observe matrimonial and other social functions together.</sent>
+				<sent id ="72">Besides the Sangharaj Sramedha, many other Bhikkhus and the laities had great contributions towards the establishment of Ther.avada</sent>
+				<sent id ="73">Buddhism in Bangaldesh.</sent>
+				<sent id ="74">In this way, the religious consciousness awakened among the Buddhists more rapidly.</sent>
+				<sent id ="75">There are about one thousand Buddhist monasteries in Bangladesh.</sent>
+				<sent id ="76">Buddhist fairs are also held every year on various religious occasions.</sent>
+				<sent id ="77">A number of Journals are published on Buddhism and Buddhist culture.</sent>
+				<sent id ="78">Of those, the Kristi is the monthly journal of Bngladesh Bouddha Kristi Prachar Sangha.</sent>
+				<sent id ="79">The main religious festivals of the Buddhists are Buddha Purnima, Ashari Purnima, Madhu Purnima, Prabarana Purnirna, Kathin Chibar Dana,.</sent>
+				<sent id ="80">Maghi Purnima etc.</sent>
+				<sent id ="81">Besides these, Biju or Biyu festival is the main social function of the Chakmas and the Baruas.</sent>
+				<sent id ="82">The Government of the peole's Republic of Bangladesh has formed 'Bouddha Kalyan Trust for the welfare of the Buddhist community.</sent>
+				<sent id ="83">This Trust was formed in 1984 to finance the preservation and renovation of the Buddhist religious places.</sent>
+				<sent id ="84">Moreover,- the Govt.</sent>
+				<sent id ="85">provides stipends for the Buddhist students of Secondary, Higher Secondary and University levels.</sent>
+				<sent id ="86">All the Books of Buddhism are originally written in Pall.</sent>
+				<sent id ="87">This is why, the Bangldesh Govt.</sent>
+				<sent id ="88">has set up Sanskrit and Pali Education Board.</sent>
+				<sent id ="89">There are about 30 Pali Toles under this Board.</sent>
+				<sent id ="90">According to the census held in 1991, in Bangladesh there are 6, 23, 000 Buddhists in number.</sent>
+				<sent id ="91">The number of Buddhist monks and novice monks is approximately two thousand.</sent>
+				<sent id ="92">Agriculture is the main profession of the Buddhists of Bangladesh.</sent>
+				<sent id ="93">Besides, the Buddhists are also engaged in Govt.</sent>
+				<sent id ="94">and Private sector services.</sent>
+				<sent id ="95">A good number of Buddhists are also er.gaged in trade and commerce.</sent>
+				<sent id ="96">In the census of 1994, the numbner of the Buddhists living in Dhaka was found to be 6, 35,7.</sent>
+				<sent id ="97">In this chapter we have come to know about the condition and history of Buddhists of Bangladesh to some extent.</sent>
+				<sent id ="98">Everybody should have knowledge of social and religious history.</sent>
+				<sent id ="99">Religious history promotes interests and knowledge of religion.</sent>
+				<sent id ="100">For various reasons we are not aware of our religious and cultural heritage.</sent>
+				<sent id ="101">We should be conscious of our heritage for the prosperity of the country and the nation.</sent>
+				<sent id ="102">Those who are respectful to their own religion show tolerance to other's religious faiths.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

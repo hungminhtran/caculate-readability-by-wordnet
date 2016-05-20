@@ -1,0 +1,87 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.383</idno>
+				<idno type="Number of sentences">59</idno>
+				<idno type="Number of tokens">536</idno>
+				<idno type="Number of token types">263</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t34">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We eat different kinds of food.</sent>
+				<sent id ="2">We wear different kinds of clothes We speak in different languages.</sent>
+				<sent id ="3">We play different kinds of games.</sent>
+				<sent id ="4">We observe different kinds of festivals.</sent>
+				<sent id ="5">All these form the culture of a country.</sent>
+				<sent id ="6">Culture shows us different sides of the life of a man.</sent>
+				<sent id ="7">In the world culture differs from one region to another.</sent>
+				<sent id ="8">Culture of other regions are sometimes similar and sometime; dissimilar to that of Bangladesh.</sent>
+				<sent id ="9">Our neighbouring countries are India, Mayanmar, Nepal and Bhutan.</sent>
+				<sent id ="10">Here we will learn about the cultures of the two neighbouring countries.</sent>
+				<sent id ="11">The countries are India and Mayanmar.</sent>
+				<sent id ="12">India India is a large country.</sent>
+				<sent id ="13">This large country surrounds three sides of our own country.</sent>
+				<sent id ="14">Many people live in India.</sent>
+				<sent id ="15">People of different areas in India look different.</sent>
+				<sent id ="16">In India, different of ethnicity ethic groups speak in different languages.</sent>
+				<sent id ="17">There are seventeen main languages in that country.</sent>
+				<sent id ="18">Among them Bangla, Urdu, Punjabi, Assomia, Uria, Gujrati, Marathi, Telegu, Tamil are important.</sent>
+				<sent id ="19">Besides these, different small ethnic groups of peoples have their own languages.</sent>
+				<sent id ="20">Many of them eat bread, pulse and vegetables.</sent>
+				<sent id ="21">Some of them eat bread and meat as staple foods.</sent>
+				<sent id ="22">Different ethnic of India wear different kinds of dresses.</sent>
+				<sent id ="23">Like our women, many women of India wear saris and blouses.</sent>
+				<sent id ="24">Some wear shalwar and kameez.</sent>
+				<sent id ="25">Some wear frock-skirt and other wear long skirt and blouse.</sent>
+				<sent id ="26">Men wear trousers and shirts.</sent>
+				<sent id ="27">Many wear pyjamakorta.</sent>
+				<sent id ="28">Men from many areas wear shirt and dhuti-punjabi.</sent>
+				<sent id ="29">Picture 1: People of India are wearing various types of clothes.</sent>
+				<sent id ="30">Most of the people of India are followers of Hinduism.</sent>
+				<sent id ="31">As in Bangladesh, football, cricket, kite-flying are popular in India.</sent>
+				<sent id ="32">Besides they play local games like ha-do-do, gollachhut, kanamasi etc.</sent>
+				<sent id ="33">As in Bangladesh, in India the singers sing classical music, folk-song, and modern songs.</sent>
+				<sent id ="34">The previous name of the country was Burma.</sent>
+				<sent id ="35">The eyes of the people of this country are small.</sent>
+				<sent id ="36">The faces are somewhat round.</sent>
+				<sent id ="37">Noses are not sharp.</sent>
+				<sent id ="38">But there are many people in that country who are Muslims, Hindus and Christians.</sent>
+				<sent id ="39">In Mayanmar there are Maths in both towns and villages.</sent>
+				<sent id ="40">The Buddhist priests live in these pagodas and teach religious education.</sent>
+				<sent id ="41">Pagodas or Buddhist temples are loved by the people of Mayanmar.</sent>
+				<sent id ="42">Like the people of our country, most of the people of Mayanmar live in villages.</sent>
+				<sent id ="43">Most of the houses in the villages are made of bamboos and fences.</sent>
+				<sent id ="44">But the rich families live in wooden houses.</sent>
+				<sent id ="45">In cities most of the houses are brick-built.</sent>
+				<sent id ="46">The women of Mayanmar wear coloured lungis and blouses.</sent>
+				<sent id ="47">flowers in their hair.</sent>
+				<sent id ="48">Men wear shirt with lungi.</sent>
+				<sent id ="49">Now-a-days many people of Mayanmar wear modern cloths.</sent>
+				<sent id ="50">Women wear frock-shirt and men wear trouser and shirt.</sent>
+				<sent id ="51">Picture 2: Various kinds of dresses of the people of Mayanmar.</sent>
+				<sent id ="52">The people of Mayanmar mainly eat rice.</sent>
+				<sent id ="53">They eat rice from small round bowls instead of plates.</sent>
+				<sent id ="54">Their favorite dish is khaushay.</sent>
+				<sent id ="55">It is cooked with noodles mixed with chickens.</sent>
+				<sent id ="56">The pappet dance is also popular in Mayanmar.</sent>
+				<sent id ="57">Their favourite games are football, kite flying hide and seek and boat-race etc.</sent>
+				<sent id ="58">Tobin tong, Ouzi and ai yak are favourite dances of the people of Mayangmar.</sent>
+				<sent id ="59">The cultures of India and Mayanmar are sometimes different and sometimes similar.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

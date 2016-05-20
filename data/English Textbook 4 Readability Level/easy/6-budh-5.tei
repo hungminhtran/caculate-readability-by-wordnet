@@ -1,0 +1,89 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-budh-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.319</idno>
+				<idno type="Number of sentences">61</idno>
+				<idno type="Number of tokens">612</idno>
+				<idno type="Number of token types">274</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t67">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The worldly life is full of sufferings.</sent>
+				<sent id ="2">Our life is so to say, ever floating on this sea of sufferings.</sent>
+				<sent id ="3">But this happiness is not everlasting, rather it is a transitory one.</sent>
+				<sent id ="4">Today's happiness does not last till tomorrow.</sent>
+				<sent id ="5">Yet we find happiness around us.</sent>
+				<sent id ="6">But this happiness has no reality.</sent>
+				<sent id ="7">As soon as it disappears, the suffering appears before us.</sent>
+				<sent id ="8">The suffering is, therefore, universal which always follows the happiness.</sent>
+				<sent id ="9">Then how can we get rid of sufferings ?</sent>
+				<sent id ="10">He sermoned, The realisation of the Four Noble Truths is the real path to overcome sufferings ?</sent>
+				<sent id ="11">The Buddha mentioned all the above truths as the Four Noble Truths.</sent>
+				<sent id ="12">A brief explanation of each NobleTruth is given hereafter.</sent>
+				<sent id ="13">Human life is full of sufferings.</sent>
+				<sent id ="14">It may not be acceptable to all.</sent>
+				<sent id ="15">Are the love, affection and rejoicings not the cause of happiness?</sent>
+				<sent id ="16">Actually, they never belong to happiness, rather they are the charms of illusions.</sent>
+				<sent id ="17">We can hardly reaslize that happiness follows the sufferings.</sent>
+				<sent id ="18">It is ignorance that prevents us from acknowledging those sufferings.</sent>
+				<sent id ="19">Then how might these suffering be identified?</sent>
+				<sent id ="20">Human being must have to suffer from disease soon after his birth.</sent>
+				<sent id ="21">His body decays as he grows old.</sent>
+				<sent id ="22">The skin of the body shrinks and the hair whitens.</sent>
+				<sent id ="23">His teeth are up rooted and he becomes too weak to walk.</sent>
+				<sent id ="24">Thus human life comes to an end.</sent>
+				<sent id ="25">One mourns for the death of others.</sent>
+				<sent id ="26">So we find that every stage of human life from birth to death is nothing but full of sufferinas.</sent>
+				<sent id ="27">Besides these, all other sufferings illuding behind human life are known as the Noble Truth of suffering.</sent>
+				<sent id ="28">Nothing originates without cause.</sent>
+				<sent id ="29">So there are causes that originates suffering.</sent>
+				<sent id ="30">Man has to suffer a lot as soon as he is born.</sent>
+				<sent id ="31">Then why is he born ?</sent>
+				<sent id ="32">Craving (Tanha) is the only root of birth and rebirth.</sent>
+				<sent id ="33">Ignorance is craving.</sent>
+				<sent id ="34">It compels human beings believe truth as false and reverse.</sent>
+				<sent id ="35">Man is neverthless highly attracted by the beauty, taste, perfumes, sound and touch due to ignorance.</sent>
+				<sent id ="36">Yet we desire them all along.</sent>
+				<sent id ="37">These desires of ignorance cause us to be born on earth again and again.</sent>
+				<sent id ="38">So the desire or craving is the Noble Truth of the origin of sufferings.</sent>
+				<sent id ="39">This is craving that causes man to take birth and rebirth.</sent>
+				<sent id ="40">So craving must be restrained.</sent>
+				<sent id ="41">If it is possible human being may get rid of the sufferings of birth and rebirth.</sent>
+				<sent id ="42">So total destruction of craving is the Noble Truth of the end of suffering.</sent>
+				<sent id ="43">Man takes prevention for resistance to disease.</sent>
+				<sent id ="44">So where there is a problem there is a way to solve it.</sent>
+				<sent id ="45">In this way, craving may also be destructed.</sent>
+				<sent id ="46">The way of salvation from sufferings is known as The Noble Eight-fold path.</sent>
+				<sent id ="47">This Noble Eight-fold path is the only way to the end of suffering.</sent>
+				<sent id ="48">What do we learn from the Four NobleTruths?</sent>
+				<sent id ="49">We learn that to be born on earth is suffering.</sent>
+				<sent id ="50">We have to float on this sea of sufferings till we are dead.</sent>
+				<sent id ="51">Is it the end of sufferings after death ?</sent>
+				<sent id ="52">No certainly not.</sent>
+				<sent id ="53">Because, craving is not destroyed even after death.</sent>
+				<sent id ="54">It follows human being after death to take rebirth.</sent>
+				<sent id ="55">Then where is the end of this craving ?</sent>
+				<sent id ="56">Total destruction of craving is the end of birth and rebirth.</sent>
+				<sent id ="57">It is the real path to attain Nibbana which is the basic principle of Buddhism.</sent>
+				<sent id ="58">Attainment of Nibbana is only possible if the Four Noble Truths are rightly understood and followed.</sent>
+				<sent id ="59">So the Four Noble Truths are treated as the fundamentals of Buddhism.</sent>
+				<sent id ="60">The true practice never fails.</sent>
+				<sent id ="61">It rather results good in our present and preceeding life.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

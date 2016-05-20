@@ -1,0 +1,136 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.059</idno>
+				<idno type="Number of sentences">108</idno>
+				<idno type="Number of tokens">1116</idno>
+				<idno type="Number of token types">401</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t13">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">God created everything.</sent>
+				<sent id ="2">Earlier we learned many things about His creation.</sent>
+				<sent id ="3">Here we will learn about what God created on the Fifth and the Sixth Day.</sent>
+				<sent id ="4">God rested after He finished His works of creation in six days.</sent>
+				<sent id ="5">Here we will learn about that too.</sent>
+				<sent id ="6">The more we come to know God, the more we shall learn to love Him.</sent>
+				<sent id ="7">We will praise and adore the Almighty God for His entire creation.</sent>
+				<sent id ="8">God said: Let the water be filled with many kinds of living beings.</sent>
+				<sent id ="9">Then and there great sea-monsters appeared in the water.</sent>
+				<sent id ="10">Also there appeared different kinds of fish.</sent>
+				<sent id ="11">Then God said: Let the air be filled with birds.</sent>
+				<sent id ="12">And let them fly in the sky.</sent>
+				<sent id ="13">Just then different kinds of birds appeared.</sent>
+				<sent id ="14">God was pleased with all His creation.</sent>
+				<sent id ="15">God blessed all those creatures saying: Be fruitful and increase in number; fill the water of the sea.</sent>
+				<sent id ="16">Let the birds multiply on the earth.</sent>
+				<sent id ="17">God created these on the fifth day.</sent>
+				<sent id ="18">So God made them all, and He was pleased with what He saw.</sent>
+				<sent id ="19">Then God said: Let us make human beings in our own image.</sent>
+				<sent id ="20">They will have power over the fish, the birds, and all animals, domestic and wild, large and small.</sent>
+				<sent id ="21">Then God took some soil from the ground and formed a man out of it.</sent>
+				<sent id ="22">Then He breathed life-giving breath into his nostrils and the man began to live.</sent>
+				<sent id ="23">But God saw that man was lonely.</sent>
+				<sent id ="24">He felt no joy.</sent>
+				<sent id ="25">So God said, It is not good for the man to live alone.</sent>
+				<sent id ="26">He needs a companion.</sent>
+				<sent id ="27">So God created a woman to be a companion to the man.</sent>
+				<sent id ="28">The man was very delighted to get the woman as his companion.</sent>
+				<sent id ="29">Thus God created man in His own image.</sent>
+				<sent id ="30">He made them male and female.</sent>
+				<sent id ="31">Then God saw everything that He had made and these pleased Him.</sent>
+				<sent id ="32">Thus passed the sixth day.</sent>
+				<sent id ="33">Then He created the birds that fly in the sky.</sent>
+				<sent id ="34">On the sixth day God created all kinds of domestic animals, such as cows, buffaloes, goats, lambs, etc.</sent>
+				<sent id ="35">He created the reptiles.</sent>
+				<sent id ="36">Among these were snakes and similar types of animals that walk on their chest and belly.</sent>
+				<sent id ="37">Then God created wild animals, such as tigers, lions, elephants, bears, monkeys, etc.</sent>
+				<sent id ="38">At last God created man.</sent>
+				<sent id ="39">God created living beings according to their own species.</sent>
+				<sent id ="40">We know that there different kinds of fish.</sent>
+				<sent id ="41">Similarly domestic animals also belong to certain species.</sent>
+				<sent id ="42">In the same way all reptiles and wild animals have their respective species.</sent>
+				<sent id ="43">All the creatures have their respective species.</sent>
+				<sent id ="44">Thus we see that all kinds of animals protect their own species.</sent>
+				<sent id ="45">Why did God Create all These?</sent>
+				<sent id ="46">a) He has created them in order to increase and to be fruitful.</sent>
+				<sent id ="47">From the beginning of creation, all kinds of animals have been increasing their respective families.</sent>
+				<sent id ="48">Thus they have been productive too.</sent>
+				<sent id ="49">All these prove that God is the giver of life and He is the only Creator of all.</sent>
+				<sent id ="50">He is all powerful.</sent>
+				<sent id ="51">He has created all these living beings in such a way that His works of creation will continue.</sent>
+				<sent id ="52">b) God created these living beings so that they can praise Him.</sent>
+				<sent id ="53">They will praise God in their own language.</sent>
+				<sent id ="54">They will lead their lives in the way that God has them and they will praise Him.</sent>
+				<sent id ="55">c) All the other creation is for the good of man.</sent>
+				<sent id ="56">Man is the crown of creation.</sent>
+				<sent id ="57">All the other animals will be subjected to man.</sent>
+				<sent id ="58">Man will make use of most of them for his own good.</sent>
+				<sent id ="59">Man will eat the meat and drink the milk of certain animals.</sent>
+				<sent id ="60">God commanded, Let the waters be filled with living beings.</sent>
+				<sent id ="61">Then and there the seas, rivers, canals and marshes were filled with different kinds of fish.</sent>
+				<sent id ="62">Thus we get plenty of fish.</sent>
+				<sent id ="63">Then God said, Let there be gigantic monsters in the waters of the sea.</sent>
+				<sent id ="64">And so there were gigantic sea-monsters.</sent>
+				<sent id ="65">Then he said, Let the sky be filled with birds.</sent>
+				<sent id ="66">And so there appeared birds in the sky.</sent>
+				<sent id ="67">He only commanded and all domestic animals, reptiles and wild animals were created.</sent>
+				<sent id ="68">He is all powerful.</sent>
+				<sent id ="69">Everything comes into existence by His order.</sent>
+				<sent id ="70">As everything can be created by His order and everything can be destroyed at His order.</sent>
+				<sent id ="71">So they all continue to obey His order.</sent>
+				<sent id ="72">Nothing can move without His order.</sent>
+				<sent id ="73">So we praise God.</sent>
+				<sent id ="74">We thank Him for all His creation.</sent>
+				<sent id ="75">After this on the seventh day He rested.</sent>
+				<sent id ="76">God blessed and sanctified that day.</sent>
+				<sent id ="77">The story of God's rest is described in the Bible.</sent>
+				<sent id ="78">God wants us to learn the importance of rest from this story.</sent>
+				<sent id ="79">There are three kinds of rest that we should take.</sent>
+				<sent id ="80">The rest is for the body, for the mind, and for the soul.</sent>
+				<sent id ="81">All of us are in need of taking physical rest.</sent>
+				<sent id ="82">When we take physical rest, we are refreshed.</sent>
+				<sent id ="83">We can work more nicely when our body is sound.</sent>
+				<sent id ="84">It helps us to praise God.</sent>
+				<sent id ="85">Physical rest alone is not sufficient.</sent>
+				<sent id ="86">The rest of the mind is also necessary.</sent>
+				<sent id ="87">Different kinds of recreation give rest to our mind.</sent>
+				<sent id ="88">For example, we become cheerful when we play, watch television, listen to the radio and chat with friends.</sent>
+				<sent id ="89">Prayer, meditation and thinking of God are like food for our soul.</sent>
+				<sent id ="90">By doing these, we can give rest to our souls as well.</sent>
+				<sent id ="91">Our soul becomes peaceful when we unite ourselves with God by these practices.</sent>
+				<sent id ="92">God blessed the Day of rest and made it holy.</sent>
+				<sent id ="93">Just as God rested on the Day of rest, so should we human beings observe the day as holy.</sent>
+				<sent id ="94">We human beings are the best among his creatures.</sent>
+				<sent id ="95">Moreover, He created us in His own image.</sent>
+				<sent id ="96">The observance of the Day of rest means spending time in prayer and meditation and thinking of God.</sent>
+				<sent id ="97">Because rest is so useful, He blessed it and made it holy.</sent>
+				<sent id ="98">He has also commanded us to observe the Day of rest.</sent>
+				<sent id ="99">The observance of the Day of rest does not mean only sleeping or sitting idle.</sent>
+				<sent id ="100">Nor does it mean Praying all day long in the Church.</sent>
+				<sent id ="101">We must pray in the evening with all the members of our family.</sent>
+				<sent id ="102">All day long we will remember that God lives among us.</sent>
+				<sent id ="103">Moreover we will remember that God is holy.</sent>
+				<sent id ="104">He has commanded us to live holy lives.</sent>
+				<sent id ="105">Prayer: O Lord, bless us so that we may not waste our time in laziness.</sent>
+				<sent id ="106">Let us not forget to take rest when we are tired, because we nurse ourselves by taking rest.</sent>
+				<sent id ="107">It is You Who has created us.</sent>
+				<sent id ="108">By nursing ourselves we ultimately nurse Your creatures.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

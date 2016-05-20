@@ -1,0 +1,191 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-18</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.792</idno>
+				<idno type="Number of sentences">163</idno>
+				<idno type="Number of tokens">1683</idno>
+				<idno type="Number of token types">533</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t10">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We like to give some primary but important information about some valuable trees.</sent>
+				<sent id ="2">We know the names of many trees mentioned in the chapter.</sent>
+				<sent id ="3">But we do not know much how they look;</sent>
+				<sent id ="4">where they are found;</sent>
+				<sent id ="5">when their fruits mature or when their seeds are to be collected;</sent>
+				<sent id ="6">how the quality of their wood is;</sent>
+				<sent id ="7">how to utilize their wood, etc.</sent>
+				<sent id ="8">It is necessary for us to know all these.</sent>
+				<sent id ="9">Shilkarai: Shilkarai is found almost everywhere in Bangladesh.</sent>
+				<sent id ="10">It is a big deciduous tree.</sent>
+				<sent id ="11">Decidous trees shed their leaves in winter.</sent>
+				<sent id ="12">On the other hand, the trees that do not shed their leaves in winter are called evergreen trees such as Debdaru.</sent>
+				<sent id ="13">Shilkarai grows 25 metres tall the maximum.</sent>
+				<sent id ="14">The bark of this tree is smooth and slightly yellowish-white.</sent>
+				<sent id ="15">Its stem is straight and round.</sent>
+				<sent id ="16">The fruits of this tree mature in mid-March to mid-May (Chaitra- Baishakh).</sent>
+				<sent id ="17">They look like a long, flat bean.</sent>
+				<sent id ="18">In order to get mature seeds, the fruits are to be collected in mid-March to mid-May (Chaitra-Baishakh).</sent>
+				<sent id ="19">If the collected fruits are dried in the sun for some days, they will burst and the seeds will come out.</sent>
+				<sent id ="20">Seeds are flat and round in shape.</sent>
+				<sent id ="21">Almost 8 to 10 thousand seeds weight one kilogram.</sent>
+				<sent id ="22">The seeds of Shilkarai can be preserved after drying them well in the sun.</sent>
+				<sent id ="23">These seeds can be used next year for growing saplings in the nursery.</sent>
+				<sent id ="24">Seeds of this tree are sown in nurseries in the months of Jaistha-Asharh (mid May to mid July).</sent>
+				<sent id ="25">The wood of Shilkarai is slightly black, heavy and durable.</sent>
+				<sent id ="26">Its wood can be well utilized in making frames of doors, windows, and the legs of chairs and tables.</sent>
+				<sent id ="27">It is also used for making pillars and furniture.</sent>
+				<sent id ="28">During winter, its branches can be cut down for use as fuel-wood.</sent>
+				<sent id ="29">Their leaves and fruits are good food for cows.</sent>
+				<sent id ="30">Chapalish: Chapalish is not found much in rural areas.</sent>
+				<sent id ="31">But it is sufficiently available in the hilly forests.</sent>
+				<sent id ="32">Chapalish is an evergreen tree.</sent>
+				<sent id ="33">It grows big.</sent>
+				<sent id ="34">Branches grow adequately on this tree.</sent>
+				<sent id ="35">The stem is straight and round.</sent>
+				<sent id ="36">This tree grows 30 meters tall.</sent>
+				<sent id ="37">Its bark is not smooth and looks brownish.</sent>
+				<sent id ="38">The fruits of this tree mature during the month of Asharh-Shraban (mid of June to mid of August).</sent>
+				<sent id ="39">The fruits look like jackfruits but very small in size.</sent>
+				<sent id ="40">Animals and birds are very fond of its fruits.</sent>
+				<sent id ="41">Its seeds are to be collected from the mature and healthy fruits.</sent>
+				<sent id ="42">Its seeds cannot be preserved.</sent>
+				<sent id ="43">So they are to be sown fresh in the nurseries for the production of saplings.</sent>
+				<sent id ="44">2000-2500 seeds weight one kg.</sent>
+				<sent id ="45">The wood of Chapalish is yellow.</sent>
+				<sent id ="46">It is very hard and durable.</sent>
+				<sent id ="47">For being comparatively light, this wood is mostly used for making chairs, tables, almiras, etc.</sent>
+				<sent id ="48">Its branches can be used as fuel-wood.</sent>
+				<sent id ="49">Debdaru: Debdaru is noticed everywhere in Bangladesh.</sent>
+				<sent id ="50">It is a fascinatingly ornamental tree.</sent>
+				<sent id ="51">It is an evergreen tree.</sent>
+				<sent id ="52">It grows large in size.</sent>
+				<sent id ="53">It grows 30 metres tall.</sent>
+				<sent id ="54">Its stem is straight and round; the bark is smooth and looks greenish.</sent>
+				<sent id ="55">Its branches are slender.</sent>
+				<sent id ="56">Recently debdaru trees of small size are seen In urban areas, these are called drooping debdaru.</sent>
+				<sent id ="57">The slender branches of this tree hang towards the soil.</sent>
+				<sent id ="58">It is planted on the two sides of roads as ornaments.</sent>
+				<sent id ="59">The fruits of this tree mature during the months of Shrabon-Bhadra (mid of July to mid of September).</sent>
+				<sent id ="60">During this time the mature and healthy fruits are to be collected.</sent>
+				<sent id ="61">These fruits are kept in the gunny bags to rot in water; later on they are collected one by one.</sent>
+				<sent id ="62">Its seeds cannot be preserved.</sent>
+				<sent id ="63">Soon after collection they need to be sown in the nursery.</sent>
+				<sent id ="64">The wood of debdaru is soft.</sent>
+				<sent id ="65">Its wood cannot be used for making strong furniture.</sent>
+				<sent id ="66">But its wood is very cheap.</sent>
+				<sent id ="67">Its wood is used to make wooden stools, chairs, tables, etc. in rural areas.</sent>
+				<sent id ="68">Debdaru is well-known as an ornamental tree.</sent>
+				<sent id ="69">Its branches are widely used in making gates on the occasion of marriage ceremonies or festivals.</sent>
+				<sent id ="70">Jarul: Jarul is hardly found in the rural areas now-a-days.</sent>
+				<sent id ="71">You may come across it in low-lying areas especially by the sides of the waters.</sent>
+				<sent id ="72">Jarul can mostly be seen in the low-lying areas of hilly forests of Bangladesh.</sent>
+				<sent id ="73">It is a deciduous tree of medium size.</sent>
+				<sent id ="74">This tree does not grow more than 15 metres in height.</sent>
+				<sent id ="75">Normally, its stem is not straight, slightly crooked.</sent>
+				<sent id ="76">Its bark is smooth and appears gray.</sent>
+				<sent id ="77">During Baishakh-Jaistha (mid of April to mid of June) beautiful flowers of bluish colour appear on this tree.</sent>
+				<sent id ="78">Fruits of this tree mature during the months of Poush-Magh (mid of December to mid of February).</sent>
+				<sent id ="79">In order to collect good seeds, the mature and healthy fruits are to be collected during this time.</sent>
+				<sent id ="80">Afterwards these fruits are to be dried in the sun and then the seeds are to be extracted from the fruits.</sent>
+				<sent id ="81">These seeds can be preserved after they are dried in the sun.</sent>
+				<sent id ="82">More than one hundred thousand seeds make a kilogram.</sent>
+				<sent id ="83">The seeds of Jarul are to be planted in the nursery after the end of winter.</sent>
+				<sent id ="84">The wood of Jarul is very hard and durable.</sent>
+				<sent id ="85">It is used for making boats, windows, doors, stools, bodies of trucks, etc.</sent>
+				<sent id ="86">The wood of Jarul is heavy and crooked.</sent>
+				<sent id ="87">It is not usually preferred for furniture.</sent>
+				<sent id ="88">The flowers of Jarul are very beautiful.</sent>
+				<sent id ="89">Jarul may be planted on both sides of roads as ornamental trees.</sent>
+				<sent id ="90">Rain Tree: Rain trees grow fast.</sent>
+				<sent id ="91">They are also called Rendi Karai or Phool Karai.</sent>
+				<sent id ="92">They grow big and branchy in a few years.</sent>
+				<sent id ="93">They reach a height of 15-20 metres.</sent>
+				<sent id ="94">Their stems are round.</sent>
+				<sent id ="95">They are usually planted on the borders of homesteads and the sides of roads.</sent>
+				<sent id ="96">They give shade on the roads.</sent>
+				<sent id ="97">Rain trees also grow on wet land.</sent>
+				<sent id ="98">They shed their leaves at the end of winter.</sent>
+				<sent id ="99">Every year they can be pruned and their branches and twigs can be used as fuel-wood.</sent>
+				<sent id ="100">Their wood is used for constructing houses and making furniture.</sent>
+				<sent id ="101">They bloom in Bhadra- Ashwin (mid August to mid October).</sent>
+				<sent id ="102">Their fruits ripen in the months of Chaitra- Baishakh (mid of March to mid of May).</sent>
+				<sent id ="103">Their seeds are to be collected during this time.</sent>
+				<sent id ="104">Their saplings are produced by sowing the seeds directly on the soil.</sent>
+				<sent id ="105">Saplings may be raised in polybags, too.</sent>
+				<sent id ="106">Mahogony: Now-a-days Mahogony is a common scene everywhere in Bangladesh.</sent>
+				<sent id ="107">It is an exotic tree.</sent>
+				<sent id ="108">There are many forests of Mahogony in the hilly regions of Bangladesh.</sent>
+				<sent id ="109">Mahogony is a large evergreen tree.</sent>
+				<sent id ="110">It reaches a height of 30-35 metres.</sent>
+				<sent id ="111">Its stem is straight and round, and the bark is reddish brown and rough.</sent>
+				<sent id ="112">The fruits of Mahogony mature in the months of Magh-Falgoon (mid of January to mid of March).</sent>
+				<sent id ="113">During this time, the healthy fruits are to be collected for seeds.</sent>
+				<sent id ="114">After they are dried in the sun for some days, the fruits burst and the seeds come out.</sent>
+				<sent id ="115">The seeds of Mahogony are light, flat and of reddish colour.</sent>
+				<sent id ="116">Many seeds can be obtained from one fruit.</sent>
+				<sent id ="117">2000-2500 seeds make one kilogram.</sent>
+				<sent id ="118">Seeds of Mahogony are shy of preservation.</sent>
+				<sent id ="119">They need to be sown immediately in the nurseries after collection for sapling production in Mag-Falgoon (mid of January to mid to March).</sent>
+				<sent id ="120">The wood of Mahogony is deep black.</sent>
+				<sent id ="121">It is very strong and durable.</sent>
+				<sent id ="122">It can be polished nicely.</sent>
+				<sent id ="123">It is used for making beautiful furniture.</sent>
+				<sent id ="124">Luxurious handicrafts are made with this wood.</sent>
+				<sent id ="125">Teak: Teak is a very popular wood tree.</sent>
+				<sent id ="126">Now teak can be found almost everywhere in Bangladesh.</sent>
+				<sent id ="127">Teak grows well in the eastern hilly regions of our country.</sent>
+				<sent id ="128">It is also an exotic plant and traveled from abroad.</sent>
+				<sent id ="129">Teak is a large deciduous tree.</sent>
+				<sent id ="130">It grows about 30 meters tall.</sent>
+				<sent id ="131">Its stem is straight, elongated and round.</sent>
+				<sent id ="132">Its bark is smooth and light brownish.</sent>
+				<sent id ="133">The fruits of teak mature in from mid-December to mid-February (Poush- Magh).</sent>
+				<sent id ="134">During this time, the mature and healthy fruits are to be collected.</sent>
+				<sent id ="135">The entire fruit of teak is to be used as seed.</sent>
+				<sent id ="136">The seeds of teak can be preserved after they are sun-dried.</sent>
+				<sent id ="137">A kg contains 2000-2500 seeds.</sent>
+				<sent id ="138">The common practice is that in mid-May (Baishakh) when the seasonal rain starts, the seeds are sown in the seed-beds or in polybags.</sent>
+				<sent id ="139">In natural condition, the seeds take a few months to germinate.</sent>
+				<sent id ="140">It is better to process the seeds before sowing.</sent>
+				<sent id ="141">Teak gives very high quality timber.</sent>
+				<sent id ="142">It is light but very durable.</sent>
+				<sent id ="143">It is yellowish.</sent>
+				<sent id ="144">Its fibres are very delicate.</sent>
+				<sent id ="145">It can be easily polished to a desired quality.</sent>
+				<sent id ="146">The furniture of improved quality can be made with this wood.</sent>
+				<sent id ="147">This wood is also used for luxury items.</sent>
+				<sent id ="148">Teak is the most expensive timber in our country.</sent>
+				<sent id ="149">An easy method of processing teak seeds First of all, the seeds are to be kept in a gunny bag.</sent>
+				<sent id ="150">Then the gunny bag is to be dipped in water and kept there for 3-4 days.</sent>
+				<sent id ="151">After this, the bag is to be raised and dried in the sun.</sent>
+				<sent id ="152">Then again the bag is to be kept under water for 1-2 days.</sent>
+				<sent id ="153">At this stage, the seeds are to be collected from the bag and kept in a heap in a light shady place.</sent>
+				<sent id ="154">The seeds are to be covered with gunny cloth.</sent>
+				<sent id ="155">The gunny cloth is to be wetted intermittently.</sent>
+				<sent id ="156">If the seeds are kept in this state for some days, they will germinate and be ready for sowing in beds or polybags.</sent>
+				<sent id ="157">Materials: barks, leaves, fruits, seeds and wood of the tree selected for the practical class are to be collected.</sent>
+				<sent id ="158">If possible, it will be helpful to go to that tree.</sent>
+				<sent id ="159">Be familiar with the name, size and height of the tree.</sent>
+				<sent id ="160">Notice the smoothness and colour of the bark.</sent>
+				<sent id ="161">Observe the size of the leaves, colour of the flowers, size of the fruit.</sent>
+				<sent id ="162">Watch the size and weight of the seeds.</sent>
+				<sent id ="163">Write down sequentially the information you have got from your observation in the practical note book.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

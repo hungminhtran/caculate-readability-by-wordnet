@@ -1,0 +1,90 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-sci-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.19</idno>
+				<idno type="Number of sentences">62</idno>
+				<idno type="Number of tokens">629</idno>
+				<idno type="Number of token types">291</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t24">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We make houses on land and live there.</sent>
+				<sent id ="2">Farmers grow crops and vegetable in their farms.</sent>
+				<sent id ="3">As we breathe we take oxygen from the air.</sent>
+				<sent id ="4">We can't live without water.</sent>
+				<sent id ="5">That is why the other name of water is life.</sent>
+				<sent id ="6">There are many more things around us.</sent>
+				<sent id ="7">We all want to live in a nice environment.</sent>
+				<sent id ="8">But sometimes for different reasons our environment gets spoilt.</sent>
+				<sent id ="9">And if the environment gets spoilt it can cause harm to us.</sent>
+				<sent id ="10">Can you then concentrate on your study?</sent>
+				<sent id ="11">You may not even be able to sleep.</sent>
+				<sent id ="12">These people are actually polluting the environment by playing music loudly.</sent>
+				<sent id ="13">Similarly, the noise from trains, planes, vehicles and factories can also pollute the environment.</sent>
+				<sent id ="14">Notice how noise pollutes the environment in your neighbourhood.</sent>
+				<sent id ="15">Identify two causes for noise pollution there and describe them to your class.</sent>
+				<sent id ="16">Discuss how you can stop this noise pollution.</sent>
+				<sent id ="17">Take a transparent glass and fill it up with drinking water.</sent>
+				<sent id ="18">Observe carefully if there is any dirt in it.</sent>
+				<sent id ="19">Keep the glass on the table.</sent>
+				<sent id ="20">Now observe carefully and you will see dirt in it.</sent>
+				<sent id ="21">Put some soil in the water of the first glass.</sent>
+				<sent id ="22">You will see that the water gets dirty and spoilt.</sent>
+				<sent id ="23">You will see that the soil have become much less.</sent>
+				<sent id ="24">Will you drink the water if you see dirt in it?</sent>
+				<sent id ="25">Of course, you won't.</sent>
+				<sent id ="26">Because you can get sick if you drink dirty water.</sent>
+				<sent id ="27">To protect ourselves from diseases, we all should drink clean and safe water.</sent>
+				<sent id ="28">However, for different reasons, we do not always get safe water for drinking.</sent>
+				<sent id ="29">If you drink polluted water you can have different diseases and become ill.</sent>
+				<sent id ="30">In cities or villages we often see such piled up garbage at different places.</sent>
+				<sent id ="31">If these are not cleaned in time, they soon spread a very bad smell around.</sent>
+				<sent id ="32">The air that smells foul is polluted air.</sent>
+				<sent id ="33">If we breathe this polluted air for long, we may contact various diseases.</sent>
+				<sent id ="34">Many people try to keep the environment clean by burning these garbage and filth.</sent>
+				<sent id ="35">Get some mosquito coils and some incense.</sent>
+				<sent id ="36">If you are near it, you can smell its fragrance.</sent>
+				<sent id ="37">Many people like incense for its sweet fragrance.</sent>
+				<sent id ="38">The smoke from the incense or the mosquito coils pollutes the air.</sent>
+				<sent id ="39">The smoke from the mosquito coils harms the mosquitoes.</sent>
+				<sent id ="40">They harm human beings, too.</sent>
+				<sent id ="41">There may be germs in these.</sent>
+				<sent id ="42">The germs in these elements begin to float in the air and spread all over.</sent>
+				<sent id ="43">If someone makes a loud sound near your ears, you may get startled.</sent>
+				<sent id ="44">Machinery in some factories makes a huge sound.</sent>
+				<sent id ="45">Many workers of these factories have bad hearing.</sent>
+				<sent id ="46">This happens because of the loud noise in their work place.</sent>
+				<sent id ="47">Many people cannot sleep for loud noise.</sent>
+				<sent id ="48">Blood pressure of many people rises because of loud noise.</sent>
+				<sent id ="49">To protect our environment from pollution, we should not blow our car horns unnecessarily.</sent>
+				<sent id ="50">We should not play the loud speakers loudly or explode crackers.</sent>
+				<sent id ="51">You know that if you drink polluted water, you may get many diseases.</sent>
+				<sent id ="52">Polluted water can cause diarrhoea, dysentery, jaundice, cholera and many other illnesses of the stomach.</sent>
+				<sent id ="53">To be safe from these diseases we should take safe drinking water.</sent>
+				<sent id ="54">We should always keep drinking water covered.</sent>
+				<sent id ="55">When we breathe, these enter into our lungs and can cause asthma and breathing problems.</sent>
+				<sent id ="56">Filth and garbage cannot then pollute water and air.</sent>
+				<sent id ="57">You know that trees and plants are our very useful friends.</sent>
+				<sent id ="58">We get our food, fruits and vegetable from them.</sent>
+				<sent id ="59">Trees and plants are essential to keep our environment free from pollution.</sent>
+				<sent id ="60">Trres and plants take carbondioxide in and let the oxygen out.</sent>
+				<sent id ="61">We all should take care of the trees and plants.</sent>
+				<sent id ="62">We should plant more trees during the Tree Planting programmes.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

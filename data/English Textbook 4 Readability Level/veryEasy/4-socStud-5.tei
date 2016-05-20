@@ -1,0 +1,99 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.7</idno>
+				<idno type="Number of sentences">71</idno>
+				<idno type="Number of tokens">648</idno>
+				<idno type="Number of token types">270</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t99">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">There are seven continents in the world.</sent>
+				<sent id ="2">Asia is the biggest of them.</sent>
+				<sent id ="3">Bangladesh is situated in the south-east region of Asia.</sent>
+				<sent id ="4">Let us write down in our notebooks the table below and complete it.</sent>
+				<sent id ="5">Most of Bangladesh is plain land.</sent>
+				<sent id ="6">There are some hills in some parts of the north-west and south-east regions of Bangladesh.</sent>
+				<sent id ="7">There are some hills in the south-east and north-west regions of the country.</sent>
+				<sent id ="8">Most of the hills of Bangladesh are located in the south-eastern region.</sent>
+				<sent id ="9">These hills were formed in the tertiary age.</sent>
+				<sent id ="10">They are very high.</sent>
+				<sent id ="11">The name of the highest peak of Bangladesh is Tajindong.</sent>
+				<sent id ="12">This peak is 1231 metres high.</sent>
+				<sent id ="13">The name of the second highest peak of the country is Keokradong.</sent>
+				<sent id ="14">It is 1230 metres high.</sent>
+				<sent id ="15">Both hills are situated in Bandarban.</sent>
+				<sent id ="16">The main rivers of this area are the Karnafuli, the Matamuhuri and the Sangu.</sent>
+				<sent id ="17">There is a forest in this hilly region.</sent>
+				<sent id ="18">The hills of the north-eastern region are located in Sylhet, Moulavibazar, Habiganj and Sherpur.</sent>
+				<sent id ="19">These hills are not very high, They are called hillocks.</sent>
+				<sent id ="20">Most of the tea gardens of Bangladesh are located in these hilly areas.</sent>
+				<sent id ="21">Some areas of Bangladesh were formed many years ago.</sent>
+				<sent id ="22">These areas are a little high.</sent>
+				<sent id ="23">These plain high lands are formed of old alluvial soil.</sent>
+				<sent id ="24">The high plain lands of Dinajpur, Rangpur, Bogra and Rajshahi are known as Barendrabhumi.</sent>
+				<sent id ="25">There is also this sort of high land in Gazipur, Mymensingh and Tangail.</sent>
+				<sent id ="26">There is a forest of Shal trees in this area.</sent>
+				<sent id ="27">There a small low hill named Lalmai in the south of Comilla town.</sent>
+				<sent id ="28">Most areas in our country are plain land.</sent>
+				<sent id ="29">This plain land slopes gradually from north to south.</sent>
+				<sent id ="30">There are many rivers flowing through the plain land.</sent>
+				<sent id ="31">The rivers flow downwards.</sent>
+				<sent id ="32">Some rivers are very big.</sent>
+				<sent id ="33">They include the Padma, the Meghna, the Jamuna and the Brahmaputra.</sent>
+				<sent id ="34">These rivers have many tributaries and branch rivers.</sent>
+				<sent id ="35">During the rainy season these rivers are filled to :he brim.</sent>
+				<sent id ="36">The waters of these rivers often overflow the banks of either side causing floods.</sent>
+				<sent id ="37">Following the floods, low lands have a deposit of alluvial soil.</sent>
+				<sent id ="38">This is how the rivers carrying alluvial soil have formed a vast plain land.</sent>
+				<sent id ="39">The soil has become fertile.</sent>
+				<sent id ="40">Most people in the country live on this plain land.</sent>
+				<sent id ="41">In south-west of the country lies the Sundarbans.</sent>
+				<sent id ="42">Bangladesh is situated in the monsoon climate area.</sent>
+				<sent id ="43">The monsoon flows over the country.</sent>
+				<sent id ="44">Due to the impact of the monsoon there is plenty of rainfall in the country.</sent>
+				<sent id ="45">The weather is not very hot.</sent>
+				<sent id ="46">Neither do we feel much cold.</sent>
+				<sent id ="47">The climate of Bangladesh is divided into seasons according to the temperature and rainfall.</sent>
+				<sent id ="48">These seasons are: Summer, Rain and Winter.</sent>
+				<sent id ="49">In Bangladesh, the summer season is from March to May.</sent>
+				<sent id ="50">During this time it gets very hot The temperature rises up to24- degrees Celsius.</sent>
+				<sent id ="51">Sometimes the temperature rises over it.</sent>
+				<sent id ="52">April is the hottest month in our country.</sent>
+				<sent id ="53">Storm and rain occur then.</sent>
+				<sent id ="54">This storm and rain is called Kalbaishakhi The storm causes a lot of harm.</sent>
+				<sent id ="55">However, the rainfall benefits the agriculture.</sent>
+				<sent id ="56">The rainy season begins after the summer.</sent>
+				<sent id ="57">It lasts from June to October.</sent>
+				<sent id ="58">It rains a lot during the rainy season.</sent>
+				<sent id ="59">The temperature goes down a little.</sent>
+				<sent id ="60">The annual average rainfall in our country is 203 centimetre.</sent>
+				<sent id ="61">The monsoon carrying humidity from the Bay of Bengal blows over Bangladesh.</sent>
+				<sent id ="62">It rains more in the eastern .region</sent>
+				<sent id ="63">than in any other region of Bangladesh.</sent>
+				<sent id ="64">The temperature goes down after the rainy season.</sent>
+				<sent id ="65">Winter occurs gradually.</sent>
+				<sent id ="66">It lasts from November to February.</sent>
+				<sent id ="67">Some years the weather gets colder than usual in the northern region.</sent>
+				<sent id ="68">The lowest temperature occurs in January.</sent>
+				<sent id ="69">The average temperature of this month is about 18 degrees celsius.</sent>
+				<sent id ="70">January is the coldest month of Bangladesh.</sent>
+				<sent id ="71">Let us write down the table below in our notebooks and g complete it.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

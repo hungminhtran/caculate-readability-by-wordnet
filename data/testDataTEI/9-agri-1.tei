@@ -1,0 +1,105 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.187</idno>
+				<idno type="Number of sentences">77</idno>
+				<idno type="Number of tokens">1120</idno>
+				<idno type="Number of token types">430</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t1">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Soil usually denotes the soft surface layer of the earth crust.</sent>
+				<sent id ="2">According to the soil scientists, soil may be defined as the soft surface layer to the earth where plants grow and from which plants absorb inorganic nutrient elements.</sent>
+				<sent id ="3">Soil is composed of various types of organic matter, inorganic, water and air.</sent>
+				<sent id ="4">The soil as we see it now was not same originally.</sent>
+				<sent id ="5">It took so many years to attain this form, the earth was created from a gaseous material splinted from the sun.</sent>
+				<sent id ="6">This gaseous materials become gradually cool while moving around the sun and big size rocks was formed on the surface of the earth.</sent>
+				<sent id ="7">These rocks are named according to their characteristics as igneous rocks, sedimentary rock and metamorphic rocks.</sent>
+				<sent id ="8">Due to long actions of temperature, cold, snow fall, air flow, chemical processes, and by the action of natural forces, the rocks have been disintegrated and gradually converted to a soil material.</sent>
+				<sent id ="9">Later on, the soil has become suitable for agricultural production after mixing with plant and animal decay materials;</sent>
+				<sent id ="10">So, soil is heterogeneous mixture of finely weathered rocks, minerals, organic matter with water and air.</sent>
+				<sent id ="11">The mineral matters in soil have been formed as a result of intensive weathering of parent rocks caused by direct weathering action of natural forces like temperature, rainfall, air flow, snowfall, etc. for a longer duration of time, the sand particles, clay particles, and silt particles are known as mineral matters.</sent>
+				<sent id ="12">The mineral matters thus obtained were mixed at various proportions to form different soil texture.</sent>
+				<sent id ="13">Different textured soils are suitable for growing different type of crops.</sent>
+				<sent id ="14">Different types of soil textures are found to be suitable for different types of corp.</sent>
+				<sent id ="15">The mineral particles of soil are clustered to form compound granules, known as soil structure.</sent>
+				<sent id ="16">These granules make the soil porous and allow of water and air to move within it.</sent>
+				<sent id ="17">Granulated and crumb structured soils are very suitable for agricultural production.</sent>
+				<sent id ="18">Soil usually consists of 45 percent mineral matters.</sent>
+				<sent id ="19">The matters produced as a result of rotting of plant and animal residues in soil are known as organic matter.</sent>
+				<sent id ="20">The process of soil formation is completed with the mixing of organic matter with soil particles.</sent>
+				<sent id ="21">Organic matter improves the physical environment of a soil.</sent>
+				<sent id ="22">For example a soil become light, when organic matter is mixed with an originally heavy clay soil and the soil structure development is enhanced.</sent>
+				<sent id ="23">Organic matter is known as the life of a soil.</sent>
+				<sent id ="24">Because the soil micro-organisms become active in presence of organic matter in the soil.</sent>
+				<sent id ="25">As a result of the decomposition of organic matter plant nutrients like carbon, nitrogen, phosphorus, sulphur, calcium etc. become available for plant's absorptions.</sent>
+				<sent id ="26">In addition an organic complex material namely humus is formed which is most important for soil fertility.</sent>
+				<sent id ="27">Organic matter increases the water holding capacity of soil, soil usually contains 5 percent organic matter.</sent>
+				<sent id ="28">Water is an important component of soil.</sent>
+				<sent id ="29">Water contained in soil makes the plant nutrient elements soluble and keeps the soil moistened.</sent>
+				<sent id ="30">As a result plant absorb these mutrient elements through its root hairs.</sent>
+				<sent id ="31">The main sources of water in the soil are the rain water and irrigation water.</sent>
+				<sent id ="32">Water remains in soil in the inter particles spaces.</sent>
+				<sent id ="33">Usually the moisture content of the soil is 25 percent.</sent>
+				<sent id ="34">Air Air is an important component of soil.</sent>
+				<sent id ="35">Air exists between inter particles spaces of the soil.</sent>
+				<sent id ="36">Living organisms for their respiration utilize the oxygen present in the soil air.</sent>
+				<sent id ="37">Till age of soil through ploughing and spading increases flow of air in soil.</sent>
+				<sent id ="38">The composition of air in soil is 25 percent.</sent>
+				<sent id ="39">The inorganic part of the soil is formed of various types of soil particles.</sent>
+				<sent id ="40">These particles are coarse sand, fine sand, silt and clay.</sent>
+				<sent id ="41">The size of the soil particles according to international system of measurement are the following.</sent>
+				<sent id ="42">The soil particles mentioned are mixed in different proportions to from soil textures of varied nature.</sent>
+				<sent id ="43">Depending on the textural variations, soil may be classified into three categories;</sent>
+				<sent id ="44">The soil, which contains 70 per cent or more sand particles, is known as sandy soil.</sent>
+				<sent id ="45">Sandy soil is mostly seen in deserts, river banks, flood plain and sea beach.</sent>
+				<sent id ="46">The sand particles are larger in size.</sent>
+				<sent id ="47">The water holding capacity of sandy soil is very low.</sent>
+				<sent id ="48">The sandy soil rapidly dries because of large inter particle pores contained in it.</sent>
+				<sent id ="49">Aeration rate is also higher in the case of sandy soil.</sent>
+				<sent id ="50">The organic matter content of sandy soil is scarce.</sent>
+				<sent id ="51">Sandy soils are not suitable for agricultural production.</sent>
+				<sent id ="52">Using cowdung, compost, green manure etc. in sandy soils having fine and particles, Cheena, Kaon, Futi, Watermelon and Potato may be grown.</sent>
+				<sent id ="53">When sand, silt and clay particles exist in equal proportion in a soil then the texture of the soil is termed as loamy.</sent>
+				<sent id ="54">However, in a typical loamy soil half the composition should be sand, and the rest half silt and clay.</sent>
+				<sent id ="55">The organic matter content of loamy soil is usually higher.</sent>
+				<sent id ="56">The water absorption and holding capacities of loamy soil are comparatively higher.</sent>
+				<sent id ="57">The loamy soils are most suitable for agricultural production.</sent>
+				<sent id ="58">As a result most of the crops can grow better in this type of soil.</sent>
+				<sent id ="59">The soil of majority areas of Bangladesh is of loamy texture.</sent>
+				<sent id ="60">The loamy soils are termed as ideal soil for agricultural use.</sent>
+				<sent id ="61">The sandy soils having more sand particles are known as sandy loam soil.</sent>
+				<sent id ="62">The sandy loam soil is mostly found in Tista Floodplain area.</sent>
+				<sent id ="63">The crops mainly grown in sandy loam soil are, Radish, Tobacco, Pepper or Chili etc.</sent>
+				<sent id ="64">The loamy soils, which contain more silt particles, are known as silt loam soils.</sent>
+				<sent id ="65">Silty loam textured soil is mostly found in the southern regions of Bangladesh.</sent>
+				<sent id ="66">Rice, Jute, Wheat, Sugarcane, Potato and Vegetables are commonly grown in the silt loam textured soil.</sent>
+				<sent id ="67">The loam textured soil, which contain more quantities of days, are known as clay low loam soils.</sent>
+				<sent id ="68">The flood plain sills of Ganges Riverine area are included in this class of soil texture.</sent>
+				<sent id ="69">The crops mainly grown in the clay loom soil are rice, cotton, wheat, pulses, oil seeds etc.</sent>
+				<sent id ="70">The soil which contains 40 to 50 percent clay soil.</sent>
+				<sent id ="71">Clay soil is also popularly known as heavy textured soil.</sent>
+				<sent id ="72">The porosity of clay soil is low.</sent>
+				<sent id ="73">As a result it's water holding capacity is very high.</sent>
+				<sent id ="74">The drainage capacity of the type of soil is very low.</sent>
+				<sent id ="75">The clay textured soil is very hard when dry, but become very soft when moistened.</sent>
+				<sent id ="76">This type of soil may be converted to the soil of loamy nature by adding sufficient quantities of organic manures.</sent>
+				<sent id ="77">The major crops grown in this type of soil texture are Rice, Jute, Sugarcane, and Vegetables.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

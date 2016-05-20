@@ -1,0 +1,157 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-14</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.306</idno>
+				<idno type="Number of sentences">129</idno>
+				<idno type="Number of tokens">2004</idno>
+				<idno type="Number of token types">667</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t6">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">With a view to maintain the taste and quality of fish the process of transport, action, after care and preservation of fish after those are collected from the pond is called fish processing.</sent>
+				<sent id ="2">Fish is rapidly decomposable creature.</sent>
+				<sent id ="3">The decomposition of fish starts at a definite time after collection and this extends rapidly.</sent>
+				<sent id ="4">So the quality fish starts decreasing soon after their collection starting from the catching of the fish some time passes in bringing those to the market, selling and making those suitable for eating by the consumers.</sent>
+				<sent id ="5">Fish may be decomposed and become unsuitable for consumption if these are not preserved at this time.</sent>
+				<sent id ="6">So in order to control the quality of fish the activities.</sent>
+				<sent id ="7">Starting from collection up to consumption like transportation, taking care and preservation should be done most carefully.</sent>
+				<sent id ="8">There are several reasons for destroying the quality of fish or influencing the decomposition of fish.</sent>
+				<sent id ="9">Keeping dead fish in unhygienic environment.</sent>
+				<sent id ="10">Not using ice for preservation of fish in low temperature after collection Using unhygienic or polluted water for washing fish Utilising uncleaned transport, using small amount of ice and having no knowledge about the use of ice.</sent>
+				<sent id ="11">Having no facilities for marketing including proper transportation.</sent>
+				<sent id ="12">The role of fish and shrimp are very important in the economy of Bangladesh.</sent>
+				<sent id ="13">In the export earning the contribution of fish and shrimp occupy the third position.</sent>
+				<sent id ="14">During 2006-2007 financial year, Foreign exchange of 3352.89</sent>
+				<sent id ="15">crore taka was earned by exporting fish, shrimp and fishery products and these amount was about 5% of the total export earning.</sent>
+				<sent id ="16">The production of fish and shrimp has increased as a result of taking proper steps and at the same time the demand for quality fish and shrimp has also been increasing gradually in and outside of the country.</sent>
+				<sent id ="17">The lack of facilities for care after collection which was existing so long, has also been improved to a great extent in international market.</sent>
+				<sent id ="18">This progress has been achieved as a result of improving the processing activities.</sent>
+				<sent id ="19">If this vast potential resource is exported maintaining its quality in fact after proper processing, its demand will be incerased and on the other hand, the way of earning foreign exchange will also be expanded.</sent>
+				<sent id ="20">As a result national economy will be enriched.</sent>
+				<sent id ="21">In the fourth 5 year plan the target of fish production was 12 lakh ton and target for export was 28 thousand ton.</sent>
+				<sent id ="22">The target of export profit was 971 crore taka.</sent>
+				<sent id ="23">In the last year of the plan i.e. during 1994-95, almost one and a half time more profit than the targeted amount was earned by exporting fish and shrimp.</sent>
+				<sent id ="24">In the context of present American food and medicine policy it has been asked to be more careful in the processing of fish and fish products.</sent>
+				<sent id ="25">In this context if the processing facilities are improved, it will be possible to export 64000 metric tons within 2000 A.D. and from that it will be possible to earn foreign exchange of more than taka 2000 crore.</sent>
+				<sent id ="26">It will play a vital role in strengthening economy of the courty.</sent>
+				<sent id ="27">One fourth of the total production of fish of fish of this country is Hilsa fish.</sent>
+				<sent id ="28">Hilsa cought abundantly in a particular time of the year.</sent>
+				<sent id ="29">Most of thess are decomposed for the want of processing.</sent>
+				<sent id ="30">If these can be preserved properly more supply of protein in the country will be possible.</sent>
+				<sent id ="31">So, in order to increase the standard of nutrition of the people and for economic development, the importance of fish and shrimp processing knows no bound.</sent>
+				<sent id ="32">There are numerous bacteria in the body of the fish.</sent>
+				<sent id ="33">They can not do any harm if the fish is alive.</sent>
+				<sent id ="34">But when the fish dies bacteria grow rapidly and cause changes in the body of the fish.</sent>
+				<sent id ="35">As a result there starts rottening.</sent>
+				<sent id ="36">There are different types of enzymes in the body of the fish.</sent>
+				<sent id ="37">They are helpful for the fish when they are alive.</sent>
+				<sent id ="38">But in dead fish the cells are broken by the activities of these enzymes and the fish starts tottening.</sent>
+				<sent id ="39">The fish is composed of different chemical elements.</sent>
+				<sent id ="40">After death of fish the activities of these chemical elements result in rottening of fish.</sent>
+				<sent id ="41">The colour of the body of a rotted fish and its gills become pale, the muscles become soft and loose, the eyes enter into holes and mucus appears in the gills.</sent>
+				<sent id ="42">Fish and shrimp should be preserved to keep those good and to protect from decomposition, Fish and shrimp begin to rot if those are kept outside for long time.</sent>
+				<sent id ="43">So fresh fish and shrimp are required for preservation.</sent>
+				<sent id ="44">The preservation system of fish and shrimp is described below- There are numerous bacteria in different parts like scales, gills, entrails etc. of the fish.</sent>
+				<sent id ="45">After the death of the fish and these germs rapidly begin to act in the dead fish.</sent>
+				<sent id ="46">As a result, fish begins to rot.</sent>
+				<sent id ="47">Fish can be saved from decomposition if those are covered with abundant ice soon after catching.</sent>
+				<sent id ="48">Preservation with ice is a good method if preservation is done temporarily or for short time.</sent>
+				<sent id ="49">Although, freezing preserves fish and shrimps, drying or putting salt, initially those are to be preserved with ice.</sent>
+				<sent id ="50">Fish are kept fresh with abundant ice up to 5-10 days in the local village markets.</sent>
+				<sent id ="51">The temperature of fish become low when ice is used.</sent>
+				<sent id ="52">As a result the bacteria or germs become, inactive.</sent>
+				<sent id ="53">So fish are not decomposed easily.</sent>
+				<sent id ="54">The portion of water in the fish remains intact when ice is used.</sent>
+				<sent id ="55">For this reason fish remain fresh or lively.</sent>
+				<sent id ="56">Generally in our country fish is transported in bamboo made basket or wooden box.</sent>
+				<sent id ="57">In these cases firstly banana leaf or mat made of grass should be placed on the bottom of the basket and then one layer of ice is to be placed.</sent>
+				<sent id ="58">Afterwards one layer of fish one layer ice is to be packed.</sent>
+				<sent id ="59">In this way the basket is to be filled in with and ice.</sent>
+				<sent id ="60">Lastly the basket will be tied with the help of banana leaves, coarse mat and Hessian so that sunlight cannot fall on the fish or the ice dose not melt quickly.</sent>
+				<sent id ="61">The height of the basket should not be more than 40 cm.</sent>
+				<sent id ="62">If the height is more than that, the fish may be flattened.</sent>
+				<sent id ="63">If preserved with sufficient ice fish remains good up to 5-10 days.</sent>
+				<sent id ="64">The process of preservation of dish and shrimp by lowering down their body temperature of is called freezing.</sent>
+				<sent id ="65">By freezing the liquid between cell and tissue is converted into ice.</sent>
+				<sent id ="66">This is a very popular method of fish and shrimp preservation.</sent>
+				<sent id ="67">In this method shrimps can be preserved up to 1 year maintaining all the qualities of fish.</sent>
+				<sent id ="68">In Bangladesh, mainly shrimps, frog legs, lobsters and all are exported after preserving by freezing.</sent>
+				<sent id ="69">Mainly air blast freezer and plate freezer are used for refrigeration.</sent>
+				<sent id ="70">After the basket or boxes full of package fish and shrimp arrive at the ware houses, those are separated from ice and the good ones are accepted.</sent>
+				<sent id ="71">The accepted fish and shrimps are washed well with cold water.</sent>
+				<sent id ="72">In case of big fishes the entrails are brought out by tearing off the belly.</sent>
+				<sent id ="73">The head and the fins are cut off and in cases of shrimps only the heads are separated.</sent>
+				<sent id ="74">Then the shrimps are washed well in 20 PPM chlorine solution and primary grading is done on the basis of the size.</sent>
+				<sent id ="75">These are again washed in pressed water having 10 PPM chlorine.</sent>
+				<sent id ="76">At this stage these are weighed and graded for export, for example one grade may include 5 per pound, another grade may include 8-12 per pound, and other grade may contain 13-15 per pound and so on.</sent>
+				<sent id ="77">After grading these are to be washed for the last time with 5 PM chlorine water and the shrimps are arranged as blocks on germ free polythene on a tray.</sent>
+				<sent id ="78">This tray is called panning tray.</sent>
+				<sent id ="79">After arranging the shrimps, the tray is filled with 3-5 PPM chlorine mixed cold.</sent>
+				<sent id ="80">Water and it is made like a parcel covered by spread out polythene.</sent>
+				<sent id ="81">Afterwards these panning trays are placed in specific chambers of plate freezer or blast freezer and refrigerated at 38o C to 40o C.</sent>
+				<sent id ="82">At this temperature the shrimps are refrigerated in 2-3 hours.</sent>
+				<sent id ="83">One of such blocks weighs up to 1-2 kg.</sent>
+				<sent id ="84">The panning trays are brought out of the freezer and the blocks are separated.</sent>
+				<sent id ="85">Those are dipped into cold water mixed with 3-5 PPM chlorine.</sent>
+				<sent id ="86">This process is called glazing.</sent>
+				<sent id ="87">Glazing process accelerates dryness of fish and hinders decomposition.</sent>
+				<sent id ="88">The glazed shrimps are packed with wax paper, placed in big cartoons and freezed at18o C.</sent>
+				<sent id ="89">These frozen shrimps are exported in proper time.</sent>
+				<sent id ="90">Salt absorbs water from the body of fish.</sent>
+				<sent id ="91">By way of this the amount of water from the body of fish is decreased to such level that the activities of the bacteria living in the body of the fish stop.</sent>
+				<sent id ="92">As a result fish is not decomposed.</sent>
+				<sent id ="93">By processing in this method fish can be preserved unto 1 year.</sent>
+				<sent id ="94">In our country Hilsa is preserved only with salt.</sent>
+				<sent id ="95">As there is excessive fat in Hilsa, they cannot be preserved by drying.</sent>
+				<sent id ="96">Firstly scales, blood, gills, entrails, eggs etc should be removed from the body of the fish.</sent>
+				<sent id ="97">The fish should be cut crosswise into pieces so that they are not separated from each other.</sent>
+				<sent id ="98">The ration of fish and salt should be 4:That is one kg salt should be used form a fish weighing 4 kg.</sent>
+				<sent id ="99">During salting it should be noticed that enough salt enters into the cut parts.</sent>
+				<sent id ="100">Making holes through the eyes of the fish should also push salt.</sent>
+				<sent id ="101">After the fish is mixed with salt it should be kept in hips on a stand or bamboo mat spread over wooden platform.</sent>
+				<sent id ="102">In arranging the layers of fish the heads and tails should be kept alternatively in same direction.</sent>
+				<sent id ="103">If kept in this way after salting, Hilsa becomes fully salted within 15-20 days.</sent>
+				<sent id ="104">Fish can be preserved up to 1 year after salting.</sent>
+				<sent id ="105">The process of preserving fish by removing water from the body of fish by sun heat is called fish drying.</sent>
+				<sent id ="106">Excepting the fatty fishes, drying process can preserve all fishes big or small.</sent>
+				<sent id ="107">In case of small fishes, first of all those are washed well and dipped into salty water for some time.</sent>
+				<sent id ="108">Those are picked up and water is allowed to ooze out.</sent>
+				<sent id ="109">Then they are spread out on bamboo-made mat for sun drying.</sent>
+				<sent id ="110">Fish becomes fully dried in 2-3 days in very hot sun.</sent>
+				<sent id ="111">Dried fish is preserved in polythene bag.</sent>
+				<sent id ="112">In case of big fishes the scales, fins, entrails are removed and the fishes are washed well.</sent>
+				<sent id ="113">Then the fishes are dissected vertically with the help of sharp knife.</sent>
+				<sent id ="114">The dissected fish is kept dipped into saline water for sometime.</sent>
+				<sent id ="115">Then those are picked up and hung longitudinally on a rack.</sent>
+				<sent id ="116">By this water is allowed to ooze out and drying of fish starts.</sent>
+				<sent id ="117">In this way the drying is completed within 5-7 days.</sent>
+				<sent id ="118">The dried fish are kept in polythene bag and preserved in dry place.</sent>
+				<sent id ="119">Collect 5 fresh Hilsa from the market with the help of your teacher.</sent>
+				<sent id ="120">The scales, fins etc should be removed carefully from the collected fish.</sent>
+				<sent id ="121">Remove the entrails from the body of the fish.</sent>
+				<sent id ="122">Remove egg from the belly, if any and now weigh the fish.</sent>
+				<sent id ="123">Cut the fish crosswise in such a way that the different pieces remain connected together.</sent>
+				<sent id ="124">Take salt weighing 4 times (4:1) of the weight of the fish and smear over cut parts.</sent>
+				<sent id ="125">Smear salt over the whole parts of the body.</sent>
+				<sent id ="126">Tear off the eyes and push salt into it.</sent>
+				<sent id ="127">Place a mat on a wooden platform.</sent>
+				<sent id ="128">Arrange the adequately salted fish on the mat keeping head of one and tail of the other in the same side.</sent>
+				<sent id ="129">If these are kept in this way for 15-20 days salting will process the fish.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

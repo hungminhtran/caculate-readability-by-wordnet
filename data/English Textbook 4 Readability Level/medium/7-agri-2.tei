@@ -1,0 +1,165 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.814</idno>
+				<idno type="Number of sentences">137</idno>
+				<idno type="Number of tokens">1736</idno>
+				<idno type="Number of token types">600</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t11">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The fertilized and mature ovum of flowers is called a seed.</sent>
+				<sent id ="2">The reproduction of mango, berry, litchi, jackfruit, papaya, guava, etc. is possible through seeds.</sent>
+				<sent id ="3">It has some advantages and disadvantages.</sent>
+				<sent id ="4">Many saplings can be grown easily with a little money and labour.</sent>
+				<sent id ="5">Trees born of seeds live longer.</sent>
+				<sent id ="6">They grow big, become strong with many branches and bear more fruits.</sent>
+				<sent id ="7">The development of new species is done through seeds.</sent>
+				<sent id ="8">Seeds are the only medium of reproduction for betelnut, coconut, palmyra, papaya, etc.</sent>
+				<sent id ="9">The tree born of a seed does not always have all the attributes of the parent tree.</sent>
+				<sent id ="10">There is no easy method for the reproduction of pineapple and banana with seeds.</sent>
+				<sent id ="11">Trees born of seeds take longer to bear fruits.</sent>
+				<sent id ="12">Reproduction with stems means to reproduce a tree with its stem.</sent>
+				<sent id ="13">Stems are used to reproduce pineapple, banana, mango, lemon, etc.</sent>
+				<sent id ="14">This method of reproduction has some advantages and disadvantages.</sent>
+				<sent id ="15">Trees reproduced with stems have all the characteristics of the parent tree.</sent>
+				<sent id ="16">The flower and fruit earlier than those reproduced through seeds.</sent>
+				<sent id ="17">Variation in fruiting plant may be brought willingly.</sent>
+				<sent id ="18">For example:plum, mango, etc.</sent>
+				<sent id ="19">The only convenient way of the reproduction of banana, pineapple, etc. is vegetative or stems cutting method.</sent>
+				<sent id ="20">The reproduction with seeds of banana and pineapple plants is very difficult.</sent>
+				<sent id ="21">The stem reproduction method does not allow development of new varieties.</sent>
+				<sent id ="22">The cost of growing saplings in this method is higher than that of growing them from seeds.</sent>
+				<sent id ="23">Diseases of the parent tree may spread through the trees grown from stems.</sent>
+				<sent id ="24">These trees are comparatively short lived and smaller in size.</sent>
+				<sent id ="25">Sucker: The new sapling that peeps out of the parent tree and lives on its food is called a sucker.</sent>
+				<sent id ="26">Pineapple, banana, etc. reproduce through suckers.</sent>
+				<sent id ="27">They appear at the stump of banana plants.</sent>
+				<sent id ="28">They are planted for the cultivation of banana.</sent>
+				<sent id ="29">Suckers of banana are of two kinds: Sword suckers Water suckers.</sent>
+				<sent id ="30">Sword suckers sprout from the bottom of the parent stem.</sent>
+				<sent id ="31">Their lower ends are quite fat.</sent>
+				<sent id ="32">They have long leaves that look like swords.</sent>
+				<sent id ="33">Their leaves are strong though narrow in width.</sent>
+				<sent id ="34">These saplings are good for plantation.</sent>
+				<sent id ="35">The lower ends of water suckers are comparatively slim, not as plump as those of the sword suckers.</sent>
+				<sent id ="36">Their leaves are thick and broad, and are not good for plantation.</sent>
+				<sent id ="37">But it takes some more time to be fruitful.</sent>
+				<sent id ="38">We can use the stump of a growing plant or a fruit-bearing one for producing saplings.</sent>
+				<sent id ="39">Two kinds of saplings grow at the top of a pineapple.</sent>
+				<sent id ="40">The sapling standing upright on the head of the fruit is called the crown sucker.</sent>
+				<sent id ="41">The sapling, which comes out of the lower end of the crown sucker, is called the crown slip.</sent>
+				<sent id ="42">A stalk sucker is one that grows at the bottom or at the top of the stalk of the pineapple.</sent>
+				<sent id ="43">A sapling that comes out of the trunk below the stalk but above the ground is called a side sucker or trunk kekri.</sent>
+				<sent id ="44">A sapling that breaks out of the ground from the bottom of the plant is called the ground kekri or ground sucker.</sent>
+				<sent id ="45">Ground sucker and side suckers are the best for pineapple cultivation.</sent>
+				<sent id ="46">The use of roots, branches or leaves of trees to grow their kinds is called the cutting reproduction or stem reproduction method.</sent>
+				<sent id ="47">Cuttings are processed in various ways, such as, Root cutting and Branch cutting.</sent>
+				<sent id ="48">Root cutting: Roots, roughly as thick as a pencil, should be cut in 15 - 20 cm long pieces.</sent>
+				<sent id ="49">These roots should be kept parallel to one another in a seedbed or in a tub or in a pot and be covered with soil.</sent>
+				<sent id ="50">They may be partially buried with 3 - 4 cm of their bottoms over ground.</sent>
+				<sent id ="51">Saplings will grow in 3 - 4 weeks after the roots have been placed in the seedbed or in the tub.</sent>
+				<sent id ="52">The roots of wood apple, guava, pomegranate, etc. are used for cuttings.</sent>
+				<sent id ="53">Branch cutting: Sparsely shaded high land should be selected for producing branch cuttings in beds.</sent>
+				<sent id ="54">Dig the bed half a hand or 20cm deep.</sent>
+				<sent id ="55">Throw away the extracted earth.</sent>
+				<sent id ="56">Fill in the bed with a mixture of 2: 1 sand and decomposed cowdung.</sent>
+				<sent id ="57">However, if water stands on the land, do not dig it.</sent>
+				<sent id ="58">In this case, make a bed half a hand high on the land.</sent>
+				<sent id ="59">The bed would consist of a mixture of 2:1 sand and decomposed cowdung.</sent>
+				<sent id ="60">Besides, branches can be planted densely in earthen tubs or wooden trays filled with sand only.</sent>
+				<sent id ="61">Shoots will come out of them in a few days.</sent>
+				<sent id ="62">You may extract the saplings with much caution after 4-5 weeks of the plantation and preserve them in individual tubs.</sent>
+				<sent id ="63">Fresh branches, 15-20 cm long, like pencils or in some cases a little thicker or thinner are usually selected for cutting reproduction.</sent>
+				<sent id ="64">If they are planted on the ground, new saplings sprout from them.</sent>
+				<sent id ="65">You may collect 6 -12 month old, strong or well-nourished branches of lemon trees for cuttings.</sent>
+				<sent id ="66">The selected branches must be healthy, strong, fresh, smooth, and gray or green in colour.</sent>
+				<sent id ="67">There should be at least three nodes on them.</sent>
+				<sent id ="68">Leaves must be plucked off if there are any.</sent>
+				<sent id ="69">Their tops should be cut in a circular shape near the upper node, while their bottoms should be cut diagonally for roots to grow.</sent>
+				<sent id ="70">Subsequently, they should be planted a bit diagonally on the ground, about a half of their length beneath the soil.</sent>
+				<sent id ="71">This process produces branch cuttings in 4 - 6 weeks.</sent>
+				<sent id ="72">Layering: The reproduction of guava, lemon, litchi, etc. are generally done through the layering method.</sent>
+				<sent id ="73">You can do it anytime in the year except winter.</sent>
+				<sent id ="74">If you do it in the wet season, you need not irrigate.</sent>
+				<sent id ="75">First, find a tree of your choice.</sent>
+				<sent id ="76">Then select some finger or pencil size branches which are nourished, strong and healthy tree.</sent>
+				<sent id ="77">People usually prefer oneyear-old branches.</sent>
+				<sent id ="78">It is better if the branches are parallel to the ground.</sent>
+				<sent id ="79">Cut round the bark of the branches, 40-50 cm off the top and right below a node, with a sharp knife.</sent>
+				<sent id ="80">Again do the same, 3-4 cm below the first incision.</sent>
+				<sent id ="81">Now peel off the bark from the space between these two incisions.</sent>
+				<sent id ="82">Scratch this bare part.</sent>
+				<sent id ="83">Wrap it up with a piece of polythene, 20 cm long and wide.</sent>
+				<sent id ="84">Tie it up round and round with a rope.</sent>
+				<sent id ="85">It is better if you wet the lump of the mixture with 2-3 teaspoonfuls of water before tying it up.</sent>
+				<sent id ="86">In 4/5 weeks, roots will sprout through the plaster at the top end of the barked up portion of the branch.</sent>
+				<sent id ="87">The roots change from being white to deep brown or copper.</sent>
+				<sent id ="88">Branches and sub-branches also begin to peep at this time.</sent>
+				<sent id ="89">At this stage, amputate the cutting along with the bandage off the tree.</sent>
+				<sent id ="90">The cuttings become ready for plantation after 4-5 weeks of hardening in this manner.</sent>
+				<sent id ="91">A branch, 1-2 years old, of the parent tree near the ground should be selected for the Daba layering of lemon and guava.</sent>
+				<sent id ="92">The branch should be barked up according to the layering method mentioned before.</sent>
+				<sent id ="93">The barked up part of the branch should be covered with decomposed cowdung and then the branch would be lowered to the ground.</sent>
+				<sent id ="94">A weight would be put on it.</sent>
+				<sent id ="95">Roots will grow from the buried part in 4-6 weeks.</sent>
+				<sent id ="96">The branch would be amputated off the parent tree below the roots that have grown on it.</sent>
+				<sent id ="97">Let it convalesce for 2-3 weeks and then plant it in a selected place.</sent>
+				<sent id ="98">Visit a pineapple plantation.</sent>
+				<sent id ="99">Identify different kinds of saplings and compare them with the descriptions and pictures in the text.</sent>
+				<sent id ="100">Identify the saplings and explain the charactarstics in front of your class teacher.</sent>
+				<sent id ="101">Now go to a banana plantation.</sent>
+				<sent id ="102">Identify saplings and compare them with sword suckers and water suckers as described in the text.</sent>
+				<sent id ="103">Identify and explain the characteristics to your class teacher.</sent>
+				<sent id ="104">Write in order what you have done to identify the saplings of pineapple and banana in your practical exercise book.</sent>
+				<sent id ="105">Select a parent tree for blister (gooti) cutting.</sent>
+				<sent id ="106">Select about a year old, fresh, strong and disease-free branch of the tree you have chosen.</sent>
+				<sent id ="107">It is good if the branch is close and parallel to the ground.</sent>
+				<sent id ="108">Then cut the bark round below a node, 40-50 cm from the top of the branch, with a sharp knife.</sent>
+				<sent id ="109">Cut the bark round once again 3-4 cm below the earlier cut.</sent>
+				<sent id ="110">Now bark up carefully between the two cuts.</sent>
+				<sent id ="111">Scratch the bare portion a little.</sent>
+				<sent id ="112">Mix a portion of decomposed cowdung with three-time more clay.</sent>
+				<sent id ="113">Now add water to the mixture and roll it between your palms to balls.</sent>
+				<sent id ="114">Cover the bare portion of the branch along with 2-3 cm beyond it.</sent>
+				<sent id ="115">Put a layer of earth on the covered place and wrap it up with a piece of polythene, 20 cm long and sufficiently wide.</sent>
+				<sent id ="116">Wet the earth with 2-3 spoon fuls of water and then tie it tightly with ropes.</sent>
+				<sent id ="117">The roots will look white at the beginning and then will turn copper brown.</sent>
+				<sent id ="118">Cut the cutting below the bandage when the roots are copper brown.</sent>
+				<sent id ="119">At this stage cut off the unnecessary stems and branches.</sent>
+				<sent id ="120">Then take off the ropes and polythene carefully.</sent>
+				<sent id ="121">Keep the cutting in a half-shaded bed or a tub for 4-5 weeks.</sent>
+				<sent id ="122">Now you can plant it in a place you like.</sent>
+				<sent id ="123">Write down the jobs you have done in order to grow blister (gooti) cutting in your practical exercise book.</sent>
+				<sent id ="124">Topic: Daba cutting of Lemon and Guava.</sent>
+				<sent id ="125">Materials: Parent tree, knife for cutting, decomposed cow-dung, loam, brick and bamboo sticks.</sent>
+				<sent id ="126">Select a parent tree.</sent>
+				<sent id ="127">Select a 1-2 year old branch that is very close to the ground.</sent>
+				<sent id ="128">Cut round the bark below the node, close to the ground.</sent>
+				<sent id ="129">Cut round again 3-4 cm below the earlier cut.</sent>
+				<sent id ="130">Bark up the gap between the two cuts.</sent>
+				<sent id ="131">Plant the bare part of the branch in loam, mixed with decomposed cow-dung.</sent>
+				<sent id ="132">Use a V-shaped bamboo contraption or a brick to keep it down.</sent>
+				<sent id ="133">Roots will grow at the node above the cut in 4-6 weeks.</sent>
+				<sent id ="134">Now cut it below roots.</sent>
+				<sent id ="135">Leave it in this state for 2-3 weeks.</sent>
+				<sent id ="136">Then dig it out together with some earth and plant it in a selected place.</sent>
+				<sent id ="137">At last write the jobs you have done in your practical exercise book.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

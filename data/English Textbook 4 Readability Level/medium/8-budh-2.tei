@@ -1,0 +1,194 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-budh-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.165</idno>
+				<idno type="Number of sentences">166</idno>
+				<idno type="Number of tokens">1967</idno>
+				<idno type="Number of token types">790</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t103">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Household life is the abode of sorrows.</sent>
+				<sent id ="2">Many sages to be free from these sorrows adopted homelessness.</sent>
+				<sent id ="3">Even in ancient times, ordination of the sages was much in Vogue.</sent>
+				<sent id ="4">Siddhartha Gautam forsook riches, His near persons and kingdom for cessation of all these miseries.</sent>
+				<sent id ="5">He exerted Himself much to attain a great life.</sent>
+				<sent id ="6">Many man and women of respectable families spent their lives in Sangharam and attained the bliss of emancipation.</sent>
+				<sent id ="7">The ordained life is the acknowledgement of the great ideal of the Buddha.</sent>
+				<sent id ="8">The Buddha Bhagvan said on the occasion of ordination of Yasa of a respectable family.</sent>
+				<sent id ="9">Homelife is full of obstacles and ordained life is like an open sky.</sent>
+				<sent id ="10">Generally, household life is called a domestic life.</sent>
+				<sent id ="11">The householders always repair their houses.</sent>
+				<sent id ="12">If the householders do not repair their houses, they cannot maintain their household duties.</sent>
+				<sent id ="13">To support wife, sons and daughters is a kind, of repairing the house.</sent>
+				<sent id ="14">So, there is no end to their mental anxieties and activities.</sent>
+				<sent id ="15">It is very difficult for them to do actions which are blissful in this life and after.</sent>
+				<sent id ="16">Some of them have the desire but they do not have the environment for the purpose.</sent>
+				<sent id ="17">They have the right thinking but not the time for the purpose.</sent>
+				<sent id ="18">This is the example of household life.</sent>
+				<sent id ="19">For these reasons the Buddha has described the household life as crowded and sorrowful.</sent>
+				<sent id ="20">Persons ordained, find the Path blissful in this world and after in no time.</sent>
+				<sent id ="21">They have enough time to do meritorious deeds.</sent>
+				<sent id ="22">Good deeds done by the ordained persons who keep the moral precepts are very pure.</sent>
+				<sent id ="23">There is no adulteration in it.</sent>
+				<sent id ="24">So, one should take recourse to ordination, highly spoken of by the Buddha.</sent>
+				<sent id ="25">It is good to sacrifice one's life in the Buddhadasana.</sent>
+				<sent id ="26">If you cannot do so, you should take recourse to ordination at least once in a life.</sent>
+				<sent id ="27">As a result, the path to emancipation in future life becomes easy.</sent>
+				<sent id ="28">To make gift of a son in the Buddhadasana brings in much merit for the parents.</sent>
+				<sent id ="29">Emperor Ashok constructed 84 thousand vihars and relic shrines for the Buddhadasana.</sent>
+				<sent id ="30">After the dedication of Ashokaram lie asked the Order of monks, O Venerable sirs, who is the best donor in this Buddhadasana?</sent>
+				<sent id ="31">Whose offerings are the most than those of the others?</sent>
+				<sent id ="32">O the great king, your offerings are the most.</sent>
+				<sent id ="33">He thought, I have kept the Buddhadasana alive by my offerings.</sent>
+				<sent id ="34">Thinking so, again he asked, O Venerable sirs, as to whether have I become an inheritor of the Buddhadasana?</sent>
+				<sent id ="35">Moggaliputtatissa Sthabir said, You are the supporter of the Order.</sent>
+				<sent id ="36">He who offers his own son for ordination to the Buddhadasana becomes an inheritor of the Buddhadasana.</sent>
+				<sent id ="37">May you be an inheritor of the Buddhadasana.</sent>
+				<sent id ="38">The Emperor offered his son and daughter to the Buddhadasana.</sent>
+				<sent id ="39">The monks ordained prince Mahendra and princes Sanghamitra.</sent>
+				<sent id ="40">The pious Ashok became an inheritor of the Buddhadasana.</sent>
+				<sent id ="41">For this reason, the parents ordain their sons to acquire undecaying merits.</sent>
+				<sent id ="42">In the Buddhist countries parents offer their sons to the Buddhadasana and ordain them even for a week.</sent>
+				<sent id ="43">It is better if the seeker leads the life of ordination for good.</sent>
+				<sent id ="44">The Buddha has arranged the Shils in accordance with nature and stage of the human beings.</sent>
+				<sent id ="45">The householders lead family lives.</sent>
+				<sent id ="46">Being established in Panchashil they form their religious lives, make the families beautiful and cultured.</sent>
+				<sent id ="47">The upasathins practice Asthashil and lead celibacy and perfect lives for the time being.</sent>
+				<sent id ="48">By this it is tried to practise celebacy and perfectness in the household life.</sent>
+				<sent id ="49">The Uposath is proclaimed for the formation of a healthy religious life.</sent>
+				<sent id ="50">Not thinking over the worldly affairs but spending the days on religious discussions and meditation, they make their Shils perfect.</sent>
+				<sent id ="51">Shil or precept always practised by the Sramaneras is Dashshil.</sent>
+				<sent id ="52">This is called Anusampanna Shil also.</sent>
+				<sent id ="53">The significance of Dashshil is hidden in the words Sramanera and upasampada.</sent>
+				<sent id ="54">From sru, the word Sramanera has been formed.</sent>
+				<sent id ="55">Sramanera is called as he has to protect his Shils attentively.</sent>
+				<sent id ="56">He is called a Samanera as he is learner to the monks.</sent>
+				<sent id ="57">For this reason the Dashshil is called the Anusampanna Shil.</sent>
+				<sent id ="58">He who is not yet fully ordained (upasampanna) is called a Samanera.</sent>
+				<sent id ="59">The other name of the learner also is Sramanera.</sent>
+				<sent id ="60">By practising Dashshil one has to perform preduties to become an upasampada or a monk.</sent>
+				<sent id ="61">This is the first stage of the monk life.</sent>
+				<sent id ="62">Basing on, Dashshil, all the good deeds are performed.</sent>
+				<sent id ="63">When the learner practising Dashshil, his aim is attained.</sent>
+				<sent id ="64">He acquires the fitness to become a monk.</sent>
+				<sent id ="65">For this reason, Dashshil is called `Sramanera Sikkha or Novices Ruining.</sent>
+				<sent id ="66">This Shil makes the path easier to take the recourse to the life of a monk.</sent>
+				<sent id ="67">So, the Dashshil is very significant from the religious point of view.</sent>
+				<sent id ="68">Dashshil is to be taken from a monk.</sent>
+				<sent id ="69">Shil can be taken in front of Buddha image, if a monk is not available.</sent>
+				<sent id ="70">Before this duties of Sramanera have to be fulfilled.</sent>
+				<sent id ="71">Covering one shoulder with his upper robe and taking refuged in the Triple Gem, one has to pray for Dashshil to the preceptor monk.</sent>
+				<sent id ="72">After having Shils, he has to recite the four observances on, viz.</sent>
+				<sent id ="73">robe, food, seat and bed and medicinal things.</sent>
+				<sent id ="74">This is the kind of a meditation for the Sramanera.</sent>
+				<sent id ="75">Its main object is to eradicate the greed.</sent>
+				<sent id ="76">There are five constituent parts or elements of killing of living beings.</sent>
+				<sent id ="77">They are: To know something as a living being, intention to kill, attempt to kill, to give order to kill and death due to these.</sent>
+				<sent id ="78">By compassion towards the beings of the world, the killing of beings can be destroyed with its roots.</sent>
+				<sent id ="79">To take things not given, is called the taking of ungiven things or stealing.</sent>
+				<sent id ="80">Not paying the value or to use for one's own need without informing means stealing.</sent>
+				<sent id ="81">Sensual power is to be restrained to observe BrahmAchariya or celebacy.</sent>
+				<sent id ="82">To practise the Vinay rules prescribed by the Buddha is called BrahmAchariya.</sent>
+				<sent id ="83">To tell a lie is a sin.</sent>
+				<sent id ="84">`Did not see even seeing, did not hear while hearing- to speak such are also like to tell a lie.</sent>
+				<sent id ="85">By these, the truth is kept concealed.</sent>
+				<sent id ="86">For the purpose of cheating, concealing the truth to keep silence is also a lie.</sent>
+				<sent id ="87">To attain the truth, the falsehood should be abandoned.</sent>
+				<sent id ="88">5 Alcohol, wine, ganja and opium which destroy the sense-power of the human beings and make them drunken, such intoxicating drinks should be avoided.</sent>
+				<sent id ="89">A drunkard is like a mad man.</sent>
+				<sent id ="90">Properties are ruined.</sent>
+				<sent id ="91">Due to want of money he is engaged in terrorism and other wrong deeds.</sent>
+				<sent id ="92">These are the main obstacles to build a healthy and nice family and society.</sent>
+				<sent id ="93">It is not proper for the monks and Samaneras to take food in the afternoon.</sent>
+				<sent id ="94">It is harmful for the vigilent ascetic.</sent>
+				<sent id ="95">The awakefulness of the meditative person does not remain.</sent>
+				<sent id ="96">It creates obstruction to acquire his goal.</sent>
+				<sent id ="97">Observing dancing, singing and playing on musical intruments etc. with invigilate mind decays the duties of Samanera and increases tile attraction to the worldly life.</sent>
+				<sent id ="98">Wearing-of garlands, use of cosmetics and dressed in ornaments increase the beauty of the body.</sent>
+				<sent id ="99">The real appearance of the body remains covered.</sent>
+				<sent id ="100">There arises a tendency for the worldly pleasures.</sent>
+				<sent id ="101">There arises an obstacle to meditate on impermanence.</sent>
+				<sent id ="102">The outer beauty attracts the human beings.</sent>
+				<sent id ="103">High seats and comfortable beds obstruct monks and Samaneras in their efforts.</sent>
+				<sent id ="104">There remains no encouragement in their duties fit to be done.</sent>
+				<sent id ="105">The ascetac is deprived of the fruits of his efforts.</sent>
+				<sent id ="106">Gold and silver, money and coins are the causes of enjoyment.</sent>
+				<sent id ="107">By this greed, hatred and ignorance increase.</sent>
+				<sent id ="108">Money is the root of evils.</sent>
+				<sent id ="109">Virtue is the real wealth.</sent>
+				<sent id ="110">Monks and Samaneras depend on the begging of alms-food.</sent>
+				<sent id ="111">Their livelihood depends on others.</sent>
+				<sent id ="112">They have no moveable immoveable properties.</sent>
+				<sent id ="113">The Shils are the foundations of good deeds.</sent>
+				<sent id ="114">The importance of Shils is very significant to build ethical conduct and character.</sent>
+				<sent id ="115">The Buddha has divided the Shils into four divisions according to stages.</sent>
+				<sent id ="116">They are: Panchashil, Asthashil, Dashshil and Patimokkha Shil.</sent>
+				<sent id ="117">Again, these divisions indicate the systems of the lives of the human beingis.</sent>
+				<sent id ="118">The Buddha has prescribed Panchashil or five Precepts for the householders.</sent>
+				<sent id ="119">As this is prescribed for the householders, it is also called Grihishil.</sent>
+				<sent id ="120">Panchashil is ever observeable.</sent>
+				<sent id ="121">Abstinence from killing, stealing, adultery, lying and liquor are all included in Panchashil.</sent>
+				<sent id ="122">They stay in the house with their family members and others.</sent>
+				<sent id ="123">That is, those who lead a family life are called householders.</sent>
+				<sent id ="124">Those who perfectly observe Panchashil are called Shilva upasakas and upasik-as (virtuous lay male and female disciples).</sent>
+				<sent id ="125">The Asthashil is also prescribed for the householders.</sent>
+				<sent id ="126">But there are some differences.</sent>
+				<sent id ="127">Those who lead household lives do not always observe Asthashil.</sent>
+				<sent id ="128">Only our Uposath days i.e. on the 1st, 8th, 15th and 23rd of the lunar month, they observe Asthashil.</sent>
+				<sent id ="129">As Asthashil is practised on Uposath days, it is also called Uposathashil.</sent>
+				<sent id ="130">Those who will practise Asthashil, will complete their household duties on the earlier day.</sent>
+				<sent id ="131">Next morning on the Uposath day, they take Asthashil from the monk of the vihar (monastery).</sent>
+				<sent id ="132">Taking Uposathashil, the uposathins leaving the worldly thoughts spend the day on hearing the discourses and practise meditation on friendliness (Mettabhavana).</sent>
+				<sent id ="133">At this, the observance of Asthashil becomes perfect.</sent>
+				<sent id ="134">In Buddhist countries, those who retire from their services, observe Asthashil for the remaining life.</sent>
+				<sent id ="135">The Ist, 2nd, 4th and 5th Shil of Asthashil are as like as Panchaskondha.</sent>
+				<sent id ="136">In place of 3rd Shil kamesu micchachara, Abrahmacriya is to be spoken.</sent>
+				<sent id ="137">But the uposathins who observe Uposthashil, keep celibacy for the time being.</sent>
+				<sent id ="138">Legal sex for the householders is not against the rule, but in abstinence from in celibacy, there is no opportunity for that i.e. legal sex.</sent>
+				<sent id ="139">Besides these, 6th, 7th and 8th Shil of Asthashil are also included in celibacy.</sent>
+				<sent id ="140">Abstinence from eating after mid-day; dancing, singing, music and unseemly shows; and using garlands, perfumes, unguents.</sent>
+				<sent id ="141">these three Shils also are to be practised by those who have renounced their family lives.</sent>
+				<sent id ="142">Dashashil has to be practised mandatorily by those who renounce the world to become monk and learn Dharma-Vinay.</sent>
+				<sent id ="143">He is known as Sramanera or novice.</sent>
+				<sent id ="144">Sramanera means a learner who learns from a teacher.</sent>
+				<sent id ="145">For this reason the Sramaneras must observe Dashashil daily.</sent>
+				<sent id ="146">The last Shil i.e. 10th. Shil of the Dashashil is abstinence from taking gold and silver etc.</sent>
+				<sent id ="147">Except this precept, others are as like as Asthashil.</sent>
+				<sent id ="148">But the 7th Shil of the Asthashil has been divided into two in the Dashashil.</sent>
+				<sent id ="149">As a result, the 8th Shil of Asthashil is counted as the 9th Shil of the Dashashil.</sent>
+				<sent id ="150">Gold, silver and money (Takas) are essential for the householders.</sent>
+				<sent id ="151">So, this precept is not included in the Panchashil and the Asthashil as an abstaining precept.</sent>
+				<sent id ="152">You will always practise Shil.</sent>
+				<sent id ="153">If Shil is practised; body, speech and mind are restrained.</sent>
+				<sent id ="154">Shil is the main means to build character.</sent>
+				<sent id ="155">Everybody hates the man who does not practise the Shil.</sent>
+				<sent id ="156">He has no place in the society.</sent>
+				<sent id ="157">The man who practises Shils acquires praise and honour.</sent>
+				<sent id ="158">Everywhere he is revered.</sent>
+				<sent id ="159">In real sense, the characteristic qualities of the Shilavan [who practises Shils] are called the Shil.</sent>
+				<sent id ="160">Everything in the world moves within a system.</sent>
+				<sent id ="161">For this reason, the Buddha has mentioned the Shil as discipline.</sent>
+				<sent id ="162">Rules, discipline, self sacrifice, restraint character, kindness, good behaviour constitute integrate part of the Shil.</sent>
+				<sent id ="163">Character is invaluable than wealth of a man.</sent>
+				<sent id ="164">A man of bad character takes the family and the society towards a lower state.</sent>
+				<sent id ="165">To climb to an ideal life, the practice of Shil is the most essential.</sent>
+				<sent id ="166">There is no alternative to Shils to build and develop personality, family and society.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

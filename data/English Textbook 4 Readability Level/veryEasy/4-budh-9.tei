@@ -1,0 +1,184 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-budh-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.741</idno>
+				<idno type="Number of sentences">156</idno>
+				<idno type="Number of tokens">1421</idno>
+				<idno type="Number of token types">629</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t52">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Bhagwan Buddha at first ordained five disciples to his Dharma.</sent>
+				<sent id ="2">They are called Pancavaggiya Sisya.</sent>
+				<sent id ="3">Next to them, many people became his disciples leaving their domestic life.</sent>
+				<sent id ="4">Of them, Mahakasyap, Ananda, Upali, Sariputra, Maudgalyayana are famous.</sent>
+				<sent id ="5">Those who were initiated to Buddha Dharma later were the followers.</sent>
+				<sent id ="6">Of the Bhikkhunis, there were Patacara, Sumana, Anopama, Kshema and many others.</sent>
+				<sent id ="7">Mahaprajapati Gautami made a pioneering role in establishing a Bhikkhuni Sangha.</sent>
+				<sent id ="8">Again many were initiated to the Buddhist religion without leaving their domestic life.</sent>
+				<sent id ="9">They are, for example, King Bimbisar, Ashok, Prasengit, Anathapindik, Vishakha.</sent>
+				<sent id ="10">They are the householder-disciples of Buddha.</sent>
+				<sent id ="11">The disciples and the followers of Buddha made endless contributions to spread Buddhism.</sent>
+				<sent id ="12">Every one of them was good-natured, virtuous and generous.</sent>
+				<sent id ="13">They taught people kindness, restraint, discipline and generosity.</sent>
+				<sent id ="14">Reading their biographies, one can be a man of good character.</sent>
+				<sent id ="15">The path of truth can be followed.</sent>
+				<sent id ="16">If one follows the ideals of great persons, one's life becomes nice and successful.</sent>
+				<sent id ="17">Brief accounts about some of the disciples and the followers of Buddha are given below.</sent>
+				<sent id ="18">During the time of Padumuttar Buddha, Thero Anuruddha was born in a rich family.</sent>
+				<sent id ="19">He performed many charitable deeds.</sent>
+				<sent id ="20">Padumuttar Buddha blessed him for fulfillment of his desires.</sent>
+				<sent id ="21">Later he was born in Baranasi during the time of Kasyapa Buddha.</sent>
+				<sent id ="22">He went round the Chaitya (monument) the whole night.</sent>
+				<sent id ="23">For this great virtue he was born in the Devaloka.</sent>
+				<sent id ="24">Later he deviated from the Devaloka and was born in a poor family of Baranasi.</sent>
+				<sent id ="25">Then he was named Annabhar.</sent>
+				<sent id ="26">He served in the house of Sumana Shresthi.</sent>
+				<sent id ="27">One day he gave away all his food to a Pachchek Buddha.</sent>
+				<sent id ="28">Pachchek Buddha blessed him.</sent>
+				<sent id ="29">Shresthi Sumana requested Annabhara to give him a share of his virtue.</sent>
+				<sent id ="30">Annabhara offered him his virtue.</sent>
+				<sent id ="31">Shresthi was pleased and rewarded him with much money.</sent>
+				<sent id ="32">One day Shresthi Suman went to see the king.</sent>
+				<sent id ="33">He took Annabhara with him.</sent>
+				<sent id ="34">The king gave the virtuous person Annabhara one thousand taka.</sent>
+				<sent id ="35">He donated him land to build a house.</sent>
+				<sent id ="36">While digging the land Annabhar got much money from inside the ground.</sent>
+				<sent id ="37">The king gave him the title of DhanaShresthi.</sent>
+				<sent id ="38">He did charitable works with this money.</sent>
+				<sent id ="39">His father's name was Amitodan.</sent>
+				<sent id ="40">He was named Anuruddha.</sent>
+				<sent id ="41">He was passing his days in great happiness.</sent>
+				<sent id ="42">Amitodan built for his son three palaces in accordance with seasons.</sent>
+				<sent id ="43">Anuruddha did not like this temporary happiness in life.</sent>
+				<sent id ="44">He got himself in doctrinated.</sent>
+				<sent id ="45">He started practising meditation for Nirban to Sariputra.</sent>
+				<sent id ="46">Later he heard the explanation of Dharma by Buddha and attained Arahattahood.</sent>
+				<sent id ="47">Anuruddha did many good deeds during his life through many rebirths.</sent>
+				<sent id ="48">Charity is virtuous.</sent>
+				<sent id ="49">Virtue brings happiness in this world and the hereafter.</sent>
+				<sent id ="50">It is good to do virtuous works.</sent>
+				<sent id ="51">We also can take a lesson from the life of Anuruddha.</sent>
+				<sent id ="52">During the time of Padumuttar Buddha Vangis Thero was born in the city of Hansabati.</sent>
+				<sent id ="53">He belonged to a rich family.</sent>
+				<sent id ="54">He built many Bihars and donated them to Buddha.</sent>
+				<sent id ="55">He was born in a Brahmin family in Shravasti during the time of Gautam Buddha.</sent>
+				<sent id ="56">He was good at Trived.</sent>
+				<sent id ="57">He learnt the Macca Shira spell from a teacher.</sent>
+				<sent id ="58">Having learnt this verse, the Brahmin travelled to many places at home and abroad.</sent>
+				<sent id ="59">He was attracted by the virtues of Buddha and wanted to go to him.</sent>
+				<sent id ="60">His father said, If you go there, Sraman Gautam will bind you with his illusion.</sent>
+				<sent id ="61">So you must not go there.</sent>
+				<sent id ="62">He did not obey his father and went to Buddha.</sent>
+				<sent id ="63">Buddha said, Vangis, do you know any art?</sent>
+				<sent id ="64">Vangis replied, I know the MaccaShira verse.</sent>
+				<sent id ="65">Then Buddha brought three heads of dead men to test him.</sent>
+				<sent id ="66">But he could say nothing about the third head which attained Nirban.</sent>
+				<sent id ="67">Buddha said, Vangis, you cannot tell anything about the third head.</sent>
+				<sent id ="68">Vangis wanted to learn the verse of the third head.</sent>
+				<sent id ="69">Buddha said, Get initiated.</sent>
+				<sent id ="70">I shall teach you verses.</sent>
+				<sent id ="71">Vangis thought, I will earn fame in the world by learning all the spells.</sent>
+				<sent id ="72">Vangis prayed to Buddha for Prabrajya.</sent>
+				<sent id ="73">Negrodha Kappa initiated him by the order of Buddha.</sent>
+				<sent id ="74">He attained Arahattahood very soon.</sent>
+				<sent id ="75">Vangis recited many verses.</sent>
+				<sent id ="76">Those verses are full of morals.</sent>
+				<sent id ="77">He said- friendly words are good words.</sent>
+				<sent id ="78">Never be repentant by saying unpleasant words to anybody.</sent>
+				<sent id ="79">Don't cause troubles to others.</sent>
+				<sent id ="80">Always speak nice words.</sent>
+				<sent id ="81">True speech and pleasant words are sweet words.</sent>
+				<sent id ="82">Mahaprajapati Gautami was born in a royal family in the city of Devadaha.</sent>
+				<sent id ="83">She was the younger sister of Mahamaya, the mother of Siddhartha.</sent>
+				<sent id ="84">King Suddhodana married both the sisters.</sent>
+				<sent id ="85">Mahamaya died seven days after Siddhartha was born.</sent>
+				<sent id ="86">Mahaprajapati took over the responsibility of bringing up Siddhartha on her own.</sent>
+				<sent id ="87">She was Nanda's mother.</sent>
+				<sent id ="88">She gave her own son to a midwife to look after.</sent>
+				<sent id ="89">When Buddha was staying in Bashali, the king Suddhadon died.</sent>
+				<sent id ="90">After the death of King Suddhodan, Mahaprajapati Gautami took a vow to leave domestic life.</sent>
+				<sent id ="91">She was waiting for permission of Buddha.</sent>
+				<sent id ="92">Buddha came to Kapilabastu for a settlement of the dispute.</sent>
+				<sent id ="93">Mahapajapati Gautami went to Buddha with five hundred Sakya women.</sent>
+				<sent id ="94">She sought permission of the Tathagata Buddha to the Bhikkhuni-vow.</sent>
+				<sent id ="95">Buddha did not give them permission and left for Bashali.</sent>
+				<sent id ="96">Buddhist Religious Studies98 Mahaprajapati Gautami was not disheartened.</sent>
+				<sent id ="97">She went to Baishali with her five hundred followers.</sent>
+				<sent id ="98">She again requested him for the Bhikshuni-vow.</sent>
+				<sent id ="99">Buddha refused her request again.</sent>
+				<sent id ="100">Later, with the request of his principal disciple, Buddha approved their prayer.</sent>
+				<sent id ="101">Thus the first Vikkhuni Sangha was established.</sent>
+				<sent id ="102">Gautami always advised women to be self-dependent.</sent>
+				<sent id ="103">She herself prepared thread, wove it into clothes and gave it away to the Bhikkhu-Sangha.</sent>
+				<sent id ="104">Throughout her life, she tried hard for the welfare of womankind.</sent>
+				<sent id ="105">She composed many verses in memory Buddha's virtues.</sent>
+				<sent id ="106">Gautami attained Arahattahood (the fruition of holiness) in a short time.</sent>
+				<sent id ="107">Buddha ordained her as the leader of the Theris.</sent>
+				<sent id ="108">The lives of 73 Bhikkhunis have been described in the Therigatha of the Tripitak.</sent>
+				<sent id ="109">Of them, the position of Mahaprajapati Gautami is on the top.</sent>
+				<sent id ="110">She lived 120 years.</sent>
+				<sent id ="111">Krisa Gautami was born in a poor family.</sent>
+				<sent id ="112">In Shravasti, forty four crore gold coins of a Shresthi was burnt into ashes.</sent>
+				<sent id ="113">When Krisa Gautami touched the ashes, it again turned into gold.</sent>
+				<sent id ="114">Shresthi was pleased and took the poor girl as her daughter-in-law.</sent>
+				<sent id ="115">After some days, Krisa Gautami gave birth to a male child.</sent>
+				<sent id ="116">It died in its childhood.</sent>
+				<sent id ="117">Bhagwan Buddha was then staying at Shravasti.</sent>
+				<sent id ="118">Krisa Gautami thought that Buddha has much power.</sent>
+				<sent id ="119">She went to Buddha with her dead son in her arms.</sent>
+				<sent id ="120">Buddha said, Bring a handful of mustard-seeds from a house where none died.</sent>
+				<sent id ="121">Krisa Gautami went from door to door for mustard-seeds.</sent>
+				<sent id ="122">But she could not find any family where none had died.</sent>
+				<sent id ="123">She realized that the number of dead is more than the living.</sent>
+				<sent id ="124">At this, her sorrows were relieved much.</sent>
+				<sent id ="125">Buddha asked, Have you got mustard-seeds for your dead son?</sent>
+				<sent id ="126">In reply Krisa Gautami said, Bhante, I didnt have mustard- Buddhist Religious Studies100 seeds.</sent>
+				<sent id ="127">Buddha said, Man is mortal.</sent>
+				<sent id ="128">Once born, one must die.</sent>
+				<sent id ="129">After hearing the advice of Bhagwan Buddha, Krisa Gautami attained Sotapatti Phal.</sent>
+				<sent id ="130">Then she was known as Theri after she had received initiation (Upasampada).</sent>
+				<sent id ="131">Ashok was the prince of Vindusar, a king of the Mourya dynasty.</sent>
+				<sent id ="132">He was very cruel in his early life.</sent>
+				<sent id ="133">Once King Vindusar sent him to conquer Kalinga.</sent>
+				<sent id ="134">He won the battle.</sent>
+				<sent id ="135">More than one lakh people were killed in this battle.</sent>
+				<sent id ="136">Many people were wounded.</sent>
+				<sent id ="137">This heart-rending scene of the battle shocked him.</sent>
+				<sent id ="138">Suddenly a change came over in his mind.</sent>
+				<sent id ="139">He was then attracted to Buddhism by its benevolence and amity.</sent>
+				<sent id ="140">He was initiated to Buddhism by Nagrodha Shramana.</sent>
+				<sent id ="141">From then on, he never fought for conquering any country.</sent>
+				<sent id ="142">He determined to conquer the enemy with love.</sent>
+				<sent id ="143">He sacrificed the rest of his life to establish peace in the world.</sent>
+				<sent id ="144">He appointed Dharmamahapatra to propagate the Dharma among the common people.</sent>
+				<sent id ="145">They propagated the Dharma from country to country.</sent>
+				<sent id ="146">During the reign of Ashok, a Buddha convention was held in Pataliputra.</sent>
+				<sent id ="147">He made all sorts of assistance to it.</sent>
+				<sent id ="148">It is known as the third Bouddha Sangiti.</sent>
+				<sent id ="149">He made his son Mahendra and daughter Sanghamitra to be initiated to Buddhism.</sent>
+				<sent id ="150">He sent them very far to Singhal.</sent>
+				<sent id ="151">Emperor Ashok himself visited many holy places.</sent>
+				<sent id ="152">Wherever he went, he built monuments.</sent>
+				<sent id ="153">Those are known as the Ashok Pillars.</sent>
+				<sent id ="154">He was generous to all religions.</sent>
+				<sent id ="155">He donated to all generously.</sent>
+				<sent id ="156">People belonging to all religions lived happily in his kingdom.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

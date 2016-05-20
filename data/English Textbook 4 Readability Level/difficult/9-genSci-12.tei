@@ -1,0 +1,171 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-genSci-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.068</idno>
+				<idno type="Number of sentences">143</idno>
+				<idno type="Number of tokens">1882</idno>
+				<idno type="Number of token types">659</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t59">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We live in a world of sounds.</sent>
+				<sent id ="2">We hear many kinds of sounds after our birth.</sent>
+				<sent id ="3">The sounds are of various nature and type.</sent>
+				<sent id ="4">They are bird's chattering, noise of motor, bus and car, roaring of aeroplane, thunders of cloud, horns of car, siren of mills and factories, hawker's cry etc.</sent>
+				<sent id ="5">But what is sound?</sent>
+				<sent id ="6">Sound is simply a kind of energy.</sent>
+				<sent id ="7">This energy, produced by the vibration of a body spreads through an elastic, continuous medium in the form of wave and produces sensation of hearing in our ear.</sent>
+				<sent id ="8">We all want to know how the various sounds of our surroundings are produced and heard.</sent>
+				<sent id ="9">Source of sound: Sound is heard instantly after striking a metal object.</sent>
+				<sent id ="10">In your school, round metal bell gives sound as soon as it is hit by a hammer.</sent>
+				<sent id ="11">Have you ever touched it with hand?</sent>
+				<sent id ="12">Touch it and you will feel its vibration.</sent>
+				<sent id ="13">The vibration decreases and the intensity of sound becomes low.</sent>
+				<sent id ="14">Pressing the bell with hand ceases the vibration and sound stops immediately.</sent>
+				<sent id ="15">Take a cup of bell metal and strike it, the same thing happens; the cup vibrates and sound comes out.</sent>
+				<sent id ="16">So we can say that source of sound is the vibration of an object.</sent>
+				<sent id ="17">How does this sound come to our ear?</sent>
+				<sent id ="18">A vibrating body disturbs the air with it.</sent>
+				<sent id ="19">This disturbance in the air spreads in the form of a wave and rapidly goes in all direction.</sent>
+				<sent id ="20">Air disturbance reaching our ear vibrates similarly our ear diaphragm.</sent>
+				<sent id ="21">Sensation of hearing is produced in ear and we hear the sound.</sent>
+				<sent id ="22">Let us do some experiment to show that vibration creates sound.</sent>
+				<sent id ="23">Experiment I: Take a tuning fork.</sent>
+				<sent id ="24">Suspen a pith ball in such a way so that it touches an arm of the tuning fork.</sent>
+				<sent id ="25">Hit the arm by a paded hammer.</sent>
+				<sent id ="26">The tuning fork vibrates and sound comes out of it.</sent>
+				<sent id ="27">You will see also that as the pith ball touches the vibrating arm again and again it goes away from it.</sent>
+				<sent id ="28">Now hold the arm, the vibration stops.</sent>
+				<sent id ="29">The ball stops too and the sound ceases also.</sent>
+				<sent id ="30">So it is concluded that vibration of a body produces sound and the vibrating body is the source of sound.</sent>
+				<sent id ="31">How does a man make sounds: There are two light diaphragms like reverse V called vocal chord in human voice machine.</sent>
+				<sent id ="32">There is a narrow hole in the vocal chord known as voice hole.</sent>
+				<sent id ="33">At the time of talking, air from lung goes to mouth and nose through voice hole.</sent>
+				<sent id ="34">As a result, vibration in vocal chord starts and sound is produced.</sent>
+				<sent id ="35">By the compression and expansion of the muscle attached to the vocal chord, projected pressure on it is controlled and thus the frequency of sound is altered at will.</sent>
+				<sent id ="36">Thus sound of different tune is produced.</sent>
+				<sent id ="37">Vocal chords of women and children are short and narrow than that of a man.</sent>
+				<sent id ="38">That is why their vocal chords vibration per second is greater than that of a man.</sent>
+				<sent id ="39">As such their voice is high pitched and shrill.</sent>
+				<sent id ="40">Classification of sound: It is understood from the above discussion that rate of vibration differs from man to man.</sent>
+				<sent id ="41">If your vocal chords vibrate between 20 to 20,000 times per second while you are speaking, your friend and others will hear you.</sent>
+				<sent id ="42">The sound produced is called audible sound.</sent>
+				<sent id ="43">The sound produced by vibration less than 20 per second will not be heard.</sent>
+				<sent id ="44">The sound produced is known as infrasonic.</sent>
+				<sent id ="45">The sound that is produced by vibration more than 20,000 per second will also not be heard.</sent>
+				<sent id ="46">It is called ultrasonic sound.</sent>
+				<sent id ="47">Mechanism of sound transmission in air : Transmission of sound requires a continuous elastic medium.</sent>
+				<sent id ="48">How sound is transmitted through air can be understood by the discussion given below.</sent>
+				<sent id ="49">Say, a tuning fork is vibrating in air (Fig13.2) and sound produced is transmitting from one place to another.</sent>
+				<sent id ="50">Let us consider the vibration of right arm of the fork.</sent>
+				<sent id ="51">While going right it pushes adjoined air layer continuously.</sent>
+				<sent id ="52">As a result, layer on the right is compressed.</sent>
+				<sent id ="53">Again, when the arm comes back towards left the above air layer is expanded.</sent>
+				<sent id ="54">So for one complete vibration of the arm the air layer once compressed and then expanded.</sent>
+				<sent id ="55">Since air is a continuous and elastic medium the vibration of the arm of the fork transmits the compression and expansion from one layer to another layer next.</sent>
+				<sent id ="56">The process continues as long as the vibration is there.</sent>
+				<sent id ="57">Thus sound wave produced by the vibration of the tuning fork hits our ear drum and sensation of hearing is detected by the brain.</sent>
+				<sent id ="58">The above discussion tells us that sound travels through air medium.</sent>
+				<sent id ="59">Not only through air, sound can go through liquid, solid and any other gas medium too.</sent>
+				<sent id ="60">But it can not go without a medium.</sent>
+				<sent id ="61">Therefore, on moon surface astronauts used radio to talk, as there is no atmosphere on the surface of the moon.</sent>
+				<sent id ="62">By some simple experiment you can understand about sound transmission through solid and liquid.</sent>
+				<sent id ="63">In a pond of water you and your friend can do this experiment.</sent>
+				<sent id ="64">Give your friend a bell and a hammer.</sent>
+				<sent id ="65">Both you and your friend go into the pond and dive together some distance apart.</sent>
+				<sent id ="66">If your friend hits the bell you will hear the sound clearly.</sent>
+				<sent id ="67">This proves that sound travels through water.</sent>
+				<sent id ="68">Take a mechanical watch whose tick sound can not be heard from a distance.</sent>
+				<sent id ="69">Place the watch at one side of a table.</sent>
+				<sent id ="70">Try to hear it from the other side.</sent>
+				<sent id ="71">Tick is not heard.</sent>
+				<sent id ="72">Now try to hear it touching your ear with the table.</sent>
+				<sent id ="73">You will hear it.</sent>
+				<sent id ="74">Why do you hear now?</sent>
+				<sent id ="75">Because the sound carried by the solid wood of the table reaches your ear.</sent>
+				<sent id ="76">So, you understand sound goes through solid.</sent>
+				<sent id ="77">Velocity of sound : In rainy days flash of lightning in the sky, we hear sound of thundering.</sent>
+				<sent id ="78">We see the flash first then a loud sound why is this?</sent>
+				<sent id ="79">Although the two incidents happen at the sametime at the same place.</sent>
+				<sent id ="80">Light moves very fast.</sent>
+				<sent id ="81">It takes very happen no time to reach us.</sent>
+				<sent id ="82">But sound takes longer time and reaches after a significant instant of time.</sent>
+				<sent id ="83">This time is countable.</sent>
+				<sent id ="84">So you understand now that sound travels with a definite velocity.</sent>
+				<sent id ="85">The distance which a sound covers in one second is called the velocity of sound.</sent>
+				<sent id ="86">The velocity of sound depends on the density and temperature of the medium.</sent>
+				<sent id ="87">It has been found by experiment that sound travels in air 332 metre per second;</sent>
+				<sent id ="88">its rate of traveling distance increases by 0.6 metre for rise of each degree of celcius temperature.</sent>
+				<sent id ="89">Thus velocity of sound becomes 350 metre per second when temperature of air rises to 300C.</sent>
+				<sent id ="90">Again in wet air velocity of sound increases as wet air has lower density.</sent>
+				<sent id ="91">For this in cloudy days distant sound can be heard.</sent>
+				<sent id ="92">Velocity of sound in liquid is greater than that in gas.</sent>
+				<sent id ="93">The velocity of sound is still greater in solid.</sent>
+				<sent id ="94">In water the velocity is 1440 metre/second.</sent>
+				<sent id ="95">In wood it is about 12 times greater and in steel about 15 times more than in gas.</sent>
+				<sent id ="96">The velocity of sound depends also on the elasticity of the medium.</sent>
+				<sent id ="97">Velocity of sound increases as elasticity of the medium increases.</sent>
+				<sent id ="98">It decreases as density increases.</sent>
+				<sent id ="99">Determination of velocity of sound: You and your friend can determine velocity of sound.</sent>
+				<sent id ="100">Go up to two hills a few kilometers apart.</sent>
+				<sent id ="101">Take each one of you a gun and a stop watch.</sent>
+				<sent id ="102">Say, your friend fired the gun and you start your stopwatch as soon as you see the smoke of firing and wait for the sound to hear.</sent>
+				<sent id ="103">When you hear the sound, stop the watch.</sent>
+				<sent id ="104">From the recorded time calculate the desired velocity.</sent>
+				<sent id ="105">Thus velocity of sound is the distance between the hills divided by time.</sent>
+				<sent id ="106">Wind current may not give you a good result as sound travels more in favour of wind flow and less against the wind flow.</sent>
+				<sent id ="107">The result will improve if you repeat the experiment where you will fIre the gun and your friend will measure the time.</sent>
+				<sent id ="108">Take the mean of the two values.</sent>
+				<sent id ="109">The experimental value obtained may be influenced by the personal skill.</sent>
+				<sent id ="110">This can be avoided by recording time electrically.</sent>
+				<sent id ="111">Sample problem: The sound of thundering in cloud is heard 5.5 second after the flash of light.</sent>
+				<sent id ="112">If the temperature is 300C, how high is the cloud?</sent>
+				<sent id ="113">Echo: When sound is obstructed by a solid plane like wall, hill, tall building it comes back.</sent>
+				<sent id ="114">This is known as reflection of sound and this reflection causes echo, the repetition of original sound.</sent>
+				<sent id ="115">Say, you are clapping hand standing near a tall building.</sent>
+				<sent id ="116">The sound reflects and comes back i.e. produces echo.</sent>
+				<sent id ="117">Its coming back depends upon how far the building is from you.</sent>
+				<sent id ="118">If the reflected sound comes back after a time of 0.1 second, only then you are able to hear it separately from the original one.</sent>
+				<sent id ="119">Because the sensation of original sound will adhere to your ear for 0.1 second.</sent>
+				<sent id ="120">You will not be able to hear any sound separately if any sound comes to you with in 0.1 sec.</sent>
+				<sent id ="121">or th of a second.</sent>
+				<sent id ="122">The rumbling sound of cloud is heard due to echo of sound by cloud layers.</sent>
+				<sent id ="123">More than one reflected sound comes to your ear after 0.1 second and it causes the rumbling.</sent>
+				<sent id ="124">In dry air the sound has a velocity 332 metre/second; so it goes 33.2 metre in 0.1 second.</sent>
+				<sent id ="125">Then if the reflector stays away a distance of 16.6 metre echo is heard because only then 0.1 second passes away in going to (16.6m) and coming back (16.6m)</sent>
+				<sent id ="126">When people speak in a large hall room reverberating sound is heard.</sent>
+				<sent id ="127">Sound of speakers lingers after they finish their talking.</sent>
+				<sent id ="128">This is due to reflection of sound by the wall of the hall.</sent>
+				<sent id ="129">This is inconvenient too as sound is not heard clearly.</sent>
+				<sent id ="130">So soft and rough objects are used to stop reflection and thus minimising undue sound.</sent>
+				<sent id ="131">Now-a- days new technic for sound absorption is used.</sent>
+				<sent id ="132">Use of sound echo: By the use of reflection of sound depth of ocean, depth of well is determined and existence of minerals can be established.</sent>
+				<sent id ="133">Determination of the depth of a sea: Notice the figure no.</sent>
+				<sent id ="134">13.Here T is a sound sending transmitter.</sent>
+				<sent id ="135">It sends sound to the bottom of the sea o, where sound is reflected.</sent>
+				<sent id ="136">The reflected sound is taken by hydrophone situated at near T. Electronic clock records the time between sending and receiving of sound.</sent>
+				<sent id ="137">Detection of mineral : To search minerals under earth surface geologists explode deep below the earth's surface and send sound waves.</sent>
+				<sent id ="138">The sound then travels to different rock layers and come back after reflection.</sent>
+				<sent id ="139">The reflected sound wave is taken by hydrophone which by an electrical system in it, record echo graphically.</sent>
+				<sent id ="140">Studying these graphs they know about the position and nature of rock layer under earth surface.</sent>
+				<sent id ="141">The ear ring of Jarina Begum fell into the well during the time of raising water carelessly.</sent>
+				<sent id ="142">She took attempt to measure the depth of the well.</sent>
+				<sent id ="143">It was found by calculation that 0.1 second was required to hear the echo of the sound.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

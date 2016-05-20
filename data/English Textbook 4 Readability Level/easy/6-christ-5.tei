@@ -1,0 +1,116 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-christ-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.516</idno>
+				<idno type="Number of sentences">88</idno>
+				<idno type="Number of tokens">994</idno>
+				<idno type="Number of token types">479</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t76">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Earth and sky listen to what I am saying, The children I brought up have rebelled against me.</sent>
+				<sent id ="2">The Lord want the people of each country of the world carry out His order and instruction.</sent>
+				<sent id ="3">That they should lead their lives according to the teachings of their own religions.</sent>
+				<sent id ="4">Even when man lead morally a bad and sinful life.</sent>
+				<sent id ="5">God is patient with him, because he loves man very much.</sent>
+				<sent id ="6">He wants that man returns from evil to good, for immoral to moral and from wrong doings to good works.</sent>
+				<sent id ="7">He always wants such change in man.</sent>
+				<sent id ="8">Those who do not listen to their warnings, orders and teachings they will have endless troubles, tortures distress.</sent>
+				<sent id ="9">There are many examples in the Holy Bible.</sent>
+				<sent id ="10">God chose Isaiah as prophet to warn - and bring back the fallen Israel to the true and right path.</sent>
+				<sent id ="11">God appeared before Isaiah in a vision and warned the fallen Israel to return to the true path.</sent>
+				<sent id ="12">You understand that Isaiah is a prophet mentioned in Old Testament of the Holy Bible.</sent>
+				<sent id ="13">He was pious and holy man.</sent>
+				<sent id ="14">Most probably he was born in Jerusalem.</sent>
+				<sent id ="15">He was much dedicated to God.</sent>
+				<sent id ="16">In 740 B.C. the King Uzziah died and that very year Isaiah had vision of God.</sent>
+				<sent id ="17">One day Isaiah, standing by the temple of Jerusalem, was engaged in praying.</sent>
+				<sent id ="18">He was in deep prayers.</sent>
+				<sent id ="19">Suddenly he saw the Lord sitting on his high throne, The entire temple was filled with the bright royal robe.</sent>
+				<sent id ="20">He was surrounded by a good numbers of angels.</sent>
+				<sent id ="21">Rays of holiness was shinning around them.</sent>
+				<sent id ="22">Each The message of God is being revealed to me in the form of smoke.</sent>
+				<sent id ="23">Pure in heart, Isaiah now lifted up his head to the Lord.</sent>
+				<sent id ="24">He heard the Lord say Whom shall I send?</sent>
+				<sent id ="25">Who will be my messenger?</sent>
+				<sent id ="26">Isaiah answered, My Lord, here I am, I will go, send me.</sent>
+				<sent id ="27">No angel had six wings.</sent>
+				<sent id ="28">They covered their face with two wings and their feet with two wings.</sent>
+				<sent id ="29">And they used the other two wings to fly.</sent>
+				<sent id ="30">Isaiah heard the angels sing to God in a loud voice.</sent>
+				<sent id ="31">Holy, holy, holy!</sent>
+				<sent id ="32">The Lord Almighty is holy!</sent>
+				<sent id ="33">His glory fills the world.</sent>
+				<sent id ="34">The entire temple shook with the psalm prayer of the angels.</sent>
+				<sent id ="35">The stone under Isaiah's feet and the wooden fixture of the temple shook and the temple was filled with smoke.</sent>
+				<sent id ="36">Isaiah was as if dry wood in fear.</sent>
+				<sent id ="37">He very humbly thought I am worthless sinner, an ordinary man.</sent>
+				<sent id ="38">I am not worthy to stand before the Holy Lord.</sent>
+				<sent id ="39">My lips are impure and sinful and my people Israel are also sinner.</sent>
+				<sent id ="40">How can I pronounce the name of the great Lord?</sent>
+				<sent id ="41">Isaiah asked How long will I do this work, Lord?</sent>
+				<sent id ="42">That is so long you will live you will give them my message and warn them.</sent>
+				<sent id ="43">How are life and soul?</sent>
+				<sent id ="44">Have I committed sins by my word, deed and negligence?</sent>
+				<sent id ="45">My arrogance and ill-manners have hurt others and so on.</sent>
+				<sent id ="46">They are creating so much unrest in the country.</sent>
+				<sent id ="47">No, things cannot be like this.</sent>
+				<sent id ="48">Teach me to be more modest and polite.</sent>
+				<sent id ="49">Teach me to listen to you and respect you and to work for the people.</sent>
+				<sent id ="50">I raise my body, mind and soul for you.</sent>
+				<sent id ="51">All the praise and glory be for the heavenly Lord.</sent>
+				<sent id ="52">They have abandoned their holiest Lord and have gone astray.</sent>
+				<sent id ="53">This is why destruction and unrest prevail in this country and foreign enemies taking this opportunity to burn your city.</sent>
+				<sent id ="54">Yet the Lord is protecting some people in Jerusalem.</sent>
+				<sent id ="55">Otherwise your conditions might have been like Sodom and Gomora.</sent>
+				<sent id ="56">Because even now your hands are stained with blood of murderers.</sent>
+				<sent id ="57">Your body and mind are full or sinful acts.</sent>
+				<sent id ="58">So the Lord does not accept your offerings, prayers, scripture service, increase, religious festival etc. rather He hates them.</sent>
+				<sent id ="59">So all of you be purified and return from doing wrong and ill-manners, change your mind, be perfect and forgiving.</sent>
+				<sent id ="60">You learn well-manners and justice, stand by the widows.</sent>
+				<sent id ="61">And then only the Lord will forgive you and bless you.</sent>
+				<sent id ="62">Because the Lord has said so.</sent>
+				<sent id ="63">There is a similarity between what Isaiah has said and what John the Baptist has preached.</sent>
+				<sent id ="64">Look, a young woman who is pregnant will have a son and will name him Immanuel .</sent>
+				<sent id ="65">He told his natives a great prediction.</sent>
+				<sent id ="66">That is, he predicted about the coming of Jesus before he was born and asked them to prepare for him.</sent>
+				<sent id ="67">It is not that only Isaiah predicted about Jesus.</sent>
+				<sent id ="68">Isaiah was the name of king David's father.</sent>
+				<sent id ="69">Jesus from his mother's side was the descendant of David.</sent>
+				<sent id ="70">God promised to Isreal that the saviour would be coming from David's generation.</sent>
+				<sent id ="71">Many people followed Isaiah but many others did not.</sent>
+				<sent id ="72">The spirit of the Lord will give him wisdom and the knowledge and skill to rule his people.</sent>
+				<sent id ="73">He will know the Lord's will and honour him and find pleasure in obeying him.</sent>
+				<sent id ="74">He will not judge by appearance or hearsay.</sent>
+				<sent id ="75">He warned the Israel and said, Listen now, descendant of king David.</sent>
+				<sent id ="76">It's bad enough for you to wear out the patience of men-must you wear out God's patience too?</sent>
+				<sent id ="77">By the time he is old enough to make his own decisions people will be drinking milk and eating honey.</sent>
+				<sent id ="78">The people who walked in darkness have seen a great light.</sent>
+				<sent id ="79">They lived in a land of shadows but new light is shining on them.</sent>
+				<sent id ="80">A child is born to us!</sent>
+				<sent id ="81">A son is given to us!</sent>
+				<sent id ="82">And he will be our ruler.</sent>
+				<sent id ="83">He will be called Wonderful Counselor, Mighty God.</sent>
+				<sent id ="84">Eternal Father, Prince of Peace.</sent>
+				<sent id ="85">His royal power will continue to grow; his kingdom will always be at peace.</sent>
+				<sent id ="86">Thus the great prophet pronounced about the coming of Jesus among the waiting Israels with a hope.</sent>
+				<sent id ="87">We know Jesus really was born to save the mankind.</sent>
+				<sent id ="88">Is it not?</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

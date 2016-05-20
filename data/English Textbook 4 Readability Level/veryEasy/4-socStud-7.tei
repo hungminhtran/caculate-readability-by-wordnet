@@ -1,0 +1,88 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.736</idno>
+				<idno type="Number of sentences">60</idno>
+				<idno type="Number of tokens">551</idno>
+				<idno type="Number of token types">284</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t101">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Compared with many countries of the world, the area of our country is very small.</sent>
+				<sent id ="2">A large population lives in a small country.</sent>
+				<sent id ="3">These two countries are about the same size.</sent>
+				<sent id ="4">But the population of Nepal is a little over two crores.</sent>
+				<sent id ="5">In no country of the world so many people live in so small an area.</sent>
+				<sent id ="6">But the area has remained the same as before.</sent>
+				<sent id ="7">By the density of population we mean the number of people living per square kilometre.</sent>
+				<sent id ="8">If the population increases, the density of population also increases.</sent>
+				<sent id ="9">In our country the density of population per square kilometre was 624.</sent>
+				<sent id ="10">The population of Bangladesh is increasing every day.</sent>
+				<sent id ="11">Because of the increase in population, various problems are cropping up.</sent>
+				<sent id ="12">The root of all these problems is the increase in population.</sent>
+				<sent id ="13">People have certain basic needs.</sent>
+				<sent id ="14">These are food, clothes, housing, health and education.</sent>
+				<sent id ="15">People cannot live without them.</sent>
+				<sent id ="16">We will learn about them in the table below.</sent>
+				<sent id ="17">Food With increase of the size of the family, more food is required.</sent>
+				<sent id ="18">Our parents often find it difficult to manage food for our needs.</sent>
+				<sent id ="19">As a result, we suffer from malnutrition and are attacked with diseases.</sent>
+				<sent id ="20">2.Clothes Many parents cannot afford to buy necessary clothes.</sent>
+				<sent id ="21">The children have to wear torn clothes.</sent>
+				<sent id ="22">This does not happen in a small family.</sent>
+				<sent id ="23">Housing Most families in the country suffer from poverty.</sent>
+				<sent id ="24">For this reason they cannot afford to build dwelling places.</sent>
+				<sent id ="25">They cannot even repair the old ones.</sent>
+				<sent id ="26">Many dwelling places are unhealthy.</sent>
+				<sent id ="27">All the members of the family have to live in the same house.</sent>
+				<sent id ="28">Health Most people of the country do not get the opportunity of medical treatment.</sent>
+				<sent id ="29">They suffer from various diseases.</sent>
+				<sent id ="30">Many of them die prematurely for lack of treatment.</sent>
+				<sent id ="31">Education Many children do not get the opportunity of pursuing their education.</sent>
+				<sent id ="32">In a big family parents cannot maintain it.</sent>
+				<sent id ="33">For this reason, minor children have to work to earn money.</sent>
+				<sent id ="34">As a result, roads become dirty.</sent>
+				<sent id ="35">These people respond to the call of nature and throw garbage everywhere.</sent>
+				<sent id ="36">Slum problem : Owing to poverty people come to towns for j jobs.</sent>
+				<sent id ="37">As a result, slums grow in various parts of towns.</sent>
+				<sent id ="38">These slums are dirty and unclean.</sent>
+				<sent id ="39">Many anti-social activities take place in the slums.</sent>
+				<sent id ="40">Unplanned housing : With the increase in population people build dwelling place everywhere.</sent>
+				<sent id ="41">In these dwelling places there is no sewerage system.</sent>
+				<sent id ="42">This results in polluted environment.</sent>
+				<sent id ="43">Public health suffers.</sent>
+				<sent id ="44">Transport problem : Increase in population leads to increase in traffic.</sent>
+				<sent id ="45">The smoke from motor vehicles pollutes the environment.</sent>
+				<sent id ="46">Besides, the vehicles carry extra passengers.</sent>
+				<sent id ="47">This causes accidents.</sent>
+				<sent id ="48">This makes movement along the streets risky.</sent>
+				<sent id ="49">For this reason traffic rules should be obeyed.</sent>
+				<sent id ="50">We will move about carefully.</sent>
+				<sent id ="51">Traffic stops when red lights come on.</sent>
+				<sent id ="52">We will then cross the road using the zebra crossing.</sent>
+				<sent id ="53">We will always use pavements or sides of the road.</sent>
+				<sent id ="54">If necessary, we will take the help of the traffic policeman.</sent>
+				<sent id ="55">As a result theft, robbery, mugging, murders, etc. go up.</sent>
+				<sent id ="56">The law and order situation iris worse.</sent>
+				<sent id ="57">With the increase in population, various types of problems are If being created.</sent>
+				<sent id ="58">The development of the country is being hampered.</sent>
+				<sent id ="59">To solve these problems, it is necessary to keep the population down.</sent>
+				<sent id ="60">We will be conscious about it.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

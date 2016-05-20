@@ -1,0 +1,109 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-bdGlobal-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.942</idno>
+				<idno type="Number of sentences">81</idno>
+				<idno type="Number of tokens">1147</idno>
+				<idno type="Number of token types">461</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t94">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Two-hundred years of British rule in Bangladesh is known as colonial age.</sent>
+				<sent id ="2">Apart from this, we had to live under Pakistani colonial rule for another two decades.</sent>
+				<sent id ="3">A good number of splended buildings and other archaeological sites were built in this country during the British rule.</sent>
+				<sent id ="4">The meaning of Archaeology is old or ancient.</sent>
+				<sent id ="5">By archaeological resource we mean the old settlement and artistic work, Statue or Sculpture, Ornament, Coins of ancient period and old valuable furniture.</sent>
+				<sent id ="6">We can get an idea of socio-cultural condition, life style, beliefs and superstitions, taste and outlook of the people of that age through these sites.</sent>
+				<sent id ="7">Among the archaeological works of Dhaka city during colonial age are a good number of mosques, temples and churches.</sent>
+				<sent id ="8">The mosques of Dhaka were built according to the Mughal artistic pattern.</sent>
+				<sent id ="9">A trace of European pattern was also added to it.</sent>
+				<sent id ="10">The artistic and structural works of these mosques is very beautiful.</sent>
+				<sent id ="11">Choni tikar mosque at Laximi bazaar is another site of artistic work.</sent>
+				<sent id ="12">The Imambara Hossainnee Dalan of the Sikhs damaged by earthquake was built a new during the English rule.</sent>
+				<sent id ="13">A good number of churches were built at Dhaka during 18-19th century.</sent>
+				<sent id ="14">The Armanian church is the oldest of them.</sent>
+				<sent id ="15">This was established at Armanitola in 1781 A.D.</sent>
+				<sent id ="16">The Saint Thomas Anglican church and the Holy Cross church were established at Dhaka in 19th century.</sent>
+				<sent id ="17">Bahadur Shah Park, located at Sadarghat near Jangannath University is another archeological site of old Dhaka.</sent>
+				<sent id ="18">Nawab Abdul Gani of Dhaka built this park in the middle of 19th century.</sent>
+				<sent id ="19">He named this park Victoria park after the name of Queen Victoria.</sent>
+				<sent id ="20">Befor this, the name of this place was Antaghar Moydan.</sent>
+				<sent id ="21">The History of first Indian Independence war of 1858 A.D. is related with the name of Antaghar Moydan.</sent>
+				<sent id ="22">The local soldiers of the British army revolted against the British and started independence war in 1857 A.D.</sent>
+				<sent id ="23">To the English, this was Sepoy mutiny.</sent>
+				<sent id ="24">The Indian soldiers could not win the battle.</sent>
+				<sent id ="25">The English hanged the rebel soldiers who became captive at their hands.</sent>
+				<sent id ="26">The hanging was executed at this Antarghar moydan by hanging the captives in the trees.</sent>
+				<sent id ="27">A memorial was built at this place in 1957 A.D. after one hundred years of this incident.</sent>
+				<sent id ="28">This memorial was built in memory of the hanged soldiers.</sent>
+				<sent id ="29">The Park was named Bahadur Shah Park after the name of Bahadur Shah Jafar, the last mughal emperor of India.</sent>
+				<sent id ="30">The palace Ahasan Monjil built by the Nawab of Dhaka on the river Buriganga is another famous sight among the ancient archaeological works of Dhaka.</sent>
+				<sent id ="31">Besides, Ruplal house and the Rose Garden of old Dhaka built by the Zamindars and the merchants are also other beautiful archaeological sites.</sent>
+				<sent id ="32">The Curzon Hall is the most beautiful of all buildings built at Dhaka as office and home.</sent>
+				<sent id ="33">This building built during the British rule has been a part of science faculty of Dhaka University for a long time.</sent>
+				<sent id ="34">The old High court building was also established during the British rule.</sent>
+				<sent id ="35">Sonargaon was the Capital of Bengal during the Sultani period.</sent>
+				<sent id ="36">The importance of Sonargaon declined during the next mughal period.</sent>
+				<sent id ="37">But even then, this place had a reputation as a trade centre and for the manufacture of Muslin Saree.</sent>
+				<sent id ="38">Many of the rich business men selected the Panam area of Sonargaon as their dwelling place during the 19th century.</sent>
+				<sent id ="39">They built many buildings in a row in both sides of the panam main road.52 buildings of this type still exist at Panam town.</sent>
+				<sent id ="40">The buildings are beautifully arranged on both sides of the wide road.</sent>
+				<sent id ="41">31 buildings are on the north side and 21 buildings are on the south side of the road.</sent>
+				<sent id ="42">Meanwhile, some of them have been damaged.</sent>
+				<sent id ="43">The inhabitants of Panam dug canals on all the four sides of the buildings to ensure the security of the area.</sent>
+				<sent id ="44">European architectural design was maintained in the construction of these buildings built during the British Period.</sent>
+				<sent id ="45">The touch of mughal architecture is also visible in these buildings.</sent>
+				<sent id ="46">Colour mosaic was used in these buildings.</sent>
+				<sent id ="47">Some beautiful buildings still exist around panam.</sent>
+				<sent id ="48">The local Zamindars and the businessmen established these buildings.</sent>
+				<sent id ="49">Among them, Sardar House, the house of Ananda mohan puddar and the house of Hasimoy Sen are proninent.</sent>
+				<sent id ="50">Sardar Bari or big Sardar bari has now been converted into folk-culture museum.</sent>
+				<sent id ="51">This house was built in 1901 A.D. This consisted of two big buildings.</sent>
+				<sent id ="52">Two buildings have been joined by a corridor or long verandah.</sent>
+				<sent id ="53">There are 70 rooms in the 2nd floor of this house.</sent>
+				<sent id ="54">The Sardar Bari has been decorated with many artistic works done in coloured mosaic.</sent>
+				<sent id ="55">There are also a few exquisite palaces and settlements in different places of Bangladesh other than Sonargaon.</sent>
+				<sent id ="56">These were built by Zamindars.</sent>
+				<sent id ="57">Shoshi lodge of Mymensingh is one of them.</sent>
+				<sent id ="58">The Zamindars of Moktagachha built this.</sent>
+				<sent id ="59">Zamindar house at Baliyati in Mankganj is another excellent site of architectural work.</sent>
+				<sent id ="60">Zamindar House of Tajhat at Rangpur is also very famous.</sent>
+				<sent id ="61">The palace of Dighapatiya Zamindar of Natore attracts every body's attention for its excellent architechture.</sent>
+				<sent id ="62">This is now known as Uttara Gono Bhaban.</sent>
+				<sent id ="63">Two palaces, one at Natore and the other at Tajhat have been preserved as the valuable archaeological sites of the country.</sent>
+				<sent id ="64">Many archaeological items collected from the archaeological works have been preserved for exhibition in the museum.</sent>
+				<sent id ="65">Looking at these archaeological resources, we can have an idea about old history and tradition of the country.</sent>
+				<sent id ="66">Our national museum is at Dhaka.</sent>
+				<sent id ="67">Besides, there are many archaeological resources at the archives of different archaeological sites.</sent>
+				<sent id ="68">Mentionable among them are the commodities and goods made of ivory used by the Maharaja of Dinajpur.</sent>
+				<sent id ="69">Many archaeological works have also been kept at some regional museums and archives for pubic exhibition.</sent>
+				<sent id ="70">Most of the archives are located at the old palace of the Zamindars.</sent>
+				<sent id ="71">Many goods used by the Zamindars and many archaeological resources collected by them are exhibited in those places.</sent>
+				<sent id ="72">There is an archive at Ahsan Manjil at Dhaka.</sent>
+				<sent id ="73">The dress, cot, chair, sofa set, ornaments and the photographic works of the Nawabs of Dhaka have been kept there.</sent>
+				<sent id ="74">A museum was established at Mymensingh town in1969AD.</sent>
+				<sent id ="75">The archaeological department of Bangladesh government runs this museum.</sent>
+				<sent id ="76">Mainly the commodities used by the Zamindars of greater Mymensingh have been kept there.</sent>
+				<sent id ="77">The archaeological resource of the Zamindars of Muktagachha are prominent in Mymensingh museum.</sent>
+				<sent id ="78">There is another archive at the palace of Zamindar of Tajhat at Rongpur.</sent>
+				<sent id ="79">Commodities used by Tajhat Zamindar, items made of burnt-clay, manusscript written in Sanskrit and Arabic have been preserved in this museum.</sent>
+				<sent id ="80">Many commodities and photographic works commemorating Rabindra Nath have been kept at the Kutibari (cottage-house) of Rabindra Nath at shilaidah in Kustia.</sent>
+				<sent id ="81">We can get an idea about the life style of the elite class from the different archaeological resources kept at museums and Archives.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

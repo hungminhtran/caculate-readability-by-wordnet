@@ -1,0 +1,124 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-sci-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.21</idno>
+				<idno type="Number of sentences">96</idno>
+				<idno type="Number of tokens">872</idno>
+				<idno type="Number of token types">384</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t25">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">All these together form our environment.</sent>
+				<sent id ="2">The teacher is teaching in the class.</sent>
+				<sent id ="3">Learners are sitting on benches and reading their books.</sent>
+				<sent id ="4">There is a play ground outside the classroom.</sent>
+				<sent id ="5">Along the boundary wall there are some big trees.</sent>
+				<sent id ="6">There is a garden at one corner of the ground.</sent>
+				<sent id ="7">All these are components of our environment.</sent>
+				<sent id ="8">Write down in your notebook what you see in the picture here.</sent>
+				<sent id ="9">In the picture we can see some huts with doors and windows.</sent>
+				<sent id ="10">These are non-living objects.</sent>
+				<sent id ="11">These objects do not take food and do not move.</sent>
+				<sent id ="12">On the other hand, hens, cows and children all move and take food.</sent>
+				<sent id ="13">They are living beings.</sent>
+				<sent id ="14">So, we see that in this environment there are living beings and non-living objects.</sent>
+				<sent id ="15">These living beings and non-living things together form our environment.</sent>
+				<sent id ="16">We see cows, goats, dogs, cats and many other animals in our surroundings.</sent>
+				<sent id ="17">They grow up from infancy to adult hood.</sent>
+				<sent id ="18">A child also grows up gradually into an adult.</sent>
+				<sent id ="19">A young bird when grows up a little, it starts flying around.</sent>
+				<sent id ="20">A tiny sapling grows into a large tree.</sent>
+				<sent id ="21">Whereas, none of the houses, bricks and stones can grow by itself.</sent>
+				<sent id ="22">Human beings, cows, goats, ducks and hens are able to move.</sent>
+				<sent id ="23">Whereas, although motor cars, rail carriages, rickshaws can move, these cannot move on their own.</sent>
+				<sent id ="24">These are driven by human beings.</sent>
+				<sent id ="25">Living beings can travel on their own but non- living things cannot do it.</sent>
+				<sent id ="26">Animals, birds and human beings eat various kinds of food.</sent>
+				<sent id ="27">Fish feeds on tiny living beings, insects, algae, etc. that live in the water.</sent>
+				<sent id ="28">Plants too take food but not the way we do.</sent>
+				<sent id ="29">Plants absorb water and different nutrient from the soil through their roots.</sent>
+				<sent id ="30">But non- living things do not take any food.</sent>
+				<sent id ="31">Birds lay eggs and young birds are hatched out from them.</sent>
+				<sent id ="32">Cats, dogs and human beings give birth to young ones.</sent>
+				<sent id ="33">New rice plant emerges from the rice seed.</sent>
+				<sent id ="34">In this manner, every animal reproduces new ones of its own kind.</sent>
+				<sent id ="35">Follow the example shown in the table-2.</sent>
+				<sent id ="36">Human beings, birds, fish, cows, goats, plants - all have life.</sent>
+				<sent id ="37">They all are living beings.</sent>
+				<sent id ="38">Human beings, cows and goats are able to move from one place to another.</sent>
+				<sent id ="39">The bird can fly.</sent>
+				<sent id ="40">But plants cannot move from one place to another.</sent>
+				<sent id ="41">We eat with our mouths.</sent>
+				<sent id ="42">Do plants take their food the same way as we do?</sent>
+				<sent id ="43">No, they don't.</sent>
+				<sent id ="44">No human beings nor any other animals can make their food of their own.</sent>
+				<sent id ="45">They depend on other plants and animals for their food.</sent>
+				<sent id ="46">Plants emerge from seeds.</sent>
+				<sent id ="47">But cats give birth to kittens and birds lay eggs.</sent>
+				<sent id ="48">This is how cats and birds reproduce.</sent>
+				<sent id ="49">They are called animals.</sent>
+				<sent id ="50">Classification of Animals There are diverse kinds of animals on earth.</sent>
+				<sent id ="51">As they differ in their appearance, they also live in different habitats.</sent>
+				<sent id ="52">They take different foods as well.</sent>
+				<sent id ="53">They are known as domestic animals.</sent>
+				<sent id ="54">The domestic animals are very useful to us.</sent>
+				<sent id ="55">We should take care of them.</sent>
+				<sent id ="56">The bird makes its nest on the trees.</sent>
+				<sent id ="57">Fish live in water.</sent>
+				<sent id ="58">The mice, fox and the earthworm live in holes in the ground.</sent>
+				<sent id ="59">The camel is a beast of the desert.</sent>
+				<sent id ="60">There are some animals who feed on leaves and creepers, grasses and fruits.</sent>
+				<sent id ="61">These animals are called herbivorous.</sent>
+				<sent id ="62">Cows, goats, sheep and the deer feed on grass and leaves.</sent>
+				<sent id ="63">The monkey eats tender leaves and fruits of trees.</sent>
+				<sent id ="64">Squirrels eat guava and custard apple and such other fruits.</sent>
+				<sent id ="65">Tigers and lions prey on other animals.</sent>
+				<sent id ="66">These animals have sharp teeth and claws.</sent>
+				<sent id ="67">They live on flesh and are called carnivorous animal.</sent>
+				<sent id ="68">Again, there are some animals which eat plants.</sent>
+				<sent id ="69">Besides, they eat fish and meat too.</sent>
+				<sent id ="70">They are called omnivorous Herbivorous Carnivorous Omnivorous animals.</sent>
+				<sent id ="71">Human beings are omnivorous animals.</sent>
+				<sent id ="72">Arrange the following animals according to their food habits in Table 4.</sent>
+				<sent id ="73">Classification of Plants Note that there are three plants in the picture below.</sent>
+				<sent id ="74">Do the three plants look alike?</sent>
+				<sent id ="75">The bermuda grass is short.</sent>
+				<sent id ="76">The rose plant is a little bigger and the banyan tree is the tallest.</sent>
+				<sent id ="77">We see various kinds of plant around us.</sent>
+				<sent id ="78">Some are small and some are large.</sent>
+				<sent id ="79">Besides, all these different plants do not grow in the same habitat.</sent>
+				<sent id ="80">Rice, mango, black berry, jackfruit trees grow in soil.</sent>
+				<sent id ="81">Does water hyacinth grow in soil?</sent>
+				<sent id ="82">Where does it grow?</sent>
+				<sent id ="83">Water lily, green algae, water spinach and water hyacinth, all these plants grow in water.</sent>
+				<sent id ="84">Therefore, it is evident that some plants grow in land and some in water.</sent>
+				<sent id ="85">Water lily is our national flower.</sent>
+				<sent id ="86">It is an aquatic plant.</sent>
+				<sent id ="87">Write down the names of four aquatic and four terrestrial plants in the table here.</sent>
+				<sent id ="88">We live on land and build our houses on it.</sent>
+				<sent id ="89">Crops grow in soil and are used as our food.</sent>
+				<sent id ="90">All plants grow in soil.</sent>
+				<sent id ="91">However, soil of all places are not of the same kind.</sent>
+				<sent id ="92">And all plants are not suited to all kinds of soil.</sent>
+				<sent id ="93">Deserts, seacoasts and river shoals contain lots of sand.</sent>
+				<sent id ="94">Amount of sand is higher in sandy soil.</sent>
+				<sent id ="95">Water melon, cucumber, muskmelon, peanut, etc. grow well in this soil.</sent>
+				<sent id ="96">Jackfruit and Gajari plants grow in clay loam soil.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

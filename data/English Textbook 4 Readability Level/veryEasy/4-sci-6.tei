@@ -1,0 +1,144 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.383</idno>
+				<idno type="Number of sentences">116</idno>
+				<idno type="Number of tokens">1149</idno>
+				<idno type="Number of token types">469</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t82">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Touch your throat with the outer side of your hand.</sent>
+				<sent id ="2">Can you feel the body temperature?</sent>
+				<sent id ="3">Stand for a few minutes in the sun and then touch your throat again.</sent>
+				<sent id ="4">What do you feel?</sent>
+				<sent id ="5">It definitely feels warmer, doesn't it?</sent>
+				<sent id ="6">Now do an experiment.</sent>
+				<sent id ="7">Put these bowls on a table.</sent>
+				<sent id ="8">Keep your hands in this position for two minutes.</sent>
+				<sent id ="9">You can certainly tell which water is hot and which one is cold.</sent>
+				<sent id ="10">Does the water feel cold?</sent>
+				<sent id ="11">What would you call this normal water - hot or cold?</sent>
+				<sent id ="12">Can you find the reason behind feeling the same water to be hot and cold?</sent>
+				<sent id ="13">First you immersed your left hand in cold water.</sent>
+				<sent id ="14">The temperature of the water was less than that of your hand.</sent>
+				<sent id ="15">Cold water has absorbed some heat from your hand.</sent>
+				<sent id ="16">Because of this, the temperature of your hand has decreased.</sent>
+				<sent id ="17">That is why the normal water felt warmer in your hand.</sent>
+				<sent id ="18">Again, you submerged your right hand in hot water first.</sent>
+				<sent id ="19">Your hand absorbed some heat from the hot water and its temperature rose.</sent>
+				<sent id ="20">As you immersed your warm right hand in the normal water, it felt cold.</sent>
+				<sent id ="21">Do you now understand why heat can make us feel hot and cold?</sent>
+				<sent id ="22">Matters absorb heat to become hot and give out heat to become cold.</sent>
+				<sent id ="23">If you keep some water in a plate in the sun, it evaporates.</sent>
+				<sent id ="24">Water changes into vapour due to the heat of the sun.</sent>
+				<sent id ="25">You have learnt the water cycle in Class III.</sent>
+				<sent id ="26">You have learnt that water is evaporated by heat.</sent>
+				<sent id ="27">Now, let us perform an experiment.</sent>
+				<sent id ="28">Take four pieces of fine cloth made of the same fibre.</sent>
+				<sent id ="29">Soak the pieces of cloth in water.</sent>
+				<sent id ="30">Which cloth will dry first?</sent>
+				<sent id ="31">The pieces that are kept in the shadows will dry later.</sent>
+				<sent id ="32">Wet clothes kept in the sun and in open air dry faster.</sent>
+				<sent id ="33">The wind quickly blows water vapour away from the clothes.</sent>
+				<sent id ="34">It helps the water in the wet clothes to evaporate quickly into the air.</sent>
+				<sent id ="35">Which one of the pieces that have been kept in the shadows dries first?</sent>
+				<sent id ="36">Do you know the reason?</sent>
+				<sent id ="37">Black or Coloured clothes have greater heat-absorption capacity than the white clothes.</sent>
+				<sent id ="38">But heat absorption capacity of black cloths is more than all other coloured cloth.</sent>
+				<sent id ="39">Temperature levels remain very high in the summer.</sent>
+				<sent id ="40">The humidity also remains high in the summer.</sent>
+				<sent id ="41">`Humidity means amount of water particles or water vapour in the air.</sent>
+				<sent id ="42">The temperature and humidity levels remain low in the winter.</sent>
+				<sent id ="43">On rainy days level of humidity goes up.</sent>
+				<sent id ="44">This means that more water vapour is present in the air on a rainy day.</sent>
+				<sent id ="45">Besides, the temperature of the air remains rather low.</sent>
+				<sent id ="46">That is why clothes do not dry fast on rainy days.</sent>
+				<sent id ="47">Sunny and windy days are more suitable for washing clothes.</sent>
+				<sent id ="48">Clothes dry faster in winter than in the rainy season.</sent>
+				<sent id ="49">Look at the following list.</sent>
+				<sent id ="50">What information is given there?</sent>
+				<sent id ="51">Study the information and decide where clothes will dry faster.</sent>
+				<sent id ="52">Why would clothes dry faster there?</sent>
+				<sent id ="53">Temperature remains low in the winter and high in the summer.</sent>
+				<sent id ="54">Why would that be possible?</sent>
+				<sent id ="55">Will you feel comfortable in a coloured dress in the summer?</sent>
+				<sent id ="56">Answer the questions based on what you have learnt from the previous experiment.</sent>
+				<sent id ="57">Do you know heat causes all types of matter to expand?</sent>
+				<sent id ="58">Take a piece of wire with a length of one meter.</sent>
+				<sent id ="59">Place the candles on plates or pieces of paper.</sent>
+				<sent id ="60">What do we understand from this?</sent>
+				<sent id ="61">Heat causes solid matter to expand.</sent>
+				<sent id ="62">When the wire cools down, it comes back to its original state.</sent>
+				<sent id ="63">Solid matter may expand very little because of heat, but it is nevertheless very important.</sent>
+				<sent id ="64">If this expansion of solid matters is ignored, it may cause a lot of accidents.</sent>
+				<sent id ="65">Many of you have seen railway tracks.</sent>
+				<sent id ="66">Railway tracks are made of steel plates.</sent>
+				<sent id ="67">Trains run on these tracks.</sent>
+				<sent id ="68">A small gap is always maintained between two adjoining track segments.</sent>
+				<sent id ="69">Can you explain the reason behind this?</sent>
+				<sent id ="70">Besides, the temperature also increases because of hot weather.</sent>
+				<sent id ="71">It causes segments of the railway tracks to expand.</sent>
+				<sent id ="72">If no gaps are kept between two segments of the tracks, the plates would bend.</sent>
+				<sent id ="73">It may result in serious accidents.</sent>
+				<sent id ="74">The circumference of the girdle is to be slightly less than that of the wheel.</sent>
+				<sent id ="75">Then how can the girdle be fitted around the wheel?</sent>
+				<sent id ="76">Yes, it is possible because solid substances expand when they are heated.</sent>
+				<sent id ="77">First, the iron girdle is heated to a very high temperature.</sent>
+				<sent id ="78">Heat expands the length of the girdle, allowing it to fit easily around the wheel.</sent>
+				<sent id ="79">The girdle contracts as it cools, and fits tightly around the wheel.</sent>
+				<sent id ="80">You can use expansion of solid matters for many other purposes.</sent>
+				<sent id ="81">Heat does not expand all matters equally.</sent>
+				<sent id ="82">For example, aluminum expands twice as much as iron.</sent>
+				<sent id ="83">Glass expands much less than other solids.</sent>
+				<sent id ="84">You have seen a thermometer which is used to measure body temperature.</sent>
+				<sent id ="85">The liquid is called mercury.</sent>
+				<sent id ="86">This shows that liquids expand when they are heated.</sent>
+				<sent id ="87">The normal temperature of human body is 34 Celsius or 98.40 Farenhite.</sent>
+				<sent id ="88">When we have a fever, our body temperature rises above the normal level.</sent>
+				<sent id ="89">So, you have now learnt through an experiment that liquids expand upon heating.</sent>
+				<sent id ="90">Now conduct an experiment in the presence of your teacher or an elder.</sent>
+				<sent id ="91">Take a bottle of water and mix some ink with it.</sent>
+				<sent id ="92">Now close the mouth of the bottle using a cork with a hole in it.</sent>
+				<sent id ="93">Insert a narrow glass tube through the cork as shown in the picture.</sent>
+				<sent id ="94">Some water will rise through the tube.</sent>
+				<sent id ="95">Mark the level of water inside the tube.</sent>
+				<sent id ="96">Seal the openings in the cork around the tube with paraffin.</sent>
+				<sent id ="97">Heat carefully using a spirit lamp or a candle.</sent>
+				<sent id ="98">Now remove the spirit lamp or candle.</sent>
+				<sent id ="99">Inflate a balloon.</sent>
+				<sent id ="100">Take some warm water in a bowl and put the balloon in it.</sent>
+				<sent id ="101">The balloon grows bigger.</sent>
+				<sent id ="102">Now take a bowl of cold water and put the balloon in it.</sent>
+				<sent id ="103">The balloon will get smaller again.</sent>
+				<sent id ="104">Why did it so happen?</sent>
+				<sent id ="105">Now do another experiment.</sent>
+				<sent id ="106">Keep the bottle in a trough of hot water or keep it in the sun.</sent>
+				<sent id ="107">After some time you will see that the balloon has grown bigger in size.</sent>
+				<sent id ="108">It shows that the air inside the balloon has expanded due to heat.</sent>
+				<sent id ="109">We use heat to press our clothes.</sent>
+				<sent id ="110">Heat is used in factories in order to dry different things.</sent>
+				<sent id ="111">Powdered spices such as chilli, coriander, turmeric etc. are available in the market.</sent>
+				<sent id ="112">At the factories these are washed, dried up by heating, and powdered.</sent>
+				<sent id ="113">Meat and fish are dried up in order to preserve them.</sent>
+				<sent id ="114">We use the expansion of matter due to heat in many ways.</sent>
+				<sent id ="115">Find out other examples like these.</sent>
+				<sent id ="116">Make a list of such uses and fill in the following table.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

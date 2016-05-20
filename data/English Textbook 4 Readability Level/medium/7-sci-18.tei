@@ -1,0 +1,144 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-18</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.981</idno>
+				<idno type="Number of sentences">116</idno>
+				<idno type="Number of tokens">1470</idno>
+				<idno type="Number of token types">497</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t62">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Science is practical oriented subject.</sent>
+				<sent id ="2">When you learn science by doing yourself, it is a joyful learning.</sent>
+				<sent id ="3">You become inquisitive to science and can learn and receive actual messages of science more clearly.</sent>
+				<sent id ="4">When you learn science by doing, the knowledge you get will be meaningful and sustainable.</sent>
+				<sent id ="5">You will get scope for observation, experimentation and drawing conclusion.</sent>
+				<sent id ="6">But this process needs laboratory, equipments and necessary chemicals.</sent>
+				<sent id ="7">But in place of a laboratory, simple experiment can be done in the class room also.</sent>
+				<sent id ="8">For completing an experiment we follow some common processes.</sent>
+				<sent id ="9">These are called common laboratory processes.</sent>
+				<sent id ="10">In this chapter you will learn about few laboratory processes for separating solutes and solvents from solutions.</sent>
+				<sent id ="11">These processes are sedimentation, filtration, evaporation, condensation, crystallization etc.</sent>
+				<sent id ="12">Separation of solutes from solution by sedimentation process.</sent>
+				<sent id ="13">Take some water in a glass beaker and add one or two spoonful of dust in it and stir well and observe the mixture.</sent>
+				<sent id ="14">What have you seen?</sent>
+				<sent id ="15">Water is turbid.</sent>
+				<sent id ="16">Can you say why the water looks turbid?</sent>
+				<sent id ="17">It looks turbid because dust is insoluble in water.</sent>
+				<sent id ="18">Now leave the beaker with the mixture on the table for some time.</sent>
+				<sent id ="19">Then observe the mixture.</sent>
+				<sent id ="20">What have you seen ?</sent>
+				<sent id ="21">All mud have accumulated at the bottom and water at the upper level looks clean and clear.</sent>
+				<sent id ="22">Now make the beaker slanting and slowly pour clear water from the top in a separate container leaving mud at the bottom of the beaker.</sent>
+				<sent id ="23">Heavy solutes mixed up with liquid, can be separated by this process.</sent>
+				<sent id ="24">The process is known as sedimentation process.</sent>
+				<sent id ="25">During sedimentation process, the pouring of clean and clear water from above the sediment is called decantation.</sent>
+				<sent id ="26">Those heavy insoluble substances settled at the bottom are called sediment.</sent>
+				<sent id ="27">In our country specially in villages, sedimentation process is applied for various purposes.</sent>
+				<sent id ="28">In rainy season river water becomes turbid because at this time insoluble mud is mixed up with water.</sent>
+				<sent id ="29">People who reside near the river, use river water for various purposes.</sent>
+				<sent id ="30">The village women collect turbid water in pitchers from the river.</sent>
+				<sent id ="31">They let the mud settle at the bottom of the pitcher and water from the top is collected by decantation process .</sent>
+				<sent id ="32">They are using sedimentation process in their every day life without knowing its name.</sent>
+				<sent id ="33">You have learnt about decantation.</sent>
+				<sent id ="34">It is a time consuming process yet the heavy materials are not completely separated.</sent>
+				<sent id ="35">It is because when the insoluble substances are very light, they never settle at the bottom, rather they remain floating.</sent>
+				<sent id ="36">So, they cannot be separated completely by decantation process.</sent>
+				<sent id ="37">In this situation filtration process is the best.</sent>
+				<sent id ="38">In filtration process unnecessary delay can be avoided for separation of insoluble substances.</sent>
+				<sent id ="39">On the other hand, fine insoluble particles can also be separated by this process.</sent>
+				<sent id ="40">In filtration process filter paper or sieve is used to separate these fine insoluble solid particles.</sent>
+				<sent id ="41">So, process of separation of fine solid insoluble substances from a liquid medium by sieving with filter paper or fine sieve is called filtration process.</sent>
+				<sent id ="42">Separation of solutes from solution by filtration process.</sent>
+				<sent id ="43">Take some water in a beaker and mix with sand.</sent>
+				<sent id ="44">Take a filter paper and fold it twice.</sent>
+				<sent id ="45">Follow the diagram and place the paper on the funnel.</sent>
+				<sent id ="46">Place a beaker under the funnel in such a way that the tube of the funnel touches the wall of the beaker.</sent>
+				<sent id ="47">Place a thin glass rod at the notch (lip) of the beaker.</sent>
+				<sent id ="48">Pour the turbid mixture from the beaker down the glass rod slowly on the filter paper.</sent>
+				<sent id ="49">You will see clear water flowing down the funnel tube to the beaker placed under the funnel.</sent>
+				<sent id ="50">Sand is deposited on filter paper as residue.</sent>
+				<sent id ="51">The process of separating insoluble fine solutes by means of filter paper or fine sieve is called filtration process or sieving.</sent>
+				<sent id ="52">The solute remains on the filter paper or sieve, is called residue; while the clear water collected In the beaker is called filtrate.</sent>
+				<sent id ="53">You have learnt about two separation processes of heavy solid particles from a solution.</sent>
+				<sent id ="54">Could you point out the differences between these two processes ?</sent>
+				<sent id ="55">Let us know the differences of decantation and filtration processes.</sent>
+				<sent id ="56">You have marked that rivers, canals, ponds, beels etc. become dry in summer season.</sent>
+				<sent id ="57">When you keep water in an open container; the quantity of water decreases gradually and finally the container becomes empty.</sent>
+				<sent id ="58">Now the question is why in summer, rivers, ponds, canals, and beels become dry?</sent>
+				<sent id ="59">Why do wet clothes become dry when it is spreaded in the sun?</sent>
+				<sent id ="60">Why does water filled open container become empty after few days?</sent>
+				<sent id ="61">Try to answer these questions.</sent>
+				<sent id ="62">In every above mentioned cases water was evaporated in the form of water vapour by heat of the sun.</sent>
+				<sent id ="63">The result is decrease in water level or empty container.</sent>
+				<sent id ="64">When liquid substances are converted into its vapour by applying heat or in natural condition; the process is called evaporation.</sent>
+				<sent id ="65">In chapter seven you knew about the process of extraction of salt from sea water.</sent>
+				<sent id ="66">By applying natural evaporation process salt is extracted.</sent>
+				<sent id ="67">Solutes can be separated from the solution by evaporation process.</sent>
+				<sent id ="68">Separation of solutes from solution by evaporation process.</sent>
+				<sent id ="69">Take some water in a beaker.</sent>
+				<sent id ="70">Add some salt and stir gently to prepare salt solution.</sent>
+				<sent id ="71">Now let us separate salt from the solution.</sent>
+				<sent id ="72">Put a wire net on a tripod stand and place the beaker containing salt solution.</sent>
+				<sent id ="73">Now apply heat below the wire net with a spirit lamp.</sent>
+				<sent id ="74">Constantly stir the solution with a stirrer during heating.</sent>
+				<sent id ="75">Now you look at the solution.</sent>
+				<sent id ="76">What have you seen?</sent>
+				<sent id ="77">Filtration process is followed for separating heavy insoluble substances by sieving through filter paper.</sent>
+				<sent id ="78">Following this process minute floating insoluble substances can be easily separated.</sent>
+				<sent id ="79">By filtration floating insoluble solid substances can be easily separated.</sent>
+				<sent id ="80">Decantation process is followed for separating heavy insoluble substance by sedimentation.</sent>
+				<sent id ="81">It is impossible or very difficult to separate very minute floating insoluble substances in this process.</sent>
+				<sent id ="82">By this process floating solid insoluble substances can not be separated.</sent>
+				<sent id ="83">In evaporation process solutes may be recovered from the solution, while the solvent is lost as vapours.</sent>
+				<sent id ="84">In our country molasses, patali and sugar are produced by evaporation process from extracted juice of Sugar cane.</sent>
+				<sent id ="85">The process of converting vapours of water or other substances into liquid form by deep cooling is called condensation process.</sent>
+				<sent id ="86">Water can be extracted through condensation process from water vapour.</sent>
+				<sent id ="87">In extreme coolness water is converted into ice.</sent>
+				<sent id ="88">In summer, water from rivers, ponds, canals and beels evaporate and float in the air.</sent>
+				<sent id ="89">When it becomes cool and condensed and form cloud and finally it falls on the earth surface as rain.</sent>
+				<sent id ="90">Insoluble heavy solutes can be separated from the solution by evaporation or by filtration; but the solvent is lost as vapour.</sent>
+				<sent id ="91">But when we use evaporation and condensation together, we can separate and recover both insoluble solutes and solvent.</sent>
+				<sent id ="92">This combination of evaporation and condensation is called distillation process.</sent>
+				<sent id ="93">The process in which solvent is converted to vapour and again vapour to liquid form, is called distillation process.</sent>
+				<sent id ="94">Do the distillation experiment with the help of your class teacher and separate soluble solute and solvent from a solution.</sent>
+				<sent id ="95">These granular substances are called crystals.</sent>
+				<sent id ="96">The process of preparation of crystals is called crystallization.</sent>
+				<sent id ="97">Smooth and geometrically shaped crystals of salt, sugar, copper sulfate, alum, sugar candy (Misri) and hira kosh are very beautiful to look at.</sent>
+				<sent id ="98">Preparation of salt from sea water and sugar candy from sugar is done by this process.</sent>
+				<sent id ="99">In chapter seven you have learnt how to prepare sugar candy from water solution of sugar.</sent>
+				<sent id ="100">You can prepare sugar candy (Misri) at your home by this crystallization process.</sent>
+				<sent id ="101">Experiment 19.4 : Prepare separate saturated solutions of sugar, copper sulfate, alum and common salt.</sent>
+				<sent id ="102">Take a solution in a beaker and apply heat.</sent>
+				<sent id ="103">When the solution dries up to half of the original volume, stop applying heat.</sent>
+				<sent id ="104">Leave the beaker with concentrated solution for some time.</sent>
+				<sent id ="105">When the beaker is cold separate crystals of solid substances.</sent>
+				<sent id ="106">Total amount of solid can be separated from the solution by evaporation process.</sent>
+				<sent id ="107">But in crystallization process some solid substances remain in the solution.</sent>
+				<sent id ="108">A portion of solid substances become separated and remain at the bottom of the solution as crystals.</sent>
+				<sent id ="109">Make mixture of salt and sand on a piece of paper.</sent>
+				<sent id ="110">Take the mixture in a beaker and mix them properly by means of a glass stirrer.</sent>
+				<sent id ="111">You observed earlier that, salt is soluble in water but not the sand.</sent>
+				<sent id ="112">In this process sand will get separated from the solution.</sent>
+				<sent id ="113">In this process components from a mixture of salt and sand can be separated.</sent>
+				<sent id ="114">a) at first water soluble salt was dissolved.</sent>
+				<sent id ="115">b) insoluble solid sand was separated by filtration process.</sent>
+				<sent id ="116">c) from filtrate saline water, solid recovered by evaporation.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

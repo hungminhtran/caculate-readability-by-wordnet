@@ -1,0 +1,115 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-christ-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.477</idno>
+				<idno type="Number of sentences">87</idno>
+				<idno type="Number of tokens">1088</idno>
+				<idno type="Number of token types">447</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t74">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">I will give you many descendant and they will become a great nation.</sent>
+				<sent id ="2">I will bless you and make your name famous, so that you will be a blessing.</sent>
+				<sent id ="3">The word vocation means a call.</sent>
+				<sent id ="4">God has created us with a great purpose.</sent>
+				<sent id ="5">To fulfill that purpose he calls us to do various works in this earth.</sent>
+				<sent id ="6">So it is our duty to accept our duties as his call.</sent>
+				<sent id ="7">In the beginning God used to call the prophets directly to do his works and would speak to them.</sent>
+				<sent id ="8">Now we will see why God called Abram.</sent>
+				<sent id ="9">The name of Abram was Abra meaning the great father.</sent>
+				<sent id ="10">But later God chose Abra as the father of multination and named him Abram remaining the father of many nations.</sent>
+				<sent id ="11">I will give you many descendants and they will become a great nation.</sent>
+				<sent id ="12">I will bless you and make your name famous so that you will be a blessing.</sent>
+				<sent id ="13">And through you I will bless all the nations.</sent>
+				<sent id ="14">As ordered by God Abram with all his relatives went to Canaan.</sent>
+				<sent id ="15">There at the instruction of God he built an altar to the Lord.</sent>
+				<sent id ="16">I am nothing but a childless man.</sent>
+				<sent id ="17">In reply God promised to give him a son.</sent>
+				<sent id ="18">And he showed Abram the stars in sky and said, Your descendants will be innumerable like the stars.</sent>
+				<sent id ="19">And then he humbly believed it.</sent>
+				<sent id ="20">God kept his promise.</sent>
+				<sent id ="21">At the age of ninety nine God said, to Abram, I am going to make an agreement with you.</sent>
+				<sent id ="22">You will be the father of many nations.</sent>
+				<sent id ="23">Your name will no longer be Abram (great father) but Abraham (father of many nations).</sent>
+				<sent id ="24">After one year Abraham at his old age had a son.</sent>
+				<sent id ="25">He named him Isaac.</sent>
+				<sent id ="26">What lesson have we got from the story of Abraham.</sent>
+				<sent id ="27">We have learnt mainly three virtues- obedience, humility and faith of God.</sent>
+				<sent id ="28">Yes, Abraham obyed the order of God with humility all his life.</sent>
+				<sent id ="29">And the Lord blessed Abrahm abundanty and according to his promise made him the father of many nations.</sent>
+				<sent id ="30">Because of his obedience and faith to the Lord, Abraham's name is written down in the Bible.</sent>
+				<sent id ="31">The scripture says, The obedient man announces the victory.</sent>
+				<sent id ="32">The real meaning of this is, he is successful in every thing.</sent>
+				<sent id ="33">Abraham was obedient to the Lord so he had his blessings.</sent>
+				<sent id ="34">As he believed the word of God so he was blessed with .a</sent>
+				<sent id ="35">son at such old age.</sent>
+				<sent id ="36">The Lord increased the descendants of Abraham through his son.</sent>
+				<sent id ="37">Once there was a strong commander (Azesils).</sent>
+				<sent id ="38">In the war against Persia and other countries he was victorious in those wars.</sent>
+				<sent id ="39">One day he was very busy in a war.</sent>
+				<sent id ="40">The commander said about it, Obedience is the greatest honour for a commander than to win a war.</sent>
+				<sent id ="41">God calls each of us as he did to Abraham.</sent>
+				<sent id ="42">If we are humble and obedient to the Lord and uphold on faith in him, he gives us his blessings.</sent>
+				<sent id ="43">It is the main duty of each christian to be obedient to his instructions and to have faith in him.</sent>
+				<sent id ="44">Here is one more story about it.</sent>
+				<sent id ="45">I am sure, you know about the football player Pelay of Brazil.</sent>
+				<sent id ="46">He was born in a very poor family.</sent>
+				<sent id ="47">In his boyhood he had such days when there was no food, he had to go hungry.</sent>
+				<sent id ="48">From his boyhood he had the ambition to be a famous player.</sent>
+				<sent id ="49">And so he used to play ball made of rags.</sent>
+				<sent id ="50">Many people say There will be no second Peley in the world.</sent>
+				<sent id ="51">Pelay said Success needs exercise, hard work and love for one's own works.</sent>
+				<sent id ="52">Do you know who inspired Peley first?</sent>
+				<sent id ="53">No one but God.</sent>
+				<sent id ="54">Abraham was obedient to God and trusted him so he was made the father of many nations.</sent>
+				<sent id ="55">If you hear the call of God, you will have to pray in the morning and evening together.</sent>
+				<sent id ="56">You will read the Holy Bible and meditate.</sent>
+				<sent id ="57">We know that God at different times called different prophets and had given them special responsibility.</sent>
+				<sent id ="58">We have seen in Holy Bible Abraham was a prophet.</sent>
+				<sent id ="59">He by the inspiration of God used to speak to the people and do good works as well.</sent>
+				<sent id ="60">He always obeyed God.</sent>
+				<sent id ="61">So God blessed him and his descendants a lot.</sent>
+				<sent id ="62">We know Christian brethren are called by God.</sent>
+				<sent id ="63">The, church is the Christian community.</sent>
+				<sent id ="64">For this we may have to encounter much trouble and have to sacrifice much but we must not draw back.</sent>
+				<sent id ="65">You know the crossing of the Red Sea by Moses, flood of Noah and the story of Abraham's test.</sent>
+				<sent id ="66">Just think how much trouble they had to go through and the sacrifices they had to make.</sent>
+				<sent id ="67">Jesus first founded the church with his twelve disciples, later many people joined them.</sent>
+				<sent id ="68">Peter was their main leader- the first Pope.</sent>
+				<sent id ="69">Thus church became the mystical body of Christ.</sent>
+				<sent id ="70">In other words, every believer in Christ became the strongest part of the invisible and heavenly body of Christ.</sent>
+				<sent id ="71">They preached the teachings of Christ in the whole world.</sent>
+				<sent id ="72">Those who accepted the new teachings were blessed.</sent>
+				<sent id ="73">By receiving the Sacrament of confirmation, we became visible soldiers of Christ and we were endowed with virtues and responsibilities.</sent>
+				<sent id ="74">And so the Father will give you whatever you ask of him in my name.</sent>
+				<sent id ="75">This, then, is what I command you : Love one another.</sent>
+				<sent id ="76">We find so many people in the Church of Christ but they do not perform the same services.</sent>
+				<sent id ="77">So you see some became pastors, some teachers, some writers, some lawyers, some soldier or ordinary farmers.</sent>
+				<sent id ="78">The various professional talents are the gifts of the Holy Spirit.</sent>
+				<sent id ="79">There are different kinds of spiritual gifts but the same Spirit gives them.</sent>
+				<sent id ="80">There are different abilities to perform service, but the same God gives ability to everyone for their particular service.</sent>
+				<sent id ="81">The Spirit's presence is shown in the same way in each person for the good of all.</sent>
+				<sent id ="82">One and the same Spirit gives faith to one person, while to another person he gives the power to heal.</sent>
+				<sent id ="83">These particular qualities are actually our vocation in life or call of God or his nomination.</sent>
+				<sent id ="84">Keep silent for a while and think for what work or service he calls you.</sent>
+				<sent id ="85">Then you write it down what you want to be in your life.</sent>
+				<sent id ="86">Oh kind Lord, you grant me your mercy so that I understand that I am also your chosen one.</sent>
+				<sent id ="87">Be helpful to all my thoughts and services.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

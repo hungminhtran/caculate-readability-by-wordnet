@@ -1,0 +1,153 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-phyStud-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.543</idno>
+				<idno type="Number of sentences">125</idno>
+				<idno type="Number of tokens">1446</idno>
+				<idno type="Number of token types">598</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t119">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Accidents may occur at any time in our day life.</sent>
+				<sent id ="2">Sometimes the accidents may risk our There are serious types of accidents.</sent>
+				<sent id ="3">But there are accidents which cause temporary problems.</sent>
+				<sent id ="4">In our daily activities if we remain careful we may avoid accidents.</sent>
+				<sent id ="5">The following precautionary and preventive measure may be taken to avoid accidents in our daily life:</sent>
+				<sent id ="6">We should warm up our body thoroughly before taking part in any games and sports or physical activity.</sent>
+				<sent id ="7">If the body is not harmed up properly, there is every possibility of muscle injury.</sent>
+				<sent id ="8">The muscle may be pulled and the sportsman remains out of the activity.</sent>
+				<sent id ="9">Beside there may be other small injuries which will cause problems.</sent>
+				<sent id ="10">When the physical activities are done in pairs, the partner's weight and height are to be looked into.</sent>
+				<sent id ="11">Otherwise there is possibility of occurring an accident.</sent>
+				<sent id ="12">Excessive exercises or games and sports make the body over tired.</sent>
+				<sent id ="13">Besides this, accidents may occur.</sent>
+				<sent id ="14">In our day to day activities and particularly in games and sports, we should not do any thing in haste.</sent>
+				<sent id ="15">Sports activities should be avoided around the electric poles, uneven ground full of harmful elements.</sent>
+				<sent id ="16">The pedestrians should walk through the footpath.</sent>
+				<sent id ="17">Where there is no footpath, they will walk through the right side of the road.</sent>
+				<sent id ="18">The pedestrian will cross the busy road through zebra- crossing.</sent>
+				<sent id ="19">If no transport approaches, they will quickly cross the road.</sent>
+				<sent id ="20">Otherwise serious accidents may occur.</sent>
+				<sent id ="21">None should get in the running transport.</sent>
+				<sent id ="22">When the vehicle stops fully the passengers should then get in it.</sent>
+				<sent id ="23">While sitting at the window the passenger should not keep his hands outside the window.</sent>
+				<sent id ="24">If it is done, his hands may be broken by another running transport.</sent>
+				<sent id ="25">a) Mad dogs, jackals and other wild animals contain the germs of hydrophobia.</sent>
+				<sent id ="26">The diseased person will die if proper treatment, is not given to him in time.</sent>
+				<sent id ="27">In order to prevent this disease stray dogs in the streets should be avoided.</sent>
+				<sent id ="28">The municipal authority is to be informed about such sick and stray dogs.</sent>
+				<sent id ="29">The pet dogs should be vaccinated regularly.</sent>
+				<sent id ="30">b) Cats spread diphtheria germs.</sent>
+				<sent id ="31">Cat's hair and saliva are injurious to health.</sent>
+				<sent id ="32">The cooked food, water jug, crockery should be well covered so that cats cannot eat anything.</sent>
+				<sent id ="33">c) Poisonous snakes normally live in the woods.</sent>
+				<sent id ="34">When we move in the jungles, we should take care of avoiding the snake infested areas.</sent>
+				<sent id ="35">The patient should be sent to the hospital as early as possible.</sent>
+				<sent id ="36">The animals should not be disturbed unnecessarily.</sent>
+				<sent id ="37">If annoyed they may bite and create problems.</sent>
+				<sent id ="38">Accidents may occur from these water bodies.</sent>
+				<sent id ="39">So precautionary steps should be taken to avoid any such accidents.</sent>
+				<sent id ="40">The bathing stairs should not be kept slippery.</sent>
+				<sent id ="41">It should be scrubbed regularly so that none can slip and cause accident.</sent>
+				<sent id ="42">If any body does not know how to swim he should not take bath in the tank alone.</sent>
+				<sent id ="43">Somebody should accompany him so that he is not drowned.</sent>
+				<sent id ="44">Besides that everybody should learn swimming and its safety measures.</sent>
+				<sent id ="45">To avoid accidents from fire, burning thing and hot liquid substance:</sent>
+				<sent id ="46">Open fire, hot water, acid and other chemicals, gas cylinder etc. may cause accidents.</sent>
+				<sent id ="47">Carelessness as well as ignorance of danger from these things may bring collosal damage to human lives and properties.</sent>
+				<sent id ="48">So we should remain careful about the danger of fire.</sent>
+				<sent id ="49">The match sticks, kerosene lamps, burning wood of the oven, candle etc. should be kept in proper care.</sent>
+				<sent id ="50">After cooking the fire should be put out.</sent>
+				<sent id ="51">Everybody should be careful about the danger of hot water.</sent>
+				<sent id ="52">If the electrical equipment is defective then serious accidents may occur and can cause damage.</sent>
+				<sent id ="53">The faulty electric lines are dangerous.</sent>
+				<sent id ="54">Anybody who comes in contact with it, may be electrified-and died.</sent>
+				<sent id ="55">This can cause fire which bums. every thing in the house.</sent>
+				<sent id ="56">So necessary precautionary steps are to be taken to avoid such type of accidents.</sent>
+				<sent id ="57">The faulty electric lines should be removed and new lines should be installed.</sent>
+				<sent id ="58">The defective lines, if possible, may be repaired.</sent>
+				<sent id ="59">Electric fans, bulbs, calendar are to be checked regularly.</sent>
+				<sent id ="60">These gadgets may cause accidents if proper care is not taken at the time of its use.</sent>
+				<sent id ="61">Electricity passes through wet cloth.</sent>
+				<sent id ="62">If wet cloth comes in contact with the live electric wire, it may electrified a person and cause death.</sent>
+				<sent id ="63">So necessary care should be taken against such accidents.</sent>
+				<sent id ="64">If any body is, by chance, electrified, he should not be touched by the hand.</sent>
+				<sent id ="65">He should he hospitalised as soon as possible.</sent>
+				<sent id ="66">We often use sharp knife, cutter, scissors, blade etc.</sent>
+				<sent id ="67">But if anybody uses these instruments carelessly, he may cause accident.</sent>
+				<sent id ="68">These implements should be kept in a safe place and should be used with every fare.</sent>
+				<sent id ="69">The broken glass, pieces of cans, bamboo and wooden sticks etc. can cause accidents.</sent>
+				<sent id ="70">The body may be injured with these elements.</sent>
+				<sent id ="71">So these broken things should be swept over and are to be kept in the garbage box.</sent>
+				<sent id ="72">Children should not play with sharp things.</sent>
+				<sent id ="73">Ever body should move carefully.</sent>
+				<sent id ="74">The objective of First aid is to save life,</sent>
+				<sent id ="75">(ii) to prevent the injury becoming worse and (iii) to help recovery.</sent>
+				<sent id ="76">The person who does this job of first aid is called the first aider.</sent>
+				<sent id ="77">A first aider should have first aid kit with him.</sent>
+				<sent id ="78">This kit can be made easily.</sent>
+				<sent id ="79">But a good first aider does not depend on them.</sent>
+				<sent id ="80">If the first aid kit is not readily available he will improvise things and will use it .</sent>
+				<sent id ="81">A wound is a break in the skin.</sent>
+				<sent id ="82">It allows blood to escape and germs to enter the body.</sent>
+				<sent id ="83">Wound may occur at may time by accident.</sent>
+				<sent id ="84">The first aider should see where the wound occurs and how much damage has been caused.</sent>
+				<sent id ="85">i) He will seat the patient.</sent>
+				<sent id ="86">ii) He will wash his hands thoroughly.</sent>
+				<sent id ="87">The blood clots should not be cleaned as it may cause farther bleeding.</sent>
+				<sent id ="88">A small wound may be washed with clean water und a running tap.</sent>
+				<sent id ="89">vi He will give rest the injured as far as possible.</sent>
+				<sent id ="90">vii) Above all, the first aider will send the patient to the nearby hospital or clinic as fast as possible.</sent>
+				<sent id ="91">This is bleeding under the skin from an injury which may or may not break the skin.</sent>
+				<sent id ="92">A black eye is a bruise.</sent>
+				<sent id ="93">A tender lump or swelling quickly forms and the area becomes blue/black after a short time.</sent>
+				<sent id ="94">Bruising may be caused by the hit ting of any heavy material.</sent>
+				<sent id ="95">He should put the bruised part of the body at rest.</sent>
+				<sent id ="96">He should check that there is no fracture.</sent>
+				<sent id ="97">He should apply a cold compress.</sent>
+				<sent id ="98">He should, if necessary, send the patient to hospital.</sent>
+				<sent id ="99">This has been stated in the foregoing para before the subject of bruising.</sent>
+				<sent id ="100">Severe bleeding which is flowing fast and freely must be stopped.</sent>
+				<sent id ="101">In order to do it, the first aider should seat patient or lay him down.</sent>
+				<sent id ="102">He should raise the bleeding part of possible.</sent>
+				<sent id ="103">This must not be done if the bone is fractured.</sent>
+				<sent id ="104">He should press directly with his thumb and fingers on to or around the wound.</sent>
+				<sent id ="105">If necessary, he should grasp and hold its edges firmly together.</sent>
+				<sent id ="106">He may have to keep up this pressure until bleeding has been controlled and a dressing is available.</sent>
+				<sent id ="107">Quick control is more important than time spent on washing He should press the dressing over the wound.</sent>
+				<sent id ="108">He should make sure that the dressing extends well beyond the area of the wound.</sent>
+				<sent id ="109">Improvised dressings and bandages, in an emergency, can be made from clean handker chiefs or towels.</sent>
+				<sent id ="110">If bleeding continues and blood oozes through the bandage, the dressing should not be removed.</sent>
+				<sent id ="111">In that case, more dressing and pads and band age should be added.</sent>
+				<sent id ="112">The bandage is necessary to keep the dressing on the wounds properly.</sent>
+				<sent id ="113">The bandage helps to keep the injured part hanging with the body.</sent>
+				<sent id ="114">It also helps to stop bleeding with the help of dressing.</sent>
+				<sent id ="115">The wounds can be kept clean with the helps of bandage.</sent>
+				<sent id ="116">For any fracture, the bandage helps to keep the injured part safe from further damage.</sent>
+				<sent id ="117">This bandage is very often used in the first aid.</sent>
+				<sent id ="118">Its one arm will be measured by 1.07 metres.</sent>
+				<sent id ="119">But base line will be bigger than the two lines or arms.</sent>
+				<sent id ="120">The multiple use of triangular bandage is stated below with pictures.</sent>
+				<sent id ="121">The triangular bandage can be turned into a broad bandage.</sent>
+				<sent id ="122">It can be folded several times.</sent>
+				<sent id ="123">The triangular bandage can cover a greater part of the injuries.</sent>
+				<sent id ="124">It is very useful while making a sling.</sent>
+				<sent id ="125">After completing the bandage the ends are tied with reef knots.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,91 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.838</idno>
+				<idno type="Number of sentences">63</idno>
+				<idno type="Number of tokens">611</idno>
+				<idno type="Number of token types">279</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t10">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">All religions have their own religious books.</sent>
+				<sent id ="2">Christian religion also has a religious book of its own.</sent>
+				<sent id ="3">The name of the book is the Holy Bible.</sent>
+				<sent id ="4">The Holy Bible is recited in the religious ceremonies and congregational prayers in the Church.</sent>
+				<sent id ="5">Sometimes we recite the Holy Bible in our religious classes in our school.</sent>
+				<sent id ="6">We have the copies of the Holy Bible in our houses as well.</sent>
+				<sent id ="7">Now we shall try to know something about the Holy Bible.</sent>
+				<sent id ="8">The Holy Bible is the main religious book of the Christians.</sent>
+				<sent id ="9">This book contains the messages of God.</sent>
+				<sent id ="10">After creating the universe, God revealed Himself gradually to man.</sent>
+				<sent id ="11">Those messages are written in the Holy Bible.</sent>
+				<sent id ="12">Those who believe in the messages of God and obey them are pious.</sent>
+				<sent id ="13">After death they go to the heaven.</sent>
+				<sent id ="14">If we read the Holy Bible, we can learn about God.</sent>
+				<sent id ="15">At the same time, we can realise His intentions and deeds.</sent>
+				<sent id ="16">In this way, we gain moral courage to follow the paths of God.</sent>
+				<sent id ="17">Gradually our faith in Him grows firm.</sent>
+				<sent id ="18">Thus we can be good and virtuous.</sent>
+				<sent id ="19">How have we got the Holy Bible?</sent>
+				<sent id ="20">God created man after his own image.</sent>
+				<sent id ="21">He had a plan for mankind.</sent>
+				<sent id ="22">God wanted that man should follow the paths He had shown to him.</sent>
+				<sent id ="23">He wanted man to avoid things that tempted him to do sinful acts.</sent>
+				<sent id ="24">He chose a few distinguished persons to convey His wishes and plans to mankind.</sent>
+				<sent id ="25">Spirited by God those distinguished persons realised the divine words and wrote them down.</sent>
+				<sent id ="26">This is how we got the Holy Bible.</sent>
+				<sent id ="27">The Holy Bible is divided mainly into two parts.</sent>
+				<sent id ="28">God has expressed His love and affection to mankind in various ways.</sent>
+				<sent id ="29">Little did man know about God before.</sent>
+				<sent id ="30">He chose the Israelites as His own race.</sent>
+				<sent id ="31">He gradually revealed Himself to them.</sent>
+				<sent id ="32">They were once slaves in Egypt.</sent>
+				<sent id ="33">God freed them from their slavery.</sent>
+				<sent id ="34">He brought them to an independent country.</sent>
+				<sent id ="35">He guided them.</sent>
+				<sent id ="36">Thus man had come to know about God and put faith in Him.</sent>
+				<sent id ="37">So, the Old Testament is the history of man's faith and his salvation.</sent>
+				<sent id ="38">It is a long history of how they had been on the path of salvation.</sent>
+				<sent id ="39">The preaching of his followers and disciples are also written down in this book.</sent>
+				<sent id ="40">Christian Religious Studies 29 The Holy Bible is not a single book.</sent>
+				<sent id ="41">It is the compilation of many books.</sent>
+				<sent id ="42">In the New Testament, there are 27 books.</sent>
+				<sent id ="43">We shall memorise the names of the books of the New Testament.</sent>
+				<sent id ="44">We can divide these 27 books of the New Testament into four parts.</sent>
+				<sent id ="45">First Part (4 books): Gospels of Matthew, Mark, Luke and John.</sent>
+				<sent id ="46">Second Part (1 book) : Lives of the disciples (work of the Messengers).</sent>
+				<sent id ="47">Thus the disciples made the Christian Churches spread in many other countries.</sent>
+				<sent id ="48">Third Part (21 books): It contains the letters of the disciples Jesus.</sent>
+				<sent id ="49">They wrote letters to many devotees in different parts of the world.</sent>
+				<sent id ="50">These letters are about the teaching of Jesus.</sent>
+				<sent id ="51">The also show how Jesus encouraged his disciples.</sent>
+				<sent id ="52">21 books contain those letters.</sent>
+				<sent id ="53">Fourth Part (1 book): Book of Revelations.</sent>
+				<sent id ="54">Saint John with his divine vision could see Jesus and the saints.</sent>
+				<sent id ="55">He wrote all these in this book.</sent>
+				<sent id ="56">God has gradually revealed Himself to human beings.</sent>
+				<sent id ="57">It is the history of God's revelation.</sent>
+				<sent id ="58">This is called the history of salvation.</sent>
+				<sent id ="59">This history has been written in the Bible.</sent>
+				<sent id ="60">Gradually God has expressed His love to human beings.</sent>
+				<sent id ="61">This relationship between human beings and God is very intimate.</sent>
+				<sent id ="62">So the Holy Bible is a great book for us.</sent>
+				<sent id ="63">For this we will remain ever grateful to Him.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,92 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.71</idno>
+				<idno type="Number of sentences">64</idno>
+				<idno type="Number of tokens">591</idno>
+				<idno type="Number of token types">283</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t4">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">David was a famous man of his time.</sent>
+				<sent id ="2">He was the king of Israel.</sent>
+				<sent id ="3">God chose him to be the king of his race and anointed him through Samuel.</sent>
+				<sent id ="4">He was very intelligent.</sent>
+				<sent id ="5">He was a warrior too.</sent>
+				<sent id ="6">He won many battles.</sent>
+				<sent id ="7">But he could also compose psalms and play on the harp.</sent>
+				<sent id ="8">David was born in Bethlehem city.</sent>
+				<sent id ="9">His father was Jesse.</sent>
+				<sent id ="10">Among the six brothers and two sisters, David was the youngest.</sent>
+				<sent id ="11">From his early boyhood he could play on the harp very skillfully.</sent>
+				<sent id ="12">God was very pleased with David.</sent>
+				<sent id ="13">Saul was then king of Israel.</sent>
+				<sent id ="14">However, God chose David as the king of Israel after the death of the king.</sent>
+				<sent id ="15">But David was very tender in age.</sent>
+				<sent id ="16">He was merely a boy.</sent>
+				<sent id ="17">So according to God's will Prophet Samuel anointed David.</sent>
+				<sent id ="18">As a part of the rituals some oil was needed for anointation.</sent>
+				<sent id ="19">Horns of buffalo were used for carriying the oil for the rituals.</sent>
+				<sent id ="20">Samuel brought some oil in such a horn.</sent>
+				<sent id ="21">He poured the oil on David's head and anointed him.</sent>
+				<sent id ="22">Thus being anointed he began to prepare himself for becoming the king.</sent>
+				<sent id ="23">But he was yet to be a king.</sent>
+				<sent id ="24">He was very much fond of David's skills in it.</sent>
+				<sent id ="25">Naturally, the king liked David very much and brought him to his palace.</sent>
+				<sent id ="26">There David would play on the harp for the king.</sent>
+				<sent id ="27">The king enjoyed it very much.</sent>
+				<sent id ="28">Besides playing on the harp, David used to do some other works for the king.</sent>
+				<sent id ="29">David was an Israelite.</sent>
+				<sent id ="30">Once there was a fierce battle between the people of Israel and Palestine.</sent>
+				<sent id ="31">He said, Choose one of your best men to fight with me.</sent>
+				<sent id ="32">If he can defeat me, all the Palestinians will be your slaves.</sent>
+				<sent id ="33">But if I can kill him, all your people will be our slaves.</sent>
+				<sent id ="34">The soldiers of Israel were frightened at the challenge.</sent>
+				<sent id ="35">None of them dared to fight with him.</sent>
+				<sent id ="36">This wounded David's pride.</sent>
+				<sent id ="37">He bravely told the king Saul that he would fight with Goliath.</sent>
+				<sent id ="38">The king was amazed at David's courage.</sent>
+				<sent id ="39">David said in reply, I have protected my father's sheep from the lions.</sent>
+				<sent id ="40">God gave me the strength to do it.</sent>
+				<sent id ="41">God will protect me this time too.</sent>
+				<sent id ="42">King Saul felt proud at David's reply and permitted him to fight.</sent>
+				<sent id ="43">The king clothed David with his armour and put a bronze helmet on his head.</sent>
+				<sent id ="44">David fastened his sword to his armour and tried to walk.</sent>
+				<sent id ="45">But they were very heavy and too big for him.</sent>
+				<sent id ="46">As a result, he could not move with those armours.</sent>
+				<sent id ="47">David now put off the heavy armours.</sent>
+				<sent id ="48">Instead, he took a stick and a catapult in his hand.</sent>
+				<sent id ="49">He also took a few pieces of sharp stones.</sent>
+				<sent id ="50">With these David drew near to the Palestinian warrior.</sent>
+				<sent id ="51">At the sight of the little warrior -a mere boy, Goliath started jeering at him.</sent>
+				<sent id ="52">Little David threw one sharp edged stone at him with his catapult.</sent>
+				<sent id ="53">The stone cut deep into his forehead.</sent>
+				<sent id ="54">Goliath fell down on the ground.</sent>
+				<sent id ="55">David then jumped on Goliath and cut off his throat with Goliath's sword.</sent>
+				<sent id ="56">Palestinians saw their great warrior lying dead.</sent>
+				<sent id ="57">They were frightened at it and began to flee away.</sent>
+				<sent id ="58">On the other hand, the people of Israel started praising applauded David's victory.</sent>
+				<sent id ="59">David became the king of Israel when he was only 30 years old.</sent>
+				<sent id ="60">He loved his people very much.</sent>
+				<sent id ="61">He also loved God.</sent>
+				<sent id ="62">He composed many Psalms.</sent>
+				<sent id ="63">These were very important and beautiful.</sent>
+				<sent id ="64">We still sing these Psalms to praise our Lord.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

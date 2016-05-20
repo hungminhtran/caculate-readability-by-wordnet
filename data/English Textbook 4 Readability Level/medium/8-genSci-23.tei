@@ -1,0 +1,158 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-23</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.136</idno>
+				<idno type="Number of sentences">130</idno>
+				<idno type="Number of tokens">2061</idno>
+				<idno type="Number of token types">585</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t139">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The imaginary line passing north-south through the centre of the earth, and around which the earth rotates is the axis of the earth.</sent>
+				<sent id ="2">The northernmost point of this axis is known as north pole and the southernmost point is called the south pole.</sent>
+				<sent id ="3">Both poles are at the same distance from the earth's equator.</sent>
+				<sent id ="4">Keeping both the poles in equal distance, an imaginary line has been drawn which has encircled the globe from west to east.</sent>
+				<sent id ="5">This is known as the Equator or the terrestrial equator.</sent>
+				<sent id ="6">Due to spherical nature of the earth this line is also circular.</sent>
+				<sent id ="7">The equator has divided the earth into two equal parts.</sent>
+				<sent id ="8">The part of earth lying north to the equator is known as the northern hemisphere, and that to the south as the southern hemisphere.</sent>
+				<sent id ="9">With the help of the equator one can determine the angular distance of a place situated either in the northern or in the southern hemisphere.</sent>
+				<sent id ="10">This series of east-west-running circles is known as the meridians of latitude.</sent>
+				<sent id ="11">The angular distance of a place north or south of the equator gives the latitude of that place.</sent>
+				<sent id ="12">Considering the equator as to be at 0o, latitudes north and south to it extend up to 90o north and south.</sent>
+				<sent id ="13">The angles are divided into degrees, minutes and seconds.</sent>
+				<sent id ="14">imaginary line, any point on that place with the centre of the earth.</sent>
+				<sent id ="15">This imaginary line is actually the radius of the earth sphere.</sent>
+				<sent id ="16">The value of the angle that is formed through those two lines is equivalent to the latitude of that particular place.</sent>
+				<sent id ="17">Therefore, the latitude is the angular distance of a place north or south of the equator.</sent>
+				<sent id ="18">If a line is drawn from any place to its centre then that line will create an angle with the equatorial plane.</sent>
+				<sent id ="19">The value of that angle is the latitude of that place.</sent>
+				<sent id ="20">The latitudes are parallel to one another and every one of them is a full circle.</sent>
+				<sent id ="21">The circumferences of the latitudes are decreased with the increase of their values.</sent>
+				<sent id ="22">Some of the parallels are quite famous.</sent>
+				<sent id ="23">The 23.5o latitudes in the northern and southern hemispheres are known as the Tropic of Cancer and the Tropic of Capricorn respectively.</sent>
+				<sent id ="24">The region of the earth between the Tropics of Cancer and Capricorn is the tropical region.</sent>
+				<sent id ="25">Besides, the 66.5o north and south latitudes are known as Arctic and Antarctic circles respectively.</sent>
+				<sent id ="26">The earth is a spherical planet.</sent>
+				<sent id ="27">Towards her eastern and western sides the earth does not have any specific boundary which can be taken as the end or border.</sent>
+				<sent id ="28">Although the equator was an obvious choice as the prime parallel for latitude, being the largest, no one meridian was uniquely qualified as prime longitude.</sent>
+				<sent id ="29">In 1884, an international prime meridian, passing through London's Greenwich Observatory, was officially designated.</sent>
+				<sent id ="30">An imaginary line that encircles the earth through the middle from east to west is known as the equator.</sent>
+				<sent id ="31">These lines are the lines of longitude.</sent>
+				<sent id ="32">The longitudes are also known as meridians.</sent>
+				<sent id ="33">Any of these meridians can be taken as prime meridian and angular distance of other meridians can be measured from the prime meridian.</sent>
+				<sent id ="34">Longitude of any given point on the globe is measured as angular distance eastward or westward from the prime meridian at Greenwich.</sent>
+				<sent id ="35">Thus, the total number of meridians are divided equally at 180 eastern and western longitudes, which is virtually the same line.</sent>
+				<sent id ="36">Like that of the latitudes, the longitudes can also be divided into minutes and seconds.</sent>
+				<sent id ="37">A metallic marker there indicates its exact location of the prime meridian on a map.</sent>
+				<sent id ="38">The longitude at 180 is also the International Date Line.</sent>
+				<sent id ="39">The earth rotates 360 once in 24 hours, and so to rotate through 1 the earth takes 4 minutes.</sent>
+				<sent id ="40">There are different methods of determining the latitude of a place.</sent>
+				<sent id ="41">In other words, the degree of latitude of any place in the northern hemisphere is equivalent to the degree of altitude of pole star.</sent>
+				<sent id ="42">So, the latitude of any place in the northern hemisphere can be deducted from the altitude of the pole star.</sent>
+				<sent id ="43">With the help of pole star: North star or pole star is a conspicuous star, in the night sky, in the northern hemisphere.</sent>
+				<sent id ="44">Every night from any place of the northern hemisphere one can see the pole star in a fixed position in the northern sky.</sent>
+				<sent id ="45">But the altitude of the pole star from the horizon does not remain the same.</sent>
+				<sent id ="46">It differs with the difference of place, which means, the altitude of the pole star in the horizon is different for different places.</sent>
+				<sent id ="47">In the equator the location of the pole star is in the horizon and its altitude is 0.</sent>
+				<sent id ="48">Longitude of a place can be determined by two methods'by the differences of local time, and by Greenwich mean time.</sent>
+				<sent id ="49">By the differences of local time: The earth is a sphere that is moving continuously around its axis from west to east.</sent>
+				<sent id ="50">Consequently different places of the earth face the sun at different time.</sent>
+				<sent id ="51">The earth rotates through 360 in 24 hours, or it covers a distance of 1 every 4 minutes.</sent>
+				<sent id ="52">If the difference of time in two places is 1 hour, then the longitude passing through the two places is 15 apart.</sent>
+				<sent id ="53">The place with time 1 hour ahead will be east of the other place.</sent>
+				<sent id ="54">Thus, if the longitude of a place is known, then the longitude of another place can be determined.</sent>
+				<sent id ="55">By Greenwich mean time: The longitude of Greenwich is The actual time of Greenwich can be read from the chronometre.</sent>
+				<sent id ="56">The longitude of the place mentioned can be determined from the difference of time that occurs between the indicated place and Greenwich.</sent>
+				<sent id ="57">Time difference occurs with longitude.</sent>
+				<sent id ="58">The usefulness of latitude and longitude are mentioned below.</sent>
+				<sent id ="59">It helps to determine the location of any point on earth surface with accuracy.</sent>
+				<sent id ="60">The latitude of a place helps to indicate the temperature of place, that is how cold or warm it is.</sent>
+				<sent id ="61">Longitude helps to determine the time of a place.</sent>
+				<sent id ="62">Different places that fall on the same longitude experience noon at the same time.</sent>
+				<sent id ="63">Besides, if an aeroplane or a ship is in trouble, the crew can radio message its location by longitude and latitude.</sent>
+				<sent id ="64">With the help of the longitudinal and latitudinal coordination the rescue team can reach the spot quickly.</sent>
+				<sent id ="65">Local time: Everyday the earth moves round its axis from west to east.</sent>
+				<sent id ="66">Consequently, the sun appears in the eastern parts of the globe before the western parts.</sent>
+				<sent id ="67">Due to rotation of the earth the sun reaches its highest altitude on a certain place and that hour is treated as 12.00 noon.</sent>
+				<sent id ="68">On the basis of this noon time the other hours of the day are determined.</sent>
+				<sent id ="69">The time thus determined is taken as the local time.</sent>
+				<sent id ="70">Places on different longitudes have different local time.</sent>
+				<sent id ="71">For example, when it is 10.00 a.m. in Karachi, it is 11.00 a.m. in Dhaka.</sent>
+				<sent id ="72">This is because the difference in longitude between the two places is 15.</sent>
+				<sent id ="73">Standard time: Most of the countries of the world extend between two or more longitudes.</sent>
+				<sent id ="74">So, one country may have several local times.</sent>
+				<sent id ="75">This would create confusion in maintaining time among the different parts of the same country and disrupt the daily activities of the nation.</sent>
+				<sent id ="76">To avoid this confusion each of the countries of the world has introduced the concept of maintaining the standard time.</sent>
+				<sent id ="77">The time at 90 east is considered as the standard time for Bangladesh.</sent>
+				<sent id ="78">The time at 82.5 east is the local time at Allahabad, which is taken as the standard time of India.</sent>
+				<sent id ="79">The time towards east of prime meridian is ahead, while that towards west is after that of the time at Greenwich.</sent>
+				<sent id ="80">Hence, when it is Thursday 10.00 a.m. at Greenwich, at 30 east it is Thursday 12.00 noon.</sent>
+				<sent id ="81">And by the same calculation, at 180 east it will be Thursday 10.00 p.m.</sent>
+				<sent id ="82">But it cannot be 10.00 p.m. Wednesday and Thursday at the same time in same place.</sent>
+				<sent id ="83">This is known as the International Date Line.</sent>
+				<sent id ="84">The earth is orbiting continuously around the sun.</sent>
+				<sent id ="85">That is the earth is in continuous motion.</sent>
+				<sent id ="86">The earth has two basic motions'rotation around its axis, and revolution around the sun along its orbit Rotation:</sent>
+				<sent id ="87">The earth rotates around its axis from west to east.</sent>
+				<sent id ="88">It takes 24 hours to complete one rotation.</sent>
+				<sent id ="89">During rotation, it is night in the part of the earth facing away from the sun, and day in the part facing the sunlight.</sent>
+				<sent id ="90">Because of the following reasons the International Date Line is of great importance.</sent>
+				<sent id ="91">The line helps to determine the time of a place and overcomes the problem of date and time determination.</sent>
+				<sent id ="92">A ship travelling west when crosses this line it calculates its time one day forward.</sent>
+				<sent id ="93">Similarly, a ship travelling east when crosses this line calculates its time one day behind.</sent>
+				<sent id ="94">Effects of rotation: The following are the effects of rotation of earth.</sent>
+				<sent id ="95">Because of rotation the cycle of day and night occurs.</sent>
+				<sent id ="96">It is daytime in the part of the earth facing the sun, and the other side away from sunlight experiences night.</sent>
+				<sent id ="97">The meeting line of day and night on the surface of earth is the penumbral line.</sent>
+				<sent id ="98">The occurrence of Experiment showing day and night day and night can be demonstrated with the help of an experiment.</sent>
+				<sent id ="99">In a dark room a candle is facing the candle is illuminated, while the part away is dark.</sent>
+				<sent id ="100">Similarly, the side of the earth on which the sunlight falls experiences day, while the other part has night.</sent>
+				<sent id ="101">The rotational motion of the earth affects and changes the direction of the winds and ocean currents.</sent>
+				<sent id ="102">Rotation also helps to estimate the time.</sent>
+				<sent id ="103">The 24 hour solar day is divided into minutes and seconds.</sent>
+				<sent id ="104">This part of the earth becomes very heated.</sent>
+				<sent id ="105">As the sunrays fall obliquely on the north and south of this region, it is less hot there.</sent>
+				<sent id ="106">Rotation of the earth also causes the high and low tides.</sent>
+				<sent id ="107">Revolution: In addition to rotating on its own axis, the earth is also revolving around the sun along its orbit.</sent>
+				<sent id ="108">It takes one year or 365 days for the earth to complete one revolution around the sun.</sent>
+				<sent id ="109">The time taken to complete one revolution is the solar year.</sent>
+				<sent id ="110">The earth travels along the orbit at a velocity of about 106,260 kilometre per hour, or 30 kilometre per second.</sent>
+				<sent id ="111">The actual time taken to complete one revolution is 365 days, 5 hours, 48 minutes, 47 seconds.</sent>
+				<sent id ="112">The extra day is added to the 28 days in the month of February.</sent>
+				<sent id ="113">The year in which the extra day is added to make February a 29 day month, is called Leap Year.</sent>
+				<sent id ="114">The sun gives light and heat.</sent>
+				<sent id ="115">The season at any time in a place depends of the heat received from the sun.</sent>
+				<sent id ="116">When the days are long more sunrays fall on the earth than when the days are short.</sent>
+				<sent id ="117">The cycle of season change occurs along with the change in the length of day and night.</sent>
+				<sent id ="118">The different seasons is characterised by differences in average temperature and in the amount of time that the sun is in the sky each day.</sent>
+				<sent id ="119">The seasons occur because the axis on which the earth turns is tilted with respect to the plane of the earth's orbit around the sun.</sent>
+				<sent id ="120">When it is summer in the northern hemisphere, this hemisphere is tilted toward the sun;</sent>
+				<sent id ="121">this corresponds to winter in the southern hemisphere, when the southern hemisphere is tilted away from the sun.</sent>
+				<sent id ="122">The northern hemisphere's autumnal equinox occurs in September and marks the beginning of autumn.</sent>
+				<sent id ="123">In the southern hemisphere, the vernal equinox occurs in September and the autumnal equinox occurs in March.</sent>
+				<sent id ="124">At these times, the sun appears to be directly over the earth's equator.</sent>
+				<sent id ="125">The lengths of day and night are then equal over almost all the earth, except at the poles.</sent>
+				<sent id ="126">the southern hemisphere then experiences summer with more warmth, and the northern hemisphere has its winter.</sent>
+				<sent id ="127">The hemisphere most tilted toward the sun experiences its longest day of sunlight and its shortest night.</sent>
+				<sent id ="128">The other hemisphere experiences its shortest day of sunlight and its longest night.</sent>
+				<sent id ="129">The sunrays fall perpendicularly on the equator.</sent>
+				<sent id ="130">The northern hemisphere's vernal equinox occurs in March and marks the beginning of spring.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

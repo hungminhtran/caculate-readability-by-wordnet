@@ -1,0 +1,65 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.439</idno>
+				<idno type="Number of sentences">37</idno>
+				<idno type="Number of tokens">368</idno>
+				<idno type="Number of token types">169</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t37">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The family has some general rules.</sent>
+				<sent id ="2">Everyone should obey them.</sent>
+				<sent id ="3">Everyday we will obey the rules of the family.</sent>
+				<sent id ="4">What will we do in the morning?</sent>
+				<sent id ="5">We will wake up early in the morning.</sent>
+				<sent id ="6">We shall go to toilet or bathroom.</sent>
+				<sent id ="7">We will brush our teeth, wash our hands and faces and eat our breakfast.</sent>
+				<sent id ="8">Then we will sit to study or go to school.</sent>
+				<sent id ="9">Write down in the table below what are things we do in the morning.</sent>
+				<sent id ="10">What we will do after returning from school?</sent>
+				<sent id ="11">We will keep the school bag and books and notebooks properly.</sent>
+				<sent id ="12">We will take bath or wash our hands and face.</sent>
+				<sent id ="13">We will eat.</sent>
+				<sent id ="14">After eating we will take rest.</sent>
+				<sent id ="15">Then we will play, learn singing, draw or read story books.</sent>
+				<sent id ="16">Besides, if our parents tell us to do some work we will do that.</sent>
+				<sent id ="17">We will respect and honour our parents and other senior members of the family.</sent>
+				<sent id ="18">We will behave well with them.</sent>
+				<sent id ="19">We will try our best to take care of them.</sent>
+				<sent id ="20">In the evening, we will eat something after washing our hands and face.</sent>
+				<sent id ="21">Then we will study.</sent>
+				<sent id ="22">After studying, we will sit together with other members of the family to eat.</sent>
+				<sent id ="23">After eating Introduction to Environment: Social studies 29 We will brush our teeth.</sent>
+				<sent id ="24">We will talk to them for some time.</sent>
+				<sent id ="25">We will not remain awake late at night but go to sleep quickly.</sent>
+				<sent id ="26">As in the family, we also obey some rules at school.</sent>
+				<sent id ="27">We will follow these rules so we can do better in studies.</sent>
+				<sent id ="28">Everyday, we will come to school in time.</sent>
+				<sent id ="29">We will bring books, notebooks, pencils, eraser, etc., to school in a proper way.</sent>
+				<sent id ="30">We will join the the assembly of the school.</sent>
+				<sent id ="31">We will obey the advice of our teachers.</sent>
+				<sent id ="32">We will behave well with our classmates and others.</sent>
+				<sent id ="33">During tiffin hour break time we will take tiffin and play games.</sent>
+				<sent id ="34">When the bell rings, we will come back to our classroom in time.</sent>
+				<sent id ="35">We will keep the classroom and the school premises neat and clean.</sent>
+				<sent id ="36">When the school breaks up, we will get out of the classroom in a queue.</sent>
+				<sent id ="37">Afterwards, we will go to our own houses.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

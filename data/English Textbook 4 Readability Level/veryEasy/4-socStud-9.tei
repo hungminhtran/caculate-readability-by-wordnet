@@ -1,0 +1,105 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.774</idno>
+				<idno type="Number of sentences">77</idno>
+				<idno type="Number of tokens">808</idno>
+				<idno type="Number of token types">400</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t103">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">This war is known as the Liberation War.</sent>
+				<sent id ="2">The free state of Bangladesh was born by winning this war.</sent>
+				<sent id ="3">The Liberation War continued for nine months.</sent>
+				<sent id ="4">But there is a long history behind the Liberation War.</sent>
+				<sent id ="5">We shall now try to know about it.</sent>
+				<sent id ="6">Pakistan was divided in two parts, East Pakistan and West Pakistan.</sent>
+				<sent id ="7">Bangladesh at that time was known as East Pakistan.</sent>
+				<sent id ="8">The majority of the population of Pakistan lived in East Pakistan.</sent>
+				<sent id ="9">East Pakistan was also more resourceful.</sent>
+				<sent id ="10">But the supreme power lay in the hands of the non-Bengali West Pakistanis.</sent>
+				<sent id ="11">As a result the people of West Pakistan used to enjoy more facilities.</sent>
+				<sent id ="12">They used to exploit and oppress the people of East Pakistan in various ways.</sent>
+				<sent id ="13">Instantly after the birth of Pakistan steps were taken to make Urdu the stale language.</sent>
+				<sent id ="14">This organisation held various meetings and conferences for the purpose.</sent>
+				<sent id ="15">Bangla was the mother tongue of about 56% of the population of Pakistan.</sent>
+				<sent id ="16">In other words, Bangla was the mother tongue of the people of East Pakistan.</sent>
+				<sent id ="17">The students present there at once rejected it shouting, No! No!.</sent>
+				<sent id ="18">By and by the demand for making Bangla the state language grew stronger and stronger.</sent>
+				<sent id ="19">Council for Fighting for State Language was formed in Dhaka.</sent>
+				<sent id ="20">Different programmes including hartals were undertaken.</sent>
+				<sent id ="21">The Language Movement reached its culmination in 1952.</sent>
+				<sent id ="22">The Prime Minister of then Pakistan Khawaja Nazimuddin declared Urdu as the State Language.</sent>
+				<sent id ="23">The student community of East Pakistan promptly rejected this declaration.</sent>
+				<sent id ="24">They decided to observe 21 February, 1952 as the State Language Day.</sent>
+				<sent id ="25">The government tried to crush the movement.</sent>
+				<sent id ="26">On 21 February Section 144 was imposed forbidding processions and demonstrations.</sent>
+				<sent id ="27">But the students decided to violate Section 144.</sent>
+				<sent id ="28">They began to assemble inside the Dhaka University premises from morning on 21 February.</sent>
+				<sent id ="29">Police used tear gas shells to disperse them.</sent>
+				<sent id ="30">At one point of time, police opened fire on them.</sent>
+				<sent id ="31">Many including Salam, Barkat, Rafiq, Jabbar were martyred.</sent>
+				<sent id ="32">At this incidence, the people of whole of East Pakistan rose in protest.</sent>
+				<sent id ="33">This is our central Shahid Minar.</sent>
+				<sent id ="34">Imitating this, many Shahid Minars have been built in different educational institutions in the country.</sent>
+				<sent id ="35">Shahid Day or the Language Martyrs Day is a very important day for us.</sent>
+				<sent id ="36">This is one of our National Days.</sent>
+				<sent id ="37">Every year the people of Bangladesh observe 21 February as Shahid Day with profound respect.</sent>
+				<sent id ="38">Various functions are arranged on Shahid Day all over the country.</sent>
+				<sent id ="39">We shall also organise functions in the schools.</sent>
+				<sent id ="40">Language Movement played a major role in our Liberation War.</sent>
+				<sent id ="41">Through the Language Movement the spirit of nationalism grew in the people of East Pakistan.</sent>
+				<sent id ="42">This spirit worked as an inspiration for our War of Liberation in 1971.</sent>
+				<sent id ="43">These Movements worked as the background of the War of Liberation of Bangladesh.</sent>
+				<sent id ="44">We shall now try to learn about these Movements.</sent>
+				<sent id ="45">To stop these exploitation and deprivation he presented Six Points Demand to the government.</sent>
+				<sent id ="46">Strong movements were started all over East Pakistan to realise these demands.</sent>
+				<sent id ="47">This Movement is known as the Six Points Movement.</sent>
+				<sent id ="48">Students Movements were organised against the Agartala Conspiracy Case.</sent>
+				<sent id ="49">This Movement made significant contribution to our liberation struggle.</sent>
+				<sent id ="50">But instead of giving in Ayub Khan pursued his repressive policies.</sent>
+				<sent id ="51">There was clash with police.</sent>
+				<sent id ="52">School student Matiur and worker Rustam were killed by the shots fired by police.</sent>
+				<sent id ="53">The situation in East Pakistan went beyond the control of the government.</sent>
+				<sent id ="54">In the meantime severe agitation went on in East Pakistan.</sent>
+				<sent id ="55">At one stage the agitation turned into mass revolution.</sent>
+				<sent id ="56">Immediately after receiving power Yahya Khan imposed Martial Law in the country.</sent>
+				<sent id ="57">But Yahya Khan did not let Awami League form a new government.</sent>
+				<sent id ="58">He made lame excuses.</sent>
+				<sent id ="59">On 1 March, 1971 he called for National Assembly Session.</sent>
+				<sent id ="60">Finally he cancelled that also.</sent>
+				<sent id ="61">Hartals and demontrations continued all over the country.</sent>
+				<sent id ="62">In that meeting Bangabandhu called for Non-Cooperation Movement.</sent>
+				<sent id ="63">In response to this call the people of East Pakistan came out on the streets.</sent>
+				<sent id ="64">All administrative works of East Pakistan were going on at the direction of Bangabandhu.</sent>
+				<sent id ="65">Realising the seriousness of the situation Yahya Khan came to Dhaka.</sent>
+				<sent id ="66">But all discussions failed.</sent>
+				<sent id ="67">Countless students, teachers, police, EPR and ordinary men and women were killed.</sent>
+				<sent id ="68">On the same night Bangabandhu was arrested from his residence.</sent>
+				<sent id ="69">On 10 April a temporary government in exile was formed.</sent>
+				<sent id ="70">The whole nation plunged into Liberation War.</sent>
+				<sent id ="71">The Bangali civilian patriots helped and inspired the heroic liberation warriors in many ways.</sent>
+				<sent id ="72">Only a few traitors helped the Pakistanis against the LiberationWar.</sent>
+				<sent id ="73">During the nine-months long Liberation War thirty lakhs of people were martyred.</sent>
+				<sent id ="74">Among the martyrs there were many teachers, doctors, artists, journalists and other intellectuals.</sent>
+				<sent id ="75">The Pakistani soldiers also tortured many people.</sent>
+				<sent id ="76">But the Invading Forces were defeated in the face of strong determination of the Bangalis.</sent>
+				<sent id ="77">We achieved victory in the Liberation War.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

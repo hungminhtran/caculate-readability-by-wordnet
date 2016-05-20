@@ -1,0 +1,65 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-islam-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.672</idno>
+				<idno type="Number of sentences">37</idno>
+				<idno type="Number of tokens">393</idno>
+				<idno type="Number of token types">195</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t38">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Allah says, Meaning: Of course, this is the Glorious Quran, kept preserved on the guarded board Lauhi mahfuz.</sent>
+				<sent id ="2">The Glorious Quran is the Messages of Allah.</sent>
+				<sent id ="3">It is our holy religious book.</sent>
+				<sent id ="4">It is the last and the greatest revealed book.</sent>
+				<sent id ="5">He sent it to show them the right and the best way of life.</sent>
+				<sent id ="6">The Glorious Quran is the source of all sorts of knowledge and Science.</sent>
+				<sent id ="7">It is the Guide of mankind.</sent>
+				<sent id ="8">It shows the distinction between the right and wrong; between false-hood and truth between good and bad.</sent>
+				<sent id ="9">Our beloved Prophet (Sm) was always in the habit of reciting the Holy Quran.</sent>
+				<sent id ="10">His companions would also regularly recite the holy Quran with the same intention.</sent>
+				<sent id ="11">The best time of the recitation of the Quran is just after farz prayer.</sent>
+				<sent id ="12">Now, let us prepare a list of the benefits of reciting the Holy Quran.</sent>
+				<sent id ="13">Man is the best creation of Allah.</sent>
+				<sent id ="14">We all would learn to study the Holy Quran with meaning and recite it regularly.</sent>
+				<sent id ="15">There are many languages in the world.</sent>
+				<sent id ="16">Each nation speaks in its own language.</sent>
+				<sent id ="17">They express their feelings in their own language.</sent>
+				<sent id ="18">We are Bangladeshi.</sent>
+				<sent id ="19">Bangla is our mother tongue.</sent>
+				<sent id ="20">We speak in Bangla and express our feeling through it.</sent>
+				<sent id ="21">The Glorious Quran is revealed in Arabic.</sent>
+				<sent id ="22">Because the mother tongue of our Prophet (Sm) was Arabic.</sent>
+				<sent id ="23">So the Glorious Quran has been revealed in Arabic.</sent>
+				<sent id ="24">This holy book should be pronounced and recited.</sent>
+				<sent id ="25">On the other hand meaning becomes changed if the glorious Quran is not recited correctly.</sent>
+				<sent id ="26">Even some times Salat is not performed correctly.</sent>
+				<sent id ="27">Tajbid is an Arabic word.</sent>
+				<sent id ="28">Its literal meaning is to arrange, decorate and beautify.</sent>
+				<sent id ="29">Means : Recite the Quran slowly and clearly.</sent>
+				<sent id ="30">It is necessary to know the tajbid for reciting the Quran correctly.</sent>
+				<sent id ="31">Allah has commanded us to recite the Quran nicely and correctly.</sent>
+				<sent id ="32">The meaning of the word Makhraj is the place of coming out (the pronunciation).</sent>
+				<sent id ="33">We know that there are 29 letters in Arabic language.</sent>
+				<sent id ="34">Different words are pronounced from different places of the mouth while pronouncing the words in Arabic language.</sent>
+				<sent id ="35">Thus 29 letters of Arabic language are pronounced from 17 places of the mouth.</sent>
+				<sent id ="36">Now, let us make a list of those places of our mouth from where the Arabic words are pronounced.</sent>
+				<sent id ="37">Description of the 17 Arabic Makhraj (outlets of pronunciation).</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

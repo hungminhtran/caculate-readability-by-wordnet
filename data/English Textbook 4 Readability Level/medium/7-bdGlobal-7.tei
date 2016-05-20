@@ -1,0 +1,125 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-bdGlobal-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.246</idno>
+				<idno type="Number of sentences">97</idno>
+				<idno type="Number of tokens">1287</idno>
+				<idno type="Number of token types">509</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t31">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Bangladesh is a densely populated country of the world.</sent>
+				<sent id ="2">Its area is about 1,47,570 sq.km.</sent>
+				<sent id ="3">The present population of Bangladesh is 14 crore 60 lac and in every square km about 964 people live.</sent>
+				<sent id ="4">The population of this country is increasing day by day.</sent>
+				<sent id ="5">Ten years ago in 2001, the population was 12 crore 93 lac and 839 people lived in every sq.km.</sent>
+				<sent id ="6">In 1971, Bangladesh achieved independence.</sent>
+				<sent id ="7">According to the census in 1974 the population was only 7.64 crore.</sent>
+				<sent id ="8">In 2001 its population became 12.93 crore- it means, within 27 years the population has increased by 5.28 crore.</sent>
+				<sent id ="9">According to the primary report of census in 2001, the rate of increase is 1.48%.</sent>
+				<sent id ="10">This rate is comparatively less than the earlier years.</sent>
+				<sent id ="11">In 2007, the total population of Bangladesh was 14 crore 6 lac.</sent>
+				<sent id ="12">The growth rate of population is 1.41%.</sent>
+				<sent id ="13">Our population is increasing rapidly.</sent>
+				<sent id ="14">In 1961, the population was 5.52 crore and in 1991, it increased to 11.15 crore.</sent>
+				<sent id ="15">That means within 30 years, the population being increased gradually has become double.</sent>
+				<sent id ="16">But in the past, the population did not increase so rapidly.</sent>
+				<sent id ="17">In 1860, only 2 crore people lived in the land of Bangladesh.</sent>
+				<sent id ="18">In 1941, it became 4.2 crore.</sent>
+				<sent id ="19">So, in 80 years the population became double.</sent>
+				<sent id ="20">Even before, it took 200 years for the population to become double.</sent>
+				<sent id ="21">The main cause of the increase-decrease of population is birth and death.</sent>
+				<sent id ="22">In any country if more children are born than people died in a year, then the population increases.</sent>
+				<sent id ="23">Again if the number of death is more than that of new born children, population of a country decreases.</sent>
+				<sent id ="24">If the number of birth and death remains same, then the population remains constant.</sent>
+				<sent id ="25">From this, we can realize that the number of population differs due to birth and death rate.</sent>
+				<sent id ="26">The growth rate of population is calculated by crude birth-rate and crude death-rate.</sent>
+				<sent id ="27">Similarly, every year in any region or country the number of dead people in every 1000 people is the crude death- rate of that country.</sent>
+				<sent id ="28">When crude birthrate becomes more than crude death-rate, population increases.</sent>
+				<sent id ="29">According to a calculation, every year 25 lac children are born and 6 lac people of all ages die in Bangladesh.</sent>
+				<sent id ="30">As a result, 19 lac people increase per year.</sent>
+				<sent id ="31">So the main cause of increase of population is high birth rate and low death rate.</sent>
+				<sent id ="32">The main cause of population growth is the decrease of death-rate.</sent>
+				<sent id ="33">In the past, worldwide especially in the developing countries death-rate of children was high.</sent>
+				<sent id ="34">Diseases like measles, polio, tuberculosis, whooping cough, tetanus, diphtheria, etc. caused the death of many children.</sent>
+				<sent id ="35">But now many children are being saved from premature death because of the invention and use of preventive vaccination of those fatal diseases.</sent>
+				<sent id ="36">Again because of the use of oral saline , many children are saved from premature death.</sent>
+				<sent id ="37">Due to the progress of medical science, death-rate of children has decreased much.</sent>
+				<sent id ="38">Again because of the initiation of maternity welfare programmes, the death-rate of pregnant mother has also decreased.</sent>
+				<sent id ="39">Many contagious diseases like cholera, malaria, pox, etc used to spread as epidemic.</sent>
+				<sent id ="40">Thousands of people died of those diseases in the past.</sent>
+				<sent id ="41">Because of the invention of antidotes of those diseases, death-rate has decreased noticeably.</sent>
+				<sent id ="42">Besides, Bangladesh like other countries of the world has also progressed in medical science.</sent>
+				<sent id ="43">Therefore, average life expectancy of people has increased.</sent>
+				<sent id ="44">In 2001, average life expectancy of our country has become 60.8 years.</sent>
+				<sent id ="45">Increase of life span has an impact on increase of population.</sent>
+				<sent id ="46">With the expansion of education, health-education has also spread.</sent>
+				<sent id ="47">People have achieved an idea about nutritious value of foods.</sent>
+				<sent id ="48">Now they know the benefits of taking balanced diet.</sent>
+				<sent id ="49">They have also learnt about the uses of boiled water and arsenic- free water of tubewell as well as the uses of pure drinking water.</sent>
+				<sent id ="50">People are trying to stay in a healthy, neat and clean and pollution-free environment.</sent>
+				<sent id ="51">As a result people are getting disease-free long life.</sent>
+				<sent id ="52">In this way death rate is decreasing gradually.</sent>
+				<sent id ="53">But no mentionable change is occurring in birth-rate.</sent>
+				<sent id ="54">Consequently, population is increasing rapidly.</sent>
+				<sent id ="55">Birth-rate increases due to early marriages, too.</sent>
+				<sent id ="56">Another cause of population growth is migration of settlement.</sent>
+				<sent id ="57">Transfer of the people between two countries is called migration.</sent>
+				<sent id ="58">Migration is of two types emigration and immigration.</sent>
+				<sent id ="59">Migration of people from outside to a country is called immigration.</sent>
+				<sent id ="60">Due to immigration, population of a country increases.</sent>
+				<sent id ="61">Migration of people from a country to another country is called emigration.</sent>
+				<sent id ="62">Due to this, population of a country decreases.</sent>
+				<sent id ="63">If immigration is more than emigration, then population of a country increases.</sent>
+				<sent id ="64">Many a time people of one region go to another region of a country and live there permanently.</sent>
+				<sent id ="65">It is called internal migration.</sent>
+				<sent id ="66">In this condition, population of first region decreases and population of second region increases.</sent>
+				<sent id ="67">In this way, population of different regions differs due to internal migration.</sent>
+				<sent id ="68">For example, suppose you and your family members were the inhabitants of Comilla.</sent>
+				<sent id ="69">But at present all of you are living permanently in Dhaka.</sent>
+				<sent id ="70">As a result, population of Comilla has decreased and population of Dhaka has increased.</sent>
+				<sent id ="71">But due to internal migration total population of a country doesn't change.</sent>
+				<sent id ="72">Population of a country increases only when people come from outside to that country.</sent>
+				<sent id ="73">The families face insolvency if the income of the family remains constant and number of family members increases.</sent>
+				<sent id ="74">The per capita income of the members of a definite income family decreases due to the increase of members in that family.</sent>
+				<sent id ="75">The living standard of a low income family decreases due to the increase of members in that family.</sent>
+				<sent id ="76">Many children are deprived of their rights proper education for the rapid growth of members in a family.</sent>
+				<sent id ="77">Because it is not possible for the government or society to increase the privileges of schools at par with the rapid growth of population.</sent>
+				<sent id ="78">It is not possible for a fixed income family to buy nutritious foods due to the increase of children.</sent>
+				<sent id ="79">Everyone then becomes weak for the lack of nutritious food.</sent>
+				<sent id ="80">Secondly , different types of production-based work should be created for women.</sent>
+				<sent id ="81">If the women participate in those works, naturally population will decrease.</sent>
+				<sent id ="82">Thirdly , education makes people socially aware and attracts them towards the high standard of living.</sent>
+				<sent id ="83">For this, primary education has been made compulsory for all.</sent>
+				<sent id ="84">This programme should be made more effective.</sent>
+				<sent id ="85">Fourthly , parents should be always conscious about education and health of the children.</sent>
+				<sent id ="86">To create this consciousness, a social programme should be introduced.</sent>
+				<sent id ="87">This programme should include mass education, adult education, basic education about healthcare and importance of family planning, etc.</sent>
+				<sent id ="88">Fifthly , consciousness about the importance of nuclear family should be increased among the common people.</sent>
+				<sent id ="89">We should inform the mass people of the privileges of nuclear family such as nutritious and sufficient food, proper education, medical services, etc.</sent>
+				<sent id ="90">Sixthly , population can be the wealth of a nation if the population can be turned into efficient manpower.</sent>
+				<sent id ="91">Thousands of skilled and unskilled workers of our country are working abroad.</sent>
+				<sent id ="92">Besides, many people of different professions of our country work in other countries.</sent>
+				<sent id ="93">The huge amount of money sent by them to our country has contributed significantly to earn foreign exchange.</sent>
+				<sent id ="94">Moreover, a large part of our human resource is contributing to our economy by creating different ways of self-employment.</sent>
+				<sent id ="95">So, the huge population of our country is contributing as manpower indirectly.</sent>
+				<sent id ="96">But we should keep in mind that if the population increases more in proportion than our cultivable land, many problems may be created.</sent>
+				<sent id ="97">Considering all these we should give utmost priority to addressing this problem and try to control population growth in our country.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

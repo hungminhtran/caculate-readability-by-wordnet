@@ -1,0 +1,138 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.952</idno>
+				<idno type="Number of sentences">110</idno>
+				<idno type="Number of tokens">1344</idno>
+				<idno type="Number of token types">533</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t173">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">After birth, a child is totally helpless.</sent>
+				<sent id ="2">Gradually the child grows up by meeting physical, mental and social needs.</sent>
+				<sent id ="3">Growth and development of a child is divided into several divisions.</sent>
+				<sent id ="4">The intelligence of a child is measured by its physical, mental, social, moral and spiritual development.</sent>
+				<sent id ="5">The harmonious development of all physical and mental qualities is called overall development.</sent>
+				<sent id ="6">A congenial environment is necessary for the total development.</sent>
+				<sent id ="7">For the physical development of a child in mother's womb, the mother should be ensured proper diet and care and suitable environment.</sent>
+				<sent id ="8">Again after birth, the child needs proper diet, care, attention, rest, sleep, treatment, exercise and play for physical development.</sent>
+				<sent id ="9">The child should play, go out and mix with other family members for recreation and mental relaxation.</sent>
+				<sent id ="10">The child acquires various knowledge and experience from different sources and when it becomes adult, it attains overall development.</sent>
+				<sent id ="11">Hostile environment, mismanagement in the family, lack of proper food, clothing, treatment, play, education and socialisation hinder the growth and development of the children comparatively.</sent>
+				<sent id ="12">The children grown up in such environment lag behind the normal children.</sent>
+				<sent id ="13">If the gap is not filled up in time, it hampers the child's overall development.</sent>
+				<sent id ="14">The children are fond of imitation.</sent>
+				<sent id ="15">In childhood they learn by observing.</sent>
+				<sent id ="16">Formal speech and discussion, tight schedule of school cannot impress the children.</sent>
+				<sent id ="17">But they gain knowledge and experience from nursery rhymes, songs, books of pictures, radio, television, cartoon etc.</sent>
+				<sent id ="18">The numbers of child magazines and newspapers are very few.</sent>
+				<sent id ="19">There are some magazines published from shishu academy of Bangladesh.</sent>
+				<sent id ="20">Some writers are now publishing some magazines privately for children, which play a vital role in the development of the children.</sent>
+				<sent id ="21">There are interesting rhymes, stories, pictures, cartoons in daily and weekly magazines for children.</sent>
+				<sent id ="22">The children get mental pleasure.</sent>
+				<sent id ="23">Besides they can acquire knowledge on science, arts and literature from those papers.</sent>
+				<sent id ="24">Some quizzes are there in the news papers.</sent>
+				<sent id ="25">By solving those quizzes they can improve their intelligence, thinking power and logic.</sent>
+				<sent id ="26">This is favourable for children's development.</sent>
+				<sent id ="27">The children are very curious to know about games and sports of the country and abroad.</sent>
+				<sent id ="28">There are pages for games and sports in the newspapers.</sent>
+				<sent id ="29">Besides, there are magazines for sports.</sent>
+				<sent id ="30">The children should be provided with those magazines.</sent>
+				<sent id ="31">They can also gain knowledge from reading topics related to social aspects.</sent>
+				<sent id ="32">The children can learn about honesty, truthfulness, morality from interesting stories and essays, which help them improve their character and personality.</sent>
+				<sent id ="33">There is information on health and treatment in the newspaper.</sent>
+				<sent id ="34">The children can learn about health rules and this information helps them improve their physical growth.</sent>
+				<sent id ="35">Family members should collect newspapers and magazines considering the age of the children.</sent>
+				<sent id ="36">It is to be watched whether children are reading those magazines for sometime everyday.</sent>
+				<sent id ="37">Arrangement should be made to keep child magazines and newspapers in the school library.</sent>
+				<sent id ="38">The learners can read those in their leisure.</sent>
+				<sent id ="39">Besides nursery rhymes, poems, cartoons, quizzes, fairy tales, there are others books in the school syllabus of the children.</sent>
+				<sent id ="40">The children get knowledge from these books.</sent>
+				<sent id ="41">The children can get a lot of pleasure by hearing those stories or rhymes.</sent>
+				<sent id ="42">When the children go to nursery, they learn lessons by seeing pictures.</sent>
+				<sent id ="43">They get knowledge of letters and numbers from the books of pictures.</sent>
+				<sent id ="44">Thus children can improve their language by enriching their vocabulary.</sent>
+				<sent id ="45">From primary to higher secondary, there are syllabuses about health, nutrition etc. Students can learn health rules by studying.</sent>
+				<sent id ="46">They can learn how to prevent contagious diseases.</sent>
+				<sent id ="47">They can be also aware of health from reading books on health science.</sent>
+				<sent id ="48">Story books quench the thirst of their mind.</sent>
+				<sent id ="49">Body and mind are inseparable.</sent>
+				<sent id ="50">Physical growth is possible if mind remains sound.</sent>
+				<sent id ="51">Children spend their time by reading amusing stories.</sent>
+				<sent id ="52">By reading books they forget sorrows, sufferings, frustration, quarrel and envy etc. Mind becomes fresh and healthy.</sent>
+				<sent id ="53">It helps children go forward.</sent>
+				<sent id ="54">If the children of 8 - 10 years, read books on invention, discovery and science, their inquisitive power increases.</sent>
+				<sent id ="55">Books on arts and culture improve creativity of the children.</sent>
+				<sent id ="56">Fairy tales enhance their imaginative power.</sent>
+				<sent id ="57">Books in school syllabus play important role for the children to gain knowledge in different fields.</sent>
+				<sent id ="58">Students can learn a lot of social information by reading books on social life, family life and civics as prescribed in the syllabus.</sent>
+				<sent id ="59">What is family?</sent>
+				<sent id ="60">How to adjust with the neighbours, What is the aim of social customs?</sent>
+				<sent id ="61">These are the subjects of these books.</sent>
+				<sent id ="62">By reading these books they acquire social qualities.</sent>
+				<sent id ="63">Kindness, love, cooperation, friendship-all these qualities are acquired by the students when they read those books.</sent>
+				<sent id ="64">In this way process of socialisation starts.</sent>
+				<sent id ="65">Besides, observing different characters in a story book, they learn how to maintain social relationship.</sent>
+				<sent id ="66">Amusing but informative books should be selected for the children.</sent>
+				<sent id ="67">There are some books which are harmful for children.</sent>
+				<sent id ="68">They may develop a negative attitude towards life by reading those books.</sent>
+				<sent id ="69">There are religious books for every one.</sent>
+				<sent id ="70">Religious rules, manner and behaviour, gentility, truthfulness etc have been discussed in those books.</sent>
+				<sent id ="71">We can learn about moral qualities by reading biography of great personalities.</sent>
+				<sent id ="72">Children are morally developed when they apply the qualities earned from different books in their practical life.</sent>
+				<sent id ="73">They form a good habit by the habit of reading.</sent>
+				<sent id ="74">They can get rid of bad habit and get opportunity to develop themselves.</sent>
+				<sent id ="75">Many children get pleasure in listening radio.</sent>
+				<sent id ="76">There are various programmes such as songs, dramas, educational programmes and children's programmes in radio.</sent>
+				<sent id ="77">These programmes have direct influence in the development of the children.</sent>
+				<sent id ="78">They can have joy in reading books and magazines but listening radio is another kind of experience.</sent>
+				<sent id ="79">These programmes are broadcast through music, rhythm, beat, harmony.</sent>
+				<sent id ="80">As a result children gain a direct experience.</sent>
+				<sent id ="81">Different educational programmes for the children of different ages help them achieve knowledge on various subjects.</sent>
+				<sent id ="82">The children have to take part in delivering speech, acting in the play, singing in the school.</sent>
+				<sent id ="83">So they can learn all these things from radio in an attractive way.</sent>
+				<sent id ="84">This kind of knowledge is imprinted in their mind for long.</sent>
+				<sent id ="85">Thus they can learn within a short time.</sent>
+				<sent id ="86">Many programmes in radio are conducted by doctors, nutritionists, physiologists.</sent>
+				<sent id ="87">These programmes help children to know how to keep healthy.</sent>
+				<sent id ="88">Besides, their body and mind get relaxation through various entertaining programmes.</sent>
+				<sent id ="89">Through dramas and discussions, it is shown how we can solve many family and social problems.</sent>
+				<sent id ="90">The children can learn about social rules, discipline and how to maintain inter- family relationship.</sent>
+				<sent id ="91">On religious days, special programmes are broadcast for Muslims, Hindus, Christians, and for the people of other religions.</sent>
+				<sent id ="92">The children can be aware of religious customs and functions.</sent>
+				<sent id ="93">Religious programmes help in the development of children's morality and spirituality.</sent>
+				<sent id ="94">Children get ample pleasure in watching television.</sent>
+				<sent id ="95">Now a days children in the villages also watch television.</sent>
+				<sent id ="96">Government has set up television centres in different places in the country.</sent>
+				<sent id ="97">Boys and girls of the villages can get physical and mental relief by watching television in the evening after tiresome work of the day.</sent>
+				<sent id ="98">Television is a visible and audible object for learning.</sent>
+				<sent id ="99">There are various programmes telecast for building awareness of physical development.</sent>
+				<sent id ="100">The children can easily learn these and implement in their practical life.</sent>
+				<sent id ="101">Especially nutrition and health related programmes are very fruitful.</sent>
+				<sent id ="102">They can gain knowledge from educational programmes telecast for the students.</sent>
+				<sent id ="103">These programmes teach them how to solve problems, how to improve their creative power.</sent>
+				<sent id ="104">They can also learn from the programmes related to law.</sent>
+				<sent id ="105">By watching social cinema or drama, they can acquire various qualities.</sent>
+				<sent id ="106">There are many characters dramatised in the social drama.</sent>
+				<sent id ="107">The kindness, affection, honesty, sympathy, patience of a character in a drama, influence the children.</sent>
+				<sent id ="108">From religious functions and discussions, the children can acquire different knowledge and show respect not only to their own religion but also other religions.</sent>
+				<sent id ="109">They obey the rules and regulations of the religion.</sent>
+				<sent id ="110">As a result all the qualities- truthfulness, honesty, sympathy flourish in the character of the children.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

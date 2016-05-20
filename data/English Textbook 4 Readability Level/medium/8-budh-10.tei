@@ -1,0 +1,148 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-budh-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.121</idno>
+				<idno type="Number of sentences">120</idno>
+				<idno type="Number of tokens">1498</idno>
+				<idno type="Number of token types">614</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t101">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Councils participated by elder Sthabir for recitation, correction and preservation of the words of the Buddha, are called Samgitis.</sent>
+				<sent id ="2">The history of the Dharma of the Buddha is closely related to the Buddhist Councils.</sent>
+				<sent id ="3">Without the discussion in the Council it is impossible to write the history of the Bouddhadharma.</sent>
+				<sent id ="4">Since the Mahaparinirban (the Great demise) of the Buddha, upto this time, a good number of Councils were held.</sent>
+				<sent id ="5">Councils played very significant role in the preaching and spreading the Bouddha- dharma.</sent>
+				<sent id ="6">After the conclusion of almost every Council the religious envoys or propagators of the doctrine were sent in India and outside India.</sent>
+				<sent id ="7">Among the Sthabirs Mahakasyapa, Ananda, Upali, Yash, Moggaliputtatissa and other Arahat monks played extra-ordinary role.</sent>
+				<sent id ="8">As patrons of the Councils the king Ajatasatru, Kalashok, Emperor Ashok, Kaniska, the king Vattagamini, Mindanmin are specially remarkable.</sent>
+				<sent id ="9">Three months after the Mahaparinirban of the Bhagavan Buddha, the first great Council was held.</sent>
+				<sent id ="10">This was convened in the Saptaparni cave of Vebhar hill at Rajgriha.</sent>
+				<sent id ="11">This Council was held with the financial help of king Ajatasatru and it was presided over by Mahakasapa Sthabir.</sent>
+				<sent id ="12">Comment of an insolent monk Bhikkhu Subhadra was the main cause for convening the first great Buddhist Council.</sent>
+				<sent id ="13">The devoted monks with Mahakasyapa Sthabir became very much frightened at his impolite conduct.</sent>
+				<sent id ="14">His teachings had not yet-been (properly) collected.</sent>
+				<sent id ="15">A seat was kept vacant.</sent>
+				<sent id ="16">Just before the Council started its session Ananda attained through a miraculous act of meditation.</sent>
+				<sent id ="17">Then he took his seat on his particular seat in a super-normal way.</sent>
+				<sent id ="18">In the Council Upali Sthabir at first recited the Vinay.</sent>
+				<sent id ="19">Ananda Sthabir recited the Dharma.</sent>
+				<sent id ="20">He recited the Brahmmajal Sutra, Samannaphal Sutra and other Sutras.</sent>
+				<sent id ="21">By the recitations of both of them the words of the Buddha were collected.</sent>
+				<sent id ="22">During the second month of Barshabas the main sitting of the Council began.</sent>
+				<sent id ="23">The sitting of the Council continued for long seven months.</sent>
+				<sent id ="24">The proceedings of the Council can be divided into three.</sent>
+				<sent id ="25">As Recitation of the Dharma and Vinay.</sent>
+				<sent id ="26">Ananda's confession (of guilts) and The trial of Channa.</sent>
+				<sent id ="27">Mahakasapa Sthabir was the questioner.</sent>
+				<sent id ="28">Ananda and Upali Sthabirs answered to the questions.</sent>
+				<sent id ="29">In the history of the Bruddha-dharma, the importance of the first Great Buddhist Council is limitless.</sent>
+				<sent id ="30">Due to this sitting of this Council Dharma and the Vinay have been collected.</sent>
+				<sent id ="31">Only the first Great Council has been acknowledged by both the Sthabirvada and Mahayanas.</sent>
+				<sent id ="32">For this reason, it is called as the Mahasamgiti (the Great Council).</sent>
+				<sent id ="33">Sthabir Revata adorned the seat of President in this sitting.</sent>
+				<sent id ="34">The Vajjiputra Bhikkhus introduced ten priniples outside the Vinay rules.</sent>
+				<sent id ="35">These principles outside Vinay rules were called Dash Vatthuni (ten objects).</sent>
+				<sent id ="36">Sthabir Yasa protested against these wrong practices.</sent>
+				<sent id ="37">He regulated the lay male and female disciples to refrain from doing such heinous acts.</sent>
+				<sent id ="38">Knowing this the Vajjiputra Bhikkhus raised their voices against him.</sent>
+				<sent id ="39">Sthabir Yasa met Sthabir Samanbasi in Ahoganga.</sent>
+				<sent id ="40">They together with 88 elder Sthabirs of South India made consultations among one another and determined to keep the Order of the Buddha.</sent>
+				<sent id ="41">On this point the Bhikkhu Sangha was divided into two groups.</sent>
+				<sent id ="42">At last all gathered in the Valukaram of Baishali.</sent>
+				<sent id ="43">This is known as the second Buddhist Council.</sent>
+				<sent id ="44">In this Council 700 Arahat Bhikkhus took part.</sent>
+				<sent id ="45">There was a debate between the two groups.</sent>
+				<sent id ="46">At last taking four from each group totalling eight, a working committee was formed to work as Juries.</sent>
+				<sent id ="47">The working committee unanimously declared the Dash Vatthuni as out of Vinay rules.</sent>
+				<sent id ="48">In this council ten thousand monks were expelled.</sent>
+				<sent id ="49">The expelled monks gathered in an another Convocation.</sent>
+				<sent id ="50">It is known as Mahasamgiti (Great Council).</sent>
+				<sent id ="51">From here the Mahasanghika sect was originated.</sent>
+				<sent id ="52">During the reign of the Emperor Ashok with his patronization and financial help, the third Council was held in Ashokrama of Patliputra (modern Patna).</sent>
+				<sent id ="53">After Emperor Ashok took the doctrine of the Buddha, the diginity of the Buddhist Sangha increased greatly.</sent>
+				<sent id ="54">They taking illegal means lived in the monasteries.</sent>
+				<sent id ="55">They caused sufferings to the pious monks .</sent>
+				<sent id ="56">They preached the pious act as the sinful act and the illegal act as the legal act.</sent>
+				<sent id ="57">Gradually the number of unlawful monks began to increase.</sent>
+				<sent id ="58">The Vinay abiding monks were deprived of having the chance of reciting the Patimokkha (a book of Vinay code).</sent>
+				<sent id ="59">The unlawful monks made disturbances.</sent>
+				<sent id ="60">As a result, in the Ashokaram for many days the recitation of Patimokkha, Uposath, Pravarana, Uposampada and other Vinay acts were stopped.</sent>
+				<sent id ="61">The lawful monks denied to observe the Vinay acts with the non-Bhikkhus.</sent>
+				<sent id ="62">The unlawaful monks making a conspiracy persuaded Emperor Ashok to proclaim an order so that all monks together perform Vinay Acts.</sent>
+				<sent id ="63">The Vinay abiding monks did not agree to this.</sent>
+				<sent id ="64">As a result by an order of an unexperienced minister many pious monks were murdered.</sent>
+				<sent id ="65">Emperor Ashok was shocked at this news.</sent>
+				<sent id ="66">To know whether he was responsible for this sinful act, he sent an envoy with a minister to the Moggaliputtatisya Sthabir in Ahoganga hill.</sent>
+				<sent id ="67">The Sthabir gave his consent to come to Patliputra for tile all round benefit of the Bouddhadharma.</sent>
+				<sent id ="68">The royal officials brought him with them.</sent>
+				<sent id ="69">Ashok greeted him with great pomp and grandeur.</sent>
+				<sent id ="70">He made arrangements for the residence of the Sthabir in the king's garden.</sent>
+				<sent id ="71">The Emperor after adoration informed him about the crime.</sent>
+				<sent id ="72">The Thera removed his doubt.</sent>
+				<sent id ="73">He said, There was no guilt without evil intention.</sent>
+				<sent id ="74">The king became free, from doubt by the wise answer of the Sthabir.</sent>
+				<sent id ="75">Ashok became glad hearing his preachings on the Dharma for a week.</sent>
+				<sent id ="76">The Sthabir informed him about the purity of Uposath deeds.</sent>
+				<sent id ="77">Ashok for upkeeping the purity of the doctrine made necessary arrangements for holding the Council.</sent>
+				<sent id ="78">Moggliputtatisya Sthabir presided over this Council.</sent>
+				<sent id ="79">He selected one thousand monks as the Samgitikarakas (participant) out of the present monks.</sent>
+				<sent id ="80">According to the instruction of the Sthabir, Emperor Ashok made all the monks assembled in one place.</sent>
+				<sent id ="81">One by one he asked every one which doctrine the Buddha preached.</sent>
+				<sent id ="82">None of the unlawful heretic monks could answer this question.</sent>
+				<sent id ="83">The pious and real monks without any hesitation said that the Buddha preached Vibhajjavad (the doctrine of analytical reasoning).</sent>
+				<sent id ="84">The Vibhajjavad is the main theory of the doctrinal philosophy in Theravad.</sent>
+				<sent id ="85">Then Ashok made the non-Bhikkhus wear white garments and expelled them from the Sangha.</sent>
+				<sent id ="86">When the Sangha was purified, then the main work of the Council began.</sent>
+				<sent id ="87">One thousand Samgitikarak Sthabirs approved the proceedings of the first and second Councils.</sent>
+				<sent id ="88">Then they recited the Vinay, the Sutra and the Abhidharma in succession.</sent>
+				<sent id ="89">This Council was held in 17th year of Ashok's reign.</sent>
+				<sent id ="90">The fifth book Kathavatthu of the Abhidharma Pitak was composed in this very Council.</sent>
+				<sent id ="91">This was composed by Moggaliputtatisya Sthabir.</sent>
+				<sent id ="92">Except this book of the Tripitak there is no name of the compilor of any other book.</sent>
+				<sent id ="93">In this very Council the Dharma-Vinay was named first as the Tripitak.</sent>
+				<sent id ="94">There was no independent existence of the Abhidharma Pitak.</sent>
+				<sent id ="95">Even if any, it was associated with the Dharma.</sent>
+				<sent id ="96">This Congress ended on the full-moon day of Kartik.</sent>
+				<sent id ="97">This took nine months.</sent>
+				<sent id ="98">After the completion of the Council, Emperor Ashok sent the Bhikkhu Sangha in and outside the country to preach the Dharma.</sent>
+				<sent id ="99">Those who led the envoys of the doctrine included the Majjhantika, Mahadev Rakkhit Mahadhamarakkhit Shon, Mahinda and other Sthabirs were very remarkable.</sent>
+				<sent id ="100">There is no mention in the Mahayana books of the third Council held during the reign of Emperor Ashok.</sent>
+				<sent id ="101">On the other hand, Sthabirvada books do not mention the Council patronized by Emperor Kaniska.</sent>
+				<sent id ="102">This was convened at the Aluvihar in Ceylon.</sent>
+				<sent id ="103">Five hundred learned monks took part in it.</sent>
+				<sent id ="104">This is also known as Aluvihar Samgiti.</sent>
+				<sent id ="105">The speciality of this Council is that in this Council for the first time the Atthakathas (commentaries) of the Pali Tripitak were composed.</sent>
+				<sent id ="106">It is noted that by order of the king, the whole Tripitak and its commentaries were compiled.</sent>
+				<sent id ="107">Again, by his order the entire Tripitak and its commentaries were written (inscribed) on palm-leaves.</sent>
+				<sent id ="108">The Mahayanists had named the Kaniska Samgiti as the third Council.</sent>
+				<sent id ="109">But the scholars have named this from historical point of view as the fourth Council.</sent>
+				<sent id ="110">In the history of Buddhist literature, the importance of this is not insignificant.</sent>
+				<sent id ="111">To know the origin and the development of Mahayana Buddhism, the study and the research on the Kaniska Samgiti are also very indispensible.</sent>
+				<sent id ="112">During the reign of Emperor Kaniska, philosopher Basumitra presided over the Council held in the Kaniska vihar of Jalandhar.</sent>
+				<sent id ="113">As Samgitikarakas five hundred monks were present.</sent>
+				<sent id ="114">In that Council Atthakathas were collected named as Mahavibhasasastra.</sent>
+				<sent id ="115">The great poet Asvaghos was the vice-president in this Council.</sent>
+				<sent id ="116">The entire Pitak was for the first time transformed into Sanskrit.</sent>
+				<sent id ="117">The fifth Samgiti was held in Mandalaya of Myanmar (Burma) in 1871 A.D. King Mindanmin was the patron of that Council.</sent>
+				<sent id ="118">The deliberations of that Congresss were conducted by the leadership of 2400 learned monks.</sent>
+				<sent id ="119">That took six months.</sent>
+				<sent id ="120">The whole Tripitak was inscribed on marble slabs.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

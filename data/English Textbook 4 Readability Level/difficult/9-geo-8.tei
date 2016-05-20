@@ -1,0 +1,139 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-geo-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.918</idno>
+				<idno type="Number of sentences">111</idno>
+				<idno type="Number of tokens">1849</idno>
+				<idno type="Number of token types">656</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t87">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Location : We live in the continent of Asia.</sent>
+				<sent id ="2">Bangladesh is located in this continent.</sent>
+				<sent id ="3">Asia lies between 10 South latitude to 80 North latitude and 25 East longitude to 170 West longtitude.</sent>
+				<sent id ="4">The Pacific Ocean is in the east of this continent, Europe and the Mediterranean Sea in the west, Africa and the Red Sea in the south-west, the North Ocean in the north while the Indian Ocean in the south.</sent>
+				<sent id ="5">Europe and Asia are jointly called Eurasia since they are connected by land.</sent>
+				<sent id ="6">Only the Ural Mountain, the Ural river and the Caspian Sea have seperated Europe from Asia.</sent>
+				<sent id ="7">Area : Asia is the largest continent of the world.</sent>
+				<sent id ="8">Its area is 4,64,91,180 square kilometres.</sent>
+				<sent id ="9">This continent is 8,528 kilometres from north to south while in east to west it is 9,654 kilometres.</sent>
+				<sent id ="10">The continent of Asia is 1.5 times larger than Africa, 1.82 times than North America, 2.4 times than South America, 4.19 times than Europe, 5.73 times than Auatralia and 3.12 times than Antarctica.</sent>
+				<sent id ="11">Coastline : The coastline of Asia is not very much indented.</sent>
+				<sent id ="12">Naturally, the coastline is much shorter in comparison to its area.</sent>
+				<sent id ="13">The total coastline is 57,924 kilometres that means it has 1 kilometre coastline per 773 square kilometres.</sent>
+				<sent id ="14">The number of the developed sea ports is much less since the coastline is very short.</sent>
+				<sent id ="15">Physiography : Asia can be divided into five divisions according to its physical structures.</sent>
+				<sent id ="16">The low plains of North Asia : If we draw a straight line from the Bering strait to the south of the Caspian Sea, we shall see a great low land to its north.</sent>
+				<sent id ="17">This plain has gradually sloped to the north.</sent>
+				<sent id ="18">The highlands of Central Asia and the mountains : The height of Pamir, a plateau in Central Asia is 4,813 metres and it is called the roof of the world since it is the highest plateau.</sent>
+				<sent id ="19">The plateau is called the Pamir Knot, because different mountain ranges radiate from Pamir Knot to different directions.</sent>
+				<sent id ="20">The Tien Shan Mountains have stretched towards north-east direction from here.</sent>
+				<sent id ="21">Of the ranges of this mountain, Altai, Yablonovy and Stanovoi are the major ranges.</sent>
+				<sent id ="22">The Karakoram lies in the south-west of the Kunlun running towards east from the Pamir and the Himalayan Mountains in the south (Fig. 57).</sent>
+				<sent id ="23">The Tarim plateau is situated between the Altyntag Mountains and the Tien Shan and the plateau of Tibet lies between the Himalayan Mountain and Kunlun.</sent>
+				<sent id ="24">The Himalayas is the highest mountain in the world.</sent>
+				<sent id ="25">It is about 2,414 kilometres long and 241 to 402 kilometres wide.</sent>
+				<sent id ="26">The Mount Everest (8,884 metres) is the highest peak.</sent>
+				<sent id ="27">Besides, there are about 22 such peaks whose height will not exceed 6,016 metres.</sent>
+				<sent id ="28">K2 or Godwin Austin (8,619 metres) of Karakoram Mountain is the second highest peak in the world.</sent>
+				<sent id ="29">Few branches from the east end of the Himalayas turning towards south passed through Myanmar as the Arakan Yomas and Pegu Yomas.</sent>
+				<sent id ="30">Two mountain ranges viz., Hindu Kush extending towards south from Pamir Knot and the other one towards south-west as Sulaiman and Khirthar.</sent>
+				<sent id ="31">The Elburz mountain of north Iran and the Zagros mountain of south Iran have joined the Armenian Knot to the west.</sent>
+				<sent id ="32">The Iranian Plateau is located in between these two mountains.</sent>
+				<sent id ="33">The mountains of Pontic and Taurus originating from the Armenian Knot extend towards west.</sent>
+				<sent id ="34">The plateau of Anatolia is between these two mountains.</sent>
+				<sent id ="35">The low plains of South Asia : The deposits of alluvial soil by the rivers of Tigris (Dazla) and Euphrates (Forat) basin of Iraq, Indus-Ganges-Brahmaputra basin of Pakistan, India and Bangladesh and Hwang Ho-Yangtze-Sikiang basin of China have developed this plain.</sent>
+				<sent id ="36">Tigris and Euphrates plain slope towards south-east, the Indus basin towards south-west, the Ganges basin towards east, the Brahmaputra basin initially towards south-west then towards the south.</sent>
+				<sent id ="37">The alluvial soil has made this plain very fertile.</sent>
+				<sent id ="38">The Plateau of South Asia : The Arab, Deccan and Indo-China plateau of the southern part of Asia is formed of old rocks.</sent>
+				<sent id ="39">Most of the area of the wide Arab Plateau is barren and sandy and this plateau slopes to the east.</sent>
+				<sent id ="40">The West Ghat Mountain is situated to the west of the Deccan plateau, East Ghat Mountain in the east and Vindhya range in the north.</sent>
+				<sent id ="41">This plateau slopes to the east while the Indo-China Plateau slopes to the south.</sent>
+				<sent id ="42">The Volcanic Islands : Forming festoons down the east coast of Asia, there are rocky islands of Aleutian, Kurile, Japan, Riukieu, the Philippines and Borneo.</sent>
+				<sent id ="43">Most of these islands are adorned with volcanoes.</sent>
+				<sent id ="44">Rivers : According to the flow, the four great river systems of Asia are as follows :</sent>
+				<sent id ="45">Rivers flowing to the North Sea : The Obb (with tributary Irtish 5,569 kilometres) and the Yenisey (with tributary Angara 4,989 kilometres) rising from the Altai Mountains and Lena originating from the lake Baikal (4,264 kilometres) flow to the North Sea.</sent>
+				<sent id ="46">The mouth of the rivers remain frozen most of the time of the year.</sent>
+				<sent id ="47">Rivers flowing to the Pacific Ocean : The Amur river (4,344 kilometres) originating from Yablonovy Mountain has flowed to the Orkhotosk Sea in the east.</sent>
+				<sent id ="48">This river remains frozen for six months of the year.</sent>
+				<sent id ="49">The Hwang Ho (4,668 kilometres) rises from the Kunlun Mountains and has fallen into the Yellow Sea.</sent>
+				<sent id ="50">The Yangtzekiang (5,525 kilometres) originating in the Tibet Plateau has fallen into the East China Sea.</sent>
+				<sent id ="51">Yangtze is the longest river in Asia.</sent>
+				<sent id ="52">The Sikiang rises from Yuanan Plateau of China and flows to the South China Sea.</sent>
+				<sent id ="53">The Mekong river and the Menam both rise from the Tibet Plateau, have fallen into the South China Sea and to the Bay of Thailand respectively.</sent>
+				<sent id ="54">Rivers flowing to the Indian Ocean : The Salwin (2,816 kilometres) river of Myanmar originating from the Tibet Plateau has fallen into the Bay of Martaban.</sent>
+				<sent id ="55">The Irrawaddy (2,092 kilometres) rises from the Naga Mountains and flows through Myanmar falls into the Bay of Martaban.</sent>
+				<sent id ="56">The Brahmaputra (2,896 kilometres) rises from lake Manash of Tibet and mingles with the Ganges flows through Tibet, Assam and Bangladesh.</sent>
+				<sent id ="57">The Ganges (2,505 kilometres) rising from the glacier Gangotree flows to the Bay of Bengal through India and Bangladesh.</sent>
+				<sent id ="58">The lower part of the river is known as the Padma.</sent>
+				<sent id ="59">The Indus (2,896 kilometres) rises from the Himalayas and flows to the Arabian Sea through Kashmir and Pakistan.</sent>
+				<sent id ="60">The Tigris (Dazla, 1,900 kilometres) and the Euphrates (Forat) rise in the highlands of Armenia in East Turkey.</sent>
+				<sent id ="61">The combined course of these two rivers is known as Shat-el-Arab and flows into the Bay of Persia.</sent>
+				<sent id ="62">Rivers flowing into the lakes : The Amudarya and Sirdarya rising from the Pamir plateau and Tien Shan mountain respectively fall into the Aral Lake, while the Ural river, coming up from the Ural mountains flows to the Caspian Sea.</sent>
+				<sent id ="63">the Tarim river (2,735 kilometres) to the Lapnor Lake from the Karakoram Mountains, the Helmond river from the Hindu Kush mountains to the Hamun and the Jordan river from the highlands of Lebanon to the Dead Sea.</sent>
+				<sent id ="64">Besides, many small rivers from the different parts of the continent of Asia have flowed to different directions.</sent>
+				<sent id ="65">Climate : Asia, being a large continent, has diverse physical features.</sent>
+				<sent id ="66">The barriers to the free flow of air current have created different climates in different areas.</sent>
+				<sent id ="67">According to the prevailing climate, the continent can be divided into seven climatic zones (Fig. 58).</sent>
+				<sent id ="68">Equatorial Climatic Zone : The equatorial type of climate is found in Singapore, Malaysia Peninsula and Indonesia within 5 North and 5 South latitudes.</sent>
+				<sent id ="69">The termperature here is high and heavy shower occurs throughout the year.</sent>
+				<sent id ="70">The variation of temperature between winter and summer is less.</sent>
+				<sent id ="71">The Monsoon Climatic Zone : The countries in the Tropical zone and the eastern part of Asia are included in this climatic zone.</sent>
+				<sent id ="72">The countries included are South and East China, the Philippines, Vietnam, Laos, Cambodia, Thailand, Myanmar, Bangladesh, India, Sri Lanka and Pakistan.</sent>
+				<sent id ="73">Heavy rains occur during summer and the rains make the summer cooler.</sent>
+				<sent id ="74">Neither summer nor winter is extreme here.</sent>
+				<sent id ="75">The climate is warm and wet.</sent>
+				<sent id ="76">The Desert Climatic Zone : The prominence of dryness in this type of climate is the major characteristics.</sent>
+				<sent id ="77">Less growth of vegetation is found here due to no rainfall or less rainfall and the prevalence of drought.</sent>
+				<sent id ="78">This type of climate is divided into two.</sent>
+				<sent id ="79">Hot Desert Climatic Region : This climate includes the Thar Desert of Pakistan and India, the United Arab Emirates, Qatar, Oman, Yemen, Saudi Arabia, Jordan and South-West Iran.</sent>
+				<sent id ="80">Here the climate is extreme.</sent>
+				<sent id ="81">Extreme hot during day and very cold during night is found to prevail here.</sent>
+				<sent id ="82">Cold Desert Climatic Region : This type of climate includes Mongolia of Central Asia, Sinkiang of China, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, Turkmenistan, Afghanistan, and Iran.</sent>
+				<sent id ="83">These regions experience less rainfall being far away from the ocean.</sent>
+				<sent id ="84">The air of this region is dry due to less amount of rainfall.</sent>
+				<sent id ="85">The climate of this region is cold due to height.</sent>
+				<sent id ="86">The Gobi desert is located in Mongolia and Sinkiang of the cold and dry climatic region.</sent>
+				<sent id ="87">The Mediterranean Climatic Zone : This climatic zone includes Turkey, Syria, Lebanon, Palestine, Israel, and North Iraq of West Asia.</sent>
+				<sent id ="88">Here rain falls in winter and the summer goes dry.</sent>
+				<sent id ="89">The Continental Climatic Zone : The climate of West Siberia is extreme.</sent>
+				<sent id ="90">Winter is very cold here and there is heavy snowfall.</sent>
+				<sent id ="91">Summer is hot but short.</sent>
+				<sent id ="92">There is scarcely any rainfall.</sent>
+				<sent id ="93">The Cold Temperate Climatic Zone : This climate is found in East Siberia.</sent>
+				<sent id ="94">Winter is extreme here.</sent>
+				<sent id ="95">Extreme cold wind flows from the Arctic in winter.</sent>
+				<sent id ="96">There is snowfall instead of rainfall.</sent>
+				<sent id ="97">The eastern part is colder and drier than the western part.</sent>
+				<sent id ="98">The Tundra Climatic Zone : This climate is found in the north of Siberia.</sent>
+				<sent id ="99">Winter is very long here and cold is very extreme.</sent>
+				<sent id ="100">Verkhoyansk in Siberia is the coldest place in the world.</sent>
+				<sent id ="101">The snow in the north of Tundra does not melt even in summer.</sent>
+				<sent id ="102">This area is unfit for human habitation.</sent>
+				<sent id ="103">103 Political division and population : The states of Asia have been divided into five regions for the sake of discussion such as The SAARC countries, South-East Asia, Far East and Siberia, Central Asia and South-West Asia.</sent>
+				<sent id ="104">The area under SAARC, a forum for the development of South Asia regional countries is 52,21,391 square kilometres and more than 159.90 crore people live hi this region.</sent>
+				<sent id ="105">All the seven states are independent and sovereign and help each other for mutual development.</sent>
+				<sent id ="106">There are 11 states in South-East Asia with a total area of 45,10,560 square kilometres and population of 59.70 crore.</sent>
+				<sent id ="107">Each of the states is independent and sovereign.</sent>
+				<sent id ="108">There are 8 states in the Far East and Siberia.</sent>
+				<sent id ="109">The total area of these countries is 2,65,71,415 square kilometres with a total population of 158.01 crore.</sent>
+				<sent id ="110">The total area of five countries in Central Asia is 39,94,400 square kilometres and the population is 6.25 crore.</sent>
+				<sent id ="111">The total area of the 16 states of South-West Asis is 61,93,414 square kilometres and the population is 29.36 crore.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

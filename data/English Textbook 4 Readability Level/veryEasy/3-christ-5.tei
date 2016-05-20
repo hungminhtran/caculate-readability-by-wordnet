@@ -1,0 +1,93 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.817</idno>
+				<idno type="Number of sentences">65</idno>
+				<idno type="Number of tokens">611</idno>
+				<idno type="Number of token types">263</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t9">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We see many things with our eyes.</sent>
+				<sent id ="2">We see a lot of things around us.</sent>
+				<sent id ="3">We see various living beings, animals and birds.</sent>
+				<sent id ="4">In the daytime, if we look up, we see the sun and the sky.</sent>
+				<sent id ="5">At night we see the moon and the stars in the sky.</sent>
+				<sent id ="6">We know that God created everything in six days with His words only.</sent>
+				<sent id ="7">Why did God create all these?</sent>
+				<sent id ="8">He created all these things for the welfare of human being.</sent>
+				<sent id ="9">He also gave them many other responsibilities too.</sent>
+				<sent id ="10">These are to look after the creation of God.</sent>
+				<sent id ="11">In other words, it is to take care of all things that God has created.</sent>
+				<sent id ="12">We nurture plants that we plunt in the compounds of our houses.</sent>
+				<sent id ="13">We water them regularly.</sent>
+				<sent id ="14">We use fertilizer.</sent>
+				<sent id ="15">We put fence so that no one can spoil them.</sent>
+				<sent id ="16">As we take care of them, the plants grow and give us flowers and fruits.</sent>
+				<sent id ="17">We become happy and get benefits from them.</sent>
+				<sent id ="18">Why should we look after these things?</sent>
+				<sent id ="19">If we plant a flower plant, it is we who take care of that.</sent>
+				<sent id ="20">Similarly, God should take care of His own creation.</sent>
+				<sent id ="21">Why should we take care of His creation?</sent>
+				<sent id ="22">He has created us after His own image.</sent>
+				<sent id ="23">We are the representatives of God on the earth.</sent>
+				<sent id ="24">Who is a Representative?</sent>
+				<sent id ="25">What do we mean by the word representative?</sent>
+				<sent id ="26">It means to work on behalf of the master.</sent>
+				<sent id ="27">The mind set of the representative should be like his master's.</sent>
+				<sent id ="28">For example, when our parents are busy, they ask for our help.</sent>
+				<sent id ="29">They ask us to look after their cows, lambs, chicken etc.</sent>
+				<sent id ="30">We take care of them as our own things.</sent>
+				<sent id ="31">We do not kill them or sell them.</sent>
+				<sent id ="32">When one is lost, we look for it.</sent>
+				<sent id ="33">We keep on finding until we get it back.</sent>
+				<sent id ="34">As we find it, we take it back home happily.</sent>
+				<sent id ="35">We do it because we are the representatives of our parents.</sent>
+				<sent id ="36">Our parents home is our home.</sent>
+				<sent id ="37">Our parents work is our work.</sent>
+				<sent id ="38">Similarly, we are the representatives of God.</sent>
+				<sent id ="39">He has given us the responsibility to look after His creation.</sent>
+				<sent id ="40">He wants us to look after the animals, birds, trees and plants as our own.</sent>
+				<sent id ="41">We should protect and take proper care of them.</sent>
+				<sent id ="42">We should remember that we are God's representatives.</sent>
+				<sent id ="43">A representative considers the owner's work as his or her own.</sent>
+				<sent id ="44">What do we mean by taking care of?</sent>
+				<sent id ="45">We shall serve the members of our family and our neighbours.</sent>
+				<sent id ="46">We shall not harm anyone.</sent>
+				<sent id ="47">We shall not kill any animal or harm any bird.</sent>
+				<sent id ="48">We shall not cut trees and plants.</sent>
+				<sent id ="49">We shall throw waste at a fixed place, not just here and there.</sent>
+				<sent id ="50">We shall not throw wastes in the rivers, pools or ponds.</sent>
+				<sent id ="51">We shall plant new trees every year.</sent>
+				<sent id ="52">We shall encourage others to plant trees.</sent>
+				<sent id ="53">We shall take care of everything.</sent>
+				<sent id ="54">What Happens if We do not Take Care of God's Creation?</sent>
+				<sent id ="55">We do harm to ourselves by destroying God's creations.</sent>
+				<sent id ="56">We cannot get shade or fruit from the trees if we cut them off.</sent>
+				<sent id ="57">We cannot hear the birds song if we kill them.</sent>
+				<sent id ="58">Birds benefit us by eating insects.</sent>
+				<sent id ="59">If we kill the birds, they will not be able to come to our help.</sent>
+				<sent id ="60">Water becomes polluted and germs grow in the water if we throw rubbish into it.</sent>
+				<sent id ="61">So we cannot use the water.</sent>
+				<sent id ="62">Many people will become sick and die if they use polluted water.</sent>
+				<sent id ="63">We disobey God when we do not take care of God's creation.</sent>
+				<sent id ="64">It is a kind of sin to disobey God.</sent>
+				<sent id ="65">We are punished for committing sins.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

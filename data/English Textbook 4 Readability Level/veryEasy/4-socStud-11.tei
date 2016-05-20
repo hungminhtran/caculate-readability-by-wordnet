@@ -1,0 +1,102 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.498</idno>
+				<idno type="Number of sentences">74</idno>
+				<idno type="Number of tokens">823</idno>
+				<idno type="Number of token types">395</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t88">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Many people have made important contributions towards the achievement of our independence.</sent>
+				<sent id ="2">He was the Chief Minister of East Bengal during the pre- independence British regime.</sent>
+				<sent id ="3">For this Sher-e-Bangla is called the Friend of the Farmers.</sent>
+				<sent id ="4">He worked all his life in the interest of Bengal and the Bangalis.</sent>
+				<sent id ="5">He worked hard for establishing democracy in Pakistan.</sent>
+				<sent id ="6">But the Government of Pakistan obstructed him again and again.</sent>
+				<sent id ="7">He was one of the founder members of Pakistan Awami League.</sent>
+				<sent id ="8">After the birth of Pakistan he tried to establish democratic system in Pakistan.</sent>
+				<sent id ="9">Sheikh Mujibur Rahman and many others were inspired by his liberal democratic thinking and ideas.</sent>
+				<sent id ="10">He was elected Chairman of Muslim Awami League.</sent>
+				<sent id ="11">He was the founder of the National Awami Party (NAP ).</sent>
+				<sent id ="12">That is why he is called the Leader of the Oppressed People.</sent>
+				<sent id ="13">Following the prior instructions of Bangabandhu they organised the Liberation War.</sent>
+				<sent id ="14">Besides this, Bangladesh was divided in eleven Sectors.</sent>
+				<sent id ="15">A number of army and civilian officers played important roles during our Liberation War.</sent>
+				<sent id ="16">He was a very trusted aide of Bangabandhu Sheikh Mujibur Rahman.</sent>
+				<sent id ="17">Syed Nazrul Islam was bora in January 1925 at his maternal grandfather's home.</sent>
+				<sent id ="18">His grandfather came from the village Tarapash of Kishoreganj district.</sent>
+				<sent id ="19">His father was Syed Raisuddin and his mother Nurunnessa Mullik.</sent>
+				<sent id ="20">Syed Nazrul Islam was a meritorious student.</sent>
+				<sent id ="21">He passed his Entrance (Matric) Examination from Azimuddin High School, Kishoreganj.</sent>
+				<sent id ="22">His interest to join politics developed at that time.</sent>
+				<sent id ="23">Syed Nazrul Islam completed his Masters Degree in History from Dhaka University.</sent>
+				<sent id ="24">He actively participated in the Language Movement.</sent>
+				<sent id ="25">He became the President of Awami League in 1966 after Bangabandhu was imprisoned.</sent>
+				<sent id ="26">In the 1970 election he was elected a member from Mymensingh.</sent>
+				<sent id ="27">In absence of Bangabandhu, he successfully carried out the responsibility as the Acting President.</sent>
+				<sent id ="28">After liberation, he was elected Deputy Chief Leader in the Parliament.</sent>
+				<sent id ="29">Syed Nazrul Islam was an ideal politician.</sent>
+				<sent id ="30">We shall learn from his life about how to serve the nation.</sent>
+				<sent id ="31">He was a very honest person, an ideal organiser and a highly meritorious political leader.</sent>
+				<sent id ="32">The nation will never forget his great contribution in the Liberation War.</sent>
+				<sent id ="33">His father's name was Moulavi Muhammad Yasin Khan and mother's name was Meherunnessa Khanam.</sent>
+				<sent id ="34">Tajuddin always stood first in all the school examinations.</sent>
+				<sent id ="35">He obtained twelfth position and passed in the first division in the Entrance Examination.</sent>
+				<sent id ="36">He graduated in Law and Economics from Dhaka University.</sent>
+				<sent id ="37">Tajuddin was a Hafez, too, in the Holy Quran.</sent>
+				<sent id ="38">Tajuddin Ahmed was involved in politics and social works from his early student life.</sent>
+				<sent id ="39">Politics and education went hand in hand in his life.</sent>
+				<sent id ="40">He was one of the founders of the Chhatro League.</sent>
+				<sent id ="41">Awami League was formed in 1949 and Tajuddin was one of its main founders.</sent>
+				<sent id ="42">Tajuddin was one of the strategic planners of the famous Six Points Movement.</sent>
+				<sent id ="43">He was elected the General Secretary of Awami League in 1966.</sent>
+				<sent id ="44">Tajuddin became an elected member of the then National Assembly in Pakistan.</sent>
+				<sent id ="45">Tajuddin was very active as an organiser in this Movement.</sent>
+				<sent id ="46">In the face of extreme hardship for nine months he successfully organised the Liberation War.</sent>
+				<sent id ="47">After the return of Bangabandhu in Bangladesh on 10 January a new cabinet was formed.</sent>
+				<sent id ="48">Tajuddin was entrusted with the position of Finance Minister.</sent>
+				<sent id ="49">He continued with this responsibility upto 1974.</sent>
+				<sent id ="50">He was brutally killed there with three other national leaders, Syed Nazru!</sent>
+				<sent id ="51">Islam, Captain Mansur Ali and A H M Qamaruzzaman.</sent>
+				<sent id ="52">We shall always remember him with love, respect and admiration.</sent>
+				<sent id ="53">MAG Osmany was the Commander-in-Chief of our Mukti Bahini.</sent>
+				<sent id ="54">His full name is Mohammad Ataul Ghani Osmany.</sent>
+				<sent id ="55">He was born on 1 September, 19i8, in Sunamganj.</sent>
+				<sent id ="56">His father's name was Khan Bahadur Mofizur Rahman.</sent>
+				<sent id ="57">After finishing his school Osmany got himself admitted in Aligarh University.</sent>
+				<sent id ="58">He then joined the army and received his Commission in 1940.</sent>
+				<sent id ="59">He retired from service in 1967, after serving in different positions in Pakistan Army.</sent>
+				<sent id ="60">After 25 March, 1971, he joined the War of Liberation.</sent>
+				<sent id ="61">After mis, Mukti Bahini was transformed into a regular Army.</sent>
+				<sent id ="62">After independence, MAG Osmany was promoted as Chief of Armed Forces of the Bangladesh Army.</sent>
+				<sent id ="63">He however took retirement from army and soon joined the Government as Cabinet Minister.</sent>
+				<sent id ="64">He won the election also in 1973 and was taken in as a Minister.</sent>
+				<sent id ="65">He became a candidate for the opposition alliance in 1978 election for President.</sent>
+				<sent id ="66">He was a very independent-minded person.</sent>
+				<sent id ="67">His father's name was Monsur Rahman and mother's name was Jahanara Khatun.</sent>
+				<sent id ="68">He passed Matric Examination in 1952 from Karachi.</sent>
+				<sent id ="69">He got himself admitted in D J College, Karachi the same year in IA class.</sent>
+				<sent id ="70">While serving there, he took part in the Liberation War like other Bangali soldiers.</sent>
+				<sent id ="71">He was awarded the title Bir Uttam for his contribution in the Liberation War.</sent>
+				<sent id ="72">Ziaur Rahman introduced Canal Digging Project.</sent>
+				<sent id ="73">He was also the initiator of SARC.</sent>
+				<sent id ="74">He will be remembered for his contribution in the War of Liberation of Bangladesh.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

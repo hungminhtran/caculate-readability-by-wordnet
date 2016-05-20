@@ -1,0 +1,112 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-sci-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.271</idno>
+				<idno type="Number of sentences">84</idno>
+				<idno type="Number of tokens">882</idno>
+				<idno type="Number of token types">425</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t28">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We live at home.</sent>
+				<sent id ="2">If these places are not clean, we cannot keep ourselves healthy.</sent>
+				<sent id ="3">We will get infected with various diseases.</sent>
+				<sent id ="4">For our survival we need air, water and food.</sent>
+				<sent id ="5">We get all these from the environment.</sent>
+				<sent id ="6">Therefore, in order to remain healthy we have to maintain a clean and tidy environment.</sent>
+				<sent id ="7">Causes of Untidy Houses Our houses become dirty in various ways.</sent>
+				<sent id ="8">Kitchen gets dirty with vegetable peels, fish scales, stale food and dirty water.</sent>
+				<sent id ="9">All these garbage turn the house dirty.</sent>
+				<sent id ="10">As the garbage decays, it spreads further foul odour.</sent>
+				<sent id ="11">The houseflies and various kinds of insect lay eggs and breed on the garbage.</sent>
+				<sent id ="12">Decayed garbage contains germs of various kinds of disease.</sent>
+				<sent id ="13">If you watch carefully you can find out the causes of a dirty house.</sent>
+				<sent id ="14">Write down some of the causes in your notebooks.</sent>
+				<sent id ="15">After the disposal of garbage, cover the pit with soil.</sent>
+				<sent id ="16">It will prevent spread of stink and disturbance of houseflies.</sent>
+				<sent id ="17">Cow-dung heaps must be placed away from the house.</sent>
+				<sent id ="18">Carcasses of animals must be disposed of under the soil in a pit.</sent>
+				<sent id ="19">Take care not to put cow-dung and garbage disposal pit adjacent to wells and ponds.</sent>
+				<sent id ="20">Refrain from coughing, spitting and urinating here and there.</sent>
+				<sent id ="21">There are dustbins by the side of roads in cities to dispose of garbage.</sent>
+				<sent id ="22">Dispose garbage in dustbin instead of scattering it all over the road.</sent>
+				<sent id ="23">Some people throw garbage in the drain although they should not do it.</sent>
+				<sent id ="24">This clogs the flow of water and pollutes environment.</sent>
+				<sent id ="25">Mosquitoes also lay eggs in stagnant water.</sent>
+				<sent id ="26">Therefore, to keep us healthy, it is essential to keep the school clean and tidy.</sent>
+				<sent id ="27">During tiffin you perhaps eat banana, peanut, ice cream and biscuit.</sent>
+				<sent id ="28">Put all these in a basket placed in a corner of the classroom.</sent>
+				<sent id ="29">Also put litter of sharpened pencil and scraps of paper in it.</sent>
+				<sent id ="30">With a regular interval this pit has to be filled with soil.</sent>
+				<sent id ="31">Every day you need to wipe off chalkboards, tables, chairs and benches.</sent>
+				<sent id ="32">Classrooms must be swept regularly.</sent>
+				<sent id ="33">In a group you will clean your classroom, flower garden and playground.</sent>
+				<sent id ="34">You will find your school has a lustrous look.</sent>
+				<sent id ="35">You will feel good to study in this neat and clean surroundings.</sent>
+				<sent id ="36">Defecation and urinating here and there are injurious to health.</sent>
+				<sent id ="37">Moreover, environment also becomes polluted.</sent>
+				<sent id ="38">Therefore, we should take care to build sanitary latrine and ensure its careful use.</sent>
+				<sent id ="39">This will pollute the environment.</sent>
+				<sent id ="40">Latrine should be built a little away from the household.</sent>
+				<sent id ="41">The concrete slab should be washed every time it is used.</sent>
+				<sent id ="42">There should be no tube wells or ponds near or around the latrine.</sent>
+				<sent id ="43">This type of latrine is known as sanitary latrine.</sent>
+				<sent id ="44">Constant maintenance for cleanliness is needed for this type of latrine.</sent>
+				<sent id ="45">After defecation hands should be washed with soap, soil or ash and water.</sent>
+				<sent id ="46">No animal can live without water and food.</sent>
+				<sent id ="47">However, water and food must be pure and safe for consumption.</sent>
+				<sent id ="48">Contaminated water often acts as a cause of death.</sent>
+				<sent id ="49">Cholera, typhoid, diarrhoea, dysentery, jaundice etc., diseases can occur on drinking contaminated water.</sent>
+				<sent id ="50">Pickles and chanachur are sold in front of many schools.</sent>
+				<sent id ="51">These foods contain germs as flies sit on them and dust particles gather on them.</sent>
+				<sent id ="52">In this way these foods become contaminated.</sent>
+				<sent id ="53">We must know whether the tube well water is arsenic-free or safe for drinking.</sent>
+				<sent id ="54">We should drink piped water or tube well water.</sent>
+				<sent id ="55">We should wash all plates, utensils and vegetable in pure and safe water.</sent>
+				<sent id ="56">We should cover all kinds of food and water.</sent>
+				<sent id ="57">We must not take stale and spoiled food.</sent>
+				<sent id ="58">We should wash our hands well before eating.</sent>
+				<sent id ="59">We should keep our kitchen and dinning space neat and clean.</sent>
+				<sent id ="60">To remain healthy it is essential to take care of the body and maintain cleanliness.</sent>
+				<sent id ="61">Hands, legs, nails, hair, eyes, ears are parts or organs that constitute our body.</sent>
+				<sent id ="62">We have to take care of each part of our body.</sent>
+				<sent id ="63">That will keep body sound and healthy and the mind happy.</sent>
+				<sent id ="64">The eye is a vital organ.</sent>
+				<sent id ="65">We see everything with this organ.</sent>
+				<sent id ="66">Every day eyes should be washed a number of times with clean water.</sent>
+				<sent id ="67">Do not wipe off your eyes with dirty hands.</sent>
+				<sent id ="68">To wipe off your eyes, use a soft and clean piece of cloth.</sent>
+				<sent id ="69">Care of Tooth We use teeth for chewing our food.</sent>
+				<sent id ="70">After each meal, we need to gargle well with water.</sent>
+				<sent id ="71">There are chances of infection if teeth are cleaned by using charcoal or ash.</sent>
+				<sent id ="72">Small bits of food get stuck between the teeth.</sent>
+				<sent id ="73">If teeth are not cleaned regularly these particles of food decay and form germs.</sent>
+				<sent id ="74">Sometimes it so happens that you have to uproot the tooth.</sent>
+				<sent id ="75">You should visit a dentist at regular intervals.</sent>
+				<sent id ="76">We hear with our ears.</sent>
+				<sent id ="77">The inner part of the ear is very soft.</sent>
+				<sent id ="78">Therefore, never insert any hard chip or feather to clean your ear.</sent>
+				<sent id ="79">It may cause damage to the ear and can rupture the eardrum.</sent>
+				<sent id ="80">For this we should take the help of elder.</sent>
+				<sent id ="81">Excess wax in the ear may cause earache and sometimes it impedes hearing sensation.</sent>
+				<sent id ="82">When you eat with these dirty fingers, dirt goes into your stomach and causes infection.</sent>
+				<sent id ="83">Therefore, you should cut your nails regularly.</sent>
+				<sent id ="84">In addition, keep the nails clean.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

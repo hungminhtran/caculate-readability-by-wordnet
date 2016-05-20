@@ -1,0 +1,102 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.681</idno>
+				<idno type="Number of sentences">74</idno>
+				<idno type="Number of tokens">1329</idno>
+				<idno type="Number of token types">515</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t22">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">With the view of increasing forest resources, planting trees in scientific ways, taking care after planning and proper management of the related activities are usually known as afforestation.</sent>
+				<sent id ="2">The demand for forest materials has increased due to increasing rate of population and standard of living.</sent>
+				<sent id ="3">The forest resources are decreasing at a rapid rate due to a faster rate of harvesting forest materials to meet the increased rate of demand;</sent>
+				<sent id ="4">The environmental balance is thus seriously disturbed.</sent>
+				<sent id ="5">So, to meet up the deficit of forest resources and to keep balance in the environment, the importance of afforestation is greatly increasing day by day.</sent>
+				<sent id ="6">Afforestation programmes have been containing along with the harvest of forest trees or deforestation.</sent>
+				<sent id ="7">In the past, afforestation were done in the forest areas, which were under the control of government, considering only the economic aspects.</sent>
+				<sent id ="8">Afforestation programme was started at first in Bangladesh in 1873 with the establishment of Shegun plantation in Chittagong Hill Tracts.</sent>
+				<sent id ="9">The major objectives of these forest plantations were to raise valuable trees and to ensure supply of raw materials for industries.</sent>
+				<sent id ="10">The rural people were deprived of the benefits of such government owned forests.</sent>
+				<sent id ="11">As a result rural people deforested in an uncontrolled way this valuable natural resource and harvested forest trees to meet up their demand.</sent>
+				<sent id ="12">Due to shortage of agricultural land, many forest lands have been converted to crop lands.</sent>
+				<sent id ="13">For these reasons afforestation have been started in the deforested areas, coastal and new char lands.</sent>
+				<sent id ="14">Under this programme plantation garden has been established in Chittagong.</sent>
+				<sent id ="15">Chittagong Hill Tracts, Sylhet and Cox Bazar with trees like Shegun, Garjan, Mehgoni, Gamar, Eucalyptus, Akashmoni, etc.</sent>
+				<sent id ="16">The forests of Bangladesh are not uniformly distributed throughout the country.</sent>
+				<sent id ="17">Most of the forests are situated at the east, southeast and south-west regions of the country.</sent>
+				<sent id ="18">So, a greater population of the country is deprived of the benefits of forests resources.</sent>
+				<sent id ="19">So, rural people of the deprived areas are thus meeting their need of wood by cutting homestead trees and bushes.</sent>
+				<sent id ="20">As a result the rural homestead forest are getting rapidly reduced.</sent>
+				<sent id ="21">In the context, planting forest trees in the homestead surrounding, side of roads and embankments through the direct participation of rural people with the objective of increasing forest production is known as social afforestation.</sent>
+				<sent id ="22">Increasing the supply of timber wood, fire wood and raw materials for industries.</sent>
+				<sent id ="23">Establishing cottage industries and supplying raw materials to the cottage industries.</sent>
+				<sent id ="24">Creating employment opportunity for the rural people and enhancing the economic development.</sent>
+				<sent id ="25">Planting trees in the homestead and surrounding areas.</sent>
+				<sent id ="26">Planting tree species on the banks of pond and water bodies.</sent>
+				<sent id ="27">Planting forest trees on the sides of roads and highways, rail ways, embankments, rivers and canals.</sent>
+				<sent id ="28">Social afforestation programmes in Bangladesh were initiated in the late seventy.</sent>
+				<sent id ="29">Extensive social forestry programmes were initiated under the community forestry project in the north-western regions of Bangladesh in the early eighties.</sent>
+				<sent id ="30">Presently this programmes have been extended to the whole country including greater Dhaka, Mymensingh and Tangail districts.</sent>
+				<sent id ="31">Mainly short duration multipurpose tree species are planted in this programme.</sent>
+				<sent id ="32">The side of roads and highways, railways and embankments plants trees.</sent>
+				<sent id ="33">Besides, trees are planted at the homestead, schools college and premises of the industrial factories, offices and other institutes.</sent>
+				<sent id ="34">Well thought and perfect plan is a pre-requisite for successful execution of any programme.</sent>
+				<sent id ="35">Afforestation is not an exception to it.</sent>
+				<sent id ="36">The social forestry programmes may be outlined and described mainly on the basis of the following points.</sent>
+				<sent id ="37">Before undertaking a programme, one has to assess where and how much land suitable for afforestation is available.</sent>
+				<sent id ="38">After locating the area, year wise planting programme and number of trees to be planted are to be determined and beneficiaries are to be identified.</sent>
+				<sent id ="39">The success of afforestation is largely dependent on the appropriate selection of tree species.</sent>
+				<sent id ="40">The following two points should be considered in detail while selecting a tree species suitable for social afforestation.</sent>
+				<sent id ="41">Trees which can not tolerate water logging like Jackfruit, Shal Shegun and Gamar should not be planted in the flood prong areas.</sent>
+				<sent id ="42">The use of the planted tree that is for what purpose the produced tree will be used should be ascertained.</sent>
+				<sent id ="43">Such as, the planted tree may be use for electric pole, housing pole, fuel wood, furniture and construction or as raw materials for cottage industries.</sent>
+				<sent id ="44">Tree seedlings are usually planted at the beginning of the rainy season.</sent>
+				<sent id ="45">But before planting trees the land or the site should be well prepared.</sent>
+				<sent id ="46">In forest plantation, land preparation includes clearing the selected site and marking the site with poles or pegs.</sent>
+				<sent id ="47">There are certain methods, which should be strictly followed while planting at the sides of roads and highways, railways and embankments.</sent>
+				<sent id ="48">The distance from tree to tree will vary according to the type of species.</sent>
+				<sent id ="49">However, seedlings are planted at a distance of two metres in gardens.</sent>
+				<sent id ="50">The size of the pit will depend on the type of species and size of the seedlings to be planted.</sent>
+				<sent id ="51">Usually a pit of 50 cm x 50 cm x 50 cm is recommended for a seedling whose age is one year or less.</sent>
+				<sent id ="52">The pit should be made before the rainy season starts.</sent>
+				<sent id ="53">The soil of the upper part of the pit should be kept at one side and the soil of the lower part of the pit at the other side.</sent>
+				<sent id ="54">About 5 kg cow dung or compost 20 gm T S P and 20 gm MP fertilizer should be mixed with the soil of the upper portion at least 15 days before planting and put in to the pit at first.</sent>
+				<sent id ="55">Then the soil of the pit should be well pulverized before planting the seedling.</sent>
+				<sent id ="56">The surface of the pit should levelled and a hole should be made at the centre according to the size of the polybag.</sent>
+				<sent id ="57">Just before planting the polythene sheet of the polybag should be cut by a blade or knife and removed.</sent>
+				<sent id ="58">If the seedling is in a pot, then the seedling may be removed breaking the pot.</sent>
+				<sent id ="59">Then the seedling should be placed upright in the pit hole in such a way that the base of the seedling remains at the original ground level.</sent>
+				<sent id ="60">After placing the seedling the empty sides of the hole may be filled in by putting soil from the surrounding.</sent>
+				<sent id ="61">The soil of the pit should be mildly compacted by pressing the surface loose soil by hand.</sent>
+				<sent id ="62">One stick should be placed by the side of the seedling and he seedling should be loosely bound with that stick.</sent>
+				<sent id ="63">The seedling after plantinrg should be irrigated by watering can after planting.</sent>
+				<sent id ="64">There are certain methods, which are required to be strictly followed while planting by the sides of roads and highways, railways and embankments.</sent>
+				<sent id ="65">Usually a thick line of Arhar plants may be raised at a distance of 30 cm from the edge of the roads and embankments.</sent>
+				<sent id ="66">First line of trees should be planted at a distance of 180 cm from the line of Arhar and second line at the same distance from the first line of trees.</sent>
+				<sent id ="67">One line of Dhaincha may be given at a distance of 30 cm from the second line of trees.</sent>
+				<sent id ="68">Lines of trees may be increased in this way if space is available at the side.</sent>
+				<sent id ="69">The main intercultural operations to be done far, a seedling are described, herebriefly: After planting the seedling, the soil of the pit should be moistened giving irrigation water.</sent>
+				<sent id ="70">The plant should be irrigated every alternate day in dry weather.</sent>
+				<sent id ="71">Weeds grown around the seedling should be cleaned as and when it is necessary.</sent>
+				<sent id ="72">In case of death of any seedling the gap should filled with new seedling immediately.</sent>
+				<sent id ="73">4 A fence should be given around each seedling to protect it from cattle and goats.</sent>
+				<sent id ="74">In case of road and embankment plantations one line of Arhar in the upper side and one line of Dhaincha at the lower side may be placed.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

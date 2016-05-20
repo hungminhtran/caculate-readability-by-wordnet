@@ -1,0 +1,98 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.904</idno>
+				<idno type="Number of sentences">70</idno>
+				<idno type="Number of tokens">874</idno>
+				<idno type="Number of token types">434</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t15">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Rearing cows is a profitable occupation.</sent>
+				<sent id ="2">Some time ago, you could find a family in Bangladesh usually rearing one or two cows to meet its daily demand of milk.</sent>
+				<sent id ="3">It has opened an opportunity for the employment of the unemployed.</sent>
+				<sent id ="4">It has opened an avenue to increase family income.</sent>
+				<sent id ="5">There are some basic things you have to know about rearing cows in the household.</sent>
+				<sent id ="6">These are: sheds of the cows; hygienic nurturing, balanced food, right reproduction methodology, prevention of diseases.</sent>
+				<sent id ="7">It has the following characteristics: The cow has all its limbs grown well and they adjust well with one another.</sent>
+				<sent id ="8">Its hide shines bright; its hair glitters.</sent>
+				<sent id ="9">Its eyes are luminous.</sent>
+				<sent id ="10">It is of good size and has an attractive appearance.</sent>
+				<sent id ="11">Its body is slim in the front and plump in the hind.</sent>
+				<sent id ="12">It has a loosely formed body with a thin coat.</sent>
+				<sent id ="13">It has neither flesh nor fat more than enough.</sent>
+				<sent id ="14">You may see the ribs of its chest i.e. they are somehow visible to your eyes.</sent>
+				<sent id ="15">Its milk carrying vessels are thick.</sent>
+				<sent id ="16">They are spread around the navel and the udder, further more visible on the udder.</sent>
+				<sent id ="17">Its udder is quite large; it attaches itself to the body nicely.</sent>
+				<sent id ="18">The udder is beautiful in structure; the teats are of same size and stand at a distance equal to one another.</sent>
+				<sent id ="19">The cowshed: You need to arrange for good accommodation for the cows if you intend to rear them hygienically at home.</sent>
+				<sent id ="20">The living place for the cow should be on a dry, elevated space.</sent>
+				<sent id ="21">It is better if the house faces north and south to let in air and light.</sent>
+				<sent id ="22">To make a cowshed bamboo can be used for the posts and sun grass or leaves for the roof.</sent>
+				<sent id ="23">Wood for the posts and tin sheet for the roof can also be used for a shed.</sent>
+				<sent id ="24">A cow requires a cubicle of 4 - 5 square metres on the floor.</sent>
+				<sent id ="25">It is better if the shed has a metalled floor or the floor is covered with bricks.</sent>
+				<sent id ="26">Clean the cow dung, urine and the litters regularly and dump them in a ditch at a distance.</sent>
+				<sent id ="27">You may use them as fertilizer on your land later.</sent>
+				<sent id ="28">Cowsheds must be always dry and clean.</sent>
+				<sent id ="29">They make room for more diseases if they are damp and lack in hygiene.</sent>
+				<sent id ="30">Spraying of germicides is necessary to remove bad odour and kill fleas and mosquitoes.</sent>
+				<sent id ="31">Balanced feed for cows: Cows require feed for survival: Cows require more nutrition so that they can give more milk.</sent>
+				<sent id ="32">They need to have balanced feed for more nutrition.</sent>
+				<sent id ="33">People in the villages usually rear indigenous cows.</sent>
+				<sent id ="34">They do not give their cows balanced feed.</sent>
+				<sent id ="35">They will grow stronger to draw the plough.</sent>
+				<sent id ="36">They will give us more meat.</sent>
+				<sent id ="37">To get more milk and a calf at the end of the year we have to provide the HYV cows with balanced feed.</sent>
+				<sent id ="38">We usually gather durba for green and tender grass from fields and road sides.</sent>
+				<sent id ="39">We may however, cultivate HYV grass on the fallow land around our homesteads or on the sides of the ponds, roads and embankments.</sent>
+				<sent id ="40">These varieties grow fast and contain more nutrition.</sent>
+				<sent id ="41">HYV grasses like napier, para, german grass, guinea, maize, sorghum, cowpea, grass pea, etc. may be cultivated.</sent>
+				<sent id ="42">You have to visit a veterinary hospital nearby to know about seeds, cuttings or seedlings and the method of cultivation of these grasses.</sent>
+				<sent id ="43">Hay is a very low quality feed.</sent>
+				<sent id ="44">As a result, the cows will have more nutrition.</sent>
+				<sent id ="45">We may not throw away roughages like the peelings of fruits, vegetables, etc. and instead we can give them to our cows.</sent>
+				<sent id ="46">Different diseases of cows and measures to tackle them: Cows contract diseases or fall sick.</sent>
+				<sent id ="47">This is the main problem of rearing cows in our country.</sent>
+				<sent id ="48">Cattle die of diseases in large numbers every year.</sent>
+				<sent id ="49">Many people are losing interest to rear cows because of their high death rate.</sent>
+				<sent id ="50">In fact, there is no fear of death or disease if we follow the discipline of rearing cows.</sent>
+				<sent id ="51">For example: Let us set up a healthy shed for our cows;</sent>
+				<sent id ="52">let us nurture them well;</sent>
+				<sent id ="53">let us watch their comforts and discomforts;</sent>
+				<sent id ="54">let us give them balanced feed;</sent>
+				<sent id ="55">let us be informed of their diseases and take necessary measures against them with a sense of moral obligation.</sent>
+				<sent id ="56">Cattle may contract many kinds of diseases.</sent>
+				<sent id ="57">Keep the cowshed neat and clean, dry, spick and span.</sent>
+				<sent id ="58">Arrange for light and air to pass through the shed.</sent>
+				<sent id ="59">Don't keep the cow in a damp place nor let it graze in such a place.</sent>
+				<sent id ="60">She may contract contagious diseases or worms.</sent>
+				<sent id ="61">56 Agricultural Education Vaccinate the cow against contagious diseases.</sent>
+				<sent id ="62">Quarantine the sick cow from the healthy ones and treat her according to the advice of a vet.</sent>
+				<sent id ="63">The dead cow and her belongings must be buried into the ground or burnt.</sent>
+				<sent id ="64">Its shed must be washed with germicidal medicines.</sent>
+				<sent id ="65">List the items required for preparing 10 kg feed according to a recommended recipe.</sent>
+				<sent id ="66">Measure the ingredients as much as each of them is necessary.</sent>
+				<sent id ="67">Show them to your teacher.</sent>
+				<sent id ="68">Mix them well together.</sent>
+				<sent id ="69">Put the feed in the tub, bucket or polybag.</sent>
+				<sent id ="70">Write the sequence of the work in your notebook.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

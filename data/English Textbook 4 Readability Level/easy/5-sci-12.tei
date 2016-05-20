@@ -1,0 +1,196 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.81</idno>
+				<idno type="Number of sentences">168</idno>
+				<idno type="Number of tokens">1957</idno>
+				<idno type="Number of token types">619</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t44">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The sky we see from the earth is huge and it spreads beyond our limited vision.</sent>
+				<sent id ="2">The name of this wide and infinite expanse of sky is space.</sent>
+				<sent id ="3">There are no limits to space.</sent>
+				<sent id ="4">If we look at space during the daytime, we can see the sun.</sent>
+				<sent id ="5">During night, if we look at the sky, we can see the moon and innumerable tiny specks of light.</sent>
+				<sent id ="6">If we look at the clear blue night sky, we can see countless twinkling points of light.</sent>
+				<sent id ="7">Together, these are commonly known as celestial bodies.</sent>
+				<sent id ="8">Some celestial bodies emit their own light, such as the sun.</sent>
+				<sent id ="9">Again, some celestial bodies do not emit their own light, such as the moon.</sent>
+				<sent id ="10">The celestial bodies which emit their own light are called stars.</sent>
+				<sent id ="11">We can see only a few thousand stars with our naked eyes.</sent>
+				<sent id ="12">Scientists have discovered more than a billion stars using powerful telescopes.</sent>
+				<sent id ="13">The star nearest to earth is the sun.</sent>
+				<sent id ="14">The sun is the central star of the solar system.</sent>
+				<sent id ="15">It is a medium- sized star among millions of stars.</sent>
+				<sent id ="16">It has an approximate diameter of 1,384,000 kilometers.</sent>
+				<sent id ="17">It is a rather large and very hot sphere of fire.</sent>
+				<sent id ="18">The sun is the primary source of heat for earth and a number of other planets and satellites.</sent>
+				<sent id ="19">The distance between the sun and the earth is approximately 150 million kilometers.</sent>
+				<sent id ="20">Without the light of the sun, the earth would have been shrouded in eternal darkness.</sent>
+				<sent id ="21">No creatures - plants and animals - would have survived on earth.</sent>
+				<sent id ="22">If we look at the northern sky in the evening, we can see a bright star.</sent>
+				<sent id ="23">This star can be seen twinkling in the northern sky at the same place throughout the year.</sent>
+				<sent id ="24">This is called the Pole Star.</sent>
+				<sent id ="25">The distance between the earth and the Pole Star is almost 821,100,000 kilometers.</sent>
+				<sent id ="26">Travellers and sailors use the Pole Star for navigation during night.</sent>
+				<sent id ="27">You know that the celestial bodies which have their own light are called stars.</sent>
+				<sent id ="28">Other than stars, there is another type of celestial bodies who do not emit their own light.</sent>
+				<sent id ="29">They are called planets.</sent>
+				<sent id ="30">The earth on which we live is one such planet.</sent>
+				<sent id ="31">Its name is Venus.</sent>
+				<sent id ="32">Although Venus is mistaken as a star, it is actually a planet.</sent>
+				<sent id ="33">The collective name for the sun and the celestial bodies surrounding it is the solar system,.</sent>
+				<sent id ="34">The sun is located at the centre of the solar system.</sent>
+				<sent id ="35">It is a star.</sent>
+				<sent id ="36">This star is a burning steamy sphere.</sent>
+				<sent id ="37">The planet earth on which we live is a planet of the sun.</sent>
+				<sent id ="38">Other than the earth, the sun has eight more planets.</sent>
+				<sent id ="39">The planets revolve around the earth along their own orbits.</sent>
+				<sent id ="40">The earth revolves around the sun once in 365 days and 6 hours.</sent>
+				<sent id ="41">Some planets have their satellites.</sent>
+				<sent id ="42">For example, the planet earth has the moon as its satellite.</sent>
+				<sent id ="43">Like the earth, some other planets have satellites too.</sent>
+				<sent id ="44">The earth, other planets and satellites have originated the sun.</sent>
+				<sent id ="45">Just as the planets revolve around the sun, the satellites revolve around the planets.</sent>
+				<sent id ="46">There are 8 planets and 41 satellites in the solar system, as well as innumerable asteroids and hundreds of comets.</sent>
+				<sent id ="47">The planet nearest to the sun is Mercury, while the one farthest from it is Neptune.</sent>
+				<sent id ="48">According to distance, the earth is in the third position.</sent>
+				<sent id ="49">The solar system is only a very small part of the vast universe.</sent>
+				<sent id ="50">You have already learnt that in the solar system, planets revolve around the sun.</sent>
+				<sent id ="51">You have also learnt that some celestial bodies also revolve around the planets in their own orbits.</sent>
+				<sent id ="52">They are called satellites.</sent>
+				<sent id ="53">They are smaller than planets.</sent>
+				<sent id ="54">They have no heat or light of their own.</sent>
+				<sent id ="55">They are illuminated by the reflection of sunlight.</sent>
+				<sent id ="56">You can see the moon in the night sky.</sent>
+				<sent id ="57">The moon is the only satellite of the earth, and it orbits around the earth.</sent>
+				<sent id ="58">During the night, sunlight is reflected on the surface of the moon and it illuminates the earth.</sent>
+				<sent id ="59">The moon is 384,000 kilometers away from the earth.</sent>
+				<sent id ="60">It is the celestial body which is closest to the earth.</sent>
+				<sent id ="61">The moon orbits the earth once every 27 days and 8 hours.</sent>
+				<sent id ="62">Mercury and Venus have no satellites.</sent>
+				<sent id ="63">There are seven types of celestial bodies in space.</sent>
+				<sent id ="64">You have already learnt about stars, planets and satellites.</sent>
+				<sent id ="65">There are four more types of celestial bodies, namely nebulae, comets, galaxies and meteors.</sent>
+				<sent id ="66">Because of this, we get much less heat and light from them compared to the sun.</sent>
+				<sent id ="67">In terms of volume, the sun is 1,300,000 times greater than the earth.</sent>
+				<sent id ="68">The moon is rather small in volume.</sent>
+				<sent id ="69">Its volume is 1/50th of that of the earth.</sent>
+				<sent id ="70">The earth is one of the most important planets of the solar system.</sent>
+				<sent id ="71">It is the only planet on which life has been found so far.</sent>
+				<sent id ="72">Can you tell what is the shape of the earth like?</sent>
+				<sent id ="73">You have obviously seen a globe.</sent>
+				<sent id ="74">The shape of the globe was actually determined according to the actual shape of the earth.</sent>
+				<sent id ="75">Even though it appears to be flat, the earth is mostly spherical.</sent>
+				<sent id ="76">It has two poles.</sent>
+				<sent id ="77">The northernmost point of the earth is called the North Pole and its southernmost point is called the South Pole.</sent>
+				<sent id ="78">The polar regions of the earth are somewhat flattened, i.e. the earth is not completely spherical.</sent>
+				<sent id ="79">According to the scientist Newton, the rotation of the earth has caused its shape to become like this.</sent>
+				<sent id ="80">We can imagine a straight line passing through the North and South Poles of the almost-spherical earth.</sent>
+				<sent id ="81">This imaginary line is called the axis of the earth.</sent>
+				<sent id ="82">You already know that the earth is not static in one location.</sent>
+				<sent id ="83">It is continuously rotating on its own axis.</sent>
+				<sent id ="84">Simultaneously, it is also orbiting the sun while following a definite path, known as its orbit.</sent>
+				<sent id ="85">All the planets revolve around the sun following their individual orbits.</sent>
+				<sent id ="86">How do days and nights occur?</sent>
+				<sent id ="87">When the sun sets, darkness falls and it becomes night.</sent>
+				<sent id ="88">Have you ever thought how days and nights occur alternately?</sent>
+				<sent id ="89">Everyday the sun rises in the east and sets in the west.</sent>
+				<sent id ="90">Therefore, in ancient times people used to think that the earth is static and the sun is orbiting the earth.</sent>
+				<sent id ="91">But with the advancement of science it was later known that the earth is actually orbiting the sun.</sent>
+				<sent id ="92">It does not only orbit the sun, but also rotates on its own axis.</sent>
+				<sent id ="93">The earth is rotating on its axis from the west toward the east.</sent>
+				<sent id ="94">One complete rotation of the earth like this on its axis takes almost 24 hours.</sent>
+				<sent id ="95">These 24 hours are collectively known as a day.</sent>
+				<sent id ="96">This type of motion of the earth is called the diurnal rotation of the earth.</sent>
+				<sent id ="97">During this rotation, the side of the earth which faces the sun experiences daytime, while the other side experiences nighttime.</sent>
+				<sent id ="98">Days and nights thus occur because of the diurnal rotation of the earth.</sent>
+				<sent id ="99">A globe is needed for this experiment, along with a source of light.</sent>
+				<sent id ="100">A candle, a lamp, a hurricane lamp or a flashlight can be used as a source of light.</sent>
+				<sent id ="101">Notice that there is a stick passing This is the imaginary axis of the earth.</sent>
+				<sent id ="102">The earth is rotating from west to east on this axis.</sent>
+				<sent id ="103">Light the lamp and place it on a table or a flat floor.</sent>
+				<sent id ="104">Next place the lamp in front of the globe.</sent>
+				<sent id ="105">It will be better if the room is dark.</sent>
+				<sent id ="106">Now, consider the source of light as the sun and the globe as the earth.</sent>
+				<sent id ="107">The other side is dark because it is not getting any light.</sent>
+				<sent id ="108">The illuminated side can be considered as day and the dark side can be considered as night.</sent>
+				<sent id ="109">In this way, half of the earth experiences day while the other half experiences night.</sent>
+				<sent id ="110">You have obviously noticed that the weather of our country does not stay the same throughout the year.</sent>
+				<sent id ="111">It is hot at times, and colder during the others.</sent>
+				<sent id ="112">At times, we also experience heavy rainfall.</sent>
+				<sent id ="113">Each of these divisions is called a season.</sent>
+				<sent id ="114">That is why Bangladesh is called the Land of Six Seasons.</sent>
+				<sent id ="115">The six seasons are: summer, rainy season, autumn, late autumn, winter and spring.</sent>
+				<sent id ="116">These six seasons come one after another in a certain sequence.</sent>
+				<sent id ="117">Why does this so happen?</sent>
+				<sent id ="118">This journey of the earth along its orbit is called its annual motion.</sent>
+				<sent id ="119">This time period is called one year or one solar year.</sent>
+				<sent id ="120">Usually, we consider 365 days as one year, which causes a time lag of 6 hours every year.</sent>
+				<sent id ="121">These years are called leap years.</sent>
+				<sent id ="122">Leap years are 366 days long.</sent>
+				<sent id ="123">Due to the annual motion of the earth, days and nights vary in length and seasons change.</sent>
+				<sent id ="124">The earth always receives heat and light form the sun.</sent>
+				<sent id ="125">However, not all parts of the earth receive equal amounts of heat and light from the sun throughout the year.</sent>
+				<sent id ="126">This is because the earth revolves around the sun in an elliptical path in a slanted position.</sent>
+				<sent id ="127">At certain times, both poles are equal distances away from the sun.</sent>
+				<sent id ="128">As a result, the days become longer and the nights become shorter in those regions.</sent>
+				<sent id ="129">Summer occurs in those parts because they receive more heat.</sent>
+				<sent id ="130">Since the opposite side gains less heat, it experiences winter and the nights become longer there.</sent>
+				<sent id ="131">On that day, the northern hemisphere experiences the shortest day and the longest night.</sent>
+				<sent id ="132">One March 21 and September 23, the days and nights are equal in length.</sent>
+				<sent id ="133">Look at the celestial bodies in the sky on a dark cloudless night.</sent>
+				<sent id ="134">What do you see? Bright twinkling stars or constellations are scattered over the sky, right?</sent>
+				<sent id ="135">Observe very carefully, and you will notice a wide area like a white cloud.</sent>
+				<sent id ="136">This is called a galaxy.</sent>
+				<sent id ="137">A galaxy is actually composed of trillions of stars and their planets and satellites.</sent>
+				<sent id ="138">There are innumerable galaxies in space.</sent>
+				<sent id ="139">Each galaxy contains millions of stars.</sent>
+				<sent id ="140">A nebula is one of the wonders of galaxies.</sent>
+				<sent id ="141">It is filled with gaseous substances.</sent>
+				<sent id ="142">It surrounds the less illuminated constellations of space.</sent>
+				<sent id ="143">It appears as a thin cloud.</sent>
+				<sent id ="144">A nebula can contain millions of stars.</sent>
+				<sent id ="145">There are nebulae of many different sizes in galaxies.</sent>
+				<sent id ="146">They can be of many different shapes.</sent>
+				<sent id ="147">Some nebulae are even larger than the sun.</sent>
+				<sent id ="148">These stars disappear as they fall, and this phenomenon is commonly known as shooting stars.</sent>
+				<sent id ="149">Actually, these are not stars - they are meteors.</sent>
+				<sent id ="150">They are sometimes reduced to ashes, or they land on earth as half-burnt masses of matter.</sent>
+				<sent id ="151">These masses are called meteorites.</sent>
+				<sent id ="152">Meteorites that hit the earth can leave huge holes on the ground.</sent>
+				<sent id ="153">Sometimes, a type of celestial body appears in space.</sent>
+				<sent id ="154">These bodies appear for some time and then they disappear.</sent>
+				<sent id ="155">Comets are truly amazing things of the sky.</sent>
+				<sent id ="156">They travel around stars.</sent>
+				<sent id ="157">They appear as faint clouds when they come close to the sun.</sent>
+				<sent id ="158">They gradually become brighter, and have a broom-like appearance.</sent>
+				<sent id ="159">It can be seen every 76 years.</sent>
+				<sent id ="160">Our planet earth is just one of the planets of the solar system.</sent>
+				<sent id ="161">There is a star at the center of the solar system, which is the sun.</sent>
+				<sent id ="162">We know that there are more than one billion stars like this.</sent>
+				<sent id ="163">There are millions of known and unknown celestial bodies like the solar system surrounding these stars.</sent>
+				<sent id ="164">In space there are also innumerable galaxies, nebulae, comets and other celestial bodies.</sent>
+				<sent id ="165">Again, every galaxy and nebula contains trillions of stars.</sent>
+				<sent id ="166">So, we can hardly imagine how large is the number of celestial bodies in space.</sent>
+				<sent id ="167">The world composed of all these celestial bodies is called the universe.</sent>
+				<sent id ="168">Compared to the whole universe, our solar system is barely a dot.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

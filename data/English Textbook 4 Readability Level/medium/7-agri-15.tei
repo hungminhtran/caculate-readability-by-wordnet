@@ -1,0 +1,133 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.733</idno>
+				<idno type="Number of sentences">105</idno>
+				<idno type="Number of tokens">1402</idno>
+				<idno type="Number of token types">576</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t7">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">It is not easy to define a forest satisfactorily.</sent>
+				<sent id ="2">However, a forest generally appears to our eyes as a vast area full of trees.</sent>
+				<sent id ="3">On the trees, in the trees, around the trees live different wild animals, different birds, various insects and various mites.</sent>
+				<sent id ="4">Forestry science designates a space as a forest if it has tall, woody plants.</sent>
+				<sent id ="5">It is the primary characteristic of a forest.</sent>
+				<sent id ="6">We shall not call an area a forest if it has only small trees and wild animals and no trees for timber.</sent>
+				<sent id ="7">These areas are called savana.</sent>
+				<sent id ="8">In Bangladesh, you may come across natural forests in the hilly regions of Moulavibazar, Sylhet, Chittagong, Cox'sbazar, Khagrachari, Rangamati;</sent>
+				<sent id ="9">in the plains of Gazipur, Tangail, Mymensigh, Rangpur and the coastal areas of Khulna, Bagerhat and Satkhira.</sent>
+				<sent id ="10">The tall, woody trees found in the rural homesteads do not qualify for a forest.</sent>
+				<sent id ="11">These are popularly called rural forests.</sent>
+				<sent id ="12">These rural spaces had different trees in the distant past but now they no longer enjoy the abundance of those sylvan shadows.</sent>
+				<sent id ="13">Demand of land for agriculture, markets, urban ports, roads, educational institutions and dwelling houses cleared them of trees.</sent>
+				<sent id ="14">The process of destruction of forest has begun since ancient times in the name of development and civilization.</sent>
+				<sent id ="15">The forests of our country do not belong to a single category.</sent>
+				<sent id ="16">The forests of the hilly areas differ greatly from those in the coastal belt or ones in the plains of Bhawal or Madhupur.</sent>
+				<sent id ="17">Generally, forests fall in groups over the species of trees; mode of origin; elevation of land; climate, etc.</sent>
+				<sent id ="18">A natural forest grows naturally.</sent>
+				<sent id ="19">Almost all the forests of the world have grown naturally.</sent>
+				<sent id ="20">The main characteristic of a natural forest is that different types of trees, wild animals, insects and mites co-exist there.</sent>
+				<sent id ="21">Hilly forests: These natural forests are found in the eastern parts of Moulavibazaar, Sylhet, Khagrachari, Rangamati, Bandarban, Chittagong and Cox's Bazaar.</sent>
+				<sent id ="22">The area of hilly forests of Bangladesh is almost 1.36 million hectors.</sent>
+				<sent id ="23">The tribal people of these regions have been practising Jhum cultivation by denuding the forests since they inhabited the area.</sent>
+				<sent id ="24">Laws regarding forest management in these regions are not effective enough.</sent>
+				<sent id ="25">As a result, this vast area has now become almost barren, and different kinds of ecological problems have popped up.</sent>
+				<sent id ="26">Valuable trees like garjan, chapalish, champaphool, telsur, shilkarai, etc. grow in these forests.</sent>
+				<sent id ="27">Other forests and orchards have been created by the Forest Development Corporation in the hilly areas.</sent>
+				<sent id ="28">Some trees of foreign species are also found in these forests and orchards.</sent>
+				<sent id ="29">The well known foreign species are teak, mahogony, lohakath, etc. Different kinds of furniture and luxury items are made with the wood of these trees.</sent>
+				<sent id ="30">Railway slippers are made of Dipterocarpus (Garjan) wood.</sent>
+				<sent id ="31">Bamboos and canes are available in the hilly forests.</sent>
+				<sent id ="32">Fashion goods and industrial materials are made with bamboo and canes.</sent>
+				<sent id ="33">These industrial materials or handicrafts are of great demand in foreign countries.</sent>
+				<sent id ="34">Bamboo is widely used in the construction of houses and in the paper mills.</sent>
+				<sent id ="35">Many wild animals like elephants, hogs, deer, monkeys, wild fowls, reptiles, etc. are found in these forests.</sent>
+				<sent id ="36">They have tremendous environmental effects.</sent>
+				<sent id ="37">These forests control the water flow of the rivers of those areas.</sent>
+				<sent id ="38">The hilly forests act as an enormous sponge.</sent>
+				<sent id ="39">Forests conserve rain water.</sent>
+				<sent id ="40">During winter when there is no rainfall, water flow of the rivers is maintained by the leaching water of the hilly forests.</sent>
+				<sent id ="41">Farmers produce winter crops by utilizing this water.</sent>
+				<sent id ="42">The hilly forests help prevent excessive floods and soil erosion.</sent>
+				<sent id ="43">Shal (Shorea) is the main species of these forests.</sent>
+				<sent id ="44">So these forests are also called Shalbon (forests of Shal).</sent>
+				<sent id ="45">They are also known as Gazari forests.</sent>
+				<sent id ="46">They are also called Gazariban because stems grow from the stumps after the Shal trees are felled.</sent>
+				<sent id ="47">The area of the forests of the plains is approximately 1.2 lakh hectors.</sent>
+				<sent id ="48">These forests of the plains are on the verge of extinction.</sent>
+				<sent id ="49">They have been burnt down to meet the demands of additional agricultural land and dwelling houses.</sent>
+				<sent id ="50">These demands are mainly due to excessive population growth.</sent>
+				<sent id ="51">Shorea, Karai, Haritaki, Amloki, Bohera, Chalta, Turmeric, etc. are found in the forests.</sent>
+				<sent id ="52">Shorea trees (shal) are very suitable for the pillars of houses.</sent>
+				<sent id ="53">These forests supply sufficient fuel wood, too.</sent>
+				<sent id ="54">No more wild animals other than monkeys and some birds can now be seen in these forests.</sent>
+				<sent id ="55">But there was a time when tigers, hogs, wild fowls, peacocks and other animals roamed these forests.</sent>
+				<sent id ="56">Coastal forests: The forests found in the saline coastal regions of Cox's Bazaar, Chittagong, Noakhali, Bhola, Khulna, Bagerhat and Satkhira are called the coastal forests.</sent>
+				<sent id ="57">The area of these forests is almost 7.6 lakh hectors.</sent>
+				<sent id ="58">The coastal forests of Khulna, Bagerhat and Satkhira are widely known as the Sundarban.</sent>
+				<sent id ="59">Sundari is the main tree of these forests.</sent>
+				<sent id ="60">The Sundarban is named after it.</sent>
+				<sent id ="61">According to the terminology of forestry science, this forest is called a mangrove forest.</sent>
+				<sent id ="62">The characteristics of these forests are that the trees there grow in the saline water of the coastal areas.</sent>
+				<sent id ="63">They have respiratory roots.</sent>
+				<sent id ="64">The sundarban is the largest coastal forest of the world.</sent>
+				<sent id ="65">The area of this forest is almost 6.6 lakh hectors.</sent>
+				<sent id ="66">The unparalleled beauty of this forest is its world famous Royal Bengal Tigers.</sent>
+				<sent id ="67">The Sundarban is a proud possession of ours.</sent>
+				<sent id ="68">Trees for wood, fuel, leaves and spices abound in this forest.</sent>
+				<sent id ="69">Sundari, Geyoa, Pashur, Bain, Kaora, Golpata, etc. are the most well known trees of this forest.</sent>
+				<sent id ="70">Geyoa is used to make newsprint.</sent>
+				<sent id ="71">Golpata is used for roofing and thatching houses.</sent>
+				<sent id ="72">Sundari and Garan trees provide us with house building materials and fuel wood.</sent>
+				<sent id ="73">You will find the Royal Bengal Tigers, Chitra deer, Monkeys, Hogs, Crocodiles, Tortoises and many kinds of beautiful birds in this forest.</sent>
+				<sent id ="74">This forest protects people and their properties from natural calamities.</sent>
+				<sent id ="75">It was seen during the last tornados and tidal waves that damages were less in the coastal areas where there were forest plantations.</sent>
+				<sent id ="76">Man-made forests: Natural forests grow naturally.</sent>
+				<sent id ="77">Man has no hand in it.</sent>
+				<sent id ="78">On the other hand, man-made forests are the work of man.</sent>
+				<sent id ="79">They are also called forest gardens.</sent>
+				<sent id ="80">The man-made coastal forestry in Bangladesh covers an area of 1.34 lakh hectors.</sent>
+				<sent id ="81">It is on the newly raised land.</sent>
+				<sent id ="82">It is the first and largest in the world.</sent>
+				<sent id ="83">The main trees of this forest are Kaora, Bain and Kankra.</sent>
+				<sent id ="84">This forest protects the newly raised land from erosion by the sea.</sent>
+				<sent id ="85">It also keeps the people of the small islets safe from the paws of tidal waves and cyclones.</sent>
+				<sent id ="86">These forests have also been made an abode of wild animals.</sent>
+				<sent id ="87">Now deer, monkeys, many kinds of reptiles and birds are sighted in them.</sent>
+				<sent id ="88">Forests are also being created on the two sides of roads, barrages and railway lines.</sent>
+				<sent id ="89">The creation of this forestry was first started by the government in the name of social afforestation.</sent>
+				<sent id ="90">Now-a-days tree plantations are being done in many areas by non- government organizations.</sent>
+				<sent id ="91">Mahogony, Shishu, Karai, etc. are the main trees of these forests.</sent>
+				<sent id ="92">Besides supplying valuable wood, these road side trees spread their shade for the tired travelers and offer shelter and food to the birds.</sent>
+				<sent id ="93">Moreover, afforestation is also being done on the bare spaces of the hills and the plains.</sent>
+				<sent id ="94">The area of such forests on the hilly area is about 2.10 lakh hectors; in the plains, it is about 0.36 hundred thousand hectors.</sent>
+				<sent id ="95">Extent of forests in different areas of Bangladesh: The area of forest in Bangladesh is far less than required for its total land area.</sent>
+				<sent id ="96">The forest area covers only 17 percent of its area.</sent>
+				<sent id ="97">Moreover, this insufficient forest area is not uniformly spread throughout the country.</sent>
+				<sent id ="98">Almost 90 percent of the forests are in the hilly areas of the eastern and southern coastal regions of Bangladesh.</sent>
+				<sent id ="99">Because of this uneven distribution, forest materials are not easily available equally throughout the country.</sent>
+				<sent id ="100">The government has undertaken the programme of social afforestation.</sent>
+				<sent id ="101">It will play a great role in the creation of forest resources in the near future.</sent>
+				<sent id ="102">It will also reduce pollution and improve the quality of environment.</sent>
+				<sent id ="103">The extent of forest in some countries of the tropical zone including Bangladesh is shown in the following table:</sent>
+				<sent id ="104">This table reveals that our country is far behind others in owning forests.</sent>
+				<sent id ="105">For healthy environment and for a steady supply of forest materials, the extension of forest is essential.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

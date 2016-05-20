@@ -1,0 +1,157 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-16</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.346</idno>
+				<idno type="Number of sentences">129</idno>
+				<idno type="Number of tokens">1816</idno>
+				<idno type="Number of token types">673</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t8">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Now a days poultry farming is one of the means of living.</sent>
+				<sent id ="2">For this purpose commercial breeds of hens are reared in farms or houses.</sent>
+				<sent id ="3">The specialist developed the commercial breed by crossing several breeds in order to make it more productive.</sent>
+				<sent id ="4">These cross breeds or commercial breeds produce more eggs or meat as compared to other country or foreign breeds.</sent>
+				<sent id ="5">Among the commercial breeds the breed developed for more meat is called broiler the breed developed for more eggs is called layer.</sent>
+				<sent id ="6">The American Rhode Island Red, New Hampshire, English, Australorp, Cornish, Sussex, Mediterranean White Leghorn and Egyptian Fiome are reared in our country most successfully;</sent>
+				<sent id ="7">Besides these some commercial farms are importing I day chicks from foreign countries are distributing directly.</sent>
+				<sent id ="8">Hens have been reared in the houses of Bangladesh from time immemorial.</sent>
+				<sent id ="9">On the other hand the economic success of foreign poultry farms are encouraging for establishing poultry farms in this country.</sent>
+				<sent id ="10">Now a days training on rearing improved breeds of hens are going on in different training centres.</sent>
+				<sent id ="11">As a result establishment of forms has become easier.</sent>
+				<sent id ="12">There are different types of poultry farm.</sent>
+				<sent id ="13">Among these broiler and layer are remarkable, these type of farm are described below.</sent>
+				<sent id ="14">First of all capital and size of the farm are to be considered in planning to establish a broiler farm.</sent>
+				<sent id ="15">Broiler farming is a profitable business; one can achieved his goal within a short time.</sent>
+				<sent id ="16">The planning of the farm should be executed after properly analyzing such important matter as collection of broiler chicks, supply of balanced feed at reasonable, price, marketing after 7-8 weeks at profitable price, timely vaccination etc.</sent>
+				<sent id ="17">When the chicks attain full weight at the age of 7-8 weeks and reared only for meat production they are called the broiler.</sent>
+				<sent id ="18">This breed is developed after crossing several highly meat productive breeds.</sent>
+				<sent id ="19">Some popular broiler strains are mentioned below.</sent>
+				<sent id ="20">As a result of crossing, their physical growth become rapid.</sent>
+				<sent id ="21">Their main function is the conversion of the food materials into meat within a specific period.</sent>
+				<sent id ="22">The points to be considered in broiler farming management are given below:</sent>
+				<sent id ="23">Site Selection : After completing planning, the site will have to be selected for broiler farming.</sent>
+				<sent id ="24">The area for broiler farm may be selected away from homestead area or on a high land away from sight.</sent>
+				<sent id ="25">It is to be noticed that markets or roads should not be in front of the farm.</sent>
+				<sent id ="26">The area should have well sewerage and drainage system.</sent>
+				<sent id ="27">The farm area should be well ventilated.</sent>
+				<sent id ="28">Housing : The broiler house should be dry clean and well ventilated.</sent>
+				<sent id ="29">The floor should be cemented (Pacca).</sent>
+				<sent id ="30">The height of the house shall have to be 150 cm.</sent>
+				<sent id ="31">For well ventilation around the house, an area of 60 cm.</sent>
+				<sent id ="32">from the roof should be constructed with wire netting or net like fencing.</sent>
+				<sent id ="33">The Floor Area : An area of 900 sq.cm.</sent>
+				<sent id ="34">should have to be allowed for each broiler.</sent>
+				<sent id ="35">Lighting and Ventilation System : Broiler does not like darkness hence arrangement should be done for adequate light and ventilation.</sent>
+				<sent id ="36">Relative Humidity (RH) : Relative humidity has a great influence on the skin of the broiler.</sent>
+				<sent id ="37">There must be 60-70% relative humidity in the house.</sent>
+				<sent id ="38">Temperature : The temperature of the broiler house should be 15-25?C.</sent>
+				<sent id ="39">Food : Broiler should be supplied with feed of such amount as they can consume.</sent>
+				<sent id ="40">That means, food should be supplied as soon as the feeder is empty.</sent>
+				<sent id ="41">There should be 23% protein in the initial feed 20% protein in the end broiler feed.</sent>
+				<sent id ="42">The initial feed should be used for one to four week's duration.</sent>
+				<sent id ="43">The duration of the end food should be used for from to eight weeks duration.</sent>
+				<sent id ="44">The broiler chick should be supplied with balanced diet.</sent>
+				<sent id ="45">The food pans should be made with wood measuring 60-70 cm.</sent>
+				<sent id ="46">length in 23 cm in breadth and 7.5 cm in height.</sent>
+				<sent id ="47">20 chicks can take their feed from this type of feeder from both sides of such pans.</sent>
+				<sent id ="48">Normal quantities of food and water per 100 broiler hen per day.</sent>
+				<sent id ="49">The water requirement for birds in summer water become double than it is required in the winter season.</sent>
+				<sent id ="50">Selection of a particular man for nursing the broiler chicks.</sent>
+				<sent id ="51">Use of separate dress by the nursing man at the time of entry into the broiler house.</sent>
+				<sent id ="52">Washing of hands and legs with water mixed germicide before entering into the broiler house.</sent>
+				<sent id ="53">Burial of deceased chicks into soil.</sent>
+				<sent id ="54">The vaccination programme for broiler should be followed as per the following routine.</sent>
+				<sent id ="55">Brooder tin: Brooder tin may be made of hard board or wood.</sent>
+				<sent id ="56">About 200_250 chicks can be kept under a brooder having 1-metre circumference.</sent>
+				<sent id ="57">The brooder house can be made of straw roofing and bamboo made mat fencing.</sent>
+				<sent id ="58">Electric heater, bulb, kerosene lamp and hajak can be used for supplying temperature artificially.</sent>
+				<sent id ="59">Germs of diseases can be destroyed by using infra red bulb.</sent>
+				<sent id ="60">Brooding or supply of heat: Brooding is a method of supplying heat to the chicks from 1 day to 21 days.</sent>
+				<sent id ="61">Electric or kerosene furnace can also be used for controlling temperature instead of using brooder.</sent>
+				<sent id ="62">Chick guard : It is necessary to mate one surrounding with 45 cm high bamboo- made mat or hard board 75 cm.</sent>
+				<sent id ="63">away from the brooder so that the chicks cannot to away.</sent>
+				<sent id ="64">This surrounding is called chick guard.</sent>
+				<sent id ="65">The area is to be enlarged as the chicks grown up.</sent>
+				<sent id ="66">The chick guard is also to be made bigger gradually.</sent>
+				<sent id ="67">After 2 weeks the chick guard is to be removed.</sent>
+				<sent id ="68">Feeding pan : During brooding the chicks are to be provided with food on trays for 2 days.</sent>
+				<sent id ="69">After that small pan and after 4 weeks bigger size feed pots should be used.</sent>
+				<sent id ="70">There should also be a pan for drinking water which should be kept clean Light :</sent>
+				<sent id ="71">There should be enough light in the house so as to allow the chicks to see the feeding and water pan.</sent>
+				<sent id ="72">The day light and enough artificial light during night should be ensured.</sent>
+				<sent id ="73">Ventilation : There should be good arrangement for ventilation in the brooder house.</sent>
+				<sent id ="74">So that pure air can blow inside.</sent>
+				<sent id ="75">If the chicks are found to gather like cluster near the brooder then it is to be understood that the temperature of the house is low.</sent>
+				<sent id ="76">If the chicks are found throughout the whole house, then it is to be under stood that the right temperature is maintained.</sent>
+				<sent id ="77">If the chicks are found away from the brooder then it is to be understood that the house maintains a high temperature.</sent>
+				<sent id ="78">The main ingredients and their description of a brooder house are given below.</sent>
+				<sent id ="79">The chicks of age of 2 to 4 months are called growing chicks.</sent>
+				<sent id ="80">At this time chicks are to be reared with care.</sent>
+				<sent id ="81">Because, egg production at later stage depends on their development during this growing period.</sent>
+				<sent id ="82">If the layer is properly developed during the growing period, it can lay eggs for longer period.</sent>
+				<sent id ="83">These are known as commercial layer.</sent>
+				<sent id ="84">Name of some of the breeds of chicks, which can produce higher number of eggs, are given below.</sent>
+				<sent id ="85">A list of balanced food of growing chicken is given below (age: 8-16 week).</sent>
+				<sent id ="86">Each growing chicken should be given 70-80 gm of food daily The littre should be cleaned before putting growing chicken.</sent>
+				<sent id ="87">The room should be washed by water mixed with germicides like Phenyle or Lyzol.</sent>
+				<sent id ="88">New littre, rice husk or saw meal dust (wood dust) should be spread over the floor.</sent>
+				<sent id ="89">Food and water pan should be kept in order after proper cleaning.</sent>
+				<sent id ="90">The arrangement for balanced diet and pure water should always be ensured.</sent>
+				<sent id ="91">The floor space for growing chicken should be increased considering the number of chicken.</sent>
+				<sent id ="92">Chicks cannot be kept in the room of growing chickens.</sent>
+				<sent id ="93">The hen starts laying eggs at the age of 5 months.</sent>
+				<sent id ="94">But it may take more one month to come to full production.</sent>
+				<sent id ="95">During this period attention must be given to die food, water and dwelling place.</sent>
+				<sent id ="96">The chicken should be vaccinated at the specified age against all contagious diseases.</sent>
+				<sent id ="97">The hen should be put to laying room as soon as it reaches the age of 4- 4 1/2 months.</sent>
+				<sent id ="98">Before that the chicken should be given necessary medicine.</sent>
+				<sent id ="99">To control lice at this age insecticide may be sprayed.</sent>
+				<sent id ="100">Generally the rearing period of layer remains confined to 21-76 weeks.</sent>
+				<sent id ="101">During this time the layers should be provided with balanced diet, pure water disease free and clean environment in order to get maximum production.</sent>
+				<sent id ="102">By doing this the rearing layer can be made profitable.</sent>
+				<sent id ="103">Each layer should be provided with 110-120 gm of food up to 2 years of its age, vitamin and mineral premix are also to be added with the food.</sent>
+				<sent id ="104">The feed to be used for layer hens should contain at best 16 percent crude protein.</sent>
+				<sent id ="105">What to be done for Rearing Layer Hen The room and the furniture of the room are to be properly cleaned and made free from germ.</sent>
+				<sent id ="106">New littre of thickness of 15-20 cm should be spread over the floor.</sent>
+				<sent id ="107">Every day the pan of food and water should be cleaned in such a way that not dirt remains with the pan.</sent>
+				<sent id ="108">Bulb having power of 40-60 watt should be kept on in the room of the layer.</sent>
+				<sent id ="109">When the hen attains age of 4 - 4 2 months.</sent>
+				<sent id ="110">Then the growing chicken starts laying egg at the rate 2-4 eggs per week, the layer should be transferred to the layer house.</sent>
+				<sent id ="111">The layer must be given balance diet from this time.</sent>
+				<sent id ="112">To meet the deficiency of calcium, ground oyster shell is to be given with the food at this time.</sent>
+				<sent id ="113">The period of artificial lighting should be extended as soon the layer starts laying egg.</sent>
+				<sent id ="114">light should be provided for 16 hours out of the 24 hours of a day.</sent>
+				<sent id ="115">The layer should be given medicine for controlling worm timely.</sent>
+				<sent id ="116">The littre should be turned twice in a week.</sent>
+				<sent id ="117">Sometime lime may be mixed with their littre.</sent>
+				<sent id ="118">Generally the layers are to be sold for meat purpose within 75-76 weeks of the age.</sent>
+				<sent id ="119">Proper management of the farm is the pre-requisite for higher production.</sent>
+				<sent id ="120">The farm will incur loss if there remanins fault in the farm management.</sent>
+				<sent id ="121">In Bangladesh complexcities are encountered in the management of layer farm due to hot and humid climate.</sent>
+				<sent id ="122">As a result, during this period the production is hampered.</sent>
+				<sent id ="123">The layer suffer from respiratory trouble and breaths making sounds.</sent>
+				<sent id ="124">The layer takes more water as they become thirsty and they starts taking granular food in decreasing quantity.</sent>
+				<sent id ="125">Making arrangement for movement of sufficient air in the room of the laying hens.</sent>
+				<sent id ="126">Wetting the tin roof by sprinkling water over it.</sent>
+				<sent id ="127">c. Putting ceiling below the roof.</sent>
+				<sent id ="128">Supplying balanced diet and clean water e.</sent>
+				<sent id ="129">Making arrangement for supplying electricity to the farm.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

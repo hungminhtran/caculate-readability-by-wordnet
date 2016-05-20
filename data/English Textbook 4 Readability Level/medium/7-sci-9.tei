@@ -1,0 +1,92 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.309</idno>
+				<idno type="Number of sentences">64</idno>
+				<idno type="Number of tokens">789</idno>
+				<idno type="Number of token types">360</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t76">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Many different kinds of animals live in different environments in the world.</sent>
+				<sent id ="2">Some of the animals are very minute while some are huge.</sent>
+				<sent id ="3">Some live on land while others live in water.</sent>
+				<sent id ="4">Some of the animals spread out their wings and fly about in the sky and some crawl on land.</sent>
+				<sent id ="5">Many members of the animal kingdom are helpful for human beings, while others are harmful.</sent>
+				<sent id ="6">Depending on the presence or absence of vertebral column, the animal kingdom is divided into two major categories.</sent>
+				<sent id ="7">Such as- Animals that do not have vertebral column are called invertebrates.</sent>
+				<sent id ="8">For example: earthworm, spider, crab, scorpion and others.</sent>
+				<sent id ="9">Animals that have vertebral column or spinal cord are called vertebrates.</sent>
+				<sent id ="10">For example: human, cow, goat, fish and others.</sent>
+				<sent id ="11">There are different types of invertebrate animals in this world.</sent>
+				<sent id ="12">Depending on the number of cells, external covering of the body, body segments, excretory system, circulatory system, perforations, shape and so on.</sent>
+				<sent id ="13">the animals are divided into several groups.</sent>
+				<sent id ="14">These groups are known as phylum (plural: phyla).</sent>
+				<sent id ="15">Animal kingdom is divided into ten major phyla, of which nine are for the invertebrates.</sent>
+				<sent id ="16">The vertebrate animals belong to the phylum chordata.</sent>
+				<sent id ="17">The following is a brief description with examples of the different phyla in animal kingdom.</sent>
+				<sent id ="18">Name of the Phylum: Protozoa: Example-amoeba, entamoeba, and malarial parasite.</sent>
+				<sent id ="19">Name of the Phylum: Porifera: Animals in this phylum contain numerous perforations on their body.</sent>
+				<sent id ="20">Name of the Phylum: Cnidaria or Coelenterata: Animals in this phylum have a hollow body that acts as both body cavity and digestive organ.</sent>
+				<sent id ="21">The hollow body is also known as coelenteron.</sent>
+				<sent id ="22">For example: coral, jellyfish, hydra, and so on.</sent>
+				<sent id ="23">Name of the Phylum: Platyhelminthes or flatworms: Flat bodied worm-like animals belong to this phylum.</sent>
+				<sent id ="24">For example: tapeworm and liver fluke.</sent>
+				<sent id ="25">Name of the Phylum: Nematoda or roundworms: Round shaped worms are included in this phylum.</sent>
+				<sent id ="26">For example: pinworm, hookworm, ascaris, filarial worm.</sent>
+				<sent id ="27">Name of the Phylum: Annelida: These animals have ring-shaped segmented bodies.</sent>
+				<sent id ="28">For example: earthworm, leech, and so on.</sent>
+				<sent id ="29">Name of the Phylum: Arthropoda or arthropods: Animals in this group have at least three pairs of legs.</sent>
+				<sent id ="30">For example: prawn, crab, scorpion, cockroach, fly and so on.</sent>
+				<sent id ="31">Name of the Phylum: Mollusca: Animals in this group are softbodied covered by a shell.</sent>
+				<sent id ="32">For example: snail, oyster, octopus, and so on.</sent>
+				<sent id ="33">Name of the Phylum: Echinodermata: All animals of this phylum are marine.</sent>
+				<sent id ="34">For example: starfish, sea urchin, sea lily and so on.</sent>
+				<sent id ="35">Name of the Phylum: Chordata: The vertebrates are included in this phylum.</sent>
+				<sent id ="36">What are vertebrate animals and their classification Animals that have vertebral column on the dorsal aspect of the body are called vertebrates.</sent>
+				<sent id ="37">For example: fish, frog, crocodile, bird, tiger, human and so on.</sent>
+				<sent id ="38">Some animals with simpler form of spinal cord, mostly marine, are also included in this phylum.</sent>
+				<sent id ="39">Depending on the external features, life style, locomotion, and so on.</sent>
+				<sent id ="40">the vertebrates are classified into five classes that are described below with examples.</sent>
+				<sent id ="41">All fishes living in salt- or freshwater are included in this class.</sent>
+				<sent id ="42">With the exception of a few, most fish have scales.</sent>
+				<sent id ="43">For example: shing, Some vertebrates can live in both water and land and are called amphibians.</sent>
+				<sent id ="44">The eggs and larvae of the amphibians do not survive without water.</sent>
+				<sent id ="45">For example: toad, golden frog, tree frog and so on.</sent>
+				<sent id ="46">Vertebrates that have feathers are called birds.</sent>
+				<sent id ="47">Earthworms usually live in moist soil and cannot survive in dry soil.</sent>
+				<sent id ="48">They cannot tolerate light and heat and so during the daytime they stay underground and look for food at night.</sent>
+				<sent id ="49">Earthworms are usually 7-8 inches long, with segmented rounded body tapering towards the ends.</sent>
+				<sent id ="50">They have no eye, ear, or lung.</sent>
+				<sent id ="51">Breathing is carried out through the skin, which is also very sensitive.</sent>
+				<sent id ="52">The body is divided into about 150 ring-like segments.</sent>
+				<sent id ="53">Each body segment has four pairs of minute setae or bristles that help in locomotion.</sent>
+				<sent id ="54">Earthworms burrow into the soil as a result air and fertilizer easily enter the soil.</sent>
+				<sent id ="55">This makes the soil fertile and so Lizard is a variety of reptile.</sent>
+				<sent id ="56">The body is covered with small scales and is divided into four parts-head, neck, trunk and tail.</sent>
+				<sent id ="57">They are cold-blooded animals having red coloured blood.</sent>
+				<sent id ="58">They have four legs, two eyes and many small teeth.</sent>
+				<sent id ="59">The soles of the feet are padded with soft muscle that help them to move freely on straight walls and under surface of roofs.</sent>
+				<sent id ="60">If the tail of lizard falls off, it regenerates over time.</sent>
+				<sent id ="61">Lizards can lay up to 20 eggs at a time.</sent>
+				<sent id ="62">They live on insects.</sent>
+				<sent id ="63">A lizard can move its two eyes independently and so has a greater visual field.</sent>
+				<sent id ="64">Lizards eat many of the harmful insects and thus are beneficial to human beings.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

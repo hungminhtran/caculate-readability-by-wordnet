@@ -1,0 +1,116 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-budh-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.859</idno>
+				<idno type="Number of sentences">88</idno>
+				<idno type="Number of tokens">808</idno>
+				<idno type="Number of token types">357</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t3">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Buddha and Bodhisatta The Buddha and Bodhisatta are two familiar words to the Buddhists.</sent>
+				<sent id ="2">Buddha and Bodhisatta are two sacred words.</sent>
+				<sent id ="3">The two words are inter- related.</sent>
+				<sent id ="4">But fundamentally the two words are not the same.</sent>
+				<sent id ="5">So we shall learn the inner meanings of the two words.</sent>
+				<sent id ="6">Buddha: The word Buddha means wise.</sent>
+				<sent id ="7">But this knowledge is general or temporal.</sent>
+				<sent id ="8">This knowledge is profound wisdom.</sent>
+				<sent id ="9">The Buddha possesses unlimited wisdom.</sent>
+				<sent id ="10">The realm of His knowledge is eternal.</sent>
+				<sent id ="11">But all the wise men of the world are not Buddha.</sent>
+				<sent id ="12">Rebirth is recognised in Buddhism.</sent>
+				<sent id ="13">Human being can not attain salvation only by doing right actions in one birth.</sent>
+				<sent id ="14">The eternal salvation can be attained by doing right actions in successive rebirths.</sent>
+				<sent id ="15">By successive rebirths in different Jatak are only can fulfil Das Parami.</sent>
+				<sent id ="16">Parami means fulfilment or perfection.</sent>
+				<sent id ="17">Ten absolute perfections are - liberality, morality, renunciation, wisdom, energy, patience, truthfulness, resolution, loving-kindness and equanimity.</sent>
+				<sent id ="18">There are thirty kinds of perfections subject to perfection, sub-perfection and spiritual perfection.</sent>
+				<sent id ="19">Craving is the cause of rebirth.</sent>
+				<sent id ="20">One who attained Enlightenment will not be born again.</sent>
+				<sent id ="21">The Buddha is the Enlightened one.</sent>
+				<sent id ="22">Siddhartha Goutam was the son of the king Suddhodan.</sent>
+				<sent id ="23">He was an omnipotent.</sent>
+				<sent id ="24">Before attaining Enlightenment He was resurrected several times and fulfilled thirty kinds of perfections by doing right actions.</sent>
+				<sent id ="25">Lastly He was born as a human-being and attained Enlightenment after completing six years of rigorous meditation.</sent>
+				<sent id ="26">After attaining Enlightenment He propagated His doctrines for forty five years.</sent>
+				<sent id ="27">The Buddhists are the followers of Goutam Buddha.</sent>
+				<sent id ="28">Sammayak Sambuddha: Sammayak Sambuddha is superior among the Buddhas.</sent>
+				<sent id ="29">Sammayak Sambuddha fulfilled thirty Paramis in successive rebirth by dint of rigorous ascetic practice.</sent>
+				<sent id ="30">In His last birth He attained Buddhahood and became enlightened.</sent>
+				<sent id ="31">He propagated the ways and means of salvation for the happiness of all living-beings.</sent>
+				<sent id ="32">Pachchek Buddha: One becomes Pachchek Buddha by dint of one's own austerity.</sent>
+				<sent id ="33">They have no role in rendering welfare to the world of creation.</sent>
+				<sent id ="34">Their ascetic knowledge is limited within themselves.</sent>
+				<sent id ="35">They led honest lives.</sent>
+				<sent id ="36">Achieving unlimited virtues they became Arahant and attained Nirban.</sent>
+				<sent id ="37">They are called Sravak Buddhas.</sent>
+				<sent id ="38">Sravak Buddhas help others in attaining Nirban.</sent>
+				<sent id ="39">Bodhisatta: The word Bodhi means wisdom.</sent>
+				<sent id ="40">The word Satta means living-being.</sent>
+				<sent id ="41">Bodhisatta means in whom Boddhi or the seed of wisdom has sprouted.</sent>
+				<sent id ="42">Bodhisatta is not Buddha.</sent>
+				<sent id ="43">He is a future Buddha.</sent>
+				<sent id ="44">He had to pursue rigorous ascetic practices for fulfilling Parami.</sent>
+				<sent id ="45">He had to observe hard ways of ascetic life for attaining Buddhahood.</sent>
+				<sent id ="46">The characteristics of the life of Bodhisatta are the fulfilment of ten perfections by doing right actions.</sent>
+				<sent id ="47">Siddhartha Goutam was born in various races before attaining Buddhahood.</sent>
+				<sent id ="48">He was known as Bodhisatta during this time.</sent>
+				<sent id ="49">There was a story about how Gautam Buddha started His Bodhisatta life.</sent>
+				<sent id ="50">Long long ago, there was a city named Amaravati.</sent>
+				<sent id ="51">A wise man lived in this city.</sent>
+				<sent id ="52">His name was Sumedh Tapas.</sent>
+				<sent id ="53">Dipankar Buddha appeared in this world at that time.</sent>
+				<sent id ="54">The inhabitants of Amaravati once invited Dipankar Buddha to their city.</sent>
+				<sent id ="55">He accepted their invitation.</sent>
+				<sent id ="56">Dipankar Buddha started for Amaravati with His many disciples.</sent>
+				<sent id ="57">It was rainy season.</sent>
+				<sent id ="58">The road was bad.</sent>
+				<sent id ="59">People were engaged in repairing the road.</sent>
+				<sent id ="60">Sumedh Tapas also participated in this work.</sent>
+				<sent id ="61">The repair work was not complete.</sent>
+				<sent id ="62">Only several yards were left to be repaired.</sent>
+				<sent id ="63">Dipankar Buddha arrived by this time.</sent>
+				<sent id ="64">Everybody was in a fix as to what to do.</sent>
+				<sent id ="65">Sumedh Tapas was beside them.</sent>
+				<sent id ="66">He lay down on the muddy road without any hesitation.</sent>
+				<sent id ="67">Dipankar Buddha decided to comply with his request.</sent>
+				<sent id ="68">Dipankar Buddha observed all the qualities in Sumedha Tapas of the future Buddha.</sent>
+				<sent id ="69">He blessed for the fullfilment of the prayer of Sumedh Tapas.</sent>
+				<sent id ="70">The Bodhisatta life of Goutam Buddha began in the next birth by dint of the blessings of Dipankar Buddha.</sent>
+				<sent id ="71">This Sumedh Tapas was born as a prince Siddharta in his last birth and became enlightened.</sent>
+				<sent id ="72">1.Those who fulfil dash parami in their previous life are Buddhas.</sent>
+				<sent id ="73">The Buddhas attain Mahaparinirban by destroying sorrows.</sent>
+				<sent id ="74">He is Bodhisatta in whom the seed of wisdom has sprouted.</sent>
+				<sent id ="75">Attainment of Nirban is not possible during the life of Boddhisatta.</sent>
+				<sent id ="76">One has to be born again and again for fulfilling perfections.</sent>
+				<sent id ="77">The Buddhas are the seers of three ages.</sent>
+				<sent id ="78">They are conscious and aware of the present, past and future.</sent>
+				<sent id ="79">The Bodhisattas are busy with their present life.</sent>
+				<sent id ="80">They do not bother about the past and future.</sent>
+				<sent id ="81">The Buddhas are all knowing.</sent>
+				<sent id ="82">They are aware of the life of all living-beings here and hereafter.</sent>
+				<sent id ="83">The knowledge of Bodhisattas is limited.</sent>
+				<sent id ="84">They are not aware of the life of the living-beings here and hereafter.</sent>
+				<sent id ="85">The Buddhas possess firm mental state.</sent>
+				<sent id ="86">They are free from sensuality, greed, delusion, blame, appreciation and criticisim.</sent>
+				<sent id ="87">The mental states of the Boddhisattas are not entightened as the Buddhas are.</sent>
+				<sent id ="88">Their ultimate aim is to become Buddha in future.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

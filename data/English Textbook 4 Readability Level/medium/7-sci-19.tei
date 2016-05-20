@@ -1,0 +1,154 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-19</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.003</idno>
+				<idno type="Number of sentences">126</idno>
+				<idno type="Number of tokens">1550</idno>
+				<idno type="Number of token types">645</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t63">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">You study subjects like BangIa, English, Mathematics, Social Studies, Religious studies etc. in your class.</sent>
+				<sent id ="2">Did you mark the basic differences between studies of science and other subjects?</sent>
+				<sent id ="3">Science is a practical oriented subject.</sent>
+				<sent id ="4">Here, learning is by doing.</sent>
+				<sent id ="5">You will get practical working experience.</sent>
+				<sent id ="6">You will gain practical skills.</sent>
+				<sent id ="7">You will develop inquisitiveness about nature.</sent>
+				<sent id ="8">You will learn to think logically.</sent>
+				<sent id ="9">You will be able to solve many day to days problems by applying scientific knowledge.</sent>
+				<sent id ="10">You will be able to increase standard of your life by applying scientific knowledge.</sent>
+				<sent id ="11">Science is a practical oriented subject, when you learn science by doing yourself the learning becomes joyable.</sent>
+				<sent id ="12">And you will not forget the learning for long.</sent>
+				<sent id ="13">You can make small but essential things for your house and family.</sent>
+				<sent id ="14">Every day we discard and throwaway many things after its use.</sent>
+				<sent id ="15">Some of these discarded things may be converted to useful goods when they are properly processed.</sent>
+				<sent id ="16">In this chapter you will learn how to produce useful goods out of these discarded materials lying around you.</sent>
+				<sent id ="17">What is waste raw materials?</sent>
+				<sent id ="18">We throw away things when they become old and useless.</sent>
+				<sent id ="19">Thrown away useless things are called discarded or waste materials.</sent>
+				<sent id ="20">We use papers, polythene clothes or tin, metallic foils etc. as wrapping materials.</sent>
+				<sent id ="21">After using the materials, the packing materials are discarded as wastes.</sent>
+				<sent id ="22">There are few materials which have no other alternative but to throw away after use.</sent>
+				<sent id ="23">These materials are metallic can, broken glass, plastic materials, vegetables and fruit peels, fish scales, bones etc.</sent>
+				<sent id ="24">We also throw old books, note books, paper, ball pen and clothes after use.</sent>
+				<sent id ="25">If these things are thrown here and there they will make the surroundings dirty, polluted and spread bad ordure.</sent>
+				<sent id ="26">It creates imbalance in the environment.</sent>
+				<sent id ="27">However, there are few discarded waste materials which may be reused in production of useful goods.</sent>
+				<sent id ="28">It is economically profitable in one hand and on the other hand, the environment remains free from pollution.</sent>
+				<sent id ="29">The wastes which can not be recycled, must be burried under the soil.</sent>
+				<sent id ="30">It helps keeping atmosphere clean.</sent>
+				<sent id ="31">Sources and reuse of few discarded waste materials.</sent>
+				<sent id ="32">You can make useful things from some of the waste materials easily and cheaply by applying your knowledge and skills in science education.</sent>
+				<sent id ="33">Things used to produce new products are called raw materials.</sent>
+				<sent id ="34">From jute gunny bag, carpet, thread, rope etc. are produced.</sent>
+				<sent id ="35">Here jute is the raw material.</sent>
+				<sent id ="36">Sugar molasses and spirit are produced from sugar cane.</sent>
+				<sent id ="37">Write in the following tabular form, the names of raw materials and corresponding products in above cases.</sent>
+				<sent id ="38">You have learnt what is raw materials.</sent>
+				<sent id ="39">Now let us prepare few utility goods using discarded wastes as raw materials.</sent>
+				<sent id ="40">Sources of waste raw materials should be available from near surrounding environment.</sent>
+				<sent id ="41">We throw many things during or after its use.</sent>
+				<sent id ="42">Metals Old and abandoned parts of By recycling these can vehicle engines, metallic can etc.</sent>
+				<sent id ="43">be made useable.</sent>
+				<sent id ="44">Glass and Broken glasses, used or unused Recycling in a factory Plastics glasses, plastics etc. to produce new products.</sent>
+				<sent id ="45">Papers and Used papers clothes etc. Processing for the clothes preparation of pulp.</sent>
+				<sent id ="46">Organic Peels of vegetables, onion, Production of organic matters garlic, fruits etc. Waste fertilizer or manure.</sent>
+				<sent id ="47">materials of fish and meat, excrement of cattle.</sent>
+				<sent id ="48">selected from these unusable materials.</sent>
+				<sent id ="49">During selection of raw materials, the following things should be taken into account.</sent>
+				<sent id ="50">a) Availability of raw materials from activities of every day life should be ensured.</sent>
+				<sent id ="51">b) Raw materials should be available free of cost.</sent>
+				<sent id ="52">c) Selecting such raw materials from which cost of production will be low.</sent>
+				<sent id ="53">d) Producing materials with low production cost from cost free raw materials and must ensure the quality of the product.</sent>
+				<sent id ="54">e) Production should be usable for different purposes of the family.</sent>
+				<sent id ="55">Raw materials should be selected basing on these principles.</sent>
+				<sent id ="56">Products from waste or discarded raw materials are used in educational purposes and to meet house hold needs.</sent>
+				<sent id ="57">This may be taken as a profession by some people.</sent>
+				<sent id ="58">How waste raw materials can be utilized is described below with examples.</sent>
+				<sent id ="59">The material we need most for education is paper.</sent>
+				<sent id ="60">Every day you read beautiful books, magazines and newspapers.</sent>
+				<sent id ="61">We write about knowledge, science, civilization and literature on paper.</sent>
+				<sent id ="62">Paper is the flame of civilization and main constituent part of human civilization .</sent>
+				<sent id ="63">After use we throw away these papers.</sent>
+				<sent id ="64">These waste papers can be utilized in various ways.</sent>
+				<sent id ="65">a) In books, periodicals, journals and news papers valuable pictures, advices and writings are published.</sent>
+				<sent id ="66">These writings, pictures, advices and messages may be used in future.</sent>
+				<sent id ="67">So, before throwing these papers you can preserve paper cuttings of valuable writings, pictures and messages in an album.</sent>
+				<sent id ="68">b) When preparing note books, papers are cut to shapes and sizes.</sent>
+				<sent id ="69">These cut pieces may be utilized as paper tag and slip paper of shops.</sent>
+				<sent id ="70">These cut pieces may also be utilized to make paper bags and packets.</sent>
+				<sent id ="71">c) Paper pulps may be prepared from waste paper by boiling in water.</sent>
+				<sent id ="72">Pitch board of any size can be made by pouring pulps on a bamboo sieve and applying pressure on it;</sent>
+				<sent id ="73">Coloured pitch board may be prepared by applying wax and colour on pulps.</sent>
+				<sent id ="74">Many people earn their livelihood by picking waste papers, coloured cartoons and packing boxes used for sweets.</sent>
+				<sent id ="75">These waste papers can be used to make packing materials for sending goods abroad .</sent>
+				<sent id ="76">You have seen batteries used in a torch light.</sent>
+				<sent id ="77">When used up, we throw these batteries away.</sent>
+				<sent id ="78">Carefully take out the carbon rods from the batteries before throwing them.</sent>
+				<sent id ="79">Be careful to retain the copper caps on the rod.</sent>
+				<sent id ="80">You can use these carbon rods as easily available learning materials when you study about water analyzer, electric cells etc.</sent>
+				<sent id ="81">Glass and plates occasionally break in every day use in a family .</sent>
+				<sent id ="82">We can use these broken glasses and plates for different purposes .</sent>
+				<sent id ="83">When water glass is broken it may be shaped by means of a glass cutter.</sent>
+				<sent id ="84">It may be used as a pen holder.</sent>
+				<sent id ="85">Pieces of glass may be used on brick made boundary walls of houses.</sent>
+				<sent id ="86">It can be used with mosaic on the walls also.</sent>
+				<sent id ="87">After use when the ink of a ball pen is exhausted we throw it.</sent>
+				<sent id ="88">Collect 10/12 numbers of empty ball pens and a discarded electric bulb.</sent>
+				<sent id ="89">Now with the help of a nail and hammer break the pitch coating of the bulb.</sent>
+				<sent id ="90">Take care so that the brass rim is intact, Now push the nail deeper and by revolving movement; break the inner glass structure.</sent>
+				<sent id ="91">Then bring out these glass pieces and thin wires.</sent>
+				<sent id ="92">Now insert small pieces of ball pen into this empty glass bulb.</sent>
+				<sent id ="93">20.2 and accordingly apply heat to the bulb by means of a spirit lamp.</sent>
+				<sent id ="94">After some time the pieces of ball pen will start to melt.</sent>
+				<sent id ="95">Now add more pieces of ball pen if you feel necessary.</sent>
+				<sent id ="96">You will find that all the pieces of ball pen have melted.</sent>
+				<sent id ="97">When the bulb is more than half filled with this melted plastic; stop heating and allow the bulb to cool down gradually.</sent>
+				<sent id ="98">When the bulb is perfectly cold give the bulb a mild beating with the hammer.</sent>
+				<sent id ="99">The bulb will break into pieces and a beautiful semi spherical plastic paper weight will come out.</sent>
+				<sent id ="100">In this way, discarded materials can be used to make useable thing like a paper weight.</sent>
+				<sent id ="101">Vegetable peels and peels of fruits and vegetables are buried to make valuable organic fertilizer.</sent>
+				<sent id ="102">Dye can be prepared from peels of onion and Pome granate (Dalim), saw dust of Jackfruit timber by boiling in water.</sent>
+				<sent id ="103">Trashes of coconut and green coconut may be used after drying in the sun for making ropes, mat, sofa and mattresses etc.</sent>
+				<sent id ="104">You can make different artistic items by using the shell of the coconut.</sent>
+				<sent id ="105">Sugar cane trash can be used as fuel.</sent>
+				<sent id ="106">Paper pulps can also be prepared from this trash.</sent>
+				<sent id ="107">Paper is being produced from sugar cane trash in North Bengal Paper Mills located at Pakshi.</sent>
+				<sent id ="108">Egg shell is very rich in calcium content.</sent>
+				<sent id ="109">Fish food may be produced by making powders of egg shells.</sent>
+				<sent id ="110">Fish scale is rich in phosphorus, while fish viscera contains nitrogen.</sent>
+				<sent id ="111">These wastes may be used as organic fertilizer in vegetables garden.</sent>
+				<sent id ="112">Dung of cattle specially of cow can be used for producing biogas.</sent>
+				<sent id ="113">Excrement of poultry is a valuable fish food.</sent>
+				<sent id ="114">It is also used as organic fertilizer.</sent>
+				<sent id ="115">Too much use of chemical fertilizer is bad.</sent>
+				<sent id ="116">It is one of the agents of water pollution.</sent>
+				<sent id ="117">Use of too much chemical fertilizer and insecticides are one of the causes of air and water pollution.</sent>
+				<sent id ="118">It disturbs natural balance.</sent>
+				<sent id ="119">But when organic fertilizer or manures are used, there is no bad effects; rather it helps to increase the yield of crops.</sent>
+				<sent id ="120">In our every day life we discard many things.</sent>
+				<sent id ="121">With a bit of intelligent thinking we can use these things for various purposes.</sent>
+				<sent id ="122">Use of these things bring economic benefit to us.</sent>
+				<sent id ="123">On the other hand, the environment will also remain clean.</sent>
+				<sent id ="124">To keep our environment clean means make this beautiful earth more beautiful.</sent>
+				<sent id ="125">Before discarding a thing at your home or school you should think how can you use that.</sent>
+				<sent id ="126">Then we will have no want though we have shortage of wealth.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

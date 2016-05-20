@@ -1,0 +1,96 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-bdGlobal-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.097</idno>
+				<idno type="Number of sentences">68</idno>
+				<idno type="Number of tokens">896</idno>
+				<idno type="Number of token types">360</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t24">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">There are many problems of social life in Bangladesh.</sent>
+				<sent id ="2">Some of them are poverty, growth of population, illiteracy, superstition and the custom of dowry.</sent>
+				<sent id ="3">The economic and social advancement of the country is hindered by these social problems.</sent>
+				<sent id ="4">These problems should be resisted and solved.</sent>
+				<sent id ="5">For this a massive social movement should be launched and the existing laws should be properly enforced.</sent>
+				<sent id ="6">One of many social problems in our country is the custom of dowry.</sent>
+				<sent id ="7">The exchange of dowry is prohibited in the marriage law of the country.</sent>
+				<sent id ="8">Still in most of the marriages, the groom's side takes dowry from the bride's side.</sent>
+				<sent id ="9">The money or property that the groom or the bride demands and receives from the opposite side during marriage is called dowry.</sent>
+				<sent id ="10">In present Bangladesh, almost in all cases the groom's side demands dowry from the bride's side.</sent>
+				<sent id ="11">Few marriages take place without dowry.</sent>
+				<sent id ="12">It has turned into a social ill.</sent>
+				<sent id ="13">Dowry is an ancient custom.</sent>
+				<sent id ="14">In ancient China, the bride used to carry dowry to husband's house after marriage.</sent>
+				<sent id ="15">In Athens too the bride after marriage used to take money and property to husband's house.</sent>
+				<sent id ="16">Dowry was considered a social dignity there.</sent>
+				<sent id ="17">In present Bangladesh, dowry is the money, property and many kinds of valuable furniture and articles given to the groom in marriage.</sent>
+				<sent id ="18">But in the marriage law of Bangladesh, both giving and receiving of dowry are prohibited.</sent>
+				<sent id ="19">Dowry is a practice in all social sects of Bangladesh.</sent>
+				<sent id ="20">Many problems have been created in social life due to dowry.</sent>
+				<sent id ="21">The main reason behind torture and violence to married women is dowry.</sent>
+				<sent id ="22">The wife is humiliated in the husband's house due to dowry.</sent>
+				<sent id ="23">If the demand of dowry is not met, often the wife is forced to leave the husband's house.</sent>
+				<sent id ="24">Divorce and in some cases, the loss of wife's life occurs because of dowry.</sent>
+				<sent id ="25">In Bangladesh, custom of dowry is a deadly social disease.</sent>
+				<sent id ="26">Many reasons are behind this.</sent>
+				<sent id ="27">But poverty is supposed to be the main cause of this problem.</sent>
+				<sent id ="28">The groom's side demand money from the bride's side because of poverty.</sent>
+				<sent id ="29">The groom wants to be established utilizing the money and property of the bride's father.</sent>
+				<sent id ="30">Most women in this country are engaged in domestic work at their own homes and as such do not earn anything.</sent>
+				<sent id ="31">They live as dependent in husbands family.</sent>
+				<sent id ="32">Such women most often suffer humiliation and torture by husbands.</sent>
+				<sent id ="33">Many wealthy people in Bangladesh give huge dowry in their daughters marriage.</sent>
+				<sent id ="34">Wealthy parents believe that daughters will live heads high in husbands house because of the dowry they take with them.</sent>
+				<sent id ="35">For this reason too, the custom of dowry has taken a deep root in social mind.</sent>
+				<sent id ="36">There is law against dowry in our country.</sent>
+				<sent id ="37">Wife-torturing in demand of dowry is increasing because many times this law is not properly enforced.</sent>
+				<sent id ="38">The events of post marriage conjugal quarrel, torture, murder of wife and divorce happen because of dowry.</sent>
+				<sent id ="39">This dowry problem is at the root of poverty, corruption, crime tendency, early marriages and polygamy in society.</sent>
+				<sent id ="40">We should remember that both giving and receiving dowry are equal crimes.</sent>
+				<sent id ="41">In Muslim Family Law mohrana in marriage is not considered dowry.</sent>
+				<sent id ="42">Besides, marriage gift up to 500 Taka will not be considered dowry.</sent>
+				<sent id ="43">But at present, exchange of dowry in marriage has increased in a large scale.</sent>
+				<sent id ="44">For this, anti-dowry act was passed in1980 in Bangladesh.</sent>
+				<sent id ="45">According to this act, highest one year imprisonment or a fine of five thousand taka can be the punishment for giving or receiving dowry.</sent>
+				<sent id ="46">The judge can give both the punishments together.</sent>
+				<sent id ="47">The accomplice will get the same punishment too.</sent>
+				<sent id ="48">To marry a woman against her will and receiving dowry have also come under the provision of severe punishment.</sent>
+				<sent id ="49">Dowry has created a massive problem in family and society in Bangladesh.</sent>
+				<sent id ="50">We have to be conscious in order to be free from the evil effects of this custom.</sent>
+				<sent id ="51">To resist dowry, the first thing is to make the family conscious.</sent>
+				<sent id ="52">We should abstain from giving and receiving dowry.</sent>
+				<sent id ="53">At the same time we have to make our neighbours conscious about this.</sent>
+				<sent id ="54">If necessary, we have to take recourse to law.</sent>
+				<sent id ="55">We have to motivate all in family including the female child to take higher education.</sent>
+				<sent id ="56">If they are self dependent, the curse of dowry cannot touch them.</sent>
+				<sent id ="57">If we want to remain free from the clutches of dowry, we have to make all in society along with our family members conscious.</sent>
+				<sent id ="58">For this, it is necessary to build up anti-dowry social movement.</sent>
+				<sent id ="59">Social movement is organised social resistance.</sent>
+				<sent id ="60">Everyday incidences like illiteracy, poverty, torture of women, hijacking and divorce occur around us.</sent>
+				<sent id ="61">Behind many of these incidences, there is the demand of dowry.</sent>
+				<sent id ="62">We have to make our neighbours along with people in the locality, ward and village conscious about the bad effects of dowry.</sent>
+				<sent id ="63">We have to call everybody to come forward to resist this bad custom.</sent>
+				<sent id ="64">We have to create anti-dowry attitude in everybody's mind in society.</sent>
+				<sent id ="65">If we can build up an anti-dowry organization, we can be free from this social problem.</sent>
+				<sent id ="66">This organization will stand by victims of dowry and provide them all assistance along with legal assistance.</sent>
+				<sent id ="67">Besides, this organization can hold anti-dowry meetings, road marches and rallies.</sent>
+				<sent id ="68">Thus, consciousness will grow in people and our society will be saved from the claws of dowry.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

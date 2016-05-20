@@ -1,0 +1,80 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.879</idno>
+				<idno type="Number of sentences">52</idno>
+				<idno type="Number of tokens">481</idno>
+				<idno type="Number of token types">222</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t12">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">He put the bird in a cage.</sent>
+				<sent id ="2">The hunter had a girl named Chandrima.</sent>
+				<sent id ="3">She gave the bird in the cage water and food everyday.</sent>
+				<sent id ="4">She took good care of the bird.</sent>
+				<sent id ="5">But the bird was not happy at all.</sent>
+				<sent id ="6">After a few days the bird gave up eating.</sent>
+				<sent id ="7">Chandrima became sad.</sent>
+				<sent id ="8">She could understand the sorrows of the bird.</sent>
+				<sent id ="9">She could realise that the bird was not at all happy in the cage.</sent>
+				<sent id ="10">She also realise that if the bird was set free, it would be happy again.</sent>
+				<sent id ="11">It started flying happily in the sky.</sent>
+				<sent id ="12">We understand from the story that in captivity the bird was not happy at all.</sent>
+				<sent id ="13">We saw how delighted the bird was when it was free.</sent>
+				<sent id ="14">Being free from the cage, it flew away in the sky happily.</sent>
+				<sent id ="15">Like this bird, we also want to be happy.</sent>
+				<sent id ="16">None of us want to lead a captive or unhappy life.</sent>
+				<sent id ="17">We all want to get the joys of freedom.</sent>
+				<sent id ="18">Human beings were sunk in the ocean of sins.</sent>
+				<sent id ="19">So they needed a saviour.</sent>
+				<sent id ="20">Chandrima was the saviour of the bird.</sent>
+				<sent id ="21">But man is the dearest creation of God.</sent>
+				<sent id ="22">So he needs a great saviour.</sent>
+				<sent id ="23">Our Saviour is Jesus Christ.</sent>
+				<sent id ="24">He is the Son of God.</sent>
+				<sent id ="25">Here we will learn about our Saviour.</sent>
+				<sent id ="26">We will learn now what is written about it in the Holy Bible.</sent>
+				<sent id ="27">Once, the angel Gabriel appeared before Joseph, the husband of Mary, in his dream.</sent>
+				<sent id ="28">That son would be named Jesus.</sent>
+				<sent id ="29">Jesus would free mankind from sin.</sent>
+				<sent id ="30">Accordingly Joseph accepted Mary.</sent>
+				<sent id ="31">After the birth of the boy, Joseph named him Jesus.</sent>
+				<sent id ="32">The Meaning of Jesus and Christ Jesus stands for the Saviour.</sent>
+				<sent id ="33">Jesus is also called Christ.</sent>
+				<sent id ="34">The word Christ means one who is anointed with devine blessings.</sent>
+				<sent id ="35">So, Jesus Christ is the Saviour of all.</sent>
+				<sent id ="36">He frees us from sins.</sent>
+				<sent id ="37">The door of heaven was onece closed for us because of the orginal sin.</sent>
+				<sent id ="38">Jesus has opened that door for us again.</sent>
+				<sent id ="39">God, the Father anointed Jesus with divine bliss and sent him on the earth.</sent>
+				<sent id ="40">The door of heaven was thus opened for human beings.</sent>
+				<sent id ="41">The sin of Adam and Eve polluted all human beings.</sent>
+				<sent id ="42">But God decided to free human kind from sins.</sent>
+				<sent id ="43">He sent His only son to this earth.</sent>
+				<sent id ="44">Jesus Christ died on the Cross and freed mankind from their sins.</sent>
+				<sent id ="45">So he is the Saviour of human kind.</sent>
+				<sent id ="46">Helping others in different ways As a doctor, we can cure human body.</sent>
+				<sent id ="47">But it is Jesus was himself heals the patients through a doctor.</sent>
+				<sent id ="48">We can advise man to be relieved of his sorrows.</sent>
+				<sent id ="49">But it is Jesus who relieves people of their sorrows through us.</sent>
+				<sent id ="50">We can speak of Jesus to people for their spiritual freedom.</sent>
+				<sent id ="51">Because Jesus free the soul of human beings.</sent>
+				<sent id ="52">Jesus is our Savior and in him we seek forgiveness of our sins.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

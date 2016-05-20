@@ -1,0 +1,179 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.25</idno>
+				<idno type="Number of sentences">151</idno>
+				<idno type="Number of tokens">1310</idno>
+				<idno type="Number of token types">445</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t75">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">There are various types of plants around us.</sent>
+				<sent id ="2">In order to learn about them, we need to know about their classification.</sent>
+				<sent id ="3">You know that there are many types of animals and plants in our environment.</sent>
+				<sent id ="4">Can you identify different living and non-living things of the environment?</sent>
+				<sent id ="5">You obviously remember the differences between the living and non-living things.</sent>
+				<sent id ="6">Write down these differences in the following table.</sent>
+				<sent id ="7">You know that mango trees, grass, pumpkin climbers etc. are living things.</sent>
+				<sent id ="8">Humans, mosquitoes, flies, cows, birds etc. are also living beings.</sent>
+				<sent id ="9">mango trees, grass and pumpkin climbers are plants.</sent>
+				<sent id ="10">Man, mosquitoes, flies, cows, birds etc. are animals.</sent>
+				<sent id ="11">Write down the differences between plants and animals in the following table.</sent>
+				<sent id ="12">Now let us know about the classifications of plants.</sent>
+				<sent id ="13">There are various types of plant around you.</sent>
+				<sent id ="14">These plants are called trees.</sent>
+				<sent id ="15">The roots of trees go very deep into the soil.</sent>
+				<sent id ="16">Their stems remain above the ground, which are strong, rigid and wide.</sent>
+				<sent id ="17">Branches grow from the stem, and branchlets grow from the branches.</sent>
+				<sent id ="18">The stem bears the branches, branchlets, flowers, leaves and fruits of the plant.</sent>
+				<sent id ="19">We get wood from the stem.</sent>
+				<sent id ="20">There is another type of plants which are not as big as trees.</sent>
+				<sent id ="21">Rose and china-rose plants are examples of these.</sent>
+				<sent id ="22">Their roots do not go as deep into the soil as those of trees do.</sent>
+				<sent id ="23">They are called shrubs.</sent>
+				<sent id ="24">Branches grow from all around the stem of a shrub.</sent>
+				<sent id ="25">As a result it looks like a bush.</sent>
+				<sent id ="26">Grass, pumpkin climbers, pepper plants etc. are smaller than shrubs.</sent>
+				<sent id ="27">They have soft stems, branches and branchlets.</sent>
+				<sent id ="28">Their roots do not go deep into the soil.</sent>
+				<sent id ="29">They are called herbs.</sent>
+				<sent id ="30">You have learnt the characteristics of the three types of plants.</sent>
+				<sent id ="31">Take some seeds of pea or bean.</sent>
+				<sent id ="32">Put it in some water in a saucer.</sent>
+				<sent id ="33">Again, take some seeds of paddy, wheat or maize.</sent>
+				<sent id ="34">Put them in some water in another saucer.</sent>
+				<sent id ="35">Observe the wet seeds everyday.</sent>
+				<sent id ="36">Make sure that the saucers do not become dry.</sent>
+				<sent id ="37">Seedlings will sprout from the seeds in a few days.</sent>
+				<sent id ="38">Take a seedling of pea or bean from the first saucer.</sent>
+				<sent id ="39">The seedling has sprouted from one side of it.</sent>
+				<sent id ="40">Notice that it has two parts.</sent>
+				<sent id ="41">These two parts will be separated if you press a little.</sent>
+				<sent id ="42">These parts are called cotyledons.</sent>
+				<sent id ="43">Now take one germinated seed of paddy, wheat or maize from the second saucer.</sent>
+				<sent id ="44">Carefully peel off the seed-coat from the seed and observe its interior.</sent>
+				<sent id ="45">Do these seeds have two cotyledons like pea or bean seeds do?</sent>
+				<sent id ="46">You will find that there is only one cotyledon in each of these seeds.</sent>
+				<sent id ="47">You have seen two cotyledons in pea and bean seeds.</sent>
+				<sent id ="48">These plants are called dicot plants.</sent>
+				<sent id ="49">The stems of these plants have branches and branchlets.</sent>
+				<sent id ="50">Paddy, wheat, and maize seeds have only one cotyledon.</sent>
+				<sent id ="51">These plants are called monocots.</sent>
+				<sent id ="52">Their stems do not have branches.</sent>
+				<sent id ="53">Now, arrange the following mango, jackfruit, jambu, coconut, palmyra palm, betel-nut.</sent>
+				<sent id ="54">plants into the appropriate columns of the following table.</sent>
+				<sent id ="55">Observe the following picture.</sent>
+				<sent id ="56">What can you see there?</sent>
+				<sent id ="57">Try to find these plants around your school and house.</sent>
+				<sent id ="58">Your teacher will help you find them.</sent>
+				<sent id ="59">Observe the plants carefully.</sent>
+				<sent id ="60">Do all of these plants bear flowers?</sent>
+				<sent id ="61">Some of these bear flowers while the others do not.</sent>
+				<sent id ="62">Plants which bear flowers are called flowering plants.</sent>
+				<sent id ="63">Most of the plants around us are flowering plants.</sent>
+				<sent id ="64">Mango, jambu, jackfruit, palmyra palm, betel-nut, coconut, paddy, wheat, chilli, bean etc. are flowering plants.</sent>
+				<sent id ="65">Fern, mushroom, algae, moss etc. do not bear flowers.</sent>
+				<sent id ="66">They are called non-flowering plants.</sent>
+				<sent id ="67">Collect a seedling of chilli, eggplant or any other flowering plant.</sent>
+				<sent id ="68">Observe the plant carefully.</sent>
+				<sent id ="69">Does the plant have roots?</sent>
+				<sent id ="70">Does it have a stem?</sent>
+				<sent id ="71">Does it have branches and branchlets?</sent>
+				<sent id ="72">Does it have leaves?</sent>
+				<sent id ="73">What do the leaves look like?</sent>
+				<sent id ="74">Does the plant bear flowers and fruits?</sent>
+				<sent id ="75">Observe the plant and try to find the answers.</sent>
+				<sent id ="76">Draw a diagram of the plant in your notebook and identify its various parts.</sent>
+				<sent id ="77">The plant you have observed is a flowering plant.</sent>
+				<sent id ="78">It has roots, a stem, leaves, and it bears flowers and fruits.</sent>
+				<sent id ="79">Now collect some algae and fungi with the help of your teacher.</sent>
+				<sent id ="80">Mushrooms grow on piles of cow-dung or around heaps of garbage.</sent>
+				<sent id ="81">Mosses grows like green carpets on wet or moist walls.</sent>
+				<sent id ="82">Ferns also grow in such conditions.</sent>
+				<sent id ="83">Collect these plants and observe them carefully.</sent>
+				<sent id ="84">Find which of them have roots, stems, and leaves.</sent>
+				<sent id ="85">Observe the algae under a microscope or a magnifying glass.</sent>
+				<sent id ="86">What is the colour of the algae?</sent>
+				<sent id ="87">Do they have roots, stems, branches or leaves?</sent>
+				<sent id ="88">Algae are non-flowering plants.</sent>
+				<sent id ="89">They are green in colour.</sent>
+				<sent id ="90">They have fibre-like bodies.</sent>
+				<sent id ="91">They do not have roots, stems, branches or leaves.</sent>
+				<sent id ="92">They do not bear flowers or fruits.</sent>
+				<sent id ="93">Draw a diagram of an alga plant in your notebook and write down its characteristics.</sent>
+				<sent id ="94">Observe a mushroom or any other type of fungus.</sent>
+				<sent id ="95">What is the colour of the fungus?</sent>
+				<sent id ="96">Do fungi have roots, stems or leaves?</sent>
+				<sent id ="97">Fungi are non-flowering plants.</sent>
+				<sent id ="98">They do not have roots, stems or leaves.</sent>
+				<sent id ="99">They do not bear flowers and fruits.</sent>
+				<sent id ="100">They are not green in colour.</sent>
+				<sent id ="101">Draw a diagram of fungi in your notebook and write down their characteristics.</sent>
+				<sent id ="102">Mosses are very small plants.</sent>
+				<sent id ="103">Observe mosses under a magnifying glass.</sent>
+				<sent id ="104">What is the colour of moss plants?</sent>
+				<sent id ="105">Do they have roots, stems or leaves?</sent>
+				<sent id ="106">Moss is a non-flowering plant.</sent>
+				<sent id ="107">Its colour is green.</sent>
+				<sent id ="108">These plants do not bear flowers or fruits.</sent>
+				<sent id ="109">Ferns look like flowering plants to some extent.</sent>
+				<sent id ="110">You can collect a fern plant and observe it carefully.</sent>
+				<sent id ="111">What is its colour?</sent>
+				<sent id ="112">Does it have a stem, roots and leaves?</sent>
+				<sent id ="113">Can you see anything like partical in leaf as shown in Picture?</sent>
+				<sent id ="114">They are called ouras.</sent>
+				<sent id ="115">Ferns are non-flowering plants.</sent>
+				<sent id ="116">They are green in colour.</sent>
+				<sent id ="117">They have organs like roots, stems and leaves.</sent>
+				<sent id ="118">Their roots are not like those of flowering plants.</sent>
+				<sent id ="119">Draw a figure of a fern in your notebook and indicate its various parts.</sent>
+				<sent id ="120">Take a bean, pea, green mango or a lemon.</sent>
+				<sent id ="121">Cut it or peel it, and find where its seed lies.</sent>
+				<sent id ="122">This is why these plants are called covered-seeded plants or Angiosperms.</sent>
+				<sent id ="123">Draw a labelled diagram of the fruit that you have observed.</sent>
+				<sent id ="124">Seeds of many plants are not covered within their fruits.</sent>
+				<sent id ="125">These are called bare-seeded plants or Gymnosperms.</sent>
+				<sent id ="126">Gymnosperm plants are very few in number in our country.</sent>
+				<sent id ="127">Cycas is an example of a Gymnosperm plant.</sent>
+				<sent id ="128">It is found in Chittagong Hill Tracts.</sent>
+				<sent id ="129">Study the following diagram carefully.</sent>
+				<sent id ="130">Cycas does not bear fruits like Angiosperm plants do.</sent>
+				<sent id ="131">Seeds grow on the sides of seed-bearing leaves.</sent>
+				<sent id ="132">Pine and Aurocaria are Gymnosperms.</sent>
+				<sent id ="133">You know that there are various types of plants and animals in the environment.</sent>
+				<sent id ="134">Plants and animals are both necessary for our survival.</sent>
+				<sent id ="135">Plants release oxygen into the air and absorb carbon dioxide from it.</sent>
+				<sent id ="136">Because of plants, the amount of carbon dioxide in the air cannot increase.</sent>
+				<sent id ="137">Animal bodies need minerals.</sent>
+				<sent id ="138">Plants absorb minerals from the soil and stores them in their bodies.</sent>
+				<sent id ="139">Animals obtain necessary minerals from plants.</sent>
+				<sent id ="140">When animals die these minerals go back into the soil.</sent>
+				<sent id ="141">Then plants can again gather minerals from the soil.</sent>
+				<sent id ="142">In this manner, animals and plants maintain the equilibrium of the environment.</sent>
+				<sent id ="143">In order to prevent potential environmental disasters, we must take care of animals and plants.</sent>
+				<sent id ="144">We should not cut down trees unnecessarily.</sent>
+				<sent id ="145">The government observes Tree Plantation Week every year.</sent>
+				<sent id ="146">During this week we must plant more trees all over the country.</sent>
+				<sent id ="147">Cattle must be kept away from growing plants.</sent>
+				<sent id ="148">In order to preserve the environment, we have to take care of animals and birds.</sent>
+				<sent id ="149">We must stop hunting them.</sent>
+				<sent id ="150">We should take care of the birds which migrate to our country in the winter.</sent>
+				<sent id ="151">We must stop snaring these birds and selling them in the market.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

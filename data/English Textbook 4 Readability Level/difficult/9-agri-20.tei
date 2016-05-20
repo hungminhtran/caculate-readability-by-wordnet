@@ -1,0 +1,188 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-20</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.457</idno>
+				<idno type="Number of sentences">160</idno>
+				<idno type="Number of tokens">2474</idno>
+				<idno type="Number of token types">803</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t13">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Cattle are widely used in Bangladesh for plougling or pulling carts.</sent>
+				<sent id ="2">There is no permanent productive characteristics for the local breeds.</sent>
+				<sent id ="3">That is why their capability of producing meat and milk is far less.</sent>
+				<sent id ="4">Increased production of meat and milk is possible only by improving its breed.</sent>
+				<sent id ="5">The breed is improved by crossing less productive cattles with highly productive ones.</sent>
+				<sent id ="6">In this case also crossing is done for meat between oxen of improved breed and cows.</sent>
+				<sent id ="7">As a result, the productive capacity of the new born calves is increased to a great extent.</sent>
+				<sent id ="8">The cow or buffaloes found in Bangladesh can not be called a special breed or improved cattle.</sent>
+				<sent id ="9">Cows have been reared in the houses of this county from ancient times.</sent>
+				<sent id ="10">Although their productive capacity is less but they are sustained well with the weather and environment of this country.</sent>
+				<sent id ="11">For want of balanced diet and proper management they have been attacked by diseases, becoming smaller in size and their productive capacity have been decreasing.</sent>
+				<sent id ="12">An adult cow weighs 150-200kg.</sent>
+				<sent id ="13">Daily milk production is 1-2 littres.</sent>
+				<sent id ="14">The weight of a new born calf is 8-10kg.</sent>
+				<sent id ="15">The weight of an adult ox is 200-255 kg.</sent>
+				<sent id ="16">The importance of cattle resources in Bangladesh economy is unlimited.</sent>
+				<sent id ="17">Agriculture development is also dependent on cattle resources development.</sent>
+				<sent id ="18">But we are far behind the other countries in improving this resource.</sent>
+				<sent id ="19">The production of meat and milk from cattle resources is far less in comparison to the demand of the people.</sent>
+				<sent id ="20">This deficit can not be fulfilled by import.</sent>
+				<sent id ="21">We shall have to create opportunities of jobs in order to solve unemployment problem and this can be done with own resources.</sent>
+				<sent id ="22">Increasing Milk Production : A local cow gives 1-2 litres of milk daily.</sent>
+				<sent id ="23">Even if she is allowed to improve environment and supply with balanced diet of production of more, than 3 litres can not be expected form her.</sent>
+				<sent id ="24">Because her breed characteristics are of low standard.</sent>
+				<sent id ="25">But if a calf is produced by crossing local cow with an improved ox, it will give 10-I5 littres of milk daily.</sent>
+				<sent id ="26">By this, the demand for milk of the population can be met.</sent>
+				<sent id ="27">Increasing Meat Production : The cattle of Bangladesh are small in size, meat production capacity is very less.</sent>
+				<sent id ="28">The average weight of an adult cow is only 150- 200kg.</sent>
+				<sent id ="29">But when a calf will be produced by crossing this cow with an improved variety of ox, it will weight 300-400 kg. at adult stage.</sent>
+				<sent id ="30">As a result this size of the cow will be bigger, meat will be abundant and the skin will also be larger, by this the demand for meat can be met easily within short period of time.</sent>
+				<sent id ="31">Increasing Working Capacity of Cattle : Bangladesh is an agricultural county.</sent>
+				<sent id ="32">Cattle are the main sources of operating energy now.</sent>
+				<sent id ="33">In order to increase the agricultural production the land must be plough well.</sent>
+				<sent id ="34">Abundant organic manners will have to be applied to the soil.</sent>
+				<sent id ="35">Cow- dung is the main source of organic manure.</sent>
+				<sent id ="36">Hence, the production of crops is basically dependent on cattle resources.</sent>
+				<sent id ="37">One pair of local oxen can plough 3-4 acres of land.</sent>
+				<sent id ="38">7-8 acres of land can be ploughed yearly by a pair of crossed oxen.</sent>
+				<sent id ="39">Opportunities for More Employment : As a result of improvement of breed production of milk, meat and energy will increase.</sent>
+				<sent id ="40">By this, opportunities for employment of unemployed male and female youths will increase.</sent>
+				<sent id ="41">They will be interested in cattle fattening and cow-rearing.</sent>
+				<sent id ="42">As a result they will be able to earn more money through milk: production, ploughing and cattle fattening.</sent>
+				<sent id ="43">If they are employed, unemployment and property would be removed.</sent>
+				<sent id ="44">Establishment of Big, Farms : The wealthy persons of the society will come forward with a view to establishing cattle farms of improved breed.</sent>
+				<sent id ="45">As a result milk and meat production farms will be established in different areas of the country.</sent>
+				<sent id ="46">By this many persons will be employed in one hand and, on the other hand after meeting the demand of the country milk and meat can be exported to foreign countries.</sent>
+				<sent id ="47">The country will proceed towards progress by earning foreign exchanges.</sent>
+				<sent id ="48">It is possible by crossing to increase in an extensive way the production of local cattle, shortly and inexpensively.</sent>
+				<sent id ="49">In all developed and developing countries the cattle population is improved through crossing.</sent>
+				<sent id ="50">Now a days main objective in our country is to increase production of milk and meat.</sent>
+				<sent id ="51">So, the local cows should be crossed with improved milk producing breed such as Holstein, Friesian, Jersey, Shahiwal and Sindhi.</sent>
+				<sent id ="52">As a result the calf that will be born, will give much more milk in adult stage in comparison to the local cows:</sent>
+				<sent id ="53">In the manner, if the cow is crossed for meat or energy with specific improved or more improved breed can be produced.</sent>
+				<sent id ="54">This is called hybridization.</sent>
+				<sent id ="55">Natural Breeding System : In this process cows are inseminated directly by the local unimproved oxen in the village areas.</sent>
+				<sent id ="56">As a result improved breed of calf cannot be produced and production is not increased.</sent>
+				<sent id ="57">On the other hand, the local cows can be inseminated by improved breed.</sent>
+				<sent id ="58">But it is very much expensive to import so many numbers of oxen from foreign countries.</sent>
+				<sent id ="59">Now a days, arrangement has been made by government in some regions for insemination by improved oxen.</sent>
+				<sent id ="60">Artificial Insemination System : This insemination systems is widely in vogue now with a view to improving the cattle population of the country very rapidly.</sent>
+				<sent id ="61">In this process making of improved breed of cattle becomes possible within short period of time in minimum cost and in an extensive way.</sent>
+				<sent id ="62">In this method semen is collected artificially from improved breed of oxen and preserved in scientific method.</sent>
+				<sent id ="63">Afterwards this semen is inseminated through injection in scientific way.</sent>
+				<sent id ="64">As a result, the cow becomes pregnant and gives birth of a calf.</sent>
+				<sent id ="65">This whole system is artificial insemination.</sent>
+				<sent id ="66">The calf produced by this method may possess almost 50% characteristics of the ox of improved breed.</sent>
+				<sent id ="67">In this way by means of consecutive insemination the breed of local cattle can be greatly improved.</sent>
+				<sent id ="68">It is scientific to inseminate a cow after thorough examination when the cow comes to heat.</sent>
+				<sent id ="69">Generally the local cow-calf becomes suitable for insemination at 2.5 years of age.</sent>
+				<sent id ="70">But insemination should be done after 2-3 months of first heat.</sent>
+				<sent id ="71">By this, more calf and milk can be obtained in the life cycle of the cow.</sent>
+				<sent id ="72">Pregnancy in cow can be determined by observing the following changes:</sent>
+				<sent id ="73">The cow will not be heated again after 3-4 weeks of artificial insemination.</sent>
+				<sent id ="74">The behavior of the cow will gradually become gentle.</sent>
+				<sent id ="75">The belly will be becoming larger and the abdomen will be tending to extend downwards.</sent>
+				<sent id ="76">Production of milk by the cow will gradually decrease.</sent>
+				<sent id ="77">After almost 5 months the movement of the calf can be felt.</sent>
+				<sent id ="78">At the last stage of pregnancy the size of the udder begins to be larger.</sent>
+				<sent id ="79">Nursing and Taking Care of Pregnant and Lactating Cow Special type of nursing will be required for livestock husbandry, as is required for crop production after sowing the seeds.</sent>
+				<sent id ="80">In order to get improved type of calf and increased quantity of milk and meat from a cow, the pregnant or lactating cow requires special care.</sent>
+				<sent id ="81">The following points are to be remembered for taking care or nursing of a pregnant cow.</sent>
+				<sent id ="82">From at least one month before the delivery of the pregnant cow should be kept separately in a safe house.</sent>
+				<sent id ="83">Dry straw should be spread nicely on the floor of the house so that the animal can lay down easily.</sent>
+				<sent id ="84">The cow should be bathed regularly.</sent>
+				<sent id ="85">The cow should be protected from mosquitoes, flies and ferocious animals.</sent>
+				<sent id ="86">Care should be taken so that rain water cannot enter into the house of the cow.</sent>
+				<sent id ="87">It should not be taken to slippery areas.</sent>
+				<sent id ="88">The pregnant cow should not be used for laborious work and should not be allowed to graze with other animals.</sent>
+				<sent id ="89">Care should be taken so that the belly of the cow does not get hurt.</sent>
+				<sent id ="90">The house should not be excessive cold or hot.</sent>
+				<sent id ="91">The pregnant cow should be given granular food for its body maintenance firstly 1.5 kg. and from 6 months of pregnancy up to delivery at the rate of 2kg per day.</sent>
+				<sent id ="92">Required quantity of straw and green grass should be fed with it.</sent>
+				<sent id ="93">Enough calcium and phosphorus, mineral materials should be available in the feed.</sent>
+				<sent id ="94">The cow should be allowed everyday to drink abundant pure water with salt.</sent>
+				<sent id ="95">The cow should be guarded at night from 3-4 days before delivery.</sent>
+				<sent id ="96">More care needs to be taken during or after delivery in comparison to cares taken during pregnancy period.</sent>
+				<sent id ="97">It should be noticed whether the placenta came out just after delivery.</sent>
+				<sent id ="98">As soon as placenta comes out it should be buried soil.</sent>
+				<sent id ="99">It should be guarded so that the cow can not eat up the placenta.</sent>
+				<sent id ="100">If the placenta does not come out within 24 hours, arrangements should be made to bring out the placenta after consultation with veterinary doctor.</sent>
+				<sent id ="101">After delivery is over the cow should be cleaned by washing with tapped water.</sent>
+				<sent id ="102">It should be given concentrated feed to eat and warm water to drink.</sent>
+				<sent id ="103">The dwelling house of the cow should be dry and clean.</sent>
+				<sent id ="104">The udder and teat of the cow should be washed well with tapped water.</sent>
+				<sent id ="105">Colostrums should be extracted from the teat.</sent>
+				<sent id ="106">The new born calf should be allowed to drink colostrum by bringing in contact with teat.</sent>
+				<sent id ="107">Soon after delivery the newborn calf should be allowed to take colostrums of the cow.</sent>
+				<sent id ="108">Taking of colostrum will increase disease resistance capacity in its body.</sent>
+				<sent id ="109">Soon after giving birth to the calf the milk that comes in the udder is called colostrums.</sent>
+				<sent id ="110">During this time the calf should be fed with required amount of milk.</sent>
+				<sent id ="111">The milk feeding pan of the calf must be clean and germ free.</sent>
+				<sent id ="112">Because garms of different contagious diseases may spread to the body of the calf through having milk.</sent>
+				<sent id ="113">The calf is a very important wealth of a dairy farm.</sent>
+				<sent id ="114">In future she will become the cow.</sent>
+				<sent id ="115">She grows up and develops to a milk production animal in the long run.</sent>
+				<sent id ="116">It is very important to be very cow about the cows before its birth to get a healthy and strong calf.</sent>
+				<sent id ="117">The placenta manual cord should be cut hygienically and tightly bound at the end.</sent>
+				<sent id ="118">The medicine like iodine tincture should be applied at the cut place of the placenta or naval cord.</sent>
+				<sent id ="119">The calf should be kept neat and clean.</sent>
+				<sent id ="120">The colostrums milk should be given as feed to the born fresh calf.</sent>
+				<sent id ="121">The type of milk is very beneficial for the calf at this stage.</sent>
+				<sent id ="122">The colostrums milk has sufficient diseases resistance elements which save the calf from diverse intention and contiguous disease during the later past of his life.</sent>
+				<sent id ="123">One calf usually take feed in the quantity measuring about 20% of his body weight.</sent>
+				<sent id ="124">That is 1 kg feed materials and required to be given for a calf having its weight about 10 kg.</sent>
+				<sent id ="125">The milk demand for a calf is remain maximum during its first three months after its birth.</sent>
+				<sent id ="126">The feed for calf : The calf may be fed following 3 methods.</sent>
+				<sent id ="127">The milk of the mothers cow would be fed during the first these to form weeks after birth.</sent>
+				<sent id ="128">Later on fat free processed milk should be fed.</sent>
+				<sent id ="129">Vitamin should mixed with processed or fat free milks before feed to the calf.</sent>
+				<sent id ="130">Because this remains no vitamins in this type of processed milks.</sent>
+				<sent id ="131">In the places or situations where the price of milk is very high, alternative feed may be arranged instead or milk of the mother cow, more cheap and available powder milk husk-bran and molasses mixing with hot water may be fed exactly like milk of the mother cow.</sent>
+				<sent id ="132">This is the best alternative method of feeding to calf instead of the milk of the mother cow.</sent>
+				<sent id ="133">This feed is required for 10-15 days at the birth.</sent>
+				<sent id ="134">This type of feed may be terrier for habitation in case of calf.</sent>
+				<sent id ="135">Initially there may be some repulsion, but gradually the calf be come habituated with is type of feed mixture.</sent>
+				<sent id ="136">Clean drinking water and vitamin mineral mixture should always be kept at the close reach of the calf.</sent>
+				<sent id ="137">15 days age of the calf soft green grass, vines, straw, etc may be given to the calf as feed.</sent>
+				<sent id ="138">At the age of 8 week of the calf, concentrate feed at the rate of 500 grams per day and sufficient quantity of raw green grass should be fed daily.</sent>
+				<sent id ="139">At the age from six months to one year 2 kg concentrate feed should be given per day to the calf along with this type of green grasses.</sent>
+				<sent id ="140">The concentrated protein feed suitable for calf should not contain more than 20 per cent proteins.</sent>
+				<sent id ="141">Its protein content should also be not has than 10 per cent.</sent>
+				<sent id ="142">If it is possible to give sufficient quantities per day, of green grasses or improved quality roughage feed, then the quality of concentrate feed may be slightly reduced.</sent>
+				<sent id ="143">Otherwise the full dose of the concentrate protein should be fed to the calf sufficient quantities of clean drinking water.</sent>
+				<sent id ="144">7 to 7.5 grams salt and vitamin mineral mixture feed should always be fed to the calf.</sent>
+				<sent id ="145">The removal of the two testis of calf in a technical ways of the male calf is known as castration.</sent>
+				<sent id ="146">Usually castration should be done within six months age of the male calf.</sent>
+				<sent id ="147">Points to be considered for getting a healthy calf are mentioned as below:</sent>
+				<sent id ="148">Well accreted with sufficient light clean housing system.</sent>
+				<sent id ="149">Applying germicide medicine after cutting the placenta at the cut place just after the calf is born.</sent>
+				<sent id ="150">Feeding colostrum milk for 3-4 days after the birth of the calf.</sent>
+				<sent id ="151">Using germ free pot for feeding milk to the calf.</sent>
+				<sent id ="152">The ox to be used for insemination should be nursed well from its childhood so that during its matured stage high quality semen can be collected from it for long time.</sent>
+				<sent id ="153">The following points will have to be considered for nursing of an ox - Each able ox should be kept separately in clean house.</sent>
+				<sent id ="154">They should be given separate food dwelling arrangement Besides supplying adequate quantity of balanced food vitamin and mineral are also to be supplemented.</sent>
+				<sent id ="155">For every 100 kg of body weight 1.5 to 2 kg.</sent>
+				<sent id ="156">concentrate feed and 3 to 4 kg of green grass should be given daily.</sent>
+				<sent id ="157">It is not proper to collect semen more than once or twice in a week.</sent>
+				<sent id ="158">Otherwise their health will be deteriorate.</sent>
+				<sent id ="159">Measures should be taken so that they are not infected by diseases.</sent>
+				<sent id ="160">If there is any attack of disease, the veterinary doctor should be consulted immediately.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

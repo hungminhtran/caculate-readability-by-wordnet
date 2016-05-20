@@ -1,0 +1,142 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-bdGlobal-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.08</idno>
+				<idno type="Number of sentences">114</idno>
+				<idno type="Number of tokens">1556</idno>
+				<idno type="Number of token types">711</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t23">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The evergreen and ever fertile Bangladesh has attracted the attention of foreigners from ancient times.</sent>
+				<sent id ="2">Many ambitious men besides the general people came to this country from distant places.</sent>
+				<sent id ="3">Many of them settled here, again many of them founded states here.</sent>
+				<sent id ="4">But common people of the society seldom thought about changing power of the ruling class.</sent>
+				<sent id ="5">Actually, at that time the ruling class did not think about society.</sent>
+				<sent id ="6">The general people also led their lives according to the rules and regulations of the society.</sent>
+				<sent id ="7">As a result there was little scope for the general people to get involved in the affairs of the king.</sent>
+				<sent id ="8">Historian Koswambi said, In Indian subcontinent the villages were self-dependent and the village societies took care of the livelihood of the people.</sent>
+				<sent id ="9">Rabindranath said, A strong centrally governed empire was not present in the Indian subcontinent, here society was always a strong force.</sent>
+				<sent id ="10">But in spite of that, whenever society was oppressed by the state power, it strongly protested against it.</sent>
+				<sent id ="11">The na've poor rural people not only protested against it but also took measures to protect themselves.</sent>
+				<sent id ="12">They did not fear or hesitate even to rebel.</sent>
+				<sent id ="13">Some of the great rebellions and movements are referred to below.</sent>
+				<sent id ="14">The spirit of rebellion of the common people of this country is very old.</sent>
+				<sent id ="15">The first successful revolt by the common people took place in Bengal during the Pala period known as the Koibarta rebellion.</sent>
+				<sent id ="16">It was held during the reign of king Mahipala II (1070- 1077).</sent>
+				<sent id ="17">At that time, the fishermen were known as koibartas.</sent>
+				<sent id ="18">It was a rebellion of the fishermen community.</sent>
+				<sent id ="19">Four hundred years of Pala dynasty started at the beginning of 750 AD.</sent>
+				<sent id ="20">Dharmapala and Devpala were successful kings.</sent>
+				<sent id ="21">At the end of this golden age, some disorderly activities took place in the state during the reign of king Mahipala II.</sent>
+				<sent id ="22">There was also a lack of skill in conducting the administration.</sent>
+				<sent id ="23">That aggrieved and frustrated the people.</sent>
+				<sent id ="24">As they were skilled in navigation, they emphasized naval battle.</sent>
+				<sent id ="25">King Mahipala II was killed in the battle field.</sent>
+				<sent id ="26">After that, the Koibartas established their rule on Barind.</sent>
+				<sent id ="27">After Dibba, his brother Ruddok became king.</sent>
+				<sent id ="28">After Ruddok, his son, Vima, became king.</sent>
+				<sent id ="29">As a skilled ruler, Vima brought glory and prosperity to war-torn Barind to a great extent.</sent>
+				<sent id ="30">At last, Rampal ascended the throne and took all efforts to restore the glory of his fatherland, Barind.</sent>
+				<sent id ="31">After defeating Vima with the help of the kings of neighboring feudal states, he put down the rebel Koibarta state.</sent>
+				<sent id ="32">Thus, the first successful state revolution of the rebellious Bengalis came to an end.</sent>
+				<sent id ="33">Our economy is dependent on agriculture.</sent>
+				<sent id ="34">In the past, the farmers were suppressed by the rulers and Zaminders (land lords).</sent>
+				<sent id ="35">From the reign of emperor Jahangir of Mughal period, the intensity of suppression began to increase.</sent>
+				<sent id ="36">From that time to British period, innumerable peasant rebellions took place in this country.</sent>
+				<sent id ="37">The following verses of Dharmamangala poetry written by the eighteenth century poet Ghanaram express the intensity of the suppression on the farmers.</sent>
+				<sent id ="38">Obichare vange rajje Gaurer vuban /Pira peye patter palay projagan.</sent>
+				<sent id ="39">Rajkor lokera temni nilo bara /otoeb sara proja holo desh hara.</sent>
+				<sent id ="40">[The world of Gaura in the state broke down by injustice.</sent>
+				<sent id ="41">Aggrieved, the subjects ran to the councilors of the king.</sent>
+				<sent id ="42">The employees of the king were crueler.</sent>
+				<sent id ="43">They were tied with trees and were hit by clenched fists and Kora.</sent>
+				<sent id ="44">Kora was a twisted rope.</sent>
+				<sent id ="45">Its length was six feet and width was one foot and it looked like the long tail of an ox.</sent>
+				<sent id ="46">The workers of Zamindars would strike the farmers with this rope with all their strength.</sent>
+				<sent id ="47">They would hit them on their whole bodies, especially on thorax and bones.</sent>
+				<sent id ="48">One inch deep wounds were inflicted on various parts of their bodies and their skin was exploded.</sent>
+				<sent id ="49">Historian Suprakash Roy said, At that time many large and small peasant rebellions took place in Bengal.</sent>
+				<sent id ="50">Among those, the most significant rebellion was the Fakir-Sanyasi rebellion.</sent>
+				<sent id ="51">Among the leaders of this rebellion, Majnu Shah, Muda Shah, Cherag Ali, Vabani Pathak, Nur Alauddin, Pittambar etc. are commemorated in the history.</sent>
+				<sent id ="52">In this rebellion, besides the farmers and fishermen, blacksmiths, potters and the artisan class participated.</sent>
+				<sent id ="53">Besides the exploitation of local feudal lords and foreign merchants, another problem that the people were facing at that time was droughts.</sent>
+				<sent id ="54">These led to the famine in which about one crore people died.</sent>
+				<sent id ="55">The total population of the country was about 3 crore, which meant that one third of the total population died.</sent>
+				<sent id ="56">Yet, the English rulers and their accomplices of this country did not lessen the intensity of exploitation and suppression.</sent>
+				<sent id ="57">The suffering of the people became unbearable and so this rebellion spread widely across vast areas.</sent>
+				<sent id ="58">It also lasted for a long time.</sent>
+				<sent id ="59">The mentionable feature of this rebellion was the united participation of Hindus and Muslims.</sent>
+				<sent id ="60">There were Hindus and Muslims among the leaders.</sent>
+				<sent id ="61">Similarly, the people of both communities participated side by side in the rebellions.</sent>
+				<sent id ="62">This happened spontaneously due to the need of circumstances.</sent>
+				<sent id ="63">Many times, they protested and defeated the English soldiers.</sent>
+				<sent id ="64">Thus this, rebellion came to be known as the Fakir-Sanyasi rebellion.</sent>
+				<sent id ="65">Plundering the resources from Bengal, the English began to establish industries in their own country.</sent>
+				<sent id ="66">Thus, industrial revolution started in the western world.</sent>
+				<sent id ="67">It had far-reaching effects on production systems and world economy.</sent>
+				<sent id ="68">The inventions of steam engine, machine loom etc. also contributed significantly to the industrial revolution.</sent>
+				<sent id ="69">At the beginning, garments industry or machine loom spread.</sent>
+				<sent id ="70">At that time, most of the cloths were white.</sent>
+				<sent id ="71">To whiten those cloths or to keep them white, indigo, which was extracted from one kind of plants, was very effective.</sent>
+				<sent id ="72">These plants used to grow easily in our country.</sent>
+				<sent id ="73">With the increase of machine looms in England, the demand of indigo also expanded.</sent>
+				<sent id ="74">The English started to compel the Bengal farmers to cultivate indigo.</sent>
+				<sent id ="75">Cultivating indigo in the agricultural land was harmful for the farmers.</sent>
+				<sent id ="76">Besides, the price given by the English was not sufficient to meet the production cost.</sent>
+				<sent id ="77">Moreover, food crisis was sure to result due to less production of rice, wheat, etc. if indigo plants were cultivated in the soil.</sent>
+				<sent id ="78">So the farmers were not willing to cultivate indigo.</sent>
+				<sent id ="79">Consequently, to compel the Bengal farmers to cultivate indigo, the English adopted various means of oppression.</sent>
+				<sent id ="80">In the year 1815-16, in Bengal, 1,28,000 mound indigo was produced.</sent>
+				<sent id ="81">From then Bengal met all demand of indigo across the whole world.</sent>
+				<sent id ="82">But for that, the Bengali indigo farmers had to endure inexpressible oppression.</sent>
+				<sent id ="83">In this play, the heartrending and vivid picture of oppression on the indigo cultivators has been portrayed very clearly.</sent>
+				<sent id ="84">The pioneer of the Indigo rebellion was Sardar (Leader) Bishwanath.</sent>
+				<sent id ="85">But unfortunately he came to be known as Bishe dacoit due to lack of our nation's conscience.</sent>
+				<sent id ="86">Bishwanath was the hero of many successful struggles.</sent>
+				<sent id ="87">In 1808, he along with his 12 companions, was arrested by the English and later all of them were sentenced to death.</sent>
+				<sent id ="88">But that was not enough to stop the Indigo rebellion.</sent>
+				<sent id ="89">Following the religious reformative Oahabi Movement , in 1831 the rebellion under the leadership of Titumir again flared up in the Chabbish Pargona area.</sent>
+				<sent id ="90">The poor and the destitute responded to his call.</sent>
+				<sent id ="91">Under his leadership, a vast area consisting of Chabbish Pargana, Nodia and Faridpur was turned into a liberated area.</sent>
+				<sent id ="92">At one stage, the common people under Titumir's leadership challenged not only the English indigo planters and their accomplice Zamindars, but the British rule itself.</sent>
+				<sent id ="93">The Santal tribes live in north Bengal, west Bengal and in some areas of Bihar.</sent>
+				<sent id ="94">Once this area was called Santal pargona.</sent>
+				<sent id ="95">The Santals were very poor.</sent>
+				<sent id ="96">Actually, the zamindars brought these Santals from the west India for making them work in agricultural field.</sent>
+				<sent id ="97">Although they were brought up in nature's lap of Santal pargona, they had to work in the fields of local zamindars unpaid.</sent>
+				<sent id ="98">They got very little wage.</sent>
+				<sent id ="99">On 30 June of that year, a meeting was held and about 10 thousand Santals started to rebel.</sent>
+				<sent id ="100">The English soldiers and their police arrested the Zamindars.</sent>
+				<sent id ="101">As a rusult, the rebellious Santals had to face the English soldiers and the English govt.</sent>
+				<sent id ="102">The rebels fought with poisonous arrows and bows against the well-armed English soldiers and frequently defeated them.</sent>
+				<sent id ="103">Seeing their solidarity and success, the neighboring Bengalis both Hindus and Muslims stood by the Santals.</sent>
+				<sent id ="104">Sometimes the blacksmiths provided weapons; sometimes blacksmiths, potters and farmers fought in favor of the Santals.</sent>
+				<sent id ="105">But the Santals under the leadership of Sidhu, Kanu, Bhaireb and Chand made a strong resistance.</sent>
+				<sent id ="106">The English force faced a huge loss and finally they were scattered.</sent>
+				<sent id ="107">Being defeated frequently, the English at last formed a vast battalion and mercilessly attacked the villages of Santal rebellion.</sent>
+				<sent id ="108">The English soldiers first provoked and irritated 50 elephants and then they freed them to drive destructive activities in the villages.</sent>
+				<sent id ="109">Then the houses in villages were set on fire.</sent>
+				<sent id ="110">The English force shot innocent and helpless children and women indiscriminately.</sent>
+				<sent id ="111">Thus like cowards, they gradually succeeded in controlling the rebellion by killing helpless men and women and by setting the houses on fire indiscriminately.</sent>
+				<sent id ="112">The great leaders of this rebellion also became martyrs of freedom fights.</sent>
+				<sent id ="113">Such innumerable rebellions took place in Bengal.</sent>
+				<sent id ="114">This rebellion started from the Bengal.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,144 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-homeEco-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:06.466</idno>
+				<idno type="Number of sentences">116</idno>
+				<idno type="Number of tokens">2090</idno>
+				<idno type="Number of token types">617</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t106">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In a family, the most important resources are money, time and energy.</sent>
+				<sent id ="2">A family utilizes all these resource in different ways.</sent>
+				<sent id ="3">According to the common characteristics of resources, every resource is limited to some extent.</sent>
+				<sent id ="4">Family resources are very much needed for the proper home management.</sent>
+				<sent id ="5">The goals of a family can not be attained without adequate family resources.</sent>
+				<sent id ="6">As the resources are scarce, these are needed to be utilized and managed properly to achieve family goals.</sent>
+				<sent id ="7">So, we can say that the knowledge and ability of using the scarce family resources according to the requirement, objectives and goals of the family is called Resource Management.</sent>
+				<sent id ="8">One constantly needs to take decisions to utilize the family resource properly as it is an important part of home management.</sent>
+				<sent id ="9">The supply of resources can be increased.</sent>
+				<sent id ="10">If there is a scarcity of material resources, the use of the human resources like intellectual power, physical power, etc. can be increased to solve problems.</sent>
+				<sent id ="11">By dint of it, with a little material resources, the family requirements can be fulfilled.</sent>
+				<sent id ="12">It involves the increase of the utilization of the resources in different ways.</sent>
+				<sent id ="13">For example, by adding a shelf with the reading table, books can be kept.</sent>
+				<sent id ="14">Training can be provided to expand knowledge and skills of the family members.</sent>
+				<sent id ="15">By using resources alternatively, that is, if there is a shortage of time in completing any task, the task may be completed in other ways within time by using additional physical power.</sent>
+				<sent id ="16">Due to financial crisis if a new sari cannot be purchased, the old one can be embroidered for a new look and in this way the demand of a new sari can be mitigated.</sent>
+				<sent id ="17">All the resources should be used in a balanced way.</sent>
+				<sent id ="18">Sometimes to finish an activity, material resources may be required more than the human resources.</sent>
+				<sent id ="19">In this case, to a make a balance, human resources like intelligence,thoughtfulness etc. can be added.</sent>
+				<sent id ="20">For completing any sort of activity, money is highly required and with it human resources like intelligence, judgment, memory and innovation etc. can be used so that a balanced utilization can be made.</sent>
+				<sent id ="21">The resources should be used in proper ways so that satisfaction can be made.</sent>
+				<sent id ="22">For example, food enriched with protein is needed for the growing children and if it is kept in the food menu of children, more satisfaction will be achieved.</sent>
+				<sent id ="23">Moreover, if a sari fades, for satisfaction we can use it to make a quilt.</sent>
+				<sent id ="24">Money is the most important of all the material resources.</sent>
+				<sent id ="25">Each family, for its survival, keeps some money or properties.</sent>
+				<sent id ="26">But this resource is very much limited and within this limited resources, a family maintains all its expenses.</sent>
+				<sent id ="27">However, to spend the limited resources properly, a proper planning is required.</sent>
+				<sent id ="28">If we spend the money in a planned way, the wastage will be checked.</sent>
+				<sent id ="29">To make an appropriate planning, the source of income and its quantity as well as the areas of expenditure are needed to be well specified.</sent>
+				<sent id ="30">So, we can say that a monthly budget is a plan of spending money for the family based on the monthly income and expenditure of the family.</sent>
+				<sent id ="31">Plainly, we can say that a budget is a written plan for using the monthly income of the family which reflects the family needs, time and areas of expenditure.</sent>
+				<sent id ="32">Budget helps to increase awareness regarding income and expenditure of a family After preparing a budget, if the expenditure is made, it will make an individual aware of the source and quantity of income as well as the areas of expenditure.</sent>
+				<sent id ="33">A balance can be made regarding income and expenditure If there is a budget, it will help to reduce or extend expenditure depending on the family income.</sent>
+				<sent id ="34">As savings is an integral part of a budget, a budget encourages savings whether the income is more or less.</sent>
+				<sent id ="35">A budget helps the members of the family to spend money within the time and thus it helps to save time and energy.</sent>
+				<sent id ="36">In a budget, the important areas of expenditure are specified and so there remains nothing to be unfulfilled.</sent>
+				<sent id ="37">For this reason, the family does not suffer in paying house rent, income tax, electricity bill, etc. in due time.</sent>
+				<sent id ="38">By calculating the demands of the family members, the budget is usually made and so everybody remains satisfied.</sent>
+				<sent id ="39">If the budget is made in this way, the satisfaction and peace of the family is maintained.</sent>
+				<sent id ="40">There are some rules which are needed to be considered while preparing a budget for the family.</sent>
+				<sent id ="41">Knowing the probable monthly income of the family.</sent>
+				<sent id ="42">Knowing the number of family members and their special needs.</sent>
+				<sent id ="43">Identifying the main sectors of the family expenditure e.g.</sent>
+				<sent id ="44">food, clothing, housing, medical, education, recreation and savings etc. Deciding how much money should be spent on each of the sectors of expenditure.</sent>
+				<sent id ="45">Deciding the expenditure based on the sectors and their sub-sector.</sent>
+				<sent id ="46">The budget is to be flexible by allowing the scope of changes and readjustment from one sector to another.</sent>
+				<sent id ="47">Time is such an important resource of human life that does not stop or wait for any one.</sent>
+				<sent id ="48">As time is running continuously, the individual who tries her/his best to relate herself/ himself with the time can shine in life.</sent>
+				<sent id ="49">The value of time depends on how an individual uses it.</sent>
+				<sent id ="50">That is, a person who sits idle, to him/her time is valueless.</sent>
+				<sent id ="51">On the other hand, the person who uses time effectively, to him/her/ time is invaluable.</sent>
+				<sent id ="52">By using time properly, a human being can prosper in his/her personal and social life and can contribute to the economic development of the country as well.</sent>
+				<sent id ="53">But, this resource is so much limited that for every day life, only twenty four hours have been fixed.</sent>
+				<sent id ="54">No body can expand or lessen this twenty four hours or can lend it to others.</sent>
+				<sent id ="55">So, one should be very careful in utilizing one's time.</sent>
+				<sent id ="56">For using twenty four hours properly, everybody should make a plan.</sent>
+				<sent id ="57">What sort of activities are needed to be completed from dawn to dusk, when these are to be completed, how much time is needed for the completion of specific jobs etc, are considered while making a plan.</sent>
+				<sent id ="58">So, a proper planning of time can be called the time schedule.</sent>
+				<sent id ="59">As time is fixed for each individual, the time schedule will also be different.</sent>
+				<sent id ="60">It has been noticed that the needs, habits, likings and disliking of each individual in a family is quite different.</sent>
+				<sent id ="61">Moreover, needs and desire of each family are not the same.</sent>
+				<sent id ="62">So, the time schedule of each of the family will be different.</sent>
+				<sent id ="63">If we make a time schedule, it helps us to understand clearly the works to be or not to be performed because the time schedule is usually prepared by scrutinizing all tasks and responsibilities.</sent>
+				<sent id ="64">In the time schedule, the time to finish tasks is clearly mentioned, and thus it helps to finish the tasks in proper time and eventually it becomes a practice.</sent>
+				<sent id ="65">If we make a time schedule, it will help us to have a proper understanding of the time of the work, that can or cannot be altered depending on the needs.</sent>
+				<sent id ="66">For example, the time of visiting a doctor or attending school cannot be changed.</sent>
+				<sent id ="67">But the time of going to bed, leisure time and time of study can be changed.</sent>
+				<sent id ="68">In time schedule, it is mentioned how much time will be allotted to finish a specific job.</sent>
+				<sent id ="69">So, it will help us to have a proper understanding the time fixed for completing each activity.</sent>
+				<sent id ="70">In a time schedule, a balance can be maintained regarding leisure time, time of working and resting time.</sent>
+				<sent id ="71">So, leisure can be availed by preparing a time schedule.</sent>
+				<sent id ="72">It helps to increase expertise and rapidness to perform activities If there is a time schedule, it makes some obligation to perform elementary tasks in due time.</sent>
+				<sent id ="73">By performing the tasks timely, it helps to develop a habit of timely action.</sent>
+				<sent id ="74">It also enhances expertise and rapidness.</sent>
+				<sent id ="75">It also promotes to perform innovative activities.</sent>
+				<sent id ="76">The points to be considered while preparing a time schedule The daily activities which are needed to be performed should be mentioned Based on the importance of the activity, priority should be made.</sent>
+				<sent id ="77">Considering the facilities which are to be provided for the family, the habit of the family members should be considered To perform any work jointly, the convenience of others should be considered.</sent>
+				<sent id ="78">Time schedule should be made in consultation with the members of the family.</sent>
+				<sent id ="79">Time schedule should be made specifying the time that will be needed to finish each activity.</sent>
+				<sent id ="80">By performing some tasks jointly, time may be saved.</sent>
+				<sent id ="81">Time schedule should be made in such a way that there remains some scope to perform any task jointly.</sent>
+				<sent id ="82">The tasks of the family should be divided on daily, weekly and monthly basis.</sent>
+				<sent id ="83">For example, there are some tasks which are needed to be performed in weekly and monthly basis and these tasks should be separated form the daily time table.</sent>
+				<sent id ="84">In a time schedule, there should be enough time for resting, sleeping and leisure.</sent>
+				<sent id ="85">In the time schedule, there should be the provision of performing light jobs after finishing a heavy work.</sent>
+				<sent id ="86">This helps to create attention and removes fatigue.</sent>
+				<sent id ="87">Each of the tasks of the family should be done in an appropriate time and so in a time schedule, the timely completion of the work should be ensured.</sent>
+				<sent id ="88">In preparing the time schedule, there should be the scope of flexibility to meet emergencies and this additional time can be adjusted with leisure time.</sent>
+				<sent id ="89">A student has to maintain two types of time schedules (one is for the school day and the other is for the holiday) and these are mentioned above.</sent>
+				<sent id ="90">But the time schedule may be revised in different seasons because in winter the days become shorter and the nights become longer.</sent>
+				<sent id ="91">Besides, the prayer time also changes because of the change of season.</sent>
+				<sent id ="92">So, the time schedule should be adjusted in accordance with seasons, special jobs on special occasions.</sent>
+				<sent id ="93">Thus, the time schedule can play an important role in making one's private and family life more effective.</sent>
+				<sent id ="94">Like money, time and energy are also essential assets of the family.</sent>
+				<sent id ="95">The physical and mental health of the family members depend on the proper utilization of all these assets.</sent>
+				<sent id ="96">The family should maintain the proper usage of energy, otherwise monotony, fatigue, displeasure will create problems for the family and side by side physical and mental health of the family members will be affected.</sent>
+				<sent id ="97">Maintaining the balance between the position of the body and the speed required while performing a job.</sent>
+				<sent id ="98">The working atmosphere should be made in such a way that anyone can work keeping his/her body posture in a good position.</sent>
+				<sent id ="99">The working place and materials should be kept within the range and it will help to save energy.</sent>
+				<sent id ="100">There will be less wastage of energy if a proper place is selected for working.</sent>
+				<sent id ="101">For example, if washing is done in a washing place, meals is taken in the dining place, it will save time and energy.</sent>
+				<sent id ="102">If we keep all the materials near hand, it will also help to save time and energy.</sent>
+				<sent id ="103">If we use proper tools, it will also assist to save energy.</sent>
+				<sent id ="104">For example, if we use proper broom or mop for cleaning the floor, it will help us to work keeping our body in the right posture and will save energy.</sent>
+				<sent id ="105">If we clean the floor bending our body, it will need extra energy and create health hazards.</sent>
+				<sent id ="106">There is a proper system of doing each and every work.</sent>
+				<sent id ="107">If we work following that system, it will help to save energy.</sent>
+				<sent id ="108">For example, while washing, we can use liquid detergent and wash all the clothes together in an integrated way.</sent>
+				<sent id ="109">The process will help to save time and energy.</sent>
+				<sent id ="110">We can use this process while cutting vegetables or sweeping the floor.</sent>
+				<sent id ="111">Sometimes if needed, we can mop the floor without sweeping it first.</sent>
+				<sent id ="112">By changing the used materials for different purposes.</sent>
+				<sent id ="113">We can also save energy by changing the used materials for different purposes.</sent>
+				<sent id ="114">For example, on the dining table we can use plastic table cloth instead of cotton table cloth and can use synthetic sarees instead of cotton one to save energy.</sent>
+				<sent id ="115">We can save energy by changing the quality of the thing produced at home.</sent>
+				<sent id ="116">For example, in stead of making omelette, we can poach eggs and this will save time and energy.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

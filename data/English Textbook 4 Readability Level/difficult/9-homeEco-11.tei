@@ -1,0 +1,188 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-homeEco-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:06.248</idno>
+				<idno type="Number of sentences">160</idno>
+				<idno type="Number of tokens">2405</idno>
+				<idno type="Number of token types">792</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t98">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We have discussed about nutrition ingredients in the previous chapter.</sent>
+				<sent id ="2">Now we will discuss the required quantity of nutrition.</sent>
+				<sent id ="3">It is very important to know the items of food and its required quantity for better health.</sent>
+				<sent id ="4">Nutritionist make various research and recommend the required quantities of food necessary for health of people from all age group.</sent>
+				<sent id ="5">For this reason menu should be planned according to the demands for food as per age group.</sent>
+				<sent id ="6">Food is necessary for keeping good health and nutrition of human being from birth to death.</sent>
+				<sent id ="7">The human body consists of different elements.</sent>
+				<sent id ="8">So, for keeping health in good condition, all types of nutrition elements with required quantities are needed.</sent>
+				<sent id ="9">But food requirement varies in different age groups.</sent>
+				<sent id ="10">There is a variation for requirements of food for infants, adolescent boys and girls, men and women, persons who give more labour and who give less labour and aged people.</sent>
+				<sent id ="11">Thus we should have proper knowledge on the selection of food according to age.</sent>
+				<sent id ="12">Demand for food, quantity of food and elements of food vary according to age.</sent>
+				<sent id ="13">More importance is needed to be given on demands and selection of food for children of all age group, such as infants, children below 2 years of age, pre school children and school going children.</sent>
+				<sent id ="14">Sufficient food is necessary for growth and development of the body of the children.</sent>
+				<sent id ="15">The growth speed of the body of small kids is very fast.</sent>
+				<sent id ="16">They should be given required food up to age 5; otherwise their growth will be hampered.</sent>
+				<sent id ="17">Particularly for the children, aged up to 2 years, more attention is needed for their required food and nutrition.</sent>
+				<sent id ="18">The demand for nutrient elements for children based on per kg weight is much higher than that of the adults, particularly the demand of protein and carbohydrates.</sent>
+				<sent id ="19">The quality and quantity of protein contained in child's food should be ascertained.</sent>
+				<sent id ="20">Demand for calorie required for the children based on per kg weight is about 2/3 times more than the adults.</sent>
+				<sent id ="21">Children aged 6 months should not be dependent only on milk.</sent>
+				<sent id ="22">Because only milk cannot provide required demand for nutrition which is needed to fulfil its extra needs.</sent>
+				<sent id ="23">Foods that contain sufficient protein, carbohydrates, fat, calcium, iron, vitamin-A, D and C should be served to children.</sent>
+				<sent id ="24">The necessity of food intakes like protein, vitamin and mineral salt is essential for the grown up boys and girls.</sent>
+				<sent id ="25">This group of boys and girls feel the difference in taste of different in food.</sent>
+				<sent id ="26">Demand for iron increases for adolescent girls.</sent>
+				<sent id ="27">Importance of nutrient demand increases due to the physical change during adolescent period especially for physical construction and for giving labour while playing games and other activities.</sent>
+				<sent id ="28">At this stage boys and girls need more nutrients like animal protein, calorie, iron, calcium, phosphorus, vitamin B, C, etc.</sent>
+				<sent id ="29">Demand for food should be given more importance for the development of health up to the age of 20-25 years.</sent>
+				<sent id ="30">Food demand varies from person to person according to the physical structure and type of labour given at adult age.</sent>
+				<sent id ="31">Food demand for a man is more than a woman.</sent>
+				<sent id ="32">Food requirement for fat person is more than a thin person.</sent>
+				<sent id ="33">Calorie demand is more for those who give more labour than persons who give less labour.</sent>
+				<sent id ="34">Demand for nutrient elements in food is more for pregnant and lactating mothers than women in general.</sent>
+				<sent id ="35">Physical growth does not occur in old age but covering up the decays and protecting the body from different diseases are the processes which continue till death.</sent>
+				<sent id ="36">Old people give less labor and demand for nutrient is also reduced for them.</sent>
+				<sent id ="37">The nervous system gradually becomes weaker for old people.</sent>
+				<sent id ="38">Production of blood, resistance from diseases and digestion capacity decline gradually.</sent>
+				<sent id ="39">So, at this age, although the demand for protein, fat and carbohydrate reduces, the demand for vitamins and mineral salt is greater.</sent>
+				<sent id ="40">So, by considering the physical condition of different age, type and quantity of food should be determined.</sent>
+				<sent id ="41">Demand for protein is needed more for infants then adults to develop and construct their body properly.</sent>
+				<sent id ="42">Human body looses energy during illness.</sent>
+				<sent id ="43">Due to that the body needs more protein in food after illness to restore the loss of health.</sent>
+				<sent id ="44">Demand for protein and other necessary foods is needed for pregnant and lactating mothers, especially to protect and to develop the growth of the baby inside womb.</sent>
+				<sent id ="45">Demand for nutrient like fat and carbohydrates is more for a hard working person than less working person.</sent>
+				<sent id ="46">In general fat food is not harmful for children.</sent>
+				<sent id ="47">But with increasing age it is wise to reduce the quantity of fat in food.</sent>
+				<sent id ="48">In old age physical labour is reduced, as a result need for calorie also decreases.</sent>
+				<sent id ="49">Requirements for vitamin D remain very high from birth to twenty years of age because during this period bone structure and development occur.</sent>
+				<sent id ="50">Thiamine is necessary for metabolism of carbohydrate types of food.</sent>
+				<sent id ="51">So a person who takes more carbohydrate needs more thiamine.</sent>
+				<sent id ="52">Requirements of riboflavin depend on protein metabolism.</sent>
+				<sent id ="53">Therefore if quantity of protein in food increases, the demand for riboflavin also increases.</sent>
+				<sent id ="54">The requirement increases at childhood, young age and during pregnancy.</sent>
+				<sent id ="55">Requirement of niacin increases during illness and pregnancy.</sent>
+				<sent id ="56">Calcium is more needed for grown up children.</sent>
+				<sent id ="57">For grown up children, adolescent girls and pregnant women, more iron is required.</sent>
+				<sent id ="58">Requirement of iodine increases during childhood, pregnancy and lactating periods.</sent>
+				<sent id ="59">During diarrhoea and heavy sweating and excessive physical exercise, sodium requirement increases.</sent>
+				<sent id ="60">A food chart has been shown on the next page on the requirements of food according to different ages.</sent>
+				<sent id ="61">Men feel hungry when the stomach becomes empty.</sent>
+				<sent id ="62">Hunger stops as soon as men take food.</sent>
+				<sent id ="63">When we feel hungry we eat at least some food.</sent>
+				<sent id ="64">The main aim of taking food is not only to keep off hunger.</sent>
+				<sent id ="65">The main aim of taking food is that the types of food we take, should contain appropriate nutrients by which the human body can be nourished.</sent>
+				<sent id ="66">Before doing any work there should be a proper planning on that particular work.</sent>
+				<sent id ="67">So it is necessary to prepare an appropriate food menu planning for proper management of food.</sent>
+				<sent id ="68">It is better to give preference on what types of food will be served and what food items should be bought and prepared.</sent>
+				<sent id ="69">Instead of preparing meals required three times a day, it is also necessary to make a planning of preparing meals before any occasion such as marriage, birthday, inviting guests and for patient's diet and balanced food for the children.</sent>
+				<sent id ="70">Menu is a written list on food plan that shows what types of food with required food value will be served at different times of the day.</sent>
+				<sent id ="71">To prepare any balanced diet, it is necessary to select at least one food item from basic food groups.</sent>
+				<sent id ="72">At least one kind of fruit and sufficient quantity of water must be taken every day.</sent>
+				<sent id ="73">The following three classes of food are called foods in basic food groups.</sent>
+				<sent id ="74">Food that provides heat and energy- these are cereals and oil seeds, for example, rice, wheat, oats, corn, mustard, soyabean, etc.</sent>
+				<sent id ="75">Food that forms, develops and protects gradual loss of body- These are protein such as fish, meat, eggs, milk, pulses, peas, etc.</sent>
+				<sent id ="76">Food that protect the body from diseases- These are vegetables, all types of fruits including sour fruits.</sent>
+				<sent id ="77">Balanced food is selected by preparing menu where the basic food groups are included.</sent>
+				<sent id ="78">In addition, menu gives assurance in serving food.</sent>
+				<sent id ="79">Food can be managed at reasonable cost.</sent>
+				<sent id ="80">Attractive and varieties of food can be served.</sent>
+				<sent id ="81">Menu can fulfil the requirements of food of different age group.</sent>
+				<sent id ="82">With the help of menu planning, it becomes very easy to prepare and serve food within a short time.</sent>
+				<sent id ="83">Wastage of food is also less if a menu is followed.</sent>
+				<sent id ="84">The main purpose of preparing menu is that it can ensure balanced or nutritious diet for a person who wants to take food in a proper way.</sent>
+				<sent id ="85">Decision can be taken easily at purchasing food.</sent>
+				<sent id ="86">During preparation or cooking proper measurement of food items can be taken and it saves time.</sent>
+				<sent id ="87">While serving food, appropriate quantity can be determined which prevents wastage.</sent>
+				<sent id ="88">Available food stuffs can be used properly.</sent>
+				<sent id ="89">Leftover food is used properly.</sent>
+				<sent id ="90">Policy for menu planning according to age, labour, income, occasion and season During planning for menu, an appropriate decision should be taken whether it will be for one time, one day or for one week.</sent>
+				<sent id ="91">Before preparing an appropriate menu, an assessment should be done in respect of requirements of person or group of persons.</sent>
+				<sent id ="92">The menu to be followed for food management should be easy to understand.</sent>
+				<sent id ="93">The characteristic of well-planned menu is that it fulfills the nutrient demand of a person or a group of persons.</sent>
+				<sent id ="94">It also helps in many respects during food purchase, preparation and serving.</sent>
+				<sent id ="95">Menu has to be planned according to age.</sent>
+				<sent id ="96">To what extent the menu can fulfil the need of children or the adults should be considered.</sent>
+				<sent id ="97">Whether sufficient foods of required calorie are provided in menu.</sent>
+				<sent id ="98">Whether foodstuffs are easily accessible or attractive.</sent>
+				<sent id ="99">How much money will be spent to purchase or prepare the foods.</sent>
+				<sent id ="100">Whether menu is appropriate according to occasion.</sent>
+				<sent id ="101">Whether the food included in menu is seasonal.</sent>
+				<sent id ="102">Whether foods are well-balanced and carry sufficient nutrients.</sent>
+				<sent id ="103">In one family, members of all ages from children to old person lives.</sent>
+				<sent id ="104">Food requirements also may vary from age to age.</sent>
+				<sent id ="105">So this should be considered while preparing a menu.</sent>
+				<sent id ="106">Milk is absolutely necessary for the proper development of children.</sent>
+				<sent id ="107">Milk with cream is better.</sent>
+				<sent id ="108">For keeping good health of aged persons, food with vitamins is needed.</sent>
+				<sent id ="109">It is better to avoid milk with cream for aged people.</sent>
+				<sent id ="110">Oil without fat should be served to them.</sent>
+				<sent id ="111">Pregnant and lactating mothers require high calories and protein.</sent>
+				<sent id ="112">Food should be kept in food menu according to taste and as per choice of various age groups.</sent>
+				<sent id ="113">Physical energy is consumed by labour.</sent>
+				<sent id ="114">To fill up the lost energy, sufficient quantity of calorie rich food items should be included in the menu.</sent>
+				<sent id ="115">Those who give hard labour should take food which contain more carbohydrates and fat.</sent>
+				<sent id ="116">On the other hand, those who give less physical labour and do more mental work as well as old people should take less quantity of carbohydrate and fat types of food.</sent>
+				<sent id ="117">Income is limited in each family.</sent>
+				<sent id ="118">So more or less every family has a limited budget for food.</sent>
+				<sent id ="119">Within this limited income every family has to provide sufficient nutritious food throughout the entire month.</sent>
+				<sent id ="120">Nutritious food is not always expensive.</sent>
+				<sent id ="121">With the limited money, nutritious food can be managed.</sent>
+				<sent id ="122">In our country we have the rich, middle and poor classes.</sent>
+				<sent id ="123">Rich people can afford any type of expensive food.</sent>
+				<sent id ="124">But taking excessive food is also considered to be a wastage.</sent>
+				<sent id ="125">On the other, it is not only desirable for a middle class family to prepare menu comparatively at a cheaper rate but also to include nutritious food along with costly foods.</sent>
+				<sent id ="126">All kinds of required ingredients are also available in cheaper foods as in the costly food items.</sent>
+				<sent id ="127">Poor families generally take some kind of ordinary food to satisfy their hunger.</sent>
+				<sent id ="128">The main reason for this is the limited income of poor families.</sent>
+				<sent id ="129">But if they do systematic planning, they can get cheaper and nutritious foodstuff and by producing vegetables in their own gardens extra money can be earned.</sent>
+				<sent id ="130">This will solve the problem in buying nutritious food.</sent>
+				<sent id ="131">The experts have opinion that every family should have pre experience in preparing menu.</sent>
+				<sent id ="132">Food requirement varies according to the weather of places.</sent>
+				<sent id ="133">For example, in cold regions, it is essential take more energy producing food to maintain physical temperature.</sent>
+				<sent id ="134">On the other hand, in warm regions, people can take comparatively less energy producing food.</sent>
+				<sent id ="135">For this reason, in cold countries people are habituated to take butter, oil, eggs, cream, coffee, cocoas, etc.</sent>
+				<sent id ="136">Food requirement varies as per season also.</sent>
+				<sent id ="137">Besides some special foodstuffs are produced in each season.</sent>
+				<sent id ="138">For example, water melons, papayas, pineapples, jackfruits, bungis and wood apples are available in different seasons.</sent>
+				<sent id ="139">In summer, varieties of fruit juices like pineapple, juice, green coconut water, curd, curd water (matha) are taken as drinks.</sent>
+				<sent id ="140">In rainy season, for taste, people usually like to eat fried shingaras, somuchas, piajis, chanachur and puffed rice etc.</sent>
+				<sent id ="141">In winter season, usually fatty types of food such as eggs, cheese, butter, jam, oily fish, meat, milk, chotpoti are included in the menu.</sent>
+				<sent id ="142">In our country, the menu is sometimes changed due to the impact of season.</sent>
+				<sent id ="143">Occasion plays an important role in the preparation of menu.</sent>
+				<sent id ="144">Besides daily food, there are special types of food prepared on different occasion.</sent>
+				<sent id ="145">In case of any small and big occasion, the menu has a special attraction because on this occasion different varieties of food are served that are not usually taken.</sent>
+				<sent id ="146">There are different types of occasions held in our country such as wedding, reception of the bride, birthday, wedding anniversary, milad, death anniversary, chelum, kulkhani etc.</sent>
+				<sent id ="147">Besides these occasions, we have also other traditional and religious occasion when we serve special types of food.</sent>
+				<sent id ="148">These occasions include re-union, Ramzan, Eid, picnic, traditional and local festivals, family programmes, etc. Occasion can be pleasant or sad.</sent>
+				<sent id ="149">Based on the types of occasion, menu planning should be done.</sent>
+				<sent id ="150">For example, the menu for birthday is not applicable for the menu of milad.</sent>
+				<sent id ="151">On the occasion of re-union ,food arrangement can be done outside the home, where any types of food can be arranged.</sent>
+				<sent id ="152">Now a- days, people feel more interest to take foreign food in stead of local food.</sent>
+				<sent id ="153">specially, some food like snacks, seafood, chinese are very popular in our country.</sent>
+				<sent id ="154">Due to lack of proper nutritious food, pregnant mothers can be weak and ill.</sent>
+				<sent id ="155">Mothers should take necessary and appropriate food for getting a healthy and normal baby.</sent>
+				<sent id ="156">There might be danger or risk if the mother does not have normal weight (as per doctor's advice) during pregnancy.</sent>
+				<sent id ="157">After birth ,the baby is fully dependent on breast-feeding up to the age of 6 months.</sent>
+				<sent id ="158">Due to that, food requirements for lactating mother also increases.</sent>
+				<sent id ="159">A lactating mother has to take sufficient amount of nutritious food to below supplying milk to the baby and also for the recovery of her own health.</sent>
+				<sent id ="160">Instructions are given in the lists below on balanced diet for pregnant and lactating mothers</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,123 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.651</idno>
+				<idno type="Number of sentences">95</idno>
+				<idno type="Number of tokens">1200</idno>
+				<idno type="Number of token types">456</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t160">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Men invented fire with advancement of civilization and gradually learned how to cook.</sent>
+				<sent id ="2">The tradition of cooking has started many years ago.</sent>
+				<sent id ="3">To make the food tasty, digestive and germ-free cooking is essential.</sent>
+				<sent id ="4">On the other hand defective cooking process destroys most of the food value of food.</sent>
+				<sent id ="5">If cooking process is perfect and developed the defect would decrease and food will be rich with food value and of course tastier.</sent>
+				<sent id ="6">Cooking means cleaning working, cutting or be prepared in other ways for setting or cooker.</sent>
+				<sent id ="7">Foods are coked in different processes on cooker.</sent>
+				<sent id ="8">Before knowing the process of coking one should know importance of cooking.</sent>
+				<sent id ="9">The main importance of cooking is that hard layer on the food become soft and edible by cooking.</sent>
+				<sent id ="10">The tough fibre of the food becomes soft and easy for digestion.</sent>
+				<sent id ="11">So, cooked rice, pulse, fish, meat and vegetables are easy to digest.</sent>
+				<sent id ="12">The main objective of cooking food is for easy digestion.</sent>
+				<sent id ="13">The other objective of cooking is to make the foods germ-free to keep body fit.</sent>
+				<sent id ="14">The germs die due to the heat of cooking.</sent>
+				<sent id ="15">Most of the foods are attracted by germ in raw or fresh state.</sent>
+				<sent id ="16">These germs are moving in air, water and in soil.</sent>
+				<sent id ="17">We can not see germs with open eyes.</sent>
+				<sent id ="18">Germs are seen under the microscope.</sent>
+				<sent id ="19">After cooking the germs of food are destroyed and become inactive and food become germfree.</sent>
+				<sent id ="20">The other importance of cooking is to develop the colour, flavour, and taste of food.</sent>
+				<sent id ="21">The attractive colour and flavour of food secretes enzyme in mouth as well as in stomach.</sent>
+				<sent id ="22">Thus cooked food helps us in digestion.</sent>
+				<sent id ="23">On the other hand for cooking oil, butter, spices are used so that the food value of food increases.</sent>
+				<sent id ="24">So to enrich food with nutrient and to make it tasty, cooking is important.</sent>
+				<sent id ="25">In modern days, different types of cooking process are followed to make the cooking easy, nice and swift.</sent>
+				<sent id ="26">The taste and food value of food may be different due to different cooking process.</sent>
+				<sent id ="27">Boling is an easy and ordinary process of cooking.</sent>
+				<sent id ="28">The advantage of this cooking process is that the heat of boiled water reaches every part of the food easily.</sent>
+				<sent id ="29">So the food is boiled properly and there is no chance of burning the food.</sent>
+				<sent id ="30">Some time food value may decrease in this process.</sent>
+				<sent id ="31">Because during, boiling some elements of foods are dissolved in water specially, the vitamins, carbohydrates and minerals.</sent>
+				<sent id ="32">If we through away the water after boiling food, nutrients are lost.</sent>
+				<sent id ="33">After cooking rice if water is disposed carbohydrate, minerals and Vitamins are lost.</sent>
+				<sent id ="34">This type of boiling is very important and easy to digest for the old and babies.</sent>
+				<sent id ="35">It food is cooked in a covered container all the nutrients are preserved.</sent>
+				<sent id ="36">In this process fish, meat and vegetable are stewed.</sent>
+				<sent id ="37">The heats are supplied by water so there is no chance of burning.</sent>
+				<sent id ="38">Due to cooking in low temperature the protein food does not get hard or squeezed.</sent>
+				<sent id ="39">So this protein is not difficult to digest.</sent>
+				<sent id ="40">Meat stews are cooked in this process.</sent>
+				<sent id ="41">If water is disposed after boiling food values are lost.</sent>
+				<sent id ="42">In this process vapour is made after boiling water and in the heat of this vapour foods are boiled.</sent>
+				<sent id ="43">The temperature of the steam is in between 1000F to 2120 F. The temperature can be increased if needed.</sent>
+				<sent id ="44">So the vitamin and minerals or the proteins are no lost or burnt.</sent>
+				<sent id ="45">When the water of the pot starts boiling then foods are put on the cloth covered with a lid.</sent>
+				<sent id ="46">When foods are boiled, these are taken away from the vapour.</sent>
+				<sent id ="47">Instead of clothes, clay plate can also be used.</sent>
+				<sent id ="48">Special types of clay pot are available for preparing vapa pitha.</sent>
+				<sent id ="49">In the village a big pot is filled with straws and with little water.</sent>
+				<sent id ="50">When water start boiling leaf pitha are spread on straw.</sent>
+				<sent id ="51">Pudding is also made in this process.</sent>
+				<sent id ="52">Fish, meat and vegetable soup are prepared in this process.</sent>
+				<sent id ="53">When foods are cooked in steaming less amount of food values are lost.</sent>
+				<sent id ="54">More over the colour, taste and flavour of food remain intact.</sent>
+				<sent id ="55">For cooking in steam economic cookers or pressure cooker are used.</sent>
+				<sent id ="56">When foods are fried in deep oil, butter or in fat that is called Deep Fat Frying.</sent>
+				<sent id ="57">In this process foods are cooked to maintain qualities.</sent>
+				<sent id ="58">Foods are suddenly dipped in hot oil so that the watery portion of food is evaporated.</sent>
+				<sent id ="59">To maintain the food value of the food the frying is done by any kind of fat like oil or butter.</sent>
+				<sent id ="60">Otherwise the inner portion of the food remains raw.</sent>
+				<sent id ="61">After putting the food into oil, the water portion of the food evaporates with little bubbles.</sent>
+				<sent id ="62">After 2-4 minutes the bubbling stops.</sent>
+				<sent id ="63">Then the food item should be taken away from the oil.</sent>
+				<sent id ="64">In this process outer portion of the food creates a hard cover and inner portion remains intact.</sent>
+				<sent id ="65">If the food is put into oil without enough heating, it absorbs too much of oil and it is difficult to digest.</sent>
+				<sent id ="66">In this process most of the time it loses vitamins.</sent>
+				<sent id ="67">So vitamin enriched food should never be fried.</sent>
+				<sent id ="68">Fried foods are very tasty but these foods are junk foods.</sent>
+				<sent id ="69">So this type of food should not be taken regularly.</sent>
+				<sent id ="70">We should be careful that foods are dipped into oil while cooking fish, eggplant, potato chips.</sent>
+				<sent id ="71">On the other hand different types of pitha, Lucli, nimki, singara samucha are fried in this process.</sent>
+				<sent id ="72">In this process many foods can be fried at a time.</sent>
+				<sent id ="73">When it is taken out of oil remove the extra oil carefully.</sent>
+				<sent id ="74">High heat is needed in this process.</sent>
+				<sent id ="75">To see whether the oil is heated enough, the following test can be done.</sent>
+				<sent id ="76">i) When the fats start heating it makes shun shun sound and small bubbles come up.</sent>
+				<sent id ="77">When there is no bubble with no sound then the fats is heated enough for cooking.</sent>
+				<sent id ="78">Baking is done not directly on fire but with the heat of fire.</sent>
+				<sent id ="79">For baking in the burner, foods are kept in a specific hole and then mouth of the oven is closed.</sent>
+				<sent id ="80">The fire heats from the upper side, so inner portion of the burner becomes heated.</sent>
+				<sent id ="81">And foods are baked in that heat.</sent>
+				<sent id ="82">For baking, special burners are made.</sent>
+				<sent id ="83">This is called the baking chamber.</sent>
+				<sent id ="84">Bread, biscuits and cakes are prepared in this process.</sent>
+				<sent id ="85">Otherwise baking can be done by sand in local process.</sent>
+				<sent id ="86">In this Deep Fat Frying Low Fat Frying process sands are put in a pot and foods are put in that pot of sand.</sent>
+				<sent id ="87">Muri and Khai are made in this process.</sent>
+				<sent id ="88">Baking can be done easily and properly by electric oven.</sent>
+				<sent id ="89">Food prepared by this process is tasty and easy to digest.</sent>
+				<sent id ="90">In this process, vitamins are lost except vitamin E. Vitamin B can be slightly spoiled.</sent>
+				<sent id ="91">High temperature is needed for baking.</sent>
+				<sent id ="92">For baking following temperature are needed- low temperature 250 F- 350 F medium temperatures 3500 c 4000 F and high temperature 450 500 F.</sent>
+				<sent id ="93">In this process minerals of the food are not lost.</sent>
+				<sent id ="94">But the vitamin destroys slowly.</sent>
+				<sent id ="95">Fish, cabab, ruti are cooked in this process.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

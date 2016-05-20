@@ -1,0 +1,132 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-14</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.153</idno>
+				<idno type="Number of sentences">104</idno>
+				<idno type="Number of tokens">1017</idno>
+				<idno type="Number of token types">371</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t18">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">One day Jesus was praying in a lonely place.</sent>
+				<sent id ="2">Why did that disciple want Jesus to teach how to pray?</sent>
+				<sent id ="3">Because he did not know well how to pray, and what to say in prayer.</sent>
+				<sent id ="4">He wanted to know about it from his teacher.</sent>
+				<sent id ="5">Like that disciple, we also want to learn how to pray.</sent>
+				<sent id ="6">From whom can we learn that?</sent>
+				<sent id ="7">The disciple wanted to know from his teacher.</sent>
+				<sent id ="8">A disciple has to learn from his master.</sent>
+				<sent id ="9">That is the best way to learn how to pray.</sent>
+				<sent id ="10">Jesus is our teacher.</sent>
+				<sent id ="11">We can learn from him.</sent>
+				<sent id ="12">Let us learn the best prayer from him.</sent>
+				<sent id ="13">How should our prayer be?</sent>
+				<sent id ="14">Jesus taught that we need not use too man words when prayer.</sent>
+				<sent id ="15">We should not shout so as to be heard by others.</sent>
+				<sent id ="16">It is unwise to think that if we do not shout, the Father will not hear us.</sent>
+				<sent id ="17">He hears everything even when we speak to ourselves.</sent>
+				<sent id ="18">The reason is that He is not far away from us.</sent>
+				<sent id ="19">He is always with us.</sent>
+				<sent id ="20">He is in the depth of our being.</sent>
+				<sent id ="21">He knows all our secret and inmost thoughts.</sent>
+				<sent id ="22">He also knows our needs.</sent>
+				<sent id ="23">Besides, He wants us to speak to him frankly.</sent>
+				<sent id ="24">This is the way the Lord Jesus taught us how to pray.</sent>
+				<sent id ="25">We call it The Lords Prayer because it is he who taught us.</sent>
+				<sent id ="26">This prayer is offered to the Father in heaven.</sent>
+				<sent id ="27">Jesus himself used to say this prayer.</sent>
+				<sent id ="28">Jesus learned this prayer from his Father in heaven.</sent>
+				<sent id ="29">It is the best prayer.</sent>
+				<sent id ="30">So Jesus taught it to his disciples.</sent>
+				<sent id ="31">Like Jesus we also can pray to our Father in heaven.</sent>
+				<sent id ="32">By this prayer we praise Him and tell Him about our needs.</sent>
+				<sent id ="33">Our Father: Through our baptism we became members of the Church.</sent>
+				<sent id ="34">We have become children of the same family.</sent>
+				<sent id ="35">The Father of this family is God.</sent>
+				<sent id ="36">Our Father in Heaven: Our Father lives in heaven.</sent>
+				<sent id ="37">But by heaven it does not mean any invisible place.</sent>
+				<sent id ="38">He is present everywhere.</sent>
+				<sent id ="39">He is in the church.</sent>
+				<sent id ="40">Those who live in holiness in this world are with the heavenly Father; he is in their hearts.</sent>
+				<sent id ="41">He is in the hearts of those who call on Him in prayer.</sent>
+				<sent id ="42">So we must always remember when we pray that He is everywhere.</sent>
+				<sent id ="43">Hallowed be your name: God is holy.</sent>
+				<sent id ="44">Holy is His name.</sent>
+				<sent id ="45">We say this in our prayer so that we can know Him and love Him.</sent>
+				<sent id ="46">We wish to live in His presence at all times.</sent>
+				<sent id ="47">Your kingdom come: The kingdom of God actually means Christ.</sent>
+				<sent id ="48">Where there is Christ, there is God.</sent>
+				<sent id ="49">His kingdom i.e.</sent>
+				<sent id ="50">Christ is already present among us.</sent>
+				<sent id ="51">In the Lord's Prayer we say that God may be present where is not there yet.</sent>
+				<sent id ="52">Everybody should love Him and should love one another.</sent>
+				<sent id ="53">Jesus came to this earth to do the will of God.</sent>
+				<sent id ="54">God's will has been fulfilled in Jesus.</sent>
+				<sent id ="55">Jesus remained obedient to God even unto his death.</sent>
+				<sent id ="56">Now it is our duty to be obedient.</sent>
+				<sent id ="57">Give us this day our daily bread: As His children of the Father we look up to Him for everything.</sent>
+				<sent id ="58">We have faith in Him.</sent>
+				<sent id ="59">We depend on Him.</sent>
+				<sent id ="60">Through this we express our deep relationship with Him.</sent>
+				<sent id ="61">He has given us our lives.</sent>
+				<sent id ="62">He also provides us with whatever we need.</sent>
+				<sent id ="63">He gives us not only physical food but also the food of our souls.</sent>
+				<sent id ="64">He gives us all sorts of blessings.</sent>
+				<sent id ="65">We pray for our daily food from our Father.</sent>
+				<sent id ="66">We do not get become unnecessarily anxious about our future.</sent>
+				<sent id ="67">We believe that our Father will provide us with food.</sent>
+				<sent id ="68">He will provide us daily with the food for our body and soul.</sent>
+				<sent id ="69">We come back again and beg His pardon.</sent>
+				<sent id ="70">We commit sins like a tax collector, and again beg pardon with submission.</sent>
+				<sent id ="71">So their father was sad.</sent>
+				<sent id ="72">So the master punished the servant.</sent>
+				<sent id ="73">If the servant had pardoned his co-worker, the master would also have pardoned him.</sent>
+				<sent id ="74">Likewise, if we pardon others faults, God will also pardon our faults.</sent>
+				<sent id ="75">Lead us not into temptation: We all fall prey to temptation, but we all don't commit sin.</sent>
+				<sent id ="76">Those who cannot resist greed, become the slave of temptation.</sent>
+				<sent id ="77">Thus they commit sin.</sent>
+				<sent id ="78">If we fall prey to temptation, there is a possibility of committing sin.</sent>
+				<sent id ="79">So it is better not to give in to temptation.</sent>
+				<sent id ="80">Therefore, we pray to God so that we can overcome temptation.</sent>
+				<sent id ="81">But deliver us from evil: The Evil One means the enemy of God.</sent>
+				<sent id ="82">He, who creates obstacle against the work of God, he is the enemy of God.</sent>
+				<sent id ="83">We call him Satan.</sent>
+				<sent id ="84">In the prayer to God we pray that He will save us from the clutches of Satan.</sent>
+				<sent id ="85">We pray everyday.</sent>
+				<sent id ="86">Through the prayer we make friendship with God.</sent>
+				<sent id ="87">As a friend expects help or assistance from another friend, so we also want help and favor from God.</sent>
+				<sent id ="88">Through our prayer to God we praise and glorify Him.</sent>
+				<sent id ="89">And we tell him what we need.</sent>
+				<sent id ="90">We open up our minds and hearts to Him.</sent>
+				<sent id ="91">We will say this prayer every day.</sent>
+				<sent id ="92">We will say it with deep love and respect.</sent>
+				<sent id ="93">We will not miss saying this prayer to God for a single day.</sent>
+				<sent id ="94">This prayer was taught by Jesus.</sent>
+				<sent id ="95">He said this prayer every day.</sent>
+				<sent id ="96">He taught us this prayer so that we also sincerely and trustfully do it.</sent>
+				<sent id ="97">a) We will say our prayer everyday.</sent>
+				<sent id ="98">b) We will do it alone as well as with the family members.</sent>
+				<sent id ="99">c) We will say our prayer after rising in the morning and before going to sleep at night.</sent>
+				<sent id ="100">d) We will do it before and after eating our meals.</sent>
+				<sent id ="101">e) We will do it before going to school and after returning from school.</sent>
+				<sent id ="102">f) We will do it before we begin our study and after our study.</sent>
+				<sent id ="103">g) We will say the Lord's Prayer together with our family members every night.</sent>
+				<sent id ="104">We will listen to the Word of God from the Holy Bible while praying the rosary or the other prayers.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,177 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.954</idno>
+				<idno type="Number of sentences">149</idno>
+				<idno type="Number of tokens">1596</idno>
+				<idno type="Number of token types">666</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t51">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The earth is the only planet in this solar system where living things exist.</sent>
+				<sent id ="2">It is the only planet that bears signs of life.</sent>
+				<sent id ="3">You know that anything that has life is called a living thing.</sent>
+				<sent id ="4">There are two types of living things: animals and plants.</sent>
+				<sent id ="5">In this chapter we will discuss about the animal kingdom.</sent>
+				<sent id ="6">As all the places on the earth are not alike, the creatures living in different places are not the same.</sent>
+				<sent id ="7">Some regions on earth have deep forests, some consist of deserts and some are covered with ice.</sent>
+				<sent id ="8">Heat and light are essential for the survival of living things.</sent>
+				<sent id ="9">The sun is the main source of heat and light for the earth.</sent>
+				<sent id ="10">The intensity of sunlight that falls on different parts of the surface of the earth is not the same.</sent>
+				<sent id ="11">Therefore the temperatures and rainfall levels vary from place to place.</sent>
+				<sent id ="12">Some places receive rainfall throughout the year, while others barely receive any rain.</sent>
+				<sent id ="13">From this we can see that differences in weather lead to differences in environment.</sent>
+				<sent id ="14">For this reason, different creatures live in different environment.</sent>
+				<sent id ="15">Some live in water, some in the sea, some on land, and some happily fly in the sky.</sent>
+				<sent id ="16">In contrast, the climate of desert areas is completely different.</sent>
+				<sent id ="17">Very little rainfall occurs in these places.</sent>
+				<sent id ="18">In the desert, the days are very hot and the nights are very cold.</sent>
+				<sent id ="19">Different kinds of animals live in different environments, depending on various climatic and environmental conditions.</sent>
+				<sent id ="20">This means animals are dependent on their environment.</sent>
+				<sent id ="21">The diverse animal kingdom is constituted of all these animals on earth.</sent>
+				<sent id ="22">You have already learnt that different kinds of animals live in different places on earth.</sent>
+				<sent id ="23">They vary widely in terms of physical structure and size.</sent>
+				<sent id ="24">According to their physical structures, animals can be divided into two major classes: vertebrate and invertebrate.</sent>
+				<sent id ="25">Fish, cow, goat, duck, chicken, man etc. are vertebrate animals (figure 3.1).</sent>
+				<sent id ="26">What is vertebra?</sent>
+				<sent id ="27">Put your hand on your friend's back.</sent>
+				<sent id ="28">Can you feel something hard?</sent>
+				<sent id ="29">This is called the vertebra.</sent>
+				<sent id ="30">It is not constituted of a single bone, but rather a large number of bones placed one atop another.</sent>
+				<sent id ="31">When you next eat chicken, take a piece of the neck.</sent>
+				<sent id ="32">Now, if you remove the flesh, you will find small pieces of bones.</sent>
+				<sent id ="33">Each of these small bones is known as vertebra.</sent>
+				<sent id ="34">Earthworm, cockroach, prawn, crab, snail etc. are invertebrate animals (Figure 3.2).</sent>
+				<sent id ="35">Take a prawn and peel off its shell.</sent>
+				<sent id ="36">Now remove the fleshy part.</sent>
+				<sent id ="37">Can you see any hard bones there?</sent>
+				<sent id ="38">Their bodies contain no vertebrae.</sent>
+				<sent id ="39">Animals which have no vertebrae are called invertebrate animals.</sent>
+				<sent id ="40">Remember, prawns are not fish.</sent>
+				<sent id ="41">They are invertebrate animals.</sent>
+				<sent id ="42">Similarly, animals are also classified into different types based on various characteristics.</sent>
+				<sent id ="43">You have also learnt how to distinguish between vertebrate and invertebrate animals.</sent>
+				<sent id ="44">There are different types of invertebrate animals.</sent>
+				<sent id ="45">Among them, some are so tiny that they can be seen only with the aid of microscopes.</sent>
+				<sent id ="46">Amoeba is an example of such animals.</sent>
+				<sent id ="47">On the other hand, earthworms and leeches fall under the same category.</sent>
+				<sent id ="48">Their bodies are divided into many segments.</sent>
+				<sent id ="49">The soft bodies of animals like snails, oysters etc are covered with hard shells.</sent>
+				<sent id ="50">They belong to another group.</sent>
+				<sent id ="51">A cockroach is an insect.</sent>
+				<sent id ="52">It has two pairs of wings on its back, and three pairs of legs under its belly.</sent>
+				<sent id ="53">Mosquito, fly, butterfly, termite, cockroach etc. are animals belonging to the insect group (figure 3.3).</sent>
+				<sent id ="54">The number of animals which belong to the insect group is the highest among all categories of animals.</sent>
+				<sent id ="55">Termites harm our houses and furniture.</sent>
+				<sent id ="56">Mosquitoes and flies spread various diseases.</sent>
+				<sent id ="57">Cutworms, beetles, caterpillars and various other small insects damage crops.</sent>
+				<sent id ="58">These are harmful insects.</sent>
+				<sent id ="59">We get silk from the cocoons of silkworms.</sent>
+				<sent id ="60">Wax and honey are collected from honeycombs or beehives.</sent>
+				<sent id ="61">These are examples of useful insects.</sent>
+				<sent id ="62">Apart from these, there are many other diverse invertebrates in the world.</sent>
+				<sent id ="63">You will learn about them in higher classes.</sent>
+				<sent id ="64">Vertebrates can be divided into five classes: pisces, amphibia, reptile, aves and mammalia.</sent>
+				<sent id ="65">This class consists of all types of fish.</sent>
+				<sent id ="66">They live both in fresh water and salt water.</sent>
+				<sent id ="67">They are called aquatic animals.</sent>
+				<sent id ="68">2) Fish respire with the aid of gills.</sent>
+				<sent id ="69">3) Bodies of most fish are covered in scales.</sent>
+				<sent id ="70">However, there are some types of fish which do not have scales.</sent>
+				<sent id ="71">The chordate animal who lives in water in Primary stage and adult stage it lives in land.</sent>
+				<sent id ="72">They are called amphibians.</sent>
+				<sent id ="73">In primary stage of life they have gills and adult stage they respire by lung.</sent>
+				<sent id ="74">Ex: Toad Frog. 1) There are no hair or scales on their bodies.</sent>
+				<sent id ="75">They have soft skin.</sent>
+				<sent id ="76">2) They have four legs.</sent>
+				<sent id ="77">3) They have gills during their tadpole phase.</sent>
+				<sent id ="78">They respire using gills.</sent>
+				<sent id ="79">When they mature, the gills are replaced by lungs, which they use for respiration.</sent>
+				<sent id ="80">The vertebrates which move by crawling are called reptiles.</sent>
+				<sent id ="81">Lizard, snake, crocodile, tortoise etc. are examples of reptiles.</sent>
+				<sent id ="82">The vertebrates which have feathers are classified as aves.</sent>
+				<sent id ="83">Duck, hen, pigeon, ostrich, magpie robin, crow, shalik, kingfisher, vulture, falcon etc. are examples of this class of animals.</sent>
+				<sent id ="84">You know that birds can fly, but some birds, such as kiwi, penguin, ostrich, emu etc. are incapable of flight.</sent>
+				<sent id ="85">1) Their bodies are covered with feathers.</sent>
+				<sent id ="86">2) They have claws on their feet.</sent>
+				<sent id ="87">3) They have hollow light bones which make it possible for them to fly.</sent>
+				<sent id ="88">4) They lay eggs, from which their young hatch.</sent>
+				<sent id ="89">Animals which give birth to live young that are suckled by their mothers are classified as mammalians.</sent>
+				<sent id ="90">Man, cow, goat, buffalo, sheep, deer, whale etc. are examples of mammals. 1) Their bodies are covered with hair.</sent>
+				<sent id ="91">2) Their young are suckled by their mothers.</sent>
+				<sent id ="92">3) Except humans, nearly all mammals have tails.</sent>
+				<sent id ="93">You have already learnt that whales and dolphins are mammals.</sent>
+				<sent id ="94">They live in the water, and they have no hair on their bodies.</sent>
+				<sent id ="95">The fin-like parts on their bodies actually are not fins.</sent>
+				<sent id ="96">Those serve as sculls.</sent>
+				<sent id ="97">Also, the wings of bats and titmice are not actual wings.</sent>
+				<sent id ="98">The skin between their fingers expanded to form wing- like flaps.</sent>
+				<sent id ="99">Among mammals, humans are the most advanced.</sent>
+				<sent id ="100">They can talk.</sent>
+				<sent id ="101">They have larger and more developed brains than any other animals.</sent>
+				<sent id ="102">Human can use their hands to hold things.</sent>
+				<sent id ="103">They can stand erect and walk on two legs.</sent>
+				<sent id ="104">Humans are the most intelligent animals on earth.</sent>
+				<sent id ="105">Because of this, humans are considered the best creatures of all.</sent>
+				<sent id ="106">Not all animals can survive in adverse conditions.</sent>
+				<sent id ="107">For example, camels live in deserts and polar bears live in the polar regions.</sent>
+				<sent id ="108">They cannot be found in any other environments.</sent>
+				<sent id ="109">Can you identify the reasons behind this?</sent>
+				<sent id ="110">This happens because animals adapt themselves to their native environments.</sent>
+				<sent id ="111">The environment keeps changing.</sent>
+				<sent id ="112">The change of environment occurs slowly.</sent>
+				<sent id ="113">The characteristics of animals change along with the change of environmental factors.</sent>
+				<sent id ="114">Every animal lives and breeds in its own environmental habitat.</sent>
+				<sent id ="115">Any type of environmental changes causes various changes in the behavioural and physical structures of the animals.</sent>
+				<sent id ="116">This ability of animals to adapt themselves to environmental changes is called adaptation.</sent>
+				<sent id ="117">The body of the polar bear is covered with dense, long, white fur.</sent>
+				<sent id ="118">Besides, they have thick layers of fat underneath their skin.</sent>
+				<sent id ="119">Because of this their bodies can retain more heat compared to other animals.</sent>
+				<sent id ="120">As a result, their bodies remain warm.</sent>
+				<sent id ="121">The long legs and neck of a camel keep its body a few feet above the hot desert sands.</sent>
+				<sent id ="122">As a result, less amount of heat reaches its body.</sent>
+				<sent id ="123">Its long legs enable it to run fast.</sent>
+				<sent id ="124">It can live on small amounts of water, and can store water in its stomach.</sent>
+				<sent id ="125">It can close up their nostrils at will in order to protect itself from sandstorms.</sent>
+				<sent id ="126">Fish: Animals which live in water are called aquatic animals.</sent>
+				<sent id ="127">Fish are aquatic animals.</sent>
+				<sent id ="128">The characteristics of fish are: The heads and tails of fish are narrow, but their midsections are broad.</sent>
+				<sent id ="129">They have fins which they use to swim.</sent>
+				<sent id ="130">They have no lungs - they respire using gills.</sent>
+				<sent id ="131">Whale & Dolphin: You know that whales and dolphins live in water.</sent>
+				<sent id ="132">Many people believe that whales are fish, as they bear an appearance similar to fish.</sent>
+				<sent id ="133">But in reality, they are not fish - they are mammals.</sent>
+				<sent id ="134">Their tails help them to steer.</sent>
+				<sent id ="135">As their nostrils are located on top of their heads, they can easily inhale oxygen from the air.</sent>
+				<sent id ="136">They have fin-like limbs growing from their bodies.</sent>
+				<sent id ="137">Their front legs were transformed into these fin-like limbs to help them swim.</sent>
+				<sent id ="138">Aves: Animals which fly in the sky are classified as aves.</sent>
+				<sent id ="139">Aves are generally birds.</sent>
+				<sent id ="140">Birds fly in the sky, but they land on the ground or in trees or on water for resting.</sent>
+				<sent id ="141">Their front legs were transformed into wings which enable them to fly.</sent>
+				<sent id ="142">Arboreal Animals: The animals which live in trees are called arboreal animals.</sent>
+				<sent id ="143">For example, monkey, gorilla, chimpanzee etc. are arboreal animals.</sent>
+				<sent id ="144">Though they live in trees, they sometimes come down on the ground.</sent>
+				<sent id ="145">Their two front hands and their fingers are long, and these help them to grasp tree branches.</sent>
+				<sent id ="146">Sheels & Spined animals: Snail, oyster, tortoise and many other animals have hard shells on their bodies for added protection.</sent>
+				<sent id ="147">The body of a porcupine is covered with hard quills for protection.</sent>
+				<sent id ="148">Insects: Cockroach and many other insects have compound eyes which help them to see in multiple directions simultaneously.</sent>
+				<sent id ="149">In this way, factors like habitation, climate and self-defense cause animal bodies to adapt to the environment.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

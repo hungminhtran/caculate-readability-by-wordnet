@@ -1,0 +1,94 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.61</idno>
+				<idno type="Number of sentences">66</idno>
+				<idno type="Number of tokens">862</idno>
+				<idno type="Number of token types">394</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t1">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The nutrition value of fruits places them on the crest of our edibles.</sent>
+				<sent id ="2">Fruits contain vitamins and minerals in large quantities.</sent>
+				<sent id ="3">Fruits are the oldest food of mankind.</sent>
+				<sent id ="4">Taking fruits everyday strengthens our vitality.</sent>
+				<sent id ="5">Nutrition scientists advise us to take at least 115 grams of fruit everyday for balanced diet.</sent>
+				<sent id ="6">But at present our country has the capacity to provide each of us with only 38 grams of fruits every day.</sent>
+				<sent id ="7">We need fruits for economic reasons too.</sent>
+				<sent id ="8">Most fruit trees live for years.</sent>
+				<sent id ="9">Fruit farming is quite profitable although it may be a little expensive at the beginning.</sent>
+				<sent id ="10">Fruits can be processed for preservation in many ways.</sent>
+				<sent id ="11">For example, different kinds of healthy foods like jam, jelly, candy, etc. and drinks can be made from fruits.</sent>
+				<sent id ="12">Some fruits can be dehydrated for marketing.</sent>
+				<sent id ="13">Most fruits available in our country do not grow in the cold countries.</sent>
+				<sent id ="14">It gives us an opportunity to export our fruits there for foreign currency.</sent>
+				<sent id ="15">Trees usually bear two kinds of flowers: female and male.</sent>
+				<sent id ="16">The ovum of a female flower or part of it gradually grows in health, size and shape into a fruit.</sent>
+				<sent id ="17">Many a time the whole flower evolves into a fruit.</sent>
+				<sent id ="18">Different fruits grow in different countries.</sent>
+				<sent id ="19">Short term fruits: Fruits that grow on trees in two or less than two years after plantation are called short term fruits.</sent>
+				<sent id ="20">For example: banana, pineapple, papaya, etc.</sent>
+				<sent id ="21">Long term fruits: Fruits that grow on trees in more than two years after plantation are called long term fruits.</sent>
+				<sent id ="22">For example: mangoes, jackfruits, wood apple, etc. Fruits may be classified on the basis of the seasons in which they grow.</sent>
+				<sent id ="23">For example: Summer fruits, Winter fruits and All season fruits.</sent>
+				<sent id ="24">Summer fruits: Fruits available in our country from mid April to mid October [Baishakh to Ashwin] are called Summer fruits.</sent>
+				<sent id ="25">Mango, berry, litchi, jackfruit, guava, hog plum, pineapple, sapota, chalta, lemon, palmyra, etc. are the most available ones.</sent>
+				<sent id ="26">However, lemon, pineapple and guava are found almost round the year.</sent>
+				<sent id ="27">Winter fruits: We do not usually have many indigenous winter fruits.</sent>
+				<sent id ="28">The main fruits of this kind are orange, olive and wood apple.</sent>
+				<sent id ="29">As food: We usually consider rice and wheat as our staple food.</sent>
+				<sent id ="30">In many countries, people eat fruits as their staple food.</sent>
+				<sent id ="31">For example: People in the South American countries eat banana as the main course of their meal.</sent>
+				<sent id ="32">Banana, Jackfruit, Guava, Pineapple, etc. can reduce our food deficit to a great extent.</sent>
+				<sent id ="33">Output of fruits is much more than that of field crops.</sent>
+				<sent id ="34">A probable increase in the production of fruits may bring down the demand for rice and wheat.</sent>
+				<sent id ="35">As nutrient: Fruits are important as food because they have sufficient amount of vitamin and mineral.</sent>
+				<sent id ="36">We should eat 115 grams fruit every day.</sent>
+				<sent id ="37">Fruits increase our digestive power.</sent>
+				<sent id ="38">An intake of fruit every day keeps us hale and hearty.</sent>
+				<sent id ="39">Fruits of our country like papaya, mango, guava, jackfruit, pineapple, lemon, etc. abound with vitamins A, B and C.</sent>
+				<sent id ="40">Moreover, they have calcium, magnesium, iron, and potassium.</sent>
+				<sent id ="41">Phosphorus and amino acid abound in adequate amount in wood apple, litchi, almond, karamcha, etc.</sent>
+				<sent id ="42">Few indigenous, fruits are commercially cultivated in Bangladesh.</sent>
+				<sent id ="43">It is quite difficult to find the correct statistics of land under fruit cultivation and the state of production.</sent>
+				<sent id ="44">However, it is true that the output of fruits from a hector of land is more than that of other crops.</sent>
+				<sent id ="45">The production of fruits from the same plot of land brings in more money than that of other crops.</sent>
+				<sent id ="46">For example, a hector of land gives an output of fruits ten to twelve times more than that of rice or wheat.</sent>
+				<sent id ="47">Moreover, fruits bring more money than field crops.</sent>
+				<sent id ="48">We can plant fruit trees around our homesteads, on the high fallow land, on the sides of ponds, etc.</sent>
+				<sent id ="49">If we do so, we can earn a handsome amount of money with a comparatively less capital and labour.</sent>
+				<sent id ="50">However, fruit farming requires many people for the production of saplings, seeds and cuttings as well as for the processing and marketing of the yield.</sent>
+				<sent id ="51">As a result, it opens job opportunities for many people.</sent>
+				<sent id ="52">The processing of fruits can be done at home with a little effort.</sent>
+				<sent id ="53">So it creates further employment for women.</sent>
+				<sent id ="54">We can produce different foodstuffs like jam, jelly, pickles, candy, drinks, etc. with fruits for sale.</sent>
+				<sent id ="55">We can even export them for foreign currency.</sent>
+				<sent id ="56">Besides, we may use the leaves of many fruit trees as fodder.</sent>
+				<sent id ="57">For example, leaves of jackfruit trees are a good feed for goats.</sent>
+				<sent id ="58">People make expensive furniture with the wood of fruit trees.</sent>
+				<sent id ="59">We may use the foliage of fruit trees and their dead branches as fuel.</sent>
+				<sent id ="60">Fruit trees help protect environment and prevent soil erosion.</sent>
+				<sent id ="61">List the fruit trees you come across in your homestead and around your school.</sent>
+				<sent id ="62">Mention in the list the fruits available in your local market.</sent>
+				<sent id ="63">Collect information about nutrients and mineral contents of different fruits.</sent>
+				<sent id ="64">Inform yourself about the economic significance of the fruits you have listed.</sent>
+				<sent id ="65">You may ask your class teacher for help in collecting the data.</sent>
+				<sent id ="66">You may read a book that may help you in this regard.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

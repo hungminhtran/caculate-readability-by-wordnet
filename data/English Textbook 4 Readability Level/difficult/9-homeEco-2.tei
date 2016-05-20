@@ -1,0 +1,177 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-homeEco-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:06.444</idno>
+				<idno type="Number of sentences">149</idno>
+				<idno type="Number of tokens">2733</idno>
+				<idno type="Number of token types">766</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t105">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In the previous chapter, the qualities which are needed to be possessed by a home manager have been discussed.</sent>
+				<sent id ="2">In spite of having all these qualities, a home manager may not be able to run the family smoothly and ensure its happiness.</sent>
+				<sent id ="3">She must realise duties and responsibilities and she should engage herself in performing those activities.</sent>
+				<sent id ="4">A careless home manager can bring disaster to the whole family.</sent>
+				<sent id ="5">The duties and responsibilities of a home manager are of different kinds.</sent>
+				<sent id ="6">However, for the welfare of the family, a home manager should carry out her duties and responsibilities properly.</sent>
+				<sent id ="7">It can be said that most of the household activities of the family are revolved round the home manager.</sent>
+				<sent id ="8">The husband remains the only earning member of the family and home is the only place of his inspirations.</sent>
+				<sent id ="9">Now-a-days, due to some socio- economic reasons, the housewives are also engaged in various income generating activities outside her home.</sent>
+				<sent id ="10">But in the true sense, home is the most important working place of a housewife.</sent>
+				<sent id ="11">So, one can easily understand, the importance of a housewife in running the family.</sent>
+				<sent id ="12">It does not mean that she will perform all the responsibilities by herself.</sent>
+				<sent id ="13">It is her duty to look after the tasks to be done.</sent>
+				<sent id ="14">In order to maintain the family well, the home manager should set some goals to fulfill the basic demands of the family in a proper way.</sent>
+				<sent id ="15">For example, a balanced diet should be selected for the family members.</sent>
+				<sent id ="16">The selection of dress should be according to the needs and social customs.</sent>
+				<sent id ="17">The environment of home should be pleasant and there should be the scope of grooming the personality of all the family members.</sent>
+				<sent id ="18">To fulfill all these objectives, the housewife should take the right decision and try to bridge the gap between the dreams of the family and means of fulfill them.</sent>
+				<sent id ="19">She should take steps to fulfill demands of family within scarce resources.</sent>
+				<sent id ="20">Who will do some specific works, how will these be done, when will be done, why are these to be done etc., all these are related to her duties and responsibilities.</sent>
+				<sent id ="21">The duties and responsibilities of a home manager towards her family can be classified into two groups.</sent>
+				<sent id ="22">One is the duties and responsibilities towards the family and the other is the social responsibilities.</sent>
+				<sent id ="23">According to our social tradition, the housewife has the responsibility to look after her father-in-law, mother-in-law, husband and children.</sent>
+				<sent id ="24">At the early stage, it is difficult for a housewife to perform all the duties properly.</sent>
+				<sent id ="25">As a newcomer to the family, she has to adapt herself with the new environment.</sent>
+				<sent id ="26">She is needed to be accepted not only by her husband as a dear one but also by the rest of the family members.</sent>
+				<sent id ="27">Then she becomes a mother of her children.</sent>
+				<sent id ="28">In this way, gradually the duties and responsibilities of a housewife expand.</sent>
+				<sent id ="29">She has to shoulder and manage various responsibilities to run the family in proper order.</sent>
+				<sent id ="30">She has to take proper steps to meet the demands of her father and mother-in-law maintaining a good relationship with them at the same time.</sent>
+				<sent id ="31">Sometimes, the concepts of elders differ from that of the younger.</sent>
+				<sent id ="32">Thus a strained relationship may grow.</sent>
+				<sent id ="33">In this case, it is her duty to tackle the whole situation keeping herself cool and calm.</sent>
+				<sent id ="34">Otherwise, disorder and indiscipline will grasp the whole family.</sent>
+				<sent id ="35">A housewife is also responsible to ensure good health and mental peace of the family members.</sent>
+				<sent id ="36">Her responsibilities also involve fulfilling the psychological demands of the family.</sent>
+				<sent id ="37">A housewife must be careful in fulfilling the demands and needs of her brothers and sisters-in-law in a judicious manner.</sent>
+				<sent id ="38">She must be careful of her husband and children.</sent>
+				<sent id ="39">It is her foremost duty to make the home habitable.</sent>
+				<sent id ="40">She has to take care of the physical and mental health of her children according to their age.</sent>
+				<sent id ="41">In addition to this, it is her prime responsibility to make her children well educated and good natured as the future of the family and society depends on them.</sent>
+				<sent id ="42">In this age of modern science and technology, the duties and responsibilities of a housewife have increased.</sent>
+				<sent id ="43">A housewife has to observe whether her children are growing up mentally as well so that they can cope with the changing world.</sent>
+				<sent id ="44">To meet the basic demands of the family, she will have to take the right decision in choosing resources and making their best use.</sent>
+				<sent id ="45">For example, for the family, she will choose a balanced diet, select clothing according to the needs and urge the family members to abide by the social customs and values.</sent>
+				<sent id ="46">She will try her best to make the home habitable and a place where the personalities of all the family members can grow.</sent>
+				<sent id ="47">To ensure all these, a housewife should take concrete decision to make a balance between the demands and resources of the family.</sent>
+				<sent id ="48">Moreover, she will make a proper planning for using the limited resources for the betterment of the family.</sent>
+				<sent id ="49">It is also the duty of a housewife to distribute all the tasks of the family among the family members properly.</sent>
+				<sent id ="50">There are some activities, for example, cooking and serving food, furnishing home, washing clothes, sewing, cleaning, helping the children in their studies, nursing the elderly members of the family, providing recreation to the family members, etc. and these are needed to be performed within the home.</sent>
+				<sent id ="51">Besides, there are some activities which are needed to be performed outside the house, such as, shopping, laundry work, gardening, visiting relatives, etc.</sent>
+				<sent id ="52">To perform all these activities, a good house-wife should choose the right person to do the right job according to his/her ability and eagerness and distribute the jobs accordingly.</sent>
+				<sent id ="53">Her responsibility does not end only by distributing the work.</sent>
+				<sent id ="54">She should supervise their work accordingly as well.</sent>
+				<sent id ="55">In our society, we see that the household chores, like serving food, furnishing the house, washing clothes, sewing, attending guests, etc. are done by the teenage girls of the family.</sent>
+				<sent id ="56">They also help their mothers in cooking and performing other domestic chores.</sent>
+				<sent id ="57">The head of the family and the male family members usually perform the outside activities.</sent>
+				<sent id ="58">In this respect, it can be said that if the tasks are distributed according to the capability of each member, it will encourage him/her to perform the tasks to the best of his/her ability and skills helping him/her become self- reliant.</sent>
+				<sent id ="59">Such an active participation in household activities, will raise the sense of responsibility of the children of the family.</sent>
+				<sent id ="60">They could be able to understand the value of time and work .</sent>
+				<sent id ="61">Intimacy will grow among the member's of the family.</sent>
+				<sent id ="62">The housewife should also be able to create diversity in normal routine work.</sent>
+				<sent id ="63">So, she should create the scope of entertainment by arranging picnic, site-seeing and some sort of family amusements.</sent>
+				<sent id ="64">This will help to drive away monotony and increase eagerness of the family members in performing new tasks.</sent>
+				<sent id ="65">Ethically, a home manager has enough duties towards the servants of the family.</sent>
+				<sent id ="66">To get release form hard work and save time, sometimes she has to purchase labour by spending money.</sent>
+				<sent id ="67">So, the servants are appointed.</sent>
+				<sent id ="68">It is the duty of the home manager to take proper care of them.</sent>
+				<sent id ="69">As one of the members of the family, a servant has also some desires and demands.</sent>
+				<sent id ="70">The housewife should pay due attention in fulfilling the basic demands of the servants as because, they do a lot of physical labour in carrying out the commands of the family members.</sent>
+				<sent id ="71">The members should not be given any scope to speak ill with them.</sent>
+				<sent id ="72">If they are several in numbers, the housewife should distribute the household work among them properly.</sent>
+				<sent id ="73">It improves the quality of work.</sent>
+				<sent id ="74">Sometimes, jealousy may occur among the servants if they are several in number.</sent>
+				<sent id ="75">The housewife should tackle the situation with due patience.</sent>
+				<sent id ="76">In fine, it is the duty of a housewife to express kindness towards the servants by measuring their physical ability and psychological attitude.</sent>
+				<sent id ="77">The mental attitude and power of a housewife can be assessed by this.</sent>
+				<sent id ="78">To develop a sense of humanity among the children is also a responsibility of a housewife.</sent>
+				<sent id ="79">Keeping a peaceful homely environment is one of the most important responsibilities of a housewife.</sent>
+				<sent id ="80">In this regard, at first, she would select a proper residence for keeping the members of the family in a healthy condition.</sent>
+				<sent id ="81">Based on the requirements and capacity of the family, she will take decision regarding proper accommodation for each of the family members.</sent>
+				<sent id ="82">Again, when she thinks about the basic requirements of the family such as food, clothing and shelter etc., she must think about the family income and resources.</sent>
+				<sent id ="83">Then she needs to think about the requirements of each of the family members according to his/her age and demands and should try to fulfill all the needs accordingly.</sent>
+				<sent id ="84">The housewife should also be concerned about the family income and budget.</sent>
+				<sent id ="85">She should make a proper purchasing policy in accordance with the limited resources for fulfilling the basic requirements such as food, clothing and lodging etc. of the family members.</sent>
+				<sent id ="86">After spending money for fulfilling all these demands, she has to make some savings for future and for all these she has to make a proper planning.</sent>
+				<sent id ="87">For example, it is the main responsibility of a housewife to ensure proper education of the children, arrange their marriages in due time and help them to get established in society.</sent>
+				<sent id ="88">In doing all these, a home manager should make a balance between the income and the expenditure of the family.</sent>
+				<sent id ="89">The responsibilities of a home manager are manifold.</sent>
+				<sent id ="90">To ensure the security and safety of the family members, she should make an arrangement of first-aid at home.</sent>
+				<sent id ="91">She should be in touch with the physician and should keep all the instrument and medicines in right place.</sent>
+				<sent id ="92">She should ensure a proper security system in placing and preserving all the instrument.</sent>
+				<sent id ="93">Besides, the security system should be made in such a way that every member could be able to find all medicines and equipment in due time and in proper place.</sent>
+				<sent id ="94">For the safety of the home, she should make a proper arrangement of fire extinguishing and drainage system and dumping of the refuse.</sent>
+				<sent id ="95">To follow the home management process for fulfilling the demands of the family A housewife is responsible for executing, controlling, implementing and evaluating all the household activities and for performing all these tasks appropriately, a proper planning is required at first.</sent>
+				<sent id ="96">To finalize the planning, implementation stages occur.</sent>
+				<sent id ="97">The impact should be judged after that and then decision is needed to be undertaken.</sent>
+				<sent id ="98">The decision making is a very important area divided into various stages.</sent>
+				<sent id ="99">All the stages are needed to be well clarified to the family members and then the final decision can be made.</sent>
+				<sent id ="100">So, it is the duty of a home manager to start and finish a work accordingly.</sent>
+				<sent id ="101">Here, she has to consider the demands, willingness and unwillingness of the family members.</sent>
+				<sent id ="102">She has to take active steps in implementing the activities according to the plan and monitor the implementation process taking proper steps.</sent>
+				<sent id ="103">In this stage, she has to observe whether the work is being done accordingly and if it is not, she should take decision about further measures.</sent>
+				<sent id ="104">She has to take appropriate and timely decisions in this regard.</sent>
+				<sent id ="105">After completing the work, she has to evaluate the quality of work.</sent>
+				<sent id ="106">Based on all these, she has to take the next step of future planning and thereby fulfill her responsibilities towards her family.</sent>
+				<sent id ="107">The job cycle of a home manager can be explained in this way.</sent>
+				<sent id ="108">For example, in preparing the list of food for the family, planning is required at first.</sent>
+				<sent id ="109">At this stage, she has to make planning in keeping with the demands and choice of the family members and afterward she will take decision.</sent>
+				<sent id ="110">At the stage of implementation, she has to take decision on how, by whom and where these jobs will be done.</sent>
+				<sent id ="111">Then the activities like shopping and cooking are started.</sent>
+				<sent id ="112">The home manager at this stage controls, supervises and observes the progress of the job so that she could complete the tasks as per the planning.</sent>
+				<sent id ="113">Here, she has to finish the tasks with great efforts.</sent>
+				<sent id ="114">Then she has to assess the activities as per the planning and based on this she decides the next step.</sent>
+				<sent id ="115">Besides these daily activities, a home manager has to arrange a variety of functions related to various occasions and seasons and in performing all these activities, she has to make herself responsible from the beginning to the end.</sent>
+				<sent id ="116">These are the responsibilities and duties of a home manager towards her family.</sent>
+				<sent id ="117">The social responsibilities and duties of a home manager involve associating herself and the other members of the family with several social organizations like Leo Clubs, Rotary Clubs, Girl Guides etc. and thereby making the family an integral part of social development.</sent>
+				<sent id ="118">The family is a unit of the society and it is also a base unit of the society.</sent>
+				<sent id ="119">Society helps a person to nurture his/her customs, idealism and social values.</sent>
+				<sent id ="120">It is also the duty of a home manager to encourage the family members in mixing with various people of the society and also to join with various programmes of the society.</sent>
+				<sent id ="121">Side by side, she should teach the family members the social customs, manners and ideology and also encourage them to exercise those properly.</sent>
+				<sent id ="122">To encourage the family members in attending social development activities For the betterment of the society, the members of the family have to perform various activities.</sent>
+				<sent id ="123">In this way social development is made.</sent>
+				<sent id ="124">Now-a-days not only the educational institutions but various social organisations are also engaged in imparting education.</sent>
+				<sent id ="125">These social organisation are working together with government, non-government and international organisations.</sent>
+				<sent id ="126">For example, Bangladesh Shisu Academy works for the intellectual development of children of different ages.</sent>
+				<sent id ="127">The Mass Education Centre is providing education to the aged people.</sent>
+				<sent id ="128">The Shandhani and the Red Crescent are engaged in different social activities and at the critical hours of the state perform special social services.</sent>
+				<sent id ="129">Besides, as a cooperative organisation, many social organisations are engaged in diverse social development activities.</sent>
+				<sent id ="130">So, it can be said that the responsibility of a home manager is to encourage the members of the family in participating in all these activities.</sent>
+				<sent id ="131">It is also the duty of a home manger to create an opportunity for the members of the family to involve themselves with the social activities for the betterment of the society as well as for the family.</sent>
+				<sent id ="132">This will help to develop social attitudes and rapport.</sent>
+				<sent id ="133">In this way, a person can perform his/her duties as a social being.</sent>
+				<sent id ="134">It is the social duty of a home manager to encourage the family members to participate in various national programmes.</sent>
+				<sent id ="135">It is the common responsibility of every citizen to become aware of the national programmes.</sent>
+				<sent id ="136">The national programs like the Independence Day, the Victory day and the Amar Ekushay have special significance.</sent>
+				<sent id ="137">The nation, along with various socio-cultural organisations, celebrate these days with due honour and fevour.</sent>
+				<sent id ="138">It helps to unfold national identity and heritage.</sent>
+				<sent id ="139">So, in participating in all these programmes, the feeling of nationalism grows among the family members.</sent>
+				<sent id ="140">The right of voting is one of the fundamental national rights.</sent>
+				<sent id ="141">Every citizen has the right to cast his or her votes.</sent>
+				<sent id ="142">Moreover, for the betterment of every citizen, many roads, highways, clubs, playgrounds, sanitation facilities are being provided by the Duties and Responsibilities of a Home Manager 13 state.</sent>
+				<sent id ="143">For enjoying all these facilities, it is also the duty of every citizen to preserve all these properly.</sent>
+				<sent id ="144">For example, keeping roads neat and clean, protecting libraries and play grounds properly are the duties of a citizen.</sent>
+				<sent id ="145">So, every citizen should have proper knowledge of his/her duties and responsibilities.</sent>
+				<sent id ="146">If he/she does not know all these, he/she will fail to carry out the responsibilities.</sent>
+				<sent id ="147">In this regard, the responsibility of a home manager is immense.</sent>
+				<sent id ="148">About the national programmes, the home manager should aware the family members beforehand so that as dutiful citizens they could ensure their presence in all the programmes and avail the rights of a citizen.</sent>
+				<sent id ="149">If all these are done, we can rightly say that a home manager has been performing her social responsibilities well.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

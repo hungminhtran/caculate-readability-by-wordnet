@@ -1,0 +1,166 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.041</idno>
+				<idno type="Number of sentences">138</idno>
+				<idno type="Number of tokens">1635</idno>
+				<idno type="Number of token types">530</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t55">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We can see many types of objects or things around us.</sent>
+				<sent id ="2">In our rooms there are chairs, tables, beds, almirahs, blankets, mattresses, pillows, books, notebooks, pens, scales etc.</sent>
+				<sent id ="3">Whatever the characteristics of the objects are, they are all made of matter.</sent>
+				<sent id ="4">In that case, what is matter?</sent>
+				<sent id ="5">And what is an object?</sent>
+				<sent id ="6">Observe a piece of iron.</sent>
+				<sent id ="7">So, soil, water, air, stone, iron, glass and wood are all matter.</sent>
+				<sent id ="8">We also need to know what an object is.</sent>
+				<sent id ="9">Yes, a limited part of matter is called an object.</sent>
+				<sent id ="10">For example, iron is a kind of matter, but an iron rod is an object.</sent>
+				<sent id ="11">Again, paper is matter, but a book made of paper is an object.</sent>
+				<sent id ="12">Wood is matter, but a chair made of wood is an object.</sent>
+				<sent id ="13">Do you understand now?</sent>
+				<sent id ="14">Now think - what is rubber?</sent>
+				<sent id ="15">Of course, rubber is a type of matter.</sent>
+				<sent id ="16">And what is a tyre made of rubber?</sent>
+				<sent id ="17">A tyre is an object.</sent>
+				<sent id ="18">Now you can obviously understand what gold is, and what jewellery is.</sent>
+				<sent id ="19">Different objects have different characteristics because they are made of different types of matter.</sent>
+				<sent id ="20">Both living and nonliving things are made of matter.</sent>
+				<sent id ="21">For example, plants, human beings and other creatures are all made of some type of matter.</sent>
+				<sent id ="22">Some types of matter are hard, such as wood, while some are soft, such as cotton.</sent>
+				<sent id ="23">Some types of matter are bright in appearance, such as gold, while some types are dull, such as coal.</sent>
+				<sent id ="24">There are some types of matter which stay where they are kept, such as iron.</sent>
+				<sent id ="25">Assume there is just enough space in your study to place a reading table, and your table is placed there.</sent>
+				<sent id ="26">Now will it be possible to place a smaller table at the same spot for your sister?</sent>
+				<sent id ="27">No, because your table is already occupying that space.</sent>
+				<sent id ="28">There is no place left for another table.</sent>
+				<sent id ="29">When you sit in a chair that can accommodate only one person, can anyone else sit in it?</sent>
+				<sent id ="30">No, because you are occupying the space in the chair.</sent>
+				<sent id ="31">No matter what the shape or size of an object, it occupies space.</sent>
+				<sent id ="32">This means space is required for an object to be placed.</sent>
+				<sent id ="33">A space which is already occupied by an object cannot be occupied by another object.</sent>
+				<sent id ="34">Let us describe an easy experiment to demonstrate the fact that matter occupies space.</sent>
+				<sent id ="35">We know that both stone and water are matter.</sent>
+				<sent id ="36">Take a glass and fill it to the brim, but make sure no water spills out.</sent>
+				<sent id ="37">Now carefully drop a few pieces of stone into the water in the glass.</sent>
+				<sent id ="38">You will see that the water spills over.</sent>
+				<sent id ="39">Why did the water spill over?</sent>
+				<sent id ="40">Because the pieces of stone occupied some space inside the glass, causing the water in those spaces to spill out.</sent>
+				<sent id ="41">Just as matter occupies space, it also has mass.</sent>
+				<sent id ="42">It is a common property of all types of matter.</sent>
+				<sent id ="43">Take a book and suspend it from your hand.</sent>
+				<sent id ="44">You will experience a downward pull.</sent>
+				<sent id ="45">Why are you experiencing this pull?</sent>
+				<sent id ="46">Scientist Newton discovered the reason behind this pull.</sent>
+				<sent id ="47">As stated by him, all objects attract each other.</sent>
+				<sent id ="48">This means objects attempt to pull other objects toward them.</sent>
+				<sent id ="49">Our planet earth also pulls all objects toward itself.</sent>
+				<sent id ="50">As a result of this, you feel a downward pull by any object you suspend from your hand.</sent>
+				<sent id ="51">If you let go of the object, you will see that it drops to the ground.</sent>
+				<sent id ="52">This occurs due to the attraction of the earth.</sent>
+				<sent id ="53">The strength of the attraction of the earth toward an object is its weight.</sent>
+				<sent id ="54">Besides the word weight there is another similar word - mass.</sent>
+				<sent id ="55">Sometimes we mistake them to mean the same thing, but they are not the same.</sent>
+				<sent id ="56">The total amount of matter present in an object is called its mass.</sent>
+				<sent id ="57">On the other hand, the attraction of the earth on the mass of an object is called its weight.</sent>
+				<sent id ="58">The weight of an object depends on its mass.</sent>
+				<sent id ="59">The greater the mass of an object is, the greater is its weight.</sent>
+				<sent id ="60">The weight of an object also depends on the distance between the object and the center of the earth.</sent>
+				<sent id ="61">Because of this, the weight of an object is different at different locations on the surface of the earth.</sent>
+				<sent id ="62">The higher we rise above the surface of the earth, the lower the attraction of the earth on an object.</sent>
+				<sent id ="63">As a result, the weight of the object gradually decreases.</sent>
+				<sent id ="64">Far away from the earth, where the earth's attraction does not exist, the weight of an object is zero.</sent>
+				<sent id ="65">However, the mass of the object is not zero.</sent>
+				<sent id ="66">Again, if an object is taken to some other planet or satellite, their attraction toward it will be different.</sent>
+				<sent id ="67">Because of this, the same object will have different weights on earth and on other planets or on the moon.</sent>
+				<sent id ="68">So, we have learnt about the two general properties of matter- they occupy space and they have weight.</sent>
+				<sent id ="69">There is also another common property of matter-it resists if an external force is applied to it.</sent>
+				<sent id ="70">Now look around and observe what objects are there around you.</sent>
+				<sent id ="71">Write down the names of the substances they are made of.</sent>
+				<sent id ="72">Look at the sky.</sent>
+				<sent id ="73">You will see the sun, the moon, stars etc.</sent>
+				<sent id ="74">They are all made of different types of matter.</sent>
+				<sent id ="75">Again, milk, water, oil, gas etc. are also matter.</sent>
+				<sent id ="76">Write down the names of ten types of matter in the table below.</sent>
+				<sent id ="77">Now consider if the above-mentioned properties are present in them.</sent>
+				<sent id ="78">We know that structurally, matter can be of two types - elements and compounds.</sent>
+				<sent id ="79">These are not classifications of different substances, but three states of matter under different conditions.</sent>
+				<sent id ="80">For example, ice, water and steam are all just different states of the same type of matter, water.</sent>
+				<sent id ="81">Let us observe the different characteristics of matter in these three different states.</sent>
+				<sent id ="82">Think of a pen, a piece of wood or a brick.</sent>
+				<sent id ="83">We can place them in any way we like.</sent>
+				<sent id ="84">We can put them in a container or keep them outside.</sent>
+				<sent id ="85">They will not roll away or fly away.</sent>
+				<sent id ="86">No matter how they are stored, their shape will not change.</sent>
+				<sent id ="87">Again, no matter where they are kept, the space they occupy does not change.</sent>
+				<sent id ="88">This means that their volumes are constant.</sent>
+				<sent id ="89">This type of substances are called solids.</sent>
+				<sent id ="90">Wood, paper, coal, books, buckets etc. are solid substances.</sent>
+				<sent id ="91">Now let's consider water, milk or oil.</sent>
+				<sent id ="92">We need containers to store them.</sent>
+				<sent id ="93">If they are not kept in containers, they will roll away.</sent>
+				<sent id ="94">If water or milk is put in a jug, it takes on the shape of the jug.</sent>
+				<sent id ="95">Again, if it is poured into a mug, it takes on the shape of the mug.</sent>
+				<sent id ="96">This means that milk or water takes on the shape of the container they are poured in.</sent>
+				<sent id ="97">They do not have any 91Introduction to Environment : Science definite shape.</sent>
+				<sent id ="98">However, they occupy the same amount of space in all containers.</sent>
+				<sent id ="99">That is to say, their volume is constant, regardless of the container they are put in.</sent>
+				<sent id ="100">These substances are called liquids.</sent>
+				<sent id ="101">Therefore, the state of matter in which it has definite volume but no definite shape is called the liquid state.</sent>
+				<sent id ="102">Finally, let us consider air or the gas which we use to fly balloons.</sent>
+				<sent id ="103">If the mouth of a gas cylinder is not closed, the gas will escape from the cylinder by itself.</sent>
+				<sent id ="104">They are called gaseous substances.</sent>
+				<sent id ="105">Hence, they have neither any definite shape nor any definite volume.</sent>
+				<sent id ="106">The air which surrounds us contains oxygen, nitrogen, carbon dioxide and so on, all of which are gaseous substances.</sent>
+				<sent id ="107">So what have we learnt so far?</sent>
+				<sent id ="108">We have learnt that matter can exist in three different physical states - solid, liquid and gaseous.</sent>
+				<sent id ="109">The same type of matter can exist in all three of these states.</sent>
+				<sent id ="110">Now you can obviously give many examples of solid, liquid and gaseous substances.</sent>
+				<sent id ="111">We know that matter can exist in three states - solid, liquid and gaseous.</sent>
+				<sent id ="112">Now, let us think about these three states of matter a bit more deeply.</sent>
+				<sent id ="113">Do solid objects remain solid at all times at different temperatures?</sent>
+				<sent id ="114">Before trying to find the answer to this question, let us think of a cube of ice.</sent>
+				<sent id ="115">In our country, ice can be made in factories or in refrigerators.</sent>
+				<sent id ="116">down water to extremely low temperatures.</sent>
+				<sent id ="117">Ice is the solid state of water.</sent>
+				<sent id ="118">In our country, if ice is kept outside, it slowly melts and turns into water.</sent>
+				<sent id ="119">It is the liquid state of water.</sent>
+				<sent id ="120">If this liquid water is heated on a stove, it turns into steam.</sent>
+				<sent id ="121">It is the gaseous state of water.</sent>
+				<sent id ="122">What can we deduce from this discussion?</sent>
+				<sent id ="123">The same substances, such as water, can exist in nature in solid, liquid or gaseous forms at different temperatures.</sent>
+				<sent id ="124">Not only ice - if we heat lead, copper or iron, we would observe similar changes.</sent>
+				<sent id ="125">If solid iron is heated, it becomes liquid.</sent>
+				<sent id ="126">If heated further, the liquid iron changes into its gaseous form.</sent>
+				<sent id ="127">For example: naphthalene, camphor, ammonium chloride etc.</sent>
+				<sent id ="128">Take a few cubes of ice in a tumbler.</sent>
+				<sent id ="129">This is the solid state of water.</sent>
+				<sent id ="130">If left in air, the ice eventually melts completely and turns into water.</sent>
+				<sent id ="131">This is the liquid state of water.</sent>
+				<sent id ="132">Now, if more heat is applied, the water is turned into steam.</sent>
+				<sent id ="133">This is the gaseous state of water.</sent>
+				<sent id ="134">Now, instead of applying heat to it, we cool it down.</sent>
+				<sent id ="135">Eventually, the steam would cool down and condense, turning into water.</sent>
+				<sent id ="136">If this water is further cooled, it will eventually freeze and turn into ice.</sent>
+				<sent id ="137">They also can be solidified upon further cooling.</sent>
+				<sent id ="138">Thus, we can say that the state of matter changes depending on changes in temperature.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

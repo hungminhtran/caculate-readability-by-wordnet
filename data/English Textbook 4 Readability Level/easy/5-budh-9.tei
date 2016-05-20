@@ -1,0 +1,192 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-budh-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.041</idno>
+				<idno type="Number of sentences">164</idno>
+				<idno type="Number of tokens">1782</idno>
+				<idno type="Number of token types">671</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t12">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">You have already learnt about holy places.</sent>
+				<sent id ="2">In this Chapter you will learn about historical places.</sent>
+				<sent id ="3">Lumbini, Buddhagaya, Sarnath and Kushinagar are associated with the sacred life of the Buddha.</sent>
+				<sent id ="4">The Buddhist kings, emperors built may Vihars, Stups, Cheityas, and Pillars.</sent>
+				<sent id ="5">Many reminiscences of Lord Buddha are associated with these places.</sent>
+				<sent id ="6">These places are well known as the holy places of the Buddhists.</sent>
+				<sent id ="7">The Bhikkhusangha of the Buddha propagated the message of the Buddha in the towns and localities.</sent>
+				<sent id ="8">Emperor Ashok and Kanishka propagated Buddhism in India and outside India.</sent>
+				<sent id ="9">The austerity of Buddha and his propagation of doctnines created a great civilization in this country.</sent>
+				<sent id ="10">Many things became extinct over the period of history.</sent>
+				<sent id ="11">Ruins of old buildings and objects related to Buddhism have been discovered due to present excavations.</sent>
+				<sent id ="12">These ruins truly explain the facts of history.</sent>
+				<sent id ="13">These are famous places relating to Buddhist history and civilization.</sent>
+				<sent id ="14">The historical places are Taxila, Rajgriha, Baishali, Srabashti, Nalanda, Ajanta etc.</sent>
+				<sent id ="15">There are also famous historical places in Bangladesh.</sent>
+				<sent id ="16">These are Paharpur, Moinamoti and Mahasthangar.</sent>
+				<sent id ="17">Besides, Chakrasala, Moinamati etc are also.</sent>
+				<sent id ="18">The vision of mind is widened by visiting these historical places.</sent>
+				<sent id ="19">The knowledge about history is also enriched.</sent>
+				<sent id ="20">The importance of the excavated places is very much important.</sent>
+				<sent id ="21">Much information about Buddhist history and civilizations have been proved wrong by the discovery of new objects, documents and information.</sent>
+				<sent id ="22">These historical places are the reminiscent of our glorious past.</sent>
+				<sent id ="23">Baishali is situated in the Muzzaffarpur district in Bihar.</sent>
+				<sent id ="24">At present Baishali is known as Besan.</sent>
+				<sent id ="25">Baishali was the capital of Lichhavid Gano Rajya (Republic).</sent>
+				<sent id ="26">Baishali was a rich city in those days.</sent>
+				<sent id ="27">The city bears many memories of Lord Buddha.</sent>
+				<sent id ="28">There were many palaces, gardens and ponds in this city.</sent>
+				<sent id ="29">Lord Buddha visited this place several times.</sent>
+				<sent id ="30">He spent his last Barshabas in Baishali.</sent>
+				<sent id ="31">Lord Buddha and his disciples accepted the invitation of famous dancer Amrapali.</sent>
+				<sent id ="32">Later Buddha got her initiated in Trisarana.</sent>
+				<sent id ="33">Amrapali achieved her Arahanthood by dint of religious austerity.</sent>
+				<sent id ="34">Lord Buddha declared His day of Mahaparinirban while staying at Chapal Chetiya in Baishali.</sent>
+				<sent id ="35">After the great passing away of the Buddha the Lichchavis preserved the relics in a Stup.</sent>
+				<sent id ="36">The original Mahaparinirban stup has been discovered later on due to excavations.</sent>
+				<sent id ="37">According to the archaeologists the place known as Rajavishalaka Gar is the area of old ruins.</sent>
+				<sent id ="38">Many ruins have been discovered here due to excavations.</sent>
+				<sent id ="39">The great traveller Hiuen-tsang and Fa-hien visited this city.</sent>
+				<sent id ="40">They saw here many old remains or specimens of arts and crafts.</sent>
+				<sent id ="41">It is known from their description that Baishali was a popular city.</sent>
+				<sent id ="42">There is a huge pillar of the statue of lion on the north of Rajavishalaka Gar.</sent>
+				<sent id ="43">On the pillar there is the inscription of the Emperor Ashok.</sent>
+				<sent id ="44">This memorable place is a holy place of the Buddhists.</sent>
+				<sent id ="45">Nalanda is situated in Patna, the capital of Bihar.</sent>
+				<sent id ="46">Its earlier name was Baragaon.</sent>
+				<sent id ="47">It is 10 kilometers away from Rajagriha.</sent>
+				<sent id ="48">Nalanda is situated 90 kilometers to the south from Patna.</sent>
+				<sent id ="49">Nalanda was a developed village in the vicinity of Rajagriha city.</sent>
+				<sent id ="50">Many rich people lived here.</sent>
+				<sent id ="51">Lord Buddha gave sermons to his disciples in the Pabarik mangogrove.</sent>
+				<sent id ="52">Some pious and rich men purchased the land and offered it to the Buddha.</sent>
+				<sent id ="53">According to the opinion of the Tibetan historian Taranath Emperor Ashok set up the Nalanda Mahavihar.</sent>
+				<sent id ="54">The Nalanda University has been built up centering this Vihar.</sent>
+				<sent id ="55">The fame and reputation of this University spread worldwide during the time of king Dharmapal.</sent>
+				<sent id ="56">Many kings, emperors and rich people donated land and money for the development of this Vihar and Education Centre.</sent>
+				<sent id ="57">The kings of Gupta dynasty and king Harshabhardhan were the patronizers of this.</sent>
+				<sent id ="58">According to the description of Tibetan travellers the University had eight auditoriums and 300 rooms.</sent>
+				<sent id ="59">It was a pride to become the student of Nalanda Unliversity.</sent>
+				<sent id ="60">No tuition fee was collected from the students.</sent>
+				<sent id ="61">Food, clothes etc. were given free of cost.</sent>
+				<sent id ="62">Many renowned scholars were the students of this University.</sent>
+				<sent id ="63">Students from home and abroad used to come to this University for study.</sent>
+				<sent id ="64">The Chinese traveller Hiuen-tsang visited Nalanda during 6th century A.D.</sent>
+				<sent id ="65">He was a resident student of this University for five years.</sent>
+				<sent id ="66">There were fifteen hundred teachers and ten thousand students.</sent>
+				<sent id ="67">The illustrious son of Bangladesh and great scholar Shilabhadra was the principal of Nalanda at one time.</sent>
+				<sent id ="68">Shilarati and Atish Dipankar were also the principals of this University.</sent>
+				<sent id ="69">The Chinese traveller Hiuen Tsang stayed in the Nalanda University for about ten years.</sent>
+				<sent id ="70">Buddhism was propagated to different places of the world from this University.</sent>
+				<sent id ="71">The fame of Nalanda University was spread during the rule of Pal kings of Bengal.</sent>
+				<sent id ="72">They donated land for carrying out the expenses of the Vihar.</sent>
+				<sent id ="73">They also built big Vihars and libraries.</sent>
+				<sent id ="74">Now the fame of Nalanda University is gone.</sent>
+				<sent id ="75">The University is now a ruin of the past.</sent>
+				<sent id ="76">The ruins have been preserved.</sent>
+				<sent id ="77">The Government of Bihar has established a new Nalanda college for the study and research of Buddhism.</sent>
+				<sent id ="78">It has been built in imitation of the original university.</sent>
+				<sent id ="79">Sanchi is situated 32 kilometers away from Bhupal, the capital of Madhya Pradesh.</sent>
+				<sent id ="80">Villsa is the nearest railway station of Sanchi.</sent>
+				<sent id ="81">Prince Ashok was the ruler of this area during the reign of Emperor Bindusar.</sent>
+				<sent id ="82">He married the daughter of a rich Sreshthi (Rich merchant) of this area.</sent>
+				<sent id ="83">His son Mahendra and daughter Sanghamitra were born in the womb of daughter of the Sreshthi.</sent>
+				<sent id ="84">Ashok had a particular attraction to this place.</sent>
+				<sent id ="85">So this place became one of the centers of Buddhism.</sent>
+				<sent id ="86">Emperor Ashok built the main stup over the relics of Lord Buddha.</sent>
+				<sent id ="87">This is known as Sanchi Stup.</sent>
+				<sent id ="88">There is also a small stup on the side of the main stup.</sent>
+				<sent id ="89">This Sanchi Stup is an excellent specimen of Buddhist architecture.</sent>
+				<sent id ="90">The height of this stup is 13 meter having a diameter of 40 meters.</sent>
+				<sent id ="91">There is a two meters wide moving way above the land.</sent>
+				<sent id ="92">The relics of Lord Buddha are preserved in a four cornered box kept on the top of the Stup.</sent>
+				<sent id ="93">There is a reling of iron round the Stup.</sent>
+				<sent id ="94">There are four beautiful gates around the Stup.</sent>
+				<sent id ="95">Besides, there are also the pictures of the Jatak.</sent>
+				<sent id ="96">There is a pillar of Ashok near the stup.</sent>
+				<sent id ="97">The relics of Sariputra and Moggallayana have been discovered from the nearby Stup.</sent>
+				<sent id ="98">There are many ruins of Sangharams.</sent>
+				<sent id ="99">Sanchi is famous for various historical events.</sent>
+				<sent id ="100">Purushpur is situated in the North West Frontier province of Pakistan.</sent>
+				<sent id ="101">Purushpur was the capital of Gandhar kingdom during ancient time.</sent>
+				<sent id ="102">The Buddhist Emperor Kanishka ruled here.</sent>
+				<sent id ="103">He built a huge Vihar and Chaitya in Purushpur.</sent>
+				<sent id ="104">The Bihar and Chaitya are known respectively as Kanishka Vihar and Kanishka Chaitya.The Buddhist monks studied in Kanishka Vihar.</sent>
+				<sent id ="105">Kanishka built a Stupa here.</sent>
+				<sent id ="106">The Chinese traveller Fa-hien and Hiuen-tsang visited this stup.</sent>
+				<sent id ="107">They were impressed to see the five storied stup.</sent>
+				<sent id ="108">Hiuen-tsang saw the ruins of the Vihar.</sent>
+				<sent id ="109">Still he could go to one top from another top of the Vihar by using stairs.</sent>
+				<sent id ="110">A grand Mahasangiti was organised here under the patronage of Emperor Kanishka.</sent>
+				<sent id ="111">This was known as Kanishka Sangiti.</sent>
+				<sent id ="112">According to the scholars this was the fourth Sangiti.</sent>
+				<sent id ="113">About five hundred monk- scholars including Basumitra, Ashwaghosh participated in this august conference.</sent>
+				<sent id ="114">Tripitak was written in Sanskrit language.</sent>
+				<sent id ="115">This time Emperor Kanishka got the whole Tripitak engraved in Copper plates.</sent>
+				<sent id ="116">Purushpur was once the nerve centre of education in central Asia.</sent>
+				<sent id ="117">The ruins of one thousand Sangharams have been discovered here.</sent>
+				<sent id ="118">Mahastangar is situated on the Karotoa river twelve kilometers to the north of Bogra city.</sent>
+				<sent id ="119">Its ancient name was Pundrabardhan.</sent>
+				<sent id ="120">The place is full of natural beauty.</sent>
+				<sent id ="121">Pundrabardhan was once the centre of administration of North Bengal.</sent>
+				<sent id ="122">Mahastangar was the religious centre of the Buddhists during the rule of the Mouryas, the Guptas and the Pals.</sent>
+				<sent id ="123">Many Vihars, Chaityas and Buddhist educational institutions were built here.</sent>
+				<sent id ="124">Many ruins of various ages have been discovered here due to excavations.</sent>
+				<sent id ="125">Specimens of the Buddhist times are still found here.</sent>
+				<sent id ="126">The famous traveller Hiuen-tsang visited this place.</sent>
+				<sent id ="127">He saw many Buddhist institutions.</sent>
+				<sent id ="128">He also saw a stup on the outskirt of the city where the relics of Lord Buddha were preserved.</sent>
+				<sent id ="129">Emperor Ashok built this stup.</sent>
+				<sent id ="130">We get correct informations about Pundrabardhan from the inscriptions discovered.</sent>
+				<sent id ="131">The department of archaeology has discovered the Vasuvihar in 1973-74.</sent>
+				<sent id ="132">According to the description of Hiuen-tsang more than seven hundred monks lived here.</sent>
+				<sent id ="133">The great scholars from the East used to come here for study.</sent>
+				<sent id ="134">Forty Buddhist statues made of bronze have been discovered from the ruins of the Vihar.</sent>
+				<sent id ="135">Among them the statue of Lord Buddha in meditation, Bodhisatta Abolokiteshwar etc. are important.</sent>
+				<sent id ="136">The sketches of women devotees are found round the Dharmachkra.</sent>
+				<sent id ="137">Besides ancient coins have also been discovered.</sent>
+				<sent id ="138">The excavation work of Mahastangar began many years ago.</sent>
+				<sent id ="139">It is not yet completed.</sent>
+				<sent id ="140">The remains of old buildings and objects are still buried under the ground.</sent>
+				<sent id ="141">Paharpur is situated about four kilometers away from Jamalganj railway station of Naogaon district.</sent>
+				<sent id ="142">The kings of Pal dynasty ruled Bengal from 9th century A.D. to 12th century AD.</sent>
+				<sent id ="143">The kings of Pal dynasty were Buddhists.</sent>
+				<sent id ="144">King Dharmapal built a huge Vihar here.</sent>
+				<sent id ="145">This Vihar is the historically famous Sompur Vihar.</sent>
+				<sent id ="146">The Vihar was built on 27 acres of land.</sent>
+				<sent id ="147">There was not such a big Vihar in the Southern Himalayan areas.</sent>
+				<sent id ="148">King Dharmapal also built another 50 Buddhist educational institutions centering this Vihar.</sent>
+				<sent id ="149">The ruins of Paharpur have been identified due to archaeological excavations.</sent>
+				<sent id ="150">This institution was surrounded by high and heavy walls made of bricks.</sent>
+				<sent id ="151">Inside there was a huge Vihar having 177 rooms and a big temple.</sent>
+				<sent id ="152">Thre was the water reservoir adjacent to the Vihar.</sent>
+				<sent id ="153">There was good arrangement for draining water through 22 drains.</sent>
+				<sent id ="154">These facilities were provided to the Buddhist monks and students.</sent>
+				<sent id ="155">The archaeological designs of the foundation of Sompur temple were superb and excellent.</sent>
+				<sent id ="156">The paintings in terracotta plaques are attractive.</sent>
+				<sent id ="157">Inscriptions and stone statues of the time of king Mahendrapal have been discovered on excavations.</sent>
+				<sent id ="158">The coins of the time of Caliph Harun-ur-Rashid have also been discovered.</sent>
+				<sent id ="159">It seems that there was commercial and trade relationship between the kings of Pal dynasty and Arabs.</sent>
+				<sent id ="160">The great scholar Bodhibhadra and Atish Dipankar stayed in the Vihar.</sent>
+				<sent id ="161">Later Atish Dipankar went to Tibet and translated many books in Tibetan language.</sent>
+				<sent id ="162">The importance and grandeur of the Vihar began to diminish after the fall of the Pal dynasty.</sent>
+				<sent id ="163">With the passage of time the Vihar was buried under the ground due to natural causes.</sent>
+				<sent id ="164">At present the Government of Bangladesh has taken necessary steps to recover and preserve the past glory of the monastery.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,162 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.28</idno>
+				<idno type="Number of sentences">134</idno>
+				<idno type="Number of tokens">1563</idno>
+				<idno type="Number of token types">577</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t24">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">All of us want to be happy.</sent>
+				<sent id ="2">We want happiness not only in this world but also beyond this life.</sent>
+				<sent id ="3">We believe that happiness in the life after death is real happiness because it is eternal.</sent>
+				<sent id ="4">We observe religious practices in order to attain eternal happiness.</sent>
+				<sent id ="5">If we want perfect happiness we have to know the will of God.</sent>
+				<sent id ="6">We have to fulfill our duties according to the will of God.</sent>
+				<sent id ="7">If we disobey God even when we know His will, then it is a sin.</sent>
+				<sent id ="8">In this way suffering and pain befall upon us.</sent>
+				<sent id ="9">Jesus is our great teacher.</sent>
+				<sent id ="10">We learn from him.</sent>
+				<sent id ="11">He obeyed and fulfilled the will of God.</sent>
+				<sent id ="12">Following his ideal, we will also be able to fulfill the will of God.</sent>
+				<sent id ="13">In this chapter we will come to know how Jesus fulfilled the will of God.</sent>
+				<sent id ="14">He had to endure pain and suffering in fulfilling the will of God.</sent>
+				<sent id ="15">Nevertheless, we know that after enduring suffering Jesus attained real happiness.</sent>
+				<sent id ="16">In this chapter we will also learn how we will be able to obey the will of God.</sent>
+				<sent id ="17">From his prayer to God we can understand Jesus intention of following the will of the Father.</sent>
+				<sent id ="18">He prayed that prayer in the night before his death.</sent>
+				<sent id ="19">With his disciples he went to the Garden of Gethsemane.</sent>
+				<sent id ="20">Once there, he said to his disciples: Pray that you will not fall into temptation.</sent>
+				<sent id ="21">Then he went off from them a little distance and knelt down and prayed:</sent>
+				<sent id ="22">Father, if you will, take this cup of suffering away from me.</sent>
+				<sent id ="23">Not my will, however, but your will be done.</sent>
+				<sent id ="24">Then an angel from heaven appeared to him and strengthened him.</sent>
+				<sent id ="25">In great anguish he prayed even more fervently; his sweat was like drops of blood falling to the ground.</sent>
+				<sent id ="26">Rising from his prayer, he went back to the disciples and found them asleep, worn out by their grief.</sent>
+				<sent id ="27">He said to them, Why are you sleeping?</sent>
+				<sent id ="28">Get up and pray that you will not fall into temptation.</sent>
+				<sent id ="29">The Father willed that the whole of mankind would be saved.</sent>
+				<sent id ="30">For this the Father sent his Son, Jesus.</sent>
+				<sent id ="31">So Jesus always remembered that his main task was to carry out the will of his Father.</sent>
+				<sent id ="32">He said that to his disciples many times.</sent>
+				<sent id ="33">He told them that mission was to carry out the will of the Father.</sent>
+				<sent id ="34">For example, once His disciples bought some food from a market for lunch and gave it Jesus.</sent>
+				<sent id ="35">Jesus said, My food is to obey the will of the one who sent me.</sent>
+				<sent id ="36">Jesus wants us to fulfill the Father's will just as He did.</sent>
+				<sent id ="37">Those who faithfully do the will of the heavenly Father are truly happy.</sent>
+				<sent id ="38">Therefore, in the Lord's Prayer, Jesus taught us to obey the will of the Father.</sent>
+				<sent id ="39">In the Lord's Prayer we say: Let your will be done on earth as it is in heaven.</sent>
+				<sent id ="40">It means that if we do the Father's will, then when we die He will let us enter heaven.</sent>
+				<sent id ="41">There we will be united with the Father and we will be happy.</sent>
+				<sent id ="42">Those who are meek, holy and innocent, they follow Jesus.</sent>
+				<sent id ="43">They obey the will of the Father.</sent>
+				<sent id ="44">The heavenly Father does not allow them go astray.</sent>
+				<sent id ="45">Jesus said: Your Father in heaven does not want any of these little ones to be lost.</sent>
+				<sent id ="46">Throughout his life Jesus tried to obey the will of his Father.</sent>
+				<sent id ="47">What was the will of the heavenly Father for Jesus?</sent>
+				<sent id ="48">The Father wanted that Jesus would be the Savior of the whole of mankind.</sent>
+				<sent id ="49">That is why the Father sent him to this world.</sent>
+				<sent id ="50">On the eve of his death Jesus realized that his hour of death had come very near.</sent>
+				<sent id ="51">He was to die in order to obey the will of the Father.</sent>
+				<sent id ="52">He must not be afraid of death.</sent>
+				<sent id ="53">He should not run away like Jonah.</sent>
+				<sent id ="54">So single-mindedly he prayed to his Father.</sent>
+				<sent id ="55">He said, Father, if You will, take this cup of suffering away from me.</sent>
+				<sent id ="56">Not my will, however, but your will be done.</sent>
+				<sent id ="57">The cup of suffering means the pain and suffering and death on the cross.</sent>
+				<sent id ="58">The Father told Jesus, You must drink this cup of suffering.</sent>
+				<sent id ="59">That is, he must go through this suffering and pain till the end of his life.</sent>
+				<sent id ="60">So Jesus endured all the disgrace and pain inflicted by his enemies without any complaints.</sent>
+				<sent id ="61">The soldiers spat on him and slapped him on his face.</sent>
+				<sent id ="62">They placed a heavy Cross on his shoulder but he did not protest.</sent>
+				<sent id ="63">This proved that he was an obedient Son of his Father.</sent>
+				<sent id ="64">What reward did Jesus get by obeying the will of his Father?</sent>
+				<sent id ="65">The Father raised him back to life.</sent>
+				<sent id ="66">Upon entering heaven Jesus received the honor of sitting at the right hand of his Father.</sent>
+				<sent id ="67">He has been given all the powers of heaven and earth.</sent>
+				<sent id ="68">It is Jesus who will come on the last day of final judgment to judge the world.</sent>
+				<sent id ="69">Our parents, teachers and other guardians want us to be happy.</sent>
+				<sent id ="70">They know well what can bring us well-being and what can cause us harm.</sent>
+				<sent id ="71">Sometimes they tell us to do something.</sent>
+				<sent id ="72">If we follow their advice, normally we benefit.</sent>
+				<sent id ="73">That is to say, it brings us well-being.</sent>
+				<sent id ="74">Throughout our life we will enjoy God's blessings if we follow His divine will.</sent>
+				<sent id ="75">Our well-being lies in obeying His will.</sent>
+				<sent id ="76">How can we know the will of God?</sent>
+				<sent id ="77">The ways to know the will of God in the Bible: We have to read the holy Bible everyday.</sent>
+				<sent id ="78">Then we have to remain silent for sometime.</sent>
+				<sent id ="79">We have to listen attentively to the inspiration that comes from the message of the holy Bible.</sent>
+				<sent id ="80">In this way, in the light of the Word we gain insight into God's will.</sent>
+				<sent id ="81">The ways to know the will of God through the advices of parents, teachers and other guardians:</sent>
+				<sent id ="82">We should remember that whatever they say is for our well-being.</sent>
+				<sent id ="83">Therefore, we should always be obedient to them.</sent>
+				<sent id ="84">The ways to know the will of God through special events: Our life is full of events.</sent>
+				<sent id ="85">In school I may find one of my friends came to school without taking any food.</sent>
+				<sent id ="86">I have my snacks with me.</sent>
+				<sent id ="87">I may share it with him.</sent>
+				<sent id ="88">It is small thing.</sent>
+				<sent id ="89">But if we reflect later on, we may realize that it was Jesus with whom you shared your snacks.</sent>
+				<sent id ="90">It was Jesus who spoke to you today through that friend.</sent>
+				<sent id ="91">Now consider another situation: Shuva is a student of class nine.</sent>
+				<sent id ="92">His father promised to buy him a bicycle.</sent>
+				<sent id ="93">It would be a matter of much delight to him to go to school riding on a bicycle.</sent>
+				<sent id ="94">When they were ready to buy a bicycle, there were heavy rains and storm.</sent>
+				<sent id ="95">The water level began to rise very quickly.</sent>
+				<sent id ="96">Within two weeks almost the whole of the country got flooded.</sent>
+				<sent id ="97">Thousands of people became homeless.</sent>
+				<sent id ="98">The helpless people took shelter in different schools and on the high lands.</sent>
+				<sent id ="99">Many people took shelter in Shuva's school.</sent>
+				<sent id ="100">What a distressing situation it was for all!</sent>
+				<sent id ="101">There was no food, no drinking water and no medicine.</sent>
+				<sent id ="102">Shuva's father was upset to see all that.</sent>
+				<sent id ="103">He talked to Shuva about the sufferings of the people.</sent>
+				<sent id ="104">He suggested that Shuva should not to buy the bicycle.</sent>
+				<sent id ="105">He then advised him to contribute that sum of money to help the flood affected people.</sent>
+				<sent id ="106">Shuva immediately agreed with his father.</sent>
+				<sent id ="107">The next day Shuva, along with his father, went to the headmaster and handed the money to him.</sent>
+				<sent id ="108">The headmaster pat on Shuva's back and told him: I bless you, Shuva.</sent>
+				<sent id ="109">I wish you every success in life.</sent>
+				<sent id ="110">It was really a great sacrifice for Shuva.</sent>
+				<sent id ="111">Sometimes we cannot hold our attention during our prayer.</sent>
+				<sent id ="112">The mind tends to wander hither and thither.</sent>
+				<sent id ="113">So when we sit down to pray we should remember that God is always with us.</sent>
+				<sent id ="114">It may happen that suddenly He will arouse a feeling in our heart.</sent>
+				<sent id ="115">He speaks through our heart.</sent>
+				<sent id ="116">We have to listen to that.</sent>
+				<sent id ="117">But if we fail to be attentive at the time of prayer, we will miss hearing the voice of God.</sent>
+				<sent id ="118">One of the hills of Bandarban is Joitun Hill.</sent>
+				<sent id ="119">One of the girls in that hill village was Angelina Tripura.</sent>
+				<sent id ="120">She was a student of class five.</sent>
+				<sent id ="121">The economic condition of her family was not good.</sent>
+				<sent id ="122">Her parents were involved in Jhum cultivation and their harvest was very little.</sent>
+				<sent id ="123">One day her father had an attack of deadly malaria.</sent>
+				<sent id ="124">The catechist of the village came and told Angelina: Go to the market now.</sent>
+				<sent id ="125">Show this letter to the doctor and he will give you some medicine.</sent>
+				<sent id ="126">Come back quickly with the medicine.</sent>
+				<sent id ="127">The market was 3 miles away on a hill track.</sent>
+				<sent id ="128">So, with the letter of the catechist she went running to the market.</sent>
+				<sent id ="129">She got back with the medicine and the catechist started giving it to her father.</sent>
+				<sent id ="130">Within five days her father got cured.</sent>
+				<sent id ="131">If Angelina had not taken the trouble that day, her father would not be alive today.</sent>
+				<sent id ="132">Later on she realized that all those troubles were the will of God for her.</sent>
+				<sent id ="133">Help me to know and obey your will.</sent>
+				<sent id ="134">Let me never forget that only by obeying your will I may find true fulfillment.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

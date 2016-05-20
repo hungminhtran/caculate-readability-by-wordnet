@@ -1,0 +1,103 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.344</idno>
+				<idno type="Number of sentences">75</idno>
+				<idno type="Number of tokens">737</idno>
+				<idno type="Number of token types">382</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t80">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Don't you feel very comfortable when a cool breeze blows on an extremely hot day?</sent>
+				<sent id ="2">The wind cannot be touched or seen, but only its touch can be felt.</sent>
+				<sent id ="3">There is air all around us.</sent>
+				<sent id ="4">A layer of air surrounds our planet as well.</sent>
+				<sent id ="5">This layer of air is called the atmosphere.</sent>
+				<sent id ="6">The higher we go above the surface of the earth, the thinner the atmosphere becomes.</sent>
+				<sent id ="7">There is no air in outer space.</sent>
+				<sent id ="8">Observe the picture below.</sent>
+				<sent id ="9">Have you ever seen a northwester?</sent>
+				<sent id ="10">Wind flows very fast during such storms.</sent>
+				<sent id ="11">In extreme cases houses may collapse, tin roofs are blown away and plants are uprooted.</sent>
+				<sent id ="12">We cannot survive without air for a single moment.</sent>
+				<sent id ="13">Actually, no organism can live without air.</sent>
+				<sent id ="14">Organisms acquire oxygen from the air through the process of respiration.</sent>
+				<sent id ="15">Aquatic plants and animals also get their necessary oxygen from water for respiration.</sent>
+				<sent id ="16">Energy is generated in the bodies of all organisms through respiration.</sent>
+				<sent id ="17">Plants use air not only for respiration, but also to make food in their bodies.</sent>
+				<sent id ="18">Nitrogen in the air is a highly essential substance for plants.</sent>
+				<sent id ="19">Some plants absorb nitrogen directly from the air.</sent>
+				<sent id ="20">You have learnt in Class III that air helps fire to burn.</sent>
+				<sent id ="21">The element of air which allows fire to burn is called oxygen.</sent>
+				<sent id ="22">Here is an experiment which demonstrates that oxygen helps fire to burn.</sent>
+				<sent id ="23">Place a candle in a bowl as shown in the picture.</sent>
+				<sent id ="24">Pour some water into the bowl, and light the candle.</sent>
+				<sent id ="25">Now cover the candle with a glass as shown in the picture.</sent>
+				<sent id ="26">What do you see?</sent>
+				<sent id ="27">The candle goes out and the water level inside the glass rises.</sent>
+				<sent id ="28">Why did the water rise?</sent>
+				<sent id ="29">Because the air inside the glass contained oxygen.</sent>
+				<sent id ="30">Air is a compound substance.</sent>
+				<sent id ="31">These elements of air can be separated and used for various purposes.</sent>
+				<sent id ="32">Asthma patients often use oxygen cylinders for breathing.</sent>
+				<sent id ="33">Oxygen is stored in the cylinders in liquid state.</sent>
+				<sent id ="34">We cannot breathe under water.</sent>
+				<sent id ="35">Mountaineers climbing high mountains also need oxygen cylinders.</sent>
+				<sent id ="36">For this reason, mountaineers, pilots and high-altitude travellers often require extra oxygen.</sent>
+				<sent id ="37">Chemical fertilizers, such as urea, are sometimes used to increase the fertility of soil.</sent>
+				<sent id ="38">Urea is also called nitrogen fertilizer.</sent>
+				<sent id ="39">This type of fertilizer is essential for proper growth of plants.</sent>
+				<sent id ="40">Nitrogen from the air is used in the manufacture of urea.</sent>
+				<sent id ="41">Nitrogen is used to prevent these food items from decaying.</sent>
+				<sent id ="42">This apparatus is called a fire extinguisher.</sent>
+				<sent id ="43">It contains some chemical substances.</sent>
+				<sent id ="44">Carbon dioxide helps to extinguish flames.</sent>
+				<sent id ="45">This gas is heavier than air.</sent>
+				<sent id ="46">You sometimes drink soft drinks such as Fanta, Pepsi, 7-Up or RC Cola.</sent>
+				<sent id ="47">These are bubbles of carbon dioxide gas.</sent>
+				<sent id ="48">You have learnt that air contains different gases at certain proportions.</sent>
+				<sent id ="49">Also, smoke from industries and black smoke from vehicles pollute the air.</sent>
+				<sent id ="50">Even tobacco smoke from cigarettes and bidis pollute air.</sent>
+				<sent id ="51">Air containing polluted gases, disease-bearing microbes and dust particles is called polluted air.</sent>
+				<sent id ="52">Fresh air contains proper amounts of oxygen, nitrogen, carbon dioxide, argon, helium and water vapour.</sent>
+				<sent id ="53">Brick fields, leather factories etc. generate smoke which pollutes air.</sent>
+				<sent id ="54">Smoke from kitchens and burning of tyres of motor vehicles also pollute the air.</sent>
+				<sent id ="55">Smoke emitted from factories and vehicles contain carbon dioxide, sulphur dioxide, oxides of nitrogen etc.</sent>
+				<sent id ="56">These acids come down to the surface of the earth with rain.</sent>
+				<sent id ="57">Some fuels used by vehicles contain lead.</sent>
+				<sent id ="58">Mixed with black smoke, lead particles go up in the air and pollute it.</sent>
+				<sent id ="59">Volcanic eruptions, dust etc. also pollute the air.</sent>
+				<sent id ="60">Gases present in the fumes emitted by factories and vehicles cause acid rain.</sent>
+				<sent id ="61">Acid rain damages buildings.</sent>
+				<sent id ="62">It erodes marble.</sent>
+				<sent id ="63">It also causes severe harm to plants and animals.</sent>
+				<sent id ="64">Smoke which contains lead is very harmful to children and pregnant women.</sent>
+				<sent id ="65">It also injures the neural system and the kidneys.</sent>
+				<sent id ="66">It causes blood pressure to rise and impedes intellectual development of children.</sent>
+				<sent id ="67">We cannot live without air.</sent>
+				<sent id ="68">To live we need food, and to live a healthy life we need pure air.</sent>
+				<sent id ="69">So we should try to keep the air fresh and free from pollution.</sent>
+				<sent id ="70">We must not spit or excrete here and there.</sent>
+				<sent id ="71">Garbage and bodies of dead animals must be buried in the ground.</sent>
+				<sent id ="72">We need to start using Compressed Natural Gas instead of petrol.</sent>
+				<sent id ="73">We must not use defective vehicles.</sent>
+				<sent id ="74">We must not create smoke by burning things unnecessarily.</sent>
+				<sent id ="75">We must not use excessive amounts of chemical fertilizers and pesticides.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

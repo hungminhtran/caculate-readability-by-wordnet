@@ -1,0 +1,156 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.908</idno>
+				<idno type="Number of sentences">128</idno>
+				<idno type="Number of tokens">1084</idno>
+				<idno type="Number of token types">382</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t61">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The Ten Commandments of God Our parents love us very much.</sent>
+				<sent id ="2">They take care of us.</sent>
+				<sent id ="3">As they love us they try to give us whatever we need.</sent>
+				<sent id ="4">We also love our parents.</sent>
+				<sent id ="5">With much affection we call them Mom and Dad.</sent>
+				<sent id ="6">We obey them and help them in their work.</sent>
+				<sent id ="7">We enjoy things with them.</sent>
+				<sent id ="8">Thus we maintain good relation with our parents.</sent>
+				<sent id ="9">But this alone does not make a happy family.</sent>
+				<sent id ="10">Love, peace and happiness are essential for a family.</sent>
+				<sent id ="11">But this is possible only when there is discipline in a family.</sent>
+				<sent id ="12">Our parents feel happy if we obey their orders.</sent>
+				<sent id ="13">On the other hand, we too feel happy by obeying them.</sent>
+				<sent id ="14">God is also our Father.</sent>
+				<sent id ="15">We all human beings are His children.</sent>
+				<sent id ="16">All the human beings of the world are the members of a family.</sent>
+				<sent id ="17">God loves us like our parents.</sent>
+				<sent id ="18">So He gives us whatever we need.</sent>
+				<sent id ="19">God wants that we should love Him.</sent>
+				<sent id ="20">By loving God we can maintain good relation with Him.</sent>
+				<sent id ="21">But that is not enough.</sent>
+				<sent id ="22">We must maintain good relation with all other human beings.</sent>
+				<sent id ="23">That is why God gave us the Ten Commandments.</sent>
+				<sent id ="24">These were the words of God.</sent>
+				<sent id ="25">Do not use God's name for evil purposes.</sent>
+				<sent id ="26">None but your Lord is your God.</sent>
+				<sent id ="27">Do not worship an idol.</sent>
+				<sent id ="28">The Catholic Church Other Churches Christian Religious Studies34 laws given by God.</sent>
+				<sent id ="29">But the Ten Commandments are the best of all His commandments.</sent>
+				<sent id ="30">He wrote these in His own hands and gave us through Moses.</sent>
+				<sent id ="31">That is why these commandments are very important.</sent>
+				<sent id ="32">Twice the Bible refers the ten commandments of God.</sent>
+				<sent id ="33">The Summary of the Ten Commandments of God Observe the Sabbath and keep it holy.</sent>
+				<sent id ="34">Respect your father and your mother.</sent>
+				<sent id ="35">Do not commit murder.</sent>
+				<sent id ="36">Do not commit adultery.</sent>
+				<sent id ="37">Do not steal.</sent>
+				<sent id ="38">Do not give any false evidence.</sent>
+				<sent id ="39">Do not desire another man's wife.</sent>
+				<sent id ="40">Do not desire things of others.</sent>
+				<sent id ="41">Do not use your God's name for evil purposes.</sent>
+				<sent id ="42">Observe the Sabbath and keep it holy.</sent>
+				<sent id ="43">Respect your father and your mother.</sent>
+				<sent id ="44">Do not commit murder.</sent>
+				<sent id ="45">Do not commit adultery.</sent>
+				<sent id ="46">Do not steal.</sent>
+				<sent id ="47">Do not give any false evidence against your neighbour.</sent>
+				<sent id ="48">Do not desire things of your neighbours.</sent>
+				<sent id ="49">As God loves us, so He wants us to love Him.</sent>
+				<sent id ="50">Thus the Ten Commandments can be divided into two main parts.</sent>
+				<sent id ="51">Worship no god but the Lord God.</sent>
+				<sent id ="52">Do not use God's name for evil purposes.</sent>
+				<sent id ="53">Observe the Sabbath and keep it holy.</sent>
+				<sent id ="54">None but your Lord is your God.</sent>
+				<sent id ="55">Do not worship an idol.</sent>
+				<sent id ="56">Do not use your GodÊs name for evil purposes.</sent>
+				<sent id ="57">Observe the Sabbath and keep it holy.</sent>
+				<sent id ="58">Here we shall discuss the First Part in detail.</sent>
+				<sent id ="59">We shall discuss the Second Part in the next grade.</sent>
+				<sent id ="60">We have a close relation with our parents.</sent>
+				<sent id ="61">So we cannot leave them.</sent>
+				<sent id ="62">Similarly, we have a close relation with God.</sent>
+				<sent id ="63">So we cannot leave Him and worship any other god.</sent>
+				<sent id ="64">That is why God forbade to worship an idol or any other god.</sent>
+				<sent id ="65">Long ago, the people of Israel did not have any idea of One God.</sent>
+				<sent id ="66">So they worshipped idols.</sent>
+				<sent id ="67">But gradually they came to know the existence of One God.</sent>
+				<sent id ="68">We do not make any idol to worship.</sent>
+				<sent id ="69">We worship no other god but God.</sent>
+				<sent id ="70">But there are some people who attach more importance to earthly things than God.</sent>
+				<sent id ="71">They worship these things but not God.</sent>
+				<sent id ="72">Worship of things like Money, Houses and Cars, Land Property, Clothes etc.</sent>
+				<sent id ="73">There are some people who are greedy for the earthly things.</sent>
+				<sent id ="74">They are interested only in earthly pleasures.</sent>
+				<sent id ="75">They do not think of God.</sent>
+				<sent id ="76">They do not worship God either.</sent>
+				<sent id ="77">They do not go to church.</sent>
+				<sent id ="78">They commit robbery and even kill people for the sake of money.</sent>
+				<sent id ="79">They occupy the land property of others by foul means.</sent>
+				<sent id ="80">To such people wealth is more important than God.</sent>
+				<sent id ="81">There are people who are addicted to various kinds of drugs, alcohol and narcotics.</sent>
+				<sent id ="82">They spend a lot of money on these things.</sent>
+				<sent id ="83">Many young men and women have given up study and become drug-addicts.</sent>
+				<sent id ="84">To such people addiction to drugs is more important than the worship of God.</sent>
+				<sent id ="85">God is Almighty.</sent>
+				<sent id ="86">He is the Creator of everything.</sent>
+				<sent id ="87">He is holy.</sent>
+				<sent id ="88">He is the Infinite.</sent>
+				<sent id ="89">We must utter His name with great devotion.</sent>
+				<sent id ="90">But there are people who utter His name for evil purposes or for nothing.</sent>
+				<sent id ="91">By doing this they belittle God.</sent>
+				<sent id ="92">This is most undesirable.</sent>
+				<sent id ="93">We shall utter God's name with great devotion and respect.</sent>
+				<sent id ="94">We all need rest.</sent>
+				<sent id ="95">By taking rest we take care of ourselves.</sent>
+				<sent id ="96">It means we take care of God's creation.</sent>
+				<sent id ="97">After the day's hard work we take rest.</sent>
+				<sent id ="98">This gives us strength and energy.</sent>
+				<sent id ="99">Thus we prepare ourselves for the next day's work.</sent>
+				<sent id ="100">But resting on Sunday does not mean merely lying idle on bed.</sent>
+				<sent id ="101">Rather it means to spend time talking to God.</sent>
+				<sent id ="102">In other words, Sundays are meant to commune with God in prayer.</sent>
+				<sent id ="103">God Himself worked for six days and took rest on the seventh day.</sent>
+				<sent id ="104">God has created us in His own image.</sent>
+				<sent id ="105">He has created us to care for all His creation.</sent>
+				<sent id ="106">On Sunday we sing songs in praise of our Lord the God.</sent>
+				<sent id ="107">We also think how well we can serve His creation.</sent>
+				<sent id ="108">We also try to know what God wants of us.</sent>
+				<sent id ="109">We have learnt about the Commandments of God.</sent>
+				<sent id ="110">We have also learnt their meanings.</sent>
+				<sent id ="111">Now, if we do not follow them we will commit sins.</sent>
+				<sent id ="112">Because we know it is a sin to disobey the orders of God wilfully.</sent>
+				<sent id ="113">To disobey the Commandments will mean disobeying God.</sent>
+				<sent id ="114">We have to do what our parents want us to do.</sent>
+				<sent id ="115">They become displeased with us.</sent>
+				<sent id ="116">Thus we develop bad relation with our parents.</sent>
+				<sent id ="117">God will then be displeased with us.</sent>
+				<sent id ="118">Thus our relations with God no more remains good.</sent>
+				<sent id ="119">We can show respect to God by obeying His Commandments.</sent>
+				<sent id ="120">Let us pray O Father of Heaven!</sent>
+				<sent id ="121">Give us strength so that we can obey Your Commandments and love You.</sent>
+				<sent id ="122">Guide us to love You by loving all human beings.</sent>
+				<sent id ="123">Learn the Ten Commandments of God by heart.</sent>
+				<sent id ="124">All the human beings of the world the words of God b.</sent>
+				<sent id ="125">We must maintain good relation are the members of a family.</sent>
+				<sent id ="126">The Ten Commandments are in His own hands.</sent>
+				<sent id ="127">God wrote the Commandments there is mention of the Ten Commandments.</sent>
+				<sent id ="128">In two places of the Holy Bible with all other human beings.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

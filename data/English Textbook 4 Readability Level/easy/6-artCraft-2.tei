@@ -1,0 +1,191 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-artCraft-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.132</idno>
+				<idno type="Number of sentences">163</idno>
+				<idno type="Number of tokens">1899</idno>
+				<idno type="Number of token types">734</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t59">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">With what the picture will be painted?</sent>
+				<sent id ="2">With pen-ink, pencil, water colour or with pastel?</sent>
+				<sent id ="3">For this at first the paper should be chosen.</sent>
+				<sent id ="4">The thicker plain paper is better, to draw with a pen and ink.</sent>
+				<sent id ="5">Generally, the thicker rough surfaced paper is used to draw with pencils.</sent>
+				<sent id ="6">Thick and rough paper is needed to paint in both water colours and pastels.</sent>
+				<sent id ="7">There is a special paper for water colours and it is made by hand specially.</sent>
+				<sent id ="8">The artists have been painting in water-colour on the different kinds of hand-made papers for a long time.</sent>
+				<sent id ="9">Now-a-days these kinds of papers are being made by machine, though they are being still called hand-made papers as before.</sent>
+				<sent id ="10">A common paper, named Cartridge paper is found in Bangladesh.</sent>
+				<sent id ="11">It is generally suitable for all mediums, such as pen-ink, water colour, pastel, pencil etc.</sent>
+				<sent id ="12">However, it is better to collect a thicker cartridge paper for paintings.</sent>
+				<sent id ="13">Art-card paper is thick and art paper is thin, both being very smooth and glossy.</sent>
+				<sent id ="14">In no other medium excepting pen-ink and pen-brush painting become excellent on art-card and art paper.</sent>
+				<sent id ="15">Offset paper is very white and it is both thick and thin.</sent>
+				<sent id ="16">The drawing can be done on this paper with pen-ink, ink-brush and pencils.</sent>
+				<sent id ="17">Box-board is thick and its one side is white and smooth.</sent>
+				<sent id ="18">The other side is little bit rough and its colour is grey or light brown.</sent>
+				<sent id ="19">Generally, this paper is used for mounting and framing the paintings.</sent>
+				<sent id ="20">It is quite comfortable to paint with pastel on the grey-side of this paper.</sent>
+				<sent id ="21">The pasteboard paper is thick and hard.</sent>
+				<sent id ="22">Generally its colour is deep brown.</sent>
+				<sent id ="23">Painting on this paper can be made in pastel colour.</sent>
+				<sent id ="24">Variety of thin coloured papers can be found.</sent>
+				<sent id ="25">Pictures and designs can be done by tearing and cutting these coloured papers and fixing them on another paper.</sent>
+				<sent id ="26">These papers are red, blue, green, yellow, pink etc.</sent>
+				<sent id ="27">There is a kind of pencil which we use for common drawing and writing.</sent>
+				<sent id ="28">A special kind of pencil is made for drawing specially.</sent>
+				<sent id ="29">20 Arts & crafts HB, B, IB, 2B, 3B, 4B, 5B, 6B etc. are written on this kind of pencils.</sent>
+				<sent id ="30">HB, B IB are for common writing.</sent>
+				<sent id ="31">Their leads are hard and do not make deep marks on papers.</sent>
+				<sent id ="32">It is possible to paint a complete picture with these three grades of pencils : 2B, 4B, 6B.</sent>
+				<sent id ="33">We write with a pen.</sent>
+				<sent id ="34">A picture can be drawn with a pen, too.</sent>
+				<sent id ="35">A beautiful picture can be drawn with a fountain pen, filling black ink, in it.</sent>
+				<sent id ="36">The pictures can be drawn with other coloured ink too.</sent>
+				<sent id ="37">But the artists give priority to the black ink.</sent>
+				<sent id ="38">There is one kind of ink which is called Chinese ink.</sent>
+				<sent id ="39">The China-artists would use a lot the black-ink to draw pictures from the ancient times.</sent>
+				<sent id ="40">Many artists draw pictures with brush and ink.</sent>
+				<sent id ="41">Paintings made with pen ink and brush-ink are not alike.</sent>
+				<sent id ="42">Black or coloured pictures can drawn with a pen named felt-pen or signature-pen.</sent>
+				<sent id ="43">A picture may also be drawn with a pen named marker-pen.</sent>
+				<sent id ="44">The village children can easily collect bamboo-twigs and Khags.</sent>
+				<sent id ="45">A brush is the main tool of doing paintings.</sent>
+				<sent id ="46">Different kinds and sizes of brushes are made, for there are different colours, papers and canvases as well.</sent>
+				<sent id ="47">A bit softer brushes are used for ink and water-colour.</sent>
+				<sent id ="48">Harder brushes are used for oil and poster colours.</sent>
+				<sent id ="49">Uses of various brushes entirely depend, on the artists how easily and conveniently they can paint with various brushes.</sent>
+				<sent id ="50">Generally, brushes are made of animals and artificial fur.</sent>
+				<sent id ="51">Number I is very delicate.</sent>
+				<sent id ="52">Then 2 to 20 number brushes are gradually made.</sent>
+				<sent id ="53">There are even more delicate brushes, which are numbered as 0,00 etc.</sent>
+				<sent id ="54">A few painting Brushes.</sent>
+				<sent id ="55">The Board and clips are very necessary to draw a picture.</sent>
+				<sent id ="56">It is easy to draw by fixing a paper on a board with a clip.</sent>
+				<sent id ="57">Some of the children keep this board on floor and some of them keep it on table and draw pictures.</sent>
+				<sent id ="58">There are children who keep this board on the easel and draw the pictures, too.</sent>
+				<sent id ="59">Colours are found in different conditions.</sent>
+				<sent id ="60">Water colour is found in boxes, tubes, small cakes, in a box and powders.</sent>
+				<sent id ="61">Poster colour is found in the glass-pots.</sent>
+				<sent id ="62">Many artists mix the Arabic-gum of any other gum with powder colour.</sent>
+				<sent id ="63">Pastel colours are of two varieties.</sent>
+				<sent id ="64">Chalk pastel and wax pastel.</sent>
+				<sent id ="65">These look like sticks, and many colours can be found together in box.</sent>
+				<sent id ="66">Otherwise the painting-get faded, if it is handled and removed.</sent>
+				<sent id ="67">On other hand, it is more convenient to paint with wax-pastel.</sent>
+				<sent id ="68">There is no need of making it permanent.</sent>
+				<sent id ="69">Besides there are more tools and colours, used for painting.</sent>
+				<sent id ="70">You will know about them in the higher classes.</sent>
+				<sent id ="71">For students in class six, the above mentioned things are enough.</sent>
+				<sent id ="72">What are the subjects for paintings?</sent>
+				<sent id ="73">In fact, these subjects are scattered in our surroundings.</sent>
+				<sent id ="74">It is easier to choose the subjects of a painting from one's surroundings one lives in.</sent>
+				<sent id ="75">A village-scene is generally composed of houses, trees, birds, fields, rivers, boats, village-life, people, festivals of a village etc.</sent>
+				<sent id ="76">There are many other similar subjects on which rural people may draw pictures.</sent>
+				<sent id ="77">There is a zoo in a city.</sent>
+				<sent id ="78">We find various animals and birds there.</sent>
+				<sent id ="79">Fowls, cattle, goats, dogs, cats are pet animals in almost every house of a village.</sent>
+				<sent id ="80">Many people pet wild birds, too.</sent>
+				<sent id ="81">Pet animals and birds are also found in urban areas.</sent>
+				<sent id ="82">These pet animals and birds may offer interesting subjects for painters and artists.</sent>
+				<sent id ="83">Famous artists have already made famous paintings on birds and animals.</sent>
+				<sent id ="84">Shilpacharya Jainul Abedin worked on crows,cattle, bulls and many other birds and animals of Bangladesh.</sent>
+				<sent id ="85">Qamrul Hassan had cattle, elephants, horses, fox, snakes, and a variety of birds as his subjects for paintings.</sent>
+				<sent id ="86">Paintings can also be done on parents, brothers, sisters, grand-father and grand- mother or any other near and dear ones.</sent>
+				<sent id ="87">The painters should have clear conceptions about the subjects they will draw.</sent>
+				<sent id ="88">How can he/she draw a picture of a village who has never visited a village and seen boats or rivers?</sent>
+				<sent id ="89">He should not only look at exterior, but also look into the inner beauty of an object.</sent>
+				<sent id ="90">He should know about the environment the livelihood and lifestyle of rural people, and observe their behaviour and life pattern.</sent>
+				<sent id ="91">Thereafter he concentrates on the subjects imaginatively to make his painting aesthetically attractive.</sent>
+				<sent id ="92">Till now, you have drawn and coloured your paintings as you liked.</sent>
+				<sent id ="93">You tried to present before everybody what you liked and understood, thought and knew, and painted accordingly.</sent>
+				<sent id ="94">Not all of your paintings were beautiful or praised by all.</sent>
+				<sent id ="95">Some of them were excellent and you won prizes, too.</sent>
+				<sent id ="96">A painter should draw easily and freely at any age.</sent>
+				<sent id ="97">Paintings won't good if you feel nervous.</sent>
+				<sent id ="98">As the children grow up their mode of conversations, behaviours and thinking undergo gradual changes.</sent>
+				<sent id ="99">So their field of paintings changes, too.</sent>
+				<sent id ="100">What a child aged five or six, draws, does not remain same with the advancement of his/her age.</sent>
+				<sent id ="101">Students in class six do a particular kind of painting according to their age group.</sent>
+				<sent id ="102">They do not draw like the children of class three/four nor those of class nine/ten.</sent>
+				<sent id ="103">Shapes means how are the things to look at?</sent>
+				<sent id ="104">Are they round, tall or flat?</sent>
+				<sent id ="105">This age-group should learn some common rules of paintings and it will make their work easier.</sent>
+				<sent id ="106">The easy process of correct drawing of pots, pitcher, plates etc. are shown in the diagrams.</sent>
+				<sent id ="107">You can draw in the same way on any round shaped pot you like.</sent>
+				<sent id ="108">Human figures, trees, animals, whatever you draw first of all you have to observe them perfectly.</sent>
+				<sent id ="109">You need to observe their form, size and shape-round, tallish, triangular, quadrangular or flat?</sent>
+				<sent id ="110">In fact, we compare the appearance of a man with our known shapes and forms.</sent>
+				<sent id ="111">Before you draw something, think how you will arrange your subject on the canvas.</sent>
+				<sent id ="112">The same subject can be arranged in different ways.</sent>
+				<sent id ="113">For example, take a village scene, the village stands on a river side with houses and trees.</sent>
+				<sent id ="114">Boats are anchored nearby.</sent>
+				<sent id ="115">Moreover, these are people and birds.</sent>
+				<sent id ="116">In fact a village scene contains all these things.</sent>
+				<sent id ="117">Arrange or compose them in four or five ways and choose the best way.</sent>
+				<sent id ="118">It is the responsibility of an artist to select the best composition.</sent>
+				<sent id ="119">In any picture, distance and proportion of objects drawn are of much importance.</sent>
+				<sent id ="120">You must observe things in various perspectives and dimensions.</sent>
+				<sent id ="121">Front and rear, near and distance, small and big these are to be taken into account.</sent>
+				<sent id ="122">Suppose, there are rivers, trees and plants, men and boats in a picture.</sent>
+				<sent id ="123">What will be the size of a boat in proportion to a man?</sent>
+				<sent id ="124">If there is a tree, than what should be the relative size of trees?</sent>
+				<sent id ="125">All these things have to be considered while drawing a picture properly.</sent>
+				<sent id ="126">You have to correctly assess and project the comparative sizes of big and small things.</sent>
+				<sent id ="127">Colours are mainly three.</sent>
+				<sent id ="128">They are called primary colours.</sent>
+				<sent id ="129">Mixing any two of these three primary colours, three more colours can be found.</sent>
+				<sent id ="130">These are called secondary colours.</sent>
+				<sent id ="131">Arrangement of the subjects : In the above pictures the same subject has been arranged in different ways.</sent>
+				<sent id ="132">Which is the best to be drawn.</sent>
+				<sent id ="133">No.1 is the best, then, No.4 No.3 & 2 accordingly.</sent>
+				<sent id ="134">Mixing primary colours with secondary ones other colours can be made also.</sent>
+				<sent id ="135">But white and black can not be found by mixing colours.</sent>
+				<sent id ="136">You will assess the use of water colour, after doing a few paintings in this medium.</sent>
+				<sent id ="137">The same process is applicable to poster colour.</sent>
+				<sent id ="138">Though both the mediums seem quite similar, quality in poster colour is different.</sent>
+				<sent id ="139">Water colour is transparent and thin.</sent>
+				<sent id ="140">You can not cover a colour putting another colour on it.</sent>
+				<sent id ="141">Both the colours are seen because of their transparency and the two colours make a third one.</sent>
+				<sent id ="142">Poster colour is thicker and heavier than water colour.</sent>
+				<sent id ="143">A poster colour can cover another.</sent>
+				<sent id ="144">Generally both water colour and poster colour are used on papers.</sent>
+				<sent id ="145">This colour is mixed with oil.</sent>
+				<sent id ="146">It is obvious from its title.</sent>
+				<sent id ="147">Usually it is used with linseed oil.</sent>
+				<sent id ="148">The painting is done on a canvas, a hard-board and a wooden plank.</sent>
+				<sent id ="149">There are special kind of papers for oil- colour paintings.</sent>
+				<sent id ="150">Pastel colours are sticks of colurs wax pasted and chalk pastel.</sent>
+				<sent id ="151">Paintings are done by rubbing the colour-stick on papers.</sent>
+				<sent id ="152">There is no need of mixing water, oil or gum.</sent>
+				<sent id ="153">Otherwise, a painting may fade out or its colours may fall, when it is removed from one place to another.</sent>
+				<sent id ="154">In the same process, the paintings can be done with charcoal and can be made permanent with liquid spray.</sent>
+				<sent id ="155">These painting last for a long time.</sent>
+				<sent id ="156">The liquid-mixture is available in shops.</sent>
+				<sent id ="157">Light and Shade is a special feature in paintings.</sent>
+				<sent id ="158">The sun sets in the evening, that brings darkness.</sent>
+				<sent id ="159">So it is easier to do paintings, if the light and shade atmosphere is roughly divided into three categories.</sent>
+				<sent id ="160">Now you can clearly understand that some common rules should be followed, to make a good painting.</sent>
+				<sent id ="161">Colour the painting freely as you like.</sent>
+				<sent id ="162">Then painting will be an interesting game and amusing work to you.</sent>
+				<sent id ="163">No doubt, your painting will improve-day-by day.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

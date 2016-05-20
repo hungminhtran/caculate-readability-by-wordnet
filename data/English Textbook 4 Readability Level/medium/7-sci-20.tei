@@ -1,0 +1,136 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-20</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.05</idno>
+				<idno type="Number of sentences">108</idno>
+				<idno type="Number of tokens">1210</idno>
+				<idno type="Number of token types">513</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t65">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Every animal is different from one another.</sent>
+				<sent id ="2">In spite of differences in size and look, some of the basic functions are same in all animal cells;</sent>
+				<sent id ="3">such as digestion, respiration, movement, excretion, response to stimuli, growth, reproduction and death.</sent>
+				<sent id ="4">Besides, every animal has its own characteristic design; which is inherited from their parents.</sent>
+				<sent id ="5">To perform these functions different organs and structures are there.</sent>
+				<sent id ="6">For example, digestive system, lungs, heart, blood vessels, bone, muscles, kidney, brain, nerve, reproductive system etc.</sent>
+				<sent id ="7">These organs and structures are developed from different types of cells.</sent>
+				<sent id ="8">So, cell is called the structural unit of living body of organisms.</sent>
+				<sent id ="9">To build a brick house, bricks, cements and sands are needed.</sent>
+				<sent id ="10">A building is constructed by setting bricks one after another.</sent>
+				<sent id ="11">In case of animals, body is built by a large number of cells together.</sent>
+				<sent id ="12">But all cells are not of same size.</sent>
+				<sent id ="13">To perform different functions, size and nature of cells differ from each other.</sent>
+				<sent id ="14">For example, muscle cells are elastic and flexible.</sent>
+				<sent id ="15">But the cells forming bones are strong and nonflexible.</sent>
+				<sent id ="16">You should have more knowledge about a biological cell.</sent>
+				<sent id ="17">Cells of different animals are same but characteristic designs are different and unique for every species of animal.</sent>
+				<sent id ="18">Genes are arranged in a linear fashion on the chromosomes in a cells.</sent>
+				<sent id ="19">These genes bear the characteristics of the species.</sent>
+				<sent id ="20">In a normal cell a piece of protoplasm is surrounded by a cell membrane.</sent>
+				<sent id ="21">It contains cytoplasm and nucleus.</sent>
+				<sent id ="22">Organelles like mitochondria, golgi complex, ribosome, endoplasmic reticulum etc. are present in the cytoplasm.</sent>
+				<sent id ="23">Chromosomes are borne inside the nucleus.</sent>
+				<sent id ="24">Genes are arranged in a row on the chromosome and bear the characteristics of the species.</sent>
+				<sent id ="25">For these reasons, children inherit characters of their parents.</sent>
+				<sent id ="26">From above discussion now you can realize the importance of cells in a living body.</sent>
+				<sent id ="27">Structural and functional unit of organism is the cell.</sent>
+				<sent id ="28">Cytoplasm bounded by a membrane and controlled by nucleus, is called a cell.</sent>
+				<sent id ="29">A piece of protoplasm with all the characteristics for expression of life, is called a cell.</sent>
+				<sent id ="30">When a group of cells in multicellular organisms perform a definite function: it is called a tissue.</sent>
+				<sent id ="31">Ultimate goal of these cells are same but they may vary in size and shape.</sent>
+				<sent id ="32">It depends on the nature of function of the cell and tissue.</sent>
+				<sent id ="33">Animal body is build up with different types of tissues, such as Epithelial tissue Muscular tissue Connective tissue Nerve tissue Reproductive tissue.</sent>
+				<sent id ="34">Outer covering of our skin and internal lining of our mouth etc. are composed of epithelial tissue.</sent>
+				<sent id ="35">Different glands are also composed of epithelial tissue.</sent>
+				<sent id ="36">Cells of epithelial tissue are arranged in one or two layers.</sent>
+				<sent id ="37">Cells are arranged closely on basement membranes.</sent>
+				<sent id ="38">In this type of tissue there is no intercellular matrix.</sent>
+				<sent id ="39">Functions of epithelial tissue Main function of this tissue is protection and covering.</sent>
+				<sent id ="40">It protects internal and external organs from injury.</sent>
+				<sent id ="41">Some cells of this tissue participate in secretion.</sent>
+				<sent id ="42">Taste, such as cover cells of tongue.</sent>
+				<sent id ="43">Excretion, such as cover cells of renal tubules.</sent>
+				<sent id ="44">Animal tissues having the ability of contraction and expansion are called muscular tissues.</sent>
+				<sent id ="45">Based on position, structure and function, they are of three types.</sent>
+				<sent id ="46">Voluntary or striated muscles When contraction and expansions of muscles depend on the will of the organism; it is called voluntary or striated muscles.</sent>
+				<sent id ="47">They are connected with bone, such as biceps muscle, triceps muscle etc. the jaw moves because of contraction and expansion of these voluntary muscles.</sent>
+				<sent id ="48">Voluntary muscles are elastic and have capacity of expansion.</sent>
+				<sent id ="49">The cells of these muscles have transverse black and white stripes (striated).</sent>
+				<sent id ="50">Cells of these muscles have more than one nucleus.</sent>
+				<sent id ="51">It becomes compressed when excited.</sent>
+				<sent id ="52">The cells of these muscles are covered with a layer, called circolemma.</sent>
+				<sent id ="53">Functions of voluntary muscles It helps in movement of different organs and organelles.</sent>
+				<sent id ="54">It helps in movement of the animal.</sent>
+				<sent id ="55">Involuntary or smooth muscles When contraction and expansion of muscles are not dependent on the will of the organism is called involuntary or smooth muscles;</sent>
+				<sent id ="56">such as muscles of stomach, intestine, kidney etc. Involuntary muscles do not have transverse black and white stripes.</sent>
+				<sent id ="57">Each cell with only one nucleus.</sent>
+				<sent id ="58">There is no circolemma.</sent>
+				<sent id ="59">Each cell is long and spindle shaped.</sent>
+				<sent id ="60">These muscles show rhythmic move- ment when contract and expand.</sent>
+				<sent id ="61">Function of involuntary muscles Capacity of contraction is mild and rhythmic.</sent>
+				<sent id ="62">Food move through digestive canal due to contraction of intestinal muscles.</sent>
+				<sent id ="63">It is a special type of involuntary muscle.</sent>
+				<sent id ="64">The heart is built with this type of muscles.</sent>
+				<sent id ="65">Characterstics of cardiac muscles Cardiac muscles are lightly striped.</sent>
+				<sent id ="66">These muscles are branched.</sent>
+				<sent id ="67">Fibres of cardiac muscles are small and cylindrical.</sent>
+				<sent id ="68">Interconnected with each other by lateral branches.</sent>
+				<sent id ="69">Functions of cardiac muscles Contraction and expansion of cardiac muscles cause circulation of blood through the heart to the rest of the body.</sent>
+				<sent id ="70">To make the heart contract and expand in a rhythm.</sent>
+				<sent id ="71">Connective Tissue This tissue connects different tissues and organs, such as blood, bone, cartilage, fat cells etc.</sent>
+				<sent id ="72">This muscle cells originate from mesoderm of the embryo.</sent>
+				<sent id ="73">Cells of these muscles are not arranged in a definite layer.</sent>
+				<sent id ="74">These cells secrete large amount of noncellular matrix and stored in intercellular spaces.</sent>
+				<sent id ="75">In this muscle, number of cells is less but amount of matrix is high.</sent>
+				<sent id ="76">Cells of this muscle is modified variously to perform different functions.</sent>
+				<sent id ="77">The matrix substance of bones is calcium.</sent>
+				<sent id ="78">Bones make the structure, bear weight and give rigidity of the body.</sent>
+				<sent id ="79">Tendon connects muscles with bones.</sent>
+				<sent id ="80">Fibrous connective tissue help in expansion and contraction of lungs and blood vessels.</sent>
+				<sent id ="81">Loose connective tissue work as filler in the gaps in between two organs.</sent>
+				<sent id ="82">Fat cells store fats.</sent>
+				<sent id ="83">Cartilages are strong but elastic.</sent>
+				<sent id ="84">Blood transports different substances (oxygen, food, nitrogenous wastes) from one place to another.</sent>
+				<sent id ="85">Beside, this blood resist microbes causing diseases.</sent>
+				<sent id ="86">The matrix of blood is a fluid.</sent>
+				<sent id ="87">Tissue that can respond to stimuli and produce sensation is called nerve tissue.</sent>
+				<sent id ="88">The unit of nerve tissue is nerve cell or neuron.</sent>
+				<sent id ="89">The brain is made of neuron.</sent>
+				<sent id ="90">Each neuron is composed of three parts; Cell body: It is the main portion of nerve cell.</sent>
+				<sent id ="91">Its shape varies, such as elliptical, star-like, round etc.</sent>
+				<sent id ="92">Each cell contains one nucleus.</sent>
+				<sent id ="93">b) Dendron: The branches arise from all arround the cell body are called dendrons.</sent>
+				<sent id ="94">Branches from dendrone are called dendrites.</sent>
+				<sent id ="95">c) Axon: A long, unbranched and thread like structure arising from the cell body is called axon.</sent>
+				<sent id ="96">Its length may be from 1 mm to few meters.</sent>
+				<sent id ="97">Axon means axis.</sent>
+				<sent id ="98">Axon is covered with a structure neurilemma.</sent>
+				<sent id ="99">The axon of neurone is connected with a branch of dendron.</sent>
+				<sent id ="100">By interconnecting a large number of neurons a nerve is formed.</sent>
+				<sent id ="101">The connecting point of axon and dendron is called synapse.</sent>
+				<sent id ="102">Stimulus coming through this synapse to dendrone from adjacent nerve cell.</sent>
+				<sent id ="103">1) When responding to stimuli it sends impulses from different sense organs and sensitive parts to different parts of the body.</sent>
+				<sent id ="104">2) Relevant parts of the body respond to this stimuli.</sent>
+				<sent id ="105">For example, when mosquito bites, the impulse is sent to the brain.</sent>
+				<sent id ="106">The brain inform the hand and the hand try to kill the mosquito.</sent>
+				<sent id ="107">3) It retains these impulses and the facts in the memory.</sent>
+				<sent id ="108">4) It co-ordinates among different physiologic activities of the body.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

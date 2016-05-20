@@ -1,0 +1,168 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.935</idno>
+				<idno type="Number of sentences">140</idno>
+				<idno type="Number of tokens">1451</idno>
+				<idno type="Number of token types">579</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t95">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In chapter two you have learnt about the matters and its classifications.</sent>
+				<sent id ="2">Try to remember what is called matter?</sent>
+				<sent id ="3">What are the types of matter and what are these?</sent>
+				<sent id ="4">We know there are 111 elements discovered so far.</sent>
+				<sent id ="5">Out of these 92 elements occur in nature.</sent>
+				<sent id ="6">Rest of them are man-made elements.</sent>
+				<sent id ="7">These elements are classified into two groups on the basis on their properties.</sent>
+				<sent id ="8">These are metals and non-metals.</sent>
+				<sent id ="9">Hydrogen, Oxygen, Carbon, Nitrogen, Sulphur etc are the examples of non-metals.</sent>
+				<sent id ="10">On the other hand, iron, copper, gold, zinc, aluminium, tin etc are the examples of metals.</sent>
+				<sent id ="11">Now let us discuss what are metals and non-metals and uses of some of our known metals and non-metals.</sent>
+				<sent id ="12">Iron, copper, gold, silver, zinc, tin, aluminum are the examples of some metal.</sent>
+				<sent id ="13">Such as- hydrogen, oxygen, sulphur, carbon, helium, neon, iodine etc are the examples of non-metal.</sent>
+				<sent id ="14">Some metals and non-metals having exceptional properties Mercury is a metal, liquid at ordinary temperature.</sent>
+				<sent id ="15">Sodium metal is lighter than water.</sent>
+				<sent id ="16">Carbon and sulphur are non-metal but solid at ordinary condition.</sent>
+				<sent id ="17">Graphite (carbon) being non-metal is a good conductor of electricity.</sent>
+				<sent id ="18">Diamond (carbon) is a non-metal but able to reflect light and the hardest one.</sent>
+				<sent id ="19">Iodine is a non-metal but lustrous.</sent>
+				<sent id ="20">Iron is most familiar and widely used of all metals.</sent>
+				<sent id ="21">At ordinary condition, iron is black.</sent>
+				<sent id ="22">But pure iron is a white in colour.</sent>
+				<sent id ="23">Iron is attracted by magnet.</sent>
+				<sent id ="24">We use iron in our everyday life for various purposes.</sent>
+				<sent id ="25">The more is the quantity of iron used by a country the more developed it is.</sent>
+				<sent id ="26">Copper is a peculiar reddish-brown bright metal.</sent>
+				<sent id ="27">It is soft, malleable and ductile.</sent>
+				<sent id ="28">It is a good conductor of heat and electricity.</sent>
+				<sent id ="29">For this copper wire is widely used in houses and at other places for electric supply.</sent>
+				<sent id ="30">If you examine a piece of electric wire, you see that there are many thin copper wires in it.</sent>
+				<sent id ="31">We use copper for various purposes.</sent>
+				<sent id ="32">Copper is used for telegraph, telephone and electric line.</sent>
+				<sent id ="33">The importance of copper is seen in our various practical lives.</sent>
+				<sent id ="34">It is used for making utensils, coins, 56 General Science statues and propeller of ships.</sent>
+				<sent id ="35">Alloys such as, bronze, brass and many metal are made of copper.</sent>
+				<sent id ="36">The bell of your school is also made of copper.</sent>
+				<sent id ="37">Aluminium is a bluish-white light metal.</sent>
+				<sent id ="38">It is a very good conductor of heat and electricity.</sent>
+				<sent id ="39">Aluminium is used in making cooking utensils.</sent>
+				<sent id ="40">Duralumin is an alloy of aluminium which is made mixing 95% aluminium, 4% copper, 0.5% magnesium and 0.5% manganese.</sent>
+				<sent id ="41">Duralumin is used for making aeroplanes.</sent>
+				<sent id ="42">From very ancient period of time people are using silver.</sent>
+				<sent id ="43">Silver occurs in nature as a mineral ore.</sent>
+				<sent id ="44">It occurs as ore in mine in South America, Canada, Peru, Mexico, Australia etc. Silver is a bright white metal.</sent>
+				<sent id ="45">Very thin sheets and thin wires can be made of silver due to its malleable properties.</sent>
+				<sent id ="46">Silver is the best conductor of heat and electricity.</sent>
+				<sent id ="47">It is used for making ornaments and coins.</sent>
+				<sent id ="48">Many household substances are made by mixing pure silver with copper.</sent>
+				<sent id ="49">It is also used to make the coating on the back of the mirror.</sent>
+				<sent id ="50">People are using tin from ancient period.</sent>
+				<sent id ="51">People of Egypt and China used to be use bronze; which is an alloy of tin and copper.</sent>
+				<sent id ="52">Large amount of tin occur in Burma (Mayanmer).</sent>
+				<sent id ="53">80% of the total tin contain of the world occur in South-East-Asia.</sent>
+				<sent id ="54">Tin is a white metal of high malleable properly.</sent>
+				<sent id ="55">Thin sheets can be made from it.</sent>
+				<sent id ="56">Alloys, utensils sheets, tin-plating and tin soldering etc are made from tin.</sent>
+				<sent id ="57">In the rural and urban areas of our country tin are generally used to make houses.</sent>
+				<sent id ="58">Gold is a precious metal.</sent>
+				<sent id ="59">Almost all of you are familiar with gold.</sent>
+				<sent id ="60">It is lustrous and of golden colour.</sent>
+				<sent id ="61">The women in our country use gold ornaments.</sent>
+				<sent id ="62">Not only in our country, women in abroad also use gold ornaments.</sent>
+				<sent id ="63">The value of currency of a country is determined on the basis of gold deposits.</sent>
+				<sent id ="64">Bangladesh is an agricultural country.</sent>
+				<sent id ="65">About 80% of the population depends on agriculture.</sent>
+				<sent id ="66">The instruments, which are used, for cultivation purpose are called agricultural instruments.</sent>
+				<sent id ="67">Iron and steel are used for making local and modern agricultural instruments.</sent>
+				<sent id ="68">Steel is an alloy, made from iron.</sent>
+				<sent id ="69">Molboard plough, power tiller, tractor, power pump, sowing machine, spray machine, threshing machine etc are modern agricultural instruments.</sent>
+				<sent id ="70">Can you tell with which elements these instruments are made of?</sent>
+				<sent id ="71">All these are made of steel.</sent>
+				<sent id ="72">In short, we talked about the role of iron and steel, which is essential to make agricultural instruments.</sent>
+				<sent id ="73">At the beginning of this chapter you have learent what is non-metal.</sent>
+				<sent id ="74">Hydrogen, oxygen, nitrogen, carbon, sulphur, chlorine, iodine, helium, neon, krypton etc are the examples of some non-metals.</sent>
+				<sent id ="75">The properties and some uses of these non-metals are discussed below.</sent>
+				<sent id ="76">Hydrogen is the lightest of all the elements.</sent>
+				<sent id ="77">The British scientist Cavendish first discovered it in Hydro means water and gen means producer.</sent>
+				<sent id ="78">Hence, hydrogen means water producer.</sent>
+				<sent id ="79">Small amount of elementary hydrogen occurs in air, oil mine and in volcanoes.</sent>
+				<sent id ="80">In laboratory hydrogen is prepared by the action of metals with acids.</sent>
+				<sent id ="81">Hydrogen is colourless, odorless and test less gas.</sent>
+				<sent id ="82">Hydrogen is the lightest element of all substances in the world.</sent>
+				<sent id ="83">For this hydrogen gas is used for flying balloons and aircrafts.</sent>
+				<sent id ="84">Hydrogen burns itself but does not help others to burn.</sent>
+				<sent id ="85">Hydrogen chemically combines with oxygen to produce water.</sent>
+				<sent id ="86">Water contents are 2 parts by volume of hydrogen and 1 part by volume of oxygen.</sent>
+				<sent id ="87">The flame of hydrogen with oxygen is called oxy- hydrogen flame.</sent>
+				<sent id ="88">It used for melting of metals and welding.</sent>
+				<sent id ="89">Hydrogen is also used for manufacturing ammonia, hydrochloric acid and urea fertilizer.</sent>
+				<sent id ="90">Hydrogen combines chemically with carbon to produce various types of compounds.</sent>
+				<sent id ="91">Sugar, soap, oil, petroleum, gasoline etc. contain sufficient quantity of hydrogen.</sent>
+				<sent id ="92">Oxy means acid and gen means producer.</sent>
+				<sent id ="93">That is oxygen means acid producer.</sent>
+				<sent id ="94">Oxygen is one of the components almost of all the acids.</sent>
+				<sent id ="95">Air contains 1 part by volume of oxygen and 4 parts by volume of nitrogen of its per 5 parts.</sent>
+				<sent id ="96">Oxygen can be prepared in the laboratory.</sent>
+				<sent id ="97">Oxygen is a colourless, odour less and taste less gas.</sent>
+				<sent id ="98">It is soluble in water.</sent>
+				<sent id ="99">Fishes and other aquatic plants can perform their respiration due to the dissolved oxygen in water.</sent>
+				<sent id ="100">Oxygen does not burns itself but help to burns others substances.</sent>
+				<sent id ="101">Oxygen is very essential for the survival of plants and animal kingdom.</sent>
+				<sent id ="102">We take oxygen in respiration.</sent>
+				<sent id ="103">Oxygen is used to help respiration of dying patients.</sent>
+				<sent id ="104">Space travelers, mountaineers and divers use oxygen for respiration.</sent>
+				<sent id ="105">Large quantity of oxygen is used for the production of oxy- hydrogen flame.</sent>
+				<sent id ="106">Liquid oxygen is used as rocket fuel.</sent>
+				<sent id ="107">Large quantity of oxygen is also used in iron and steel industries.</sent>
+				<sent id ="108">In 1772 Daniel Rutherford discovered nitrogen.</sent>
+				<sent id ="109">Air contains large amount of nitrogen.</sent>
+				<sent id ="110">4 parts are nitrogen in air out of its 5 parts.</sent>
+				<sent id ="111">Nitrogen is essential for the nutrition of plant and animals.</sent>
+				<sent id ="112">Nitrogen gas can be prepared in laboratory.</sent>
+				<sent id ="113">Nitrogen is a colourless, odorless and taste less gas.</sent>
+				<sent id ="114">Nitrogen is an inert gas.</sent>
+				<sent id ="115">It does not burn it self and does not help to burn other substances.</sent>
+				<sent id ="116">Vast amount of nitrogen is required to produce chemical fertilizer.</sent>
+				<sent id ="117">The roll of nitrogen for plants and animals are very important.</sent>
+				<sent id ="118">You have learnt this in the chapter air.</sent>
+				<sent id ="119">Sulphur occurs in nature as elementary sulphur ore.</sent>
+				<sent id ="120">Egg, mustard seed, onion, garlic, hair, wool etc contain sulphur.</sent>
+				<sent id ="121">Sulphur is a light yellow crystalline solid.</sent>
+				<sent id ="122">It is used in the manufacture of matches.</sent>
+				<sent id ="123">Sulphur is also used in production of ointments, medicines, insecticides, dyes and paper.</sent>
+				<sent id ="124">Carbon occupies an important position among all the elements on the earth.</sent>
+				<sent id ="125">Diamond, graphite etc are the varieties of carbon.</sent>
+				<sent id ="126">Proteins, carbohydrates and fats are also carbon compounds.</sent>
+				<sent id ="127">In nature the existence of carbon is mostly found in the plant and animal kingdoms.</sent>
+				<sent id ="128">The primary and essential components of plant and animal bodies is carbon.</sent>
+				<sent id ="129">Every portion of plant and animal bodies is made of carbon compounds.</sent>
+				<sent id ="130">Charcoal, animal coal, lamp black coke and gas carbon are the different forms of carbon.</sent>
+				<sent id ="131">Carbon is used as fuel.</sent>
+				<sent id ="132">It is also used for making of shoe-polish, antiseptics, gunpowder, printing ink etc.</sent>
+				<sent id ="133">Some distinctions between metals and non-metals are given below in tabular form.</sent>
+				<sent id ="134">For what purposes the alloys are used?</sent>
+				<sent id ="135">Let us discuss about the uses of alloys.</sent>
+				<sent id ="136">What is the meaning of alloy?</sent>
+				<sent id ="137">The terms alloy means mixture.</sent>
+				<sent id ="138">Steels, brass, bell metals and duralumin etc are alloys.</sent>
+				<sent id ="139">Alloys are stronger than the constituent metals.</sent>
+				<sent id ="140">Alloys do not rust or not errode if they are exposed to air for a long period of time.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

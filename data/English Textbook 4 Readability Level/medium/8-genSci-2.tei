@@ -1,0 +1,128 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.04</idno>
+				<idno type="Number of sentences">100</idno>
+				<idno type="Number of tokens">1328</idno>
+				<idno type="Number of token types">405</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t135">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">All the substances found in the world are classified into elements and compounds.</sent>
+				<sent id ="2">A molecule is composed of two or more atoms.</sent>
+				<sent id ="3">In the present chapter we shall learn about symbol, formula and valency of elements and compounds.</sent>
+				<sent id ="4">Chemists have devised a system to express the name of elements in an abbreviated form.</sent>
+				<sent id ="5">In this system an elements is represented by first one or two letters of its English or Latin name.</sent>
+				<sent id ="6">A symbol is an abbreviation for the full name of an element.</sent>
+				<sent id ="7">For example, Hydrogen is represented by H; Oxygen by O; Nitrogen by N, etc.</sent>
+				<sent id ="8">Generally the first letter of the English name of an element in capital is used to represent its symbol.</sent>
+				<sent id ="9">Look the following table of symbols.</sent>
+				<sent id ="10">Out of these, one element may be denoted by the initial letter of its name, e.g.</sent>
+				<sent id ="11">Some elements are represented by an initial letter or first two letters of its Latin names.</sent>
+				<sent id ="12">But there are some exceptions also.</sent>
+				<sent id ="13">The symbol represents shortened name of an element such as- Hydrogen H, Oxygen O, Sodium Na.</sent>
+				<sent id ="14">The symbol denotes one atom of the element.</sent>
+				<sent id ="15">For example, H is written for one atom of hydrogen;</sent>
+				<sent id ="16">O stands for one atom of oxygen;</sent>
+				<sent id ="17">C stands for one atom of carbon and Na for one atom of sodium, etc.</sent>
+				<sent id ="18">Symbol of an element represents the atomic mass of that element.</sent>
+				<sent id ="19">For example, H represents 1 part by mass of hydrogen and O represents 16 parts by mass of oxygen, etc.</sent>
+				<sent id ="20">The symbolic representation of molecules of elements or compounds is called the formula.</sent>
+				<sent id ="21">In writing the formula of an element, the symbol of it is written with the number of atoms of the element present in the molecule.</sent>
+				<sent id ="22">Therefore, their formula are H2, O2, N2, Cl2, respectively.</sent>
+				<sent id ="23">The formulas of ozone, sulphur and phosphorous are O3, S6 and P4 respectively.</sent>
+				<sent id ="24">Again, the molecules of sodium, potassium, copper, helium, argon, etc contain one atom each.</sent>
+				<sent id ="25">The molecule of a compound consists of atoms of more than one element.</sent>
+				<sent id ="26">So, the combined atoms are not the same in this molecule.</sent>
+				<sent id ="27">Thus one molecule of water consists of 2 atoms of hydrogen and 1 atom of oxygen.</sent>
+				<sent id ="28">So the formula of water is written as H2O.</sent>
+				<sent id ="29">Hence the whole number of oxygen atom is not written to express the formula of a water molecule.</sent>
+				<sent id ="30">A formula indicates a definite substance.</sent>
+				<sent id ="31">Such as, H2O represents water.</sent>
+				<sent id ="32">A formula indicates the elements that a compound is composed of.</sent>
+				<sent id ="33">For example, the formula NaCl indicates that it is composed of sodium and chlorine elements.</sent>
+				<sent id ="34">A formula represents one molecule of a definite substance.</sent>
+				<sent id ="35">For example one molecule of sodium chloride is represented by NaCl.</sent>
+				<sent id ="36">A formula indicates how many atoms of each element are present in one molecule of a compound.</sent>
+				<sent id ="37">Therefore, CO2 shows that one molecule of carbon dioxide contains one atom of carbon and two atoms of oxygen.</sent>
+				<sent id ="38">Short names of elements are expressed by symbol.</sent>
+				<sent id ="39">Symbol denotes one atom of an element.</sent>
+				<sent id ="40">Symbol of an element indicates its atomic mass.</sent>
+				<sent id ="41">Symbol of an element contains only one atom of that element.</sent>
+				<sent id ="42">Short names of elements or compounds are expressed by formula.</sent>
+				<sent id ="43">The formula of a substance indicates one molecule.</sent>
+				<sent id ="44">Formula represents the molecular mass of the substance.</sent>
+				<sent id ="45">Formula represents the number of atoms of the constituent elements present in a molecule.</sent>
+				<sent id ="46">The molecule of a compound is formed by the combination of two or more atoms.</sent>
+				<sent id ="47">Atoms in a molecule are held together by chemical affinity.</sent>
+				<sent id ="48">Such a combination among the atoms does not take place in a haphazard way; while the chemical combination is always held under a definite rule.</sent>
+				<sent id ="49">1 atom of chlorine combines with 1 atom of hydrogen to form 1 molecule of hydrogen chloride.</sent>
+				<sent id ="50">1 atom of oxygen combines with 2 atoms of hydrogen to form 1 molecule of water.</sent>
+				<sent id ="51">1 atom of nitrogen combines with 3 atoms of hydrogen to form 1 molecule of ammonia.</sent>
+				<sent id ="52">1 atom of carbon combines with 4 atoms of hydrogen to form 1 molecule of methane.</sent>
+				<sent id ="53">The examples above show that the combining capacity of hydrogen with chlorine, oxygen, nitrogen and carbon is not the same.</sent>
+				<sent id ="54">One atom of hydrogen combines with one atom of chlorine.</sent>
+				<sent id ="55">That is, oxygen has double combining capacity of hydrogen.</sent>
+				<sent id ="56">The combining capacity of an element with other elements is called valency.</sent>
+				<sent id ="57">The valency of an element is expressed by the number of hydrogen atoms that are combined with or displaced by one atom of that element.</sent>
+				<sent id ="58">The combining capacity of an element with hydrogen is taken as the unit of valency.</sent>
+				<sent id ="59">Thus the valency of an element is measured by the number of hydrogen atoms that combine with or are displaced from any compound.</sent>
+				<sent id ="60">To determine the valency of an element, the valency of hydrogen is taken as 1 unit.</sent>
+				<sent id ="61">In writing the formula of a compound the valency of the element is to be considered.</sent>
+				<sent id ="62">The Elements enter into chemical combination to form a compound on the basis of their valency.</sent>
+				<sent id ="63">We may compare the valency of an element with hands or hooks.</sent>
+				<sent id ="64">The element with one hand can be compared to something having one valency.</sent>
+				<sent id ="65">So, an atom of one handed element will combine with another atom of one handed element.</sent>
+				<sent id ="66">For example, both hydrogen and chlorine are one handed elements.So their valency is also one.</sent>
+				<sent id ="67">When they combine to form hydrogen chloride, we write them as HCl.</sent>
+				<sent id ="68">Again, the valency of oxygen is 2 i.e an oxygen atom has two hands.</sent>
+				<sent id ="69">With its two hands oxygen can catch two monovalent hydrogen atoms.</sent>
+				<sent id ="70">The above table shows you the valency of calcium.</sent>
+				<sent id ="71">How many hands does calcium have?</sent>
+				<sent id ="72">What is the valency of a chlorine atom?</sent>
+				<sent id ="73">The valency of calcium is two i.e calcium has two hands.</sent>
+				<sent id ="74">Chlorine is monovalent.</sent>
+				<sent id ="75">What will be the formula of calcium chloride which is produced by the chemical reaction between calcium and chlorine?</sent>
+				<sent id ="76">The valency of carbon and oxygen in the above formula is 4 and 2 respectively.</sent>
+				<sent id ="77">Sometimes more than one atom combine together to form a group of atoms and this atomic group behaves as a single atom.</sent>
+				<sent id ="78">Like the atom of an element, they take part as a whole in forming compounds.</sent>
+				<sent id ="79">This atomic group is called radical.</sent>
+				<sent id ="80">Sulphate SO24, Carbonate CO23-, Nitrate NO3- etc are the examples of radicals.</sent>
+				<sent id ="81">Similarly the formula of copper sulphate is Cu = SO4 or CuSO4.</sent>
+				<sent id ="82">In calcium carbonate the valency of calcium is 2 and that of carbonate is also 2.</sent>
+				<sent id ="83">Therefore the formula of calcium carbonate is Ca = CO3 or CaCO3.</sent>
+				<sent id ="84">The valency of iron in iron (III) sulphate is 3;</sent>
+				<sent id ="85">then what will be the formula of iron (III) sulphate?</sent>
+				<sent id ="86">If we write Fe = SO4 then one hand of iron remains empty.</sent>
+				<sent id ="87">But no hand of atom will remain empty in forming a compound.</sent>
+				<sent id ="88">Then what is to be done?</sent>
+				<sent id ="89">But in this case there are two hands of an iron atom which remain empty.</sent>
+				<sent id ="90">Now no blank hand is remaining in iron (III) atom or in the sulphate radical.</sent>
+				<sent id ="91">Therefore, the formula of iron (III) sulphate will be Fe2(SO4)3.</sent>
+				<sent id ="92">If you carefully notice these formulas, you will find that each compound has two parts.</sent>
+				<sent id ="93">Thus, in the above examples, H, Ca, Cu, Fe, etc. are the positive parts and O, Cl, NO3, CO3, SO4, etc are the negative parts.</sent>
+				<sent id ="94">You will learn more about this in higher classes.</sent>
+				<sent id ="95">Usually, during the formation of a compound, metallic parts combine with non- metallic elements or radicals.</sent>
+				<sent id ="96">But in some cases non-metallic elements also combine with themselves to form compounds, such as H2O, HNO3, etc.</sent>
+				<sent id ="97">In table 2.5, symbol and valency of metallic elements, non-metallic elements and radicals are given.</sent>
+				<sent id ="98">You may try to form new compounds from this table.</sent>
+				<sent id ="99">Then you will have a clear idea about valency and it will grow your interest.</sent>
+				<sent id ="100">Now, try to write down the formula of the following compounds: ammonium nitrate, calcium chloride, silver sulphate, ammonium sulphate and ammonium phosphate.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

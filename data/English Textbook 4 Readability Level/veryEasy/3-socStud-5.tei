@@ -1,0 +1,96 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.479</idno>
+				<idno type="Number of sentences">68</idno>
+				<idno type="Number of tokens">546</idno>
+				<idno type="Number of token types">235</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t39">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Let us see our country in the map.</sent>
+				<sent id ="2">We know the upper portion of the map is north.</sent>
+				<sent id ="3">The lower portion is south.</sent>
+				<sent id ="4">Now let us see which countries are there around Bangladesh.</sent>
+				<sent id ="5">There are West Bengal, Asam and Megalaya of India on the north.</sent>
+				<sent id ="6">In the east there are Asam and Tripura of India and Myanmar.</sent>
+				<sent id ="7">It is called the Bay of Bengal.</sent>
+				<sent id ="8">Let us draw our country's map.</sent>
+				<sent id ="9">How shall we drawn it?</sent>
+				<sent id ="10">Let us take a thin paper.</sent>
+				<sent id ="11">Let us put the paper on the map.</sent>
+				<sent id ="12">Let it be fixed with pin all around.</sent>
+				<sent id ="13">The map will be visible through the paper clearly.</sent>
+				<sent id ="14">Let us draw the lines around it with the pencil.</sent>
+				<sent id ="15">What a beautiful map has been drawn.</sent>
+				<sent id ="16">The map has been drawn by sketch.</sent>
+				<sent id ="17">So it is called a sketch map.</sent>
+				<sent id ="18">The map of Bangladesh occupies a small space in the world map.</sent>
+				<sent id ="19">The area of Bangladesh is one lac forty seven thousand and five hundred seventy kilometres.</sent>
+				<sent id ="20">Bangladesh is a land of rivers.</sent>
+				<sent id ="21">There are many rivers in the country.</sent>
+				<sent id ="22">Some rivers are small.</sent>
+				<sent id ="23">Some rivers are big.</sent>
+				<sent id ="24">Sometimes tributaries flow from the big rivers.</sent>
+				<sent id ="25">And many rivers fall into the big rivers.</sent>
+				<sent id ="26">It's name is Brahmaputra.</sent>
+				<sent id ="27">The big rivers are generally originated from the hills.</sent>
+				<sent id ="28">The Brahmaputra comes from India to Bangladesh near the district of Kurigram in the north.</sent>
+				<sent id ="29">This river is divided into two parts near the Dewanganj.</sent>
+				<sent id ="30">One branch of it is called the Jamuna flowing towards the south.</sent>
+				<sent id ="31">The other branch is called the Brahmaputra.</sent>
+				<sent id ="32">The Jamuna meets the Padma near Dawlatdia.</sent>
+				<sent id ="33">The Meghna is flowing from the north-east of the country.</sent>
+				<sent id ="34">The Padma falls into the Meghna near Chandpur.</sent>
+				<sent id ="35">Then the Meghna Falls into the Bay of Bengal.</sent>
+				<sent id ="36">Now write the names of main rivers in the following table.</sent>
+				<sent id ="37">Where does the Meghna fall?</sent>
+				<sent id ="38">Which river has the Jamuna met?</sent>
+				<sent id ="39">Where does the Padma met the Maghna.</sent>
+				<sent id ="40">Where does the Karnafuly fall?</sent>
+				<sent id ="41">There are many rivers in our country.</sent>
+				<sent id ="42">So our main communication is water ways.</sent>
+				<sent id ="43">People use boats launches, steamers to journey on the river.</sent>
+				<sent id ="44">Goods are also carried on the way.</sent>
+				<sent id ="45">In the rainy season generally the water of the rivers rise.</sent>
+				<sent id ="46">Then the river water enters the land.</sent>
+				<sent id ="47">Everything around us goes under water.</sent>
+				<sent id ="48">It is called flood.</sent>
+				<sent id ="49">People suffer much when flood occurs.</sent>
+				<sent id ="50">But silt is deposited there when the flood water goes away.</sent>
+				<sent id ="51">Thus land becomes fertile.</sent>
+				<sent id ="52">Good crops are cultivated there.</sent>
+				<sent id ="53">Now fill up the following chart.</sent>
+				<sent id ="54">Which is our main communication?</sent>
+				<sent id ="55">What do we use in the river way?</sent>
+				<sent id ="56">What happens when the river water enters the land?</sent>
+				<sent id ="57">What is deposited after river water goes away?</sent>
+				<sent id ="58">The name of the capital of Bangladesh is Dhaka.</sent>
+				<sent id ="59">Where is Dhaka?</sent>
+				<sent id ="60">Let us see in the map.</sent>
+				<sent id ="61">Dhaka is in the middle of the country.</sent>
+				<sent id ="62">Bangladesh is divided into six divisions.</sent>
+				<sent id ="63">These six divisions are Dhaka, Chittagong, Rajshahi, Khulna, B arisal and Sylhet.</sent>
+				<sent id ="64">Dhaka is the main city of Dhaka Division.</sent>
+				<sent id ="65">The main city of Rajshahi Division Rajshahi which is situated in the north-west.</sent>
+				<sent id ="66">The main city of the country's south-western division, Khulna Division is Khulna.</sent>
+				<sent id ="67">Barisal is the main city of Barisal Division.</sent>
+				<sent id ="68">The main city of Sylhet Division is Sylhet which is situated on the north- east.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

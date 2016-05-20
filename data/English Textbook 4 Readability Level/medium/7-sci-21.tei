@@ -1,0 +1,188 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-21</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.073</idno>
+				<idno type="Number of sentences">160</idno>
+				<idno type="Number of tokens">1997</idno>
+				<idno type="Number of token types">694</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t66">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">All living things, either plants or animals, have a definite body structure.</sent>
+				<sent id ="2">Body structure of living things is initiated with cells.</sent>
+				<sent id ="3">Animal body is formed by animal cells and plant body by plant cells.</sent>
+				<sent id ="4">Cells originating from the same source, with similar nature and suitable for the same function is collectively called tissue.</sent>
+				<sent id ="5">Again, when some tissues collectively perform same function it is called an organ.</sent>
+				<sent id ="6">Similarly, several organs together form a body system.</sent>
+				<sent id ="7">In other words, several organs collectively performing same function is called body system.</sent>
+				<sent id ="8">To carry out the total biological functions of our body there are several body systems.</sent>
+				<sent id ="9">For example: skeletal system digestive system respiratory system blood circulatory system excretory system nervous system reproductive system and co-ordination and conduction system.</sent>
+				<sent id ="10">You all have seen running train.</sent>
+				<sent id ="11">There is an engine in front of the train.</sent>
+				<sent id ="12">This engine pulls the train.</sent>
+				<sent id ="13">The energy that the engine requires to pull the train is derived from the burning of coal or diesel.</sent>
+				<sent id ="14">Not only train, in fact all motorised vehicles like aeroplane,.</sent>
+				<sent id ="15">car and so on require petrol or diesel to run.</sent>
+				<sent id ="16">Energy is stored in petrol, diesel or coal.</sent>
+				<sent id ="17">By the process of photosynthesis, plants convert the solar energy into chemical energy and store it.</sent>
+				<sent id ="18">The potential energy contained in petrol or coal is also indirectly derived from solar energy through photosynthesis.</sent>
+				<sent id ="19">This energy is used by engine.</sent>
+				<sent id ="20">Our body is made of innumerable cells.</sent>
+				<sent id ="21">Just as engines require energy to work, so also our body requires energy to keep alive and active.</sent>
+				<sent id ="22">This energy is derived from food.</sent>
+				<sent id ="23">Food too contains energy derived from solar energy.</sent>
+				<sent id ="24">The energy required for body's different functions is derived from the potential energy stored in food.</sent>
+				<sent id ="25">So, we have to take food to meet the requirements for repair of wear and tear, growth, energy production, protection from disease and so on.</sent>
+				<sent id ="26">The body cells cannot directly take up complex food.</sent>
+				<sent id ="27">So, the complex food has to be broken down into simple form suitable for cellular uptake.</sent>
+				<sent id ="28">The human body process by which food is converted into simple form suitable for cellular absorption is called digestion.</sent>
+				<sent id ="29">The system responsible for digestion of food is called digestive system.</sent>
+				<sent id ="30">The alimentary canal and digestive glands constitute the digestive system.</sent>
+				<sent id ="31">Our alimentary canal starts from the buccal cavity and extends up to the anus.</sent>
+				<sent id ="32">This canal is formed of the following parts.</sent>
+				<sent id ="33">These are mouth aperture buccal cavity pharynx, oesophagus stomach small intestine large intestine and anus.</sent>
+				<sent id ="34">Mouth Aperture: It is the beginning of the alimentary canal.</sent>
+				<sent id ="35">It is an opening used for taking in food and is lined by the upper and lower lips.</sent>
+				<sent id ="36">The closing and opening of the lips regulate intake of food.</sent>
+				<sent id ="37">Buccal Cavity: The mouth is followed by the buccal cavity.</sent>
+				<sent id ="38">The buccal cavity is bounded anteriorly by the two mandibles, which contain the teeth.</sent>
+				<sent id ="39">It is bounded above by the palate and on the floor lies the tongue.</sent>
+				<sent id ="40">Three pairs of salivary glands are situated on either side of the buccal cavity.</sent>
+				<sent id ="41">Teeth help in grinding of food into small pieces.</sent>
+				<sent id ="42">While the food is in the mouth the tongue helps to recognise the taste and help in mastication.</sent>
+				<sent id ="43">Human beings have thirty- two teeth, sixteen in each jaw.</sent>
+				<sent id ="44">These teeth are of four kinds- biting tooth or incisor, tearing tooth or canine, anterior grinding tooth or premolar and grinding tooth or molar.</sent>
+				<sent id ="45">Each kind of teeth has different function.</sent>
+				<sent id ="46">Incisors break food into small pieces.</sent>
+				<sent id ="47">The canines are used to cut and tear flesh.</sent>
+				<sent id ="48">The premolar and molar teeth grind the food and make it soft.</sent>
+				<sent id ="49">The grinding of food can be accomplihed by premolars alone.</sent>
+				<sent id ="50">The absence of molar teeth does not make a difference in grinding.</sent>
+				<sent id ="51">The molar teeth erupt much later than the other teeth.</sent>
+				<sent id ="52">Third molar in each jaw is often called wisdom teeth.</sent>
+				<sent id ="53">Pharynx: Pharynx is situation next to buccal cavity.</sent>
+				<sent id ="54">Through the pharynx food passes into the oesophagus.</sent>
+				<sent id ="55">There is no enzyme in this part of the alimentary canal and so no digestion takes place.</sent>
+				<sent id ="56">Oesophagus: It extends from the pharynx above to the stomach below.</sent>
+				<sent id ="57">It carries food from the pharynx to the stomach.</sent>
+				<sent id ="58">Stomach: Stomach is situated between oesophagus and small intestine.</sent>
+				<sent id ="59">The peristaltic movement of the pharynx and oesophagus conveys the slippery food to the stomach.</sent>
+				<sent id ="60">The stomach is shaped like a sac.</sent>
+				<sent id ="61">Its walls are thick.</sent>
+				<sent id ="62">There is a muscular sphincter at each of the upper and lower ends of the stomach.</sent>
+				<sent id ="63">Small Intestine: The small intestine commences from the stomach and is the longest part of the alimentary canal.</sent>
+				<sent id ="64">The small intestine is divided into three sections: duodenum jejunum and ileum.</sent>
+				<sent id ="65">Duodenum: The duodenum is the first part of the small intestine, that is, ihe part just after the stomach.</sent>
+				<sent id ="66">It looks U-shaped.</sent>
+				<sent id ="67">Bile from gall bladder and pancreatic juice from pancreas passes through a duct into the duodenum to mix with the food.</sent>
+				<sent id ="68">Jejunum: This part lies between duodenum and ileum.</sent>
+				<sent id ="69">Ileum: This is the terminal portion of small intestine.</sent>
+				<sent id ="70">The absorbing organs in this part of the intestine look like fingers and are called villi.</sent>
+				<sent id ="71">The villi help in the absorption of digested food.</sent>
+				<sent id ="72">Large Intestine: This is the last part of the alimentary canal.</sent>
+				<sent id ="73">It extends from ileum of the small intestine to anus.</sent>
+				<sent id ="74">In length, it is shorter than small intestine but has a larger luminal diameter than the small intestine.</sent>
+				<sent id ="75">The large intestine has three parts: caecum colon and ( rectum.</sent>
+				<sent id ="76">Caecum: It is the first part of the large intestine, to which is attached a tubular sac called appendix.</sent>
+				<sent id ="77">Colon: The colon extends from caecum to rectum.</sent>
+				<sent id ="78">Colon has three sections- ascending colon, transverse colon and descending colon.</sent>
+				<sent id ="79">Rectum: The rectum is the terminal portion of the large intestine.</sent>
+				<sent id ="80">It resembles somewhat a sac.</sent>
+				<sent id ="81">The waste products of digested food are stored here as stool.</sent>
+				<sent id ="82">Anus: The terminal end of alimentary canal is the anus.</sent>
+				<sent id ="83">Through this terminal opening, the alimentary canal is connected with the exterior.</sent>
+				<sent id ="84">Faeces are passed out of the body through anus.</sent>
+				<sent id ="85">Digestive Glands and their Function The glands outside the alimentary canal that produce juice, which help in the digestion of food are called digestive glands.</sent>
+				<sent id ="86">Salivary glands,1iver and pancreas are the digestive glands.</sent>
+				<sent id ="87">Salivary glands secrete saliva that contains water, sodium bicarbonate and an enzyme salivary amylase.</sent>
+				<sent id ="88">The water moistens the food, the bicarbonate neutralises the acidity of food and the ptyalin digests carbohydrates.</sent>
+				<sent id ="89">Bile secreted from the liver is stored in the gall bladder.</sent>
+				<sent id ="90">Bile helps in the digestion of fats in the food.</sent>
+				<sent id ="91">The enzymes trypsin, chymotrypsin, lipase and amylase are secreted by the pancreas.</sent>
+				<sent id ="92">Trypsin and chymotrypsin digest protein, lipase digests fat and amylase digests carbohydrates in food.</sent>
+				<sent id ="93">What is digestion?</sent>
+				<sent id ="94">The form in which we eat food cannot be accepted by the body.</sent>
+				<sent id ="95">Under the influence of enzymes in the different parts of the alimentary canal, the food is broken down into smaller, simple absorbable compounds.</sent>
+				<sent id ="96">The process through which these changes occur is the digestive process or digestion.</sent>
+				<sent id ="97">Thus, digestion may be defined, as a process whereby hard and complex food under the influence of enzyme is broken down into simple absorbable form.</sent>
+				<sent id ="98">After the food is chewed in the buccal cavity the food is broken down into small pieces.</sent>
+				<sent id ="99">During this time saliva is mixed with the food.</sent>
+				<sent id ="100">This lubricates the food and helps in deglutition.</sent>
+				<sent id ="101">Saliva contains the enzyme ptyalin that partially breaks down carbohydrate into sugar maltose.</sent>
+				<sent id ="102">(Enzymes are protein like substance secreted by living cells that accelerate the organic chemical reaction and remains unchanged at the end of the reaction.)</sent>
+				<sent id ="103">After this, the food passes from the buccal cavity into the stomach through the oesophagus.</sent>
+				<sent id ="104">When the food reaches the stomach, the wall of the stomach secretes gastric juice.</sent>
+				<sent id ="105">The gastric juice contains the enzyme pepsin that digests the food proteins into peptones.</sent>
+				<sent id ="106">By the light peristaltic movement of the muscles of stomach the food mixes with the gastric juice and digestion begins.</sent>
+				<sent id ="107">The food is formed into a pulp and passed from the stomach to duodenum.</sent>
+				<sent id ="108">In the duodenum, the food is mixed with bile and pancreatic juice.</sent>
+				<sent id ="109">Through a common bile duct the bile and pancreatic juice enter the duodenum.</sent>
+				<sent id ="110">Bile is greenish-yellow with a bitter taste.</sent>
+				<sent id ="111">The function of bile is to break fat part of food into small droplets.</sent>
+				<sent id ="112">The carbonate in the bile helps to neutralise the acid from stomach.</sent>
+				<sent id ="113">The pancreatic juice contains four enzymes-trypsin, chymotrypsin, amylase and lipase.</sent>
+				<sent id ="114">Amylase converts the carbohydrate type of food into simple sugar or glucose.</sent>
+				<sent id ="115">Lipase breaks down fat type of food into fatty acids and glycerol.</sent>
+				<sent id ="116">Digestion of all food is completed within the duodenum.</sent>
+				<sent id ="117">The digested food is absorbed in the subsequent parts of small intestine.</sent>
+				<sent id ="118">There are many finger-like projections in the wall of small intestine.</sent>
+				<sent id ="119">These are called villi (singular: villus).</sent>
+				<sent id ="120">The villi contain many blood capillaries.</sent>
+				<sent id ="121">They absorb the food, which is transported by veins to the liver.</sent>
+				<sent id ="122">The liver sifts and sorts the different types of food and distributes it to the different parts of the body.</sent>
+				<sent id ="123">These food products are used for repair of wear and tear, growth, heat production, reproduction and so on in the body.</sent>
+				<sent id ="124">The liver also arranges to store the food that is not immediately required by the body.</sent>
+				<sent id ="125">The chief function of the large intestine is to absorb water from the food.</sent>
+				<sent id ="126">This function is very essential, as water forms 90 percent of the constituents of each cell.</sent>
+				<sent id ="127">In order to keep body loss of water to the minimum, the large intestine absorbs the water from the food.</sent>
+				<sent id ="128">The last part of large intestine, that is rectum, stores the undigested food material as stool pending defaecation.</sent>
+				<sent id ="129">Many waste products are generated as a result of metabolism in the body.</sent>
+				<sent id ="130">These waste products are harmful for the body.</sent>
+				<sent id ="131">So, these have to be eliminated from the body.</sent>
+				<sent id ="132">The sum total of chemical reactions that are on going in every cell of the body is metabolism.</sent>
+				<sent id ="133">Due to the metabolism of protein type of food, nitrogenous waste products like urea, uric acid are produced in the body.</sent>
+				<sent id ="134">Again, carbon dioxide is produced due to metabolism of fat and carbohydrate type of food.</sent>
+				<sent id ="135">In true sense, the elimination from the body of nitrogen-containing compounds generated from the metabolism of protein type of food is called excretion.</sent>
+				<sent id ="136">The organs that take part in excretion collectively form the excretory system.</sent>
+				<sent id ="137">Kidney is the major organ of excretion.</sent>
+				<sent id ="138">It resembles a bean.</sent>
+				<sent id ="139">Kidneys are two in number.</sent>
+				<sent id ="140">The kidneys are situated at the back of the body, one on either side of the vertebral column.</sent>
+				<sent id ="141">Outer part of each kidney is called the cortex and the inner part is the medulla.</sent>
+				<sent id ="142">The hollow part beneath the medulla is called the pelvis of kidney.</sent>
+				<sent id ="143">A long narrow tube extends downwards from the pelvis called ureter.</sent>
+				<sent id ="144">The ureters transport urine from the kidneys to the urinary bladder.</sent>
+				<sent id ="145">The waste product-carrying artery enters the kidney and breaks up into many branches.</sent>
+				<sent id ="146">These branches end in a twisted coil of capillaries called glomerulus.</sent>
+				<sent id ="147">Surrounding the glomerulus is a capsule.</sent>
+				<sent id ="148">A tube is attached to the capsule.</sent>
+				<sent id ="149">Glomerulus, glomerular capsule and the tube together are called nephron.</sent>
+				<sent id ="150">The nephron is the functional unit of kidney.</sent>
+				<sent id ="151">Each kidney contains about 10 lakh nephrons.</sent>
+				<sent id ="152">Behind the nephron is a convoluted tube that is surrounded by capillary network.</sent>
+				<sent id ="153">The combined length of these convoluted tubes is about 200 miles.</sent>
+				<sent id ="154">The blood is cleansed, as the waste products from the blood are filtered out in the nephron.</sent>
+				<sent id ="155">The filtrate is passed into the nephron tube.</sent>
+				<sent id ="156">During the first filtration, many essential elements are filtered out of blood along with the waste products.</sent>
+				<sent id ="157">But as the filtrate passes through the nephron tube, these essential elements are again filtered and reabsorbed into the blood.</sent>
+				<sent id ="158">After this second filtration, only the waste products remain in the tube dissolved in water.</sent>
+				<sent id ="159">This forms the urine.</sent>
+				<sent id ="160">Urea and uric acid are the major nitrogenous waste products in human body.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,155 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-budh-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.206</idno>
+				<idno type="Number of sentences">127</idno>
+				<idno type="Number of tokens">1251</idno>
+				<idno type="Number of token types">504</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t105">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Nirban is the greatest contribution of the Buddha.</sent>
+				<sent id ="2">He discovered the mystery of life and universe after attainment of Buddhahood or after Enlightenment.</sent>
+				<sent id ="3">Life is the symbol of continuous flow of the cause and effect.</sent>
+				<sent id ="4">Its ultimate aim is Nirban.</sent>
+				<sent id ="5">The word Nirban has been formed in combination of the suffix ni and the word Van.</sent>
+				<sent id ="6">Craving arises in consequence of ignorance or non-knowing.</sent>
+				<sent id ="7">Beings roam in different planes of existence being subject to craving.</sent>
+				<sent id ="8">Vana means craving.</sent>
+				<sent id ="9">The suffix ni means its absence.</sent>
+				<sent id ="10">Nirban is not mundane.</sent>
+				<sent id ="11">So, it cannot be explained in ordinary language.</sent>
+				<sent id ="12">It is subject to realization only.</sent>
+				<sent id ="13">With the presence of sorrows, there exists the feelings of happines.</sent>
+				<sent id ="14">Where there is a bhava as the place of happiness and misery, there is also a state beyond it.</sent>
+				<sent id ="15">This state is called extinction.</sent>
+				<sent id ="16">The extinction is the result of destruction of craving and is called Nirban.</sent>
+				<sent id ="17">Nirban is of two classes viz, Sopadishes Nirban and Anupadishes Nirban.</sent>
+				<sent id ="18">Destructing defilements, the elements of rebirth having not been in existence the knowledge one acquires is called Sopadishes Nirban.</sent>
+				<sent id ="19">Here elements mean body and mind of the present life, defilements means hindrances.</sent>
+				<sent id ="20">Ignorance and craving are main among the elements.</sent>
+				<sent id ="21">Mind and form together constitute the Panchaskandha.</sent>
+				<sent id ="22">Rupa,Vedana, Sangya, Samskar and Vigyan are the five aggregates (Panchaskhanda).</sent>
+				<sent id ="23">This is only the name of individual personality.</sent>
+				<sent id ="24">Ordinary people remain attached to the objects of senses (sense objects) and are subjugated to greed, hatred and ignorance.</sent>
+				<sent id ="25">They cannot go beyond the cycle of birth and death.</sent>
+				<sent id ="26">On the other hand, the Noble persons who have attained the Sopadishes Nirban and emancipation have no attachment to form, sound, odour, sapid and tangible.</sent>
+				<sent id ="27">They do not also welcome them.</sent>
+				<sent id ="28">While the ingredients of the physical body all still present, their active life comes to a stand still position.</sent>
+				<sent id ="29">They turn into a life emancipated person.</sent>
+				<sent id ="30">He was staying in Sopadishes Nirban from the day of His attainment of Buddhahood upto the last moment of his Mahaparinirban.</sent>
+				<sent id ="31">The life-emancipated person who has earned the Sopadishes Nirban after forsaking his body attains the final Nirban.</sent>
+				<sent id ="32">The Nirban He realizes then, is known as Anupadishes Nirban.</sent>
+				<sent id ="33">He does not take any more rebirth.</sent>
+				<sent id ="34">The five aggregates cease to function.</sent>
+				<sent id ="35">There is nothing like death.</sent>
+				<sent id ="36">He surpasses the ocean of Bhava (the three planes of existence) for ever.</sent>
+				<sent id ="37">At the age of eighty, the Buddha attained Mahaparinirban under the twin Shal tree in Kusinagar.</sent>
+				<sent id ="38">The cause of rebirth was destroyed for ever.</sent>
+				<sent id ="39">All the ingredients of building a new house in the; shape of body were destroyed.</sent>
+				<sent id ="40">This is the attainment of His Anupadishes Nirban.</sent>
+				<sent id ="41">Craving is destroyed like the extinguishing of a burning fire.</sent>
+				<sent id ="42">Just at the moment of Cessassion of consciousness (Viggana) of the emancipated person, the mind is released.</sent>
+				<sent id ="43">Rebirth is stopped for ever.</sent>
+				<sent id ="44">Nirban is calm, pleasing, free from impediments, pure and cool.</sent>
+				<sent id ="45">The speciality is that inanimate objects remain in their respective places.</sent>
+				<sent id ="46">But the Nirban is free from decay and death.</sent>
+				<sent id ="47">The direction of other places can be ascertained.</sent>
+				<sent id ="48">But the direction of the Nirban can not be ascertained.</sent>
+				<sent id ="49">Still there is Nirban, admitted by all.</sent>
+				<sent id ="50">It is not mixed with water.</sent>
+				<sent id ="51">So also, the Nirban is free from all sorts of pollutions.</sent>
+				<sent id ="52">Water has two characteristics.</sent>
+				<sent id ="53">Water is cool.</sent>
+				<sent id ="54">It is pleasing in burning condition.</sent>
+				<sent id ="55">Nirban also burns down all sorts of afflictions and cools down.</sent>
+				<sent id ="56">The medicine has three characteristics.</sent>
+				<sent id ="57">The medicine is a refuge to beings from recovery from severe painful illness.</sent>
+				<sent id ="58">Nirban is also a refuge to beings ill of afflictions.</sent>
+				<sent id ="59">The medicine makes an end and destroys diseases.</sent>
+				<sent id ="60">Nirban also makes an end to all sufferings.</sent>
+				<sent id ="61">The medicine is like the nectar to save life.</sent>
+				<sent id ="62">Nirban is also like the nectar to attain emancipation.</sent>
+				<sent id ="63">The ocean has four characteristics.</sent>
+				<sent id ="64">The ocean does not digest the dead and the rotten things and free from all rubbishes.</sent>
+				<sent id ="65">So also, the Nirban is free from all Pollutions.</sent>
+				<sent id ="66">The ocean is great and endless.</sent>
+				<sent id ="67">Magnanimity is its characteristic.</sent>
+				<sent id ="68">Both the banks of it are not seen.</sent>
+				<sent id ="69">The Nirban is also great and not surrounded by boundaries.</sent>
+				<sent id ="70">The ocean is the abode of many big animals.</sent>
+				<sent id ="71">So also, the Nirban is also a abode of great men, Arahants and other great beings.</sent>
+				<sent id ="72">In the ocean, waves, lights and rays are reflected.</sent>
+				<sent id ="73">Similarly, in Nirban knowledge, emancipation and wisdom are also reflected.</sent>
+				<sent id ="74">Food has five characteristics.</sent>
+				<sent id ="75">Food saves the life of all beings.</sent>
+				<sent id ="76">It increases longevity.</sent>
+				<sent id ="77">Similarly, the also a saviour of the emancipated persons and enhances the longevity of the ascetic who has witnessed the Nirban.</sent>
+				<sent id ="78">Food pacifies the problem of hunger of the living beings.</sent>
+				<sent id ="79">The Nirban also relieves the afflictions.</sent>
+				<sent id ="80">Food removes the weakness due to hunger of all beings.</sent>
+				<sent id ="81">The Nirban also makes an end to weakness due to hunger related to all sufferings.</sent>
+				<sent id ="82">Food increases the beauty of the beings.</sent>
+				<sent id ="83">Nirban also enhances the beauty of the emancipated persons.</sent>
+				<sent id ="84">The sky has ten characteristics.</sent>
+				<sent id ="85">The sky is not born, does not decay, does not die, does not dislodge and is not produced.</sent>
+				<sent id ="86">It cannot be taken away by anybody.</sent>
+				<sent id ="87">There is an environment of free movements of the birds.</sent>
+				<sent id ="88">The sky is endless and infinite, does not depend on anything else.</sent>
+				<sent id ="89">Nobody can steal it.</sent>
+				<sent id ="90">It is fit to be trodden by the Ariyas.</sent>
+				<sent id ="91">It is endless and infinite and nobody can steal it.</sent>
+				<sent id ="92">The jewels have three characteristics.</sent>
+				<sent id ="93">The jewels give the things desired, increase joy and radiate lights.</sent>
+				<sent id ="94">Similarly, Nirban also gives the things desired, enhances joy and radiates lustre.</sent>
+				<sent id ="95">The red-sandal has three characteristics.</sent>
+				<sent id ="96">The red-sandal is rare and praised by the Ariyas.</sent>
+				<sent id ="97">It is incomparable in fragrance.</sent>
+				<sent id ="98">Nirban is also rare.</sent>
+				<sent id ="99">Praised by the Ariyas.</sent>
+				<sent id ="100">Ghee has three characteristics.</sent>
+				<sent id ="101">Ghee is colourful, scented and juicy.</sent>
+				<sent id ="102">The Nirban also is colurful, endowed with Shil-odour and full of juicy.</sent>
+				<sent id ="103">The peak of a mountain has five characteristics.</sent>
+				<sent id ="104">The peak of a mountain is very high, does not move and difficult to climb.</sent>
+				<sent id ="105">No seed generates here.</sent>
+				<sent id ="106">It is free from love and hatred.</sent>
+				<sent id ="107">So also, the Nirban is very high, does not move and difficult to climb.</sent>
+				<sent id ="108">It is free from love and hatred.</sent>
+				<sent id ="109">According to the Buddha, the world is impermanent, sorrowful and soulless.</sent>
+				<sent id ="110">The devotee is to meditate on these three objects and has to acquire perfect knowledge.</sent>
+				<sent id ="111">Mind and form of the beings are impermanent and brittle.</sent>
+				<sent id ="112">So, there is no permanent soul in mind and form.</sent>
+				<sent id ="113">Therefore, the birth of the beings is full of sorrows.</sent>
+				<sent id ="114">The origination, disappearance and the ending of birth and death of the five aggregates is called Nirban.</sent>
+				<sent id ="115">This ends the suffering.</sent>
+				<sent id ="116">For this reason the Four Noble truths are to be realized perfectly.</sent>
+				<sent id ="117">The Four Noble truths are : Suffering, Origin of suffering, Cessation of suffering and means of Cessation of suffering.</sent>
+				<sent id ="118">The third Noble truth-the Cessation of suffering is Nirban.</sent>
+				<sent id ="119">And the means of cessation of suffering is Arya Asthangik Marga i.e. the Noble Eightfold Path.</sent>
+				<sent id ="120">The Eightfold Path is the only means to attain Nirban.</sent>
+				<sent id ="121">The Nirban is the summumbonum of the Buddhists.</sent>
+				<sent id ="122">Being enveloped with ignorance, human beings are addicted to worldly pleasures.</sent>
+				<sent id ="123">They are born again and again having fallen into the tide of enjoyment.</sent>
+				<sent id ="124">Having attempted to free oneself from the sufferings one is absorbed in sufferings.</sent>
+				<sent id ="125">There is a Cessation of Tanha while one abstains from the enjoyment of worldly things.</sent>
+				<sent id ="126">With the attaimment of Nirban, there is no more sufferings of birth and death.</sent>
+				<sent id ="127">So the Buddhists desire Nirban.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

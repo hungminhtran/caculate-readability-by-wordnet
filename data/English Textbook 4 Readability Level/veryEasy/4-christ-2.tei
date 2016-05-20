@@ -1,0 +1,73 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.834</idno>
+				<idno type="Number of sentences">45</idno>
+				<idno type="Number of tokens">382</idno>
+				<idno type="Number of token types">185</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t57">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">How beautiful the earth is!</sent>
+				<sent id ="2">How beautiful the earth is! Who created all these?</sent>
+				<sent id ="3">Everything is created by God, the Father.</sent>
+				<sent id ="4">We should praise God for creating all these.</sent>
+				<sent id ="5">Let us now sing a song in praise of our Lord.</sent>
+				<sent id ="6">God has created trees and plants.</sent>
+				<sent id ="7">Some of the trees give us valuable wood; for example, teak, sal, sundari, karai etc.</sent>
+				<sent id ="8">Some other trees give us beautiful flowers.</sent>
+				<sent id ="9">Besides these, there are small plants called shrubs.</sent>
+				<sent id ="10">They give us vegetables.</sent>
+				<sent id ="11">God has also created animals.</sent>
+				<sent id ="12">They are very useful to us.</sent>
+				<sent id ="13">We use cows and buffaloes to plough the land.</sent>
+				<sent id ="14">We get milk and meat from cows, goats, buffaloes etc.</sent>
+				<sent id ="15">Ducks and hens lay eggs for us.</sent>
+				<sent id ="16">We eat their meat.</sent>
+				<sent id ="17">Many useful things are made of the hide of some animals.</sent>
+				<sent id ="18">All of God's creation are useful to us.</sent>
+				<sent id ="19">God has created them to make us happy.</sent>
+				<sent id ="20">This shows that God loves us very much.</sent>
+				<sent id ="21">We thank God for His creation.</sent>
+				<sent id ="22">Sometimes we ask ourselves why God has created plants and animals.</sent>
+				<sent id ="23">He has created them for our good.</sent>
+				<sent id ="24">The following table will show how they help us.</sent>
+				<sent id ="25">How Plants and Animals help us Plants give out oxygen and take in carbon dioxide.</sent>
+				<sent id ="26">We get firewood from trees.</sent>
+				<sent id ="27">We take rest in the shade of trees.</sent>
+				<sent id ="28">We get wood from trees to make houses and furniture.</sent>
+				<sent id ="29">Flowers of trees make things beautiful and keep our mind fresh.</sent>
+				<sent id ="30">Birds make their nests in trees.</sent>
+				<sent id ="31">Some animals live in trees.</sent>
+				<sent id ="32">We eat meat and eggs of some animals.</sent>
+				<sent id ="33">Pet dogs keep a close watch on our houses.</sent>
+				<sent id ="34">We use cows and buffaloes to plough the land.</sent>
+				<sent id ="35">Some animals draw cart.</sent>
+				<sent id ="36">Some animals carry us on their back from one place to another.</sent>
+				<sent id ="37">We use the hide of some animals to make bags, shoes etc.</sent>
+				<sent id ="38">God created man in His own image.</sent>
+				<sent id ="39">Man is the representative of God.</sent>
+				<sent id ="40">To represent God means obeying Him and doing His work as He desires.</sent>
+				<sent id ="41">So it is the duty of human beings to take care of God's creation.</sent>
+				<sent id ="42">How beautiful the earth is!</sent>
+				<sent id ="43">We thank You for this.</sent>
+				<sent id ="44">Please bless us and keep us in good health to do work that You desire.</sent>
+				<sent id ="45">Write down in a table the importance of plants and animals in our life.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

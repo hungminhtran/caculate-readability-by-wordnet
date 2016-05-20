@@ -1,0 +1,151 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-14</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.712</idno>
+				<idno type="Number of sentences">123</idno>
+				<idno type="Number of tokens">1503</idno>
+				<idno type="Number of token types">629</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t6">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">This fish is cultured in different countries of South-East Asia.</sent>
+				<sent id ="2">The fish was imported to our country from Thailand in 1977.</sent>
+				<sent id ="3">It looks almost like a local Sarpunti.</sent>
+				<sent id ="4">The fish is of a harder build than a local Sarpunti.</sent>
+				<sent id ="5">The body of this fish is flat and thin.</sent>
+				<sent id ="6">Although the upper portion of its dorsal side is lightly mud coloured, the body is bright silvery.</sent>
+				<sent id ="7">The tail is segmented.</sent>
+				<sent id ="8">The colour of the ventral fin is light yellowish.</sent>
+				<sent id ="9">There are three rows of teeth in the cavity of the mouth.</sent>
+				<sent id ="10">The fish grinds its feed with these teeth.</sent>
+				<sent id ="11">A Rajpunti has got no stomach; it digests its feed in its small intestines.</sent>
+				<sent id ="12">These intestines are two to three times the length of its body together.</sent>
+				<sent id ="13">A Rajpunti feeds on all kinds of feed.</sent>
+				<sent id ="14">But it is fond of Khudipana .</sent>
+				<sent id ="15">Rajpunti is a hard built, more productive and tasty.</sent>
+				<sent id ="16">This fish can live in water with little oxygen and in high temperature.</sent>
+				<sent id ="17">It feeds on almost all natural feed materials, but small aquatic plants are its favourite feed.</sent>
+				<sent id ="18">This fish can be cultured in all types of pits, ponds, large tanks and abandoned waters.</sent>
+				<sent id ="19">Rajpunti can be cultured in muddy or turbid water also.</sent>
+				<sent id ="20">The natural environment of this country is very suitable for Rajpunti.</sent>
+				<sent id ="21">114 Agricultural Education This fish can be cultured easily comparatively in a short period of time and with less cost.</sent>
+				<sent id ="22">It can be cultured in mix-culture system.</sent>
+				<sent id ="23">Disease infestation incidence is low in case of this fish.</sent>
+				<sent id ="24">A Rajpunti becomes 150 to 200 gm in weight in six months and can be marketed.</sent>
+				<sent id ="25">The fish can be cultured twice a year in the same pond.</sent>
+				<sent id ="26">There are many abandoned ponds and ditches where fish is not cultured.</sent>
+				<sent id ="27">Some ponds or ditches are usually there beside most of the homesteads.</sent>
+				<sent id ="28">Water does not stay there for more than 6-7 months.</sent>
+				<sent id ="29">These are called seasonal ponds.</sent>
+				<sent id ="30">Rajpunti is suitable to be cultured in the seasonal ponds.</sent>
+				<sent id ="31">Carps are not suitable to be cultured in them.</sent>
+				<sent id ="32">As they are very near the dwelling houses, women can also culture Rajpunti in them along with their household chores.</sent>
+				<sent id ="33">It can help reduce protein deficiency of rural families.</sent>
+				<sent id ="34">Moreover, the surplus fish can be sold out in the market.</sent>
+				<sent id ="35">As a result, it will generate income.</sent>
+				<sent id ="36">No cash investment is required for supplementary food.</sent>
+				<sent id ="37">The water used for washing vegetables after they are cut into pieces can be thrown onto the pond.</sent>
+				<sent id ="38">It will prove a feed supplement for rajpunti.</sent>
+				<sent id ="39">As a hard built fish, rajpuntis are less likely to be attacked by diseases.</sent>
+				<sent id ="40">Rajpuntis can be cultured with a little money.</sent>
+				<sent id ="41">The small, abandoned and neglected waters can also be well utilized.</sent>
+				<sent id ="42">One can profit from culturing rajpunti in small waters, ponds or perennial ditches with a little effort.</sent>
+				<sent id ="43">Task to be done necessarily for the cultivation of Rajpunti fish in the pond are discussed here successively:</sent>
+				<sent id ="44">Preparation of the pond: It will be good if the area of the pond measures 15-35 decimals.</sent>
+				<sent id ="45">It is desirable to have water 2/3m deep during the rainy season.</sent>
+				<sent id ="46">Preparation of pond includes proper dressing of its banks and the bottom, clearing weeds, and making it free of voracious and predatory animals.</sent>
+				<sent id ="47">The uneven bottom is to be leveled.</sent>
+				<sent id ="48">Otherwise, netting will be very difficult.</sent>
+				<sent id ="49">If mud is there at the bottom, it should be removed.</sent>
+				<sent id ="50">Excessive mud may trigger poisonous gases.</sent>
+				<sent id ="51">If big trees are there on the banks of the pond, their branches are to be pruned.</sent>
+				<sent id ="52">Otherwise, the leaves will fall in the pond, decompose and degrade the water.</sent>
+				<sent id ="53">Control of weeds: All weeds like kalmi, helencha, and the creepers in the pond will have to be removed.</sent>
+				<sent id ="54">Hinder the sunlight to reach the water of the pond.</sent>
+				<sent id ="55">Act as host of the pathogen of diseases and parasites.</sent>
+				<sent id ="56">Hinder the movement of fish.</sent>
+				<sent id ="57">Cause depletion of oxygen at night and on cloudy days.</sent>
+				<sent id ="58">Reduce the dissolved feed ingredients in water.</sent>
+				<sent id ="59">Weed control is an urgent task for pond preparation.</sent>
+				<sent id ="60">By netting or by drying out the pond: Before you culture fish, remove the predator fishes like shol, boal, taki, chitol, etc. by repeated netting.</sent>
+				<sent id ="61">If they cannot be removed by netting, dry out the pond.</sent>
+				<sent id ="62">The tablet is to be equally spread throughout the whole pond and the water is to be thoroughly stirred by netting.</sent>
+				<sent id ="63">After 1-2 hours of the application of the chemical when the fishes begin to float on the water, pick them up.</sent>
+				<sent id ="64">The effect of this poison lingers for 7 days.</sent>
+				<sent id ="65">You may also mix rotenon with water and sprinkle the mixture through the length and breadth of the pond.</sent>
+				<sent id ="66">The fishes killed by rotenon or phostoxin remain edible.</sent>
+				<sent id ="67">Rotenon looks like gum.</sent>
+				<sent id ="68">For every decimal of the water, 35 gram of the powder is to be mixed with water to spray.</sent>
+				<sent id ="69">Sometimes after the application of rotenon, the fishes will be floating on the water.</sent>
+				<sent id ="70">Net them up.</sent>
+				<sent id ="71">The toxic effect of rotenon persists in the pond for 7 days maximum.</sent>
+				<sent id ="72">Treat the water with lime and fertilizers for the growth of natural feed.</sent>
+				<sent id ="73">Lime: After 1-2 days of application of toxic materials or drying out the pond, apply lime at the rate of 1 kg per decimal.</sent>
+				<sent id ="74">Dolomitic or calcite lime should first be mixed Let it cool down.</sent>
+				<sent id ="75">Spray it all through the pond.</sent>
+				<sent id ="76">It is now ready to host fishes.</sent>
+				<sent id ="77">Usually fries are available from mid April to mid October (Baishakh-Kartik).</sent>
+				<sent id ="78">Transportation of fish fries: Fries are to be transported in polythene bags or earthen or aluminium pots.</sent>
+				<sent id ="79">The containers should have some additional oxygen from the farms.</sent>
+				<sent id ="80">The bags of the fries should always be kept in shades.</sent>
+				<sent id ="81">If they are kept in the sum, the fries will die from the water getting hot.</sent>
+				<sent id ="82">The polythene bags should be dressed with gunny bags.</sent>
+				<sent id ="83">It will protect the bags from damage.</sent>
+				<sent id ="84">You may transport fries in earthen or aluminium containers, too.</sent>
+				<sent id ="85">Stocking: It is not wise to stock the fries straight away after they are brought in from the farm.</sent>
+				<sent id ="86">The temperature of the water of the bags or the pots is not equal to that of the water of the pond.</sent>
+				<sent id ="87">In this condition, the bags or the pots filled with fries are to be dipped in the pond water for sometime.</sent>
+				<sent id ="88">If the bags or pots are kept in this state, the fries will also slowly move in a procession to the pond.</sent>
+				<sent id ="89">Providing feed: Rajpuntis can take any material edible to fish.</sent>
+				<sent id ="90">However, you may give them a mixture of rice bran and mustard oil cake as supplementary feed.</sent>
+				<sent id ="91">From the second day of releasing the fries, feed is to be given twice a day in the mornings and in the evenings.</sent>
+				<sent id ="92">Besides these, fresh leaves of plants or different vegetables can be supplied after cutting those into small pieces.</sent>
+				<sent id ="93">Khudipana is the best food for rajpuntis.</sent>
+				<sent id ="94">Khudipana is to be collected from drains and rice fields and supplied to the pond as food.</sent>
+				<sent id ="95">In order to increase the natural production of the pond,s organic manures, inorganic fertilizers are to be applied at an interval of 7 days.</sent>
+				<sent id ="96">The quantity of supplementary feed for a decimal of the surface of the water: Examining the health and growth of fish:</sent>
+				<sent id ="97">The health of fish should be examined by netting the pond once a month.</sent>
+				<sent id ="98">Weights of fish should also be examined after taking a few fishes in a small tub.</sent>
+				<sent id ="99">It is to be noticed if they are gaining weight.</sent>
+				<sent id ="100">Harvesting: After 4-5 months of nursing, the fishes become big enough.</sent>
+				<sent id ="101">When they are 150 grams or above in weight, they qualify for marketing.</sent>
+				<sent id ="102">The big ones are to be netted.</sent>
+				<sent id ="103">The small ones are to be released to the pond again.</sent>
+				<sent id ="104">In the same way, all the fishes are to be harvested in 6-7 months.</sent>
+				<sent id ="105">Otherwise, the water of the seasonal pond will dry out.</sent>
+				<sent id ="106">This course of operation will give more yield and fetch more economic benefits.</sent>
+				<sent id ="107">Marketing: Fishes perish soon.</sent>
+				<sent id ="108">They get soft and decompose in a short period.</sent>
+				<sent id ="109">Rotten fishes do not agree with our taste.</sent>
+				<sent id ="110">They do not sell well.</sent>
+				<sent id ="111">They perish more in summer than in winter.</sent>
+				<sent id ="112">Fishes are to be collected early in the morning to market them fresh.</sent>
+				<sent id ="113">If they are kept in ice as soon as they are caught, they remain fresh.</sent>
+				<sent id ="114">But if ice is not available, fishes are to be caught at a time consistent with the market time.</sent>
+				<sent id ="115">In this way, you can dispose them up while they are fresh.</sent>
+				<sent id ="116">See the feed materials in the practical class.</sent>
+				<sent id ="117">Know from your teacher where you can which feed material.</sent>
+				<sent id ="118">Write about the feed materials in the practical notebook.</sent>
+				<sent id ="119">Now prepare fish feed according to the following recipe.</sent>
+				<sent id ="120">Let the oil-cake soak up water overnight.</sent>
+				<sent id ="121">Mix rice bran with the soaked oil cake, and make small balls.</sent>
+				<sent id ="122">Write down the method of preparation you have followed.</sent>
+				<sent id ="123">Surround the khudipana at a certain space of the pond with bamboo or rope or both.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

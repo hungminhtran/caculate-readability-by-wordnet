@@ -1,0 +1,127 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-budh-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:04.402</idno>
+				<idno type="Number of sentences">99</idno>
+				<idno type="Number of tokens">1409</idno>
+				<idno type="Number of token types">567</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t44">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The main aim of the religion preached by great compassionate Gautama Buddha is Nibbana or Emancipation.</sent>
+				<sent id ="2">The general meaning of the word Nibbana is extinction.</sent>
+				<sent id ="3">Here Ni is a negative, Vana means bondage or craving.</sent>
+				<sent id ="4">So Nibbana is derived from the word Vana with the prefix Ni in the beginning.</sent>
+				<sent id ="5">Ni is used to denote Want or Destructon and Vana means to understand the edge of an arrow.</sent>
+				<sent id ="6">According to Buddhist Scriptures, Vana means desire or bond.</sent>
+				<sent id ="7">Hence, though the meaning of the Nibbana is extinction, yet its theological meaning is the cessation of desires or bond.</sent>
+				<sent id ="8">For this, Nibbana is called the highest bliss.</sent>
+				<sent id ="9">Now we will try to understand what is Nibbana.</sent>
+				<sent id ="10">Man is encircling repeatedly from one birth to another existence for enhancement of craving (tanha) or attachment (Bandhana).</sent>
+				<sent id ="11">For it is called Bhavacakka or the wheel of life; that means, one has to take births from one to another after death.</sent>
+				<sent id ="12">For this, man has to undergo immense sufferings in every existence.</sent>
+				<sent id ="13">Buddha has said, Birth, old age and death are the sufferings.</sent>
+				<sent id ="14">When man is born, he is destined to death.</sent>
+				<sent id ="15">But death is not the end of suffering.</sent>
+				<sent id ="16">Because, man is born again and again for the cause of desires.</sent>
+				<sent id ="17">It is necessary to have cessation of the desire fully if one is to escape births permanently.</sent>
+				<sent id ="18">The cessation of desire means the end of birth and death.</sent>
+				<sent id ="19">The full cessation of birth and death is Nibbana.</sent>
+				<sent id ="20">Whatever we mean to explain Nibbana, its definition is not easy to understand.</sent>
+				<sent id ="21">For this reason, Gautama Buddha has not directly explained Nibbana to His disciples.</sent>
+				<sent id ="22">But He has shown the way and the method of attaining Nibbana in various forms.</sent>
+				<sent id ="23">Just as the burning fire ceased to an end, so the desire is perished.</sent>
+				<sent id ="24">The mind of the emancipated person is calm with the cessation of consciousness.</sent>
+				<sent id ="25">So the rebirth of the liberated person is completely ceased.</sent>
+				<sent id ="26">He who will wander with heedfulness following the Disciplinary code and the Discourses admonished by the Buddha, will be able to seek the end of suffering by passing beyond the wheel of life and existence.</sent>
+				<sent id ="27">The precis of the two gathas are that the liberated person ceases the desire or the suffering and reaches the door of the path to Nibbana.</sent>
+				<sent id ="28">Distinguished scholars, philosophers and authors of the scriptures have defined and explained Nibbana in various ways.</sent>
+				<sent id ="29">Asvaghosa, the author of the Buddhacarita kavya has said that Nibbana is the cessation of rebirth.</sent>
+				<sent id ="30">It means that if the volitional formations are ceased, the transmigration is resisted.</sent>
+				<sent id ="31">Acharya Nagarjuna has mentioned in the --Madhyamika sutra that the annihilation of Bhavasantati, that is, the Cessation of the continuity of existence is Nibbana.</sent>
+				<sent id ="32">That is the end of birth (Bhavasanskara) is Nibbana.</sent>
+				<sent id ="33">According to Santideva's opinion, all renouncements are Nirvan or the cessation of happiness and sorrow (Sukhadukha), Five aggregates (pancakkhandhas) and Ahambodha (I-ness) is Nibbana.</sent>
+				<sent id ="34">There are many illustrations about Nibbana.</sent>
+				<sent id ="35">If these illustrations are reviewed and explained, it is seen that Nibbana is the ultimate state of pure knowledge.</sent>
+				<sent id ="36">The restraint of evil inclinations like egoism, lust, anger, delusion etc. and the freedom from all covetousness are Nibbana.</sent>
+				<sent id ="37">Rupa (Form), Vedana (Feeling), Sanna (Sense), Sankhara (Volitional formations) and Vinnana (Consciousness)-these five clingings are, according to terminology, called pancakkhandhas (Five aggregates).</sent>
+				<sent id ="38">When Nibbana is realized in the body, that is, with these Five aggregates, it is called Sopadisesa Nibbana.</sent>
+				<sent id ="39">It is to be mentioned here as an example that when the Buddha attained the fruition of Nibbana meditating six years of asceticism at the foot of the Bo-tree with the cessation of suffering and desire, it is called Sopadisesa Nibbana.</sent>
+				<sent id ="40">When an Arhant attains Parinibbana after the dissolution of the body (pancakkhandhas), without any remainder of any physical existence, it is termed as Anupadisesa Nibbana.</sent>
+				<sent id ="41">It is noted here that when the Buddha, after His Enlightenment, preached His doctrine for forty five years and after that, He finally entered into Parinibbana is the illustration of Anupadisesa Nibbana.</sent>
+				<sent id ="42">To understand the nature of Nibbana, it is necessary to have the conception about living beings and material things in the entire universe.</sent>
+				<sent id ="43">Because, every living being and material thing display different qualities.</sent>
+				<sent id ="44">Again, these qualities are not motionless or external.</sent>
+				<sent id ="45">They are continually changing.</sent>
+				<sent id ="46">The vicissitude is never blissful.</sent>
+				<sent id ="47">For this, everlasting soul is not confessed.</sent>
+				<sent id ="48">Hence, the Buddha has said, The earthly life-is temporary, sorrowful and soulless.</sent>
+				<sent id ="49">He has also advised His disciples to control the fickle and diverted mind from all outlooks for the destruction of the wheel of rebirth.</sent>
+				<sent id ="50">How is it possible?</sent>
+				<sent id ="51">The main path for controlling the mind is the practice of Jhana (meditation), Brahmacariya (chastity) and Ariya Atthangika Magga (Noble Eightfold path).</sent>
+				<sent id ="52">It is explained and mentioned in the Milinda panha that Nibbana is unexpressable and matchless.</sent>
+				<sent id ="53">It is not identified with similes of location, time, object, argument, evidence or example.</sent>
+				<sent id ="54">Nibbana is calm and blissful.</sent>
+				<sent id ="55">It is also mentioned in the Health is the highest gain, contentment is the greatest wealth, confidence is the best kinsman, Nibbana is the supreme bliss.</sent>
+				<sent id ="56">All the followers pray for attaining such supreme bliss as described in the gatha quoted above.</sent>
+				<sent id ="57">But suffering must be uprooted to gain the bliss.</sent>
+				<sent id ="58">Ariya Atthangika Magga or The Noble Eightfold path is the only way to attain Nibbana.</sent>
+				<sent id ="59">By following and practising this path, the suffering fully ceases and Nibbana is attained.</sent>
+				<sent id ="60">The devotee is fully enlightened and emancipated.</sent>
+				<sent id ="61">Siddhartha Gautama had.practised austere meditation for this emancipation.</sent>
+				<sent id ="62">After meditation got the fruition and attained Nibbana.</sent>
+				<sent id ="63">Now we shall try to understand the meaning of the extract, Nibbanam paramam sukham-Nibbana is the highest bliss.</sent>
+				<sent id ="64">The Buddha has told His disciples in the Ariyapa Tiyesana sutta, I have understood the bad consequences of birth, old age, disease and lamentation etc. Nibbana is realised as birthless, decayless, deathless, griefless and painless.</sent>
+				<sent id ="65">So I have ceased all the sufferings.</sent>
+				<sent id ="66">So to speak, Nibbana is the supreme bliss.</sent>
+				<sent id ="67">All matters of the world are of two kinds, namely, Sankhata (conditioned) and Asankhata (unconditioned).</sent>
+				<sent id ="68">The matters (mental and physical) conditioned by causality and subject to change, are Sankhata (conditioned).</sent>
+				<sent id ="69">Those which are not conditioned by causality and have no change are Asankhata (unconditioned).</sent>
+				<sent id ="70">Nibbana is calm and eternal.</sent>
+				<sent id ="71">Nibbana is causeless.</sent>
+				<sent id ="72">It has no origin and extinction.</sent>
+				<sent id ="73">Nibbana is the supreme bliss.</sent>
+				<sent id ="74">It is the best of what are visible or invisible or imaginary.</sent>
+				<sent id ="75">There is no other excellent desirable thing besides this attainment.</sent>
+				<sent id ="76">Fot this, the meditative and wise man concentrate in untiring meditation to attain Nibbana.</sent>
+				<sent id ="77">Buddhism is the religion of wisdom; it is the religion of the wise;.</sent>
+				<sent id ="78">So can be attained by the wise.</sent>
+				<sent id ="79">Merits and demerits have to be fully right thinking.</sent>
+				<sent id ="80">Sankharas (Volitional formations) are to be destroyed by meditation following the Buddha's teaching.</sent>
+				<sent id ="81">Attainment of Nibbana is possible after doing all these.</sent>
+				<sent id ="82">Wisdom and meditation are necessary for the attainment of Nibbana.</sent>
+				<sent id ="83">There is no concentration to him who lacks wisdom, nor there is wisdom to him who lacks concentration.</sent>
+				<sent id ="84">He who has both concentration and wisdom is indeed, in the presence of Nibbana.</sent>
+				<sent id ="85">The virtuous and wise Bhikkhu or the learned man have to be free from lust, hatred and ignorance by concentrating in meditaion.</sent>
+				<sent id ="86">After that, he will be unattached, fearless and benevolent.</sent>
+				<sent id ="87">As a result, he attains Nibbana.</sent>
+				<sent id ="88">Though it is difficult to understand Nibbana and to explain it to others, yet it is not impossible for man to attain it.</sent>
+				<sent id ="89">Man has to endeavour entirely in this existence or from one to other.</sent>
+				<sent id ="90">So it becomes necessary to acquire knowledge about Cattari Ariya Saccani or Four Noble Truths and to cultivate Ariya Atthangika Magga or Eightfold Noble Path.</sent>
+				<sent id ="91">Thereafter, it is possible for one to attain Nibbana by the fruition of good deeds done by him.</sent>
+				<sent id ="92">On the other hand, it is impossible to attain Nibbana by doing evil deeds.</sent>
+				<sent id ="93">He has take so many births by the adverse result of bad deeds done by him in the wheel of life.</sent>
+				<sent id ="94">As a result, he has to suffer the consequences of misdeeds for aeons instead of attaining Nibbana.</sent>
+				<sent id ="95">In the fulfilment of emancipation, Nibbana stands without any distinction.</sent>
+				<sent id ="96">The untiring aspiration of the wise man takes him to the path of Nibbana.</sent>
+				<sent id ="97">As the followers of the Buddhist faith, we should affirm Nibbana.</sent>
+				<sent id ="98">All of us endeavour to attain Nibbana by following the way directed by the Buddha.</sent>
+				<sent id ="99">This should be daily duties of all of us.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

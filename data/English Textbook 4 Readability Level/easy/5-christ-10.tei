@@ -1,0 +1,128 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.079</idno>
+				<idno type="Number of sentences">100</idno>
+				<idno type="Number of tokens">1127</idno>
+				<idno type="Number of token types">509</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t14">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Earlier we learned the names of the twelve Apostles.</sent>
+				<sent id ="2">We also learned how they responded to the call of Jesus and took part in his mission.</sent>
+				<sent id ="3">Now we will know about another Apostle named Paul.</sent>
+				<sent id ="4">Previously he was called Saul.</sent>
+				<sent id ="5">Saul, a Hebrew name, is Paul in Latin.</sent>
+				<sent id ="6">Previously Saul was an oppressor.</sent>
+				<sent id ="7">But after his conversion he came to be known as Paul.</sent>
+				<sent id ="8">He was not one of the twelve Apostles.</sent>
+				<sent id ="9">Even then he is called an Apostle.</sent>
+				<sent id ="10">Saul was a Jew.</sent>
+				<sent id ="11">There were two types of people in the Jewish community: the Pharisees and the Sadducees.</sent>
+				<sent id ="12">Soul was a Pharisee.</sent>
+				<sent id ="13">The father of Saul lived in the city of Tarsus.</sent>
+				<sent id ="14">He used to make tents with the leather of animal and sell them.</sent>
+				<sent id ="15">Saul learned the art of making tents from his father.</sent>
+				<sent id ="16">When Saul was about eighteen, he came to Jerusalem.</sent>
+				<sent id ="17">There he became a disciple of a religious teacher named Gamaliel and gained the necessary knowledge about the Jewish religion.</sent>
+				<sent id ="18">Saul's knowledge in both matters of faith and Scriptures was vast.</sent>
+				<sent id ="19">Besides other works, he used to make tents.</sent>
+				<sent id ="20">He earned his own living from the works he did.</sent>
+				<sent id ="21">Saul used to think that the Jewish religion was the only true religion.</sent>
+				<sent id ="22">So he searched out the people who were converted to Christianity from Judaism and sent them to jail.</sent>
+				<sent id ="23">He imprisoned both men and women.</sent>
+				<sent id ="24">He never showed any mercy or love to them.</sent>
+				<sent id ="25">He inflicted heavy punishment upon them.</sent>
+				<sent id ="26">He himself confessed this and it has been written in the holy Bible.</sent>
+				<sent id ="27">One of Christian believers killed by throwing stones was Stephen.</sent>
+				<sent id ="28">He was a Deacon.</sent>
+				<sent id ="29">When stones were being thrown at Stephen, Saul was standing nearby.</sent>
+				<sent id ="30">Those who were throwing stones at Stephen took off their outer garments and kept them at the feet of Saul.</sent>
+				<sent id ="31">Saul was guarding it.</sent>
+				<sent id ="32">That proved that Saul consented to the killing of Stephen.</sent>
+				<sent id ="33">Saul conspired to kill all the followers of Jesus.</sent>
+				<sent id ="34">So he took a written permission from the High Priest.</sent>
+				<sent id ="35">He, along with some of his companions, started to move towards Damascus.</sent>
+				<sent id ="36">The distance from Jerusalem to Damascus was more than 130 miles.</sent>
+				<sent id ="37">It was noon when they drew near Damascus.</sent>
+				<sent id ="38">Then suddenly a bright light from heaven fell on them.</sent>
+				<sent id ="39">Saul fell to the ground and heard a voice of someone saying: Saul, Saul!</sent>
+				<sent id ="40">Why do you persecute me?</sent>
+				<sent id ="41">Saul Saul falls off the horse asked: Who are you, Lord?</sent>
+				<sent id ="42">He replied: I am Jesus, whom you persecute.</sent>
+				<sent id ="43">But get up now and go to the city, where you will be told what you must do.</sent>
+				<sent id ="44">His companions stopped and did not say a word.</sent>
+				<sent id ="45">They heard the voice talking with Saul but could not see a thing.</sent>
+				<sent id ="46">Saul got up from the ground and opened his eyes, but could not see anything.</sent>
+				<sent id ="47">So his companions took him by the hand and led him into Damascus.</sent>
+				<sent id ="48">Jesus had another disciple named Ananias in Damascus.</sent>
+				<sent id ="49">Jesus appeared to him in a vision and said: Ananias!</sent>
+				<sent id ="50">Go to Straight Street and at the house of Judas ask for a man from Tarsus named Saul.</sent>
+				<sent id ="51">Jesus said: Don't be afraid.</sent>
+				<sent id ="52">He wants you to get back your sight and be fulfilled with the Holy Spirit.</sent>
+				<sent id ="53">At once something like fish scales fell from Saul's eyes and he was able to see again.</sent>
+				<sent id ="54">He stood up and was baptized.</sent>
+				<sent id ="55">From then on he became a follower of Jesus.</sent>
+				<sent id ="56">After he had eaten, his strength came back.</sent>
+				<sent id ="57">After Saul's conversion people started calling him Paul.</sent>
+				<sent id ="58">He stayed for a few days with the believers in Damascus.</sent>
+				<sent id ="59">He preached that only Jesus could liberate man from sin.</sent>
+				<sent id ="60">Seeing Paul preach the message of Jesus in this way, the Jews of Damascus grew very angry.</sent>
+				<sent id ="61">On the other hand, many were touched by his preaching and started being converted to Christianity.</sent>
+				<sent id ="62">Therefore, the Jews tried to kill him.</sent>
+				<sent id ="63">They began to guard the entrances of the town day and night so that Paul could not escape.</sent>
+				<sent id ="64">Paul and his disciples came to know about the conspiracy of the Jews.</sent>
+				<sent id ="65">One night Paul's disciples carried him in a basket and took him outside the wall of the town.</sent>
+				<sent id ="66">In this way Paul was saved.</sent>
+				<sent id ="67">Coming to Jerusalem, Paul, along with his disciples, tried to join the mission of preaching the message of Jesus.</sent>
+				<sent id ="68">But all the disciples feared him because they could not trust him as an authentic disciple of Jesus.</sent>
+				<sent id ="69">But Barnabas took Paul to the Apostles and introduced him to them.</sent>
+				<sent id ="70">He further told them that Paul had already started preaching the message of Jesus with great courage.</sent>
+				<sent id ="71">After that the disciples gradually began to accept Paul.</sent>
+				<sent id ="72">Paul became a great preacher of the messages of Jesus.</sent>
+				<sent id ="73">Taking more disciples with him, he traveled to different places in order to preach the message.</sent>
+				<sent id ="74">He made three mission journeys one after another.</sent>
+				<sent id ="75">His missionary journeys described below: Paul's first missionary journey to preach the gospel .</sent>
+				<sent id ="76">On his first missionary journey Paul took Barnabas Mark with him and went to the Island of Cyprus by sea.</sent>
+				<sent id ="77">There he preached the Good News at Salamis and Paphos.</sent>
+				<sent id ="78">After preaching there, they went to Asia Minor by water.</sent>
+				<sent id ="79">Study the map of the first journey of Paul in your book.</sent>
+				<sent id ="80">On his second journey Paul took Silas with him.</sent>
+				<sent id ="81">At first they preached in places like Syria, Cilicia, Derbe, Frigea, Galatia, Troas, Macedonia, Philippi, Thessalonica, Berea, Corinth etc.</sent>
+				<sent id ="82">In order to help the Christian grow in their faith and spirituality, Paul wrote some letters during the third journey.</sent>
+				<sent id ="83">He wrote to the Galatians, to the Romans, to the Philippians one letter each, and two letters to the Corinthians.</sent>
+				<sent id ="84">Paul endured much pain and suffering during his missionary work.</sent>
+				<sent id ="85">In the letter to the Corinthians he described all his sufferings and pains .</sent>
+				<sent id ="86">He was imprisoned many times and was subjected to violence including whipping.</sent>
+				<sent id ="87">His ship sank in the sea.</sent>
+				<sent id ="88">He suffered in the floods.</sent>
+				<sent id ="89">He was attacked by robbers.</sent>
+				<sent id ="90">And he passed hard days without food in the deserts and on the sea.</sent>
+				<sent id ="91">Still he carried on his responsibility of preaching the messages of the Lord Jesus to the end.</sent>
+				<sent id ="92">Besides, without depending on others, he made tents and sewed caps and sold those for earning money.</sent>
+				<sent id ="93">During the leisure time, he wrote letters to different groups or communities to inspire them.</sent>
+				<sent id ="94">Thus he wrote 13 letters in total.</sent>
+				<sent id ="95">Towards the end of his life, he was imprisoned in Rome.</sent>
+				<sent id ="96">But he continued to preach the messages of Jesus till the last day of his life.</sent>
+				<sent id ="97">Prayer: My Lord!</sent>
+				<sent id ="98">If you want to use us at Your service, enable us to hear Your call and respond to it.</sent>
+				<sent id ="99">Be with us always!</sent>
+				<sent id ="100">Help us to lead virtuous life.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

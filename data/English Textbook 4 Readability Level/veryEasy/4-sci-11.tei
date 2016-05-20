@@ -1,0 +1,63 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.285</idno>
+				<idno type="Number of sentences">35</idno>
+				<idno type="Number of tokens">351</idno>
+				<idno type="Number of token types">202</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t77">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">You have also learnt that over population creates various problems for a country.</sent>
+				<sent id ="2">It suffers food shortages.</sent>
+				<sent id ="3">Over population causes harm to and pollutes the environment.</sent>
+				<sent id ="4">Air and water become polluted.</sent>
+				<sent id ="5">People start facing unemployment.</sent>
+				<sent id ="6">You have learnt about environment pollution in earlier classes.</sent>
+				<sent id ="7">According to Census Report 2001 the population of Bangladesh is, about 130.03 million.</sent>
+				<sent id ="8">A census is conducted every 10 years.</sent>
+				<sent id ="9">Censuses not only give us information about the total population of a country.</sent>
+				<sent id ="10">You know that the population of the world is increasing day by day.</sent>
+				<sent id ="11">Because of the increase in population, the numbers of vehicles and factories are also increasing.</sent>
+				<sent id ="12">That is why summer feels hotter nowadays.</sent>
+				<sent id ="13">On the other hand, it feels less cold in winter.</sent>
+				<sent id ="14">If the forests and trees diminish, the amount of rain also decreases.</sent>
+				<sent id ="15">This may result in a change of climate.</sent>
+				<sent id ="16">So you can now understand how over population can affect the climate and weather.</sent>
+				<sent id ="17">You have learnt that the number of factories increases as the population increases.</sent>
+				<sent id ="18">Many plants grow in the soil and cover it.</sent>
+				<sent id ="19">This causes the land to become infertile.</sent>
+				<sent id ="20">Crops cannot be cultivated there.</sent>
+				<sent id ="21">Besides, factory wastes can also become mixed with the soil and cause soil pollution.</sent>
+				<sent id ="22">You have learnt about the effects of over population on the environment.</sent>
+				<sent id ="23">The effects of over population are also visible in various areas of our life.</sent>
+				<sent id ="24">Even the school you study at is not free of these effects.</sent>
+				<sent id ="25">This can be explained using an example.</sent>
+				<sent id ="26">Number of children increases as the population increases.</sent>
+				<sent id ="27">This results in huge rush for admission at schools.</sent>
+				<sent id ="28">Many of these children cannot get admitted to the institutions of their choice.</sent>
+				<sent id ="29">The schools sometimes are forced to accept too many students.</sent>
+				<sent id ="30">If there are too many students in a school, it may face various problems.</sent>
+				<sent id ="31">Classrooms cannot accommodate the children properly.</sent>
+				<sent id ="32">To make room, students have to sit in a rather congested manner.</sent>
+				<sent id ="33">They cannot take care of all the students equally well.</sent>
+				<sent id ="34">This hampers the learning process of the students.</sent>
+				<sent id ="35">It becomes very hard to keep the school clean in such cases.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

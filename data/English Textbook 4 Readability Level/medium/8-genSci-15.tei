@@ -1,0 +1,141 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.94</idno>
+				<idno type="Number of sentences">113</idno>
+				<idno type="Number of tokens">1498</idno>
+				<idno type="Number of token types">568</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t130">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We know that fruits develop from flowers.</sent>
+				<sent id ="2">Ripe mango, jackfruit, banana, orange etc. which may be eaten without cooking are considered to be fruits.</sent>
+				<sent id ="3">These fruits develop by transformation of ovaries of gynoecium of flower.</sent>
+				<sent id ="4">The transformation occurs in the ovary after pollination and fertilization.</sent>
+				<sent id ="5">In case pollination and fertilization do notoccur, immature, ovaries of flowers fall off and thus fruits do not develop.</sent>
+				<sent id ="6">From this discussion, it is evident that it is very difficult to define fruit in easy language.</sent>
+				<sent id ="7">The structure formed by fertilization of the fully grown mature ovary is known as fruit.</sent>
+				<sent id ="8">Pericarp: The outer covering of the fruit is known as pericarp.</sent>
+				<sent id ="9">The pericarp of a fleshy fruit like mango consists ofthree layers.</sent>
+				<sent id ="10">Epicarp: The outer most layer of mango is called epicarp.</sent>
+				<sent id ="11">The epicarp may be thick.</sent>
+				<sent id ="12">Mesocarp: This is the fleshy part of fruit.</sent>
+				<sent id ="13">The mesocarp is edible.</sent>
+				<sent id ="14">Endocarp: This is the innermost layer of pericarp and it covers the seed.</sent>
+				<sent id ="15">Seeds: One or more seeds may be present inside a fruit.</sent>
+				<sent id ="16">But in mango a single seed remains covered with the endocarp.</sent>
+				<sent id ="17">A mango seed is dicotyledonous (a seed which consists of two cotoylodons).</sent>
+				<sent id ="18">Types of fruits: Fruits are classified on the basis of their origin, nature, source, fertilization etc.</sent>
+				<sent id ="19">Fruits are primarily divided into two groups on the basis of the floral parts, which contribute to the formation of the fruits.</sent>
+				<sent id ="20">True fruit: When the fruit develops from the ovary only, its is known as true fruit, such as- mango, berry, plum, pea etc.</sent>
+				<sent id ="21">In dillenia and apple the calyx and thalamus constitute fruits respectively.</sent>
+				<sent id ="22">Fruits are divided into three main classes on the basis of their origin and nature.</sent>
+				<sent id ="23">On the basis of the nature of pericarp, simple fruits are again classified into two groups, - dry fruits and fleshy fruits.</sent>
+				<sent id ="24">Dry fruits : Fruits having thinand dehiscent pericarps whenthey are ripe, are known as dry fruits.</sent>
+				<sent id ="25">Examples of such fruits are mustard, lady's finger etc.</sent>
+				<sent id ="26">Fleshy fruits : Fruits with thick and succulent pericarps are known as fleshy fruits.</sent>
+				<sent id ="27">The pericarp of fleshy fruit does not split open at maturity.</sent>
+				<sent id ="28">Mango, banana, apple, cucumbe etc belong to this group.</sent>
+				<sent id ="29">b) Aggregate fruit : When the fruit develops from the ovaries with many free carpels of a flower, it is known as aggregate fruit.</sent>
+				<sent id ="30">The number of fruitlets formed corresponds with the number of carpels present in the gynoecium of the flower.</sent>
+				<sent id ="31">Here a cluster of fruitlets is produced at a time.</sent>
+				<sent id ="32">A cluster of small fruits is known as an Etaerio.</sent>
+				<sent id ="33">Custard apple, lotus etc are examples of aggregate fruit.</sent>
+				<sent id ="34">Generally fertilization results in the formation of fruit.</sent>
+				<sent id ="35">But sometimes fruits may develop without fertilization.</sent>
+				<sent id ="36">Fruits have been classified into two groups on the basis of whether fertilization has occurred or not.</sent>
+				<sent id ="37">Natural fruit: The fruits which develop through the process of fertilization and have healthy seeds are regarded as natural fruits such.</sent>
+				<sent id ="38">Mango, jackfruit etc are natural fruits.</sent>
+				<sent id ="39">Parthenocarpic fruit: The fruits that develop without fertilization and contain immature seeds are known as parthenocarpic fruits.</sent>
+				<sent id ="40">Banana is an example of this type of fruit.</sent>
+				<sent id ="41">Fruits give protection to seeds.</sent>
+				<sent id ="42">Through seeds fruits give rise to new plants and thus helps the process of reproduction thereby maintaining the existence of plants.</sent>
+				<sent id ="43">Seeds : Most higher plants produce flowers.</sent>
+				<sent id ="44">Flowers develop fruits.</sent>
+				<sent id ="45">Fruits contain seeds.</sent>
+				<sent id ="46">Now a question may arise what is seed?</sent>
+				<sent id ="47">Seed is the fertilized mature form of ovule.</sent>
+				<sent id ="48">In most seeds the seed coat consists of two layers, such as- Outer layer:</sent>
+				<sent id ="49">The outermost layer of seed coat is hard and thick.</sent>
+				<sent id ="50">This is known as testa.</sent>
+				<sent id ="51">Inner layer: The innermost thin layer of seed coat is known as tegmen.</sent>
+				<sent id ="52">c) Multiple fruit : When all the flowers of an inflorescence together form a fruit, it is known as multiple fruit.</sent>
+				<sent id ="53">Here the fleshy sepals of the flowers of an inflorescence unite together to form a fruit.</sent>
+				<sent id ="54">A multiple fruit contains numerous seeds.</sent>
+				<sent id ="55">The axis which holds the cotyledons is known as embryonal axis.</sent>
+				<sent id ="56">The area of embryonal axis which is attached to the cotyledons is known as nodal zone.</sent>
+				<sent id ="57">The part of embryonal axis above the nodal zone is called epicotyl and the part below the nodal zone is known as hypocotyl.</sent>
+				<sent id ="58">The upper apex of the embryonal axis is known as plumule while the lower end of embryonalaxis is called radicle.</sent>
+				<sent id ="59">Plumule and radicle grow into shoot and root system respectively.</sent>
+				<sent id ="60">Cotyledons : The seed of a monocotyledonous plant bears a single cotyledon while that of a dicotyledonous plant contains two cotyledons.</sent>
+				<sent id ="61">Cotyledons that store food materials are thick and fleshy and those which do not store food are thin.</sent>
+				<sent id ="62">Cotyledons protect plumule; In non-endospermic seeds they store food for the embryo;</sent>
+				<sent id ="63">In endospermic seeds they absorb food materials from endosperm and supply it to the developing embryo;</sent>
+				<sent id ="64">In hypogeal type of germination they act as green leaves.</sent>
+				<sent id ="65">Endosperm : The tissue which stores food materials for the growing embryo is known as endosperm.</sent>
+				<sent id ="66">The stored food materials contain starch, protein, oil and fat.</sent>
+				<sent id ="67">Kernel : The material lying inside the seed coat is known as kernel.</sent>
+				<sent id ="68">Embryo: Embryo is the dormant minute plant covered by the seed coat.</sent>
+				<sent id ="69">Embryo consists of an embryonal axis and cotyledons.</sent>
+				<sent id ="70">Seeds have been grouped into two classes on the basis of the number of cotyledons.</sent>
+				<sent id ="71">Monocot seeds :Seeds having a single cotyledon are known as monocot seeds.</sent>
+				<sent id ="72">Paddy, wheat, maize etc are monocot seeds.</sent>
+				<sent id ="73">Dicot seeds: When a seed consists of two: cotyledons, it is termed as dicot seeds.</sent>
+				<sent id ="74">Examples of such seeds can be found in-gram, pea, bean, gourd, cucumber, mango etc.</sent>
+				<sent id ="75">Seeds have been divided again into two groups on the basis of the presence of endosperm.</sent>
+				<sent id ="76">Endospermic seeds: When food material are stored in the endosperm for future use, the seed is called endospermic seed.</sent>
+				<sent id ="77">In such seeds the cotyledons do not store food and, as a result, they become thin, such.</sent>
+				<sent id ="78">Seeds having no endosperm are known as nonendospermic seeds.</sent>
+				<sent id ="79">such asgram, gourd, pea, mango, bean etc. Cotyledons of such seeds become quite thick due to the storage of enough food materials.</sent>
+				<sent id ="80">Embryo, or baby plant remains dormant in a dry seed.</sent>
+				<sent id ="81">A dry seed seems to be an inert one.</sent>
+				<sent id ="82">But still then it bears viability within it.</sent>
+				<sent id ="83">At the dormant stage, growth remains ceased in the seed, but the required respiration goes on.</sent>
+				<sent id ="84">When necessary factors such as water, oxygen, temperature and light become available, the dormant embryo of the seed wakes up and begins to grow.</sent>
+				<sent id ="85">At one stage it penetrates the seed coat and comes out.</sent>
+				<sent id ="86">The process by which the embryo of a dormant seed starts growing is known as germination.</sent>
+				<sent id ="87">Germination of seeds is affected due to the absence of these factors.</sent>
+				<sent id ="88">Some seeds do not germinate in absence of light; such as-tobacco.</sent>
+				<sent id ="89">On the other hand, datura and tomato seeds do not require light at all for germination.</sent>
+				<sent id ="90">The necessity of required amount of water, oxygen and temperature in germination can be proved by the following experiment.</sent>
+				<sent id ="91">The piece of wood is placed in the beaker in a slanting position.</sent>
+				<sent id ="92">In such condition the beaker is to be kept for few days.</sent>
+				<sent id ="93">Observation: After three of four days, it will be observed that the first seed has not germinated at all.</sent>
+				<sent id ="94">The second seed has germinated normally while the third one has partial germination.</sent>
+				<sent id ="95">Inference: Since the first seed has got oxygen, temperature and light, but no water, it has not germinated.</sent>
+				<sent id ="96">The second seed has germinated normally because it has got the required amount of water, temperature, oxygen and light.</sent>
+				<sent id ="97">The partial germination of the third seed is due to the fact that it has got water and temperature but no oxygen.</sent>
+				<sent id ="98">There are three types of germination of seeds:</sent>
+				<sent id ="99">This type of germination takes place in mango, gram, pea, paddy, wheat etc.</sent>
+				<sent id ="100">Epigeal Germination: The process of germination is called epigeal when the cotyledons rupture seed coat and comes above the soil surface.</sent>
+				<sent id ="101">Examples: tamarind, bottle gourd, onion, gourd, bean etc.</sent>
+				<sent id ="102">Viviparous Germination: Plants which grow in saline soil of sea shores are known as halophyte.</sent>
+				<sent id ="103">Most plants or saline soil show a special type of germination called viviparous germination, such as-goran, keora, kakra etc.</sent>
+				<sent id ="104">The specialty of halophytic plants is that germination of seeds starts when the fruits are still attached with plants.</sent>
+				<sent id ="105">The radicle pierces through the fruit coat and remains suspended in air.</sent>
+				<sent id ="106">The hypocotyl becomes enlarged and swollen.</sent>
+				<sent id ="107">At this stage the plumule also grows in weight.</sent>
+				<sent id ="108">Due to the increase in weight, the daughter plant gets detached from the mother plant and falls of vertically fixing itself in the soft mud.</sent>
+				<sent id ="109">Because of viviparous germination seeds are not washed off by low and high tides in sea shore areas.</sent>
+				<sent id ="110">Without this process no vegetation could have been developed in sea shores.</sent>
+				<sent id ="111">In agriculture germination of seeds is very important.</sent>
+				<sent id ="112">Reduced rate of germination reduces yield of crops.</sent>
+				<sent id ="113">Before sowing, the rate of germination of seeds should be ascertained.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

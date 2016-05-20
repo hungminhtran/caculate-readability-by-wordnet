@@ -1,0 +1,97 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.363</idno>
+				<idno type="Number of sentences">69</idno>
+				<idno type="Number of tokens">628</idno>
+				<idno type="Number of token types">310</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t81">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">They have shape, volume and mass.</sent>
+				<sent id ="2">They occupy space.</sent>
+				<sent id ="3">They are called matter.</sent>
+				<sent id ="4">We also have light, heat, sound, electricity etc. around us.</sent>
+				<sent id ="5">They do not have shape, volume and mass like matter does.</sent>
+				<sent id ="6">They do not occupy space.</sent>
+				<sent id ="7">So they cannot be called matter.</sent>
+				<sent id ="8">But we can see light, feel heat and hear sound.</sent>
+				<sent id ="9">We cannot see electricity but we can do a lot of things using it.</sent>
+				<sent id ="10">Like electricity, we also use heat, light and sound for many purposes.</sent>
+				<sent id ="11">So light, heat, sound and electricity have the ability to make things work.</sent>
+				<sent id ="12">Energy means the ability to work.</sent>
+				<sent id ="13">Because of this, light, heat, sound and electricity are classified as energy.</sent>
+				<sent id ="14">We also work.</sent>
+				<sent id ="15">We need energy to work.</sent>
+				<sent id ="16">Where does this energy come from?</sent>
+				<sent id ="17">The food that we eat provides us with energy.</sent>
+				<sent id ="18">Chemical energy is produced in our body through the metabolism of food.</sent>
+				<sent id ="19">Heat is produced from this chemical energy.</sent>
+				<sent id ="20">Touch your skin with your hand.</sent>
+				<sent id ="21">Can you feel some heat?</sent>
+				<sent id ="22">Our bodies produce this heat from chemical energy.</sent>
+				<sent id ="23">Energy can be converted from one form to another.</sent>
+				<sent id ="24">Light is produced from this electrical energy.</sent>
+				<sent id ="25">The light enables us to see in dark places.</sent>
+				<sent id ="26">Light traps are used to eradicate pests in farmlands.</sent>
+				<sent id ="27">Light is also used for taking photographs.</sent>
+				<sent id ="28">Now we will try to learn about various forms of electrical energy and their uses.</sent>
+				<sent id ="29">Various types of machines run by electrical energy nowadays.</sent>
+				<sent id ="30">We use telephones, fax machines and computers for communication.</sent>
+				<sent id ="31">Electric machines are used to husk paddy, grind wheat and powder spices.</sent>
+				<sent id ="32">You have seen electric pumps being used for irrigation.</sent>
+				<sent id ="33">We sew clothes using electric sewing machines.</sent>
+				<sent id ="34">Electric burners are used for cooking by many of us.</sent>
+				<sent id ="35">We press clothes using electric irons.</sent>
+				<sent id ="36">We preserve fish, meat and other food items using refrigerators.</sent>
+				<sent id ="37">Musical instruments like electric guitars, keyboards etc. are powered by electricity.</sent>
+				<sent id ="38">Electricity-powered cranes are used to lift heavy things.</sent>
+				<sent id ="39">Electricity is used in large buildings to power lifts.</sent>
+				<sent id ="40">You can give many other examples of electricity-driven machines.</sent>
+				<sent id ="41">We have already learnt that light bulbs, tube-lights etc. produce light.</sent>
+				<sent id ="42">In such cases, electrical energy is converted into sound.</sent>
+				<sent id ="43">In recent times, we have seen the advent of mobile phones.</sent>
+				<sent id ="44">The batteries of these phones are charged with electricity.</sent>
+				<sent id ="45">Irons, electric burners, heaters etc. produce heat.</sent>
+				<sent id ="46">The appliance used for this is called an air- cooler (AC).</sent>
+				<sent id ="47">At present, motorized engines are used to propel boats.</sent>
+				<sent id ="48">Heat generated in an engine is converted into kinetic energy.</sent>
+				<sent id ="49">Many of us have washing machines in our houses.</sent>
+				<sent id ="50">Drill machines are used to make holes in walls.</sent>
+				<sent id ="51">These machines convert electrical energy into mechanical and kinetic energy.</sent>
+				<sent id ="52">So far you have learnt the names of many electric machines and their uses.</sent>
+				<sent id ="53">You can also ask the elders to tell you about some other machines.</sent>
+				<sent id ="54">Now you certainly understand how electricity has made our life easier and better.</sent>
+				<sent id ="55">It may cause danger.</sent>
+				<sent id ="56">We often leave our lights, fans, televisions, radios etc. turned on unnecessarily.</sent>
+				<sent id ="57">Sometimes we forget to switch off the iron after pressing clothes.</sent>
+				<sent id ="58">These result in wastage of electricity.</sent>
+				<sent id ="59">Electric irons, heaters etc. consume lots of electricity.</sent>
+				<sent id ="60">We should not use these appliances during night unless absolutely necessary.</sent>
+				<sent id ="61">This is called load-shedding.</sent>
+				<sent id ="62">Load-shedding decreases if wastage of electricity is reduced.</sent>
+				<sent id ="63">Because of these illegal connections, shortage of electricity occurs.</sent>
+				<sent id ="64">It often poses a serious threat.</sent>
+				<sent id ="65">Load- shedding results in our misery and financial loss.</sent>
+				<sent id ="66">So we must be careful so that no wastage of electricity occurs in our surroundings.</sent>
+				<sent id ="67">It will greatly benefit us if we can prevent the wastage of electricity.</sent>
+				<sent id ="68">Electricity can be stored, and we can use this electricity later according to our needs.</sent>
+				<sent id ="69">The load-shedding problem can be eliminated if we can check the wastage of electricity.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

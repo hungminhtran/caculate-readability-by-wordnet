@@ -1,0 +1,145 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-budh-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.691</idno>
+				<idno type="Number of sentences">117</idno>
+				<idno type="Number of tokens">1095</idno>
+				<idno type="Number of token types">461</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t50">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">A place of pilgrimage is a holy place, a place of virtue.</sent>
+				<sent id ="2">These holy places are divided into two classes.</sent>
+				<sent id ="3">Lumbini, Buddha-Gaya, Sarnatha and Kushinagar are the great holy places of pilgrimage.</sent>
+				<sent id ="4">In addition to that, Buddha visited many other places for proclamation of his doctrines.</sent>
+				<sent id ="5">His disciples and followers have also proclaimed his doctrines with his instructions at different places.</sent>
+				<sent id ="6">These are called the common holy places of pilgrimage.</sent>
+				<sent id ="7">Those holy places of pilgrimage are-Rajgriha, Shravasti, Baishali, kapilabastu, Nalanda, Takshashila, etc.</sent>
+				<sent id ="8">Visiting holy places of pilgrimage is important.</sent>
+				<sent id ="9">To visit these holy places of pilgrimage is virtuous.</sent>
+				<sent id ="10">It develops interest in the Dharma.</sent>
+				<sent id ="11">People from different places gather in the holy places of pilgrimage.</sent>
+				<sent id ="12">It gives an opportunity to join them.</sent>
+				<sent id ="13">Many people with qualities can be met.</sent>
+				<sent id ="14">It increases knowledge.</sent>
+				<sent id ="15">A friendly relation is developed among all people.</sent>
+				<sent id ="16">You will visit the holy places of pilgrimage when you will grow up.</sent>
+				<sent id ="17">To visit holy places of pilgrimage is virtuous.</sent>
+				<sent id ="18">Rajgriha is situated in the district of Patna in Bihar of India.</sent>
+				<sent id ="19">The present name of Rajgriha is Rajgir.</sent>
+				<sent id ="20">Surrounded by five hills, it looks very charming.</sent>
+				<sent id ="21">Rajgriha was the capital of the kingdom of Magadha.</sent>
+				<sent id ="22">The king of Magadha was Bimbisar.</sent>
+				<sent id ="23">Buddha came to Rajgriha to preach his Dharma.</sent>
+				<sent id ="24">King Bimbisar embraced Buddhism.</sent>
+				<sent id ="25">He made much contribution for preachy of Buddhism.</sent>
+				<sent id ="26">The king made a gift of the Benuban Udyana for Buddha and his disciples.</sent>
+				<sent id ="27">Later on, he built a Bihar there.</sent>
+				<sent id ="28">It was named Benuban Bihar.</sent>
+				<sent id ="29">Bhagwan Buddha spent seven Barsas at the Benuban Bihar in Rajgriha.</sent>
+				<sent id ="30">During his stay here he gave many instuctions to the Bhikkhus.</sent>
+				<sent id ="31">The first Buddhist Sangiti was held at the cave of Saptaparni in Rajgriha.</sent>
+				<sent id ="32">Jivak had a mango orchard in Rajgriha.</sent>
+				<sent id ="33">He was a devoted follower of Buddha.</sent>
+				<sent id ="34">He was Buddha's physician.</sent>
+				<sent id ="35">Jivak gave away his mango orchard to Buddha and his disciples.</sent>
+				<sent id ="36">In this mango orchard, Jivakaram Bihar was built.</sent>
+				<sent id ="37">Many incidents and stories of Buddha's life were associated with Rajgriha.</sent>
+				<sent id ="38">For this reason, Rajgriha is a holy place of pilgrimage to the Buddhists.</sent>
+				<sent id ="39">Its present name is Sahet-Mahet.</sent>
+				<sent id ="40">Shravasti was the capital of the ancient kingdom of Koshal.</sent>
+				<sent id ="41">Bhagwan Buddha once came to Koshal to preach his Dharma.</sent>
+				<sent id ="42">Then the king of Koshal was Prasenjit.</sent>
+				<sent id ="43">Shravasti was the centre of trades.</sent>
+				<sent id ="44">Many rich people lived there.</sent>
+				<sent id ="45">There was a rich man named Sudatta.</sent>
+				<sent id ="46">He bought the Jetban Udyana with many gold coins from the prince, Jeta.</sent>
+				<sent id ="47">He built the Jetban Bihar for Buddha and his disciples.</sent>
+				<sent id ="48">This Bihar was very beautiful.</sent>
+				<sent id ="49">Sudatta is known as Anathapindik in the history of Buddhism.</sent>
+				<sent id ="50">He was a householder-disciple of Buddha.</sent>
+				<sent id ="51">Buddha converted the robber, Angulimal in the Jetban Bihara.</sent>
+				<sent id ="52">The Jetban Bihar is a very holy place of pilgrimage to the Buddhists.</sent>
+				<sent id ="53">Here Buddha spent nineteen Barshas.</sent>
+				<sent id ="54">Buddha spent six Barshas in the Purbarama Bihar.</sent>
+				<sent id ="55">Vishakha was the daughter-in-law of the rich man, Migar.</sent>
+				<sent id ="56">The king of Koshal, Prasenjit built here a Bihar called Rajkaram here.</sent>
+				<sent id ="57">This beautiful Bihar was built at the request of the queen, Mallika.</sent>
+				<sent id ="58">During his stay in this Bihar, Buddha gave a lot of sermons.</sent>
+				<sent id ="59">Shravasti is one of the great holy places of Buddhist pilgrimage.</sent>
+				<sent id ="60">Takshashila Takshashila stands on the Bitasta river to the north-west of Rawalpindi in Pakistan.</sent>
+				<sent id ="61">Takshashila was once the capital of the west region of the kingdom of Empire Ashok.</sent>
+				<sent id ="62">Here he built many Sangharamas and Bihars.</sent>
+				<sent id ="63">There was a Stup to the north of the city.</sent>
+				<sent id ="64">Takshashila was the leaning centre of science and knowledge.</sent>
+				<sent id ="65">There was a large university during the time of Buddha.</sent>
+				<sent id ="66">Many students from home and abroad would come to study in this university.</sent>
+				<sent id ="67">Many scholars were the teachers of this university.</sent>
+				<sent id ="68">The Chinese travelers Fa-hian and Hiuen Tsiang came to Takshashila.</sent>
+				<sent id ="69">It is learnt from their writings that many Buddhists lived here.</sent>
+				<sent id ="70">The Hun attacked this city and destroyed it.</sent>
+				<sent id ="71">Many Stups and remains of Buddhist Bihar have been found through excavation.</sent>
+				<sent id ="72">Many coins of the ancient period have also been found.</sent>
+				<sent id ="73">The government of Pakistan has taken initiatives to preserve them.</sent>
+				<sent id ="74">Chakrashal is situated three kilometers east of the Patia railstation in Chittagong.</sent>
+				<sent id ="75">In chokoria chandrajyoti Thero was ordained as Bhikshu by Sarbhu MahaThero.</sent>
+				<sent id ="76">He went to Burma to study theology.</sent>
+				<sent id ="77">There he studied the Binay (humility) for twenty years.</sent>
+				<sent id ="78">He came back home with certain things.</sent>
+				<sent id ="79">These are a Chakrasana, three images of Buddha and some pieces of Buddhasthi.</sent>
+				<sent id ="80">First he stayed at Agartala in India for five years.</sent>
+				<sent id ="81">After that, he built a Sangharam on the hill of Sitakunda in Chittagong.</sent>
+				<sent id ="82">He started living here with his disciple.</sent>
+				<sent id ="83">After that, he along with his disciples went to a mango grove of Chakrashala.</sent>
+				<sent id ="84">A rich man named Hydmaja was the owner of this orchard.</sent>
+				<sent id ="85">He was charmed at the extraordinary scholarship of Chandrajyoti Thero.</sent>
+				<sent id ="86">He organized a three day long gathering for discussion of Buddhism.</sent>
+				<sent id ="87">When Chandrajyoti's father came to know about it, he brought back his son to Chakaria.</sent>
+				<sent id ="88">While leaving, Chandrajyoti Thero gave away the Chakrashala to Hydmaja.</sent>
+				<sent id ="89">With the financial assistance of Hydmaja, a Bihar was built there.</sent>
+				<sent id ="90">This is the Chakrashala Bihar.</sent>
+				<sent id ="91">At present there is a temple.</sent>
+				<sent id ="92">Chandrajyoti and his father performed Vandana and worship there.</sent>
+				<sent id ="93">From then on, a big fair is held there every year during Bishuba Sankranti.</sent>
+				<sent id ="94">This fair may be called a meeting place for the Buddhists.</sent>
+				<sent id ="95">To the Buddhists, it is a holy place.</sent>
+				<sent id ="96">The Buddhists go there and do vandana, worship and various other religious performances.</sent>
+				<sent id ="97">Mainamati stands near the city of Comilla.</sent>
+				<sent id ="98">Many years ago, the kings from Deva and Chandra dynasties ruled here.</sent>
+				<sent id ="99">The capital of their kingdom was Mainamati.</sent>
+				<sent id ="100">All of them were the followers of Buddhism.</sent>
+				<sent id ="101">Mainamati was then the centre of the study of Buddhism.</sent>
+				<sent id ="102">Many Buddhist institutions were established here.</sent>
+				<sent id ="103">The kings built many Bihars, Stupas and palaces.</sent>
+				<sent id ="104">For various reasons the city was gradually destroyed and went under ground.</sent>
+				<sent id ="105">At present, those ancient remains have been discovered through excavation.</sent>
+				<sent id ="106">Of them the Shalban Bihar is remarkable.</sent>
+				<sent id ="107">There are four walls around the Shalban Bihar.</sent>
+				<sent id ="108">There was an entrance into the Bihar.</sent>
+				<sent id ="109">In the Bihar there were 115 rooms.</sent>
+				<sent id ="110">Into those rooms the Bhikkhus performed Dhyansamadhi.</sent>
+				<sent id ="111">They studied there.</sent>
+				<sent id ="112">There were a yard and a verandah in front of the Bihar.</sent>
+				<sent id ="113">Some hillocks have been found.</sent>
+				<sent id ="114">Besides, weapons, coins, copper plates, ornaments, terracotta plaques, etc., have been found.</sent>
+				<sent id ="115">There is a museum near the Shalban Bihar.</sent>
+				<sent id ="116">Many remains found at Mainamati have been preserved into this museum.</sent>
+				<sent id ="117">Still there are in the neibouring areas of Mainamati villages where the Buddhists live.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

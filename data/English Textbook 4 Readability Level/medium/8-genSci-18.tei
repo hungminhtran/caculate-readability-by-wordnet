@@ -1,0 +1,112 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-18</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.997</idno>
+				<idno type="Number of sentences">84</idno>
+				<idno type="Number of tokens">1203</idno>
+				<idno type="Number of token types">559</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t133">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">For example, we have the Sundarbans at southern part of Bangladesh.</sent>
+				<sent id ="2">These forests are gifts of nature.</sent>
+				<sent id ="3">Besides these forests naturally developed forests, there are man made forests too, which are developed artificially over a vast area of land.</sent>
+				<sent id ="4">These are called artificial forests or gardens.</sent>
+				<sent id ="5">For example, we have the rubber plantation of Ramu of Cox's Bazar.</sent>
+				<sent id ="6">The products derived from forest are known as forest resources.</sent>
+				<sent id ="7">Besides trees, shrubs and creepers, various types of insects, animals and birds are found in the forest.</sent>
+				<sent id ="8">These plants and creepers, animas, birds and insects together form the forest environment.</sent>
+				<sent id ="9">Timber bamboo, corn, fruits, honey, wax etc are collected from the forests of Bangladesh.</sent>
+				<sent id ="10">For the economic development of any country, 25% of the total land area should be covered with forest.</sent>
+				<sent id ="11">According to the survey of 1995-96 the measurement of forest land was 20 thousand square kilometer of the total area of Bangladesh.</sent>
+				<sent id ="12">That means only 13.6% forest land of the total area of Bangladesh.</sent>
+				<sent id ="13">Actually this rate is decreasing every year due to the deforestation.</sent>
+				<sent id ="14">Most of the forests of Bangladesh are located in south-east and south west of the country.</sent>
+				<sent id ="15">The location of the forest regions of Bangladesh is shown in the map.</sent>
+				<sent id ="16">On the basis of location, soil, climate and area, the whole forest regions of Bangladesh is dividing into four classes.</sent>
+				<sent id ="17">This forest occupies a considerable area of Chittagong, Cox's Bazar, Banderbans, Rangamati, Khagrachari, Sylhet, Moulovibazar and Hobiganj districts.</sent>
+				<sent id ="18">Here the average rainfall is 250 centimeter and average temperature is 34 celcius.</sent>
+				<sent id ="19">Both evergreen and deciduous trees are present in these forests.</sent>
+				<sent id ="20">In the hilly forest some trees are about 30.48 metres tall.</sent>
+				<sent id ="21">The main characteristic of these forests is co- existence of different types of trees.</sent>
+				<sent id ="22">The predominent trees gowing in this forest are Chaplaish, Telsur, Garjan, Jarul, Mehagany, Koroi, Gamar, Chhatim, Shimul, Mahua, Teak, Shishu, Bamboo, Bay-leaf, Palm and Rubber.</sent>
+				<sent id ="23">Moreover, animals like elephant, bear, monkey, tiger, wild cock and thousands of different types of birds are seen in these hilly forests.</sent>
+				<sent id ="24">Depending on the hilly forest resources available in these areas Karnafully paper mills, Sylhet paper and pulp mills, Karnafully Rayon mills are running productions.</sent>
+				<sent id ="25">The cottage industry developed in Sylhet, is mainly owing to the abundance of cane and bamboo available in the forests of that region.</sent>
+				<sent id ="26">The managrove or Saline water forest: The forest of the saline water of South west coast of Bangladesh is called mangrove forest.</sent>
+				<sent id ="27">This forest is the largest in Bangladesh and one of the most important mangrove forests in the world.</sent>
+				<sent id ="28">This famous forest is known as the Sundarbans.</sent>
+				<sent id ="29">This forest expands over an area of 6,786 square known as pneumataphores through which exchange of gases takes place.</sent>
+				<sent id ="30">Sundari is the main tree of this forest.</sent>
+				<sent id ="31">Every day, this forest is inundated with saline water due to tide.</sent>
+				<sent id ="32">Plenty of trees like Sundari, Gewa, Gorna, Dhundal, Pussur.</sent>
+				<sent id ="33">Kewar, Ora, Amar, Baain, Kakar etc. grow here.</sent>
+				<sent id ="34">Golpata is a prominent tree in the Sundarbans.</sent>
+				<sent id ="35">The leaves of this plant are used for making roofs and fencing.</sent>
+				<sent id ="36">Huge amount of honey is collected from this forest.</sent>
+				<sent id ="37">Usually honey is collected during the kilometer.</sent>
+				<sent id ="38">It occupies 6,724 square kilometer of land in Satkhira, Khulna and Bagerhat districts and 62 square kilometer in Barguna and Patuakhali districts.</sent>
+				<sent id ="39">This Sundarbans is bounded by the Buleswar river on the east, and Raimangal river on the west.</sent>
+				<sent id ="40">The characteristics of the trees of this forest differ from those of other forests in the country.</sent>
+				<sent id ="41">The trees have special roots for their respiration.</sent>
+				<sent id ="42">The roots are months of April, May and June.</sent>
+				<sent id ="43">Sundarbans is the dwelling place of a rare wild species of tigers the famous Royal Bengal Tiger.</sent>
+				<sent id ="44">In addition, many other animals, such as spotted deer, monkey, wild pig, python, crocodile and different species of birds are also found.</sent>
+				<sent id ="45">This high land forest with red soil is bounded in the east by Banar river and Bansi river in the west.</sent>
+				<sent id ="46">In winter the trees shed their due to lack of required heat and rainfall.</sent>
+				<sent id ="47">Usually Sal, Gajari, Jarul, Koroi, Jack fruit etc. trees grow here.</sent>
+				<sent id ="48">At present the sapling of Rubber, Aksashmoni, Arjun trees are being planted in this forest.</sent>
+				<sent id ="49">Wild cat, monkey, lemure, fox, bagdasa and varities of birds are seen in this forest.</sent>
+				<sent id ="50">There are some forests in some parts s of Barendra land in North Bengal.</sent>
+				<sent id ="51">The environment of these forests is almost similar to that of Madhupur forest.</sent>
+				<sent id ="52">Saal, Taal (Pots) etc trees grow in this forests.</sent>
+				<sent id ="53">Other forests: These forests are scattered in different parts of the plain lands in Dhaka, Rangpur, Dinajpur, Rajshahi, Comilla districts.</sent>
+				<sent id ="54">The total area of these forests is approximately 1.2 lac hector.</sent>
+				<sent id ="55">Besides this small forests are seen in some other parts of Bangladesh.</sent>
+				<sent id ="56">The forest resources like woods, branches and leaves are used as fuels.</sent>
+				<sent id ="57">Forest supply us very useful raw materials for industries.</sent>
+				<sent id ="58">The raw materials needed for producing pulp, papers, matches, sticks, rayon etc. are collected from forests.</sent>
+				<sent id ="59">Forest resources are also used in making ships, launches, boats, houses, posts, hard boards and furniture.</sent>
+				<sent id ="60">Bees make beehives in the forest and a huge quantity honey and wax are derived from these beehives.</sent>
+				<sent id ="61">The importance of forest is boundless in maintaining the balance of the environment.</sent>
+				<sent id ="62">Forests play important roles in controlling the weather and climate of a place.</sent>
+				<sent id ="63">Forest protects the country from natural calamities like storm, cyclone and flood etc. Forest helps wild animals to live and survive safely.</sent>
+				<sent id ="64">Forest also help in the reproduction of wild animals.</sent>
+				<sent id ="65">Forest controls the wind direction.</sent>
+				<sent id ="66">Forest prevents soil erosion and increases soil fertility.</sent>
+				<sent id ="67">Forest keeps weather cool and helps rainfall.</sent>
+				<sent id ="68">Plants of the forest keep the air fresh and clean by absorbing excess carbon-dioxide from the air and by supplying oxygen in the atmosphere.</sent>
+				<sent id ="69">It protects canals, beels and rivers etc. from silting.</sent>
+				<sent id ="70">It protects the environment form green house effect.</sent>
+				<sent id ="71">D. Conservation of forest resources; The economic development of Bangladesh depends to a great extent on the development of forest resources.</sent>
+				<sent id ="72">Due to increase of population the area of natural forest is gradually decreasing.</sent>
+				<sent id ="73">Moreover, since the forest area is quite inadequate in terms of what is needed, it has to be expanded.</sent>
+				<sent id ="74">Measures taken for the development of forest resource People have been encouraged to create forests by planting environmentfriendly trees in waste lands.</sent>
+				<sent id ="75">Forest Industry Development Corporation of Bangladesh has established a forest training institute in Sylhet.</sent>
+				<sent id ="76">One forest resource testing laboratory has been established at Chittagong.</sent>
+				<sent id ="77">A new horizon has been created in the cultivation of Tendu leaves and rubber plant in the forest area of Cox's bazar.</sent>
+				<sent id ="78">Rubber plantation is being done at Ramu, Raujan, Fatikchari and at Rashidpur of Moulovibazar.</sent>
+				<sent id ="79">Plantation of rubber is also extended to Rangamati, Cox's bazar, Chittagong, Banderban, Khagrachari, Sylhet, Hobiganj.</sent>
+				<sent id ="80">Mymensingh and to the Madhupur Gad (Terraces) of Tangail.</sent>
+				<sent id ="81">To attract and encourage people for forestation, Government has undertaken social and community forestation programs.</sent>
+				<sent id ="82">Arrangements have been made to supply the saplings of wood trees and fruit trees to the people at a minimum price during tree plantation season.</sent>
+				<sent id ="83">Government is strictly following 1990 forest act and 1974 wild life conservation act.</sent>
+				<sent id ="84">to protect wild animals and forest resources from being destroyed indiscriminately.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

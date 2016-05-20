@@ -1,0 +1,126 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.746</idno>
+				<idno type="Number of sentences">98</idno>
+				<idno type="Number of tokens">1011</idno>
+				<idno type="Number of token types">411</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t41">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The living world consists of living things, such as human beings, animals, fish, plants and microorganisms (very small organisms).</sent>
+				<sent id ="2">It is divided mainly into two parts: the plant kingdom and the animal kingdom.</sent>
+				<sent id ="3">There are many different kinds of plants around us.</sent>
+				<sent id ="4">These include small plants like algae and fungi; and large trees like mango, jackfruit or jambu.</sent>
+				<sent id ="5">Now, let us learn about plants.</sent>
+				<sent id ="6">There are many different kinds of plants around us.</sent>
+				<sent id ="7">Some are large, such as mango, jackfruit, betel-nut trees etc.</sent>
+				<sent id ="8">China rose, lemon, rose, rangan etc. are medium-sized plants.</sent>
+				<sent id ="9">Plants like chilli, paddy, water lily, grass, water hyacinth, spinach, bottle gourd, pumpkin etc. are small in size.</sent>
+				<sent id ="10">Plants are classified into three types based on their size and nature of their stems.</sent>
+				<sent id ="11">These are: herbs, shrubs and trees.</sent>
+				<sent id ="12">You know that the main shoot of a plant is long, strong and thick.</sent>
+				<sent id ="13">It is known as the stem of the plant.</sent>
+				<sent id ="14">Branches and branchlets grow from the stem.</sent>
+				<sent id ="15">The bottom of the stem ends in a thick tap root.</sent>
+				<sent id ="16">This tap root penetrates deep into the ground.</sent>
+				<sent id ="17">Mango, jackfruit, teak, mahogany are trees we are familiar with.</sent>
+				<sent id ="18">You also know that shrubs are medium-sized plants.</sent>
+				<sent id ="19">Their stems are hard but not very thick.</sent>
+				<sent id ="20">Many branches and branchlets grow from the stem, giving the plant a bush-like appearance.</sent>
+				<sent id ="21">Shrubs do not have a main stem.</sent>
+				<sent id ="22">The roots of shrubs do not penetrate deep into the ground.</sent>
+				<sent id ="23">China rose, rangan, rose, lemon etc. are examples of shrubs.</sent>
+				<sent id ="24">Herbs are small in size.</sent>
+				<sent id ="25">They have soft stems, branches and branchlets.</sent>
+				<sent id ="26">The roots of these plants penetrate only the upper layer of the ground.</sent>
+				<sent id ="27">Paddy, mustard, grass, arum etc. are examples of shrubs.</sent>
+				<sent id ="28">Bottle gourd, pumpkin and Indian spinach plants are climbers.</sent>
+				<sent id ="29">They have soft stems.</sent>
+				<sent id ="30">They are also herbs by nature.</sent>
+				<sent id ="31">You may mention different type of plants in your envvironment on the basis of name and charactesistics.</sent>
+				<sent id ="32">Do these plants have flowers?</sent>
+				<sent id ="33">Do they have any stems, branches and branchlets?</sent>
+				<sent id ="34">How deep do their main roots penetrate into the ground?</sent>
+				<sent id ="35">You know the answers to the above-mentioned questions.</sent>
+				<sent id ="36">You know that none of these plants bear flowers.</sent>
+				<sent id ="37">That is why these plants are known as non-flowering plants.</sent>
+				<sent id ="38">Another characteristic of these plants is that they do not have stems, branches and branchlets.</sent>
+				<sent id ="39">Some of these plants do not even have main roots.</sent>
+				<sent id ="40">There are some plants which have roots, branches and branchlets.</sent>
+				<sent id ="41">These plants also bear flowers.</sent>
+				<sent id ="42">They are called flowering plants.</sent>
+				<sent id ="43">There are many flowering and non-flowering plants around you.</sent>
+				<sent id ="44">Now, complete the following table.</sent>
+				<sent id ="45">Write the names of different classes of plants in the column titled Name of plant.</sent>
+				<sent id ="46">In the characteristics column, tick the appropriate box.</sent>
+				<sent id ="47">Algae, fungi, moss and fern are non-flowering plants.</sent>
+				<sent id ="48">They all have their own characteristics.</sent>
+				<sent id ="49">In Standard IV you observed many characteristics of these plants.</sent>
+				<sent id ="50">Algae grow in water and in damp places.</sent>
+				<sent id ="51">They grow well in well-illuminated places.</sent>
+				<sent id ="52">Algae are green in color because they have chlorophyll in their cell.</sent>
+				<sent id ="53">spirogyra is one of the exampale in algae and they can make their own food.</sent>
+				<sent id ="54">Fungi grow on stale food, cow dung and in on heaps of garbage.</sent>
+				<sent id ="55">They prefer dark places.The bodies of fungi and algae cannot be divided into roots, stems and leaves.</sent>
+				<sent id ="56">Each of their body cells is capable of producing reproductive cells.</sent>
+				<sent id ="57">However, fungi are not green, and are thus incapable of making their own food.</sent>
+				<sent id ="58">Ex - mashroom.</sent>
+				<sent id ="59">Moss grows on moist ground, wet walls and tree bark.</sent>
+				<sent id ="60">Although the body of a moss plant has a stem and leaves, it has no root.</sent>
+				<sent id ="61">Mosses do not have any transport tissue either.</sent>
+				<sent id ="62">They produce multicellular embryo, and they can produce their own food.</sent>
+				<sent id ="63">Ferns usually grow in shady places.</sent>
+				<sent id ="64">The body of a fern plant is divided into roots, a shoot and leaves.</sent>
+				<sent id ="65">The body contains vascular tissues.</sent>
+				<sent id ="66">They produce multicellular embryo, and are capable of making their own food.</sent>
+				<sent id ="67">Different types of fern present in our environment.</sent>
+				<sent id ="68">Dhenki Shak is most familiar of them.</sent>
+				<sent id ="69">You have seen that many plants bear fruits and flowers.</sent>
+				<sent id ="70">Mango trees bear blossoms.</sent>
+				<sent id ="71">They are the flowers of the mango trees.</sent>
+				<sent id ="72">Mangoes grow from the blossoms.</sent>
+				<sent id ="73">There are seeds inside the mangoes.</sent>
+				<sent id ="74">New trees grow from these seeds.</sent>
+				<sent id ="75">You know that in flowering plants, fruits produced from flowers, and seeds are produced within the fruits.</sent>
+				<sent id ="76">However, some plants do not bear fruits.</sent>
+				<sent id ="77">We shall learn about them later.</sent>
+				<sent id ="78">You know that the seeds of mangoes, jujubes (kul), coconuts etc stay inside the fruit.</sent>
+				<sent id ="79">Since the seeds are contained inside the fruits, they are known as angiosperms.</sent>
+				<sent id ="80">The stems of these plants are divided into branches and branchlets.</sent>
+				<sent id ="81">There are some plants such as cycus, pinus etc., whose seeds are not contained inside the fruits but on megasporophylls.</sent>
+				<sent id ="82">Since these seeds are not covered by the flesh of the fruits, they are called gymnosperms.</sent>
+				<sent id ="83">These plants usually do not have branches and branchlets.</sent>
+				<sent id ="84">Trees like mango, jackfruit, coconut etc. are called angiosperms, as their seeds are covered.</sent>
+				<sent id ="85">On the other hand, the seeds of cycus, pinus, etc. are uncovered by nature, so these plants are called gymnosperms.</sent>
+				<sent id ="86">The leaves of cycus are similar to the leaves of coconuts.</sent>
+				<sent id ="87">The leaves of pinus are shaped like needles.</sent>
+				<sent id ="88">Plants which have seeds containing two cotyledons are known as dicotyledonous plants.</sent>
+				<sent id ="89">Mango, jambu, jackfruit and jujube trees are dicotyledonous.</sent>
+				<sent id ="90">Coconut, pamyra palm, betel-nut, paddy, wheat, maize etc. are monocotyledonous plants.</sent>
+				<sent id ="91">Their seeds contain only one cotyledon.</sent>
+				<sent id ="92">If you observe closely, you will see that the leaves of monocotyledons and dicotyledons have different characteristics.</sent>
+				<sent id ="93">In Standard IV, you have learnt that lablab seeds, lentils and pigeon peas have two cotyledons.</sent>
+				<sent id ="94">But the seeds of paddy, wheat, and maize have only one cotyledon.</sent>
+				<sent id ="95">Based on the nature of the seeds, angiosperms have been divided into two groups.</sent>
+				<sent id ="96">Take a mango leaf or a jackfruit leaf and take a paddy leaf or a blade of grass.</sent>
+				<sent id ="97">Observe the fine veins of the mango or jackfruit leaf.</sent>
+				<sent id ="98">The veins are spread like a web throughout the entire leaf.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

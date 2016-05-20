@@ -1,0 +1,194 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-biology-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.751</idno>
+				<idno type="Number of sentences">166</idno>
+				<idno type="Number of tokens">2400</idno>
+				<idno type="Number of token types">785</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t25">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Cross - Pollination: When pollen grains are transferred from the anther to the stigma of flowers of same species of a separate plant is called cross- pollination.</sent>
+				<sent id ="2">In cross-pollination the genotypes of two plants have some variation, in nature, cross-pollination occurs in most of the plants.</sent>
+				<sent id ="3">Examples of cross - pollinated plants are Paddy, Wheat, Maize, Mustard, Silk Cotton (Shimul), Madar, Mango etc. Significance of self-pollination:</sent>
+				<sent id ="4">As this type of pollination takes place between two flowers having similar genotype, the genotype of the produced seeds remains unchanged.</sent>
+				<sent id ="5">So the plants that produce from these seeds have got the character just like the mother plant.</sent>
+				<sent id ="6">In this way the hereditary character remains similar i.e. it maintains the purity of species.</sent>
+				<sent id ="7">This is most significant in self-pollination.</sent>
+				<sent id ="8">Pollination occurs between two flowers having difference in genotype.</sent>
+				<sent id ="9">Thus the seed that is produced from this have variation in genotype.</sent>
+				<sent id ="10">Therefore the new plant grown from this seed is not identical with the mother plant.</sent>
+				<sent id ="11">New variation may produce even a new species.</sent>
+				<sent id ="12">Due to combinations of the most plants their adaptability increase so natural calamity (disaster) cannt extinct them easily.</sent>
+				<sent id ="13">Pollination, especially cross - pollination takes place by four different agents like insects, wind, animal and water.</sent>
+				<sent id ="14">Pollination through insects: In most.cases at the time of collection of Vnectar pollen grains from one flower is transferred to another flower by insects.</sent>
+				<sent id ="15">Flowers in which pollination occur through insects are known as entomophilous flowers.</sent>
+				<sent id ="16">Mustard, Basils, Orchids, Roses, Cucurbita, etc. are entomophilous flowers.</sent>
+				<sent id ="17">Pollination through wind: In many plants Pollination occurs through wind.</sent>
+				<sent id ="18">Flowers in which pollination occur, through wind are known as Anemophilous flowers.</sent>
+				<sent id ="19">Paddy, Wheat, Maize.</sent>
+				<sent id ="20">Sugarcane, Palm etc, are Anemophilous or wind pollinated flower.</sent>
+				<sent id ="21">Flowers are usually unattractive and have inconspicuous colour b).</sent>
+				<sent id ="22">Flowers usually are without sweet scent and nectar.</sent>
+				<sent id ="23">Pollen grains are very light and are produced in large numbers.</sent>
+				<sent id ="24">Stigmas are large, feathery and sticky, so that pollen grains carried by wind may attach very easily.</sent>
+				<sent id ="25">Pollination through Animals: In many flowers pollination occurs through Birds, Bat or Snails etc.</sent>
+				<sent id ="26">Flowers which are pollinated by animals, are called zoophilous flowers.</sent>
+				<sent id ="27">Madar, Shimul, Kadam etc. are zoophilous flowers.</sent>
+				<sent id ="28">Pollination through Water: Many aquatic plants are pollinated by water.</sent>
+				<sent id ="29">When pollination is accomplished by water the flowers is said to be hydrophilous flowers.</sent>
+				<sent id ="30">Vallisneria, Urticularia etc. are Hydrophilous flowers.</sent>
+				<sent id ="31">We know there are small organs named ovules in the ovary of a flower.</sent>
+				<sent id ="32">These ovules later on develop to seeds.</sent>
+				<sent id ="33">The seeds we see in the fruits like Mango, Jambolina (Jaam), Lichi, Jackfruit etc. all are the developed ovule.</sent>
+				<sent id ="34">When the ovule gradually develops to seeds at the same time the ovary of the flower gradually develops to a fruit.</sent>
+				<sent id ="35">Ovules are developed to seed as a result of fertilization.</sent>
+				<sent id ="36">Usually without fertilization ovules cannot be developed to seeds Again fertilization also causes the ovary to form a fruit.</sent>
+				<sent id ="37">For fertilization it is necessary to originate male and female gametes.</sent>
+				<sent id ="38">In flowering plants union of male and female gametes is called fertilization.</sent>
+				<sent id ="39">Formation of male gamete: Inside the anther there are pollen mother cells.</sent>
+				<sent id ="40">By meiosis four pollen grains are produced from each pollen mother cell.</sent>
+				<sent id ="41">Each pollen grain contains two coverings, the outer coating is called exine and the inner one is called intine.</sent>
+				<sent id ="42">In the exine there is a pore named germ pore Nucleus of the pollen grain undergoes mitotic division and forms tube nucleus and generative nucleus.</sent>
+				<sent id ="43">Usually pollination occurs at this bi-nucleated condition.</sent>
+				<sent id ="44">As a result of pollination, the pollen grains become attached to the stigma and a pollen tube is developed from the pollen grain.</sent>
+				<sent id ="45">The tube gradually makes its way down into the ovary through the style.</sent>
+				<sent id ="46">The tube nucleus enters the pollen tube followed by the generative nucleus.</sent>
+				<sent id ="47">The generative nucleus undergoes mitotic division and form two male reproductive cells or male gametes or sperms.</sent>
+				<sent id ="48">The male gametes are haploid.</sent>
+				<sent id ="49">Inside the ovary of a flower there lies the ovules.</sent>
+				<sent id ="50">In each of these ovules one megaspore mother cell (female reproductive mother cell or egg mother cell) is produced.</sent>
+				<sent id ="51">This cell undergoes meiotic division to give rise to four haploid megaspores.</sent>
+				<sent id ="52">In most of the cases three out of four degenerate and only one cell survives.</sent>
+				<sent id ="53">The nucleus of the survived large cell divides mitotically to give rise to two at first, next from these two forms four and then from four to eight nucleus.</sent>
+				<sent id ="54">These eight nucleus remains at two poles of a sac like structure.</sent>
+				<sent id ="55">The sac like structure is called embryo sac.</sent>
+				<sent id ="56">One nucleus from each pole moves to the centre of the embryo sac and fuse together to form a secondary nucleus.</sent>
+				<sent id ="57">The three nuclei remaining at the micropyler end of the embryo sac are called egg apparatus.</sent>
+				<sent id ="58">The central one of these three is larger one and it forms the egg or ovum, and the other two besides the ovum are synergides.</sent>
+				<sent id ="59">Ovum is the female reproductive cell or female gamete.</sent>
+				<sent id ="60">The rest nuclei of the embryo sac are called antipodal cells.</sent>
+				<sent id ="61">The ovum is haploid.</sent>
+				<sent id ="62">Union of female and male reproductive cell: The pollen tube gradually proceeds and moves downwards and ultimately reaches the embryo sac.</sent>
+				<sent id ="63">When the pollen tube reaches the embryo sac the tip of the pollen tube bursts and the two male gametes are released.</sent>
+				<sent id ="64">One of the male gametes.</sent>
+				<sent id ="65">(sperm cells) unites with the egg and complete the process of fertilization.</sent>
+				<sent id ="66">The other male gamtees unite with the secondary nucleus.</sent>
+				<sent id ="67">This union is called triple fusion.</sent>
+				<sent id ="68">This process is known as double fertilization.</sent>
+				<sent id ="69">Stages of Fertilization: From the above discussion it is understood that there are three stages in the process of fertilization, namely - Development of male gametes, Development of female gametes and Union of male and female gametes.</sent>
+				<sent id ="70">Development of Embryo: Embryo develops after fertilization.</sent>
+				<sent id ="71">A diploid zygote is developed as a result of the union of male and female gametes.</sent>
+				<sent id ="72">It is also called a fertilized egg.</sent>
+				<sent id ="73">The zygote remains in resting stage for sometimes (may be few hours, days or even months).</sent>
+				<sent id ="74">After the resting period the zygote cell undergoes a transverse division to form a bi-celled pro-embryo.</sent>
+				<sent id ="75">The pro- embryo then undergoes successive cell division at different plains to form an embryo.</sent>
+				<sent id ="76">An embryo consists of cotyledon and an axis.</sent>
+				<sent id ="77">The upper portion of the, axis is the plumule and the lower portion is the radicle.</sent>
+				<sent id ="78">In a monocot seed there is only one cotyledon (e.g.</sent>
+				<sent id ="79">coconut, paddy etc) and in a dicot seed there are two cotyledons.</sent>
+				<sent id ="80">Endosperm is an essential constituent part of the seed.</sent>
+				<sent id ="81">The food for developing embryo is preserved in it and the embryo absorbs food from the endosperm.</sent>
+				<sent id ="82">The triploid cell originated from the union of secondary nucleus of the embryo sac and a male gametes, is the first cell of the endosperm.</sent>
+				<sent id ="83">The triploid cell undergoes mitotic division repeatedly to give rise to a mature endosperm.</sent>
+				<sent id ="84">The endosperm is triploid i.e. three nuclei fused together to form it.</sent>
+				<sent id ="85">In many plants endosperm is present in a mature seed.</sent>
+				<sent id ="86">During germination, the embryo absorbs food from the endosperm.</sent>
+				<sent id ="87">These types of seeds are called endospermic seed - e.g.</sent>
+				<sent id ="88">Paddy, Wheat, Ricinus etc.</sent>
+				<sent id ="89">In many other plants endosperm being absorbed and stored in cotyledon and is utilised during germination.</sent>
+				<sent id ="90">This type of seeds are called non-endosperm seed e.g.</sent>
+				<sent id ="91">Gram seed, Pea, Mango etc.</sent>
+				<sent id ="92">After fertilization the ovary is developed to fruit and the ovule developed to seed.</sent>
+				<sent id ="93">As a result of fertilization the ovary of a flower develops to a fruit and ovules to seeds.</sent>
+				<sent id ="94">Seeds maintain and increase the generation by reproduction.</sent>
+				<sent id ="95">If there were no seed probably the plant would have perished.</sent>
+				<sent id ="96">This may be said in other words as, if there was no fertilization the plants would have perished.</sent>
+				<sent id ="97">Again animal world especially human being live on fruits and seeds of plants.</sent>
+				<sent id ="98">If there was no fertilization seeds and fruits would not have grown.</sent>
+				<sent id ="99">No animal life could exist without the food produced by plants.</sent>
+				<sent id ="100">S Usually a plant produces a large number of fruits and seeds.</sent>
+				<sent id ="101">Some fruits are carried from one place to another by human beings for their own interest e.g.</sent>
+				<sent id ="102">Litchi, Mango, Jackfruit etc.</sent>
+				<sent id ="103">In some plants fruits and seeds remains just under the tree.</sent>
+				<sent id ="104">Again in some plants fruits and seeds are taken away from the mother plant by various agents and are distributed to distant areas.</sent>
+				<sent id ="105">This process of distribution of fruits and seeds to a distant area from its mother plant by several means is called dispersal of fruits and seeds.</sent>
+				<sent id ="106">Usually dispersal of fruits and seeds take place by the following means.</sent>
+				<sent id ="107">Here is a brief discussion.</sent>
+				<sent id ="108">Dispersal by wind: Seeds of many plants are carried away by wind and are distributed at distant places.</sent>
+				<sent id ="109">These types of fruits and seeds are very light, small and provided with wings.</sent>
+				<sent id ="110">So the wind may carry these seeds easily to different places.</sent>
+				<sent id ="111">Fruits of sunflower have pappus, in Chhagalbati the style is persistent and feathery, in Mehogany and Shajina there is flat appendage in the seeds.</sent>
+				<sent id ="112">The seeds of Akonda and Chhatim are provided with hairs.</sent>
+				<sent id ="113">Thus fruits and seeds of these plants can easily travel by wind and can be scattered to distant places.</sent>
+				<sent id ="114">Occasionally we find seeds of Chhatim and Akonda are flying in the wind.</sent>
+				<sent id ="115">Dispersal by water: Shapla, Padma or even coconut float on water and moves to distant places.</sent>
+				<sent id ="116">Fibrous or spongy tissues cover their fruits and seeds, thus they float on water very easily.</sent>
+				<sent id ="117">Dispersal by explosion of fruits: There are some fruits, which produce a vibration when it burst.</sent>
+				<sent id ="118">By vibrating force the seeds are scattered to a good distance.</sent>
+				<sent id ="119">Castor, pea, Dopati etc. are fruits of these types.</sent>
+				<sent id ="120">Dispersal by Animals: Fruits of some plants adhere to the body of animals and are carried away from one place to another.</sent>
+				<sent id ="121">Fruits of Prem Kata (chrysopogon Aciculatus), Have Sticky Glands On Their Bodies, Khagra (Xantiuun indicum) has hooks on its body, etc. are dispersed by adhering to animal body even to clothing of human beings.</sent>
+				<sent id ="122">Dispersal by Birds: Some fruits are carried away by birds on their beaks to a great distance.</sent>
+				<sent id ="123">Litchi is one of these types of fruits.</sent>
+				<sent id ="124">Birds eat some fruits but its seeds cannot be digested and come out with stools and from that seedlings grow, e.g.</sent>
+				<sent id ="125">Date-palm, Pisum, Tamarind, Ficas etc.</sent>
+				<sent id ="126">Besides these, man willingly carried many fruits and seeds from one place to another, even from one country to another.</sent>
+				<sent id ="127">Without favourable conditions seed do not germinate.</sent>
+				<sent id ="128">Again without favourable environment no seedling can grow big.</sent>
+				<sent id ="129">If all the fruits or seeds of a plant fall directly under the mother tree, then many of them will fail to germinate, for want of space, water, light and air, many of the germinated ones may die because of the shade of the plants.</sent>
+				<sent id ="130">The rest survivors will gradually perish.</sent>
+				<sent id ="131">So for maintaining the existence and increasing of generation of plants in favourable environment dispersal of fruits and seeds is essential.</sent>
+				<sent id ="132">Pollination is the primary process to complete the sexual reproduction of flowering plants.</sent>
+				<sent id ="133">The matter of transfer of pollen grains between the two flowers are shown through arrow marks in the following diagram.</sent>
+				<sent id ="134">If we want to plant a Jackfruit (Artocarpus heterophyllus) tree we sow a seed of a Jackfruit, because Jackfruit tree originates from Jackfruit seed. in this way we get Jaam (black berry) tree from a Jaam seed, Coconut tree from Coconut, Jute plants from Jute seeds, paddy plant from paddy seed.</sent>
+				<sent id ="135">Again some time we can get new plants from stem cutting also.</sent>
+				<sent id ="136">The process by which a plant gives rise to grow a similar new plant is known as reproduction.</sent>
+				<sent id ="137">Reproduction is one of the most important features of living beings.</sent>
+				<sent id ="138">We can grow a new plant from seeds, or some other organ of the plant may give rise to grow a new plant.</sent>
+				<sent id ="139">So the process of reproduction is not of only one type.</sent>
+				<sent id ="140">Different types of reproduction is described below:</sent>
+				<sent id ="141">Sexual Reproduction: We have learnt from the chapter fertilization that the union of male and female gametes develop seeds.</sent>
+				<sent id ="142">seeds are the product of sexual union.</sent>
+				<sent id ="143">So the reproduction that takes place by Seeds is sexual reproduction.</sent>
+				<sent id ="144">We get plants like Paddy (Oryza sativa), Wheat (Triticum), Maize, Jaam, Jackfruit etc. from their seeds.</sent>
+				<sent id ="145">Asexual Reproduction: Reproduction by any organ other than seed is called asexual reproduction.</sent>
+				<sent id ="146">Asexual reproduction may be of two types: by asexual spore and by vegetative organ.</sent>
+				<sent id ="147">Plants like Algae, Fungi, Moss, Fern etc. reproduce by asexual spores.</sent>
+				<sent id ="148">Vegetative Reproduction: Reproduction that takes place by vegetative organ is called vegetative reproduction.</sent>
+				<sent id ="149">Vegetative reproduction usually takes place by organs like root, stem or leaf etc. Vegetative reproduction again are of two types: Normal and Artificial.</sent>
+				<sent id ="150">Normal Vegetative reproduction: If we sow a potato or sweet potato, a root of Kakrol or a branch of Madar it will naturally gives rise to grow a new plant.</sent>
+				<sent id ="151">But if we plant a branch of Mango tree it will not give rise to grow a new planty rather it dies.</sent>
+				<sent id ="152">When any part or organs of a plant naturally give rise to grow new plant is called natural vegetative reproduction.</sent>
+				<sent id ="153">By Roots: Plants like sweet potato (a modified root), Dahlia, Kakrol, and Patol etc. reproduce by roots.</sent>
+				<sent id ="154">By Stem: Plants like Zinger, Turmeric, Shati, potato, Olkachu, Onion (these are modified stems) etc. reproduce by stems.</sent>
+				<sent id ="155">Banana, Pudina, Pineapple, Chrysanthemum etc. reproduce by sucker (a modified stem).</sent>
+				<sent id ="156">Shajina, Madar, Chhatim, and Jiga etc. give rise to grow new plants by planting their branches.</sent>
+				<sent id ="157">New plant also originates from young Bamboo shoots.</sent>
+				<sent id ="158">By leaf: Reproduction of Pathharkuchi (Bryophyllum) takes place by its leaf.</sent>
+				<sent id ="159">When a leaf is left on the earth new buds originates from every notch of its margin and gives rise to a new plant.</sent>
+				<sent id ="160">Artificial Vegetative Reproduction: Branches of mango tree do not give rise to grow a new plant rather the branch become sapless.</sent>
+				<sent id ="161">But if a bandage layering is made by the branch and plants it, it gives rise to a new plant.</sent>
+				<sent id ="162">Artificial vegetative reproduction is being done in various methods by human beings.</sent>
+				<sent id ="163">Various methods of vegetative reproduction are: Cutting, Layering, Budding, and Grafting etc. artificial vegetative reproduction may be done in plants like Mango.</sent>
+				<sent id ="164">Lichi, Boroi etc.</sent>
+				<sent id ="165">The flowers and fruits of new plants bear the similar characteristics as those of its mother plant.</sent>
+				<sent id ="166">The new plants give early flowers and fruits.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

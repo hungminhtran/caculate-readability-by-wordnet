@@ -1,0 +1,118 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.518</idno>
+				<idno type="Number of sentences">90</idno>
+				<idno type="Number of tokens">836</idno>
+				<idno type="Number of token types">281</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t41">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We know that we need some help to make our life beautiful.</sent>
+				<sent id ="2">We need food to live.</sent>
+				<sent id ="3">We need education to become good human beings.</sent>
+				<sent id ="4">We need treatment if we are sick.</sent>
+				<sent id ="5">We need many types of assistance to lead a healthy life.</sent>
+				<sent id ="6">These are called rights.</sent>
+				<sent id ="7">We get all these from our family, society and state.</sent>
+				<sent id ="8">We get these rights from our families.</sent>
+				<sent id ="9">All that our parents do for us are their duties.</sent>
+				<sent id ="10">So, we have some duties when we enjoy such rights.</sent>
+				<sent id ="11">Duty is what we do for others.</sent>
+				<sent id ="12">We are children.</sent>
+				<sent id ="13">Slowly we will grow up.</sent>
+				<sent id ="14">We will make ourselves good human beings.</sent>
+				<sent id ="15">We will work for the good of our family, society and country.</sent>
+				<sent id ="16">For this we need to build up career in a nice way.</sent>
+				<sent id ="17">We need some help to build up our career properly.</sent>
+				<sent id ="18">These called rights of all children.</sent>
+				<sent id ="19">We have learnt about some rights of children.</sent>
+				<sent id ="20">These are very useful to build up our career.</sent>
+				<sent id ="21">All the children of our society have got equal rights.</sent>
+				<sent id ="22">We will learn about the rights of children and let other children know about them.</sent>
+				<sent id ="23">Now we shall draw a table below in our exercise book.</sent>
+				<sent id ="24">We shall write down five rights of child in it.</sent>
+				<sent id ="25">We are born in the family.</sent>
+				<sent id ="26">We grow up in the family.</sent>
+				<sent id ="27">Our parents give us food and treatment for our good wealth.</sent>
+				<sent id ="28">These are necessary for us to live.</sent>
+				<sent id ="29">Besides, our parents love us.</sent>
+				<sent id ="30">They make arrangements for our education.</sent>
+				<sent id ="31">They take care of our study.</sent>
+				<sent id ="32">We get our name from the family.</sent>
+				<sent id ="33">We are known by these names in society.</sent>
+				<sent id ="34">Family plays a great role in building up our character.</sent>
+				<sent id ="35">These help us to build up our career nicely.</sent>
+				<sent id ="36">Our right is to get all these from the family.</sent>
+				<sent id ="37">A family may have both boys and girls.</sent>
+				<sent id ="38">Both boys and girls have equal rights in the family.</sent>
+				<sent id ="39">It is the duty of parents to give equal opportunities to both and girls.</sent>
+				<sent id ="40">Children are different from their elders respect of their choice, likes, dislikes and thoughts.</sent>
+				<sent id ="41">So the needs and rights of children should be taken care of.</sent>
+				<sent id ="42">We have learnt about the rights of children in the family.</sent>
+				<sent id ="43">Besides the family, we have some rights to our schools.</sent>
+				<sent id ="44">It is our greatest right to get education in school.</sent>
+				<sent id ="45">All children regardless of rich, poor, religion have this right.</sent>
+				<sent id ="46">We know that to have our rights, we must do our duties.</sent>
+				<sent id ="47">We have learnt earlier that duty is the work that we do for others.</sent>
+				<sent id ="48">We have many rights in the family and school.</sent>
+				<sent id ="49">So we have some duties too to do.</sent>
+				<sent id ="50">Besides family and school, we have also some duties to society.</sent>
+				<sent id ="51">There are many kinds of people in society.</sent>
+				<sent id ="52">Our main duty is to live with all.</sent>
+				<sent id ="53">We will be hospitable to our neighbours when they visit our home.</sent>
+				<sent id ="54">Besides, we will be kind to the poor and helpless.</sent>
+				<sent id ="55">We are the citizens of Bangladesh.</sent>
+				<sent id ="56">Usually citizens are thoise who live permanently in a country.</sent>
+				<sent id ="57">For example, we are born in Bangladesh and also live in this country.</sent>
+				<sent id ="58">So, we are all citizens of Bangladesh.</sent>
+				<sent id ="59">We get these opportunities from family, school and society.</sent>
+				<sent id ="60">As citizens we have also some rights to our state.</sent>
+				<sent id ="61">We will know about some rights as citizens from the table below.</sent>
+				<sent id ="62">These rights are very important in the life of a citizen.</sent>
+				<sent id ="63">It is the duty of the state to ensure these rights.</sent>
+				<sent id ="64">We cannot simply have these rights as citizens.</sent>
+				<sent id ="65">We have some also duties to the state.</sent>
+				<sent id ="66">There are many organizations to ensure the rights of citizens.</sent>
+				<sent id ="67">There are some members also.</sent>
+				<sent id ="68">All of them are elected by the people of the union .</sent>
+				<sent id ="69">In cities there are city corporations.</sent>
+				<sent id ="70">Each city has a chairman and a few members.</sent>
+				<sent id ="71">The members of the city-corporation are called commissioners.</sent>
+				<sent id ="72">We will know about who are the voters.</sent>
+				<sent id ="73">So the persons who are eighteen must become voters.</sent>
+				<sent id ="74">They should cast votes in elections.</sent>
+				<sent id ="75">So we can see that we are the members of a family and society.</sent>
+				<sent id ="76">We also have various rights as citizens of a country.</sent>
+				<sent id ="77">We do some duties and in exchange of these duties we enjoy some rights.</sent>
+				<sent id ="78">We are all human beings.</sent>
+				<sent id ="79">We live in different countries of the world.</sent>
+				<sent id ="80">The right to live well as human beings is called human rights.</sent>
+				<sent id ="81">The United Nations has made a declaration on human rights.</sent>
+				<sent id ="82">All countries obey this declaration.</sent>
+				<sent id ="83">This declaration has stated rights for the thoughts, actions, religions, security of every human being.</sent>
+				<sent id ="84">AIL people regardless of male, female, religion and caste will enjoy these rights equally.</sent>
+				<sent id ="85">According to this declaration people cannot be oppressed and suppressed.</sent>
+				<sent id ="86">Many organizations work for human rights.</sent>
+				<sent id ="87">The Amnesty International is a remarkable one.</sent>
+				<sent id ="88">It works for the rights of the people of all countries.</sent>
+				<sent id ="89">Legal Aid Centre Adhikar are other human rights organizations of our country.</sent>
+				<sent id ="90">All the countries of the world observe Human Rights Day on 10th of December.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

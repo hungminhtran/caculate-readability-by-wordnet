@@ -1,0 +1,124 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-14</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.856</idno>
+				<idno type="Number of sentences">96</idno>
+				<idno type="Number of tokens">1281</idno>
+				<idno type="Number of token types">493</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t46">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">You may have noticed that animals and birds or insects send signals to each other for communicating information.</sent>
+				<sent id ="2">And for communicating that, men have not depended on their bodily activities only, they have invented new and newer technologies.</sent>
+				<sent id ="3">It is said that the modern world is the world of information technology.</sent>
+				<sent id ="4">Therefore, the progress of a nation today depends largely on how fast it can exchange information with others.</sent>
+				<sent id ="5">Knowing about something is called information.</sent>
+				<sent id ="6">There are many kinds of information in the world and we all need information to live.</sent>
+				<sent id ="7">Sometimes they even have to give rise to new information.</sent>
+				<sent id ="8">Thus you see it's not enough to know information.</sent>
+				<sent id ="9">You need to share information with others.</sent>
+				<sent id ="10">When one sends information to another person, one has to find a way to do that.</sent>
+				<sent id ="11">For example, at this moment you are reading this chapter.</sent>
+				<sent id ="12">The person who has written it has used the means of writing to give you some information about information technology.</sent>
+				<sent id ="13">The writer has written it in English.</sent>
+				<sent id ="14">He or she couldn't have sent you the information if you hadn't known English.</sent>
+				<sent id ="15">Every minute we are exchanging or communicating information with each other.</sent>
+				<sent id ="16">The simplest way of information communication is done through speaking.</sent>
+				<sent id ="17">When a teacher explains something to his or her students in class, he talks to them.</sent>
+				<sent id ="18">And the words he says enter the ears of the students as they listen to him or her.</sent>
+				<sent id ="19">Here information communication is taking place through the means of words.</sent>
+				<sent id ="20">Man's voice can reach up to a limited distance.</sent>
+				<sent id ="21">You may have been curious to know why it is so, but the reason is very simple.</sent>
+				<sent id ="22">When someone talks in a country very far away, the speech cannot travel through telephone wires.</sent>
+				<sent id ="23">These satellites stay almost 36 thousand kilometers away from the earth.</sent>
+				<sent id ="24">Now-a-days along with satellite, fiber optics connection is being used.</sent>
+				<sent id ="25">This connection is given through a very thin thread.</sent>
+				<sent id ="26">In this process we don't need to send information to a distant satellite.</sent>
+				<sent id ="27">Therefore, sending information through optical fiber is much faster.</sent>
+				<sent id ="28">You would be surprised to see that the optical fiber is thin like hair.</sent>
+				<sent id ="29">One-Way and Both-Way Information Flow You all know that cyclones often hit our coastal areas.</sent>
+				<sent id ="30">Usually you get this information through radio and television news.</sent>
+				<sent id ="31">You could get the information in other ways, too.</sent>
+				<sent id ="32">Someone could give you the news through telephone.</sent>
+				<sent id ="33">There is a difference between getting the information from radio and T.V. and getting the news through telephone.</sent>
+				<sent id ="34">Can you guess the difference?</sent>
+				<sent id ="35">Coastal People is hearing about cyclone from radio.</sent>
+				<sent id ="36">The difference is that the information you receive through radio and television is one-way.</sent>
+				<sent id ="37">This kind of one-way communication is called broadcast.</sent>
+				<sent id ="38">Radio, television, newspaper are examples of broadcast information communication.</sent>
+				<sent id ="39">This is called two-way information flow.</sent>
+				<sent id ="40">Computer network is another example of two-way information flow.</sent>
+				<sent id ="41">He couldn't have imagined then that the telephone would one day become such an inseparable part of our daily life.</sent>
+				<sent id ="42">We have become so accustomed to it that we cannot imagine a single day without telephone.</sent>
+				<sent id ="43">Those of you who have used a telephone would have noticed two types of telephone.</sent>
+				<sent id ="44">With one kind of telephone, there is an electric wire attached to it.</sent>
+				<sent id ="45">This is known as land phone.</sent>
+				<sent id ="46">This is known as mobile phone.</sent>
+				<sent id ="47">In the case of the mobile phone, it is sent through wireless or through electrio- magnetic waves.</sent>
+				<sent id ="48">With every telephone there is a microphone and a speaker.</sent>
+				<sent id ="49">The microphone changes our voice or our speech into electric signs.</sent>
+				<sent id ="50">The speaker of the other telephone changes the sign into word and makes it possible for us to hear that.</sent>
+				<sent id ="51">The machine through which we can hear the sound sent through radio wave is called the radio.</sent>
+				<sent id ="52">No medium is needed for the electro-magnetic wave, and therefore, it can spread around over a long distance.</sent>
+				<sent id ="53">When those electric signs are sent to the speaker, they are again changed into words and we can hear them.</sent>
+				<sent id ="54">Today, you can watch hundreds of channels on television.</sent>
+				<sent id ="55">Not only that, when something happens in any part of the world, we can immediately see it on the television.</sent>
+				<sent id ="56">In the radio, words were transformed into electric signs trough the microphone.</sent>
+				<sent id ="57">But at the television station we need to have a camera as well as a microphone.</sent>
+				<sent id ="58">This camera shoots a number of pictures in every second and then turns them into electric signs.</sent>
+				<sent id ="59">The antennas of the televisions in our homes receive those electrio-magnetic waves.</sent>
+				<sent id ="60">In our country, we have quite a few of these television stations and we call them cable television.</sent>
+				<sent id ="61">All the methods of information communication that we have talked about so far have some limitations or other.</sent>
+				<sent id ="62">The method of information that has revolutionized the modern man's life is the computer network.</sent>
+				<sent id ="63">But before we discuss the computer network, let's learn about what a computer is.</sent>
+				<sent id ="64">You may have already guessed from the name computer that it has something to do with computing or accounting.</sent>
+				<sent id ="65">When computer was first invented, it was, in fact, made for the purpose of accounting.</sent>
+				<sent id ="66">But day by day, it's being used for many different kinds of works.</sent>
+				<sent id ="67">There are different kinds of computers.</sent>
+				<sent id ="68">There are huge sized super computers as well as small computers for using in household machineries.</sent>
+				<sent id ="69">But the computer we are most accustomed to seeing is the desktop or laptop computer.</sent>
+				<sent id ="70">These computers are for personal use and we can divide it into three main parts.</sent>
+				<sent id ="71">The first part is the Input Unit where there is the keyboard and the mouse.</sent>
+				<sent id ="72">With these we send information inside the computer.</sent>
+				<sent id ="73">The second part is the C.P.U or the Central Processing Unit.</sent>
+				<sent id ="74">This is the most important part of the computer and this part does all the calculations of the computer.</sent>
+				<sent id ="75">Here the computer saves all its information and analyses that information in many different ways.</sent>
+				<sent id ="76">The last part of the computer is called the Output Unit.</sent>
+				<sent id ="77">After the computer finishes doing all the calculations, we can see the results in this part.</sent>
+				<sent id ="78">The Monitor of the computer is the example of its output unit.</sent>
+				<sent id ="79">So, generally speaking, we enter information into the computer through the keyboard and the mouse.</sent>
+				<sent id ="80">The C.P.U saves that information in the memory and then processes that through the microprocessor.</sent>
+				<sent id ="81">After the processing is done, the result is shown on the monitor.</sent>
+				<sent id ="82">These ports are called networking ports, and through these networking ports, one computer can be linked with another computer.</sent>
+				<sent id ="83">Then the connected computers can exchange information with each other.</sent>
+				<sent id ="84">In this way, by connecting millions of computers together a worldwide computer network has developed.</sent>
+				<sent id ="85">This has been the most fascinating way for sending and receiving information.</sent>
+				<sent id ="86">doing all the calculations, we can see the results in this part.</sent>
+				<sent id ="87">The This technique of communication information across the world through network is known as the Internet.</sent>
+				<sent id ="88">To connect with the outer world, fiber cable is being used through below the surface of the ocean.</sent>
+				<sent id ="89">The new world, in fact, is the world of information technology.</sent>
+				<sent id ="90">The nation which will be able to use information in the best way will prosper the most.</sent>
+				<sent id ="91">Many new technologies have developed for information communication.</sent>
+				<sent id ="92">You will gradually learn about those and will be able to use them.</sent>
+				<sent id ="93">There was a time when the radio, television, telephone and computer - were all separate machines.</sent>
+				<sent id ="94">Already all of these have been compressed in one and has become smaller.</sent>
+				<sent id ="95">The mobile phone has already the radio, television, camera and even a powerful computer inside it.</sent>
+				<sent id ="96">Not only that, by being connected with the computer network, it can now collect information from all over the world.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,132 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-17</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.771</idno>
+				<idno type="Number of sentences">104</idno>
+				<idno type="Number of tokens">1459</idno>
+				<idno type="Number of token types">603</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t9">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Trees of many kinds we find in and around our homesteads in the village.</sent>
+				<sent id ="2">Most of them bear fruits: mango, black -berry, jackfruit, tamarind, guava, jujube, wood-apple, olive, coconut, betel nut, etc.</sent>
+				<sent id ="3">Some forest trees like Raintree, Karai, Kadam, Neem, Mandar, etc. also stand among them.</sent>
+				<sent id ="4">Different species of bamboo are also planted in rural areas.</sent>
+				<sent id ="5">Recently, forest trees like Mahogony, Teak, Shishu, etc. can also be seen in the yards of homesteads.</sent>
+				<sent id ="6">Such configurations of trees in the spaces of rural homesteads are called rural forestry.</sent>
+				<sent id ="7">These rural forests of personal ownership improve the economic situation of their owners.</sent>
+				<sent id ="8">As such they contribute significantly to the national economy.</sent>
+				<sent id ="9">The villagers retrieve wood for their houses, furniture and fuel from these homestead forests.</sent>
+				<sent id ="10">These trees provide different seasonal fruits.</sent>
+				<sent id ="11">They ensure a family against economic mishaps.</sent>
+				<sent id ="12">People sell these trees to collect money for marriage ceremonies of their sons and daughters, religious rituals and other special occasions.</sent>
+				<sent id ="13">These trees lining the boundaries of homesteads have got immense environmental importance.</sent>
+				<sent id ="14">They create a peaceful environment with their shade.</sent>
+				<sent id ="15">Moreover, they protect the houses and their inmates from severe storms and cyclones.</sent>
+				<sent id ="16">They stop soil erosion.</sent>
+				<sent id ="17">If we had sufficient trees in our homesteads, we would not have burn straw or cowdung for cooking.</sent>
+				<sent id ="18">We could have used these organic matters as manure in our agricultural fields.</sent>
+				<sent id ="19">It would have reduced the use of chemical fertilizers.</sent>
+				<sent id ="20">As a result, the environment, especially water, would have been polluted less than now.</sent>
+				<sent id ="21">Population is on the rise in our country.</sent>
+				<sent id ="22">People cut down the trees of their homesteads in numbers to meet the demand for dwelling houses and other facilities.</sent>
+				<sent id ="23">They are not replenished in equal numbers; the gap widens progressively.</sent>
+				<sent id ="24">For this reason, the number of trees in the courtyards of homesteads has dwindled disturbingly.</sent>
+				<sent id ="25">As a result, the standing trees are not in a position to meet the demand of the increased population.</sent>
+				<sent id ="26">It is, therefore, a necessity to plant trees in the yards of homesteads extensively.</sent>
+				<sent id ="27">The site selection is an important step in homestead tree plantation.</sent>
+				<sent id ="28">The things to be noticed for the site selection are: The trees on the site will not make the house inaccessible to light and air.</sent>
+				<sent id ="29">It should be surveyed well that the trees do not damage lives or sheds if they fall down during storms or owing to other reasons.</sent>
+				<sent id ="30">It would be desired that the plantation would enhance the beauty of the homestead and create a refreshing environment.</sent>
+				<sent id ="31">The selection of plants and the locations of their plantation according to the guidelines mentioned above are discussed below:</sent>
+				<sent id ="32">The southern and eastern sides of the homestead should be kept open for enough air and light.</sent>
+				<sent id ="33">On these sides small and medium size trees should be planted.</sent>
+				<sent id ="34">These are Wood-apple, Guava, Coconut, Shishu, etc.</sent>
+				<sent id ="35">On the south-western side of the homestead hard deciduous trees should be planted.</sent>
+				<sent id ="36">The northwesterns usually strike our country from the southwestern direction.</sent>
+				<sent id ="37">It is better if sunlight can enter the dwelling house in the afternoons in winter.</sent>
+				<sent id ="38">So the trees that shed their leaves in winter Should be planted on that side.</sent>
+				<sent id ="39">Karai, Shishu, Teak, etc. are quite hard.</sent>
+				<sent id ="40">They shed their leaves when winter sets in.</sent>
+				<sent id ="41">These trees can be planted on the south and the west of the home.</sent>
+				<sent id ="42">All kinds of trees can be planted on the north, north-west and northeastern sides.</sent>
+				<sent id ="43">If there is sufficient empty space in the homestead, bamboo is good for plantation on the north-eastern side.</sent>
+				<sent id ="44">Bamboo is an important commodity in the rural economy.</sent>
+				<sent id ="45">Other big trees like Jamboline, Olive, Tamarind, Raintree, Mahogony, Mango, Jackfruit, etc. also qualify for a place on the northern fringe of a homestead.</sent>
+				<sent id ="46">The technology of tree plantation in homesteads and their nursing are similar to the tree plantation in other areas.</sent>
+				<sent id ="47">The main advantage of the tree plantation in homesteads is that nursing of the trees can be done most carefully.</sent>
+				<sent id ="48">On the other hand, the disadvantage of the tree plantation in homesteads is that the young trees are often eaten up by cows and goats.</sent>
+				<sent id ="49">To avoid damage by the cattle, it is wise to plant big saplings with strong fences around them.</sent>
+				<sent id ="50">Firstly, cows and goats cannot damage them.</sent>
+				<sent id ="51">Secondly, young adult saplings bear fruits soon.</sent>
+				<sent id ="52">The pit or hole should be dug one month before the start of the seasonal rains as done in other cases of plantation of trees.</sent>
+				<sent id ="53">The pit would measure 50 cm X 50 cm X 50 cm.</sent>
+				<sent id ="54">10 kg of decomposed cow-dung, 50 gm of TSP and 50 gm of Potash are to be mixed with the soil of each pit.</sent>
+				<sent id ="55">The Texture should be kept in the pits for at least one month.</sent>
+				<sent id ="56">After one month when the seasonal rains begin, the saplings are to be planted.</sent>
+				<sent id ="57">First of all, the soil of the previously dug pit is to be removed.</sent>
+				<sent id ="58">It would be equal in quantity to the soil in the polybag holding the sapling.</sent>
+				<sent id ="59">Then the polybag containing the sapling is to be cut with a sharp knife or a blade.</sent>
+				<sent id ="60">Remove the polythene in the way shown in the picture.</sent>
+				<sent id ="61">Take care the soil holding the sapling does not break up.</sent>
+				<sent id ="62">After you have set the sapling in the pit, fill up the empty space around it with earth.</sent>
+				<sent id ="63">The sapling may rot and die from water logging.</sent>
+				<sent id ="64">To let the sapling attain maturity; nurse it properly and regularly.</sent>
+				<sent id ="65">It also requires proper maintenance.</sent>
+				<sent id ="66">In our country, many saplings die because we do not nurse or maintain them.</sent>
+				<sent id ="67">So care should be taken for nursing the sapling.</sent>
+				<sent id ="68">Support stick: When a big sapling is planted, it is found that the sapling cannot stand upright.</sent>
+				<sent id ="69">Many saplings lean on a side after plantation because of the force of cyclones, strong winds, etc.</sent>
+				<sent id ="70">The sapling is to be tied to the stick by a rope.</sent>
+				<sent id ="71">The knot should be as loose as to allow the sapling swing comfortably.</sent>
+				<sent id ="72">This bamboo stick is called a support stick.</sent>
+				<sent id ="73">Irrigation: The best time for planting saplings is the beginning of the rainy season.</sent>
+				<sent id ="74">There is no need of irrigation during the rains.</sent>
+				<sent id ="75">But during the drought, they need to be watered regularly in the evenings.</sent>
+				<sent id ="76">When you notice the soil lacks moisture during the dry seasons, irrigate regularly.</sent>
+				<sent id ="77">Clearing the base of the sapling and mulching: In our country, weeds grow everywhere.</sent>
+				<sent id ="78">When weeds grow at the base of the saplings, they should be cleared regularly .</sent>
+				<sent id ="79">Weeds take in moisture and nutrition from the soil.</sent>
+				<sent id ="80">As a result, saplings cannot grow well.</sent>
+				<sent id ="81">We know that the moisture of soil decreases during winter.</sent>
+				<sent id ="82">As the straw decomposes eventually, it adds organic matter to the soil.</sent>
+				<sent id ="83">As a result, the sapling grows well.</sent>
+				<sent id ="84">The sapling remains fresh and strong during winter also.</sent>
+				<sent id ="85">This way of spreading straw or weeds on the base of the sapling is called mulching.</sent>
+				<sent id ="86">Application of fertilizers: Generally, there is no need of applying fertilizers in the first two months after a sapling is planted.</sent>
+				<sent id ="87">After this period, fertilizers are to be applied after observing the fertility of the soil and the growth of the sapling.</sent>
+				<sent id ="88">The indiscriminate application of fertilizers may damage the sapling, the soil and the environment.</sent>
+				<sent id ="89">If the growth of the sapling is not as expected, fertilizers are to be applied after 3-4 months of its plantation.</sent>
+				<sent id ="90">At this time 50 gram of urea is to be applied to a sapling in dibbling method.</sent>
+				<sent id ="91">If the soil is dry, soak it well with water after the application of fertilizers.</sent>
+				<sent id ="92">If fertilizers are given in this way, misuse of fertilizers can be minimized, and the roots of the trees get fertilizers for a long period.</sent>
+				<sent id ="93">After the plantation of saplings, the application of fertilizers may continue for 3 years.</sent>
+				<sent id ="94">During this time, fertilizers can be applied every year once at the beginning and once at the end of the rainy season.</sent>
+				<sent id ="95">Afterwards, the tree will take care of itself and grow naturally.</sent>
+				<sent id ="96">Title: Planting of saplinags in homesteads and intercultural operations.</sent>
+				<sent id ="97">Materials: Required number of saplings, spades, weeder, support sticks, bamboo cages, ropes, water pots, cowdung, chemical fertilizers, scissors or blades, etc.</sent>
+				<sent id ="98">Prepare a sketch map of the homestead on the lawn of which saplings will be planted.</sent>
+				<sent id ="99">Mark on the map which variety of plants is to be planted on which side of the house.</sent>
+				<sent id ="100">Dig pits in the selected points and follow the tasks described in the next section.</sent>
+				<sent id ="101">B. Work to be done during and after planting saplings: Plant the selected variety of the sapling in the pit.</sent>
+				<sent id ="102">Post a support stick on the ground and arrange for fencing.</sent>
+				<sent id ="103">Follow the post-planting nursing procedures.</sent>
+				<sent id ="104">Write down these activities serially in your practical notebook mentioning the date, place and time.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

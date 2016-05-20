@@ -1,0 +1,167 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-budh-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:04.344</idno>
+				<idno type="Number of sentences">139</idno>
+				<idno type="Number of tokens">2027</idno>
+				<idno type="Number of token types">724</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t42">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">According to Canonical literature diyatiti danam i.e. whichever is given, is called charity.</sent>
+				<sent id ="2">But giving up ownership is closely connected with it.</sent>
+				<sent id ="3">So it may be said that those things which are given to others without selfishness is called charity.</sent>
+				<sent id ="4">It is to be remembered that all things are not good for charity.In Pali there is mention of ten kinds of items which can be given as charity.</sent>
+				<sent id ="5">Food, drinking water, cloth, vehicle (conveyance), garland of flowers (only flowers), scented materials (incense), washing powder/washing soap, beds, house (monastery), candles/lights-these are the best ten items for charity.</sent>
+				<sent id ="6">So the donors should give these items for their happiness.</sent>
+				<sent id ="7">Again, we see in Vessantara Jataka that king Vessantara offered his son and daughter at last his wife also to the disguised Brahmana .</sent>
+				<sent id ="8">Thus he completed the perfection of charity.</sent>
+				<sent id ="9">In other Jatakas, we see that Bodhisattva offered his body and eyes.</sent>
+				<sent id ="10">In Kunal Jataka a beautiful woman named Pancapapa offered a heap of soil to the Samana.</sent>
+				<sent id ="11">We find the merits of giving in those Jatakas.</sent>
+				<sent id ="12">In the Law of the Buddha, the importance of charity is countless.</sent>
+				<sent id ="13">Charity is a great deed.</sent>
+				<sent id ="14">Human mind becomes pure as a result of charity and also frees man from delusion.</sent>
+				<sent id ="15">Charity begets pleasure of mind.</sent>
+				<sent id ="16">As a result there arises inspiration to do good: Intention of giving, encourages man to be compassionate to the poor and the invalid one.</sent>
+				<sent id ="17">It even inspires a man to serve distressed people in the other part of the world, that is why, we go forward to offer unselfishly to the distressed people affected by natural or unnatural calamities.</sent>
+				<sent id ="18">Again, we offer gifts to the dead ancestors born in the short world.</sent>
+				<sent id ="19">Actually speaking, we do not give them food.</sent>
+				<sent id ="20">We send them our merits only.</sent>
+				<sent id ="21">It is one of ten moral deeds.</sent>
+				<sent id ="22">The man who does not give, is called a miser.</sent>
+				<sent id ="23">He is hated by the society.</sent>
+				<sent id ="24">He does not enjoy respect anywhere.</sent>
+				<sent id ="25">On the other hand, the man imbued with spirit of charity is praised in the society and respected by all.</sent>
+				<sent id ="26">The man who offers different kinds of goods without selfishness is called a donor.</sent>
+				<sent id ="27">Again only when anything is given in a spirit of unselfishness, it becomes charity.</sent>
+				<sent id ="28">Charity should always remember the following with honest consciousness.</sent>
+				<sent id ="29">The quality of goods : First, it is necessary to judge and analyse properly about the gifts to be given.</sent>
+				<sent id ="30">The gifts earned by evil source, if given, the owner earns less merit.</sent>
+				<sent id ="31">On the other hand, if the gift earned by honest way is given, the donor receives more merits.</sent>
+				<sent id ="32">If charity is made in an immoral state of mind the result does not become so fruitful.</sent>
+				<sent id ="33">It is called a mixed charity.</sent>
+				<sent id ="34">This kind of gift should not be given.</sent>
+				<sent id ="35">On the other hand, the gift earned by honest way, if given with pleasant mind, is called the best gift.</sent>
+				<sent id ="36">This kind of giving should be done.</sent>
+				<sent id ="37">The state of mind : Secondly, at the time of offering charity, mind should be in the state of morality.</sent>
+				<sent id ="38">Cetanaham bhikkhave Kammam Vadami--O monks, I say action arising out of good consciousness is charity.</sent>
+				<sent id ="39">Hence the state of mind before making charity, during charity and after charity determines merit to occur from charity.</sent>
+				<sent id ="40">So, at the time of giving, the mind should be free from greed, antipathy and delusion.</sent>
+				<sent id ="41">These kinds of states of mind are the properties of mind.</sent>
+				<sent id ="42">So, we may conclude here that the gifts which are given without greed, antipathy and delusion are called best gift among all.</sent>
+				<sent id ="43">The proper receiver : If the receiver becomes virtuous, it is called the property of the receiver.</sent>
+				<sent id ="44">Good fruit depends on the good character of a receiver of the gifts.</sent>
+				<sent id ="45">Thus, if gifts are given to a virtuous receiver, it is called the quality of a receiver.</sent>
+				<sent id ="46">This means that when a gift is given to a proper receiver it is called the best gift.</sent>
+				<sent id ="47">It is not the fact that all donors donate donations knowing the best quality of goods, good state of mind and best receiver.</sent>
+				<sent id ="48">That is why, all donors are not the best donors.</sent>
+				<sent id ="49">One should have profound faith towards gift and its results.</sent>
+				<sent id ="50">He should not be unfaithful to it and its good fruits.</sent>
+				<sent id ="51">One should not neglect the gifts and its receiver.</sent>
+				<sent id ="52">The gifts should not be given through the servants.</sent>
+				<sent id ="53">He should give it respectfully by his own hands.</sent>
+				<sent id ="54">One should not give unwillingly and with unpleasant mind.</sent>
+				<sent id ="55">He should make gifts by giving up miseries and attachments.</sent>
+				<sent id ="56">36 Buddhist Religious Studies One should not give gifts in wrong time.</sent>
+				<sent id ="57">Gifts should be given in proper time to the qualified receiver.</sent>
+				<sent id ="58">While making gift he should not think himself high.</sent>
+				<sent id ="59">On the other hand, he should not think the receiver low.</sent>
+				<sent id ="60">Slave donor : The donor who gives to the receiver the lesser quality of gifts than what he takes is called a slave donor.</sent>
+				<sent id ="61">Helper donor : The donor who gives the same quality of gifts as he takes is called a helper donor.</sent>
+				<sent id ="62">Best donor : The donor who lives moderate life but gives rich items to the receiver as gifts is called a best donor.</sent>
+				<sent id ="63">The Buddhists give different items of goods in different functions.</sent>
+				<sent id ="64">Among those, Sanghadana (offering to the Order); Atthaparikkhara-dana (offering of eight requisite items) and Kathinacivara-dana (offering of yellow robes) are to be mentioned.</sent>
+				<sent id ="65">Sangha means an order.</sent>
+				<sent id ="66">Literally Sangha means monks collectively.</sent>
+				<sent id ="67">It is possible to offer Sanghadana at any time by monk, Samanera, lay persons-men or women.</sent>
+				<sent id ="68">There is a procedure of performing Sanghadana.</sent>
+				<sent id ="69">First, the donor invites at least 5 monks to attend the function.</sent>
+				<sent id ="70">The donor arranges all items of goods or offerings in front of the monks constituting the Sangha.</sent>
+				<sent id ="71">The monks recite the suttas for their welfare.</sent>
+				<sent id ="72">After that the merits earned by them offer to the dead ancestors for deliverance.</sent>
+				<sent id ="73">It is more or less as like Sanghadana (offering to the Sangha).</sent>
+				<sent id ="74">Any devotee may like to collect the materials and offer them at house or in the monastery.</sent>
+				<sent id ="75">The householder along with his family members and relations will take seat before the Bhikkhu Sangha and say as follows It is the best offering.</sent>
+				<sent id ="76">By this, the lay-devotees acquire much merits.</sent>
+				<sent id ="77">In this connection, merits acquired by such offering, are explained in the following manner :</sent>
+				<sent id ="78">The lay-devotee who gives the eight items to the Order with pleasure, becomes rich, strong, beautiful in this very life as well as in the next life.</sent>
+				<sent id ="79">He/she never faces poverty.</sent>
+				<sent id ="80">Moreover, he/she becomes wise, rich, intelligent, courageous, scholar, free from illness and long-lived in this life and the lives to come.</sent>
+				<sent id ="81">It means offering of yellow robes to the monks on special function.</sent>
+				<sent id ="82">This function is held once a year from the next day of the full-moon day of the Bengali month named Ashina to full-moon day of Kattika.</sent>
+				<sent id ="83">This kind of offering is made in every monastery.</sent>
+				<sent id ="84">But there is no provision to perform it at any other day of the year.</sent>
+				<sent id ="85">It is to be noted here that yellow robe offering ceremony cannot be held in a monastery where at least one monk has not observed three months of rainy-retreat (Vassavasa).</sent>
+				<sent id ="86">The monks use three kinds of yellow robes namely, Sanghati or Doyajika (upper robe), Uttarasangha (outer robe) and Antarvasa (inner robes).</sent>
+				<sent id ="87">Among these three robes, only one may be offered to the monk who observes the rainy-retreat.</sent>
+				<sent id ="88">Weaving, cutting, sewing and colouring of the cloth have to be done within 24 hours from the rising of the sun till next day sunrise in which monastery the festival is held.</sent>
+				<sent id ="89">This is the one system to offer.</sent>
+				<sent id ="90">According to another system, after either buying yellow robes or buying white clothes from the market, this kind of offering may be done.</sent>
+				<sent id ="91">There is a point why this kind of offering is called a Kathinacivara dana.</sent>
+				<sent id ="92">Because this kind of offering is very rare.</sent>
+				<sent id ="93">It happens once a year in a monastery where the monks reside.</sent>
+				<sent id ="94">Moreover, it is done through ecclesiastical system.</sent>
+				<sent id ="95">Many monks are invited on the day when it is performed.</sent>
+				<sent id ="96">A large number of lay- devotees congregate to attend the robe offering ceremony.</sent>
+				<sent id ="97">The lay devotees go to the monastery with rich food and other commodities.</sent>
+				<sent id ="98">They take refuge under the three Gems, pray to Triratna, pay respect to the monks and pray for five precepts.</sent>
+				<sent id ="99">We are offering this Kathinacivara to the monks to make it Kathina through ecclesiastical rule.</sent>
+				<sent id ="100">The devotees, after reciting the above Pali extract, pay it to the Sangha.</sent>
+				<sent id ="101">After this the monks recite the suttas for the welfare of the beings.</sent>
+				<sent id ="102">The senior monks preach on the subject.</sent>
+				<sent id ="103">The learned people also deliver speeches on the subject.</sent>
+				<sent id ="104">But it is not essential.</sent>
+				<sent id ="105">On conclusion of this ceremony, the monks sit together in the boundary hall and read the ecclesiastical rules as laid down in the disciplinary book.</sent>
+				<sent id ="106">After that the monks give the yellow robes to the monk who resided in that monastery during three months of rainy-retreat.</sent>
+				<sent id ="107">Thus the function of Kathinacivar festival concludes.</sent>
+				<sent id ="108">The merits of it is too vast.</sent>
+				<sent id ="109">It is beyond description.</sent>
+				<sent id ="110">It is called the best gift in our society.</sent>
+				<sent id ="111">It is said that once the Buddha went to Anovatatta lake of the Himalayas with five hundred disciples who were all Arhant (full saint).</sent>
+				<sent id ="112">There He ordered Nagita, the disciple, to preach the merits of offering yellow robes.</sent>
+				<sent id ="113">After him, the Buddha added some more merits to it.</sent>
+				<sent id ="114">He expressed that the offering of yellow robes bestows such merits as cannot be described.</sent>
+				<sent id ="115">It is the best gift.</sent>
+				<sent id ="116">As a result, the donor is born in the plane of happiness.</sent>
+				<sent id ="117">He is born in this world as a Chakravarty (most Superior) king of the world.</sent>
+				<sent id ="118">He does not go to the hell to suffer.</sent>
+				<sent id ="119">The offering of yellow robe is on the top list of all worldly gifts.</sent>
+				<sent id ="120">If the most valuable materials such as gold and silver are offered or 84 thousand memorials are built yet that does not earn even one sixteenth of merits that can be achieved by offering this yellow robe.</sent>
+				<sent id ="121">Again if numerous elephants and horses or a daughter adorned with jewels and diamonds are offered, the merits achieving from this are not equal to one sixteenth of merits resulting from offering of a yellow robe.</sent>
+				<sent id ="122">By this kind of offering, one enjoys much pleasure in this life and attains heavenly bliss after death.</sent>
+				<sent id ="123">He attains 1st stage, 2nd stage, 3rd stage and 4th stage of sainthood and finally is liberated from all shackles of sorrows by attaining Nibbana.</sent>
+				<sent id ="124">That is why, the Pacceka Buddha, the Samma Sambuddha and Savaka Buddha have accepted the fact that the merits of it cannot be measured.</sent>
+				<sent id ="125">Thus the advice of the Buddhas is that all should be inspired to realize these facts to donate and make gift of yellow robes to the monks every year.</sent>
+				<sent id ="126">Different kinds of gifts and their merits have so far been discussed separately as cited above.</sent>
+				<sent id ="127">But we have to know further about merits.</sent>
+				<sent id ="128">Merits differ from donors according to qualifications of the donors and receivers.</sent>
+				<sent id ="129">In this regard four things are to be noted here.</sent>
+				<sent id ="130">Virtuous donor earns a lot of merits due to his own virtue, if the gift is given to the non-virtuous one.</sent>
+				<sent id ="131">If the non-virtuous gives to the virtuous one, he earns a lot of merits due to the virtue of the receiver.</sent>
+				<sent id ="132">If both the donor and the receiver are virtuous, virtues of both there begets a lot of merits.</sent>
+				<sent id ="133">If the donor and the receiver both are not virtuous, it does not bring good fruits.</sent>
+				<sent id ="134">But the gift does not bring suffering: Donation should always be made with pleasant mind.</sent>
+				<sent id ="135">Donation done with faith brings happiness.</sent>
+				<sent id ="136">By its influence the donor is born in a Buddhist country where he gets good and honest friends.</sent>
+				<sent id ="137">He is able to lead an honest life in this world as well as in the next world.</sent>
+				<sent id ="138">He becomes beautiful, healthy, strong and earns affection of his parents and other relatives.</sent>
+				<sent id ="139">He becomes dear to all and enjoys happiness everywhere.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

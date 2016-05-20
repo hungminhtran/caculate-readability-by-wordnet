@@ -1,0 +1,184 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-budh-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.447</idno>
+				<idno type="Number of sentences">156</idno>
+				<idno type="Number of tokens">1830</idno>
+				<idno type="Number of token types">634</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t40">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Siddhartha attained Buddhahood in 588 B.C.</sent>
+				<sent id ="2">He became the Buddha in the full moon night of Vesakha.</sent>
+				<sent id ="3">The knowledge He acquired through the attainment of supreme knowledge of wisdom are Four Noble truths.</sent>
+				<sent id ="4">The knowledge of the Noble Eightfold Path are within Four Noble Truths.</sent>
+				<sent id ="5">The Four Noble Truth means the four supreme knowledge of wisdom.</sent>
+				<sent id ="6">The first truth refers to human life that full of sufferings caused by craving.</sent>
+				<sent id ="7">The second truth is that the sufferings will continue till cravings exist in human life.</sent>
+				<sent id ="8">The third noble truth is that human beings may get rid of sufferings by the cessation of cravings.</sent>
+				<sent id ="9">The fourth noble truth is that there is a way to cessation of sufferings.</sent>
+				<sent id ="10">The performance of extreme meditation and enjoying the earthly pleasure both are not applicable for the destruction of cravings.</sent>
+				<sent id ="11">Avoiding these two extremities the middle path should be adopted.</sent>
+				<sent id ="12">It is possible to get rid of sufferings even living an earthly life.</sent>
+				<sent id ="13">Salvation from sufferings forever is Nibbana.</sent>
+				<sent id ="14">The middle path that we adopt for attaining Nibbana follows the Noble Eightfold Path.</sent>
+				<sent id ="15">So the Noble Eightfold Path is the knowledge that included in the Four Noble-Truth.</sent>
+				<sent id ="16">For the realization of the Noble Eightfold Path we should come across the Four Noble Truth.</sent>
+				<sent id ="17">The Noble Eightfold Path bears a great significance in Buddhism.</sent>
+				<sent id ="18">Without the performance of the Noble Eightfold Path it is quite impossible to attain Nibbana.</sent>
+				<sent id ="19">Nobody can deny that the earth is full of sufferings.</sent>
+				<sent id ="20">But everybody tries to get rid of sufferings for attaining happiness in his own life.</sent>
+				<sent id ="21">This is the reason that everybody wishes to be happy deceiving the others.</sent>
+				<sent id ="22">Even for his own happiness none hesitates to kill the others.</sent>
+				<sent id ="23">But this is not the way to be happy.</sent>
+				<sent id ="24">We should know that one's happiness is as similar as the happiness of others.</sent>
+				<sent id ="25">The Buddha however, declared that the sufferings of all the living beings are quite similar to one another.</sent>
+				<sent id ="26">Thus he could find out the way to the cessation of sufferings.</sent>
+				<sent id ="27">He at first, found out the actual cause of sufferings and there after proclaimed how to overcome them.</sent>
+				<sent id ="28">What is the real path to destroy the sufferings?</sent>
+				<sent id ="29">He said that there is no other alternative excepting the Noble Eightfold Path for the destruction of sufferings.</sent>
+				<sent id ="30">So this path bears a great significance in Buddhism.</sent>
+				<sent id ="31">Moreover, it is necessary to find out the way to dispel-the cravings.</sent>
+				<sent id ="32">How and on which way should we proceed to destroy the cravings?</sent>
+				<sent id ="33">Renunciation or engaging both mind and body in deep concentration should be avoided.</sent>
+				<sent id ="34">Again extreme earthly pleasure is a great hindrance to attain salvation.</sent>
+				<sent id ="35">None of these two extremities should be adopted.</sent>
+				<sent id ="36">Middle path is the best way for us to proceed ahead.</sent>
+				<sent id ="37">Because man is a social being living in the society with the members of the family and neighbouring people.</sent>
+				<sent id ="38">Thus living in the society the ways and means should be found out to observe the middle path.</sent>
+				<sent id ="39">Now we shall try to realize what the Noble Eightfold Path is.</sent>
+				<sent id ="40">Ariya means the best with eight essential parts.</sent>
+				<sent id ="41">Magga means the way.</sent>
+				<sent id ="42">So the Noble Eightfold Path should be followed as described here.</sent>
+				<sent id ="43">The Eightfold path is to attain the Nibbana by removing Tanha.</sent>
+				<sent id ="44">The first step of the Noble Eightfold Path is the Right view or intention.</sent>
+				<sent id ="45">It is supposed to have the real knowledge of the Four Noble Truths.</sent>
+				<sent id ="46">The earth is full of sufferings which are found in various forms.</sent>
+				<sent id ="47">To be born on earth is suffering.</sent>
+				<sent id ="48">The human baby cries as soon as it is born.</sent>
+				<sent id ="49">The suffering follows as it grows up.</sent>
+				<sent id ="50">The earthly life is full of sufferings.</sent>
+				<sent id ="51">Craving is the root of all sorts of sufferings.</sent>
+				<sent id ="52">The excessive craving of human being brings these sufferings.</sent>
+				<sent id ="53">Man can get rid of sufferings if craving is totally destroyed.</sent>
+				<sent id ="54">The word Samma means right or accurate and samma ditti refers to Right view.</sent>
+				<sent id ="55">Man is liable to his own activities.</sent>
+				<sent id ="56">Right activities bear a good result while bad activities result bad.</sent>
+				<sent id ="57">Right view consists of three stages namely, common practiced and over practiced.</sent>
+				<sent id ="58">The over practiced are those who have attained the knowledge of Arahanthood.</sent>
+				<sent id ="59">It means honest or the best desire.</sent>
+				<sent id ="60">If a man selfishly wishes to increase his power and wealth, it leads him to a great loss.</sent>
+				<sent id ="61">So he should avoid worldly pleasure and luxury awakenning the spirit of renunciation in mind.</sent>
+				<sent id ="62">This is also not enough.</sent>
+				<sent id ="63">He should wish welfare of others eliminating all evil thoughts.</sent>
+				<sent id ="64">Besides he has to show amity with love and compassion to others for their prosperity and happiness.</sent>
+				<sent id ="65">It brings peace of mind and kindness to all.</sent>
+				<sent id ="66">So it is right thought.</sent>
+				<sent id ="67">It refers to honest or gentle behaviour.</sent>
+				<sent id ="68">Harsh speech should always be avoided.</sent>
+				<sent id ="69">Instead of it we should behave well with others.</sent>
+				<sent id ="70">It is absolutely necessary to speak honest and meaningful words.</sent>
+				<sent id ="71">Avoiding all these four kinds of speech, everybody should speak well as the time demands.</sent>
+				<sent id ="72">Friendly speech is always welcome.</sent>
+				<sent id ="73">Cordial and moderate speech makes an enemy a friend, so is the right speech.</sent>
+				<sent id ="74">It means honest deeds devoid of killing the animals, stealing and sexual misconduct.</sent>
+				<sent id ="75">The performer of right deeds is known as an honest man as well as man of glory in the society.</sent>
+				<sent id ="76">Such a man abstains from giving severe punishment to others upholding amity towards all beings.</sent>
+				<sent id ="77">He never takes anything which is not given to him i.e. he abstains from stealing.</sent>
+				<sent id ="78">He is always respectful to his parents, brothers and sisters.</sent>
+				<sent id ="79">He possesses a great respect to the mothers, sisters and wives of others.</sent>
+				<sent id ="80">He earns his livelihood by right deeds and does good for the welfare of all.</sent>
+				<sent id ="81">It means honest or right deeds.</sent>
+				<sent id ="82">One who earns one's livelihood committing no sin in words or deeds is the right livelihood.</sent>
+				<sent id ="83">It further means to earn livelihood without causing loss to the society.</sent>
+				<sent id ="84">He should maintain his family by agriculture, business, teaching and official services.</sent>
+				<sent id ="85">In both service and business none should be deceived in any way.</sent>
+				<sent id ="86">Leading the life, in this way is the right livelihood.</sent>
+				<sent id ="87">It means a positive determination and enthusiasm.</sent>
+				<sent id ="88">These four kinds of mental effort must be exercised.</sent>
+				<sent id ="89">So it is further known as right mental effort.</sent>
+				<sent id ="90">As to keep good health man takes physical exercise so he can make his mind peaceful performing mental exercise.</sent>
+				<sent id ="91">It indicates to recollect the good deeds previously done again and again.</sent>
+				<sent id ="92">By means of the right mindfulness the devotee observes the religious practices and rejects those which should not be practiced.</sent>
+				<sent id ="93">He can differentiate the right or wrong.</sent>
+				<sent id ="94">He further understands the practices to be performed or not to be.</sent>
+				<sent id ="95">Right mindfulness helps the devotee to perform everything correctly living a virtuous life.</sent>
+				<sent id ="96">He can conquer vice, hatred, anger, greed and ignorance.</sent>
+				<sent id ="97">Right mindfulness is highly effective leading the devotee to attain Nibbana.</sent>
+				<sent id ="98">Samadhi means the concentration of mind.</sent>
+				<sent id ="99">It keeps human mind concentrated in a single object either physical or mental.</sent>
+				<sent id ="100">Human mind is naturally restless.</sent>
+				<sent id ="101">If restlessness is not controlled no good deed may be performed by the devotee.</sent>
+				<sent id ="102">The student who cannot control his mind to absorb in studies he fails to memories his lessons.</sent>
+				<sent id ="103">As soon as the mind is concentrated the student is able to learn his lessons by heart.</sent>
+				<sent id ="104">The right concentration is of four kinds or stages namely, the first, the second, the third and the fourth stages respectively.</sent>
+				<sent id ="105">In the first stage, the devotee has to give up all sorts of earthly pleasures.</sent>
+				<sent id ="106">In the second stage, he becomes steady.</sent>
+				<sent id ="107">The devotee feels the physical happiness in the third stage.</sent>
+				<sent id ="108">In the fourth stage, he advances towards perfect knowledge paying heed to the previous happenings.</sent>
+				<sent id ="109">While performing the Eightfold Path the body should be free from all kinds of troubles.</sent>
+				<sent id ="110">Again the devotee should not enjoy the earthly pleasure.</sent>
+				<sent id ="111">Every organ of the Eightfold Path abandons the two extremities.</sent>
+				<sent id ="112">As for instance, addiction to food and drinks, enjoyment etc. are the ideals of those who hanker after earthly pleasure.</sent>
+				<sent id ="113">Again weakening the body by fasting is another extremity.</sent>
+				<sent id ="114">The middle of these two extremities is known as the middle path.</sent>
+				<sent id ="115">The eight organs of the Noble Eightfold Path follow the middle path.</sent>
+				<sent id ="116">So observance of the middle path helps to attain Nibbana, the absolute and ultimate goal of Buddhism.</sent>
+				<sent id ="117">The world is transitory and full of sufferings, there is no existence of the soul.</sent>
+				<sent id ="118">In brief these are called the transient, sorrowful and soulless.</sent>
+				<sent id ="119">For salvation from sufferings there are eight ways that included in the Four Noble Truth.</sent>
+				<sent id ="120">Observing these paths Nibbana is attained.</sent>
+				<sent id ="121">Nibbana is the everlasting happiness and treasure of life.</sent>
+				<sent id ="122">The Noble Eightfold Path is the step to advance for attaining Nibbana.</sent>
+				<sent id ="123">In the first step there is suffering.</sent>
+				<sent id ="124">Suffering originates from craving.</sent>
+				<sent id ="125">Right view is necessary for removing the craving.</sent>
+				<sent id ="126">Right view helps human being to do good to others.</sent>
+				<sent id ="127">Noble activities are impossible to perform in the wrong way with evil mentality.</sent>
+				<sent id ="128">If you want to pass the examination and prosper in life you have to go forward with right view.</sent>
+				<sent id ="129">You should obey your teachers and concentrate yourself in studies to get good result in the examination.</sent>
+				<sent id ="130">In this way you have to proceed with right view and right thought to attain Nibbana.</sent>
+				<sent id ="131">On the other hand, right effort is not enough, rather you have to perform it in the right way.</sent>
+				<sent id ="132">Right speech should also be performed.</sent>
+				<sent id ="133">Because telling lies, shouting, rebuking or evil talks etc. create chaos and confusion in the family as well as in the society.</sent>
+				<sent id ="134">It causes a great loss to us.</sent>
+				<sent id ="135">Right speech should be spoken for peace and tranquility in the family and the society as well.</sent>
+				<sent id ="136">Thereafter comes right action.</sent>
+				<sent id ="137">Without performing right action no benefit is gained.</sent>
+				<sent id ="138">So right action is essential.</sent>
+				<sent id ="139">Right livelihood depends on right action.</sent>
+				<sent id ="140">Noble activities are never done living a dishonest life.</sent>
+				<sent id ="141">Right action and right livelihood are not enough to lead our life in a right way.</sent>
+				<sent id ="142">We should strive for progress in life.</sent>
+				<sent id ="143">Because temptation of evil activities influences man everywhere.</sent>
+				<sent id ="144">We should be careful so that our mind may not be influenced by any wrong deeds in any way.</sent>
+				<sent id ="145">Right mindfulness is highly necessary for achieving super mundane path.</sent>
+				<sent id ="146">We should think over the matter free from all sorts of mistakes.</sent>
+				<sent id ="147">We should lead our mind in the proper way.</sent>
+				<sent id ="148">Right mindfulness follows the Right meditation.</sent>
+				<sent id ="149">We should overcome our body, mind and the earthly happenings by dint of Right meditation.</sent>
+				<sent id ="150">Indecent and unholy performances have been overcome previously.</sent>
+				<sent id ="151">Now it requires to overcome the good will.</sent>
+				<sent id ="152">By dint of the right meditation the devotee over comes the earthly bondage leading to salvation.</sent>
+				<sent id ="153">The happiness of salvation is known as Nibbana.</sent>
+				<sent id ="154">Nibbana is rightly understood when every stage of the Noble Eightfold Path is duly observed.</sent>
+				<sent id ="155">The excellence of good deeds is achieved by sacrifice and practice.</sent>
+				<sent id ="156">Exercising all these practices Siddhartha attained Buddhahood and finally Nibbana.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

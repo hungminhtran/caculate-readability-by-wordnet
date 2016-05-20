@@ -17,11 +17,12 @@ def standanizeNoun(noun):
 #remove all ['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']
 def standandlizeNounsForInputRegex(noun):
     #puctuation = ['\!', '"', '\#', '\$', '\%', '\&', '\(', '\)', '\*', '\+', ',', '-', '\.', '/', ':', ';', '<', '=', '>', '\?', '\@', '\[', '\\', '\]', '\^', '_', '`', '\{', '\|', '\}', '\~']
-    tnoun = re.sub("'", " __", noun)
+    tnoun = re.sub("'", "'__", noun)
     tnoun = tnoun.lower()
     return tnoun
 
 def standanlizeNounsForSearchRegex(noun):
+    tnoun = noun
     tnoun = re.sub('\.', '\.', noun)
     tnoun = tnoun.lower()
     return tnoun
@@ -48,7 +49,7 @@ def cpdRatio(SynsetNoun, level, hypernymName):
         for lemma in synset.lemmas():
             hyponym = hyponym + 1
             #use sandalizeNounsForRegex to avoid . in some nouns like a.e can be understand '.' in regex
-            if re.search(standandlizeNounsForRegex(hypernymName), lemma.name()): #noun in cpd hyponym, don't care whole word???
+            if re.search(standanlizeNounsForSearchRegex(hypernymName), lemma.name()): #noun in cpd hyponym, don't care whole word???
                 cpd = cpd + 1
                 cpdByLvls[level] = cpdByLvls[level] + 1 #count cpd in current level
             total_lens = total_lens + len(lemma.name())
@@ -111,7 +112,19 @@ def isABacsicWord(noun):
 #input: string a, b
 #output: return true if a has more space (#32 in ASCII) than b, else return false
 def compareFunc(a, b):
-    return a.count(" ") - b.count(" ")
+    result =  a.count(" ") - b.count(" ")
+    if (result == 0):
+        if (a.find("-") >= 0 or a.find("/") >= 0 or a.find(".") >= 0):
+            if (b.find("-") >= 0 or b.find("/") >= 0 or b.find(".") >= 0):
+                result = len(a) - len(b)
+            else:
+                result = 1
+        else:
+            if (b.find("-") >= 0 or b.find("/") >= 0 or b.find(".") >= 0):
+                result = -1
+            else:
+                result = len(a) - len(b)
+    return result
 
 #input: nouns file path, nouns file path after sorted
 #output: nouns file after sort
@@ -125,7 +138,6 @@ def getListOfNounsWithCompoundNounsFirst(NOUNS, SORTED_NOUNS):
     for i in range(0, len(result)):
         output.write(result[i] + "\n")
     output.close()
-# getListOfNounsWithCompoundNounsFirst('all-wordnet-nouns.txt', "all-SORTED-wordnet-nouns.txt")
 
 #2 output file: all nouns with statistic, all basic level word
 def getStatisticsWithAllNouns(NOUNS, ouputFile):
@@ -150,4 +162,5 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile):
     outputAllbacsicLvlWord.close()
     outputABLW.close()
 
-# getStatisticsWithAllNouns('all-SORTED-wordnet-nouns.txt', ["all-nouns-STATISTIC.txt", "all-BLW-statistic.txt", "all-BLW.txt"])    
+# getListOfNounsWithCompoundNounsFirst('all-wordnet-nouns.txt', "all-SORTED-wordnet-nouns.txt")
+# getStatisticsWithAllNouns('all-SORTED-wordnet-nouns.txt', ["all-nouns-STATISTIC.txt", "all-BLW-statistic.txt", "all-BLW.txt"])

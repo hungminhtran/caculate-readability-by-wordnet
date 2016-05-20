@@ -1,0 +1,116 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.76</idno>
+				<idno type="Number of sentences">88</idno>
+				<idno type="Number of tokens">754</idno>
+				<idno type="Number of token types">295</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t53">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">He is our Father.</sent>
+				<sent id ="2">He has created beautiful things for us.</sent>
+				<sent id ="3">He has created a beautiful world for us.</sent>
+				<sent id ="4">He commanded and things were created at once.</sent>
+				<sent id ="5">He is the Almighty.</sent>
+				<sent id ="6">That is why He can create anything only by giving orders.</sent>
+				<sent id ="7">In six days God created everything.</sent>
+				<sent id ="8">He took rest after He had created all these.</sent>
+				<sent id ="9">The seventh day was God's day of rest.</sent>
+				<sent id ="10">On the first day God created the sky.</sent>
+				<sent id ="11">On the second day He created the light.</sent>
+				<sent id ="12">After creating them.</sent>
+				<sent id ="13">He became very delighted.</sent>
+				<sent id ="14">After that He created many other beautiful things.</sent>
+				<sent id ="15">Here we will learn what God created on the third and the fourth days.</sent>
+				<sent id ="16">On the third day God created land and the sea.</sent>
+				<sent id ="17">He created the land by just giving a command.</sent>
+				<sent id ="18">So it happened.</sent>
+				<sent id ="19">God named the land Earth.</sent>
+				<sent id ="20">In the land He then created different things.</sent>
+				<sent id ="21">He created grass, vegetables, different plants that bear flowers and fruits.</sent>
+				<sent id ="22">He endowed plants with seeds.</sent>
+				<sent id ="23">He also desired seeds to germinate and grow into plants.</sent>
+				<sent id ="24">We live on the earth created by God.</sent>
+				<sent id ="25">The water that had come together at one place by God's command was named Sea.</sent>
+				<sent id ="26">There is a lot of water in rivers, ponds, lakes and pools.</sent>
+				<sent id ="27">But the main source of water is the sea.</sent>
+				<sent id ="28">There is a connection between the sea and the other sources of water.</sent>
+				<sent id ="29">However, God created fishes, crocodiles and many other aquatic animals.</sent>
+				<sent id ="30">God was pleased with His beautiful creation of the Earth and the Sea.</sent>
+				<sent id ="31">Thus God completed His third day's creation.</sent>
+				<sent id ="32">God has created the land and the water that benefit us in many ways.</sent>
+				<sent id ="33">We live on earth.</sent>
+				<sent id ="34">We plough the land and grow crops and plant trees.</sent>
+				<sent id ="35">We play on the land.</sent>
+				<sent id ="36">Different kinds of animals live on earth.</sent>
+				<sent id ="37">There are useful to us.</sent>
+				<sent id ="38">On land we travel in vehicle or on foot.</sent>
+				<sent id ="39">By digging the earth we get many kinds of minerals.</sent>
+				<sent id ="40">We cannot live without water and plants or animals cannot live without water either.</sent>
+				<sent id ="41">We wash things with water.</sent>
+				<sent id ="42">We swim in water.</sent>
+				<sent id ="43">In water live many kinds of animals that are useful to us.</sent>
+				<sent id ="44">For example, fish that we eat.</sent>
+				<sent id ="45">We use vessels like boats, steamers or ships to travel on water.</sent>
+				<sent id ="46">We use water for cultivation.</sent>
+				<sent id ="47">The world as created by God is very big.</sent>
+				<sent id ="48">The earth is divided into seven parts.</sent>
+				<sent id ="49">They are Asia, Africa, Europe, North America, South America, Australia and the Antarctic.</sent>
+				<sent id ="50">These divisions are known as continents.</sent>
+				<sent id ="51">All the water in the world is divided into five parts.</sent>
+				<sent id ="52">We call them oceans.</sent>
+				<sent id ="53">The amount of the water in the world is more than that of the land.</sent>
+				<sent id ="54">Only one-fourth of it is the land and the remaining three- fourths is the water.</sent>
+				<sent id ="55">We know God has created light for us.</sent>
+				<sent id ="56">He has separated darkness from light.</sent>
+				<sent id ="57">He has named light Day.</sent>
+				<sent id ="58">He has named darkness Night.</sent>
+				<sent id ="59">He has created the sun to separate light from darkness.</sent>
+				<sent id ="60">To us the night is a blessing from God because we take rest at night.</sent>
+				<sent id ="61">All the creation of God are well-planned.</sent>
+				<sent id ="62">He gave the earth a round shape.</sent>
+				<sent id ="63">During the daytime we study, do work, play or go out.</sent>
+				<sent id ="64">When we get tired, we need rest.</sent>
+				<sent id ="65">That was why God gave us night.</sent>
+				<sent id ="66">At night we study or work for some time and then go to sleep.</sent>
+				<sent id ="67">After the day's work we become tired.</sent>
+				<sent id ="68">As we sleep we get rid of our tiredness.</sent>
+				<sent id ="69">Next day we wake up to start our day's work again.</sent>
+				<sent id ="70">We can see things clearly in the sunlight.</sent>
+				<sent id ="71">We can dry wet things in the sunlight.</sent>
+				<sent id ="72">In winter the heat of the sun makes us feel warm.</sent>
+				<sent id ="73">We can have a sound sleep in the darkness of the night.</sent>
+				<sent id ="74">Things become very hot because of the heat of the sun.</sent>
+				<sent id ="75">At night they cool down.</sent>
+				<sent id ="76">The stillness of night helps us study.</sent>
+				<sent id ="77">We thank You for Your beautiful creation.</sent>
+				<sent id ="78">You have filled this earth with fruits and flowers for us.</sent>
+				<sent id ="79">You have provide us with water to survive.</sent>
+				<sent id ="80">During daytime we work hard under the sun.</sent>
+				<sent id ="81">But You have blessed us with night when we take rest.</sent>
+				<sent id ="82">For all these things we praise You.</sent>
+				<sent id ="83">God created things round.</sent>
+				<sent id ="84">The three-fourths of the earth we can talk to God.</sent>
+				<sent id ="85">God has made the earth on the land.</sent>
+				<sent id ="86">In the stillness of night is more than that of the land.</sent>
+				<sent id ="87">We can play consists of water.</sent>
+				<sent id ="88">The amount of water in the world only by giving orders.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

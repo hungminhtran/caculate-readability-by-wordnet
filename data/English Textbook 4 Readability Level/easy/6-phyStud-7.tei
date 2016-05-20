@@ -1,0 +1,162 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-phyStud-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.521</idno>
+				<idno type="Number of sentences">134</idno>
+				<idno type="Number of tokens">1508</idno>
+				<idno type="Number of token types">591</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t118">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Very often we say that health is wealth and health is the root of all happiness.</sent>
+				<sent id ="2">Health does not mean the mere absence of diseases.</sent>
+				<sent id ="3">It is the complete well being of physical, mental and social health.</sent>
+				<sent id ="4">A person can lead a happy life if he can avoid tension.</sent>
+				<sent id ="5">It helps to acquire a good heath.</sent>
+				<sent id ="6">It ensures personal as well as social healthful environment.</sent>
+				<sent id ="7">It helps to provide first aid then and there for any accident.</sent>
+				<sent id ="8">It helps to grow the body harmoniously.</sent>
+				<sent id ="9">It helps to prevent diseases and to cure ailment early.</sent>
+				<sent id ="10">It helps to regulate life according to the principles of health.</sent>
+				<sent id ="11">Health education should be complementary to general education.</sent>
+				<sent id ="12">Without health education, general education is bound to he incompieted.</sent>
+				<sent id ="13">But general education is very much necessary to learn and practise health education.</sent>
+				<sent id ="14">So it is complementary to each other.</sent>
+				<sent id ="15">The general education helps to apply health education principles for a good body and mind.</sent>
+				<sent id ="16">Without healthful habits, it is not possible to improve the condition of health.</sent>
+				<sent id ="17">Personal hygiene can be maintained by following the health education.</sent>
+				<sent id ="18">So personal and environmental health depend upon certain factors.</sent>
+				<sent id ="19">Body works and it creates much wastage in the body through a complex mechanism.</sent>
+				<sent id ="20">As a result, the skin, eyes, cars, mouth, nose, teeth, hands, nails etc. become dirty easily.</sent>
+				<sent id ="21">These are required to be cleaned immediately to lead a good life.</sent>
+				<sent id ="22">To clean the body regularly is called the physical cleanliness.</sent>
+				<sent id ="23">Unclean conditions spread diseases directly and indirectly.</sent>
+				<sent id ="24">We are engaged in various kinds of work.</sent>
+				<sent id ="25">Our hands become dirty during the work.</sent>
+				<sent id ="26">So before eating any food by the hand, we need to wash our hands very well.</sent>
+				<sent id ="27">Pure water should be used for washing.</sent>
+				<sent id ="28">But after the meal also the hands are to be washed properly.</sent>
+				<sent id ="29">The nails are to be cut and cleaned regularly.</sent>
+				<sent id ="30">The tooth is very essential for chewing food.</sent>
+				<sent id ="31">If the food is well chewed, it gets digested easily.</sent>
+				<sent id ="32">So the teeth arc to be cleaned.</sent>
+				<sent id ="33">The uncleaned teeth breaths bad smell, it destroys the beauty of the face also.</sent>
+				<sent id ="34">After taking food, the tbod parti cles stick to the corners of the teeth.</sent>
+				<sent id ="35">If these are not cleaned, it creats germs of diseases.</sent>
+				<sent id ="36">A sort of acid is produced from these food particles and the acid harms the teeth.</sent>
+				<sent id ="37">This is called dental cabbies, Thus the teeth are decayed and finally are picked out.</sent>
+				<sent id ="38">So the mouth is to be washed and the teeth are to be brushed with good tooth paste.</sent>
+				<sent id ="39">The scientific method of brushing the teeth is to be fol lowed.</sent>
+				<sent id ="40">After washing the mouth and teeth, the tongue is to be cleaned by a tongue cleaner.</sent>
+				<sent id ="41">To spit here and there is a very bad habit.</sent>
+				<sent id ="42">This spitting and sneezing spread diseases.</sent>
+				<sent id ="43">The saliva, cough, spit from the sick persons carry the germs of diseases either by air or by insects.</sent>
+				<sent id ="44">So none should spit in open places.</sent>
+				<sent id ="45">If any one does so, he should be warned for his wrong doing.</sent>
+				<sent id ="46">The hands are important parts of the body.</sent>
+				<sent id ="47">So proper care of the hands should be taken.</sent>
+				<sent id ="48">They should always be kept clean.</sent>
+				<sent id ="49">While washing the hands, the fingers as well as the spaces between the fingers are to be cleaned thoroughly.</sent>
+				<sent id ="50">The hands are to be wiped with clean towel.</sent>
+				<sent id ="51">It is seen that somebody's palms are swatted too much.</sent>
+				<sent id ="52">Hand lotion or mustered oil may be used to keep the skin soft and bright.</sent>
+				<sent id ="53">Proper care is also to be taken for the legs like that of the hands.</sent>
+				<sent id ="54">The legs are to be washed with clean water.</sent>
+				<sent id ="55">This should be done after games and sports, exercises, home gardening or other work.</sent>
+				<sent id ="56">Nobody should wear wet shoes or shocks.</sent>
+				<sent id ="57">If necessary, some medicated powder may be used for taking proper care of the legs.</sent>
+				<sent id ="58">If the nails become big and long, the dirt is stored in the nails.</sent>
+				<sent id ="59">This dirt goes to stomach and causes various diseases.</sent>
+				<sent id ="60">Bedsides this, the long nail can cause harm to other players during games.</sent>
+				<sent id ="61">So the nails are to be trimmed at regular intervals in order to keep it neat and clean.</sent>
+				<sent id ="62">The soap and warm water may be used for proper care of the nails.</sent>
+				<sent id ="63">Breathing is done through the nostrils.</sent>
+				<sent id ="64">The inhaling and exhaling of air is done through the nose.</sent>
+				<sent id ="65">The nose should be cleaned with a piece of thin cloth.</sent>
+				<sent id ="66">A handkerchief should be used when sneezing is needed.</sent>
+				<sent id ="67">Small match stick or any particle should not be put info the nostrils just for the sake of fun.</sent>
+				<sent id ="68">Care should be taken during any sports activity so that there should not cause any damage to the nose.</sent>
+				<sent id ="69">The ears are very important organs of the body.</sent>
+				<sent id ="70">We hear with the help of the ears.</sent>
+				<sent id ="71">Proper care of the ears should be taken from the very childhood.</sent>
+				<sent id ="72">It is natural to grow ear-wax and sometimes it becomes hard.</sent>
+				<sent id ="73">So the ear -wax should be removed with the help of cotton bud, glycerin, or oil.</sent>
+				<sent id ="74">The mouth, teeth, throat and tongue should be cleaned with fresh water regularly.</sent>
+				<sent id ="75">The teeth should be brushed after taking food.</sent>
+				<sent id ="76">But it will be beneficial if it is done at least twice a day.</sent>
+				<sent id ="77">i. e. in the morning and before going to bed.</sent>
+				<sent id ="78">Sometimes the toothbrush should be cleaned with hot salted water.</sent>
+				<sent id ="79">We should take bath every day for physical cleanliness.</sent>
+				<sent id ="80">In order to protect the body from cold and heat and also to enhance.</sent>
+				<sent id ="81">beauty of the body, necessary clothing is required.</sent>
+				<sent id ="82">The clothing will be according to sea sons, working conditions and age.</sent>
+				<sent id ="83">During summer season, thin and soft clothes should be worn.</sent>
+				<sent id ="84">But in the winter, woolen clothes are required to protect the body from severe cold.</sent>
+				<sent id ="85">The clothes should not be tight fitting, it should be rather loose.</sent>
+				<sent id ="86">If we wear clean clothing, we feel better and the mental well- being remains good.</sent>
+				<sent id ="87">It is natural that the body always perspires.</sent>
+				<sent id ="88">During work, exercise or play, this perspiration increases.</sent>
+				<sent id ="89">The sweat, dust and dirt from roads, heavy exercise, games and sports and many other reasons, make the clothings dirty.</sent>
+				<sent id ="90">We must not wear dirty clothes.</sent>
+				<sent id ="91">The clothes should be washed with fresh water and we should wear clean clothes.</sent>
+				<sent id ="92">We should not wear wet clothes and shoes.</sent>
+				<sent id ="93">The cleanliness of clothing is essential for physical cleanliness.</sent>
+				<sent id ="94">The sports dresses, under wear are to be washed regularly.</sent>
+				<sent id ="95">It is good to keep the clean clothes tidy in the room.</sent>
+				<sent id ="96">if any dress is torn out, it should be mended as early as possible.</sent>
+				<sent id ="97">The clothes used in day time should not be worn at night.</sent>
+				<sent id ="98">All the clothes of one person should be kept at a fixed place in an orderly manner.</sent>
+				<sent id ="99">It helps to get the clothes easily.</sent>
+				<sent id ="100">Besides this, the environment of the living room becomes good.</sent>
+				<sent id ="101">During winter, the clothes should he dried in the sun.</sent>
+				<sent id ="102">No body should wear other's clothes.</sent>
+				<sent id ="103">Students of educational institutions should be habituated to follow the healthy way of living.</sent>
+				<sent id ="104">They should keep the environment of educational institutions clean.</sent>
+				<sent id ="105">Their houses should also be free from dirty waste.</sent>
+				<sent id ="106">Unclean and unhealthy environments are detrimental to good health.</sent>
+				<sent id ="107">Under these unhealthy conditions, the body and mind can not grow properly.</sent>
+				<sent id ="108">Books, paper, pens, pencils and other implements of reading table are to be kept in order.</sent>
+				<sent id ="109">This helps to get the necessary things at ease.</sent>
+				<sent id ="110">If the reading table is tidy, children can read attentively.</sent>
+				<sent id ="111">The table should be put in such a place that adequate light and air are easily available.</sent>
+				<sent id ="112">The living room should contain very few pieces of furniture.</sent>
+				<sent id ="113">The furniture should be clean and properly varnished.</sent>
+				<sent id ="114">Under the healthful environment, there will he sound sleep and it will be possible to maintain good health.</sent>
+				<sent id ="115">The children find pleasure and get inspiration to read hard.</sent>
+				<sent id ="116">So the environment of the school should be clean.</sent>
+				<sent id ="117">The authority of the school should look into it.</sent>
+				<sent id ="118">Garbage should be disposed beside the school.</sent>
+				<sent id ="119">Slums, excreta ground, graveyard etc. should not be set around the school.</sent>
+				<sent id ="120">The school campus should be planted with trees and gardening should be made in the fixed area.</sent>
+				<sent id ="121">So students should be taught how to keep the classroom clean.</sent>
+				<sent id ="122">The teachers should give co-operation towards this end.</sent>
+				<sent id ="123">No students should throw any piece of paper outside the classroom.</sent>
+				<sent id ="124">It should be kept in the waste paper basket.</sent>
+				<sent id ="125">The walls should not be made dirty.</sent>
+				<sent id ="126">The playing field should also be kept clean.</sent>
+				<sent id ="127">It will help the children to take part in games and sports with interest.</sent>
+				<sent id ="128">Besides, they will not be injured by any foreign element littered in the field.</sent>
+				<sent id ="129">Arrangement of pure drinking water should be made in school campus.</sent>
+				<sent id ="130">Facilities for sanitary latrines are essential for an educational institution.</sent>
+				<sent id ="131">There should not be any water body around the school.</sent>
+				<sent id ="132">The mosquitoes grow in the filthy water.</sent>
+				<sent id ="133">Such water body should be filled up so that water can not be stored there.</sent>
+				<sent id ="134">Personal and surrounding cleanliness is essential for daily life.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

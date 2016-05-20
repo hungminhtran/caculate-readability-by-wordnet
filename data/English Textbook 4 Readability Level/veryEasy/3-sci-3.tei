@@ -1,0 +1,188 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-sci-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.232</idno>
+				<idno type="Number of sentences">160</idno>
+				<idno type="Number of tokens">1477</idno>
+				<idno type="Number of token types">617</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t26">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Every day we use water for various activities.</sent>
+				<sent id ="2">When we feel thirsty we drink water.</sent>
+				<sent id ="3">About 70 percent of the contents of our body is water.</sent>
+				<sent id ="4">Like human beings, cows, goats, ducks and hens drink water as well.</sent>
+				<sent id ="5">Do you water the plants in your courtyard or in the pots?</sent>
+				<sent id ="6">Why do you water them?</sent>
+				<sent id ="7">Because plants also need water.</sent>
+				<sent id ="8">With the help of roots plants absorb water and other elements from the soil.</sent>
+				<sent id ="9">For survival human beings, animals, birds, plants and every living beings depend on water.</sent>
+				<sent id ="10">That is why the other name of water is life.</sent>
+				<sent id ="11">The plant generally grows near walls or in damp places.</sent>
+				<sent id ="12">Fill the tumbler or the bottle with water.</sent>
+				<sent id ="13">Carefully uproot the Peperomia plant with its roots intact.</sent>
+				<sent id ="14">Sprinkle water to remove soil particles from the roots.</sent>
+				<sent id ="15">Leave the plant in the tumbler for an hour.</sent>
+				<sent id ="16">Look at the plant.</sent>
+				<sent id ="17">What do you see?</sent>
+				<sent id ="18">You will find that dyed water absorbed by root has ascended up into the stem.</sent>
+				<sent id ="19">What have you learnt from the experiment?</sent>
+				<sent id ="20">Can you tell in what other activities water is needed?</sent>
+				<sent id ="21">In our country, there is a river called Karnafuli at Kaptai in Chittagong.</sent>
+				<sent id ="22">Water of this river is well.</sent>
+				<sent id ="23">controlled with the help of dams.</sent>
+				<sent id ="24">The current of this water is used to generate electricity.</sent>
+				<sent id ="25">About three quarters of the earth's surface is covered with water.</sent>
+				<sent id ="26">Ponds, canals, swamps, rivers, seas, haors, baors, etc. are the sources of water.</sent>
+				<sent id ="27">Besides, rain, fountains, wells and tube-wells are also the sources of water.</sent>
+				<sent id ="28">What different water sources are available in your locality?</sent>
+				<sent id ="29">People excavate ponds, dig wells and sink tube-wells to meet their needs.</sent>
+				<sent id ="30">These are man-made water sources.</sent>
+				<sent id ="31">The sea, river, haor, swamp - all exist in nature.</sent>
+				<sent id ="32">Human beings cannot create these water bodies at will.</sent>
+				<sent id ="33">These sources of water are called natural sources.</sent>
+				<sent id ="34">This is called water vapour.</sent>
+				<sent id ="35">Water vapour is lighter than air.</sent>
+				<sent id ="36">Therefore, it readily rises up into the air.</sent>
+				<sent id ="37">Water vapour is not visible.</sent>
+				<sent id ="38">It remains mixed with air.</sent>
+				<sent id ="39">In cool atmosphere water vapour condenses into droplets.</sent>
+				<sent id ="40">However, you can easily feel the presence of water vapour in the air.</sent>
+				<sent id ="41">What happens when you hang a piece of cloth in the air?</sent>
+				<sent id ="42">In a little while the piece of cloth becomes dry.</sent>
+				<sent id ="43">Where has the water gone?</sent>
+				<sent id ="44">Certainly, it evaporates and mixes with the air.</sent>
+				<sent id ="45">Put some ice cube or cold water in a glass or in a bowl.</sent>
+				<sent id ="46">After 15/20 minutes observe the glass.</sent>
+				<sent id ="47">What do you see?</sent>
+				<sent id ="48">Does water accumulate in drops on the outer wall of the glass?</sent>
+				<sent id ="49">Where does this water come from?</sent>
+				<sent id ="50">If you wipe up the glass wall, you will see water droplets gathering there again.</sent>
+				<sent id ="51">What have you learnt from the experiment?</sent>
+				<sent id ="52">The more the water vapour rises up, the more it becomes cooler.</sent>
+				<sent id ="53">Finally, water vapour condenses to form water droplets.</sent>
+				<sent id ="54">Countless water droplets in unison drift along the atmosphere.</sent>
+				<sent id ="55">We call it cloud.</sent>
+				<sent id ="56">As the cloud gets more cooler the droplets turn bigger.</sent>
+				<sent id ="57">These bigger water drops cannot float in the air any more.</sent>
+				<sent id ="58">Then they fall down as raindrops.</sent>
+				<sent id ="59">Some water is also absorbed by the soil.</sent>
+				<sent id ="60">In this way, water from the water bodies returns back into the water bodies.</sent>
+				<sent id ="61">This cyclic rotation of water is termed as water cycle.</sent>
+				<sent id ="62">Sometimes, clouds drift up above the peak of mountains and accumulate there.</sent>
+				<sent id ="63">Up there in cold the clouds condense into ice.</sent>
+				<sent id ="64">With the heat of the sun, ice starts melting.</sent>
+				<sent id ="65">Due to thawing, water runs down the mountain in the form of fountain.</sent>
+				<sent id ="66">It gives rise to river.</sent>
+				<sent id ="67">River flows down to the sea.</sent>
+				<sent id ="68">Hence, sea is the major sources of water.</sent>
+				<sent id ="69">Ponds, canals, rivers, haors, baors, etc. are the sources of surface water.</sent>
+				<sent id ="70">Wells, tube-wells, deep tube-wells are the source of underground water.</sent>
+				<sent id ="71">The water vapour, cloud, rain are the source of atmospheric water.</sent>
+				<sent id ="72">Certainly, you have seen ice cube.</sent>
+				<sent id ="73">Ice is as hard as brick.</sent>
+				<sent id ="74">Have you seen hailstorms?</sent>
+				<sent id ="75">In fact, those hailstones are ice.</sent>
+				<sent id ="76">Ice is the solid state of water.</sent>
+				<sent id ="77">Ice has shape and volume.</sent>
+				<sent id ="78">Put some ice cube in a bowl and wait for 20/25 minutes.</sent>
+				<sent id ="79">You will find that ice melts into water.</sent>
+				<sent id ="80">At normal temperature ice melts into water.</sent>
+				<sent id ="81">Ice and water is the same compound.</sent>
+				<sent id ="82">We call water a liquid.</sent>
+				<sent id ="83">It has no definite shape of its own.</sent>
+				<sent id ="84">It assumes the shape of the container where it is kept.</sent>
+				<sent id ="85">Do you know, what these are?</sent>
+				<sent id ="86">In fact, they are tiny droplets of water.</sent>
+				<sent id ="87">Water droplets turn into water vapour and rises upwards.</sent>
+				<sent id ="88">Vapour is invisible and remains mixed with air.</sent>
+				<sent id ="89">When water vapour gets cool enough it changes back into tiny water droplets.</sent>
+				<sent id ="90">Use a lid to cover the pot.</sent>
+				<sent id ="91">When water has cooled enough, remove the lid.</sent>
+				<sent id ="92">Water has accumulated in drops as the vapour has cooled down.</sent>
+				<sent id ="93">Water vapour is the gaseous state of water.</sent>
+				<sent id ="94">Cloud, fog, dew and hailstorms originate from water.</sent>
+				<sent id ="95">Already, you have learnt about clouds and hailstorms.</sent>
+				<sent id ="96">Now let us learn about fog and dew.</sent>
+				<sent id ="97">In winter, we see some thing like smoke in the air.</sent>
+				<sent id ="98">Do you know why this is so?</sent>
+				<sent id ="99">These dusty droplets drift along in the air.</sent>
+				<sent id ="100">These are called fog.</sent>
+				<sent id ="101">These droplets of water are called dew.</sent>
+				<sent id ="102">At winter nights the ground surface becomes very cold.</sent>
+				<sent id ="103">What is the taste of water that you drink?</sent>
+				<sent id ="104">It is very pleasant to drink, isn't it?</sent>
+				<sent id ="105">Water of ponds and rivers is tasty.</sent>
+				<sent id ="106">Seawater tastes salty.</sent>
+				<sent id ="107">That is why this water is not drinkable.</sent>
+				<sent id ="108">Water containing dirt, faeces, litter, germs of diseases and mud is called polluted water.</sent>
+				<sent id ="109">The water from these sources polluted.</sent>
+				<sent id ="110">Pure water is clean and germ free.</sent>
+				<sent id ="111">Since these diseases are spread by water, they are called water-borne diseases.</sent>
+				<sent id ="112">You must have heard about arsenic contaminated tube-well water.</sent>
+				<sent id ="113">Arsenic is not a disease-carrying germ but a poisonous substance.</sent>
+				<sent id ="114">The tube-wells marked with a cross in red colour are contaminated with arsenic.</sent>
+				<sent id ="115">A tube-well marked with green colour contains pure and safe water.</sent>
+				<sent id ="116">Instead, you should drink and use pure and safe water.</sent>
+				<sent id ="117">Have you ever noticed how water in your locality is being polluted?</sent>
+				<sent id ="118">Littering, washing of household utensils and clothes and bathing cattle pollute water.</sent>
+				<sent id ="119">Dead bodies of animals, human faeces, droppings of poultry also contaminate water.</sent>
+				<sent id ="120">Chemical fertilizers and insecti- cides are used in crop fields.</sent>
+				<sent id ="121">These are carried with the rainwater and fall into water bodies.</sent>
+				<sent id ="122">Thus water becomes polluted and poisonous.</sent>
+				<sent id ="123">Fish dies in this water and this water harms other aquatic animals.</sent>
+				<sent id ="124">Chemical waste from industries sometimes flows into water bodies and thus water gets polluted.</sent>
+				<sent id ="125">What are the preventive measures to keep water free from pollution?</sent>
+				<sent id ="126">Discuss the issue with your peer and seniors to prepare a list.</sent>
+				<sent id ="127">Household litters, dirt and dead bodies of animals should not be thrown into water.</sent>
+				<sent id ="128">Pond water is used for cooking and drinking must not be used for washing clothes.</sent>
+				<sent id ="129">Latrine must not be built on the bank of the water bodies.</sent>
+				<sent id ="130">Ground around the well or tube-well should be covered with concrete platform.</sent>
+				<sent id ="131">Industrial waste materials must not be allowed to flow into the water.</sent>
+				<sent id ="132">We have learnt that drinking impure water causes different water-borne diseases.</sent>
+				<sent id ="133">To keep us healthy, we must drink germ- free water.</sent>
+				<sent id ="134">Pond, canal, marsh and river water is mixed with mud and dirt particles.</sent>
+				<sent id ="135">Now-a-days, there are filter machines available in many house- holds in urban areas.</sent>
+				<sent id ="136">Water kept for some time in a filter machine will give pure water.</sent>
+				<sent id ="137">This water is safe to drink and use.</sent>
+				<sent id ="138">When water is kept in a pitcher for sometime, sediment settles down at the bottom.</sent>
+				<sent id ="139">Clear water from above is then slowly poured into another pitcher.</sent>
+				<sent id ="140">In this way, clear water is separated from sediments.</sent>
+				<sent id ="141">This process is called decantation.</sent>
+				<sent id ="142">When a small piece of alum is added to the water rapid sedimentation occurs.</sent>
+				<sent id ="143">Adding alum in pitcher water also gives germ-free water.</sent>
+				<sent id ="144">Keep on boiling water for 20 minutes after it begins bubbling in a boiling state.</sent>
+				<sent id ="145">Then cool this boiled water and filter it.</sent>
+				<sent id ="146">The water is now ready for drinking.</sent>
+				<sent id ="147">You may ask your senior for help to purify water by boiling.</sent>
+				<sent id ="148">Water from arsenic contaminated well cannot be purified by boiling.</sent>
+				<sent id ="149">Therefore, water from tube-wells that are arsenic free should be used and consumed.</sent>
+				<sent id ="150">Otherwise, water from other sources has to be boiled and used.</sent>
+				<sent id ="151">Sometimes due to storm, flood and tidal bore, it is not possible to boil water.</sent>
+				<sent id ="152">Sometimes, halogen tablets are used to free water from germs.</sent>
+				<sent id ="153">Water then becomes safe for drinking.</sent>
+				<sent id ="154">We have learnt about many aspects of water.</sent>
+				<sent id ="155">There is a lot of water in the earth.</sent>
+				<sent id ="156">Still there is scarcity of pure water.</sent>
+				<sent id ="157">Therefore, we must not misuse water.</sent>
+				<sent id ="158">We must not pollute it either.</sent>
+				<sent id ="159">Human beings, animals, birds and plants cannot live without water.</sent>
+				<sent id ="160">Hence, water is a valuable resource.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

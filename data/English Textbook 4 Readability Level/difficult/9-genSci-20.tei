@@ -1,0 +1,166 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-genSci-20</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.301</idno>
+				<idno type="Number of sentences">138</idno>
+				<idno type="Number of tokens">3097</idno>
+				<idno type="Number of token types">986</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t68">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Bangladesh is one of the most disaster prone countries of the world.</sent>
+				<sent id ="2">Tornadoes, tidal waves, floods, draughts, and so on cause havoc in the lives of the people of this country by causing loss to life and property, and by damaging the environment.</sent>
+				<sent id ="3">The geographical location of the country is the main reason for such frequent disaster.</sent>
+				<sent id ="4">In the north of this plain land of rivers is the Himalayas, and in the south is the Bay of Bengal.</sent>
+				<sent id ="5">The origin of the rivers flowing through Bangladesh is either in India or in Nepal.</sent>
+				<sent id ="6">There is no mountain, hill or plateau in the south of the country that can serve as a natural barrier to cyclones or tidal waves.</sent>
+				<sent id ="7">Floods occur in Bangladesh when the global warming due to greenhouse effect changes the environmental balance and the ice on the top of Himalayas melts, or when there is excessive rain.</sent>
+				<sent id ="8">Also, as the country is situated in the subtropical region the temperature at the surface of the sea is around 27oC, which causes high tidal waves to strike the land.</sent>
+				<sent id ="9">The people of this country have to survive in this geographical location, and put up with natural disaster.</sent>
+				<sent id ="10">In the light of these circumstances, the people of Bangladesh should have a comprehensive idea about disaster and its management.</sent>
+				<sent id ="11">Disaster may be considered as the occurrence of an event that causes disruption of community's normal activities, loss of life and property, and ecological disruption.</sent>
+				<sent id ="12">This occurrence is on a scale that is beyond the adjustment capacity of the affected community within its own resource.</sent>
+				<sent id ="13">As a result, outside help or assistance is required.</sent>
+				<sent id ="14">A hazard can be considered as any suddenly occurring severe natural or man made phenomenon.</sent>
+				<sent id ="15">Subsequently, if the event turns unfavourable to life and property, it may lead to disaster.</sent>
+				<sent id ="16">Disaster management involves formulating plans regarding disaster and the sumtotal of administrative decisions, together with its implementation at all administrative levels in the stages of pre-disaster, disaster, and post-disaster.</sent>
+				<sent id ="17">In other words, disaster management is an applied science that encompasses disaster prevention, disaster preparedness, rapid response in disaster, and recovery through adequate monitoring and analysis.</sent>
+				<sent id ="18">The main objectives of disaster management are reducing risk of disaster and minimizing damage during disaster.</sent>
+				<sent id ="19">The realm of disaster management includes reducing the risk of disaster, adequate plan formulation and execution to reduce damage, arrangement to disseminate warning signals in impending disaster, watchfulness over the situation in disaster prone areas, and review of relief and rehabilitation activities.</sent>
+				<sent id ="20">The fundamental aspects of disaster management include activities related to pre- disaster, disaster, and post-disaster periods.</sent>
+				<sent id ="21">The following disaster management cycle highlights the elements of disaster management and the activities required in different stages of disaster.</sent>
+				<sent id ="22">In the past, disaster management was considered as extensive relief operation following a disaster.</sent>
+				<sent id ="23">In reality, relief operation is an element of the overall disaster management.</sent>
+				<sent id ="24">The above cycle shows that pre-disaster activities include disaster prevention, disaster mitigation, and disaster preparedness as the primary elements of disaster management.</sent>
+				<sent id ="25">Comprehensive execution of these elements are of prime importance in pre-disaster period.</sent>
+				<sent id ="26">Inadequate attention to any one of the elements will lead to overall failure of disaster management.</sent>
+				<sent id ="27">Hence, to effectively combat disaster more activity has to be carried out in the pre-disaster period.</sent>
+				<sent id ="28">The management involved immediately after a disaster includes response, recovery and development.</sent>
+				<sent id ="29">In the past, the response after a disaster was considered as total management of disaster.</sent>
+				<sent id ="30">Response is only a part of disaster management.</sent>
+				<sent id ="31">Appropriate response is required immediately after a disaster.</sent>
+				<sent id ="32">Response includes evacuation to a safe place, search and rescue, estimation of damage, and relief and rehabilitation activities.</sent>
+				<sent id ="33">Recovery means rebuilding following damage to property and environment, to social and economic infrastructure, and returning to a state that existed before the disaster.</sent>
+				<sent id ="34">For this, help and support is needed from the government, non-government, voluntary and international organizations.</sent>
+				<sent id ="35">As soon as recovery activities bring the affected area to the pre-disaster state, development activities have to be initiated.</sent>
+				<sent id ="36">Before undertaking development activities, the geographical and environmental conditions of the area have to be taken into consideration.</sent>
+				<sent id ="37">Though Bangladesh is a plain land, difference is noted in the types and intensity of disaster in the different parts of the country.</sent>
+				<sent id ="38">In the south, Bhola and other islands are more prone to tidal waves and cyclones.</sent>
+				<sent id ="39">In the north, the areas of Dinajpur, Bogra and Rajshahi are prone to draughts.</sent>
+				<sent id ="40">Keeping these two factors in mind, if the public buildings such as Upazila training and development centres, school buildings and governmental offices are built appropriately, the people of the southern part of the country could use them as shelter during disaster.</sent>
+				<sent id ="41">Thus, crores of taka need not be spent by the government in building separate cyclone or flood shelters.</sent>
+				<sent id ="42">Consequently, before undertaking development work, the geographical and environmental factors should be taken into consideration.</sent>
+				<sent id ="43">Even if it is not possible to completely prevent disaster, preventive measures taken to reduce the damage due to disaster can bring good results.</sent>
+				<sent id ="44">Disaster prevention involves structural and non-structural mitigation measures.</sent>
+				<sent id ="45">Structural mitigation measures means the implementation of various construction activities, such as, erecting dams, building shelter centres, making brick-made strong houses, dredging of rivers, and so on.</sent>
+				<sent id ="46">Structural mitigation measures for disaster is expensive, and is a burden for many poor countries.</sent>
+				<sent id ="47">Execution of non-structural mitigation measures as training, building public awareness, preparedness and other activities are less expensive.</sent>
+				<sent id ="48">This does not require huge amount of money at a time.</sent>
+				<sent id ="49">The government of Bangladesh is conducting training programmes at village and union levels, workshop and seminar in union and upazila levels to raise public awareness regarding disaster.</sent>
+				<sent id ="50">Until June 1998, the Disaster Management Bureau has imparted training on disaster management to almost 10,000 persons.</sent>
+				<sent id ="51">It has been made compulsory that all courses in all training institutes must include at least two hours session on disaster management.</sent>
+				<sent id ="52">The Prime Minister has also notified that when the officials of district and upazila levels pay official visit to the villages, they must formally discuss with the people the disaster related permanent instructions of the government.</sent>
+				<sent id ="53">So, in a poor country like ours, the non-structural mitigation activities are being carried out in an effective and meaningful way.</sent>
+				<sent id ="54">As a result, people are increasingly becoming aware of the necessity of taking refuge in shelter centres to minimize the after effects of disaster, and to get the primary heath care services.</sent>
+				<sent id ="55">Disaster mitigation means the sustained reduction in disaster, and disaster preparedness.</sent>
+				<sent id ="56">Activities incorporated in disaster mitigation are construction of brick-made strong buildings, crop diversification, defining strategies to reduce misuse of land, economic development, building strong structural infrastructure, shifting people to less vulnerable areas, developing institutional infrastructure, and so on.</sent>
+				<sent id ="57">Though sustained disaster mitigation is expensive, government within its limited resources has taken up the activities of constructing dams, dredging rivers, constructing of shelter centres, afforestation, and so on.</sent>
+				<sent id ="58">Disaster preparedness means the management of risk reduction of disaster during pre- disaster period.</sent>
+				<sent id ="59">Activities incorporated in disaster preparedness are identifying the vulnerable regions and population, formulating disaster related plan, developing institutional infrastructure, allocating required resource to meet the emergency, drill or simulation; and to keep road, transport and radio system in readiness.</sent>
+				<sent id ="60">Because our country is situated in a disaster prone region, we have gained varied experience on disaster.</sent>
+				<sent id ="61">The permanent instructions of the government formulated in the light of past experiences must be followed by all.</sent>
+				<sent id ="62">Within these instructions lies the guideline of responsibilities of different offices and organizations in pre-disaster, disaster and post-disaster periods.</sent>
+				<sent id ="63">The instructions give the direction of constituting different committees to deal with planning various disaster management activities too.</sent>
+				<sent id ="64">There is direction for constituting eight committees at the national level, and one committee each at the union, upazila and district levels to deal with disaster management.</sent>
+				<sent id ="65">National Disaster Management Council: The Hon'ble Prime Minister is the Chairperson of the council.</sent>
+				<sent id ="66">The Hon'ble Ministers/ State Ministers responsible for different ministries; the Chiefs of Army, Navy and Airforce; and Secretaries of the concerned ministries are the members of this council.</sent>
+				<sent id ="67">The main function of the council is to formulate disaster related policies, take measures to formulate laws related to national disaster management plan, and so on.</sent>
+				<sent id ="68">b) Inter-Ministerial Disaster Management Co-ordination Committee: The Hon'ble Minister in charge of the Ministry of Disaster Management and Relief is the Chairperson of the committee.</sent>
+				<sent id ="69">The Secretaries of the concerned ministries; Principal Staff Officer of Armed Forces; Director Generals of the Disaster Management Bureau, NGO Affairs Bureau, Directorate of Relief and Rehabilitation; and the heads of other concerned organizations are the members of this committee.</sent>
+				<sent id ="70">The main responsibilities of the committee include inter-ministerial co-ordination for disaster management, execution of disaster management policies formulated by National Disaster Management Council, advise the council, and so on.</sent>
+				<sent id ="71">c) National Disaster Management Advisory Committee: An experienced person/ expert in the field of disaster management nominated by the Hon'ble Prime Minister is the Chairperson of the advisory committee.</sent>
+				<sent id ="72">The members of this advisory committee are the elected members of the Parliament from disaster prone areas; persons having experience in disaster related issues working in university, non- government organization (NGO), donor organization, and government institute;</sent>
+				<sent id ="73">Chair-persons of Red Crescent Society, and Chamber of Commerce; President of Institute of Engineers; Chair-persons of Insurance Company Association, Krishi Bank, Grameen Bank; and Director General of Disaster Management and Relief.</sent>
+				<sent id ="74">The main responsibility of the advisory committee is to give necessary advice on disaster management issues to the National Disaster Management Council, Ministry of Disaster Management and Relief, and Disaster Management Bureau.</sent>
+				<sent id ="75">The advisory committee will submit a report on post-mortem and final evaluation to the government and other committees on the activities undertaken following disaster.</sent>
+				<sent id ="76">d) Cyclone Preparedness Programme Implementation Board: The Secretary, Ministry of Disaster Management and Relief is the Chairperson of this board.</sent>
+				<sent id ="77">The members of the board are the Director Generals of Disaster Management Bureau, and Directorate of Relief and Rehabilitation; Chairperson of SPARSO; Director, Directorate of Meteorology, and a representative from the Ministry of Health.</sent>
+				<sent id ="78">The Director of Cyclone Preparedness Programme is the Member Secretary of the board.</sent>
+				<sent id ="79">The main responsibilities of the board include review of cyclone preparedness activities, and ensureing preparedness in the initial stage of an impending cyclone.</sent>
+				<sent id ="80">e) Focal Point Operation Co-ordination Group of Disaster Management: The Director General of Disaster Management Bureau is the Chairperson of the Co- ordination group.</sent>
+				<sent id ="81">The members of the co-ordination group are the Director Generals of the Directorates of Health, Agriculture, Fisheries, Primary Education, Secondary and Higher Education, Bangladesh Betar, Bangladesh Television, NGO Affairs Bureau, and so on;</sent>
+				<sent id ="82">Director, Directorate of meteorology; Chairperson of SPARSO; and the Heads of the other concerned Directorates working with disaster.</sent>
+				<sent id ="83">The Director (Planning) of Disaster Management Bureau is the Member Secretary of the co-ordination group.</sent>
+				<sent id ="84">The main responsibilities of the group include review of and recommendation on the activities of disaster preparedness undertaken by different departments;</sent>
+				<sent id ="85">discussing the disaster preparedness planning activities with different departments;</sent>
+				<sent id ="86">preparing work plan for disaster management at district, upazila and union levels; and taking decision after discussing the issues of potential problems in executing the activities.</sent>
+				<sent id ="87">f) Disaster Management Training and Public Awareness Building Task Force: The Director General of Disaster Management Bureau is the Chairperson of the Task Force.</sent>
+				<sent id ="88">The members of the task force are the representatives from government and non-government organisations that impart training and promote awareness on disaster management.</sent>
+				<sent id ="89">The main responsibilities of the task force are to co-ordinate the disaster related training and public awareness activities; review and evaluate the curriculum for training and awareness building programmes; and to strengthen activities for training and public awareness building.</sent>
+				<sent id ="90">g) Non-government Organization Co-ordination Committee on Disaster Management: The Director General of Disaster Management Bureau is the Chairperson of the co- ordination committee.</sent>
+				<sent id ="91">The members of the co-ordination committee are the Director General of NGO Affairs Bureau, and the heads of the non-government organizations working in the area of disaster management.</sent>
+				<sent id ="92">The main responsibilities of the co- ordination committee is to co-ordinate the disaster management related activities of the government and non-government organizations, to avoid duplication of the activities undertaken by the government and non-government organisations, and to carry out disaster related activities in a planned way.</sent>
+				<sent id ="93">h) Committee for Speedy Dissemination of Disaster Related Signal: The Director General of Disaster Management Bureau is the Chairperson of the committee.</sent>
+				<sent id ="94">The members of the committee are the Director Generals of Bangladesh Betar, Bangladesh Television, Mass communication, Films and Publication; Principal Information Officer;</sent>
+				<sent id ="95">Director of Flood Forecasting, Director of Meteorology, and Chairperson of SPARSO.</sent>
+				<sent id ="96">The main responsibilities of the committee are to ensure ways and means for the speedy dissemination of warning signals in impending cyclone and flood, and to identify the obstacles and take measures to overcome them.</sent>
+				<sent id ="97">District Disaster Management Committee: The Deputy commissioner of the concerned district is the Chairperson of the committee.</sent>
+				<sent id ="98">The members of the committee are the Heads of the concerned government offices at district level, all the Upazila Nirbahi Officers of the district, representatives from non-government organizations, and representative from Armed Forces.</sent>
+				<sent id ="99">The District Relief and Rehabilitation Officer is the Member Secretary of the committee.</sent>
+				<sent id ="100">The main functions of the committee are to constitute the Upazila Disaster Management Committee in all the upazilas of the district, conduct disaster related training and public awareness programme, to take measures in preparing disaster preparedness plan for the district, and to ensure appropriate rapid response with relief and rehabilitation operations.</sent>
+				<sent id ="101">b) Upazila Disaster Management Committee: The Upazila Nirbahi Officer is the Chairperson of the committee.</sent>
+				<sent id ="102">The members of the committee are the Chairpersons of all the Union Parishads of the upazila, Heads of concerned government and non- government offices in the upazila, Chairperson of the Central Co-operative Samity, and representative of non-government organisations working in the upazila.</sent>
+				<sent id ="103">The Upazila Project Implementation Officer is the Member Secretary of the committee.</sent>
+				<sent id ="104">The main responsibilities of the committee are to constitute the Union Disaster Management Committee in all the unions of the upazila, and to give necessary direction and keep activated the Union Committee.</sent>
+				<sent id ="105">In addition to training and public awareness building, the committee is also concerned with preparing disaster management related work plan, and ensuring appropriate rapid response with relief and rehabilitation operations.</sent>
+				<sent id ="106">c) Union Disaster Management committee: The Chairman of the concerned Union Parishad is the Chairperson of the committee.</sent>
+				<sent id ="107">The members of the committee are all the members of the Union Parishad, representative of teachers working in the union, and staff of government offices and representative of non-government organizations at union level.</sent>
+				<sent id ="108">The Secretary of the Union Parishad is the Member Secretary of the committee.</sent>
+				<sent id ="109">The main responsibility of the committee are public awareness building on disaster related issues, ensuring appropriate rapid response with relief and rehabilitation operations, and so on.</sent>
+				<sent id ="110">It was long felt at home and abroad to establish a self-contained office to co-ordinate the multifaceted extensive activities in pre-disaster, disaster and post-disaster management by the different committees at national and local levels, and concerned government, semi-government and non-governments organizations/offices.</sent>
+				<sent id ="111">The necessity of such an office was intensely felt by the Government and donor agencies especially after the colossal flood of 1987 and 1988, and the severe cyclone of 1991.</sent>
+				<sent id ="112">The Disaster Management Bureau was established in 1993 with the aim to co-ordinate the various disaster management activities; raise public awareness about disaster; collect information on disaster; management of disaster related information and research activities;</sent>
+				<sent id ="113">local and national level disaster preparedness and mitigation; plan formulation; and to assist and render services through disaster management.</sent>
+				<sent id ="114">Since then, the Bureau has been effectively discharging its responsibilities of disaster management.</sent>
+				<sent id ="115">An Additional Secretary of the Government is entrusted with the responsibility of Director General of the Bureau.</sent>
+				<sent id ="116">The Cyclone Preparedness Programme, an organ of Bangladesh Red Crescent Society, is facilitating the overall disaster management activities in the country.</sent>
+				<sent id ="117">The organ is working with the aim to respond in cyclone through maintaining communication, enhancing preparedness and raising public awareness.</sent>
+				<sent id ="118">Under this programme, more than thirty-two thousand volunteers from the coastal districts are rendering commendable services in terms of cyclone preparedness, rescue and rehabilitation, and maintaining communication on cyclone related issues.</sent>
+				<sent id ="119">Evidence based weather forecasting and warning are the important factors that contribute to rapid response in natural disaster like cyclone, tornado, draught, excessive rainfall, and so on.</sent>
+				<sent id ="120">The Directorate of Meteorology, the professional department of the Government, is discharging this important responsibility.</sent>
+				<sent id ="121">Alongside, Government's another department-the SPARSO is conducting space research.</sent>
+				<sent id ="122">With the help of terrestrial satellite, the SPARSO collects cloud mapping regularly to support the Directorate of Meteorology in weather forecasting and warning.</sent>
+				<sent id ="123">It is the responsibility of the Directorate of Meteorology to forecast weather and forewarn by drawing and analysing the radar signals collected from national and international data source.</sent>
+				<sent id ="124">Flood Forecasting Centre of the Water Development Board forecasts and disseminate flood-related information.</sent>
+				<sent id ="125">Though there is no technology for forecasting earthquake, the intensity and nature of earthquake can be measured in Richter scale.</sent>
+				<sent id ="126">In times of emergency, members of our Armed Forces extend all-out help and co- operation to the civil administration in medicare services, rescue, relief distribution and rehabilitation operation to the affected people.</sent>
+				<sent id ="127">Bangladesh Betar and Bangladesh Television play an important role in disseminating disaster related warning signals.</sent>
+				<sent id ="128">In addition to the different government bodies, the non-government organizations working in the area of disaster management are Oxfam, Disaster Forum, Care Bangladesh, Caritas, Proshika, CCDB, BDPC (Bangladesh Disaster Preparedness Centre), and so on.</sent>
+				<sent id ="129">We have to live with natural disaster.</sent>
+				<sent id ="130">Carrying out disaster management activities involving development, prevention, mitigation and preparedness during normal times, in other words during pre-disaster periods, we can save life, property and environment to a great extent from the clutches of disaster.</sent>
+				<sent id ="131">So, for the interest of appropriate disaster management and combat measures, we need to have a disaster work plan that covers the disaster period too.</sent>
+				<sent id ="132">This work plan has to be practised at individual, family, village, union, upazila and district levels to ensure proper execution at times of need.</sent>
+				<sent id ="133">We should have the idea of warning signals for cyclone or flood.</sent>
+				<sent id ="134">We should be motivated to go to shelter centre and send the domestic cattle to safe animal shed.</sent>
+				<sent id ="135">It is better to be prepared with first aid, dry food, drinking water, match-box, candle, and so on.</sent>
+				<sent id ="136">The district, upazila and union level committees on disaster management should meet regularly, and a mechanism should be developed for maintaining adequate liaison of the population with the committee.</sent>
+				<sent id ="137">It is our responsibility to prepare a work plan to be able to face the daily needs in times of disaster.</sent>
+				<sent id ="138">We should remember that adequate forewarning and preparation can overcome any difficulty or disaster.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,182 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-homeEco-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:06.626</idno>
+				<idno type="Number of sentences">154</idno>
+				<idno type="Number of tokens">2721</idno>
+				<idno type="Number of token types">867</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t111">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Human beings are social in nature.</sent>
+				<sent id ="2">They cannot live alone.</sent>
+				<sent id ="3">Family is a small unit of society.</sent>
+				<sent id ="4">A person as he/she moves along the way of his life growing in age, has to depend on various persons of the family in particular and of the society in general.</sent>
+				<sent id ="5">For such dependence, one has to exchange one's ideas and maintain contacts with others.</sent>
+				<sent id ="6">It is this action which in a single word can be termed as social relationship.</sent>
+				<sent id ="7">This relationship is of paramount importance in the life of human being.</sent>
+				<sent id ="8">At the very beginning of life, it is found that survival of a child is impossible unless it gets assistance from the other members of the family.</sent>
+				<sent id ="9">It has to depend on others in order to fulfil its various needs.</sent>
+				<sent id ="10">The child first establishes its relationship with its mother, then gradually with father, brothers and sisters and other members of the family.</sent>
+				<sent id ="11">During the later stages it has to establish social relationship gradually in the larger society outside the family.</sent>
+				<sent id ="12">It is observed that not a single human being can live without such social relationship.</sent>
+				<sent id ="13">Even the fundamental needs of the child cannot be fulfilled without the help of others.</sent>
+				<sent id ="14">Thereafter consultation and helping one another are necessary in order to express one's own sorrows and pleasures.</sent>
+				<sent id ="15">A human being is needed to cooperate with others in order to minimize his/her sorrows and sufferings.</sent>
+				<sent id ="16">Without the cooperation of others, it too becomes impossible for a person to become self-dependent.</sent>
+				<sent id ="17">So, in fine, it can be said that everyone has to cooperate with others in every stage of life facing all the disadvantages of life in order to make life meaningful.</sent>
+				<sent id ="18">Otherwise life will become meaningless.</sent>
+				<sent id ="19">Such an essential social relationship flows towards various directions.</sent>
+				<sent id ="20">Sometimes due to this relationship, a person is found to depend completely on others.</sent>
+				<sent id ="21">An infant, a child depends solely upon the elders of the family.</sent>
+				<sent id ="22">Sometimes, this relationship exists in the form of exchanges or transactions, such as, when the children grow up, they cooperate with each other.</sent>
+				<sent id ="23">Sometimes, the relationship is based on respect and love.</sent>
+				<sent id ="24">It can be said that relationship with teachers, too, involves transaction or give and take and exchange of ideas and expression of respect.</sent>
+				<sent id ="25">Likewise, there is the relationship with friends of contemporary age and with neighbours.</sent>
+				<sent id ="26">However, in order to make one's life meaningful, one has to live in close contact with various persons of the society.</sent>
+				<sent id ="27">In this way the social relationship builds.</sent>
+				<sent id ="28">But a person has to acquire certain virtue or to follow some general principles in order to establish such social relationship and maintain healthy contacts.</sent>
+				<sent id ="29">These are as following.</sent>
+				<sent id ="30">The principles of transactions : A person has to follow the principle of transaction in order to establish relationship.</sent>
+				<sent id ="31">It is in this way that transactions, exchange of ideas and maintaining mutual contact is possible.</sent>
+				<sent id ="32">Cooperation : One has to have a sense of cooperation within oneself.</sent>
+				<sent id ="33">If one has a feeling of helping only oneself, it makes one self- centered rather than social if such a feeling crosses certain limits.</sent>
+				<sent id ="34">Most of the time, it creates jealousy and unhealthy competition among the competitors, thus removes the very possibility of good relationship.</sent>
+				<sent id ="35">Sympathy : Sympathy is yet another principal virtue one should posses in establishing social relationship.</sent>
+				<sent id ="36">It is difficult to become social if sympathy cannot be shown to others during their sorrows and troubles while going along in the society.</sent>
+				<sent id ="37">Unselfishness : Another important aspect in establishing social relationship is getting rid of selfishness.</sent>
+				<sent id ="38">It becomes difficult for a person to establish relations with others if he/she keeps himself/ herself busy in his/her own interests.</sent>
+				<sent id ="39">Relation becomes normal through reaching an understanding when any complex situation arises.</sent>
+				<sent id ="40">Human Virtues : Besides, it becomes easy to establish good relations with various personalities of the family if the human virtues such as respect, affection, submissiveness, etiquette, etc. are exercised in time.</sent>
+				<sent id ="41">It is necessary to mention here that every social relation in respect of place, time and person is equally important if one has to live in any society.</sent>
+				<sent id ="42">The detailed discussion is made in this chapter on aspects related to establish relations of teenagers with teachers, friends of contemporary age and neighbours.</sent>
+				<sent id ="43">One who imparts education is a teacher.</sent>
+				<sent id ="44">It is quite natural that a teacher is a person who always deserves respect.</sent>
+				<sent id ="45">It is the desire of everyone that teachers-student relationship should be spontaneous and good.</sent>
+				<sent id ="46">Relation with teacher is built up through various activities after coming in contact with them.</sent>
+				<sent id ="47">Thereafter, quite normally, children in their adolescence obey the directives of the teachers to maintain the relation established earlier.</sent>
+				<sent id ="48">This makes the relation very firm.</sent>
+				<sent id ="49">Self dependence, sense Establishing the Relationship of the Adolescentswith Different Members of the Society 89 of self respect, sense of self-dignity and sense of own existence emerge among the children of adolescent age group.</sent>
+				<sent id ="50">As a result, they show respect and impart dignity to the teachers more than before.</sent>
+				<sent id ="51">Teachers, too, get charmed with such behaviours and become actively engaged in arousing consistent and acceptable behaviours in a way the parents do.</sent>
+				<sent id ="52">Such activities of teacher are regarded as part of the process of socialization.</sent>
+				<sent id ="53">At times, teenagers grown under adverse circumstances show dishonour and disrespect towards the teachers.</sent>
+				<sent id ="54">They become disobedient to teachers and spoil the academic environment.</sent>
+				<sent id ="55">In such cases, despair prevail among the teachers and distance is created between teachers and students.</sent>
+				<sent id ="56">Teachers reward the teenagers for good behaviours as well as arrange punishments for ill-behaviours in the process of socialization.</sent>
+				<sent id ="57">Teachers may, at times behave strictly or with ease in class rooms.</sent>
+				<sent id ="58">Because activities of the students in class rooms may or may not be acceptable to the teachers.</sent>
+				<sent id ="59">This may cause variations in the behaviour of teachers.</sent>
+				<sent id ="60">Thus it is seen that some of the children become attentive according to directives of the teachers.</sent>
+				<sent id ="61">They obey teacher's orders, engage themselves in various activities spontaneously and complete the assigned work, too, in time.</sent>
+				<sent id ="62">Again, there are some of them in the same class who do not become attentive and do not obey the orders of the teachers.</sent>
+				<sent id ="63">As a result, some are found to be rewarded, others get punished.</sent>
+				<sent id ="64">The repeated occurrence of such punishment becomes deeply rooted in the mind of the children and may create problem in future.</sent>
+				<sent id ="65">Teachers should give inspiration and make provision for rewards for good work and this makes the children eager in good work and change the tendency of bad behaviour.</sent>
+				<sent id ="66">Teachers may act as ideals in socializing the teenagers.</sent>
+				<sent id ="67">Because, idolism is a special attribute of adolescent children.</sent>
+				<sent id ="68">The freedom loving teenagers select their ideals according to their own choice and follow them.</sent>
+				<sent id ="69">Under such circumstances, the teacher should understand the tendencies of children of this age group and play the role of an ideal teacher before them and try his/her best to solve their problems.</sent>
+				<sent id ="70">Such a behaviour of the teacher make the children follow the teacher very much.</sent>
+				<sent id ="71">As an example, it can be said that during this time, students are found to have tendency to use those words more and more which the teacher uses as his or her favourite words.</sent>
+				<sent id ="72">They exercise the views of the teachers in their own lives and refrain from such activities which the teacher does not like.</sent>
+				<sent id ="73">Again, when teachers express acceptable views on some religious or ancient beliefs, the children do the same, too.</sent>
+				<sent id ="74">It is in this way that the various activities and experiences of teachers influence profoundly in the process of socialization of adolescence.</sent>
+				<sent id ="75">This is the best way through which good relations with teachers can be developed.</sent>
+				<sent id ="76">It is the desire of all, that intimate, pure and respectful relation should be established between teenagers and their teachers.</sent>
+				<sent id ="77">This will create an improved and cherished academic environment.</sent>
+				<sent id ="78">Through this, the teenagers may exercise soft and gentle behaviorus and etiquette and will be able to play significant role in personal, social and national life.</sent>
+				<sent id ="79">Friends of contemporary age group have considerably more influence in the lives of adolescent children.</sent>
+				<sent id ="80">Teenagers have a number of needs in the socialization process which cannot be fulfilled all the time by the parents and teachers.</sent>
+				<sent id ="81">In such cases, friends of contemporary age group play a very important role.</sent>
+				<sent id ="82">Friends of contemporary age group, generally, mean children of the same age or the age immediately preceding or following it.</sent>
+				<sent id ="83">Hence it can be said that own brothers or sisters immediately elder or younger, cousins of the same age or next to that, neighbouring children and school class mates fall in this category.</sent>
+				<sent id ="84">During adolescence, they can influence their contemporaries very much and can quickly share their own ideas.</sent>
+				<sent id ="85">One of the major characteristics of adolescent children is that they form groups, move in groups and are bent upon the groups.</sent>
+				<sent id ="86">It is through the help of groups that they get their encouragement to come out of the influence of parents and gradually make normal and free movements.</sent>
+				<sent id ="87">Teenagers express their own existence and identity through groups of contemporaries.</sent>
+				<sent id ="88">Very often they prepare programmes for group activities through their groups and thus opportunities are created for development of good relations among them through exchange of ideas and views.</sent>
+				<sent id ="89">Maintenance of good relations with contemporary groups develops a sense of security among the teenagers.</sent>
+				<sent id ="90">Friendship between boys and girls are more common.</sent>
+				<sent id ="91">They mix with each other becoming intimate at heart.</sent>
+				<sent id ="92">The quality of such kind of relationship is much higher in case of minimizing mental sorrows and sufferings under various adverse situations.</sent>
+				<sent id ="93">Children of contemporary age group influence each other so much that most of the time they become eager to enjoy their companies leaving aside necessary work.</sent>
+				<sent id ="94">During this period they become self-dependent as they attain consciousness of their own existence.</sent>
+				<sent id ="95">Teenagers, at this age, become identical minded and cooperative.</sent>
+				<sent id ="96">This makes them realize their own capabilities and, as such, their sense of self-respect increases.</sent>
+				<sent id ="97">As a result, the teenagers are found to make their love and good relations long lasting through exchanging among themselves various gifts on the eve of various festivals and celebrations such as those of birthdays, new years, etc.</sent>
+				<sent id ="98">As a consequence of their realization of the need to become free and self dependent, they are found to be eager to participate in sports, enjoy dramas, listen to songs and music along with their friends of contemporary age group outside the four walls of their homes.</sent>
+				<sent id ="99">Many a time Establishing the Relationship of the Adolescentswith Different Members of the Society 91 they also participate through their groups jointly in many activities.</sent>
+				<sent id ="100">In such cases difference may be found to occur between their parents and themselves.</sent>
+				<sent id ="101">Hence, the parents should notice the behaviours and movements of the group attentively and behave with children consistently with sympathy.</sent>
+				<sent id ="102">It is needed to be mentioned that ill- companionship is always bad.</sent>
+				<sent id ="103">Hence the parents should have a careful eye on the selection of group or companies and help the children with acceptable direction in selecting their companions.</sent>
+				<sent id ="104">This may create bitterness.</sent>
+				<sent id ="105">Yet the children should be made to understand slowly, steadily and with patience.</sent>
+				<sent id ="106">In such a situation the success or failure of the parents will largely depend on relationship established between them and the children previously.</sent>
+				<sent id ="107">Hence, it can be said that parents should establish relationship with their children through care, love, affection, patience and by looking after them from the very first stages of their children's lives.</sent>
+				<sent id ="108">Relation with friends of contemporary age group is very essential for teenagers.</sent>
+				<sent id ="109">Through this, they can learn to behave consistently keeping pace with others.</sent>
+				<sent id ="110">Eagerness to help others increases depending on the circumstances.</sent>
+				<sent id ="111">This makes children follow or acquire the mode of talking attractively with their contemporaries.</sent>
+				<sent id ="112">As a result, their sense of security increases and they earn self consciousness.</sent>
+				<sent id ="113">On the other hand, ill-companionship or a bad peer group deviates the teenagers from right path and provides bad directions.</sent>
+				<sent id ="114">Hence, parents need to play the role of facilitating selection of and maintaining relation with good contemporaries during adolescence with consciousness and far- sight.</sent>
+				<sent id ="115">The well-being of the family, the society and the state depends on this.</sent>
+				<sent id ="116">Since the beginning of creation, human beings have an inborn tendency to become social.</sent>
+				<sent id ="117">It is this tendency that makes a person eager to establish relation with neighbours, taking him or her across the frontiers or premises of his or her own family.</sent>
+				<sent id ="118">Establishment of relationship by teenagers with parents and teachers, with fellow friends and with others in the society is of much importance.</sent>
+				<sent id ="119">Along with this, if examined minutely, establishment of relationship with neighbours, too, is not of less important.</sent>
+				<sent id ="120">Sometimes, the parents, friends, relatives may not be very close but the neighbours are always there.</sent>
+				<sent id ="121">During such a time, the necessity of a good neighbour can be practically realized if there is any accident or danger.</sent>
+				<sent id ="122">Many a time, it is the neighbour who plays the most important role rather than many near relatives.</sent>
+				<sent id ="123">In practical life, establishing good relationship with neighbours is very necessary in order to make the way of life smooth and free.</sent>
+				<sent id ="124">Such a situation will be easy if certain methods are followed during establishing relationship.</sent>
+				<sent id ="125">First of all, it is wise to know the attitude of the neighbours on teenagers.</sent>
+				<sent id ="126">Care should be taken so that in establishing relationship, the likes and dislikes, desires and needs of the teenagers do not cause any embarrassment.</sent>
+				<sent id ="127">Mental virtues, such as, cooperation and sympathy play very important roles in keeping formalities with neighbours.</sent>
+				<sent id ="128">Teenagers are, by nature, full of initiatives, courageous and eager to work.</sent>
+				<sent id ="129">A cherished relationship can grow up gradually with the neighbours if cooperation and sympathy are shown toward the neighbours during their hours of need.</sent>
+				<sent id ="130">To be pained at the sufferings of the neighbours or sharing their happiness, too, is a symbol of sympathetic behaviours.</sent>
+				<sent id ="131">Identical views between one another makes establishment of relationships easy and long lasting.</sent>
+				<sent id ="132">For this reason, if views are known, behaviour can be made accordingly.</sent>
+				<sent id ="133">However, unless one becomes very intimate with the other, the help cannot be of much benefit.</sent>
+				<sent id ="134">It only leads to the show of help.</sent>
+				<sent id ="135">Hence, sincerity is a must if one likes to help others.</sent>
+				<sent id ="136">If one likes to help or cooperate with the neighbours in their dangers or sorrows, one can realize those with one's own feelings.</sent>
+				<sent id ="137">The hands of cooperation and sympathy will be extended automatically if each and every one can make such realization within herself or himself.</sent>
+				<sent id ="138">As a result, the endangered neighbour, too, will be benefitted beyond expectation and it will continue as a memorable event in his or her life for a long time.</sent>
+				<sent id ="139">It is in this way that the bondage of mutual relation becomes firm while moving along the way of social life.</sent>
+				<sent id ="140">In fact, one has to maintain friendship with neighbours as a near and dear one being intimate with them.</sent>
+				<sent id ="141">Regular information has to be taken of those who need help, in cases when the head of the family stays most of the time out of the country or suffers from illness since long or has died.</sent>
+				<sent id ="142">Consolation should be given depending upon circumstances.</sent>
+				<sent id ="143">Help of this kind cannot be unilateral.</sent>
+				<sent id ="144">Such a help should be made realizing where it is necessary.</sent>
+				<sent id ="145">Reciprocity, mutuality are the other names of social life and social relationship.</sent>
+				<sent id ="146">It is not wise to have a sense of competitiveness or enmity with the neighbours.</sent>
+				<sent id ="147">Many a time enmity is expressed in various forms by the opponent party.</sent>
+				<sent id ="148">This may so happen because identical views may not be there all the time with neighbours.</sent>
+				<sent id ="149">In such conditions, it is wise to live a peaceful life as far as possible.</sent>
+				<sent id ="150">Often in these cases, it is necessary to maintain good relationship even if it is for show only.</sent>
+				<sent id ="151">Otherwise, if such type of situation is allowed to persist for a long time, jealousy and hatred may grow up resulting in ill feelings and bitterness among the neighbours.</sent>
+				<sent id ="152">Such various tendencies spoil the surrounding environment which, thereafter, brings ill fame in personal and social lives.</sent>
+				<sent id ="153">Children, hence, should acquire the means of establishing good relationship with neighbours during the very adolescent period and engage themselves actively in doing so.</sent>
+				<sent id ="154">It is thus that person, society and nation will be benefitted indirectly as well as directly.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

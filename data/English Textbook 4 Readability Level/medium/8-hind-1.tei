@@ -1,0 +1,141 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-hind-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.349</idno>
+				<idno type="Number of sentences">113</idno>
+				<idno type="Number of tokens">1492</idno>
+				<idno type="Number of token types">660</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t149">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">On the blue sky of the autumn white cloud flies.</sent>
+				<sent id ="2">On the other hand, in the rainy season the sky may be covered by the deep black cloud.</sent>
+				<sent id ="3">The cloud roars and the lightning flashes.</sent>
+				<sent id ="4">Sometimes it rains cats and dogs.</sent>
+				<sent id ="5">Sometimes it rains in a very gentle motion making a rhythmic sound tapur-tupur.</sent>
+				<sent id ="6">Fields become full of water from the rain-fall.</sent>
+				<sent id ="7">Then the rain stops.</sent>
+				<sent id ="8">The sun shines brightly and with the rays of the sun the trees and creepers smile.</sent>
+				<sent id ="9">On the trees and creepers there are different types of leaves and flowers.</sent>
+				<sent id ="10">How many types of fruits there are!</sent>
+				<sent id ="11">Somewhere there are very high mountains, somewhere we can see vast seas or oceans.</sent>
+				<sent id ="12">From the mountains many rivers have come down.</sent>
+				<sent id ="13">In nature and environment there are such wonderful varieties.</sent>
+				<sent id ="14">There is such variety in the beasts, birds and insects also and such variety is not less among the human beings!</sent>
+				<sent id ="15">One has got black complexion and another is of white skin, one is tall and the other may be very short in height.</sent>
+				<sent id ="16">Though there is variety in the beings and the things of the world, there are resemblance and unity in them.</sent>
+				<sent id ="17">In human beings, there are some common characteristics.</sent>
+				<sent id ="18">So a poet says, Black or white is apparent only, Inside all of us are equally red.</sent>
+				<sent id ="19">In all living beings there is a common feature, what is called life.</sent>
+				<sent id ="20">All the animals possess hunger and thurst.</sent>
+				<sent id ="21">All the animals have senses.</sent>
+				<sent id ="22">After their birth all the animals gradually develop for a certain period.</sent>
+				<sent id ="23">A time comes when their growth is stopped and a time must come when their lives must come to an end.</sent>
+				<sent id ="24">Trees, plants or creepers also have lives like human beings, beasts, birds and insects.</sent>
+				<sent id ="25">Yet they have got a limitation.</sent>
+				<sent id ="26">They have no conscience or they cannot move from one place to another.</sent>
+				<sent id ="27">On the other hand inanimate things never develop after their creation.</sent>
+				<sent id ="28">Because they do not possess life.</sent>
+				<sent id ="29">The unity and diversity among the animals are not occurring automatically.</sent>
+				<sent id ="30">Behind it there is a Creator.</sent>
+				<sent id ="31">All the things of this universe are the creation of this great Creator.</sent>
+				<sent id ="32">We call this Creator as Ishwara or God.</sent>
+				<sent id ="33">The varied things or beings of the creation are related to each other in many ways.</sent>
+				<sent id ="34">What Ishwara or God does is called Lila i. e, a sort of sport.</sent>
+				<sent id ="35">What is done by God is known as the sport or the Lila of God.</sent>
+				<sent id ="36">The variety and the wonderful harmony and beauty in various beings and things around us is the beauty of God.</sent>
+				<sent id ="37">In short, God exists in man and nature i. e. in all things.</sent>
+				<sent id ="38">In our worldly life and for the beauty and equilibrium of the environment the necessity of trees, plants and creepers knew no bounds.</sent>
+				<sent id ="39">That is why we plant trees and creepers, we nurse and preserve them with proper care and attention.</sent>
+				<sent id ="40">Our original religious scripture is the Veda.</sent>
+				<sent id ="41">In the hymns of the Vedas, there are some mantras about the vandana or praise of the trees and creepers.</sent>
+				<sent id ="42">In the Rigveda, the Oshadhi or one time crop- yielding trees and plants were praised depiction them as good as a mother.</sent>
+				<sent id ="43">After the Vedic age the tradition of worship and adoration of trees is noticeable in the Pouranic age also.</sent>
+				<sent id ="44">In side of the banyan tree Devi Durga resides with this belief in mind the worship of Vanadurga (the forest goddess) is still prevailed.</sent>
+				<sent id ="45">Through religious formalities and performances planting of the Ashwatha tree (an Indian big tree considered as sacred) is a prevailing tradition.</sent>
+				<sent id ="46">For human life trees are of bare necessity.</sent>
+				<sent id ="47">From that point of view the devinity and importance of the trees and plants has been realized.</sent>
+				<sent id ="48">Within the Ashwatha tree Sri Vishnu (the supreme god of preservation) himself resides.</sent>
+				<sent id ="49">It means: O the pious tree, You are a great god in the form of the Ashwatha tree.</sent>
+				<sent id ="50">You are Vishnu (the god of preservation).</sent>
+				<sent id ="51">I salute You.</sent>
+				<sent id ="52">Ishwara (God) preserves us taking the form of the god Vishnu.</sent>
+				<sent id ="53">Trees are also helpful for our lives.</sent>
+				<sent id ="54">So the trees have been worshipped and adored as the god Vishnu.</sent>
+				<sent id ="55">Different gods and goddesses love different kind of flowers.</sent>
+				<sent id ="56">For example, the god Vishnu loves the Tulsi leaf ( the leaf of the basil).</sent>
+				<sent id ="57">To cure so many diseases leaf or juice of Tulsi is very effective.</sent>
+				<sent id ="58">Through ages so many poets have composed their poems on the beauty of trees, creepers, flowers and leaves.</sent>
+				<sent id ="59">Adoring trees with special emphasis, vishwakavi (world famous poet) Rabindranath Tagore wrote a lot of poems especially praising trees.</sent>
+				<sent id ="60">In his Vanavani, Mahua and many other collection of poems, a lot of poems on this topic have been collected.</sent>
+				<sent id ="61">Ishwara exists in the trees and plants as life.</sent>
+				<sent id ="62">So not only considering the necessity and usefulness but as the manifestation of God we should love them and look after them.</sent>
+				<sent id ="63">Precisely the great Creator exists in all this creation including trees and plants.</sent>
+				<sent id ="64">So we should love the creation realizing the existence of the Creator in it.</sent>
+				<sent id ="65">And we know, if we love the creation it will be similar to the love of God.</sent>
+				<sent id ="66">Atma expresses His image and greatness to him who is considered by Him (Atma) as describing one.</sent>
+				<sent id ="67">Meaning : I see all the demigods and various other living entities assembled in your body.</sent>
+				<sent id ="68">I see god Brahma sitting on lotus as well as Lord Shiva and all sages and divine serpents.</sent>
+				<sent id ="69">Meaning: I see all people rushing into your mouths as insects plunge into a blazing fire for death.</sent>
+				<sent id ="70">We may see one another through the eyes of friendship.</sent>
+				<sent id ="71">Meaning : O goddess, you remove the sorrow who surrender to you.</sent>
+				<sent id ="72">You be pleased with him.</sent>
+				<sent id ="73">O, mother of the universe, owner of the universe, be pleased and save the world.</sent>
+				<sent id ="74">I salute you, oh, Sharvani (wife of Shiva) Oh, Ishani (wife of Ishan or shiva) Oh Indrani.</sent>
+				<sent id ="75">You are Ishwari, the wife of Ishwara.</sent>
+				<sent id ="76">You are Aparna, Abhaya you have no fear, you are Annapurana as you always possess food.</sent>
+				<sent id ="77">You are jaya or victorious.</sent>
+				<sent id ="78">You are Maheshwari, you are Mahamaya as you are the mother god of magic and illusion.</sent>
+				<sent id ="79">You are sometimes very furious, you are Uma, you make Ashutosha (shiva) pleased as your consort.</sent>
+				<sent id ="80">You are undefeated and you are Urvashi, a nymph of the heaven.</sent>
+				<sent id ="81">You are a great queen and queen of the kingdom of all the kings.</sent>
+				<sent id ="82">You have a pleasing personality at the same time you have a great power and skill in war.</sent>
+				<sent id ="83">As the consort of Lord Shiva you are called as Shankari, Shiva.</sent>
+				<sent id ="84">You resemble a girl of sixteen, hence you are Shorashi.</sent>
+				<sent id ="85">Oh mother Parvati, I am very poor, and distressed always in anxiety, like water on the leave of lotus, always crippled in fear.</sent>
+				<sent id ="86">My troubles make you worried and embarrassed, I am sorry for this.</sent>
+				<sent id ="87">Oh Abhaya, (fearless), be kind to me and help me in crossing the sea of the troublesome worldly life.</sent>
+				<sent id ="88">Shwetashwatara Upanishad : It is one of the twelve Vedic Upanishads such as Isha, Katha, Kena etc.</sent>
+				<sent id ="89">Origin of life, our present position, our future life.</sent>
+				<sent id ="90">after death and destruction of the world these three are the principal topics of discussion of the Shwetashwatara Upanishad.</sent>
+				<sent id ="91">Here God or absolute power is determined as the root cause of the creation, preservation and destruction.</sent>
+				<sent id ="92">This Upanishad is written in verse fully.</sent>
+				<sent id ="93">Kathopanishad : Katha +Upanishad.</sent>
+				<sent id ="94">Kathopanishad is a part of the katha Brahman of the Taittiriya branch of the krishna (black) Yajurveda.</sent>
+				<sent id ="95">For this it was named, as Kathopanishad.</sent>
+				<sent id ="96">In this Upanishad through the episode of Yama and Nachiketa, the philosophy about the soul is discussed.</sent>
+				<sent id ="97">It has got a simile with the description about soul in the Gita in this regard.</sent>
+				<sent id ="98">Shrimadbhagavat Gita : Shrimadbhagavatgita is a part of the chapter named.</sent>
+				<sent id ="99">Bhishmaparva of the Mahabharata and which was composed by the great sage Krishna Dwaipayan Vedavyasa.</sent>
+				<sent id ="100">There are 18 chapters in the Gita (Shrimadbhagavatgita is called as Gita, in short).</sent>
+				<sent id ="101">The Gita is the gist of all Upanishads.</sent>
+				<sent id ="102">On the eve of the battle of Kurukshetra what ever Lord Shrikrishna said to Arjun is known as the Gita.</sent>
+				<sent id ="103">As it is sung or told by Lord or God or Bhagwan, so it is named as Shrimadbhagavatgita.</sent>
+				<sent id ="104">The Gita the scripture of the Hindus is to be read everyday.</sent>
+				<sent id ="105">Yajurveda : Yajurveda is one of the four Vedas.</sent>
+				<sent id ="106">It is divided into two parts.</sent>
+				<sent id ="107">Shukla and Krishna.</sent>
+				<sent id ="108">The Shuklayajurveda is in verse fully.</sent>
+				<sent id ="109">Krishnayajurveda is composed in prose, the subject matter of the Yajurveda is the Yajna or sacrificial ceremonies and rites.</sent>
+				<sent id ="110">Shrishri Chandi : Shrishri Chandi is a part of the Markandeya Purana.</sent>
+				<sent id ="111">Another name of the Chandi is Saptashati i. e. a book of seven hundred verses or mantras.</sent>
+				<sent id ="112">An integral part of the Durgapuja is the recitation of the Chandi.</sent>
+				<sent id ="113">For example Durgastotra, Saraswatistotra Shivastotra, Vishnustotra etc.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

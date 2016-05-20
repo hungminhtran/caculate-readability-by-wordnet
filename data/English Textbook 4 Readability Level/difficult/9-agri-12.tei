@@ -1,0 +1,140 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.266</idno>
+				<idno type="Number of sentences">112</idno>
+				<idno type="Number of tokens">1628</idno>
+				<idno type="Number of token types">597</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t4">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Shrimp is an important fisheries resource.</sent>
+				<sent id ="2">It is joint footed invertebrate aquaticanimal.</sent>
+				<sent id ="3">Out of the quantity of fish and fish products that are exported every year 90% is shrimp.</sent>
+				<sent id ="4">crore was earned during 2006-2007 by exporting fish and shrimp.</sent>
+				<sent id ="5">Out of this, the amount earned from shrimp is TK 2992.33 crores.</sent>
+				<sent id ="6">At that time, the quantity of fish and fish products exported was 73,704 thousand metric ton.</sent>
+				<sent id ="7">Out of these, the quantity of shrimp was 53,361 thousand metric ton.</sent>
+				<sent id ="8">There are 2.20 Lac hectares of land suitable for culture in coastal region of the southern part of the country, Out of these;</sent>
+				<sent id ="9">shrimp has been cultured in almost 1.10 Lac hectares of land in traditional method, where annual average production per hectare was only 180-200 kg.</sent>
+				<sent id ="10">During 2006-2007 the average production per hectare in a year has gone up to 399 kgs.</sent>
+				<sent id ="11">This is very low in comparison with other countries.</sent>
+				<sent id ="12">In one season (6 month) 5-6 tons per hectare can be produced if it is cultivated in-semi intensive system.</sent>
+				<sent id ="13">Recently this system of cultivation has been followed in some shrimp farm of the country.</sent>
+				<sent id ="14">If this system is extended, it will be possible to earn a few thousand crores taka of foreign exchange every year by exporting shrimp.</sent>
+				<sent id ="15">There are 60 species of shrimp in the reservoirs of water of Bangladesh.</sent>
+				<sent id ="16">Out of these only a few species are profitable for cultivation.</sent>
+				<sent id ="17">Galda prawns are cultured in fresh water.</sent>
+				<sent id ="18">This type prawn becomes very big.</sent>
+				<sent id ="19">One Galda can weigh up to 250-400 gm.</sent>
+				<sent id ="20">Out of saline water shrimps the Bagda shrimps are widely cultivated in coastal region.</sent>
+				<sent id ="21">It is known as Black Tiger.</sent>
+				<sent id ="22">Chaka shrimps can also be cultivated in saline water.</sent>
+				<sent id ="23">Galda looks like green to almond or blackish colour.</sent>
+				<sent id ="24">2-5 blackish crosswise belt can be found on the carapace.</sent>
+				<sent id ="25">The rostrum is long and curved and notched in lower side.</sent>
+				<sent id ="26">The number of notches, in case of male Galda the number of upper side and 11-14 in the lower side.</sent>
+				<sent id ="27">In case of female Galda the number of notches is 12-13 in the upper side and 5-7 in the lower side.</sent>
+				<sent id ="28">The cephalothoraxes of the prawn is large.</sent>
+				<sent id ="29">The legs of Galda are long.</sent>
+				<sent id ="30">The first and second pair of legs are spiny.</sent>
+				<sent id ="31">The second pair of legs of male Galda is longer than that of female lobster.</sent>
+				<sent id ="32">The colour of the Bagda is light almond of green.</sent>
+				<sent id ="33">Its body has black strips like tiger.</sent>
+				<sent id ="34">So it is called Black Tiger.</sent>
+				<sent id ="35">Red stains can be found from the front to the end of the, body of the, young Bangda.</sent>
+				<sent id ="36">The colour of these stains in bigger fries light green.</sent>
+				<sent id ="37">The rostrum of Bangda Shrimp is curved and wide.</sent>
+				<sent id ="38">It has got 8 notches in the upper side and 3 notches in the lower side.</sent>
+				<sent id ="39">The young Chaka shrimp is light white and the tip of the rostrum is pinkish.</sent>
+				<sent id ="40">The rostrum of the adult shrimp is erect and curved.</sent>
+				<sent id ="41">It has got 8-10 notches in the upper side and more than 3 notches in the lower side.</sent>
+				<sent id ="42">Galda can be cultured in the pond singly of with Ruhi, Katla as mixed culture.</sent>
+				<sent id ="43">Here single farming of Galda is discussed.</sent>
+				<sent id ="44">As the pond of shrimp culture requires availability of plenty of oxygen, the water of the pond needs to be changed off and on.</sent>
+				<sent id ="45">For this, the pond area has to be selected near rivers, canals of tube wells.</sent>
+				<sent id ="46">Loam, clay loam or clay soils are suitable of shrimp culture.</sent>
+				<sent id ="47">There should not be big trees on the bank of the pond so that enough sunlight can enter into the pond.</sent>
+				<sent id ="48">The area of the pond should be from 10 decimal to 1 acre-and the depth should be 1-1.5 metre.</sent>
+				<sent id ="49">First of all the pond should be dried.</sent>
+				<sent id ="50">By doing this, the predator fish and other unwanted fish will be eradicated.</sent>
+				<sent id ="51">As a result of entering sunrays to bottom of the pond poisonous gas and germs of diseases will be destroyed If the pond cannot be dries, rotenon at the rate of 3 gm.</sent>
+				<sent id ="52">per cu metre may, be applied to eradicate the predator fish.</sent>
+				<sent id ="53">After predator fish are eradicated, lime at the rate of 1 kg per decimal should be applies.</sent>
+				<sent id ="54">After 5-7 days of application of lime cow-dung at the rate of 5 kg/decimal or poultry excreta at the rate of 3 kg/decimal, urea 100 gm.</sent>
+				<sent id ="55">TSP 50 gm.</sent>
+				<sent id ="56">and MP 20 gm should be applied.</sent>
+				<sent id ="57">Usually 5-7 days after application of fertilizer when the colour of the water becomes light green prawn fries should be released, the number of fries to be stored depends on fertility of the soil of the pond, quality of water, supplementary food and management.</sent>
+				<sent id ="58">In cash of single culture of Galda under general management 10,000 fries can be released per acre.</sent>
+				<sent id ="59">Fries can be stored at higher rate if good water management and balanced diet is ensured, Transportation of prawn fries and releasing system in the pond are as like as carp fish as mentioned in the previous chapter.</sent>
+				<sent id ="60">Total nutrition can not be available from the natural food produced as a result of application of fertilizer.</sent>
+				<sent id ="61">Supplementary food should be supplied for their quick growth and nourishment.</sent>
+				<sent id ="62">Really the success of prawn culture depends on the supply of supplementary feed.</sent>
+				<sent id ="63">The different ingredients and their quantity are given below to prepare 1 kg supplementary feed.</sent>
+				<sent id ="64">Food should be supplied daily the rate, 4% of the total weight of the stored prawn.</sent>
+				<sent id ="65">The required food should be given in the evening.</sent>
+				<sent id ="66">Depending on the age of the prawn the daily requirement of food 1000 young prawn is given in the following list.</sent>
+				<sent id ="67">Fertilizer should, be applied to the pond to supply natural food in addition to supplying supplementary food.</sent>
+				<sent id ="68">After every two weeks cow dung 15 kg, urea 6 kg.</sent>
+				<sent id ="69">TSP 2.5 kg. and M.P. 1 kg.</sent>
+				<sent id ="70">Per acre should be applied.</sent>
+				<sent id ="71">These fertilizers should be soaked in water, 3 times in quantity of fertilizer in a pot.</sent>
+				<sent id ="72">For 12 hours and then, after mixing properly should be spread in the pond after 2-3 hours of sunrise.</sent>
+				<sent id ="73">The prawn becomes weak after they change their sloughs.</sent>
+				<sent id ="74">At this there is apprehension o attack by other creatures.</sent>
+				<sent id ="75">For this reason some leafless branches of trees and bamboo may be fixed in the ground of the pond.</sent>
+				<sent id ="76">Shrimps take their shelters in those places.</sent>
+				<sent id ="77">Generally prawns become suitable for marketing within 6-7 months.</sent>
+				<sent id ="78">When 10-15 prawns weigh 1 kg.</sent>
+				<sent id ="79">Then can be sold out.</sent>
+				<sent id ="80">Using nets of wider loops can catch beg prawns.</sent>
+				<sent id ="81">The suitable time for catching prawns are during the time of full moon and having new moon.</sent>
+				<sent id ="82">This time the sloughs become hard.</sent>
+				<sent id ="83">During collection of prawns those should be kept with ice under shade and to be sold out quickly.</sent>
+				<sent id ="84">Production of Galdas at the rate of 8-10 kg per decimal is possible if cultivated as per above-mentioned management.</sent>
+				<sent id ="85">There are vast coastal areas in the southern part of Bangladesh.</sent>
+				<sent id ="86">This area extends from Satkhira to Cox's Bazar.</sent>
+				<sent id ="87">Culture together of the fries of shrimps and fish those come, with of tide in the coastal embankments areas is called traditional method of shrimp culture.</sent>
+				<sent id ="88">Per decimal production, in this case, is about 700 gm.</sent>
+				<sent id ="89">Such type of culture does not require change of water, supply of food or fertilizer.</sent>
+				<sent id ="90">The duration of culture is 5-6 month and the area of the farm is 40-50 hectare.</sent>
+				<sent id ="91">Culture of shrimps like Bagda, Chaka etc. in saline water after controlling predator fish and other unwanted creatures is called improved light culture.</sent>
+				<sent id ="92">In this case water is filtered through a net place in the mouth of the enclosure during high tide.</sent>
+				<sent id ="93">The water has to be, changed off and on.</sent>
+				<sent id ="94">The enclosure prepared by applying lime and fertilizer and afterwards food is supplied.</sent>
+				<sent id ="95">This system is also called improved traditional method.</sent>
+				<sent id ="96">In this method fishes are cultured after controlling predator fish, the detrimental, creatures and other lives.</sent>
+				<sent id ="97">Bagda fries are released at the rate of 7500- 15000 numbers per acre and nursed.</sent>
+				<sent id ="98">In this case management like pond preparation, release of good young shrimps, application of required food, change of water and supply of oxygen to the water are done.</sent>
+				<sent id ="99">This type of farming produced shrimps up to 20 kg per decimal.</sent>
+				<sent id ="100">Shrimp Culture in Enclosure (Gher) by Improved Shrimp Culture Method It is not possible now to introduce semi-intensive or intensive culture method in the extensive areas of shrimp, culture.</sent>
+				<sent id ="101">So attempts have been taken to increase production by improving the traditional, method of culture.</sent>
+				<sent id ="102">This type of culture is called improved light culture.</sent>
+				<sent id ="103">Generally, shrimp culture is practice in big enclosure of saline water in the embankments of the southern coastal region.</sent>
+				<sent id ="104">For effective management the big enclosure is divided into small ponds of 2-3 acres each by making ridges.</sent>
+				<sent id ="105">This type of pond is called enclosure of Gher.</sent>
+				<sent id ="106">In improved light culture method an arrangement for setting net in the entrance of the Gher has to be done to avoid entry of predators or unwanted fish.</sent>
+				<sent id ="107">The environment of the Gher can be kept well if the depth of water of the Gher maintained at 0.80-1 metre , After preparing the Gher.</sent>
+				<sent id ="108">by controlling predators and applying lime and fertilizer young Bagdas fries are stored.</sent>
+				<sent id ="109">Generally young, shrimps Bagdas are stored during the month of February; Young Bagdas are stored up to 200 numbers per decimal.</sent>
+				<sent id ="110">After storing the fries supplementary food is supplied at the same time natural food is also ensured by applying fertilizers.</sent>
+				<sent id ="111">The water has to be changed every month to maintain the quality of water salinity and environment of the Gher in right condition.</sent>
+				<sent id ="112">Following this method of culture 8-10 kg of Bagda shrimp per decimal can be produced in 7-8 months.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

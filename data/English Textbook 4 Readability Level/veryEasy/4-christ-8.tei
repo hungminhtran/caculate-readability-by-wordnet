@@ -1,0 +1,89 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.946</idno>
+				<idno type="Number of sentences">61</idno>
+				<idno type="Number of tokens">526</idno>
+				<idno type="Number of token types">251</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t63">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Jesus Power of Control Over Nature Nature is a force.</sent>
+				<sent id ="2">It is there all around us.</sent>
+				<sent id ="3">But we cannot see it.</sent>
+				<sent id ="4">We can see only the work of nature.</sent>
+				<sent id ="5">For example, the wind blows everywhere.</sent>
+				<sent id ="6">But we cannot see it with the eyes.</sent>
+				<sent id ="7">God has created these objects of nature for us.</sent>
+				<sent id ="8">The power of nature has come from God.</sent>
+				<sent id ="9">Therefore, nature obeys Jesus.</sent>
+				<sent id ="10">In this chapter we will read Jesus power of control over nature.</sent>
+				<sent id ="11">You must have seen a storm.</sent>
+				<sent id ="12">Wind blows very hard during a storm.</sent>
+				<sent id ="13">Sometimes plants and trees are uprooted and houses and buildings are razed to the ground.</sent>
+				<sent id ="14">Sometimes the storm creates huge waves in the river.</sent>
+				<sent id ="15">Otherwise, these will sink into the water and cause a loss of many lives.</sent>
+				<sent id ="16">Scientists have made many useful inventions for us.</sent>
+				<sent id ="17">They went to the moon.</sent>
+				<sent id ="18">They sent satellites to the planet Mars.</sent>
+				<sent id ="19">These satellites send back to the earth pictures of the planet.</sent>
+				<sent id ="20">Thus we can know a lot of things about the planet.</sent>
+				<sent id ="21">Scientific inventions like the computer, aeroplane, radio and television are very much useful to us.</sent>
+				<sent id ="22">All these inventions prove man's great power or ability of doing things.</sent>
+				<sent id ="23">But man has no power to stop or calm down a storm.</sent>
+				<sent id ="24">Only Jesus has the power to do so.</sent>
+				<sent id ="25">Jesus was born in the form of a human being.</sent>
+				<sent id ="26">But in reality he is God.</sent>
+				<sent id ="27">God created everything only by a command.</sent>
+				<sent id ="28">Jesus can also do everything by a command.</sent>
+				<sent id ="29">Jesus has the power to calm a storm only by a command.</sent>
+				<sent id ="30">So they set out.</sent>
+				<sent id ="31">Suddenly a strong wind blew up and the boat was about to sink.</sent>
+				<sent id ="32">At this the disciples got frightened.</sent>
+				<sent id ="33">They went to Jesus and woke him up.</sent>
+				<sent id ="34">Because Jesus is God and he can control anything.</sent>
+				<sent id ="35">Jesus got up and gave an order to the wind.</sent>
+				<sent id ="36">Then and there storm and the wane call med down.</sent>
+				<sent id ="37">Then Jesus said to his disciples, Why are you frightened?</sent>
+				<sent id ="38">Where is your faith?</sent>
+				<sent id ="39">The disciples could not make out anything.</sent>
+				<sent id ="40">They were amazed and afraid, and said to one another, Who is this man?</sent>
+				<sent id ="41">He gives orders to the winds and waves, and they obey him!</sent>
+				<sent id ="42">We are filled with wonder as we read the story above.</sent>
+				<sent id ="43">No man can stop a storm.</sent>
+				<sent id ="44">Only Jesus can do it because he is a man as well as God.</sent>
+				<sent id ="45">The storm and the sea obey him.</sent>
+				<sent id ="46">Not only that, everything on the earth obeys him.</sent>
+				<sent id ="47">Because he is Almighty!</sent>
+				<sent id ="48">Jesus can heal the sick.</sent>
+				<sent id ="49">He can cause the dumb to speak.</sent>
+				<sent id ="50">He can make a lame man walk.</sent>
+				<sent id ="51">He can cure a man suffering from leprosy.</sent>
+				<sent id ="52">He can even give life to a dead man.</sent>
+				<sent id ="53">Those who have faith in Jesus do not face any danger.</sent>
+				<sent id ="54">Because Jesus always protect them.</sent>
+				<sent id ="55">We will put our faith in Jesus.</sent>
+				<sent id ="56">We will bear in mind that Jesus is the source of all power.</sent>
+				<sent id ="57">We learn from the story that Jesus can do miracle with his power.</sent>
+				<sent id ="58">He is Almighty.</sent>
+				<sent id ="59">He loves us.</sent>
+				<sent id ="60">He is always with us and saves us from any danger.</sent>
+				<sent id ="61">We must always keep faith in him.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

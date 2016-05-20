@@ -1,0 +1,142 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.867</idno>
+				<idno type="Number of sentences">114</idno>
+				<idno type="Number of tokens">1502</idno>
+				<idno type="Number of token types">506</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t127">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In a transparent medium light goes in a straight line with a definite velocity.</sent>
+				<sent id ="2">When it goes from a transparent medium to a less transparent one, a certain portion of light is absorbed and rest of it is reflected.</sent>
+				<sent id ="3">But what happens if light passes from a transparent medium to another transparent medium?</sent>
+				<sent id ="4">Does its velocity remain the same?</sent>
+				<sent id ="5">We shall discuss these issues in this chapter.</sent>
+				<sent id ="6">Take a glass and fill half of it with water.</sent>
+				<sent id ="7">Dip a portion of your pencil in it and incline it slightly.</sent>
+				<sent id ="8">How does the pencil look?</sent>
+				<sent id ="9">It looks bent.</sent>
+				<sent id ="10">We know that we see anything when light from the thing comes to our eyes.</sent>
+				<sent id ="11">Here light from the pencil under water comes from one transparent medium-water to another transparent medium-air and then comes to our eyes.</sent>
+				<sent id ="12">The pencil is seen bent; that means light rays must have been bent in course of its journey from water to air.</sent>
+				<sent id ="13">If it took the same straight path in water and air, the pencil would look straight too.</sent>
+				<sent id ="14">So it can be concluded that light rays in passing from one transparent medium (water) to another transparent medium (air) alter their directions.</sent>
+				<sent id ="15">Such changes in the directions of light are called refraction of light.</sent>
+				<sent id ="16">In a transparent medium light goes in a straight line.</sent>
+				<sent id ="17">So change of its direction takes place at the bordering line where the two media meet.</sent>
+				<sent id ="18">Let us do an experiment to know which way the direction of light rays should change, when it passes from one medium to another.</sent>
+				<sent id ="19">Take a rectangular glass slab and place it on a white paper on a table.</sent>
+				<sent id ="20">Draw its outline ABCD by a pencil (Fig. 12.1).</sent>
+				<sent id ="21">On one side of the slab place two pins p1 and p2 straight obliquely.</sent>
+				<sent id ="22">With a pencil mark the positions of the pins on papers.</sent>
+				<sent id ="23">Join OQ and draw perpendiculars NON1 and N2QN3 at the points O and Q respectively.</sent>
+				<sent id ="24">Here, p1p2 is a light ray coming from air medium that falls on glass medium at O which is called point of incidence.</sent>
+				<sent id ="25">This ray is called incident ray.</sent>
+				<sent id ="26">Incident ray makes the angle P1ON with the perpendicular NONThis angle is called incident angle.</sent>
+				<sent id ="27">OQ is the ray in the glass medium corresponding to the incident ray P1O.</sent>
+				<sent id ="28">Again it changes direction at the point Q and goes along Qp3p.</sent>
+				<sent id ="29">The path of the light ray is along p1p2 OQ p3p4.</sent>
+				<sent id ="30">This is the rule followed by light rays when refraction takes place.</sent>
+				<sent id ="31">What happens when light goes normally from one medium to another?</sent>
+				<sent id ="32">There will be no refraction or bending of light, as such both the angles of incidence and refraction are zero.</sent>
+				<sent id ="33">So, we see that refraction obeys some laws.</sent>
+				<sent id ="34">For light falling normally on the plain of separation refracted light does not change direction.</sent>
+				<sent id ="35">Why do light rays entering from one medium to another change direction?</sent>
+				<sent id ="36">The reason for this is that velocity of light is not the same in all media.</sent>
+				<sent id ="37">Light travels at 3,00,000 km/s in vacuum and is almost the same in air.</sent>
+				<sent id ="38">This velocity is the highest.</sent>
+				<sent id ="39">But in glass medium it travels at 1,80,000km/s.</sent>
+				<sent id ="40">Light has a peculiar characteristic.</sent>
+				<sent id ="41">Light takes the path which will take the least time to travel.</sent>
+				<sent id ="42">But if light takes ADB path then in water it goes DB distance.</sent>
+				<sent id ="43">Now, the length of CB is greater than the length DB.</sent>
+				<sent id ="44">In water medium velocity of light is less, so greater time is necessary if light follows ACB path.</sent>
+				<sent id ="45">Therefore light chooses the special path ADB for which time taken is least.</sent>
+				<sent id ="46">How much the light ray will bend depends upon velocity in the second medium greater is the bending.</sent>
+				<sent id ="47">The velocity of light is less in glass than in that of water.</sent>
+				<sent id ="48">So, when light enters from air to glass light bends more than when it enters from air to water.</sent>
+				<sent id ="49">Take some water in a cup and dip a stick obliquely in it.</sent>
+				<sent id ="50">The stick is seen bent when looked from above.</sent>
+				<sent id ="51">Light from a point in the dipped portion comes from water to air medium i.e. from denser to rarer medium.</sent>
+				<sent id ="52">Therefore, according to law of refraction it will go away from the normal (Fig. 12.3).</sent>
+				<sent id ="53">As light rays AC and AD incident from A, they go to EF and DG respectively.</sent>
+				<sent id ="54">When produced backward they meet at A?.</sent>
+				<sent id ="55">So A? will be the virtual image of A. As a result it will appear that point A has been raised to A?.</sent>
+				<sent id ="56">In this way all the points from the dipped portion appears to have raised a little .</sent>
+				<sent id ="57">Therefore either the stick will appear to be bent at the point of separation of the air and water.</sent>
+				<sent id ="58">It will be seen a bit short too.</sent>
+				<sent id ="59">Place a coin say, a 25 paisa coin, in a cup.</sent>
+				<sent id ="60">Place your eyes along the edge of the cup in such a way that the coin just goes out of your sight.</sent>
+				<sent id ="61">In such a position of eye pour water in the cup. the coin will be visible.</sent>
+				<sent id ="62">Light rays from the coin dipped in water travels from water to air i.e. from denser to rarer medium.</sent>
+				<sent id ="63">So after refraction they go away from normal and form virtual image at Q.</sent>
+				<sent id ="64">place a thick glass slab on it.</sent>
+				<sent id ="65">See it from above, the mark O appears to be raised at O (Fig 12.5).</sent>
+				<sent id ="66">Rays of light OA and OB from the coin change directions due to refraction and go as AC and BD when enter into air medium.</sent>
+				<sent id ="67">AC and BD if extended backward should meet at a point O?.</sent>
+				<sent id ="68">So it appears that point O is raised to O?.</sent>
+				<sent id ="69">For the same reason a tank full of water appears raised at the bottom when looked at straight from above.</sent>
+				<sent id ="70">It appears that the depth of the tank has been decreased.</sent>
+				<sent id ="71">Objects situated in water can not be located exactly.</sent>
+				<sent id ="72">Because the fish is not there, it only appears to be there.</sent>
+				<sent id ="73">In reality the fish is at a bit bellow the place you see.</sent>
+				<sent id ="74">Refraction of light through lenses is used to make many instruments like camera, projector, telescope, microscope etc.</sent>
+				<sent id ="75">Spectacles which are used for correcting vision work on refraction of light.</sent>
+				<sent id ="76">For this retracted angle in rarer medium becomes greater than the angle of incidence in the denser medium.</sent>
+				<sent id ="77">Now increase angle of incidence, refracted angle will increase too.</sent>
+				<sent id ="78">This particular angle of incidence is called critical angle.</sent>
+				<sent id ="79">What happens if the angle of incidence is increased more than the critical angle?</sent>
+				<sent id ="80">Then the angle of refraction must be greater than 90.</sent>
+				<sent id ="81">But this angle can not be greater than 90 for it is the angle in a single medium.</sent>
+				<sent id ="82">So the ray will not enter rarer medium any more, instead it comes back to the same medium like reflection obeying its laws.</sent>
+				<sent id ="83">This case of refraction is called total internal reflection.</sent>
+				<sent id ="84">In a number of light rays have been drawn.</sent>
+				<sent id ="85">These rays enter form denser medium below to rarer medium air.</sent>
+				<sent id ="86">XY is their plain of separation.</sent>
+				<sent id ="87">NON? is the normal drown on XY plain.</sent>
+				<sent id ="88">Ray AO incidents at O and goes away from normal along OA?.</sent>
+				<sent id ="89">But ray BO goes along the plain of separation OB after being refracted and makes 90 angle of refraction.</sent>
+				<sent id ="90">Corresponding to this angle of refraction the angle of incidence is <BON?.</sent>
+				<sent id ="91">And the angle of reflection is <NOY So angle <BON?</sent>
+				<sent id ="92">=?c is the critical angle for this pair of media.</sent>
+				<sent id ="93">For incident ray CO angle of incidence is greater than the critical angle.</sent>
+				<sent id ="94">Therefore this ray will not be refracted, instead will be reflected along OC and come back to water.</sent>
+				<sent id ="95">This is known as total internal reflection.</sent>
+				<sent id ="96">This is called total internal reflection.</sent>
+				<sent id ="97">Why is the internal reflection called total reflection?</sent>
+				<sent id ="98">Because, in ordinary reflection a part of light is reflected, and a part is refracted.</sent>
+				<sent id ="99">But in total reflection all the total amount of light is reflected, no part is refracted.</sent>
+				<sent id ="100">Can you think of any other ifference between them?</sent>
+				<sent id ="101">Mirage is a natural example of total internal reflection.</sent>
+				<sent id ="102">The sand of the desert becomes very hot at day time by intense sun light.</sent>
+				<sent id ="103">The surrounding air layers also become hot and hence lighter.</sent>
+				<sent id ="104">The temperature above decreases.</sent>
+				<sent id ="105">So air layers are dense as we go above.</sent>
+				<sent id ="106">Light coming from a distant high tree passes from denser to rarer medium gradually.</sent>
+				<sent id ="107">Due to rapid change of temperature density of air layer changes too.</sent>
+				<sent id ="108">Light coming through air of changing density changes the direction.</sent>
+				<sent id ="109">It makes the traveler take this trembling and reverse image of tree as the reflection of a tree on water surface.</sent>
+				<sent id ="110">So the tired and thirsty traveler is compelled to believe that there must be some oasis near the image.</sent>
+				<sent id ="111">He goes there for water but does not get any.</sent>
+				<sent id ="112">This optical illusion is called mirage.</sent>
+				<sent id ="113">In intense sunshine a pitched road sometime may appears to be wet and shining.</sent>
+				<sent id ="114">This is due to the same optical illusion described as above.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

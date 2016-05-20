@@ -1,0 +1,193 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-budh-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.307</idno>
+				<idno type="Number of sentences">165</idno>
+				<idno type="Number of tokens">2317</idno>
+				<idno type="Number of token types">876</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t34">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Prince Siddhartha or Gautama Buddha was born at Kapilavastu, a small kingdom situated at the foot of the Himalayas.</sent>
+				<sent id ="2">His father was the king of the Sakya clan.</sent>
+				<sent id ="3">He attained supreme Enlightenment and became the Buddha at the age of 35 in 588 B.C.</sent>
+				<sent id ="4">He passed away into Parinibbana at Kusinara in 543 B. C. The truth that He discovered through Enlightenment were the Four Noble Truths.</sent>
+				<sent id ="5">The Noble Eight-fold path is a part and parcel of this truth.</sent>
+				<sent id ="6">Even no other great men could find out this truth before He discovered it.</sent>
+				<sent id ="7">He attained the supreme knowledge by Himself and proclaimed the same to all living beings for their benefit.</sent>
+				<sent id ="8">Thus He became the Samma Sambuddha, the most Perfected One.</sent>
+				<sent id ="9">The Buddha introduced very simple rules for those who, being convinced by His teachings and messages wanted to embrace the new religion.</sent>
+				<sent id ="10">In it lies primarily, the simple and easy principle of socialism.</sent>
+				<sent id ="11">The Buddha Himself was a great humanist.</sent>
+				<sent id ="12">The social reformation at that time was only possible through democratic revolutions.</sent>
+				<sent id ="13">He played a significant role for social reformations to establish equality among the people living in the society.</sent>
+				<sent id ="14">In this respect, He extensively attacked the Brahmins who claimed superiority, over others by birth.</sent>
+				<sent id ="15">A nice example is found in the Madhura Sutra included in the Majjhima Nikaya of the Tripitaka.</sent>
+				<sent id ="16">Here is the summary : Once the Bhikkhu Kaccayana was staying at Brindabana very close to Mathura.</sent>
+				<sent id ="17">By this time Avantiputra, the king of Mathura went to him and asked, Venerable kaccayana, the Brahmins are superior by castes while others are inferiors.</sent>
+				<sent id ="18">The Brahmins can free themselves from worldly bondage but not the others.</sent>
+				<sent id ="19">The Brahmins have come out of the mouth of the Brahma (the creator).</sent>
+				<sent id ="20">What is your idea about this?</sent>
+				<sent id ="21">Kaccayana replied, Your excellency, this is nothing but as sound or baseless speech.</sent>
+				<sent id ="22">Yes, Venerable Kaccayana, the people of these four castes must come forward to serve him.</sent>
+				<sent id ="23">The king agreed that in that case the people of the four castes would come to serve him must.</sent>
+				<sent id ="24">Then Venerable Kaccayana said, Does it not prove that all men are equal?</sent>
+				<sent id ="25">If so, said the king, all men of the four castes are equal.</sent>
+				<sent id ="26">So have I told you that, said Kaccayana, the superiority of the Brahmins is mere a sound or baseless speech.</sent>
+				<sent id ="27">Venerable Kaccayana again said, If anybody of the four castes commits sin by killing living being must suffer in return.</sent>
+				<sent id ="28">After a long discussions on various aspect the king Avantiputra agreed that all men of the four castes are equal.</sent>
+				<sent id ="29">Thus in the eyes of the Buddha there was no difference among the people of the four castes.</sent>
+				<sent id ="30">The Buddha strongly protested the idea of the Brahmins who claimed their superiority merely on the basis of birth and refuted it with strong reasonability.</sent>
+				<sent id ="31">To the Buddha the power of character makes a man virtuous or a beast.</sent>
+				<sent id ="32">The real identity of a man is revealed by his character and not by his birth.</sent>
+				<sent id ="33">There are so many nice stories relating to the Buddha with the Brahmins.</sent>
+				<sent id ="34">The Buddha, throughout his life, struggled to establish the equal rights of the people hailing form Brahmins and non-Brahmins.</sent>
+				<sent id ="35">Here is another story in this respect: Once the Buddha appeared before a Brahmin with his alms-bowl.</sent>
+				<sent id ="36">The Brahmin was a cultivator.</sent>
+				<sent id ="37">He felt annoyed and advised the, Buddha to earn livelihood by cultivation like him.</sent>
+				<sent id ="38">In a very mild tone the Buddha replied that he was also a cultivator.</sent>
+				<sent id ="39">But instead of land He cultivates human-minds for eternal peace.</sent>
+				<sent id ="40">The Brahmin was highly pleased and offered Him alms with utmost devotion.</sent>
+				<sent id ="41">During the Buddha's period the lower caste of the society like Sudras possessed no religious right to observe.</sent>
+				<sent id ="42">He was the Buddha who for the first time conferred this right to them.</sent>
+				<sent id ="43">He tried to unite all the people of the high or low caste, the Brahmin or non-Brahmin, even rich or poor.</sent>
+				<sent id ="44">He gave equal right to all the people in His doctrine.</sent>
+				<sent id ="45">He knew that it would grow a very strong social bondage among the people.</sent>
+				<sent id ="46">Because it was evident that the people of the lower caste always feared the higher ones.</sent>
+				<sent id ="47">Consequently the people of the higher caste hated the lower ones.</sent>
+				<sent id ="48">The Buddha inspired the people of all the castes to uproot these difference.</sent>
+				<sent id ="49">In His Sangha there was no difference at all among the disciples.</sent>
+				<sent id ="50">The Buddha gave shelter to many people of lower caste in His Sangha.</sent>
+				<sent id ="51">Once He was staying at the Anupriya Mango grove.</sent>
+				<sent id ="52">By this time Anuruddha along with his five Kshatriya friends approached Him for ordination.</sent>
+				<sent id ="53">Upali, the son of a barber was also with them.</sent>
+				<sent id ="54">The Buddha ordained Upali at first.</sent>
+				<sent id ="55">It evidently made him senior to others who had to pay tribute to him.</sent>
+				<sent id ="56">So they felt no racial sentiment while paying tribute to barber Upali.</sent>
+				<sent id ="57">Sunita was a sweaper.</sent>
+				<sent id ="58">Once the Buddha went out for alms along with his disciples.</sent>
+				<sent id ="59">He entered the road while Sunita was cleaning it.</sent>
+				<sent id ="60">He atone kept the carriage of dirt's and himself very close to the wall.</sent>
+				<sent id ="61">But the Buddha was still advancing towards him.</sent>
+				<sent id ="62">Such was the case that Sunita could rescue himself keeping invisible to the Buddha.</sent>
+				<sent id ="63">Then the Buddha said to him, Sunita, what is the benefit to live such a suffering life?</sent>
+				<sent id ="64">Will you enter the order of the Sangha?</sent>
+				<sent id ="65">Being attracted by the sweet voice of the Buddha he said, Oh Lord!</sent>
+				<sent id ="66">Is there any provision for a worthless man like me, to enter the Sangha then why should l not avail the opportunity?</sent>
+				<sent id ="67">Please permit me to enter the Sangha.</sent>
+				<sent id ="68">The Buddha took him to the monastery and ordained him as a Bhikkhu (monk).</sent>
+				<sent id ="69">He attained Arahanthood very soon by dint of his arduous practice in meditation.</sent>
+				<sent id ="70">Thera Kulla was a cultivator.</sent>
+				<sent id ="71">Thera Yosoja and Thera Hiranyaka were the sons of a gardener and a thief respectively.</sent>
+				<sent id ="72">Again Channa or Chandaka was a son of a maid servant and Thera Vimala was the son of the prostitute Amrapali.</sent>
+				<sent id ="73">Many others of such ordinary families were disciples of the Buddha who became eminent by their virtuous performances.</sent>
+				<sent id ="74">The women of ancient India had no right to observe the religious rites.</sent>
+				<sent id ="75">The Buddha gave the women entrance into the Bhikkhuni Sangha denying their social status.</sent>
+				<sent id ="76">Even the prostitutes, the women left by their husbands and the poor widows were given opportunity to enter into the Sangha.</sent>
+				<sent id ="77">Avoiding the social system of that time He accorded honour to those hated and destitute women folks giving shelter in his doctrine (Dhamma).</sent>
+				<sent id ="78">Amrapali was a prostitute of Vaisali.</sent>
+				<sent id ="79">So she possessed no social dignity.</sent>
+				<sent id ="80">Once she went to Kotigram to meet the Buddha.</sent>
+				<sent id ="81">She with great honour invited the Buddha to go to her house for having meals there.</sent>
+				<sent id ="82">The Buddha gladly accepted the invitation.</sent>
+				<sent id ="83">As she returned, the Licchavis came to know the fact.</sent>
+				<sent id ="84">The Licchavis were the Kshatriyas by caste.</sent>
+				<sent id ="85">They said to her,Oh Amrapali, we shall offer you one lac coins if you withdraw the invitation in our favour.</sent>
+				<sent id ="86">In reply she said, I shall not give up my right at the cost of whole Vaisali kingdom.</sent>
+				<sent id ="87">Then the Licchavi princes went to the Buddha and requested Him to refuse the invitation of Amrapali and to accept theirs in consequence.</sent>
+				<sent id ="88">The Buddha denied their request as Amrapali invited Him first.</sent>
+				<sent id ="89">Infact the Buddha paid more importance to Amrapali than the Licchavi princes.</sent>
+				<sent id ="90">He did not pay emphasis to the Licchavis, though they were born of royal families.</sent>
+				<sent id ="91">In the Buddha's doctrine both men and women were equally treated.</sent>
+				<sent id ="92">This may be truly realized from a conversation between Bhikkhuni Soma and the Mara, the god of evil.</sent>
+				<sent id ="93">Once Bhikkhuni Soma was in meditation in the Andhavana near Sravasti.</sent>
+				<sent id ="94">In reply Soma said, Whoever can concentrate his/her mind and well aware of right path of Dhamma, why should it be impossible to attain Nibbana?</sent>
+				<sent id ="95">Those who say that they are man or woman or anything else, let Mara go to those proud people to disturb them.</sent>
+				<sent id ="96">Bhikkhuni Soma has recognised me as Mara, thinking so, he left the place with a mournful heart.</sent>
+				<sent id ="97">By this conversation it is clear that the place of the women was so significant in the Sangha.</sent>
+				<sent id ="98">In this way the Buddha established equal rights between man and woman in His doctrine.</sent>
+				<sent id ="99">Religious and scriptural practices among the lower class people were held high in Buddhism which are evident from many examples in the Therigatha.</sent>
+				<sent id ="100">A destitute woman known as Sumangal's mother started meditation to get rid of earthly sufferings.</sent>
+				<sent id ="101">This led her to attain Arahanthood.</sent>
+				<sent id ="102">Vimala, the daughter of a prostitute of Vaisali found Moggallayana while begging alms and fell in love with him.</sent>
+				<sent id ="103">With the advice of Moggallayana she became Bhikkhuni (Nun) and achieved the supreme wisdom of Nibbana.</sent>
+				<sent id ="104">On the other hand the queens, the princesses and the daughters of the Setthis were allowed to enter into the Bhikkhuni Sangha.</sent>
+				<sent id ="105">In ancient Buddhism there was no difference between men and women in practising religious and scriptural rites and meditation.</sent>
+				<sent id ="106">There was even no domination in the religious rights over the womenfolk.</sent>
+				<sent id ="107">Many of the women were learned enough in the Dhamma and its philosophy.</sent>
+				<sent id ="108">They could debate on the religious subjects proving their knowledge as identical as the Bhikkhus.</sent>
+				<sent id ="109">The spirit of debate is found in the biographies of Theri Bhadra and Kundalkeshi.</sent>
+				<sent id ="110">On request of Ananda the Buddha set up the Bhikkhuni Sangha.</sent>
+				<sent id ="111">At that time there were nuns in Jainism too.</sent>
+				<sent id ="112">So He set up the Bhikkhuni Sangha not only on Ananda's request but to meet the social need of the time also.</sent>
+				<sent id ="113">He for the first time gave permission to Gautami for ordination as Bhikkhuni.</sent>
+				<sent id ="114">It means that the women can exercise their rights in the society as well as in Dhamma and Sangha.</sent>
+				<sent id ="115">In fact we can say that the Buddha introduced equal rights for men and women in preaching His religion as well.</sent>
+				<sent id ="116">The Buddha never kept anything secret of His doctrine.</sent>
+				<sent id ="117">In reply Ananda said, My lord, we have no controversy over your doctrine.</sent>
+				<sent id ="118">Because he knew that nothing is everlasting on earth rather changeable or transitory.</sent>
+				<sent id ="119">He asked His disciples to bring ammendment to rules of the Dhamma and the Sangha that He preached throughout His life.</sent>
+				<sent id ="120">For example, He gave invitation to all into his doctrine bringing them before Him causing too many disadvantages.</sent>
+				<sent id ="121">To remove the inconveniences the Buddha permitted the Sangha to initiate the willing persons anywhere at any time.</sent>
+				<sent id ="122">Collection of cloths from the laities was not permissible.</sent>
+				<sent id ="123">There after, he approved Kathinacivara dana, i.e. robe offering ceremony for the lay devotees to serve the purpose.</sent>
+				<sent id ="124">Likewise the Bhikkhus could have their meals at night.</sent>
+				<sent id ="125">But later on He prohibitted the system of taking meals after 12 A.M.</sent>
+				<sent id ="126">He further prohibitted the Bhikkhus to wear the shoes made of skins of the cows, the buffaloes and the deer.</sent>
+				<sent id ="127">He also introduced the custom of partaking the five, eight and ten Precepts.</sent>
+				<sent id ="128">Thus He reformed His doctrine during His life time.</sent>
+				<sent id ="129">More than once, the rules of performance were reformed in the Councils held later on.</sent>
+				<sent id ="130">In this way the Dhamma and the Vinaya were revised.</sent>
+				<sent id ="131">Soon after His Parinibbana, little reformation in the Dhamma Vinaya had been continued.</sent>
+				<sent id ="132">The Buddha introduced more rules to equalize the people of high and low castes living in the society.</sent>
+				<sent id ="133">He thus declared seven important disciplinary rules for the Vajjis.</sent>
+				<sent id ="134">They were independent living in a democratic state.</sent>
+				<sent id ="135">They earnestly followed the rules by dint of which they could protect their freedom unitedly and powerfully for many years.</sent>
+				<sent id ="136">Vaisali was the capital of the Vajjis.</sent>
+				<sent id ="137">He introduced more seven rules for the Bhikkhus like the Vajjis.</sent>
+				<sent id ="138">The introduction of those rules indicates the democratic views of the Buddha.</sent>
+				<sent id ="139">Arahanthood is attainable to all.</sent>
+				<sent id ="140">This message of the.</sent>
+				<sent id ="141">Buddha symbolizes the equality in men and women.</sent>
+				<sent id ="142">He erased the caste system of the society.</sent>
+				<sent id ="143">Because the limbs of the whole human body are same bearing no separate identity among the people by caste.</sent>
+				<sent id ="144">Man is known by his activities.</sent>
+				<sent id ="145">He advised all to abstain from sacrificial rites.</sent>
+				<sent id ="146">Because the poor farmers had to arrange for the sacrificial animals for the kings.</sent>
+				<sent id ="147">The kings forcefully collected the animals causing a great loss and suffering to the poor farmers.</sent>
+				<sent id ="148">He rather advised to sacrifice the animality of the human mind instead of sacrificing the animals.</sent>
+				<sent id ="149">The Buddha thought of such a human society to be formed by amity without weapons.</sent>
+				<sent id ="150">So he advised to conquer the evils with good deeds and enmity with friendship.</sent>
+				<sent id ="151">The democracy set by the Buddha for the welfare of all human beings was unprecedented in the history.</sent>
+				<sent id ="152">The Buddha was compassionate to all living beings.</sent>
+				<sent id ="153">He proclaimed His doctrine not for man only but for the happiness of all living beings.</sent>
+				<sent id ="154">To the Buddhist, the life of both friend and foe is always valuable.</sent>
+				<sent id ="155">The Buddha said, Violence is not restrained by violence, but it may only be restrained by amity.</sent>
+				<sent id ="156">Thus he thought of all living beings similarly.</sent>
+				<sent id ="157">The Buddha always tried his best to improve the mentality and character of human beings.</sent>
+				<sent id ="158">His aim was to establish peace not for man only, but for all living beings.</sent>
+				<sent id ="159">He neither converted the people of other faiths by force nor brought them for trial or prosecution.</sent>
+				<sent id ="160">Oppression, harassment even persecutions for non- Buddhists are not found in the teachings of the Buddha.</sent>
+				<sent id ="161">There is no instance of the destruction of the holy places of the people other than Buddhists.</sent>
+				<sent id ="162">To show respect and tolerance to the people of other faiths are the basic teachings of Buddhism.</sent>
+				<sent id ="163">The Buddha preached His doctrine in Pali, the most comprehensive language of the common people.</sent>
+				<sent id ="164">The great humanist like the Buddha is hardly found in the present even in the past ages.</sent>
+				<sent id ="165">He treated all living beings equally.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

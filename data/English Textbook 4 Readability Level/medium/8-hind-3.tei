@@ -1,0 +1,123 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-hind-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.395</idno>
+				<idno type="Number of sentences">95</idno>
+				<idno type="Number of tokens">1222</idno>
+				<idno type="Number of token types">487</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t151">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We know the books that contain the themes of religion and human welfare is called scriptures.</sent>
+				<sent id ="2">The Veda is our original scripture.</sent>
+				<sent id ="3">The word Veda means knowledge sacred knowledge or the knowledge about Brahman.</sent>
+				<sent id ="4">To gain knowledge one is to be absorbed with deep attention.</sent>
+				<sent id ="5">Absorption with deep attention is called Sadhana i. e. Meditation.</sent>
+				<sent id ="6">Through meditation the knowledge about the origin and variety of the world and leaving being can be achieved.</sent>
+				<sent id ="7">Those who could perceive truth or knowledge, the greatness, of the Supreme Creator and the creation were known as Rishi.</sent>
+				<sent id ="8">The Vedas are the sacred knowledge of the Rishi perceived through meditation.</sent>
+				<sent id ="9">In the Vedas many things of truth and knowledge are described.</sent>
+				<sent id ="10">Initially the subject matters of the Vedas was undivided.</sent>
+				<sent id ="11">Afterwards Krishnadwaipayana Vedavyasa, a great seer, divided the Vedas into four principal branches.</sent>
+				<sent id ="12">The brief descriptions of the subject matter of the Rigveda, the Yajurveda, the Samaveda and the Atharvaveda are given below.</sent>
+				<sent id ="13">The word Rigveda means to praise or hymns.</sent>
+				<sent id ="14">Praise of whom?</sent>
+				<sent id ="15">The answer is the praise of Ishwara or the devata.</sent>
+				<sent id ="16">When different kinds of the power of Ishwara are manifested, we denote them as Devatas or gods and goddesses.</sent>
+				<sent id ="17">The eulogies, hymns and glorification coming out from voice of Vedic rishis took the form of verses.</sent>
+				<sent id ="18">These sayings or verses were revealed from the God through meditation by the endless grace of God.</sent>
+				<sent id ="19">That is why the Rishis said that they were not the authors but only the seers of the Vedas.</sent>
+				<sent id ="20">For this reason the veda is called Apaurusheya.</sent>
+				<sent id ="21">It means the Veda is not the creation of any person of the world, it is seen i. e. perceived through meditation.</sent>
+				<sent id ="22">The Riks are also called mantras or hymns.</sent>
+				<sent id ="23">The Riks or mantras are the short verses of three or four lines.</sent>
+				<sent id ="24">Once these verses were recited as poems.</sent>
+				<sent id ="25">There are 10472 Riks in all in the Rigveda.</sent>
+				<sent id ="26">A sukta consists of some Riks and the whole Rigveda is divided into 10 Mandalas.</sent>
+				<sent id ="27">Each Mandala consists of some Suktas and every Sukta consists of some Riks.</sent>
+				<sent id ="28">There are in all 1028 Suktas in the Rigveda.</sent>
+				<sent id ="29">The Suktas are the hymns of prayer to gods and goddesses and these prayers were made to get happiness and peace.</sent>
+				<sent id ="30">As for example Indra is the god of rain and dew.</sent>
+				<sent id ="31">Indra is our promoter and Bajradhari i. e. possessor of the thunders bolt to the enemy.</sent>
+				<sent id ="32">We invoke Indra for more wealth or for even a little of it.</sent>
+				<sent id ="33">The Devata (god) of this Mantra is Indra.</sent>
+				<sent id ="34">And to him prayer is made to get wealth.</sent>
+				<sent id ="35">The seer of this Rik is the Rishi Madhuchhanda.</sent>
+				<sent id ="36">Each of the four Vedas is named Samhita (Compilation or anthology).</sent>
+				<sent id ="37">The Rigveda is the Samhita (anthology) of the Rik Mantras.</sent>
+				<sent id ="38">Yajur means the mantras for Yajna (sacrifice).</sent>
+				<sent id ="39">It should be noted here that in the Vedic age the method of Upasana i. e. prayer was based on Yajna.</sent>
+				<sent id ="40">The method of prayer and worship in front of the statues of gods or goddesses was yet to be introduced.</sent>
+				<sent id ="41">The Rishis felt the power of gods and goddesses and prayed to them with the recitation of the mantras.</sent>
+				<sent id ="42">They ignited fire and invoked the devatas.</sent>
+				<sent id ="43">The matter needs a little elaboration.</sent>
+				<sent id ="44">The Rishis divided Devatas into three group: Devata of the heaven Devata of the sky and Devata of the earth.</sent>
+				<sent id ="45">The power of the Devats of heaven can be felt.</sent>
+				<sent id ="46">They do not descend to the earth.</sent>
+				<sent id ="47">Such Devatas are Surya, Varuna etc.</sent>
+				<sent id ="48">The Devatas of the sky come to the earth but they do not stay here.</sent>
+				<sent id ="49">Indra, Vayu etc. are the examples of such Devatas.</sent>
+				<sent id ="50">Devata of the earth is noticeable.</sent>
+				<sent id ="51">He stays in the earth also.</sent>
+				<sent id ="52">Such Devata is Agni.</sent>
+				<sent id ="53">As agni is available in the earth, so he is worshipped direct and through him other Devatas are invoked to the earth.</sent>
+				<sent id ="54">Delicious objects are sacrificed to the igniting fire in honour of Devatas.</sent>
+				<sent id ="55">The prayer following this method is called Yajna.</sent>
+				<sent id ="56">At the time of the performance of Yajna, selected mantras about the intended Devatas are recited.</sent>
+				<sent id ="57">Thus the Yajurveda Samhita consists of the collected mantras used in the Yajnas.</sent>
+				<sent id ="58">The formalities relating to the rules and methods of the ceremony of Yajna are compiled in the Yajurveda.</sent>
+				<sent id ="59">The calendar or the concept of the seasons is evolved on basis of the Yajna.</sent>
+				<sent id ="60">Sacrifices were performed in many ways and during different spans of time.</sent>
+				<sent id ="61">Certain Yajnas were daily, some were performed during a week or a fort night, some were performed during a year.</sent>
+				<sent id ="62">Even some Yajnas were performed during the twelve years.</sent>
+				<sent id ="63">Different types of altar were made in different Yajnas.</sent>
+				<sent id ="64">From this technique of making of the altars, the study of geometry was evolved.</sent>
+				<sent id ="65">The Rigveda and the Samaveda were composed in poetic diction.</sent>
+				<sent id ="66">But in the Yajurveda both prose and poetic style were used.</sent>
+				<sent id ="67">Yajurveda is found in two main divisions Krishna or black Yajurveda and Shukla or white Yajurveda.</sent>
+				<sent id ="68">Another name of the krishna Yajurveda is Taittiriya Samhita and that of the Shukla Yajurveda is Vajsaneya Samhita.</sent>
+				<sent id ="69">The krishna Yajurveda consists of 7 kantoos (chapters ) and 2184 kandika or mantras.</sent>
+				<sent id ="70">In shukla Yajurveda there are 40 chapters and 1915 mantras.</sent>
+				<sent id ="71">The meaning of the word Sama is song.</sent>
+				<sent id ="72">At the performance of Yajna music was set to same mantras and were sung.</sent>
+				<sent id ="73">This mantras set to music were called as Sama.</sent>
+				<sent id ="74">The Veda where the mantras to be sung were compiled is known as the Samaveda Samhita.</sent>
+				<sent id ="75">From the Samaveda the knowledge about the music of the ancient age can be achieved from the Samaveda.</sent>
+				<sent id ="76">The original source of our songs and music is the Samaveda.</sent>
+				<sent id ="77">The scale in music like Sharaja, Rishabha etc. is originated from the Sama.</sent>
+				<sent id ="78">Mainly the mantras of the Rigvedas were set to music.</sent>
+				<sent id ="79">The mantras of the Samavedas are 1810 in number.</sent>
+				<sent id ="80">Of these, except 75, all the mantras were taken from the Rigveda and were set to music.</sent>
+				<sent id ="81">Now it is known to us that the anthology of the recitable eulogical mantras or hymns is called the Rigveda Samhita.</sent>
+				<sent id ="82">The mantras applied to the Yajnas are known Yajurveda.</sent>
+				<sent id ="83">And mantras set to music are called the Samaveda.</sent>
+				<sent id ="84">The fourth part of the Veda is called the Atharvaveda.</sent>
+				<sent id ="85">The Atharva samita is the compilation of the mantras relating to various spiritual and wordly knowledge.</sent>
+				<sent id ="86">The older name of the Atharvaveda was atharvangirasa.</sent>
+				<sent id ="87">The term Atharva denotes medical science and activities relating to nutrition and tranquilization.</sent>
+				<sent id ="88">The term Angirash implies the rites and ceremonies to destroy the opponents and win over the persons who are not under control.</sent>
+				<sent id ="89">The Atharvaveda is famous for the source of information about the ancient medical science.</sent>
+				<sent id ="90">The Rigveda and the Yajurveda inform about diseases, their treatment and about physicians.</sent>
+				<sent id ="91">But it has explain in very short.</sent>
+				<sent id ="92">In the Atharvaveda different kinds of diseases and as a means for their cure, various trees, plants and shrubs have been discussed in detail.</sent>
+				<sent id ="93">The origin of the medical science named Ayurveda is this Atharvaveda and the osteology and surgery are also mentioned in it.</sent>
+				<sent id ="94">The Atharvaveda consists of 20 kantoos (chapters), 731 Suktas and about six thousand mantras.</sent>
+				<sent id ="95">This Veda is composed in both prose and poetic diction but verses form the major portion one sixth portion is composed in prose.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

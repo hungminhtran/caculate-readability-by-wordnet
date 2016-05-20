@@ -1,0 +1,144 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.703</idno>
+				<idno type="Number of sentences">116</idno>
+				<idno type="Number of tokens">1800</idno>
+				<idno type="Number of token types">635</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t23">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Harvesting of forest trees that is felling of trees depends on the objectives of afforestation.</sent>
+				<sent id ="2">When afforestation is made with the objectives of producing firewood, pulp wood and poles, then rapidly growing forest tree species are planted.</sent>
+				<sent id ="3">This type of plants may be harvested after 10 -12 years of planting.</sent>
+				<sent id ="4">But if the trees are planted for the purpose of producing timbers for construction and furnitures, harvesting should be done after 30-40 years of planting depending on the characteristics of the species.</sent>
+				<sent id ="5">However, some general rules are required to be followed when harvesting forest plantation.</sent>
+				<sent id ="6">The harvesting rate should be determined considering the usual growth rate of the forest species.</sent>
+				<sent id ="7">The harvesting rate from a certain plantation area should not exceed the growth rate of the forest trees.</sent>
+				<sent id ="8">It is known as forest conservation.</sent>
+				<sent id ="9">Conservation is very important for maintaining forest resources.</sent>
+				<sent id ="10">Because, a forest resource or plantation can not be raised overnight.</sent>
+				<sent id ="11">Bamboo is harvested usually after 3 years of planting.</sent>
+				<sent id ="12">As a result of growth and multiplication bamboos attain a form of bush.</sent>
+				<sent id ="13">New bamboo tillers are found to grow at the outer side of the bush.</sent>
+				<sent id ="14">That's why the older bamboos rennin in the centre of the bush, the younger shoots being at the exterior.</sent>
+				<sent id ="15">During harvesting it is required to cut one or more outer bamboos.</sent>
+				<sent id ="16">In this way space is created in the bush so that one can enter the inner side of the bush for cutting the matured bamboos.</sent>
+				<sent id ="17">The timber and material loss from trees and bamboos may be greatly reduced by cutting if appropriate scientific methods are followed.</sent>
+				<sent id ="18">These forests harvest may be scientifically treated for ensuring its prolong use.</sent>
+				<sent id ="19">Some of the methods of tree felling and preservation of wood and bamboo are described here.</sent>
+				<sent id ="20">Felling of trees in unplanned and unskilled way results in great loss of wood.</sent>
+				<sent id ="21">One should be very careful while cutting a tree specially for the purpose to timber and poles.</sent>
+				<sent id ="22">A tree is required to be grown for 30-40 years to get a good quality of timber from it.</sent>
+				<sent id ="23">To get strong pole a tree is require to be grown for 18 to 20 years.</sent>
+				<sent id ="24">Cutting of a tree in unplanned and unskilled way may result in irregular fracture or breakage of the timber at the main base of stem.</sent>
+				<sent id ="25">Just for a wrong decision a long grown tree may be spoiled in a moment.</sent>
+				<sent id ="26">Cutting trees by saw always reduces wood loss.</sent>
+				<sent id ="27">So in order to reduce valuable woodloss, it is important to know the techniques and use of modern tools for cutting a tree.</sent>
+				<sent id ="28">It is very much usual that there may be houses and other trees nearby matured tree, which has been selected for cutting in a homestead.</sent>
+				<sent id ="29">In such a situation the tree after cutting may fell on those nearby houses or other trees causing serious damage.</sent>
+				<sent id ="30">The tree may fell in a ditch where from it may be very hard to pull or carry it.</sent>
+				<sent id ="31">On the other hand unplanned felling of trees grown on road side or embankment, etc. may block the transports.</sent>
+				<sent id ="32">But if the technique of tree felling is known then a tree may be cut and felled in any desired side or position.</sent>
+				<sent id ="33">The tree may be cut at the base of the tree near the soil level as close as possible.</sent>
+				<sent id ="34">Because the base of the tree is always more thick and have more quality wood.</sent>
+				<sent id ="35">Cutting of tree at an elevated higher place above the soil spoils more quantities of quality wood.</sent>
+				<sent id ="36">At first the surrounding of the tree selected for felling should be cleared.</sent>
+				<sent id ="37">Then the direction towards which the tree will be felled is to be decided.</sent>
+				<sent id ="38">The selected tree should be felled on a nearly level and open space.</sent>
+				<sent id ="39">If the land have some slope then the tree should be felled across the slope.</sent>
+				<sent id ="40">The first cut by saw and axe should be given at that side at which the tree is planned to be felled.</sent>
+				<sent id ="41">At first a cut measuring two third of the diametre of the plant should be given parallel to the ground.</sent>
+				<sent id ="42">Then a tangent cut should be given from the 15-20 cm upper surface side.</sent>
+				<sent id ="43">Then second cut should be given from the opposite side of first cut 12-15 cm above the first cut.</sent>
+				<sent id ="44">The second cut should be extended up to the end of the first parallel cut.</sent>
+				<sent id ="45">Then a flat point peg is to be entered to the second cut.</sent>
+				<sent id ="46">When this peg will be pressed by the axe or hammer, the tree will be felled at the side where first cut was given.</sent>
+				<sent id ="47">This first cut-second cut method of felling tree ensures fell of tree at a expected direction or side.</sent>
+				<sent id ="48">Forest trees after harvest are cut into pieces for easiness of transportation and sawing.</sent>
+				<sent id ="49">This type of round pieces is known as Long wood.</sent>
+				<sent id ="50">The log pieces are made by cross cut saw.</sent>
+				<sent id ="51">The logs are then cut for sawing to give them their usable forms.</sent>
+				<sent id ="52">Wood logs after sawing have specific length, width and thickness of less than 4 cm is known as wood sheets or Takta.</sent>
+				<sent id ="53">A portion of the Log wood is always lost in the process of sawing.</sent>
+				<sent id ="54">All the woods can be utilized to giving a regular shape.</sent>
+				<sent id ="55">How much usable wood will be available from a log may be calculated by a formula, according to the Hompus Law.</sent>
+				<sent id ="56">Measurement of wood volume of wood sheets is very easy.</sent>
+				<sent id ="57">If the length, width and thickness of the wood is known, then the volume may be easily calculated.</sent>
+				<sent id ="58">The length, width and thickness of wood may be measured by a measuring metre scale.</sent>
+				<sent id ="59">Then the volume may be calculated on the basis of formula given below.</sent>
+				<sent id ="60">If the length, width and thickness is measured in inches or foot then the unit of volume will be cubic foot.</sent>
+				<sent id ="61">Similarly, if measurements are taken in cm and metre then the unit of volume will be cubic metre.</sent>
+				<sent id ="62">The major enemies or pests of wood and bamboo are termites, fungus and ghoon.</sent>
+				<sent id ="63">Treating them appropriately may prevent destruction, rotting or damages of wood and bamboo.</sent>
+				<sent id ="64">Treating process may increase the longevity and durability of wood and bamboo.</sent>
+				<sent id ="65">The actual meaning of wood seasoning is reducing moisture content of wood by drying the wood to a certain range.</sent>
+				<sent id ="66">When wood is dried to a certain range; its moisture content is reduced.</sent>
+				<sent id ="67">As a result, attacked by insects and fungus is reduced giving the wood a longer life.</sent>
+				<sent id ="68">Drying of wood in open air is known as air drying.</sent>
+				<sent id ="69">But very thinly sliced woods may show fracture or may be curved when left under strong sun in open air.</sent>
+				<sent id ="70">That's why these types of woods are kept in shade 30-40 cm above the ground in layers.</sent>
+				<sent id ="71">The wood layers are arranged such a way that aeration is ensured surrounding every wood piece.</sent>
+				<sent id ="72">The wood pieces cannot be left in a disarranged manner, which may result in curving of the wood.</sent>
+				<sent id ="73">Air drying process of wood treatment requires much time, at least one dry season in Bangladesh.</sent>
+				<sent id ="74">Kiln is a special type of room or a chamber.</sent>
+				<sent id ="75">The temperature, relative humidity and aeration through the arranged woods in the kiln can easily be controlled.</sent>
+				<sent id ="76">The range of temperature in the chamber are maintained within 30?</sent>
+				<sent id ="77">The expected temperature is maintained by burning fire wood or oil.</sent>
+				<sent id ="78">The internal relative humidity is maintained by artificially entering air or steam inside the chamber.</sent>
+				<sent id ="79">Wood seasoning by this process requires 30-45 days.</sent>
+				<sent id ="80">The seasoned woods may rightly be used in furniture and in other construction works.</sent>
+				<sent id ="81">However, if comes in direct contact with soil or water the seasoned wood can also lose its durability.</sent>
+				<sent id ="82">Because when comes in contact with water, it absorbs water and its moisture content is increased.</sent>
+				<sent id ="83">Fungus and insects easily infest moistened woods.</sent>
+				<sent id ="84">For this reason woods to be used in moist places or soils should be well treated.</sent>
+				<sent id ="85">The main theme of wood and bamboo treatment is the entering of chemical or preservative into the wood or bamboo.</sent>
+				<sent id ="86">A preservative mixture namely CCA is widely used in Bangladesh for preserving wood and bamboo.</sent>
+				<sent id ="87">The preservatives may be prepared by purchasing these chemicals separately and mixing in rightly measured quantities.</sent>
+				<sent id ="88">Then 2.5% solution of the preservative is mad by mixing with water.</sent>
+				<sent id ="89">The solution is pushed into wood and bamboo by a special mechanical arrangement of giving high pressure.</sent>
+				<sent id ="90">The preservative solution must be pushed deep into wood.</sent>
+				<sent id ="91">It is recommended to push 0.4 pound of preservative into one cubic foot of wood.</sent>
+				<sent id ="92">Using CCA preservative may prevent the rotting of stored woods.</sent>
+				<sent id ="93">Besides, this chemical can also prevent attacks of termites.</sent>
+				<sent id ="94">The following 3 points must be considered while using treated wood.</sent>
+				<sent id ="95">Treated wood will be ready for use after 7 days of treatment Before use, the treated wood should be dried as described earlier.</sent>
+				<sent id ="96">Extensive carpentry should not be done with treated woods.</sent>
+				<sent id ="97">Bamboo, which is to be used in association with soil and water, do not last usually more than two years.</sent>
+				<sent id ="98">The causal agents for rottening and damage of bamboo are fungus and insect pests.</sent>
+				<sent id ="99">Protection of bamboos by using preservatives can greatly increase its durability.</sent>
+				<sent id ="100">If the preservatives are rightly used, then the user need not to replace the bamboo frequently and extra costs in this regard may be avoided.</sent>
+				<sent id ="101">Thus loss of bamboo is reduced.</sent>
+				<sent id ="102">Previously bamboos were sufficiently soaked in water for a certain period as a preservation process of treatment.</sent>
+				<sent id ="103">This method is known as Pinat.</sent>
+				<sent id ="104">This process protects the bamboo from ghoon insects but can not protect the bamboo from fungus, termites and other insects, presently improved methods have been developed for bamboo preservation in Bangladesh.</sent>
+				<sent id ="105">In this method chemical preventive for fungus and insect pests is pushed into the bamboo in the form of solution: A chemical namely CCB is widely used in Bangladesh for the purpose.</sent>
+				<sent id ="106">The ingredients of CCB are as follows.</sent>
+				<sent id ="107">The sap of bamboo is displaced by a 20% CCB solution by this process.</sent>
+				<sent id ="108">The 20% solution may be prepared by diluting 2 kg of CCB in 10 litres of water.</sent>
+				<sent id ="109">The solution is pushed into a newly cut bamboo by pressure and sap is replaced.</sent>
+				<sent id ="110">In soaking method the materials to be preserved are kept submerged in a 10% solution of CCB in a tank of required size.</sent>
+				<sent id ="111">Cut a bamboo and take it out from the bush.</sent>
+				<sent id ="112">Cut the base and apex of the bamboo uniformly.</sent>
+				<sent id ="113">Attached the pressure equipment as per design at the base of the bamboo.</sent>
+				<sent id ="114">Pore preservative solution in pressure machine.</sent>
+				<sent id ="115">Give sufficient pressure through manual pumping.</sent>
+				<sent id ="116">Observe whether bamboo sap is coming out at the apex of the bamboo or not As soon the solution comes out through the apex, stop pumping.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

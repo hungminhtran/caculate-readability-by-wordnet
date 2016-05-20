@@ -1,0 +1,123 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.306</idno>
+				<idno type="Number of sentences">95</idno>
+				<idno type="Number of tokens">1331</idno>
+				<idno type="Number of token types">480</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t147">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Man has been curious about the motion of stars and planets since ancient time.</sent>
+				<sent id ="2">Danish astronomer Tycho Brahe observed the motion of planets and stars for long twenty years and gathered a lot of information about them.</sent>
+				<sent id ="3">He left the information with a German astronomer Johannes Kepler at the time of his death.</sent>
+				<sent id ="4">Kepler analysed the facts left by Tycho Brahe (1606- 1619) and formulated some laws for explaining the motion of planets around the sun.</sent>
+				<sent id ="5">But he did not explain the causes of such motion.</sent>
+				<sent id ="6">From his laws we know how planets move round the sun but he could not explain why.</sent>
+				<sent id ="7">The reason behind motion was explained by a British scientists, Sir lssac Newton, through his law of gravitation.</sent>
+				<sent id ="8">At that time an apple fell down on earth.</sent>
+				<sent id ="9">He questioned himself, Why did the apple fall down instead of going upward or staying still?</sent>
+				<sent id ="10">He thought, the reason could be that the earth attracted the apple towards it with a certain force.</sent>
+				<sent id ="11">The earth attracts bodies near its surface and bodies around.</sent>
+				<sent id ="12">For this reason anything thrown upward from the earth comes down ultimately to its surface.</sent>
+				<sent id ="13">This idea of earth's attraction to bodies surrounding it was a revolutionary one.</sent>
+				<sent id ="14">He discovered that the force of earth extends upto the vast outer space.</sent>
+				<sent id ="15">That isevery substance of this universe attractsevery other substance.</sent>
+				<sent id ="16">There is a force of mutual attraction that exists betweenbodies in the universe.</sent>
+				<sent id ="17">This force is known as gravitation.</sent>
+				<sent id ="18">This is a universal force.</sent>
+				<sent id ="19">With the idea of gravitation he explained how planets move round the fixed orbits and the moon revolves around the earth.</sent>
+				<sent id ="20">There aremany stars like sun in the universe.</sent>
+				<sent id ="21">Gravitational force makes them fixed to their own orbits so thatthey cannot go out of their path and make ollisions with others.</sent>
+				<sent id ="22">Any two bodies in this universe attract each other with a force along a line connecting the centres of them.</sent>
+				<sent id ="23">This force depends on the mass of these attracting bodies.</sent>
+				<sent id ="24">The more massive they are the more is the force.</sent>
+				<sent id ="25">Bodies of smaller masses have smaller force.</sent>
+				<sent id ="26">Gravitational force depends on the distance between the attracting bodies.</sent>
+				<sent id ="27">Force increases for greater distance and decreases for smaller distance.</sent>
+				<sent id ="28">Newton was only 23 years old when he discovered gravitation in Gravitational force is a very weak force.</sent>
+				<sent id ="29">Only for the massive bodies likethe sun and the earth this force can be felt.</sent>
+				<sent id ="30">According to his theory, gravitational force on the surface of the sun, planet or satellite depends on its mass and radius (taken them as spheres).</sent>
+				<sent id ="31">So the gravitational force of the sun will be much greater, about 28 times, than that of the earth.</sent>
+				<sent id ="32">Therefore, the gravitational force of the moon will be much smaller, about 1/6th of that of the earth.</sent>
+				<sent id ="33">Gravity is the force of attraction between the earth and any other body.</sent>
+				<sent id ="34">We see from Newton's theory that, any two bodies in this universe attract each other.</sent>
+				<sent id ="35">When one of the attracting bodies is the earth, the force is called gravity.</sent>
+				<sent id ="36">So gravity is a special case of gravitation.</sent>
+				<sent id ="37">The earth attracts every other body on its surface.</sent>
+				<sent id ="38">Each body itself is attracting the earth towards it.</sent>
+				<sent id ="39">Earth is attracting you toward it; you also at the same time attracting the earth with the same force toward you.</sent>
+				<sent id ="40">When you jump upwards you and the earth mutually attract each other.</sent>
+				<sent id ="41">But you don't find the earth coming towards you; rather you come back on the earth surface.</sent>
+				<sent id ="42">The reason is that the earth is much more heavier than you and so it stays where it is but you come down on it.</sent>
+				<sent id ="43">In reality we see bodies on or near the earth surface are much smaller in mass than the earth.</sent>
+				<sent id ="44">So they all fall on the surface of the earth when they are thrown vertically upwards.</sent>
+				<sent id ="45">So you see that it is the gravity that makes ripe fruits fall down from trees.</sent>
+				<sent id ="46">We can walk on the surface of earth due to gravity.</sent>
+				<sent id ="47">When you go upstairs against gravity you breathe quickly and feel tired.</sent>
+				<sent id ="48">And the most important thing is that gravity makes atmosphere stay around the earth.</sent>
+				<sent id ="49">If there were no gravity, there would be no atmosphere to breathe.</sent>
+				<sent id ="50">So there would be no man and animal to live on earth.</sent>
+				<sent id ="51">Our existence on this earth is the outcome of gravity.</sent>
+				<sent id ="52">Let a body fall freely.</sent>
+				<sent id ="53">Before starting to fall the body has no velocity.</sent>
+				<sent id ="54">Its velocity increases every second as it starts falling.</sent>
+				<sent id ="55">The rate at which velocity of a body increases is known as acceleration.</sent>
+				<sent id ="56">This acceleration is caused by the force of gravity.</sent>
+				<sent id ="57">It is, therefore, known as acceleration due to gravity.</sent>
+				<sent id ="58">It is represented by g.</sent>
+				<sent id ="59">The value of acceleration due to gravity is fixed at a certain place but changes from place to place.</sent>
+				<sent id ="60">The average value of g on the earth surface is taken as 9.8 meter per second square.</sent>
+				<sent id ="61">It means that a freely falling body has a velocity of 9.8 m/sec. .</sent>
+				<sent id ="62">As you go up above the surface of the earth, the value of g decreases.</sent>
+				<sent id ="63">Again the value of g also decreases below the earth surface.</sent>
+				<sent id ="64">The value of g at the centre of the earth is zero.</sent>
+				<sent id ="65">In the equatorial region this value is the lowest and in the polar region this value is the highest.</sent>
+				<sent id ="66">This is due to the fact that our earth is not a perfect sphere; it is slightly flat at the north and south poles.</sent>
+				<sent id ="67">The distance of the equator from the centre of the earth is greater than the distance of the poles.</sent>
+				<sent id ="68">Mass: The total quantity of the matter in a body is called its mass.</sent>
+				<sent id ="69">Mass is a fundamental property of a body.</sent>
+				<sent id ="70">Mass is measured with balance.</sent>
+				<sent id ="71">The S.I. unit of mass is kilogram kg.</sent>
+				<sent id ="72">Mass of a body does not change.</sent>
+				<sent id ="73">Anywhere on the earth surface, bellow or above, mass of a substance remains the same.</sent>
+				<sent id ="74">If your mass is 40kg on earth, it will be 40 kg if you go to the moon.</sent>
+				<sent id ="75">Weight is a force and that is why the units of weight and force are the same.</sent>
+				<sent id ="76">We know that S.I unit of force is Newton.</sent>
+				<sent id ="77">So the muri container exerts 9.8 Newton force and the rice container exerts 49 Newton force, which is five times greater.</sent>
+				<sent id ="78">We see that weight depends on acceleration due to gravity and its value is not the same everywhere.</sent>
+				<sent id ="79">So the weight of a body varies from place to place.</sent>
+				<sent id ="80">The value of g is the highest on earth surface.</sent>
+				<sent id ="81">Weight is also maximum here.</sent>
+				<sent id ="82">That means on mountain top or inside a mine the body weight of any object will be less than its weight on the surface.</sent>
+				<sent id ="83">The value of g is zero at the centre of the earth.</sent>
+				<sent id ="84">Now, if you go to the centre of the earth and weigh these things there, the weight of them will be zero.</sent>
+				<sent id ="85">A body weighs more in the Polar Regions and less in equatorial regions but its mass remains the same everywhere.</sent>
+				<sent id ="86">By ordinary balance we measure mass, not the weight.</sent>
+				<sent id ="87">Weight is measured by spring balance.</sent>
+				<sent id ="88">When a body is released from above, it comes down due to the force of gravity.</sent>
+				<sent id ="89">He performed the experiment at the leaning tower of Pisa in Italy.</sent>
+				<sent id ="90">The tower was 54.86 metre high and from the roof of the tower he let bodies of different masses fall at the same time.</sent>
+				<sent id ="91">The light bodies took a bit longer time than the heavy ones to reach the ground.</sent>
+				<sent id ="92">It was due to the fact that the light bodies faced more obstructions from air fiction and its upward pressure.</sent>
+				<sent id ="93">Had there been no obstructions from air, both the heavy and the light objects would fall at the same time.</sent>
+				<sent id ="94">Later, Newton proved the truth by an experiment known as Guinea and Feather Experiment.</sent>
+				<sent id ="95">The guinea and the feather reached the bottom of the tube at the same time.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

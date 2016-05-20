@@ -1,0 +1,190 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-islam-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.295</idno>
+				<idno type="Number of sentences">162</idno>
+				<idno type="Number of tokens">1879</idno>
+				<idno type="Number of token types">650</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t109">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The Quran Majid consists of the Messages of Allah.</sent>
+				<sent id ="2">The Quran Majid is our Religious Book.</sent>
+				<sent id ="3">It is not the wording of any man.</sent>
+				<sent id ="4">It is the message of Allah.</sent>
+				<sent id ="5">Allah has revealed the Quran Majid to guide people to the right path.</sent>
+				<sent id ="6">The sum total of His messages is the Quran Majid.</sent>
+				<sent id ="7">Prophet Muhammad (Sm) used to remain absorbed in meditation in the cave of Hira.</sent>
+				<sent id ="8">Right from that time Jibrail (A) used to come to the Prophet (Sm) with the verses of the Quran.</sent>
+				<sent id ="9">Thus the Quran was revealed on the Prophet (Sm) for long twenty three years.</sent>
+				<sent id ="10">Allah has sent His.</sent>
+				<sent id ="11">Book through His Prophets, throughout the ages to guide the people to the right path.</sent>
+				<sent id ="12">The total number of the revealed Books is Of all these Books the comprehensive and complete Books are four.</sent>
+				<sent id ="13">These are: The Tawrat, The Zabur, The Injil and The Quran.</sent>
+				<sent id ="14">The Qurah Majid is the last and the greatest Book.</sent>
+				<sent id ="15">Our beloved Prophet Hazrat Muhammad (Sm) is the last and the greatest of the Prophets.</sent>
+				<sent id ="16">No Prophet will come after him up to the Doomsday.</sent>
+				<sent id ="17">Hence, the book revealed on him is the last revealed book.</sent>
+				<sent id ="18">In this book the substance of all the previous books has been made.</sent>
+				<sent id ="19">Allah has given all the Prophets some miracles, through which people may become believers.</sent>
+				<sent id ="20">The Quran is the Store of all kinds of knowledge.</sent>
+				<sent id ="21">This is a guide for mankind to distinguish between the Truth and falsehood, justice and injustice and right and wrong.</sent>
+				<sent id ="22">Hence, for leading a decent and peaceful life in this world the study of the Quran is essential.</sent>
+				<sent id ="23">Tilawat al- Quran means to read the Quran and to follow the same.</sent>
+				<sent id ="24">The Quran is a holy book.</sent>
+				<sent id ="25">To recite the Quran is a holy and virtuous deed, achieving ten virtues with the recitation of every word.</sent>
+				<sent id ="26">The blessing of Allah is poured on the house where the Quran is recited.</sent>
+				<sent id ="27">Recitation of the Quran with (understanding) the meaning is better.</sent>
+				<sent id ="28">It is one of the best Ibadats.</sent>
+				<sent id ="29">The Prophet (Sm) himself did it and said that it is one of the best Ibadats.</sent>
+				<sent id ="30">In fact, Allah has sent His Prophet to teach the Quran.</sent>
+				<sent id ="31">Hence, the Prophet (Sm) and his companions used to recite the Quran every day and every night.</sent>
+				<sent id ="32">From this lesson we came to know the introduction of the Quran and the importance of its recitation and virtues.</sent>
+				<sent id ="33">So we shall always recite the Quran with meaning.</sent>
+				<sent id ="34">To recite the holy Quran according to the proper pronunciation of every letter is called Tajvid.</sent>
+				<sent id ="35">Some letters are to be pronounced with thick voice like ?</sent>
+				<sent id ="36">(Zvqv) and some letters likely ?</sent>
+				<sent id ="37">(Zv) with thin voice.</sent>
+				<sent id ="38">This special condition of pronouncing (Arabic) letters is called Sifat.</sent>
+				<sent id ="39">It is obligatory to recite the Quran according to Tajvid.</sent>
+				<sent id ="40">To recite the Quran slowly is called Tartil.</sent>
+				<sent id ="41">The students and teachers following correct recitation and study of the Quran are most dignified to Allah.</sent>
+				<sent id ="42">The Prophet (Sm) said, The most dignified amongst you are those who learn and teach the, Quran with correct pronunciation.</sent>
+				<sent id ="43">To recite the Quran early in.the</sent>
+				<sent id ="44">morning with full attention and care is much more valuable than any other valuable wealth.</sent>
+				<sent id ="45">There are 29 letters in Arabic language.</sent>
+				<sent id ="46">These letters are pronounced from 17 places of the mouth.</sent>
+				<sent id ="47">These places of the pronunciation are called Makhraj.</sent>
+				<sent id ="48">These places of pronunciation are located in 5 positions of the mouth.</sent>
+				<sent id ="49">Sura Fatiha was revealed at Makka.</sent>
+				<sent id ="50">The number of its verses is seven.</sent>
+				<sent id ="51">Sura Fatiha is the first and the most important Sura of the Quran.</sent>
+				<sent id ="52">With this sura the holy Quran started and with this Sura the highest Ibadat, Salat is started.</sent>
+				<sent id ="53">This Sura is like an introduction to the Quran.</sent>
+				<sent id ="54">Hence, the name of this Sura is Fatiha.</sent>
+				<sent id ="55">Fatiha means introduction.</sent>
+				<sent id ="56">It is also the first which has been revealed for the first time as a complete Sura.</sent>
+				<sent id ="57">Sura Fatiha is the substance of the entire Quran.</sent>
+				<sent id ="58">That is why it is called Ummul Quran or the root (foundation) of the Quran.</sent>
+				<sent id ="59">We shall memorize this Sura and shall know the meaning.</sent>
+				<sent id ="60">The gist of the whole Quran has been given in brief in Sura Fatiha.</sent>
+				<sent id ="61">The first three verses contain.</sent>
+				<sent id ="62">Since He is the Cherisher of the universe, He is most Gracious and most Merciful.</sent>
+				<sent id ="63">Hence, all praises are due to Him.</sent>
+				<sent id ="64">We worship only Allah, the Great and seek help only to Him.</sent>
+				<sent id ="65">O Cherisher of the worlds, accept our prayer.</sent>
+				<sent id ="66">Sura an - Nas has been revealed at Makka.</sent>
+				<sent id ="67">It has six verses.</sent>
+				<sent id ="68">It is the last Sura of the Quran.</sent>
+				<sent id ="69">In Sura Fatiha the servants of Allah, men prayed to Allah for true and right path.</sent>
+				<sent id ="70">Hence, Allah has given the Quran as guide to it.</sent>
+				<sent id ="71">But there may be some obstacles and hindrances from the devils of Jin and devils of men.</sent>
+				<sent id ="72">In this Sura refuge has been sought to Allah from the whisperings of the devils.</sent>
+				<sent id ="73">There was an occurrence behind the revelation of Sura An-Nas and Sura Al- Falaq.</sent>
+				<sent id ="74">The Prophet (Sm) had been ill for six months.</sent>
+				<sent id ="75">Allah informed the Prophet (Sm) of it.</sent>
+				<sent id ="76">We shall memorize this Sura.</sent>
+				<sent id ="77">Sura Al-Falaq was revealed at Makka.</sent>
+				<sent id ="78">It is of five verses.</sent>
+				<sent id ="79">Sura Al-Falaq and Sura An-Nas have a close relation.</sent>
+				<sent id ="80">Thus, the Shan-i-Nuzul (background) of revelation of these-two Suras is the same.</sent>
+				<sent id ="81">Of course, in Sura Al-Falaq the way of seeking refuge from different kinds of worldly evils have been given.</sent>
+				<sent id ="82">Allah is the only Supreme Authority over all of His creation in this world.</sent>
+				<sent id ="83">Nothing can even move without His will.</sent>
+				<sent id ="84">Hence, refuge should be sought only to Him from all kinds of evil things.</sent>
+				<sent id ="85">In Sura Al-Falaq refuge has been sought from all kinds of mischief and evils.</sent>
+				<sent id ="86">He and only He can save us.</sent>
+				<sent id ="87">Sura Al-Asar was revealed at Makka.</sent>
+				<sent id ="88">Its verses are three.</sent>
+				<sent id ="89">This Sura is one of the shortest Suras of the Quran, but it has a vast meaning.</sent>
+				<sent id ="90">The way of human betterment and the way of their destruction have clearly been mentioned in this Sura.</sent>
+				<sent id ="91">We shall memorize this Sura and shall learn its meaning.</sent>
+				<sent id ="92">These four deeds are: Iman of faith, righteous deeds, mutual teachings and advice and patience.</sent>
+				<sent id ="93">Allah swears by time because time is a most valuable thing.</sent>
+				<sent id ="94">With this, human life could be useful, fruitful and successful.</sent>
+				<sent id ="95">Sura Al-Humazah revealed at Makka has nine verses.</sent>
+				<sent id ="96">Description of some hated nature has been given in this Sura.</sent>
+				<sent id ="97">The man possessing these evil habits are hated in the society and they will be punished in the hereafter.</sent>
+				<sent id ="98">Hence, from the social point of view, this Sura has immense importance.</sent>
+				<sent id ="99">We shall memorize this Sura and understand its meaning.</sent>
+				<sent id ="100">Slandering and back-biting and greed for hoarding wealth, these evil desires are harmful for human life.</sent>
+				<sent id ="101">These are harmful in this world creating disturbance and dispute and in the hereafter to the hell.</sent>
+				<sent id ="102">These are mentioned in the Quran for precaution to save ourselves from these kinds of evil desires.</sent>
+				<sent id ="103">So. we shall keep ourselves aloof from slandering, back-biting and miserliness.</sent>
+				<sent id ="104">Allah is our Cherisher.</sent>
+				<sent id ="105">He has unlimited kindness and mercy upon us.</sent>
+				<sent id ="106">We must fulfil His commandments.</sent>
+				<sent id ="107">We can not perform those without His.</sent>
+				<sent id ="108">kindness and mercy.</sent>
+				<sent id ="109">That is why, we should pray to Him.</sent>
+				<sent id ="110">We usually commit many wrongs, for which we deserve punishment.</sent>
+				<sent id ="111">Hence, we shall memorize the verses of prayer given below and shall understand their meanings.</sent>
+				<sent id ="112">Our Lord give us good in this world and good in hereafter and defend us from.</sent>
+				<sent id ="113">the torment of the fire.</sent>
+				<sent id ="114">We shall pray to Allah with this for our betterment in this world and for the salvation in the hereafter.</sent>
+				<sent id ="115">My Lord! Bestow on them (parents) Thy mercy even as they cherished me in childhood.</sent>
+				<sent id ="116">We shall memorize this verse and shall pray to Allah for the betterment of our parents.</sent>
+				<sent id ="117">O my Lord!</sent>
+				<sent id ="118">We shall read more and learn more and shall do our best for the betterment of mankind.</sent>
+				<sent id ="119">Hence, we shall pray to Allah to give us ability for the purpose.</sent>
+				<sent id ="120">We shall be able to memorize Sura-al-Fatiha, Asar, Humazah, Falaq and Nas, with their meanings.</sent>
+				<sent id ="121">We shall regularly recite these Suras and shall use the verses of prayer in the Monajat (prayer).</sent>
+				<sent id ="122">Hadith means sayings or messages.</sent>
+				<sent id ="123">The sayings, deeds and consents of the Prophet (Sm) are called Hadith.</sent>
+				<sent id ="124">The Prophet (Sm) commanded his followers to do good deeds and prohibited them from the evils.</sent>
+				<sent id ="125">All of these commandments and prohibitions were according to the will of Allah.</sent>
+				<sent id ="126">Accordingly all the deeds of the Prophet (Sm) are ideals for his followers.</sent>
+				<sent id ="127">The Sahabis, companions (Those who saw the Prophet (Sm) with Iman) of the Prophet (Sm) used to preserve his Hadith.</sent>
+				<sent id ="128">The companions always used to be with him to listen to his each and every words.</sent>
+				<sent id ="129">And after his departure from the Majlis (discussion meeting) they used to discuss and memorize his Hadith.</sent>
+				<sent id ="130">At-that-time writing of Hadith was prohibited.</sent>
+				<sent id ="131">Because the Quran was being revealed in those days and being written.</sent>
+				<sent id ="132">So if the writing of Hadith also was permitted, it might mix with the Quran.</sent>
+				<sent id ="133">This system of memorizing Hadith continued.</sent>
+				<sent id ="134">Imam Bukhari (R) memorized the Hadith.</sent>
+				<sent id ="135">In Islam the place of Hadith is next to the Quran.</sent>
+				<sent id ="136">Islamic way of life remains incomplete without Hadith.</sent>
+				<sent id ="137">Hadith is the explanation of the Quran.</sent>
+				<sent id ="138">Allah advised the Prophet (Sm) to explain the Quran and this explanation by the Prophet (Sm) is Hadith.</sent>
+				<sent id ="139">For example, Allah commanded for Salat but how to establish Salat has been explained through the Hadith.</sent>
+				<sent id ="140">That is why the Prophet (Sm) said: You follow me in performing Salat.</sent>
+				<sent id ="141">Imam Abu Hanifa (R) said.</sent>
+				<sent id ="142">We could not understand the Quran without the Hadith.</sent>
+				<sent id ="143">Allah will give the best reward to the person who learnt Hadith, preserved it and preached it to others.</sent>
+				<sent id ="144">For the betterment and beauties of life and society ethics is essential.</sent>
+				<sent id ="145">No individual or nation can achieve peace, progress and prosperity without following the best ethics and attaining good character.</sent>
+				<sent id ="146">He has a number of Hadith following which we can attain good character, best ethics and morality.</sent>
+				<sent id ="147">We shall understand the two Hadithes given below and shall memorize them.</sent>
+				<sent id ="148">Meaning: The man who breaks promise has no religion (Musnad-e-Dailami).</sent>
+				<sent id ="149">Teachings: Fulfillment of words or promise is essential for all.</sent>
+				<sent id ="150">At the beginning of the creation of mankind they have accepted the Lordship of Allah and promised to Him.</sent>
+				<sent id ="151">According to that promise we must aide by His commandments in all aspects of our life.</sent>
+				<sent id ="152">We are accountable to Allah about this promise at the Day of Resurrection.</sent>
+				<sent id ="153">Promise must be fulfilled in this world also.</sent>
+				<sent id ="154">Disturbances may be removed from the society if this principle is practiced.</sent>
+				<sent id ="155">We shall always fulfill our promise.</sent>
+				<sent id ="156">Purity is a part of Iman (the faith).</sent>
+				<sent id ="157">It means, we should achieve both external and internal purification.</sent>
+				<sent id ="158">We shall do the same and we shall also maintain cleanliness in our environments.</sent>
+				<sent id ="159">Meaning: O Allah! forgive me all of my sins, wrongs, faults and of my willingly committed offenses.</sent>
+				<sent id ="160">Meaning: O Allah!</sent>
+				<sent id ="161">I want and urge to You for beneficial knowledge and legal sacred food.</sent>
+				<sent id ="162">We shall be able to tell these Hadithes from our memory and shall use these Hadithes in the Munajat (prayer).</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

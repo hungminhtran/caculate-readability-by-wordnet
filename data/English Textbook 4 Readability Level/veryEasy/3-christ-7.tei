@@ -1,0 +1,104 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.859</idno>
+				<idno type="Number of sentences">76</idno>
+				<idno type="Number of tokens">676</idno>
+				<idno type="Number of token types">314</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t11">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We know that Adam and Eve were the first human beings ever created by God.</sent>
+				<sent id ="2">They are our original parents.</sent>
+				<sent id ="3">They disobeyed God.</sent>
+				<sent id ="4">Because, they were tempted by Satan to eat the forbidden fruit.</sent>
+				<sent id ="5">They knowingly disobeyed God.</sent>
+				<sent id ="6">Thus they committed a great sin.</sent>
+				<sent id ="7">Due to this sin they were severely punished.</sent>
+				<sent id ="8">Now we will read about the story of Adam and Eve from the Holy Bible.</sent>
+				<sent id ="9">Then we will learn how they were punished.</sent>
+				<sent id ="10">God allowed Adam and to live in a very beautiful garden named Eden.</sent>
+				<sent id ="11">They all lived in peace with Adam and Eve.</sent>
+				<sent id ="12">No one harmed the other.</sent>
+				<sent id ="13">God gave Adam and Eve the responsibilities to look after everything there.</sent>
+				<sent id ="14">He also allowed them to use those things.</sent>
+				<sent id ="15">He said to them, There are many fruit-bearing trees.</sent>
+				<sent id ="16">Dont eat its fruit.</sent>
+				<sent id ="17">If you eat that, you will die.</sent>
+				<sent id ="18">Everyday, God used to take care of them in the garden.</sent>
+				<sent id ="19">He loved them very much.</sent>
+				<sent id ="20">Satan tried to mislead them.</sent>
+				<sent id ="21">So, one day Satan came to Eve in the guise of a snake.</sent>
+				<sent id ="22">She replied, If we eat the fruit of this tree, we will die.</sent>
+				<sent id ="23">You will be equal to God.</sent>
+				<sent id ="24">So He has forbidden you to eat this fruit.</sent>
+				<sent id ="25">So, Eve became greedy and wanted to be equal to God.</sent>
+				<sent id ="26">She agreed to eat that fruit of the forbidden tree.</sent>
+				<sent id ="27">Satan took a fruit of the tree and gave it to Eve.</sent>
+				<sent id ="28">She ate it herself and gave it to Adam to eat.</sent>
+				<sent id ="29">Adam also ate that fruit.</sent>
+				<sent id ="30">As soon as they had eaten the fruit, they were given the knowledge.</sent>
+				<sent id ="31">They could realized that they were naked.</sent>
+				<sent id ="32">So they wove fig leaves together and covered themselves.</sent>
+				<sent id ="33">Then Adam and Eve heard the sound of God's stepping.</sent>
+				<sent id ="34">They understood that God was coming to them.</sent>
+				<sent id ="35">Thinking this, they hid behind a bush.</sent>
+				<sent id ="36">God called Adam, Where are you?</sent>
+				<sent id ="37">Adam answered, Hearing your stepping, we have gone into hiding.</sent>
+				<sent id ="38">Because we are naked.</sent>
+				<sent id ="39">God asked him, Who has told you that you are naked?</sent>
+				<sent id ="40">Have you eaten the fruit I had forbidden you to eat?</sent>
+				<sent id ="41">I have eaten it.</sent>
+				<sent id ="42">So He was very displeased with them.</sent>
+				<sent id ="43">He punished them.</sent>
+				<sent id ="44">He said to them, I shall increase your unhappiness and trouble.</sent>
+				<sent id ="45">Then God drove Adam and Eve from the Eden and sent them on earth.</sent>
+				<sent id ="46">What is Sin?</sent>
+				<sent id ="47">Conscious disobedience to God is a sin.</sent>
+				<sent id ="48">Yet, they were tempted by Satan.</sent>
+				<sent id ="49">Thus they disobeyed God and committed sin.</sent>
+				<sent id ="50">When one commits sin, he or she loses peace.</sent>
+				<sent id ="51">They had to come down on the earth.</sent>
+				<sent id ="52">For this sin, their good relation with God was broken.</sent>
+				<sent id ="53">Adam and Eve polluted their souls by committing a sin.</sent>
+				<sent id ="54">This pollution and sin spread among their next generations.</sent>
+				<sent id ="55">As a result, they lost their purity.</sent>
+				<sent id ="56">We are their descendants.</sent>
+				<sent id ="57">So, we are born with an attraction for sin.</sent>
+				<sent id ="58">This is called the original sin.</sent>
+				<sent id ="59">For this sin the door of heaven was closed for us.</sent>
+				<sent id ="60">Having Faith in Jesus Christ, we can recive the sacrament of Baptizm and become sacramental.</sent>
+				<sent id ="61">We can redeem ourselves from the original sin through baptism.</sent>
+				<sent id ="62">Sometimes we neglect to go to the Church and thus we commit a sin.</sent>
+				<sent id ="63">We do not take part in prayers either, because we do not love God.</sent>
+				<sent id ="64">By disobeying our parents, teachers and elders, we also commit sin.</sent>
+				<sent id ="65">As we do not love them, we disobey them.</sent>
+				<sent id ="66">To tell a lie, to steal, and to quarrel among ourselves are also sins.</sent>
+				<sent id ="67">All these are our ill feelings towards others.</sent>
+				<sent id ="68">We lose the eligibility of becoming the child of God by committing sins.</sent>
+				<sent id ="69">The relation of love between God and humankind is broken.</sent>
+				<sent id ="70">As a result sorrows and sufferings, anguish and unhappiness increase.</sent>
+				<sent id ="71">Thus the happiness and joy remain a far cry in our life.</sent>
+				<sent id ="72">We can free ourselves from sins by sacramental confessions.</sent>
+				<sent id ="73">Through the sacraments we get God's forgiveness and peace.</sent>
+				<sent id ="74">Then we forgive each other.</sent>
+				<sent id ="75">Thus we develop a loving relationship with God and man.</sent>
+				<sent id ="76">This is how we reunite with God and humankind.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,150 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-sci-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.253</idno>
+				<idno type="Number of sentences">122</idno>
+				<idno type="Number of tokens">1155</idno>
+				<idno type="Number of token types">564</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t27">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">A breath of air on a sultry day relieves us.</sent>
+				<sent id ="2">Is this air visible?</sent>
+				<sent id ="3">No, it is not visible.</sent>
+				<sent id ="4">We cannot even hold or touch air.</sent>
+				<sent id ="5">We can only feel it.</sent>
+				<sent id ="6">There is air all around us.</sent>
+				<sent id ="7">Even, invisible layer of air surrounds the earth.</sent>
+				<sent id ="8">This layer of air is called atmosphere.</sent>
+				<sent id ="9">Existence of Air How can we realize the existence of air in the atmosphere?</sent>
+				<sent id ="10">The cool breeze refreshes our body and mind.</sent>
+				<sent id ="11">It causes leaves to move, clouds to blow away and crops to swing.</sent>
+				<sent id ="12">The wind drives sailing boats through water and raises waves in the river water.</sent>
+				<sent id ="13">Sometimes, air blows at a violent speed and causes storm.</sent>
+				<sent id ="14">Violent strom sometimes uproots trees and blows away rooftops of tin shed houses.</sent>
+				<sent id ="15">And with breeze clothes flutter, hair blows and kites fly.</sent>
+				<sent id ="16">These are some examples of how we feel the existence of air.</sent>
+				<sent id ="17">You too can give some similar examples of your own.</sent>
+				<sent id ="18">Air contains mainly two different gases.</sent>
+				<sent id ="19">In addition, there is small amount of other gases.</sent>
+				<sent id ="20">Other gases such as, carbon dioxide, argon, helium, water vapour together constitute about one percent.</sent>
+				<sent id ="21">Various gases that are present in air are called the constituents of air.</sent>
+				<sent id ="22">Nitrogen, oxygen, argon, water vapour, carbon dioxide, helium, neon are the constituents of air.</sent>
+				<sent id ="23">These constituents remain mixed in air.</sent>
+				<sent id ="24">So, air is a mixture.</sent>
+				<sent id ="25">The constituents of air can be separated and put to different uses.</sent>
+				<sent id ="26">Like us, all living organisms, including animals and plants, depend on air for their existence.</sent>
+				<sent id ="27">For this reason, air is also called life.</sent>
+				<sent id ="28">We can not survive without it.</sent>
+				<sent id ="29">The fire we use in cooking also needs air.</sent>
+				<sent id ="30">Oxygen helps fire to burn.</sent>
+				<sent id ="31">Without oxygen fire does not burn.</sent>
+				<sent id ="32">You can test it by doing an experiment.</sent>
+				<sent id ="33">Place a candle in the middle of a bowl.</sent>
+				<sent id ="34">Put some water in the bowl.</sent>
+				<sent id ="35">Now light the candle with the help of your teacher or a senior student.</sent>
+				<sent id ="36">What do you see?</sent>
+				<sent id ="37">The candle is burning well in the presence of oxygen in the air, isn't it?</sent>
+				<sent id ="38">Now, take a glass as shown in the picture below.</sent>
+				<sent id ="39">Turn the glass upside down over the candle and cover it.</sent>
+				<sent id ="40">Wait for a while.</sent>
+				<sent id ="41">What do you see? Has the candle extinguished?</sent>
+				<sent id ="42">Some amount of water also rose up inside the glass.</sent>
+				<sent id ="43">Can you tell the reason behind it?</sent>
+				<sent id ="44">The candle burned a while after it was covered with the glass.</sent>
+				<sent id ="45">Now, put a mark on the glass at the level to which water has risen.</sent>
+				<sent id ="46">With the help of your teacher, measure it with a ruler.</sent>
+				<sent id ="47">You will find that 1/5 of the glass was occupied by oxygen.</sent>
+				<sent id ="48">Human beings and living creatures need oxygen to breathe.</sent>
+				<sent id ="49">The patients with breathing problem use liquid oxygen supplied from a cylinder.</sent>
+				<sent id ="50">Perhaps, you have seen in pictures that high mountain climbers carry oxygen cylinder with them.</sent>
+				<sent id ="51">Do you know why they need additional supply of oxygen?</sent>
+				<sent id ="52">This is because breathing is not possible while staying under water.</sent>
+				<sent id ="53">Certainly, you have heard about urea, a kind of fertilizer.</sent>
+				<sent id ="54">Nitrogen is the major component of this fertilizer.</sent>
+				<sent id ="55">Nitrogen is used in preserving perishable goods like fish, meat and fruit.</sent>
+				<sent id ="56">You like to eat chips and crispy.</sent>
+				<sent id ="57">The packets that contain these are much inflated, aren't they?</sent>
+				<sent id ="58">There is nitrogen inside these packets too.</sent>
+				<sent id ="59">It prevents decay of materials inside the packets.</sent>
+				<sent id ="60">Big buildings, cinema halls, mills and factories are equipped with fire extinguishers.</sent>
+				<sent id ="61">Fire extinguishers have in-built mechanism of producing carbon dioxide.</sent>
+				<sent id ="62">Carbon dioxide gas is used in soft drinks.</sent>
+				<sent id ="63">that you often drink.</sent>
+				<sent id ="64">As soon as the bottles or cans are opened, bubbles of carbon dioxide gas escape.</sent>
+				<sent id ="65">Plants, too, use carbon dioxide from air to manufacture its food.</sent>
+				<sent id ="66">Unlike human beings, birds and animals, plants cannot move from one place to another.</sent>
+				<sent id ="67">It can not collect its food.</sent>
+				<sent id ="68">Green leaves make food for the plants they belong to.</sent>
+				<sent id ="69">The food is prepared in the leaves.</sent>
+				<sent id ="70">During day time, in presence of sunlight, green leaves manufacture food.</sent>
+				<sent id ="71">To do that, it requires carbon dioxide and water from the air.</sent>
+				<sent id ="72">Plants absorb essential elements along with water from the soil.</sent>
+				<sent id ="73">Air has pressure.</sent>
+				<sent id ="74">It exerts pressure upward, downward and in all directions.</sent>
+				<sent id ="75">To prove that air has pressure, carry out the task described below.</sent>
+				<sent id ="76">Fill up the glass to the brim with water.</sent>
+				<sent id ="77">Now place the card on the brim of the glass as shown in the picture.</sent>
+				<sent id ="78">Hold the glass with one hand.</sent>
+				<sent id ="79">Now invert the glass and remove the hand from the card.</sent>
+				<sent id ="80">Does water fall down?</sent>
+				<sent id ="81">No, it does not.</sent>
+				<sent id ="82">Why does not water fall down?</sent>
+				<sent id ="83">What do you learn from this?</sent>
+				<sent id ="84">On inversion of the glass, air below the glass exerts upward pressure on the card.</sent>
+				<sent id ="85">Due to this pressure water does not fall down from the glass.</sent>
+				<sent id ="86">From this experiment we learn that air has upward pressure.</sent>
+				<sent id ="87">We apply air pressure in various applications.</sent>
+				<sent id ="88">You may have heard about parachute or seen it in pictures.</sent>
+				<sent id ="89">Often, the parachute is used for emergency landing from the aeroplane.</sent>
+				<sent id ="90">When parachute begins its descent towards ground, air exerts upward pressure on it.</sent>
+				<sent id ="91">Now let us take another example.</sent>
+				<sent id ="92">Wheels of a cycle contain tubes in it.</sent>
+				<sent id ="93">When air is pumped inside a tube, the tube becomes inflated.</sent>
+				<sent id ="94">The air within the tube exerts pressure outside.</sent>
+				<sent id ="95">Carbondioxide emits from automobiles and brick kilns.</sent>
+				<sent id ="96">Sometimes, lead remains mixed with combustion fuels.</sent>
+				<sent id ="97">Lead particles are also released in air through black smoke of vehicles,.</sent>
+				<sent id ="98">We inhale these poisonous gaseous materials into our body and they affect our lungs.</sent>
+				<sent id ="99">Infected lungs cause diseases like cough, cold, breathing trouble and headache.</sent>
+				<sent id ="100">Children are mostly infected with these diseases.</sent>
+				<sent id ="101">Lead particles inhibit intellectual development of the children.</sent>
+				<sent id ="102">To keep air pure we must stop black smoke comming out from the cars.</sent>
+				<sent id ="103">We have to refrain from coughing and spitting here and there.</sent>
+				<sent id ="104">Household garbage has to be disposed of in a dustbin.</sent>
+				<sent id ="105">Some people dispose of garbage out side the dustbin.</sent>
+				<sent id ="106">It emits stinks, and with breathing stink air germs of disease enter our body.</sent>
+				<sent id ="107">It may cause a number of stomach ailments.</sent>
+				<sent id ="108">Air is an invaluable resource.</sent>
+				<sent id ="109">We are literally living in an ocean of air.</sent>
+				<sent id ="110">Animals and plants cannot survive without air.</sent>
+				<sent id ="111">That is why pure air is most essential.</sent>
+				<sent id ="112">Air of many cities become polluted through various means.</sent>
+				<sent id ="113">Some people dispose waste materials, andurinate in side walks, under the treeor here and there.</sent>
+				<sent id ="114">The immediate environment becomes filthy and fetid.Mills, factories and brick kiln must.</sent>
+				<sent id ="115">To run motorcars, refined petrol or natural gas should be used.</sent>
+				<sent id ="116">Now-a- days, motorised vehicles have started using natural gas.</sent>
+				<sent id ="117">Generally natural gas does not pollute air.</sent>
+				<sent id ="118">Some germs of diseases are airborne and spread through air.</sent>
+				<sent id ="119">Such diseases are small pox, tuberculosis, influenza etc.</sent>
+				<sent id ="120">Have you noticed how air gets polluted in your locality?</sent>
+				<sent id ="121">What measures would you take to prevent that pollution?</sent>
+				<sent id ="122">Discuss with your peers and prepare a list.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

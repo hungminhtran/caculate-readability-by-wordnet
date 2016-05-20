@@ -1,0 +1,109 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-phyStud-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.481</idno>
+				<idno type="Number of sentences">81</idno>
+				<idno type="Number of tokens">946</idno>
+				<idno type="Number of token types">456</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t116">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Girls guiding is an international educational youth movement.</sent>
+				<sent id ="2">Without discrim inating caste, creed, colour and religion.</sent>
+				<sent id ="3">The girls of the world are eligible to take part in this movement.</sent>
+				<sent id ="4">It plays a complementary role to formal edu cation.</sent>
+				<sent id ="5">It also helps to make the guiders habituated to a health way of living through various joyful activities.</sent>
+				<sent id ="6">Girls Guiding was in fact, introduced in this country long before but in a very limited way.</sent>
+				<sent id ="7">After achieving independence girls guiding was started a new with much more activities than before.</sent>
+				<sent id ="8">A Guide's honour is to be trusted.</sent>
+				<sent id ="9">A Guide is loyal to her-country, her Guiders.</sent>
+				<sent id ="10">3 A Guide's duty is to be useful and to help others.</sent>
+				<sent id ="11">A Guide is a friend to all and a sister to all guides.</sent>
+				<sent id ="12">A Guide is courteous.</sent>
+				<sent id ="13">A Guide is a friend to animals.</sent>
+				<sent id ="14">A Guide obeys orders.</sent>
+				<sent id ="15">A Guide smiles and sings under all difficulties.</sent>
+				<sent id ="16">A Guide is thrifty.</sent>
+				<sent id ="17">A Guide is clean in thought, word and deed.</sent>
+				<sent id ="18">The National Flag of a country is the symbol of independence, sovereignty and national pride.</sent>
+				<sent id ="19">The National Flag of Bangladesh is made of green colour in the background with red sun inside.</sent>
+				<sent id ="20">The green colour indicates the natural scenery of the country and it also resembles the youthfulness and vigour of life.</sent>
+				<sent id ="21">The red sun symbolises the War of Liberation.</sent>
+				<sent id ="22">It is rectangular in shape.</sent>
+				<sent id ="23">The ratio of the length and breadth of the flag is 10:6.</sent>
+				<sent id ="24">The radius of the red circle in the flag will be one fifth of the length of the flag.</sent>
+				<sent id ="25">The national flag is hoisted in the public places, buildings etc. on all nationally important days.</sent>
+				<sent id ="26">In other important occasions, the hag is also be hoisted.</sent>
+				<sent id ="27">During the ceremony of hoisting the flag, everybody shows respect by standing silently.</sent>
+				<sent id ="28">The flag remains hoisted during the day time.</sent>
+				<sent id ="29">It is to be kept in mind that it must be in proper size and colour.</sent>
+				<sent id ="30">The flag is hoisted half-mast on any nation ally important mournful occasion.</sent>
+				<sent id ="31">Like all other national and international organisations, World Girls Guide Association has its own flag.</sent>
+				<sent id ="32">This flag is known as World Flag to all Girls Guides Associations of the world.</sent>
+				<sent id ="33">Each part of the flag signifies the basic principles and objectives of the Girls Guide movement.</sent>
+				<sent id ="34">The flag is square in shape and its length and breath are 91.44 cm 114.30</sent>
+				<sent id ="35">Or 91.44 cm.</sent>
+				<sent id ="36">The background of the flag is sky-blue in colour.</sent>
+				<sent id ="37">There a circle in the flag and within this circle there are three leaves which are golden yellow in colour.</sent>
+				<sent id ="38">It also indicates he purity and liberalism of mind.</sent>
+				<sent id ="39">The golden yellow colour of the three leaves resembles the sun rays.</sent>
+				<sent id ="40">As the sun rays fall on rich and poor alike, the guides help everybody without discrimination.</sent>
+				<sent id ="41">The guides sing their own song.</sent>
+				<sent id ="42">It is called the world song.</sent>
+				<sent id ="43">They sing it in any national and international occasions.</sent>
+				<sent id ="44">The main objective of the guide programme is to learn how to be an ideal per son.</sent>
+				<sent id ="45">The programmes are, therefore, based on three special promises and ten laws.</sent>
+				<sent id ="46">Scouting in educational institutions has brought about a revolution in building good qualities in persons.</sent>
+				<sent id ="47">There are three stages of scouting prevalent in educational institutions.</sent>
+				<sent id ="48">These are: Cub-Scouts: 6 - 10 years.</sent>
+				<sent id ="49">Boy Scouts: 11-15 years and Rover Scouts: 16 - 24 years.</sent>
+				<sent id ="50">The scouting becomes complete when a boy starts from Cub-Scouting and finishes Rover Scouting.</sent>
+				<sent id ="51">The Cub-Scouts follow the orders of the leader and learn to work for the troop.</sent>
+				<sent id ="52">The scouts through out their scouting activities, gather experiences and earn leadership quality to lead the scouting activities in future.</sent>
+				<sent id ="53">Scouting activities teach the boys how to learn from others and to become loyal, self-reliant, regular, courageous, religious, patriotic.</sent>
+				<sent id ="54">The scouts dedicate them selves for the good of others and serve the country in time of need.</sent>
+				<sent id ="55">These activities help them achieve the leadership qualities.</sent>
+				<sent id ="56">Scout movement was introduced first by Robert Stephenson Smith Baden Powell.</sent>
+				<sent id ="57">He was popularly known as Lord Baden powell.</sent>
+				<sent id ="58">He was born in England in 1857 and took up the career in the army.</sent>
+				<sent id ="59">He died in 1941.</sent>
+				<sent id ="60">Scouts all over the world have unwritten laws which bind them together.</sent>
+				<sent id ="61">Because of the these laws, they show world brotherhood in scouting.</sent>
+				<sent id ="62">These laws have come down from the old times to the present days.</sent>
+				<sent id ="63">Scouts follow these laws intently.</sent>
+				<sent id ="64">The scout laws are same as those of the Girls Guide laws.</sent>
+				<sent id ="65">These laws can be seen in this chapter under the title of Girls Guiding.</sent>
+				<sent id ="66">The Scouts have their own custom to pay salam to each other.</sent>
+				<sent id ="67">The Muslims will utter the word, Assalamu Alaikum while the other with reply with Oa Alaikum Assalam with less sound.</sent>
+				<sent id ="68">Scouts will always salute as a token of respect.</sent>
+				<sent id ="69">The scout sign is done by the three middle fingers of the right hand.</sent>
+				<sent id ="70">These fingers will remain fixed to each other and erected.</sent>
+				<sent id ="71">The thumb finger will cover the nail of the little finger.</sent>
+				<sent id ="72">The palm of the hand will look to the front.</sent>
+				<sent id ="73">The hand will form a 90 angle from the shoulder and the right arm will remain in horizontal position.</sent>
+				<sent id ="74">After saluting each other, the scouts shake hands with a fellow scout.</sent>
+				<sent id ="75">It is a social custom that people shake with their right hands.</sent>
+				<sent id ="76">But in scout system, the scouts shake hands with their left hands.</sent>
+				<sent id ="77">Through this handshake, they express friendship and good fellow feeling.</sent>
+				<sent id ="78">The scout motto is, Be Prepared.</sent>
+				<sent id ="79">The Cub-Scout motto is Try utmost, while service is the motto of Rover Scouts.</sent>
+				<sent id ="80">The scouts have a slogan too.</sent>
+				<sent id ="81">They say, At least, I shall do a good deed every day.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

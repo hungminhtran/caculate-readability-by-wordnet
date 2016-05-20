@@ -1,0 +1,90 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-budh-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.376</idno>
+				<idno type="Number of sentences">62</idno>
+				<idno type="Number of tokens">744</idno>
+				<idno type="Number of token types">303</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t37">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The very word,Tiratana means Triple-gems, i.e. the combination of three gems.</sent>
+				<sent id ="2">In Buddhism it bears a separate meaning.</sent>
+				<sent id ="3">Here the Triratnas are the Buddha ratna, the Dharma ratna and the Sangha ratna respectively.</sent>
+				<sent id ="4">These three ratnas are collectively known as the Triple-gems.</sent>
+				<sent id ="5">In Buddhism the Triple-gems possess a great significance.</sent>
+				<sent id ="6">The worship of the Triple- gems is the first step for entrance into Buddhism.</sent>
+				<sent id ="7">To be well aware of Buddhism everybody should know about the Triple-gems and its significance.</sent>
+				<sent id ="8">The Buddha is the first gem of the Triple-gems.</sent>
+				<sent id ="9">The word Buddha means wise.</sent>
+				<sent id ="10">The Buddha was more specifically the wisest of all.</sent>
+				<sent id ="11">He became the Buddha performing a great deal of meditation in the present and previous lives.</sent>
+				<sent id ="12">He was the man of profound wisdom.</sent>
+				<sent id ="13">So He is the greatest gem.</sent>
+				<sent id ="14">We pay our tribute to the Buddha with great respect and honour.</sent>
+				<sent id ="15">We praise for His wisdoms and virtues.</sent>
+				<sent id ="16">All our praise for His wisdom and virtues are known as the worship of the Buddha.</sent>
+				<sent id ="17">The Dhamma indicates to hold something.</sent>
+				<sent id ="18">The preceptors of the different ages proclaimed their doctrines for the welfare of all human beings.</sent>
+				<sent id ="19">The proclamation of the teachings of those great men is known as the Dhamma.</sent>
+				<sent id ="20">The Buddha preached His doctrine possessing the Noble Eightfold path.</sent>
+				<sent id ="21">The doctrine proclaimed by the Buddha is known as Buddhism all over the world.</sent>
+				<sent id ="22">This very doctrine of the Buddha is the Dhamma ratna.</sent>
+				<sent id ="23">Thus praising the qualities of the Dhamma is known as the worship of the Dhamma.</sent>
+				<sent id ="24">The Sangha means association of people.</sent>
+				<sent id ="25">In Buddhism all Bhikkhus (monks) who have renounced family bondage are collectively known as the Bhikkhu Sangha.</sent>
+				<sent id ="26">They are called Sangha ratna.</sent>
+				<sent id ="27">They follow the rules set by the Buddha and dedicate themselves for the propagation of Buddhism.</sent>
+				<sent id ="28">They are respected by all.</sent>
+				<sent id ="29">To pay tribute to the Sangha is called the Sangha Vandana i.e. the worship of the Sangha.</sent>
+				<sent id ="30">In fact the Buddha is the symbol of perfect knowledge or wisdom.</sent>
+				<sent id ="31">The Dhamma is the symbol of purity and virtuousness and the Sangha is the symbol of unity.</sent>
+				<sent id ="32">Thus it is found that the Buddha advised the people to earn wisdom practicing virtuousness and upholding unanimity.</sent>
+				<sent id ="33">While performing the prayer some rules are to be followed.</sent>
+				<sent id ="34">At the outset one should take refuge to the Tripple-gems by kneeling before the Buddha image with folded hands.</sent>
+				<sent id ="35">Tisarana means to show respect having full faith in the Buddha, Dhamma and Sangha.</sent>
+				<sent id ="36">The worship to the Triple-gems aims at the effort of reflecting the part of unlimited virtues in one's life.</sent>
+				<sent id ="37">Worship to the Triple-gems purifies the mind.</sent>
+				<sent id ="38">Mental unrest is removed and it helps to earn the virtues peacefully.</sent>
+				<sent id ="39">By dint of worship man never goes to hell rather ascends to heaven after death.</sent>
+				<sent id ="40">He is not afraid of ghosts or evils.</sent>
+				<sent id ="41">Taking refuge to the Triple- gems is much more effective than offering the monastery even.</sent>
+				<sent id ="42">The Noble Eightfold path is the easiest way to attain Nibbana.</sent>
+				<sent id ="43">This is the Dhamma, the greatest by virtues and tranquilities.</sent>
+				<sent id ="44">Do I pay my humble homage to this Dhamma, the most sophisticated one.</sent>
+				<sent id ="45">The Triple-gems have their respective virtues.</sent>
+				<sent id ="46">Such as the Buddha possesses nine, the Dhamma six and the Sanha nine kinds of qualities respectively.</sent>
+				<sent id ="47">I go to the Buddha, the virtuous forever as my refuge.</sent>
+				<sent id ="48">Do I pay my homage to all the Buddhas of the past, present and future.</sent>
+				<sent id ="49">Have I got no other refuge excepting the Buddha, the Enlightened One.</sent>
+				<sent id ="50">Do I bow down my head to the Buddha, the fully awakened One.</sent>
+				<sent id ="51">Oh the Buddha, please forgive me if I do any wrong to you out of ignorance.</sent>
+				<sent id ="52">Well taught is the teaching of the Blessed One, of immediate advantage, timeless, inviting to experience, leading onward, to be known individually by the wise.</sent>
+				<sent id ="53">I go to the most virtuous Dhamma forever as my refuge.</sent>
+				<sent id ="54">Do I pay my homage to the Dhamma of the past, present and future.</sent>
+				<sent id ="55">Have I got no refuge other than the Dhamma.</sent>
+				<sent id ="56">Might this true utterance bring me success and happiness.</sent>
+				<sent id ="57">Do I bow down my head as refuge to the Dhamma that possessed divine qualities.</sent>
+				<sent id ="58">May the Dhamma forgive me if ever I do any wrong out of ignorance.</sent>
+				<sent id ="59">Do I pay my homage to the Sangha forever.</sent>
+				<sent id ="60">Do I worship the Sangha of the past, present and future.</sent>
+				<sent id ="61">Have I got no refuge other than the most virtuous Sangha.</sent>
+				<sent id ="62">May this true utterance bring me success and happiness.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

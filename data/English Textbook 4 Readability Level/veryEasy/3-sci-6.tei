@@ -1,0 +1,134 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-sci-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.291</idno>
+				<idno type="Number of sentences">106</idno>
+				<idno type="Number of tokens">1071</idno>
+				<idno type="Number of token types">515</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t29">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Ancient people had to endure many adversities.</sent>
+				<sent id ="2">They had no idea about how to make fire.</sent>
+				<sent id ="3">They could not cook.</sent>
+				<sent id ="4">They lived on fruits and roots of various plants.</sent>
+				<sent id ="5">Moreover, they hunted wild beasts and ate raw flesh.</sent>
+				<sent id ="6">At that time, they had no idea of building houses, and lived in mountain caves.</sent>
+				<sent id ="7">As there was no medicine, they died of minor ailments.</sent>
+				<sent id ="8">There was no transport system and they had to travel distant places on foot.</sent>
+				<sent id ="9">As they learnt to make fire, they roasted meat in fire and ate it.</sent>
+				<sent id ="10">They gradually learnt to till lands and to do that they learnt to make ploughs.</sent>
+				<sent id ="11">They fell trees with chopper and axe, and built their houses with the timbers.</sent>
+				<sent id ="12">Once, they used to make tools of stone.</sent>
+				<sent id ="13">They also used animal bones and wood to make tools.</sent>
+				<sent id ="14">It took early people a long time to discover copper, bronze and iron.</sent>
+				<sent id ="15">Gradually, they learnt to make various tools and weapons from those metals.</sent>
+				<sent id ="16">Scientists have carried on various studies for newer applications of science.</sent>
+				<sent id ="17">The scientists keenly observed the natural phenomena.</sent>
+				<sent id ="18">They sorted out why particular phenomenon had happened.</sent>
+				<sent id ="19">For instance, they learnt that to raise a good crop soil must be tilled.</sent>
+				<sent id ="20">Water and fertilizer have to be added in the soil.</sent>
+				<sent id ="21">Quality seeds have to be sown.</sent>
+				<sent id ="22">The crop has to be protected from pests and diseases.</sent>
+				<sent id ="23">To do so, application of insecticides are needed.</sent>
+				<sent id ="24">The scientists have invented many products.</sent>
+				<sent id ="25">Cement, plastic, poly- thene etc. are not available in nature.</sent>
+				<sent id ="26">The scientists have invented these.</sent>
+				<sent id ="27">These materials are used to make many kinds of thing.</sent>
+				<sent id ="28">How all these amenities of comfort became available?</sent>
+				<sent id ="29">It happened due to the development of science.</sent>
+				<sent id ="30">Man got much more advantage with the invention of electricity.</sent>
+				<sent id ="31">At present, industries are run by electricity.</sent>
+				<sent id ="32">We use electric fans and lights.</sent>
+				<sent id ="33">Electric and battery run appliances are a fact of every day life today.</sent>
+				<sent id ="34">Science has improved our life in two ways.</sent>
+				<sent id ="35">Science has helped us acquire knowledge about the nature.</sent>
+				<sent id ="36">Then again, science has provided us various appliances.</sent>
+				<sent id ="37">These appliances make our living convenient and comfortable.</sent>
+				<sent id ="38">The success of science has enabled modern day people to lead a comfortable life.</sent>
+				<sent id ="39">Science in Prevention and Cure of Diseases Scientists found out causes of different diseases.</sent>
+				<sent id ="40">They invented newer vaccines for prevention and medicines for cure of these diseases.</sent>
+				<sent id ="41">In ancient time, people used horse, donkey and elephant for transportation.</sent>
+				<sent id ="42">Wheels were not invented at that time.</sent>
+				<sent id ="43">With the invention of wheel people got bullock cart, horse carriage, cycle, rickshaw etc.</sent>
+				<sent id ="44">Just imagine, how difficult life would have been for us, if there were no wheels.</sent>
+				<sent id ="45">Science has helped us a lot in the field of communication.</sent>
+				<sent id ="46">Motor cars and aeroplanes are modern means of transportation.</sent>
+				<sent id ="47">In the following table there are some names of transports given in left side.</sent>
+				<sent id ="48">Write down the names of transports that have wheels in the right column.</sent>
+				<sent id ="49">Science has given us increased mobility in the transport sector.</sent>
+				<sent id ="50">For the mobility of the people, three kinds of transport are available.</sent>
+				<sent id ="51">The examples are listed below in a table form.</sent>
+				<sent id ="52">Each of you prepare a list of land, water and air transports.</sent>
+				<sent id ="53">Then share your lists with others.</sent>
+				<sent id ="54">Identify the transport vehicles that you have travelled by.</sent>
+				<sent id ="55">Prepare a table in your notebook following the table given below.</sent>
+				<sent id ="56">In ancient time, human beings used to do all works by physical labour.</sent>
+				<sent id ="57">After wards, they began to use cows and horses to draw ploughs and carts.</sent>
+				<sent id ="58">They learnt to use water current.</sent>
+				<sent id ="59">The scientists invented engines and these are run by oil and coal.</sent>
+				<sent id ="60">At present, we are using electrically driven engine.</sent>
+				<sent id ="61">In ancient days people used to write on plant leaves and on stones.</sent>
+				<sent id ="62">After the invention of paper, people have learnt to write on paper.</sent>
+				<sent id ="63">You must have heard about computer.</sent>
+				<sent id ="64">A computer is capable of counting very quickly.</sent>
+				<sent id ="65">Many information can be stored in it.</sent>
+				<sent id ="66">Information can be sent through e-mail.</sent>
+				<sent id ="67">Moreover, computers can receive a mailed message immediately.</sent>
+				<sent id ="68">Pictures can be drawn with the help of a computer.</sent>
+				<sent id ="69">One can also create cartoon pictures.</sent>
+				<sent id ="70">We can see films and dramas, listen to music and also play games on computers.</sent>
+				<sent id ="71">We can communicate with a person anywhere in the globe through internet.</sent>
+				<sent id ="72">In a computer you can store necessary information on education or anything you like.</sent>
+				<sent id ="73">Scientists have devised many instruments to study nature.</sent>
+				<sent id ="74">Doctors and scientists use this instrument for their work.</sent>
+				<sent id ="75">The instrument, which is used to observe distant objects, is called the telescope.</sent>
+				<sent id ="76">Scientists observe planets and stars through the telescope.</sent>
+				<sent id ="77">Scientists have invented radio and television.</sent>
+				<sent id ="78">We listen to radio and watch television for various news related to education.</sent>
+				<sent id ="79">In addition to listening to sounds or speeches, we can see pictures on the television.</sent>
+				<sent id ="80">We can improve our knowledge by listening to news on television and radio.</sent>
+				<sent id ="81">Notable among these are chopper, kitchen knife, knife, scissors, spade, axe, sickle and plough.</sent>
+				<sent id ="82">These are called simple instruments.</sent>
+				<sent id ="83">Chopper and axe are used to chop bamboo and woods.</sent>
+				<sent id ="84">These are used in making household mat- erials.</sent>
+				<sent id ="85">Besides, we need chopper and knife in various day to day acti- vities.</sent>
+				<sent id ="86">Moreover, we need this instrument to slaughter cows, buffaloes, sheep and hens.</sent>
+				<sent id ="87">Kitchen knife is used in chopping of vegetable , fish and meat.</sent>
+				<sent id ="88">Cloth and paper are cut with scissors.</sent>
+				<sent id ="89">Spade and sickle are used in agricultural activities.</sent>
+				<sent id ="90">Spade is used to till soil and sickle is used to harvest crops.</sent>
+				<sent id ="91">These day to day utility instruments are very sharp.</sent>
+				<sent id ="92">We have to handle them carefully.</sent>
+				<sent id ="93">Otherwise, we may cut our hands or legs with these sharp instruments.</sent>
+				<sent id ="94">We should keep these out of children's reach.</sent>
+				<sent id ="95">The contribution of science to the development of human civilization is immense.</sent>
+				<sent id ="96">Science has provided many benefits for human welfare.</sent>
+				<sent id ="97">Side by side with progress, science has also been damaging nature in different ways.</sent>
+				<sent id ="98">The motorised vehicles and factories are among the achievements of science.</sent>
+				<sent id ="99">But emission of black smoke from them cause many harms to the environment.</sent>
+				<sent id ="100">These black smokes make air poisonous.</sent>
+				<sent id ="101">Black smoke is very harmful for human health.</sent>
+				<sent id ="102">Plants and vegetation keep our environment pleasant.</sent>
+				<sent id ="103">However, in erecting modern buildings we need bricks and timbers.</sent>
+				<sent id ="104">Lots of wood is burned to produce bricks.</sent>
+				<sent id ="105">This causes depletion of plants and causes imbalance in environment.</sent>
+				<sent id ="106">In order to avert disaster and save our environment we must keep planting more trees.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

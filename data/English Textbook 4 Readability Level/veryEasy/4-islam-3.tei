@@ -1,0 +1,68 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-islam-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.188</idno>
+				<idno type="Number of sentences">40</idno>
+				<idno type="Number of tokens">390</idno>
+				<idno type="Number of token types">165</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t72">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">How to learn the Qur'an Majid?</sent>
+				<sent id ="2">The Qur'an Majid is the Kalam of Allah.</sent>
+				<sent id ="3">'Kalam' means the word or the saying of Allah.</sent>
+				<sent id ="4">It also means the message of Allah.</sent>
+				<sent id ="5">This is the latest Divine Book.</sent>
+				<sent id ="6">But it was not revealed at a time.</sent>
+				<sent id ="7">Its different parts were revealed in different times and at different places.</sent>
+				<sent id ="8">It tells us the way how we will show loyalty to Allah.</sent>
+				<sent id ="9">It also says which acts are good and which are bad.</sent>
+				<sent id ="10">We all should act according to the sayings of the Holy Qur'an.</sent>
+				<sent id ="11">The Qur'an Majid is the holiest book of Allah.</sent>
+				<sent id ="12">This should not be read or recited incorrectly.</sent>
+				<sent id ="13">Because, its meaning is changed when it is read incorrectly.</sent>
+				<sent id ="14">It is farz to recite some verses from the Holy Qur'an in our salat.</sent>
+				<sent id ="15">Farz means compulsory.</sent>
+				<sent id ="16">Salat becomes incorrect if some verses from the Qur'an is not recited in it.</sent>
+				<sent id ="17">So recitation of the Holy Qur'an must be correct.</sent>
+				<sent id ="18">The language of the Holy Qur'an is Arabic.</sent>
+				<sent id ="19">We shall have to learn Arabic to read the Holy Qur'an.</sent>
+				<sent id ="20">To learn Arabic, we shall have to know the harafs (letters) of the Arabic language.</sent>
+				<sent id ="21">There are 29 letters in the Arabic language.</sent>
+				<sent id ="22">All the Arabic letters together are called the Arabic alphabet.</sent>
+				<sent id ="23">One is to read or write Arabic from the right to the left.</sent>
+				<sent id ="24">Let us try to learn the Arabic alphabet.</sent>
+				<sent id ="25">The language of the Qur'an Majid is Arabic.</sent>
+				<sent id ="26">We shall have to learn Arabic and the correct pronunciation of its letters.</sent>
+				<sent id ="27">It is essential to read the Holy Qur'an with correct pronunciation.</sent>
+				<sent id ="28">It keeps the meanings correct and thus our salat also becomes correct.</sent>
+				<sent id ="29">At this, Allah becomes pleased with us.</sent>
+				<sent id ="30">If the reading is not with correct pronunciation, the meaning will be changed.</sent>
+				<sent id ="31">Salat too will not be done correct.</sent>
+				<sent id ="32">So we ought to read the Holy Qur'an correctly.</sent>
+				<sent id ="33">Allah Ta'ala says, You recite the Holy Qur'an slowly and correctly.</sent>
+				<sent id ="34">Makhraz means the place of coming out from or the place of pronunciation.</sent>
+				<sent id ="35">The place of pronunciation of an Arabic letter is called Makhraz.</sent>
+				<sent id ="36">There are 17 makhrazes for the Arabic letters.</sent>
+				<sent id ="37">The meaning of Idgaam is to join together.</sent>
+				<sent id ="38">It means they are jointed together.</sent>
+				<sent id ="39">The meaning of Ijhar is to express, to make clear.</sent>
+				<sent id ="40">It means to pronounce clearly according to the makhraz of the letter.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

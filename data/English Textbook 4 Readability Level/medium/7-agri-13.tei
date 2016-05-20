@@ -1,0 +1,120 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-13</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.69</idno>
+				<idno type="Number of sentences">92</idno>
+				<idno type="Number of tokens">1046</idno>
+				<idno type="Number of token types">433</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t5">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Shrimp is a very valuable fishery resource of Bangladesh.</sent>
+				<sent id ="2">The demand and price of shrimps are progressively increasing in the world market.</sent>
+				<sent id ="3">Shrimp occupies a very important place among the commodities that earn foreign currency.</sent>
+				<sent id ="4">We are earning a handsome amount of foreign money every year by exporting shrimp to other countries.</sent>
+				<sent id ="5">About 4.3% of the export income of the country comes from the shrimp sector.</sent>
+				<sent id ="6">We earned about Tk.11810000000 from shrimp export in 1997-The income from shrimp export is showing a rising trend every year.</sent>
+				<sent id ="7">Shrimp appears to be as valuable as gold to us.</sent>
+				<sent id ="8">Hopefully, the environment of our country favours shrimp culture.</sent>
+				<sent id ="9">We can cultivate Bagda variety in saline water and Galda variety in sweet water in most parts of our country.</sent>
+				<sent id ="10">The yield of shrimp may be increased several folds if we adopt modern techniques of shrimp culture.</sent>
+				<sent id ="11">If we did so, we would earn more from export of shrimp.</sent>
+				<sent id ="12">Moreover, the shrimp culture would employ many people.</sent>
+				<sent id ="13">Importance of shrimp: At present, shrimp is a highly valued commodity of our economy.</sent>
+				<sent id ="14">Most of the export earnings from our fisheries sector emanate from shrimp exports.</sent>
+				<sent id ="15">The foreign exchange earned from shrimps was TK.1045 crores in 1994-95.</sent>
+				<sent id ="16">*We have earned 2992.33 crore in the year of 2006-2007 by exporting shrimp.</sent>
+				<sent id ="17">Shrimp is very palatable and considered an alternative food at home and abroad as it is boneless, rich in protein, easily digestible, soft and tasty.</sent>
+				<sent id ="18">Galda grows fast and attains the largest size among the sweet water shrimps.</sent>
+				<sent id ="19">At present Bagda is cultivated in 1 lakh 15 thousand hectors of land in the Cox's Bazar, Satkhira and Khulna regions.</sent>
+				<sent id ="20">About 28 thousand tons of Bagda are produced from these regions and the whole produce is sent to foreign countries.</sent>
+				<sent id ="21">The average production rate of shrimp in our country is 399 kg per hector.</sent>
+				<sent id ="22">This production rate may be increased to 5000 - 8000 kg/ha adopting modern techniques of shrimp cultivation.</sent>
+				<sent id ="23">Our objective is to increase per hector production of shrimps rather than extending the area of cultivation.</sent>
+				<sent id ="24">The head or the thorax part is covered by a shell known as carapage.</sent>
+				<sent id ="25">There is a sharp saw like organ curving upward at the apex of the carapage.</sent>
+				<sent id ="26">It is known as rostrum.</sent>
+				<sent id ="27">The upper and lower parts of the rostrum are segmented.</sent>
+				<sent id ="28">There are three pairs of long, thread like antennae in front of the head.</sent>
+				<sent id ="29">There are two blackish eyes on each side of the head.</sent>
+				<sent id ="30">Five pairs of legs exist at the lower part of head.</sent>
+				<sent id ="31">The abdominal part is divided into six segments.</sent>
+				<sent id ="32">Every segment is called a pleura.</sent>
+				<sent id ="33">The first five segments have a pair of legs each below them.</sent>
+				<sent id ="34">They are called swimming legs as they are mainly used for swimming.</sent>
+				<sent id ="35">The needle like organ found behind the sixth segment is known as telson.</sent>
+				<sent id ="36">The leaf like two organs found below the telson are known as uropods.</sent>
+				<sent id ="37">The total organs of a shrimp may be divided into three parts.</sent>
+				<sent id ="38">First antenna: This is the first part of the shrimp body.</sent>
+				<sent id ="39">This first organ consists of three parts: pre-coxa, coxa and basis.</sent>
+				<sent id ="40">Shrimps feel with this antenna.</sent>
+				<sent id ="41">Second antenna: This antenna consists of two parts: coxa and basis.</sent>
+				<sent id ="42">It contains the excretory organ and has fish scale like squama.</sent>
+				<sent id ="43">It controls the excretory mechanism and balances the body as the shrimp swims.</sent>
+				<sent id ="44">Jaw: Jaw is there on two sides of the mouth.</sent>
+				<sent id ="45">These are hard organs.</sent>
+				<sent id ="46">Shrimps feed on with it and grind the feed with it.</sent>
+				<sent id ="47">First maxella: It lies behind the lower part of the mouth.</sent>
+				<sent id ="48">It consists of three fine scale like parts.</sent>
+				<sent id ="49">These organs help the shrimp swallow feed.</sent>
+				<sent id ="50">Second maxella: This organ lies behind the first-maxella.</sent>
+				<sent id ="51">It is a thin scale like organ.</sent>
+				<sent id ="52">It facilitates respiration of shrimps.</sent>
+				<sent id ="53">Out of total 8 pair thorax organs, the first three pairs are known as maxilliped and the last one as movement organ.</sent>
+				<sent id ="54">First-maxlliped: This pair of organs is the smallest of the maxillipeds.</sent>
+				<sent id ="55">This pair is used for crushing food materials and respiration.</sent>
+				<sent id ="56">Second maxilliped: This is less flat than the first one.</sent>
+				<sent id ="57">This organ helps the shrimp to take food.</sent>
+				<sent id ="58">Third maxilliped: This is the largest of all the maxillipeds.</sent>
+				<sent id ="59">It helps shrimps feed on hard feed items and move.</sent>
+				<sent id ="60">Movement organs: There are five pairs of movement organs.</sent>
+				<sent id ="61">The structure of all these organs is similar.</sent>
+				<sent id ="62">The fourth movement organ is known as the typical movement organ.</sent>
+				<sent id ="63">There is a forceps like curved appendage at the end of the first movement organ.</sent>
+				<sent id ="64">This is known as chilla.</sent>
+				<sent id ="65">The chilla of a male shrimp is large.</sent>
+				<sent id ="66">It helps the shrimp to feed on.</sent>
+				<sent id ="67">The second movement organ is mostly similar to the first organ.</sent>
+				<sent id ="68">This is very large in size and hard.</sent>
+				<sent id ="69">The third and the fifth organs are like the fourth organ.</sent>
+				<sent id ="70">The shrimp usually walks with the help of the third, fourth and fifth movement organs.</sent>
+				<sent id ="71">Abdominal organs: Six pairs of organs are there in the abdomen.</sent>
+				<sent id ="72">Shrimps use all the abdominal organs to swim.</sent>
+				<sent id ="73">They are rightly called swimming organs.</sent>
+				<sent id ="74">The third organ is known as a typical organ.</sent>
+				<sent id ="75">The first part of the abdominal organ is known as coxa and the second part is known as basis.</sent>
+				<sent id ="76">The abdominal organs are like petals.</sent>
+				<sent id ="77">They have two parts: expodite and endopodite.</sent>
+				<sent id ="78">The telson rests at the end of the abdomen.</sent>
+				<sent id ="79">It propels shrimps to jump.</sent>
+				<sent id ="80">The life cycle of Galda has four main stages: Spawn, Larva, Post larva or Juvenile and Adult stage.</sent>
+				<sent id ="81">Egg: The eggs are found to be attached to the abdomen by a slimy material.</sent>
+				<sent id ="82">The colour of the egg is bright orange.</sent>
+				<sent id ="83">It turns brown after 10 to 12 days.</sent>
+				<sent id ="84">It hatches in 18 to 23 days.</sent>
+				<sent id ="85">Larva: The larva comes out breaking the shell of the mature eggs.</sent>
+				<sent id ="86">The duration of the larval stage is 20 to 45 days.</sent>
+				<sent id ="87">Larvae live on Zooplanktons.</sent>
+				<sent id ="88">Post larva or juvenile: The post larva or juvenile stage starts after the larval stage.</sent>
+				<sent id ="89">The shrimp can walk and move or swim at this post larval stage.</sent>
+				<sent id ="90">Adult shrimp: The post-larva size develops to adult shrimps after 1 to 2 months.</sent>
+				<sent id ="91">They become ready for reproduction in 8 to 10 months.</sent>
+				<sent id ="92">Usually mature female Galda shrimps can spawn 80 thousand to 1 lakh eggs.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

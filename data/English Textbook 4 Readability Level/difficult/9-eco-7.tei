@@ -1,0 +1,133 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-eco-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:04.911</idno>
+				<idno type="Number of sentences">105</idno>
+				<idno type="Number of tokens">1767</idno>
+				<idno type="Number of token types">597</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t55">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In modern times government has to conduct administration of the country, maintain law and order to protect the life and property of the people, provide services on education, health and judiciary and do different development works for the people.</sent>
+				<sent id ="2">Besides this, to protect the country from foreign aggression is also one of the chief duties of the government.</sent>
+				<sent id ="3">For those activities, the government has to incur a huge expenditure.</sent>
+				<sent id ="4">To meet the expenditure, the government has to collect money from the people by way of taxes and other means.</sent>
+				<sent id ="5">Like other countries of the world, the government of Bangladesh also incurs huge expenditure in conducting the administration, maintaining law & order, judiciary and national defence and performing many public welfare activities.</sent>
+				<sent id ="6">For this, the govt.</sent>
+				<sent id ="7">has to collect revenue from the tax and non-tax sources.</sent>
+				<sent id ="8">At present the responsibilities of the government in different fields of the country and for the welfare of the people have increased manifold.</sent>
+				<sent id ="9">As a result the scope and importance of public income and expenditure are gradually increasing.</sent>
+				<sent id ="10">The government of Bangladesh receives income from taxes and other non -tax sources every year.</sent>
+				<sent id ="11">The main sources of government's income are described below: Custom duties: Custom duties are the main source of income of the government.</sent>
+				<sent id ="12">The taxes imposed on the items of export and imports of the country are called custom duties.</sent>
+				<sent id ="13">Excise duties: The taxes imposed on the commodities produced and used within the country are called excise duties.</sent>
+				<sent id ="14">In Bangladesh, excise duties are imposed on tea, tobacco, sugar, cigarette, safety match, kerosene, medicine, cosmetics etc.</sent>
+				<sent id ="15">Value added tax: It is an indirect tax.</sent>
+				<sent id ="16">In Bangladesh this tax is imposed as a substitute for sales tax.</sent>
+				<sent id ="17">It is known in short as VAT.</sent>
+				<sent id ="18">This tax is imposed on the value added to goods at different stages from production to consumption.</sent>
+				<sent id ="19">Income tax: The tax imposed upon the personal income of the people is called income tax.</sent>
+				<sent id ="20">Besides this, income tax is also imposed on different companies as corporation tax.</sent>
+				<sent id ="21">Income tax is a direct tax.</sent>
+				<sent id ="22">Land revenue: Land revenue is an important source of income of the government.</sent>
+				<sent id ="23">Income and Expenditure of the Govt. of Bangladesh.</sent>
+				<sent id ="24">After independence, income from this source has declined slightly due to exemption of land revenue upto 25 bighas of land.</sent>
+				<sent id ="25">But the government has imposed land development tax to compensate that loss.</sent>
+				<sent id ="26">Stamps: Stamps have to be affixed on different documents, applications for law suits, passports etc.</sent>
+				<sent id ="27">The government earns income from the sale proceeds of stamps.</sent>
+				<sent id ="28">Registration: Registration fees have to be paid to the government in the case of registration of documents.</sent>
+				<sent id ="29">Nationalized banks and insurance companies: After independence banks and insurance companies were nationalized.</sent>
+				<sent id ="30">The profit of those institutions is regarded as the income of the government.</sent>
+				<sent id ="31">Nationalized industries: The government earns income from the nationalized state-owned industries.</sent>
+				<sent id ="32">But at present these industries are incurring losses.</sent>
+				<sent id ="33">Interest: The government grants advances to the employees of government and semi-government organizations on interest.</sent>
+				<sent id ="34">This interest is also an income of the government.</sent>
+				<sent id ="35">Post, Telegraph and Telephones: The government of Bangladesh earns income from the postal department.</sent>
+				<sent id ="36">It also earns from the telegraph and telephone services.</sent>
+				<sent id ="37">Railway: Bangladesh Railway earns money as fare for carrying goods and passengers.</sent>
+				<sent id ="38">Bangladesh Railway is owned by the government; so its earnings are the income of the government.</sent>
+				<sent id ="39">But this organization has been incurring loss for the last few years.</sent>
+				<sent id ="40">Forests: The government earns income from the sale proceeds of timber, honey, bamboo, and other forest products from its own forests.</sent>
+				<sent id ="41">Transport tax: The govt.</sent>
+				<sent id ="42">earns income by imposing taxes on motor and other transport vehicles.</sent>
+				<sent id ="43">Besides the above sources, the govt. of Bangladesh earns income from some other sources.</sent>
+				<sent id ="44">Of them amusement tax, property tax, tax on electricity and gas , travel tax, fines imposed on criminals etc. deserve special mention.</sent>
+				<sent id ="45">The Main Heads of Public Expenditure The main heads of public expenditure are described below: Defence: One of the main heads of govt.</sent>
+				<sent id ="46">expenditure is the defence.</sent>
+				<sent id ="47">To protect the country from foreign aggression, it is necessary to build a strong defence force.</sent>
+				<sent id ="48">So a large allocation of the annual budget goes every year for salary and allowances, training of the defense forces and also for purchase of modern arms, ammunition and equipments.</sent>
+				<sent id ="49">Civil administration: The govt. has to spend a huge amount of money for conducting civil administration of the country.</sent>
+				<sent id ="50">This expenditure is incurred to run civil administration and pay salaries & allowances of employees at different levels stating from the capital Dhaka down to the levels of divisions, districts, upazillas and union parisads.</sent>
+				<sent id ="51">Education: At present the government has put great importance on education.</sent>
+				<sent id ="52">Lately a huge amount of money is being spent on primary, non- formal, secondary and higher education and also for the development of female education.</sent>
+				<sent id ="53">Health and population control: To provide health care for the common people, the government has to set up hospitals and medical colleges, provide medicines free of cost, and pay salary and allowances to the government doctors and other employees.</sent>
+				<sent id ="54">Family welfare programmes are taken up by the government to control population.</sent>
+				<sent id ="55">These activities have led to the increase of public expenditure.</sent>
+				<sent id ="56">Police: There is a police force to maintain law and order in the country.</sent>
+				<sent id ="57">The govt. has to bear all the expenditure of the police force.</sent>
+				<sent id ="58">Bangladesh Rifles: Bangladesh Rifles - a paramilitary force - performs the duty of border security and prevent smuggling.</sent>
+				<sent id ="59">The government has to spend a lot of money for this paramilitary force every year.</sent>
+				<sent id ="60">Justice and jail department: The government has to spend a lot of money for justice and jail department and to manage jail administration.</sent>
+				<sent id ="61">Public works( civil): The government has to spend a lot for the construction of buildings, bridges, roads and highways and for the expansion of city areas.</sent>
+				<sent id ="62">Revenue collecting departments: The revenue collecting departments of the government such as income tax, customs and excise , land revenue departments draw heavily on the government for meeting different expenses including the salary and allowances of their staff.</sent>
+				<sent id ="63">Repayment of debts and interest: The government has to repay the loans taken from the public, with interest by phases.</sent>
+				<sent id ="64">The govt. has to incur a big expenditure on this head.</sent>
+				<sent id ="65">Social welfare activities: The government has to create social welfare facilities like park, stadium, tourist spots etc for the overall welfare of the people.</sent>
+				<sent id ="66">All these activities involve a lot of money to be spent from the government fund.</sent>
+				<sent id ="67">Retirement and other benefits: The government spends a pretty good amount of money for giving retirement and other benefits to the retired government servants.</sent>
+				<sent id ="68">Subsidy: The portion of production cost the government bears for the benefit of the people is called subsidy.</sent>
+				<sent id ="69">The government pays subsidy on food grains, fertilizer, energy etc to supply these things to the people at fair price.</sent>
+				<sent id ="70">The government has to spend a lot of money for giving this subsidy.</sent>
+				<sent id ="71">Foreign affairs: The government has to set up and maintain embassies abroad to establish and maintain good relationship with other nations and also to preserve the interest of the country abroad.</sent>
+				<sent id ="72">All these works drain out a lot of money from the public exchequer.</sent>
+				<sent id ="73">Audit and accounts: To scrutinize the annual income and expenditure of both government and semi-government organizations is called audit.</sent>
+				<sent id ="74">The government has to spend enough money for this purpose.</sent>
+				<sent id ="75">Unforeseen expenditure: The government has to spend a huge amount of money at the sudden natural calamities like cyclone, tidal surge etc.</sent>
+				<sent id ="76">Miscellaneous expenditure: Apart from the above, there are some more heads of expenditure such as - rehabilitation projects, distressed and old-age allowance etc.</sent>
+				<sent id ="77">The detailed statement of probable income and expenditure for a certain period - say for a year - is called budget.</sent>
+				<sent id ="78">The govt. of Bangladesh also has a budget.</sent>
+				<sent id ="79">It is a detailed statement of wherefrom how much money will come and whereto how much of it will go.</sent>
+				<sent id ="80">In this statement one side has the income heads and the other side has the heads of expenditure.</sent>
+				<sent id ="81">This detailed statement is called budget.</sent>
+				<sent id ="82">So the detailed statement of the government's probable income and expenditure for a particular year is called the budget of the govt.</sent>
+				<sent id ="83">It is noteworthy that the budget contains not only the probable income and expenditure but also a fixed plan of income and expenditure of the govt.</sent>
+				<sent id ="84">The budget also shows how the deficit will be met if income is less than expenditure or where the surplus will be spent if income is higher than expenditure.</sent>
+				<sent id ="85">In Bangladesh, the allocated income and expenditure and the method of its implementation come into effect after the budget is prepared by the govt.</sent>
+				<sent id ="86">and approved in the parliament.</sent>
+				<sent id ="87">Budget can be classified into two kinds: balanced budget and imbalanced budget.</sent>
+				<sent id ="88">Depending on the nature of income and expenditure, budget has two parts: revenue budget and capital budget.</sent>
+				<sent id ="89">Balanced budget: The budget in which income is equal to expenditure is called balanced budget.</sent>
+				<sent id ="90">Imbalanced budget: The budget in which income and expenditure are unequal is called imbalanced budget.</sent>
+				<sent id ="91">Imbalanced budget is of two kinds: surplus budget and deficit budget.</sent>
+				<sent id ="92">Surplus budget: The budget in which income is assumed higher than expenditure is called surplus budget.</sent>
+				<sent id ="93">Deficit budget: The budget in which expenditure is assumed higher than income is called deficit budget.</sent>
+				<sent id ="94">Revenue budget: The budget which is accepted for conducting the administrative activities of the country is called revenue budget.</sent>
+				<sent id ="95">In this budget, only the revenue income and administrative expenditures are shown.</sent>
+				<sent id ="96">This budget has two parts: source of income and heads of expenditure.</sent>
+				<sent id ="97">In the income part, probable total income of the government is shown and in the expenditure part, probable total expenditure and their respective heads are shown.</sent>
+				<sent id ="98">The money in the revenue budget is usually spent for defence, education, civil administration, maintaining law and order, public health, social welfare etc.</sent>
+				<sent id ="99">Capital budget: The budget prepared and accepted for the development works of the country is called capital budget.</sent>
+				<sent id ="100">In this budget the income and expenditure for annual development programme taken up by the government are shown.</sent>
+				<sent id ="101">For example, this budget shows how much will be spent during the year for the development in agriculture, industries, transport and communication, power etc sectors.</sent>
+				<sent id ="102">Side by side, this budget also shows from which sources income will come to meet the expenditure.</sent>
+				<sent id ="103">To be specific, capital budget shows the probable expenditure for annual development programme and the amount of expected income.</sent>
+				<sent id ="104">Actually the income shown in this budget comes from the surplus of revenue budget of the govt.</sent>
+				<sent id ="105">and the internal and foreign debts and grants.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

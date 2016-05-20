@@ -1,0 +1,147 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-christ-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.68</idno>
+				<idno type="Number of sentences">119</idno>
+				<idno type="Number of tokens">1416</idno>
+				<idno type="Number of token types">528</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t49">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Once in a while we make long journeys.</sent>
+				<sent id ="2">Think of the places that you went to when you undertook a journey by a car, by train or by bus or by boat ?</sent>
+				<sent id ="3">Many such other things you had to do to prepare for your journey didn't you ?</sent>
+				<sent id ="4">In the same way Jesus came to this earth on a special mission.</sent>
+				<sent id ="5">His mission was to preach, to heal the sick, to give sight to the blind, and most especially to save mankind from sin.</sent>
+				<sent id ="6">When he grew up, he prepared for this mission.</sent>
+				<sent id ="7">Now we are going to discuss how he prepared for his mission.</sent>
+				<sent id ="8">Before Jesus began his public ministry, God sent someone (John the Baptizer) to prepare the people.</sent>
+				<sent id ="9">He announced Jesus coming to everyone.</sent>
+				<sent id ="10">His name was John.</sent>
+				<sent id ="11">One day it so happened that when John was proclaiming that Jesus was coming, Jesus himself showed up there.</sent>
+				<sent id ="12">It was on the bank of the River Jordan.</sent>
+				<sent id ="13">Coming to John, Jesus said that he would like to be baptized in water by John.</sent>
+				<sent id ="14">At this John was astounded!</sent>
+				<sent id ="15">He said, I should rather go to you to be baptized, but you are asking me to baptize you.</sent>
+				<sent id ="16">Then Jesus explained to him that this desire did not come from himself, but form God. Do you know what happened then ?</sent>
+				<sent id ="17">The two of them went down into the River Jordan.</sent>
+				<sent id ="18">John baptized him there.</sent>
+				<sent id ="19">When Jesus began to come out of the water, a wonderful thing happened.</sent>
+				<sent id ="20">I think you too will wonder, if you hear the story.</sent>
+				<sent id ="21">Let me then begin the story.</sent>
+				<sent id ="22">At first something happened that is beyond imagination.</sent>
+				<sent id ="23">It is written in the Bible: the heaven was opened to him Just as a curtain is lifted on the stage, so the heaven opened.</sent>
+				<sent id ="24">Do you know what happened then ?</sent>
+				<sent id ="25">The Spirit of God came down like a white dove and alighted on Jesus.</sent>
+				<sent id ="26">This is not the end of the story.</sent>
+				<sent id ="27">Then the Lord's voice came from heaven, This is my own dear Son, with whom I am pleased.</sent>
+				<sent id ="28">Well, how do we know that this wonderful thing happened as a preparation for the public ministry of Jesus?</sent>
+				<sent id ="29">Let us now explain.</sent>
+				<sent id ="30">When the others receive baptism, they have to confess their sins, but Jesus did not have to make any confession.</sent>
+				<sent id ="31">Again, for the others baptism means beginning of a new life, but for Jesus this was not so.</sent>
+				<sent id ="32">For Jesus this was a sign.</sent>
+				<sent id ="33">In ancient times, the rulers used to use symbols to show their power and strength.</sent>
+				<sent id ="34">For example, an eagle, a tiger, a lion, etc.</sent>
+				<sent id ="35">At the baptism of Jesus, a dove came down upon Jesus.</sent>
+				<sent id ="36">This dove is a symbol of peace and reconciliation.</sent>
+				<sent id ="37">Therefore, Jesus is known as the Prince of Peace.</sent>
+				<sent id ="38">It is he who will reconcile the sinners to God.</sent>
+				<sent id ="39">When a father sends his son for some work, the father and the son talk nicely to each other.</sent>
+				<sent id ="40">The son then understands that he is doing his father's work.</sent>
+				<sent id ="41">And it makes the father happy, knowing that he is doing the work assigned to him by his father.</sent>
+				<sent id ="42">And so the father can express his joy saying, He is my beloved son.</sent>
+				<sent id ="43">I am pleased with him.</sent>
+				<sent id ="44">Now think of the feelings of Jesus.</sent>
+				<sent id ="45">For Jesus this moment was very important.</sent>
+				<sent id ="46">After being baptized, when he came out of the water, the heaven was opened to him.</sent>
+				<sent id ="47">The spirit of God came down like a dove and alighted on him.</sent>
+				<sent id ="48">And God spoke from heaven, This is my own dear Son, with whom I am pleased.</sent>
+				<sent id ="49">Jesus asked John to baptize him.</sent>
+				<sent id ="50">In this way he set an example for all of us.</sent>
+				<sent id ="51">Jesus showed how important it is to receive baptism.</sent>
+				<sent id ="52">When Jesus came out of the water in the river, the Holy Spirit came down upon him in the form of a white dove.</sent>
+				<sent id ="53">Then God spoke from heaven.</sent>
+				<sent id ="54">In the same way, even today when someone receives baptism, God showers his invisible blessings upon him.</sent>
+				<sent id ="55">Lord God, you came down upon Jesus in the form of a dove at the time of his baptism.</sent>
+				<sent id ="56">Now help me prepare my heart for your coming.</sent>
+				<sent id ="57">Life is full of events.</sent>
+				<sent id ="58">Every event makes some impression on man's life.</sent>
+				<sent id ="59">However, two events at the beginning of his public ministry left a lasting impression on his mind.</sent>
+				<sent id ="60">One was his baptism by John , and the other was the Temptation.</sent>
+				<sent id ="61">Now let us listen to the story of his temptation.</sent>
+				<sent id ="62">Before we start talking about the temptation of Jesus, we have to remember that Jesus was the Son of God.</sent>
+				<sent id ="63">He was sinless and holy.</sent>
+				<sent id ="64">His innocence and sanctity reached perfection through the fire of temptation.</sent>
+				<sent id ="65">Lord Jesus did not come on earth to live a life alien from that of other people.</sent>
+				<sent id ="66">And yet, he had to gain victory over the world through trials and temptations.</sent>
+				<sent id ="67">This happened right after Jesus was baptized.</sent>
+				<sent id ="68">The Spirit led Jesus into the desert.</sent>
+				<sent id ="69">There he fasted for forty days.</sent>
+				<sent id ="70">He prayed and meditated.</sent>
+				<sent id ="71">He spoke with God.</sent>
+				<sent id ="72">He did not eat anything for forty days and forty nights.</sent>
+				<sent id ="73">After that he was hungry.</sent>
+				<sent id ="74">When he began to feel hungry, the Devil came there.</sent>
+				<sent id ="75">In the desert there were many pieces of stone, large and small.</sent>
+				<sent id ="76">They look much like bread.</sent>
+				<sent id ="77">The Devil tempted Jesus saying, turn these stones into bread.</sent>
+				<sent id ="78">Do you know why the Devil held up this temptation ?</sent>
+				<sent id ="79">Jesus is about to begin a great work.</sent>
+				<sent id ="80">So the Devil tried to make Jesus understand that he had to take care of his body.</sent>
+				<sent id ="81">If he wished, he could use his miraculous power to satisfy his hunger.</sent>
+				<sent id ="82">But Jesus cannot use his divine power for his own benefit.</sent>
+				<sent id ="83">So he said to the Devil, man cannot live on bread alone.</sent>
+				<sent id ="84">Why did Jesus answer him this way ?</sent>
+				<sent id ="85">Because Jesus knew that food and drink are not the most important thing in life.</sent>
+				<sent id ="86">It may satisfy man's hunger for a while, but it cannot satisfy all his needs.</sent>
+				<sent id ="87">Then the Devil took Jesus to Jerusalem and set him on the highest point of the Temple and told him to throw himself down.</sent>
+				<sent id ="88">But why ?</sent>
+				<sent id ="89">Everyday thousands of people used to come to the Temple in Jerusalem to pray.</sent>
+				<sent id ="90">If they would see Jesus falling down in this way, they would recognize he had the divine power.</sent>
+				<sent id ="91">And then God would send His angels to hold him up.</sent>
+				<sent id ="92">Why did the Devil tempt Jesus again like the first time ?</sent>
+				<sent id ="93">Because, if Jesus did really throw himself down, the people would be struck with amazement and begin to follow him.</sent>
+				<sent id ="94">There was another reason too.</sent>
+				<sent id ="95">God had said that he would give orders to his angels about Jesus and they would hold him up with their hands.</sent>
+				<sent id ="96">The Devil wanted Jesus to test the words of God.</sent>
+				<sent id ="97">But do you know what Jesus said ?</sent>
+				<sent id ="98">He said that in order to believe, there was no need to test the word of God.</sent>
+				<sent id ="99">Once again the Devil tested Jesus.</sent>
+				<sent id ="100">He took Jesus to a very high mountain.</sent>
+				<sent id ="101">Do you know what he did then ?</sent>
+				<sent id ="102">You are familiar with the custom of greeting with respect.</sent>
+				<sent id ="103">To whom do we pay respects ?</sent>
+				<sent id ="104">One who is older than us, one who is our teacher or one who occupies the position of authority, isn't it ?</sent>
+				<sent id ="105">If Jesus would give into this temptation, then he would become a slave of Satan.</sent>
+				<sent id ="106">So, what did Jesus do ?</sent>
+				<sent id ="107">Jesus shouted at the Devil, Go away, Satan.</sent>
+				<sent id ="108">Do you know what the Satan did?</sent>
+				<sent id ="109">He left Jesus.</sent>
+				<sent id ="110">Trials and temptations will always come our way, At times they come to make use of us to do evil.</sent>
+				<sent id ="111">Other times they come to purify us in fire to strengthen us in our weaknesses.</sent>
+				<sent id ="112">The Devil gives temptation only to lead us to evil.</sent>
+				<sent id ="113">When we are fully consecrated by the Spirit, we can always overcome temptations.</sent>
+				<sent id ="114">Jesus chose only one way to overcome the temptations of the Devil.</sent>
+				<sent id ="115">Do you know what that is ?</sent>
+				<sent id ="116">He confronted him with the Word of God.</sent>
+				<sent id ="117">Three times the Devil tempted him, but each time Jesus confronted him with the Word of God.</sent>
+				<sent id ="118">Do not deceive yourselves by just listening to Gods word; instead, put it into practice.</sent>
+				<sent id ="119">He takes a good look at himself and then goes away and at once forgets what he looks like .</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

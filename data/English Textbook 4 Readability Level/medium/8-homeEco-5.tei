@@ -1,0 +1,111 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.873</idno>
+				<idno type="Number of sentences">83</idno>
+				<idno type="Number of tokens">1087</idno>
+				<idno type="Number of token types">447</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t170">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">For successful vegetable production we should have the knowledge of advanced methods and technique of sapling production.</sent>
+				<sent id ="2">Good vegetable production is not possible unless proper aged sapling is planted in proper time.</sent>
+				<sent id ="3">Sapling production is an important stage for vegetable cultivation.</sent>
+				<sent id ="4">At the time of sapling production and plantation, they remain in a very sensitive condition.</sent>
+				<sent id ="5">So we must know detail information about sapling production and transplantation.</sent>
+				<sent id ="6">Very often production is hampered if we do not follow the process with care and skill.</sent>
+				<sent id ="7">Before sowing, seeds of vegetables should be examined properly.</sent>
+				<sent id ="8">For getting high and quality production, good and faultless seeds are required.</sent>
+				<sent id ="9">The quality of seeds depends on the germination power of it.</sent>
+				<sent id ="10">So we must know the rate of germination before sowing in the seed-beds.</sent>
+				<sent id ="11">Then it will be easier to measure the amount of seed and the number of saplings.</sent>
+				<sent id ="12">To assess the rate of germination, we have to take a patry dish, a blotting paper of the size of patry dish.</sent>
+				<sent id ="13">The blotting paper should be wetted with pure water in such a way that it does not contain excess water.</sent>
+				<sent id ="14">Then minimum selected pure seeds should be kept on the patry dish in a way so that the seeds do not over lap each other.</sent>
+				<sent id ="15">Then patry dish should be covered and kept under a shade.</sent>
+				<sent id ="16">For ventilation of air the cover should be removed time to time.</sent>
+				<sent id ="17">If the blotting paper dries, it should be wetted with a little drop of water from a corner.</sent>
+				<sent id ="18">A plate can be used instead of a patry dish.</sent>
+				<sent id ="19">For fresh and healthy sapling production, we should prepare the seed bed properly.</sent>
+				<sent id ="20">For the selection of place for seed bed we should consider some special points.</sent>
+				<sent id ="21">Seed-bed should be close to home.</sent>
+				<sent id ="22">The place for seed bed should be sunny and airy.</sent>
+				<sent id ="23">Seed-bed should not be under a tree or in the shadow.</sent>
+				<sent id ="24">Seed-bed should not be prepared in a damp moist place.</sent>
+				<sent id ="25">It should be in a high place from where rain water can be easily drained out.</sent>
+				<sent id ="26">For necessary irrigation facility, seed bed should be near by the pond or any water source.</sent>
+				<sent id ="27">An ideal seed bed is generally 3 metre in length and 1 metre in width.</sent>
+				<sent id ="28">We can increase the length but we should not increase width.</sent>
+				<sent id ="29">If the width is more than 1 metre, then nurturing of inter-saplings cannot be done properly.</sent>
+				<sent id ="30">The height of an ideal seed-bed should be of 15 cm to 21 cm.</sent>
+				<sent id ="31">This height can be made through three supplementary layers.</sent>
+				<sent id ="32">There should be space of 50 cm between two beds.</sent>
+				<sent id ="33">The height of the bed should be increased with the soil taken from the place.</sent>
+				<sent id ="34">The two sides of the bed should be sloppy than the middle so that the rain water can be drained out.</sent>
+				<sent id ="35">If the land is fertile, there is no need to put chemical fertilizers.</sent>
+				<sent id ="36">If the land is less fertile, 1 kg of triple-super- phosphate should be mixed before one week of the seed sowing.</sent>
+				<sent id ="37">Sowing of seed The seeds on the seed-bed are usually sown by spreading.</sent>
+				<sent id ="38">Again seeds can be sown in rows.</sent>
+				<sent id ="39">To sow in rows we have to make thin lines and depth of half centimetre by a stick or a weeder on the seed-bed.</sent>
+				<sent id ="40">Each row will have a distance of 5 cm.</sent>
+				<sent id ="41">And then at a definite distance or in a close distance we can sow the seeds and cover them with soils.</sent>
+				<sent id ="42">Then the land should be wetted by water sprayer.</sent>
+				<sent id ="43">Until the sprouting of the seeds, the seedbed should be watered regularly.</sent>
+				<sent id ="44">The seeds are contaminated by micro organism.</sent>
+				<sent id ="45">So the seeds should be sterilized before sowing.</sent>
+				<sent id ="46">Per 2.5 gm seeds should be sterilized by 1 gm of fungus killer sterilizer called vita vex or captan.</sent>
+				<sent id ="47">Water can not pass through seed-skins of some seeds.</sent>
+				<sent id ="48">These seeds should be wetted before sowing to make the seed-skin soft.</sent>
+				<sent id ="49">So the fetus can easily come out of the seed.</sent>
+				<sent id ="50">If the seeds are wetted more than required time, they may get damaged.</sent>
+				<sent id ="51">For growing winter vegetables preparation for sapling production should be started from August.</sent>
+				<sent id ="52">It rains heavily from August to October.</sent>
+				<sent id ="53">Sometimes for over raining sapling can not grow well.</sent>
+				<sent id ="54">After sowing seeds or for tender saplings, over rain is very harmful.</sent>
+				<sent id ="55">Many young plants can not tolerate hard sunshine.</sent>
+				<sent id ="56">Shade or cover saves young plants from excess rain or sun.</sent>
+				<sent id ="57">We can make the shade by polythene sheet or bamboo fences etc. Generally seeds are sown in a congested manner in the seed bed.</sent>
+				<sent id ="58">When they sprout, they need food and light.</sent>
+				<sent id ="59">As they are congested, they cannot grow well.</sent>
+				<sent id ="60">For this, the saplings are transferred to second bed.</sent>
+				<sent id ="61">After transplantation, the roots of cauliflowers, cabbage, tomato, brokli grow stronger.</sent>
+				<sent id ="62">In the seedbed, saplings grow under much care and nursing.</sent>
+				<sent id ="63">For this, after plantation, if they can not adapt with new environment, they may be damaged or their growth may be hampered.</sent>
+				<sent id ="64">After plantation, problems like short of water, unsuitable temperature may arise.</sent>
+				<sent id ="65">So gradually saplings should be prepared so that they Production of Vegetable Sapling 53 can bear the adverse situation.</sent>
+				<sent id ="66">In any way if the growth of sapling can be stopped for the time being, its tolerance of tolerating hardship increases.</sent>
+				<sent id ="67">This system is called hardening.</sent>
+				<sent id ="68">Hardening of saplings can be done in the following ways.</sent>
+				<sent id ="69">The shade or the cover over the saplings should be removed and the saplings should be kept under light sunshine.</sent>
+				<sent id ="70">Water supply should be reduced.</sent>
+				<sent id ="71">Roots of saplings should be partly cut off partly.</sent>
+				<sent id ="72">Disease caused by fungus can be prevented by two ways.</sent>
+				<sent id ="73">These are preventive measure and curative measures.</sent>
+				<sent id ="74">It is a common disease of young plants that their roots are rotten by the attack of fungus.</sent>
+				<sent id ="75">After germination within one or two months the roots of many saplings become rotten.</sent>
+				<sent id ="76">The disease is called Damping off.</sent>
+				<sent id ="77">Fungus in the earth is the source of this disease.</sent>
+				<sent id ="78">If the soil of the seed-bed remains damp and air circulation is hampered, there is a chance of spreading this disease.</sent>
+				<sent id ="79">In preventive measures the seeds are to be sterilized and the soil is to be treated.</sent>
+				<sent id ="80">Sometimes saplings in the seed-bed are attacked by insects.</sent>
+				<sent id ="81">The insects damage the top of the young plants and then tender leaves.</sent>
+				<sent id ="82">The leaves should be plucked or the plant should be uprooted and dug into the soil.</sent>
+				<sent id ="83">If the degree of attack is much more, the insect killer medicine must be applied at the right time.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

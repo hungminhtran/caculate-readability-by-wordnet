@@ -1,0 +1,91 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.787</idno>
+				<idno type="Number of sentences">63</idno>
+				<idno type="Number of tokens">819</idno>
+				<idno type="Number of token types">322</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t43">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We all have experiences related to weather.</sent>
+				<sent id ="2">Sometimes, we say that the weather is not good, it is very hot, and we sweat.</sent>
+				<sent id ="3">On very hot days, we say that the air is very humid.</sent>
+				<sent id ="4">If we see clouds in the sky, we say that it may rain.</sent>
+				<sent id ="5">We can also guess about the increase or decrease of coldness during winter days.</sent>
+				<sent id ="6">These can be judged based on the conditions of air, temperature, pressure, humidity and wind flow.</sent>
+				<sent id ="7">Weather and climate are two different but related words.</sent>
+				<sent id ="8">The average weather condition of a place over a number of years is called the climate of that place.</sent>
+				<sent id ="9">The weather and the climate of a place are both determined based on more or less the same factors.</sent>
+				<sent id ="10">This means that weather and climate change according to the changes in these factors.</sent>
+				<sent id ="11">Change of weather can occur in a day's time.</sent>
+				<sent id ="12">The factors which control weather can change from day to day, causing changes in weather.</sent>
+				<sent id ="13">The weather can again be like it was two days before.</sent>
+				<sent id ="14">But the same cannot be said for climate.</sent>
+				<sent id ="15">The temporary state of the atmosphere of a place is called its weather.</sent>
+				<sent id ="16">The weather is the temporary state of the atmosphere of a small area.</sent>
+				<sent id ="17">Weather can change over short periods of time.</sent>
+				<sent id ="18">The mean state of the weather of a place for many years is called its climate.</sent>
+				<sent id ="19">The climate is the long-term state of the atmosphere of a large area, such as a country or a continent.</sent>
+				<sent id ="20">It can take years for the climate of a place to change.</sent>
+				<sent id ="21">Almost throughout the year the rays of the sun fall vertically on this line.</sent>
+				<sent id ="22">So, these places receive more heat from the sun.</sent>
+				<sent id ="23">As a result, the temperature of the air at equatorial regions is higher than that of other regions.</sent>
+				<sent id ="24">The lengths of the days and nights in these places are also almost equal.</sent>
+				<sent id ="25">The weather of these places is the most warm and humid.</sent>
+				<sent id ="26">Here summer continues throughout the year.</sent>
+				<sent id ="27">Since it is hot in these places, the air pressure is also low.</sent>
+				<sent id ="28">Convection rain occurs in these areas.</sent>
+				<sent id ="29">Since the climate of these places is very hot and humid, it is not very healthy.</sent>
+				<sent id ="30">So, the sunlight passes through wider layers of atmosphere, and is spread over a wider area.</sent>
+				<sent id ="31">The lengths of the days and nights also vary.</sent>
+				<sent id ="32">The days become smaller and the nights become longer.</sent>
+				<sent id ="33">As a result, the climate changes from tropical to cold.</sent>
+				<sent id ="34">Summer lasts here for only about three months.</sent>
+				<sent id ="35">Again, if the skies above a place are covered with clouds, the difference between the daytime and nighttime temperatures decreases.</sent>
+				<sent id ="36">Because, during the daytime, the water vapour of the clouds absorb the heat from the sunlight.</sent>
+				<sent id ="37">As a result, the days cannot be very hot.</sent>
+				<sent id ="38">Again, since the warmth is slowly radiated at night, the temperature cannot grow too cold.</sent>
+				<sent id ="39">The air pressure of a place can be measured using a barometer.</sent>
+				<sent id ="40">The air pressure of all places on the surface of the earth is not the same.</sent>
+				<sent id ="41">It can vary because of different reasons.</sent>
+				<sent id ="42">This also causes the weather to change.</sent>
+				<sent id ="43">Where the sun gives more heat, the air becomes warmer and it expands in volume.</sent>
+				<sent id ="44">This causes the density of the air to decrease and the air rises up.</sent>
+				<sent id ="45">This results in a decrease in the air pressure of that place.</sent>
+				<sent id ="46">When the air pressure of a place drops suddenly, air from its surrounding places start to flow faster toward it.</sent>
+				<sent id ="47">If air flows very fast in these cases, storms occur.</sent>
+				<sent id ="48">The air pressure also decreases when the amount of water vapour in the air increases.</sent>
+				<sent id ="49">In such cases, the chances of rainfall increase due to the increase of water vapour in the atmosphere.</sent>
+				<sent id ="50">From this, it can be said that the weather is getting dry and the chances of rainfall are also low.</sent>
+				<sent id ="51">This is called rainfall.</sent>
+				<sent id ="52">Thus, more rainfall occurs there.</sent>
+				<sent id ="53">In high and mountainous areas, water vapour is obstructed which causes it to rain.</sent>
+				<sent id ="54">The climate and weather of a place is also affected by how much rainfall occurs in a certain place.</sent>
+				<sent id ="55">The equipment used to measure the amount of rainfall in a certain place is called a rain gauge.</sent>
+				<sent id ="56">A rain gauge can be used to easily measure the amount of rain.</sent>
+				<sent id ="57">It is a cylindrical container which is approximately 51 cm long and has a radius of 21 cm.</sent>
+				<sent id ="58">A funnel with a radius of 21 cm is fitted to the mouth of the container.</sent>
+				<sent id ="59">Rainwater passes through the funnel and is deposited in a bottle kept inside the cylindrical container.</sent>
+				<sent id ="60">But in reality, rainwater does not remain deposited in one place.</sent>
+				<sent id ="61">That is why, a rain gauge is required to measure the amount of rainfall.</sent>
+				<sent id ="62">The measuring container must be cleaned beforehand.</sent>
+				<sent id ="63">In order to avoid errors, the measuring should be done accurately a number of times.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

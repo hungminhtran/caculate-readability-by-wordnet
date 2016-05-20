@@ -1,0 +1,161 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.117</idno>
+				<idno type="Number of sentences">133</idno>
+				<idno type="Number of tokens">1336</idno>
+				<idno type="Number of token types">510</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t16">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Many Jews used to live in Persia.</sent>
+				<sent id ="2">Once a man of high position of that country planned to destroy all the Jews.</sent>
+				<sent id ="3">But he could not do so on account of a Jewish woman.</sent>
+				<sent id ="4">The name of that woman was Esther.</sent>
+				<sent id ="5">It was her Persian name.</sent>
+				<sent id ="6">But her Jewish name was Hadassah.</sent>
+				<sent id ="7">In this chapter we will learn in detail about her.</sent>
+				<sent id ="8">The name of Esther's father was Abigail.</sent>
+				<sent id ="9">Esther was a little child when Abigail died.</sent>
+				<sent id ="10">So Mordecai, Esther's cousin, undertook the responsibility to bring up the child.</sent>
+				<sent id ="11">Mordecai adopted Esther as his own daughter.</sent>
+				<sent id ="12">So Esther was a foster daughter of Mordecai.</sent>
+				<sent id ="13">Esther was a very beautiful woman.</sent>
+				<sent id ="14">Everybody liked her at the first sight.</sent>
+				<sent id ="15">The name of the king of Persia was Ahasuerus.</sent>
+				<sent id ="16">His kingdom was very large.</sent>
+				<sent id ="17">The name of the queen was Vashti.</sent>
+				<sent id ="18">One day the king arranged a grand feast for some of the leaders and ministers.</sent>
+				<sent id ="19">He was out of his senses due to excessive drinking wine.</sent>
+				<sent id ="20">So he fancied to show the beauty of the Queen to his invited guests.</sent>
+				<sent id ="21">He sent a messenger to the Queen asking her to come to the banquet table.</sent>
+				<sent id ="22">The Queen was busy with her invited guests in another feast.</sent>
+				<sent id ="23">So she ignored the messenger of the King.</sent>
+				<sent id ="24">She thought that going there would be disgrace for her.</sent>
+				<sent id ="25">When she did not respond to the King, he felt insulted.</sent>
+				<sent id ="26">He grew very angry.</sent>
+				<sent id ="27">Instantly he removed Vashti from the position of the Queen.</sent>
+				<sent id ="28">A search was ordered to find a replacement for Vashti.</sent>
+				<sent id ="29">The King commanded that the most beautiful young ladies would be searched out and gathered in the palace of Susa.</sent>
+				<sent id ="30">The one whom the King would choose from among them would be his Queen.</sent>
+				<sent id ="31">Many beautiful young ladies were brought to the palace of Susa.</sent>
+				<sent id ="32">Mordecai was also an employee at the palace.</sent>
+				<sent id ="33">His foster daughter Esther was also a beautiful lady.</sent>
+				<sent id ="34">She was also brought to the palace.</sent>
+				<sent id ="35">She was told to conceal her identity as the daughter of a Jew.</sent>
+				<sent id ="36">In the palace many maid servants provided services to her.</sent>
+				<sent id ="37">As a result she looked more beautiful than ever before.</sent>
+				<sent id ="38">After staying several months with the other young ladies, Esther was brought and presented before the King.</sent>
+				<sent id ="39">The King liked Esther most and he put a crown on her head.</sent>
+				<sent id ="40">Thus Esther became the Queen of Persia.</sent>
+				<sent id ="41">The King appointed Mordecai as a door-keeper of the palace.</sent>
+				<sent id ="42">By that time two guards named Bigthana and Teresh were appointed for the King.</sent>
+				<sent id ="43">They together planned to kill King 101Christian Religious Studies Ahasuerus.</sent>
+				<sent id ="44">Mordecai came to know about it and informed Queen Esther about it.</sent>
+				<sent id ="45">Esther reported this to the King.</sent>
+				<sent id ="46">The matter was investigated.</sent>
+				<sent id ="47">The two guards were found involved in the conspiracy.</sent>
+				<sent id ="48">So they were hanged.</sent>
+				<sent id ="49">The King was saved and the fact that he was saved by Mordecai was remembered by the King.</sent>
+				<sent id ="50">After a few days, King Ahasuerus appointed Haman in the highest position of the State.</sent>
+				<sent id ="51">But Mordecai did not follow the custom because to do that was forbidden among the Jewish community.</sent>
+				<sent id ="52">But he refused to follow any advice.</sent>
+				<sent id ="53">So Haman became very angry.</sent>
+				<sent id ="54">Haman decided that he would destroy Mordecai along with all the Jews.</sent>
+				<sent id ="55">They follow their own rules.</sent>
+				<sent id ="56">So they should not be permitted to live in this country.</sent>
+				<sent id ="57">But Haman did not let the King understand that he was talking about the Jews.</sent>
+				<sent id ="58">So the King became angry with those who did not follow the State rules and regulations.</sent>
+				<sent id ="59">He highly regarded Haman.</sent>
+				<sent id ="60">So he authorized Haman to take any action against them.</sent>
+				<sent id ="61">Then Haman got ready to take revenge.</sent>
+				<sent id ="62">He wrote letters to every group of people in their respective language.</sent>
+				<sent id ="63">To prove that it is an order of the King a seal of King's ring was stamped on the letters.</sent>
+				<sent id ="64">So the people of the country came to know about the matter and they believed it.</sent>
+				<sent id ="65">Mordecai came to know about the matter.</sent>
+				<sent id ="66">He himself tore his garments, wore sackcloth and smeared ashes on his body.</sent>
+				<sent id ="67">Then he started to shout in the middle of the city and went to the royal court.</sent>
+				<sent id ="68">But nobody wearing sackcloth was allowed to enter the royal court.</sent>
+				<sent id ="69">The letters of Haman started to reach those places where the Jews lived.</sent>
+				<sent id ="70">Mourning, fasting, crying and lamenting started everywhere.</sent>
+				<sent id ="71">They put on sackcloth and sat on ashes.</sent>
+				<sent id ="72">The Queen Esther came to know that Mordecai was wearing sackcloth.</sent>
+				<sent id ="73">She wanted to know the reason.</sent>
+				<sent id ="74">So she sent nice clothes for Mordecai.</sent>
+				<sent id ="75">But he did not keep it.</sent>
+				<sent id ="76">Later on she came to know all about Mordecai through her servants.</sent>
+				<sent id ="77">She found out that Haman had planned to kill all the Jews.</sent>
+				<sent id ="78">Mordecai also sent a copy of Haman's letter to the The entire people engaged in fasting and prayer Queen.</sent>
+				<sent id ="79">He requested Esther to discuss the matter with the king and to request him to change the decision.</sent>
+				<sent id ="80">Esther suggested to Mordecai that he, along with all the Jews, would go on fasting in Susa.</sent>
+				<sent id ="81">The fasting would continue for three days and three nights.</sent>
+				<sent id ="82">Esther and her servants also would do the same.</sent>
+				<sent id ="83">Then she would go to the king.</sent>
+				<sent id ="84">Mordecai did all according to the advice of Esther.</sent>
+				<sent id ="85">He went on fasting and praying.</sent>
+				<sent id ="86">In the same way Esther passed three days and three nights fasting and praying.</sent>
+				<sent id ="87">After three days Esther left the mourning dress and wore bright clothes.</sent>
+				<sent id ="88">Then she appeared before the King.</sent>
+				<sent id ="89">At that moment the Queen looked very beautiful.</sent>
+				<sent id ="90">But she had a great fear in her heart.</sent>
+				<sent id ="91">As the King looked at her, she fell unconscious.</sent>
+				<sent id ="92">The King held her up quickly.</sent>
+				<sent id ="93">The King assured her: Don't be afraid.</sent>
+				<sent id ="94">You don't have to die.</sent>
+				<sent id ="95">Tell me your desire.</sent>
+				<sent id ="96">I'll give you even half of my property.</sent>
+				<sent id ="97">After a while the Queen regained her conscious.</sent>
+				<sent id ="98">She said to the King: I have arranged a feast today.</sent>
+				<sent id ="99">I earnestly wish that you and Haman will attend the feast.</sent>
+				<sent id ="100">The King and Haman came for the feast.</sent>
+				<sent id ="101">The King asked her: What is it that you desire?</sent>
+				<sent id ="102">Esther said: I'll arrange the feast again tomorrow.</sent>
+				<sent id ="103">You and Haman are invited to the feast.</sent>
+				<sent id ="104">At that feast I'll make my request known to you.</sent>
+				<sent id ="105">Haman's mind was filled with delight because he was going to hang Mordecai on the gallows very soon.</sent>
+				<sent id ="106">So he made a very high gallows to kill Mordecai by hanging.</sent>
+				<sent id ="107">The King and Haman sat at the feast prepared by Queen Esther.</sent>
+				<sent id ="108">Then the King asked Esther: My dear Queen, what do you wish?</sent>
+				<sent id ="109">If you want even the half of my kingdom, I'll give it to you.</sent>
+				<sent id ="110">The Queen said: O great King!</sent>
+				<sent id ="111">If I have found favor with you, I ask that you spare my people.</sent>
+				<sent id ="112">I don't want any kingdom or property from you.</sent>
+				<sent id ="113">I have only one desire.</sent>
+				<sent id ="114">Let not my own people be destroyed.</sent>
+				<sent id ="115">The King asked: Who is going to destroy your people?</sent>
+				<sent id ="116">The Queen replied: A foe and enemy!</sent>
+				<sent id ="117">This wicked Haman!</sent>
+				<sent id ="118">He completed all the arrangement for destroying the Jews.</sent>
+				<sent id ="119">He had already gotten your permission for the deal and announced it across the country.</sent>
+				<sent id ="120">The King grew very angry with Haman for that and expressed his anger.</sent>
+				<sent id ="121">The servants also were disappointed with Haman.</sent>
+				<sent id ="122">One of the servants proposed to the King: Great King, a fifty cubits high scaffold has been made.</sent>
+				<sent id ="123">Haman made it for hanging Mordecai.</sent>
+				<sent id ="124">Now let it be used for hanging Haman.</sent>
+				<sent id ="125">The King ordered the servants: Hang him on that scaffold.</sent>
+				<sent id ="126">So Haman was hanged on the scaffold made for hanging Mordecai.</sent>
+				<sent id ="127">In this way the Jewish people chosen by God were saved by the wisdom, strategy and courage of Esther.</sent>
+				<sent id ="128">God heard their prayers.</sent>
+				<sent id ="129">Let us practice fasting and prayer.</sent>
+				<sent id ="130">Prayer: Lord Jesus, I pray that I can understand the meaning of fasting.</sent>
+				<sent id ="131">Enable me learn to fast bit by bit.</sent>
+				<sent id ="132">Let me learn to pray while fasting at the same time.</sent>
+				<sent id ="133">I trust, you will answer my prayer.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

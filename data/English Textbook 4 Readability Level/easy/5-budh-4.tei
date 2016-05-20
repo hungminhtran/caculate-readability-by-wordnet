@@ -1,0 +1,65 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-budh-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.942</idno>
+				<idno type="Number of sentences">37</idno>
+				<idno type="Number of tokens">411</idno>
+				<idno type="Number of token types">235</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t7">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Recitation of verses had been introduced from ancient times.</sent>
+				<sent id ="2">The morals were propagated by verses in an easy way.</sent>
+				<sent id ="3">Verses may be called the small poems.</sent>
+				<sent id ="4">In those days the verses were modulated as the tune of songs.</sent>
+				<sent id ="5">The feelings of human mind were rightly expressed.</sent>
+				<sent id ="6">The Buddha often used these verses during admonition of His doctrines.</sent>
+				<sent id ="7">These verses were delivered by the Buddha in Pali.</sent>
+				<sent id ="8">In each of His verses there remained religious sermons.</sent>
+				<sent id ="9">We come across the Buddhist philosophy, life-style and moral duties in those verses.</sent>
+				<sent id ="10">He recited those attractive verses while the disciples (Bhikkhusangha) and the lay-devotees came to listen to His moral advices.</sent>
+				<sent id ="11">The verses were the directives of the philosophy of His doctrines.</sent>
+				<sent id ="12">They were the ways and means of resolving the problems of human life.</sent>
+				<sent id ="13">In those verses it is found to show respect and worship to the worthy persons.</sent>
+				<sent id ="14">Due practice of religious rites living an honest life and performing welfare for all are also stored in them.</sent>
+				<sent id ="15">Recite the verses everyday in the morning and evening.</sent>
+				<sent id ="16">Follow the morals of the verses properly.</sent>
+				<sent id ="17">Good returns will be achieved by this practice.</sent>
+				<sent id ="18">Some Pali verses are given in this chapter with English version.</sent>
+				<sent id ="19">Try to understand the inner significance of the verses.</sent>
+				<sent id ="20">Then recite them in a sweet voice with correct pronunciation.</sent>
+				<sent id ="21">There is no fire like anger and no crime like hatred.</sent>
+				<sent id ="22">There is no ill like lust and no flood stronger then desire.</sent>
+				<sent id ="23">None be a hateful, nor be a Brahmin (holy man) by birth.</sent>
+				<sent id ="24">Both the hateful and Brahmin are by virtue of their deeds.</sent>
+				<sent id ="25">Pay homage to the man worthy of honour by keeping no association with evil friend.</sent>
+				<sent id ="26">Do perform your duties to attain the eternal happiness of Nirban by His directives.</sent>
+				<sent id ="27">If you don't learn from books the wisdom that lies there is as wealth that belongs to someone else.</sent>
+				<sent id ="28">Those type of learning and wealth are seldom helpful in times of need.</sent>
+				<sent id ="29">Health is the precious gain and contentment the greatest wealth.</sent>
+				<sent id ="30">A trustworthy person is the best kinsman and Nirban is the highest bliss.</sent>
+				<sent id ="31">There is no friend as knowledge, even no foe as disease.</sent>
+				<sent id ="32">Nothing is dearer than one's self and nothing more powerful than action.</sent>
+				<sent id ="33">In our everyday life the morals of the verses are much important for us.</sent>
+				<sent id ="34">We require them in our daily life.</sent>
+				<sent id ="35">Find out their inner meanings.</sent>
+				<sent id ="36">Try to regulate your life accordingly.</sent>
+				<sent id ="37">These will bring prosperity in your life.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,168 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.244</idno>
+				<idno type="Number of sentences">140</idno>
+				<idno type="Number of tokens">1859</idno>
+				<idno type="Number of token types">591</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t144">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Water is a compound.</sent>
+				<sent id ="2">Two volumes of hydrogen combine chemically with one volume of oxygen to form water.</sent>
+				<sent id ="3">Water is found in plenty in nature.</sent>
+				<sent id ="4">The three fourth of the earth surface contains water and one part land.</sent>
+				<sent id ="5">Water can be found in nature in three states solid, liquid and gas.</sent>
+				<sent id ="6">In this chapter we shall discuss about a special characteristic of water i.e. hardness of water.</sent>
+				<sent id ="7">Rain water: Rain water is the purest of all natural water.</sent>
+				<sent id ="8">Water changes to steam on the rivers, canals, ponds, lakes, oceans, etc. by the heat of the sun.</sent>
+				<sent id ="9">This steam condenses into cloud and then produces rain for the earth.</sent>
+				<sent id ="10">During the rain, nitrogen, oxygen, ammonia, carbon dioxide, nitric acid, dust particles of the air, bacteria, etc. are dissolved in rain water.</sent>
+				<sent id ="11">So water from the initial stage of the rain is not pure.</sent>
+				<sent id ="12">Water collected after a long time since the raining started is comparatively pure.</sent>
+				<sent id ="13">Rain water is most essential for the life of all plants and animals.</sent>
+				<sent id ="14">It is also very useful for agriculture.</sent>
+				<sent id ="15">The rain water after falling on the earth surface penetrates through the pores of various solid substances of the earth e.g.</sent>
+				<sent id ="16">soil, sand, stone, etc. Down the earth, it finally reaches a stage when it cannot go down any further.</sent>
+				<sent id ="17">Clay, granite, slate, etc are contained in this impenetrable layer.</sent>
+				<sent id ="18">Water begins to collect on this impenetrable layer and finally comes out as fountain water.</sent>
+				<sent id ="19">This fountain water contains dissolved minerals, viz.</sent>
+				<sent id ="20">sodium, potassium, magnesium, carbon dioxide, hydrogen sulphide, etc. Due to this, fountain water is called mineral water too.</sent>
+				<sent id ="21">River water: Rain water mainly runs into the river.</sent>
+				<sent id ="22">Rain water, fountain water and water from the melted ice flow on the earth's surface and then fall into the river.</sent>
+				<sent id ="23">Rain water, while passing through the soil, mix up with various kinds of organic and inorganic, dissolved and suspended impurities.</sent>
+				<sent id ="24">Chlorides, sulphates and carbonates of sodium, potassium, calcium and iron are mixed with the river water.</sent>
+				<sent id ="25">Moreover river water bears bacteria.</sent>
+				<sent id ="26">Sea water: River water falls finally into the sea.</sent>
+				<sent id ="27">It contains many suspended impurities.</sent>
+				<sent id ="28">Sea water contains chlorides, bromides, sulphates, carbonates, iodides of sodium, potassium, calcium and magnesium.</sent>
+				<sent id ="29">It contains about 3.6% metallic salts of which 2.63% is common salt.</sent>
+				<sent id ="30">For this reason, common salt is produced from sea water.</sent>
+				<sent id ="31">Water, which easily gives lather to common washing things or toilet soaps, is known as soft water.</sent>
+				<sent id ="32">Rain water, pond water, chemically pure water etc are soft water.</sent>
+				<sent id ="33">Water, which does not easily give lather to soap but does so after a considerable amount of soap is consumed, is known as hard water.</sent>
+				<sent id ="34">Sea water, spring or fountain water, river water, deep tube well water etc are the examples of hard water.</sent>
+				<sent id ="35">Soft water is most suitable for various purposes.</sent>
+				<sent id ="36">Rain water is the softest of all natural water.</sent>
+				<sent id ="37">Some substances dissolve in water to make it hard.</sent>
+				<sent id ="38">What substances are they?</sent>
+				<sent id ="39">We can do the following experiments to know the answer.</sent>
+				<sent id ="40">Take clear lime water or calcium hydroxide solution in a large test tube and pass carbon dioxide gas through it for 4-5 minutes.</sent>
+				<sent id ="41">As a result what change takes place in the lime water?</sent>
+				<sent id ="42">Again pass more carbon dioxide through the solution for another 3-4 minutes.</sent>
+				<sent id ="43">Do you observe any changes in the milky lime water now?</sent>
+				<sent id ="44">Yes, carbon dioxide through clear lime water produces insoluble calcium carbonate first.</sent>
+				<sent id ="45">As a result lime water becomes milky.</sent>
+				<sent id ="46">But by passing carbon dioxide for another 3-4 minutes through it, we have produced soluble calcium hydrogen carbonate and the lime water becomes clear again.</sent>
+				<sent id ="47">Now, mark the test tube having the solution with A.</sent>
+				<sent id ="48">This solution will be required for next experiment.</sent>
+				<sent id ="49">Take two beakers.</sent>
+				<sent id ="50">Take soap solution in one beaker and cool boiled water in another.</sent>
+				<sent id ="51">Use a dropper to put 2 cc cool boiled water in a test tube and add drops of soap solution.</sent>
+				<sent id ="52">After adding each drop of soap water stir the solution well.</sent>
+				<sent id ="53">Note down how many drops of soap solution are added.</sent>
+				<sent id ="54">In this way, continue adding soap solution to water with constant stirring;</sent>
+				<sent id ="55">a time will come when clear and bright foams will be produced.</sent>
+				<sent id ="56">Note down the number of drops of soap solution required to reach this stage.</sent>
+				<sent id ="57">Now, in another testtube, take 2 cc of solution from test tube A and add soap water solution to it drop by drop.</sent>
+				<sent id ="58">How many drops of soap solution are required to start foaming lather?</sent>
+				<sent id ="59">Do you find any distinctions between the number of drops required to make foam in boiled water and soap solution?</sent>
+				<sent id ="60">To make foam in solution A, more soap solution is required than that is needed in boiled water, isn't it?</sent>
+				<sent id ="61">Now can you tell which one is soft water and which is hard water?</sent>
+				<sent id ="62">From the above experiment we can say that calcium hydrogen carbonate is one of the dissolved substances in water which causes hardness of water.</sent>
+				<sent id ="63">Actually hardness of water may be caused by any calcium salts when dissolved in water.</sent>
+				<sent id ="64">Magnesium salts dissolved in water also cause hardness.</sent>
+				<sent id ="65">Sometimes, dissolved calcium sulphate, magnesium hydrogen carbonate and magnesium sulphate in water cause hardness of water too.</sent>
+				<sent id ="66">So we can say that water becomes hard due to the dissolved hydrogen carbonate, sulphate, chloride, etc. of the two metals calcium and magnesium.</sent>
+				<sent id ="67">Dissolved iron salts also causes hardness of water.</sent>
+				<sent id ="68">Sufficient amount of soap is required to wash clothes in hard water.</sent>
+				<sent id ="69">Soap contains sodium stearate.</sent>
+				<sent id ="70">Sodium stearate is soluble in water and it reacts with the dirt of clothes and cleans them.</sent>
+				<sent id ="71">This precipitate is suspended as a residue in water.</sent>
+				<sent id ="72">As a result, much soap is consumed, even there is no foam.</sent>
+				<sent id ="73">Calcium hydrogen sulphate reacts with sodium stearate; and after the reaction excess soap produce foam in water.</sent>
+				<sent id ="74">In this manner, hard water becomes soft after through the use of soap.</sent>
+				<sent id ="75">Have you now understood why soft water is more suitable for washing clothes than hard water?</sent>
+				<sent id ="76">Now, the question is how calcium hydrogen carbonate comes in water?</sent>
+				<sent id ="77">We know lime stone is deposited in many places in the earth.</sent>
+				<sent id ="78">In Bangladesh there are vast quantities of lime stone deposits in Chatak, Sylhet, St. Martin Island of Chittagong and Jaipurhat.</sent>
+				<sent id ="79">Lime stone is calcium carbonate.</sent>
+				<sent id ="80">Air contains carbon dioxide.</sent>
+				<sent id ="81">Now you have probably understood that how calcium hydrogen carbonates are dissolved in natural water to make it hard.</sent>
+				<sent id ="82">Hardness of water can be of two types Temporary hardness and Permanent hardness.</sent>
+				<sent id ="83">Temporary hardness is caused by the presence of the hydrogen carbonates of calcium, magnesium and iron in water.</sent>
+				<sent id ="84">This hardness is called temporary because it can be removed easily.</sent>
+				<sent id ="85">This hardness of water can be removed either by boiling water or by converting the soluble hydrogen carbonate into insoluble carbonates as precipitate.</sent>
+				<sent id ="86">Permanent hardness is caused by the presence of the chlorides and sulphates of calcium and magnesium in water.</sent>
+				<sent id ="87">This hardness of water is called permanent hardness and it cannot be removed by any easy means.</sent>
+				<sent id ="88">We have already learnt that hardness is caused by the presence of soluble hydrogen carbonates, chlorides and sulphates of calcium, magnesium and iron in water.</sent>
+				<sent id ="89">So if these soluble salts are chemically converted into insoluble salts which can be separated by filtration, then hard water will become soft.</sent>
+				<sent id ="90">Removal of hardness of water is called softening of water.</sent>
+				<sent id ="91">Temporary hardness is removed by boiling.</sent>
+				<sent id ="92">In this experiment some quantity of solution A of experiment no 5.1 and soap solution is required.</sent>
+				<sent id ="93">Besides, you will need two test tubes of the same size, candle or spirit lamp and some sodium carbonate solution.</sent>
+				<sent id ="94">Calcium sulphate solution and magnesium sulphate solution are also required to perform this experiment.</sent>
+				<sent id ="95">Take 2 ml of A solution in a test tube and 2 ml calcium sulphate in another test tube.</sent>
+				<sent id ="96">Boil both the solutions for 1 minute.</sent>
+				<sent id ="97">What is seen?</sent>
+				<sent id ="98">Is there any precipitate in the test tube containing solution A?</sent>
+				<sent id ="99">Now after cooling, put 5 drops of soap solution in each test tube and shake well.</sent>
+				<sent id ="100">Notice the changes in each test tube and note down in your note book.</sent>
+				<sent id ="101">Again take 2 ml A solution and 2 ml calcium sulphate solution in two separate test tubes.</sent>
+				<sent id ="102">Add 2 ml of sodium carbonate solution in both.</sent>
+				<sent id ="103">Do you see any changes?</sent>
+				<sent id ="104">Now add excess of soap solution in two test tubes and shake well.</sent>
+				<sent id ="105">What do you see? Write down the result in your note book.</sent>
+				<sent id ="106">There are two types of hardness of water.</sent>
+				<sent id ="107">Hardness due to the presence of soluble hydrogen carbonate can be removed by boiling.</sent>
+				<sent id ="108">Such type of hardness is called temporary hardness of water.</sent>
+				<sent id ="109">Hardness due to the presence of sulphate or chloride salts of calcium and magnesium cannot be removed by boiling.</sent>
+				<sent id ="110">So, heated calcium sulphate solution does not produce foam with soap solution.</sent>
+				<sent id ="111">This type of hardness is called permanent hardness.</sent>
+				<sent id ="112">Temporary and permanent both the hardness of water can be removed by sodium carbonate.</sent>
+				<sent id ="113">Sodium carbonate reacts with soluble calcium salt in water to produce insoluble calcium carbonate.</sent>
+				<sent id ="114">In this way the hardness of water is usually removed.</sent>
+				<sent id ="115">This process is known as soda process.</sent>
+				<sent id ="116">In addition to this, both permanent and temporary hardness of water can be removed by permutit process.</sent>
+				<sent id ="117">You will learn about this in your next classes.</sent>
+				<sent id ="118">Water which does not easily produce leather with soap but does so after a considerable amount of soap is consumed, is called hard water.</sent>
+				<sent id ="119">Water which easily produces foam with water is called soft water.</sent>
+				<sent id ="120">Hardness of water is caused by the presence of soluble chloride, sulphate and hydrogen carbonate of calcium, magnesium and iron in water.</sent>
+				<sent id ="121">Soluble calcium and magnesium salts are not present in soft water.</sent>
+				<sent id ="122">Household utensils are damaged by theuse of hard water.</sent>
+				<sent id ="123">Utensil and equipments are not damaged by the use of soft water.</sent>
+				<sent id ="124">Use of hard water consumes a lot of soap.</sent>
+				<sent id ="125">When hard water is used, insoluble heat insulator residue of calcium carbonate and calcium sulphate etc. are deposited in the boilers;</sent>
+				<sent id ="126">cooling chambers of motor cars and at the bottom of kettles.</sent>
+				<sent id ="127">This layer is insoluble and bad conductor of heat.</sent>
+				<sent id ="128">Due to this, heat conducting capacity of boilers decreases, which leads to misuses of fuel.</sent>
+				<sent id ="129">We have so far looked at some disadvantages of using hard water.</sent>
+				<sent id ="130">Now can you think of any possible advantages of using hard water?</sent>
+				<sent id ="131">Soluble salts in hard water are the constituents for building body; so hard water is suitable for health.</sent>
+				<sent id ="132">Calcium salt is one of the major constituents for bone and teeth.</sent>
+				<sent id ="133">So hard water is useful for children's bone and teeth.</sent>
+				<sent id ="134">Sometimes hard water acts as medicine for skin diseases, rheumatic, indigestion etc.</sent>
+				<sent id ="135">We have learnt about some of the disadvantages and advantages of using hard water.</sent>
+				<sent id ="136">The main problem to use hard water is that it consumes a lot of soap for washing clothes.</sent>
+				<sent id ="137">At present many cleaning agents such as detergents are available.</sent>
+				<sent id ="138">They work better than soap.</sent>
+				<sent id ="139">These are available as liquid or powder.</sent>
+				<sent id ="140">These cleansing agents do not react with dissolved calcium, magnesium or iron salts of hard water but form foam directly with water and clean clothes.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

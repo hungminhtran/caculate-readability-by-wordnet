@@ -1,0 +1,79 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-budh-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.814</idno>
+				<idno type="Number of sentences">51</idno>
+				<idno type="Number of tokens">490</idno>
+				<idno type="Number of token types">276</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t1">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Do you know what Triratna is? Triratna means three gems.</sent>
+				<sent id ="2">Ratna denotes gem, Jewel etc.</sent>
+				<sent id ="3">In Buddhhism more precisely three gems are Buddha, Dharma and Sangha.</sent>
+				<sent id ="4">Moreover Vandana means worship, admiration, reverance etc.</sent>
+				<sent id ="5">Hence, tribute to the Buddha, Dhamma and Sangha is known as Triratana Vandana.</sent>
+				<sent id ="6">The Buddha means wise.</sent>
+				<sent id ="7">Not merely that He is the wisest of the wise.</sent>
+				<sent id ="8">We do admire His profound wisdom.</sent>
+				<sent id ="9">To recollect the qualities of the Buddha of profound wisdom is called Buddha Vandana.</sent>
+				<sent id ="10">Dharma means to hold.</sent>
+				<sent id ="11">Basically to hold or to acquire the honest virtues is Dharma .</sent>
+				<sent id ="12">The doctrines that Goutam Buddha proclaimed on attainment of Buddhahood are known as Dharma.</sent>
+				<sent id ="13">Four Noble- truths are the doctrines of the Buddha which include Noble Eight- fold path .</sent>
+				<sent id ="14">Admiration to the doctrines of the Buddha is called Dharma Vandana.</sent>
+				<sent id ="15">Sangha denotes community.</sent>
+				<sent id ="16">The assembly of the renunciated Bhikkus (monks) is called Bhikkhusangha.</sent>
+				<sent id ="17">The Bhikkhusangha bear incomparable qualities.</sent>
+				<sent id ="18">They are the most deserving persons to be admired.</sent>
+				<sent id ="19">To show due respect to the monks is known as the Sangha Vandana (Tribute) is a noble deed.</sent>
+				<sent id ="20">It brings welfare for us.</sent>
+				<sent id ="21">The human mind becomes purified.</sent>
+				<sent id ="22">All sorts of mental unrest is removed.</sent>
+				<sent id ="23">There remains no malice, greed, hatred and delusion (fascination) in one's mind.</sent>
+				<sent id ="24">It always keeps us from doing wrong.</sent>
+				<sent id ="25">One can engage oneself in virtuous deeds.</sent>
+				<sent id ="26">Tribute is our daily duty to earn happiness, prosperity and virtues.</sent>
+				<sent id ="27">It is also your duty to pay tribute two times a day, in the morning and in the evening.</sent>
+				<sent id ="28">How and where will you pay your tribute?</sent>
+				<sent id ="29">For paying tribute you have to keep yourself clean by bath or washing hands, face and feet.</sent>
+				<sent id ="30">Then you should go to the nearest Vihara (monastery) with a cheerful mind.</sent>
+				<sent id ="31">You have to sit before the Buddha image by kneeling down with folding hands.</sent>
+				<sent id ="32">Then recite the prayers of the tribute to the Triple-gems one by one.</sent>
+				<sent id ="33">Bow down your head to show respect every time.</sent>
+				<sent id ="34">Tribute may be paid alone or unitedly.</sent>
+				<sent id ="35">It is wise to pay tribute along with relatives, friends and neighbours.</sent>
+				<sent id ="36">This type of Vandana is called tribute in association.</sent>
+				<sent id ="37">Unity grows through tribute in association.</sent>
+				<sent id ="38">Friendly relation is achieved.</sent>
+				<sent id ="39">It inspires to show amity towards all.</sent>
+				<sent id ="40">The qualities of others reflect in one's life.</sent>
+				<sent id ="41">The Buddha praised the tribute in association and said Co-operative union causes happiness.</sent>
+				<sent id ="42">Tribute helps towards gaining longer life and better complexion.</sent>
+				<sent id ="43">It further increases happiness and keeps body healthy.</sent>
+				<sent id ="44">Buddha, Dharma and Sangha possess different qualities.</sent>
+				<sent id ="45">Now we shall pay our tribute to Triratana by remembering all those qualities.</sent>
+				<sent id ="46">Tribute to the Buddha is the first one.</sent>
+				<sent id ="47">The Buddha possesses nine qualities.</sent>
+				<sent id ="48">There are more Vandanas besides Triratana Vandana.</sent>
+				<sent id ="49">Such as- Bodhi Vandana (Tribute to the Bodhitree), Tribute to the Tooth-relic, Tribute to the seven holy places etc.</sent>
+				<sent id ="50">You will learn these Tributes step by step.</sent>
+				<sent id ="51">By dint of the Vandana your life will be more graceful.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

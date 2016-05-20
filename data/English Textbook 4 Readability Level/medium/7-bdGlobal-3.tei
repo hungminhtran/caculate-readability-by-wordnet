@@ -1,0 +1,118 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-bdGlobal-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.164</idno>
+				<idno type="Number of sentences">90</idno>
+				<idno type="Number of tokens">1276</idno>
+				<idno type="Number of token types">630</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t27">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The mixture of different ethnic and indigenous peoples has contributed to the variety in size, looks and appearances of the people of Bengal.</sent>
+				<sent id ="2">Similarly the varied mixture of linguistically different peoples has made their culture diversified and colourful.</sent>
+				<sent id ="3">However, in this rural and agriculture based country, the influence of rural culture is more prominent.</sent>
+				<sent id ="4">Besides, uncertain and whimsical behaviours of rivers and seasonal diversity of nature have enriched the Bangalee minds.</sent>
+				<sent id ="5">To understand Bangalee culture, we should keep in mind these diversities of Bengal.</sent>
+				<sent id ="6">No human being can ignore the impact of the nature, environment and climate of his or her birth or living place.</sent>
+				<sent id ="7">Bangalees also could not ignore the influence of nature in their culture.</sent>
+				<sent id ="8">The fertile land of this region has naturally inspired its people in agricultural work.</sent>
+				<sent id ="9">Their utensils were mostly made of clay.</sent>
+				<sent id ="10">Agriculture provided them cotton which inspired them to weave cloth.</sent>
+				<sent id ="11">Again, as this country possesses innumerable rivers, canals, and beels, fishing has become another profession of its people.</sent>
+				<sent id ="12">Agriculture, clay work, fishing and weaving - these four were the main occupations of the Bangalees from long time ago.</sent>
+				<sent id ="13">Gradually due to the necessities of society, professions like those of blacksmith, cobbler, wood workers, and goldsmith expanded.</sent>
+				<sent id ="14">The nature of Bengal is very mysterious.</sent>
+				<sent id ="15">Sometimes it is very kind and generous.</sent>
+				<sent id ="16">Again sometimes it is very whimsical and cruel.</sent>
+				<sent id ="17">Such cruelty is proved clearly in river erosions, droughts, floods and thunder strikes.</sent>
+				<sent id ="18">And that is why its people have always wanted to satisfy nature in various ways.</sent>
+				<sent id ="19">Many beliefs and customs with regard to man's encounter with nature exist among the rural people of Bengal.</sent>
+				<sent id ="20">Nature's whimsicality makes people suffer from an uncertainty about their future and fate.</sent>
+				<sent id ="21">This feeling of uncertainty has created a unique mystical sense in its people to come to an understanding with the Creator.</sent>
+				<sent id ="22">Such understanding has been expressed in the Baul, Bhatiali, Marfati and other folk songs of Bengal.</sent>
+				<sent id ="23">In spite of the diversity of the six seasons, hot weather prevails most of the time of the year except in winter.</sent>
+				<sent id ="24">So among the indigenous dresses of this region, sari, lungi, dhuti, wrapper, etc. were prevalent.</sent>
+				<sent id ="25">The people would wear these dresses so that air could pass easily through them and keep their bodies cool.</sent>
+				<sent id ="26">In rural areas, houses were made of bamboo, straw and clay.</sent>
+				<sent id ="27">Terracotta columns, folk stories written and pictures drawn on palm-tree leaves, wood artistry, shell work, clay pots and covers were all parts of our culture.</sent>
+				<sent id ="28">But Bangalees prefer to have vegetables, too.</sent>
+				<sent id ="29">Standing in the paddy fields, the farmers can feel the generosity of the sky and the earth.</sent>
+				<sent id ="30">While travelling by rivers, not only the fishermen and boatmen, but anyone becomes fascinated by the beauty and vast expanse of nature.</sent>
+				<sent id ="31">This nature is what has made the people here liberal and humanistic.</sent>
+				<sent id ="32">The main occupation of the people of Bengal is agriculture.</sent>
+				<sent id ="33">Agriculture depended solely on nature, especially on soil, cloud, rain, the sun, etc.</sent>
+				<sent id ="34">The Bangla calendar has been made mainly in accordance with the lifestyle of this agricultural society.</sent>
+				<sent id ="35">Many customs and festivals are prevalent centering agriculture.</sent>
+				<sent id ="36">Among these, Nabanna festival is observed in late autumn after harvesting new paddy.</sent>
+				<sent id ="37">In winter, there is a tradition of eating home- made pies made of new rice with much fun and festivity.</sent>
+				<sent id ="38">There are many songs paying homage to the soil in our folk and modern literature.</sent>
+				<sent id ="39">The first line of a patriotic song of Rabindranath Tagore is- Oh the soil of my country, I bow down my head to you.</sent>
+				<sent id ="40">Praise of soil has also been expressed in many of Kazi Nazrul Islam's songs.</sent>
+				<sent id ="41">From time immemorial, boatmen and fishermen remember Pir Badar while travelling by rivers and seas.</sent>
+				<sent id ="42">The people of the Sundarbans area remember Banbibi in many ways.</sent>
+				<sent id ="43">Various artisan classes of people including cobbler, blacksmith, potter, goldsmith etc have also expressed dedication and commitment to their professions through various rituals and festivals.</sent>
+				<sent id ="44">Artisans and businessmen open a Halkhata especially on the first day of every New Year.</sent>
+				<sent id ="45">Thus, different pictures of peoples life styles have been depicted in our folk culture.</sent>
+				<sent id ="46">Religion plays a great role in an individual's personal and social life.</sent>
+				<sent id ="47">Once upon a time in this country most of the people were worshippers of nature.</sent>
+				<sent id ="48">After Brahmana religion was preached, while some old gods-goddesses still remained, some new gods-goddesses were added.</sent>
+				<sent id ="49">Local devotional songs, mantras (spells), tantras, lyrics and folk stories in verse were prevalent.</sent>
+				<sent id ="50">Different Bedanta hymns and religious books written in Sanskrit by the Arjas were added to them.</sent>
+				<sent id ="51">As a practice of arts and crafts - making and decoration of idols, ornamentation, making pata paintings - were prevalent.</sent>
+				<sent id ="52">On the other hand, worship and prayer music, hymns, sacrificial rites were also prevalent.</sent>
+				<sent id ="53">The ritual of dances has been a part of Hindu religious ceremonies and festivals.</sent>
+				<sent id ="54">However, due to hard and fast caste rules of Hinduism, the lower class Hindus were attracted by the words of fraternity of Islam.</sent>
+				<sent id ="55">The Sufis mainly preached Islam in this country.</sent>
+				<sent id ="56">In the medieval period, Muslim societies were expanded by the people who came to this region from Iran, Turan and Afghan in quest of fortune.</sent>
+				<sent id ="57">Over the decades, a huge Muslim community has developed in this country.</sent>
+				<sent id ="58">However, following the tradition of the ancient agro-based rural society, the Hindus and the Muslims of this country have been living peacefully together.</sent>
+				<sent id ="59">The Buddha community in Bangladesh is very small.</sent>
+				<sent id ="60">The Buddhas arrange festivals on the occasion of Buddha Purnima to celebrate the birth of Gautam Buddha.</sent>
+				<sent id ="61">The Christian community is smaller than other communities in our country.</sent>
+				<sent id ="62">They also celebrate different types of religious festivals.</sent>
+				<sent id ="63">On Christmas Day, they arrange a large festival.</sent>
+				<sent id ="64">People of other communities are also invited.</sent>
+				<sent id ="65">Various ethnic groups and indigenous people celebrate various social and religious festivals throughout the year.</sent>
+				<sent id ="66">They arrange different types of joyful festivals in New Year, in spring, for weddings, etc.</sent>
+				<sent id ="67">This is the main teaching of all religions.</sent>
+				<sent id ="68">And the people of Bengal have followed this philosophy of life since time immemorial.</sent>
+				<sent id ="69">There is a proverb in Bengal A succession of festivities all the year round.</sent>
+				<sent id ="70">That is to say, here festivals are frequently.</sent>
+				<sent id ="71">Besides these, there are also religious festivals.</sent>
+				<sent id ="72">Apart from, these people also celebrate Nabanna and New Year.</sent>
+				<sent id ="73">Moreover, innumerable fairs are held on various occasions.</sent>
+				<sent id ="74">Most of these are village fair.</sent>
+				<sent id ="75">All the communities including Muslim, Hindu, Buddhist, Christian, and even minor ethnic groups arrange fair.</sent>
+				<sent id ="76">But there is no restriction for one community to visit the fair arranged by another community.</sent>
+				<sent id ="77">All go to each other's fair for purchase and sale.</sent>
+				<sent id ="78">Again some fairs are arranged by all together socially.</sent>
+				<sent id ="79">Again in many fairs, nagordola, magic, latikhela (play with sticks), kusti (wrestling), puppet show and bioscope etc are also arranged.</sent>
+				<sent id ="80">Bangla Academy arranges month- long book fair on the occasion of 21st February.</sent>
+				<sent id ="81">Generally adopting this fair, creative books are published.</sent>
+				<sent id ="82">So we cannot deny the contribution of 21st February to cultural life and literary practice of Bengali.</sent>
+				<sent id ="83">Nowadays book fair is also arranged along with celebrating 21st February in different districts of the country.</sent>
+				<sent id ="84">Another mentionable feature is the arrangement of fair in memory of the venerable sage.</sent>
+				<sent id ="85">Our land is very fertile and limitless is the generosity of its nature.</sent>
+				<sent id ="86">Our culture is enriched with diversity.</sent>
+				<sent id ="87">The people of Bengal are naturally very simple and easily satisfied.</sent>
+				<sent id ="88">Swami Vivekananda said He serves god, who loves living beings.</sent>
+				<sent id ="89">The Bengali poet Sheikh Fazlul Karim has said, Where is heaven, where is hell, who says those are far away?</sent>
+				<sent id ="90">Heaven and hell lie in the hearts of human beings, And so do evils and good.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

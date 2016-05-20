@@ -1,0 +1,140 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.199</idno>
+				<idno type="Number of sentences">112</idno>
+				<idno type="Number of tokens">1465</idno>
+				<idno type="Number of token types">504</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t142">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Everyday a lot of changes are taking place in the world.</sent>
+				<sent id ="2">The water of the rivers and canals change to vapour due to the heat of the sun.</sent>
+				<sent id ="3">The vapour condenses to clouds and then we have rains from the clouds.</sent>
+				<sent id ="4">There are high and low tides in rivers.</sent>
+				<sent id ="5">Nights follow days.</sent>
+				<sent id ="6">Seeds germinate into plants, leaves grow out of the plants, flowers bloom, trees give fruits, they are ripen.</sent>
+				<sent id ="7">Finally, we get seeds from fruits.</sent>
+				<sent id ="8">Cooking is done in the kitchen.</sent>
+				<sent id ="9">Curds, ghee, butter, cheese, etc are made of milk.</sent>
+				<sent id ="10">Sweets are made of milk.</sent>
+				<sent id ="11">Puffed rice, flattened rice and cakes are made of rice.</sent>
+				<sent id ="12">Oil, coal and gas burn.</sent>
+				<sent id ="13">Many such changes are taking place around us every day.</sent>
+				<sent id ="14">If you observe carefully, you will see that all these changes are of the same kind.</sent>
+				<sent id ="15">In one type of change the main constituent of a matter does not change.</sent>
+				<sent id ="16">On the other hand, the main substance changes into completely different substance in the case of some other changes.</sent>
+				<sent id ="17">Thus we see that there are two types of changes such as physical changes and chemical changes.</sent>
+				<sent id ="18">The major cause of a chemical change is chemical reaction.</sent>
+				<sent id ="19">In this chapter we shall discuss the chemical changes and chemical reactions.</sent>
+				<sent id ="20">Let us discuss first what a chemical reaction is.</sent>
+				<sent id ="21">The process through which one or more substances change to one or more new substances of completely different properties is called a chemical reaction.</sent>
+				<sent id ="22">Similarly, let us consider the case of sodium and chlorine.</sent>
+				<sent id ="23">Chemical Reaction and Chemical Equation 29.</sent>
+				<sent id ="24">At normal temperatures, sodium is a soft and white metal.</sent>
+				<sent id ="25">It consists of sodium atoms.</sent>
+				<sent id ="26">On the other hand, chlorine is a greenish yellow poisonous gas having a bad smell.</sent>
+				<sent id ="27">It is a diatomic gas.</sent>
+				<sent id ="28">This is a chemical reaction.</sent>
+				<sent id ="29">In the above example, sodium and chlorine are the reactants and sodium chloride is the product.</sent>
+				<sent id ="30">During any chemical reaction atoms are rearranged.</sent>
+				<sent id ="31">The reactants sodium and chlorine lose their individual properties to form sodium chloride through chemical reaction.</sent>
+				<sent id ="32">This is our edible salt.</sent>
+				<sent id ="33">During a chemical reaction a new substance is formed through the re-arrangement of atoms and molecules.</sent>
+				<sent id ="34">For this reason, the original reactants cannot be easily obtained from the new substance formed through the chemical reaction.</sent>
+				<sent id ="35">A question may come to your mind, Why does chemical reaction take place?</sent>
+				<sent id ="36">Can any substance react with another one?</sent>
+				<sent id ="37">There must be strong attractions between the reactants for a chemical reaction to occur.</sent>
+				<sent id ="38">This attraction among the reactants is called chemical affinity.</sent>
+				<sent id ="39">In addition to this, suitable conditions such as temperature, pressure, electricity, etc. are to required to start a chemical reaction.</sent>
+				<sent id ="40">These conditions may not be applicable to all reactions but specific conditions are applicable to run specific reactions.</sent>
+				<sent id ="41">A chemical reaction does not take place without the specific conditions needed for that particular reaction.</sent>
+				<sent id ="42">For example, if you put both hydrogen and oxygen together in a flask for many years, water will not be produced.</sent>
+				<sent id ="43">But if electricity is passed through the mixture of hydrogen and oxygen, water will form immediately.</sent>
+				<sent id ="44">When solid ice is heated, it changes to water, and when water is boiled, it changes to steam.</sent>
+				<sent id ="45">Again, when steam is cooled slowly, it becomes liquid and then ice.</sent>
+				<sent id ="46">Water, ice and steam are three different forms of the same substance .</sent>
+				<sent id ="47">The molecules of ice, water and steam have the same composition.</sent>
+				<sent id ="48">These are physical changes when an electric current is passed through the acidified water.</sent>
+				<sent id ="49">Water is decomposed into hydrogen and oxygen.</sent>
+				<sent id ="50">Water does not remain water.</sent>
+				<sent id ="51">Hydrogen and oxygen do not produce water at normal conditions.</sent>
+				<sent id ="52">This will bring about a change in the composition of molecules totally.</sent>
+				<sent id ="53">Therefore, chemical changes change the specific properties of matters by bringing about a change in the composition of their molecules.</sent>
+				<sent id ="54">New molecules are formed as a result of a chemical change.</sent>
+				<sent id ="55">Chemical changes occur due to chemical reactions.</sent>
+				<sent id ="56">There are various factors, such as heat, pressure, electric current, atmosphere, presence of acid, light etc.</sent>
+				<sent id ="57">They play important roles in chemical reactions.</sent>
+				<sent id ="58">Physical change Chemical change Chemical changes.</sent>
+				<sent id ="59">Physical change is temporary.</sent>
+				<sent id ="60">There is no change in mass of the substance due to physical change.</sent>
+				<sent id ="61">Thermal change may or may not occurs.</sent>
+				<sent id ="62">Chemical changes are those changes which alter the specific properties of the matter by bringing about a change in the composition of its molecules.</sent>
+				<sent id ="63">Completely new molecules are formed as a result of chemical changes.</sent>
+				<sent id ="64">Chemical change is permanent.</sent>
+				<sent id ="65">Always a new substance or substances are produced.</sent>
+				<sent id ="66">Thermal exchange must always occur during chemical change.</sent>
+				<sent id ="67">Numerous chemical reactions are occurring around us naturally as well as artificially.</sent>
+				<sent id ="68">It is quite difficult to explain chemical reactions with our ordinary vocabulary.</sent>
+				<sent id ="69">Symbols and formulas are used to remember the names of elements or compounds easily.</sent>
+				<sent id ="70">The chemical reactions are adequately with the chemical equations.</sent>
+				<sent id ="71">Chemical reactions are written in two parts.</sent>
+				<sent id ="72">One part contains the reactants and in the other part the products or the newly formed substances.</sent>
+				<sent id ="73">Reactants represent the prior state of the reaction and products the resultant state of the chemical reaction.</sent>
+				<sent id ="74">In any chemical reaction, atoms cannot be created or destroyed; but they are re-arranged only.</sent>
+				<sent id ="75">The total number of atoms present in the reactants before the reaction always equals the total number of atoms of the product after the reaction.</sent>
+				<sent id ="76">So the reactants and their product have the same number of atoms.</sent>
+				<sent id ="77">A chemical equation is a shortened expression of a chemical reaction.</sent>
+				<sent id ="78">It uses some symbols, formulas and some mathematical signs to denote the reactants and the products.</sent>
+				<sent id ="79">It also denotes the equality between the reactant and their products.</sent>
+				<sent id ="80">If the reactants or products are more than one, a plus (+) sign is put between the formula and the symbols.</sent>
+				<sent id ="81">If the number of molecule is more than one then the number is used before the formula.</sent>
+				<sent id ="82">An arrow sign (?) is used to indicate that the reaction moves towards the products from the reactants.</sent>
+				<sent id ="83">Instead of an arrow sign, an equals sign (=) may also be used.</sent>
+				<sent id ="84">However, the equation has to be balanced on both sides.</sent>
+				<sent id ="85">So, to make balance the symbol or formula must be multiplied by the required number.</sent>
+				<sent id ="86">Hydrogen reacts with oxygen to produce water.</sent>
+				<sent id ="87">The number of H and O-atoms before the reaction and their numbers after the reaction should be same.</sent>
+				<sent id ="88">But in reaction 2 & 3 only two elements combine to form a compound.</sent>
+				<sent id ="89">So, they are called synthesis reactions.</sent>
+				<sent id ="90">All synthesis reactions are addition reactions, but all addition reactions are not synthesis reactions.</sent>
+				<sent id ="91">The reaction in which a compound is split up into two or more molecules of different substance is called decomposition.</sent>
+				<sent id ="92">It is the opposite reaction of addition reaction.</sent>
+				<sent id ="93">But when a compound is decomposed into two or more elements the reaction is called analysis reaction.</sent>
+				<sent id ="94">The three reactions shown above are the examples of decomposition reaction.</sent>
+				<sent id ="95">But in reactions 2 and 3 one compound is decomposed into elements, these two are called analysis reactions.</sent>
+				<sent id ="96">All analysis reactions include decomposition reactions, but all decomposition reactions do not include analysis reactions.</sent>
+				<sent id ="97">The reaction in which one element displaces or substitutes another element in a compound is called a substitution reaction.</sent>
+				<sent id ="98">In this reaction zinc displaces copper from copper sulphate solution to form metallic copper.</sent>
+				<sent id ="99">When two compounds react and form two new compounds through an exchange of atoms or radicals, it is called a double decomposition reaction.</sent>
+				<sent id ="100">In these examples, Ag exchanges its position with sodium and nitrate exchange position with chlorine.</sent>
+				<sent id ="101">The reaction in which acids and bases react with one another to form water and salt is called a neutralization reaction.</sent>
+				<sent id ="102">When a substance is burnt in presence of oxygen or air to produce a different compound, the process is called combustion.</sent>
+				<sent id ="103">Let an element A combines with another element B to form a compound.</sent>
+				<sent id ="104">Suppose the valency of A is x and that of B is y.</sent>
+				<sent id ="105">Then the molecular formula of AB will be AyBx.</sent>
+				<sent id ="106">The valency of sodium is 1 and that of chlorine is So, the formula of sodium chloride is Na1Cl1 or NaCl.</sent>
+				<sent id ="107">The valency of hydrogen is 1 and that of oxygen is Then the formula of water will be H2O1 or H2O.</sent>
+				<sent id ="108">If the valencies of both element and radical are the same in a compound, then valencies are not written.</sent>
+				<sent id ="109">In this case the formula of element and radical is written side by side.</sent>
+				<sent id ="110">If the valencies are multiplied by any whole number, then the valencies are exchanged after a division by the whole number.</sent>
+				<sent id ="111">For example, the valency of both calcium and oxygen is So the formula of calcium oxide is CaO.</sent>
+				<sent id ="112">Again the valency of carbon is 4 and that of oxygen is Therefore, the formula of Carbon dioxide is not written C2O4 but CO2.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

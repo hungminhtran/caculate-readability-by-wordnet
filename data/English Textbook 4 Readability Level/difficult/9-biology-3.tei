@@ -1,0 +1,120 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-biology-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.89</idno>
+				<idno type="Number of sentences">92</idno>
+				<idno type="Number of tokens">1188</idno>
+				<idno type="Number of token types">455</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t30">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Mitosis is also termed as equational division.</sent>
+				<sent id ="2">Normally this division occurs in somatic cell.</sent>
+				<sent id ="3">As a result of this division, the plant and animal increases in length and breadth.</sent>
+				<sent id ="4">Mitosis occurs in all meristamatic cells of plants.</sent>
+				<sent id ="5">3 Meiosis: Meiosis is a type of cell division by which a Eukaryotic cell divides into four cells by a special method.</sent>
+				<sent id ="6">In this process the nucleus divides twice but the chromosome divides once.</sent>
+				<sent id ="7">The number of chromosome in the newly formed daughter cell reduces to the half the number of mother cell.</sent>
+				<sent id ="8">As the number of chromosome reduces to half this process is also termed as reduction division.</sent>
+				<sent id ="9">In Greek `Meiosis means `to reduce and from this the term Meiosis comes in use.</sent>
+				<sent id ="10">This division occurs in reproductive mother cells of diploid organisms.</sent>
+				<sent id ="11">As a result haploid gametes develop.</sent>
+				<sent id ="12">In haploid organisms, this.</sent>
+				<sent id ="13">division occurs in the zygote, as a result of which the organism becomes haploid again.</sent>
+				<sent id ="14">Mitosis is a continuous process.</sent>
+				<sent id ="15">The process is completed by a complex method.</sent>
+				<sent id ="16">According to the sequence and stages, this continuous process is divided into five stages.</sent>
+				<sent id ="17">Prophase: At this stage, the nucleus swells up.</sent>
+				<sent id ="18">Chromosomes begin to be de- hydrated.</sent>
+				<sent id ="19">As a result, the chromosomes gradually become shorter and thicker.</sent>
+				<sent id ="20">Then they are visible under microscopes.</sent>
+				<sent id ="21">At the end of this stage nucleolus and nuclear membrane become disappear.</sent>
+				<sent id ="22">Pro-Metaphase : At the beginning of this stage.</sent>
+				<sent id ="23">the fibrous protein converse to form a bi-polar spindle apparatus.</sent>
+				<sent id ="24">Each chromosome is then become attached to a fibre of the spindle apparatus by its centromere.</sent>
+				<sent id ="25">Each fibre of the spindle apparatus is called spindle fibre.</sent>
+				<sent id ="26">The fibre to which the chromosomes are attached is called traction fibre.</sent>
+				<sent id ="27">As they are attached with the chromosomes so they also called chromosomal fibre.</sent>
+				<sent id ="28">In animal cell aster rays are radiated from centrioles present at two poles.</sent>
+				<sent id ="29">Metaphase : Chromosomes are arranged at the equatorial plane of the spindle.</sent>
+				<sent id ="30">The centromere of each chromosome remains at the equatorial plane and the two arms are placed towards two poles.</sent>
+				<sent id ="31">At this stage, the chromosomes become maximum thick and short.</sent>
+				<sent id ="32">Two chromatids of a chromosome become maximum thick and short.</sent>
+				<sent id ="33">Two chromatids of a chromosome become clearly visible and the centromere is divided in to two parts.</sent>
+				<sent id ="34">Anaphase : Two separate chromatids of a chromosome move towards the opposite pole of the spindle apparatus.</sent>
+				<sent id ="35">Centromere goes ahead at the movement of the chromatids towards the pole and the arms follow them.</sent>
+				<sent id ="36">when the daughter chromosomes reaches near the poles the anaphase stage ends.</sent>
+				<sent id ="37">Telophase: Daughter chromosomes take position at two opposite poles.</sent>
+				<sent id ="38">As a result, the mother cell divides into two daughter cells.</sent>
+				<sent id ="39">In case of animal cells, instead of formation of cell wall the cell membrane is constricted inwardly and the cell divides into two.</sent>
+				<sent id ="40">The significance of mitosis in the living world is unlimited.</sent>
+				<sent id ="41">Growth of the body: Growth of the body of a living being takes place by mitotic division.</sent>
+				<sent id ="42">A unicellular zygote is transformed to a human body consisting of millions of cells.</sent>
+				<sent id ="43">A small zygote forms a large Banyan tree.</sent>
+				<sent id ="44">Maintaining equality of Chromosome number: By this division the number and properties of a chromosome in each cell of a multicellular body remains constant.</sent>
+				<sent id ="45">Keeping the size and shape constant: By this division the definite shape and size of the cell remains constant.</sent>
+				<sent id ="46">Healing of injuries: By producing new cells this process repairs the various types of damage of multicellular organisms.</sent>
+				<sent id ="47">Formation of sex organs: By this process sex organs are formed.</sent>
+				<sent id ="48">As a result, continuity of reproductive sequence is maintained.</sent>
+				<sent id ="49">Qualitative stability: Qualitative stability is maintained by mitosis.</sent>
+				<sent id ="50">Chromosomes gradually take water and become elongated, thin and long.</sent>
+				<sent id ="51">Nuclear membrane develops encircling the chromosomes.</sent>
+				<sent id ="52">Nucleolus reappears at the secondary constriction of the Sat chromosome.</sent>
+				<sent id ="53">Spindle apparatus disappears.</sent>
+				<sent id ="54">At the end of this stage, gradually a cell wall develops at the equatorial region of the cell.</sent>
+				<sent id ="55">We are all acquainted with the terms, Tumor, Cancer, etc.</sent>
+				<sent id ="56">These are the result of abnormal cell division.</sent>
+				<sent id ="57">In mitosis one cell divides into two, two to four and in this way the number of cell increases But there is a regularity in this process.</sent>
+				<sent id ="58">If by any circumstances this regularity is lost, cell divides abnormally.</sent>
+				<sent id ="59">As a result, a tumor is formed.</sent>
+				<sent id ="60">Cancer cell is also a product of uncontrolled abnormal cell division.</sent>
+				<sent id ="61">It has been found in experiment that various type of Papilloma virus help to produce cancer cell.</sent>
+				<sent id ="62">Two genes named E6 and E7 of this virus (Papilloma) produce some chemicals, which displace two protein molecules responsible for controlling the cell division.</sent>
+				<sent id ="63">As a result, control over cell division is lost and thus a tumor is produced.</sent>
+				<sent id ="64">Sometimes these two genes may be united with-the genes of host cell and stop the action of protein to control the cell division and thus there develop cancer cell or Cancer.</sent>
+				<sent id ="65">Cancer is a fatal disease.</sent>
+				<sent id ="66">Every year five to six hundred thousand of patients die only because of various forms of cancer.</sent>
+				<sent id ="67">Cancer generates in liver, lunge, brain, breast and skin i.e. almost all the organs of the body.</sent>
+				<sent id ="68">No effective medicine has yet been discovered to prevent this disease.</sent>
+				<sent id ="69">Every living being has a definite number of chromosomes.</sent>
+				<sent id ="70">In human beings there are 23 pairs of chromosome.</sent>
+				<sent id ="71">Among them pairs are similar in both male and female, these are Autosomes, AA.</sent>
+				<sent id ="72">Members of the remaining pair of chromosome are different in male and female.</sent>
+				<sent id ="73">This pair of chromosome determines the sex of human beings.</sent>
+				<sent id ="74">As they determine the sex, so they are called X and y sex chromosome or sex determining chromosome.</sent>
+				<sent id ="75">One of the sex chromosomes is X chromosome and the other is Y chromosome.</sent>
+				<sent id ="76">If the sex chromosome pair is XY, the child will be male (son), and if it is XX, the child will be female (daughter).</sent>
+				<sent id ="77">In Drosophylla (a fly) also XX indicate female and XY male.</sent>
+				<sent id ="78">So in case of determining the sex, the role of X and Y chromosome is vital.</sent>
+				<sent id ="79">Now we will discuss whether the father or mother is responsible for the birth of a son or daughter.</sent>
+				<sent id ="80">Both male and female have 44 autosomes, A and a pair of sex chromosome.</sent>
+				<sent id ="81">Sex chromosome of a female is XX and that of the male is XY.</sent>
+				<sent id ="82">The male gamete (sperm) bears X and Y chromosome.</sent>
+				<sent id ="83">But the female gamete (egg) bears X and X.</sent>
+				<sent id ="84">If the X bearing egg of the female is united (fertilize) with Y bearing sperm of the male, the child will have XY.</sent>
+				<sent id ="85">A child having such chromosomes will be a male child.</sent>
+				<sent id ="86">It is seen that if there is no Y chromosome, the child will never be a son.</sent>
+				<sent id ="87">There is no Y chromosome in a female; Y chromosome is present only in male.</sent>
+				<sent id ="88">So if a couple do not have any male child, the husband is responsible not the wife.</sent>
+				<sent id ="89">The role of sex chromosome in determining sex of the child (i.e.</sent>
+				<sent id ="90">whether the child will be a son or a daughter) is known to you.</sent>
+				<sent id ="91">Now work with this grid.</sent>
+				<sent id ="92">Write which child will be a son and which one a daughter.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

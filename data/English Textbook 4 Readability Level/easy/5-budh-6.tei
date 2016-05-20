@@ -1,0 +1,140 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-budh-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.981</idno>
+				<idno type="Number of sentences">112</idno>
+				<idno type="Number of tokens">1215</idno>
+				<idno type="Number of token types">495</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t9">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The Buddhist monks and the lay devotees, both men and women, observe some important ceremonies.</sent>
+				<sent id ="2">These are Buddha Purnima, Ashari Purnima, Probarona, Kathin Chibar Dan, Prabrajya, Upasampada etc.</sent>
+				<sent id ="3">These ceremonies are observed according to religious principle.</sent>
+				<sent id ="4">These are called religious ceremonies.</sent>
+				<sent id ="5">Mind becomes pure by the observance of religious ceremonies.</sent>
+				<sent id ="6">It also helps in earning virtue.</sent>
+				<sent id ="7">Most of the ceremonies are observed during the three particular lunar days.</sent>
+				<sent id ="8">These ceremonies have also special significance.</sent>
+				<sent id ="9">The monk and the laities meet together in a place on these occasions.</sent>
+				<sent id ="10">As a result of this meeting, mutual good relation, brotherhood and fraternity develop.</sent>
+				<sent id ="11">Unity also develops.</sent>
+				<sent id ="12">You will learn about Pravarana, Kathin Chibar Dan, Prabrajya and Upasampada in this chapter.</sent>
+				<sent id ="13">The word Pravarana means fulfilment of hopes, wishes and an end of course of meditation.</sent>
+				<sent id ="14">Beccause, on this day three months of solilary living of Barshabas are completed.</sent>
+				<sent id ="15">The day of completion of Varshabrata is the day of Ashari Purnima.</sent>
+				<sent id ="16">Ashari Purnima is known as Probarona Purnima.</sent>
+				<sent id ="17">If the monks live together in a place, they may quarrel among themselves.</sent>
+				<sent id ="18">During Probarona they acknowledge (confess) their mistakes.</sent>
+				<sent id ="19">As a result misunderstanding is gone.</sent>
+				<sent id ="20">The impurity of the mind (mental state) is removed.</sent>
+				<sent id ="21">The mutual meeting of Bhikhusangha or monks inreases prosperity.</sent>
+				<sent id ="22">If the ceremonies of Barshabas and Probarona are not observed in time, the Kathin Chibar Dan cannot be held.</sent>
+				<sent id ="23">The lay devotees both men and women observe the Probarona with joy and festivity.</sent>
+				<sent id ="24">The Vihars are decorated beautifully.</sent>
+				<sent id ="25">Flags of different colours are hoisted.</sent>
+				<sent id ="26">Children wearing beautiful dresses come to the Vihars with their parents.</sent>
+				<sent id ="27">The laities of both men and women come to the Vihars carrying various items of offering.</sent>
+				<sent id ="28">These items of offering are decorated and offered to the Buddha for worship.</sent>
+				<sent id ="29">The devotees worship the Buddha.</sent>
+				<sent id ="30">They accept the Shils (Precepts) together.</sent>
+				<sent id ="31">The lay devotees sit in a particular room and meditate.</sent>
+				<sent id ="32">Religious discussion is held in the evening.</sent>
+				<sent id ="33">The sky lamp is lit in the evening.</sent>
+				<sent id ="34">The devotees enjoy the occasion by flying colourful baloons.</sent>
+				<sent id ="35">The whole Buddhist community celebrate this day with full merriment.</sent>
+				<sent id ="36">These ceremonies are also observed by the Buddhist community throughout the world.</sent>
+				<sent id ="37">Kathin Chibar Dan is one of the religious ceremonies.</sent>
+				<sent id ="38">It starts on the day after the Ashwini Purnima and continues till Kartiki Purnima.</sent>
+				<sent id ="39">It can not be observed on any other day of the year.</sent>
+				<sent id ="40">There are difference between Kathin Chibar Dan and other ceremonial offerings.</sent>
+				<sent id ="41">There can not be any Kathin Chibar Dan in a Vihar where no monk observes vassavasa.</sent>
+				<sent id ="42">Kathin Chibar Dan ceremony is observed only once a year in a Vihar.</sent>
+				<sent id ="43">Three parts of dress of the monks are offered.</sent>
+				<sent id ="44">Any one of the three dresses may be offered.</sent>
+				<sent id ="45">Kathin Chibar is made by following some strict rules.</sent>
+				<sent id ="46">The making of the thread and weaving of the cloth should be completed within twenty four hours.</sent>
+				<sent id ="47">After the weaving of the cloth, it is coloured.</sent>
+				<sent id ="48">The coloured cloth can be offered even after sewing.</sent>
+				<sent id ="49">Trisharan or refuge to Triple gems and Panchashil (Five precepts) have to be accepted before Kathin Chibar Dan.</sent>
+				<sent id ="50">We are offering this Kathin Chibar to the Bikkhusangha for approval.</sent>
+				<sent id ="51">The monks humbly take the Chibar to Simaghar(Specific religious place).</sent>
+				<sent id ="52">The Chibar is offered to the monk who has already observed Vsrdhabas in the Vihar.</sent>
+				<sent id ="53">The Chivar is approved by the monks present there.</sent>
+				<sent id ="54">Lord Buddha introduced Kathin Chibar dan for the thirty monks.</sent>
+				<sent id ="55">The Buddha said in His speech that by offering Kathin Chibar one can earn unlimited virtues.</sent>
+				<sent id ="56">It is the duty of a man to offer Kathin Chibar at least once in life.</sent>
+				<sent id ="57">The lay devotees of both men and women holding Chibars in hands.</sent>
+				<sent id ="58">Friend and relatives meet together on the occasion of Kathin Chibar Dan Chiddren wear new dresses.</sent>
+				<sent id ="59">Mela (Fair) is organized around Buddhist monastery or Vihar.</sent>
+				<sent id ="60">The Vihar is decorated with candles.</sent>
+				<sent id ="61">Coloured balloons are flown in the evening.</sent>
+				<sent id ="62">The significance of this ceremony is endless.</sent>
+				<sent id ="63">The initiation as a novice in the order of Dharma is a saered religious ceremony.</sent>
+				<sent id ="64">The initiation as a novice is called Prabrajya.</sent>
+				<sent id ="65">The Prince Siddhratha Goutam renounced from the palace and got himself initiated as a novice in search of salvation.</sent>
+				<sent id ="66">In this way salvation loving men and women took Prabrajya for ages.</sent>
+				<sent id ="67">Lord Buddha said, It is not so easy to get initiation.</sent>
+				<sent id ="68">When a man or woman takes Prabrajya in the order of Dharma he or she becomes free from all bondage.</sent>
+				<sent id ="69">If anyone is initiated he can easily do right actions (deeds).</sent>
+				<sent id ="70">Every Buddhist should take initiation at least once in his life.</sent>
+				<sent id ="71">The Emperor Ashok offered his son Mahendra and daughter Sanghamitra to the Buddha's doctrines.</sent>
+				<sent id ="72">The permission of the parents is required for taking Prabrajya.</sent>
+				<sent id ="73">A boy under the age of seven can not take Prabrajya.</sent>
+				<sent id ="74">One who has been initiated in Prabrajya is called Sramanera.</sent>
+				<sent id ="75">The following eight items are needed for becoming a Sramanera .</sent>
+				<sent id ="76">The man or woman seeking initiation shall go to the monastery with all these items.</sent>
+				<sent id ="77">The man seeking Prabrajya has to shave off his hair.</sent>
+				<sent id ="78">After being shaved off he or she shall seek Prabrajya from a learned monk.</sent>
+				<sent id ="79">The Sramanera seeking Prabrajya from the Bhikkhusangha and the laities.</sent>
+				<sent id ="80">The monk who observes Barshabas for ten times can offer Prabrajya (initiation).</sent>
+				<sent id ="81">Everybody on this occasion shall take Five precepts.</sent>
+				<sent id ="82">The person taking Prabrajya shall sit kneeling down and pay tribute to the Bhikkhu.</sent>
+				<sent id ="83">The monk shall recite the hymn.</sent>
+				<sent id ="84">After hymn he shall pray for Prabrajya.</sent>
+				<sent id ="85">After the prayer, the seeker of Prabrajya, shall wear Chibar.</sent>
+				<sent id ="86">He will again sit kneeling down and pray for the Ten-precepts with refuge to the Triple-gems (Trisarana).</sent>
+				<sent id ="87">The monk who will offer Prabrajya, shall be the Preceptor of the Samanera.</sent>
+				<sent id ="88">The Preceptor shall make the Sramanera recite the Trisarana correctly.</sent>
+				<sent id ="89">After this the monk shall offer Ten precepts of initiation.</sent>
+				<sent id ="90">After offering Prabrajya, the Gurubhante (Preceptor) shall give a religious name to the Sramanera.</sent>
+				<sent id ="91">The Sramanera shall have to learn humility, politeness from that very day of initiation.</sent>
+				<sent id ="92">His everyday prayer, activities, movements shall be guided by the rules of humility.</sent>
+				<sent id ="93">The Gurubhante (Preceptor) shall teach the Sramanera all these.</sent>
+				<sent id ="94">The Gurubhante shall teach the Sramanera the systems of wearing a Chibar, eating, sleeping, sitting, walking etc.</sent>
+				<sent id ="95">The Sramanera has to eat slowly with small lump.</sent>
+				<sent id ="96">The Sramanera must not sit or defecate here and there.</sent>
+				<sent id ="97">There are Seventy five rules of learning.</sent>
+				<sent id ="98">He must follow these rules in day to day life.</sent>
+				<sent id ="99">These are called Sramanera Sekhiyas.</sent>
+				<sent id ="100">The word Sekhiya means rules of learning.</sent>
+				<sent id ="101">The Sramanera shall always obey the advice of the Guru (Preceptor).</sent>
+				<sent id ="102">He shall not go out of the Vihar without his permission.</sent>
+				<sent id ="103">He will bring water from the pond or well.</sent>
+				<sent id ="104">He will learn the rules of 75 religious learning.</sent>
+				<sent id ="105">He will practise the meditation of loving kindness while sleeping at night.</sent>
+				<sent id ="106">The rules of becoming a Monk from Sramanera is called Upasampada.</sent>
+				<sent id ="107">After attaining the age of twenty the Sramanera can undergo initiation in Upasampada.</sent>
+				<sent id ="108">The initiation from the Samanera system of faith is called Pabrajya.</sent>
+				<sent id ="109">The Sramanera has to observe some rituals as an apprentice.</sent>
+				<sent id ="110">Upasampada can be taken if the period of apprenticeship is over.</sent>
+				<sent id ="111">Upasampada is not given to any unqualified Sramanera.</sent>
+				<sent id ="112">Upasampada is given after learning necessary rules.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

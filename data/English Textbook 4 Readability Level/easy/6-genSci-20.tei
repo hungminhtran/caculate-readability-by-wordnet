@@ -1,0 +1,53 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-20</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.892</idno>
+				<idno type="Number of sentences">25</idno>
+				<idno type="Number of tokens">293</idno>
+				<idno type="Number of token types">179</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t93">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Many of us have heard about some deadly diseases.</sent>
+				<sent id ="2">For example, tuberculosis (TB) is a deadly disease that causes death to many people.</sent>
+				<sent id ="3">However, a TB patient gets completely cured if treated timely.</sent>
+				<sent id ="4">Besides, there is a vaccine which prevents TB.</sent>
+				<sent id ="5">But today we will know about a new disease for which no vaccine or treatment has been discovered as yet.</sent>
+				<sent id ="6">This disease has created panic throughout the whole world.</sent>
+				<sent id ="7">It is called AIDS.</sent>
+				<sent id ="8">A virus named HIV, entering into human body, gradually destroys the immune system of the body.</sent>
+				<sent id ="9">This stage of HIV infection is called AIDS.</sent>
+				<sent id ="10">Since there is no cure of AIDS as yet, death is the only consequence.</sent>
+				<sent id ="11">For this reason, AIDS is termed as the fatal disease.</sent>
+				<sent id ="12">HIV may be transmitted into human body through various means, like:</sent>
+				<sent id ="13">1) Receiving blood of an HIV infected person</sent>
+				<sent id ="14">2) Sharing the infected needle and syringe</sent>
+				<sent id ="15">3) Through breastfeeding of an HIV infected mother.</sent>
+				<sent id ="16">The learner will talk to them about AIDS and will record their opinions.</sent>
+				<sent id ="17">Finally, she/ he will exchange this experience with classmates in the classroom.</sent>
+				<sent id ="18">AIDS is not a contagious disease.</sent>
+				<sent id ="19">It does not spread through air or water.</sent>
+				<sent id ="20">Remember that adherence to religious and social customs reduces the chances of being affected by AIDS.</sent>
+				<sent id ="21">Everyday innumerable people are being affected by AIDS and countless people are also dying all over the world.</sent>
+				<sent id ="22">For various reasons, the people of Bangladesh also are at high risk of being affected by AIDS.</sent>
+				<sent id ="23">So, all of us will have to be careful before it is late.</sent>
+				<sent id ="24">We shall inform our friends, partners and associates, family members and other persons about AIDS.</sent>
+				<sent id ="25">We shall be careful about the ways through which AIDS spreads and will also ask others to be careful.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

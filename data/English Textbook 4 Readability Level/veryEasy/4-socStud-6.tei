@@ -1,0 +1,78 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.718</idno>
+				<idno type="Number of sentences">50</idno>
+				<idno type="Number of tokens">452</idno>
+				<idno type="Number of token types">247</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t100">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Whatever we have around us is called our environment.</sent>
+				<sent id ="2">The natural environment may be affected for various reasons.</sent>
+				<sent id ="3">When this happens, we call it environmental pollution.</sent>
+				<sent id ="4">The natural (ecological) balance is destroyed.</sent>
+				<sent id ="5">The population of our country is increasing rapidly.</sent>
+				<sent id ="6">The more the population is growing, the more problems are arising.</sent>
+				<sent id ="7">With the growth of population, new houses are coming up.</sent>
+				<sent id ="8">Trees and plants are being cut down to make room for building houses.</sent>
+				<sent id ="9">Lakes are being filled up.</sent>
+				<sent id ="10">Water is being polluted.</sent>
+				<sent id ="11">The lands are losing their fertility for cultivating crops again and again.</sent>
+				<sent id ="12">The soil is being polluted.</sent>
+				<sent id ="13">The number of industries and vehicles is increasing.</sent>
+				<sent id ="14">Air and noise pollution is taking place.</sent>
+				<sent id ="15">Consequently, the level of environmental pollution is increasing.</sent>
+				<sent id ="16">Let us read in the following table below what pollution is.</sent>
+				<sent id ="17">happening in the environment due to rapid growth of population.</sent>
+				<sent id ="18">We take our breath from air.</sent>
+				<sent id ="19">Air pollution causes diseases like cough, cold and various lungs troubles.</sent>
+				<sent id ="20">Water is another name for life.</sent>
+				<sent id ="21">No creature can live without water.</sent>
+				<sent id ="22">Drinking polluted water causes stomach troubles, dysentery, typhoid, cholera jaundice etc.</sent>
+				<sent id ="23">Often arsenic is mixed with water below the sub soil.</sent>
+				<sent id ="24">If this water is used, skin diseases develop.</sent>
+				<sent id ="25">Noise is a kind of power.</sent>
+				<sent id ="26">It reaches the ears and creates the feeling of hearing.</sent>
+				<sent id ="27">A shrill noise may tear the covering of the ear leading to deafness.</sent>
+				<sent id ="28">Blood pressure might go up and the heart may be affected.</sent>
+				<sent id ="29">Sharp sound causes headaches, sleeplessness and makes one jittery.</sent>
+				<sent id ="30">In most cases soil is polluted through water and air pollution.</sent>
+				<sent id ="31">Repeated cultivation of crops reduces the fertility of the soil.</sent>
+				<sent id ="32">Eating crops and vegetables produced in polluted soil affects human health.</sent>
+				<sent id ="33">Human beings use the natural resources for their own sake.</sent>
+				<sent id ="34">The more the population grows, the more the resources are used.</sent>
+				<sent id ="35">We often misuse the resources without understanding.</sent>
+				<sent id ="36">We cut downs the surrounding trees and plants out of necessity or without necessity.</sent>
+				<sent id ="37">We destroy the forest resources.</sent>
+				<sent id ="38">We catch immature fish.</sent>
+				<sent id ="39">We destroy bio-diversity.</sent>
+				<sent id ="40">Environmental pollution is one of the problems of Bangladesh.</sent>
+				<sent id ="41">Environment is polluted due to social causes.</sent>
+				<sent id ="42">We often pollute environment by throwing garbage here and there without understanding.</sent>
+				<sent id ="43">Environment is polluted due to lack of necessary education.</sent>
+				<sent id ="44">Social environment is polluted due to lack of awareness.</sent>
+				<sent id ="45">Social environment is polluted if rules and regulations are not maintained.</sent>
+				<sent id ="46">We will not throw garbage here and there in our OWN areas.</sent>
+				<sent id ="47">We will not turn up the volumes of radio and tale vision.</sent>
+				<sent id ="48">Our life is dependent on healthy environment.</sent>
+				<sent id ="49">All of us will be careful to preserve a beautiful, clean and natural environment.</sent>
+				<sent id ="50">If we do so, the ecological balance of the environment will be maintained.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

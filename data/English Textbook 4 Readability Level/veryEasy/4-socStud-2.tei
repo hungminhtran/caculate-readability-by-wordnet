@@ -1,0 +1,90 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.648</idno>
+				<idno type="Number of sentences">62</idno>
+				<idno type="Number of tokens">605</idno>
+				<idno type="Number of token types">255</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t96">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Of them grandfather, father, maternal uncles, paternal uncles, brothers, students and teachers are male.</sent>
+				<sent id ="2">On the other hand, grandmother, aunts, sisters are women.</sent>
+				<sent id ="3">Men and women cooperate with one another and live together in society.</sent>
+				<sent id ="4">We cannot do without one another.</sent>
+				<sent id ="5">Let us take down the table below in our notebooks.</sent>
+				<sent id ="6">In society men and women have the same responsibility.</sent>
+				<sent id ="7">Both father and mother work.</sent>
+				<sent id ="8">Brothers go to school and so do the sisters, Male teachers give us lessons.</sent>
+				<sent id ="9">So do the female teachers.</sent>
+				<sent id ="10">In our society women do not have the same facilities as men.</sent>
+				<sent id ="11">Many people think that girls will play with dolls; boys will play football.</sent>
+				<sent id ="12">A brother will not do his own work.</sent>
+				<sent id ="13">His work will be done by his sister.</sent>
+				<sent id ="14">Mother will do all the household chores.</sent>
+				<sent id ="15">Father will only earn money.</sent>
+				<sent id ="16">There is no difference between men and women.</sent>
+				<sent id ="17">Their work is the same.</sent>
+				<sent id ="18">So they have the same rights to enjoy the same facilities.</sent>
+				<sent id ="19">If women can have the same facilities with men, their social status will improve.</sent>
+				<sent id ="20">In 1910, in Copenhagen, the capital of Denmark, the Second International Women Conference was held.</sent>
+				<sent id ="21">There Clara Jetkin, a woman leader, declared 8th March for observance as International Women's Day.</sent>
+				<sent id ="22">Later the United Nations recognized 8th March as International Women's Day.</sent>
+				<sent id ="23">Let us read the importance of International Women's Day in the table below.</sent>
+				<sent id ="24">Let us read the importance of the International Women's Day in the table below.</sent>
+				<sent id ="25">Men and women have equal rights in society.</sent>
+				<sent id ="26">There is hardly any difference in the work between men and women.</sent>
+				<sent id ="27">Women should always be conscious of establishing their rights.</sent>
+				<sent id ="28">Men also work in the field, in factories, in the office and educational institutions.</sent>
+				<sent id ="29">So the nature of their work is the same.</sent>
+				<sent id ="30">At school we, both boys and girls, follow the same course.</sent>
+				<sent id ="31">Likewise we, both boys and girls, do our work at school.</sent>
+				<sent id ="32">If we do that, the status of girls will be established in the society.</sent>
+				<sent id ="33">is a social being.</sent>
+				<sent id ="34">We will respect each other and love each other and work together.</sent>
+				<sent id ="35">If any in our neighbourhood has any problem, we will help him.</sent>
+				<sent id ="36">We will be polite to everybody.</sent>
+				<sent id ="37">We are all human beings.</sent>
+				<sent id ="38">We live together in the society.</sent>
+				<sent id ="39">Every one of us is engaged in different professions.</sent>
+				<sent id ="40">We will have respect and love for their professions.</sent>
+				<sent id ="41">We will live together harmoniously in society.</sent>
+				<sent id ="42">Many children are born with various physical and mental rroblems.</sent>
+				<sent id ="43">These children do not understand anything: they cannot do certain kinds of work.</sent>
+				<sent id ="44">Those of us who are healthy will always help these children.</sent>
+				<sent id ="45">We will help them go to school.</sent>
+				<sent id ="46">We will not give them any kind of trouble.</sent>
+				<sent id ="47">We will try to keep them in good humour all the time.</sent>
+				<sent id ="48">There are orphans or needy children around us.</sent>
+				<sent id ="49">We will give them some of our food and some of our clothes.</sent>
+				<sent id ="50">They are children like us.</sent>
+				<sent id ="51">We will never offend them in any way.</sent>
+				<sent id ="52">We will not allow them to think that they are helpless.</sent>
+				<sent id ="53">We will do their work first and then we will do our work.</sent>
+				<sent id ="54">We will visit such exceptional people at home and in our surroundings.</sent>
+				<sent id ="55">We will read newspapers to them.</sent>
+				<sent id ="56">If they have any work to do, we will do that for them.</sent>
+				<sent id ="57">We will give priority to their every need.</sent>
+				<sent id ="58">We will show sympathy and respect to such exceptional people.</sent>
+				<sent id ="59">Aft men and women in society are human beings.</sent>
+				<sent id ="60">They are equally important.</sent>
+				<sent id ="61">They have equal rights to enjoy various opportunities.</sent>
+				<sent id ="62">We will stand by helpless people and extend our hand of sympathy to them.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

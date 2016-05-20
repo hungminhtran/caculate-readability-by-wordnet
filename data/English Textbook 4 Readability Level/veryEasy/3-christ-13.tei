@@ -1,0 +1,111 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-13</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.733</idno>
+				<idno type="Number of sentences">83</idno>
+				<idno type="Number of tokens">796</idno>
+				<idno type="Number of token types">384</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t5">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">What is Christmas?</sent>
+				<sent id ="2">Every religion has some special festivals.</sent>
+				<sent id ="3">The Christian religion also has some big festivals.</sent>
+				<sent id ="4">Among them the Christmas is the most joyful festival.</sent>
+				<sent id ="5">In Christmas we enjoy a lot together.</sent>
+				<sent id ="6">But many of us do not know the real meaning of Christmas.</sent>
+				<sent id ="7">Let us now see what Christmas is all about.</sent>
+				<sent id ="8">Christmas is the birthday of Jesus Christ, the Saviour.</sent>
+				<sent id ="9">Every year on the 25th of December, this day is celebrated.</sent>
+				<sent id ="10">Millions of Christians celebrate the Christmas Day throughout the world.</sent>
+				<sent id ="11">This day is celebrated very colourfully.</sent>
+				<sent id ="12">The Saviour, Jesus Christ came down to this earth to save human kind.</sent>
+				<sent id ="13">He saved people from all their sins.</sent>
+				<sent id ="14">People had to wait for him for years.</sent>
+				<sent id ="15">He saved every person of the world.</sent>
+				<sent id ="16">That is why his birthday is a very joyful event.</sent>
+				<sent id ="17">Several incidents had happened at the time when Jesus Christ was born.</sent>
+				<sent id ="18">Let us learn some of them.</sent>
+				<sent id ="19">One day Caesar, the emperor of Rome issued an order.</sent>
+				<sent id ="20">It said that the population of his empire was to be counted.</sent>
+				<sent id ="21">So he ordered everyone to get to their birthplaces.</sent>
+				<sent id ="22">There they should enlist their names.</sent>
+				<sent id ="23">He worked for many years in the services for the poor.</sent>
+				<sent id ="24">He worked at Tuital, Tumilia, Laksmibazar, Shrimangal, Baluchara, Golla Christian village and Bandura Seminary.</sent>
+				<sent id ="25">Golla Christian village was his last place of work.</sent>
+				<sent id ="26">Father Evens often helped the freedom fighters.</sent>
+				<sent id ="27">He advised, consoled and encouraged them as and when they needed.</sent>
+				<sent id ="28">The Pakistani Army came to know about Father Evens services towards the freedom fighters.</sent>
+				<sent id ="29">On every Saturday Father Evens used to go to the village named Baxanagar.</sent>
+				<sent id ="30">There he offered the Communion.</sent>
+				<sent id ="31">On that day too he was going to that village by a boat.</sent>
+				<sent id ="32">On the way, there was a camp of the Pakistani Soldiers.</sent>
+				<sent id ="33">They were on guard.</sent>
+				<sent id ="34">They stopped Father Evans.</sent>
+				<sent id ="35">They asked him to come to their camp.</sent>
+				<sent id ="36">So he followed them.</sent>
+				<sent id ="37">At the camp they were very rude to him and spoke to the Father angrily.</sent>
+				<sent id ="38">He suffered immense pain and soon he died.</sent>
+				<sent id ="39">It was Saturday, the 13th November The soldiers threw him in the river.</sent>
+				<sent id ="40">His dead body was found after two days.</sent>
+				<sent id ="41">The people of the Christian village brought his dead body.</sent>
+				<sent id ="42">People were very sad.</sent>
+				<sent id ="43">Because he was a very good man and he loved everybody.</sent>
+				<sent id ="44">However, Father Evans was buried in a graveyard of Golla Christian village.</sent>
+				<sent id ="45">He sacrificed his life for the liberation of Bangladesh.</sent>
+				<sent id ="46">So, Father Evans is a Shahid freedom fighter.</sent>
+				<sent id ="47">Birth and Boyhood of Subhas Biswas: Khaliskhali is a village in the district of Gopalgang.</sent>
+				<sent id ="48">It is situated on the bank of the river Madhumati.</sent>
+				<sent id ="49">Shahid Subhas was born in this beautiful village.</sent>
+				<sent id ="50">Keshablal Biswas was his father.</sent>
+				<sent id ="51">Subhas was from an ideal baptised family.</sent>
+				<sent id ="52">He was very attentive to his studies from his early life.</sent>
+				<sent id ="53">He obeyed his parents and so he was loved and cared by them very dearly.</sent>
+				<sent id ="54">He passed the SSC examination with good results.</sent>
+				<sent id ="55">But the financial condition of his family was not so good.</sent>
+				<sent id ="56">So he had to be admitted in a Baptised Mission Technical school at Faridpur.</sent>
+				<sent id ="57">The war of liberation started in the country form March, 1971.</sent>
+				<sent id ="58">A large number of our people left their homes and took shelter in India.</sent>
+				<sent id ="59">There the youth of our country received training and returned with arms in their hands.</sent>
+				<sent id ="60">Shahid Subhas also received training with his friends in India.</sent>
+				<sent id ="61">He returned to Gopalgainj with an LMG in his hand after the training.</sent>
+				<sent id ="62">As he returned to Bangladesh, he joined a commando troop.</sent>
+				<sent id ="63">His troop fought with the Pakistani soldiers at different places in Gopalganj district.</sent>
+				<sent id ="64">One day they planned to attack a Pak army camp at Gopalganj.</sent>
+				<sent id ="65">But they could not fight with the Pakistani solders for a long time.</sent>
+				<sent id ="66">As a result, they had to fall back.</sent>
+				<sent id ="67">But our brave fighters did not lose heart.</sent>
+				<sent id ="68">They planned another attack with more fighters and weapons.They collected some more fighters and weapons.</sent>
+				<sent id ="69">They were divided in four groups.</sent>
+				<sent id ="70">A fierce fighting started between our brave fighters and the Pakistani soldiers.</sent>
+				<sent id ="71">At one stage, the Pakistani launch carrying their soldiers sunk into the river.</sent>
+				<sent id ="72">Both the sides were fighting fiercely.</sent>
+				<sent id ="73">Many fighters of both the sides fell dead.</sent>
+				<sent id ="74">Many of them were injured.</sent>
+				<sent id ="75">The freedom fighters could not resist the regular Pakistani army with modern weapons.</sent>
+				<sent id ="76">They had to retreat.</sent>
+				<sent id ="77">While retreating they were crawling towards a paddy field.</sent>
+				<sent id ="78">Just then a bullet hit one of the legs of shahid Subhas.</sent>
+				<sent id ="79">A little later another bullet hit his head.</sent>
+				<sent id ="80">As a result, Subhas died within a very short time.</sent>
+				<sent id ="81">We pay deep respect and honour to the martyrs in our liberation war.</sent>
+				<sent id ="82">How did Shahid Subhas Biswas help the freedom fighter?</sent>
+				<sent id ="83">Give a list of his contributions.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

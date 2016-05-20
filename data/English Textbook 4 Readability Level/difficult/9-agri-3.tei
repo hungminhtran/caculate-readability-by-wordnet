@@ -1,0 +1,176 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.548</idno>
+				<idno type="Number of sentences">148</idno>
+				<idno type="Number of tokens">1974</idno>
+				<idno type="Number of token types">635</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t17">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The equipments used in agricultural activities are called agricultural equipments.</sent>
+				<sent id ="2">Different equipments are required for different agricultural works.</sent>
+				<sent id ="3">Agricultural equipments can be divided into two types.</sent>
+				<sent id ="4">Plough is one of the agricultural equipment of Bangladesh.</sent>
+				<sent id ="5">The plough is made by fixing a iron made time to the top of curved wood.</sent>
+				<sent id ="6">The plough is used to cultivate the land to make shallow channels.</sent>
+				<sent id ="7">Although a yoke is not a part of the plough, but it can be treated as a part of it.</sent>
+				<sent id ="8">The yoke is kept on the shoulder of the ox and attached with the plough with the help of rope.</sent>
+				<sent id ="9">A yoke is made of wood or bamboo.</sent>
+				<sent id ="10">lines of the plot.</sent>
+				<sent id ="11">The spade is used to clultivate soil to make vegetables garden.</sent>
+				<sent id ="12">The spade is advantageous in casce of fruit garden or in case of land where crop are grown in lines.</sent>
+				<sent id ="13">A harrow is made of bamboo or wood.</sent>
+				<sent id ="14">A harrow is used for controlling weeds, thinning of plants and loosening the soil.</sent>
+				<sent id ="15">Weeder is also used largely in crop production.</sent>
+				<sent id ="16">Weeder is necessary of cleaning the weeds and loosening the soil of the bottom of the plant.</sent>
+				<sent id ="17">A ladder is made of bamboo or wood.</sent>
+				<sent id ="18">Bamboo made ladder is largely used.</sent>
+				<sent id ="19">A chopper is made of iron and is equipment used to do miscellaneous job of agriculture.</sent>
+				<sent id ="20">A chopper is fixed with a narrow wooden handle.</sent>
+				<sent id ="21">A chopper is heavier and thicker than a sickle.</sent>
+				<sent id ="22">A hammer is used to break the big lumps of soil.</sent>
+				<sent id ="23">A grafting knife is a specially prepared knife used for grafting.</sent>
+				<sent id ="24">Generally this type of knife is used in nursery.</sent>
+				<sent id ="25">A mould-board plough is superior to a country plough.</sent>
+				<sent id ="26">This plough is used for deep ploughing.</sent>
+				<sent id ="27">It has higher working capacity.</sent>
+				<sent id ="28">It is a threshing equipment having mechanical advantage of a gear.</sent>
+				<sent id ="29">It has got a drum fitted tines.</sent>
+				<sent id ="30">The drum is rotaled by means of the paddle.</sent>
+				<sent id ="31">When ears of crops are kept on the rotating drum the grains are separated by the strokes of the tines, thus the threshing is done.</sent>
+				<sent id ="32">This equipment is cheap.</sent>
+				<sent id ="33">This can be used by our general farmers.</sent>
+				<sent id ="34">It is a specially made implement used for spraying insecticide.</sent>
+				<sent id ="35">By means of this the long spray gun having a tiger can be hold at a desirable height and water-mixed pesticide can be sprayed.</sent>
+				<sent id ="36">The equipment can be carried on the shoulder.</sent>
+				<sent id ="37">Pests of field crops and fruit can be controlled by spraying pesticides by this equipment.</sent>
+				<sent id ="38">Among the power driven agricultural equipments the important ones are power tiller, tractor, harrow power pump, shallow, tube-well, deep tube-well, thresher and sprayers.</sent>
+				<sent id ="39">A kind of rotating plough is used in both power tiller and tractor.</sent>
+				<sent id ="40">At the time of ploughing the blades of the ploughs till the soil vehemently.</sent>
+				<sent id ="41">This allows the soil to be well-pulverizd and weeds to be destroyed.</sent>
+				<sent id ="42">Besides using rotaling ploughed with the help of the tine ploughs of a power tiller.</sent>
+				<sent id ="43">In case of primary ploughing when rotating ploughs do not work well tine ploughs are used.</sent>
+				<sent id ="44">Artificial application of water to the field for normal growth of crops and more production is called irrigation.</sent>
+				<sent id ="45">Irrigation is essential for modern cultivation system.</sent>
+				<sent id ="46">Improved cultivation cannot be thought without irrigation.</sent>
+				<sent id ="47">The soil should have required amount of water for maintaining the life of plants.</sent>
+				<sent id ="48">As soon as there is shortage of water in the crop field, the necessity for irrigation becomes inevitable.</sent>
+				<sent id ="49">There is sufficient rain in Bangladesh but this rain is not always helpful for agriculture.</sent>
+				<sent id ="50">So good harvest can not always be achieved if crop is cultivated depending only on rain.</sent>
+				<sent id ="51">In our country there is sufficient rain during rainy season, but it is not so during winter.</sent>
+				<sent id ="52">More over there is not enough rains even during rainy season in the western regions of the country.</sent>
+				<sent id ="53">As a result the production of crop is decreased due to want of water.</sent>
+				<sent id ="54">In these conditions irrigation is very much important in order to get increased production by cultivating crops.</sent>
+				<sent id ="55">In this method, water is brought to the upper portion of the land with the help of main channel and then is spread evenly throughout the whole land field.</sent>
+				<sent id ="56">Water is retained in the field by means of making ridges surrounding the field.</sent>
+				<sent id ="57">Much area can be irrigated with minimum labour in this method.</sent>
+				<sent id ="58">In this method water is supplied to the branch canals from the main channel, this system are followed in case of fields where crops are sown in lines.</sent>
+				<sent id ="59">The main advantage of furrow irrigation system is that sufficient areas can be irrigated with some amount of water.</sent>
+				<sent id ="60">By ridge system the land is separated into small blocks with the help of ridges and then the blocks are irrigated by flood system.</sent>
+				<sent id ="61">In this method water can be controlled more easily.</sent>
+				<sent id ="62">This method of irrigation followed in case of slope land.</sent>
+				<sent id ="63">Firstly some channel are dug crosswise to the slope of the land.</sent>
+				<sent id ="64">Water is released to the higher channel from the source of water.</sent>
+				<sent id ="65">In order to spread water throughout the whole field a sort of cross dam to be made at the end of each channel.</sent>
+				<sent id ="66">In the barrage and canal system of irrigation water can be controlled very easily.</sent>
+				<sent id ="67">In corrugation irrigation system channels are dug in the land.</sent>
+				<sent id ="68">These channels are made at such distances that the land between two can get sufficient water.</sent>
+				<sent id ="69">This system is very advantageous in case of clay type of soils.</sent>
+				<sent id ="70">This system is applicable for the plant which lives years together.</sent>
+				<sent id ="71">In this system first of all, main channel is dug in between the rows of trees.</sent>
+				<sent id ="72">Then circular channel are dug centering the bottom of each tree.</sent>
+				<sent id ="73">Afterwards the circular are connected with the main ones by digging small channels.</sent>
+				<sent id ="74">This channel type of irrigation is done in fruit orchards.</sent>
+				<sent id ="75">Sub-soil irrigation is a special type of irrigation.</sent>
+				<sent id ="76">In this system irrigation is done to the root areas of the plants with the help of tubes.</sent>
+				<sent id ="77">The main advantage of this system is that the top soil don't form crust.</sent>
+				<sent id ="78">Sprinkling Irrigation System The method by which irrigation is done in the form of rain is called sprinkling irrigation.</sent>
+				<sent id ="79">In this system water is supplied with the help of pipes and is sprinkled in all directions with the help of a nozle.</sent>
+				<sent id ="80">This system is good in case of uneven and slope land.</sent>
+				<sent id ="81">The method by which water is suplied to the base of the plant by drops, is called drip system of irrigation.</sent>
+				<sent id ="82">Sprinkling Irrigation System As water is supplied always to the base of the plant by drops.</sent>
+				<sent id ="83">It is also called constant irrigation.</sent>
+				<sent id ="84">By irrigating though this system, there will be no want of moisture in the soil.</sent>
+				<sent id ="85">Irrigation is to be after determining moisture of the soil.</sent>
+				<sent id ="86">Because when irrigation is done in presence of moisture in the field, there will be wastage of water and the soil will be waterlogged.</sent>
+				<sent id ="87">Both are detrimental.</sent>
+				<sent id ="88">Again irrigation water will not help the crop when it is done after soil is extremely dried.</sent>
+				<sent id ="89">Hence timely irrigation is to be done for the normal growth and increased production of crops.</sent>
+				<sent id ="90">If the soil collected from areas 10 to 25 cm beneath the surface forms ball when pressed with hands, then it can be ascertained.</sent>
+				<sent id ="91">The soil has got moisture.</sent>
+				<sent id ="92">And if the soil becomes powder then it can be ascertained that is the time for irrigation.</sent>
+				<sent id ="93">There are many irrigation projects in different places of the country.</sent>
+				<sent id ="94">The projects are implemented by Bangladesh water development Board.</sent>
+				<sent id ="95">The names of main irrigation projects and areas under each project are shown in the following table.</sent>
+				<sent id ="96">Different equipments are used in Bangladesh for irrigating crop fields.</sent>
+				<sent id ="97">Description some of the equipments are given here under.</sent>
+				<sent id ="98">The triangular Sheuti is made of Bamboo, cane or tin.</sent>
+				<sent id ="99">Sheuti has been in use in this country from ancient time.</sent>
+				<sent id ="100">Don is made of the basal portion of palm tree or of wood which looks like slender boat.</sent>
+				<sent id ="101">This has also been in use in this country from ancient time.</sent>
+				<sent id ="102">A treadle pump is a one or two cylinder pump having plastic lids.A bamboo having a filter is inserted under the soil.</sent>
+				<sent id ="103">Then the pump is connected with the mouth of the pipe of the bamboo.</sent>
+				<sent id ="104">Afterwards two bamboos are fixed to the pump like lever.</sent>
+				<sent id ="105">Water is raised by operating the lever instrument with the leg just like a treadle husking equipment.</sent>
+				<sent id ="106">This is a very popular pump.</sent>
+				<sent id ="107">This is a very widely used power driven irrigation equipment.</sent>
+				<sent id ="108">Irrigation is done by lifting water from rivers and subsoil by using centrifugal pumps with low lift pumps (LLP), Shallow tube-wells (STW), and deep tube wells (DTW).</sent>
+				<sent id ="109">This is a method of allowing the excess water to go out from the crop field.</sent>
+				<sent id ="110">Excess water is very harmful for the crop.</sent>
+				<sent id ="111">Hence excess rain or irrigation water should be drained out from the land as soon as possible.</sent>
+				<sent id ="112">Although plain, most lands of Bangladesh are uneven.</sent>
+				<sent id ="113">During rainy season when there is excessive rain water stands on these is excessive rain water stands on these lands.</sent>
+				<sent id ="114">As a result timely cultivation becomes impossible.</sent>
+				<sent id ="115">Moreover, every year vast areas remain waterlogged due to flood.</sent>
+				<sent id ="116">If timely cultivation is to be done in these lands the accumulated water is to be drained out.</sent>
+				<sent id ="117">Water accumulated mostly in case of lands of following characteristics.</sent>
+				<sent id ="118">Generally in our country drainage of water from cultivated land is done by open canal.</sent>
+				<sent id ="119">In this method first of all canals are dug in advantageous places.</sent>
+				<sent id ="120">Draining out of water, Canals are to be dug maintaining slopes.</sent>
+				<sent id ="121">Small canals can be connected with the main canal required.</sent>
+				<sent id ="122">The method by which canal is dug inside the soil under covered condition and draining out of water is done through that canal is called closed canal method of drainage.</sent>
+				<sent id ="123">The main advantage of closed canal method is that no land is wasted in this method.</sent>
+				<sent id ="124">The excess water is drained out especially from crop field by setting appropriate tiles and pipes.</sent>
+				<sent id ="125">In this method system, after digging a rectangular canal is dug and stones are set in two sides.</sent>
+				<sent id ="126">After wards stones are set in the canal which are then covered with soil.</sent>
+				<sent id ="127">Like box canal system, after digging a rectangular it is filled with small and big stones which are then covered with soil.</sent>
+				<sent id ="128">Water is drained out through the spaces between the stones.</sent>
+				<sent id ="129">Go to a crop field either of wheat or vegetables.</sent>
+				<sent id ="130">Dig a hole of 15-20 cm.</sent>
+				<sent id ="131">Take a hand full of soil and press in clutch.</sent>
+				<sent id ="132">If the palm becomes wet, then it can be ascertained that the soil has got water.</sent>
+				<sent id ="133">There is no need of irrigation at this time or stage.</sent>
+				<sent id ="134">After pressing in the hand if the soil form clod, then throw the clod to the ground.</sent>
+				<sent id ="135">If the clod breaks it can be ascertained that there is want of moisture in the soil.</sent>
+				<sent id ="136">Irrigation will have to be done within 2-3 days.</sent>
+				<sent id ="137">If the soils do not break even after pressing in the hand.</sent>
+				<sent id ="138">Then it can be ascertained that the soil is very dry.</sent>
+				<sent id ="139">It requires immediate irrigation.</sent>
+				<sent id ="140">Go to the school ground or to the adjacent farmer's house with your teacher.</sent>
+				<sent id ="141">Draw the pictures of the equipments by comparing with the drawings of the book.</sent>
+				<sent id ="142">Identify all the implements and write down the names of the implements on a sheet of paper.</sent>
+				<sent id ="143">Write down specific activities of each implement.</sent>
+				<sent id ="144">Observe the plough on the school ground.</sent>
+				<sent id ="145">Identify the main parts with the pictures drawn in the book.</sent>
+				<sent id ="146">Compare the parts with the pictures drawn in the book.</sent>
+				<sent id ="147">Draw the picture of a plough in the practical note book and label the identified parts.</sent>
+				<sent id ="148">Write down the activities of different parts of the plough in the practical note book.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

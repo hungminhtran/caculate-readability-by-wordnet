@@ -1,0 +1,114 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.999</idno>
+				<idno type="Number of sentences">86</idno>
+				<idno type="Number of tokens">885</idno>
+				<idno type="Number of token types">390</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t98">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Many of you might have seen the construction of a building.</sent>
+				<sent id ="2">You might have also seen that the mason lays bricks one after another while constructing the building.</sent>
+				<sent id ="3">Each single brick is the unit of the building.</sent>
+				<sent id ="4">It is the functional unit also.</sent>
+				<sent id ="5">So the structural and functional unit of a body is called a cell.</sent>
+				<sent id ="6">May be you are interested to know how and when the cell was discovered.</sent>
+				<sent id ="7">In 1665, an English scientist, Robert Hooke discovered the cell.</sent>
+				<sent id ="8">He observed the thin transverse section of a bottle cork under a microscope.</sent>
+				<sent id ="9">There he saw hundreds of honey comb like small chambers surrounded by walls.</sent>
+				<sent id ="10">He termed each chamber as cell.</sent>
+				<sent id ="11">It is the unit centre of all basic activates of the body.</sent>
+				<sent id ="12">Most of the cells are so small that they can not be seen without the help of a microscope.</sent>
+				<sent id ="13">Take a fleshy scale leaf of Onion.</sent>
+				<sent id ="14">Now separate the outer skin and place it on a glass slide.</sent>
+				<sent id ="15">Add one drop of water or dilute glycerin and cover it with a small thin glass called cover slip.</sent>
+				<sent id ="16">Now place it under a microscope and observe the structure of cells.</sent>
+				<sent id ="17">The light brown structure you observed is the nucleus.</sent>
+				<sent id ="18">Observe the cell walls also.</sent>
+				<sent id ="19">Now draw a diagram of what you have observed and label the structures.</sent>
+				<sent id ="20">Observation of human cheek cells Wash your hands with safe and clear water.</sent>
+				<sent id ="21">Now gently wipe the inside wall of your cheek with a finger.</sent>
+				<sent id ="22">Your will notice some white particles sticking to your finger.</sent>
+				<sent id ="23">Now spread the whitish saliva stick to your finger on the glass slide.</sent>
+				<sent id ="24">You can see these as sticky film on the slide.</sent>
+				<sent id ="25">Now put a drop of methylene blue stain.</sent>
+				<sent id ="26">Put the cover slip and observe under a microscope.</sent>
+				<sent id ="27">You will see some grey coloured granular cells.</sent>
+				<sent id ="28">The thick structure inside is the nucleus.</sent>
+				<sent id ="29">Now draw a diagram of the cells and label the parts you can identify.</sent>
+				<sent id ="30">Mark the differences between a plant cell and an animal cell Plant and animal cells are very small.</sent>
+				<sent id ="31">They cannot be seen with unaided eyes.</sent>
+				<sent id ="32">But it can be observed under a microscope.</sent>
+				<sent id ="33">Now a days with the help of an electron microscope fine structures of the cell can also be observed well.</sent>
+				<sent id ="34">As a result few small organelles were discovered in the cell.</sent>
+				<sent id ="35">Let us discuss the structures and functions of different parts of a cell.</sent>
+				<sent id ="36">Only plant cells have cell walls.</sent>
+				<sent id ="37">The animal cells do not have any wall.</sent>
+				<sent id ="38">The wall is made of nonliving materials.</sent>
+				<sent id ="39">It gives shape of the cell.</sent>
+				<sent id ="40">It also regulates movement of fluid between outside and inside of a cell.</sent>
+				<sent id ="41">Protoplasm is a jelly like semi fluid, translucent living matter surrounded by cell membrane.</sent>
+				<sent id ="42">It is termed as the physical basis of life.</sent>
+				<sent id ="43">Protoplasm contains 70-90 percent water.</sent>
+				<sent id ="44">Without water it stops functioning.</sent>
+				<sent id ="45">Protoplasm has three parts, such as-cell membrane or plasma membrane, cytoplasm and nucleus.</sent>
+				<sent id ="46">Thin and soft membrane around cytoplasm is called cell membrane or plasma membrane.</sent>
+				<sent id ="47">It is a two layered membrane with occasional inward foldings.</sent>
+				<sent id ="48">It regulates movement of water, minerals and other materials between outside and inside of the cell.</sent>
+				<sent id ="49">Portion of a protoplasm surrounded by cell membrane outside the nucleus is called cytoplasm.</sent>
+				<sent id ="50">Its main function is to hold the organelles or small organs and perform few physiological functions.</sent>
+				<sent id ="51">Plastids are also called chromatophores.</sent>
+				<sent id ="52">Usually they are not found in animal cells.</sent>
+				<sent id ="53">It is a characteristic of a plant cell.</sent>
+				<sent id ="54">Leaves, flowers and fruits of different colours that we see are due to plastids.</sent>
+				<sent id ="55">The colour borne excessively by the plastids is reflected outside and the organ bearing those plastids, show the colour.</sent>
+				<sent id ="56">When the quantity of chlorophyll is high, tha plastied is green.</sent>
+				<sent id ="57">It is called a chloroplast.</sent>
+				<sent id ="58">Plastids bearing colours like yellow, red, blue etc. in excess, is called chromoplast.</sent>
+				<sent id ="59">It is due to the chromoplasts that the china rose red.</sent>
+				<sent id ="60">Oleander is yellow, and Butterfly pea is blue.</sent>
+				<sent id ="61">But when plastids bear no colour, they are termed as leucoplasts.</sent>
+				<sent id ="62">Shape of plastids may be ring like, round, flat, filamentous, star like, biscuit shaped etc.</sent>
+				<sent id ="63">Each cell may contain one or more plastids.</sent>
+				<sent id ="64">A plastid is covered with two layered membranes.</sent>
+				<sent id ="65">Different colours are embedded within these layers.</sent>
+				<sent id ="66">Green plastids help in manufacturing food.</sent>
+				<sent id ="67">The coloured plastids make plant parts clolurful and attractive.</sent>
+				<sent id ="68">Colourless plastids store foods.</sent>
+				<sent id ="69">It is called the power house of the cell.</sent>
+				<sent id ="70">Most of the energy producing reactions take place inside it.</sent>
+				<sent id ="71">Main function of mitochondrion is to help respiration.</sent>
+				<sent id ="72">It is the major site of respiratory activities in the cell.</sent>
+				<sent id ="73">So it helps releasing energy through respiration.</sent>
+				<sent id ="74">It is also called the reservoir of energy.</sent>
+				<sent id ="75">The open space inside a cell is the vacuole.</sent>
+				<sent id ="76">The fluid present inside the vacuole is called the cell sap.</sent>
+				<sent id ="77">To bear cell sap is the main function of vacuoles.</sent>
+				<sent id ="78">It is a very small globular structure.</sent>
+				<sent id ="79">Its number is high in every cell.</sent>
+				<sent id ="80">Its main function is to participate in protein synthesis.</sent>
+				<sent id ="81">There is a small structure beside the nucleus called centrosome.</sent>
+				<sent id ="82">It is absent in plant cell.</sent>
+				<sent id ="83">It helps and participates in animal cell division.</sent>
+				<sent id ="84">Comparatively dark and spherical body surrounded by cytoplasm is the nucleus.</sent>
+				<sent id ="85">It is the most important structure of the cell.</sent>
+				<sent id ="86">In absence of nucleus normally a cell cannot function.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

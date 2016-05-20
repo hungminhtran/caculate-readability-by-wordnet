@@ -1,0 +1,83 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.776</idno>
+				<idno type="Number of sentences">55</idno>
+				<idno type="Number of tokens">499</idno>
+				<idno type="Number of token types">235</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t7">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">God loves all human beings.</sent>
+				<sent id ="2">He loves all the animals, trees, plants and everything around us.</sent>
+				<sent id ="3">But why? Because, He Himself is a symbol of goodness.</sent>
+				<sent id ="4">Besides, He Himself has created all these.</sent>
+				<sent id ="5">How can we feel His love for us?</sent>
+				<sent id ="6">We can realise this by realising our love for others.</sent>
+				<sent id ="7">We sometimes make many things by ourselves.</sent>
+				<sent id ="8">We play and make fun with them.</sent>
+				<sent id ="9">We handle them very carefully, so that they do not get broken or torn.</sent>
+				<sent id ="10">We keep them carefully after the play.</sent>
+				<sent id ="11">We take care so that no one can do any harm to them.</sent>
+				<sent id ="12">Again, some of us draw pictures with colour and brush.</sent>
+				<sent id ="13">We hung them on the wall so that they donot fall and break down.</sent>
+				<sent id ="14">If anyone spoils them or say ill of them, we feel very sad.</sent>
+				<sent id ="15">But when someone praises us, we feel happy for that.</sent>
+				<sent id ="16">Our parents also make many things with their own hands.</sent>
+				<sent id ="17">Mother cooks, makes cakes or makes dresses for us.</sent>
+				<sent id ="18">If anyone speaks ill of their work, they feel sad.</sent>
+				<sent id ="19">But they feel happy if they are praised.</sent>
+				<sent id ="20">God has created us.</sent>
+				<sent id ="21">He has created everything for human beings.</sent>
+				<sent id ="22">Man is His most favourite creation because He has created them after His own liking.</sent>
+				<sent id ="23">So He loves human beings more than anything.</sent>
+				<sent id ="24">God provides with the sunlight equally to all-both good and bad.</sent>
+				<sent id ="25">His rain falls every where.</sent>
+				<sent id ="26">Rain falls not on the land of the pious people alone.</sent>
+				<sent id ="27">It also falls on the land of the impious people.</sent>
+				<sent id ="28">He knows that we are weak.</sent>
+				<sent id ="29">Sometimes, we disobey Him.</sent>
+				<sent id ="30">Yet He loves us.</sent>
+				<sent id ="31">But He likes to see a change in us.</sent>
+				<sent id ="32">We come back to Him from the path of sin.</sent>
+				<sent id ="33">We beg forgiveness to Him.</sent>
+				<sent id ="34">And He loves to forgive us.</sent>
+				<sent id ="35">Some times we think, God loves me more than others.</sent>
+				<sent id ="36">We often feel jealous of others when they are better in their studies.</sent>
+				<sent id ="37">We also feel envious of others when they play better.</sent>
+				<sent id ="38">Some times a child thinks that her mother loves other children more.</sent>
+				<sent id ="39">But parents love all their children equally.</sent>
+				<sent id ="40">In the same way, God loves all human beings equally.</sent>
+				<sent id ="41">For He has created all human beings.</sent>
+				<sent id ="42">All human beings are His children.</sent>
+				<sent id ="43">How do we know that God loves all men?</sent>
+				<sent id ="44">In the picture above we see two houses side by side.</sent>
+				<sent id ="45">But the dwellers of the two houses are not in good terms.</sent>
+				<sent id ="46">So, they do not visit each other's house.</sent>
+				<sent id ="47">But God loves them all equally.</sent>
+				<sent id ="48">When it rains, it rains on both the houses.</sent>
+				<sent id ="49">By this we can understand, God loves the dwellers of both the houses equally.</sent>
+				<sent id ="50">If God loves all human beings, why can't we love all?</sent>
+				<sent id ="51">He, who has created us, has also created others.</sent>
+				<sent id ="52">As He takes care of us, He takes care of others as well.</sent>
+				<sent id ="53">So when we speak ill of a person, does not he feel hurt?</sent>
+				<sent id ="54">Therefore, we should not hate others.</sent>
+				<sent id ="55">Rather we should love all.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

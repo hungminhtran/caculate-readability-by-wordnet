@@ -1,0 +1,178 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-14</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.899</idno>
+				<idno type="Number of sentences">150</idno>
+				<idno type="Number of tokens">1989</idno>
+				<idno type="Number of token types">636</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t58">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We have learnt in class VI that there are two kinds of electricity - the static electricity and the current electricity.</sent>
+				<sent id ="2">The kind of electricity that remains confined in an object is called static electricity.</sent>
+				<sent id ="3">The electricity that continuously flows in a particular direction through a conductor is called the current electricity.</sent>
+				<sent id ="4">The most used form of electricity is the current electricity.</sent>
+				<sent id ="5">We will know more about current electricity from this chapter.</sent>
+				<sent id ="6">You may have seen the flow of water in a river.</sent>
+				<sent id ="7">The running of water from one place to another is called flow of water.</sent>
+				<sent id ="8">Similarly, the continuous movement of electric charge or charged particles in a fixed direction is called the flow of electricity.</sent>
+				<sent id ="9">Water flows from higher level to lower.</sent>
+				<sent id ="10">This source of river water is ice melting water of mountains.</sent>
+				<sent id ="11">Mountains are high, so water flows downward.</sent>
+				<sent id ="12">As the sea level lies down, so river water flows into the sea.</sent>
+				<sent id ="13">Charges are of two kinds- positive charge and negative charge.</sent>
+				<sent id ="14">A positive charged particle is compared to water situated at a higher level.</sent>
+				<sent id ="15">On the other hand, a negative charged particle is compared to water situated at a lower level.</sent>
+				<sent id ="16">The higher is the level of water, the more is the pressure.</sent>
+				<sent id ="17">Water flows from a place of higher pressure to a place of lower pressure.</sent>
+				<sent id ="18">The electrical pressure is high with the positive charged objects whereas it is low with the negative charged objects.</sent>
+				<sent id ="19">So, when a conductor connects a positive charged object with a negative charged object, positive charges start flowing towards the negative charged object.</sent>
+				<sent id ="20">This flowing of charges is known as the current electricity.</sent>
+				<sent id ="21">The flow of positve charges along a conductor in a fixed direction is called an electirc current.</sent>
+				<sent id ="22">The continuous flow of electric current is called the current electircity.</sent>
+				<sent id ="23">When a positive charged object is connected with a negative charged object, electric current is generated.</sent>
+				<sent id ="24">Here, in fact, we need to know that positive charges do not flow along a conductor, rather there occurs flow of electrons.</sent>
+				<sent id ="25">An electron is a very small particle.</sent>
+				<sent id ="26">There are one or more electrons in each atom and all matters are composed of atoms.</sent>
+				<sent id ="27">An atom is the smallest particle of an element.</sent>
+				<sent id ="28">It has nucleus at the centre.</sent>
+				<sent id ="29">Electrons move round the nucleus in fixed shells or orbits in the same way as the planets move around the sun.</sent>
+				<sent id ="30">The nucleus is composed of two kinds of particles- proton and neutron.</sent>
+				<sent id ="31">An electron is negatively charged and a proton is positively charged, while a neutron has no charge.</sent>
+				<sent id ="32">An electron and a proton carry equal but opposite type of charges.</sent>
+				<sent id ="33">Normally, an atom contains equal number of electrons and protons.</sent>
+				<sent id ="34">So, it remains neutral in charge.</sent>
+				<sent id ="35">If an object contains more electrons, it becomes negative charged.</sent>
+				<sent id ="36">On the other hand, if the object is deficient in electrons, it becomes positive charged.</sent>
+				<sent id ="37">Electrons lie in the exterior region of an atom and so can move easily.</sent>
+				<sent id ="38">This flow of electrons is what we call an electric current.</sent>
+				<sent id ="39">Luigi Galvani was a professor of physiology at the University of Bologona in Italy.</sent>
+				<sent id ="40">One day in 1786, he was performing an experiment with dead frogs.</sent>
+				<sent id ="41">He kept a freshly skinned frog hanging from a brass hook attached to an iron railing.</sent>
+				<sent id ="42">He observed a peculiar convulsive movement in the muscles of the frog each time the legs touched the iron.</sent>
+				<sent id ="43">He interpreted from this phenomenon that of electricity was within the body of the frog itself is the source.</sent>
+				<sent id ="44">At that time, Alesandro Volta was the professor of Physics at the University of Padua in Italy.</sent>
+				<sent id ="45">He refuted the idea of Galvani.</sent>
+				<sent id ="46">He had of the opinion that the body of the frog was not the source of electricity.</sent>
+				<sent id ="47">The flow of electricity was caused by the two dissimilar metals in contact, namely, brass and iron.</sent>
+				<sent id ="48">The body of the frog served only as a conductor of electricity.</sent>
+				<sent id ="49">The convulsive movement in the muscles of the frog was due to the flow of electricity whenever its legs touched the iron.</sent>
+				<sent id ="50">In 1800, he demonstrated the validity of his opinion.</sent>
+				<sent id ="51">He placed several copper and zinc plates of uniform size one over the other alternately to form a pile.</sent>
+				<sent id ="52">Each pair of copper and zinc plates was separated from the next pair by a thin piece of cloth moistened with diluted sulphuric acid.</sent>
+				<sent id ="53">The pile thus formed had a zinc plate at the top and a copper plate at the bottom.</sent>
+				<sent id ="54">This is how the first electric cell was invented.</sent>
+				<sent id ="55">The device used to maintain a continuous flow of electricity by transforming chemical energy into electrical energy is known as an electric cell.</sent>
+				<sent id ="56">The fundamental discovery of Volta is that an electric current is generated by separating two dissimilar conductors with acids.</sent>
+				<sent id ="57">The construction of a simple electric cell is based on this principle.</sent>
+				<sent id ="58">So, a simple electric cell is also known as a simple voltaic cell.</sent>
+				<sent id ="59">A glass vessel is required to make a voltaic cell.</sent>
+				<sent id ="60">About three-fourths of the vessel is filled with dilute sulphuric acid.</sent>
+				<sent id ="61">A copper plate and a zinc plate are dipped partially in the acid without keeping them in contact.</sent>
+				<sent id ="62">The two plates do not touch each other and stand vertically in the acid.</sent>
+				<sent id ="63">The plates are provided with binding screws at the top.</sent>
+				<sent id ="64">The screws are used to make external connection by means of a wire.</sent>
+				<sent id ="65">Chemical reaction takes place between the zinc plate and the acid.</sent>
+				<sent id ="66">As a result, the zinc plate becomes negative charged and the copper plate becomes positive charged.</sent>
+				<sent id ="67">When the plates are externally connected by a conducting wire, electrons flow from zinc plate to copper plate.</sent>
+				<sent id ="68">It means, according to the current convention, electricity flows from the copper plate to the zinc plate.</sent>
+				<sent id ="69">A simple voltaic cell has some defects due to which flow of the current decreases or stops, if it is run for sometimes.</sent>
+				<sent id ="70">Also the zinc plate corrodes rapidly.</sent>
+				<sent id ="71">So, this cell is not used practically.</sent>
+				<sent id ="72">Scientists have developed improved variety of cells by eliminating defects in many ways.</sent>
+				<sent id ="73">Leclanche cell is one of such improved variety of cells.</sent>
+				<sent id ="74">The cell consists of a strong solution of Ammonium Chloride contained in a glass vessel.</sent>
+				<sent id ="75">An amalgamated rod of zinc and a porous china pot are dipped in the solution.</sent>
+				<sent id ="76">A carbon rod is placed inside the porous pot and the pot is filled with a mixture of broken carbon and manganese.</sent>
+				<sent id ="77">The carbon and zinc rods are provided with a binding screw.</sent>
+				<sent id ="78">In this cell, the carbon rod becomes positive charged and the zinc rod becomes negative charged.</sent>
+				<sent id ="79">When the rods are connected externally with a wire, electricity flows from the carbon rod to the zinc rod.</sent>
+				<sent id ="80">Uses: This cell cannot maintain continuous flow of electricity for a longer period of time also.</sent>
+				<sent id ="81">For this reason, the cell is suitable for intermittent use, such as in electric bells, telephone, telegraph, etc.</sent>
+				<sent id ="82">The maximum use of this cell is found in performing experiments in the laboratory.</sent>
+				<sent id ="83">Place a torch bulb on a torch battery.</sent>
+				<sent id ="84">Will the bulb glow?</sent>
+				<sent id ="85">No, it will not.</sent>
+				<sent id ="86">Connect the bulb and the battery with a wire as shown in the figure.</sent>
+				<sent id ="87">The bulb will glow now.</sent>
+				<sent id ="88">It glows due to the flow of electricity through it.</sent>
+				<sent id ="89">Electricity flows from the positively charged end of the battery to the other end along the bulb and the wire.</sent>
+				<sent id ="90">This path of the flow of electricity is known as an electric circuit.</sent>
+				<sent id ="91">The path requires to be closed or complete in order to maintain a continuous flow of electricity.</sent>
+				<sent id ="92">If the path remains open or disconnected at any point, eleptricity does not flow along it.</sent>
+				<sent id ="93">This path is then called an open circuit.</sent>
+				<sent id ="94">A circuit can be made open or closed by connecting a key or switch in the circuit.</sent>
+				<sent id ="95">When you put the switch on, you close the circuit and when you put it off, you open the circuit.</sent>
+				<sent id ="96">This path is known as an electric circuit.</sent>
+				<sent id ="97">All of you have seen or perhaps used a torch light.</sent>
+				<sent id ="98">Have you marked how it is made?</sent>
+				<sent id ="99">Torchlight is made of a hollow metal cylinder.</sent>
+				<sent id ="100">This cylinder works as a path for the flow of electricity.</sent>
+				<sent id ="101">The front of a torch is so made that a bulb may be screwed to fit in it.</sent>
+				<sent id ="102">When batteries are inserted into the torch, the lower end of the bulb touches the positive end of the battery.</sent>
+				<sent id ="103">A spring holds the batteries tight to the end of the bulb to avoid any gap in the circuit.</sent>
+				<sent id ="104">The spring, a metal conductor itself, is attached to the lid at the bottom of the torch.</sent>
+				<sent id ="105">There is a switch on the body of the torch.</sent>
+				<sent id ="106">When the switch is put on, the circuit becomes complete and the bulb glows.</sent>
+				<sent id ="107">When the switch is put off, the circuit becomes open and the bulb goes off.</sent>
+				<sent id ="108">The torch bulb is placed at the centre of a brightly polished metal hemisphere.</sent>
+				<sent id ="109">A circular glass plate covers the front end of the torch.</sent>
+				<sent id ="110">Due to this arrangement, light from the bulb is not scattered all around, but being reflected from the hemisphere is directed forward.</sent>
+				<sent id ="111">This increases the brightness of the light.</sent>
+				<sent id ="112">Electricity is a kind of energy.</sent>
+				<sent id ="113">So, it can be transformed into other forms of energy.</sent>
+				<sent id ="114">We transform electrical energy into light energy and heat energy to perform various works of our everyday life.</sent>
+				<sent id ="115">Electric bulb: When you put on an electric bulb, you transform electrical energy into light energy.</sent>
+				<sent id ="116">If electricity is transmitted through a conducting wire, the wire becomes hot.</sent>
+				<sent id ="117">The thinner the wire is, the hotter it is.</sent>
+				<sent id ="118">As the wire continues to be increasingly hot, it continues to be increasingly red and finally it becomes white and bright.</sent>
+				<sent id ="119">As a result, the wire begins to emit light.</sent>
+				<sent id ="120">This is what happens in an electric bulb.</sent>
+				<sent id ="121">So, when the bulb remains on, it becomes extremely hot.</sent>
+				<sent id ="122">Don't touch a lighted bulb empty handed.</sent>
+				<sent id ="123">It may burn your hand.</sent>
+				<sent id ="124">There is a coil of a very thin wire inside an electric bulb.</sent>
+				<sent id ="125">The coil is called filament.</sent>
+				<sent id ="126">Filament is made of tungsten wire.</sent>
+				<sent id ="127">Tungsten has a very high melting point of about 34100 Celsius.</sent>
+				<sent id ="128">So, it does not melt even when it is extremely hot.</sent>
+				<sent id ="129">The bulb is made completely a vacuum and filled up with a little of nitrogen or inert argon.</sent>
+				<sent id ="130">When you switch on an electric bulb, electricity flows through the filament of the bulb.</sent>
+				<sent id ="131">As a result, it becomes extremely hot and emits light.</sent>
+				<sent id ="132">Thomas Edison, an American scientist, invented the electric lamp in 1879 first.</sent>
+				<sent id ="133">Electric iron: The heat generation property of electricity is used in an electric iron also.</sent>
+				<sent id ="134">Inside the iron there is a wire of nichrome around a mica plate.</sent>
+				<sent id ="135">The plate is placed in between two mica sheets and covered tightly by iron sheets.</sent>
+				<sent id ="136">Mica is a non- conductor of electricity but a conductor of heat.</sent>
+				<sent id ="137">Therefore, though electricity flows through the wire, it does not come in contact with iron sheets.</sent>
+				<sent id ="138">But when the wire gets hot, it makes the iron hot too.</sent>
+				<sent id ="139">The outer surface of the iron is triangular, heavy and made of stainless steel.</sent>
+				<sent id ="140">The bottom surface is well polished.</sent>
+				<sent id ="141">The two ends of the coiled wire are connected to a plug by long and thick wires.</sent>
+				<sent id ="142">When the plug is turned on, electricity flows through the coil and makes it hot.</sent>
+				<sent id ="143">As a result, the external metal cover becomes hot.</sent>
+				<sent id ="144">Electric heater: It consists of a circular disc made of china clay.</sent>
+				<sent id ="145">The disc has a coil of notches in it.</sent>
+				<sent id ="146">A coil made of a thin and long nichrome wire is fitted in the notches.</sent>
+				<sent id ="147">The disc is kept in a metal frame with legs.</sent>
+				<sent id ="148">The two ends of the coil are connected with the power supply arrangement.</sent>
+				<sent id ="149">When electricity flows through the coil, it becomes red hot and radiates much heat.</sent>
+				<sent id ="150">This heat is enough to cook food.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

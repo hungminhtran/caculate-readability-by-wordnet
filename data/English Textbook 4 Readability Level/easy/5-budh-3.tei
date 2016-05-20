@@ -1,0 +1,111 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-budh-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.924</idno>
+				<idno type="Number of sentences">83</idno>
+				<idno type="Number of tokens">886</idno>
+				<idno type="Number of token types">387</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t6">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In this chapter we shall know about the Ten-precepts.</sent>
+				<sent id ="2">Before that we should have a clear concept about Shil or precept.</sent>
+				<sent id ="3">Shil or precept means-rule, principle, discipline etc.</sent>
+				<sent id ="4">The Buddha admonished many instructions to His disciples to adopt honest means in daily life.</sent>
+				<sent id ="5">These instructions are known as precepts.</sent>
+				<sent id ="6">Human character is controlled by observing precepts.</sent>
+				<sent id ="7">Human life becomes graceful by observing these.</sent>
+				<sent id ="8">By a gentle boy we mean a boy of honesty or character.</sent>
+				<sent id ="9">Those men and women who duly observe precepts proclaimed by the Buddha are the virtuous.</sent>
+				<sent id ="10">The virtuous men and women are admired by all.</sent>
+				<sent id ="11">One can keep away oneself from stealing, drug addiction and indiscipline.</sent>
+				<sent id ="12">The characteristic of good conduct is revealed.</sent>
+				<sent id ="13">Hence, the good qualities of human character are precepts.</sent>
+				<sent id ="14">We perform our deeds in three ways.</sent>
+				<sent id ="15">The three door-ways are the body, speech and mind.</sent>
+				<sent id ="16">The three door-ways should be kept in control so that good deeds can be performed.</sent>
+				<sent id ="17">Lack of restraint in any of these hampers the performance of good deeds.</sent>
+				<sent id ="18">The man involved in evil deeds becomes corrupted or characterless.</sent>
+				<sent id ="19">The characterless people are same as the beasts.</sent>
+				<sent id ="20">They are hated by all.</sent>
+				<sent id ="21">Association with this type of man is never peaceful.</sent>
+				<sent id ="22">So everybody should keep himself away from the company with them.</sent>
+				<sent id ="23">Those who became memorable and honourable on earth were famous for their moral excellence.</sent>
+				<sent id ="24">Everybody respects them.</sent>
+				<sent id ="25">They are favourite to all.</sent>
+				<sent id ="26">Observance of precepts is the main reason for earning their moral virtues.</sent>
+				<sent id ="27">So everybody should be conscious enough to observe the precepts for acquiring those moralities.</sent>
+				<sent id ="28">One can get rid of all sorts of sufferings by observing precepts.</sent>
+				<sent id ="29">According to the Buddha, salvation from sufferings is Nirban (Extinction).</sent>
+				<sent id ="30">Nirban is the ultimate goal of the Buddhist aspiration.</sent>
+				<sent id ="31">Simultaneously, the precepts are the stairs for attainment of Nirbab.</sent>
+				<sent id ="32">So you have to observe the precepts properly.</sent>
+				<sent id ="33">Lord Buddha's disciples are of two kinds-the lay devotees and the renunciated ones.</sent>
+				<sent id ="34">Who are the lay devotees?</sent>
+				<sent id ="35">The observance of Five-precepts is the daily duty of the lay-devotees.</sent>
+				<sent id ="36">The Eight-precepts are known as Uposath shil.</sent>
+				<sent id ="37">Uposath means fasting.</sent>
+				<sent id ="38">The lay- devotees observe the practice of fasting on those lunar days.</sent>
+				<sent id ="39">The lay- devotees of both men and women who observe Uposath-shil are known as Uposathiks.</sent>
+				<sent id ="40">The lay-devotees observe both the Five- precepts and the Eight-precepts.</sent>
+				<sent id ="41">So they are called the precepts observed by the laities.</sent>
+				<sent id ="42">Those who take initiation as a novice in the order of Dharma (doctrines) renouncing from domestic-life are the renunciated disciples.</sent>
+				<sent id ="43">The initiated novices are called Sarmans.</sent>
+				<sent id ="44">Observance of Ten- precepts is compulsory for them.</sent>
+				<sent id ="45">The Sarmanarass pray for Ten-precepts from their Preceptor (Guiding monk) two times a day in the morning and evening.</sent>
+				<sent id ="46">During the prayer the novice (Sramanera) should sit in front of the Monk kneeling down with folding hands.</sent>
+				<sent id ="47">At the outset the novice has to pay Tribute to the Triple- gems and the Bhikkhu (monk).</sent>
+				<sent id ="48">After the prayer the Preceptor (Guiding monk) offer Ten- precepts.</sent>
+				<sent id ="49">The Sramanera (Novice) has to utter Ten- precepts with correct pronunciation in Pali following the Bhante (Preceptor).</sent>
+				<sent id ="50">Thereafter the Preceptor gives advice to the novice to observe the Ten- precepts properly.</sent>
+				<sent id ="51">Now we shall come to know how to pray for Ten-precepts with refuge to the Triple-gems.</sent>
+				<sent id ="52">Okasa aham bhante, tisaranenasaha pabbajja samanera dasasilam dhammam yacami, anuggaham katva silam detha me bhante.</sent>
+				<sent id ="53">Dutiyampi aham bhante, tisaranenasaha pabbajja samanera dasasilam dhammam yacami, anuggaham katva silam detha me bhante.</sent>
+				<sent id ="54">Tatiyampi aham bhante, tisaranenasaha pabbajja samanera dasasilam dhammam yacami, anuggaham katva silam detha me bhante.</sent>
+				<sent id ="55">Please, offer me the precepts.</sent>
+				<sent id ="56">Please, offer me the precepts.</sent>
+				<sent id ="57">Please, offer me the precepts .</sent>
+				<sent id ="58">The prayer is concluded.</sent>
+				<sent id ="59">The Preceptor now will start to offer Ten- precepts.</sent>
+				<sent id ="60">The initiating novice has to utter Ten-precepts with him serially.</sent>
+				<sent id ="61">I undertake the Precept to abstain from killing.</sent>
+				<sent id ="62">I undertake the Precept to abstain from stealing.</sent>
+				<sent id ="63">I undertake the Precept to abstain from sexual misconduct.</sent>
+				<sent id ="64">I undertake the Precept to abstain from telling lies.</sent>
+				<sent id ="65">I undertake the Precept to abstain from taking intoxicants.</sent>
+				<sent id ="66">I undertake the Precept to abstain from having meals in the afternoon.</sent>
+				<sent id ="67">I undertake the Precept to abstain from enjoying dance, song, music etc. for amusement.</sent>
+				<sent id ="68">I undertake the Precept to abstain from holding garlands, using perfumes, applying cosmetics, putting on ornaments etc.</sent>
+				<sent id ="69">I undertake the Precept to abstain from lying on valuable high seat.</sent>
+				<sent id ="70">I undertake the Precept to abstain from accepting gold and silver .</sent>
+				<sent id ="71">Family life is full of sufferings.</sent>
+				<sent id ="72">But the ascetic life is as vast and generous as the open sky.</sent>
+				<sent id ="73">The initiated novices and the monks meditate for salvation from sufferings leaving the worldly life.</sent>
+				<sent id ="74">It is their arduous practice for the welfare of self and the others.</sent>
+				<sent id ="75">So they are worthy of honour.</sent>
+				<sent id ="76">The Buddha admonished, Honouring the persons that worthy of houour is the great happiness.</sent>
+				<sent id ="77">Once Lord Buddha appeared at the village of Patali near Nalanda with His disciples.</sent>
+				<sent id ="78">He admonished the five good effects of observing the Precepts.</sent>
+				<sent id ="79">Those five noble effects are as follows- The virtuous men and women possess vast wealth.</sent>
+				<sent id ="80">The glory of the virtuous men and women is praised everywhere.</sent>
+				<sent id ="81">The virtuous men and women live a fearless life with no hesitation.</sent>
+				<sent id ="82">The virtuous men and women die with full consciousness.</sent>
+				<sent id ="83">The virtuous men and women ascend to heaven as soon as they die.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

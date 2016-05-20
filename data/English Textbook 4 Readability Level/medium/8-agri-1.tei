@@ -1,0 +1,175 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-agri-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.333</idno>
+				<idno type="Number of sentences">147</idno>
+				<idno type="Number of tokens">2188</idno>
+				<idno type="Number of token types">809</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t77">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Horticultural Crops are the crops like flowers, fruits, vegetables and spices.</sent>
+				<sent id ="2">Horticultural Crops are usually cultivated on high land around homestead.</sent>
+				<sent id ="3">How ever, horticultural Crops are also cultivated in the field on commercial basis.</sent>
+				<sent id ="4">Horticulture is an important branch of agricultural science.</sent>
+				<sent id ="5">Fruits : Example of such crops- Mango, Litchi, etc..</sent>
+				<sent id ="6">Vegetables : Example of such crops- battle gourd, country bean, etc..</sent>
+				<sent id ="7">Flowers : Example of such crops- Rose, Tube rose.</sent>
+				<sent id ="8">Spices : Example of such crops- Onion, garlic, etc.</sent>
+				<sent id ="9">The importance of Horticultural Crops is much.</sent>
+				<sent id ="10">Its importance is discussed in two categories, such as economic importance and its importance as food.</sent>
+				<sent id ="11">Cultivation of Horticultural Crops is very profitable.</sent>
+				<sent id ="12">The main economic advantage of these crops is that more profit can be achieved from a small area of land.</sent>
+				<sent id ="13">The following points will help you to understand the importance of Horticultural Crops.</sent>
+				<sent id ="14">A. Meeting Family Need : The need for fruits and vegetables can easily be fulfilled by cultivating these in the lands around the homestead.</sent>
+				<sent id ="15">Sometimes the excess crops may be sold.</sent>
+				<sent id ="16">B. Business : People having sufficient land can cultivate horticultural crops commercially and thus earn much profit.</sent>
+				<sent id ="17">For example, one can gain 1.5 times more profit be cultivating banana than rice.</sent>
+				<sent id ="18">Not only banana, but also each and every horticultural crops brings more profit.</sent>
+				<sent id ="19">C. Fulfilling Timber Need : Valuable wood may be obtained from fruit trees like Mango, Black Berry and Jackfruit.</sent>
+				<sent id ="20">Necessary furniture for a family can be made of this wood or these could be sold in the market for additional income.</sent>
+				<sent id ="21">D. Fulfilling Fuel Need : Sufficient fuel material can be obtained from branches of trees like Mango, Black Berry, Jackfruit, Guava, Plum, etc.</sent>
+				<sent id ="22">This fuel can be used for domestic purpose or can be sold to earn money.</sent>
+				<sent id ="23">E. Self Employment : Self employment is possible by cultivating and selling fruits, flowers and vegetables.</sent>
+				<sent id ="24">There are many Horticultural Crops that can be cultivated with very little manual labour.</sent>
+				<sent id ="25">Young man and women can cultivate these crops and sell these products and thus can become self employed.</sent>
+				<sent id ="26">The short term seasonal vegetables, fruits and flowers can be cultivated and sold several times in a year.</sent>
+				<sent id ="27">F. Progressing of Fruits and Vegetable : Money can be earned by processing Mango, Jackfruit, Pineapple, Tomato, Potato, , Fruits and vegetables.</sent>
+				<sent id ="28">For example- Mango pickle, dried slices of mango, Pineapple jelly, Tomato sauce, Potato chips can be prepared.</sent>
+				<sent id ="29">G. Flower Business: The demand of flowers in this country is gradually increasing.</sent>
+				<sent id ="30">Importance as Food : In Bangladesh food deficit and malnutrition is a common feature.</sent>
+				<sent id ="31">Fruits and vegetables can fulfill the demand of food and nutrition in the country.</sent>
+				<sent id ="32">On average about 275 grams of vegetables and 115 grams of fruits are required for an adult per day.</sent>
+				<sent id ="33">Consumption of fruits and vegetables reduces pressure on rice and also supplies nutrition.</sent>
+				<sent id ="34">Fruit and vegetables are common sources of carbohydrate, protein, fat, vegetables and minerals (Table-1).</sent>
+				<sent id ="35">The importance of fruits and vegetables as source of food elements are discussed in table.</sent>
+				<sent id ="36">Carbohydrate: Carbohydrate supplies heat and energy to the body.</sent>
+				<sent id ="37">Almost all fruits and vegetables contain carbohydrate.</sent>
+				<sent id ="38">Mango, banana, jackfruit, plum, guava, litchi, chili, potato, spined gourd turmeric, garlic etc. contain sufficient quantities of Carbohydrate.</sent>
+				<sent id ="39">Protein : The basic structure of each cell of our body is made of protein molecule.</sent>
+				<sent id ="40">Fruits and vegetables like banana, jackfruit, plum, brinjal, potato, red amaranth, spinach, chili, turmeric, coriander etc. contain sufficient quantities of protein.</sent>
+				<sent id ="41">Fats and Oils : Like carbohydrate, fat supplies heat and energy to our body.</sent>
+				<sent id ="42">Most of the types of horticultural crops contain more or less some portion of fat and oil.</sent>
+				<sent id ="43">Vitamins : Fruits, vegetables and spices contain large quantities of Vitamin A, Vitamin B and Vitamin C.</sent>
+				<sent id ="44">Physiological disorder in a body happens due to vitamin.</sent>
+				<sent id ="45">Mineral : Mineral salts are very important for normal growth and development of the body.</sent>
+				<sent id ="46">Some mineral salts are specifically required for certain organs of the body.</sent>
+				<sent id ="47">The important elements of mineral nutrition are calcium, iron, manganese, copper, sulpher, chlorine and iodin.</sent>
+				<sent id ="48">Fruits and vegetables contain sufficient quantities of mineral salts.</sent>
+				<sent id ="49">In a garden plan, almost all the horticultural crops should be scientifically and attractively arranged in an appropriate design.</sent>
+				<sent id ="50">Such a well planned landscape garden increases the beauty of a homestead or a school like a picture.</sent>
+				<sent id ="51">Usually smaller plots are available around a homestead or a premise.</sent>
+				<sent id ="52">The gardens are supposed to be made on those small plots.</sent>
+				<sent id ="53">The major points to be considered in planning a garden are given below.</sent>
+				<sent id ="54">Various species of vegetables; fruits and spices are to be planted in the garden.</sent>
+				<sent id ="55">Specific sites should be selected for planting vegetables, fruits, flowers and spices.</sent>
+				<sent id ="56">A landscape design should be laid out listing the horticultural crops according to the season when these will be grown.</sent>
+				<sent id ="57">Horticultural crops should be planted according to the present landscape design.</sent>
+				<sent id ="58">All the seedlings (vegetable seedlings) should not be planted at a time.</sent>
+				<sent id ="59">Instead these should be grown in crop rotation system.</sent>
+				<sent id ="60">For example, if a family- needs a total 100 pieces of cauliflower, it should be planted in four batches.</sent>
+				<sent id ="61">Arrangement should be made for proper irrigation and drainage system in the garden.</sent>
+				<sent id ="62">Considering the points mentioned above, the process of establishing horticultural garden around the homestead and attached plots are discussed below.</sent>
+				<sent id ="63">Hedge of croton or henna may be ground by planting them in multiple runs around the homestead.</sent>
+				<sent id ="64">Few date, palm or sujina plants may be also grown between the croton hedge lines.</sent>
+				<sent id ="65">Several vegetables can be grown by crop rotation making beds in the inner side of the hedge boundary.</sent>
+				<sent id ="66">Big trees such as mango, jack-fruits, coconut, olive, etc, should be planted at the north west sides of the homestead.</sent>
+				<sent id ="67">Plants, such as bayleaf, cinamon, pomegranate etc. may be planted at the front side for the landscape of increasing the beauty of the homestead.</sent>
+				<sent id ="68">Plants like custard apple, betelnut, dwarf banana varieties, bayleaf may be grown at the shady places of the homestead.</sent>
+				<sent id ="69">Yams, country bean, ribbed gourd, black peppers, etc. may be grown allowing them to climb the common trees of the homestead wherever possible.</sent>
+				<sent id ="70">Ginger, turmeric, pani kachu, man kachu, etc. may be planted at the shady places of the homestead.</sent>
+				<sent id ="71">Papaya, pomegranate, and green chilli may be grown at the corners of the yard.</sent>
+				<sent id ="72">According to the botanist, the matured and fertilized ovule of the flower of a plant may be termed as a seed.</sent>
+				<sent id ="73">For example, the grains of rice, wheat, mustard, seeds of mango, jack fruits , litchi, etc. are the botanical seeds.</sent>
+				<sent id ="74">These seeds are also known as true seeds.</sent>
+				<sent id ="75">The sugar cane cuttings, potato, sweet potato, root of spined gourd, grafts of mango leaves of Pathrkuchi are the examples of this type of seed.</sent>
+				<sent id ="76">The importance of seed in crop production is much.</sent>
+				<sent id ="77">No crop production is possible without seed.</sent>
+				<sent id ="78">Because new plants are grown from seeds.</sent>
+				<sent id ="79">Fruits, grains are produced from plants which are being up by human, animals and birds as food consumed for their life process.</sent>
+				<sent id ="80">The prime importance of seed is that having all the required inputs available at hand, no agricultural crop production is possible without seeds.</sent>
+				<sent id ="81">Good crop is only produced from a good quality seed.</sent>
+				<sent id ="82">It is essential to use quality seed for getting sufficient and improved quality crops.</sent>
+				<sent id ="83">In many cases the result is wastage of money.</sent>
+				<sent id ="84">Qualities of Seed :There may be a wide range of quality in seeds.</sent>
+				<sent id ="85">A Seed has variety of qualities.</sent>
+				<sent id ="86">The quality of a seed is determined through different tests.</sent>
+				<sent id ="87">The qualities of seeds are discussed below.</sent>
+				<sent id ="88">The purity in the variety of seed means its genetic purity.</sent>
+				<sent id ="89">Every crop and its variety has certain characteristics on which its production depends.</sent>
+				<sent id ="90">The variety of purity of a seed is spoiled when other variety seeds get mixed with a specific variety.</sent>
+				<sent id ="91">The purity of variety of a seed may be maintained if it is grown under controlled condition.</sent>
+				<sent id ="92">Purity of seed : A pure seed is one which is clean and free from dust, seeds of weeds or other crops.</sent>
+				<sent id ="93">So a clean pure seed will not contain weed seeds, other variety seeds, any waste materials, and non living materials.</sent>
+				<sent id ="94">The purity of a seed may be increased by sieving and winowing.</sent>
+				<sent id ="95">Purity of seed at a satisfactory level may also be obtained by using mechanical devices.</sent>
+				<sent id ="96">The sample seeds from a seed lot are divided into three categories.</sent>
+				<sent id ="97">These categories are pure seeds, seeds of other crops and non-living materials.</sent>
+				<sent id ="98">The purity of the seeds is measured in per cent on the basis of the weight of the sample.</sent>
+				<sent id ="99">Germination capacity : The germination capacity of a seed is judged by the member of young plants produced out of a hundred.</sent>
+				<sent id ="100">A good seed may have a germination capacity of hundred per cent.</sent>
+				<sent id ="101">But seeds do not usually germinate at such a rate.</sent>
+				<sent id ="102">If a seed sample has a germination capacity of 70-80 per cent, it is considered a good quality seed.</sent>
+				<sent id ="103">The germination capacity of a seed is dependent on the moisture content and dormancy stage of the seeds.</sent>
+				<sent id ="104">Moisture content of seeds : The moisture content of a seed is very much important for keeping it vigorous.</sent>
+				<sent id ="105">The per cent of water content of a seed is considered to be the moisture content of a seed.</sent>
+				<sent id ="106">As the moisture content of a seed increases, its germination capacity and vitality decreases.</sent>
+				<sent id ="107">If the seed is too dry on the other hand, the germ of the seed will become dry.</sent>
+				<sent id ="108">The seeds of rice or wheat may be preserved for up to a year if its moisture content is less than 12 per cent.</sent>
+				<sent id ="109">But if the moisture content is more, the germination capacity is rapidly lost.</sent>
+				<sent id ="110">It is needed to sow the seeds with normal moisture contents at the sowing time.</sent>
+				<sent id ="111">Seed health : A healthy seed is one that is free from diseases and insects.</sent>
+				<sent id ="112">A seed may carry pathogenic micro-organisms like fungi, bacteria and virus.</sent>
+				<sent id ="113">Again, a seed may be infested with insect when these are stored in godowns.</sent>
+				<sent id ="114">The pathogenic germs may live on the seed coat or within the seed.</sent>
+				<sent id ="115">There is no surety that a disease and insect infested seed will produce a health seedling.</sent>
+				<sent id ="116">A seedling from a disease or insect infested seed may be rotten before its germination.</sent>
+				<sent id ="117">A seedling or a plant has to face different unfavorable conditions starting from sowing of seed to harvesting of the crops.</sent>
+				<sent id ="118">A seed can withstand more unfavorable condition if it has more vitality.</sent>
+				<sent id ="119">The vigour of a seed may be determined by measuring the rapidity of seed germination or the length of the seedling.</sent>
+				<sent id ="120">Dormancy of Seed: Almost every seed of crops has a definite dormancy period.</sent>
+				<sent id ="121">during which a seed though placed under favorable condition do not germinated is known as dormancy period of the seed.</sent>
+				<sent id ="122">A seed does not always germinate when it is sown in the field.</sent>
+				<sent id ="123">Characteristics of a Seed : The quality which gives a separate identity to a seed may be considered as its characteristics.</sent>
+				<sent id ="124">When the germ of a seed is dead, that seed is also considered as dead.</sent>
+				<sent id ="125">New plants grow from the living germs.</sent>
+				<sent id ="126">The seed coat protects the germ from excess heat, extreme cold and other unfavorable conditions.</sent>
+				<sent id ="127">Seed is the storehouse of new seedling : The new nutrient elements required for a new seedling are present in the seed.</sent>
+				<sent id ="128">The seedling at first utilizes that nutrients after germination of the seed and then it takes up its nutrient elements from within the soil.</sent>
+				<sent id ="129">With the help of its roots.</sent>
+				<sent id ="130">Seed is the medium of propagation of Plants : Propagation of plants is mainly done by seed.</sent>
+				<sent id ="131">A plant cannot move from one place to another.</sent>
+				<sent id ="132">But seeds of plants are dispersed by human being, animals, air and water from one country to another and thus continues propagation.</sent>
+				<sent id ="133">Seed is the major medium of improvement of plant variety : Every crop has different varieties.</sent>
+				<sent id ="134">Some varieties produce low, while some other varieties of the same crop produce high crops.</sent>
+				<sent id ="135">It is needed to improve the low producing varieties for increasing the production of agriculture.</sent>
+				<sent id ="136">Only seeds are used for developing a new variety of plants.</sent>
+				<sent id ="137">Many new varieties are developed by bringing necessary changes in the genetic make up of the existing crop speices.</sent>
+				<sent id ="138">Seed is the food of animals: Ninety per cent of the total cultivated seeds in the world are cereals, namely rice, wheat, maize, etc.</sent>
+				<sent id ="139">These cereal seeds are the major food of human being.</sent>
+				<sent id ="140">The pulses, oil seeds, etc. are our essential major food crops.</sent>
+				<sent id ="141">Animals and birds take these cereal seeds or its wastes as food.</sent>
+				<sent id ="142">Seed is the source of beautification : This wonderful world is full of variety plants.</sent>
+				<sent id ="143">Different plant have different types of seeds.</sent>
+				<sent id ="144">The seeds are different in size , shape, colour and flavour.</sent>
+				<sent id ="145">Some seeds are flat, some are round, some are very tiny some are yellow and some are reddish.</sent>
+				<sent id ="146">The flavour of some seeds is attractive while some have bad flavour.</sent>
+				<sent id ="147">The different in seed colour of seeds is a source of beauty.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

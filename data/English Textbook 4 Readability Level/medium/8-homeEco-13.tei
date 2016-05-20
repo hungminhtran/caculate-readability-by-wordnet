@@ -1,0 +1,114 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-13</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.689</idno>
+				<idno type="Number of sentences">86</idno>
+				<idno type="Number of tokens">899</idno>
+				<idno type="Number of token types">396</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t162">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The smallest unit of making garment is called fibre.</sent>
+				<sent id ="2">The fibre used in the garment is called the weaving fibre.</sent>
+				<sent id ="3">There are many sources of weaving fibre.</sent>
+				<sent id ="4">For example, natural fibre is cotton, wool and silk and artificial fibre is rayon, nylon, dracon etc.</sent>
+				<sent id ="5">In ancient time natural fibre were used mostly in garment.</sent>
+				<sent id ="6">But now a day different types of artificial fibres are invented.</sent>
+				<sent id ="7">So the use and popularity of artificial fibre is increasing along with natural fibre.</sent>
+				<sent id ="8">The first men made fibre is rayon.</sent>
+				<sent id ="9">The process of commercial manufacture of Rayon is started by Hillary de Charlene a disciple of world famous French scientist Louis Pasteur.</sent>
+				<sent id ="10">In 1889 he exhibited his rayon on an industrial exhibition at Parish.</sent>
+				<sent id ="11">Cellulose is collected from the wood pulp and cotton lint and then it is put into the solution of caustic soda.</sent>
+				<sent id ="12">Then some chemicals are mixed with it to prepare liquid solution.</sent>
+				<sent id ="13">This solution is allowed to pass through fine wire mesh.</sent>
+				<sent id ="14">When the solution passes through the bottom of the mesh, it comes in contact with air and congeals into fibre.</sent>
+				<sent id ="15">Rayon is manufactured in many countries of the world.</sent>
+				<sent id ="16">There is a rayon factory at Chandraghona, Chittagong Hill tracts in Bangladesh.</sent>
+				<sent id ="17">Rayon is broadly classified into three types, such as Viscose, Cupramonium and Acetate.</sent>
+				<sent id ="18">The Rayon which is produced in viscose and cupramonium is similar in character.</sent>
+				<sent id ="19">Cellulose acetate process is used for producing acetate.</sent>
+				<sent id ="20">Its production process is more or less same as rayon but quality is little bit different.</sent>
+				<sent id ="21">Rayon is as bright as silk, so this is called the artificial silk.</sent>
+				<sent id ="22">Physical Characteristic of Rayon Under microscope, rayon looks like hard glass.</sent>
+				<sent id ="23">Viscose rayon is some signs like lines.</sent>
+				<sent id ="24">Although acetate rayon is although looks like glass but there are one or two lines in it.</sent>
+				<sent id ="25">When put into water it loses 40% to 70% of its energy.</sent>
+				<sent id ="26">The elasticity and flexibility of Rayon is less then silk cloth.</sent>
+				<sent id ="27">Rayon fibres are soft, fine and beautiful.</sent>
+				<sent id ="28">Rayon is both thick and heavy.</sent>
+				<sent id ="29">It gives cold feeling when touched.</sent>
+				<sent id ="30">It has its own brightness.</sent>
+				<sent id ="31">These fibres are strong but light in weight.</sent>
+				<sent id ="32">Rayon is heat conductive.</sent>
+				<sent id ="33">So Rayon-made-garments are very comfortable.</sent>
+				<sent id ="34">The chemical characteristic of Rayon Viscose or cupramonium rayon fibre is not damaged by light or mild soda water but its brightness feds.</sent>
+				<sent id ="35">But it is damaged by acid.</sent>
+				<sent id ="36">If the rayon fibre is left in damp place for a long time very small spots are seen in these clothes.</sent>
+				<sent id ="37">Colour receiving capacity of Rayon is very high.</sent>
+				<sent id ="38">So all types of colours are applied to rayon.</sent>
+				<sent id ="39">But it can not resist heat.</sent>
+				<sent id ="40">In water rayon fibre gets strong when dried.</sent>
+				<sent id ="41">If it is too much rubbed while being washed rayon fibre become weak and often becomes shapeless.</sent>
+				<sent id ="42">Rayon is not eaten by worm.</sent>
+				<sent id ="43">Compared to other cloths rayon fibre is cheaper.</sent>
+				<sent id ="44">These clothes are very bright.</sent>
+				<sent id ="45">Its brightness attracts all.</sent>
+				<sent id ="46">Different types of bright colure rayon are available in market.</sent>
+				<sent id ="47">Rayon made clothes have multiple use such as in different environment, different time and for different purpose.</sent>
+				<sent id ="48">Rayon fabrics are used for dress, garments, bed sheet, and curtain and for many other things.</sent>
+				<sent id ="49">Rayon garment are easy to wash and care.</sent>
+				<sent id ="50">The water absorbing capacity of rayon clothes is very low.</sent>
+				<sent id ="51">So it dries up quickly.</sent>
+				<sent id ="52">Man-made first synthetic fibre is nylon.</sent>
+				<sent id ="53">In 1939 du lopt company of USA made a thread like material with different chemical after many experiments.</sent>
+				<sent id ="54">Among these Nylon 6.6 have all the characteristic of a natural fibre.</sent>
+				<sent id ="55">This 6.6 nylon is then called nylon.</sent>
+				<sent id ="56">The basic composition of nylon is coal, water and air.</sent>
+				<sent id ="57">Nylon is made chemically.</sent>
+				<sent id ="58">In the first stage, nylon remains in the form of dust or very small particles.</sent>
+				<sent id ="59">The dust particles are then melted under very high temperature to make nylon.</sent>
+				<sent id ="60">Under microscope longitudinally nylon looks like tubes but the transverse surface look like a collection of circles.</sent>
+				<sent id ="61">As nylon is an artificial fibre its length and width can be controlled.</sent>
+				<sent id ="62">This fibre is bright.</sent>
+				<sent id ="63">This does not get crushed.</sent>
+				<sent id ="64">Nylon fibre is light in weight.</sent>
+				<sent id ="65">But this cloth is durable, flexible and long lasting.</sent>
+				<sent id ="66">Its heat resistant capacity is very low but in high temperature it becomes melted.</sent>
+				<sent id ="67">It should be ironed in low heat.</sent>
+				<sent id ="68">But it can be washed by lukewarm water.</sent>
+				<sent id ="69">Nylon is heat resistant.</sent>
+				<sent id ="70">Air can not ventilate through it.</sent>
+				<sent id ="71">So it is more comfortable in winter then summer.</sent>
+				<sent id ="72">This fibre is damage by sunlight.</sent>
+				<sent id ="73">For this reason, nylon clothes are to be dried in shade.</sent>
+				<sent id ="74">Nylon has no capacity of absorbing water vapour.</sent>
+				<sent id ="75">So, in summer, wearing a nylon dress means feeling hot.</sent>
+				<sent id ="76">There is no damage of nylon fibre in light acid.</sent>
+				<sent id ="77">It is damaged by strong acid and also not damaged in caustic soda water.</sent>
+				<sent id ="78">All kinds of soaps can be used to wash these clothes.</sent>
+				<sent id ="79">These clothes are not attacked by moth or fungus.</sent>
+				<sent id ="80">It does not easily get stained or spot.. Its water absorbing capacity is low.</sent>
+				<sent id ="81">So it dries up easily.</sent>
+				<sent id ="82">Nylon clothes can be conveniently used during the rainy season.</sent>
+				<sent id ="83">Nylon clothes are long lasting and light so it is used by many persons.</sent>
+				<sent id ="84">The clothes made of this fibre are also cheap.</sent>
+				<sent id ="85">Nylon clothes are used to make curtain, carpet net, table mat, and table cloth and window screen and umbrella sheet.</sent>
+				<sent id ="86">Nylon clothes are cheap in price and long lasting.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

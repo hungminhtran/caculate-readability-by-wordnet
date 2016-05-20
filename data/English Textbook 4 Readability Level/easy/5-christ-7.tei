@@ -1,0 +1,100 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.333</idno>
+				<idno type="Number of sentences">72</idno>
+				<idno type="Number of tokens">776</idno>
+				<idno type="Number of token types">353</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t27">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We have learned that the main teaching of the Ten Commandments is love.</sent>
+				<sent id ="2">The Ten Commandments are divided into two parts.</sent>
+				<sent id ="3">In the first part we discussed about how we can express our love for God.</sent>
+				<sent id ="4">From the commandments in the second part we will learn about how we can express our love for man.</sent>
+				<sent id ="5">The following commandments are included in the second part of the Ten Commandments of God.</sent>
+				<sent id ="6">Catholic Community Other Christian Communit ies You shall worship the Lord your God and Him alone.</sent>
+				<sent id ="7">I am the Lord your God.</sent>
+				<sent id ="8">You shall not take the name of the Lord your God in vain.</sent>
+				<sent id ="9">You shall not have strange gods before me.</sent>
+				<sent id ="10">You shall observe Sunday as the day of rest and keep it holy.</sent>
+				<sent id ="11">You shall not take the name of the Lord your God in vain.</sent>
+				<sent id ="12">Observe the Sabbath day, to keep it holy.</sent>
+				<sent id ="13">Our parents have given us birth.</sent>
+				<sent id ="14">Our mother suffered much at the time of delivery.</sent>
+				<sent id ="15">Our mother has nurtured us by breast- feeding.</sent>
+				<sent id ="16">It is hard to explain how much work our parents do for us.</sent>
+				<sent id ="17">They provide us with food, clothes, shelter, education etc.</sent>
+				<sent id ="18">We are raised by their love, care and nursing.</sent>
+				<sent id ="19">In this way we grow up physically and mentally.</sent>
+				<sent id ="20">We should know what our parents want and what they don't want.</sent>
+				<sent id ="21">We should do what they tell us to do.</sent>
+				<sent id ="22">We should not do what they forbid us to do.</sent>
+				<sent id ="23">We should always be obedient to them.</sent>
+				<sent id ="24">We must look after them when they face hard times.</sent>
+				<sent id ="25">We are born from the womb of our mother.</sent>
+				<sent id ="26">As living beings we can enjoy life; we eat, drink and study.</sent>
+				<sent id ="27">Every day we can gather new experiences.</sent>
+				<sent id ="28">But when God calls us, we have to go back to Him.</sent>
+				<sent id ="29">God has given us this life.</sent>
+				<sent id ="30">The master of our life is God, the Lord.</sent>
+				<sent id ="31">God has not given us the right to kill anyone.</sent>
+				<sent id ="32">Anyone who kills a man or a woman is a great sinner.</sent>
+				<sent id ="33">God has created man as male and female.</sent>
+				<sent id ="34">He has given both of them equal dignity as human persons.</sent>
+				<sent id ="35">We should not watch indecent things and pictures.</sent>
+				<sent id ="36">We should not use abusive language, entertain bad thoughts and read bad books and magazines.</sent>
+				<sent id ="37">We should love other boys or girls as our friends.</sent>
+				<sent id ="38">We should always put on elegant and decent dress.</sent>
+				<sent id ="39">We should be sincere in talking, deeds and behavior.</sent>
+				<sent id ="40">To take away someone's things or property without permission is called theft.</sent>
+				<sent id ="41">We should not steal others money or any other thing.</sent>
+				<sent id ="42">If we borrow a thing from anybody, we should return it to him.</sent>
+				<sent id ="43">If we find anything lost by someone, we should return it to the owner.</sent>
+				<sent id ="44">We should not use anything without the owner's knowledge.</sent>
+				<sent id ="45">We should not deceive anybody.</sent>
+				<sent id ="46">We should pay back everyone's dues.</sent>
+				<sent id ="47">We should not squander away money or time.</sent>
+				<sent id ="48">We should not adopt unfair means in the examinations because this is also same as stealing.</sent>
+				<sent id ="49">Words and deeds which cause damage or harm to anyone are considered false witness.</sent>
+				<sent id ="50">Our words and deeds should be such that edify others.</sent>
+				<sent id ="51">We should not make any false statements or tell any lies against others.</sent>
+				<sent id ="52">We are body, mind and soul.</sent>
+				<sent id ="53">Sometimes our body and mind lead us to temptation.</sent>
+				<sent id ="54">So we should be always careful about what we do or say.</sent>
+				<sent id ="55">We will not look at others with bad intention, evil thought and evil eye.</sent>
+				<sent id ="56">We will not do anything disgraceful to others or tempt them to do something shameful.</sent>
+				<sent id ="57">When we are greedy, we feel tempted to take it.</sent>
+				<sent id ="58">Then we steal it or take it away illegally.</sent>
+				<sent id ="59">We have learned about the Ten Commandments of God.</sent>
+				<sent id ="60">He has given us these commandments in order to help us to love God and human beings more sincerely.</sent>
+				<sent id ="61">Then we do things that are against love, that is to say, we hurt others and hurt ourselves.</sent>
+				<sent id ="62">We fail to give importance to God Who created us.</sent>
+				<sent id ="63">Thus we commit sin.</sent>
+				<sent id ="64">As a result we become unhappy and make others unhappy.</sent>
+				<sent id ="65">And as a result of our sin, we are deprived of God's love.</sent>
+				<sent id ="66">In heaven we will spend our life with God in happiness.</sent>
+				<sent id ="67">But if we commit sin, we cannot attain happiness.</sent>
+				<sent id ="68">Those who die at the state of serious sin, will go to hell.</sent>
+				<sent id ="69">There they will suffer for ever.</sent>
+				<sent id ="70">Prayer: O God, teach not to be greedy, not to covet my neighbor's goods and property.</sent>
+				<sent id ="71">Help me to be aware of the needs of others, especially of the poor.</sent>
+				<sent id ="72">May I be inspired to help to the poor out of what I own.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

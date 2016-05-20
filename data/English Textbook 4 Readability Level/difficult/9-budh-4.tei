@@ -1,0 +1,184 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-budh-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:04.369</idno>
+				<idno type="Number of sentences">156</idno>
+				<idno type="Number of tokens">2298</idno>
+				<idno type="Number of token types">900</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t43">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The Sutta is very valuable as an amulet of life.</sent>
+				<sent id ="2">The Sutta comprises the words of Gautama Buddha.</sent>
+				<sent id ="3">It is to be remembered that if the Sutta is either recited or heard, all kinds of calamities, fear and sorrows disappear.</sent>
+				<sent id ="4">Diseases and griefs are driven away.</sent>
+				<sent id ="5">So it is necessary to recite.</sent>
+				<sent id ="6">The Sutta should be recited with rhythmical voice.</sent>
+				<sent id ="7">Sutta recited thus brings concentration of mind.</sent>
+				<sent id ="8">The strength of mind inspires to do it.</sent>
+				<sent id ="9">The inspiration destroys fears and obstructions.</sent>
+				<sent id ="10">It is to be noted here that man can prosper by his own deed.</sent>
+				<sent id ="11">But deeds should be done honestly.</sent>
+				<sent id ="12">If done so, one may obtain higher life and at last may realize Nibbana.</sent>
+				<sent id ="13">Knowing the above facts, one should recite Suttas.</sent>
+				<sent id ="14">One should understand the meaning of the Sutta while reciting, without knowing it or omiting some paragraphs or lines, it is less useful.</sent>
+				<sent id ="15">Again when Sutta is recited for ulterior gain; the recitation does not bear fruit upto the expectation.</sent>
+				<sent id ="16">The recitation brings good if recited with free and compassionate mind.</sent>
+				<sent id ="17">Mind should be kept pure while reciting.</sent>
+				<sent id ="18">One should bear friendliness towards all beings in his mind.</sent>
+				<sent id ="19">Under no circumstances there should be any feeling of animosity towards anyone.</sent>
+				<sent id ="20">Towards enemy also, there should be feeling of amity.</sent>
+				<sent id ="21">Thus he becomes free from so many calamities and sorrows.</sent>
+				<sent id ="22">The Buddha preached Suttas on many reasons.</sent>
+				<sent id ="23">Now we recite and get by heart the Ratanasutta and Mettasutta.</sent>
+				<sent id ="24">After learning these Suttas we will be able to recite and get by heart other Suttas afterwards.</sent>
+				<sent id ="25">At this, we may acquire merits.</sent>
+				<sent id ="26">It increases memory.</sent>
+				<sent id ="27">After death, higher life is obtained.</sent>
+				<sent id ="28">Gautama Buddha was then alive.</sent>
+				<sent id ="29">Then Vesali was a very prosperous city.</sent>
+				<sent id ="30">Once there was a draught.</sent>
+				<sent id ="31">As a result, cultivation and growing of food had been stopped.</sent>
+				<sent id ="32">Crisis appeared in many villages with epidemics.</sent>
+				<sent id ="33">At this many people died.</sent>
+				<sent id ="34">The inhabitants of Vesali (Vesaliyan) informed their distresses to the king.</sent>
+				<sent id ="35">The king decided to invite the Buddha to Vesali.</sent>
+				<sent id ="36">At this the inhabitants will get strength in their minds.</sent>
+				<sent id ="37">They will be saved in life.</sent>
+				<sent id ="38">All fears of the king and unauspicious situation will disappear.</sent>
+				<sent id ="39">Then the Buddha was in Rajgir.</sent>
+				<sent id ="40">The king sent two Licchavi princes with soldiers to invite the Buddha to go to Vesali.</sent>
+				<sent id ="41">The Buddha accepted the invitation and decided to go there.</sent>
+				<sent id ="42">When the Buddha reached the border area of Vesali, it was raining cats and dogs.</sent>
+				<sent id ="43">As a result, the diseases and epidemic disappeared.</sent>
+				<sent id ="44">When the Buddha reached the city, all were calm and quiet.</sent>
+				<sent id ="45">The people of the city became glad.</sent>
+				<sent id ="46">All were praising the Buddha.</sent>
+				<sent id ="47">The king of heaven, Indra with other gods was present there.</sent>
+				<sent id ="48">Then the Buddha called Ananda Thera and advised him to learn and to recite the Ratanasutta with Licchavis around Vesali.</sent>
+				<sent id ="49">The Buddha further told him that by the influence of this Sutta crisis, epidemics, disease and fear will disappear.</sent>
+				<sent id ="50">Then the gods also obeyed the order.</sent>
+				<sent id ="51">Ananda Thera then recited the Sutta.</sent>
+				<sent id ="52">Whatever spirits have come together here, either belonging to the earth or living in the air, may all spirits be happy and then listen attentively to what is recited.</sent>
+				<sent id ="53">Therefore, O spirits, do ye all pay attention, show kindness to the human race who both day and night bring their offerings ; therefore protect them strenuously.</sent>
+				<sent id ="54">Whatever wealth there be here or in the other world, or whatever excellent jewel in the heavens, it is certainly not equal to Tathagata.</sent>
+				<sent id ="55">This excellent jewel (is found) in, Buddha, by this truth may there be salvation.</sent>
+				<sent id ="56">The destruction (of passion), the freedom from passion, the excellent immortality which Sakyamuni attainted, there is nothing equal to that Dhamma.</sent>
+				<sent id ="57">This excellent jewel (is found) in the Dhamma, by this truth may there be salvation.</sent>
+				<sent id ="58">The purity which the best of Euddhas praised, the meditation which they call uninterrupted, there is no meditation like this.</sent>
+				<sent id ="59">The excellent jewel (is found) in the Dhamma by this truth may there be salvation.</sent>
+				<sent id ="60">The eight persons who are praised by the righteous and make these four pairs, are worthy of offerings, (being) Sugata's disciples.</sent>
+				<sent id ="61">What is given to these will bear great fruit.</sent>
+				<sent id ="62">This excellent jewel (is found) in the Sangha (assembly), by this truth may there be salvation.</sent>
+				<sent id ="63">Those who have applied themselves studiously with a firm mind and free from desire to the doctrine of Gautama, have obtained the highest gain, having merged into immorality and enjoying happiness after getting it for nothing.</sent>
+				<sent id ="64">This excellent jewel (is found) in the Sangha, by this truth may there be salvation.</sent>
+				<sent id ="65">As a post in the front of a city gate is firm in the earth and cannot be shaken by the strong winds, like that I declare the righteous man to be who, having penetrated the Noble Truths, sees (them clearly).</sent>
+				<sent id ="66">This excellent jewel (is found) in the Sangha, by this truth may there be salvation.</sent>
+				<sent id ="67">Those who understand the Noble Truths well taught by the profoundly wise (i.e. Buddha), though they be greatly distracted, will not (have to) take the eighth birth.</sent>
+				<sent id ="68">This excellent jewel (is found) in the Sangha, by this truth may there be salvation.</sent>
+				<sent id ="69">On his (attaining the) bliss of (the right) view three things (dhammas) are left behind (by him).</sent>
+				<sent id ="70">Conceit and doubt and whatever he has got of virtue and (holy) works.</sent>
+				<sent id ="71">He is released also -from the four hells and he is incapable of committing the six deadly sins.</sent>
+				<sent id ="72">This excellent jewel (is found) in the Sangha, by this truth may there be salvation.</sent>
+				<sent id ="73">Even if he commits a sinful deed by his body or in word or in thought, He is incapable of concealing it, (for) to conceal is to be impossible for one that has seen the state (of Nibbana).</sent>
+				<sent id ="74">This excellent jewel (is found) in the Sangha, by this truth may there be salvation.</sent>
+				<sent id ="75">As in a clump of trees with their tops in bloom in the first heat of the hot month, so (Buddha) taught the excellent Dhamma leading to Nibbana to the greatest benefit (for all).</sent>
+				<sent id ="76">This excellent jewel (is found) in Buddlia, by this truth may there be salvation.</sent>
+				<sent id ="77">The Excellent one who knows what is excellent, who gives what is excellent and who brings what is excellent, the incomparable One taught the excellent Dhamma.</sent>
+				<sent id ="78">This excellent jewel (is found) in Buddha, by this truth may there be salvation.</sent>
+				<sent id ="79">The old is destroyed, the new has not arisen, those whose minds are disgusted with a future existence, the wise who have destroyed their seeds (of existence), whose desires do not increase, go out like this lamp.</sent>
+				<sent id ="80">This excellent jewel (is found) in the Sangha, by this truth may there be salvation.</sent>
+				<sent id ="81">Whatever spirits have come together here, either belonging to the earth or living in the air, let us worship the perfect (Tathagata) Dhamma, revered by gods and men ; may there be salvation.</sent>
+				<sent id ="82">Whatever spirits have come together here, either belonging to the earch or living in the air, let us worship the perfect (Tathagata) Dhamma, revered by gods and men; may there be salvation.</sent>
+				<sent id ="83">Whatever spirits have come together here, either belonging to the earth or living in the air, let us worship the perfect (Tathagata) Sangha, revered by gods and men may there be salvation.</sent>
+				<sent id ="84">We will learn Ratanasutta for the welfare of men and gods.</sent>
+				<sent id ="85">By its influence all evils disappear.</sent>
+				<sent id ="86">The Buddha, Dhamma and Sangha are called together Three Jewels (Tiratana).</sent>
+				<sent id ="87">There are no such evils that do not disappear by the influences of Three Jewels.</sent>
+				<sent id ="88">By it, immortality like Nibbana may be obtained.</sent>
+				<sent id ="89">So, greed, delusion, desire, anger etc. should be subdued.</sent>
+				<sent id ="90">This fact has been hidden in Ratanasutta.</sent>
+				<sent id ="91">Morever, it is said that the Three Jewels are best among all the available properties.</sent>
+				<sent id ="92">The greatness of the Buddha, Dhamma and Sangha have been expressed in this Sutta.</sent>
+				<sent id ="93">By the order of the Buddha, Ananda Thera recited this Sutta to remove draught, crisis, diseases and epidemic of Vesali.</sent>
+				<sent id ="94">On hearing this Sutta, the gods became glad and returned to their abodes.</sent>
+				<sent id ="95">A peaceful mind and good will towards all beings are praised in this Sutta.</sent>
+				<sent id ="96">On hearing the disturbance created by the gods, the Buddha advised the monks to show friendliness to them.</sent>
+				<sent id ="97">In that connection the Buddha preached Mettasutta and advised the monks to learn this Sutta to recite.</sent>
+				<sent id ="98">From this point of view it is understood that how deep was compassion of Buddha to the beings.</sent>
+				<sent id ="99">The Buddha then was living at Savatthi.</sent>
+				<sent id ="100">The rainy season was nearing.</sent>
+				<sent id ="101">At the time of rainy retreat, generally, the monks, used to select the places as suited to them-in the cave of the mountain or in the forest.</sent>
+				<sent id ="102">Thus selecting a suitable place near the Himalayas, 500 hundred monks were observing rainy retreat.</sent>
+				<sent id ="103">They used to beg alms in nearby villages and thereby they were going on well.</sent>
+				<sent id ="104">Suitable climate and nutritious food given by the villagers helped them to maintain health.</sent>
+				<sent id ="105">With great zeal they started to lead their lives in meditation.</sent>
+				<sent id ="106">There were many tree-gods in that forest.</sent>
+				<sent id ="107">They became anxious due to the influence of the precepts observed by the monks.</sent>
+				<sent id ="108">Being incapable to bear it, the tree-gods with their wives and children were wandering hither and thither.</sent>
+				<sent id ="109">They thought, if the monks leave the place, they would return to their abodes.</sent>
+				<sent id ="110">But they thought out that they (monks) would not go away without observing the rainy-retreat.</sent>
+				<sent id ="111">The tree-gods started to shout at night with terrible appearance.</sent>
+				<sent id ="112">They caused fear to the monks.</sent>
+				<sent id ="113">At this they were afraid.</sent>
+				<sent id ="114">They left the place and went to the Buddha at Savatthi without observing the rainy-retreat.</sent>
+				<sent id ="115">The Buddha said them, O monks, have I not proclaimed rules not to wander during the rainy-retreat?</sent>
+				<sent id ="116">They then explained every thing to the Buddha.</sent>
+				<sent id ="117">The Buddha advised them to go there again.</sent>
+				<sent id ="118">He preached them Mettasutta as to how they would be free from fear created by them.</sent>
+				<sent id ="119">He (Buddha) further advised to show friendliness to them.</sent>
+				<sent id ="120">Moreover they should be patient and exert to eradicate desires.</sent>
+				<sent id ="121">In this way the Buddha taught them Mettasutta.</sent>
+				<sent id ="122">From this Sutta we may learn to show good will towards all beings.</sent>
+				<sent id ="123">You (students) also do it, this is the teaching of the Buddha.</sent>
+				<sent id ="124">If done so, there would not be hatred in this world.</sent>
+				<sent id ="125">There would be no hatred in our country also.</sent>
+				<sent id ="126">So we would be able to live together happily.</sent>
+				<sent id ="127">According to this advice, the monks went there again.</sent>
+				<sent id ="128">They completed their three months rainy-retreat and attained third state of sainthood.</sent>
+				<sent id ="129">Karaniyamattha kusalena yantam santam padam abhisamecca, Sakko uju ca suvaco cassa mudu anatimani.</sent>
+				<sent id ="130">Whatever is to be done by one who is skilful in seeking (what is) good, having attained that tranquil state (of Nibbana) Let him be able and upright and conscientious and of soft speech, gentle, not proud.</sent>
+				<sent id ="131">Santussako ca subharo ca appakicco ca sallahukavutti, Santindriyo ca nipako ca appagabbho kulesu ananugiddho.</sent>
+				<sent id ="132">And contented and easily supported and having few cares, unburdened and with his senses calmed and wise, not arrogant, without (showing) greediness (when going his round) in families.</sent>
+				<sent id ="133">Na ca khuddam Samacare kinci yena Vinnu pare upavadeyyum, Sukhino va khemino hontu sabbe satta bhavantu sukhitatta.</sent>
+				<sent id ="134">And let him not do anything mean for which others who are wise might reprove (him); may all beings be happy and secure, may they be happy minded.</sent>
+				<sent id ="135">Ye keci panabhutatthi tasa va thavara va anavasesa, Digha va ye mahanta va majjhima rassaka anukathula.</sent>
+				<sent id ="136">Suttas And The Ethical Stanza 49 Whatever living beings there are, either feeble or stong, all either long or great middle sized, short, small or large.</sent>
+				<sent id ="137">Dittha va ye ca adittha ye ca dure vasanti avidure, Bhuta va sambhavesi va sabbe satta bhavantu sukhitatta Either seen or not seen and which live far (or) near, either born or seeking birth, may all creatures be happy minded.</sent>
+				<sent id ="138">Na paro param nikubbetha, natimannetha katthaci nam kinci, Vyarosena patighasanna nanna mannassa dukkhamiccheya.</sent>
+				<sent id ="139">Let no one deceive another, let him not despise (another) in any place, let him not out of anger or resentment wish harm to another.</sent>
+				<sent id ="140">Mata yatha niyam puttam ayusa ekaputtamanurakkhe, Evampi sabbabhutesu manasam bhavaye aparimanam.</sent>
+				<sent id ="141">As a mother at the risk of her life protects over her own child, her only child, so also let every one cultivate boundless (friendly) mind towards all beings.</sent>
+				<sent id ="142">Mettanca sabbalokasmim manasam bhavaye aparimanam, Uddham adho ca tiriyanca, asamvadharn averamasapattam.</sent>
+				<sent id ="143">And let him cultivate good will towards all the world, a boundless (friendly) mind above and below and across unobstructed, without hatred, without enmity.</sent>
+				<sent id ="144">Titthancaram nisinno va sayana va yavatassa vigatamiddho, Etam satim adhittheyam brahmametam viharamidhamahu.</sent>
+				<sent id ="145">Standing, walking or sitting or lying, as long as he be awake, let him devote himself to this mind ; this (way of) living they say is the best in this world.</sent>
+				<sent id ="146">Ditthinca anupagamma silava dassanena sompanno, kamesu Vineyya gedham nahi jatu gabbhaseyyam punareti ti.</sent>
+				<sent id ="147">He who, not having embraced (Philosophical) views, is virtuous, endowed with (Perfect) Vision, after subduing greed for sensual pleasures, will never again, go to a mother's womb.</sent>
+				<sent id ="148">Man is subject to death or man is mortal.</sent>
+				<sent id ="149">This is the nature of all beings.</sent>
+				<sent id ="150">Nobody can be escaped from this.</sent>
+				<sent id ="151">Knowing this fact, one should sacrifice oneslf.</sent>
+				<sent id ="152">One should not neglect other beings: One should show friendliness to each being and should not harm others.</sent>
+				<sent id ="153">Standing, walking or sitting or lying, as long as one be awake, let one devote oneself to this state of mind.</sent>
+				<sent id ="154">This way of living is the path to lead oneself to subdue greed for sensual pleasures; and to attain the third state of salvation i.e.</sent>
+				<sent id ="155">Thus one will never again go to mother's womb.</sent>
+				<sent id ="156">It is noted here that the monks who were observing rainy-retreat, were saved by this Sutta from the disturbance created by the beings (tree-gods).</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

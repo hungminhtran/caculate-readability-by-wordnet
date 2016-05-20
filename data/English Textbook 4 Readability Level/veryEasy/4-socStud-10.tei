@@ -1,0 +1,54 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.481</idno>
+				<idno type="Number of sentences">26</idno>
+				<idno type="Number of tokens">307</idno>
+				<idno type="Number of token types">198</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t87">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We earned our freedom in 1971 after nine months of Liberation War.</sent>
+				<sent id ="2">The Super Hero of that struggle for liberation is Bangabandhu Sheikh Mujibur Rahman.</sent>
+				<sent id ="3">He is also honoured as the Father of the Nation.</sent>
+				<sent id ="4">He was born on 17 March, 1920, in the village of Tungipara in Gopalganj district.</sent>
+				<sent id ="5">His father was Sheikh Lutfar Rahman and mother was Sayera Begum.</sent>
+				<sent id ="6">He passed the Secondary School Certificate Examination from Gopalganj Mission High School.</sent>
+				<sent id ="7">There he came in contact with many competent teachers.</sent>
+				<sent id ="8">After finishing school education, Sheikh Mujibur Rahman got himself admitted into Islamia College in Calcutta.</sent>
+				<sent id ="9">He became deeply involved in student politics.</sent>
+				<sent id ="10">He was jailed in 1948 for his involvement in the Language Movement.</sent>
+				<sent id ="11">He was elected later its General Secretary.</sent>
+				<sent id ="12">The infamous Agartala Conspiracy Case was started against him after he was arrested.</sent>
+				<sent id ="13">This resulted in serious reactions and agitations among the people of East Pakistan.</sent>
+				<sent id ="14">The movements for autonomy at one stage turned into People's revolution.</sent>
+				<sent id ="15">He was released from jail on February.</sent>
+				<sent id ="16">In 1970 General Election Awami Eeague got a huge majority vote from the people.</sent>
+				<sent id ="17">Everybody was sure that Sheikh Mujibur Rahman was going to be the President of Pakistan.</sent>
+				<sent id ="18">But unfortunately, a conspiracy was started not to allow Bangabandhu to form the Government.</sent>
+				<sent id ="19">The Pakistani rulers called off the Parliament session due to be held on 1 March.</sent>
+				<sent id ="20">Sheikh Mujib was arrested and sent to prison in West Pakistan.</sent>
+				<sent id ="21">The nation finally became free on 16 December, 1971.</sent>
+				<sent id ="22">Bangabandhu came back to independent Bangladesh after being released from prison in Pakistan.</sent>
+				<sent id ="23">The first ever Constitution of Bangladesh was also framed under his leadership.</sent>
+				<sent id ="24">This Constitution had four main policies: Democracy, Secularism, Socialism and Nationalism.</sent>
+				<sent id ="25">His contribution towards restructuring and development of the country during post-liberation period is unparalleled.</sent>
+				<sent id ="26">It enhanced the prestige of our mother tongue in the entire world.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

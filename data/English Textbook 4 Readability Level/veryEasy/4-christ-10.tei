@@ -1,0 +1,130 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.779</idno>
+				<idno type="Number of sentences">102</idno>
+				<idno type="Number of tokens">1014</idno>
+				<idno type="Number of token types">402</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t54">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We have also discussed the Baptism in detail.</sent>
+				<sent id ="2">Now we shall discuss the Last Supper of our Lord Jesus.</sent>
+				<sent id ="3">It is also called the Eucharist.</sent>
+				<sent id ="4">These should be taken with a sacred heart.</sent>
+				<sent id ="5">So we shall discuss the sacrament of confession as well.</sent>
+				<sent id ="6">How did we get the sacrament of the Lord's Last Supper?</sent>
+				<sent id ="7">Why was this bestowed on us?</sent>
+				<sent id ="8">Why do we take it?</sent>
+				<sent id ="9">What is the result of it?</sent>
+				<sent id ="10">We should all know the answers to these questions.</sent>
+				<sent id ="11">The meal is the flesh and blood of Jesus Christ.</sent>
+				<sent id ="12">Before his death Jesus had taken his last meal with his disciples.</sent>
+				<sent id ="13">In that supper he sacrificed his flesh and blood for all human beings.</sent>
+				<sent id ="14">He gave his flesh through bread and blood through wine.</sent>
+				<sent id ="15">We can eat his flesh and drink his blood through communion.</sent>
+				<sent id ="16">Our Lord Jesus had told his disciples to take this meal.</sent>
+				<sent id ="17">He also asked us all to take this in his memory.</sent>
+				<sent id ="18">That is why we call it the meal of our Lord.</sent>
+				<sent id ="19">This heavenly meal is also a food for our soul.</sent>
+				<sent id ="20">Through this meal Lord Jesus descends from the heaven to our soul.</sent>
+				<sent id ="21">That is why we also call it the communion of Christ.</sent>
+				<sent id ="22">Because He loves us and wants us to keep away from sin.</sent>
+				<sent id ="23">He wishes that we should find the path of salvation.</sent>
+				<sent id ="24">God's only son Jesus Christ is our way to salvation.</sent>
+				<sent id ="25">He has sacrificed himself for our salvation.</sent>
+				<sent id ="26">We call it the self-sacrifice.</sent>
+				<sent id ="27">He has given us his flesh and blood as a symbol of sacrifice.</sent>
+				<sent id ="28">The night before his crucifixion he arranged a supper.</sent>
+				<sent id ="29">During the supper he took a loaf of bread in his hand and thanked God.</sent>
+				<sent id ="30">Then he said, This bread is my flesh.</sent>
+				<sent id ="31">You all eat this.</sent>
+				<sent id ="32">I give you my blood.</sent>
+				<sent id ="33">You will get salvation from sin through this blood.</sent>
+				<sent id ="34">The next day his enemies captured him and forced him to carry a huge cross.</sent>
+				<sent id ="35">Then they took him to a mountain named Calvary.</sent>
+				<sent id ="36">There they crucified him.</sent>
+				<sent id ="37">Jesus sacrificed himself on that cross.</sent>
+				<sent id ="38">He did that because he loved us.</sent>
+				<sent id ="39">That is why his last supper is the symbol of love.</sent>
+				<sent id ="40">We also learn to love by taking this meal.</sent>
+				<sent id ="41">We also learn to sacrifice ourselves for one another by taking this meal.</sent>
+				<sent id ="42">A human being has his mind and soul just as he has his body.</sent>
+				<sent id ="43">We need food for body, mind and soul.</sent>
+				<sent id ="44">For our body we need rice, bread, water, vegetables etc.</sent>
+				<sent id ="45">For our mind we need sports, enjoyment, musics, dance and other recreations.</sent>
+				<sent id ="46">We also need food for our soul.</sent>
+				<sent id ="47">Our body dies if it does not get food.</sent>
+				<sent id ="48">Similarly, our soul too becomes sick if it does not get its food.</sent>
+				<sent id ="49">The food for our soul is the acceptance of Jesus in our heart.</sent>
+				<sent id ="50">We accept God through Jesus or through the meal of our Lord.</sent>
+				<sent id ="51">We have already learnt that there is only One God.</sent>
+				<sent id ="52">But He has three forms· the Father, Son and the Holy Spirit.</sent>
+				<sent id ="53">Together they form One God.</sent>
+				<sent id ="54">We establish this communion through Jesus.</sent>
+				<sent id ="55">This communion with God is nothing but the food for our soul.</sent>
+				<sent id ="56">We need to have good relation with one another to take this food.</sent>
+				<sent id ="57">Therefore, to accept God or His food, we need to confess.</sent>
+				<sent id ="58">Sometimes we are invited to our relatives house.</sent>
+				<sent id ="59">We do not, however, start eating as soon as we go there.</sent>
+				<sent id ="60">First, we greet each other and talk about our wellbeing.</sent>
+				<sent id ="61">We also try to repair our past mistakes through discussion.</sent>
+				<sent id ="62">We also relate to them our joys and sorrows and listen to theirs.</sent>
+				<sent id ="63">We may even promise to help them in their hour of need.</sent>
+				<sent id ="64">Then our host serves us food and drink and we eat them with joy.</sent>
+				<sent id ="65">However, we do not return home just as we finish our meal.</sent>
+				<sent id ="66">We sit for a little while more and talk with them.</sent>
+				<sent id ="67">And then we thank our host because he invited us and served us delicious food.</sent>
+				<sent id ="68">When we say good-bye we also invite the host to our house.</sent>
+				<sent id ="69">During the Eucharist God too invites us.</sent>
+				<sent id ="70">He calls us to accept the flesh and blood of His son.</sent>
+				<sent id ="71">We do not start taking the food as soon as we arrive at the church.</sent>
+				<sent id ="72">Reaching there we meet one another.</sent>
+				<sent id ="73">We ask ourselves whether we are on good terms with one another.</sent>
+				<sent id ="74">We also think whether we have hurt others knowingly or unknowingly.</sent>
+				<sent id ="75">We apologise to one another and to God.</sent>
+				<sent id ="76">And then we praise Him for His beautiful creation.</sent>
+				<sent id ="77">Then the important step is the recitation from the Holy Bible.</sent>
+				<sent id ="78">The Holy Bible is the sayings of God.</sent>
+				<sent id ="79">We recite a few lines from the Holy Bible and listen to them.</sent>
+				<sent id ="80">Some one among us explains the meaning of what is read out.</sent>
+				<sent id ="81">Normally the priest or the pastor does this.</sent>
+				<sent id ="82">We submit our joys and sorrows to God.</sent>
+				<sent id ="83">It means, we let Him know about our worldly needs.</sent>
+				<sent id ="84">Then we prepare ourselves for the meal.</sent>
+				<sent id ="85">Here again we do not leave just as we finish our food.</sent>
+				<sent id ="86">Rather we take our time to talk to God.</sent>
+				<sent id ="87">Then we take leave of Him.</sent>
+				<sent id ="88">We remain healthy if we take proper food at proper time.</sent>
+				<sent id ="89">Similarly our souls also remain pure and healthy if we take our soul's food regularly.</sent>
+				<sent id ="90">This also influences our character and we can live in peace and unity with others.</sent>
+				<sent id ="91">God resides a healthy soul.</sent>
+				<sent id ="92">Who can take the Eucharist?</sent>
+				<sent id ="93">In order to take the Eucharist, we need to be baptised.</sent>
+				<sent id ="94">We also need to have the sense of right and wrong.</sent>
+				<sent id ="95">We should also be pure in heart.</sent>
+				<sent id ="96">There are certain Churches where the children are baptised.</sent>
+				<sent id ="97">Again, there are certain Churches, where elderly persons are baptised.</sent>
+				<sent id ="98">As a result, they can receive the Eucharist after they have attained a certain age.</sent>
+				<sent id ="99">After baptism we wash away our sins and become pure.</sent>
+				<sent id ="100">With a heart full of sins we cannot accept God.</sent>
+				<sent id ="101">That is why we must confess.</sent>
+				<sent id ="102">Memorise what Jesus said with bread and wine in his hand.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,64 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-21</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.476</idno>
+				<idno type="Number of sentences">36</idno>
+				<idno type="Number of tokens">513</idno>
+				<idno type="Number of token types">244</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t14">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In order to measure the amount of milk from a cow the importance of milking system is manyfold.</sent>
+				<sent id ="2">Inspite of the availability of sufficient milk in the udder of the cow it is not possible to collect reasonable quantity milk for not knowing the milking method.</sent>
+				<sent id ="3">In general there are two methods of milking.</sent>
+				<sent id ="4">Traditional Method: In this case the extorter extorts milk from the udder with the help of hands.</sent>
+				<sent id ="5">Modern Method: Milk is extorted from the udder with the help of a machine.</sent>
+				<sent id ="6">As a. preparation of milking, the hands of the extorter, the udders of cow, teats,and the milk- pan should be washed with hot water.</sent>
+				<sent id ="7">Otherwise there are apprehensions of spreading numerous germs in the milk.</sent>
+				<sent id ="8">If extortion is not done in hygienic way the detrimental germs may enter into the udder of the cow and thus may cause ramiter disease.</sent>
+				<sent id ="9">Milking can be done from a milch cow twice a day.</sent>
+				<sent id ="10">Everyday same man will milking at a definite time.</sent>
+				<sent id ="11">Before 6-7 hours of milking the calf should be kept away from the cow.</sent>
+				<sent id ="12">The milch cow should be tied in such way that it cannot move.</sent>
+				<sent id ="13">The calf should be released to the cow so that it can suck milk from the teats of the cow.</sent>
+				<sent id ="14">The calf is to be taken away and tied in a stake.</sent>
+				<sent id ="15">The calf to be kept near the head of the cow.</sent>
+				<sent id ="16">Hands, milk pan and the udder of the cow should be washed well.</sent>
+				<sent id ="17">Milk should be extorted by pressing the teat of the udder with the thumbs and fore finger and pulling downwards.</sent>
+				<sent id ="18">Some oil can be used to help in pulling the teats.</sent>
+				<sent id ="19">Care should be taken so that dogs or other animals can not disturb during milking.</sent>
+				<sent id ="20">The system of keeping milk undecomposed for a certain period of time is called preservation of milk.</sent>
+				<sent id ="21">The milk preservation arrangement is not easy.</sent>
+				<sent id ="22">Because the changes of chemical composition of milk occurs very easily such as if milk is preserved in freeze the germs can not grow, but the chemical composition is broken.</sent>
+				<sent id ="23">As a result the quality of milk deteriorates.</sent>
+				<sent id ="24">Again if milk is boild for 20 minutes after every 4 hours it remains germ free.</sent>
+				<sent id ="25">At this also the nutrition value decreases.</sent>
+				<sent id ="26">Some amount of vitamin is spoiled in high temperature system.</sent>
+				<sent id ="27">In big farms germs of all diseases are destroyed by mean of pasteurization.</sent>
+				<sent id ="28">Pasteurized milk can be preserved for longer period than row milk.</sent>
+				<sent id ="29">In foreign countries milk is powdered and preserved for many days.</sent>
+				<sent id ="30">In this case also the quality is somewhat deteriorated.</sent>
+				<sent id ="31">After boiling milk can be kept in good condition up to 7-8 hours.</sent>
+				<sent id ="32">The class teacher will arrange the visit after consultation with an owner of a dairy farm.</sent>
+				<sent id ="33">Go to the concerned farm as per instruction of the teacher.</sent>
+				<sent id ="34">Visit the farm as per arrangement of the owner of the farm and observe milking.</sent>
+				<sent id ="35">Observe critically the milking arrangement of different cows.</sent>
+				<sent id ="36">After observation write down serially in the practical note book how the whole work has been done.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

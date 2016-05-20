@@ -1,0 +1,119 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.888</idno>
+				<idno type="Number of sentences">91</idno>
+				<idno type="Number of tokens">793</idno>
+				<idno type="Number of token types">343</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t60">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We have already learnt something about the Holy Bible.</sent>
+				<sent id ="2">We must remember it.</sent>
+				<sent id ="3">This holy book is the words of God.</sent>
+				<sent id ="4">The Holy Bible has two main divisions.</sent>
+				<sent id ="5">They are the Old Testament and the New Testament.</sent>
+				<sent id ="6">The Old Testament consists of 46 books (some Churches believe it consists of 39 books).</sent>
+				<sent id ="7">The New Testament consists of 27 books.</sent>
+				<sent id ="8">Now we shall learn more about the Old and the New Testaments.</sent>
+				<sent id ="9">The Holy Bible has two major parts.</sent>
+				<sent id ="10">God told mankind so many things.</sent>
+				<sent id ="11">He revealed himself in many ways.</sent>
+				<sent id ="12">He advised mankind to know Him and to follow the right path.</sent>
+				<sent id ="13">All these were written in 46 books (some Churches believe the number to be 39).</sent>
+				<sent id ="14">The books were compiled together and known as the Old Testament.</sent>
+				<sent id ="15">The New Testament begins from the birth of Jesus.</sent>
+				<sent id ="16">It contains the life, deeds and teachings of Jesus.</sent>
+				<sent id ="17">It also contains the preaching of the apostles and their lives.</sent>
+				<sent id ="18">How God revealed Himself to them is also written here.</sent>
+				<sent id ="19">The New Testament includes 27 books.</sent>
+				<sent id ="20">The Gospel: The gospel means good news.</sent>
+				<sent id ="21">An angel appeared before the shepherds on the day when Jesus was born.</sent>
+				<sent id ="22">He said to them, Ive brought a piece of good news to you.</sent>
+				<sent id ="23">Your Saviour is born today.</sent>
+				<sent id ="24">He is none but Christ, the son of God.</sent>
+				<sent id ="25">So Christ himself is that good news.</sent>
+				<sent id ="26">Four evangelists have written these gospels.</sent>
+				<sent id ="27">They are Matthew, Mark, Luke and John.</sent>
+				<sent id ="28">The Gospel of Matthew: Matthew was a money-lender.</sent>
+				<sent id ="29">People called him a sinner.</sent>
+				<sent id ="30">He used to extract interest from the people more than the original amount.</sent>
+				<sent id ="31">So the people looked down upon him.</sent>
+				<sent id ="32">But Jesus invited him to do good deeds.</sent>
+				<sent id ="33">A change came over him.</sent>
+				<sent id ="34">He followed the teaching of Jesus.</sent>
+				<sent id ="35">He changed his mind from doing sinful acts.</sent>
+				<sent id ="36">That is why his gospel speaks of Jesus love for sinners.</sent>
+				<sent id ="37">The Gospel of Mark: Mark was the brother of Barnabas.</sent>
+				<sent id ="38">He went with his brother to different places to preach the messages of God.</sent>
+				<sent id ="39">Later he did it with Paul and Peter.</sent>
+				<sent id ="40">The followers of Christ used to come to his house regularly.</sent>
+				<sent id ="41">His gospel contained his personal experiences and those of others.</sent>
+				<sent id ="42">The Gospel of Luke: Luke was not a Jew.</sent>
+				<sent id ="43">He hailed from Antioch.</sent>
+				<sent id ="44">He was mainly a physician.</sent>
+				<sent id ="45">He changed his mind and embraced Christianity.</sent>
+				<sent id ="46">Later with Paul he preached the teachings of Jesus for a long time.</sent>
+				<sent id ="47">Thus Luke recorded his experiences of Jesus in his book.</sent>
+				<sent id ="48">The Gospel of John: John was the brother of Jacob.</sent>
+				<sent id ="49">His father was Zebedee and mother was Salome.</sent>
+				<sent id ="50">He was an affectionate apostle of Jesus, the Son of God.</sent>
+				<sent id ="51">The book presents his experiences of deep love for Jesus.</sent>
+				<sent id ="52">Jesus went to heaven and sent the Holy Spirit.</sent>
+				<sent id ="53">The apostles were inspired by the Holy Spirit.</sent>
+				<sent id ="54">They started preaching the teachings of Jesus.</sent>
+				<sent id ="55">The number of believers of Christ began to increase.</sent>
+				<sent id ="56">They went to different countries to preach the teachings of Christ.</sent>
+				<sent id ="57">Thus the number of Churches increased.</sent>
+				<sent id ="58">Luke is the writer of this book.</sent>
+				<sent id ="59">a. Paul: Paul wrote a total of thirteen letters.</sent>
+				<sent id ="60">These are: Paul's Letter to the Romans.</sent>
+				<sent id ="61">Paul's First Letter to the Corinthians.</sent>
+				<sent id ="62">Paul's Second Letter to the Corinthians.</sent>
+				<sent id ="63">Paul's Letter to the Galatians.</sent>
+				<sent id ="64">Paul's Letter to the Ephesians.</sent>
+				<sent id ="65">Paul's Letter to the Philippians.</sent>
+				<sent id ="66">Paul's Letter to the Colossians.</sent>
+				<sent id ="67">Paul's First Letter to the Thessalonians.</sent>
+				<sent id ="68">Paul's Second Letter to the Thessalonians.</sent>
+				<sent id ="69">Paul's First Letter to Timothy.</sent>
+				<sent id ="70">Paul's Second Letter to Timothy.</sent>
+				<sent id ="71">Paul's Letter to Titus.</sent>
+				<sent id ="72">Paul's Letter to Philemon.</sent>
+				<sent id ="73">The Letter to the Hebrews: The Jewish Christians are otherwise known as the Hebrew Christians.</sent>
+				<sent id ="74">Once they were under oppression and were about to give up their faith.</sent>
+				<sent id ="75">On hearing this an anonymous writer sent this letter to the Hebrew Christians.</sent>
+				<sent id ="76">The Letter of Jacob: Jacob was the first Bishop of Jerusalem.</sent>
+				<sent id ="77">He wrote this letter to the Jewish Christians.</sent>
+				<sent id ="78">He asked them to stick to their faith.</sent>
+				<sent id ="79">He warned the followers of Christ against false teachers and their teachings.</sent>
+				<sent id ="80">As a result of which they stuck to the right path.</sent>
+				<sent id ="81">After reading the letter from Jude their faith in Christ became firm again.</sent>
+				<sent id ="82">John is the writer of this book.</sent>
+				<sent id ="83">He wrote it to give them hope and encouragement.</sent>
+				<sent id ="84">He wrote that Jesus would build a new world free from suffering and misery.</sent>
+				<sent id ="85">As the faithful people read this book they were really inspired with a new hope.</sent>
+				<sent id ="86">Let us remember The Holy Bible consists of the Old and New Testaments.</sent>
+				<sent id ="87">The Holy Bible is the words of God.</sent>
+				<sent id ="88">We can know God by reading the Bible.</sent>
+				<sent id ="89">We can also know what God wants of us.</sent>
+				<sent id ="90">And thus we can lead our life according to God's will.</sent>
+				<sent id ="91">Memorise the names of the thirteen letters of Paul.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

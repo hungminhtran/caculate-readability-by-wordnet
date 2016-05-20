@@ -1,0 +1,72 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-budh-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.262</idno>
+				<idno type="Number of sentences">44</idno>
+				<idno type="Number of tokens">562</idno>
+				<idno type="Number of token types">321</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t64">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Worship means showing respect or devotion to honourable persons.</sent>
+				<sent id ="2">It has other meanings too, such as, reverence, admiration, adoration etc. Everybody does not deserve to be worshipped.</sent>
+				<sent id ="3">Only the wise and the talented ones are worthy to be worshipped.</sent>
+				<sent id ="4">We show our due respect to them for their good qualities.</sent>
+				<sent id ="5">Worship, therefore, refers to show respect and to propitiate the qualities of the wise.</sent>
+				<sent id ="6">The Buddha means profound wisdom whose knowledge is unlimited.</sent>
+				<sent id ="7">Not only the Buddha but we worship the Dhamma and the Sangha also.</sent>
+				<sent id ="8">We further worship the Buddha's bone relics, the Bodhi-tree, the Shrines, the holy places of pilgrimage and our parents.</sent>
+				<sent id ="9">Worship bears a lot of moral effects.</sent>
+				<sent id ="10">It keeps us away from doing wrong and purifies our mind dispelling all restlessness.</sent>
+				<sent id ="11">By dint of it, our mind becomes free from greed, hatred and ignorance.</sent>
+				<sent id ="12">It prevents us from telling lies keeping us deeply absorbed in right thinkig.</sent>
+				<sent id ="13">It inspires us to do good to others and makes us happy in our present and the coming lives.</sent>
+				<sent id ="14">Worship is a virtuous deed.</sent>
+				<sent id ="15">Its influence in human life is immense.</sent>
+				<sent id ="16">Worship may be performed in a nearby monastery.</sent>
+				<sent id ="17">If the monastery is located a far we should go there from time to time to worship.</sent>
+				<sent id ="18">Performing worship with friends, relatives and other lay devotees in a body is known as worship in association.</sent>
+				<sent id ="19">Hence the worship in association bears great significance.</sent>
+				<sent id ="20">How will you perform your worship?</sent>
+				<sent id ="21">Before you go to worship, you have to wash your hands and face and put on clean clothes.</sent>
+				<sent id ="22">Remember that cleanliness begets concentration of mind necessary for worship.</sent>
+				<sent id ="23">As soon as the recitation is over, bow down your head on the floor to pay tribute to the Buddha.</sent>
+				<sent id ="24">This procedure is to be repeated everytime after the recitation of the Verses.</sent>
+				<sent id ="25">Now we shall learn a few verses of worship.</sent>
+				<sent id ="26">We learnt some more verses previously.</sent>
+				<sent id ="27">Worship to the Buddha's Tooth-relics: The Bone-relics of the Buddha are very much sacred to the Buddhists.</sent>
+				<sent id ="28">The Tooth-relics are also the same among them.</sent>
+				<sent id ="29">Dabtadhatu Cetiga Cetiyam is a Pali word.</sent>
+				<sent id ="30">It means Shrine where the Buddhas Body-relics are preserved.</sent>
+				<sent id ="31">Apart form this, the Shrines were also built for preserving the Body-relics of the Buddha's Savako Sangh4 (Famous disciples).</sent>
+				<sent id ="32">There are many such shrines all over the world to which we regularly- pay our homage with due respect.</sent>
+				<sent id ="33">You should alwys worship Holy- relics and the Shrines, install the Buddhastatues and set up the Shrines.</sent>
+				<sent id ="34">It helps to be virtuous and also to attain Nibbana.</sent>
+				<sent id ="35">On attainment of Budhahood, the Buddha did not leave the place at once.</sent>
+				<sent id ="36">He stayed several days there.</sent>
+				<sent id ="37">English version : I do hereby pay my humble homage to the Bodhipallanka (The Buddha's bed-stead) first.</sent>
+				<sent id ="38">Then I pay my homage to the root of the Mucalinda tree, sixthly and Rajayatana in the seventh.</sent>
+				<sent id ="39">While worshipping in the morning and evening you should pay homage to those Seven Holy Places as well.</sent>
+				<sent id ="40">It will make you virtuous and bring you happiness.</sent>
+				<sent id ="41">The practice of worship incites fellow feelings and love for all living beings.</sent>
+				<sent id ="42">Through worship you will learn how to show respect to the superiors and love to the younger ones.</sent>
+				<sent id ="43">You will find no difference between friend and foe.</sent>
+				<sent id ="44">You should always remember that worship is one of the best ways to build up a happy and honest life.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,126 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.403</idno>
+				<idno type="Number of sentences">98</idno>
+				<idno type="Number of tokens">956</idno>
+				<idno type="Number of token types">462</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t83">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We wake up in the morning hearing the chirping of birds.</sent>
+				<sent id ="2">Sounds of azan flow in from the mosques.</sent>
+				<sent id ="3">It is almost as if we live in a world of sounds.</sent>
+				<sent id ="4">Sound gives our ears the feeling of hearing.</sent>
+				<sent id ="5">Did you ever think about how sound is produced and how it reaches our ears?</sent>
+				<sent id ="6">Conduct a few experiments to find this out.</sent>
+				<sent id ="7">Touch your throat lightly with your fingers.</sent>
+				<sent id ="8">Now sing in a low voice or make the aaah sound continuously.</sent>
+				<sent id ="9">What do you feel?</sent>
+				<sent id ="10">Is anything vibrating inside your throat?</sent>
+				<sent id ="11">Now take a rubber band.</sent>
+				<sent id ="12">Now pull the band aside with the fingers of your other hand and release it.</sent>
+				<sent id ="13">Is the rubber band vibrating?</sent>
+				<sent id ="14">You will also hear a sound.</sent>
+				<sent id ="15">Many of you have seen drums being played in band music.</sent>
+				<sent id ="16">The pieces of foam or cork will jump as strongly as the drum is beaten.</sent>
+				<sent id ="17">You can conduct another test.</sent>
+				<sent id ="18">It can also be demonstrated by your teacher.</sent>
+				<sent id ="19">A tuning fork is needed for this experiment.</sent>
+				<sent id ="20">Strike a table or the floor with one end of the tuning fork.</sent>
+				<sent id ="21">Now bring the fork close to your ear.</sent>
+				<sent id ="22">Can you hear something?</sent>
+				<sent id ="23">Now grasp both the prongs of the fork with your palm.</sent>
+				<sent id ="24">The sound stops.</sent>
+				<sent id ="25">Now take a mug full of water.</sent>
+				<sent id ="26">Hit a table or the floor again with one end of the tuning fork.</sent>
+				<sent id ="27">Quickly dip both the prongs of the tuning fork in the water.</sent>
+				<sent id ="28">The water ripples and spills over the edges of the mug.</sent>
+				<sent id ="29">Try to play on guitars, violins, drums, ektaras, sitar or whatever you can get.</sent>
+				<sent id ="30">You will find that they all produce vibrations.</sent>
+				<sent id ="31">If you touch the bowl with your hand, the vibration will stop.</sent>
+				<sent id ="32">From these experiments, you can understand that sound is created through vibrations.</sent>
+				<sent id ="33">The vibration of a body creates waves in the particles of the air.</sent>
+				<sent id ="34">These waves spread all around.</sent>
+				<sent id ="35">They strike our ears.</sent>
+				<sent id ="36">The membranes inside our ears are very thin.</sent>
+				<sent id ="37">The waves in the air cause the membranes to vibrate.</sent>
+				<sent id ="38">Now take a long, thin bamboo stick.</sent>
+				<sent id ="39">Move it in the air speedily and swiftly.</sent>
+				<sent id ="40">Can you hear anything?</sent>
+				<sent id ="41">Why does it produce a sound?</sent>
+				<sent id ="42">Next take a longer and thicker stick and move it as the previous ones.</sent>
+				<sent id ="43">Can you realize the differences among the sounds produced by the three sticks?</sent>
+				<sent id ="44">The pitch of the sound depends upon the length and thickness of the stick.</sent>
+				<sent id ="45">Now do another experiment.</sent>
+				<sent id ="46">Take some bowls or glasses of the same size.</sent>
+				<sent id ="47">Hit the glasses or bowls one by one with a stick.</sent>
+				<sent id ="48">Can you hear any difference among the sounds?</sent>
+				<sent id ="49">The flute is played by blowing.</sent>
+				<sent id ="50">There are holes in the body of the flute.</sent>
+				<sent id ="51">The sounds produced from these instruments are heavy.</sent>
+				<sent id ="52">The sound of the flute is sharp.</sent>
+				<sent id ="53">Have you seen flutes made from the fronds of coconut or palm trees?</sent>
+				<sent id ="54">Make flutes like these with the help of your elders or teachers.</sent>
+				<sent id ="55">You have seen ringing bells in schools.</sent>
+				<sent id ="56">In order to ring a bell, it must be struck.</sent>
+				<sent id ="57">The bell creates vibrations because of the force exerted on it.</sent>
+				<sent id ="58">Sound is created because of these vibrations.</sent>
+				<sent id ="59">Sometimes houses vibrate when heavy trucks pass by.</sent>
+				<sent id ="60">The window- panes of the nearby houses rattle.</sent>
+				<sent id ="61">So you clearly understand that sound is a type of energy.</sent>
+				<sent id ="62">Many things can be done using sound.</sent>
+				<sent id ="63">Musical instruments can produce sounds because of this energy.</sent>
+				<sent id ="64">Window-panes are sometimes shattered by the tremendously loud sound emitted by jet planes or cannons.</sent>
+				<sent id ="65">Use of sound has improved our standard of living.</sent>
+				<sent id ="66">We talk by making sound and communicate with each other.</sent>
+				<sent id ="67">We use telephones to communicate with people over long distances.</sent>
+				<sent id ="68">We create music by producing sounds with the help of musical instruments.</sent>
+				<sent id ="69">We use radio to listen to news, music, dramas broadcast from distant places.</sent>
+				<sent id ="70">While watching television, we also listen to the sounds that accompany the picture.</sent>
+				<sent id ="71">Sound is used for other purposes as well.</sent>
+				<sent id ="72">We use alarm clocks to help us wake up in time.</sent>
+				<sent id ="73">To request entry into houses, we use doorbells.</sent>
+				<sent id ="74">Sirens are blown during the holy month of Ramadan to wake people up before dawn.</sent>
+				<sent id ="75">Police cars, fire trucks and ambulances also use sounds as signals.</sent>
+				<sent id ="76">Car horns and rickshaw bells alert us when we are out in the street.</sent>
+				<sent id ="77">We also use sounds for safety purposes.</sent>
+				<sent id ="78">Smoke detectors alert us using an audible alarm if a fire starts in the house.</sent>
+				<sent id ="79">Sound also has its uses in the medical sector for diagnosis of diseases.</sent>
+				<sent id ="80">Blind and deaf people can move around with the help of a sound device.</sent>
+				<sent id ="81">The presence of submarines or icebergs under the sea can be determined using sound waves.</sent>
+				<sent id ="82">Can you hear your own voice again?</sent>
+				<sent id ="83">What is it called?</sent>
+				<sent id ="84">Thus the sound is heard again after a short interval.</sent>
+				<sent id ="85">This is called an echo.</sent>
+				<sent id ="86">Using echoes, we can measure the depths of wells or seas.</sent>
+				<sent id ="87">In medical practice, echoes are used to determine diseases.</sent>
+				<sent id ="88">We also use echoes to detect different things under the sea.</sent>
+				<sent id ="89">We cannot do without sound.</sent>
+				<sent id ="90">But loud and high-pitched sounds irritate us and have harmful effects on our bodies.</sent>
+				<sent id ="91">This effect is called sound pollution.</sent>
+				<sent id ="92">You have noticed that noises made by loudspeakers hamper study and other activities.</sent>
+				<sent id ="93">Sound pollution may cause headaches, mental agitation, hearing impairment, high blood pressure, heart diseases etc.</sent>
+				<sent id ="94">Band music played at very loud volumes may even cause heart attacks in some cases.</sent>
+				<sent id ="95">People who work in very noisy environments may eventually become deaf.</sent>
+				<sent id ="96">We must be careful to keep our environment free of sound pollution.</sent>
+				<sent id ="97">Every country has its regulations that determine the permissible levels of sound for different areas.</sent>
+				<sent id ="98">We all should know about these regulations and abide by them.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

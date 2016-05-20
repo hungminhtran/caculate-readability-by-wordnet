@@ -1,0 +1,89 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-budh-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.186</idno>
+				<idno type="Number of sentences">61</idno>
+				<idno type="Number of tokens">698</idno>
+				<idno type="Number of token types">374</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t104">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Once the Bhagavan was residing in Sravasti at Jetvan monastery built by the Anathapindik.</sent>
+				<sent id ="2">Then a handsome and fair complexion god appeared before the Budha at dead of night.</sent>
+				<sent id ="3">His beauty lit the whole of Jetvan.</sent>
+				<sent id ="4">He saluted the Bhagavan and stood aside.</sent>
+				<sent id ="5">He sat aside taking permission from the Buddha.</sent>
+				<sent id ="6">Tonight I have come here at the request of Indra, the king of gods, to know the causes of defeat of men.</sent>
+				<sent id ="7">The other gods also have assembled here.</sent>
+				<sent id ="8">They will also hear attentively.</sent>
+				<sent id ="9">Kindly you describe the causes of their defeats.</sent>
+				<sent id ="10">At the request of the god, Bhagavan preached twelve causes of defeat of men one by one.</sent>
+				<sent id ="11">Here first one represents the question of the god and the second one represents the answer of the Buddha.</sent>
+				<sent id ="12">In this way, in the shape of questions and answers, the Bhagavan has completed Parabhavasutra in twenty four gathas or stanzas.</sent>
+				<sent id ="13">The concluding twenty fifth stanza is the saying of the Buddha.</sent>
+				<sent id ="14">It is absolutely necessary to abide by the instructions of the Parabhavsutra to make the human life beautiful and successful.</sent>
+				<sent id ="15">The ill-consequences of the moral degradation are dreadful.</sent>
+				<sent id ="16">Many a man passes the time by gossiping.</sent>
+				<sent id ="17">Takes recourse to falsehood and endanger his life being addicted to wine, gambling and other intoxicants, polluting the individual and social life.</sent>
+				<sent id ="18">At last they are running towards the terror, giving up humanity in the company of bad societies or associates.</sent>
+				<sent id ="19">So, you will build up noble life giving up the causes of defeats.</sent>
+				<sent id ="20">Dharmapada is the second book of the Khuddaka Nikaya.</sent>
+				<sent id ="21">The various meanings of the word Dharma are nature, rules, object, system and virtue.</sent>
+				<sent id ="22">Pada means, cause, magga and path.</sent>
+				<sent id ="23">So, the meaning of Dharmapada is the path to the Dharma, the path of truth and the means to acquire virtue.</sent>
+				<sent id ="24">There are 423 gathas in Dharmapada.</sent>
+				<sent id ="25">The gathas are divided into 26 Vaggas.</sent>
+				<sent id ="26">The Vaggas have been named in accordance with the subject dealt with.</sent>
+				<sent id ="27">In this book the moral teachings are more in existence.</sent>
+				<sent id ="28">Still, there are also narrations in brief of the Noble Four Truths, Noble Eightfold path and Nirban etc.</sent>
+				<sent id ="29">In this book, the universal moral instructions of the Buddha have been collected.</sent>
+				<sent id ="30">The Chittavagga has been taken from the book Dharmapada.</sent>
+				<sent id ="31">It is good to tame the mind, which is difficult to hold in and flies rushing wherever it listeth; a tamed mind brings happiness.</sent>
+				<sent id ="32">Before long, alas! this body will lie on the earth, despised, without understanding, like a useless log.</sent>
+				<sent id ="33">Whatever a hater may do to a hatu or an enemy to an enemy, a wrongly- directed mind will do him greater mischief.</sent>
+				<sent id ="34">Not a mother, not a father will do so much, nor any other relatives as a well- directed mind will do us greater service.</sent>
+				<sent id ="35">That which thinks is the Chitta.</sent>
+				<sent id ="36">It is called the Chitta as it holds some objects.</sent>
+				<sent id ="37">Chitta, mind and Vigyan (consciousness) are synonyms.</sent>
+				<sent id ="38">To know something is the nature of Chitta.</sent>
+				<sent id ="39">This Chitta is naturally restless.</sent>
+				<sent id ="40">It roams hither and thither like a fickle minded child.</sent>
+				<sent id ="41">It does not like to keep itself in one place only.</sent>
+				<sent id ="42">It is very difficult to restrain its movement.</sent>
+				<sent id ="43">It cannot be subdued easily.</sent>
+				<sent id ="44">It wants to be engaged in all matters, good or evil.</sent>
+				<sent id ="45">It cannot be kept tied with any thing.</sent>
+				<sent id ="46">A live fish tosses about when thrown out of water.</sent>
+				<sent id ="47">It tries to go back into water.</sent>
+				<sent id ="48">Exactly the same is the nature of the Chitta.</sent>
+				<sent id ="49">The Chitta goes far away in the twinkling of an eye.</sent>
+				<sent id ="50">It roams alone, it cannot be seen by the eye.</sent>
+				<sent id ="51">It resides within the heart.</sent>
+				<sent id ="52">The Chitta covered by false views does more harm than an enemy.</sent>
+				<sent id ="53">The Chitta should be guarded as a fortified city.</sent>
+				<sent id ="54">Those who restrains the Chitta, free themselves from the bondage of Mar.</sent>
+				<sent id ="55">They are the wise men.</sent>
+				<sent id ="56">You will keep your mind always calm.</sent>
+				<sent id ="57">You should not be excited being subject to anger.</sent>
+				<sent id ="58">Dreadfulness is the consequence of the fickle mind.</sent>
+				<sent id ="59">You should learn Pali Gathas of the Chittavagga with their English equivalent.</sent>
+				<sent id ="60">You should recite the Gathas every morning and evening.</sent>
+				<sent id ="61">At this, the religious tendency of mind will remain wakeful.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

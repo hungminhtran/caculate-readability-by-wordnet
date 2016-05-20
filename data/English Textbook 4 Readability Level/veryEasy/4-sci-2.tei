@@ -1,0 +1,192 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.306</idno>
+				<idno type="Number of sentences">164</idno>
+				<idno type="Number of tokens">1543</idno>
+				<idno type="Number of token types">594</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t78">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">About one-fourth of the earth is land.</sent>
+				<sent id ="2">The rest of the earth is covered with water.</sent>
+				<sent id ="3">We live on the land.</sent>
+				<sent id ="4">The land consists of soil.</sent>
+				<sent id ="5">Our houses, farmlands, schools etc. are all built on this land.</sent>
+				<sent id ="6">Plants grow on land.</sent>
+				<sent id ="7">We get crops from plants.</sent>
+				<sent id ="8">Plants provide us with food.</sent>
+				<sent id ="9">Man as well as plant have a close relationship with the soil.</sent>
+				<sent id ="10">Plants grow in soil.</sent>
+				<sent id ="11">We get food, clothing and medicine from plants.</sent>
+				<sent id ="12">Thus soil provides us with food and shelter.</sent>
+				<sent id ="13">That is why soil is compared to mother.</sent>
+				<sent id ="14">The surface of the earth is made of soil.</sent>
+				<sent id ="15">Long ago, the condition of the soil was not like it is today.</sent>
+				<sent id ="16">The soil has taken millions of years to reach its present state.</sent>
+				<sent id ="17">Besides, dried leaves, flowers, fruits, branches, fruit peels etc. decompose and mix with the soil.</sent>
+				<sent id ="18">Humus is black in colour.</sent>
+				<sent id ="19">It makes the soil fertile.</sent>
+				<sent id ="20">Collect some soil from the garden of your school and test it.</sent>
+				<sent id ="21">Fill a tall glass with water and add some soil to it.</sent>
+				<sent id ="22">Shake the mixture and leave it to settle down for some hours.</sent>
+				<sent id ="23">The sizes of the particles of each layer are different.</sent>
+				<sent id ="24">At the bottom layer there will only be gravels.</sent>
+				<sent id ="25">Gravels are relatively larger in size.</sent>
+				<sent id ="26">Clay is made of fine particles.</sent>
+				<sent id ="27">The layer above the large sand particles consists of clay.</sent>
+				<sent id ="28">The topmost layer consists of humus.</sent>
+				<sent id ="29">There are ponds or ditches in most villages.</sent>
+				<sent id ="30">There is clay at the bottom of ponds and ditches.</sent>
+				<sent id ="31">This clay is very soft, and it is composed of very small and fine particles.</sent>
+				<sent id ="32">Clay can retain a lot of water, and it takes time to dry.</sent>
+				<sent id ="33">When it dries, it first becomes sticky, and then it becomes hard.</sent>
+				<sent id ="34">This soil is called clayey soil.</sent>
+				<sent id ="35">When water is added to this soil, it becomes mud.</sent>
+				<sent id ="36">Soil particles consist of particles of sand, clay and water.</sent>
+				<sent id ="37">They are very small particles.</sent>
+				<sent id ="38">These particles are called silt.</sent>
+				<sent id ="39">There may be air and water inside these particles.</sent>
+				<sent id ="40">This soil is called alluvial soil.</sent>
+				<sent id ="41">This type of soil is reduced to powder if pressed.</sent>
+				<sent id ="42">Silt makes the soil fertile.</sent>
+				<sent id ="43">Sandy soil: This type of soil consists mostly of sand.</sent>
+				<sent id ="44">It shines in the sunlight.</sent>
+				<sent id ="45">The soil particles are dry.</sent>
+				<sent id ="46">This soil can retain very little water.</sent>
+				<sent id ="47">Loamy soil: This type of soil contains equal amounts of sand, silt and clay.</sent>
+				<sent id ="48">It can retain moderate amount of water.</sent>
+				<sent id ="49">If the amount of sand is high in loamy soil, it is called sandy loam.</sent>
+				<sent id ="50">It can retain a lot of water.</sent>
+				<sent id ="51">Air cannot pass well through this soil.</sent>
+				<sent id ="52">The water at seashores, mouths of rivers or deltas is saline.</sent>
+				<sent id ="53">This salt becomes mixed with the soil there.</sent>
+				<sent id ="54">This soil is called salty soil.</sent>
+				<sent id ="55">If you cannot make a marble, the soil is sandy.</sent>
+				<sent id ="56">If you can make a marble, but the marble cracks later, the soil is loamy.</sent>
+				<sent id ="57">If the marble does not crack, the soil is clayey.</sent>
+				<sent id ="58">This type of soil cannot retain much water.</sent>
+				<sent id ="59">This is sandy soil.</sent>
+				<sent id ="60">Peanuts, sweet potatoes, cucumbers, melons etc. grow well in this soil.</sent>
+				<sent id ="61">Loamy soil: This type of soil is very fertile.</sent>
+				<sent id ="62">It contains a lot of organic substances.</sent>
+				<sent id ="63">Most of the soil of Bangladesh is loamy.</sent>
+				<sent id ="64">This soil is also called the ideal soil.</sent>
+				<sent id ="65">The amounts of sand, silt and clay in loamy soil are almost equal.</sent>
+				<sent id ="66">Sandy loam soil: This type of soil contains more sand than loamy soil.</sent>
+				<sent id ="67">Raddish, tobacco, chilli etc. grow well in this soil.</sent>
+				<sent id ="68">This soil is also very good for growing winter crops.</sent>
+				<sent id ="69">Clayey soil: The amount of sand is very low in this soil.</sent>
+				<sent id ="70">This soil can store a lot of water and the clay particles are very tiny.</sent>
+				<sent id ="71">This soil softens with water.</sent>
+				<sent id ="72">When it is dried it becomes very hard.</sent>
+				<sent id ="73">The more fertile the soil is, the more crops grow in it.</sent>
+				<sent id ="74">In other words, production of crops depends upon the fertility of the soil.</sent>
+				<sent id ="75">The soil that contains more nutritious substances can grow more crops.</sent>
+				<sent id ="76">Infertile soil cannot produce high yields of crops.</sent>
+				<sent id ="77">What is the reason behind this?</sent>
+				<sent id ="78">Some lands are fertile, while some are not.</sent>
+				<sent id ="79">Crops grow well in fertile soil but do not grow well in less fertile soil.</sent>
+				<sent id ="80">You have already learnt that plants collect nutrients from the soil.</sent>
+				<sent id ="81">These nutrients come artificially from fertilizers.</sent>
+				<sent id ="82">Organic fertilizers are produced from the corpses of dead animals and plants.</sent>
+				<sent id ="83">Using organic fertilizers increases the capability of soil to store water and nutrients.</sent>
+				<sent id ="84">Organic fertilizers are the best among ordinary fertilizers.</sent>
+				<sent id ="85">The quality of this fertilizer is very high.</sent>
+				<sent id ="86">Store the cow-dung in a large pit.</sent>
+				<sent id ="87">Leave the pit in this condition for three to four months.</sent>
+				<sent id ="88">This fertilizer makes the soil light.</sent>
+				<sent id ="89">The soil particles become separated which increases the ability of the soil to retain water.</sent>
+				<sent id ="90">This type of fertilizer makes the soil fertile.</sent>
+				<sent id ="91">It is named so because it is produced by decomposing green plants in soil.</sent>
+				<sent id ="92">These plants easily rot and mix with the soil, making it fertile.</sent>
+				<sent id ="93">This fertilizer converts sandy soil into loamy soil, which does not harden quickly.</sent>
+				<sent id ="94">They are decomposed by bacteria and fungi, and compost is produced in the process.</sent>
+				<sent id ="95">The costs of producing this manure are very low.</sent>
+				<sent id ="96">Then, two kilograms of bone meal or rotten cow-dung is scattered on the pile.</sent>
+				<sent id ="97">Chemical fertilizers are artificially manufactured in factories.</sent>
+				<sent id ="98">Nitrogen, Phosphorus and Potassium are used in the manufacture of chemical fertilizer.</sent>
+				<sent id ="99">Nitrogen-rich fertilizers help plants grow fast.</sent>
+				<sent id ="100">Phosphorus-rich fertilizers support normal growth of flowers, fruits and roots of plants.</sent>
+				<sent id ="101">Potassium-rich fertilizers make plants more immune against diseases and pests.</sent>
+				<sent id ="102">It also prevents premature shedding of flowers.</sent>
+				<sent id ="103">Besides, excessive use of such fertilizers can cause crop production to decrease.</sent>
+				<sent id ="104">It must be made sure that phosphate fertilizers become completely mixed with the soil.</sent>
+				<sent id ="105">Excessive use of this fertilizer can cause plants to die.</sent>
+				<sent id ="106">The main causes of soil erosion are water, air, water currents and glaciers.</sent>
+				<sent id ="107">Those of you who live near rivers may have seen river banks breaking down.</sent>
+				<sent id ="108">This soil mixes with the water, resulting in soil erosion.</sent>
+				<sent id ="109">Soil erosion at seashores occurs because of tidal bore and waves of the sea.</sent>
+				<sent id ="110">Storms move soil from one place to another.</sent>
+				<sent id ="111">This causes fertile lands to become infertile.</sent>
+				<sent id ="112">Because of duststorms and sandstorms, the valuable surface soil is removed.</sent>
+				<sent id ="113">Soil erosion also depends on the type of soil.</sent>
+				<sent id ="114">Excessive rainfall, wind, sloping land, type of soil etc. can cause soil erosion.</sent>
+				<sent id ="115">Besides, excessive grazing by cattle, and ploughing and deforestation by man cause soil erosion.</sent>
+				<sent id ="116">Growing crops with small roots also cause soil erosion.</sent>
+				<sent id ="117">Soil erosion makes land infertile and causes siltation of rivers and canals.</sent>
+				<sent id ="118">We can prevent soil erosion by planting more plants and grass.</sent>
+				<sent id ="119">Also, erosion is reduced if the stumps of harvested crops are left in the soil.</sent>
+				<sent id ="120">Grass should not be cut too close to the ground.</sent>
+				<sent id ="121">Soil erosion can be prevented also by building dykes in farmlands.</sent>
+				<sent id ="122">Fertilizers and humus absorb water.</sent>
+				<sent id ="123">Both sides of a bridge are made of bricks.</sent>
+				<sent id ="124">Sometimes soil erosion is also prevented by building embankments.</sent>
+				<sent id ="125">We get necessary ingredients for living from the soil.</sent>
+				<sent id ="126">We share a very close relationship with the soil.</sent>
+				<sent id ="127">If soil becomes polluted, it also affects our life seriously.</sent>
+				<sent id ="128">Soil can be polluted in different ways.</sent>
+				<sent id ="129">This causes soil pollution.</sent>
+				<sent id ="130">Besides, plastic and polythene never decompose and mix with the soil.</sent>
+				<sent id ="131">These things make the soil infertile.</sent>
+				<sent id ="132">Using chemical fertilizers and pesticides also pollute the soil.</sent>
+				<sent id ="133">Steps for preventing soil pollution Stop deforestation and preserve forests.</sent>
+				<sent id ="134">Take necessary legal steps to prevent improper disposal of waste from factories.</sent>
+				<sent id ="135">Bury garbage and waste in the ground.</sent>
+				<sent id ="136">Use natural fibres instead of polythene.</sent>
+				<sent id ="137">Restrict the use of chemical fertilizers and pesticides.</sent>
+				<sent id ="138">Use organic fertilizers instead of chemical fertilizers.</sent>
+				<sent id ="139">Soil is needed for plants to grow.</sent>
+				<sent id ="140">Water and minerals present in soil particles are essential for plants for preparing food.</sent>
+				<sent id ="141">Most birds live on fruits.</sent>
+				<sent id ="142">Earthworms live in and collect food from the soil.</sent>
+				<sent id ="143">They are known as the ploughs of nature.</sent>
+				<sent id ="144">Many other tiny organisms also live in the soil, such as fungi and bacteria.</sent>
+				<sent id ="145">The process increases the water retaining capabilities of the soil.</sent>
+				<sent id ="146">You may ask, where does the rainwater go?</sent>
+				<sent id ="147">The rainwater flows to rivers, streams, canals and marshes.</sent>
+				<sent id ="148">However, some water is absorbed into the ground, causing it to be wet.</sent>
+				<sent id ="149">Plants use the water and mineral salts present in the soil for making their food.</sent>
+				<sent id ="150">This helps the environment remain cool and causes rainfall to occur.</sent>
+				<sent id ="151">Some of you have seen hills.</sent>
+				<sent id ="152">These hills are made of soil.</sent>
+				<sent id ="153">Animals such as monkeys, elephants, langurs and snakes are usually found in the hill forests.</sent>
+				<sent id ="154">Many different species of birds are also found in these forests,notably mynah and munia birds.</sent>
+				<sent id ="155">You have obviously heard of a kind of snakes known as pythons.</sent>
+				<sent id ="156">These snakes also live in hill forests.</sent>
+				<sent id ="157">Hills and mountains also aid in causing rainfall.</sent>
+				<sent id ="158">Soil is a very important element of the environment.</sent>
+				<sent id ="159">You have learnt how useful soil is to us.</sent>
+				<sent id ="160">So, it is very important for us to conserve soil.</sent>
+				<sent id ="161">In order to conserve soil, we must do the following things.</sent>
+				<sent id ="162">Avoid deforestation unless absolutely necessary.</sent>
+				<sent id ="163">Plant more trees.</sent>
+				<sent id ="164">Plant grass instead of leaving lands barren.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

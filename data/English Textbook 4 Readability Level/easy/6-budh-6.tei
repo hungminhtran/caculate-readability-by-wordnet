@@ -1,0 +1,111 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-budh-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.337</idno>
+				<idno type="Number of sentences">83</idno>
+				<idno type="Number of tokens">1107</idno>
+				<idno type="Number of token types">529</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t68">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">To the Budhists each day is a good day.</sent>
+				<sent id ="2">In the Buddhist Scriptures there is no mention of any bad day, not even any auspicous day or moment.</sent>
+				<sent id ="3">Everybody gets good result of good deeds that.he</sent>
+				<sent id ="4">or she performs any time.</sent>
+				<sent id ="5">So, religious rites can be preformed anyday.</sent>
+				<sent id ="6">There are, of course, some special days for the Buddhists to perform religious rites with due respect.</sent>
+				<sent id ="7">These performances make our mind delighted and purified encouraging us to do good deeds.</sent>
+				<sent id ="8">It eventully, brings peace and happiness in our life and progress in the society and the state as well.</sent>
+				<sent id ="9">So should you think over all these matters and participate in all religious festivals held at anytime.</sent>
+				<sent id ="10">The Buddhists perform their religious rites on some specific days, specially on the days of the full moon.</sent>
+				<sent id ="11">The festivals, of course, are not held at the same time.</sent>
+				<sent id ="12">After the end of all these functions the laities return home with fresh and joyful heart.</sent>
+				<sent id ="13">Other than the full moon days, there are also some other festivals observed by the Buddhists at all times.</sent>
+				<sent id ="14">These include Kathin Civara Dana (Offering yellow robes to the monks), Attha Parikkhara Dana (Offering eight Kinds of materiLas).</sent>
+				<sent id ="15">Sanghadana (Offering food and other materials to the monks), Plantation of the Bodhi Saplings and Utsarga Anusthan (Ritual offergs).</sent>
+				<sent id ="16">Relatives, friends and the neighbouring people often participate in these family ` functions.</sent>
+				<sent id ="17">There after the organisers and the other lay invitees listen to religious sermons.</sent>
+				<sent id ="18">The Chaitra Sankranti and the Bengali New years day, in particular, are special social functions for the Buddhists.</sent>
+				<sent id ="19">On these occasions, the Buddhists go, to the Monasteries, say their prayers and pay homage to the Buddha images.</sent>
+				<sent id ="20">On the occasion of the Buddha Purnima, three memorable events took place in the life of Goutama Buddha.</sent>
+				<sent id ="21">On this day, Bodhisattva wiis born in the Shakya clan.</sent>
+				<sent id ="22">He attained Buddhahood sitting under the Bodhi tree at Buddhagaya.</sent>
+				<sent id ="23">This three blessed Full moon day is known as the Buddha Purnima to the Buuddhists.</sent>
+				<sent id ="24">So, this is the greatest Buddhist religious festival all over the world.</sent>
+				<sent id ="25">On the day of this sacred festival, the Buddhists engage themselves in observing religious rites all day long.</sent>
+				<sent id ="26">The day starts with religious songs in procession early in the morning.</sent>
+				<sent id ="27">Then the Flower worship is observed as soon as the Sun rises.</sent>
+				<sent id ="28">The worship to the Buddha, and offering food and drinks to the monks are completed before 12 noon.</sent>
+				<sent id ="29">In the affernoon, the religious discussion meeting is held.</sent>
+				<sent id ="30">The discussion includes the life of the Buddha, His doctrines and Philosophy.</sent>
+				<sent id ="31">The candle lighting before the Buddha image, Religious songs and dramas start in the evening till night.</sent>
+				<sent id ="32">These three sacred events of the Buddha's life had happened outside the palace, ie, in the domain of the nature.</sent>
+				<sent id ="33">He was born in the Lumbini g-rove;</sent>
+				<sent id ="34">Such an event is rare in the history of the world.</sent>
+				<sent id ="35">This full moon day is known to all the Buddhists of Thailand, Vietnam, China, Japan.</sent>
+				<sent id ="36">Myanmar, Srilanka etc. as Holy Vesakha.</sent>
+				<sent id ="37">On the-occasion of this Holy Purnima, the Bodhidni-m~t fair is regularly held at Baidyapara of Chittagong.</sent>
+				<sent id ="38">On this auspicious full moon of Ashara, Queen 1Vlayadevi dreamt an excellent dream at, night.</sent>
+				<sent id ="39">He was twenty nine years old then.</sent>
+				<sent id ="40">Moreover, the Buddha visited the heaven of Tavatimsa to expound the.</sent>
+				<sent id ="41">Dhamma (sermons) to his deceased mother, Mayadevi.</sent>
+				<sent id ="42">The Buddhist lay devotees of both the sex, undertook the Eight precepts to practise.</sent>
+				<sent id ="43">From the next day of this.</sent>
+				<sent id ="44">Without any specific reason, they cannot pass even a nugilt elsewhere during these three months.</sent>
+				<sent id ="45">This enhances the reiigious trend and friendly relations among the devotees.</sent>
+				<sent id ="46">Morevover, listening to religious sermons and the practice of austerities strenl- then their inherent wisdom.</sent>
+				<sent id ="47">The Gods took possession of the hairs for worship and put those inside a monument built in heaven.</sent>
+				<sent id ="48">The sky-lamps, are lifted in cornrnernoration of that sacred occua-ance.</sent>
+				<sent id ="49">The Buddha was then staying at Kousambi.</sent>
+				<sent id ="50">At that time, there arose a dispute and quarrel among the Bhikkhns.</sent>
+				<sent id ="51">The dispute orradually began to increase and scattered thereafter.</sent>
+				<sent id ="52">The Buddha tried his best to stop them but in vain.</sent>
+				<sent id ="53">He could hardly stop the dispute despite narrating the Dighayu Kumara Jataka.</sent>
+				<sent id ="54">The Buddha took shelter under Bhadrasala tree of the forest.</sent>
+				<sent id ="55">The elephant reached there and cleansed the place for the Buddha with its trunk.</sent>
+				<sent id ="56">It kept pure drinking water reserved for the Buddha.</sent>
+				<sent id ="57">Besides this, mdnkey-king collected honey from a hive and offered it to the Biiddha.</sent>
+				<sent id ="58">That is why, the Full moon of Bhadra is familiar to the Buddhists as -Madflu Purninima.</sent>
+				<sent id ="59">On this day; the Buddhists celebrate all the functions as observed in other occasoions of the Full-moon.</sent>
+				<sent id ="60">The lay devotees offer honey infront of the Buddha image in the affernoon.</sent>
+				<sent id ="61">Honey is condusive to human body.</sent>
+				<sent id ="62">This virtuous- deed, however, makes one happy in both present and preceeding life.</sent>
+				<sent id ="63">This Full moon festival is observed in the month of Aswin.</sent>
+				<sent id ="64">The Purnima held in this month is known as the Aswini Purnima.</sent>
+				<sent id ="65">The three months long Barshavasa of the Bhikkhus starts in the Ashari Purnima and continues up to the Prabarana Purnima.</sent>
+				<sent id ="66">After attaining Buddhahood, Goutama performed his seventh-Barshavasa in the heaven of Tavatimsa.</sent>
+				<sent id ="67">He explained the Dhamma to his late mother Mayadevi with many -bther deities for three months.</sent>
+				<sent id ="68">In the night of this Prabarana Purnima he descended to the Sankashya Nagara from the heaven.</sent>
+				<sent id ="69">In this very Full moon, the Buddha displayed the miracles of spiritual power to his disciples.</sent>
+				<sent id ="70">So it holds a unique position to the Buddhists as a sacred festival.</sent>
+				<sent id ="71">The observance of the auspicious Kathin Civara Dana (Yellow robes offering ceremony) begins from the next day of this Purnima.</sent>
+				<sent id ="72">The celebrations, of offering yellow robes to the Bhikkhus continue for long one month in different monasteries.</sent>
+				<sent id ="73">The daylong programme includes the religious procession singing religious songs in the early morning.</sent>
+				<sent id ="74">,Religious discussion's and Candle lighting are held in the afternoon and evening respeetvely.</sent>
+				<sent id ="75">In the evening, rocket balloons made of coloured paper are ignited inside and set free to flow towards the sky.</sent>
+				<sent id ="76">This Full moon day is observed in the Ben-all month of Magh.</sent>
+				<sent id ="77">On this auspicious day, the Buddha at the age of eighty, was living at Chapal Chaitya of Vaisali city.</sent>
+				<sent id ="78">The Buddhas can remain alive as long as they wish.</sent>
+				<sent id ="79">But as a human being, his span of life should come to an end.</sent>
+				<sent id ="80">This is called the reformation of life.</sent>
+				<sent id ="81">He, therefore, sacrificed this reformation by declarin4 the day of his Parinibbana (The Great Passing Away).</sent>
+				<sent id ="82">For this reason this is a heart breaking day to the Buddhists.</sent>
+				<sent id ="83">The aged devotees undertake the Eight Precepts.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

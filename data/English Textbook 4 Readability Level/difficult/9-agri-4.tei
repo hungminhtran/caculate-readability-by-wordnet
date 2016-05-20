@@ -1,0 +1,127 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.57</idno>
+				<idno type="Number of sentences">99</idno>
+				<idno type="Number of tokens">1339</idno>
+				<idno type="Number of token types">518</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t18">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Managing of protecting field from the attack of insect pests, diseases, rats etc. called plant protection.</sent>
+				<sent id ="2">Insect pests, mites, disease, pests, and rats are the main enemies of crop.</sent>
+				<sent id ="3">These pests destroy a considerable part of the produced crop.</sent>
+				<sent id ="4">But the amount of destruction can be minimized by proper management.</sent>
+				<sent id ="5">Along with harmful insects, there are various beneficial insects too, in the crop field.</sent>
+				<sent id ="6">They help in pollination of flowers and by eating the eggs and larvae of harmful insects.</sent>
+				<sent id ="7">It is therefore, essential to control harmful insects by protecting the beneficial ones.</sent>
+				<sent id ="8">Control of harmful insects by following certain control measures at a time, protection the beneficial insects, is called integrated pest control management.</sent>
+				<sent id ="9">The main objective of integrated pest control management is to prevent pest invasion by decreasing the dependence on pesticides and by following with the fact that one control measures at a time.</sent>
+				<sent id ="10">Example can be furnished with the fact that adult Hispas can be caught and killed by hand-nets or mosquito nets.</sent>
+				<sent id ="11">The infested tops of the rice plants having larvae of the pest can be cut and buried under soil.</sent>
+				<sent id ="12">At the same time the branches of trees can be put in the crop field whereby the birds can sit and eat the insect pests.</sent>
+				<sent id ="13">If pests cannot be controlled in spite of taking all these measures, only then the right pesticide can be used as the last measure.</sent>
+				<sent id ="14">There are many advantage keeps the environment pollution free described below:</sent>
+				<sent id ="15">Integrated pest control management keeps the environment pollution free and protects biological balance of the environment.</sent>
+				<sent id ="16">Protects beneficial insects, mites, frogs and fish.</sent>
+				<sent id ="17">Decreases use of pesticides.</sent>
+				<sent id ="18">Helps crop protection with minimum expenditure.</sent>
+				<sent id ="19">Keeps the food stuff free from the harmful influence of the pesticides.</sent>
+				<sent id ="20">By deep ploughing the harmful insect pests, their eggs and grubs will be brought above the soil.</sent>
+				<sent id ="21">By doing this some will be killed by sun shine and some will be eaten by birds.</sent>
+				<sent id ="22">One particular insect pest attacks a particular crop so if a particular crop is cultivated on the same land repeatedly, pest attack will be higher in that land.</sent>
+				<sent id ="23">But when according to production plan, different crops are cultivated in rotation in the same piece of land, then the insect and pest invasion will be minimum.</sent>
+				<sent id ="24">For example, when transplanted Aman is cultivated after jute, invasion of insect pest will be minimum.</sent>
+				<sent id ="25">The attack of insect pest and disease will be less when fertilizers are applied in balanced doses.</sent>
+				<sent id ="26">In certain crop, when urea is applied abundantly, the top shoots and leaves of the plant become succulent.</sent>
+				<sent id ="27">Mostly this atttracts insect pests.</sent>
+				<sent id ="28">Again when potassium fertilizers, are applied in low quantity, the attack of diseases will be higher.</sent>
+				<sent id ="29">So fertilizer should be applied in balanced rates.</sent>
+				<sent id ="30">Some insects cut the young seedling beneath the soil, such as mole cricket.</sent>
+				<sent id ="31">Mole cricket causes immense damage to jute crop.</sent>
+				<sent id ="32">If flood irrigation is done in jute filled attacked by mole cricket, the pests can be controlled.</sent>
+				<sent id ="33">Again draining out water from the rice field can control case worms.</sent>
+				<sent id ="34">There are many improved varieties of crop which are resistant to diseases and pests.</sent>
+				<sent id ="35">For example, BR-10 variety of rice is resistant to Tungru virus and blast disease.</sent>
+				<sent id ="36">Chandina is resistant to stem borer.</sent>
+				<sent id ="37">Controlling insect pests by hand or trap is called mechanical control.</sent>
+				<sent id ="38">There are several ways of mechanical control.</sent>
+				<sent id ="39">Collecting their eggs can control insect pests and larvae form the crop field by hand.</sent>
+				<sent id ="40">The stem borers of rice and sugarcane can be controlled by this way.</sent>
+				<sent id ="41">Again rice hispa and green leaf hoppers can be destroyed by collecting with hand nets.</sent>
+				<sent id ="42">Rice hispa and leaf rollers generally attack on the top of the leaves of rice plants.</sent>
+				<sent id ="43">In this condition their attack can be controlled by cutting the leaf tops and then by burial under soil or by burning.</sent>
+				<sent id ="44">The infested plant should be uprooted as soon as symptoms of attack by disease or insects are visible.</sent>
+				<sent id ="45">By this disease and pest invasion cannot spread throughout the whole crop field.</sent>
+				<sent id ="46">By setting light trap insects can be attracted towards light and can be killed.</sent>
+				<sent id ="47">At night a pan having water mixed with kerosene or pesticide should be kept in the field.</sent>
+				<sent id ="48">If a hurricane is kept hung on that pan many insects will be attracted towards the light of that hurricane.</sent>
+				<sent id ="49">By this the insects will fall in the pan having kerosene or pesticide and then die.</sent>
+				<sent id ="50">Adult stem borer, ear cutting cater pillar green plant hopper and rice bugs.</sent>
+				<sent id ="51">Can be controlled by setting light trap.</sent>
+				<sent id ="52">Control of harmful serious pests by using predator insects and birds is known as the biological control method.</sent>
+				<sent id ="53">Some insects feed on other insects.</sent>
+				<sent id ="54">These insects are called parasites or predator insects.</sent>
+				<sent id ="55">Such as Lycosaspiders, Lady bird beetle, Mtrid bug and parasitic insects.</sent>
+				<sent id ="56">Lycosa spiders do not make nets.</sent>
+				<sent id ="57">They attack directly on the insects.</sent>
+				<sent id ="58">Adult spiders catch various types of insect and eat.</sent>
+				<sent id ="59">Out of these, the moths of rice stem borer are important.</sent>
+				<sent id ="60">Among the grass hoppers the grass hoppers having long proboscis are These grass hoppers stay on leaves and ears of plants.</sent>
+				<sent id ="61">These and found abundantly on the growing rice plants.</sent>
+				<sent id ="62">This grass hopper eats sucking insects, stem borers and rice bugs.</sent>
+				<sent id ="63">They catch preys at night.</sent>
+				<sent id ="64">The adult damsel flies fly in spaces between the leaves of rice plants.</sent>
+				<sent id ="65">The young ones live in water.</sent>
+				<sent id ="66">But they climb up through the leaves to eat the young plant hoppers and leaf hoppers.</sent>
+				<sent id ="67">This fly eats different types of hoppers and leaf rollers.</sent>
+				<sent id ="68">Lady bird beetle can be seen in all types of crops including gourd types of plants and rice field.</sent>
+				<sent id ="69">Their preys are slow creeping insects.</sent>
+				<sent id ="70">This insects eats sucking insects, stem borers and leaf roller.</sent>
+				<sent id ="71">The young ladybird beetles can eat more insects man adult ones.</sent>
+				<sent id ="72">Mirid bug lives in rice field.</sent>
+				<sent id ="73">These can be found abundantly in rice field infested by plant hoppers and leaf hoppers.</sent>
+				<sent id ="74">Mind bug lives in quest of the eggs of plant hoppers in leaf sheaths and stems of rice plants.</sent>
+				<sent id ="75">They suck the eggs by piercing their proboscis.</sent>
+				<sent id ="76">Predator Birds and Frogs Almost all types of birds feed on insect pests of crops and thus benefit us tremendously.</sent>
+				<sent id ="77">Among these birds the important ones are folk-tailed shrike, magpie robin, (doel) Mayna, Martin (Shalik) and Swallow (finge).</sent>
+				<sent id ="78">Besides these, crows, eagles, owls eats rat and thus help rat control.</sent>
+				<sent id ="79">When wooden platforms are made by the sides of the ridges of land for gourd or beans or when branches of trees are put on the field the birds can sit on those.</sent>
+				<sent id ="80">They help in controlling insects by eating several types of harmful insects.</sent>
+				<sent id ="81">The frog lives in both water and soil.</sent>
+				<sent id ="82">Insects are their main food.</sent>
+				<sent id ="83">Frogs can be utilized for controlled insects of the crop field.</sent>
+				<sent id ="84">Chemical method is one of the ways of insect control in integrated pest control management.</sent>
+				<sent id ="85">This method is applied only when the insect population is so large that mechanical or biological control becomes ineffective.</sent>
+				<sent id ="86">Example can be furnished by saying that in rice field when 3 female moths or cluster of 3 eggs are found in one squaremetre or 10% dead ears are seen upto 40 days of transplantation, only then the chemical control method becomes necessary.</sent>
+				<sent id ="87">Rats cause damage to the houses of men and crop fields.</sent>
+				<sent id ="88">They share human food.</sent>
+				<sent id ="89">Rats cause 10-20% damage to the crops.</sent>
+				<sent id ="90">Rats cut wood, clothes, furniture and crops throughout day and night.</sent>
+				<sent id ="91">They cause damage not only to the household antics, but also spreads germs of different diseases.</sent>
+				<sent id ="92">Rat spread plague disease.</sent>
+				<sent id ="93">This disease, some times, becomes epidemic.</sent>
+				<sent id ="94">The disturbances of brown rat are tremendous in Bangladesh.</sent>
+				<sent id ="95">One pair of rat can give birth to 800-1000 number issues in only one year.</sent>
+				<sent id ="96">Rats dig holes in the fields and in houses and live there.</sent>
+				<sent id ="97">Seeing the granular soils can identify presence of rats.</sent>
+				<sent id ="98">Marks of legs can be visible when rats move on soft soils.</sent>
+				<sent id ="99">They move by clearing the ways.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

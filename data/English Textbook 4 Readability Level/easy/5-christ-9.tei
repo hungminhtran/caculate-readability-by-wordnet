@@ -1,0 +1,174 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.369</idno>
+				<idno type="Number of sentences">146</idno>
+				<idno type="Number of tokens">1538</idno>
+				<idno type="Number of token types">595</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t29">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Jesus heals the ten lepers One day Jesus was on his way to Jerusalem.</sent>
+				<sent id ="2">He was going along the border of Samaria and Galilee (Province of Galilee).</sent>
+				<sent id ="3">In that region ten lepers lived together.</sent>
+				<sent id ="4">They had heard from many that there was a person named Jesus who could heal incurable diseases.</sent>
+				<sent id ="5">Their faith in Jesus was very deep.</sent>
+				<sent id ="6">They heard that Jesus and his disciples were entering a village along that path.</sent>
+				<sent id ="7">To draw the attention of Jesus they cried aloud: Jesus!</sent>
+				<sent id ="8">Take pity on us.</sent>
+				<sent id ="9">Jesus was full of kindness.</sent>
+				<sent id ="10">He could not remain unmoved at the cry of the lepers.</sent>
+				<sent id ="11">He stopped there and then to listen to what they had to say.</sent>
+				<sent id ="12">The lepers came near him.</sent>
+				<sent id ="13">He took pity on them and said to them: Go and let the priests examine you.</sent>
+				<sent id ="14">That meant that the lepers had already been cured.</sent>
+				<sent id ="15">They never thought that they would be cured so soon.</sent>
+				<sent id ="16">They had been suffering for a long time.</sent>
+				<sent id ="17">But they recovered in an instant.</sent>
+				<sent id ="18">However it took them time to understand this.</sent>
+				<sent id ="19">So following the instruction of Jesus they set out to go to the priests.</sent>
+				<sent id ="20">On the way to the priests they realized that they were cured from the disease.</sent>
+				<sent id ="21">The lepers were freed from their bodily ailment.</sent>
+				<sent id ="22">Impurity of their soul was also removed.</sent>
+				<sent id ="23">But the people recognize it till then.</sent>
+				<sent id ="24">The official recognition had to be given by the priests.</sent>
+				<sent id ="25">If the cure would be certified by the priests then they would be free to associate with the people.</sent>
+				<sent id ="26">So they hurried to go to the priests.</sent>
+				<sent id ="27">One of the ten lepers cured by Jesus was a conscientious and grateful person.</sent>
+				<sent id ="28">He was not selfish.</sent>
+				<sent id ="29">He was reminded of Jesus again and again because he was healed by him.</sent>
+				<sent id ="30">His heart was filled with gratitude.</sent>
+				<sent id ="31">He felt he should go back and thank Jesus who healed him before showing himself to the priests.</sent>
+				<sent id ="32">So he rushed to Jesus, the merciful one, singing praises to God in a loud voice.</sent>
+				<sent id ="33">He prostrated at Jesus feet.</sent>
+				<sent id ="34">He had not words to express his gratitude to Jesus?</sent>
+				<sent id ="35">He became utterly speechless.</sent>
+				<sent id ="36">But now he was fully cured.</sent>
+				<sent id ="37">How could he adequately thank such a wonderful The leper, a Samaritan, came back to Jesus to thank him healer?</sent>
+				<sent id ="38">The man who came back to thank Jesus was a Samaritan.</sent>
+				<sent id ="39">The others were Jews.</sent>
+				<sent id ="40">Jesus was born in a Jewish family.</sent>
+				<sent id ="41">Why did the others not come back except this Samaritan?</sent>
+				<sent id ="42">Because they were ungrateful while the Samaritan was grateful.</sent>
+				<sent id ="43">How ungrateful were Jesus own people?</sent>
+				<sent id ="44">So Jesus praised this Samaritan.</sent>
+				<sent id ="45">He asked him: Were not all ten made clean and cured?</sent>
+				<sent id ="46">Where were the other nine?</sent>
+				<sent id ="47">The answer to this question was not known to this man who was so grateful.</sent>
+				<sent id ="48">Actually Jesus did not expect any answer from him.</sent>
+				<sent id ="49">Let those people answer this question who are ungrateful to Jesus.</sent>
+				<sent id ="50">So Jesus said to this man: Get up and go; your faith has made you well.</sent>
+				<sent id ="51">Leprosy was an incurable and dangerous disease.</sent>
+				<sent id ="52">As a result of the spread of this sore, the flesh of the body begins to rot.</sent>
+				<sent id ="53">Gradually the flesh disintegrates.</sent>
+				<sent id ="54">And finally the patient dies.</sent>
+				<sent id ="55">Lepers were considered unclean.</sent>
+				<sent id ="56">Moreover they were thought to be hateful sinners.</sent>
+				<sent id ="57">Leprosy was thought of as punishment for sins.</sent>
+				<sent id ="58">So the lepers were abandoned in lonely places away from the human society.</sent>
+				<sent id ="59">No one was to touch them because he too would become unclean.</sent>
+				<sent id ="60">If a leper were cured, he had to present himself first to the priests for examination.</sent>
+				<sent id ="61">If the priests found the patient cured, he declared him to be clean.</sent>
+				<sent id ="62">Now-a-days there are hospitals for the treatment of leprosy.</sent>
+				<sent id ="63">It is no longer an incurable disease.</sent>
+				<sent id ="64">A patient recovers from leprosy if he gets proper treatment.</sent>
+				<sent id ="65">But in the past death was inevitable for one who had leprosy.</sent>
+				<sent id ="66">Jesus healed all those who came to him.</sent>
+				<sent id ="67">To be cured and to be healed are different from each other.</sent>
+				<sent id ="68">To be cured means to recover from the sickness of the body only.</sent>
+				<sent id ="69">But to be healed means to recover from the sickness of the body, mind and soul.</sent>
+				<sent id ="70">When we get sick we feel distressed.</sent>
+				<sent id ="71">Our mind gets upset or we feel embarrassed.</sent>
+				<sent id ="72">And the problems get more complicated.</sent>
+				<sent id ="73">He may develop a high blood pressure.</sent>
+				<sent id ="74">In this situation people become very much worried because it becomes difficult for them to solve the problems.</sent>
+				<sent id ="75">Similarly, if the soul is in sin, the mind also feels distressed.</sent>
+				<sent id ="76">A person may begin to think that his sickness is due to sin.</sent>
+				<sent id ="77">Thus he or she may get physically sick.</sent>
+				<sent id ="78">When a person goes on sinning, his soul gets a sore like leprosy.</sent>
+				<sent id ="79">A sore caused by sin develops day by day.</sent>
+				<sent id ="80">Leprosy ruins a patient day by day.</sent>
+				<sent id ="81">So the act of committing sin also destroys the soul soul of man.</sent>
+				<sent id ="82">His soul dies.</sent>
+				<sent id ="83">Then he is alienated from God.</sent>
+				<sent id ="84">Everyone will die physically.</sent>
+				<sent id ="85">But everyone's soul will not die.</sent>
+				<sent id ="86">Those whose souls will die shall go to hell.</sent>
+				<sent id ="87">Is it possible to cure the sickness of a soul?</sent>
+				<sent id ="88">Just as the soul of someone can get sick, so it can also be put under treatment.</sent>
+				<sent id ="89">What is the treatment for a soul that is sick?</sent>
+				<sent id ="90">The treatment for the sickness of a soul is forgiveness of sin.</sent>
+				<sent id ="91">To many of the sick people who came to him to be healed, Jesus said: Your sins are forgiven.</sent>
+				<sent id ="92">A paralytic was brought to Jesus on a cot to be cured.</sent>
+				<sent id ="93">Jesus said to him: Your sins are forgiven. .</sent>
+				<sent id ="94">Once a leper came to Jesus.</sent>
+				<sent id ="95">He solicited Jesus for his kindness to clean him.</sent>
+				<sent id ="96">Jesus said: Yes, I wish you to be clean.</sent>
+				<sent id ="97">First of all one has to believe that Jesus has the power to forgive sins.</sent>
+				<sent id ="98">One has to be adequately aware of one's sins.</sent>
+				<sent id ="99">One has to repent for one's sins.</sent>
+				<sent id ="100">One has to repent for his sins and confess it to Jesus and ask for forgiveness.</sent>
+				<sent id ="101">One has to approach a priest in the Sacrament of 74 Christian Religious Studies Reconciliation or Confession.</sent>
+				<sent id ="102">Jesus has given the responsibility of forgiving sins to the priests.</sent>
+				<sent id ="103">The miraculous powers of Jesus Jesus Christ had two natures: the human nature and the divine nature.</sent>
+				<sent id ="104">He was true God and true man.</sent>
+				<sent id ="105">So he had in him the power of working miracles.</sent>
+				<sent id ="106">In the Gospel we see him performing many wonderful miracles.</sent>
+				<sent id ="107">Why did Jesus perform these wonderful miracles?</sent>
+				<sent id ="108">Jesus performed miracles in order proclaim his coming into this world and to generate faith in the human heart.</sent>
+				<sent id ="109">The miracles proved that the promised Savior long awaited by the human race has come to this earth.</sent>
+				<sent id ="110">Jesus is that Savior.</sent>
+				<sent id ="111">Signs which were to be seen when the Savior comes are now clear in the miracles.</sent>
+				<sent id ="112">The miracles are signs of his presence among us.</sent>
+				<sent id ="113">They prove that the Savior has come on this earth, and Jesus Christ is that Savior.</sent>
+				<sent id ="114">Example : A Savior was to come into this world.</sent>
+				<sent id ="115">John the Baptist also wanted to know whether Jesus was that Savior.</sent>
+				<sent id ="116">He sent two of his disciples to Jesus to verify.</sent>
+				<sent id ="117">The disciples asked Jesus: Are you the person who was to come?</sent>
+				<sent id ="118">Or should we expect someone else?</sent>
+				<sent id ="119">Then he answered John's messengers:</sent>
+				<sent id ="120">Jesus worked miracles in order to drive out the demons or the evil spirits.</sent>
+				<sent id ="121">Before the coming of Jesus, the Satan was reigning over this earth.</sent>
+				<sent id ="122">But Jesus has driven out Satan.</sent>
+				<sent id ="123">He has established the Kingdom of God.</sent>
+				<sent id ="124">The Satan had kept man in bondage of sin.</sent>
+				<sent id ="125">Now men have become the children of God, for they have been freed from the bondage of sin.</sent>
+				<sent id ="126">The Satan had kept the human race confined in the shadow of death.</sent>
+				<sent id ="127">Now the human race has entered into new life being liberated from the grip of death.</sent>
+				<sent id ="128">Example: Once a man with an evil spirit was brought to Jesus.</sent>
+				<sent id ="129">That man was blind and dumb.</sent>
+				<sent id ="130">Jesus cured him so that he could see and speak.</sent>
+				<sent id ="131">All the people who saw the miracle were amazed and went on saying: Could he be the Son of David?</sent>
+				<sent id ="132">And any town or family that divides itself into groups which fight each other will fall apart!</sent>
+				<sent id ="133">You say that I drive out demons because Beelzebul gives me the power to do so.</sent>
+				<sent id ="134">Well, then, who gives your followers the power to drive them out?</sent>
+				<sent id ="135">What your own followers do proves that you are wrong!</sent>
+				<sent id ="136">Example: A marriage ceremony took place in the city of Cana in Galilee.</sent>
+				<sent id ="137">Jesus mother was there.</sent>
+				<sent id ="138">Jesus and his disciples were also invited to the ceremony.</sent>
+				<sent id ="139">When the wine ran out, the mother of Jesus said to him: They have no wine left.</sent>
+				<sent id ="140">Jesus said to her: Mother, are your thoughts and my thoughts the same?</sent>
+				<sent id ="141">My time has not yet come.</sent>
+				<sent id ="142">Each of the jars was large enough to hold about a hundred liters of water.</sent>
+				<sent id ="143">Jesus said to the servants: Fill these jars with water.</sent>
+				<sent id ="144">They filled them to the brim with water.</sent>
+				<sent id ="145">They took him the water, which now had turned into wine, and he tasted it.</sent>
+				<sent id ="146">But you have kept the best wine until now!</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

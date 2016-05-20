@@ -1,0 +1,63 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-islam-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.148</idno>
+				<idno type="Number of sentences">35</idno>
+				<idno type="Number of tokens">306</idno>
+				<idno type="Number of token types">145</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t22">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The Quran Majid is the message of Allah.</sent>
+				<sent id ="2">The Quran Majid gives us a guide line to do our work.</sent>
+				<sent id ="3">The language in which Quran Majid has been written is Arabic.</sent>
+				<sent id ="4">There are twenty nine letters in Arabic.</sent>
+				<sent id ="5">By knowing these letters we will be able to read the Quran Majid.</sent>
+				<sent id ="6">We shall learn to recite the Quran Majid and recite the Quran Majid every day.</sent>
+				<sent id ="7">Bangla is our mother tongue.</sent>
+				<sent id ="8">There are fifty letters in Bangla language.</sent>
+				<sent id ="9">Bangla is read from left side to the right.</sent>
+				<sent id ="10">Arabic is the language of the Quran Majid.</sent>
+				<sent id ="11">There are twenty nine letters in Arabic.</sent>
+				<sent id ="12">Arabic language is read from the right to the left.</sent>
+				<sent id ="13">In order to recognise Arabic letters easily English pronunciation of each alphabet has been given.</sent>
+				<sent id ="14">We shall learns the correct pronunciation of each arabic alphabet from our teacher.</sent>
+				<sent id ="15">There are one or more dots on or under Arabic letters.</sent>
+				<sent id ="16">These dots are called Nuqta.</sent>
+				<sent id ="17">In Arabic language some signs are used with letters.</sent>
+				<sent id ="18">These signs are known as Harkat or pronouncing signs.</sent>
+				<sent id ="19">There are three kinds of Harkat.</sent>
+				<sent id ="20">There are many letters in Arabic which does not have Jabor, Jer or Pesh.</sent>
+				<sent id ="21">But the previous letters have them.</sent>
+				<sent id ="22">A sign is used to pronounce the letter.</sent>
+				<sent id ="23">This sign is called Jazam.</sent>
+				<sent id ="24">Another name of Jazam is Sakin.</sent>
+				<sent id ="25">There are three differnt shapes of Jazam.</sent>
+				<sent id ="26">They are Read and write the following chart of double Pesh.</sent>
+				<sent id ="27">Many letters in Arabic language are pronounced twice.</sent>
+				<sent id ="28">A special sign is used for that purpose.</sent>
+				<sent id ="29">This sign is called Tashdeed.</sent>
+				<sent id ="30">The sign looks like this (W).</sent>
+				<sent id ="31">Tashdeed looks like the head of the letter .</sent>
+				<sent id ="32">A letter with Tashdeed is pronounced twice.</sent>
+				<sent id ="33">On the other hand many letters are to be read in long breath.</sent>
+				<sent id ="34">To read in long breath is called Madd.</sent>
+				<sent id ="35">There are three Madd letters.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

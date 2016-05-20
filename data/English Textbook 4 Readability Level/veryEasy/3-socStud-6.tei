@@ -1,0 +1,99 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.499</idno>
+				<idno type="Number of sentences">71</idno>
+				<idno type="Number of tokens">619</idno>
+				<idno type="Number of token types">275</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t40">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In our daily work we use various things from around us in various ways.</sent>
+				<sent id ="2">For example, we study in schools.</sent>
+				<sent id ="3">We pray at mosques.</sent>
+				<sent id ="4">We cook with gas.</sent>
+				<sent id ="5">Electricity gives us light.</sent>
+				<sent id ="6">When we are sick, we go to hospitals.</sent>
+				<sent id ="7">We get wood from forests.</sent>
+				<sent id ="8">We use wood in many ways.</sent>
+				<sent id ="9">Wealth plays a very important role in our personal and national life.</sent>
+				<sent id ="10">The wealth which the state controls is called national wealth.</sent>
+				<sent id ="11">Every one has the right to use this wealth.</sent>
+				<sent id ="12">Water, gas, electricity and forests are our main national wealth.</sent>
+				<sent id ="13">Water is a kind of wealth we use a lot everyday.</sent>
+				<sent id ="14">We get water from rivers, canals, ponds and lakes.</sent>
+				<sent id ="15">We cannot live without water.</sent>
+				<sent id ="16">So the other name of water is life.</sent>
+				<sent id ="17">But we should drink pure and arsenic free water.</sent>
+				<sent id ="18">We use water for cooking, washing hands, bathing etc.</sent>
+				<sent id ="19">We cannot cultivate land without water.</sent>
+				<sent id ="20">Water is used in mills and factories.</sent>
+				<sent id ="21">Our life cannot go on without water.</sent>
+				<sent id ="22">We will not waste water.</sent>
+				<sent id ="23">We will turn off taps tightly after using tap water.</sent>
+				<sent id ="24">We must not waste water from tube wells.</sent>
+				<sent id ="25">We must use pond water properly.</sent>
+				<sent id ="26">Those of us who live in cities use gas for cooking.</sent>
+				<sent id ="27">Now-a- days, in many villages, gas is also used for cooking.</sent>
+				<sent id ="28">Natural gas produces heat light and power.</sent>
+				<sent id ="29">So in the mills and factories gas is used as fuel.</sent>
+				<sent id ="30">Gas is used for the production of fertilizer and pesticide.</sent>
+				<sent id ="31">Our house is lit with gas.</sent>
+				<sent id ="32">Now-a-days we use gas for running cars.</sent>
+				<sent id ="33">Gas is our national wealth.</sent>
+				<sent id ="34">We get this wealth from nature.</sent>
+				<sent id ="35">If we waste gas it will be finished quickly.</sent>
+				<sent id ="36">We must not keep the burners on when we do not need it.</sent>
+				<sent id ="37">We must turn off the burners after we finish cooking.</sent>
+				<sent id ="38">We have to use gas in the mills and factories when we need it.</sent>
+				<sent id ="39">Electricity lights our houses and roads.</sent>
+				<sent id ="40">Fans are run by electricity.</sent>
+				<sent id ="41">Radio and television inform us of what is happening in the world.</sent>
+				<sent id ="42">All these happens with the help of electricity.</sent>
+				<sent id ="43">X-ray machine is used to diagnose different diseases.</sent>
+				<sent id ="44">It is also run with the help of electricity.</sent>
+				<sent id ="45">Computer is also run with the help of electricity.</sent>
+				<sent id ="46">We also use water pumps which are used in agricultural land and in industries.</sent>
+				<sent id ="47">Electricity plays a very important role in the development of our country.</sent>
+				<sent id ="48">Our industries, agricultures and societies are being developed with the help of electricity.</sent>
+				<sent id ="49">We will use electricity properly.</sent>
+				<sent id ="50">Often we go out of the house without switching off the light and fan.</sent>
+				<sent id ="51">This waste electricity.</sent>
+				<sent id ="52">We shall not turn on the light or fan when we do not need it.</sent>
+				<sent id ="53">These are made of wood.</sent>
+				<sent id ="54">Where do we get wood from?</sent>
+				<sent id ="55">We get wood mainly from forest.</sent>
+				<sent id ="56">Trees give us shade, fruits and fuel.</sent>
+				<sent id ="57">Besides we many kinds of medicines from plants and leaves, Medic protects us from diseases.</sent>
+				<sent id ="58">It rains less if there are not enc trees.</sent>
+				<sent id ="59">The climate becomes hot.</sent>
+				<sent id ="60">Trees prevent of soil erosion and increase the fertility of the land.</sent>
+				<sent id ="61">We can increase our forest by planting new trees.</sent>
+				<sent id ="62">We should stop cutting trees unnecessarily.</sent>
+				<sent id ="63">We will plant two trees if we cut one.</sent>
+				<sent id ="64">We should take care of trees and in this way our forest wealth will increase.</sent>
+				<sent id ="65">Besides, trains, railways roads, hospitals, parks, big bridges are also our national wealth.</sent>
+				<sent id ="66">We shall take care of these too.</sent>
+				<sent id ="67">We build up many things for the need of the people.</sent>
+				<sent id ="68">For example, we set up schools for children to study.</sent>
+				<sent id ="69">We build roads so that people can move from place to place.</sent>
+				<sent id ="70">These are our social wealth.</sent>
+				<sent id ="71">National wealth, social wealth and personal wealth are important for our social life.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

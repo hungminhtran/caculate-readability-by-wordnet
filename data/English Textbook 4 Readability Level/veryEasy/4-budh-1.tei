@@ -1,0 +1,130 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-budh-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.577</idno>
+				<idno type="Number of sentences">102</idno>
+				<idno type="Number of tokens">902</idno>
+				<idno type="Number of token types">369</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t44">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Buddha has asked to follow some rules to build up man's character.</sent>
+				<sent id ="2">These are called Shil.</sent>
+				<sent id ="3">By a sushil boy we mean a good boy.</sent>
+				<sent id ="4">Those who follow the Shil are called the Shilwan.</sent>
+				<sent id ="5">Buddha has described the merits of following the Shil.</sent>
+				<sent id ="6">It reduces mental pains.</sent>
+				<sent id ="7">With the influence of the Shil, pains of the body-words-the mind are removed.</sent>
+				<sent id ="8">The mind is controlled.</sent>
+				<sent id ="9">The Shilwan possesses wealth.</sent>
+				<sent id ="10">His fame spreads around.</sent>
+				<sent id ="11">The smell of the flower blows only in favour of the wind.</sent>
+				<sent id ="12">The Shilwan attends all meetings without hesitation.</sent>
+				<sent id ="13">The person who follows the Shil dies consciously.</sent>
+				<sent id ="14">After death he is blessed.</sent>
+				<sent id ="15">He is taken to heaven.</sent>
+				<sent id ="16">Nirban can easily be achieved.</sent>
+				<sent id ="17">The merits of following the Shil are many, which cannot be described.</sent>
+				<sent id ="18">It is very necessary for everyone to follow the Shil.</sent>
+				<sent id ="19">There are two kinds of Shils for the home keepers: the Panchashil and the Ashtashil.</sent>
+				<sent id ="20">Now we shall learn what Uposath is.</sent>
+				<sent id ="21">The world, Upostha means Fast.</sent>
+				<sent id ="22">The Uposath Shil has been introduced to make our life elevated.</sent>
+				<sent id ="23">On these days the devotees perform the Ashtashil.</sent>
+				<sent id ="24">This Ashtashil is called the Uposath Shil.</sent>
+				<sent id ="25">All the Buddha in the past have instructed to follow the Uposath Shil.</sent>
+				<sent id ="26">The tradition of following the Uposath has continued from long past.</sent>
+				<sent id ="27">Now we shall learn how to observe the Ashtashil or the Uposath Shil.</sent>
+				<sent id ="28">On the fasting days you will rise very early in the morning.</sent>
+				<sent id ="29">After washing your face and hands and taking bath, you will wear clean dress.</sent>
+				<sent id ="30">You will go to the Bihar, taking the materials of worship and offerings with you.</sent>
+				<sent id ="31">While going to the Bihar, you will remember the virtues of Buddha.</sent>
+				<sent id ="32">You will walk on the road in a controlled way.</sent>
+				<sent id ="33">Do not walk confusedly.</sent>
+				<sent id ="34">After having performed the Buddha worship and Vandana, you will go to the Bhikkhu.</sent>
+				<sent id ="35">You will then kneel down with the palms of your two hands put together.</sent>
+				<sent id ="36">Then you will perform the Uposath Shil prayer and accept it.</sent>
+				<sent id ="37">Oh my religious master, give me time.</sent>
+				<sent id ="38">I am performing the Ashtashil prayer with Trisharana.</sent>
+				<sent id ="39">Please give me the Shil.</sent>
+				<sent id ="40">In the second time also oh my religious master, give me time.</sent>
+				<sent id ="41">I am performing the Ashtashil prayer with Trisharana.</sent>
+				<sent id ="42">Please give me the Shil.</sent>
+				<sent id ="43">In the third time also oh my religious master, give me time.</sent>
+				<sent id ="44">I am performing the Ashtashil prayer with Trisharana.</sent>
+				<sent id ="45">Please give me the Shil.</sent>
+				<sent id ="46">The Ashtashil prayer is over.</sent>
+				<sent id ="47">Now the religious master will give the Ashtashil.</sent>
+				<sent id ="48">He will utter the Shil one by one.</sent>
+				<sent id ="49">You will utter them one after another.</sent>
+				<sent id ="50">I shall keep myself away from killing animals-I accept this lesson.</sent>
+				<sent id ="51">I shall keep myself away from taking things, not given to me-I accept this lesson.</sent>
+				<sent id ="52">I shall keep myself away from non-bramachrya-I accept this lesson.</sent>
+				<sent id ="53">I shall keep myself away from telling lies-I accept this lesson.</sent>
+				<sent id ="54">I shall keep myself away from eating food in the afternoon-I accept this lesson.</sent>
+				<sent id ="55">The religious master has given us the Ashtashil.</sent>
+				<sent id ="56">We have accepted it.</sent>
+				<sent id ="57">The religious master will read the Sutra wishing us our well-being.</sent>
+				<sent id ="58">Now we shall learn what the difference between the Panchashil and the Ashtashil is.</sent>
+				<sent id ="59">There are five Shils in the Panchashil.</sent>
+				<sent id ="60">And the Ashtashil has the additional three Shils.</sent>
+				<sent id ="61">I shall keep myself away from eating food in the afternoon-I accept this lesson.</sent>
+				<sent id ="62">The third Shil of the Ashtashil is different from that of the Panchashil.</sent>
+				<sent id ="63">I shall keep myself away from Non-brahmacharya.</sent>
+				<sent id ="64">Those who manage their houses should perform the Panchashil everyday.</sent>
+				<sent id ="65">The devotees perform the Ashtashil on every Uposath day.</sent>
+				<sent id ="66">You will also perform the Ashtashil on the Uposath day.</sent>
+				<sent id ="67">It has a lot of good effect on us.</sent>
+				<sent id ="68">A story about its good effects is given below.</sent>
+				<sent id ="69">There was a rich man named Sudatta in Shravasti during the time of Bhagwan Buddha.</sent>
+				<sent id ="70">He was kind and generous.</sent>
+				<sent id ="71">He was like parents of the poor and helpless.</sent>
+				<sent id ="72">Everyday he gave away food to the helpless.</sent>
+				<sent id ="73">So he was known as Anathpindic.</sent>
+				<sent id ="74">He was the first domestic worshipper of Buddha.</sent>
+				<sent id ="75">He was a great Shilwan and pious.</sent>
+				<sent id ="76">He performed the Uposath Shil with great care.</sent>
+				<sent id ="77">It was the tradition of his family that everybody would perform the Uposath.</sent>
+				<sent id ="78">The Anathpindic had a very faithful servant.</sent>
+				<sent id ="79">On an Uposath day he went to plough the land far away.</sent>
+				<sent id ="80">When he came back in the afternoon, he saw everybody had taken Uposath.</sent>
+				<sent id ="81">He felt sorry.</sent>
+				<sent id ="82">It was then late afternoon.</sent>
+				<sent id ="83">The servant took the Ashtanga Uposath Shil without having anything although it was half- Uposath.</sent>
+				<sent id ="84">The night was far-advanced.</sent>
+				<sent id ="85">Everybody fell asleep.</sent>
+				<sent id ="86">The servant could not sleep.</sent>
+				<sent id ="87">He was very tired for his whole day's work.</sent>
+				<sent id ="88">Besides, he was fasting.</sent>
+				<sent id ="89">He felt pain into his stomach.</sent>
+				<sent id ="90">The pain was gradually increasing.</sent>
+				<sent id ="91">Anathpindic asked him to take honey.</sent>
+				<sent id ="92">At last he died.</sent>
+				<sent id ="93">After his death he was reborn in the Himalayan areas as the god of trees.</sent>
+				<sent id ="94">He could not perform the Uposath in full.</sent>
+				<sent id ="95">Otherwise the servant could be reborn more upward to the heaven.</sent>
+				<sent id ="96">Shil is very important in the life of man.</sent>
+				<sent id ="97">It is the basis of all good works.</sent>
+				<sent id ="98">The Shilwan person is praised for his patience and he possesses wealth.</sent>
+				<sent id ="99">He enjoys divine bliss after his death.</sent>
+				<sent id ="100">The virtuous and respectful devotees perform the Ashtashil.</sent>
+				<sent id ="101">You will also perform the Astashil on the Uposath days.</sent>
+				<sent id ="102">As a result, your life will be perfect and virtuous.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

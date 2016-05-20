@@ -1,0 +1,150 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-13</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.733</idno>
+				<idno type="Number of sentences">122</idno>
+				<idno type="Number of tokens">1394</idno>
+				<idno type="Number of token types">491</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t85">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">This is a story of many years ago.</sent>
+				<sent id ="2">There was a shepherd named Magnes who used to live at a place named Magnesia in Asia Minor.</sent>
+				<sent id ="3">A mountain named Ida was there.</sent>
+				<sent id ="4">One day, Magnes wished to climb up the mountain.</sent>
+				<sent id ="5">He noticed that his legs could not be lifted up any more from the ground while climbing up the mountain.</sent>
+				<sent id ="6">Nails of shoes got stuck to the ground.</sent>
+				<sent id ="7">He found a kind of stone after he had dug the ground there.</sent>
+				<sent id ="8">He observed that this stone attracted iron nails of his shoes.</sent>
+				<sent id ="9">A strange kind of stone, which attracts iron or ferrous substances, was discovered at first in such a way.</sent>
+				<sent id ="10">Another peculiarity of this stone was also observed.</sent>
+				<sent id ="11">Name given to this stone was magnetite, after the name of Magnes.</sent>
+				<sent id ="12">Some people's opinion was that the name magnetite was given as it was first found in Magnesia.</sent>
+				<sent id ="13">Word magnet is derived from the word magnetite.</sent>
+				<sent id ="14">Bengali word of magnet is chumbak.</sent>
+				<sent id ="15">This is the most common story about the discovery of magnet.</sent>
+				<sent id ="16">However it is not definitely known that how many years ago this occurred.</sent>
+				<sent id ="17">Magnet has power to attract iron.</sent>
+				<sent id ="18">Attraction is a kind of force.</sent>
+				<sent id ="19">Work can be done by force.</sent>
+				<sent id ="20">Therefore a magnet has capacity for doing work.</sent>
+				<sent id ="21">So magnet is a kind of energy.</sent>
+				<sent id ="22">Magnetic stone discovered by Magnes is a kind of grey black coloured compound substance.</sent>
+				<sent id ="23">It is a compound of iron and oxygen (chemical notation is Fe3O4).</sent>
+				<sent id ="24">This stone is still now available in the mines of Canada, Norway and Sweden besides Asia Minor.</sent>
+				<sent id ="25">As these are available in nature, hence they are called physical or natural magnets.</sent>
+				<sent id ="26">Natural magnet has no definite shape.</sent>
+				<sent id ="27">Besides, its magnetic strength, that is attractive power is not very much.</sent>
+				<sent id ="28">For this reason magnets are also prepared by artificial processes.</sent>
+				<sent id ="29">Artificial magnets are prepared by some special methods.</sent>
+				<sent id ="30">As they are prepared artificially, hence they are called artificial magnets.</sent>
+				<sent id ="31">So magnets are of two kinds ?</sent>
+				<sent id ="32">natural magnet and artificial magnet.</sent>
+				<sent id ="33">Magnets which are available in nature are called physical or natural magnets.</sent>
+				<sent id ="34">Magnets prepared artificially are called artificial magnets.</sent>
+				<sent id ="35">Artificial magnets of different shapes and sizes are prepared for using them conveniently.</sent>
+				<sent id ="36">When a rectangular steel bar is converted into a magnet, it is called a bar magnet.</sent>
+				<sent id ="37">This kind of magnet is used in laboratory.</sent>
+				<sent id ="38">It is made of very light steel sheet.</sent>
+				<sent id ="39">Its two ends are tapering.</sent>
+				<sent id ="40">Middle point of this sheet is pivoted on a pin.</sent>
+				<sent id ="41">For that the needle can move freely in a horizontal plane.</sent>
+				<sent id ="42">As a result, a magnetic needle at rest always points towards north and south.</sent>
+				<sent id ="43">Magnetic needle is used as a direction indicating instrument.</sent>
+				<sent id ="44">Generally it is made of steel bar.</sent>
+				<sent id ="45">Its two poles remain side by side.</sent>
+				<sent id ="46">Strong magnetic field can be produced between two poles.</sent>
+				<sent id ="47">Properties of magnet : Magnetic pole Experiment: Sprinkle some iron fillings over a white paper, placed on a table.</sent>
+				<sent id ="48">If iron fillings are not available, a box of pins will also serve the purpose.</sent>
+				<sent id ="49">You will observe that iron fillings or pins remain stuck to the body of the magnet.</sent>
+				<sent id ="50">It is understood from this that the magnet has power of attraction.</sent>
+				<sent id ="51">This power of attraction of a magnet is called its attractive property.</sent>
+				<sent id ="52">Amount of iron fillings stuck to the magnet gradually decreases from the end to its middle.</sent>
+				<sent id ="53">Iron fillings or pins do not stick to its middle place at all.</sent>
+				<sent id ="54">It is understood from this, that the power of attraction of the magnet is not the same at all places.</sent>
+				<sent id ="55">Power of attraction is maximum at two points near the two ends of the magnet.</sent>
+				<sent id ="56">These two points are called two poles of the magnet.</sent>
+				<sent id ="57">Remove iron fillings or pins from the magnet by shaking and rubbing them off.</sent>
+				<sent id ="58">Touch the magnet with your plastic ball pen, wood pencil and erasing rubber one by one.</sent>
+				<sent id ="59">You will observe that there is no attraction between them.</sent>
+				<sent id ="60">It is understood from this, that a magnet does not attract all kinds of substances.</sent>
+				<sent id ="61">Magnet attracts ferrous substances such as, steel, cobalt and nickel.</sent>
+				<sent id ="62">But it does not attract plastic, wood, rubber, glass, silver or copper.</sent>
+				<sent id ="63">Substances attracted by a magnet are called magnetic substances.</sent>
+				<sent id ="64">And the substances which are not attracted by a magnet are called non-magnetic substances.</sent>
+				<sent id ="65">Property by virtue of which a magnet attracts a magnetic substance is called attractive property of a magnet.</sent>
+				<sent id ="66">Now suspend the bar magnet by tying it with a thread at the middle.</sent>
+				<sent id ="67">The magnet will come to rest after swinging from one side to the another.</sent>
+				<sent id ="68">It will be seen that the magnet will practically lie pointing north and south.</sent>
+				<sent id ="69">Again rotate the magnet and let it go.</sent>
+				<sent id ="70">It is understood from this, that a hanging magnet, without obstruction, always lie pointing towards north and south.</sent>
+				<sent id ="71">This property of a magnet is called directive property.</sent>
+				<sent id ="72">People knew this property of magnetite in ancient times.</sent>
+				<sent id ="73">So, the sailors used magnetite stone for determining direction in sea.</sent>
+				<sent id ="74">They named this stone as leading stone or lode stone or direction finding stone.</sent>
+				<sent id ="75">One particular end of a magnet always tends to lie pointing towards north.</sent>
+				<sent id ="76">This end is called north seeking pole or briefly north pole.</sent>
+				<sent id ="77">The end which always tends to lie pointing towards south is called south seeking pole or south pole.</sent>
+				<sent id ="78">Now you take two bar magnets.</sent>
+				<sent id ="79">Suspend one of them by means of a thread as before.</sent>
+				<sent id ="80">Now bring north pole of the other magnet near north pole of the suspended magnet.</sent>
+				<sent id ="81">You will see that, the north pole of the suspended magnet moves farther.</sent>
+				<sent id ="82">Therefore, repulsion occurs between them.</sent>
+				<sent id ="83">Now bring south pole of the second magnet near north pole of the suspended magnet.</sent>
+				<sent id ="84">You will observe that they attract each other.</sent>
+				<sent id ="85">It will be seen that there is attraction in each case.</sent>
+				<sent id ="86">So it is understood that?</sent>
+				<sent id ="87">Like poles of magnets repel each other.</sent>
+				<sent id ="88">Unlike poles of magnets attract each other.</sent>
+				<sent id ="89">Both the poles of a magnet attract a magnetic substance.</sent>
+				<sent id ="90">You have learnt earlier that magnets are of two kinds ?</sent>
+				<sent id ="91">natural magnet and artificial magnet.</sent>
+				<sent id ="92">Artificial magnet can only be prepared by magnetic substances.</sent>
+				<sent id ="93">Method of conversion of a magnetic substance into an artificial magnet is called magnetisation.</sent>
+				<sent id ="94">You will learn now two easy methods of preparing artificial magnets.</sent>
+				<sent id ="95">A steel bar can be converted into a magnet by rubbing it with a magnet.</sent>
+				<sent id ="96">AB is a steel bar.</sent>
+				<sent id ="97">Each time the bar magnet is to be lifted up, after rubbing the steel bar with it upto end B.</sent>
+				<sent id ="98">Again rubbing should be started from the end A.</sent>
+				<sent id ="99">The steel bar is then turned upside down.</sent>
+				<sent id ="100">It is rubbed from end A to end B in a similar way several times.</sent>
+				<sent id ="101">Now it will be seen that the steel bar attracts pins or pieces of iron.</sent>
+				<sent id ="102">Thus, it has been converted into a magnet.</sent>
+				<sent id ="103">Electric current is passed through the wire by connecting its two ends to a battery.</sent>
+				<sent id ="104">Now it is seen that the nail can attract a pin or a piece of iron.</sent>
+				<sent id ="105">Thus, the nail has been converted into a magnet.</sent>
+				<sent id ="106">Again on disconnecting the battery, it is seen that the nail has no attractive power.</sent>
+				<sent id ="107">Therefore magnetism of the nail remains so long electric current flows, through the wire.</sent>
+				<sent id ="108">This kind of magnet is called an electromagnet.</sent>
+				<sent id ="109">Strength of electromagnet depends on the flow of electric current through it.</sent>
+				<sent id ="110">Strength of magnet increases with increase in flow of electric current.</sent>
+				<sent id ="111">Perhaps many of you use magnet in your everyday life, some knowingly and some unknowingly.</sent>
+				<sent id ="112">Electric fan moves and electric bell rings on pressing switches.</sent>
+				<sent id ="113">Electromagnets are used in electric fans and electric bells.</sent>
+				<sent id ="114">Here attractive property of magnet is utilised.</sent>
+				<sent id ="115">Magnetic energy is converted into mechanical energy with the help of electrical energy.</sent>
+				<sent id ="116">In ancient times sailors used to find out direction in the seas by utilising the directive property of a magnet.</sent>
+				<sent id ="117">That is done still today.</sent>
+				<sent id ="118">Name of the instrument used for this purpose is direction finding instrument or the compass.</sent>
+				<sent id ="119">Compass needle is made of magnets.</sent>
+				<sent id ="120">Aeroplanes also determine direction with the help of compass while flying through the vast sky.</sent>
+				<sent id ="121">So you have learnt that magnet is used in our everyday life in the electric fan, electric bell and compass.</sent>
+				<sent id ="122">You will learn about many other uses of magnet later.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

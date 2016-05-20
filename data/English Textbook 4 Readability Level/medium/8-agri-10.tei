@@ -1,0 +1,49 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-agri-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.352</idno>
+				<idno type="Number of sentences">21</idno>
+				<idno type="Number of tokens">319</idno>
+				<idno type="Number of token types">179</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t78">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">They are very negligible things.</sent>
+				<sent id ="2">Try, if you can make some nice things with these rejected feathers.</sent>
+				<sent id ="3">Using your imaginations, thought and eagerness.</sent>
+				<sent id ="4">Take while feathers, colour them separately dissolving red, yellow, purple etc. colours into water, colour long while feathers of hens with green and some yellow.</sent>
+				<sent id ="5">Let them dry and collect some green, blue, blackish green feathers of hens and clean them after selecting.</sent>
+				<sent id ="6">Make a circular object with a green little bit hard paper like a one taka.</sent>
+				<sent id ="7">If green paper is not available then white paper will do, but it will have to be coloured and dried.</sent>
+				<sent id ="8">Cut one part of the circular thing to the middle point.</sent>
+				<sent id ="9">Then join it to another with strong gum (Look at the picture).</sent>
+				<sent id ="10">Look (angle) a slantng hile in the middle of the circular thing.</sent>
+				<sent id ="11">Now fix any coloured small feathers spreading like the petals of flowers in this angle hole with gum.</sent>
+				<sent id ="12">Look how beautiful it looks like a flower after putting feathers around the angle-hole.</sent>
+				<sent id ="13">The stick should be inserted into the ball and must be fixed tightly.</sent>
+				<sent id ="14">Put aika gum well under the ball before inserting the stick into the flower, so that it is attached very well with the flower.</sent>
+				<sent id ="15">Then put gum around the whole stick and wrap a green paper nicely on it.</sent>
+				<sent id ="16">If, two-three greenish blue, blackish green feathers are put with green feathers it will look very beautiful.</sent>
+				<sent id ="17">Wrap with given paper the joint areas of feathers where the gum can be seen after joining all leaves.</sent>
+				<sent id ="18">Now look, what a beautiful flower with stem and leaves has been made of feathers.</sent>
+				<sent id ="19">If various coloured-flowers can be made and kept in a flower-vase they will look very beautiful.</sent>
+				<sent id ="20">A process of making the flower with feathers has been shown here.</sent>
+				<sent id ="21">Now its your turn to make other kinds of flowers or other things with your skill and to your liking.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

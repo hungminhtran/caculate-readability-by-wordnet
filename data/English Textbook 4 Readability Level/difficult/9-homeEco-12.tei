@@ -1,0 +1,105 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-homeEco-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:06.267</idno>
+				<idno type="Number of sentences">77</idno>
+				<idno type="Number of tokens">1175</idno>
+				<idno type="Number of token types">444</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t99">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">A man can suffer from diseases at any stage of his/her life.</sent>
+				<sent id ="2">There are many types of diseases such as fever, upset stomach, cold, cough, jaundice, influenza, etc.</sent>
+				<sent id ="3">Sometimes, the duration of a disease is shorter and sometimes it continues for a longer period.</sent>
+				<sent id ="4">Patients need appropriate care considering the seriousness of his/her disease.</sent>
+				<sent id ="5">According to nutritional science, it is very important to select proper diets along with taking care of the patient.</sent>
+				<sent id ="6">To take proper care of the patient, every body should be well informed about appropriate diets of the patient.</sent>
+				<sent id ="7">For this reason, in this chapter the discussion is focused on the necessity of diet, description of diets for common diseases and soft, liquid diets for patients, etc.</sent>
+				<sent id ="8">By the term diet, we understand the preparing of proper or suitable food considering the nature of diseases and patients physical condition.</sent>
+				<sent id ="9">For the recovery of patients, besides medicine and nursing, appropriate diet is also very necessary.</sent>
+				<sent id ="10">Diet helps to recover the weakness of patients.</sent>
+				<sent id ="11">It is necessary to take nutritious food as diet during illness to regain one's energy from weakness.</sent>
+				<sent id ="12">Naturally a continuous internal metabolic process is working inside human body.</sent>
+				<sent id ="13">Food is also needed to give support for this process.</sent>
+				<sent id ="14">For internal metabolic process the same amount of energy is needed for both sick and healthy person.</sent>
+				<sent id ="15">During illness, the patient not only has to fight with germs of the disease but has to maintain energy for internal metabolic process.</sent>
+				<sent id ="16">So, during illness a person needs more energy than healthy situation.</sent>
+				<sent id ="17">In stomach disorder, when indigestion occurs, it is necessary to give the patient liquid and light food (diet).</sent>
+				<sent id ="18">The digestive system gets some rest due to that.</sent>
+				<sent id ="19">It is to be remembered that during illness, energy is needed to keep the body active and mobile.</sent>
+				<sent id ="20">In this period if proper nutritious diet is not given to the patient, then the body automatically takes its necessary energy from fat and glycogen.</sent>
+				<sent id ="21">A patient needs at least 1,850 calories or equivalent energy from food or diet.</sent>
+				<sent id ="22">If a patient lacks the required nutrient diet, the body collects energy from its own body's accumulated calorie, protein and fat.</sent>
+				<sent id ="23">So, patients suffered for long a period, should take proper diet immediately.</sent>
+				<sent id ="24">Otherwise, the patient will be weaker soon.</sent>
+				<sent id ="25">According to modern medical science, patients should have the ability for fighting with the disease and it will be possible only when patients will take sufficient and appropriate amount of nutritious diet.</sent>
+				<sent id ="26">For this reason diet is very necessary for the patients.</sent>
+				<sent id ="27">It is very important to know the type of diet or how to select that diet for patient.</sent>
+				<sent id ="28">The digestive power of patient becomes weak when he/she is attacked by the disease.</sent>
+				<sent id ="29">For this reason, the patient's diet should be enriched with nutrition and vitamin.</sent>
+				<sent id ="30">On the other hand, the food items should be fresh, pure and easily digestible.</sent>
+				<sent id ="31">During illness if the patient does not get food that contain sufficient amount of the proteins and nutrition, the patient's body will collect accumulated protein of his/her own body and after that the patient will be weaker.</sent>
+				<sent id ="32">The patient's recovery will be easier if protein is included in diet.</sent>
+				<sent id ="33">Like protein, sufficient amount of mineral salt is necessary in the diet of a patient.</sent>
+				<sent id ="34">But sometimes, mineral salts are excluded or reduced based on the types of disease.</sent>
+				<sent id ="35">Vitamin A, B and C are essentially needed for patient suffering from fever.</sent>
+				<sent id ="36">It has been observed that due to lack of vitamin C, the symptom of cough and cold is seen.</sent>
+				<sent id ="37">The human body cannot store or preserve sufficient amount of these vitamins.</sent>
+				<sent id ="38">So during diet planning, care should be taken whether the diet is enriched with necessary vitamins.</sent>
+				<sent id ="39">Patient's diet planning should be done according to the types of disease and its nature.</sent>
+				<sent id ="40">Because, the diet of a patient suffering from fever is not similar to that of a patient suffering from stomach upset.</sent>
+				<sent id ="41">In general, it can be said that diet should be easily digestible, nutritious and enriched with ingredients.</sent>
+				<sent id ="42">For example, milk is the best diet for patients.</sent>
+				<sent id ="43">But it cannot be served to the patient suffering from stomach upset; rather they can take curd or ghole, whey or chana water rather than taking milk directly.</sent>
+				<sent id ="44">The body temperature rises or becomes high when a person suffers from fever like influenza, pneumonia, typhoid, and malaria.</sent>
+				<sent id ="45">He/she sweats when the temperature rises.</sent>
+				<sent id ="46">Sufficient amount of water and salt comes out from body with sweating.</sent>
+				<sent id ="47">Due to that the patient feels weak.</sent>
+				<sent id ="48">So, to recover from this weakness, there should be appropriate diet for patients.</sent>
+				<sent id ="49">In the general, this type of patient needs liquid, light diet and sufficient water.</sent>
+				<sent id ="50">During illness, glycogen decreases rapidly.</sent>
+				<sent id ="51">So, carbohydrate should be included in the patient's diet.</sent>
+				<sent id ="52">But if the patients have digestive problems then fibre types carbohydrate (cellulose) should not be included in their diet.</sent>
+				<sent id ="53">In that case, the patient can be given milk, sugar with barley and sagu as liquid.</sent>
+				<sent id ="54">Even then if the patient cannot digest barley, sagu, they can be given glucose water, lemon sorbot or green coconut water.</sent>
+				<sent id ="55">There are many types of stomach diseases.</sent>
+				<sent id ="56">In diarrhoea, plenty of fluids and salt is lost from the body.</sent>
+				<sent id ="57">So, diet for this type of patients should contain sufficient amount of water.</sent>
+				<sent id ="58">Due to diarrhoea, patients suffer from dehydration.</sent>
+				<sent id ="59">This type of patients can even die.</sent>
+				<sent id ="60">So, patients can take saline water frequently to replace the loss of body fluid and salt.</sent>
+				<sent id ="61">Besides, this patient can take easily digestible liquid diet.</sent>
+				<sent id ="62">Dysentry is also one kind of stomach disease.</sent>
+				<sent id ="63">The patient's diet for this type of disease should be fish and vegetable curry with less spices, soft rice, chira water and also other liquid food.</sent>
+				<sent id ="64">Jaundice occurs due to disorder of liver functions.</sent>
+				<sent id ="65">Symptom of this disease is fever with vomiting and loss of appetite.</sent>
+				<sent id ="66">For a jaundice patient less fat and easily digestible diet included with vitamins is required.</sent>
+				<sent id ="67">The appropriate diets for patients are plenty of water, light, less oily, less spicy and less fibre types of diet.</sent>
+				<sent id ="68">Among drinks sugarcane juice, different types of fruit juice, green coconut water, glucose, lemon juice with water, shorbot and vegetable soup are better.</sent>
+				<sent id ="69">Besides these soft rice, suji (without oil), papaya, boiled pumpkin, fish curry without oil, soft wheat bread are also proper diet for the patient.</sent>
+				<sent id ="70">After selection of suitable diet, the type of preparation of diet should be considered.</sent>
+				<sent id ="71">Diet should be prepared very carefully considering the patient's condition and digestive power.</sent>
+				<sent id ="72">Liquid diets are usually given to patients after surgery when patient's metabolic system need rest.</sent>
+				<sent id ="73">This type of diet contains plenty of water.</sent>
+				<sent id ="74">Among liquid diet that contains glucose, dissolved protein, mineral and vitamin for example, green coconut water, orsaline, boiled water, juice from dried fruits, chicken soup etc should be given to patient.</sent>
+				<sent id ="75">Liquid diet can be given to patients during recovery from disease.</sent>
+				<sent id ="76">The diets are light milk, suji, soft rice, vegetable, boiled meat, boiled soft egg etc.</sent>
+				<sent id ="77">This type of digestive food can be served to patients as per requirements.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

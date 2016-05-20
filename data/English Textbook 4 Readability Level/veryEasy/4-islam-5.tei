@@ -1,0 +1,131 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-islam-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.23</idno>
+				<idno type="Number of sentences">103</idno>
+				<idno type="Number of tokens">1002</idno>
+				<idno type="Number of token types">480</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t74">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Who are Nabi and Rasul?</sent>
+				<sent id ="2">One Messenger (one angel) from Allah would come to them.</sent>
+				<sent id ="3">They were fully honest and ideal greatmen.</sent>
+				<sent id ="4">They were specially lovable servants to Allah.</sent>
+				<sent id ="5">They are called Rasuls.</sent>
+				<sent id ="6">Of them, those who did not have any Heavenly Books are called Nabis.</sent>
+				<sent id ="7">They had to follow the previously revealed Heavenly Books to guide the people.</sent>
+				<sent id ="8">Our Prophet Hazrat Muhammad (Sm) was the last and greatest prophet.</sent>
+				<sent id ="9">He was the most lovable Rasul to Allah.</sent>
+				<sent id ="10">His father's name was Abdullah and mother Amina.</sent>
+				<sent id ="11">The Prophet (Sm) was an orphan.</sent>
+				<sent id ="12">After his death Abu Talib, the Prophet's (Sm) uncle, took care of him.</sent>
+				<sent id ="13">Abu Talib was also a leader of the Quraish.</sent>
+				<sent id ="14">Gradually, he took the charge of running the big business of Hazrat Khadija (R).</sent>
+				<sent id ="15">The Prophet (Sm) married Hazrat Khadija (R) at the age of twenty- five.</sent>
+				<sent id ="16">Hazrat Khadija(R) was then forty years old.</sent>
+				<sent id ="17">At that time, the people of Arabia forgot Allah.</sent>
+				<sent id ="18">They used to worship hundreds of gods and goddeses and a lot of idols.</sent>
+				<sent id ="19">Even they kept 360 idols in the Holy Kaaba.</sent>
+				<sent id ="20">They began quarrels, fights and bloodsheds among themselves even for trifling matters.</sent>
+				<sent id ="21">These continued for years together.</sent>
+				<sent id ="22">They engaged themselves in the vile crimes like murder, theft, dacoity, looting and snatching.</sent>
+				<sent id ="23">Gambling, drinking, usury were day to day affairs in the society.</sent>
+				<sent id ="24">Slaves and womenfolk were oppressed.</sent>
+				<sent id ="25">Hazrat Muhammad (Sm) had a mind to stop these kinds of bad activities.</sent>
+				<sent id ="26">So he consulted with his friends and formed a peace organization called Hilful Fuzul.</sent>
+				<sent id ="27">The Holy Prophet (Sm) was a man of very good virtues.</sent>
+				<sent id ="28">He was gentle, tender, polite and modest.</sent>
+				<sent id ="29">He was an owner of highly good character.</sent>
+				<sent id ="30">He used to speak the truth always.</sent>
+				<sent id ="31">He had honesty, truthfulness and gracious nature.</sent>
+				<sent id ="32">So the people of Makkah called him Al-Amin.</sent>
+				<sent id ="33">Al-Amin means most trustworthy and a most reliable custodian.</sent>
+				<sent id ="34">Everybody used to trust him.</sent>
+				<sent id ="35">All kept their valuable things under his custody.</sent>
+				<sent id ="36">He never broke their trust.</sent>
+				<sent id ="37">The Great Prophet (Sm) lived a very simple life.</sent>
+				<sent id ="38">He remained pure, neat and clean.</sent>
+				<sent id ="39">The Holy Prophet (Sm) attained Nabuwat (prophethood) at the age of forty.</sent>
+				<sent id ="40">Jibrail (A) informed him that Allah had chosen him as a Nabi and Rasul.</sent>
+				<sent id ="41">Then the Prophet (Sm) started preaching Allah's chosen religion Islam.</sent>
+				<sent id ="42">He preached, Allah is one and unique.</sent>
+				<sent id ="43">Hazrat Muhammad (Sm) is His Nabi and Rasul.</sent>
+				<sent id ="44">He told the people to offer ibadat to none but Allah.</sent>
+				<sent id ="45">But the non-believers and the idolators (mushriqs) became angry at this.</sent>
+				<sent id ="46">They all became enemies to him.</sent>
+				<sent id ="47">They started unspeakable oppression, torture and tribulation even upon his companions.</sent>
+				<sent id ="48">In Madinah, he lived peacefully together with the people of different communities.</sent>
+				<sent id ="49">They accepted him as the chief leader of Madinah.</sent>
+				<sent id ="50">The messengers reached the dawah (invitation) of Islam to them.</sent>
+				<sent id ="51">But the Quraish with many other races opposed the Muslims.</sent>
+				<sent id ="52">Many battles took place at Badr, Uhud, Khandaq and at many places.</sent>
+				<sent id ="53">Finally, Islam was victorious.</sent>
+				<sent id ="54">He had sweet behaviours to slaves.</sent>
+				<sent id ="55">He never hated or abused or beat them.</sent>
+				<sent id ="56">He purchased many slaves from others and set them free.</sent>
+				<sent id ="57">He would himself do his own work.</sent>
+				<sent id ="58">He would wash his own clothes and clean his house.</sent>
+				<sent id ="59">He would collect dry firewood for cooking and milked goats.</sent>
+				<sent id ="60">The holy mosque Masjid-e-Nabawi was constructed after his Hijrat (migration) to Madinah.</sent>
+				<sent id ="61">During that time he himself carried stones.</sent>
+				<sent id ="62">In the Battle of Khandaq, he himself dug the trenches and carried the mud away.</sent>
+				<sent id ="63">The Holy Prophet (Sm) said, Those who work for you, are your brothers.</sent>
+				<sent id ="64">Whatever you eat, feed them the same.</sent>
+				<sent id ="65">Give them the same quality of dress as you wear.</sent>
+				<sent id ="66">Help them when there is a hard work.</sent>
+				<sent id ="67">In those days, people would oppress the womenfolk.</sent>
+				<sent id ="68">Baby daughters were buried alive.</sent>
+				<sent id ="69">Mothers were not given due honour and behaved like servants.</sent>
+				<sent id ="70">Women did not inherit the father's or the husband's property after his death.</sent>
+				<sent id ="71">He gave due dignity to women.</sent>
+				<sent id ="72">He declared women's right to the father's and husband's property left by them.</sent>
+				<sent id ="73">The Holy Prophet (Sm) gave high dignity to womenfolk.</sent>
+				<sent id ="74">He said, Paradise for a child lies at the feet of a mother.</sent>
+				<sent id ="75">The Prophet (Sm) was the model of kindness and forgiveness.</sent>
+				<sent id ="76">He used to show kindness and forgiveness to all.</sent>
+				<sent id ="77">He never took revenge upon his enemy even if he got him within his reach.</sent>
+				<sent id ="78">Rather he forgave him.</sent>
+				<sent id ="79">The Quraish of Makkah gave him and his companions unbearable torture.</sent>
+				<sent id ="80">But he declared general amnesty to them after his victory of Makkah.</sent>
+				<sent id ="81">The Prophet (Sm) loved birds and animals very much.</sent>
+				<sent id ="82">He did not like to trouble any animals or creatures unnecessarily.</sent>
+				<sent id ="83">Cattle, goats, chicken etc. are domestic pets.</sent>
+				<sent id ="84">He urged people to give them food and water timely.</sent>
+				<sent id ="85">Once a companion of the Prophet (Sm) came to him with a young bird.</sent>
+				<sent id ="86">The mother bird was crying and flying over his (companion's) head.</sent>
+				<sent id ="87">The life and character of the Prophet (Sm) is the best model for us.</sent>
+				<sent id ="88">(Surely in the life of the Prophet there lies the best model for you.)</sent>
+				<sent id ="89">We are the Ummat of the Holy Prophet (Sm).</sent>
+				<sent id ="90">We will follow him in all the activities of our life.</sent>
+				<sent id ="91">The Holy Prophet (Sm) died on the 12th Rabiul Awal of the 11th Hijjri.</sent>
+				<sent id ="92">No other Nabi or Rasul will come to earth upto the doomsday.</sent>
+				<sent id ="93">His holy grave is at the Masjid-e-Nababi.</sent>
+				<sent id ="94">Our Holy Prophet (Sm) is the last Nabi and Rasul.</sent>
+				<sent id ="95">No more Nabi or Rasul will be sent by Allah in this world.</sent>
+				<sent id ="96">Many Nabis and Rasuls came to the world before him.</sent>
+				<sent id ="97">In Class III, we came to know some of them.</sent>
+				<sent id ="98">The names of some other Nabis and Rasuls are given below.</sent>
+				<sent id ="99">We will pay our respect to all the Nabis and Rasuls.</sent>
+				<sent id ="100">We will say Alaihissalam when we will utter any of their names.</sent>
+				<sent id ="101">We must believe that all of them were sent by Allah.</sent>
+				<sent id ="102">But we will follow our Prophet (Sm).</sent>
+				<sent id ="103">In the way of life, we will follow him and his guidance.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

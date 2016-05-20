@@ -1,0 +1,103 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-budh-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.654</idno>
+				<idno type="Number of sentences">75</idno>
+				<idno type="Number of tokens">559</idno>
+				<idno type="Number of token types">279</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t48">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">All men are bound to work.</sent>
+				<sent id ="2">The root of Buddhism is work.</sent>
+				<sent id ="3">As one works, so does one reap.</sent>
+				<sent id ="4">If one does good works, one is praised by all.</sent>
+				<sent id ="5">One becomes happy.</sent>
+				<sent id ="6">Life goes well.</sent>
+				<sent id ="7">This is called good deed.</sent>
+				<sent id ="8">All men on earth are not equal.</sent>
+				<sent id ="9">Man becomes free from diseases by his good deeds.</sent>
+				<sent id ="10">He gets a long life.</sent>
+				<sent id ="11">He possesses much wealth and becomes rich.</sent>
+				<sent id ="12">He is born in a high family.</sent>
+				<sent id ="13">He becomes wise.</sent>
+				<sent id ="14">Now you will learn what Buddha has said about good deeds.</sent>
+				<sent id ="15">It was the Jetban Bihar in Shravasti.</sent>
+				<sent id ="16">There came to Buddha the son of Todeya Brahmin, Shubha Manav.</sent>
+				<sent id ="17">What's the reason behind it?</sent>
+				<sent id ="18">Buddha told in reply-Works on earth control the living beings.</sent>
+				<sent id ="19">He who kills animals becomes short-lived.</sent>
+				<sent id ="20">He who causes troubles to animals gets sick.</sent>
+				<sent id ="21">He who has jealousy in his mind becomes ugly.</sent>
+				<sent id ="22">Buddha has also said-Those who do not donate become poor these are evil deeds.</sent>
+				<sent id ="23">Now we shall learn what good deeds are.</sent>
+				<sent id ="24">Those who do not kill animals become long-lived.</sent>
+				<sent id ="25">Those who donate become rich.</sent>
+				<sent id ="26">Those who have no jealousy in their mind become good looking.</sent>
+				<sent id ="27">You will worship the person who deserves it.</sent>
+				<sent id ="28">Do not be boastful.</sent>
+				<sent id ="29">Bow to the person who deserves it.</sent>
+				<sent id ="30">Those who perform these good deeds are born in high families.</sent>
+				<sent id ="31">The consequences of evil deeds are miserable.</sent>
+				<sent id ="32">The consequences of good deeds bring happiness.</sent>
+				<sent id ="33">Now we shall hear two stories about the consequences of works.</sent>
+				<sent id ="34">There lived a hunter named Nanda in Shravasti.</sent>
+				<sent id ="35">He lived on hunting.</sent>
+				<sent id ="36">Everyday Nanda sold meat.</sent>
+				<sent id ="37">He did not eat rice without meat.</sent>
+				<sent id ="38">One day, when he sat for taking meal, he saw there was no meat.</sent>
+				<sent id ="39">There was a cow in front of his kitchen.</sent>
+				<sent id ="40">The cow was then grazing.</sent>
+				<sent id ="41">Nanda, at once, cut off the tongue of the cow with a knife.</sent>
+				<sent id ="42">He made fire and sizzled the tongue on it.</sent>
+				<sent id ="43">Then he ate it with a great relish.</sent>
+				<sent id ="44">But the consequence of sin is horrible.</sent>
+				<sent id ="45">Nanda's tongue fell off on his dish.</sent>
+				<sent id ="46">Nanda groaned to death.</sent>
+				<sent id ="47">Nanda committed sin.</sent>
+				<sent id ="48">So he entered the shocking hell.</sent>
+				<sent id ="49">Now we shall hear a story about good deeds.</sent>
+				<sent id ="50">His name was Purna.</sent>
+				<sent id ="51">Though Purna was poor, he performed the Uposath Shil regularly.</sent>
+				<sent id ="52">Purna was so poor that he could not earn his daily meals.</sent>
+				<sent id ="53">On an Uposath day, Purna took the Ashtashil.</sent>
+				<sent id ="54">It was a day for performing the Uposath.</sent>
+				<sent id ="55">Purna was about to sit to eat what little food he had.</sent>
+				<sent id ="56">Then Sariputra, a disciple of Buddha, was present at his door for alms.</sent>
+				<sent id ="57">Purna gave away the food prepared for himself to Sariputra with respect.</sent>
+				<sent id ="58">Sariputra Sthabir praised Purna for his donation.</sent>
+				<sent id ="59">He blessed him.</sent>
+				<sent id ="60">The poor Purna, because of his donation, became very rich soon.</sent>
+				<sent id ="61">Man is the best of all living beings.</sent>
+				<sent id ="62">He can do good deeds with his body, mind and words.</sent>
+				<sent id ="63">Good deeds bring happiness.</sent>
+				<sent id ="64">So you will always do good deeds.</sent>
+				<sent id ="65">Respect the seniors.</sent>
+				<sent id ="66">Listen to what they say.</sent>
+				<sent id ="67">Help the poor.</sent>
+				<sent id ="68">Do not cause troubles to the birds and animals.</sent>
+				<sent id ="69">Do not do what will hurt your parents.</sent>
+				<sent id ="70">It is sin if you do evil deeds.</sent>
+				<sent id ="71">Everybody will dislike you.</sent>
+				<sent id ="72">Nobody will love you.</sent>
+				<sent id ="73">Be jealous of none.</sent>
+				<sent id ="74">Always keep yourself away from doing evil deeds.</sent>
+				<sent id ="75">Always go to Buddha, Dharma and the Sangha for refuge.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

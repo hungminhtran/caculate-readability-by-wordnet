@@ -1,0 +1,92 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.556</idno>
+				<idno type="Number of sentences">64</idno>
+				<idno type="Number of tokens">583</idno>
+				<idno type="Number of token types">247</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t43">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We are young.</sent>
+				<sent id ="2">We live in a family with our parents, brother and sister.</sent>
+				<sent id ="3">Besides, there are many neighbours, relatives and friends.</sent>
+				<sent id ="4">We have classmates and teachers and others in the school.</sent>
+				<sent id ="5">All of them are part of our society.</sent>
+				<sent id ="6">People of different ages live in our society.</sent>
+				<sent id ="7">Some are senior to us and some are junior to us.</sent>
+				<sent id ="8">Now we will write the names in the table below.</sent>
+				<sent id ="9">What can we learn from the table?</sent>
+				<sent id ="10">In our house and school there are some people who are senior to us.</sent>
+				<sent id ="11">The senior persons give their opinion on different matters.</sent>
+				<sent id ="12">Sometimes the young also express their views.</sent>
+				<sent id ="13">A person can express his personal views, give advice on different matters.</sent>
+				<sent id ="14">Different persons can have different ideas on different matters.</sent>
+				<sent id ="15">No work can be done properly if the opinions differ.</sent>
+				<sent id ="16">For this the majority must have the same opinion.</sent>
+				<sent id ="17">All should come to a conclusion.</sent>
+				<sent id ="18">We must accept the opinion of the majority.</sent>
+				<sent id ="19">When we obey the opinion of the majority, it is called democratic attitude.</sent>
+				<sent id ="20">We must listen to our seniors in the house and in the school.</sent>
+				<sent id ="21">We shall respect the opinion of the majority.</sent>
+				<sent id ="22">We shall show democratic attitude in all activities.</sent>
+				<sent id ="23">How to choose a class captain or class leader?</sent>
+				<sent id ="24">In school every class has a captain or a class-leader.</sent>
+				<sent id ="25">Many of us would like to be a captain.</sent>
+				<sent id ="26">But is it possible to make all captains?</sent>
+				<sent id ="27">How is it possible to make one a captain?</sent>
+				<sent id ="28">A story will let us know all about it.</sent>
+				<sent id ="29">It is class III Section C. The year begins.</sent>
+				<sent id ="30">The class has thirty students.</sent>
+				<sent id ="31">One student will be elected captain.</sent>
+				<sent id ="32">Naila expresses her desire that she wants to be a captain.</sent>
+				<sent id ="33">Seeing it, Mamun also wants to be the captain.</sent>
+				<sent id ="34">Three or four other students also express the same desire.</sent>
+				<sent id ="35">The teacher face a problem as many students want to become captain.</sent>
+				<sent id ="36">How to elect the captain?</sent>
+				<sent id ="37">At last the captain was elected according to a rule.</sent>
+				<sent id ="38">He then called their names one by one.</sent>
+				<sent id ="39">Counting the hands he wrote the number against the name of the prospective candidate.</sent>
+				<sent id ="40">It was seen that the number against Naila's name was the largest.</sent>
+				<sent id ="41">From the story we have learnt about how to choose a captain in the classroom.</sent>
+				<sent id ="42">Besides captain can be elected by writing the name on paper.</sent>
+				<sent id ="43">In this way the opinions of all can be brought into a single opinion.</sent>
+				<sent id ="44">We all shall take part in electing a class leader.</sent>
+				<sent id ="45">The class leader is our classmate.</sent>
+				<sent id ="46">He is one of us.</sent>
+				<sent id ="47">He is our friend.</sent>
+				<sent id ="48">He is elected by all.</sent>
+				<sent id ="49">So he has a lot of duties to his classmates.</sent>
+				<sent id ="50">Everyday he has a lot of works to do.</sent>
+				<sent id ="51">A class-leader does many duties everybody.</sent>
+				<sent id ="52">So a class captain does many things.</sent>
+				<sent id ="53">A Captain cannot perform duties alone.</sent>
+				<sent id ="54">In our house we cannot do without the help of our parents, brothers and sisters.</sent>
+				<sent id ="55">In our school we cannot study without the help of our class captain.</sent>
+				<sent id ="56">So in the class we shall help the class captain in different activities.</sent>
+				<sent id ="57">For, he is our elected leader.</sent>
+				<sent id ="58">We will always keep in mind that he is our classmate and friend.</sent>
+				<sent id ="59">Many of us may strongly desire to be the class leader.</sent>
+				<sent id ="60">What can we do then?</sent>
+				<sent id ="61">New leader may be elected from time to time.</sent>
+				<sent id ="62">This may fulfill the desire of many.</sent>
+				<sent id ="63">This will create new leaders also.</sent>
+				<sent id ="64">We will always show democratic attitude in electing a leader.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

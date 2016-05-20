@@ -1,0 +1,140 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-bdGlobal-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.787</idno>
+				<idno type="Number of sentences">112</idno>
+				<idno type="Number of tokens">1497</idno>
+				<idno type="Number of token types">593</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t88">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">There are many social problems in Bangladesh.</sent>
+				<sent id ="2">Juvenile offence and drug addiction are two major problems of them.</sent>
+				<sent id ="3">At present, these two major problems are the concern of everybody.</sent>
+				<sent id ="4">Different offences committed either by the immature boys and girls or the juvenile are called juvenile delinquency.</sent>
+				<sent id ="5">Social scientists and the lawyers differ on the age-range of juvenile offenders.</sent>
+				<sent id ="6">Offensive work done by the boys and girls between 7-16 years are called juvenile offence in Bangladesh, India and Srilanka.</sent>
+				<sent id ="7">On the otherhand, the age- range of juvenile offenders in Pakistan and Thailand is 7-18 years.</sent>
+				<sent id ="8">In Japan, this age- range is 14-20 years.</sent>
+				<sent id ="9">Juvenile offenders break the law and the rule of the state and the society and that's why they are juvenile offenders.</sent>
+				<sent id ="10">The juvenile offenders of our country are associated with these offences.</sent>
+				<sent id ="11">Juveniles become offenders for different reasons.</sent>
+				<sent id ="12">Poverty is the main reason of juvenile offence in our country.</sent>
+				<sent id ="13">Many desires or demands of the juveniles of poor families remain unfulfilled.</sent>
+				<sent id ="14">For this reason, they suffer from frustration and this frustration leads them towards offence.</sent>
+				<sent id ="15">The juveniles may also become offenders if they do not get a healthy family life and proper social environment.</sent>
+				<sent id ="16">Many juveniles become offenders due to following reasons.</sent>
+				<sent id ="17">Want of love and care.</sent>
+				<sent id ="18">Premature death of parents or their divorce.</sent>
+				<sent id ="19">Excessive punishment / monitoring of the parents.</sent>
+				<sent id ="20">The unusual conjugal relationship between parents and their bad conduct also sometimes makes children offence-prone.</sent>
+				<sent id ="21">There are some parents who are offenders, bad mannered indifferent, incapable and absent-minded about family.</sent>
+				<sent id ="22">The children of this type of parents behave abnormally in the family and later on grow up as offenders.</sent>
+				<sent id ="23">Many young boys and girls become offenders for the want of proper recreation.</sent>
+				<sent id ="24">On the other hand, those who are deprived of these facilities seek other paths to get rid of mental dissatisfaction.</sent>
+				<sent id ="25">It is they who later on get involved with different types of offences.</sent>
+				<sent id ="26">There are slums in different parts and industrial area of the town.</sent>
+				<sent id ="27">The slum environment and many bad incidents of that place make the children offenders.</sent>
+				<sent id ="28">The young children of the slum also get involved with offences due to bad company and poverty.</sent>
+				<sent id ="29">The poor children become compelled to earn money engaging in many illegal activities at an early age.</sent>
+				<sent id ="30">They sometimes spend this money in gambling, taking wine or drugs and watching obscene movies.</sent>
+				<sent id ="31">They get inclined towards crime in their attempt to earn money or by being greedy.</sent>
+				<sent id ="32">Physical or mental problem or deformity creates inferiority complex in the mind of the children.</sent>
+				<sent id ="33">Many may become criminals/ offenders due to this.</sent>
+				<sent id ="34">They also may become criminals/ offenders due not getting proper environment for flourishing their genius.</sent>
+				<sent id ="35">The children of those parents, who frequently change their working place, cannot cope with a new environment every time.</sent>
+				<sent id ="36">They face a problem in selecting their friends or associates.</sent>
+				<sent id ="37">In this way, many may become offenders due to bad company.</sent>
+				<sent id ="38">At present, another type of new juvenile offence is seen in the society due to abuses of mobile and internet.</sent>
+				<sent id ="39">Besides, the juvenile offenders sometimes commit robbery in a group and also forcibly collect tools from the businessmen.</sent>
+				<sent id ="40">Sometimes, they even murder.</sent>
+				<sent id ="41">The peace of the family with such juvenile offenders is disturbed.</sent>
+				<sent id ="42">Recently, eve teasing by juvenile offenders is increasing in all places in both town and village.</sent>
+				<sent id ="43">They utter filthy and offensive words to the girls.</sent>
+				<sent id ="44">The girls cannot go to school and colleges safely.</sent>
+				<sent id ="45">If they do not respond to illegal proposal of derailed juveniles, they kidnap and physically torture the girls.</sent>
+				<sent id ="46">They also throw acid on them.</sent>
+				<sent id ="47">In their attempt to protest, the guardians sometimes become victim of their attack.</sent>
+				<sent id ="48">The institutional education of the girls is sometimes closed due to the torture of the degraded juvenile.</sent>
+				<sent id ="49">The juvenile offenders are frequently related to drug addiction and other bad habits.</sent>
+				<sent id ="50">Tendency of juvenile offence is increasing in Bangladesh.</sent>
+				<sent id ="51">The following steps should be taken to prevent this problem.</sent>
+				<sent id ="52">For this, it is necessary to create a healthy atmosphere for the mental flourishment of the offspring in the family.</sent>
+				<sent id ="53">Their movements should be watched over.</sent>
+				<sent id ="54">Their friends and associates should be inquired of.</sent>
+				<sent id ="55">An easy and normal relationship should be built with the offspring.</sent>
+				<sent id ="56">The poverty of the family is a main reason of committing offence by the juvenile.</sent>
+				<sent id ="57">For this reason, employment opportunities of the parents and the development of economic condition of the parents must be ensured.</sent>
+				<sent id ="58">The government and different non-government organizations must come forward to this effect.</sent>
+				<sent id ="59">All children and juvenile must be brought under the primary and the secondary education.</sent>
+				<sent id ="60">It is necessary to build a library and gymnasium in every area and Mohalla for the mental flourishment of the children and juveniles.</sent>
+				<sent id ="61">Apart from all activities mentioned above, the children and the juveniles must be kept away from doing any bad activity.</sent>
+				<sent id ="62">For this reason, there should be arrangement of showing them local and foreign movies which will give them pure pleasure.</sent>
+				<sent id ="63">These movies should also be informative on scientific and literary fields.</sent>
+				<sent id ="64">Pornography, blue films and other obscene publication should be fully banned.</sent>
+				<sent id ="65">Child labour should be forbidden.</sent>
+				<sent id ="66">Drug addiction begins by mixing with the drug addict- friends.</sent>
+				<sent id ="67">The juveniles take drug being instigated by friends only to get momentary excitement.</sent>
+				<sent id ="68">They do this without knowing anything about the harmful sides of drug.</sent>
+				<sent id ="69">Later on, this becomes the cause of their death.</sent>
+				<sent id ="70">The juveniles are by nature curious.</sent>
+				<sent id ="71">As a result, many start to take drugs only out of curiosity.</sent>
+				<sent id ="72">The juvenile sometimes steals Biri or cigarette from the pockets of their father or other elderly person only to satisfy their curiosity.</sent>
+				<sent id ="73">This curiosity at one time leads them to smoking.</sent>
+				<sent id ="74">They later on develop the habit of smoking into the habit of taking other intoxicating items, such as- hemp, phencidyl, heroine, yaaba etc.</sent>
+				<sent id ="75">Many start to suffer from frustration due to unemployment, loneliness, death of dear ones, betrayal in love, family disturbance etc.</sent>
+				<sent id ="76">To get rid of this frustration and at the instigation of friends or following the friends, many start taking drug-items.</sent>
+				<sent id ="77">Later on, this turns into Inclination towards smoking at the instigation of friends.</sent>
+				<sent id ="78">At one stage, they become drug addicts.</sent>
+				<sent id ="79">The influence of bad culture is another main reason of drug addiction.</sent>
+				<sent id ="80">At present, the culture of one country is being easily influenced by the culture of another country through cinema, TV channel, internet etc.</sent>
+				<sent id ="81">A group of juveniles are being misguided and lost due to the clash of two different cultures.</sent>
+				<sent id ="82">Drug addiction has now become a frightening problem in our social life.</sent>
+				<sent id ="83">Its effect in our socio-religious life is also very serious.</sent>
+				<sent id ="84">A drug addict may suffer from physical disease such as; heart-disease, TB, cancer, and asthma.</sent>
+				<sent id ="85">His mental health also becomes very weak for this.</sent>
+				<sent id ="86">The drug addicts suffer from frustration and inferiority complex.</sent>
+				<sent id ="87">They not only do their own harm, in addition to this they cause chaos in the society being the victim of timidity, anxiety and excitement.</sent>
+				<sent id ="88">The effects of drug also create different complex problems in family life.</sent>
+				<sent id ="89">The peace and happiness of the whole family is disturbed by this.</sent>
+				<sent id ="90">There is always quarrel in the family of a drug-addict child.</sent>
+				<sent id ="91">That family does not have any respect from the neighbours.</sent>
+				<sent id ="92">The family often becomes ruined for arranging money to buy drugs.</sent>
+				<sent id ="93">Besides, incidents like murder, suicide, fleeing from home or getting lost also happen.</sent>
+				<sent id ="94">Drug addiction must be resisted and controlled with a view to saving the persons of the society from the bad side of drug.</sent>
+				<sent id ="95">Preventive steps are most fruitful in the resistance of drug addiction.</sent>
+				<sent id ="96">For this, emphasis should be given on moral education.</sent>
+				<sent id ="97">The parents and the elderly persons of the family should play an active role to teach children religious and moral values from their early age.</sent>
+				<sent id ="98">The harmful sides of drug and all religious restrictions to this effect must be informed to everybody.</sent>
+				<sent id ="99">In fine, anti-drug awareness and social movement must be built through religious education and other means.</sent>
+				<sent id ="100">They can make people aware of the bad sides of drug by arranging discussion- meeting.</sent>
+				<sent id ="101">They can inspire people, especially the young people to follow the promise Say No to drug by arranging different programmes.</sent>
+				<sent id ="102">Besides, anti-drug awareness can also be created by Newspaper, Radio.</sent>
+				<sent id ="103">Television, cinema, poster, bill board and leaflet.</sent>
+				<sent id ="104">Side by side, steps should be taken to stop the production of obscene films and the show of pornography.</sent>
+				<sent id ="105">Besides, it is essential to take the following steps for addressing drug addiction problem.</sent>
+				<sent id ="106">The production and the advertisement of smoking and other intoxicating items must be stopped.</sent>
+				<sent id ="107">Publicity through advertisement at both govt.</sent>
+				<sent id ="108">and non govt.</sent>
+				<sent id ="109">initiative must be made to inform the people about the harmful side of drug addiction.</sent>
+				<sent id ="110">Alternative employment opportunities must be created for the workers engaged in the production of drug-items.</sent>
+				<sent id ="111">The smoking of teachers in front of students should be considered as an offence.</sent>
+				<sent id ="112">The marketing of intoxicating items produced and used as medicine should be controlled.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

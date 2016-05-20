@@ -1,0 +1,164 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-13</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.879</idno>
+				<idno type="Number of sentences">136</idno>
+				<idno type="Number of tokens">1861</idno>
+				<idno type="Number of token types">509</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t57">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">You have learnt in class VI that magnet is a kind of substance, which has attractive and directive properties.</sent>
+				<sent id ="2">Magnetic substances can be transformed into magnets by rubbing method and electrical method.</sent>
+				<sent id ="3">Is there any other method for transforming magnetic substances into magnets?</sent>
+				<sent id ="4">How far does the attractive force of a magnet work?</sent>
+				<sent id ="5">Why does a magnet always indicate north and south?</sent>
+				<sent id ="6">You will get answers to these questions in this chapter.</sent>
+				<sent id ="7">Experiment: Take an iron nail and some iron fillings.</sent>
+				<sent id ="8">Put the nail in the iron filling.</sent>
+				<sent id ="9">You will see that the nail does not attract the iron fillings.</sent>
+				<sent id ="10">Now take a bar magnet and bring one of its poles near to or in contact with the nail.</sent>
+				<sent id ="11">This time the iron fillings will stick to the nail, i.e. the nail will attract the iron fillings.</sent>
+				<sent id ="12">Take away the bar magnet, the iron fillings will fall off from the nail.</sent>
+				<sent id ="13">It means that the iron nail turned into a temporary magnet due to the influence of the bar magnet.</sent>
+				<sent id ="14">If iron fillings are not available, you may use some iron nails or iron paper clips to conduct this experiment.</sent>
+				<sent id ="15">When the nails or iron paper clips are kept together, they do not attract one another.</sent>
+				<sent id ="16">Take a bar magnet near to the nails or to the clips.</sent>
+				<sent id ="17">You will see that the nearest nail or clip jumps to stick to the magnet.</sent>
+				<sent id ="18">In this Fig, 14.1: Demonstration of magnetic induction.</sent>
+				<sent id ="19">way, a chain of nails or clips will be formed.</sent>
+				<sent id ="20">This shows that each of the nails or clips has turned into a magnet.</sent>
+				<sent id ="21">Now hold the first nail or clip in one hand and take away the bar magnet.</sent>
+				<sent id ="22">You will see that the nails or clips fall off.</sent>
+				<sent id ="23">This means that the nails were transformed into temporary magnets due to the influence of the bar magnet.</sent>
+				<sent id ="24">Iron is a magnetic substance.</sent>
+				<sent id ="25">This type of temporary magnetism exists as long as the permanent magnet remains to be present.</sent>
+				<sent id ="26">When the magnet is taken away, this magnetic substance loses its magnetism.</sent>
+				<sent id ="27">The magnet which causes magnetic induction is called inducting magnet.</sent>
+				<sent id ="28">Its magnetism is known as inducting magnetism.</sent>
+				<sent id ="29">The magnetic substance, which is converted into a temporary magnet due to induction is called inducted magnet.</sent>
+				<sent id ="30">Its magnetism is known as inducted magnetism.</sent>
+				<sent id ="31">We can know about the nature of the poles of an induced magnet by performing another experiment.</sent>
+				<sent id ="32">Experiment: Take a needle magnet.</sent>
+				<sent id ="33">It is at rest indicating north and south.</sent>
+				<sent id ="34">Take also a bar magnet.</sent>
+				<sent id ="35">Now place a soft iron bar in between the two magnets.</sent>
+				<sent id ="36">You will observe that the north pole of the needle magnet has moved away.</sent>
+				<sent id ="37">That is, iron bar repels the bar magnet.</sent>
+				<sent id ="38">Repulsion causes only between two similar poles.</sent>
+				<sent id ="39">Therefore, the iron bar has developed a north pole at the end which is nearer to the needle.</sent>
+				<sent id ="40">The other end which is nearer to the north pole of the bar magnet has developed a south pole.</sent>
+				<sent id ="41">When a magnet is brought near to a magnetic substance, a force of attraction takes place between the two.</sent>
+				<sent id ="42">Now can you say what the reason is?</sent>
+				<sent id ="43">Since, opposite poles attract each other, a force of attraction develops between the magnet and the magnetic substance.</sent>
+				<sent id ="44">So, it is said that induction is followed by attraction.</sent>
+				<sent id ="45">We know that a force is a push or pull.</sent>
+				<sent id ="46">You push or pull the door to open it.</sent>
+				<sent id ="47">You need to touch the door to apply a force on it.</sent>
+				<sent id ="48">You cannot apply force from a distance.</sent>
+				<sent id ="49">But if you place an iron nail near to a magnet, the magnet attracts the nail without touching it.</sent>
+				<sent id ="50">There is no need for a touch to apply magnetic force.</sent>
+				<sent id ="51">This force acts from a distance.</sent>
+				<sent id ="52">This force attracts any nail kept in the confounding area of a magnet.</sent>
+				<sent id ="53">This area is called magnetic field.</sent>
+				<sent id ="54">If you want to observe the influence of a magnetic field, you need to put a small needle magnet near to another magnet.</sent>
+				<sent id ="55">You will see that the needle turns away.</sent>
+				<sent id ="56">Slowly move the needle away, the magnitude of its turning decreases gradually.</sent>
+				<sent id ="57">The needle does not turn at all when it reaches a fixed distance.</sent>
+				<sent id ="58">This means there is no more influence of magnetic force at this point.</sent>
+				<sent id ="59">Magnetic force remains active in a certain surrounding area of a magnet.</sent>
+				<sent id ="60">Therefore, the space surrounding a magnet within which the influence of the magnet is observed is called its magnetic field.</sent>
+				<sent id ="61">When a magnetic substance is placed anywhere within a magnetic field, it experiences the attractive force of the magnet.</sent>
+				<sent id ="62">You cannot see a magnetic force but you can see its effects.</sent>
+				<sent id ="63">Place a bar magnet on a white sheet of paper and sprinkle some iron fillings over the paper.</sent>
+				<sent id ="64">Now gently tap the paper and you will see that the iron fillings arrange themselves in a special pattern as shown in the figure.</sent>
+				<sent id ="65">At some places in the iron fillings are found to be dense while at others these are much light.</sent>
+				<sent id ="66">This pattern represents the magnetic field pattern of a bar magnet.</sent>
+				<sent id ="67">It was Michael Faraday, a British scientist, who first used the term magnetic field in 1845.</sent>
+				<sent id ="68">Now you need a bit imagination.</sent>
+				<sent id ="69">Suppose, a free unit North Pole is brought near to the north pole of a bar magnet.</sent>
+				<sent id ="70">What will happen?</sent>
+				<sent id ="71">Since, similar poles repel each other, the unit north pole moves away from the north pole or the bar magnet.</sent>
+				<sent id ="72">But the South Pole of the bar magnet attracts the unit north pole.</sent>
+				<sent id ="73">As a result, the unit pole instead of moving away in a straight line moves in a slightly curved line towards the South Pole.</sent>
+				<sent id ="74">In this way the more the unit pole goes away, the weaker the repulsion force becomes and the stronger is the attraction force.</sent>
+				<sent id ="75">This curved path is known as magnetic lines of force.</sent>
+				<sent id ="76">In other words, the path in a magnetic field along which an isolated and free north pole travels is called magnetic lines of force.</sent>
+				<sent id ="77">A magnetic lines of force starts from North Pole to the direction of South Pole.</sent>
+				<sent id ="78">In reality there is no existence of a free and isolated north pole.</sent>
+				<sent id ="79">Therefore, magnetic lines of force do not really exist.</sent>
+				<sent id ="80">These are imaginary.</sent>
+				<sent id ="81">Experiment: Fix a white sheet of paper on a drawing board with pin.</sent>
+				<sent id ="82">Place a bar magnet, at the middle of the paper and draw the outlines of the magnet with a pencil.</sent>
+				<sent id ="83">Place a small compass needle very close to the north pole of the magnet.</sent>
+				<sent id ="84">When the compass needle comes to rest, mark its two ends with dots.</sent>
+				<sent id ="85">Next place again the south pole of the needle on the dot mark made earlier for the North Pole.</sent>
+				<sent id ="86">Put another dot mark on the north end of the needle.</sent>
+				<sent id ="87">Take away the compass when it reaches the south pole of the magnet and draw a line through the dot marks with a pencil.</sent>
+				<sent id ="88">The curved line drawn in this way from the North Pole to the South Pole of the magnet represents a magnetic line of force.</sent>
+				<sent id ="89">Following the same procedure draw another magnetic line of force.</sent>
+				<sent id ="90">In this way you can draw a number of magnetic lines of force as shown in figure 14.</sent>
+				<sent id ="91">This pattern of the magnetic lines of force is called the magnetic field pattern.</sent>
+				<sent id ="92">Two magnetic lines of force never intersect each other.</sent>
+				<sent id ="93">The intensity or strength of a magnetic field is stronger at points where the lines of force are close to one another.</sent>
+				<sent id ="94">It is weaker at points where these lines are away from one another.</sent>
+				<sent id ="95">Magnetic lines of force start vertically from North Pole and meet at the south Pole.</sent>
+				<sent id ="96">We know that magnets have a directive property.</sent>
+				<sent id ="97">This indicates that a strong magnet must have influenced the bar magnet, otherwise it would have been pointing to any direction.</sent>
+				<sent id ="98">But there is no magnet nearby.</sent>
+				<sent id ="99">Then where is this invisible magnet?</sent>
+				<sent id ="100">Is it that the earth itself is a magnet?</sent>
+				<sent id ="101">Indeed it is.</sent>
+				<sent id ="102">Dr Gilbert, a British scientist, came to the conclusion by performing different experiments that the earth is a big magnet.</sent>
+				<sent id ="103">It may be imagined that there is long bar magnet lying hidden under the earth from one pole to the other.</sent>
+				<sent id ="104">This imaginary magnet is called the terrestrial magnet.</sent>
+				<sent id ="105">The terrestrial magnet has its north pole along the geographical South Pole and South Pole along the geographical North Pole.</sent>
+				<sent id ="106">Figure 14.5 shows the lines of direction in which a freely suspended needle magnet indicates at different places of the earth.</sent>
+				<sent id ="107">It is found that the needle remains parallel to the surface of the earth near the equator.</sent>
+				<sent id ="108">If the needle is taken gradually towards the north, its north pole sinks or dips more and more towards the surface of the earth.</sent>
+				<sent id ="109">The needle sinks vertically downward west to the geographical north pole.</sent>
+				<sent id ="110">This indicates that the terrestrial south pole is located at the west to the geographical north pole.</sent>
+				<sent id ="111">This is why the terrestrial south pole attracts the north pole of the needle.</sent>
+				<sent id ="112">Similarly, if the needle is taken gradually towards the south pole, its south pole dips more and more towards the surface of the earth.</sent>
+				<sent id ="113">From the east the geographical south pole sinks vertically downward.</sent>
+				<sent id ="114">Therefore, the terrestrial north pole is located east to the geographical south pole.</sent>
+				<sent id ="115">The imaginary line joining the two poles of the terrestrial magnet is called the axis of the terrestrial magnet.</sent>
+				<sent id ="116">If an isolated and free north pole is placed in the magnetic field of a bar magnet, it Fig.</sent>
+				<sent id ="117">The pattern of magnetic lines of force; location of neutral points will be influenced by the bar magnet as well as by the terrestrial magnet.</sent>
+				<sent id ="118">At places near a magnet, the influence of the magnet is stronger than that of the terrestrial magnet.</sent>
+				<sent id ="119">North pole pointing north North pole pointing south agent is equal and opposite.</sent>
+				<sent id ="120">It means, if the bar magnet attracts the free North Pole, the terrestrial magnet repels it with equal force.</sent>
+				<sent id ="121">So, these two equal and opposite forces eliminate each other and become neutral.</sent>
+				<sent id ="122">This is why these two points are called neutral points.</sent>
+				<sent id ="123">The free north pole remains undisturbed and steady at these two points.</sent>
+				<sent id ="124">In other words, a magnet does not exert any influence at neutral points, i.e. the influence is zero.</sent>
+				<sent id ="125">Here the cross marks indicate the neutral points.</sent>
+				<sent id ="126">We talk and sing in front of a microphone.</sent>
+				<sent id ="127">A microphone transforms sound energy into electrical energy.</sent>
+				<sent id ="128">The speaker of the microphone again transforms the electrical energy into sound energy.</sent>
+				<sent id ="129">Thus we can hear words or music.</sent>
+				<sent id ="130">Magnets are used in the microphone and the speaker to transform energy from one kind to another.</sent>
+				<sent id ="131">The most important and essential use of magnets is found in the production of electricity.</sent>
+				<sent id ="132">This principle provides the foundation for the production of electricity.</sent>
+				<sent id ="133">The machine which produces electricity with the help of the magnet is called a dynamo or generator.</sent>
+				<sent id ="134">You may have seen a crane lifting up heavy loads.</sent>
+				<sent id ="135">Cranes often use magnets to lift up heavy objects such as motorcars, which are made of magnetic substances.</sent>
+				<sent id ="136">Attractive property of magnet is used in cranes.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

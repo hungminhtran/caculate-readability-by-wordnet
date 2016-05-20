@@ -1,0 +1,94 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.573</idno>
+				<idno type="Number of sentences">66</idno>
+				<idno type="Number of tokens">722</idno>
+				<idno type="Number of token types">268</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t92">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We all have our likes and dislikes.</sent>
+				<sent id ="2">We can express our opinion to have something according to our liking.</sent>
+				<sent id ="3">We can also express our disliking.</sent>
+				<sent id ="4">We will honour the opinion of one another.</sent>
+				<sent id ="5">We will give importance to one another opinion.</sent>
+				<sent id ="6">We accept the opinion of the majority in every work.</sent>
+				<sent id ="7">Consequently the democratic attitude will be developed among us.</sent>
+				<sent id ="8">We may express our opinion in various ways at home.</sent>
+				<sent id ="9">We take decisions about all sorts of work at home.</sent>
+				<sent id ="10">We will If express our own opinions to buy these things.</sent>
+				<sent id ="11">We will give our opinion to decorate the rooms of our home.</sent>
+				<sent id ="12">To keep the home neat and clean, we will express our opinion.</sent>
+				<sent id ="13">We will give our opinions about the other activities of home.</sent>
+				<sent id ="14">Let us copy in the notebooks the following table and fill it in.</sent>
+				<sent id ="15">We will also express our opinions on the various activities of the school.</sent>
+				<sent id ="16">We will work according to the opinion of the majority.</sent>
+				<sent id ="17">We have many classmates in our class.</sent>
+				<sent id ="18">We will give our opinion to find out the way to make the classroom tidy.</sent>
+				<sent id ="19">We will take our decision about these things according to the opinion of the majority.</sent>
+				<sent id ="20">All will accept the decision.</sent>
+				<sent id ="21">The class captain performs various types of duties.</sent>
+				<sent id ="22">To assist the teacher in various tasks is his main duty.</sent>
+				<sent id ="23">The class captain maintains contact with the class teacher and the headmaster for different purposes.</sent>
+				<sent id ="24">We have understood the importance of a class captain.</sent>
+				<sent id ="25">For this reason it is essential to elect somebody competent as class captain.</sent>
+				<sent id ="26">In Class Three we have learnt the method of electing a captain by raising hands.</sent>
+				<sent id ="27">The teacher, will find out the candidates who want to be the class captain.</sent>
+				<sent id ="28">If there is more than one, the teacher will write their names on the board.</sent>
+				<sent id ="29">Then he will give a piece of paper to each of the students.</sent>
+				<sent id ="30">We all will write only the name of our own favourite candidate secretly.</sent>
+				<sent id ="31">Finishing writing, we will keep the paper folded in our hands.</sent>
+				<sent id ="32">Now we will give this to the teacher in a queue.</sent>
+				<sent id ="33">We have friends of our age in our own neighbourhood.</sent>
+				<sent id ="34">There are many people of different ages.</sent>
+				<sent id ="35">We will take the opinions of all of them in various tasks.</sent>
+				<sent id ="36">We will take decisions about keeping our area neat and clean.</sent>
+				<sent id ="37">We will choose the place to put garbage according to the decision of the majority.</sent>
+				<sent id ="38">We may take up various steps to maintain law and order in our area.</sent>
+				<sent id ="39">We can also do various sorts of developmental work including planting trees.</sent>
+				<sent id ="40">We will arrange cultural and sports programmes in our area.</sent>
+				<sent id ="41">In these activities we will take decision according to the opinion of the majority.</sent>
+				<sent id ="42">We get various kinds of benefit out of it.</sent>
+				<sent id ="43">In order to live together in harmony we will value the opinions of one another.</sent>
+				<sent id ="44">We will work on the basis of the majority opinion.</sent>
+				<sent id ="45">We have the right to express our opinions on the different activities of the State.</sent>
+				<sent id ="46">For this there are different ways.</sent>
+				<sent id ="47">These- ways are given below.</sent>
+				<sent id ="48">To take a decision, an election is arranged to get the opinion of the majority.</sent>
+				<sent id ="49">Bangladesh is a democratic country.</sent>
+				<sent id ="50">We have a national parliament.</sent>
+				<sent id ="51">It is the main democratic institution of the country.</sent>
+				<sent id ="52">These are formed under the constitution and various laws of the country.</sent>
+				<sent id ="53">These institutions are run by the participation of the people.</sent>
+				<sent id ="54">The people elect their representatives to govern these institutions.</sent>
+				<sent id ="55">In a modern democratic state election is one of the means to form government.</sent>
+				<sent id ="56">The candidate who gets the highest number of votes is elected as the representative.</sent>
+				<sent id ="57">The vote is one of the means to express opinion.</sent>
+				<sent id ="58">In the democratic system the people of the country are the sole sources of power.</sent>
+				<sent id ="59">The people exercise their power through the vote.</sent>
+				<sent id ="60">They choose their representatives through the vote.</sent>
+				<sent id ="61">This is how they take part in the administration of the country.</sent>
+				<sent id ="62">The elected person is a representative of the people.</sent>
+				<sent id ="63">We will give vote to a candidate of our own choice.</sent>
+				<sent id ="64">We will accept as our representative the candidate who will get the most votes.</sent>
+				<sent id ="65">When we are older, some of us will be candidates in elections.</sent>
+				<sent id ="66">We, as the elected representatives, will always work towards the realisation of people's rights.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

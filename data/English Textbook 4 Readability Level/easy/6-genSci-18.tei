@@ -1,0 +1,105 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-18</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.831</idno>
+				<idno type="Number of sentences">77</idno>
+				<idno type="Number of tokens">789</idno>
+				<idno type="Number of token types">401</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t90">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">No living organism can survive without food.</sent>
+				<sent id ="2">Food is indispensable for any organism to remain alive.</sent>
+				<sent id ="3">Taking food is an instinct nature of all organisms.</sent>
+				<sent id ="4">Food supplies energy for work to all organisms.</sent>
+				<sent id ="5">In other words it is the source of all energy.</sent>
+				<sent id ="6">Food that we take is digested and stored as energy.</sent>
+				<sent id ="7">When we work a part of this stored energy is spent.</sent>
+				<sent id ="8">We compensate this loss by taking food.</sent>
+				<sent id ="9">So we can say food is the secret of keeping good, strong and disease free health.</sent>
+				<sent id ="10">It also helps rebuilding and growth of the body.</sent>
+				<sent id ="11">You learned in you previous class that whatever you take to keep the body healthy and strong, is called food.</sent>
+				<sent id ="12">Of course this statement is not totally correct.</sent>
+				<sent id ="13">Man cannot take everything.</sent>
+				<sent id ="14">Whatever he takes is not always digested properly.</sent>
+				<sent id ="15">Health of a body depends on the process of nutrition.</sent>
+				<sent id ="16">So we must know what nutrition is.</sent>
+				<sent id ="17">Food is necessary for continuing different activities in living body.</sent>
+				<sent id ="18">Food is necessary to compensate decay and for the growth and nutrition of the body.</sent>
+				<sent id ="19">To satisfy appetite, food is necessary.</sent>
+				<sent id ="20">Loss caused by activities of the body is compensated by taking food.</sent>
+				<sent id ="21">Foods save the body from diseases.</sent>
+				<sent id ="22">Food keeps the body healthy and fit.</sent>
+				<sent id ="23">Vitamin B1 : It is found in aleuronic layer of rice kernel, germinating Gram seed and fresh flour.</sent>
+				<sent id ="24">Vitamin B1 deficiency causes Beriberi disease.</sent>
+				<sent id ="25">Vitamin B12 : Liver, egg, vegetable etc. are the source of vitamin BIt is now extracted from a particular mushroom.</sent>
+				<sent id ="26">Its deficiency causes anemia.</sent>
+				<sent id ="27">Its deficiency causes scurvy disease, bleeding from capillary below the skin.The bone and teeth become deformed.</sent>
+				<sent id ="28">Healing of wounds is delayed.</sent>
+				<sent id ="29">Vitamin A: Milk, butter, egg, fish, cod fish, carrot, leafy vegetable.</sent>
+				<sent id ="30">Yellow fruits etc. contain vitamin A. Its deficiency causes night blindness.</sent>
+				<sent id ="31">Vitamin D: Egg, milk, food made from milk, fish oil etc. contain Vitamin D. Its deficiency causes rickets in children.</sent>
+				<sent id ="32">Vitamin E: Green vegetables, Spinach, Cabbage, Cauliflower, Lettuce etc. contain this vitamin.</sent>
+				<sent id ="33">Its deficiency causes fall in reproductive ability and miscarriage.</sent>
+				<sent id ="34">Vitamin K: Cabbage, Tomatoes, Soybean, Spinach etc. contain vitamin K. Its deficiency hampers coagulation of blood.</sent>
+				<sent id ="35">E) Mineral salts: Mineral salts are indispensable for building and regulating internal functions of the body.</sent>
+				<sent id ="36">Goiter is the cause of iodine deficiency.</sent>
+				<sent id ="37">Iron deficiency causes anemia and calcium deficiency causes rickets in children.</sent>
+				<sent id ="38">Water is an important constituent of food.</sent>
+				<sent id ="39">Every food contains some water.</sent>
+				<sent id ="40">Drinking is a method of fulfilling demand of water.</sent>
+				<sent id ="41">Activities like swallowing, digestion and absorption of food needs water.</sent>
+				<sent id ="42">It maintains fluidity of blood.</sent>
+				<sent id ="43">It helps in excretion process to expel body wastes.</sent>
+				<sent id ="44">Two third of our body weight is water.</sent>
+				<sent id ="45">Water deficiency causes constipation and hampers metabolic activities of the body.</sent>
+				<sent id ="46">Milk is a balanced food.</sent>
+				<sent id ="47">Any food fulfills the appetite.</sent>
+				<sent id ="48">If the food is deficient in any type of constituent, it may cause any of the deficiency disease.</sent>
+				<sent id ="49">The body will become nonfunctional.</sent>
+				<sent id ="50">So for normal growth and functioning of the body, balanced diet (food) is essential.</sent>
+				<sent id ="51">The food where one or more essential constituent is missing totally or partially is called unbalanced food.</sent>
+				<sent id ="52">In our country most of the people take unbalanced foods.</sent>
+				<sent id ="53">The common man?s food is almost totally carbohydrates.</sent>
+				<sent id ="54">This food is deficient in fat, protein, mineral salts and vitamins in proper quantities.</sent>
+				<sent id ="55">It causes the disease called anemia.</sent>
+				<sent id ="56">By acquiring common knowledge about food and nutrition.</sent>
+				<sent id ="57">By preparing a list of balanced foods affordable for the family.</sent>
+				<sent id ="58">By selecting less costly balanced foods from the list.</sent>
+				<sent id ="59">When cockroach fly and rats feed upon any food; microbes get into it.</sent>
+				<sent id ="60">And the food is polluted.</sent>
+				<sent id ="61">If cooked foods are not properly preserved it becomes decomposed.</sent>
+				<sent id ="62">When these foods are taken it may cause diseases like diarrhoea, cholera, dysentery etc.</sent>
+				<sent id ="63">Dishonest businessmen add various low graded food or inconsumable materials with food for more profit.</sent>
+				<sent id ="64">This is called adulteration.</sent>
+				<sent id ="65">When consumed these foods may cause diarrhoea, cholera, dysentery, constipation etc.</sent>
+				<sent id ="66">It causes loss of health or even death.</sent>
+				<sent id ="67">1) To prevent the decomposable food from rotting and keeping them fresh.</sent>
+				<sent id ="68">2) To ensure availability of food for future use.</sent>
+				<sent id ="69">3) To enhance economic condition of the family and the country.</sent>
+				<sent id ="70">4) To bring variety in the food list of the family.</sent>
+				<sent id ="71">5) To earn foreign exchange by exporting preserved foods.</sent>
+				<sent id ="72">6) To prevent Waste of food materials.</sent>
+				<sent id ="73">By drying in the sun: Paddy, rice, fish etc. are preserved in this process.</sent>
+				<sent id ="74">By applying low temperature: Food can be preserved in cold storage, refrigerator or by ice blocks.</sent>
+				<sent id ="75">Using preservatives: Using preservatives like vinegar, salt, sugar etc.</sent>
+				<sent id ="76">Fish, olive, pea, shrimps etc. are preserved in this method.</sent>
+				<sent id ="77">Preserving in a can: When cooked in high temperature it can be preserved in metallic can.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

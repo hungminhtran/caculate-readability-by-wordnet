@@ -1,0 +1,134 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-16</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.755</idno>
+				<idno type="Number of sentences">106</idno>
+				<idno type="Number of tokens">1359</idno>
+				<idno type="Number of token types">489</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t165">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Sewing machine is one of the inventions of modern science.</sent>
+				<sent id ="2">No one can deny its necessity of it for quick sewing.</sent>
+				<sent id ="3">Perfect sewing by hand is time consuming and it is not commercially viable or even be thought of in the competitive world.</sent>
+				<sent id ="4">The present structure of sewing machine is the result of much research and thought of scientists.</sent>
+				<sent id ="5">In 1850 Isaac Merit Singer invented a machine called lock stitch sewing machine which is known all over the world.</sent>
+				<sent id ="6">Now a days sewing machines are of different types.</sent>
+				<sent id ="7">It is a simple machine used by one hand with the help of a handle fixed on a wheel.</sent>
+				<sent id ="8">The other hand (left hand) catches the cloth to be sewn.</sent>
+				<sent id ="9">When necessary the machine should be stopped and both hands are used to hold cloth or folding it.</sent>
+				<sent id ="10">For this reason it takes more time than foot machine.</sent>
+				<sent id ="11">For this the machine need not to be stopped.</sent>
+				<sent id ="12">This machine is run by electric power.</sent>
+				<sent id ="13">In this machine sewing is done with less time than the hand and foot machines.</sent>
+				<sent id ="14">Experience is needed for proper running of an electric machine, otherwise the sewing will not be up to the standard.</sent>
+				<sent id ="15">These machines are run by electricity and are used generally by garment industries.</sent>
+				<sent id ="16">The running speed of these machines is more then any general electric sewing machines.</sent>
+				<sent id ="17">Each and every work of sewing can be done in this machine.</sent>
+				<sent id ="18">For example it can like make button holes, putt buttons, fold the sides by over locking and other necessary sewing jobs.</sent>
+				<sent id ="19">Knowing name and identifying the different parts of sewing machine.</sent>
+				<sent id ="20">Among the instrument of making dress sewing machine is the most important.</sent>
+				<sent id ="21">The beauty of the dress depends on the quality of sewing.</sent>
+				<sent id ="22">So one should know about the sewing machine, its different parts, how to work with it and to care of it.</sent>
+				<sent id ="23">Lack of proper care can make the machine out of order.</sent>
+				<sent id ="24">The parts of all kinds of sewing machine are more or less same.</sent>
+				<sent id ="25">Different parts of sewing machine and their functions are described bellow.</sent>
+				<sent id ="26">Fly wheel- It is a wheel, fixed with a handle.</sent>
+				<sent id ="27">The handle is driven by hand.</sent>
+				<sent id ="28">Needle bar It strongly holds the back side of the needle.</sent>
+				<sent id ="29">Take up lever- It controls external thread movement to the needle and makes the stitch strong.</sent>
+				<sent id ="30">Feed dog- It has rough surface, like teeth like part.</sent>
+				<sent id ="31">When machine runs it pushes the cloth forward.</sent>
+				<sent id ="32">Shuttle (Internal part)- It makes stitches with external and internal threads.</sent>
+				<sent id ="33">Thread tension regulator- It regulates external thread and maintain balance.</sent>
+				<sent id ="34">Pressure bar screw- It maintains required pressure on the sewing.</sent>
+				<sent id ="35">Pressure foot lifter- It can lift or set pressure on the sewing cloth and makes the easy movement easy for the thread.</sent>
+				<sent id ="36">Stitch regulator- It regulates size of the stitch.</sent>
+				<sent id ="37">10.Feed drop knob For doing embroidery feed drop should be lowered.</sent>
+				<sent id ="38">It stops the movement of the clothes.</sent>
+				<sent id ="39">Bobbin case- Bobbin is kept in the bobbin case and bobbin case is placed inside the machine.</sent>
+				<sent id ="40">The needle moves up and down through the bobbin case.</sent>
+				<sent id ="41">It provides internal thread for sewing.</sent>
+				<sent id ="42">Bobbin winder- It regulates thread while bobbin is reeled.</sent>
+				<sent id ="43">Tension angle- It keeps the thread straight when bobbin is reeled.</sent>
+				<sent id ="44">Pressure foot- It maintain proper pressure on the cloth.</sent>
+				<sent id ="45">Pressure bar- Pressure foot is attached to the pressure bar with a screw.</sent>
+				<sent id ="46">By moving this bar the pressure foot can be raised or lowered.</sent>
+				<sent id ="47">Needle plate- It covers the hole through which the needle moves up and down.</sent>
+				<sent id ="48">Slide plate- It is a removable cover plate which is put on the bobbin and shuttle.</sent>
+				<sent id ="49">It is moveable.</sent>
+				<sent id ="50">Face plate- It is a cover made of stainless steel.</sent>
+				<sent id ="51">It protects the internal parts of the machine from the dust and dirt.</sent>
+				<sent id ="52">The following points should be noticed for proper use of sewing machine.</sent>
+				<sent id ="53">Put a piece of cloth under the pressure foot.</sent>
+				<sent id ="54">Then drop the pressure foot with pressure lifter.</sent>
+				<sent id ="55">Now run the fly wheel with the handle at normal speed without connecting thread with the needle.</sent>
+				<sent id ="56">Go on moving the handle with right hand till your left hand can learn to manage the cloth.</sent>
+				<sent id ="57">Take care of your fingers.</sent>
+				<sent id ="58">Otherwise it may be injured by the needle.</sent>
+				<sent id ="59">On foot machine you can use both the hands together.</sent>
+				<sent id ="60">In this way you have to learn sewing function of each part, its use and adjustment.</sent>
+				<sent id ="61">If you do not learn the above points you may face frequent troubles while sewing with machine and your work will not be perfect.</sent>
+				<sent id ="62">Then lift up the needle bar.</sent>
+				<sent id ="63">Put the thread into the hole of the needle from the left side and pull it to the right side.</sent>
+				<sent id ="64">This method of insertion of thread may be applicable to other machines.</sent>
+				<sent id ="65">This differs from one type of machine to another.</sent>
+				<sent id ="66">You have to read the manual of each type of machine when you need to use it.</sent>
+				<sent id ="67">Remove the slide plate; below it you will see the bobbin holder.</sent>
+				<sent id ="68">Hold the lock of the bobbin.</sent>
+				<sent id ="69">Press the bobbin case to its holder and push it by left hand.</sent>
+				<sent id ="70">Release the lock of the bobbin; it will be set up automatically.</sent>
+				<sent id ="71">You will hear a sound.</sent>
+				<sent id ="72">It will confirm that the bobbin case is setup.</sent>
+				<sent id ="73">Loosen the balance wheel.</sent>
+				<sent id ="74">Then move the handle of the machine till the bobbin is reeled.</sent>
+				<sent id ="75">Tighten up the balance wheel as before.</sent>
+				<sent id ="76">Insertion of thread to the machine Set up the thread reel on the spool pin of the machine.</sent>
+				<sent id ="77">Pick up the end of thread of the reel.</sent>
+				<sent id ="78">Then pass the thread through the slit of face plate of thread guard and needle bar of thread guard.</sent>
+				<sent id ="79">If the needle is not properly fixed with or the tension of thread is the highest the thread may tear off.</sent>
+				<sent id ="80">Sewing machine is a very essential and costly thing.</sent>
+				<sent id ="81">If proper care is not taken it may become useless.</sent>
+				<sent id ="82">If proper care is taken of,it may provide service for a Tension of upper (white) and lower (black) threads long time.</sent>
+				<sent id ="83">Proper care may be taken in two ways.</sent>
+				<sent id ="84">Firstly, the sewing machine should be oiled in time; secondly, the feed dog of the machine should be cleaned.</sent>
+				<sent id ="85">It maintains thread tension from above and cleans thread guard below.</sent>
+				<sent id ="86">It is essential to maintain thread tension for good sewing.</sent>
+				<sent id ="87">But it differs according to the types of cloth.</sent>
+				<sent id ="88">When the stitches are same on both sides of the cloth, it means that the thread tension is balanced.</sent>
+				<sent id ="89">Due to imbalanced tension the thread may tear off or shrink.</sent>
+				<sent id ="90">To maintain the balance of thread tension, it is necessary to adjust thread tension screw by slightly turning into any dimension as and when required.</sent>
+				<sent id ="91">To run the machine smoothly and regularly it is necessary to oil it twice a week.</sent>
+				<sent id ="92">If the machine is not used for some time it is necessary to clean the machine and put oil in the parts immediately before use.</sent>
+				<sent id ="93">This will keep the machine smooth running and make less noise.</sent>
+				<sent id ="94">There are few holes on the body of the machine, through this holes oil can be put on the inner parts.</sent>
+				<sent id ="95">After oiling, the machine should be used for some time.</sent>
+				<sent id ="96">These will remove excess oil from the parts of the machine and keep the machine smooth working.</sent>
+				<sent id ="97">If sewing machine is not cleaned regularly it may not work smoothly or may not work at all.</sent>
+				<sent id ="98">Remember that at the time of sewing dirt, cotton fibres, dust, unclean oil etc gather on parts of the machine.</sent>
+				<sent id ="99">The most important part is the shuttle.</sent>
+				<sent id ="100">It is an internal part If this part remains unclean it will hamper sewing.</sent>
+				<sent id ="101">Cleaning of this part has to be done very carefully and regularly.</sent>
+				<sent id ="102">The clothes or dirt which is attached with the joining portion of the machine should be cleaned regularly with soft fine cloth.</sent>
+				<sent id ="103">If necessary the slide plate, needle plate should be opened.</sent>
+				<sent id ="104">Feed dog should be cleaned with small stick or with brush.</sent>
+				<sent id ="105">Machine should be covered.</sent>
+				<sent id ="106">Before using, machine should be dusted with a fine cloth so that there would be no chance of getting stain on clothes.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

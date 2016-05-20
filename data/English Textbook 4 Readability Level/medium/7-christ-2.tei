@@ -1,0 +1,167 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-christ-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.607</idno>
+				<idno type="Number of sentences">139</idno>
+				<idno type="Number of tokens">1737</idno>
+				<idno type="Number of token types">657</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t46">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Do you know what the deepest aspirations of the human beings of the modern age are?</sent>
+				<sent id ="2">They are : forgiveness, love, peace and brotherhood.</sent>
+				<sent id ="3">Can these be achieved ?</sent>
+				<sent id ="4">Yes, provided there is good relationship among the members of the family.</sent>
+				<sent id ="5">But today, just like the natural environment is becoming polluted.</sent>
+				<sent id ="6">Just a little careful observation will reveal that endless amount of bitterness and disturbances are created due to quarrels over small matters.</sent>
+				<sent id ="7">It is not easy to maintain good relationship in the family, but if we would succeed in doing that, then many problems would be solved.</sent>
+				<sent id ="8">In the Bible there are some concrete examples of how personal conflicts can be resolved.</sent>
+				<sent id ="9">There are many stories in the Bible, which portray a picture of every age and everyday life of the mankind.</sent>
+				<sent id ="10">Do you know the story of Joseph and his brother in the Bible ?</sent>
+				<sent id ="11">Please try to remember.</sent>
+				<sent id ="12">Joseph was the dearest among Jacob's son and he used to love him much.</sent>
+				<sent id ="13">For this he became an object of jealousy among his brothers.</sent>
+				<sent id ="14">Finally when an opportunity arose, his brothers conspired and sold Joseph to the Egyptian merchants in exchange for only twenty pieces of silver.</sent>
+				<sent id ="15">But later on this Joseph was made the governor of Egypt.</sent>
+				<sent id ="16">When Joseph was the governor of Egypt, a great famine broke out in Israel.</sent>
+				<sent id ="17">There was a great crisis of food all around.</sent>
+				<sent id ="18">Only the godowns in Egypt which were maintained by Joseph had enough supply of food and people began to come to him.</sent>
+				<sent id ="19">Do you know what happened ?</sent>
+				<sent id ="20">Joseph's father, Jacob, came to know about it .</sent>
+				<sent id ="21">So he told his sons to go to Egypt and buy some wheat.</sent>
+				<sent id ="22">Being told by their father, Joseph's brothers started off to go to Egypt.</sent>
+				<sent id ="23">Only their youngest brother Benjamin (Binnamin), stayed at home with the father.</sent>
+				<sent id ="24">When Joseph's brothers reached Egypt, they met Joseph.</sent>
+				<sent id ="25">It is interesting to know what happened.</sent>
+				<sent id ="26">They could not recognize their own brother, Joseph.</sent>
+				<sent id ="27">However, Joseph at once recognized his brothers.</sent>
+				<sent id ="28">But he talked to his brothers in such a way as if he did not know them.</sent>
+				<sent id ="29">He asked them where are you from ?</sent>
+				<sent id ="30">What do you want ?</sent>
+				<sent id ="31">They answered, we are from Canaan, and we came here to buy wheat from you.</sent>
+				<sent id ="32">Joseph said: No, you cannot buy wheat.</sent>
+				<sent id ="33">You must be spies, you are coming here to spy on Egypt.</sent>
+				<sent id ="34">They said : no, sir.</sent>
+				<sent id ="35">We were twelve sons in our family, our youngest brother is with our father.</sent>
+				<sent id ="36">One of the brothers died.</sent>
+				<sent id ="37">Then Joseph said, I want a proof that what you said is true.</sent>
+				<sent id ="38">Until I see your youngest brother, you will remain here as prisoners.</sent>
+				<sent id ="39">Send one of the brothers right now to bring him here.</sent>
+				<sent id ="40">If he does not return, then I will know for sure that you are spies.</sent>
+				<sent id ="41">Do you know what Joseph did ?</sent>
+				<sent id ="42">He kept his brothers in prison for three days .</sent>
+				<sent id ="43">On the third day he had them brought out of the prison and he said to them : I am God- fearing man.</sent>
+				<sent id ="44">If you listen to me, you will be saved.</sent>
+				<sent id ="45">One of you stay here as a prisoner, the rest of you can go home carrying wheat.</sent>
+				<sent id ="46">Bring your youngest brother here, so I will know that you are not spies.</sent>
+				<sent id ="47">Do you know what the brothers did ?</sent>
+				<sent id ="48">They started saying in their own language, this is a punishment for our sins.</sent>
+				<sent id ="49">Thatday we did not try to understand our younger brother, even though he pleaded with us so sorrowfully.</sent>
+				<sent id ="50">Then Ruben reminded everyone that at that time no one listened to him, even though he had warned them repeatedly.</sent>
+				<sent id ="51">Now they are having to paying the price for that.</sent>
+				<sent id ="52">You can imagine how Joseph felt when he heard this conversation.</sent>
+				<sent id ="53">Of course, his brothers did not realize that he understood what they were saying.</sent>
+				<sent id ="54">Joseph went out of their sight and started weeping.</sent>
+				<sent id ="55">Then he returned and ordered Simeon to be tied with ropes and kept in the prison.</sent>
+				<sent id ="56">He sent the others away with a supply of wheat and food for the journey.</sent>
+				<sent id ="57">On their return home, they proposed to their father to take Benjamin (Binnamin) to Egypt.</sent>
+				<sent id ="58">God wants that I get to know my brothers and sisters and learn to love them.</sent>
+				<sent id ="59">That I should always try to maintain good relationship with them.</sent>
+				<sent id ="60">That I try to forget the past hurts and begin to live a new life.</sent>
+				<sent id ="61">God wants that all human beings become one family and they all love one another as brothers and sisters.</sent>
+				<sent id ="62">Let us acknowledge that there is a lack of brotherly feeling among us.</sent>
+				<sent id ="63">Therefore, I should not do to other what I do not lik e to be done to me.</sent>
+				<sent id ="64">We should listen to one another with an open mind.</sent>
+				<sent id ="65">We should forgive one another.</sent>
+				<sent id ="66">We should work together for the common good of all.</sent>
+				<sent id ="67">This we pray in the name of Jesus, Our Lord, Amen.</sent>
+				<sent id ="68">Let us love one another as God has loved us.</sent>
+				<sent id ="69">In the previous lessons we came to know that Joseph's brothers went to Egypt to buy wheat from the governor of Egypt.</sent>
+				<sent id ="70">You would certainly want to know what happened after that, wouldn't you?</sent>
+				<sent id ="71">The situation of famine started getting worse and the supply of wheat was finished.</sent>
+				<sent id ="72">Therefore , Jacob had no choice but to let Benjamin go.</sent>
+				<sent id ="73">So they took along Benjamin with them and presented him in front of Joseph.</sent>
+				<sent id ="74">Then Joseph asked one of his servants to take them to his house and then arranged a big meal for them.</sent>
+				<sent id ="75">They enjoyed the meal together.</sent>
+				<sent id ="76">On the following day they all set out for home with their sacks filled with wheat .</sent>
+				<sent id ="77">We have come to search for it.</sent>
+				<sent id ="78">They all replied, If the cup is discovered in anyones sack, he will be a slave to your master.</sent>
+				<sent id ="79">The servants discovered the cup in Benjamins sack.</sent>
+				<sent id ="80">Then all of them returned to Joseph and said, All of us will stay here as your slaves.</sent>
+				<sent id ="81">But Joseph replied, Only the one who stole my cup will be my slave, the rest of you may go.</sent>
+				<sent id ="82">Then Judah came forward and reminded Joseph what they had told him earlier .</sent>
+				<sent id ="83">Their aged father has a special affection for this youngest brother of theirs whose other brother born of the same mother is dead.</sent>
+				<sent id ="84">Judah further said that they had promised to their father to bring back this brother home along with them.</sent>
+				<sent id ="85">If they now go back to their father without this brother, then the father will surely die.</sent>
+				<sent id ="86">Besides, this youngest son cannot stay anywhere without his father.</sent>
+				<sent id ="87">One of them had already left me.</sent>
+				<sent id ="88">He must have been torn to pieces by wild animals, because, I have not seen him since he left.</sent>
+				<sent id ="89">Judah, therefore, pleaded that he may be kept as a prisoner instead of his brother.</sent>
+				<sent id ="90">Joseph was no longer able to control his feelings in front of his servants, so he ordered them all to leave the room.</sent>
+				<sent id ="91">Do you know what Joseph did ?</sent>
+				<sent id ="92">He wept aloud and said, I am Joseph.</sent>
+				<sent id ="93">Tell me, is my father still alive ?</sent>
+				<sent id ="94">I am your brother Joseph, whom you sold in Egypt as a slave.</sent>
+				<sent id ="95">How did you like this story ?</sent>
+				<sent id ="96">What would you do at this moment if you were in place of Joseph ?</sent>
+				<sent id ="97">How did Joseph feel when he heard about his father ?</sent>
+				<sent id ="98">What do you do to build good relationship with your brothers ?</sent>
+				<sent id ="99">How did Joseph gain so much strength of mind ?</sent>
+				<sent id ="100">When Joseph recognized his brothers, if he wished he could take revenge on them for their misdeeds.</sent>
+				<sent id ="101">But he did not hold anything against his brothers.</sent>
+				<sent id ="102">On the contrary, he acted in such a way that his brothers would realize what a terrible offense they committed against his father.</sent>
+				<sent id ="103">Gradually he led them to conversion of hearts, to love for their family and especially to their father.</sent>
+				<sent id ="104">God wants to tell me that paternal love and affection wins over all.</sent>
+				<sent id ="105">The Father's love helps us to build strong bounds of mutual brotherhood.</sent>
+				<sent id ="106">If we experience this love of the Father in our concrete daily life, then we acquire strength to overcome many of our weaknesses.</sent>
+				<sent id ="107">What does fraternal love mean ?</sent>
+				<sent id ="108">To love others as one's own brother is fraternal love.</sent>
+				<sent id ="109">To wish the total well being of others is true fraternal love.</sent>
+				<sent id ="110">Help those who are weak, helpless, sick and in danger .</sent>
+				<sent id ="111">Gi ve generously to the poor.</sent>
+				<sent id ="112">F orgive when someone is wrong.</sent>
+				<sent id ="113">Have you ever deeply examined your conscience ?</sent>
+				<sent id ="114">If you do, you will see how often you have acted against God and your brothers and sisters, against the society.</sent>
+				<sent id ="115">You will discover many faults and failures, Out of this reflection you will naturally tend to be meek and humble.</sent>
+				<sent id ="116">Every night before going to bed.</sent>
+				<sent id ="117">Before taking part in the Lord s Supper.</sent>
+				<sent id ="118">Aren't you curious to know what happened after Joseph disclosed his identity to his brothers ?</sent>
+				<sent id ="119">I am sure you would like to know.</sent>
+				<sent id ="120">Then listen carefully.</sent>
+				<sent id ="121">Joseph told his brothers, I am your brother Joseph, whom you sold in Egypt.</sent>
+				<sent id ="122">Now do not be upset or blame yourselves because you sold me here.</sent>
+				<sent id ="123">It was really God who sent me ahead of you to save people's lives.'</sent>
+				<sent id ="124">Joseph further said, The famine will continue for five more years.</sent>
+				<sent id ="125">I will take care of you all.</sent>
+				<sent id ="126">Having said this, he threw his arms round his brother Benjamin.</sent>
+				<sent id ="127">Then he bade them farewell and told them not to quarrel on the way.</sent>
+				<sent id ="128">He said, Come, let us leave at once.</sent>
+				<sent id ="129">I must go and see him before I die.</sent>
+				<sent id ="130">When my brothers and sisters do anything wrong against me, I should forgive them easily and in this way experience heavenly joy.</sent>
+				<sent id ="131">I should be reconciled to them and live in happiness and peace.</sent>
+				<sent id ="132">One who for gives is a strong, courageous and prudent person.</sent>
+				<sent id ="133">Forgiveness is not a sign of weakness ; on the contrary , it is a sign of greatness and generosity.</sent>
+				<sent id ="134">Whene ver you forgive, you are victorious.</sent>
+				<sent id ="135">Obe y the commandments of God.</sent>
+				<sent id ="136">Lo ve everyone warmly and affectionately.</sent>
+				<sent id ="137">W e should spread light in the world.</sent>
+				<sent id ="138">Lord, forgive me for my bad thoughts, words and evil deeds.</sent>
+				<sent id ="139">Forgive also those who hurt me.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

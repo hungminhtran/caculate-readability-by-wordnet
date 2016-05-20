@@ -1,0 +1,107 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-bdGlobal-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.204</idno>
+				<idno type="Number of sentences">79</idno>
+				<idno type="Number of tokens">1052</idno>
+				<idno type="Number of token types">360</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t29">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Election is the foundation of modern democracy.</sent>
+				<sent id ="2">In this system, the citizens elect their representative from more than one candidate.</sent>
+				<sent id ="3">This procedure of election is run through secret vote.</sent>
+				<sent id ="4">The candidates who in the election according to the results of vote form national and local level governments, participate in legislation and run the administration.</sent>
+				<sent id ="5">In our country, elections are held for Union Parishad, Pourashava, Upazila Parishad, City Corporation, National Assembly and even for the post of the President.</sent>
+				<sent id ="6">The process of Presidential Election varies from Union Parishad, Pourashava or even National Assembly elections.</sent>
+				<sent id ="7">The true democracy can be established in a country if only the fittest representatives are elected through free and fair election.</sent>
+				<sent id ="8">Nowadays, the area of the state has been expanded and her population also has become huge.</sent>
+				<sent id ="9">As a result, the people cannot directly participate in administration and in legislation.</sent>
+				<sent id ="10">For this, the people are to elect their representatives to conduct the state affairs in favour of them.</sent>
+				<sent id ="11">This process of electing representatives is run through voting.</sent>
+				<sent id ="12">Through voting, the people not only elect their representatives, but also express their opinions about what type of administrative system they want.</sent>
+				<sent id ="13">From this point of view, there is no alternative to election in a modern state.</sent>
+				<sent id ="14">In the present world, democracy is considered the best among all the prevailing administrative systems.</sent>
+				<sent id ="15">And election is the foundation of democracy.</sent>
+				<sent id ="16">The main purpose of democracy is to take decisions on the basis of the citizens opinions.</sent>
+				<sent id ="17">And election is the main and lawful process of expressing public opinion.</sent>
+				<sent id ="18">So, democracy cannot be possible without election.</sent>
+				<sent id ="19">Election system is mainly of two types: Direct Election and Indirect Election.</sent>
+				<sent id ="20">When the citizens elect their representatives directly through casting their votes, this election is called direct election.</sent>
+				<sent id ="21">In our country, the members of Jatiyo Sangsad are elected through direct election system.</sent>
+				<sent id ="22">In this process the citizens do not elect their representatives directly through casting votes.</sent>
+				<sent id ="23">Here the election is held by two steps.</sent>
+				<sent id ="24">At first, the citizens by casting their votes directly elect member for a representative councilor for an intermediary level.</sent>
+				<sent id ="25">Then the representatives elect the final representative through voting.</sent>
+				<sent id ="26">In Bangladesh, the Presidential election and the election of reserved seats for women are held through such indirect election process.</sent>
+				<sent id ="27">For example, our President is not elected directly by the vote of the citizens.</sent>
+				<sent id ="28">During the general election, the citizens elect members of Jatiyo Sangsad through voting.</sent>
+				<sent id ="29">These elected members elect the President through casting their votes.</sent>
+				<sent id ="30">Similarly, the members for reserved seats for women are not elected directly by the citizens.</sent>
+				<sent id ="31">The elected members of Jatiyo Sangsad can cast their votes for electing members for those seats.</sent>
+				<sent id ="32">The differences between the direct and indirect elections have been presented below through a diagram.</sent>
+				<sent id ="33">Generally three types of elections are held at the national level in Bangladesh.</sent>
+				<sent id ="34">Jatiyo Sangsad Election: There are 300 seats in our Jatiyo Sangsad.</sent>
+				<sent id ="35">These 300 members are elected directly by the voters of the whole country.</sent>
+				<sent id ="36">There are also 50 reserved seats for women.</sent>
+				<sent id ="37">They are elected by the votes of the 300 members of Jatiyo Sangsad, who are directly elected by the people.</sent>
+				<sent id ="38">Though each of them is elected form a particular area, these 350 members represent the whole country.</sent>
+				<sent id ="39">They legislate for the country and play role in policy making.</sent>
+				<sent id ="40">The government of our country is formed by the support of the majority members of Jatiyo Sangshad.</sent>
+				<sent id ="41">From this point of view, this is the most important national level election.</sent>
+				<sent id ="42">Election of the President: The election of the President is also a national level election.</sent>
+				<sent id ="43">This election is not held directly.</sent>
+				<sent id ="44">It is held indirectly.</sent>
+				<sent id ="45">Referendum: Referendum is held for the verification of public opinion on any important issue of the state.</sent>
+				<sent id ="46">This is not held in the gap of a definite period.</sent>
+				<sent id ="47">Referendum may be held any time if necessity arises.</sent>
+				<sent id ="48">The discussion about these local governments is as follows.</sent>
+				<sent id ="49">Union Parishad: Union Parishads are village based.</sent>
+				<sent id ="50">At present, there are 4498 Union Parishads in our country.</sent>
+				<sent id ="51">There are one Chairman, nine general members and three reserved seats for the female members in each Union Parishad.</sent>
+				<sent id ="52">Each of them is directly elected by the people for a period of five years.</sent>
+				<sent id ="53">Upazila Parishad Election: At present there are 483 Upazilas in the country.</sent>
+				<sent id ="54">There is a Upazila Parishad in each Upazila.</sent>
+				<sent id ="55">This Upazila Parishad is formed by an elected chairman, some general members and for reserved seats some female members.</sent>
+				<sent id ="56">Upazila chairman is directly elected by the votes of the people of concerned area for five years.</sent>
+				<sent id ="57">Pourashava Election: Pourashava is urban based government form.</sent>
+				<sent id ="58">At present in the country there are 309 Pourashavas.</sent>
+				<sent id ="59">There are one chairman, several Commissioners and some reserved seats for some female commissioners in a Pourashava.</sent>
+				<sent id ="60">They are directly elected by the voters of Pourashava for five years.</sent>
+				<sent id ="61">City Corporation: At present, there are six metropolitan cities in Bangladesh.</sent>
+				<sent id ="62">These are Dhaka, Chittagong, Rajshahi, Khulna, Barisal and Sylhet.</sent>
+				<sent id ="63">Besides these six metropolitan cities, in Comilla and Narayangonj, there are city corporations.</sent>
+				<sent id ="64">The chief of the City Corporation is the Mayor.</sent>
+				<sent id ="65">Every city corporation is divided into several general wards.</sent>
+				<sent id ="66">For each ward there is one Commissioner.</sent>
+				<sent id ="67">The Mayor and the Commissioners are elected by the direct vote of the people of the concerned area for five years.</sent>
+				<sent id ="68">Zila Parishad Election: There is one Zila Parishad in each of 61 districts except the three Hill Tract districts in Bangladesh.</sent>
+				<sent id ="69">Zila Parishad is formed by a chairman, 15 members and five female members for reserved seats.</sent>
+				<sent id ="70">They are not elected by the direct votes of the people.</sent>
+				<sent id ="71">Rather they are elected by the electorate of the concerned area.</sent>
+				<sent id ="72">The duration of zila parishad is five years.</sent>
+				<sent id ="73">Hill Tract Zila Parishad Election: There are three Hill Tract districts in Bangladesh.</sent>
+				<sent id ="74">These are Rangamati, Khagrachari and Bandarban.</sent>
+				<sent id ="75">There is a Hill Tract Zilla Parishad in each Hill Tract district.</sent>
+				<sent id ="76">There are a Chairman, a definite number of tribal and non-tribal members in each Hill Tract Zila Parishad.</sent>
+				<sent id ="77">They are directly elected by the voters of concerned Hill Tract district for five years.</sent>
+				<sent id ="78">By-election: There is a provision for by-election with regard to the above mentioned election.</sent>
+				<sent id ="79">By-election is held if any seat of an elected member falls vacant due to death, resignation or for any other reason.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

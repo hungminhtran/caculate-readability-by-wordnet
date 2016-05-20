@@ -1,0 +1,151 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-homeEco-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:06.204</idno>
+				<idno type="Number of sentences">123</idno>
+				<idno type="Number of tokens">2163</idno>
+				<idno type="Number of token types">669</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t96">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Since the very beginning of civilization, it has been found that each and every human being has been engaged in making a home of his own.</sent>
+				<sent id ="2">As a social being, a man creates his family.</sent>
+				<sent id ="3">Home is the dwelling place of the family.</sent>
+				<sent id ="4">Except shelter, all the basic requirements of life are being fulfilled through the home.</sent>
+				<sent id ="5">Every human being feels the need of creating home due to some personal and social reasons.</sent>
+				<sent id ="6">By dint of honest and sincere efforts and consideration of the head of the family, the members of the family enjoy peace at home.</sent>
+				<sent id ="7">At the day time most of the family members are engaged in different types of activities outside their home and after a tedious day's work they come back home for getting rest and peace.</sent>
+				<sent id ="8">An ideal home gives shelter, meets different needs and demands of the family, provides security, ensures privacy and honour of the family members.</sent>
+				<sent id ="9">A home helps to fulfil all the desires and aspirations of human life .</sent>
+				<sent id ="10">It supports to develop all external and inner qualities of a human being.</sent>
+				<sent id ="11">To make a positive homely environment, adequate money, time and energy, etc. are highly required.</sent>
+				<sent id ="12">These are the most desirable family resources.</sent>
+				<sent id ="13">These resources are needed to be properly utilized, otherwise it will not be possible to fulfil the demands of the family.</sent>
+				<sent id ="14">So, we can say that by utilizing the family resources properly, a desired homely atmosphere can be attained.</sent>
+				<sent id ="15">In this regard, a proper home management is highly required.</sent>
+				<sent id ="16">It makes a home attractive, peaceful and pleasant.</sent>
+				<sent id ="17">In fine, we can say that the ability to manage a home properly, helps a home manager to take care of the home with all the resources that the home possesses.</sent>
+				<sent id ="18">Home management is the administrative part of the family.</sent>
+				<sent id ="19">Its success depends fully on energy, capability and experience of the home manager.</sent>
+				<sent id ="20">We can define the term home management in various ways.</sent>
+				<sent id ="21">The well-known home economist Nichel stated, Home management is the administrative aspect of a family.</sent>
+				<sent id ="22">To attain the desired family goals, home management helps in planning, assessing integrating and evaluating human and material resources and ensure their best use for the betterment of the family members.</sent>
+				<sent id ="23">To use the family resources properly, a proper planning is essential.</sent>
+				<sent id ="24">During planning, the expected demands are needed to be anticipated.</sent>
+				<sent id ="25">That is which one is mostly desirable, which one is highly expected to keep hold the honour and desire of the family, are needed to be well specified and at the same time the availability of adequate resources to meet all the demands are required to be well calculated.</sent>
+				<sent id ="26">In this regard, a proper decision making is highly desired.</sent>
+				<sent id ="27">In fine, we can say that home management is an intellectual process and this can be attained through proper planning, organizing, controlling and assessing the family resources for their best use and thereby fulfilling the expectations of the family.</sent>
+				<sent id ="28">To make the home management effective, each of the members of the family has his/her specific roles.</sent>
+				<sent id ="29">The home manager is the person who bears the main responsibility of home management.</sent>
+				<sent id ="30">She is the key person of the family and the peace and success of the whole family fully depends on her.</sent>
+				<sent id ="31">To bear this huge responsibility, she has to possess some basic qualities after making remarkable efforts with honesty and sincerity.</sent>
+				<sent id ="32">A house wife or a home manager must be intelligent.</sent>
+				<sent id ="33">The power of observing, thinking, remembering and thirst for knowledge can make an individual great Intelligence is an immeasurable quality.</sent>
+				<sent id ="34">By dint of it an individual becomes able to simplify any situation, control the situation and can make a proper judgment.</sent>
+				<sent id ="35">That is the ability of understanding, analyzing, referring and making judgment on various issues are related to intelligence.</sent>
+				<sent id ="36">To tackle any day to day situation, the quality like intelligence is highly required.</sent>
+				<sent id ="37">If any one fails to show appropriate intelligence in appropriate time, crisis may occur.</sent>
+				<sent id ="38">So, the desired family goals might not be achieved.</sent>
+				<sent id ="39">For example, to make the home more beautiful and attractive, the quality like intelligence is highly desirable.</sent>
+				<sent id ="40">To take decisions on various aspects like how and where to place any object and how this is to be used, the quality like intelligence is very much needed.</sent>
+				<sent id ="41">To keep peace and discipline in home, that is deciding when some actions are needed to be undertaken and how these will be done etc. and for finishing all these activities, intelligence is essential.</sent>
+				<sent id ="42">To make the family budget, to keep the account, to buy the necessary items etc. and finally to take the decisions regarding all these aspects intelligence is highly desirable.</sent>
+				<sent id ="43">To spend money as per the income and to make some savings for the future, intelligence is a must.</sent>
+				<sent id ="44">For example intelligence plays a vital role in deciding how much money is needed for studies of the children, how much will be saved, what will be the purpose of savings, how these will be spent and what is the importance behind all these etc., considering the family income.</sent>
+				<sent id ="45">Enthusiasm is such a quality which is needed to be possessed by every successful home manager.</sent>
+				<sent id ="46">Success does not come in life if there is no enthusiasm.</sent>
+				<sent id ="47">But utilization of this quality depends on physical and mental fitness of the home manager.</sent>
+				<sent id ="48">Enthusiasm relates giving importance to any work, acting seriously and completing the work with due attention, etc.</sent>
+				<sent id ="49">This quality can also inspire the other members of the family.</sent>
+				<sent id ="50">For example, if the home manager is interested to invite others on any special occasion or in shopping and if she can do it with enthusiasm, this very quality can inspire the children of the family as well.</sent>
+				<sent id ="51">Parents can inspire their children in various ways.</sent>
+				<sent id ="52">If the parents place all the furniture and goods nicely and in due order, this habit also inspires the children to work in the same way.</sent>
+				<sent id ="53">Undoubtedly enthusiasm is an excellent quality for making a home manager successful in her family life.</sent>
+				<sent id ="54">To become a successful home manager, the ability of understanding human nature is highly required.</sent>
+				<sent id ="55">Every individual in many ways is different from others.</sent>
+				<sent id ="56">In every family, different types of people live.</sent>
+				<sent id ="57">The attitudes, nature, dealings, liking-disliking, behaviours etc. of every individual is quite different from those of others.</sent>
+				<sent id ="58">To keep the family in peace, the home manager should know the temperament of each individual.</sent>
+				<sent id ="59">She will not be able to understand all these aspects in a day.</sent>
+				<sent id ="60">To acquire the knowledge of understanding human nature, the quality like keen observation is highly needed.</sent>
+				<sent id ="61">This ability will help the home manager to tackle any situation which might take place at home.</sent>
+				<sent id ="62">To keep the home in order, there is a need to instruct the children to do their jobs accordingly and there is also a need to take the advice of the elders while doing something difficult.</sent>
+				<sent id ="63">Besides, there is a need to distribute suitable work to each of the male and female members of the family according to his/her ability and interest.</sent>
+				<sent id ="64">This will help to keep the home in good order.</sent>
+				<sent id ="65">Creativity is an essential quality of a home manager.</sent>
+				<sent id ="66">By virtue of this quality, she will be able to make her home more attractive and well arranged.</sent>
+				<sent id ="67">If a home manager possesses this quality, she will be able to draw the attention of others.</sent>
+				<sent id ="68">In this regard, the power of imagination and the power of creation run side by side.</sent>
+				<sent id ="69">By dint of imagination and creative power, a home manager will be able to make the future plan and imagine the outcomes.</sent>
+				<sent id ="70">If she wants to make any change of the preplanned action, she will use her imagination and creative power.</sent>
+				<sent id ="71">For example, an efficient home manager with creative power can provide an appropriate guidance to buy and set new pieces of furniture, while entering a new house.</sent>
+				<sent id ="72">Besides, if there is a possibility of budget shortage, the home manager applying her creative power will take alternative measures beforehand.</sent>
+				<sent id ="73">Moreover, by virtue of creative and imaginative power, a home manager can predict any problem earlier and prepare herself to solve the approaching crisis.</sent>
+				<sent id ="74">In addition, to create a wonderful and attractive homely atmosphere, a home manager should be creative and should possess the power of imagination and creation.</sent>
+				<sent id ="75">The power of judgment is a desirable quality.</sent>
+				<sent id ="76">By this quality an individual is able to judge properly right or wrong, good or bad, and evils or blessings.</sent>
+				<sent id ="77">The ability of judgment helps an individual to lead a peaceful life in home and in society.</sent>
+				<sent id ="78">It is quite natural that in a family, problems may arise in any time coming from any direction.</sent>
+				<sent id ="79">These problems can easily be solved if the home manager has the ability of critical judgment.</sent>
+				<sent id ="80">To give proper importance on every household activity and the way to perform that depends on the capability of perfect judgment and the home manager should possess this ability.</sent>
+				<sent id ="81">For example, deciding on the selection of school for the young children, considering the standard of the school, the distance of the school etc. all these are included in proper judgment.</sent>
+				<sent id ="82">However, the ability of judgment increases with the passing of time and experience.</sent>
+				<sent id ="83">Perseverance is also a special quality of the home manager.</sent>
+				<sent id ="84">Without perseverance no one can be successful in family life.</sent>
+				<sent id ="85">The person who possesses it is willing to work continuously until she succeeds.</sent>
+				<sent id ="86">It is said that by virtue of perseverance any difficult work can be done.</sent>
+				<sent id ="87">With this, devotion, tolerance, concentration etc. are needed.</sent>
+				<sent id ="88">Perseverance enriches these qualities.</sent>
+				<sent id ="89">There are some activities in domestic life which cannot be performed by the housewife easily.</sent>
+				<sent id ="90">For example, if a housewife is not able to cook a new item of food, she must try to make it again and again.</sent>
+				<sent id ="91">In order to finish every household activity successfully, a home manager must possess this quality.</sent>
+				<sent id ="92">It plays an important role in looking after the children and the members of the family.</sent>
+				<sent id ="93">5Home and Home Management We all are living in a changing environment.</sent>
+				<sent id ="94">While performing various tasks of domestic life, we have to face different challenges.</sent>
+				<sent id ="95">The capacity to adapt oneself with the changing situation is termed adaptability.</sent>
+				<sent id ="96">A housewife should possess this quality.</sent>
+				<sent id ="97">It is quite natural that in a family life various incidents may occur.</sent>
+				<sent id ="98">If the housewife is not able to adapt herself with all the changing situations, there will be a possibility of confusion.</sent>
+				<sent id ="99">For example, if any member of the family gets sick, there will be a need of timely treatment.</sent>
+				<sent id ="100">Sometimes, the doctor may advise to hospitalize the patient.</sent>
+				<sent id ="101">In this case, there is a need to change the whole time table of the family.</sent>
+				<sent id ="102">The members of the family should adapt themselves with the new situation.</sent>
+				<sent id ="103">The home manager should adjust herself and try to pursue the other members of the family to adjust themselves with the new routine.</sent>
+				<sent id ="104">If she does not do so, there will be the possibility of disorder.</sent>
+				<sent id ="105">If the home manager does not possess the quality like adaptability, a chaos will be created in the family.</sent>
+				<sent id ="106">Sometimes, the home manager does not get proper response from all the family members in doing any work.</sent>
+				<sent id ="107">In that case, she will manage others tactfully and tackle the whole situation.</sent>
+				<sent id ="108">The quality like adaptability is reflected here.</sent>
+				<sent id ="109">In the family, it sometimes happens that the behaviour of a family member does not please all.</sent>
+				<sent id ="110">In this case, the home manager should adjust herself with that member, otherwise there will be the possibility of disorder which may disturb the peace of the whole family.</sent>
+				<sent id ="111">Various problems may occur in a family.</sent>
+				<sent id ="112">In this regard, the quality like controlling one's sentiments is needed and if a person possesses this sort of quality, it is called the quality of self-control.</sent>
+				<sent id ="113">If a home manager is able to show this power, she will be appreciated as an efficient house wife.</sent>
+				<sent id ="114">By dint of this quality, a home manager will be able to tackle any adverse situation.</sent>
+				<sent id ="115">This quality will help her to maintain a cordial relationship with the family members.</sent>
+				<sent id ="116">For example, sometimes it may happen that the husband or other members of the family misunderstand the housewife on any particular point.</sent>
+				<sent id ="117">In this situation, the home manager can act tactfully by dint of her self-controlling power, she can proceed pleasantly and can again bring back the harmony in the family.</sent>
+				<sent id ="118">Personality can be termed as the sum total of various human qualities.</sent>
+				<sent id ="119">By practising different human qualities, the personality of a person grows gradually in a harmonious way.</sent>
+				<sent id ="120">To develop this quality, a proper grooming is needed.</sent>
+				<sent id ="121">If a home manager acquires this quality, she will be able to behave well with others and convince all.</sent>
+				<sent id ="122">A home manager having an attractive personality, is respected by all the members of the family.</sent>
+				<sent id ="123">To make herself a woman of striking personality, a home manager should possess some other qualities like impartiality, patience, cheerfulness, righteousness and flexibility.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

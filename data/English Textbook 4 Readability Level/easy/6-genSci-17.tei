@@ -1,0 +1,97 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-17</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.811</idno>
+				<idno type="Number of sentences">69</idno>
+				<idno type="Number of tokens">876</idno>
+				<idno type="Number of token types">433</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t89">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Many disease causing micro-organisms are present in the environment.</sent>
+				<sent id ="2">These micro-organisms enter the body through food, water, respiration, hands, legs, even skin, and cause disease.</sent>
+				<sent id ="3">Diseases like cholera, diarrhoea, dysentery, helminthiasis affect the abdomen, and so are called abdominal diseases.</sent>
+				<sent id ="4">Diseases like scabies, eczema, ringworm, leprosy affect the skin and so are called skin diseases.</sent>
+				<sent id ="5">Scabies, ringworm, and other skin infections are very contagious.</sent>
+				<sent id ="6">These conditions are not very serious and debilitating so they are often not given importance.</sent>
+				<sent id ="7">But no disease should be ignored.</sent>
+				<sent id ="8">All diseases should be treated with equal importance.</sent>
+				<sent id ="9">Such mites are usually transmitted by close body contact with another person.</sent>
+				<sent id ="10">Scabies is particularly prevalent where there is overcrowding and unhygienic conditions.</sent>
+				<sent id ="11">The most common itch mite is the female of Sarcoptes scabiei.</sent>
+				<sent id ="12">The mite burrows into sensitive folds of the skin, such as between the fingers or in the genital area.</sent>
+				<sent id ="13">Intense itching begins about one month after the initial infestation, and the resultant scratching may lead to secondary bacterial infections.</sent>
+				<sent id ="14">Children and old people are more affected by scabies during winter season.</sent>
+				<sent id ="15">Symptoms of scabies: Scabies is a distressing and embarrassing condition.</sent>
+				<sent id ="16">The main symptom is itching.</sent>
+				<sent id ="17">This usually occurs in the interdigital or between the fingers, wrist, elbow, axilla, around the umbilicus, and upper thigh.</sent>
+				<sent id ="18">The itching occurs more at night, because in the warm environment of the bed, the mite moves around more.</sent>
+				<sent id ="19">Itching and scratching may injure the skin which may facilitate secondary bacterial infections causing fever and body ache.</sent>
+				<sent id ="20">Using these articles too, may spread the disease to a healthy person.</sent>
+				<sent id ="21">The patient should be scrubbed and bathed with warm soap water.</sent>
+				<sent id ="22">This solution is to be applied on three consecutive days.</sent>
+				<sent id ="23">On the fourth day, the patient is scrubbed and bathed with soap water.</sent>
+				<sent id ="24">At the same time, all articles used by the patient should be washed with soda, and dried in sunlight.</sent>
+				<sent id ="25">To reduce the itching, chlorpheneramine tablets may be taken orally thrice a day.</sent>
+				<sent id ="26">Ringworm is a infection of the skin, hair, or nails caused by various kinds of fungi.</sent>
+				<sent id ="27">The infection spreads from one person to another by close contact.</sent>
+				<sent id ="28">it is a contagious disease.</sent>
+				<sent id ="29">It is more common among children.</sent>
+				<sent id ="30">Cause of ringworm: Ringworm is caused by parasitic fungi that belong to the genera Trichophyton, Epidermophyton, and Microsporum.</sent>
+				<sent id ="31">The affected area usually becomes inflamed and itchy, because of sensitivity to the fungus, or a secondary infection by bacteria.</sent>
+				<sent id ="32">The condition derives its name from this circular pattern.</sent>
+				<sent id ="33">Mode of spread: The pus discharged from the ringworm infection contains fungus.</sent>
+				<sent id ="34">This pus comes in contact with the articles used by the patient.</sent>
+				<sent id ="35">These articles when used by a another person, the healthy person will be infected too.</sent>
+				<sent id ="36">Close contact is also a mode of spread.</sent>
+				<sent id ="37">Sharing clothes, combs, or towels may result in the spread of the infection.</sent>
+				<sent id ="38">The articles if daily use of the patients should be washed everyday with soda water.</sent>
+				<sent id ="39">After three days, a fresh bath is to be taken with soap.</sent>
+				<sent id ="40">With this, the used clothes of the patient must be washed with soda and dried in the sun.</sent>
+				<sent id ="41">In case of itching, Chlorpheneramine tabled should be taken thrice in a day.</sent>
+				<sent id ="42">And if the germ is infected then tablets from penicillin or Ampicillin group have to be taken according to age.</sent>
+				<sent id ="43">To follow the physicians's advice for treatment.</sent>
+				<sent id ="44">The modern drug griseofulvin may be taken orally to cure the disease.</sent>
+				<sent id ="45">Causes of Leprosy: Leprosy is a chronic infectious disease caused by the bacterium Mycobacterium leprae.</sent>
+				<sent id ="46">Leprosy has two main forms, known as tuberculoid and lepromatous disease.</sent>
+				<sent id ="47">Leprosy is neither caused by curse, nor is a genetic disease.</sent>
+				<sent id ="48">Symptoms: As the disease is slowly progressive, the symptoms develop gradually.</sent>
+				<sent id ="49">In the early stage there may be slight fever, body ache, and weakness.</sent>
+				<sent id ="50">In some places the skin may be thickened.</sent>
+				<sent id ="51">In places the skin becomes pale or reddish, and there is lack of sensation in affected areas.</sent>
+				<sent id ="52">Disfigurement of various organs is one of they symptoms of leprosy.</sent>
+				<sent id ="53">Presence of the bacteria in tissue scraping and fluid, confirms the diagnosis.</sent>
+				<sent id ="54">With modern treatment leprosy is a curable disease.</sent>
+				<sent id ="55">In Bangladesh, free treatment for the disease is given at all Thana health facilities and leprosy hospitals across the country.</sent>
+				<sent id ="56">There are three leprosy hospitals in the government sector.</sent>
+				<sent id ="57">Besides, eleven non-government organisations are working in the area of leprosy control and treatment.</sent>
+				<sent id ="58">Multi-drug therapy is currently used as specific treatment.</sent>
+				<sent id ="59">These drugs must be taken for a long period'six months to two years.</sent>
+				<sent id ="60">The whole body is covered by skin, which protects the soft parts and organs.</sent>
+				<sent id ="61">It regulates temperature through dissemination of excess heat from the body.</sent>
+				<sent id ="62">The skin is also a sensory organ by which one can understand the heaviness or coldness of an object.</sent>
+				<sent id ="63">There are minute opening of sweat glands and hair follicles on the surface of the skin.</sent>
+				<sent id ="64">Some waste products are excreted through these openings.</sent>
+				<sent id ="65">This layer should be cleaned everyday.</sent>
+				<sent id ="66">Soap should be used at least twice a week.</sent>
+				<sent id ="67">It is better to use a toilet soap rather than cloth washing soap.</sent>
+				<sent id ="68">The washing soap is more alkaline and may be harmful for the skin.</sent>
+				<sent id ="69">It is necessary to keep the towel and other articles as bed linen and clothes clean too.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

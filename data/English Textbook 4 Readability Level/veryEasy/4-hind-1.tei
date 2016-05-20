@@ -1,0 +1,148 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-hind-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.984</idno>
+				<idno type="Number of sentences">120</idno>
+				<idno type="Number of tokens">919</idno>
+				<idno type="Number of token types">378</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t65">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Our earth is full of beautiful things.</sent>
+				<sent id ="2">Somewhere there are green fields, somewhere deep forests and somewhere barren deserts.</sent>
+				<sent id ="3">Somewhere there are high hills and mountains, somewhere rivers and rivulets, somewhere seas.</sent>
+				<sent id ="4">The blue sky stands above us.</sent>
+				<sent id ="5">This sky has no end.</sent>
+				<sent id ="6">It contains the moon, the sun, the planets and the stars.</sent>
+				<sent id ="7">Under the sky there are fruits and flowers on trees and plants.</sent>
+				<sent id ="8">Birds of various kinds chirp on branches.</sent>
+				<sent id ="9">There are numerous insects, birds and animals.</sent>
+				<sent id ="10">The expression of this earth is varied and endless.</sent>
+				<sent id ="11">We get amazed at how all these were created.</sent>
+				<sent id ="12">Who created men, birds and animals, insects, trees, sky and wind?</sent>
+				<sent id ="13">Ishwara is the Creator of all these things.</sent>
+				<sent id ="14">We create many things to meet our needs.</sent>
+				<sent id ="15">Not only this earth, but also other things beyond this earth, is created by Ishwara.</sent>
+				<sent id ="16">Why does Ishwara create things?</sent>
+				<sent id ="17">Ishwara creates things to express His leela or amusement.</sent>
+				<sent id ="18">What Ishwara creates is His amusement.</sent>
+				<sent id ="19">His amusements are varied like his creations.</sent>
+				<sent id ="20">Ishwara can do everything.</sent>
+				<sent id ="21">None stronger than Him.</sent>
+				<sent id ="22">He is the Almighty.</sent>
+				<sent id ="23">We have to love this mighty Ishwara.</sent>
+				<sent id ="24">We have to serve Him.</sent>
+				<sent id ="25">But how can we obey him.</sent>
+				<sent id ="26">It is not easy to see Him.</sent>
+				<sent id ="27">We can see His various creations.</sent>
+				<sent id ="28">Ishwara lies in the roots of all his creations.</sent>
+				<sent id ="29">So, to love his creations is to love Him.</sent>
+				<sent id ="30">Ishwara exists as the soul among all his creatures.</sent>
+				<sent id ="31">Loving all His creatures means loving Ishwara.</sent>
+				<sent id ="32">Serving creatures means serving Ishwara.</sent>
+				<sent id ="33">Trees and plants, animals and created beings are beneficial to us in many respects.</sent>
+				<sent id ="34">We shall have to take care of trees and plants, creatures and animals.</sent>
+				<sent id ="35">This is how we can obey Ishwara who expresses Him in all his creatures.</sent>
+				<sent id ="36">We know that this earth was not created suddenly.</sent>
+				<sent id ="37">It was not created automatically either.</sent>
+				<sent id ="38">Animals, trees and plants did not come on their own.</sent>
+				<sent id ="39">Someone has created all these things.</sent>
+				<sent id ="40">This creator is called Ishwara in Hindu religion.</sent>
+				<sent id ="41">Ishwara is Almighty.</sent>
+				<sent id ="42">None is equal to Him.</sent>
+				<sent id ="43">None is greater than Him.</sent>
+				<sent id ="44">He is formless.</sent>
+				<sent id ="45">Yet He can assume a shape.</sent>
+				<sent id ="46">Ishwara has many names and expressions.</sent>
+				<sent id ="47">Wise men call Him Brahma.</sent>
+				<sent id ="48">Yogis and saints call Him Absolute Soul or Paramatma.</sent>
+				<sent id ="49">He is Bhagaban to His devotees.</sent>
+				<sent id ="50">Ishwara exists everywhere.</sent>
+				<sent id ="51">He exists in the sky and air, in water and fire.</sent>
+				<sent id ="52">He exists everywhere in land and mountains.</sent>
+				<sent id ="53">Ishwara resides within the body of His created beings.</sent>
+				<sent id ="54">Residing within a body He guides His creatures.</sent>
+				<sent id ="55">His staying within the body of a creature is known as Atma or Soul.</sent>
+				<sent id ="56">This Soul is Ishwara.</sent>
+				<sent id ="57">Ishwara resides within a creature as a soul.</sent>
+				<sent id ="58">Ishwara is expressed through His creatures.</sent>
+				<sent id ="59">If the soul leaves the body of a creature it dies out.</sent>
+				<sent id ="60">But the soul does not die.</sent>
+				<sent id ="61">Soul is imperishable.</sent>
+				<sent id ="62">It has no ruin or destruction.</sent>
+				<sent id ="63">Only the body that ruins.</sent>
+				<sent id ="64">We leave aside our old and torn clothes.</sent>
+				<sent id ="65">Then we wear new clothes.</sent>
+				<sent id ="66">Similarly the soul leaves aside the old body.</sent>
+				<sent id ="67">Then the soul enters into a new body.</sent>
+				<sent id ="68">It is not easy to see Ishwara.</sent>
+				<sent id ="69">However, He can be seen in some form or other.</sent>
+				<sent id ="70">He can be easily seen as created being since He resides in them.</sent>
+				<sent id ="71">So if we love His creatures, we love Ishwara.</sent>
+				<sent id ="72">We serve Ishwara by serving His created beings.</sent>
+				<sent id ="73">We shall love all human beings and all creatures.</sent>
+				<sent id ="74">We shall serve all created beings.</sent>
+				<sent id ="75">We shall take care of birds, animals, trees and plants.</sent>
+				<sent id ="76">We shall offer food to the hungry ones.</sent>
+				<sent id ="77">We shall give clothes to the people having no clothes.</sent>
+				<sent id ="78">We shall serve the suffering humanity.</sent>
+				<sent id ="79">If we serve all created beings in this manner, we shall serve Ishwara.</sent>
+				<sent id ="80">Worship means remembering Ishwara or the Creator.</sent>
+				<sent id ="81">Remembering Ishwara sitting on an asan is called worship.</sent>
+				<sent id ="82">Ishwara has created us.</sent>
+				<sent id ="83">He owns all powers.</sent>
+				<sent id ="84">He gives us strength.</sent>
+				<sent id ="85">He does good to us.</sent>
+				<sent id ="86">So, we worship Him.</sent>
+				<sent id ="87">We praise Ishwara while worshipping Him.</sent>
+				<sent id ="88">We beg for His blessings.</sent>
+				<sent id ="89">We wish good for ourselves.</sent>
+				<sent id ="90">At the same time we wish good for all others.</sent>
+				<sent id ="91">We need food to keep the body sound.</sent>
+				<sent id ="92">Rice, pulses, vegetables etc. are nutritious for health.</sent>
+				<sent id ="93">Worship gives food to our mind in the similar manner.</sent>
+				<sent id ="94">It supplies nutrition to our mind.</sent>
+				<sent id ="95">Worship makes our mind pure.</sent>
+				<sent id ="96">It makes our mind holy.</sent>
+				<sent id ="97">During worship we can feel Ishwara as our master and we are His devotees.</sent>
+				<sent id ="98">It seems that Ishwara has come to us.</sent>
+				<sent id ="99">It generates strength and peace to our mind making it delightful.</sent>
+				<sent id ="100">We have to worship everyday.</sent>
+				<sent id ="101">To worship everyday is also called daily worship.</sent>
+				<sent id ="102">We have to worship three times a day - morning, noon and evening.</sent>
+				<sent id ="103">We have to rise early in the morning.</sent>
+				<sent id ="104">We need to wash our hands and mouth.</sent>
+				<sent id ="105">Then we wear clean clothes and sit for worship.</sent>
+				<sent id ="106">We have to worship in a temple.</sent>
+				<sent id ="107">We can also worship at our own home.</sent>
+				<sent id ="108">We can pray alone.</sent>
+				<sent id ="109">However, we can pray in a group.</sent>
+				<sent id ="110">Sitting together for prayer is called group worship.</sent>
+				<sent id ="111">That day all people assemble at a temple or holy place.</sent>
+				<sent id ="112">Then they sit together and worship jointly.</sent>
+				<sent id ="113">They make no noise while worshipping.</sent>
+				<sent id ="114">We must sit straight during worship.</sent>
+				<sent id ="115">We can sit in an easy asan (seat) to worship.</sent>
+				<sent id ="116">Padmaasan (lotus-sitting) and Sukhasan (happy-sitting) are suitable for worship.</sent>
+				<sent id ="117">Pictures of both the sittings are given here.</sent>
+				<sent id ="118">We utter hymns silently while worshipping.</sent>
+				<sent id ="119">We can also sing hymns.</sent>
+				<sent id ="120">All need to sit together to recite hymns during group worship.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

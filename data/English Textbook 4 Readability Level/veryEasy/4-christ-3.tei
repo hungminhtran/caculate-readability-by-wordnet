@@ -1,0 +1,81 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.852</idno>
+				<idno type="Number of sentences">53</idno>
+				<idno type="Number of tokens">518</idno>
+				<idno type="Number of token types">260</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t58">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">God is kind.</sent>
+				<sent id ="2">He is kind to human kind of the world because He has created them.</sent>
+				<sent id ="3">He loves everyone equally.</sent>
+				<sent id ="4">He is the Father of mankind.</sent>
+				<sent id ="5">From Him we have come.</sent>
+				<sent id ="6">So, He takes care of us.</sent>
+				<sent id ="7">He has created us in His own image.</sent>
+				<sent id ="8">We all are equal in the eyes of God.</sent>
+				<sent id ="9">He wants us to be equally kind to all.</sent>
+				<sent id ="10">The parable of the good Samaritan teaches us a good moral.</sent>
+				<sent id ="11">We also learn from it that God loves all equally.</sent>
+				<sent id ="12">One day a teacher of the Law asked Jesus, Who is my neighbour?</sent>
+				<sent id ="13">In reply to this question Jesus told him a story.</sent>
+				<sent id ="14">Once there was a man who was going to Jericho from Jerusalem .</sent>
+				<sent id ="15">Suddenly a band of robbers attacked him and snatched everything from him.</sent>
+				<sent id ="16">They beat him up and left him half dead.</sent>
+				<sent id ="17">It so happened that a priest was going down that road.</sent>
+				<sent id ="18">But when he saw the man, he walked away.</sent>
+				<sent id ="19">He washed his wounds and bandaged them.</sent>
+				<sent id ="20">Then he put the man on his own donkey and took him to an inn.</sent>
+				<sent id ="21">The next day he took out two silver coins and gave them to the innkeeper.</sent>
+				<sent id ="22">The teacher of the Law answered, The one who was kind to him.</sent>
+				<sent id ="23">Through this parable Jesus teaches us the following:</sent>
+				<sent id ="24">God loves and protects us in the same way as the good Samaritan did;</sent>
+				<sent id ="25">He who loves God, loves mankind to;</sent>
+				<sent id ="26">We can love God by loving our neighbours;</sent>
+				<sent id ="27">We can serve God by serving our neighbours;</sent>
+				<sent id ="28">All men irrespective of the caste and creed are our neighbours.</sent>
+				<sent id ="29">Sujan is nine years old.</sent>
+				<sent id ="30">On his way to school he used to see a lame boy begging.</sent>
+				<sent id ="31">The name of the boy was Shyamal.</sent>
+				<sent id ="32">One day Sujan said to Shyamal, How did you lose your leg?</sent>
+				<sent id ="33">Shyamal answered, In a bus accident I lost one of my legs.</sent>
+				<sent id ="34">At this Sujan's heart was filled with pity.</sent>
+				<sent id ="35">He thought how he could help Shyamal.</sent>
+				<sent id ="36">One day he was delighted to read a news item in a newspaper.</sent>
+				<sent id ="37">They would give voluntary services by fixing artificial legs to patients who lost their legs.</sent>
+				<sent id ="38">Sujan thought that he could help Shyamal.</sent>
+				<sent id ="39">He told Shyamal's parents about it.</sent>
+				<sent id ="40">They agreed to Sujan's proposal for their son's treatment.</sent>
+				<sent id ="41">Sujan took Shyamal to the doctors.</sent>
+				<sent id ="42">They gave him an artificial leg to walk all by himself.</sent>
+				<sent id ="43">Now Shyamal begs no more.</sent>
+				<sent id ="44">There is a night school near his house.</sent>
+				<sent id ="45">Those who work by day can read in this school at night.</sent>
+				<sent id ="46">Shyamal now reads in this school and works in a grocer's shop during the daytime.</sent>
+				<sent id ="47">We too can help others in this way.</sent>
+				<sent id ="48">We can be kind to the poor and the helpless and take care of them.</sent>
+				<sent id ="49">We can be kind like our kind Father by being kind to others.</sent>
+				<sent id ="50">We should come forward to help the needy and the distressed.</sent>
+				<sent id ="51">We should serve God by serving mankind.</sent>
+				<sent id ="52">Make a list of the kind deeds of the good Samaritan.</sent>
+				<sent id ="53">Write down in your exercise book some deeds of kindness that you can do.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

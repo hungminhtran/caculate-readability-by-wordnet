@@ -1,10 +1,13 @@
 import xml.etree.ElementTree as ET
-def extractTextTEI(fileName):
+def extractTextTEI(fileName, isTEI=0):
 	f = open(fileName, "r")
-	root = ET.fromstring(f.read())
-	out = ""
-	for content in root.iter('sent'):
-		out = out + " " + content.text
+	if (isTEI):
+		out = ""
+		root = ET.fromstring(f.read())
+		for content in root.iter('sent'):
+			out = out + " " + content.text
+	else:
+		out = f.read()
 	f.closed
 	return out
 

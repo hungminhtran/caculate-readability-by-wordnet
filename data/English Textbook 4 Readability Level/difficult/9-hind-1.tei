@@ -1,0 +1,139 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-hind-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.962</idno>
+				<idno type="Number of sentences">111</idno>
+				<idno type="Number of tokens">1288</idno>
+				<idno type="Number of token types">562</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t89">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">How varied our nature and environment are!</sent>
+				<sent id ="2">We have endless sky above us.</sent>
+				<sent id ="3">There are the sun, the moon, a number of planets and satellites and innumerable stars in the sky.</sent>
+				<sent id ="4">This earth is also sovaried.</sent>
+				<sent id ="5">In some places there are sky-high mountains.</sent>
+				<sent id ="6">They stand still but look heroic.</sent>
+				<sent id ="7">On their heads there are snow white crowns.</sent>
+				<sent id ="8">From the hills springs and rivers come down dancing.</sent>
+				<sent id ="9">They come to plains and at the end join the large sea.</sent>
+				<sent id ="10">There are green fields beside the rivers.</sent>
+				<sent id ="11">In some places there are vast-expanse of blazing deserts, dense forests together with various trees and creeping plants.</sent>
+				<sent id ="12">Different birds sing differently sitting on the trees.</sent>
+				<sent id ="13">In the midst of all these we have human habitation.</sent>
+				<sent id ="14">People live there in harmony.</sent>
+				<sent id ="15">There is a great bond of unity in both nature and environment though there is a number of diversity.</sent>
+				<sent id ="16">There reigns a unique unity and discipline in the changing of days and nights, cycles of seasons and regular movement of planets in their orbits.</sent>
+				<sent id ="17">For all these, there is one creator and supreme controller.</sent>
+				<sent id ="18">He is God.</sent>
+				<sent id ="19">As He controls everything, we find a unique unity and discipline in nature.</sent>
+				<sent id ="20">From time immemorial, people have felt His presence in nature (Prakriti) and environment and so they have started praying to His different manifestations.</sent>
+				<sent id ="21">Prakriti or Nature is the representation of the whole universe.</sent>
+				<sent id ="22">It is not independent.</sent>
+				<sent id ="23">It works under the direction of the Supreme Lord (i.e.</sent>
+				<sent id ="24">On the whole the wonderful varied beauty of Prakriti or nature and environment that we see before us is nothing but God (the Supreme Lord) Himself.</sent>
+				<sent id ="25">To serve and adore them is as good as serving and worshipping God.</sent>
+				<sent id ="26">With all the above ideas there is one religious belief called Sanatana-dharma.</sent>
+				<sent id ="27">Sanatana means the eternal religion i.e. what we had in the past, what we have at present and what we shall have in future.</sent>
+				<sent id ="28">That eternal religion is called Hinduism or Hindu Religion.</sent>
+				<sent id ="29">The word Hindu comes from the word Sindhu.</sent>
+				<sent id ="30">In ancient days Sanatana religion has been developed basing the opinions of the followers of different ideas and paths.</sent>
+				<sent id ="31">Of them the names of Dravidians, the Astrik, the outsider Aryan and different tribal people may be mentioned.</sent>
+				<sent id ="32">But the Vedas or sacred knowledge of the Aryan saints is the basic foundation of this religion.</sent>
+				<sent id ="33">The holy men of the Vedas lived by the side of the Indus.</sent>
+				<sent id ="34">The Afgans and other foreigners used to call them Hindu and they termed their religion as Hindu religion.</sent>
+				<sent id ="35">In this way the Sanatana religion has been wellknown as Hindu religion.</sent>
+				<sent id ="36">Those who admit the verses in the sacred writings of the Vedas or the Pouranic ideals and follow the rites and principles in their day to day life are called Hindus and their religion is called hinduism.</sent>
+				<sent id ="37">In those days there sprang up a few religions e.g. Buddism, Jainism etc.</sent>
+				<sent id ="38">But the basic of them was Hinduism which is a very ancient religion.</sent>
+				<sent id ="39">The foundation of Hinduism is God.</sent>
+				<sent id ="40">God is one and without a second.</sent>
+				<sent id ="41">He controls everything.</sent>
+				<sent id ="42">He is all powerful.</sent>
+				<sent id ="43">The power of God is expressed through Mahamaya or nature.</sent>
+				<sent id ="44">gods are the visible forms of the powers of God.</sent>
+				<sent id ="45">They have different powers, Brahma is the power for Gods creativity; Visnu is for His protectism and Shiva is for His destruction.</sent>
+				<sent id ="46">Saraswati is the goddess of learning and knowledge and `Laksmi is the goddess of wealth and prosperity.</sent>
+				<sent id ="47">Though goddesses are many, God is one and absolute.</sent>
+				<sent id ="48">Different opinions have been formed while worshipping different gods and goddesses.</sent>
+				<sent id ="49">Those who worship Shakti are called Shakto.</sent>
+				<sent id ="50">Vaishnava are the followers of Visnu and Shaiva are the followers of Shiva.</sent>
+				<sent id ="51">Though they differ in opinions and beliefs, there lies a great bond of unity among them.</sent>
+				<sent id ="52">Because all the goddesses stand for powers for that shapeless, eternal one great Brahma.</sent>
+				<sent id ="53">The Brahma or Iswara is the root of Hinduism.</sent>
+				<sent id ="54">The first sacred scripture of the Hindus are the Vedas.</sent>
+				<sent id ="55">The Vedas are classified into four: Rigveda, Samveda, Yazurveda and Atharvaveda.</sent>
+				<sent id ="56">There are also a few other scriptures.</sent>
+				<sent id ="57">They are Brahman, Aranyak, Upanishad, the Ramayana, the Mahavarata and the Puranas.</sent>
+				<sent id ="58">Shreemath Bhagabath Geeta (though cited from the Mahavarata) and Shree Shree Chandi of the Markandeya Purana are also our scriptures.</sent>
+				<sent id ="59">The spiritual and philosophical, ideas and beliefs of Hinduism have been well described in these scriptures.</sent>
+				<sent id ="60">God is called the supreme spirit or Lord.</sent>
+				<sent id ="61">All living beings are created from Him. God lives in them as their souls.</sent>
+				<sent id ="62">So God is served while Living beings are served.</sent>
+				<sent id ="63">The Hinduism does not only want man's welfare but also the welfare of all creations.</sent>
+				<sent id ="64">According to Hindu religion soul does not perish.</sent>
+				<sent id ="65">Body is perished.</sent>
+				<sent id ="66">Soul is immortal, everlasting and eternal.</sent>
+				<sent id ="67">According to the Shreemath Bhagabath Geeta: The body changes, but the soul remains the same.</sent>
+				<sent id ="68">The soul passes into another new body at death just as a person puts on new garments giving up old ones.</sent>
+				<sent id ="69">This change of body by soul is just as good as birth and death.</sent>
+				<sent id ="70">This religion believes in re-birth.</sent>
+				<sent id ="71">Having re-birth again and again, at one time man does not have any re-birth because then he reaches to a stage called Salvation.</sent>
+				<sent id ="72">At the beginning of this earth there were no animals or material things.</sent>
+				<sent id ="73">Ap Eba Sasarjadow.</sent>
+				<sent id ="74">At first water was created.</sent>
+				<sent id ="75">It is believed that Visnu was lying asleep on the great ocean.</sent>
+				<sent id ="76">Brahma was in his navel.</sent>
+				<sent id ="77">On other side two great gaints named Modhu and Kaitav were born from the dirt of Vishnus ears.</sent>
+				<sent id ="78">The giants tried to kill Brahma.</sent>
+				<sent id ="79">At that time he began to worship Mahamaya and Visnu.</sent>
+				<sent id ="80">Mahamaya became satisfied and Visnu woke up.</sent>
+				<sent id ="81">Visnu killed the two giants-Madhu and Kaitav.</sent>
+				<sent id ="82">From these two giants Medini the earth was created.</sent>
+				<sent id ="83">The sky, air, heaven, hell and the earth of seven islands were all gradually created.</sent>
+				<sent id ="84">At first the earth was fully dark.</sent>
+				<sent id ="85">God created the sun, the moon, the stars and the darkness disappeared.</sent>
+				<sent id ="86">Kashyap Muni had two wives- Diti and Aditi.</sent>
+				<sent id ="87">Giants were born from Diti and deities were form from Aditi.</sent>
+				<sent id ="88">Then it was necessary to create human beings.</sent>
+				<sent id ="89">Brahma created holy men out of His fancy for enlarging creations.</sent>
+				<sent id ="90">But instead of enlarging creations they devote themselves in meditation.</sent>
+				<sent id ="91">Then men and women were created out of the image of Brahma.</sent>
+				<sent id ="92">Swayamvuba Monu is man's name and Satarupa is woman's name.</sent>
+				<sent id ="93">As we are the children of Monu we are known as 'manab' or human beings.</sent>
+				<sent id ="94">Two sons named Priyabrata and Gyanpada were born to Swayamvuba Monu and Satarupa.</sent>
+				<sent id ="95">They had also three daughters named Akuti, Debahuti and Prosuti.</sent>
+				<sent id ="96">After that human beings came to this earth.</sent>
+				<sent id ="97">Man is the best of all creations.</sent>
+				<sent id ="98">Man began to worship the creator.</sent>
+				<sent id ="99">He felt a great urge to satisfy the creator and as such different forms of worship like Puja, prayers, sacrifices, kirton and visiting holy places started.</sent>
+				<sent id ="100">The worshippers built mondirs and other places of worship.</sent>
+				<sent id ="101">They began to follow a number of principles and rituals to satisfy the creator.</sent>
+				<sent id ="102">They followed all the forms of worship all through their lives for happiness and peace in both personal and social life.</sent>
+				<sent id ="103">For all these the creator also found satisfaction with His creations.</sent>
+				<sent id ="104">Hinduism encourages one to lead a pure and noble life.</sent>
+				<sent id ="105">It also helps one to be kind and human.</sent>
+				<sent id ="106">It believes God lies in the heart of every man.</sent>
+				<sent id ="107">It teaches us Jattra jeeba : Tatra shiba.</sent>
+				<sent id ="108">From this teaching man.</sent>
+				<sent id ="109">learns to love and do good to others.</sent>
+				<sent id ="110">Man should remember all the teachings and characteristics of Hinduism and try to build a happy and prosperous world.</sent>
+				<sent id ="111">Hinduism is devoted to the welfare of man and the world.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

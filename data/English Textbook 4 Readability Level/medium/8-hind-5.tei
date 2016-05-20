@@ -1,0 +1,186 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-hind-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.439</idno>
+				<idno type="Number of sentences">158</idno>
+				<idno type="Number of tokens">2062</idno>
+				<idno type="Number of token types">836</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t153">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The word dharma mean's which retain us.</sent>
+				<sent id ="2">The essence of Hindu religion is to make the welfare of the world, at the same time the salvation of one's self.</sent>
+				<sent id ="3">There are some rules and regulations in religion to run the life keeping faith on God.</sent>
+				<sent id ="4">And this rules and regulations should be obeyed.</sent>
+				<sent id ="5">What is religion?</sent>
+				<sent id ="6">What does it mean and what is the aim of religion?</sent>
+				<sent id ="7">And so on.</sent>
+				<sent id ="8">(ii) What is the usefulness of practicing religion?</sent>
+				<sent id ="9">(iii) How are the religious activities performed?</sent>
+				<sent id ="10">We know that, to practise religion we are to observe some rites and rituals.</sent>
+				<sent id ="11">This is called the observance of religious rites.</sent>
+				<sent id ="12">Through ages human beings are practising their respective religions by observing the rites and ritual.</sent>
+				<sent id ="13">Of course, some changes and modifications occurred in practice of religion there.</sent>
+				<sent id ="14">For this, trend of various ages religions differ from each other.</sent>
+				<sent id ="15">A long slab of time is called an age.</sent>
+				<sent id ="16">The method of counting the ancient time differs from that of modern age.</sent>
+				<sent id ="17">The way of observing religious rites and ceremonies of Vedic age is changed in the Pouranic age.</sent>
+				<sent id ="18">Afterwards idolatry was introduced.</sent>
+				<sent id ="19">The whole life cycle of a person was divided into four stages.</sent>
+				<sent id ="20">Each of these stages is called the Ashrama.</sent>
+				<sent id ="21">The four Ashramas are named as Brahmacharya, Garhastya, Vanaprastha and Sannyasa.</sent>
+				<sent id ="22">The characteristics of each Ashrama are different.</sent>
+				<sent id ="23">Now, we will describe, in brief, the trend of the ages, Vedic sacrificial ceremonies and the system of Ashrama respectively.</sent>
+				<sent id ="24">According to the Hindu scriptures, there are four principal ages namely- (Yugadharma) Satya, Treta, Dwapara and Kali.</sent>
+				<sent id ="25">The behaviour and the pattern of the life of one age differs from those of others.</sent>
+				<sent id ="26">The partiular behaviour and pattern of life of any age is denoted asYugadharma i.e. the Trend of the age.</sent>
+				<sent id ="27">In different Puranas, Tantras and the Smriti i.e. the holy law-books trends of the four ages are described.</sent>
+				<sent id ="28">The Satya age (The first of the four age of the world according to Hinduism):</sent>
+				<sent id ="29">The other name of the Satya age is the Krita age.</sent>
+				<sent id ="30">In the Satya age, the four quarters i.e. the whole age was full of Dharma i.e. pious deeds.</sent>
+				<sent id ="31">At that age the truth prevailed fully.</sent>
+				<sent id ="32">No body tried to get wealth and education applying unfair means.</sent>
+				<sent id ="33">The greatest attribute of the Satya age was religious austerities.</sent>
+				<sent id ="34">At this age the average longevity of man excessively high.</sent>
+				<sent id ="35">Men were free from the diseases.</sent>
+				<sent id ="36">All of their desires become fulfilled.</sent>
+				<sent id ="37">According to a book named Mahanirvanatantra the men of Satya age were pious.</sent>
+				<sent id ="38">They tried to satisfy the gods and the soul of the late ancestors.</sent>
+				<sent id ="39">They had mastered their passions.</sent>
+				<sent id ="40">They became very strong and very powerful by dint of the study of the Vedas keeping in mind about God, kindness and charity.</sent>
+				<sent id ="41">They acquired the qualities similar to the gods.</sent>
+				<sent id ="42">Having corporeal body, they were able to wander in the heavenly world.</sent>
+				<sent id ="43">In this time, people looked at wealth of others as if it were lump of soil.</sent>
+				<sent id ="44">Then there were no thieves, liers or cheats.</sent>
+				<sent id ="45">There was no prematured death, famine or the fear to be diseased.</sent>
+				<sent id ="46">The Brahmins, the Kshatriyas, the Vaishyas or the Shudras (four forms of castes) performed their respective duties.</sent>
+				<sent id ="47">Some immoral activities came into practise.</sent>
+				<sent id ="48">Then most of the people used to earn wealth and education by unfare means.</sent>
+				<sent id ="49">At that time the longevity of man had been reduced than that of satya age.</sent>
+				<sent id ="50">The main trend of the Treta age was knowledge.</sent>
+				<sent id ="51">According to the Mahanirvantantra in the Treta age, people were unable to serve their purpose following the pathway as instructed in the vedas.</sent>
+				<sent id ="52">Then their minds became full of anxiety.</sent>
+				<sent id ="53">Then Mahadeva, one of the three great gods, introduced Smriti i.e. law books following the instruction of the Vedas.</sent>
+				<sent id ="54">Thos who were unable to go through the Vedas, rescued the people of that time from sorrow, grief and sin by studying smriti.</sent>
+				<sent id ="55">Then Dharma and Adharma i.e. purity and impurity turned to be equal i.e. one half was Dharma and the other half was Adharma.</sent>
+				<sent id ="56">Longevity was reduce more.</sent>
+				<sent id ="57">The main trend of this age was to perform Yajna (Scrifice).</sent>
+				<sent id ="58">According to Mahanirbantantra at that time activities recommended by the Smriti had been reduced, people were attacked with different diseases.</sent>
+				<sent id ="59">The kings became tyrant.</sent>
+				<sent id ="60">For their tyrany the world faced suffering to a great extent.</sent>
+				<sent id ="61">Lord Sri-krishna killed or subdued these sinful kings and established Dharma or Justice in the world.</sent>
+				<sent id ="62">Dharma turned to one quartet only.</sent>
+				<sent id ="63">At that time longevity had been reduced more than that of the Dwapara age.</sent>
+				<sent id ="64">The present age is the Kali age.</sent>
+				<sent id ="65">From the time of the advent of the emperor Parikshita this age was started.</sent>
+				<sent id ="66">According to the Bhagavatpurana the characteristics of the Kali age are falsehood, idleness, excess of sleep, envy, sorrow, grief, fear, poverty, etc.</sent>
+				<sent id ="67">According to Vishnupurana in Kali age people express much pride having a little wealth.</sent>
+				<sent id ="68">Usually none is willing to spend money for religious purpose, or to remain respectful to the Vedas.</sent>
+				<sent id ="69">Most of them do not obey their parents.</sent>
+				<sent id ="70">Though there are demerits in the age of kali, there is a merit also.</sent>
+				<sent id ="71">In the fifteenth century of this age, Chaitanyadeva was revealed to preserve Dharma or justice.</sent>
+				<sent id ="72">He preached the doctrine of love to remove a fatal trend of untouchability from the society.</sent>
+				<sent id ="73">To utter or to sing the name of Hari was the pathway of religion.</sent>
+				<sent id ="74">The name of Hari, the name of Hari and the name of Hari is only the means of support.</sent>
+				<sent id ="75">There is no, no, and no way to survive without taking this name.</sent>
+				<sent id ="76">Afterwards many great men came and try to bring the people to the way of riligion who were disinterested on the way of religion.</sent>
+				<sent id ="77">In the Vedic age, prayer to god or desired deity was made through Yajna only.</sent>
+				<sent id ="78">Lighting fire and in voking the desired Devata particular things or substances and ghee, leafs of bd etc. various things were offered towards that god.</sent>
+				<sent id ="79">This ritual performance was known as Yajna .</sent>
+				<sent id ="80">Vedic Yajna was performed on the altar.</sent>
+				<sent id ="81">To build this altar definite measurement was prescribed.</sent>
+				<sent id ="82">The Purohits i.e. priests who performed Yajna built the altar as perfectly as possible according to the instruction of the scriptures.</sent>
+				<sent id ="83">They were very much attentive to the correct pronunciations of the mantras.</sent>
+				<sent id ="84">In the performance of a Yajna it required four chief priests namly Hota, Adhwaryu Udgata and Brahma.</sent>
+				<sent id ="85">The meaning of the term Hota is a priest as an invocator.</sent>
+				<sent id ="86">He, who invokes gods or goddesses enchanting the mantras is called Hota.</sent>
+				<sent id ="87">Udgata adds music to the mantras or hymns and sang them.</sent>
+				<sent id ="88">Brahma's duty was to correct the errors, of the three types of priests mentioned above.</sent>
+				<sent id ="89">So Brahma was the most honourable priest or Rittik.</sent>
+				<sent id ="90">Each kind of the priests were assisted by three assistants.</sent>
+				<sent id ="91">Then sixteen priests were required in all.</sent>
+				<sent id ="92">The vedic Yajna were of five kinds.</sent>
+				<sent id ="93">Homa, Isti, Pashu, Soma and Satra.</sent>
+				<sent id ="94">Each kind of Yajna has two parts: Prakriti and Vikriti.</sent>
+				<sent id ="95">Prakriti Yajna (sarifice) is called the principal yajna.</sent>
+				<sent id ="96">Each Prakriti yajna has got variations.</sent>
+				<sent id ="97">Those varieties of the Yajnas were known as vikriti yajnas.</sent>
+				<sent id ="98">Now we will describe in brief the five kinds of Yajnas.</sent>
+				<sent id ="99">Homa: The gods of this kind of Yajnas are Surya (sun) and Agni (fire).</sent>
+				<sent id ="100">In the case of Amavasya, the ceremony was started in the morning of the Amavasya Tithi, and was ended similarly as the Purnima.</sent>
+				<sent id ="101">Pashu Yaga:Animal is the sacrificed object of this kind of Yajna.</sent>
+				<sent id ="102">For this its name is the Pashu Yaga.</sent>
+				<sent id ="103">The gods of this Yaga are Prajapati, Surya or Indra and Agni.</sent>
+				<sent id ="104">Soma Yaga: The juice of Soma, a kind of creeper, is the main sacrificed thing of the Soma Yaga.</sent>
+				<sent id ="105">At the time of the performance of this Yajna twelve hymns were sang, the name of the last hymn was Aganistoma.</sent>
+				<sent id ="106">Every year in the spring the Yajamana (the sacrificer) accompanied by his wife performed this Yajna.</sent>
+				<sent id ="107">Satra Yaga: The Yajna which had been performed in more than twelve days are known as the Satrayaga.</sent>
+				<sent id ="108">Different types of Satrayagas took different span of time such as one year, ten years, or even one hundred years to be completed.</sent>
+				<sent id ="109">The books about the code and rules of the performance of the Yajna is called Brahmana.</sent>
+				<sent id ="110">Following the ode of the Brahmanas Yajanas were performed.</sent>
+				<sent id ="111">In the Vedas it is calculated that the longevity of a man is one hundred years on average.</sent>
+				<sent id ="112">No matter what ever the longevity of man the whole life cycle of man is devided into four stages.</sent>
+				<sent id ="113">Each of these stages is called the Ashrama.</sent>
+				<sent id ="114">There are four Ashramas namely the Brahmacharya, the Garhasthya, the Vanaprasthya, and the Sannyasa.</sent>
+				<sent id ="115">The system of Ashram is described in different Puranas, Tantras and the Smritis (law books).</sent>
+				<sent id ="116">According to these scriptures the systems of the Ashrama is described below:</sent>
+				<sent id ="117">Brahmacharya (a mode of life marked with devoted study of Vedas and other scriptures and books of knowledge, 1-25 years):</sent>
+				<sent id ="118">The student life in modern sense was denoted as the Brahmacharyaasharma by the Rishis, the truth seers.</sent>
+				<sent id ="119">The Brahmacharyaasharma is a very valuable part of life.</sent>
+				<sent id ="120">After the Upanayana, the boys had to live in the abode of the teacher.</sent>
+				<sent id ="121">There they had to serve the teacher with care of sanctity and rules.</sent>
+				<sent id ="122">A Brahmachari should have his bath thrice a day.</sent>
+				<sent id ="123">He will never sleep in the day.</sent>
+				<sent id ="124">He will leave his bed at the Brahma moment i.e. an hour before the sun rises.</sent>
+				<sent id ="125">He will say prayer to Surya and Agni in the morning and evening.</sent>
+				<sent id ="126">After finishing the prayer he will salute his teacher and never behave indecently, with his teacher.</sent>
+				<sent id ="127">Having the permision he will go through his lesson attentively sitting in front of his teacher.</sent>
+				<sent id ="128">He will observe the prescribed religious vows and ceremonies.</sent>
+				<sent id ="129">Every morning he will collect the kusha, (a kind of grass) water and flower for the teacher.</sent>
+				<sent id ="130">A Brahmachari will be well behaved, abstemious, skilled and subduer of his passions.</sent>
+				<sent id ="131">Eyewash, painting, meat, honey, garlands, sandal paste, cosmetics and ornaments are strictly prohibited for a Brahmachari.</sent>
+				<sent id ="132">Garhasthya (family life 25-50 years): The Garhasthya Asharma is the best of the four Asharmas.</sent>
+				<sent id ="133">Because the Garhasthya Ashrama maintains the Brahmachari, the Vanaprasth and the sannyasi with donations.</sent>
+				<sent id ="134">According to the Vishnupurana, a Grihastha i.e. house-holder is the shelter of the wandering Brahmacharis who live on his gracious gift.</sent>
+				<sent id ="135">Hence the Garhasthya Ashrama is the best.</sent>
+				<sent id ="136">The Brahmacharya Ashrama is followed by the Garhasthya Asharama.</sent>
+				<sent id ="137">A Brahmachari first completes his course of studies in the Veda.</sent>
+				<sent id ="138">Afterwards he will get married and pass his life in a well disciplined way.</sent>
+				<sent id ="139">After then he will be appointed to the house-hold works.</sent>
+				<sent id ="140">He will also look after the daughter with proper care and hand over the well-educated and well- ornamented daughter to the deserving bridegroom.</sent>
+				<sent id ="141">A house-holder will never tell a lie and will never deceive anybody.</sent>
+				<sent id ="142">He will not be addicted to any matter beyond the limit.</sent>
+				<sent id ="143">He will be heroic to the enemy, humble to the elders and will earn education, wealth, fame and Dharma carefully.</sent>
+				<sent id ="144">To live in the forest from the fifty to seventy five years age i.e. twenty five years of life is the stage of Vanaprashtha.</sent>
+				<sent id ="145">Persons having Vanaprastha will have fruits and vegetables as their meal and will lie down on the ground.</sent>
+				<sent id ="146">They will show hospitality to the guests.</sent>
+				<sent id ="147">They will have their bath thrice a day.</sent>
+				<sent id ="148">They will perform their prayer in a lonely place.</sent>
+				<sent id ="149">They will never accept any gift and will not go to the human habitation.</sent>
+				<sent id ="150">The Sannyasa (ascetic life 75-100 years): A Sannyasi (an ascetic) must live alone.</sent>
+				<sent id ="151">He will earn his livilihood by gracious gifts only.</sent>
+				<sent id ="152">He will shave his head.</sent>
+				<sent id ="153">He will be free from attraction to his son, daughter, wife and to all materials.</sent>
+				<sent id ="154">He will accept all the animals either great or small, enemy or foe as his friend and not do harm to any living being.</sent>
+				<sent id ="155">He will remain always in Yoga posture or (meditation) and avoid the company of all.</sent>
+				<sent id ="156">According to the Shrimadbhagvadgita, to give up the sakama karma (i.e. activities aiming at the benifit of the persuit) is the Sannyasa or ascetism.</sent>
+				<sent id ="157">He who does this is called Sannyasi.</sent>
+				<sent id ="158">Hence, living in human habitation if one gives up the sakamakarma can be a Sannyasi also.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

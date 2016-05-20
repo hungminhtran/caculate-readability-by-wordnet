@@ -1,0 +1,87 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.885</idno>
+				<idno type="Number of sentences">59</idno>
+				<idno type="Number of tokens">800</idno>
+				<idno type="Number of token types">373</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t14">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Healthy and strong calves grow into high yielding cows or quality oxen.</sent>
+				<sent id ="2">We must take care of calves from their very birth to have good cows or oxen.</sent>
+				<sent id ="3">People in rural areas mostly rear indigenous calves.</sent>
+				<sent id ="4">Now-a-days, many cross-bred calves of improved variety are being reproduced through artificial insemination.</sent>
+				<sent id ="5">We need to take more care for the cross-bred cows because they grow bigger, give more milk and are more hard working.</sent>
+				<sent id ="6">Calves deserve to be nurtured well for growing into quality cows or oxen.</sent>
+				<sent id ="7">Accommodation for calves: The living place of calves must be clean and dry.</sent>
+				<sent id ="8">You may lay hay on the floor near the mother cow in the cowshed to make a place for the calf right after its birth.</sent>
+				<sent id ="9">Wipe the floor with dettol, phenyl or any germicidal liquid prior to laying the hay.</sent>
+				<sent id ="10">Make room for adequate light and ventilation in the shed of the calf.</sent>
+				<sent id ="11">Care for calves: Clean the mucus of the mouth and the nostrils of the calf right after its birth with soft cloth or cotton.</sent>
+				<sent id ="12">Put the calf before the cow immediately after it is born so that the mother can lick her baby clean.</sent>
+				<sent id ="13">Wipe around the navel of the calf as it is born with tincture iodine, and then apply germicides like boric powder, etc.</sent>
+				<sent id ="14">Don't delay to introduce the calf to the teats of its mother.</sent>
+				<sent id ="15">Help it feed on the colostrums as it stands on its four.</sent>
+				<sent id ="16">Colostrums contain sufficient proteins, vitamins and minerals needed for the growth of calves.</sent>
+				<sent id ="17">Moreover, it helps calves grow resistance to diseases.</sent>
+				<sent id ="18">Feed for calves: A calf grows fast for three months after birth.</sent>
+				<sent id ="19">It gains weight fast, too.</sent>
+				<sent id ="20">Their growth is retarded if they do not have adequate nutrition.</sent>
+				<sent id ="21">Lack of nutrition reduces resistance to diseases, which often cause their death.</sent>
+				<sent id ="22">We need to pay special attention to its feed without delay after its birth.</sent>
+				<sent id ="23">Feed the calf on the colostrums in two hours after its birth.</sent>
+				<sent id ="24">Clean the udder and teats of the cow before you take the calf to them.</sent>
+				<sent id ="25">A calf needs to be fed with milk twice a day.</sent>
+				<sent id ="26">Milk the cow after the calf has fed on the milk in the udder to get the remaining milk out.</sent>
+				<sent id ="27">You may feed the calf by hand if you do not want it to lick the teats of the cow.</sent>
+				<sent id ="28">It does not have any ill effect either on the cow or on the calf.</sent>
+				<sent id ="29">Give some tender grass and food grains along with milk to the calf after two weeks.</sent>
+				<sent id ="30">It increases its digestive power and the stomach matures faster.</sent>
+				<sent id ="31">The calf may not be allowed to feed on the milk when it is six months old.</sent>
+				<sent id ="32">Mix the ingredients well and feed the calf in prescribed amounts.</sent>
+				<sent id ="33">A calf may have different diseases right after it is born.</sent>
+				<sent id ="34">Any disease may be fatal for a calf, because it has not yet grown resistance to diseases like the adult cattle.</sent>
+				<sent id ="35">Contagious Diseases: A calf may be affected by many infectious diseases.</sent>
+				<sent id ="36">The most dangerous ones are: Naval ill, Sore throat White excreta Calf diphtheria</sent>
+				<sent id ="37">5. Pneumonia BadIa Tetanus Hoof Infection Athrax These diseases spread through spoiled food and from unhygienic environment.</sent>
+				<sent id ="38">Prevention and treatment of contagious diseases: You may treat the diseases at the outset with antibiotic or sulphanilamide.</sent>
+				<sent id ="39">But calves cannot be treated to health from every contagious disease.</sent>
+				<sent id ="40">To avoid this situation they need to be vaccinated when they are well.</sent>
+				<sent id ="41">Parasitic diseases: Parasites are two kinds: some work on the interior of the body, some work on the exterior of the body.</sent>
+				<sent id ="42">Parasites inside the body: The parasites inside the body are generally called worms.</sent>
+				<sent id ="43">Worms are three kinds: round worms, leaf worms, tape worms.</sent>
+				<sent id ="44">Among them round worms and leaf worms grow more in our country.</sent>
+				<sent id ="45">They are very dangerous for calves.</sent>
+				<sent id ="46">Worms attack them in damp and dirty places.</sent>
+				<sent id ="47">Calves often die from the bites of worms.</sent>
+				<sent id ="48">They can be protected from the worms if they are treated with medicines according to a vet,s prescription.</sent>
+				<sent id ="49">A protozoa called coccidia attack calves.</sent>
+				<sent id ="50">They injure the intestine.</sent>
+				<sent id ="51">As a result, the cattle suffer from blood dysentery.</sent>
+				<sent id ="52">External parasites: External parasites like mites or atuli, lice, flies and fleas inhabit the skin of calves and suck their blood to survive.</sent>
+				<sent id ="53">The calves get weak, do not grow in health.</sent>
+				<sent id ="54">The attack of these parasites damages the skin of the cattle.</sent>
+				<sent id ="55">It is an economic loss.</sent>
+				<sent id ="56">If you wash the calves brushing their body well regularly, they will not be the victims of these parasites.</sent>
+				<sent id ="57">You have to follow a vet,s prescription to destroy the parasites.</sent>
+				<sent id ="58">Calves need to be treated with balanced feed everyday.</sent>
+				<sent id ="59">It is necessary to let the cattle have the right amount of balanced feed and enough water to drink regularly.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

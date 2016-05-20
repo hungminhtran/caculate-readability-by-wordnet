@@ -1,0 +1,108 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-budh-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.281</idno>
+				<idno type="Number of sentences">80</idno>
+				<idno type="Number of tokens">989</idno>
+				<idno type="Number of token types">466</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t65">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">To modify human character the Buddha introduced some moral rites to be observed.</sent>
+				<sent id ="2">These are known as Precepts.</sent>
+				<sent id ="3">It actually means moral character or behaviour.</sent>
+				<sent id ="4">Besides, it has some other meanings too, such as, refuge, patience, discipline etc.</sent>
+				<sent id ="5">Those who practise Precepts properly are called the virtuous.</sent>
+				<sent id ="6">It regulates both human body and mind.</sent>
+				<sent id ="7">Our body looks beautiful when we put on ornaments made of gold, silver, gems and pearls.</sent>
+				<sent id ="8">But the practice of precepts is more valualble than that to fulfil our mind with happiness.</sent>
+				<sent id ="9">Proper practice of precepts is much more advantageous.</sent>
+				<sent id ="10">It wipes away the darkness of mind and controls the mode of living and speaking, counduct and behaviour.</sent>
+				<sent id ="11">The prcatice of precepts also makes a man modest and polite developing intelligence and wisdom.</sent>
+				<sent id ="12">It enables us to realize the difference between good and evil deeds preventing us from doing wrong.</sent>
+				<sent id ="13">So you should practise the precepts regularly.</sent>
+				<sent id ="14">Killing, telling lies, stealing, committing adultery, drinking -alcohols etc. are sinful acts.</sent>
+				<sent id ="15">Those who cannot keep themselves away from those crimes must go to hell.</sent>
+				<sent id ="16">The pious do always abstain from committing all these wrongs.</sent>
+				<sent id ="17">They regularly accept-precepts and practise them with a view to building up a moral life.</sent>
+				<sent id ="18">The practice of precepts paves the path to Nibbana.</sent>
+				<sent id ="19">All the pious men on earth do practise pgecepts and are respected by all.</sent>
+				<sent id ="20">Goutama Buddha was such a great man of profouund wisdom as introduced the rules of practising the precepts.</sent>
+				<sent id ="21">You should, therefore, accept and practise the precepts in or outside the monastery regularly.</sent>
+				<sent id ="22">Please offer me the precepts.</sent>
+				<sent id ="23">Please, offer me the precepts.</sent>
+				<sent id ="24">I undertake the precept to abstain from killing.</sent>
+				<sent id ="25">I under take the precept to abstain from stealing.</sent>
+				<sent id ="26">I undertake the precept to abstain from sexual misconduct. 1 undertake the precept to abstain from telling lies.</sent>
+				<sent id ="27">I undertake the precept to abstain from intoxicants (drinking alcohols).</sent>
+				<sent id ="28">Among the five precepts the First one is to abstain from killing.</sent>
+				<sent id ="29">Here is a nice story from the Jataka.</sent>
+				<sent id ="30">Long long ago during the reign of the King Brahmadatta of Baneres, there was a famous Brahmin.</sent>
+				<sent id ="31">One day the Brahmin brought a goat to sacrifice it by killing for the peace of his deceased forefathers.</sent>
+				<sent id ="32">Thinking so the goat began to laugh aloud.</sent>
+				<sent id ="33">The disciples observed it and brought the goat back to the Brahmin.</sent>
+				<sent id ="34">Soon after its arrival before the Brahmin the goat explained every thing happened in its previous life.</sent>
+				<sent id ="35">That sacrifice by killing was the cause of its sufferings.</sent>
+				<sent id ="36">It further said that for killing the goat it had suffered death by cutting of its head for 499 times.</sent>
+				<sent id ="37">So the goat laughed aloud first and cried for the Brahmin for his future sufferings.</sent>
+				<sent id ="38">Realizing it the Brahmin let the goat free.</sent>
+				<sent id ="39">But all at once its head was broken into pieces by Thunderstrike.</sent>
+				<sent id ="40">Everybody was surprised to find such an unprecedented occurance.</sent>
+				<sent id ="41">The second one of the five precepts is the teaching of the Buddha to abstain from stealing:</sent>
+				<sent id ="42">To take away anything without the consent of its owner is known as stealing.</sent>
+				<sent id ="43">To steal is a great sin.</sent>
+				<sent id ="44">Never do this because its result's very bad.</sent>
+				<sent id ="45">In the Pushparakta Jataka the bad effect of stealing has been explained verynicely.</sent>
+				<sent id ="46">Thus the story goes.</sent>
+				<sent id ="47">While stealing the man was cought red handed by the gardener.</sent>
+				<sent id ="48">He was sentenced to death and subsequently went to hell for stealing.</sent>
+				<sent id ="49">So you must have understood from this story that stealing results in shocking punishment.</sent>
+				<sent id ="50">In the third of the Five precepts it is advised to abstain from sexual misconduct.</sent>
+				<sent id ="51">This misconduct means oppression to the women folk.</sent>
+				<sent id ="52">If done so-by all there will be no such kind of misconduct in the country.</sent>
+				<sent id ="53">To abstain from telling lies is the fourth of the Five precepts.</sent>
+				<sent id ="54">Nobody believes a liar and he is rather hated by all.</sent>
+				<sent id ="55">A nice story goes in the Anusasaka Jataka that a Buddhist nun always told lies.</sent>
+				<sent id ="56">Once her thigh was broken and it was circulated among all other nuns.</sent>
+				<sent id ="57">They discussed that inspite of preventing them she went herself to the prohibited village to beg alms.</sent>
+				<sent id ="58">Thus her thigh was broken being pushed by the horns of the rams.</sent>
+				<sent id ="59">So she suffered for telling lies in consequence.</sent>
+				<sent id ="60">Among the Five precepts the fifth one is to abstain form taking intoxicants like wine, arrak, smoking gauza etc.</sent>
+				<sent id ="61">Man falls ill by drinking wine and loses his sense.</sent>
+				<sent id ="62">It destroys the power of proper judgment and he cant realise what is right or wrong.</sent>
+				<sent id ="63">The drunkard acts sinfully and loses both health and wealth.</sent>
+				<sent id ="64">He suffers a lot and no body in the society likes him.</sent>
+				<sent id ="65">Like drinking alcohol, smoking is also injurious to health.</sent>
+				<sent id ="66">So to be addicted to drinking, somoking and taking gauza etc. is harmful to our health.</sent>
+				<sent id ="67">If the parents smoke infront of their children it seriously affects them.</sent>
+				<sent id ="68">So the Buddha advised us to abstain from intoxicants forever.</sent>
+				<sent id ="69">In the Bhadraghata Jataka we find a sad story about a drunkard.</sent>
+				<sent id ="70">The story goes that after the death of Budhisattva his son lost all his wealth due to addiction to wine.</sent>
+				<sent id ="71">He then begged here and there for his livelihood.</sent>
+				<sent id ="72">Bodhi sattva in the meantime was born in the heaven as the King of the gods.</sent>
+				<sent id ="73">Observing the miserable condition of his son he sent a big jar made of clay.</sent>
+				<sent id ="74">By dint of its power he became rich as before.</sent>
+				<sent id ="75">But he was addicted to drinking wine and broke the jar having gone to mad.</sent>
+				<sent id ="76">So his condition turned as it was and he began to beg again and died a miserable death.</sent>
+				<sent id ="77">We find that the Five precepts possess anormous qualities and we can earn these if we follow the precepts properly.</sent>
+				<sent id ="78">Everybody should, therefore, practise the precepts regularly and carefully.</sent>
+				<sent id ="79">It will make your life sucessful in all respects.</sent>
+				<sent id ="80">Remember that those who do not follow the precepts have to suffer a lot in the long run.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

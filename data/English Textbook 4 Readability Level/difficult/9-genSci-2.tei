@@ -1,0 +1,113 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-genSci-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.276</idno>
+				<idno type="Number of sentences">85</idno>
+				<idno type="Number of tokens">1196</idno>
+				<idno type="Number of token types">518</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t67">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">What is food?</sent>
+				<sent id ="2">We see various objects in this world.</sent>
+				<sent id ="3">These objects can mainly be divided into two parts, such as inorganic or non-living objects and organic substances.</sent>
+				<sent id ="4">Except carbon dioxide, the compounds which contain carbon are called organic compounds, for example proteins, carbohydrates, fats, nucleoproteins, nucleic acids etc.</sent>
+				<sent id ="5">Those organic compounds are considered as food which are used for the formation of animal body, for repairing and replacement of worn-out tissues and producing energy.</sent>
+				<sent id ="6">Food helps the growth of the body and replacement of worn-out tissues.</sent>
+				<sent id ="7">Food produces heat and energy in the body.</sent>
+				<sent id ="8">Food controls the internal functions of the body and keeps it healthy, strong and active.</sent>
+				<sent id ="9">Nutrition is an overall physiological process by which living organism takes and digests food, absorbs digested food and incorporates in the cells, repairs worn-out tissues, produces energy and defecates the undigested food.</sent>
+				<sent id ="10">On the basis of components, food can be classified into different categories.</sent>
+				<sent id ="11">More than one component are present in most food materials and can perform one or more functions because it is made up of a number of chemical substances.</sent>
+				<sent id ="12">These chemical substances are known as the components of food.</sent>
+				<sent id ="13">The number of food materials consisting only of one component is very few, for example, sugar, mustard oil, fish, meat, egg, milk, flour etc. are mixed foods i.e. more than one food components are present in these food materials.</sent>
+				<sent id ="14">The food containing any of the components in greater amount is considered as the food of that component.</sent>
+				<sent id ="15">For example fish, meat etc, are foods containing mainly protein.</sent>
+				<sent id ="16">To fulfill the deficiency of proteins we take this type of food.</sent>
+				<sent id ="17">The principal component of foods like rice, flour, potato etc. is carbohydrate.</sent>
+				<sent id ="18">Therefore, these are foods rich in carbohydrates.</sent>
+				<sent id ="19">Besides these, three types of other components are also necessary for the body.</sent>
+				<sent id ="20">Vitamins: Develop resistance against diseases and help to stimulate different bio- chemical reactions.</sent>
+				<sent id ="21">Mineral Salts: Takes part in different biological processes.</sent>
+				<sent id ="22">Water: Controls the qualities of the cells by maintaining water balance in the body and contains cell organelles and maintains balance of heat.</sent>
+				<sent id ="23">Structure, nature, source, function and deficiency symptoms of food:</sent>
+				<sent id ="24">Proteins: Proteins contain four basic elements such as carbon, hydrogen, oxygen and nitrogen.</sent>
+				<sent id ="25">Sometimes phosphorus, iron and other elements may also be present in protein.</sent>
+				<sent id ="26">Protein is the complex compound of amino acids.</sent>
+				<sent id ="27">When proteins are digested the molecules are broken up into simple absorbable amino acids.</sent>
+				<sent id ="28">Source of Protein food: Protein is obtained in abundance from both animal and plant kingdoms.</sent>
+				<sent id ="29">Animal Proteins: The proteins which are obtained from animals are called animal proteins, for example- fish, meat, egg, milk, cheese, etc.</sent>
+				<sent id ="30">Plant Proteins: The proteins which are obtained from plants are called plant proteins; for example, pulses, nut, gram, pea, etc.</sent>
+				<sent id ="31">Depending on age and sex the daily requirement of protein varies.</sent>
+				<sent id ="32">The growth of our body continues till 25 years of age.</sent>
+				<sent id ="33">During this period, the necessity of protein is maximum.</sent>
+				<sent id ="34">An adult healthy and active man needs 65 gm of protein daily and a woman needs 55 gm.</sent>
+				<sent id ="35">For children of 6 to 9 years, 40-50 gm of protein is needed.</sent>
+				<sent id ="36">The quantity of protein should be more in the diet of growing children.</sent>
+				<sent id ="37">The chief function of protein is to help building up the cells of the body.</sent>
+				<sent id ="38">The bones and muscles, different organ-systems, blood cells etc. are mostly made up of protein.</sent>
+				<sent id ="39">Metabolism is continuously going on in our body cells.</sent>
+				<sent id ="40">As a result after a certain period of time the cells lose their activities and are damaged.</sent>
+				<sent id ="41">Protein plays a vital role in building up of new cells.</sent>
+				<sent id ="42">The antibodies prevent diseases of the body.</sent>
+				<sent id ="43">Protein plays a major role in producing antibodies.</sent>
+				<sent id ="44">The enzymes of the body such as-pepsin, trypsin etc. and the hormones are made up of protein.</sent>
+				<sent id ="45">Protein helps in the formation of hemoglobin in the blood.</sent>
+				<sent id ="46">Hemoglobin is a compound of protein.</sent>
+				<sent id ="47">Protein produces energy through cellular metabolism.</sent>
+				<sent id ="48">Protein is essential for healthy mental development.</sent>
+				<sent id ="49">Mental disease may occur in children for deficiency of protein.</sent>
+				<sent id ="50">Protein is the best component for building up of the body and conserving it.</sent>
+				<sent id ="51">Due to deficiency of protein in the diet of children retardation of growth, loss of weight of the body, paleness of skin and hair and bad temper may be caused.</sent>
+				<sent id ="52">Simultaneously the children may also become mentally sick.</sent>
+				<sent id ="53">Generally children of 2-4 years suffer from kwashiorkor disease due to protein deficiency in the diet.</sent>
+				<sent id ="54">In this disease the children suffer from retardation of growth, stomach ailment, erosion of muscles and oedema.</sent>
+				<sent id ="55">In adults protein deficiency reduces the immunity of the body against diseases.</sent>
+				<sent id ="56">Anemia, marasmus etc. diseases develop.</sent>
+				<sent id ="57">Deficiency of protein increases the rate of giving birth to dead children, abortion, premature births etc. among the mothers of the poor society.</sent>
+				<sent id ="58">The amount of carbohydrate is maximum among our daily foodstuffs.</sent>
+				<sent id ="59">Rice, bread, flat rice, fried rice etc. are this type of food.</sent>
+				<sent id ="60">All carbohydrates are composed of three basic elements carbon, hydrogen and oxygen.</sent>
+				<sent id ="61">Monosaccharide: Carbohydrates having one molecule, for example, glucose, fructose etc. are found in nectar and juice of ripe fruits.</sent>
+				<sent id ="62">Disaccharide: Carbohydrates consisting of two molecules; for example sucrose, maltose, lactose etc. are present in sugar, sugarcane and various vegetable.</sent>
+				<sent id ="63">Polysaccharide: Carbohydrates consisting of many molecules of monosaccharide, for example, starch, glycogen etc.</sent>
+				<sent id ="64">This type of carbohydrate is found in abundance in rice, flour, seeds, vegetable etc.</sent>
+				<sent id ="65">In plants carbohydrate is stored as starch and in animal bodies it is found as glycogen, particularly in the liver.</sent>
+				<sent id ="66">Our daily necessary carbohydrates generally come from plants, (Figure 3.2) for example- rice, wheat, potato, vegetable, seeds etc.</sent>
+				<sent id ="67">Very small amount of carbohydrate is obtained from the liver and kidney of fishes and animals.</sent>
+				<sent id ="68">The main function of carbohydrate is to provide heat and energy to the body.</sent>
+				<sent id ="69">It helps to burn fatty substances.</sent>
+				<sent id ="70">Carbohydrate protects us from a disease called ketosis.</sent>
+				<sent id ="71">Excessive carbohydrate is stored as glycogen in the body.</sent>
+				<sent id ="72">In case of deficiency of carbohydrate glycogen produces energy in the body.</sent>
+				<sent id ="73">Carbohydrate helps the body in the intake of proteins, vitamins and mineral salts.</sent>
+				<sent id ="74">Cellulose prevents constipation.</sent>
+				<sent id ="75">Results of deficiency of carbohydrates in food Due to deficiency of carbohydrate the process of burning of fatty substances cannot be fully completed.</sent>
+				<sent id ="76">Thus a toxic substance is produced within the body and a disease called ketosis is developed.</sent>
+				<sent id ="77">If there is shortage of carbohydrate in food, the stored glycogen and at last the stored fat and protein break down to produce energy.</sent>
+				<sent id ="78">This causes loss of body weight, increase of appetite, weakness of the body and reduction of the working power of the body.</sent>
+				<sent id ="79">Among food stuffs lipids provide the maximum heat and energy to the body.</sent>
+				<sent id ="80">Fats are composed of fatty acids and glycerol.</sent>
+				<sent id ="81">Digested fats are converted into fatty acids and glycerol.</sent>
+				<sent id ="82">The fatty acids and glycerol are absorbed by the lymphatic vessels of the small intestine.</sent>
+				<sent id ="83">On the basis of the sources, the fatty substances can be classified into two groups.</sent>
+				<sent id ="84">Vegetable fat - It is obtained from plants, examples are coconut oil, mustard oil, groundnut oil, soyabean oil etc.</sent>
+				<sent id ="85">Animal fat- Fat obtained from animals is called animal fat; examples are ghee, butter, fat etc.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

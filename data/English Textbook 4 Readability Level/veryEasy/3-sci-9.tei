@@ -1,0 +1,69 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-sci-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.347</idno>
+				<idno type="Number of sentences">41</idno>
+				<idno type="Number of tokens">461</idno>
+				<idno type="Number of token types">233</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t32">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We all live in the family.</sent>
+				<sent id ="2">Our family consists of mother, father, brother, sister and other relations.</sent>
+				<sent id ="3">In Rashid's family, his maternal grandmother and maternal grandfather live with them.</sent>
+				<sent id ="4">Who are the members in the family of Rafique?</sent>
+				<sent id ="5">Rafique's younger uncle studies in a college and he stays in Rafique's house.</sent>
+				<sent id ="6">In the family of Runa live her grandfather and grand mother.</sent>
+				<sent id ="7">Write down how many family members each family has.</sent>
+				<sent id ="8">Study the above table and find out which family is small and which is large.</sent>
+				<sent id ="9">The family that contains lesser number of members is called small family.</sent>
+				<sent id ="10">There are seven members in Runa's family.</sent>
+				<sent id ="11">The number of Runa's family members are more compared to families of Rashid and Rafique.</sent>
+				<sent id ="12">Runa has a large family.</sent>
+				<sent id ="13">Whereas, for a large family, it requires a big house with many rooms.</sent>
+				<sent id ="14">A large family has to spend more money for their food.</sent>
+				<sent id ="15">In that situation family members suffer from malnutrition and might get infected with various diseases.</sent>
+				<sent id ="16">A family with smaller number of members can live well compared to a large family.</sent>
+				<sent id ="17">Therefore, it is better to have a small family.</sent>
+				<sent id ="18">You read in class three.</sent>
+				<sent id ="19">What will happen if the number of students increase further in your class?</sent>
+				<sent id ="20">Students will then have a lot of difficulties in sitting and writing comfortably.</sent>
+				<sent id ="21">They won't be able to concentrate on what the teacher is teaching.</sent>
+				<sent id ="22">This will hamper quality of learning.</sent>
+				<sent id ="23">Then a number of students would not be able to grasp their lesson.</sent>
+				<sent id ="24">Therefore, these students would not do well in the examination.</sent>
+				<sent id ="25">The teacher can give full attention to a class with smaller number of students.</sent>
+				<sent id ="26">students who have difficulty in grasping the lesson.</sent>
+				<sent id ="27">As the class is small the classroom does not quickly get untidy and dirty.</sent>
+				<sent id ="28">Out of the total population, one half is male and the other half is female.</sent>
+				<sent id ="29">In 1991 , the population of Bangladesh was 11 crores and 15 lakhs.</sent>
+				<sent id ="30">In 2001, the population of Bangladesh was 12 crores and 93 lakhs.</sent>
+				<sent id ="31">Rise in population of any country creates a number of problems.</sent>
+				<sent id ="32">It creates scarcity of residential plots, houses and foods.</sent>
+				<sent id ="33">The number of population of our country is much higher compared to the land area.</sent>
+				<sent id ="34">We have to meet shortage of food by importing food from abroad.</sent>
+				<sent id ="35">There is shortage of land for building residents and houses to live.</sent>
+				<sent id ="36">With too many people there will be too much of garbage.</sent>
+				<sent id ="37">Lack of cleaning will cause accumulation of a huge amount of garbage.</sent>
+				<sent id ="38">With the stink of the decaying garbage, air becomes polluted.</sent>
+				<sent id ="39">Smokes from these transports pollute air.</sent>
+				<sent id ="40">Polluted air and water are the causes of many diseases that affect us.</sent>
+				<sent id ="41">If we want to live well we have to keep our family sizes small.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

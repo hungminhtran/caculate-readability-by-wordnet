@@ -1,0 +1,84 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-13</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.538</idno>
+				<idno type="Number of sentences">56</idno>
+				<idno type="Number of tokens">503</idno>
+				<idno type="Number of token types">241</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t90">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We live in the same house with father, mother, sisters and brothers.</sent>
+				<sent id ="2">Very often grandfather, grandmother, uncles and aunts also live in the same family.</sent>
+				<sent id ="3">We will keep our own rooms clean.</sent>
+				<sent id ="4">We will always keep our homes clean.</sent>
+				<sent id ="5">A clean home is good for health.</sent>
+				<sent id ="6">The environment of home is polluted if the home is dirty.</sent>
+				<sent id ="7">And the polluted environment makes life dangerous.</sent>
+				<sent id ="8">We study everyday on getting up in the morning.</sent>
+				<sent id ="9">We will keep the table tidy after studying.</sent>
+				<sent id ="10">We will make sure that there is no dust on the table and the chair.</sent>
+				<sent id ="11">After reading we will wipe the table and chair.</sent>
+				<sent id ="12">Very often we study sitting on a mat.</sent>
+				<sent id ="13">We will roll the mat and put it in a comer.</sent>
+				<sent id ="14">We will arrange the books at a fixed place.</sent>
+				<sent id ="15">On coming home from school, we will set in order our clothes and shoes.</sent>
+				<sent id ="16">We will not throw pieces of papers and garbage in the room.</sent>
+				<sent id ="17">We will keep a basket in the room.</sent>
+				<sent id ="18">We will fix a place outside the room and put garbage there.</sent>
+				<sent id ="19">We will do our own work.</sent>
+				<sent id ="20">We will not give trouble to others.</sent>
+				<sent id ="21">Similarly, we will be careful to keep the school clean.</sent>
+				<sent id ="22">The classmates will do all this work as a team.</sent>
+				<sent id ="23">We ourselves will keep classrooms, playground and compound neat and clean.</sent>
+				<sent id ="24">We will do it carefully.</sent>
+				<sent id ="25">There is pleasure in doing one's own work.</sent>
+				<sent id ="26">In many schools there are sweepers, peons, guards, and waiters to do various activities.</sent>
+				<sent id ="27">The sweeper keeps the classrooms and playgrounds clean.</sent>
+				<sent id ="28">The peon does various activities of the school.</sent>
+				<sent id ="29">He helps us to enter the classrooms in time by ringing the bell.</sent>
+				<sent id ="30">The guard guards the school.</sent>
+				<sent id ="31">The teachers give us lessons.</sent>
+				<sent id ="32">To run the school properly, we need their services.</sent>
+				<sent id ="33">We will respect their work.</sent>
+				<sent id ="34">We go to school by boat, by bus, by rickshaw, by van and other transports.</sent>
+				<sent id ="35">We will be respectful to their labour.</sent>
+				<sent id ="36">Farmers work hard to produce crops and we live on that.</sent>
+				<sent id ="37">Fishermen keep us from malnutrition by supplying fish.</sent>
+				<sent id ="38">The masons build our homes.</sent>
+				<sent id ="39">Weavers provide us with clothes by weaving them.</sent>
+				<sent id ="40">Labourers meet our daily necessities by producing various items of daily use.</sent>
+				<sent id ="41">Shopkeepers meet our demands by selling various things.</sent>
+				<sent id ="42">By cooperating with us in our daily activities, servants make our life easy and comfortable.</sent>
+				<sent id ="43">By producing various kinds of commodities, labourers fulfil our daily necessities.</sent>
+				<sent id ="44">By selling various kinds of things shopkeepers fulfil our various types of demand.</sent>
+				<sent id ="45">We get the services of people.</sent>
+				<sent id ="46">We cannot do without their services.</sent>
+				<sent id ="47">We will love the working class people.</sent>
+				<sent id ="48">We will stand by them in their trouble.</sent>
+				<sent id ="49">We will help them.</sent>
+				<sent id ="50">We will always respect them.</sent>
+				<sent id ="51">Working class people help the society run smoothly.</sent>
+				<sent id ="52">Without them, we could not lead our life well.</sent>
+				<sent id ="53">We all have to depend on them in our daily work.</sent>
+				<sent id ="54">All working class people have the same dignity.</sent>
+				<sent id ="55">Their importance in our society is immense.</sent>
+				<sent id ="56">We will all be respectful to their labour.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

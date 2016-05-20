@@ -1,0 +1,150 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-24</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.159</idno>
+				<idno type="Number of sentences">122</idno>
+				<idno type="Number of tokens">1879</idno>
+				<idno type="Number of token types">791</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t140">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">By geographical location, Bangladesh is located in the warm humid subtropical region.</sent>
+				<sent id ="2">To the north of the country is the Himalayas, and to the south is the funnel shaped Bay of Bengal.</sent>
+				<sent id ="3">Because of its geographical location, many natural disasters occur in the country.</sent>
+				<sent id ="4">Among the disasters are cyclone and tidal wave, flood, river erosion, draught, tornado and earthquake.</sent>
+				<sent id ="5">All parts of Bangladesh are more or less prone to natural disasters.</sent>
+				<sent id ="6">Natural causes bring disasters of various types to the different areas of the country.</sent>
+				<sent id ="7">For example, flood and river erosion occur in places where rivers flow.</sent>
+				<sent id ="8">Again cyclones and tidal waves strike in the coastal regions.</sent>
+				<sent id ="9">If the nature of the various natural disasters is understood, it is possible to take timely preventive and warning measures.</sent>
+				<sent id ="10">Cyclone is an area of low atmospheric pressure surrounded by a wind system blowing, in the northern hemisphere, in a counter-clockwise direction.</sent>
+				<sent id ="11">A corresponding high- pressure area with clockwise winds is known as an anticyclone.</sent>
+				<sent id ="12">In the southern hemisphere these wind directions are reversed.</sent>
+				<sent id ="13">Cyclones are commonly called lows, and anticyclones highs.</sent>
+				<sent id ="14">The radius of cyclone may be up to 500600 kilometres (km).</sent>
+				<sent id ="15">The eye of the cyclone is formed of light clouds and light winds.</sent>
+				<sent id ="16">The eye of the cyclone may be 20150 km.</sent>
+				<sent id ="17">The speed of wind around the centre may be 62118 km per hour.</sent>
+				<sent id ="18">As the equatorial region is relatively warmer, there is a low pressure.</sent>
+				<sent id ="19">Two types of seasonal winds'trade winds'from the northern and southern hemispheres cross each other in the region of low pressure over the equator.</sent>
+				<sent id ="20">These trade winds blow westward and toward the earth's equator in both the northern and southern hemispheres.</sent>
+				<sent id ="21">The trade winds occur between approximately latitude 30 north of the equator and latitude 30 south of the equatorthe tropics.</sent>
+				<sent id ="22">The trade winds are a major part of the general circulation pattern of the earth's atmosphere.</sent>
+				<sent id ="23">Instead, they blow from the northeast in the northern hemisphere and from the southeast in the southern hemisphere.</sent>
+				<sent id ="24">Such interacting region is called the torrid zone.</sent>
+				<sent id ="25">At the points of intersection of winds from opposite sides, numerous small whirlpools or eddys are created.</sent>
+				<sent id ="26">The low pressure created in the areas of these whirlpools cause the cold heavy wind to flow forcefully from the surrounding areas of high pressure.</sent>
+				<sent id ="27">Because of the rotation of the earth, the cold heavy air flows into the eddy with a rotational force.</sent>
+				<sent id ="28">As the whirlpool moves northwards, under the influence of Coriolis force, more forceful whirlpools are created.</sent>
+				<sent id ="29">Some of these whirlpools then change into low pressure or depression.</sent>
+				<sent id ="30">The longer the depression stays in the ocean or sea, the stronger it gets.</sent>
+				<sent id ="31">Its main force is the massive water of the ocean, the wind blowing over the area contains water vapour.</sent>
+				<sent id ="32">As the water evaporates it takes in the energy in the form of latent heat of vaporisation.</sent>
+				<sent id ="33">When the vapour mixes with the air, the latent heat enters the air and increases its force.</sent>
+				<sent id ="34">At these times the air high up is cool.</sent>
+				<sent id ="35">As the rising hot air containing water vapour comes in contact with the cold air the vapour condenses into clouds.</sent>
+				<sent id ="36">As the latent heat is retained in the atmosphere, there is increased turbulence.</sent>
+				<sent id ="37">With the increase in temperature, the air pressure in the depression site decreases and cyclone is formed.</sent>
+				<sent id ="38">As these cyclones cross the coastal regions, under its influence strong wind, floods and tidal waves occur.</sent>
+				<sent id ="39">During cyclones, the swelled up ocean or seawater forms high waves as they cross the coastal regions.</sent>
+				<sent id ="40">This is tidal wave.</sent>
+				<sent id ="41">There is evidence that there exists a direct relationship between tidal waves and cyclones, and earthquake and volcanic eruptions in the ocean bed.</sent>
+				<sent id ="42">The stronger the cyclonic force, the higher is the tidal waves.</sent>
+				<sent id ="43">The cyclone that struck the coastal region of Bangladesh on 01 November 1976 brought in tidal waves as high as 13.72 metres.</sent>
+				<sent id ="44">As the cyclone crosses the coastal area, the tidal waves cause colossal damage to life and property.</sent>
+				<sent id ="45">Of all the damage done by the combination of cyclone and tidal waves, 90 percent is due to tidal waves alone.</sent>
+				<sent id ="46">Bangladesh is within the cyclone prone area.</sent>
+				<sent id ="47">Hence, it is noted that at different times round the year cyclones strike some parts of the country.</sent>
+				<sent id ="48">It is not always that the cyclones strike the coastal areas, but sometimes crosses over the coastal areas to strike much interior areas of landmass.</sent>
+				<sent id ="49">The cyclones are sometimes accompanied by tidal waves.</sent>
+				<sent id ="50">Under the influence of strong winds the seawater swells up and moves towards the coast as tidal waves.</sent>
+				<sent id ="51">Cyclones and tidal waves have brought colossal damage to Bangladesh numerous times in the past.</sent>
+				<sent id ="52">Timing of Natural Disaster: In Bangladesh, natural disasters'cyclones and tidal waves usually strike around AprilMay (Boishakh and Jaistha), and October November (Kartik and Agrahayan).</sent>
+				<sent id ="53">After the cyclone is formed due to depression, it moves with the huge body of water towards the coast.</sent>
+				<sent id ="54">Nature of Damage by Cyclone and Tidal Wave: Most of the people along the coastal belt of Bangladesh are poor.</sent>
+				<sent id ="55">During natural disasters these people suffer the most.</sent>
+				<sent id ="56">Majority of the non-brick made houses (kaacha houses) are damaged during the cyclone.</sent>
+				<sent id ="57">As most of the houses have tin roofs, these roofs are blown away by the storm and the houses collapse.</sent>
+				<sent id ="58">People die by being buried under the mud walls or by injury caused by flying tin roofs.</sent>
+				<sent id ="59">Not only the houses are destroyed, cattle, and other domestic animals also die.</sent>
+				<sent id ="60">After losing everything, people are sometimes forced to live under the open sky.</sent>
+				<sent id ="61">All the essentials of life, such as grains, food, articles of daily use, clothes, books and copies, are washed away with the tidal waves.</sent>
+				<sent id ="62">Many trees are also uprooted, crops are damaged, animals and birds die, all these lead to shortage of food.</sent>
+				<sent id ="63">Cyclones also damage telephone, telegraph and electric poles with disruption of these essential services.</sent>
+				<sent id ="64">There is no communication with the other parts of the country and people have to live in pitch darkness.</sent>
+				<sent id ="65">At times, offices, courts, industries, schools, collages, dams, bridges, railway tracks, and foot walks are damaged too leading to extreme suffering of the people.</sent>
+				<sent id ="66">During tidal waves the water bodies and tubewells are contaminated and so there is scarcity of drinking water.</sent>
+				<sent id ="67">In the post disaster period people drink contaminated water and so suffer from diseases, such as, diarrhoea, dysentery, typhoid, cholera, jaundice, and so on.</sent>
+				<sent id ="68">Besides, the loss of cattle and other domestic animals, people suffer financially too.</sent>
+				<sent id ="69">The environmental imbalance left behind by the natural disaster leads to many diseases.</sent>
+				<sent id ="70">So different preventive drugs and oral rehydration saline have to be distributed.</sent>
+				<sent id ="71">As most water bodies are contaminated, water should be boiled well before drinking.</sent>
+				<sent id ="72">If there are wells, then water-purifying tablets should be used as preventive measure.</sent>
+				<sent id ="73">Pre- disaster Management: It is possible to keep the damage to a minimum if appropriate watchfulness and warning measures are taken prior to the disaster.</sent>
+				<sent id ="74">But because of early warning and other pre-disaster measures the damage was much less.</sent>
+				<sent id ="75">In Bangladesh, the Disaster Management Bureau is doing this job of forewarning.</sent>
+				<sent id ="76">Generally, if there is a possibility of a cyclone, the Meteorology Department announces the same frequently over radio and television.</sent>
+				<sent id ="77">That is why it is essential that in all disaster high-risk areas, specially in fishing boats and trawlers, there should be a radio in each.</sent>
+				<sent id ="78">As soon as the people receive forewarning of a cyclone, they should prepare to leave their homesteads and move to safe places for shelter.</sent>
+				<sent id ="79">The immovable property should be covered with heavy weight, and left in the house.</sent>
+				<sent id ="80">Water pitchers should be filled with clean drinking water.</sent>
+				<sent id ="81">The mouth of the pitcher should be tightly and carefully closed with fitting lids or polythene paper, and buried under the soil.</sent>
+				<sent id ="82">Cattle and other domestic animals should be taken along to the safe place that may be a high land, or strong building.</sent>
+				<sent id ="83">Money and other valuables should be wrapped in polythene and buried.</sent>
+				<sent id ="84">Some dry flattened rice, fluffed rice, molasses, and water should be taken along to the cyclone shelter.</sent>
+				<sent id ="85">Listen continuously to the warning announcements on the radio and prepare accordingly.</sent>
+				<sent id ="86">After listening to the warning over the radio, the fishermen should refrain from going out to sea for fishing.</sent>
+				<sent id ="87">Below are the warning signals and what they mean or indicate.</sent>
+				<sent id ="88">Distant cautionary signal o.1 There is a region of squally weather in the stant sea where a storm or cyclone may form.</sent>
+				<sent id ="89">Distant warning signal no. 2 A storm or cyclone has formed in the distant area.</sent>
+				<sent id ="90">The port is threatened by squally weather.</sent>
+				<sent id ="91">Local cautionary signal no.3</sent>
+				<sent id ="92">The port is threatened by a squally weather.</sent>
+				<sent id ="93">Local warning signal no.4</sent>
+				<sent id ="94">Danger signal no.</sent>
+				<sent id ="95">Danger signal no.</sent>
+				<sent id ="96">Great danger signal no.8</sent>
+				<sent id ="97">Great danger signal no.9</sent>
+				<sent id ="98">The port will experience severe weather from a storm of great intensity that is expected to cross over or near the port.</sent>
+				<sent id ="99">Great danger signal no.10</sent>
+				<sent id ="100">The port will experience severe weather from a storm of greatintensity that is expected to cross over or near the port.</sent>
+				<sent id ="101">Failure of communication no.11 Communication with the Meteorological Warning Centre have broken down and considered as devastating cyclone.</sent>
+				<sent id ="102">Before leaving the homestead to go to the shelter centre it is advisable not to leave behind any valuable thing.</sent>
+				<sent id ="103">All fire should be put out before moving out.</sent>
+				<sent id ="104">Management during Disaster: From the beginning to the end of the disaster, during the stay in cyclone shelter, people should have sympathetic attitude.</sent>
+				<sent id ="105">Sharing of things raises hope among the under privileged people.</sent>
+				<sent id ="106">Post-disaster Management: In the post-disaster time the major issue is to ascertain the loss of life and property, and rehabilitation of the affected people.</sent>
+				<sent id ="107">It is necessary to list the affected people and note the extent and type of damage incurred.</sent>
+				<sent id ="108">Building houses for the homeless; distributing food, clothes, medicines, and short term loan; and financial help become essential.</sent>
+				<sent id ="109">To trace out the lost people, and to bury the dead animals and humans become imperative during the early stages of post-disaster period.</sent>
+				<sent id ="110">Early disposal of dead bodies will save the environment from pollution and spread of communicable diseases.</sent>
+				<sent id ="111">It is also necessary to co-ordinate the relief activities by non- government organisations.</sent>
+				<sent id ="112">If the shelters are built with this aim, then the shelters will not fall into disuse, and be abandoned.</sent>
+				<sent id ="113">In Bangladesh, natural disasters strike several times a year, and has changed the lifestyle of the people living in the coastal areas.</sent>
+				<sent id ="114">Currently, natural disaster has become a regular phenomenon, so creating awareness among the inhabitants has become necessary.</sent>
+				<sent id ="115">Every year natural disasters strike Bangladesh to cause severe natural and financial problems.</sent>
+				<sent id ="116">This calls for the formation of disaster management committee in every village and through discussion, decide on the ways and means to tackle these disasters.</sent>
+				<sent id ="117">Early warning about the time when disaster may strike is one of the ways that people can save themselves.</sent>
+				<sent id ="118">The discussions will include creating awareness about the warning signals and what they indicate, pre-disaster management, and ways to preserve food and other items.</sent>
+				<sent id ="119">People should learn swimming.</sent>
+				<sent id ="120">Besides sari, women should keep at least a set of salwar and kameez.</sent>
+				<sent id ="121">The people should be alerted through miking about moving to the cyclone centre in time.</sent>
+				<sent id ="122">This calls for creating awareness, co-operation and sympathy among all.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

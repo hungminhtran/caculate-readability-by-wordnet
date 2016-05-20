@@ -1,0 +1,48 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-24</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.137</idno>
+				<idno type="Number of sentences">20</idno>
+				<idno type="Number of tokens">272</idno>
+				<idno type="Number of token types">159</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t69">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">AIDS is a deadly disease in the present world.</sent>
+				<sent id ="2">The entire human civilization is facing a severe threat because of this deadly disease.</sent>
+				<sent id ="3">Under the geographic and socio- economic conditions of Bangladesh, there is a high probability that AIDS may spread in epidemic form in our country too.</sent>
+				<sent id ="4">That is why all of us need to know about AIDS.</sent>
+				<sent id ="5">The word AIDS is an acronym of the words Acquired Immune Deficiency Syndrome.</sent>
+				<sent id ="6">It is a kind of viral disease.</sent>
+				<sent id ="7">The name of this virus is HIV; the full name is Human Immunodeficiency Virus.</sent>
+				<sent id ="8">That is, the virus that reduces the capacity of the human body to prevent diseases is HIV.</sent>
+				<sent id ="9">HIV is a very small, special type of virus that causes AIDS in human beings.</sent>
+				<sent id ="10">After entering into human body through several ways, this virus slowly destroys the original immune system of the body.</sent>
+				<sent id ="11">At one stage, the immunity of the infected person is reduced too much.</sent>
+				<sent id ="12">This last stage of HIV infection is AIDS.</sent>
+				<sent id ="13">Because of reducing immune capacity of the body, other diseases very easily attack an AIDS patient.</sent>
+				<sent id ="14">No effective antidote against AIDS has yet been discovered.</sent>
+				<sent id ="15">So, death is the ultimate consequence of an AIDS patient.</sent>
+				<sent id ="16">That is why AIDS is called a killer disease or a deadly disease.</sent>
+				<sent id ="17">The ways through which HIV does not spread have been pictorially shown below:</sent>
+				<sent id ="18">Though AIDS is not yet alarming in our country, experts believe that for various reasons it may soon take the form of an epidemic.</sent>
+				<sent id ="19">In Bangladesh already some people have died of this disease.</sent>
+				<sent id ="20">For preventing the spread of AIDS, development of self- consciousness is essential.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

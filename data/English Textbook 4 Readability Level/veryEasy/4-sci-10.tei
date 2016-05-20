@@ -1,0 +1,80 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.268</idno>
+				<idno type="Number of sentences">52</idno>
+				<idno type="Number of tokens">562</idno>
+				<idno type="Number of token types">282</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t76">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The mother hen, whenever she finds some food, makes a particular sound from her throat.</sent>
+				<sent id ="2">Hearing that sound, the little chicks come running to their mother for feeding.</sent>
+				<sent id ="3">Hearing that sound, the chicks quickly hide themselves in safe places.</sent>
+				<sent id ="4">You may be surprised to know that even insects send information to each other.</sent>
+				<sent id ="5">When a bee finds a fl ower garden, it immediately goes back to its hive.</sent>
+				<sent id ="6">They cannot think of new ways of communicating information.</sent>
+				<sent id ="7">But it is different with men.</sent>
+				<sent id ="8">Men are constantly trying to find newer ways to communicate information.</sent>
+				<sent id ="9">You will be surprised to learn about all these means of information communication.</sent>
+				<sent id ="10">You must have understood by now what is meant by information.</sent>
+				<sent id ="11">News or knowledge about anything is information.</sent>
+				<sent id ="12">To live we constantly need to learn new information.</sent>
+				<sent id ="13">A farmer needs to know how to drain water into his land.</sent>
+				<sent id ="14">A factory worker has to know how to run the machines in the factory.</sent>
+				<sent id ="15">A student is all the time getting new information from his or her books.</sent>
+				<sent id ="16">And this information is scattered all around us in various ways.</sent>
+				<sent id ="17">We look for and find the information as we need it.</sent>
+				<sent id ="18">Scientists do research work on it and find the medicine for its treatment.</sent>
+				<sent id ="19">And a new piece of information is born in the world.</sent>
+				<sent id ="20">Thousands of people will perhaps then die in the cyclone.</sent>
+				<sent id ="21">The people can move away to safer places or go to the shelter centres.</sent>
+				<sent id ="22">So, you see that information can save the lives of thousands of people.</sent>
+				<sent id ="23">But, it is important to communicate the information for that.</sent>
+				<sent id ="24">We can see many examples of information communication around us.</sent>
+				<sent id ="25">In the modern world, information communication is a very important subject.</sent>
+				<sent id ="26">Earlier we didn't have so many different ways of communicating information as we have now.</sent>
+				<sent id ="27">The information would reach others as fast as the person could go to them.</sent>
+				<sent id ="28">No complicated messages could be sent in these ways.</sent>
+				<sent id ="29">There were no ways to send information to many people at the same time.</sent>
+				<sent id ="30">After the plane was invented, people could send information much faster than before.</sent>
+				<sent id ="31">In 1837, a significant change happened in the field of information communication.</sent>
+				<sent id ="32">This technique is known as Telegraph.</sent>
+				<sent id ="33">People started to send information through telegraph.</sent>
+				<sent id ="34">Technology is the use of science.</sent>
+				<sent id ="35">Science is knowledge and knowledge can never be bad.</sent>
+				<sent id ="36">But technology can be good or bad.</sent>
+				<sent id ="37">However, man has for the most part used technology for the good of man.</sent>
+				<sent id ="38">Information technology is a good example of that.</sent>
+				<sent id ="39">At first, only one word at a time could be sent through telegraph.</sent>
+				<sent id ="40">Telephone wire is needed to be installed to make the telephone work.</sent>
+				<sent id ="41">So, the scientists started experiments to find out if information could be sent without wires.</sent>
+				<sent id ="42">This technology is known as wireless.</sent>
+				<sent id ="43">Gradually a lot of improvements have been made in this technology.</sent>
+				<sent id ="44">Using this technology, we have found the television.</sent>
+				<sent id ="45">Scientists and technologists have started to link one computer with another.</sent>
+				<sent id ="46">This is called computer network.</sent>
+				<sent id ="47">People across the world can now exchange information with each other through computer network.</sent>
+				<sent id ="48">This is known as internet.</sent>
+				<sent id ="49">Internet is considered as the most significant technology of the new world.</sent>
+				<sent id ="50">This new form of information technology is changing our world in new ways everyday.</sent>
+				<sent id ="51">Have you taken part in this new change?</sent>
+				<sent id ="52">Do you want to take part?</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

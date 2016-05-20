@@ -1,0 +1,186 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.327</idno>
+				<idno type="Number of sentences">158</idno>
+				<idno type="Number of tokens">2180</idno>
+				<idno type="Number of token types">635</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t148">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We know that we need to apply force in order to do work.</sent>
+				<sent id ="2">But there are some techniques of applying forces so that work becomes easier to perform.</sent>
+				<sent id ="3">Some work that requires enough force can be done with minimum force if the proper technique is followed.</sent>
+				<sent id ="4">The technical devices that we use to do work with minimum force are called machines.</sent>
+				<sent id ="5">In this chapter we shall discuss some simple machines.</sent>
+				<sent id ="6">What is a simple machine?</sent>
+				<sent id ="7">What do you usually do to lift a heavy box from ground?</sent>
+				<sent id ="8">Which one is easier?</sent>
+				<sent id ="9">Definitely the later one.</sent>
+				<sent id ="10">In this case the work has been done by applying less force.</sent>
+				<sent id ="11">Only you have applied a trick by a using a rod.</sent>
+				<sent id ="12">Here, the rod is used as a simple machine, which has made the work done easily and by minimum efforts.</sent>
+				<sent id ="13">We use many such simple machines in our daily life, such as knife, scissor, pliers, crowbar, lever etc.</sent>
+				<sent id ="14">There are complex machines too, such as sewing machine, bi- cycle, tractor etc.</sent>
+				<sent id ="15">But whatever complex they are, they are only a combination of some simple machines.</sent>
+				<sent id ="16">Some simple machines increase the applied force and make the work easy.</sent>
+				<sent id ="17">The later example mentioned above shows how machines can be used to do work easily.</sent>
+				<sent id ="18">Here the force applied at one end of the rod has been multiplied at the other end.</sent>
+				<sent id ="19">Scissors, pliers, crowbar, wrench, screw etc. are examples of such machines.</sent>
+				<sent id ="20">There are machines, which can alter the direction of force.</sent>
+				<sent id ="21">The paddle of cycle is such a machine by which downward force is applied by feet on a paddle which makes the cycle go forward.</sent>
+				<sent id ="22">The national flag in your school is hoisted by a pulley.</sent>
+				<sent id ="23">Here the rope on one side of the pulley is drawn downward but the flag fixed on the other side goes up.</sent>
+				<sent id ="24">Again, there are machines which work to increase motion and distance.</sent>
+				<sent id ="25">To get a guava from the top of the tree you use a bamboo stick.</sent>
+				<sent id ="26">Here the bamboo stick is the simple machine.</sent>
+				<sent id ="27">By increasing distance it multiplies the motion of your hand.</sent>
+				<sent id ="28">A sweeper increases the motion of his hand by using a handle on his broom.</sent>
+				<sent id ="29">So we see that simple machines are appliances by which work can be done easily and without much effort.</sent>
+				<sent id ="30">These machines may work by increasing force, by altering direction of force or by increasing distance and motion.</sent>
+				<sent id ="31">Lever Simple machines like knife, Scissors, crowbar, wrench, broom etc are called levers.</sent>
+				<sent id ="32">Even our hands, legs, fingers work like levers.</sent>
+				<sent id ="33">By them we can move, shift or raise things and can apply force in many different ways.</sent>
+				<sent id ="34">When a crow bar is used to raise a heavy box, it acts as a lever.</sent>
+				<sent id ="35">Here the crowbar is supported by a stone or brick or something hard.</sent>
+				<sent id ="36">You apply small force on one end and get the force multiplied on the other end.</sent>
+				<sent id ="37">This is the principle that works behind the functioning of a lever.</sent>
+				<sent id ="38">Lever makes work easy to do and also increases the force.</sent>
+				<sent id ="39">So, a work that normally requires a great force, can be done easily with the help of a lever by applying a small force.</sent>
+				<sent id ="40">The principle behind the functioning of a lever can be understood from figure 9.</sent>
+				<sent id ="41">The lever is supported on a dot or line of a hard object.</sent>
+				<sent id ="42">The lever moves or rotates centering this dot or line.</sent>
+				<sent id ="43">This dot or line is called fulcrum of the lever.</sent>
+				<sent id ="44">The heavy object which is to be raised by a lever is called load and is kept at one end of the lever.</sent>
+				<sent id ="45">On the other end of the lever force is applied.</sent>
+				<sent id ="46">This means, the longer the force arm, the smaller the force to be applied to raise loads.</sent>
+				<sent id ="47">Say, force arm is three times longer than the load arm.</sent>
+				<sent id ="48">Then the load can be raised by applying a force three times greater.</sent>
+				<sent id ="49">That is, 9 times load can be raised by applying 1 time force.</sent>
+				<sent id ="50">If a load is 900 Newton it Can be raised by applying 100 Newton force.</sent>
+				<sent id ="51">A machine changes the applied force by a certain ratio.</sent>
+				<sent id ="52">Mechanical advantage is a number by which a machine changes the applied force.</sent>
+				<sent id ="53">Mechanical advantage may be more than 1, may be equal to 1, or less than 1.</sent>
+				<sent id ="54">Sometimes we lift less load by applying greater force for our convenience.</sent>
+				<sent id ="55">Here, the mechanical advantage is less than 1.</sent>
+				<sent id ="56">The fulcrum of the lever will not be always in between the load and the force.</sent>
+				<sent id ="57">It may be at one end too.</sent>
+				<sent id ="58">Depending on the position of fulcrum, load and force lever is classified in three categories class I lever, class II lever, Class III lever.</sent>
+				<sent id ="59">When fulcrum is in between the load and force the lever is called class I lever.</sent>
+				<sent id ="60">In this class of lever fulcrum and force are at the two ends and the load remains at the middle.</sent>
+				<sent id ="61">Nut cracker is an example of this class of lever.</sent>
+				<sent id ="62">Two parts of cracker is joined at a point, this point is the fulcrum.</sent>
+				<sent id ="63">Force is applied by hand at the other end point and load is exerted on the nut at the middle.</sent>
+				<sent id ="64">In this class of lever, force is applied to the middle in between load and fulcrum.</sent>
+				<sent id ="65">Example of such levers are tong or forceps.</sent>
+				<sent id ="66">Perhaps you have noticed an inclined plank when oildrums are loaded on a truck.</sent>
+				<sent id ="67">The loaded drum is rolled over the inclined plank to the truck (fig 9.4).</sent>
+				<sent id ="68">Why is it done like this?</sent>
+				<sent id ="69">This is because it is easier to role over on inclined plank than to raise things vertically.</sent>
+				<sent id ="70">So an inclined plank makes the job easier, Therefore it is the example of a simple machine.</sent>
+				<sent id ="71">This work is equal to the work done on the body raised vertically in distance.</sent>
+				<sent id ="72">The length of the inclined plain is greater than its height.</sent>
+				<sent id ="73">So to role a body over inclined plain the distance to be covered is great but the force is to be applied is small.</sent>
+				<sent id ="74">Say, the length of an inclined plain is 3 metres and its height is 1 metre.</sent>
+				<sent id ="75">From the relation above, 300 Newton load can be raised by a force of 100 Newton only.</sent>
+				<sent id ="76">So the work will be done easily.</sent>
+				<sent id ="77">Inclined plain is one of the simple machines that men learnt to use since the early phase of civilisation.</sent>
+				<sent id ="78">Examples of human application of inclined plains can be found in the stairs of a building, road to go upwards etc.</sent>
+				<sent id ="79">They are made inclined instead of vertical as it is much easier to climb up an inclined way when going upwards.</sent>
+				<sent id ="80">Pulley is a notched wheel which rotates freely on an axis.</sent>
+				<sent id ="81">You may have seen it in your school when flag is hoisted on a long stand.</sent>
+				<sent id ="82">A rope on a notched wheel can pull a heavy load tied at one end by pulling it toward the other end (fig 9.6).</sent>
+				<sent id ="83">Pulley does not increase force rather it changes the direction of force.</sent>
+				<sent id ="84">Force is applied downward at the end of the rope and the load tied on the other end goes upward.</sent>
+				<sent id ="85">Applied force is almost equal to the load which may be a bit larger to overcome friction.</sent>
+				<sent id ="86">But it is easier to raise a load by pulling it downward than to raise it vertically, straightway.</sent>
+				<sent id ="87">For this advantage pulley is used.</sent>
+				<sent id ="88">Wheel and axle is a machine in which a rod of smaller diameter is attached to a wheel of larger diameter.</sent>
+				<sent id ="89">A long rope is spiraled over the wheel and axle as shown in figure 9.</sent>
+				<sent id ="90">Force is applied at this end.</sent>
+				<sent id ="91">By applying small force, large load can be raised, wheel and axel not only increases force but also alters the direction of force.</sent>
+				<sent id ="92">This is an altered form of lever.</sent>
+				<sent id ="93">Here force arm is the diameter of the wheel and load arm is the diameter of the rod of the axle.</sent>
+				<sent id ="94">Wheel and axle is used to draw water from well.</sent>
+				<sent id ="95">Steering wheel of a car and screw driver are the modified forms of the wheel and axle.</sent>
+				<sent id ="96">You all might have seen screw drivers; some of you perhaps used them too.</sent>
+				<sent id ="97">Take two screw drivers, one with fat handle and the other with narrow handle.</sent>
+				<sent id ="98">Which one is easy to work with?</sent>
+				<sent id ="99">You will see that the one with fat handle is easier to work with.</sent>
+				<sent id ="100">The reason is that the screw driver is a modified form of wheel and axle.</sent>
+				<sent id ="101">Here, the handle works as wheel and the steel rod works as axle.</sent>
+				<sent id ="102">Therefore, the broader the handle is the easier it is to work with.</sent>
+				<sent id ="103">When a punctured wheel of a motor car is to be replaced by a spare wheel, the car needs to be raised from the ground.</sent>
+				<sent id ="104">The driver of the car do not raise it by applying manual force.</sent>
+				<sent id ="105">This can be easily done by a jack screw.</sent>
+				<sent id ="106">A jack screw is a fat screw made of steel.</sent>
+				<sent id ="107">There is a handle attached to it as shown in figure (9.8).</sent>
+				<sent id ="108">The upper part of the screw is either raised above or lowered down by rotating the handle.</sent>
+				<sent id ="109">A jack screw works at a time on the principles of lever and the inclined plane.</sent>
+				<sent id ="110">The spiral screw works as inclined plain as the screw spirals over from one end to the other.</sent>
+				<sent id ="111">The distance covered is the length of the inclined plane and the height of the spiral screw is the height of the inclined plane.</sent>
+				<sent id ="112">Thus by increasing the length of the inclined plane, much heavy load is raised by applying small force.</sent>
+				<sent id ="113">Also direction of force applied on the handle is perpendicular to the load.</sent>
+				<sent id ="114">So jack screw makes work easier by increasing the applied force as well as by changing the direction of force.</sent>
+				<sent id ="115">We use pumps in various work in our daily life.</sent>
+				<sent id ="116">In tubewell pump draws drinking water from below the earth surface.</sent>
+				<sent id ="117">We use pump to irrigate our crop fields.</sent>
+				<sent id ="118">With pump we raise water from reservoirs below to water tanks placed on the house roofs.</sent>
+				<sent id ="119">Pump is also used in pushing air in bicycle wheels and football bladders.</sent>
+				<sent id ="120">What actually does a pump do?</sent>
+				<sent id ="121">How does pumps work in the examples mentioned above?</sent>
+				<sent id ="122">Pumps simply take water or air i.e. liquid or gas from one place to another.</sent>
+				<sent id ="123">Liquid and gas have at least one property in common-they flow from places of higher pressure to that of lower one.</sent>
+				<sent id ="124">This property is used in operating pump.</sent>
+				<sent id ="125">We can say that machines which shift liquids and gases from one place to another by using air pressure is called pumps.</sent>
+				<sent id ="126">In the barrel an airtight piston moves up and down.</sent>
+				<sent id ="127">This is used to reduce the atmospheric pressure in the barrel.</sent>
+				<sent id ="128">A special kind of door is used to make liquid or gas flow in one direction only.</sent>
+				<sent id ="129">This door is called valve.</sent>
+				<sent id ="130">It has an one way opening only.</sent>
+				<sent id ="131">Fluids move in that direction but remain closed when it tries to move in the opposite direction.</sent>
+				<sent id ="132">Pump may be of various types.</sent>
+				<sent id ="133">We only discuss one type of pump here-lift pump.</sent>
+				<sent id ="134">This pump is used to raise water to a certain height.</sent>
+				<sent id ="135">The handle acts as lever.</sent>
+				<sent id ="136">There is a narrow pipe at the bottom of the barrel.</sent>
+				<sent id ="137">This pipe leads the pumpup to the water which is to be raised.</sent>
+				<sent id ="138">On the upper side of the barrel there is a pipe, through which water can go out.</sent>
+				<sent id ="139">The pump has two valves.</sent>
+				<sent id ="140">V1 is at the junction of the barrel and narrow pipe.</sent>
+				<sent id ="141">The other V2 is attached to the piston.</sent>
+				<sent id ="142">Both the valves open in upward directions only.</sent>
+				<sent id ="143">The piston is lowered and the volume between valves V1 and V2 decreases as such the pressure increases.</sent>
+				<sent id ="144">The increase of pressure opens valve V2 but closes valve V1.</sent>
+				<sent id ="145">A certain amount of air goes out through VNow, as the piston is drawn upward, the air pressure decreases.</sent>
+				<sent id ="146">Thus valve V1 opens and some quantity of air from the narrow pipe enters into the barrel.</sent>
+				<sent id ="147">As a result air pressure decreases into the tube.</sent>
+				<sent id ="148">So due to atmospheric pressure on the surface of water, some quantity of water comes through the barrel from the tube through V1.</sent>
+				<sent id ="149">Again when the piston is lowered, V1 opens and V2 remains closed.</sent>
+				<sent id ="150">The Water which entered before in the barrel now goes above the piston.</sent>
+				<sent id ="151">The piston was drawn upward; the water which was collected above the piston now goes out through the pipe.</sent>
+				<sent id ="152">At the same time V1 opens again, valve V2 being closed, atmospheric pressure forces some water to the barrel through V1.</sent>
+				<sent id ="153">Only when the handle is lowered, the piston moves up and water goes to the delivery pipe.</sent>
+				<sent id ="154">In lift pump water enters barrel through V1 by an atmospheric pressure.</sent>
+				<sent id ="155">Normal atmospheric pressure can support 76 cm.</sent>
+				<sent id ="156">height of mercury column which is equal to 10.3 m water column.</sent>
+				<sent id ="157">In tubewell lift pump is used.</sent>
+				<sent id ="158">Tubewell is used to get drinking water and it is also used for irigation of lands.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

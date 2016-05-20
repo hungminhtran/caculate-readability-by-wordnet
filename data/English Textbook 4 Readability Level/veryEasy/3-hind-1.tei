@@ -1,0 +1,132 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-hind-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.923</idno>
+				<idno type="Number of sentences">104</idno>
+				<idno type="Number of tokens">727</idno>
+				<idno type="Number of token types">297</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t14">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Wonderful is this earth.</sent>
+				<sent id ="2">It is full of beauty.</sent>
+				<sent id ="3">There are hills and mountains in some areas.</sent>
+				<sent id ="4">Some areas are plains and some are deserts.</sent>
+				<sent id ="5">Again you can see rivers and seas in other parts.</sent>
+				<sent id ="6">The blue sky is above our head.</sent>
+				<sent id ="7">Birds sing from the the branches of trees.</sent>
+				<sent id ="8">Many kinds of animals live here.</sent>
+				<sent id ="9">Who has created all these things?</sent>
+				<sent id ="10">There must be one Creator behind it.</sent>
+				<sent id ="11">A carpenter makes chairs and tables.</sent>
+				<sent id ="12">A mason builds a building.</sent>
+				<sent id ="13">In the same way everything needs a Creator.</sent>
+				<sent id ="14">We have a creator.</sent>
+				<sent id ="15">He has created this beautiful world.</sent>
+				<sent id ="16">What's the name of this Creator?</sent>
+				<sent id ="17">He has many names.</sent>
+				<sent id ="18">Some call Him Ishwara.</sent>
+				<sent id ="19">Some call Him God, some call Him Allah.</sent>
+				<sent id ="20">As the same water is kalled jal or pani.</sent>
+				<sent id ="21">We are Hindus.</sent>
+				<sent id ="22">The Hindus call the Creator Ishwara.</sent>
+				<sent id ="23">Vagaban is also His another name.</sent>
+				<sent id ="24">Why has Ishwara created all these?</sent>
+				<sent id ="25">He has created all these to show His glory.</sent>
+				<sent id ="26">All His work is His glory.</sent>
+				<sent id ="27">Creation gives Him pleasure.</sent>
+				<sent id ="28">Ishwara is infinite, eternal.</sent>
+				<sent id ="29">His creation is full of variety.</sent>
+				<sent id ="30">Endless is His greatness.</sent>
+				<sent id ="31">Ishwara is all powerful.</sent>
+				<sent id ="32">He is present everywhere.</sent>
+				<sent id ="33">He sees everybody.</sent>
+				<sent id ="34">But we cannot see Him.</sent>
+				<sent id ="35">We can see all His creation.</sent>
+				<sent id ="36">We can see His image in His creation.</sent>
+				<sent id ="37">We find Ishwara in His creations.</sent>
+				<sent id ="38">Ishwara has created us.</sent>
+				<sent id ="39">So to please Ishwara, we have to worship Him.</sent>
+				<sent id ="40">We should be devoted to Him.</sent>
+				<sent id ="41">But how to worship Him?</sent>
+				<sent id ="42">How to show our devotion to Him? Ishwara is present everywhere.</sent>
+				<sent id ="43">To love all things is to love Ishwara.</sent>
+				<sent id ="44">So to worship Ishwara we have to love His creation.</sent>
+				<sent id ="45">This will please Ishwara.</sent>
+				<sent id ="46">And will do good for the world.</sent>
+				<sent id ="47">Service towards living beings is a good quality of human kind.</sent>
+				<sent id ="48">It is part of religion.</sent>
+				<sent id ="49">It broadens our mind.</sent>
+				<sent id ="50">It gives us pleasure.</sent>
+				<sent id ="51">Our religion refers to service.</sent>
+				<sent id ="52">We should take care of our parents.</sent>
+				<sent id ="53">This is called filial duty.</sent>
+				<sent id ="54">We should serve our superiors.</sent>
+				<sent id ="55">We should love our neighbours.</sent>
+				<sent id ="56">Our religion refers to love for life.</sent>
+				<sent id ="57">We have been asked to love the living beings.</sent>
+				<sent id ="58">We know that trees, plants, animals and birds are all created by Ishwara.</sent>
+				<sent id ="59">In nature, we see many kinds of animals, birds and trees.</sent>
+				<sent id ="60">They serve us in many ways.</sent>
+				<sent id ="61">Ishwara helps humankind through all these.</sent>
+				<sent id ="62">All the creation of earth represents Ishwara.</sent>
+				<sent id ="63">Service towards living beings is called love for life.</sent>
+				<sent id ="64">It is part of our religion.</sent>
+				<sent id ="65">It has been said, Jatro jiva: tatro Shiva.</sent>
+				<sent id ="66">It means Service towards living beings where there is life there is Shiva.</sent>
+				<sent id ="67">Here Shiva means Ishwara.</sent>
+				<sent id ="68">Ishwara lives in all His creation.</sent>
+				<sent id ="69">To love and serve all creation is to love and serve Ishwara.</sent>
+				<sent id ="70">Swami Vivekananda has asked people to love the living beings.</sent>
+				<sent id ="71">He says To pray to Ishwara means to love all His creation.</sent>
+				<sent id ="72">In the words of Vivekananda- He who shows kindness to living beings Loves Ishwara most.</sent>
+				<sent id ="73">So we will have to take care of birds and animals.</sent>
+				<sent id ="74">We should love them.</sent>
+				<sent id ="75">Trees and plants should be sown and protected.</sent>
+				<sent id ="76">We should take care of them properly.</sent>
+				<sent id ="77">If we serve living things of nature, Ishwara will be pleased with us.</sent>
+				<sent id ="78">And that will do good both for us and the universe.</sent>
+				<sent id ="79">We know that there is God.</sent>
+				<sent id ="80">He has created all things.</sent>
+				<sent id ="81">We feel Him through his creation.</sent>
+				<sent id ="82">We love Him by loving His creation.</sent>
+				<sent id ="83">God is all powerful.</sent>
+				<sent id ="84">He does good to us.</sent>
+				<sent id ="85">He is most kind to us.</sent>
+				<sent id ="86">So we have to remember Him.</sent>
+				<sent id ="87">We must bow down to Him.</sent>
+				<sent id ="88">In prayer, we bow down to God and ask for something.</sent>
+				<sent id ="89">God is the supreme master of the earth.</sent>
+				<sent id ="90">So we tell Him what is there in our mind.</sent>
+				<sent id ="91">Prayers have particular times.</sent>
+				<sent id ="92">Prayers keep our body and mind healthy and pure.</sent>
+				<sent id ="93">Prayers can make us honest and pious.</sent>
+				<sent id ="94">Prayers make a man humble.</sent>
+				<sent id ="95">In prayer we bow down to Ishwara.</sent>
+				<sent id ="96">Prayers make us polite and modest.</sent>
+				<sent id ="97">We have to be polite and modest.</sent>
+				<sent id ="98">Prayers have some definite rules for sitting.</sent>
+				<sent id ="99">There are some postures of sitting known as asana.</sent>
+				<sent id ="100">During worship, we need to keep our head, shoulder, and spine straight.</sent>
+				<sent id ="101">Sitting in shukhasan or padmasan is the usual way to worship.</sent>
+				<sent id ="102">We can also offer our prayers standing.</sent>
+				<sent id ="103">We pray with folded hands.</sent>
+				<sent id ="104">Prayers can be done alone or together with others.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

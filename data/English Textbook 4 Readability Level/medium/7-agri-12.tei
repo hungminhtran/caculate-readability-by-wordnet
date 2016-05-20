@@ -1,0 +1,162 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.67</idno>
+				<idno type="Number of sentences">134</idno>
+				<idno type="Number of tokens">1487</idno>
+				<idno type="Number of token types">512</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t4">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Carp or Rui-katla variety is the most important because of its economic value and demand in the market.</sent>
+				<sent id ="2">Fishes of this group have adaptability.</sent>
+				<sent id ="3">Their natural abode is the sweet water rivers.</sent>
+				<sent id ="4">However, you can fix them in a pond for cultivation.</sent>
+				<sent id ="5">The significant feature of these fishes is that they belong to the same family; they do not feed on each other's fries.</sent>
+				<sent id ="6">They do not compete with each other for feed.</sent>
+				<sent id ="7">They may have some agitation among themselves about feed and movement, but it does not have an adverse effect on their living together.</sent>
+				<sent id ="8">Carps mostly do not spawn in the ponds or the closed waters.</sent>
+				<sent id ="9">They reproduce naturally in the rivers.</sent>
+				<sent id ="10">However, it may reproduce in the closed waters after artificial treatment.</sent>
+				<sent id ="11">Rui, Katla, Mrigel, Kaliboush, Silver carp, Mirror carp, Common carp, Grass carp and Big head carp, etc. are known as carp.</sent>
+				<sent id ="12">These fishes are very tasty.</sent>
+				<sent id ="13">They forage in different layers of the pond and keep it well.</sent>
+				<sent id ="14">Carps of all types may be cultivated together in a pond.</sent>
+				<sent id ="15">This is called mixed carp culture.</sent>
+				<sent id ="16">Rui, Katla, and Kaliboush are the fishes of the rivers of this country.</sent>
+				<sent id ="17">They are known as local Rui or local carp.</sent>
+				<sent id ="18">Rui: Rui is a fish of rivers.</sent>
+				<sent id ="19">It is one of the main fishes suitable for cultivation in ponds.</sent>
+				<sent id ="20">It is very tasty.</sent>
+				<sent id ="21">Its head is triangular, and small in relation to its body.</sent>
+				<sent id ="22">The dorsal (back) line or level is more curved than the ventral (belly) level.</sent>
+				<sent id ="23">The colour of the back is slightly brown.</sent>
+				<sent id ="24">The colour of both sides of the belly is silvery white to light golden.</sent>
+				<sent id ="25">They forage in the mid layer of the pond.</sent>
+				<sent id ="26">They feed on zooplankton at the early stage of their growth, but phytoplankton, soft leaves of aquatic plants and organic materials later on.</sent>
+				<sent id ="27">They also feed on supplements like oil cake and bran.</sent>
+				<sent id ="28">Its rate of growth is slightly lower than Katla.</sent>
+				<sent id ="29">Rui does not spawn in ponds.</sent>
+				<sent id ="30">Their time to spawn is from April to August (Baishakh to Sraban).</sent>
+				<sent id ="31">Fries may be produced in artificial methods.</sent>
+				<sent id ="32">They attain a size of about 1 metre in length when grown naturally in rivers or large waters.</sent>
+				<sent id ="33">Katla: Katla is a fish of the river.</sent>
+				<sent id ="34">However, it is amenable to cultivation in ponds.</sent>
+				<sent id ="35">The size of the head of katla is big; the back is elevated; the body is broad and a bit fIat.</sent>
+				<sent id ="36">The colour of the dorsal side is greyish but the colour of ventral side or belly is white.</sent>
+				<sent id ="37">The colour of the dorsal fin is black.</sent>
+				<sent id ="38">The mouth is curved upward.</sent>
+				<sent id ="39">They forage in the upper layer of the pond and grow very fast.</sent>
+				<sent id ="40">At the early stage, they live on zooplankton, but feed on small shells and phytoplankton later in their life.</sent>
+				<sent id ="41">They also treat themselves with supplementary feed.</sent>
+				<sent id ="42">They do not spawn in the pond.</sent>
+				<sent id ="43">Fries grow in the natural environment of the rivers.</sent>
+				<sent id ="44">However, fries may be grown in the ponds through artificial treatment.</sent>
+				<sent id ="45">The time of spawning extends from April to July (Baishakh to Ashar).</sent>
+				<sent id ="46">When grown naturally in rivers or large waters, they may grow 1.5 metre in length.</sent>
+				<sent id ="47">Mrigel: Rivers are also the natural abode of Mrigel.</sent>
+				<sent id ="48">It is a major fish to culture like Rui and Katla.</sent>
+				<sent id ="49">Its dorsal side is slightly more curved than the ventral side.</sent>
+				<sent id ="50">Its head is smaller than Rui,s.</sent>
+				<sent id ="51">The colour of the body is whitish to light golden.</sent>
+				<sent id ="52">The fins are light red.</sent>
+				<sent id ="53">The mouth is curved downward.</sent>
+				<sent id ="54">It has two antennae on both sides of the mouth.</sent>
+				<sent id ="55">Mrigels mostly move on the bottom of the pond.</sent>
+				<sent id ="56">They feed on whatever is there.</sent>
+				<sent id ="57">Like Katla they eat zooplankton at an early stage.</sent>
+				<sent id ="58">However, they feed on the rotten organic material, small insects and soft soil.</sent>
+				<sent id ="59">They follow Rui and Katla in reproduction.</sent>
+				<sent id ="60">They spawn from April to August (Baishakh to Sraban).</sent>
+				<sent id ="61">Kaliboush: Kaliboush is also a fish of rivers like Rui and Katla.</sent>
+				<sent id ="62">They can be cultivated in the pond in the mixed culture system with Rui and Katla.</sent>
+				<sent id ="63">The colour of their body and fins is blackish.</sent>
+				<sent id ="64">Their mouth is narrow.</sent>
+				<sent id ="65">They have two pairs of antennae on both sides of the mouth.</sent>
+				<sent id ="66">Kaliboush stays on the bottom of the pond and forage there like Mrigels.</sent>
+				<sent id ="67">They do not spawn in the pond.</sent>
+				<sent id ="68">However, fries may be produced through artificial treatments.</sent>
+				<sent id ="69">Kaliboush spawns in rivers during the rainy season.</sent>
+				<sent id ="70">The fishes called Silver carp, Common carp, Mirror carp, Grass carp, Bighead carp etc. are the exotic fishes brought from abroad to our country.</sent>
+				<sent id ="71">For this season, these fishes are called foreign carps.</sent>
+				<sent id ="72">Silver carps: Silver carps grow faster than others of their family.</sent>
+				<sent id ="73">They may be cultivated with local carps in a mixed culture system.</sent>
+				<sent id ="74">They were first introduced in Bangladesh in the year First Silver carp fries were produced in 1976 artificially.</sent>
+				<sent id ="75">The scales on their body are very small and silver in colour.</sent>
+				<sent id ="76">Their ventral or lower side is boat shaped.</sent>
+				<sent id ="77">They look like chapila at their infancy and look like Hilsa or Jatka at their adolescent stage.</sent>
+				<sent id ="78">They forage in the upper layer of ponds and lakes like katla.</sent>
+				<sent id ="79">At the early stage, they grow a fancy for small phytoplankton and algae.</sent>
+				<sent id ="80">They feed on the decomposed aquatic plants when they grow bigger.</sent>
+				<sent id ="81">Silver carps enjoy supplementary feed as well.</sent>
+				<sent id ="82">They do not spawn in the closed waters.</sent>
+				<sent id ="83">Common carp: Among all the exotic carps introduced to our waters from abroad, common carps are more popular than any other in Bangladesh.</sent>
+				<sent id ="84">They go by the name of carpeo.</sent>
+				<sent id ="85">Sometimes common carps stir while taking feed and loosen the soil of the bottom, banks and other points, even make holes over there.</sent>
+				<sent id ="86">This fish is adapted to reproduce in the ponds and spawn during winter and summer.</sent>
+				<sent id ="87">Mirror carp: Mirror carps were brought in here in The fish is not cultivated throughout the country.</sent>
+				<sent id ="88">Mirror carps belong to the species of common carp.</sent>
+				<sent id ="89">The scales of Mirror carp are few in number, large in size, and scattered over the body.</sent>
+				<sent id ="90">The colour of the body is yellow and golden.</sent>
+				<sent id ="91">The lower part of the mouth is narrow.</sent>
+				<sent id ="92">Grass carp: Grass carps may be cultured with local carps in ponds as it is done with silver carps.</sent>
+				<sent id ="93">The fish was first brought to Bangladesh in Fries were produced in 1980 for the first time through artificial treatment.</sent>
+				<sent id ="94">They look like Mrigels, but they forage in the mid water of the ponds.</sent>
+				<sent id ="95">Their dorsal area is bronze while the body is slightly green.</sent>
+				<sent id ="96">Their fins are small.</sent>
+				<sent id ="97">The main feed of the fish is aquatic plants.</sent>
+				<sent id ="98">They are reproduced like silver carps.</sent>
+				<sent id ="99">They grow very fast.</sent>
+				<sent id ="100">Bighead carps: Bighead carps were brought to Bangladesh from Nepal in The original habitat of this fish is the Chinese rivers.</sent>
+				<sent id ="101">This is a very rapidly growing fish species.</sent>
+				<sent id ="102">A fish can gain 2 kg per year.</sent>
+				<sent id ="103">Catfish: Catfish includes Shing, Magur, Boal, Pabda, Tangra and Aire.</sent>
+				<sent id ="104">Catfish posseses two pairs of antennae.</sent>
+				<sent id ="105">One pair antenna is very long.</sent>
+				<sent id ="106">These fishes are known as catfish for the presence of the antennae.</sent>
+				<sent id ="107">These fishes do not have scales on their body.</sent>
+				<sent id ="108">Their skin is covered with a layer of a slimy material.</sent>
+				<sent id ="109">The slimy material protects this fish from infections.</sent>
+				<sent id ="110">Shing and Magur are known as Jeol Fish,.</sent>
+				<sent id ="111">Catfishes are generally found in the canals and ponds.</sent>
+				<sent id ="112">Jeol-fish: Koi, Shing, Magur and Shol are known as Jeol fish.</sent>
+				<sent id ="113">They can live and survive in a small place in the little water of pots, buckets and dishes.</sent>
+				<sent id ="114">They have extra respiration mechanisms.</sent>
+				<sent id ="115">As a result, they can take oxygen from the atmosphere.</sent>
+				<sent id ="116">These fishes may be cultivated in large numbers together.</sent>
+				<sent id ="117">They are very nutritious.</sent>
+				<sent id ="118">They contain more iron and protein but less fat and are digested very easily.</sent>
+				<sent id ="119">These fishes are recognized for their high food value and prescribed for patients.</sent>
+				<sent id ="120">Voracious fishes: Boal, Shol, Taki, Chital, etc. are known as voracious fishes.</sent>
+				<sent id ="121">Voracious fishes threaten the cultivation of fishes in ponds.</sent>
+				<sent id ="122">It is essential to clean a pond of voracious fishes to cultivate fish in it.</sent>
+				<sent id ="123">Small fishes: The small fish group includes Mola, Dhela, Batashi, Punti, Kachki, etc.</sent>
+				<sent id ="124">These fishes are very small.</sent>
+				<sent id ="125">Their economic status is not recognized well.</sent>
+				<sent id ="126">Their reproduction and multiplication occur naturally.</sent>
+				<sent id ="127">These fishes become the competitors for feed and habitat of the cultivable fishes.</sent>
+				<sent id ="128">They are ubiquitous in all the layers of the pond water and feed on all types of feeds both natural and supplementary.</sent>
+				<sent id ="129">Mola and Dhela are rich in vitamins.</sent>
+				<sent id ="130">A small number of fishes are sufficient to supplement minerals and vitamin A for a person per day.</sent>
+				<sent id ="131">They grow naturally in the natural waters.</sent>
+				<sent id ="132">They provide the rural poor with the minerals and vitamins they require.</sent>
+				<sent id ="133">We need to understand the real economic and healthful benefits we receive from these neglected small fishes.</sent>
+				<sent id ="134">Thats why we should take more care to cultivate these fishes.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

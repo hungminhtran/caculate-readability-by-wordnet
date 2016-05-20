@@ -1,0 +1,56 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.942</idno>
+				<idno type="Number of sentences">28</idno>
+				<idno type="Number of tokens">296</idno>
+				<idno type="Number of token types">174</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t17">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We know hens.</sent>
+				<sent id ="2">However, we need to know about their physiology to rear them profitably.</sent>
+				<sent id ="3">Different parts of the body of hens bear the marks of their genealogy.</sent>
+				<sent id ="4">Their output also largely depends on their shape and size.</sent>
+				<sent id ="5">Like other birds, they have two legs, two wings, and a strong beak.</sent>
+				<sent id ="6">They have combs on their heads and wattles on the throat.</sent>
+				<sent id ="7">Some of them have big combs and wattles while some of them have small ones.</sent>
+				<sent id ="8">The size of their combs varies depending on their species and kinds.</sent>
+				<sent id ="9">Some of them are single; some of them are double.</sent>
+				<sent id ="10">Some of them look like peas or roses.</sent>
+				<sent id ="11">Hens do not give as many eggs as you expect or as much meat as you desire if they are not healthy.</sent>
+				<sent id ="12">Diseases may spread to all other birds if you fail to identify and cull the sick hens.</sent>
+				<sent id ="13">Rearing healthy chicks is a pre-condition for profitable poultry farming.</sent>
+				<sent id ="14">Healthy hens are strong and stout.</sent>
+				<sent id ="15">Comps on their heads and wattles on their throats look bright red.</sent>
+				<sent id ="16">Their nose and mouth are clean.</sent>
+				<sent id ="17">Their stomach is full with food.</sent>
+				<sent id ="18">Their normal body temperature is 81.6 degrees Celsius, pulse beat per minute 120-170 and breathing 20 - 25 times every minute.</sent>
+				<sent id ="19">They keep their wings pressed on their body.</sent>
+				<sent id ="20">Their tails stand upright.</sent>
+				<sent id ="21">They will crow early in the morning, and always look alert.</sent>
+				<sent id ="22">They will crow and then make an effort to go away if they come across an enemy.</sent>
+				<sent id ="23">Go close to the hen.</sent>
+				<sent id ="24">Observe different parts of the body of the hen.</sent>
+				<sent id ="25">Compare the parts with the picture of your book.</sent>
+				<sent id ="26">Discuss with your teacher to understand.</sent>
+				<sent id ="27">Draw a hen in the practical note book and identify its different parts.</sent>
+				<sent id ="28">Write down the names of the parts.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,80 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.3</idno>
+				<idno type="Number of sentences">52</idno>
+				<idno type="Number of tokens">598</idno>
+				<idno type="Number of token types">285</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t25">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We know that the Almighty God has created everything of this earth out of nothingness.</sent>
+				<sent id ="2">He created many things in five days.</sent>
+				<sent id ="3">Everything He created seemed good.</sent>
+				<sent id ="4">But in spite of this He was not satisfied.</sent>
+				<sent id ="5">There was none to look after this creation.</sent>
+				<sent id ="6">It was not possible for any birds or beasts to do that.</sent>
+				<sent id ="7">He wished to create something in His own image.</sent>
+				<sent id ="8">So He created man.</sent>
+				<sent id ="9">He created them as male and female.</sent>
+				<sent id ="10">Man may be superior in two ways.</sent>
+				<sent id ="11">Firstly Man is superior for their special characteristics given by God.</sent>
+				<sent id ="12">Secondly, Man can be superior day by day with labor and practice.</sent>
+				<sent id ="13">The second can't be accomplished without the first.</sent>
+				<sent id ="14">Man can be considered superior because of the following characteristics ordained by God.</sent>
+				<sent id ="15">Man is created in the image of God.</sent>
+				<sent id ="16">In the whole of creation only man enjoys the gift of free will.</sent>
+				<sent id ="17">Only man can speak in words to express his inner thoughts to someone else.</sent>
+				<sent id ="18">God has given man the power of reasoning, judgment, wisdom and conscience.</sent>
+				<sent id ="19">God has given man the right to use His creation for his benefit.</sent>
+				<sent id ="20">God has given man the responsibility to look after the rest of His creation.</sent>
+				<sent id ="21">God has created man in order to enter into a covenantal relationship with Him.</sent>
+				<sent id ="22">God has created man with body, mind and soul.</sent>
+				<sent id ="23">Man can obtain forgiveness from God if he repents after committing sin.</sent>
+				<sent id ="24">There is no need of any proof that man is superior to the rest of creation.</sent>
+				<sent id ="25">However, the more he develops his human qualities, the greater will be his superiority.</sent>
+				<sent id ="26">The four main qualities or virtues are: Prudence, Justice, Fortitude and Temperance.</sent>
+				<sent id ="27">a) With prudence we can discern what is good and what is bad.</sent>
+				<sent id ="28">b) Justice consists in constant and firm will to give a person what is due to him/her.</sent>
+				<sent id ="29">c) Fortitude strengthens the resolve to resist temptation and to overcome obstacles.</sent>
+				<sent id ="30">d) By temperance we can suppress our attraction to pleasures and luxury.</sent>
+				<sent id ="31">We can improve ourselves by practicing these virtues.</sent>
+				<sent id ="32">The responsibility and duty of man towards fellow men God has given man the responsibility to look after His creation.</sent>
+				<sent id ="33">This responsibility is one of the reasons for which man is considered to be superior.</sent>
+				<sent id ="34">God has created everything on this earth for the well-being of man.</sent>
+				<sent id ="35">It is man's duty to look after one another.</sent>
+				<sent id ="36">And there is none other than him to do this.</sent>
+				<sent id ="37">The need for taking care of others a) We feel happy when someone takes care of us.</sent>
+				<sent id ="38">Then we feel that our life is meaningful.</sent>
+				<sent id ="39">b) It is easier for us to bear our pain and suffering when we receive loving care from others.</sent>
+				<sent id ="40">It heals our pain.</sent>
+				<sent id ="41">c) It is easy for us to move forward if we get help from others.</sent>
+				<sent id ="42">d) Many good works can be accomplished easily in a short time with the cooperation of others.</sent>
+				<sent id ="43">e) When we can help others in their work, we feel happy.</sent>
+				<sent id ="44">f) In serving others we serve Jesus Christ.</sent>
+				<sent id ="45">a) By showing our respect to them and giving them importance.</sent>
+				<sent id ="46">b) By paying back or returning what we owe to others.</sent>
+				<sent id ="47">c) By listening sympathetically and sharing the pain of our friends.</sent>
+				<sent id ="48">d) By nursing the sick persons and praying for them.</sent>
+				<sent id ="49">e) By helping our parents, teachers and superiors in their work.</sent>
+				<sent id ="50">f) By helping the little children in their studies and taking care of them.</sent>
+				<sent id ="51">g) By buying books for the poor students and sharing our snacks with them.</sent>
+				<sent id ="52">h) By praying with our friends when their relatives die.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

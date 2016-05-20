@@ -1,0 +1,166 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-homeEco-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:06.226</idno>
+				<idno type="Number of sentences">138</idno>
+				<idno type="Number of tokens">1663</idno>
+				<idno type="Number of token types">655</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t97">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Calorie is the measuring unit of energy.</sent>
+				<sent id ="2">Energy is necessary to meet the needs of the body's basic and latent metabolism, to build and replace body tissues, to compensate for the excretory losses and for various physical activities.</sent>
+				<sent id ="3">Heat is the chief end product of the foods we eat and it provides energy.</sent>
+				<sent id ="4">Our body uses energy from the moment of conception until we die, just to keep ourselves alive.</sent>
+				<sent id ="5">Even when people are asleep they use energy.</sent>
+				<sent id ="6">We cannot measure energy but we can measure heat.</sent>
+				<sent id ="7">By measuring heat we can measure energy.</sent>
+				<sent id ="8">Heat energy is measured in calories.</sent>
+				<sent id ="9">In physics, energy is defined as the capacity to work.</sent>
+				<sent id ="10">Energy may be in the form of heat chemical, mechanical, electrical or solar energy.</sent>
+				<sent id ="11">Energy can be converted from one to another.</sent>
+				<sent id ="12">Most of the energy supplied in the body is in the form of chemical energy.</sent>
+				<sent id ="13">One calorie is the quantity of heat required to raise the temperature of 1gm of water to 1oc.</sent>
+				<sent id ="14">In Nutritional science, the unit used is the kilocalorie or kcal in short.</sent>
+				<sent id ="15">On kilocalorie is due quantity of heat required to raise the temperature of 1kg. of water to 1oc.</sent>
+				<sent id ="16">The human body utilizes the energy contained in food for maintaining life and doing work.</sent>
+				<sent id ="17">The energy yielding nutrients are carbohydrates, proteins and fats within the body, these nutrients are oxidized in the cells.</sent>
+				<sent id ="18">The process is one of continuous utilization of oxygen and production of CO2, water and heat.</sent>
+				<sent id ="19">The energy or calorie value of foods depends on the quantity of carbohydrates, fats and proteins present in them.</sent>
+				<sent id ="20">The energy value of foods can be expressed in terms of kilocalories.</sent>
+				<sent id ="21">When the food is used in the body, all the food energy may be available to the body.</sent>
+				<sent id ="22">Small amount of energy is lost after digestion and absorption.</sent>
+				<sent id ="23">A portion is lost in undigested food which is excreted.</sent>
+				<sent id ="24">Food energy available after loss in digestion is given below.</sent>
+				<sent id ="25">Foods are broadly divided into various groups depending on their nutritive value.</sent>
+				<sent id ="26">Foods differ widely in their contents of various nutrients.</sent>
+				<sent id ="27">They may be rich in one nutrient but may contain other nutrients in small amounts.</sent>
+				<sent id ="28">Generally fibre and water rich foods contain less calorie.</sent>
+				<sent id ="29">Carbohydrates and rich fat food provide high calorie.</sent>
+				<sent id ="30">Calorie is also found in protein rich food.</sent>
+				<sent id ="31">But according to the food specialists, the needs of calorie should be fulfilled from the foods which contain carbohydrates.</sent>
+				<sent id ="32">Cereals-Cereals are the rich sources of calorie because they contain large amount of starch.</sent>
+				<sent id ="33">Fish-Calorie value of the fish depends upon its fat contents.</sent>
+				<sent id ="34">Fruits-Fruits are good sources of sugar which provides energy.</sent>
+				<sent id ="35">Calorie of fruits depends on its sugar content.</sent>
+				<sent id ="36">Milk, egg and meat-Milk, egg and meat are rich sources of calorie but the calorie values depends mostly on the types of food taken by the animals.</sent>
+				<sent id ="37">Skimmed milk contains low calorie.</sent>
+				<sent id ="38">Meat is rich in protein.</sent>
+				<sent id ="39">However, it contains fat source of energy too.</sent>
+				<sent id ="40">Egg contains sufficient amount of protein and provides sufficient calories.</sent>
+				<sent id ="41">Calorie value 100gms of these foods are given below.</sent>
+				<sent id ="42">Pulses - Pulses is a second class protein.</sent>
+				<sent id ="43">But the protein content of pulses is sufficient.</sent>
+				<sent id ="44">It is a good source of carbohydrate.</sent>
+				<sent id ="45">A large quantity of calorie is found in pulses.</sent>
+				<sent id ="46">Vegetables- Roots and tubers are the storage parts of the plants and are the good sources of starch.</sent>
+				<sent id ="47">So they provide more calorie than other parts of vegetables.</sent>
+				<sent id ="48">Other green vegetables and fruits contain moderate amount of calorie.</sent>
+				<sent id ="49">Nuts and oilseed plants are good sources of energy.</sent>
+				<sent id ="50">The body requires energy for the maintenance of body temperature and for carrying out its normal functions.</sent>
+				<sent id ="51">The energy required for work must come from the food.</sent>
+				<sent id ="52">Food is the major source of fuel used in the body.</sent>
+				<sent id ="53">When we consume food in the form of proteins, carbohydrates or fats, we derive heat as a chief end product of their metabolism.</sent>
+				<sent id ="54">Calorie value of different foods and nutrients has been discussed earlier in this chapter.</sent>
+				<sent id ="55">Now we need to know the energy requirement or the calorie requirement of an individual.</sent>
+				<sent id ="56">Calorie requirements are likely to be similar for individuals of the same age, sex, weight and state of health.</sent>
+				<sent id ="57">However, they vary with factors such as age, physical activity, sex and other variables.</sent>
+				<sent id ="58">Difference in calorie requirement are found between various age groups.</sent>
+				<sent id ="59">The calorie requirement is higher in infants and young children than in adults.</sent>
+				<sent id ="60">In children energy requirement is more because of their growth.</sent>
+				<sent id ="61">So adequate calorie intake is essential for promoting optimal growth of infants and children.</sent>
+				<sent id ="62">The calorie requirement becomes higher upto 2 years but it is reduced after 3 years.</sent>
+				<sent id ="63">Its demand increases in the period of adolescent and youth and again there after it decreases gradually after 25 years.</sent>
+				<sent id ="64">In pregnancy, lactation and convalescence calorie requirement is increased.</sent>
+				<sent id ="65">For the calorie requirement of a person , it is important to know the level of his or her daily physical activity.</sent>
+				<sent id ="66">Physical activity affects energy expenditure.</sent>
+				<sent id ="67">Whenever muscular work is done, energy is used up.</sent>
+				<sent id ="68">In our daily activities such as washing clothes, mopping floors, ironing, grinding involve moderate amount of energy expenditure.</sent>
+				<sent id ="69">Besides a heavy person will spend more energy for any activity than a lean person and the amount required is proportional to the work done.</sent>
+				<sent id ="70">Smaller quantity of energy are needed when work done in sitting position, reading and slow walking.</sent>
+				<sent id ="71">Whereas active works, such as pushing or lifting objects, running involves a great deal of energy expenditure.</sent>
+				<sent id ="72">Knowledge of food value is essential for the correct selection and utilization of food and is essential in the dietary treatment and management of disease.</sent>
+				<sent id ="73">It is the staple food of our country.</sent>
+				<sent id ="74">Rice is rich in carbohydrates.</sent>
+				<sent id ="75">It is rich in starch, has moderate proteins but less fat and iron.</sent>
+				<sent id ="76">During cooking, rice absorbs a considerable amount of water.</sent>
+				<sent id ="77">The pericarp and the embryo are rich in Vitamin B- complex.</sent>
+				<sent id ="78">Parboiled rice contains 79% carbohydrate and parboiled hand pounding contains 77.4% carbohydrate.</sent>
+				<sent id ="79">They also contain 6% fat and 6.4-8.5% protein and small amount of minerals.</sent>
+				<sent id ="80">The important processed rice products are rice flakes or beaten rice (chira), puffed rice (muri ) parched paddy (khoi) etc.</sent>
+				<sent id ="81">It is a staple food in certain parts of the world.</sent>
+				<sent id ="82">It is the most widely used cereal in the world.</sent>
+				<sent id ="83">It is a rich source of carbohydrate.</sent>
+				<sent id ="84">It contains glucose, starch and cellulose.</sent>
+				<sent id ="85">It also contains protein, small amounts of fat and minerals.</sent>
+				<sent id ="86">The outer layer pericarp is made of cellulose and minerals and forms about 13% of the grain.</sent>
+				<sent id ="87">Some amount of Vitamin B-Complex are found in the outer layer.</sent>
+				<sent id ="88">Whole wheat flour provides 72% carbohydrate.</sent>
+				<sent id ="89">The important processed wheat products are bread, biscuts, breakfast cereals (wheat flakes), semolina, noodles, etc.</sent>
+				<sent id ="90">Pulses is an important source of calorie and proteins.</sent>
+				<sent id ="91">In our country we get lentils, Bengal gram, green gram, black gram, cowpeas, peas and khesari.</sent>
+				<sent id ="92">The pulses contain 20-25% protein, 1-2% fat, 57-60% carbohydrate.</sent>
+				<sent id ="93">The B vitamins like thiamine, riboflavin and niacin are also found in it Soaking pulses for 3-4 days improves its nutritive value.</sent>
+				<sent id ="94">Germinated pulses contain Vitamin C. Pulses contain fair amount of minerals like calcium and iron.</sent>
+				<sent id ="95">Egg is an ideal food because it is rich in essential nutrients.</sent>
+				<sent id ="96">One egg can provide one tenth of the daily need of protein for an adult because it is rich in essential nutrients.</sent>
+				<sent id ="97">An egg contains two parts-the white part and the yellow part or yolk.</sent>
+				<sent id ="98">The white part contains high protein such as albumin and the yellow part contains fat, iron and phosphorus.</sent>
+				<sent id ="99">Milk is almost a complete and ideal food and contains most of the proximate principles of a well-balanced diet.</sent>
+				<sent id ="100">It is important in infant diet.</sent>
+				<sent id ="101">It contains first class protein.</sent>
+				<sent id ="102">It also contains carbolydrate, fat, vitamin A, D, calcium, phosphorus, sodium, potassium and other minerals and 87% water.</sent>
+				<sent id ="103">Important milk products are cottage cheese, curd, butter, shandesh, sweets, phirny, payesh., khoa, ice-cream etc.</sent>
+				<sent id ="104">Meat consists of muscle fibre of different domestic animals, such as cows, goats, buffaloes, hens, ducks, etc.</sent>
+				<sent id ="105">It is a good source of protein.</sent>
+				<sent id ="106">The protein contents of meat from cattle, calf, sheep, goat, chicken and duck vary from 15-20 percent.</sent>
+				<sent id ="107">It is a good source of iron and phosphorus.</sent>
+				<sent id ="108">Some meat is rich in fat which raises the calorie value.</sent>
+				<sent id ="109">Calcium is found in meat bone.</sent>
+				<sent id ="110">Fish is an important source of good quality protein.</sent>
+				<sent id ="111">Fish contains 14-22% protein.</sent>
+				<sent id ="112">Some fish are rich in fat which raises the calorie value and some contain about 2% of fat.</sent>
+				<sent id ="113">Moderate fat rich fish contains 2-5% fat.</sent>
+				<sent id ="114">Fish with more than 5% fat are considered fatty fish.</sent>
+				<sent id ="115">Hilsa, a common fish in our country contains 19.4 % fat most of which is unsaturated.</sent>
+				<sent id ="116">Fish contains minerals.</sent>
+				<sent id ="117">It also contains phosphorus and iron.</sent>
+				<sent id ="118">Sea fish is particularly rich in iodine.</sent>
+				<sent id ="119">Vitamins are also present in raw fish but they are largely destroyed by cooking.</sent>
+				<sent id ="120">Fish has 70-78% water.</sent>
+				<sent id ="121">Vegetables provide incomplete protein.</sent>
+				<sent id ="122">They are rich in vitamins and minerals.</sent>
+				<sent id ="123">It is the storage organ of plant.</sent>
+				<sent id ="124">They are rich in starch.</sent>
+				<sent id ="125">Sweet Potatoes, beets, carrots, turnip etc., are root vegetables.</sent>
+				<sent id ="126">Vitamins, minerals and cellulose are found in stems.</sent>
+				<sent id ="127">Dauta, pui sag, etc. are stem vegetables.</sent>
+				<sent id ="128">Glucose is synthesized in leaves by the photosynthesis processes.</sent>
+				<sent id ="129">Green vegetables are rich sources of provitamin A (carotenes), riboflavin, iron and calcium.</sent>
+				<sent id ="130">Pui sag, lau sag, kolmi sag etc, are leafy vegetables.</sent>
+				<sent id ="131">Cauliflower and broccoli (green cauli flower) are flower vegetable.</sent>
+				<sent id ="132">They contain glucose, iron, thiamine, riboflavin and vitamin C. Papaya, beans, kakrols, tomatoes, parwars, cucumber, etc. are fruit vegetables.</sent>
+				<sent id ="133">They contain vitamin C, carbohydrates and minerals.</sent>
+				<sent id ="134">They also contain incomplete protein.</sent>
+				<sent id ="135">The sour fruits like oranges, pineapple, mangoes, lemons, amlas, pummelos, kamranga etc. contain lagre amount of vitamin C.</sent>
+				<sent id ="136">They also contain fructose.</sent>
+				<sent id ="137">These types of fruits are the good sources of vitamin C. Ripe fruits are rich sources of sugar.</sent>
+				<sent id ="138">Fresh fruits contain phosphorus, iron, calcium and vitamin B. They also contain some protein and fat.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

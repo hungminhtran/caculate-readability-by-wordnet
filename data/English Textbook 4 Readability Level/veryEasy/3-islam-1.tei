@@ -1,0 +1,189 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-islam-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.129</idno>
+				<idno type="Number of sentences">161</idno>
+				<idno type="Number of tokens">1175</idno>
+				<idno type="Number of token types">497</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t21">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">What do we see in the picture?</sent>
+				<sent id ="2">We see mango trees, jackfruit trees, coconut trees and betel- nut trees.</sent>
+				<sent id ="3">Can you say who has created these all?</sent>
+				<sent id ="4">Allah, the Almighty, has created all these things.</sent>
+				<sent id ="5">He has also created human beings, beasts, birds, insects etc.</sent>
+				<sent id ="6">He is the provider of food and cherisher of all.</sent>
+				<sent id ="7">Allah, the Gracious is One and Only.</sent>
+				<sent id ="8">He has no partners.</sent>
+				<sent id ="9">The great Prophet (Sm) is Allah's Rasul.</sent>
+				<sent id ="10">To believe all these unconditionally is Iman.</sent>
+				<sent id ="11">Allah is our Ma'bud.</sent>
+				<sent id ="12">We are His servants.</sent>
+				<sent id ="13">He is the most Merciful.</sent>
+				<sent id ="14">The most Gracious.</sent>
+				<sent id ="15">He can see us all the time.</sent>
+				<sent id ="16">He sees hears and knows everthing.</sent>
+				<sent id ="17">We will believe in Allah and worship Him only.</sent>
+				<sent id ="18">Allahu Khaliqun means Allah is the Creator.</sent>
+				<sent id ="19">Allah the Almighty has created everything.</sent>
+				<sent id ="20">How beautiful this country of ours is!</sent>
+				<sent id ="21">How beautiful this world of ours is!</sent>
+				<sent id ="22">There are green fields.</sent>
+				<sent id ="23">There are green fields full of crops.</sent>
+				<sent id ="24">Rivers flow with rippling sound.</sent>
+				<sent id ="25">There is a blue sky above our head.</sent>
+				<sent id ="26">Stars glittering at night.</sent>
+				<sent id ="27">Sometimes it is cold and sometimes it is warm.</sent>
+				<sent id ="28">Sometimes it also rains.</sent>
+				<sent id ="29">Allah, the Almighty has created these all.</sent>
+				<sent id ="30">He has created everything for us.</sent>
+				<sent id ="31">Allah has created us all.</sent>
+				<sent id ="32">Khaliq means the Creator.</sent>
+				<sent id ="33">Allah is the only Creator.</sent>
+				<sent id ="34">Allahu Rabbun : It means Allah is the Cherisher.</sent>
+				<sent id ="35">The Almighty Allah cherishes us all.</sent>
+				<sent id ="36">Allah gives us light, air, water etc. for cherishing us.</sent>
+				<sent id ="37">He provides us with food.</sent>
+				<sent id ="38">He has given different kinds of fruits and crops for us to eat.</sent>
+				<sent id ="39">He has given varieties of fishes in the rivers, canals and marshy lands.</sent>
+				<sent id ="40">He has also given us cattle, and many other birds and animals.</sent>
+				<sent id ="41">We eat these birds and animals.</sent>
+				<sent id ="42">Cows and goats give us milk.</sent>
+				<sent id ="43">We drink it.</sent>
+				<sent id ="44">Ducks and hens give us eggs.</sent>
+				<sent id ="45">We eat it.</sent>
+				<sent id ="46">Besides all these He has given us different vegetables.</sent>
+				<sent id ="47">He has also given many medicinal plants.</sent>
+				<sent id ="48">We live on all these food.</sent>
+				<sent id ="49">Allah has created all these things to nourish us.</sent>
+				<sent id ="50">Allah is our Rab.</sent>
+				<sent id ="51">Rab means the protector.</sent>
+				<sent id ="52">Allah is the protector and cherisher of the whole world.</sent>
+				<sent id ="53">Allah Razzaqun : It means Allah is the provider of food.</sent>
+				<sent id ="54">He provides food to every living being.</sent>
+				<sent id ="55">We eat rice, fish, egg, milk, banana etc.</sent>
+				<sent id ="56">We eat vegetables, too.</sent>
+				<sent id ="57">We eat different types of food.</sent>
+				<sent id ="58">We cannot live without food.</sent>
+				<sent id ="59">Cows eat grass.</sent>
+				<sent id ="60">Birds eat insects, grains, seeds, fruits etc. Trees live on light, air and water.</sent>
+				<sent id ="61">Who provides food to all?</sent>
+				<sent id ="62">It is Allah.</sent>
+				<sent id ="63">He is the Provider.</sent>
+				<sent id ="64">Everything remains alive by eating food provided by Allah.</sent>
+				<sent id ="65">One of the names of Allah is Razzaq.</sent>
+				<sent id ="66">Razzaq means the Provider of food.</sent>
+				<sent id ="67">Allah is the Provider of food for all.</sent>
+				<sent id ="68">There is no end to His mercy.</sent>
+				<sent id ="69">His mercy is limitless.</sent>
+				<sent id ="70">In the month of Chaitra, the crop fields are parched.</sent>
+				<sent id ="71">The sun is hot and scorching.</sent>
+				<sent id ="72">Everything dries up.</sent>
+				<sent id ="73">Some trees become leafless.</sent>
+				<sent id ="74">The crops look dry and the field crack.</sent>
+				<sent id ="75">The clouds are seen in the sky at this moments and it starts raining.</sent>
+				<sent id ="76">The soil gets soaked.</sent>
+				<sent id ="77">Soon the fields are covered with green grass.</sent>
+				<sent id ="78">Green leaves appear in trees.</sent>
+				<sent id ="79">The trees look beautiful.</sent>
+				<sent id ="80">The trees bear flowers and fruits.</sent>
+				<sent id ="81">Nature looks fresh and full of life.</sent>
+				<sent id ="82">We get all these because of Allah's kindness.</sent>
+				<sent id ="83">We need light, air, water and food to remain alive.</sent>
+				<sent id ="84">We cannot make these things.</sent>
+				<sent id ="85">These are all the gifts of Allah.</sent>
+				<sent id ="86">One of the names of Allah is Rahman.</sent>
+				<sent id ="87">Rahman means the most Merciful.</sent>
+				<sent id ="88">None can survive without the mercy of Allah.</sent>
+				<sent id ="89">Allah loves everybody.</sent>
+				<sent id ="90">Allah bestows his mercy and kindness upon everybody.</sent>
+				<sent id ="91">He is very much Merciful.</sent>
+				<sent id ="92">He has created us very beautifully.</sent>
+				<sent id ="93">He has given us all the things we need to live on.</sent>
+				<sent id ="94">We are alive because of His mercy.He does not cause sufferings to anybody.</sent>
+				<sent id ="95">If anyone begs for is forgiveness after doing some wrong, He forgives him.</sent>
+				<sent id ="96">Allah says, Call Me.</sent>
+				<sent id ="97">Obey My orders.</sent>
+				<sent id ="98">Worship Me and follow My Rasul.</sent>
+				<sent id ="99">I Shall love you.</sent>
+				<sent id ="100">We shall follow his orders.</sent>
+				<sent id ="101">We shall act acordingly.</sent>
+				<sent id ="102">Then He will be more merciful to us.</sent>
+				<sent id ="103">Allah The Almighty has created human beings for His Ibadat.</sent>
+				<sent id ="104">At times they worshipped the sun or the stars or the fire.</sent>
+				<sent id ="105">They also worshipped different gods and godesses.</sent>
+				<sent id ="106">The prophets and the messengers were sinless.</sent>
+				<sent id ="107">They used to speak in a polite manner.</sent>
+				<sent id ="108">They always spoke the truth.</sent>
+				<sent id ="109">They behaved well with everybody, young or old, rich or poor.</sent>
+				<sent id ="110">The first prophet is Hazrat Adam Alaihis Salam.</sent>
+				<sent id ="111">A number of prophets appeared on this earth after him.</sent>
+				<sent id ="112">Hazrat Muhammad Sallallahu Alaihi Wa Sallam is the last Prophet.</sent>
+				<sent id ="113">We shall love the prophets and the messengers.</sent>
+				<sent id ="114">We shall also lead our life on the path shown by them.</sent>
+				<sent id ="115">Hazrat Jibrail (A) is Allah's angel.</sent>
+				<sent id ="116">He used to bring the messages of Allah to the prophets and the messengers.</sent>
+				<sent id ="117">The collection of these messages is called Kitab.</sent>
+				<sent id ="118">This Kitab is also called a heavenly book.</sent>
+				<sent id ="119">The Qur'an Majid is a Heavenly Book.</sent>
+				<sent id ="120">The Qur'an Majid contains the messages of Allah.</sent>
+				<sent id ="121">In the Qur'an Majid, we will find the messages of Allah.</sent>
+				<sent id ="122">The 8 Religious Studies : Islam Qur'an Majid has been written in the Arabic language.</sent>
+				<sent id ="123">We shall learn to read and understand the language of the Qur'an Majid.</sent>
+				<sent id ="124">We shall recite the Qur'an Majid correctly.</sent>
+				<sent id ="125">We shall lead our life according to its teachings.</sent>
+				<sent id ="126">There are one hundred and four (104) heavenly books.</sent>
+				<sent id ="127">Among these books four are big in size.</sent>
+				<sent id ="128">And the remaining one Hundred are small in size.</sent>
+				<sent id ="129">These small sized books are called Sahifa.</sent>
+				<sent id ="130">The Taurat was revealed upon Hazrat Musa (A).The Jabur was revealed upon Hazrat Daud (A).</sent>
+				<sent id ="131">The Injeel was revealed upon Hazrat Isa (A).</sent>
+				<sent id ="132">The Qur'an was revealed upon Hazrat Muhammad (Sm).</sent>
+				<sent id ="133">Human beings are born on this earth.</sent>
+				<sent id ="134">They lead a life here.</sent>
+				<sent id ="135">This life is called worldly life.</sent>
+				<sent id ="136">After a period of time human beings die.</sent>
+				<sent id ="137">The life after death is called Akhirat.</sent>
+				<sent id ="138">Akhirat means hereafter.</sent>
+				<sent id ="139">In Akhirat good and bad deeds will be accurately measured on a scale.</sent>
+				<sent id ="140">They are happy in their worldly life.</sent>
+				<sent id ="141">They will get peace and happiness in Akhirat too.</sent>
+				<sent id ="142">They will get Jannat.</sent>
+				<sent id ="143">Jannat is a place of unbounded peace and happiness.</sent>
+				<sent id ="144">They will not get peace in Akhirat.</sent>
+				<sent id ="145">They will enter into Jahannam.</sent>
+				<sent id ="146">Jahannam is a place of everlasting pains and sufferings.</sent>
+				<sent id ="147">La Ilaha Illallahu Muhammadur Rasulullah.</sent>
+				<sent id ="148">Look at the picture.</sent>
+				<sent id ="149">Can you say what is written in the flag?</sent>
+				<sent id ="150">Kalima Tayyiba is written in the flag.</sent>
+				<sent id ="151">Kalima Tayyiba means a sacred message.</sent>
+				<sent id ="152">Meaning : There is no Ma'bud except Allah.</sent>
+				<sent id ="153">We worship only Allah.</sent>
+				<sent id ="154">Meaning : Hazrat Muhammad (Sm) is Allah's Rasul.</sent>
+				<sent id ="155">Rasul means great man sent by Allah as a messenger.</sent>
+				<sent id ="156">The Almighty Allah has created us for His Ibadat.</sent>
+				<sent id ="157">The prophets and messengers have taught us how to perform His Ibadat.</sent>
+				<sent id ="158">Hazrat Muhammad (Sm) is the graetest and the last prophet.</sent>
+				<sent id ="159">No other prophet or messenger will come after him.</sent>
+				<sent id ="160">We are his Ummat.</sent>
+				<sent id ="161">Ummat means followers.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

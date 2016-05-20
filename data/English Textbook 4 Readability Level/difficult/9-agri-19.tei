@@ -1,0 +1,175 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-19</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.404</idno>
+				<idno type="Number of sentences">147</idno>
+				<idno type="Number of tokens">1761</idno>
+				<idno type="Number of token types">639</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t11">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In Bangladesh many poultry-birds die for want of proper treatment every year.</sent>
+				<sent id ="2">As a result, tremendous loss occurs in meeting the demand for meat and eggs, even in the economy of the country.</sent>
+				<sent id ="3">In case of poultry if treatment is done after they attacked with diseases very insignificant result can be achieved.</sent>
+				<sent id ="4">In case of poultry birds, prevention is better than treatment.</sent>
+				<sent id ="5">This is a very fatal infectious disease.</sent>
+				<sent id ="6">In rural areas it is also called Chuna disease.</sent>
+				<sent id ="7">This disease spreads very rapidly.</sent>
+				<sent id ="8">In our country outbreak of this disease takes place during winter and spring seasons.</sent>
+				<sent id ="9">Symptoms of the disease are revealed one week after the germs of the disease enters into the body.</sent>
+				<sent id ="10">The diseased fowl leaves the flock and sits alone in one corner of the house.</sent>
+				<sent id ="11">The layer gives up laying eggs.</sent>
+				<sent id ="12">The diseased fowl stops eating.</sent>
+				<sent id ="13">The head turns downward and begins to drowse.</sent>
+				<sent id ="14">The diseased fowl passes stool like white lime.</sent>
+				<sent id ="15">The diseased fowl blows its nose and salivates from its mouth.</sent>
+				<sent id ="16">Respiration becomes rapid and breaths by opening the mouth.</sent>
+				<sent id ="17">Some times makes Kok kok sound during breathing in.</sent>
+				<sent id ="18">The wings swing downwards.</sent>
+				<sent id ="19">The neck of the fowl becomes curved.</sent>
+				<sent id ="20">Sometimes it rotates like a wheel standing on the same place.</sent>
+				<sent id ="21">The fowl becomes weak and sits keeping its beak and chest on the earth.</sent>
+				<sent id ="22">Liquid stool is seen on the rear feathers.</sent>
+				<sent id ="23">The fowl dies within 1 -2 days after the disease is revealed.</sent>
+				<sent id ="24">The main way of protecting the fowls from this disease is to use preventive vaccine.</sent>
+				<sent id ="25">This vaccine has been distributing throughout whole Bangladesh by livestock offices.</sent>
+				<sent id ="26">BCRDV for Small Chicks : One-day old chicks are to be vaccinated System of Use :</sent>
+				<sent id ="27">The original vaccine of the phial should be mixed with 3 cc distilled water and one drop should be applied to every eye with the help of a dropper.</sent>
+				<sent id ="28">RDV for Adult Fowls : This vaccine is to be applied when the fowls are of more than 2 months of age.</sent>
+				<sent id ="29">System of Use : The original vaccine of the phial should be mixed with 100 ml of distilled water and I ml should be injected into the muscle of the thigh of fowl.</sent>
+				<sent id ="30">There is no proper treatment of this disease.</sent>
+				<sent id ="31">The diseased fowl should be kept in isolation and should not be sold anywhere.</sent>
+				<sent id ="32">The dead fowls should not be thrown hither and thither; it should be rather buried into soil.</sent>
+				<sent id ="33">Potash-mixed water can be fed to both diseased and healthy fowls.</sent>
+				<sent id ="34">Sulphadiazine tablet should be divided into four parts and the adult fowlshould be fed with one part twice daily.</sent>
+				<sent id ="35">Fowl pox is a viral fatal contagious disease.</sent>
+				<sent id ="36">This disease can affect fowls of all ages.</sent>
+				<sent id ="37">But this disease is deadly for the young fowls.</sent>
+				<sent id ="38">Generally fowl pox disease can be found mostly between October to March.</sent>
+				<sent id ="39">In the featherless areas of the fowl such as car, comb of the head, surroundings of the eyes etc. small or big blisters appear and sores develop later on.</sent>
+				<sent id ="40">Afterwards black covers develop on it.</sent>
+				<sent id ="41">The bruises remain under this cover.</sent>
+				<sent id ="42">Bruises develop on the lids of the eyes and the lids are swelled up.</sent>
+				<sent id ="43">As a result the eyes are closed partially or wholly.</sent>
+				<sent id ="44">Bruises develop in the mouth.</sent>
+				<sent id ="45">Fowls cannot eat.</sent>
+				<sent id ="46">Production capacity is decreased and laying of egg is stopped.</sent>
+				<sent id ="47">Some times the adult fowls can survive but the young ones die.</sent>
+				<sent id ="48">The fowls are to be vaccinated timely.</sent>
+				<sent id ="49">System of Pushing Vaccine: The vaccine shall have to be prepared by mixing the original vaccine from the phial with distilled water.</sent>
+				<sent id ="50">A two-mouthed needle should be dipped into the prepared vaccine again and again and pushed into the inner featherless area of the wing.</sent>
+				<sent id ="51">Generally, vaccination should be done once in a year.</sent>
+				<sent id ="52">This disease is caused by one type of bacteria.</sent>
+				<sent id ="53">This disease can affect ducks and fowls of all ages in any time of the year.</sent>
+				<sent id ="54">Generally this disease is found in case of the chicks when they attain more than 4 months of age.</sent>
+				<sent id ="55">Sometimes some dead fowls can be seen in the flock without showing any symptoms.</sent>
+				<sent id ="56">Again sometimes the symptoms of disease can be noticed.</sent>
+				<sent id ="57">Stool of green or yellow colour is passed.</sent>
+				<sent id ="58">The feathers become rough.</sent>
+				<sent id ="59">The bird moves the head hither and thither.</sent>
+				<sent id ="60">Eating is stopped and respiration becomes rapid.</sent>
+				<sent id ="61">Comb of the head, knee and other parts of the mouth are swell.</sent>
+				<sent id ="62">Salivates from nose and mouth and thirstiness is increased.</sent>
+				<sent id ="63">The healthy fowls should be vaccinated after every 6 months.</sent>
+				<sent id ="64">The vaccine is available in 100 c.c. bottle.</sent>
+				<sent id ="65">Each poultry bird should be injected with 1 c.c. of this vaccine into the muscle of the thigh.</sent>
+				<sent id ="66">If the fowl is vaccinated once at the age of 2 and half month, there is no apprehension of attack this disease for 4-5 months.</sent>
+				<sent id ="67">The house of the diseased fowl should be kept clean.</sent>
+				<sent id ="68">One to one and a half gm Cosumix powder shall have to be mixed with 1 litre of water and should be fed 3 times in succession.</sent>
+				<sent id ="69">Sulphadiazine or Sulphamezathyne or Renamycin tablet should be fed.</sent>
+				<sent id ="70">This disease is the result of attack of a parasite called Coccidia.</sent>
+				<sent id ="71">This disease can be found generally in the chicks of less than 2 months of age.</sent>
+				<sent id ="72">Sometimes 70-80% of the chicks are attacked with this disease and die.</sent>
+				<sent id ="73">Stops taking food and water.</sent>
+				<sent id ="74">The fowl begins to drowse.</sent>
+				<sent id ="75">The feathers become rough and the fowl keeps its eyes closed.</sent>
+				<sent id ="76">The chicks become weak before death and die within 4-5 hours.</sent>
+				<sent id ="77">The shell of the egg of laying hen becomes thin and egg laying decreased.</sent>
+				<sent id ="78">Passes loose excreta mixed with blood.</sent>
+				<sent id ="79">The poultry house should be a condition having plenty of air, light and temperature.</sent>
+				<sent id ="80">The used instruments should be kept clean.</sent>
+				<sent id ="81">The littre should always be dry and clean.</sent>
+				<sent id ="82">In this case rice husks or saw-dust can be used.</sent>
+				<sent id ="83">It is a very contagious disease caused by virus.</sent>
+				<sent id ="84">Generally this type of disease can be mostly found in the chicks of 3-12 weeks age.</sent>
+				<sent id ="85">Once affected the effectiveness of all vaccines are spoiled and the chicks become susceptible to other disease.</sent>
+				<sent id ="86">Passes loose stool with obnoxious smell.</sent>
+				<sent id ="87">The feathers become rough.</sent>
+				<sent id ="88">Stops eating and thrust for water is increased.</sent>
+				<sent id ="89">Lies down on the ground due to shivering tiredness and at last the bird dies from dehydration.</sent>
+				<sent id ="90">30- 40% ducks die within 3 days of attack by the disease.</sent>
+				<sent id ="91">If vaccination becomes impossible, when the bird attains 14 days of age always saline solution should be fed after every 2 days up to 3 months of age.</sent>
+				<sent id ="92">100 gm molasses and 15 ml vinegar should be mixed with I litre of water and should be fed in the noon.</sent>
+				<sent id ="93">Two packets orsaline and 4 vitamin B-12 tablet should be mixed with I litre of water and should be fed at the evening go at night.</sent>
+				<sent id ="94">Virus causes this disease.</sent>
+				<sent id ="95">It is a fatal contageous disease.</sent>
+				<sent id ="96">The expiry rate caused by this disease is high.</sent>
+				<sent id ="97">This disease can affect ducks of any age.</sent>
+				<sent id ="98">Unwillingness appears in food taking, becomes thirsty and the ducks can be seen to drink water repeatedly.</sent>
+				<sent id ="99">The duck starts passing very loose motion and stool adheres in tail areas.</sent>
+				<sent id ="100">248 Agricultural Education The duck becomes afraid of light, liquid things come through the nose and the mouth.</sent>
+				<sent id ="101">The legs and wings become paralyzed.</sent>
+				<sent id ="102">Trembling appears in head, neck and body The affected duck sits depending on its chest.</sent>
+				<sent id ="103">Laying of eggs by layer-ducks suddenly decrease.</sent>
+				<sent id ="104">The ducks have to be saved by using duck.</sent>
+				<sent id ="105">One plague vaccine I ml vaccine has to be injected into the muscle of thigh of each duck.</sent>
+				<sent id ="106">There is no treatment of diseased duck.</sent>
+				<sent id ="107">The diseased duck should immediately be separated.</sent>
+				<sent id ="108">The diseased ducks should be properly buried.</sent>
+				<sent id ="109">External parasites: Such as lice and mites.</sent>
+				<sent id ="110">These types of parasites attack both ducks and fowls.</sent>
+				<sent id ="111">Generally the eggs of worms enter into the body of fowl with food and from wet dirty floor of the house.</sent>
+				<sent id ="112">The poultry birds are vulnerable to be affected by different types of worms.</sent>
+				<sent id ="113">Out of those the most important ones are round worms, tape worms, thread worms etc.</sent>
+				<sent id ="114">The following symptoms are revealed when the poultry birds are attacked by worms.</sent>
+				<sent id ="115">The comb of the head becomes white or pale.</sent>
+				<sent id ="116">The symptoms of blood anemia appear in faces.</sent>
+				<sent id ="117">The bones of the chest become visible.</sent>
+				<sent id ="118">The bird begins to wither the feathers become rough and growth is retarded.</sent>
+				<sent id ="119">Passes blood-mixed liquid stool.</sent>
+				<sent id ="120">Sometimes worms are seen to come out with stool.</sent>
+				<sent id ="121">The body weight decreases and laying of egg is stopped.</sent>
+				<sent id ="122">When the number of worm is enormous the intestinal tube is blocked and the bird Prevention of Worms-Disease.</sent>
+				<sent id ="123">Medicine of worms is to be fed at least after every 3 months.</sent>
+				<sent id ="124">The house is to be kept clean always and other sanitation measures are to be followed.</sent>
+				<sent id ="125">Pyralgin Should be fed with food as per prescription of the livestock expert.</sent>
+				<sent id ="126">If the balanced food is deficient in vitamin different symptoms develop in the body of poultry birds.</sent>
+				<sent id ="127">As a result the productivity is hampered.</sent>
+				<sent id ="128">Night-blind disease develops due to want of vitamin-A.</sent>
+				<sent id ="129">The eye lids are swelled and water comes out of the eyes.</sent>
+				<sent id ="130">Odorless pass-like things comes out from nose and mouth The feathers become rough.</sent>
+				<sent id ="131">Body growth is hampered.</sent>
+				<sent id ="132">Feeding green vegetables such as leaves of cabbage, kalmi shak, spinach, green grass and cod liver with balanced diet help to prevent to a great extent.</sent>
+				<sent id ="133">There should be arrangement for sufficient sunlight in the house of poultry birds, the birds should be fed green vegetables and cod-liver oil.</sent>
+				<sent id ="134">Grass and dusts of dried fish should be fed with food.</sent>
+				<sent id ="135">The activity of vaccines is lost if those are not preserved properly.</sent>
+				<sent id ="136">Preservation of vaccines is very important.</sent>
+				<sent id ="137">Specifications should be known from the manufacturing company of the vaccines and the vaccine is to be preserved accordingly.</sent>
+				<sent id ="138">Some vaccines are to be preserved in freezing, condition and some to be preserved in day places.</sent>
+				<sent id ="139">The vaccines are to transported by putting ice in flask.</sent>
+				<sent id ="140">Reasons for Degradation of the Activities of Vaccines.</sent>
+				<sent id ="141">If the proper use of vaccine is not known.</sent>
+				<sent id ="142">If the vaccine is not used within specified time.</sent>
+				<sent id ="143">If the vaccine is used after expiry date.</sent>
+				<sent id ="144">When the vaccine is, used in proper place and proper method.</sent>
+				<sent id ="145">If two separate vaccines are used at the same time.</sent>
+				<sent id ="146">If the vaccine is not used for definite disease.</sent>
+				<sent id ="147">If the bird is infected by the particular disease before the vaccine is used.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

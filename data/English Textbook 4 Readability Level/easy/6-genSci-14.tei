@@ -1,0 +1,138 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-14</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.753</idno>
+				<idno type="Number of sentences">110</idno>
+				<idno type="Number of tokens">1376</idno>
+				<idno type="Number of token types">538</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t86">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The earth, our living place was initially in a hot gaseous state.</sent>
+				<sent id ="2">Later it became gradually cool and then liquid.</sent>
+				<sent id ="3">After cooling further more it became solid.</sent>
+				<sent id ="4">In this way a hard crust was created on the surface of the earth.</sent>
+				<sent id ="5">The upper portion of the earth crust is called land mass and water containing lower portions are called water body.</sent>
+				<sent id ="6">That is, the area of land mass is smaller.</sent>
+				<sent id ="7">This land mass is further divided into several biggest parts.</sent>
+				<sent id ="8">Each such biggest part of land mass is called continent.</sent>
+				<sent id ="9">There are seven continents covering the different areas of the earth crust.</sent>
+				<sent id ="10">These are Asia, Africa, Europe, South America, North America, Australia and Antarctica.</sent>
+				<sent id ="11">The landforms of the different parts of the earth's crust are different.</sent>
+				<sent id ="12">Besides, the nature of the lands of the different parts of a country may be different.</sent>
+				<sent id ="13">Land of the eastern part of Chittagong division in Bangladesh is hilly terrain.</sent>
+				<sent id ="14">The land deformating natural energies are earth quakes, volcanic eruptions, heat, winds, rains, snow, glaciers, river, seas etc.</sent>
+				<sent id ="15">The change of earth crust is the result of their single or combined effect.</sent>
+				<sent id ="16">In such ways land deformation occurs.</sent>
+				<sent id ="17">On the basis of land deformation, the earth crust is divided into three categories.</sent>
+				<sent id ="18">Very high and far-flung rocky mounds with sharp inclines are called mountains.</sent>
+				<sent id ="19">Such as the Himalayas.</sent>
+				<sent id ="20">Rocky mounds comparatively lower and smaller than the mountains are called the hills.</sent>
+				<sent id ="21">Such as- Sitakund hill of Chittagong.</sent>
+				<sent id ="22">Another landform is found between two hills is called valley.</sent>
+				<sent id ="23">Mountains are found in many countries of the world in different shapes and sizes.</sent>
+				<sent id ="24">These mountains have been formed in different ways.</sent>
+				<sent id ="25">The mountains are classified into four groups depending upon their structure and characteristics.</sent>
+				<sent id ="26">On the other hand these mountain after erosion, can be formed another mountain.</sent>
+				<sent id ="27">This mountain is called Erosional mountain.</sent>
+				<sent id ="28">Certain places of the earth's crust may subside or gain attitude due to earthquake or land upheaval or shaking.</sent>
+				<sent id ="29">Fold Mountains are created when the layers of rocks get folded and gain attitude.</sent>
+				<sent id ="30">These mountains are called Fold Mountains as they are created with folds.</sent>
+				<sent id ="31">Sometimes the earth's crust gets cracked vertically and on side of the crack subsides.</sent>
+				<sent id ="32">Such subsidence of the earth's crust is called fault.</sent>
+				<sent id ="33">Sometimes the layers of rocks between two faults create mountain by uplifting the land due to side or low pressure.</sent>
+				<sent id ="34">The type of mountain is called Block Mountain.</sent>
+				<sent id ="35">The Fujiama of Japan, the visuvias of Italy, the Kilimanjaro of Africa etc. are volcanic mountains.</sent>
+				<sent id ="36">The high hooted liquid in the inner side of the landmass is called Magma.</sent>
+				<sent id ="37">Sometimes magma tries to come out from the centre of the earth by gaseous pressure.</sent>
+				<sent id ="38">But these when encounter abstraction make solidification under the earth crust and take the shape of dome.</sent>
+				<sent id ="39">The mountain is formed in such way is called Laccoliths mountain.</sent>
+				<sent id ="40">The Henry Mountain in Utah State of the America is the example of Laccoliths Mountain.</sent>
+				<sent id ="41">The soft mounds of rocks of the mountain may be eroded by the sun, rain, wind etc.</sent>
+				<sent id ="42">Then the unevoded mound of hard rock remains as a small mountain.</sent>
+				<sent id ="43">This hard rock mountain is called Erosional mountain.</sent>
+				<sent id ="44">The Bindhya mountain of India and the kong mountain of Africa are the examples of Erosional mountain.</sent>
+				<sent id ="45">The low land in between two hills or two mountains is called valley.</sent>
+				<sent id ="46">The valleys are formed by four ways.</sent>
+				<sent id ="47">Lowland between the two mountains is called mountain valley.</sent>
+				<sent id ="48">The mountain valleys are seen between the folds of the Fold Mountains.</sent>
+				<sent id ="49">Valley in the mountainous area takes the shape of glacial valley due to rubbing action of the glaciers.</sent>
+				<sent id ="50">The hard ice of the glacier moves straight.</sent>
+				<sent id ="51">As such the inclines of their two sides stand very steep like U.</sent>
+				<sent id ="52">The intense flows of the river create deep gorges in their path.</sent>
+				<sent id ="53">Such gorges are called river valleys.</sent>
+				<sent id ="54">Over a long time, the river flows erodes land of both sides.</sent>
+				<sent id ="55">As a result river gorges gradually become wide and shallow.</sent>
+				<sent id ="56">Extensive elevated plain land above the sea level is called the plateau or tableland.</sent>
+				<sent id ="57">Usually Tableland is created by land upheaval, weathering and deposition of lava.</sent>
+				<sent id ="58">Such as- the Decan plateau.</sent>
+				<sent id ="59">Depending upon the location, the plateaus are divided into three categories, such as Intermountain Piedmont and Continental plateaus.</sent>
+				<sent id ="60">The plateaus, which are surrounded by mountains, are known as intermountain plateaus.</sent>
+				<sent id ="61">The palmer plateaus in Tibet are one of the examples.</sent>
+				<sent id ="62">The palmer is the highest plateau of the world.</sent>
+				<sent id ="63">The attitude of palmer plateau is 4877 metre.</sent>
+				<sent id ="64">For this the palmer is called the roof of the world.</sent>
+				<sent id ="65">The mountain is eroded by rain, river flow, glacier etc.</sent>
+				<sent id ="66">The Colorado of North America is a piedmont plateau.</sent>
+				<sent id ="67">Indian peninsulas, Arabia, Spain etc are continental plateau.</sent>
+				<sent id ="68">Trees grow and cultivation of land is carried out in the plateau, which has sufficient rainfall.</sent>
+				<sent id ="69">The people of dry plateau live by rearing livestock.</sent>
+				<sent id ="70">The plateaus are suitable for rearing lambs.</sent>
+				<sent id ="71">Now the cultivation is done by irrigation in the plateaus.</sent>
+				<sent id ="72">The vast landmasses, which have almost same level of the sea surface, are called plains.</sent>
+				<sent id ="73">The surface of the plains could be plain or gently sloping or slightly uneven.</sent>
+				<sent id ="74">The plains on the crust of the earth were formed in different ways.</sent>
+				<sent id ="75">Chittagong of Bangladesh and Chenni of India are the examples of coastal plains.</sent>
+				<sent id ="76">Deposits of sediments on both sides of the river produce the flood plain during flood.</sent>
+				<sent id ="77">Such as- the coastal plains of the Jamuna in Bangladesh and the Indus of Pakistan both are the examples.</sent>
+				<sent id ="78">The delta plains are formed due to deposit of sediments in estuaries of the rivers.</sent>
+				<sent id ="79">Such as the Ganges delta plain of southern part of Bangladesh.</sent>
+				<sent id ="80">Due to the rubbing action of the glacial moraine the uneven landmasses are turned into plains.</sent>
+				<sent id ="81">The prairie in Canada is a glacial plain.</sent>
+				<sent id ="82">Loess plains are formed by dust particles carried by winds.</sent>
+				<sent id ="83">Loess plain was created over a vast area in northern China.</sent>
+				<sent id ="84">The plain, which are formed due to deposit of lava from volcanic eruptions, are called lava plains.</sent>
+				<sent id ="85">The plain with black soil in southern India is lava plain.</sent>
+				<sent id ="86">Besides plains may be formed in many other ways.</sent>
+				<sent id ="87">Cultivation can easily be done and production of crops also abundant in the fertile plains produced by alluvial deposits.</sent>
+				<sent id ="88">Living is easier and scopes of development of culture and civilization are more in the plain.</sent>
+				<sent id ="89">Men can travel from one place to another easily.</sent>
+				<sent id ="90">Various products such as agricultural products can be transported to other places.</sent>
+				<sent id ="91">From ancients times human living place establish in the plains.</sent>
+				<sent id ="92">It is easier to build up roads, market, ports, cities and industrial plants in the plains.</sent>
+				<sent id ="93">As such 90% population of the world live in the plains.</sent>
+				<sent id ="94">You have already known that 71% of the total area of the Earth's crust is contained with water.</sent>
+				<sent id ="95">Water areas smaller than the ocean are called the seas.</sent>
+				<sent id ="96">The large water areas surrounded land on three sides is called the bays.</sent>
+				<sent id ="97">Water areas surrounded by land on all sides are called lakes.</sent>
+				<sent id ="98">The land formation of the bottom of the oceans is not similar in everywhere.</sent>
+				<sent id ="99">In some areas there are long stretched coast where water level rise and fall with the tidal movement.</sent>
+				<sent id ="100">The land formation of the bottom of the ocean can be divided into four categories in terms of depth.</sent>
+				<sent id ="101">The parts of the continents remain stretched in the water of the sea from the coastline.</sent>
+				<sent id ="102">The gradual sloping area of the continent immersed in the shallow depth of the sea are known as continental shelves.</sent>
+				<sent id ="103">The wider the plain in the coastal areas the wider is the continental self.</sent>
+				<sent id ="104">For this reason the continental self in Africa is relatively narrower than that in Europe and Asia.</sent>
+				<sent id ="105">The depth of the continental slopes varies between 183 meters to 3600 meters.</sent>
+				<sent id ="106">The area where the continental slope gradually runs to the deep ocean bottom is called the plains of the ocean.</sent>
+				<sent id ="107">The depth of ranges of this area from 3,660 to 5,490 meters.</sent>
+				<sent id ="108">The trenches in the deep ocean bottom are known as deep ocean troughs.</sent>
+				<sent id ="109">These troughs find over very small areas.</sent>
+				<sent id ="110">The Mindanao trough of Philippine Islands is the deepest trough and is deep 10,870 meters from the sea surface.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

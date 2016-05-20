@@ -1,0 +1,89 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-bdGlobal-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.283</idno>
+				<idno type="Number of sentences">61</idno>
+				<idno type="Number of tokens">812</idno>
+				<idno type="Number of token types">360</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t33">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">By nature's law all human beings grow old one day.</sent>
+				<sent id ="2">And in old age, people face many problems along with physical weakness in society and family.</sent>
+				<sent id ="3">These problems are familial, economic, cultural and psychological.</sent>
+				<sent id ="4">Due to the inability to earn, often the importance of elderly people reduces in family.</sent>
+				<sent id ="5">They fall victim to many neglect and deprivation.</sent>
+				<sent id ="6">Due to lack of income, it becomes difficult for them to maintain life, to provide shelter and treatment for themselves.</sent>
+				<sent id ="7">For this, they have to depend on others or seek help of others.</sent>
+				<sent id ="8">This creates one kind of inferiority complex in them.</sent>
+				<sent id ="9">In developed countries of the world, the state or the government creates many facilities for elderly people.</sent>
+				<sent id ="10">The problems and the rights of the elderly are being considered seriously in our country too.</sent>
+				<sent id ="11">Some elderly people are there in all our families or among our relatives.</sent>
+				<sent id ="12">We also find old people in our neighbourhood or meet them while we go out on the streets.</sent>
+				<sent id ="13">We must realize their difficulties in moving around, crossing roads and getting on transports.</sent>
+				<sent id ="14">These elderly people were not old all the time.</sent>
+				<sent id ="15">Once they had done many things for the family and the society.</sent>
+				<sent id ="16">Now in their old age the society also has some duty and responsibility towards them.</sent>
+				<sent id ="17">We should remember that we will also grow old one day.</sent>
+				<sent id ="18">Although the physical capability of elderly people reduces due to old age, they can help us by their knowledge and experience.</sent>
+				<sent id ="19">In that respect, they are resources of society like other people of any age.</sent>
+				<sent id ="20">They are valuable human resources.</sent>
+				<sent id ="21">But first of all, we have to change our attitude to elderly people.</sent>
+				<sent id ="22">We have to change our mentality of looking down upon them as a burden of society or as useless.</sent>
+				<sent id ="23">Usually people over 60 are considered the elderly in our country.</sent>
+				<sent id ="24">It is because after that age, people retire from earning occupations.</sent>
+				<sent id ="25">The retiring age from government service is This age limit has recently been extended to 65 for judges, university teachers and some particular professions.</sent>
+				<sent id ="26">It is not that after that age all people lose their ability to work.</sent>
+				<sent id ="27">But in the developed countries of the world people over 60 or 65 are considered Senior Citizens.</sent>
+				<sent id ="28">They are offered special honour and facilities in society.</sent>
+				<sent id ="29">The United Nations has laid some principles to protect the rights of the elderly.</sent>
+				<sent id ="30">Familial: In the past, families were joint families in our country.</sent>
+				<sent id ="31">In that time elderly people had some authority and superior positions in the family.</sent>
+				<sent id ="32">But joint families are breaking into small nuclear families due to industrialization, urbanization and the changes in people's economic life-style.</sent>
+				<sent id ="33">There is want of people to look after them or to nurse them in sickness.</sent>
+				<sent id ="34">There are none to give company to them or to talk to them.</sent>
+				<sent id ="35">As a result, they fall victim to a sort of loneliness and depression.</sent>
+				<sent id ="36">In old age, these duties often prove difficult to them.</sent>
+				<sent id ="37">Old people are often considered burden in the family.</sent>
+				<sent id ="38">Economic: Many elderly people become economically helpless because they have no source of income and their savings and assets are distributed among heirs.</sent>
+				<sent id ="39">They have to depend on their wards.</sent>
+				<sent id ="40">They cannot do anything independently.</sent>
+				<sent id ="41">These problems are higher mostly for old people in middleclass and poor families.</sent>
+				<sent id ="42">Many people become almost penniless before reaching their old age in the process of maintaining family, spending for children's education and for marrying away daughters.</sent>
+				<sent id ="43">Many loyse all their properties in natural disasters like floods and high tides and river erosions.</sent>
+				<sent id ="44">In this condition, for children who have not enough income it becomes difficult for them to look after elderly parents.</sent>
+				<sent id ="45">Despite their willingness, they cannot look after them properly.</sent>
+				<sent id ="46">Physical: Physical capability of people reduces in old age.</sent>
+				<sent id ="47">Many diseases become permanent in body.</sent>
+				<sent id ="48">At this age people need some relaxation and comfort.</sent>
+				<sent id ="49">But many elderly people in our country cannot afford to have this comfort.</sent>
+				<sent id ="50">They even do not get necessary treatment in illness.</sent>
+				<sent id ="51">They cannot afford to buy food and medicine while sick.</sent>
+				<sent id ="52">Socio-cultural: The honour once shown to elderly people or the importance given to the opinion of them is no more in our country.</sent>
+				<sent id ="53">The reasons for this are breakdown of values, lack of moral education, influence of foreign culture and the spread of self- centred attitudes in society.</sent>
+				<sent id ="54">Elderly people are considered useless in family and in society.</sent>
+				<sent id ="55">Their opinions are not given importance.</sent>
+				<sent id ="56">It seems that none has time to sit beside them and listen to them.</sent>
+				<sent id ="57">They have little opportunity for leisure and recreation.</sent>
+				<sent id ="58">Psychological: The cornered condition in family and society gives rise to a sense of inferiority complex in the elderly.</sent>
+				<sent id ="59">They begin to feel ignored and helpless.</sent>
+				<sent id ="60">Lack of own resources along with physical sickness and loneliness add to this inferiority complex.</sent>
+				<sent id ="61">Loss of memory in old age also creates additional problems.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

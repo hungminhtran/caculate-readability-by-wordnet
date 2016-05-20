@@ -1,0 +1,86 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-sci-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.329</idno>
+				<idno type="Number of sentences">58</idno>
+				<idno type="Number of tokens">605</idno>
+				<idno type="Number of token types">286</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t31">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We can see the moon in a cloudless sky.</sent>
+				<sent id ="2">The moon is a satellite of the earth.</sent>
+				<sent id ="3">There is no soil, water or air on the moon.</sent>
+				<sent id ="4">There is only stone on the moon.</sent>
+				<sent id ="5">We can see some shadows or marks that look like clouds on the moon.</sent>
+				<sent id ="6">These are actually hills.</sent>
+				<sent id ="7">Scientists are still carrying out experiments on the moon.</sent>
+				<sent id ="8">The moon has no light of its own.</sent>
+				<sent id ="9">It gets its light from the sun.</sent>
+				<sent id ="10">Our heart fills up with joy when we see the moon-light at night.</sent>
+				<sent id ="11">Do you know how far the moon is from the earth?</sent>
+				<sent id ="12">It is 3,84,000 (Three lakhs and eighty-four thousand) kilometers away from the earth.</sent>
+				<sent id ="13">Compared to the earth's size, the moon is much smaller.</sent>
+				<sent id ="14">In 1969 man first landed on the moon by rocket.</sent>
+				<sent id ="15">Every morning the sun rises in the east and sets in the west.</sent>
+				<sent id ="16">But it doesn't rise or set at the same time every day.</sent>
+				<sent id ="17">The time for the sun set and the sun rise changes very slowly.</sent>
+				<sent id ="18">The sun has its own light.</sent>
+				<sent id ="19">And because the sun has its own light, it is called a star.</sent>
+				<sent id ="20">So far scientists have discovered eight planets revolving around the sun.</sent>
+				<sent id ="21">According to distance, these are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.</sent>
+				<sent id ="22">Mercury is the nearest to and naptune is the farthest away from the sun.</sent>
+				<sent id ="23">From the distance the sun looks like a plate to us.</sent>
+				<sent id ="24">Because the sun is so far from us, it looks so small.</sent>
+				<sent id ="25">Do you know how far the sun is from the earth?</sent>
+				<sent id ="26">The distance between the sun and the earth is fifteen crore kilometers.</sent>
+				<sent id ="27">The sun is 13,00000 (Thirteen lakh) times bigger than the earth.</sent>
+				<sent id ="28">That means the sun would be the size of thirteen hundred thousand earths together.</sent>
+				<sent id ="29">The sun gives us light.</sent>
+				<sent id ="30">What happens when there is no light?</sent>
+				<sent id ="31">It becomes dark.</sent>
+				<sent id ="32">We live on the earth.</sent>
+				<sent id ="33">The earth is a planet of the sun.</sent>
+				<sent id ="34">The earth is round, but not entirely.</sent>
+				<sent id ="35">Its two sides are little flat.</sent>
+				<sent id ="36">There is water, soil and air on the earth.</sent>
+				<sent id ="37">Because of this, mankind, other living beings and trees and plants live on this earth.</sent>
+				<sent id ="38">Except on the earth, on no other planets have these elements been found yet.</sent>
+				<sent id ="39">That's why there are no living beings or trees and plants in any other planets.</sent>
+				<sent id ="40">The place on earth where we live is called Bangladesh.</sent>
+				<sent id ="41">The other part remains dark and it is night there.</sent>
+				<sent id ="42">Do you know why it happens so?</sent>
+				<sent id ="43">The reason is that the earth does not stay fixed in one place.</sent>
+				<sent id ="44">It is revolving around the sun following a definite path.</sent>
+				<sent id ="45">At the same time it is also revolving on its own axis.</sent>
+				<sent id ="46">You may have seen a top spin.</sent>
+				<sent id ="47">Like the top, the earth is also revolving around the sun.</sent>
+				<sent id ="48">We can easily do this experiment with the help of the following picture.</sent>
+				<sent id ="49">We will need a candle, matches, a table and a globe to do this expe-riment.</sent>
+				<sent id ="50">Instead of a table, you can use the floor.</sent>
+				<sent id ="51">Light the candle on the table or the floor in a dark room.</sent>
+				<sent id ="52">Now place the globe in front of the lighted candle.</sent>
+				<sent id ="53">Notice that the light is falling on one side of the globe only.</sent>
+				<sent id ="54">The other side is not getting the light.</sent>
+				<sent id ="55">Store rain water in both the glasses.</sent>
+				<sent id ="56">Keep time on a watch and see how long it takes to store the water.</sent>
+				<sent id ="57">Take a ruler and measure the height of water level in each glass.</sent>
+				<sent id ="58">You will know more about the scientific ways to measure rainfall when you grow up.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

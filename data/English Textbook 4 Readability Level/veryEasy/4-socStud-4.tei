@@ -1,0 +1,79 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.684</idno>
+				<idno type="Number of sentences">51</idno>
+				<idno type="Number of tokens">481</idno>
+				<idno type="Number of token types">195</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t98">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We are children.</sent>
+				<sent id ="2">We have many rights to live peacefully in the society.</sent>
+				<sent id ="3">Now we will know some rights for all classes of people in the society.</sent>
+				<sent id ="4">These rights are known as fundamental rights.</sent>
+				<sent id ="5">Let us read some main fundamental rights in the following table?</sent>
+				<sent id ="6">All human beings are independent by birth.</sent>
+				<sent id ="7">All deserves the right to get security.</sent>
+				<sent id ="8">None can be tortured.</sent>
+				<sent id ="9">All are equal in the eyes of law.</sent>
+				<sent id ="10">Nobody is subject to be arrested and without any reason.</sent>
+				<sent id ="11">None can be deprived of his assets.</sent>
+				<sent id ="12">Everybody deserves the right to follow their own religion.</sent>
+				<sent id ="13">Everybody deserves the right to get education.</sent>
+				<sent id ="14">We will be aware of these fundamental rights.</sent>
+				<sent id ="15">We live together with father and mother in the family.</sent>
+				<sent id ="16">In every family there live We will be aware of-these fundamental rights.</sent>
+				<sent id ="17">We live together with father and mother in the family.</sent>
+				<sent id ="18">In every family there live different men and women of different ages.</sent>
+				<sent id ="19">There are elderly people in our families i.e. mother, father, elder brother and sister.</sent>
+				<sent id ="20">In the family there are rights not only for seniors but also for juniors.</sent>
+				<sent id ="21">There are both male and female members in a family.</sent>
+				<sent id ="22">For example, a father and a brother are the male members.</sent>
+				<sent id ="23">Grandfather, uncle, maternal grandfather and uncle are also male members.</sent>
+				<sent id ="24">Likewise, a mother and a sister are female members.</sent>
+				<sent id ="25">Grandmother, aunt, maternal grandmother, maternal aunt are the female members of the family.</sent>
+				<sent id ="26">Let us fill up the following columns by ourselves?</sent>
+				<sent id ="27">Let us read them in the following column.</sent>
+				<sent id ="28">Right to clothes Right to get necessary clothes.</sent>
+				<sent id ="29">Right to live in any place Right to live in a better place.</sent>
+				<sent id ="30">Right to have necessary medical treatment for the members of all ages.</sent>
+				<sent id ="31">Right to get education for all members at a suitable age.</sent>
+				<sent id ="32">Right to security Right to have security for the members of all ages.</sent>
+				<sent id ="33">These rights are also applicable to both children and adults.</sent>
+				<sent id ="34">We will be aware of these rights of us and other members in the family.</sent>
+				<sent id ="35">We will also be careful so that nobody may lose his/her rights in the family.</sent>
+				<sent id ="36">They are domestic helps.</sent>
+				<sent id ="37">They also have some fundamental rights as human beings.</sent>
+				<sent id ="38">All should behave well with the house-workers.</sent>
+				<sent id ="39">We must not torture them physically and mentally.</sent>
+				<sent id ="40">It is our duty to fulfil all their rights.</sent>
+				<sent id ="41">People of different religions live in society.</sent>
+				<sent id ="42">In our country there are Muslims, Hindus, Buddhists, Christians, etc.</sent>
+				<sent id ="43">In every religion there are various festivals.</sent>
+				<sent id ="44">People of different professions live in our society.</sent>
+				<sent id ="45">Let us read the names of various professionals in the following table.</sent>
+				<sent id ="46">The activities of all professionals are important.</sent>
+				<sent id ="47">So we will not regard anyone as inferior.</sent>
+				<sent id ="48">We will respect all.</sent>
+				<sent id ="49">The people of all professions have fundamental rights.</sent>
+				<sent id ="50">We will always be aware of claiming our fundamental rights.</sent>
+				<sent id ="51">We will not do anything which may violate the rights of others.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

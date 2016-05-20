@@ -1,0 +1,97 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-geo-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.897</idno>
+				<idno type="Number of sentences">69</idno>
+				<idno type="Number of tokens">1394</idno>
+				<idno type="Number of token types">537</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t86">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Location : The continent of Europe is located between 35 to 71 North latitude and 25 West longitude to 66 East longitude.</sent>
+				<sent id ="2">20 East longitude and 55 North latitude has passed the middle of the continent.</sent>
+				<sent id ="3">The continent has the North Sea to its north, the Mediterranean Sea and Black Sea to its south, the Caspian Sea and Asia to its east and the North Atlantic Ocean to its west.</sent>
+				<sent id ="4">The Ural mountain has seperated Europe from Asia.</sent>
+				<sent id ="5">Area : Europe ranks third among all the continents in respect of its area.</sent>
+				<sent id ="6">The area of Europe is only 2,32,27,496 square kilometres.</sent>
+				<sent id ="7">It is about 0.24 part smaller than Asia in area, 0.35 part of Africa, 0.43 part of North America and 0.59 part of South America while it is 1.37 times larger than Australia and 7.45 times larger than Antarctica.</sent>
+				<sent id ="8">Coastline : In comparison to its size, Europe has a very long and broken coastline.</sent>
+				<sent id ="9">The coastline is 41,204 kilometres i.e.1kilometre of coastline for every 242 kilometres of its area.</sent>
+				<sent id ="10">In many places, there are inland, seas and bays and gulfs so that no part of Europe is more than 1,690 kilometres from the sea.</sent>
+				<sent id ="11">This has resulted in the formation of many natural harbours and ports along the coast.</sent>
+				<sent id ="12">There are many peninsulas, islands archipelagoes along the coast of this continent.</sent>
+				<sent id ="13">In the north coast, the majors ones among others are White Sea, Bothnia Peninsula, Baltic Sea, North Sea, Iceland Island, Scandinavian Peninsula (Norway and Sweden) and Denmark Peninsula.</sent>
+				<sent id ="14">Besides, there are Novaya Zemlya and Pittsburgen Island, North Cape and Northkin Cape.</sent>
+				<sent id ="15">In the west coast, there are Bay of Biscay and the Iberian Peninsula (Spain and Portugal).</sent>
+				<sent id ="16">In the south coast, there are Mediterranean Sea, Gulf of Genoa, Tyrrhenean Sea, Adriatic Sea, Ionian Sea, Aegean Sea, Sea of Marmara, Black Sea, Azov Sea, Balearic group of Islands, Corsica Islands, Sardina Island, Sicily Island, Italian Peninsula, Ionian Archipelago, Balkan Peninsula and Crimean Peninsula.</sent>
+				<sent id ="17">As the continent of Asia is located in the east, there is only Caspian Sea surrounded by land on all sides.</sent>
+				<sent id ="18">Physiography : Europe is divided into four divisions on the basis of its physical structures.</sent>
+				<sent id ="19">The Rocky Plateau of North-West Europe : The Scandinavian Peninsula (Norway and Sweden), the northern part of Scotland and Ireland are included in this region.</sent>
+				<sent id ="20">In the past, this region was consisted of old metamorphic rocks.</sent>
+				<sent id ="21">Owing to their long exposure to the external agents of denudation, these ancient rocks have been worn down to form plateau.</sent>
+				<sent id ="22">The Kiolen mountain is in the north Scandinavian plateau and the Dover Field mountain is in the south.</sent>
+				<sent id ="23">The landmass of this region slopes to the south-east.</sent>
+				<sent id ="24">The rift valley of Glenmore has divided the Scotland plateau into two parts.</sent>
+				<sent id ="25">The north part of the United Kingdom is known as the Scottish Highland, while the southern part is Graspian range of mountains.</sent>
+				<sent id ="26">Nevis (1,344 metres) of Graspian mountain is the highest peak in the United Kingdom.</sent>
+				<sent id ="27">The Great Plain of Central Europe : This great plain stretches from the coast of the Bay of Biscay in the west to the eastern border of Europe in the east.</sent>
+				<sent id ="28">In fact, this plain has joined the plains of Asia and formed the greatest plain in the world.</sent>
+				<sent id ="29">The plain includes North France, Belgium, Netherlands (Holand), Germany, Poland, Finland, Estonia, Latvia, Lithuania, Belarus, Ukrain and most of the places of Russia.</sent>
+				<sent id ="30">The surface in this plain is mostly flat and in most cases is not more than 152 metres above sea level.</sent>
+				<sent id ="31">Much of the surface of the lowlands is covered by glacial deposits and moraines because the glaciers moved over this area.</sent>
+				<sent id ="32">The plateau of Central and West Europe : The region is formed of five small and big diffused plateaus.</sent>
+				<sent id ="33">This region includes Meseta plateau of Iberia, Central Meseta Plateau of France, Bavaria, Plateau of Germany and Bohemia Plateau of Czech and Slovakia.</sent>
+				<sent id ="34">The Mountainous Lands of South Europe : The Alps Mountain is situated at the central place of this mountainous lands.</sent>
+				<sent id ="35">The Alps Mountain is about 1,116 kilometres long and in width it varies from 56 to 64 kilometres.</sent>
+				<sent id ="36">A number of branches from this mountain have spreaded to the different directions of South Europe.</sent>
+				<sent id ="37">The Dinaric and Pindus mountain in the south-east of Balkan Peninsula, Balkan mountain in the east of the Dinaric, the Republican of Czech and Slovakia to the east of the Alps, the Carpethian mountain covering West Ukraine and the central east of Romania, the Transylvania mountain in South Romania, the Caucasus mountain, Jura mountain and Vosges mountain to the east of Black Sea are all determining the border of France, Switzerland and Germany.</sent>
+				<sent id ="38">The Evergen and the Siveneze mountains are located in South France.</sent>
+				<sent id ="39">The Mount Blank (4,807 metres) situated in the border of South-East France and Italy, is the highest peak.</sent>
+				<sent id ="40">This peak remains under ice throughout the year.</sent>
+				<sent id ="41">The Meseta plateau of Spain is situated in the highlands of Pyrenees in the border of France and Spain, in the highlands of the Cantabrian Mountain in North Spain and the Sierra Nevada in South Spain.</sent>
+				<sent id ="42">The Apennines, a branch of the Alps has passed through Italy towards south.</sent>
+				<sent id ="43">The Hungary Plain is located in the river valley of Daniube within the Carpethian and the Dinaric Mountains, the Lombarde Plain in between the Alps and the Apennines, and the Romania plain between the Balkan and the Transylvania mountains.</sent>
+				<sent id ="44">Visuvius of Italy, Etna of Sicily, Strombly of Lepery Island and Hekla of Iceland are the notable volcanoes of Europe.</sent>
+				<sent id ="45">Climate : Europe is situated at the Temperate Zone.</sent>
+				<sent id ="46">Difference in climate is found to occur in different places of Europe due to the distance from the sea, influence of warm currents, location of the Arctic circle, and the mountains etc.</sent>
+				<sent id ="47">On the basis of the mentioned situations, the climate of Europe is divided into four climatic regions (Fig. 54).</sent>
+				<sent id ="48">The Tundra Climatic Regions : This climatic region is included in the Frizid zone as the northern parts of Norway, Finland and Russia being situated in the north of the Arctic circle, and this type of climate is known as the Tundra Climate.</sent>
+				<sent id ="49">The winter season is long and the intensity of winter is very high.</sent>
+				<sent id ="50">There is a heavy snowfall in this season and the surface remains covered with snow for about nine months of the year.</sent>
+				<sent id ="51">The Temperate Climate of North-West Europe : The countries in this region are those located along the coast of the Atlantic Ocean in the north-western Europe that include Norway, southern part of Sweden, Germany, France, northern part of Spain, 92 Secondary Geography Belgium, Netherlands, Luxembourg, Denmark, the United Kingdom and Iceland.</sent>
+				<sent id ="52">The climate of this region is equable as the warm North Atlantic Stream flow along this region and no place is far off from the ocean.</sent>
+				<sent id ="53">The amount of rainfall is higher more during winter but the intensity of winter cold is not much.</sent>
+				<sent id ="54">The Continental Climate of East Europe : This climatic region include Poland, Southern Finland, Estonia, Latvia, Lithuania, Romania, Belarus, Ukraine, Georgia, Armenia, and Azerbaijan of East Europe.</sent>
+				<sent id ="55">The region is far from the sea.</sent>
+				<sent id ="56">The cold wind of the north blows over these countries.</sent>
+				<sent id ="57">The intensity of cold during winter is very high.</sent>
+				<sent id ="58">It rains a little under the influence of westerly wind during summer, but in the east the rainfall gradually decreases.</sent>
+				<sent id ="59">So the climate of this region is called Extreme Continental Climate.</sent>
+				<sent id ="60">The Mediterranean Climatic Region : This region includes Portugal, South Spain, South France, Italy, Albania, Greece, the European Turkey, the Mediterranean Islands, Corsica, Sardinia, Sicily and Crete of South Europe not far from the Mediterranean Sea.</sent>
+				<sent id ="61">Though there is scorching sun during summer but the temperature remains less due to the influence of the sea.</sent>
+				<sent id ="62">The intensity of cold during winter is not felt high.</sent>
+				<sent id ="63">There is rainfall in winter but the summer goes dry.</sent>
+				<sent id ="64">Political divisions and population : There are 46 large and small states in Europe (Fig. 55).</sent>
+				<sent id ="65">The former Soviet Union broke up in 1991 giving rise to 15 independent Republican States.</sent>
+				<sent id ="66">Similarly former Czechoslovakia formed two states such as, Czech and Slovakia after break up and Yugoslavia formed 5 states.</sent>
+				<sent id ="67">Location, Area and Coastline : Europe is located in the temperate zone.</sent>
+				<sent id ="68">The area of Europe is about 2,32,27,496 square kilometres.</sent>
+				<sent id ="69">The coastline of Europe is very much broken and long.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

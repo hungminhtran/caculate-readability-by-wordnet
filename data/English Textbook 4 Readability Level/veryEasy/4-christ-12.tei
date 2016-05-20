@@ -1,0 +1,86 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.816</idno>
+				<idno type="Number of sentences">58</idno>
+				<idno type="Number of tokens">576</idno>
+				<idno type="Number of token types">241</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t56">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The War of Liberation took place in This war continued for long nine months.</sent>
+				<sent id ="2">Then we achieved our freedom from the Pakistanis.</sent>
+				<sent id ="3">Thousands of our people participated in that war.</sent>
+				<sent id ="4">The Pakistanis had killed a large number of our people and burnt our houses.</sent>
+				<sent id ="5">Many people became homeless.</sent>
+				<sent id ="6">They took shelter here and there.</sent>
+				<sent id ="7">However, they returned to their houses after the independence.</sent>
+				<sent id ="8">In this way, after a struggle for nine months we achieved freedom.</sent>
+				<sent id ="9">In this picture, we can see the freedom fighters.</sent>
+				<sent id ="10">They took training on how to fight before going to war.</sent>
+				<sent id ="11">Then they started the war in this war many of them were martyred.</sent>
+				<sent id ="12">Many innocent people too gave up their lives.</sent>
+				<sent id ="13">Then on 16th December 1971 the Pakistani army surrendered.</sent>
+				<sent id ="14">We achieved our victory.</sent>
+				<sent id ="15">Through this war, we became an independent nation.</sent>
+				<sent id ="16">That is why, we call this war the War of Independence.</sent>
+				<sent id ="17">Many Christians also took part in this war.</sent>
+				<sent id ="18">Many of them were martyred.</sent>
+				<sent id ="19">Some of them are still alive.</sent>
+				<sent id ="20">We certainly want to know how they fought the war.</sent>
+				<sent id ="21">Our Christian brothers took part in this war basically in two ways direct and indirect.</sent>
+				<sent id ="22">Those who fought with arms were the direct freedom fighters.</sent>
+				<sent id ="23">However, many of them helped people and gave them shelter, food, money, information etc.</sent>
+				<sent id ="24">We call them the indirect freedom fighters.</sent>
+				<sent id ="25">All of them, in fact, played important roles.</sent>
+				<sent id ="26">The war needed everyone's cooperation.</sent>
+				<sent id ="27">Otherwise, winning this war could have become very difficult.</sent>
+				<sent id ="28">Those who fought with arms directly with the Pakistani soldiers are the direct freedom fighters.</sent>
+				<sent id ="29">Our freedom fighters fought directly with the Pakistani soldiers with arms.</sent>
+				<sent id ="30">Such a war as fought by them is called the direct War of Liberation.</sent>
+				<sent id ="31">By training and advising the freedom fighters.</sent>
+				<sent id ="32">By providing shelter for the freedom fighters.</sent>
+				<sent id ="33">By providing food for the freedom fighters.</sent>
+				<sent id ="34">By donating money and providing other support for the fighters.</sent>
+				<sent id ="35">By nursing the sick and the injured soldiers and supplying them with medicine.</sent>
+				<sent id ="36">By informing the freedom fighters of the enemies whereabouts.</sent>
+				<sent id ="37">By carrying arms and ammunition to different war zones.</sent>
+				<sent id ="38">By providing food and shelter for the destitute for a long time.</sent>
+				<sent id ="39">People took shelter in the schools and churches of the community.</sent>
+				<sent id ="40">That time, in almost every religious community distressed people got shelter.</sent>
+				<sent id ="41">Because of this war the schools and colleges were closed down.</sent>
+				<sent id ="42">That is why people went to the schools of these communities to take shelter.</sent>
+				<sent id ="43">The priests, clergies and nuns provided them with food and medicine.</sent>
+				<sent id ="44">The Christian women too contributed in the war.</sent>
+				<sent id ="45">They cooked for the freedom fighters and the destitute and nursed the sick.</sent>
+				<sent id ="46">They even gave them secret information.</sent>
+				<sent id ="47">In this way, the Christians contributed much in the War of Liberation.</sent>
+				<sent id ="48">We remember the freedom fighters including the Christian ones with honour and respect.</sent>
+				<sent id ="49">This will go under the subtitle.</sent>
+				<sent id ="50">Our country is just like our mother.</sent>
+				<sent id ="51">That is why we call our country our motherland and our language, our mother tongue.</sent>
+				<sent id ="52">We also call out country our mother in the national anthem.</sent>
+				<sent id ="53">We love and serve our motherland just as we love our mother.</sent>
+				<sent id ="54">We protect her as we protect our mother in distress.</sent>
+				<sent id ="55">The freedom fighters showed pure love to the motherland in the war.</sent>
+				<sent id ="56">The Pakistanis were doing much harm to our country.</sent>
+				<sent id ="57">But, the freedom fighters defended our motherland by sacrificing their lives.</sent>
+				<sent id ="58">Make a list of how the Christian women contributed to the War of Liberation.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

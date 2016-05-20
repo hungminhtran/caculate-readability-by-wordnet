@@ -1,0 +1,68 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-budh-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.595</idno>
+				<idno type="Number of sentences">40</idno>
+				<idno type="Number of tokens">339</idno>
+				<idno type="Number of token types">194</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t45">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Gatha is the Shlok or part of the Sutra.</sent>
+				<sent id ="2">The Sutta consists of some Gathas.</sent>
+				<sent id ="3">The language of Gathas is Pali.</sent>
+				<sent id ="4">These are like poems.</sent>
+				<sent id ="5">Bhagwan Buddha has instructed people in Gathas for the welfare of mankind.</sent>
+				<sent id ="6">The Sutra Pitak contains most of the Gathas.</sent>
+				<sent id ="7">You will memorize the Gathas.</sent>
+				<sent id ="8">You will recite them correctly and clearly.</sent>
+				<sent id ="9">It is good to learn the names of some of the Sutra.</sent>
+				<sent id ="10">It makes one respect one's parents and seniors more.</sent>
+				<sent id ="11">One is inspired to lead a pious life.</sent>
+				<sent id ="12">It makes life beautiful and purified.</sent>
+				<sent id ="13">You will not serve the ignorant.</sent>
+				<sent id ="14">You will respect and serve the learned person.</sent>
+				<sent id ="15">It is indeed a good work.</sent>
+				<sent id ="16">Good people do virtuous works.</sent>
+				<sent id ="17">For, virtues are at the root of all happiness.</sent>
+				<sent id ="18">You will not waste your time in sleep and gossip.</sent>
+				<sent id ="19">You will never get angry as well.</sent>
+				<sent id ="20">He who has no inspiration for work cannot shine in life.</sent>
+				<sent id ="21">He is, in fact, a defeated person.</sent>
+				<sent id ="22">Giving up bad associations, Be with good people, praising them always;</sent>
+				<sent id ="23">Devote yourself to virtues days and nights, Think of transience in life all the times.</sent>
+				<sent id ="24">Give up evil companies.</sent>
+				<sent id ="25">Praise wise men.</sent>
+				<sent id ="26">Earn virtues days and nights.</sent>
+				<sent id ="27">Always think of impermanence of life.</sent>
+				<sent id ="28">Enmity is subdued never with foes, Friendship wins it, Tradition goes.</sent>
+				<sent id ="29">You will perform the religious rites well, do not do the evils.</sent>
+				<sent id ="30">The pious live a very happy life in this world and the hereafter.</sent>
+				<sent id ="31">The six Gathas mentioned above contain a lot of instructions.</sent>
+				<sent id ="32">These Gathas have been taken from the books, Sutta Nipat, Dhammapada, Lokaniti and so on.</sent>
+				<sent id ="33">Tathagata Buddha instructed these Gathas for the welfare of man.</sent>
+				<sent id ="34">These are essentials in our day to day life.</sent>
+				<sent id ="35">These Gathas contain instructions on religion, moral and daily activities.</sent>
+				<sent id ="36">You will read these Gathas with attention.</sent>
+				<sent id ="37">You will understand the instructions into the Gathas.</sent>
+				<sent id ="38">Try to abide by these instructions.</sent>
+				<sent id ="39">As a result, everybody will love and respect you.</sent>
+				<sent id ="40">Great men are respected because they led their lives according to these moral instructions.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

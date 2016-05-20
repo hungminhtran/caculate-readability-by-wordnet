@@ -1,0 +1,189 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-budh-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:04.257</idno>
+				<idno type="Number of sentences">161</idno>
+				<idno type="Number of tokens">2419</idno>
+				<idno type="Number of token types">895</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t39">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The history of Buddhism is closely related with the history of Buddhist Councils (Sangiti).</sent>
+				<sent id ="2">Because the words of the Buddha were correctly recorded and preserved through these Councils.</sent>
+				<sent id ="3">Gautama Buddha preached His doctrine for 45 years in different places of India.</sent>
+				<sent id ="4">During this period, He delivered sermons and advice to the Bhikkhu Sangha and ordinary people.</sent>
+				<sent id ="5">He recited many suttas and introduced rules for the Dhamma and the Bhikkhu Sangha.</sent>
+				<sent id ="6">His disciples committed these discourses and sermons to memory.</sent>
+				<sent id ="7">At that time many of His disciples were Arhats.</sent>
+				<sent id ="8">All of them were wise and had capacity of retention in memory.</sent>
+				<sent id ="9">Sthavir Ananda used to extend personal service to the Buddha.</sent>
+				<sent id ="10">Ananda used to commit to memory all the suttas recited by the Buddha.</sent>
+				<sent id ="11">Then he narrated them to others.</sent>
+				<sent id ="12">The Bhikkhu Sangha used to learn the sermons and words of the Buddha and then transmit them to all.</sent>
+				<sent id ="13">At that time there was no system of writing those suttas and messages.</sent>
+				<sent id ="14">Even, if there were scripts, the prevailing system was to commit them to memory.</sent>
+				<sent id ="15">That was the system which people felt proud about.</sent>
+				<sent id ="16">During His last days, the Buddha allowed freedom to the Bhikkhus to make changes in small and minor teachings.</sent>
+				<sent id ="17">It is learnt that Ananda did not thoroughly acquire what these minor teachings were.</sent>
+				<sent id ="18">Hence there was accusation against Ananda in the first Council.</sent>
+				<sent id ="19">Besides after the Mahaparinibbana (Great Passing Away) of the Buddha, some Bhikkhu refused to adhere to the Sangha rules strictly.</sent>
+				<sent id ="20">When various questions arose on these rules, necessity was felt for all to sit together to arrive at unanimity about Dhamma and Vinaya.</sent>
+				<sent id ="21">For this reason Sangiti or Council was held.</sent>
+				<sent id ="22">There are differences of opinions among scholars regarding the number of Councils held since the Mahaparinibbana of the Buddha until now.</sent>
+				<sent id ="23">But all Buddhists of South East Asia unanimously agree that six Councils were held.</sent>
+				<sent id ="24">Of these three Councils were held in ancient India, fourth Council in Sinhal, fifth and sixth Council in Burma (presentday Myanmar).</sent>
+				<sent id ="25">According to Sinhalese tradition, the fifth, sixth and seventh Councils were held during the reign of king Tissa, Battagamini and Duttagamini respectively.</sent>
+				<sent id ="26">The entire Tripitaka was compiled and written in these Councils.</sent>
+				<sent id ="27">Again according to Burmese view, the fifth Council was held in Mandalay of Burma with the patronage of king Mindanamin.</sent>
+				<sent id ="28">Both Burma and Ceylon agree that the fourth Council was held in Ceylon.</sent>
+				<sent id ="29">At that time Battagamini was the king of Ceylon.</sent>
+				<sent id ="30">Under his direction the entire Tripitaka was written in palm-leaves.</sent>
+				<sent id ="31">After the fifth Council, the volumes of the Tripitaka were engraved in 729 marble stones.</sent>
+				<sent id ="32">The sixth Council was held in Burma in 1954-56 when the entire text of Tripitaka was recited and tape-recorded.</sent>
+				<sent id ="33">According to legends of Siam (present-day Thailand), a total of nine Councils were held.</sent>
+				<sent id ="34">Out of these three Councils were held in India, four councils from the fourth to the seventh in Ceylon and eighth and ninth Council in Siam.</sent>
+				<sent id ="35">According to Mahavamsa of Ceylon, the fourth and the fifth Councils were held in Ceylon.</sent>
+				<sent id ="36">All sections of Buddhists are of the same opinion about the cause of holding the first Council.</sent>
+				<sent id ="37">Mahakassapa was not present at Kusinagar while the Buddha attained Mahaparinibbana (Great Passing Away).</sent>
+				<sent id ="38">He was going to Kusinagar from Pava with a large number of Bhikkhus.</sent>
+				<sent id ="39">On the way he heard the news of the Buddha's Great Demise.</sent>
+				<sent id ="40">He also knew that a Bhikkhu named Subhadra had advised the Bhikkhus who are lamenting for the Great Master, to refrain from the grief because the Buddha was no more to admonish them to observe so many Vinaya rules.</sent>
+				<sent id ="41">Now they were free to do whatever they liked.</sent>
+				<sent id ="42">Mahakassapa and many other senior monks became very anxious for preserving the Buddha's Dhamma.</sent>
+				<sent id ="43">Mahakassapa was determined to fulfil the Master's mission by recording the teachings of the Buddha.</sent>
+				<sent id ="44">Realising the fact, the learned Theras felt the urgency of holding the first Buddhist Council in order to preserve the moral and philosophical thoughts of the Buddha.</sent>
+				<sent id ="45">With that hope, the leading Theras approached Ajatasattu, the ruler of Magadha and discussed to convene Council at Rajagaha.</sent>
+				<sent id ="46">The king, firm believer of Buddhism readily agreed to provide them with food, lodge and everything.</sent>
+				<sent id ="47">The Council took place at Rajagaha during the reign of king Ajatasattu.</sent>
+				<sent id ="48">The Sattapanni Guha (Cave) was selected for holding the Convocation.</sent>
+				<sent id ="49">Ajatasattu, the patron constructed a pandal in front of the Sattapanni cave.</sent>
+				<sent id ="50">Mahakassapa Thera was the President of the Council.</sent>
+				<sent id ="51">All the members of the Councils consisted of Arhats.</sent>
+				<sent id ="52">The members of the main Council and the executive committee were limited to five hundred.</sent>
+				<sent id ="53">Ananda and Upali Theras were elected for reciting the Dhamma (Doctrine) and Vinaya (Discipline) respectively.</sent>
+				<sent id ="54">Mahakassapa Thera himself was unanimously elected for putting questions to both of them.</sent>
+				<sent id ="55">At first Ananda was not included in the Council, as he was not then an Arhat, but a place was vacant for him.</sent>
+				<sent id ="56">Ananda occupied that place immediately after attaining the same title.</sent>
+				<sent id ="57">The proceedings of the Council are mainly divided into three sections.</sent>
+				<sent id ="58">The recitation of the Tripitaka ;</sent>
+				<sent id ="59">The charges against Ananda and The trial of Channa.</sent>
+				<sent id ="60">The settlement of Vanaya laws was done by the leadership of Upali who was entitled by the Master as Vinayadhara (skilled in the Discipline).</sent>
+				<sent id ="61">The Vinaya was first recited because it has been called the life of the Buddhist faith (Vinaya n`ama Buddhasasanassa ayu).</sent>
+				<sent id ="62">Mahakassapa put questions to Upali as to the inroduction of four Parajikas (the gravest transgression of the rules for the Bhikkhus), its main theme, occasion and the individual concerned, the amendment and the different categories of its infliction and extermination of the convicted persons.</sent>
+				<sent id ="63">In this way the Sanghadisesa (where takes the Bhikkhus in the first, in the middle and in the end to settle the offender), Aniyata (uncertainity of having an offence), Patidesaniya (confession), Nissaggiya (abandonment), Pacittiya (expiation) etc.</sent>
+				<sent id ="64">The Dhamma (Doctrine) was recited by Ananda who was given the special title of the Vahussutikas (who heard more from the Buddha).</sent>
+				<sent id ="65">The questions by Mahakassapa Thera to Ananda included the occasion of the sermons, individual persons, the occasions of the Brahmajala Sutta, Samannaphala Sutta, Ambattha Sutta etc.</sent>
+				<sent id ="66">In the same procedure Ananda Thera recited the Digha Nikaya, Majjhima Nikaya, Anguttara Nikaya, Samyutta Nikaya etc.</sent>
+				<sent id ="67">It should be noted that there is no mention of Abhidhamma Pitaka recited in the first Buddhist Council.</sent>
+				<sent id ="68">It might have included in the Dhamma.</sent>
+				<sent id ="69">In later days it was separated from the Dhamma.</sent>
+				<sent id ="70">At the conclusion of the conclave, Anada Thera was charged with Seven offences.</sent>
+				<sent id ="71">First of them was about the lesser and his minor precepts (Kuddanukuda Sikkhapadani).</sent>
+				<sent id ="72">At the time of the Parinibbana, the Buddha told the Bhikkhus to abolish the lesser and minor precepts.</sent>
+				<sent id ="73">Ananda could not explain clearly what were these for which the Assembly of the Bhikkhus faced a lot of troubles in later days.</sent>
+				<sent id ="74">None of these charges seem to have any logical validity, because Ananda had not done it with evil intention.</sent>
+				<sent id ="75">However, Ananda accepted these charges as proper and confessed the same.</sent>
+				<sent id ="76">The Assembly was satisfied by his modesty.</sent>
+				<sent id ="77">At the end of the Council Bhikkhu Channa, faced the highest penalty (Brahamadanda).</sent>
+				<sent id ="78">He was a charioteer of prince Siddhartha.</sent>
+				<sent id ="79">As a Bhikkhu he was not only arrogant, but also had slighted the Sangha by his ill behaviour.</sent>
+				<sent id ="80">The penalty means a complete social boycott.</sent>
+				<sent id ="81">When this severe punishment was imposed on him he was much repentent.</sent>
+				<sent id ="82">As a result the punishment was automatically withdrawn.</sent>
+				<sent id ="83">Afterwards he attained Arhatship.</sent>
+				<sent id ="84">The Council took four months time to complete the all sessions.</sent>
+				<sent id ="85">The first Council is called Pancasatika Council, as it was participated by five hundred Arhats.</sent>
+				<sent id ="86">It is also called Sthavirbad as it was completed by Sthavirs.</sent>
+				<sent id ="87">The second Buddhist Council was held at Vaisali during the reign of King Kalasoka, hundred years after the Mahaparinibbana of the Buddha.</sent>
+				<sent id ="88">Seven hundred Arhat Bhikkhus were selected to hold the meeting.</sent>
+				<sent id ="89">All of them were learned and well-versed in the Tripitaka.</sent>
+				<sent id ="90">The main reason for convening the second Council was the negligence of the Vinaya rules by the Vajjian monks (the Bhikkhu of the Vajji territory).</sent>
+				<sent id ="91">They were in the habit of ten indulgences which are called Dasavatthuni.</sent>
+				<sent id ="92">The carrying of salt can be preserved in the horn for the future.</sent>
+				<sent id ="93">The taking of food after the shadow goes up two fingers broad.</sent>
+				<sent id ="94">The taking of second meal in the villages on the same day.</sent>
+				<sent id ="95">The performance of Uposatha (Sabbath day) ceremony in various places of the monastery.</sent>
+				<sent id ="96">The act of following a customary tradition.</sent>
+				<sent id ="97">The drinking of butter-milk in the afternoon.</sent>
+				<sent id ="98">The drinking of toddy.</sent>
+				<sent id ="99">The using of rugs which have no fringe.</sent>
+				<sent id ="100">The accepting of gold or silver or money of any kind.</sent>
+				<sent id ="101">All these indulgences are illegal according to Cullavagga of the Vinaya Pitaka.</sent>
+				<sent id ="102">Yasa, the son of Kakandaka regarded these practices as illegal.</sent>
+				<sent id ="103">He preached it to the public and asked them to forbid the Vajjian monks to carry out these practices.</sent>
+				<sent id ="104">Thereby the Vajjian monks opposed him to do it and pronounced on him a penalty of Patisaraniya Kamma (Confessional action), which requires to apologise to the laity for his insolent behaviour.</sent>
+				<sent id ="105">Yasa, defended his view by giving an eloquent advocacy of it to the laity and became successful in winning them over to his side.</sent>
+				<sent id ="106">He gradually gathered large number of supporters.</sent>
+				<sent id ="107">He sent messengers to all directions.</sent>
+				<sent id ="108">Venerable Sambhuta who was a distinguished scholar supported Yasa, Venerable Revata Sthavir of great fame joined them.</sent>
+				<sent id ="109">Revata Sthavir discussed with Sabbakami Sthavir, the disciple of Ananda Sthavir who was then living at Vaisali.</sent>
+				<sent id ="110">Accordingly seven hundred learned Theras met at the Valukarama monastery of Vaisali.</sent>
+				<sent id ="111">Eight leading Theras formed the Arbitration Committee to settle the dispute.</sent>
+				<sent id ="112">Venerable Sabbakami was selected President of the Committee and also of the General Council.</sent>
+				<sent id ="113">Revata Sthavir presided the Council.</sent>
+				<sent id ="114">The question was also discussed in the full assembly.</sent>
+				<sent id ="115">The unanimous decision was that the Ten indulgences (Dasavatthuni) were unlawful and were against the Vinaya rules.</sent>
+				<sent id ="116">A big number of opposite party avoided this Council and they held another Council at other side of Vaisali which was attended by ten thousand monks.</sent>
+				<sent id ="117">So they called it a Great Council (Mahasangiti) and the members of the Bhikkhus were treated as Mahasanghikas who are the origin followers, of Mahayana Buddhism.</sent>
+				<sent id ="118">The seven hundred Theras including Sabbakami, Revata, Yasa etc. compiled the Dhamma and the Vinaya just as in the first Great Buddhist Council.</sent>
+				<sent id ="119">The monks, after the second Council were divided into two groups, the Theravadis and the Mahasanghikas or so to say, the conservatives and the liberals.</sent>
+				<sent id ="120">This Council continued eight months.</sent>
+				<sent id ="121">It is known as Saptashatica Sangiti as it was participated by seven hundred Arhats.</sent>
+				<sent id ="122">In this Council also Tripitaka was not written.</sent>
+				<sent id ="123">The third Buddhist Council is very important from the historical point of view.</sent>
+				<sent id ="124">It is one of the most important events in the career of Asoka.</sent>
+				<sent id ="125">He was converted to Buddhism by a tragic event during the time of Kalinga war.</sent>
+				<sent id ="126">This was the turning point in the history of Maurya dynasty .</sent>
+				<sent id ="127">Since then Asoka, employed his vast resources for propagation of Buddhism.</sent>
+				<sent id ="128">He gave more donation to the Buddhist Sangha and made so many monasteries and stupas.</sent>
+				<sent id ="129">The liberal donations and generous contribution not only encouraged the religious persons to lead a homeless life (Anagarika) but also helped many unreligious and unscrupulous elements to enter the Buddhist Sangha.</sent>
+				<sent id ="130">Many heretics losing their income were attracted by the prospects of the Bhikkhus.</sent>
+				<sent id ="131">They continued to stay in the monastery in the disguise of the Buddhist monks and began to preach their false doctrine.</sent>
+				<sent id ="132">The number of heretics became larger.</sent>
+				<sent id ="133">The regular monks refused to hold Uposatha with the false monks.</sent>
+				<sent id ="134">The ecclesiastical ceremonies like Uposatha, Pravarana etc. remained suspended.</sent>
+				<sent id ="135">Hearing this, Asoka gave genuine order to hold the Uposatha.</sent>
+				<sent id ="136">But the order was misunderstood by a minister.</sent>
+				<sent id ="137">He influenced by the heretics, commanded the soldiers to behead the monks who disobeyed the order of the king.</sent>
+				<sent id ="138">As a result several hundred.Bhikkhus in the Buddhist faith were killed as they were unwilling to hold the Uposatha with the heretics and corrupt Bhikkhus.</sent>
+				<sent id ="139">When this sad news was reported to emperor Asoka, he became very much perplexed.</sent>
+				<sent id ="140">He could not find the way to remove his doubt.</sent>
+				<sent id ="141">So he sent a messenger to bring Moggalliputta Thera, the leading monk.</sent>
+				<sent id ="142">The Thera was first reluctant to come, but at last he agreed to come.</sent>
+				<sent id ="143">The Thera advised the emperor and persuaded him to convene a Council in order to decide the true teachings of the Buddha.</sent>
+				<sent id ="144">The Thera interviewed all the heretical monks and ditected their false interpretation and expelled them from the Sangha.</sent>
+				<sent id ="145">The false monks and heretics were disrobed by the Emperor.</sent>
+				<sent id ="146">Thus the Buddhist Sangha was purified and the true Bhikkhus performed the Uposatha in order to purify the entire Sangha from the evil elements.</sent>
+				<sent id ="147">Moggalliputtatissa Thera selected one thousand learned Theras for convening the Council to compile the Tripitaka.</sent>
+				<sent id ="148">The Theras admitted the authenticity of the first two Councils held at Rajagaha and Vaisali.</sent>
+				<sent id ="149">They compiled the Tripitaka according to the method adopted in those Councils.</sent>
+				<sent id ="150">In all the sessions Moggalliputtatissa Thera presided.</sent>
+				<sent id ="151">All monks who participated in this Council unanimously agreed that the Rules of Dhamma and Vinaya adopted by the first and second Councils were the utterings made by the Buddha and advice given by Him.</sent>
+				<sent id ="152">The Dhamma and Vinaya recited and compiled in the first and second Councils, were again approved in the third Council.</sent>
+				<sent id ="153">In the third Council Dhamma was divided into two sections called Sutta and Abhidhamma based on compilation by Ananda in the first Council.</sent>
+				<sent id ="154">As a result the teachings of the Buddha were divided into three section Vinaya, Sutta and Abhidhamma which together constitute the Tripitaka.</sent>
+				<sent id ="155">One of the developments in the third Council was the compilation of Kathavatthu which was incorporated into Abhidhamma.</sent>
+				<sent id ="156">The author was Moggalliputtatissa, Thera himself.</sent>
+				<sent id ="157">It is the only book in the Tripitaka ascribed to a definite author.</sent>
+				<sent id ="158">Soon after the third Buddhist Council, emperor Asoka sent missionaries to different parts of Asia, Africa and Europe.</sent>
+				<sent id ="159">The son and daughter of emperor Asoka-Mahinda Thera and Sanghamitta Theri respectively were sent to Ceylon (Srilanaka) where they preached Buddhism.</sent>
+				<sent id ="160">Theri Sanghamitta also planted a branch of Mahabodhi tree of Buddhagaya and it is still worshipped by the Ceylonese and Buddhist pilgrims from the Buddhist world.</sent>
+				<sent id ="161">The name of Great Emperor Asoka has become ever lasting for his contribution in the expansion and development of Buddhism.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

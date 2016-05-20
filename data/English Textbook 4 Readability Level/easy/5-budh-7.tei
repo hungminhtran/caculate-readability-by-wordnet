@@ -1,0 +1,139 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-budh-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.001</idno>
+				<idno type="Number of sentences">111</idno>
+				<idno type="Number of tokens">998</idno>
+				<idno type="Number of token types">409</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t10">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">There is a saying As you sow, so you reap.</sent>
+				<sent id ="2">It means- as a person acts so he gets results.</sent>
+				<sent id ="3">Buddha said in His sermon- Refrain from all vices.</sent>
+				<sent id ="4">Keep your mind pure.</sent>
+				<sent id ="5">Do always right action.</sent>
+				<sent id ="6">These are called the sermons of the Buddha.</sent>
+				<sent id ="7">If any person does right action he should do it again and again.</sent>
+				<sent id ="8">Right actions bring happiness.</sent>
+				<sent id ="9">The pious get happiness by doing right action.</sent>
+				<sent id ="10">Everybody praises them.</sent>
+				<sent id ="11">The aim of doing right action is for the welfare of others.</sent>
+				<sent id ="12">It also brings welfare to the person who does right actions.</sent>
+				<sent id ="13">One should do right actions always to be happy.</sent>
+				<sent id ="14">On the other hand wrong actions are always harmful.</sent>
+				<sent id ="15">Everybody condemns the person who does wrong action.</sent>
+				<sent id ="16">If you do harm to others it will also bring harm to you.</sent>
+				<sent id ="17">It also causes many miseries.</sent>
+				<sent id ="18">Lord Buddha advised how to do right actions.</sent>
+				<sent id ="19">He also advised how to abstain from wrong actions.</sent>
+				<sent id ="20">There are three ways of actions-mind, body and speech.</sent>
+				<sent id ="21">Keep your mind happy and controlled.</sent>
+				<sent id ="22">Do not allow any hatred, greed and envy to enter your mind.</sent>
+				<sent id ="23">Happy mind helps in doing right actions.</sent>
+				<sent id ="24">As a result, no vice will be created in the mind.</sent>
+				<sent id ="25">Happy mind keeps the body hale and sound too.</sent>
+				<sent id ="26">Don't do any wrong action by your body.</sent>
+				<sent id ="27">Speak gently, so that others are not hurt.</sent>
+				<sent id ="28">The ways to keep body, mind and speech happy and controlled are doing right actions again and again.</sent>
+				<sent id ="29">Thinking over right actions create good sense.</sent>
+				<sent id ="30">Respect the elders.</sent>
+				<sent id ="31">Help in time of need.</sent>
+				<sent id ="32">Remember everybody is responsible for his own actions.</sent>
+				<sent id ="33">Nobody is to be blamed.</sent>
+				<sent id ="34">Parents get praise and appreciation if the children do right actions.</sent>
+				<sent id ="35">So, always do right actions.</sent>
+				<sent id ="36">If you behave well with others you will also get love and affection from others.</sent>
+				<sent id ="37">Encourage others to help.</sent>
+				<sent id ="38">Those who do right actions shall go to heaven after death.</sent>
+				<sent id ="39">Deities live in the heaven.</sent>
+				<sent id ="40">There are happiness in the heaven.</sent>
+				<sent id ="41">On the other hand, those who do wrong actions shall go to hell.</sent>
+				<sent id ="42">They suffer from untold miseries.</sent>
+				<sent id ="43">Every creature is bound by actions.</sent>
+				<sent id ="44">Man is responsible for his own actions.</sent>
+				<sent id ="45">Actions are responsible for sorrows and happiness.</sent>
+				<sent id ="46">Actions create divisions between high and low, good and bad creatures.</sent>
+				<sent id ="47">Men are the best of all creations.</sent>
+				<sent id ="48">Men have the power to understand good and bad things.</sent>
+				<sent id ="49">Other creatures have not this power.</sent>
+				<sent id ="50">The wise always do right actions.</sent>
+				<sent id ="51">They think over good things.</sent>
+				<sent id ="52">They also think about the welfare of others.</sent>
+				<sent id ="53">They become enlightened due to right actions.</sent>
+				<sent id ="54">Now you will learn about two stories related to right and wrong actions.</sent>
+				<sent id ="55">Sthabir Moggallayana, the Agrasrvak of the Buddha, once while walking saw an ugly she-devil.</sent>
+				<sent id ="56">A beautiful man sitting on a white elephant, was going before the she-devil.</sent>
+				<sent id ="57">Another well dressed man sitting on the horse carriage was going behind.</sent>
+				<sent id ="58">A beautiful girl sitting in a beautifully decorated palanquin was going behind the horse carriage.</sent>
+				<sent id ="59">The terrible ugly faced she-devil was going crying behind the three.</sent>
+				<sent id ="60">She was cutting her body into pieces with knife.</sent>
+				<sent id ="61">She was weeping and running.</sent>
+				<sent id ="62">The Sthabir asked the she-devil Who are they?</sent>
+				<sent id ="63">The she-devil said- Lord, The first man sitting on the white elephant is my eldest son.</sent>
+				<sent id ="64">The man sitting on horse-carriage in the middle is my second son.</sent>
+				<sent id ="65">The beautiful girl sitting in the palanquin is my younger daughter.</sent>
+				<sent id ="66">They used to do right actions.</sent>
+				<sent id ="67">But I was always greedy and was a miser.</sent>
+				<sent id ="68">When the Bikkhu Sramanera came to my house, I would behave roughly with them.</sent>
+				<sent id ="69">I would abuse and rebuke them.</sent>
+				<sent id ="70">They were hurt very much by my ill behaviour.</sent>
+				<sent id ="71">For these wrong actions I became a devil and was born as devil after my death too.</sent>
+				<sent id ="72">I ate food snatching from others.</sent>
+				<sent id ="73">I killed other creatures and ate them.</sent>
+				<sent id ="74">But my hunger was not satisfied.</sent>
+				<sent id ="75">I have been suffering from the pangs or pains of insatiable hunger for a long time.</sent>
+				<sent id ="76">Now I am eating the flesh and blood of myself.</sent>
+				<sent id ="77">The she-devil was suffering from sorrows and miseries due to the vices done during the previous birth.</sent>
+				<sent id ="78">The Thera became kind.</sent>
+				<sent id ="79">He advised the she- devil.</sent>
+				<sent id ="80">The she-devil got rid of sorrows and miseries by listening to the advice.</sent>
+				<sent id ="81">Help the poor and the needy.</sent>
+				<sent id ="82">Follow the rules of discipline and honesty.</sent>
+				<sent id ="83">The results of the observance of the rules of discipline and honesty are endless.</sent>
+				<sent id ="84">Now you will learn another story about right actions.</sent>
+				<sent id ="85">It was the time of Lord Buddha.</sent>
+				<sent id ="86">He was staying in the Venuvan Vihar.</sent>
+				<sent id ="87">A poor boy lived in Rajgriha.</sent>
+				<sent id ="88">He used to look after the fields of malt of a farmer.</sent>
+				<sent id ="89">He used to take food in the house of his master in the morning and night.</sent>
+				<sent id ="90">One day he went to the field carrying some cake with him.</sent>
+				<sent id ="91">He decided to eat the cakes in the field.</sent>
+				<sent id ="92">After completing his works he sat under a tree.</sent>
+				<sent id ="93">At that time a monk was passing by that way.</sent>
+				<sent id ="94">The monk came to the boy and stood under the tree.</sent>
+				<sent id ="95">The boy asked the monk- Oh, monk, have you eaten food?</sent>
+				<sent id ="96">The monk did not reply.</sent>
+				<sent id ="97">The boy could understand that the monk was hungry.</sent>
+				<sent id ="98">The boy said, Oh, monk, please take these cakes.</sent>
+				<sent id ="99">The boy gave all the cakes to the monk.</sent>
+				<sent id ="100">The monk ate all the cakes sitting in front of the boy.</sent>
+				<sent id ="101">He explained the results of help to the boy.</sent>
+				<sent id ="102">The boy thought in his mind, I have given food to this great saint.</sent>
+				<sent id ="103">As a result of this help the boy lived a happy life.</sent>
+				<sent id ="104">He became a deity after his death.</sent>
+				<sent id ="105">See the results of good actions.</sent>
+				<sent id ="106">The poor boy enjoyed eternal bliss as the son of deity due to his right actions.</sent>
+				<sent id ="107">You will also help others.</sent>
+				<sent id ="108">You will observe the rules of honesty and discipline.</sent>
+				<sent id ="109">You will be happy in life.</sent>
+				<sent id ="110">You will get rid of sorrows and miseries.</sent>
+				<sent id ="111">Everybody will love you.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

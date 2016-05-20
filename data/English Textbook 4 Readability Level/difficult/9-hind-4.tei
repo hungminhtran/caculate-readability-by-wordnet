@@ -1,0 +1,136 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-hind-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:06.039</idno>
+				<idno type="Number of sentences">108</idno>
+				<idno type="Number of tokens">1550</idno>
+				<idno type="Number of token types">663</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t92">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Practice of Religious rites and the Sacrament of Purification.</sent>
+				<sent id ="2">The ancient sages have directed to follow different religious practices or Mangalic Karmas to make a healthy and useful life.</sent>
+				<sent id ="3">They have composed a number of books of Hindu religion.</sent>
+				<sent id ="4">The remarkable books in.</sent>
+				<sent id ="5">this regard are Monushanghita, Yaggyabalka Shanghita and Parasharshanghita.</sent>
+				<sent id ="6">In these books we find how to perform various religious rites and take part in different propitious deeds to make human life meaningful not only for this world but also for the next world.</sent>
+				<sent id ="7">For this end the following ten sacraments of purification or Sanskars should be practised.</sent>
+				<sent id ="8">These are illustrated in the Smriti Shastra.</sent>
+				<sent id ="9">Garvadhan (Fertilisation) : It refers to a ceremony on attainment of puberty by a married girl.</sent>
+				<sent id ="10">Pugshoban : It is a sacranment performed out of a desire of having a male child.</sent>
+				<sent id ="11">Simontounnoyon : This is celebrated after 6th or 8th month of a mothers pregnancy.</sent>
+				<sent id ="12">Zatkarma ( ceremony at child birth ): After the birth of the child the father touches its tongue with barley, liquorice and ghee and utters special sacred verse in praise of some deity.</sent>
+				<sent id ="13">Namkaran ( Giving a name) : After the birth of a child, on the 10th, 11th, 12th or 100th day, a name is given after a cereniony.</sent>
+				<sent id ="14">Annaprashana: A ceremony of putting.rice to childs mouth for the first time.</sent>
+				<sent id ="15">This is done at the 6th month in case of a son.</sent>
+				<sent id ="16">In case of a daughter this may be done during 5th, 8th or 10th month.</sent>
+				<sent id ="17">Churakaran : The solemn ceremony of shaving a childs hair growing while at womb.</sent>
+				<sent id ="18">Upanayana : The ritual ceremony of investing a Brahmin or Ksmatriya with the holy thread.</sent>
+				<sent id ="19">After this ceremony the child is taken to a Guru (teacher) for teaching.</sent>
+				<sent id ="20">The Vogue custom is that a son of a Brahmin is called a Diwya after attaining the sacred thread through upanayana.</sent>
+				<sent id ="21">Samabartana(Convocation) : The home coming of a pupil after his long stay at his teacher's residence where he has completed his learning.</sent>
+				<sent id ="22">On this occasion the pupil is given a number of instructions on varied subjects.</sent>
+				<sent id ="23">Bibaha (Wedding) : During youth wedding is done between a man and a woman.</sent>
+				<sent id ="24">They follow a special custom of oblation, worshipping of gods and male parents and recite holy verses to perform the occasion.</sent>
+				<sent id ="25">Of all these Garvadhan, Pungshobana, Simontounnoyon and Zatkarma are extinct.</sent>
+				<sent id ="26">Wedding in Hinduism is one of the most propitious deeds of a man and woman.</sent>
+				<sent id ="27">It is the best of the ten sacraments.</sent>
+				<sent id ="28">After being married the male gets the opportunity to have paternity, while the female gets the opportunity to have motherhood.</sent>
+				<sent id ="29">The word bibaha has come from the root baha which means to bear.</sent>
+				<sent id ="30">The man takes the responsibility to look after the woman in all respects.</sent>
+				<sent id ="31">With the help of this system man gets an opportunity to live in a family which consists of parents, sons and daughters.</sent>
+				<sent id ="32">In a family, he becomes a full man.</sent>
+				<sent id ="33">There is a reference of eight types of wedding in the Monushanghita, a famous book of the Smriti Shastra.</sent>
+				<sent id ="34">They are known as Brammah, Daibo, Arjya, Prajapattya, Asura, Gandharbo, Raksmasa and Paishacha.</sent>
+				<sent id ="35">At present the first one Brammah marriage is prevalent and recognised in the society.</sent>
+				<sent id ="36">According to Brammah form of wedding, the bride is given to the learned and accomplished groom by the father.</sent>
+				<sent id ="37">The bride is dressed with proper clothes and ornaments.</sent>
+				<sent id ="38">The system of Gandharbo marriage is also prevelent in the society.</sent>
+				<sent id ="39">According to this custom the man and woman change garlands after swearing holy verses.</sent>
+				<sent id ="40">In the Mahavarata we find such marriage was solemnised betweeen Dusmanta and Sakuntala.</sent>
+				<sent id ="41">The marriage ceremony is done after following some rites and postulates of the scripture.</sent>
+				<sent id ="42">The marriage is solemnised when the bride and the groom together take seven rounds of the sacred fire representing the god Agni.</sent>
+				<sent id ="43">The bride's father gives the hand of his daughter in that of the groom with the chanting of sacred prayers.</sent>
+				<sent id ="44">The priest recites special mantras (verses) praying for the new couple.</sent>
+				<sent id ="45">The ceremony is attended by relations of both the bride and the bride groom, friends and invited guests.</sent>
+				<sent id ="46">The ceremony finds a mystic aspect with the ulu sound raised by the women and that of the conch.</sent>
+				<sent id ="47">Everybody present wishes the happy and prosperous life of the two.</sent>
+				<sent id ="48">The nuptial comes to an end through burnt offerings (Yaggya).</sent>
+				<sent id ="49">Jodetat ridayang tabo tadastu ridayang mamo.</sent>
+				<sent id ="50">Jodidong ridayang mamo, tadastu ridayang tabo This means, Let your heart be of mine, and mine is yours.</sent>
+				<sent id ="51">Thus a united deep loving life begins between a man and a woman.</sent>
+				<sent id ="52">In a Hindu society marriage is a holy event and part of religious life.</sent>
+				<sent id ="53">The wife is a man`s better half.</sent>
+				<sent id ="54">His religious or ritual activities cannot be possible without his wife.</sent>
+				<sent id ="55">So wedding plays a very important part in the life, of a man and woman.</sent>
+				<sent id ="56">With the death of a human being the soul leaves the body behind.</sent>
+				<sent id ="57">The dead body becomes motionless and gradually it decomposes.</sent>
+				<sent id ="58">So the system of cremation has been introduced.</sent>
+				<sent id ="59">This cremation is known as funeral rites.</sent>
+				<sent id ="60">Auntesti has been formed of two words ante and esti.</sent>
+				<sent id ="61">Anti means last and esti means Yaggya.</sent>
+				<sent id ="62">So the meaning of the word auntesti is Last Yaggya which means sacrificing the dead body to the fire or making a burnt offering.</sent>
+				<sent id ="63">Normally the eldest son lights the funeral pyre.</sent>
+				<sent id ="64">In his absence this responsibility rests on second, third or fourth son respectively.</sent>
+				<sent id ="65">The dead body is honoured with garlands and perfumed with sandal wood.</sent>
+				<sent id ="66">It is wrapped in clothes and brought to the crematorium.</sent>
+				<sent id ="67">There its head is kept to the south and lain on the reed (kush) .</sent>
+				<sent id ="68">Then the son desering to cremate bathes.</sent>
+				<sent id ="69">and after that he bathes the dead body anointing oil and turmeric.</sent>
+				<sent id ="70">After that two eyes, two ears, two openings of the nose and the face are covered with brass or gold piece.</sent>
+				<sent id ="71">Then a ball of rice is offered.</sent>
+				<sent id ="72">Next the funeral pyre (cheetah) is prepared with mango or sandal wood and the dead body is placed there.</sent>
+				<sent id ="73">Then the question of lighting the funeral pyre comes.</sent>
+				<sent id ="74">Before lighting, the following mantra is recited after moving round the dead body three or seven times.</sent>
+				<sent id ="75">He may have done wrongs knowing or unknowing.</sent>
+				<sent id ="76">Now at his death he has given up the ghost.</sent>
+				<sent id ="77">He was a man of flesh and blood.</sent>
+				<sent id ="78">Let all his body be burnt and let him go to paradise.</sent>
+				<sent id ="79">After burning, it is necessary to round the cheetah for seventimes.</sent>
+				<sent id ="80">Each time the mover has to put a small mango wood in the cheetah.</sent>
+				<sent id ="81">Later on, the burning wood of the cheetah is hurt by an axe.</sent>
+				<sent id ="82">After all these, every one of the funeral friends will drop three or seven pitchers of water to stop the fire of the cheetah.</sent>
+				<sent id ="83">Then funeral pyre will have to be cleaned.</sent>
+				<sent id ="84">After all these done, the pitcher with full water would have to be placed on the cheetah.</sent>
+				<sent id ="85">It is then required to put eight couries (small shells) and a piece of bamboo put beside the pitcher.</sent>
+				<sent id ="86">Then with the help of the used axe or with a lump of clay, the pitcher would be broken by the burner.</sent>
+				<sent id ="87">After that having bathed with a single dive all the funeral friends will return to the house of the dead man.</sent>
+				<sent id ="88">There they will cut neemleaves (leaves of margosa tree ) with their teeth and then touch ghee, fire and stone.</sent>
+				<sent id ="89">The word shoucha means shuchita or cleanness or purity.</sent>
+				<sent id ="90">So Ashoucha means impurity.</sent>
+				<sent id ="91">Personal impurity is caused by the death of parents or relatives because at their death we become mentally disturbed and unfit to say our prayers with full devotion.</sent>
+				<sent id ="92">So we mourn for a certain period.</sent>
+				<sent id ="93">The mourning period varies from one to another.</sent>
+				<sent id ="94">To a Brahmin it is for ten days; to a Ksmatriya for twelve days, to a Baishya for fifteen days and for a Sudra it is for thirty days.</sent>
+				<sent id ="95">At present many except the Brahmins mourn for twelve or fifteen days.</sent>
+				<sent id ="96">They observe Shraddhanusthan (obsequies) on the 13th or 16th day.</sent>
+				<sent id ="97">During the period of mourning people take only habisshanno or fruits to live on.</sent>
+				<sent id ="98">During this period one has to lead a life with complete abstinence from sexual and secular pleasures to be fit for observing the Shraddha, the funeral ceremony.</sent>
+				<sent id ="99">During this period, after planting a'tulshi' tree in the yard of the house, water and milk be given there in the name of the dead man.</sent>
+				<sent id ="100">On the 4th and 10th day after the death of parents, balls of rice (pindo) are to be offered.</sent>
+				<sent id ="101">This Pindo is called Purakapindo.</sent>
+				<sent id ="102">One has to offer ten Puraka pindos.</sent>
+				<sent id ="103">After the end of the period of personal impurity, one has to shave his head before wearing new clothes on.</sent>
+				<sent id ="104">The Shraddha is performed on the 2nd day after the period of mourning.</sent>
+				<sent id ="105">On the basis of birth and death, period of mourning is of two kinds- Janana- shoucha and Maranashoucha;</sent>
+				<sent id ="106">this means impurity of ones person owing to the birth and impurity of one's person owing to the death of a relative.</sent>
+				<sent id ="107">The kinship lasts upto seven descendants.</sent>
+				<sent id ="108">So this practice of period of personal mourning will have to be followed upto seven generations.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

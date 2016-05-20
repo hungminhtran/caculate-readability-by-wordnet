@@ -1,0 +1,101 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-bdGlobal-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.981</idno>
+				<idno type="Number of sentences">73</idno>
+				<idno type="Number of tokens">1071</idno>
+				<idno type="Number of token types">451</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t96">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Bangladesh is mainly an agricultural country.</sent>
+				<sent id ="2">Most of the people of this country live in the village; agriculture is the main source of their livelihood.</sent>
+				<sent id ="3">Besides, some of the village people are weaver, potter, blacksmith, grocer and shopkeeper.</sent>
+				<sent id ="4">Some people also live by small business.</sent>
+				<sent id ="5">People of the town are mainly service holders and businessmen.</sent>
+				<sent id ="6">Besides, among the people of the town many are rickshaw pullers.</sent>
+				<sent id ="7">Some are small shop keepers, hawkers, labourers and workers.</sent>
+				<sent id ="8">All these jobs are done on personal initiative.</sent>
+				<sent id ="9">Side by side, there are some state owned industries, rail, highway and water transports.</sent>
+				<sent id ="10">There are also welfare oriented sectors like education and health.</sent>
+				<sent id ="11">At present many industries and business organizations have been established in the country under private sector ownership.</sent>
+				<sent id ="12">These play a vital role in the development of the country.</sent>
+				<sent id ="13">Besides, a large number of people are being employed in this private sector.</sent>
+				<sent id ="14">The economy of Bangladesh is flourishing with the help of both of these government and non government sectors.</sent>
+				<sent id ="15">How much developed or underdeveloped a country is determined by some indicators.</sent>
+				<sent id ="16">The indicators are gross national product (GNP) per capital income of the people and their life style viewed from these indicators.</sent>
+				<sent id ="17">Bangladesh economic condition is improving.</sent>
+				<sent id ="18">The rate of growth of our economy is increasing every year.</sent>
+				<sent id ="19">Our domestic production and the contribution of our overseas workers and other job-holders have made this growth possible.</sent>
+				<sent id ="20">The same amount in the same sector increased at Tk.6 lac 90 thousand and 571 crore; which means more than double.</sent>
+				<sent id ="21">Any increase in production will have an effect in the people's life standard;</sent>
+				<sent id ="22">poverty will come down, purchasing ability of people will increase and there will be more scope for employment, unemployment will be decreased.</sent>
+				<sent id ="23">If we can control the growth rate of our population, our country will develop much in the judgement of indicators.</sent>
+				<sent id ="24">We can mention the names of many sectors as the source of National income in Bangladesh.</sent>
+				<sent id ="25">Of them, the accounts of our national production and income in some sectors are given below.</sent>
+				<sent id ="26">Agriculture and forest: Food grains, vegetables and forest resource are included in this sector.</sent>
+				<sent id ="27">The amount of our food grain production in 2009-2010 financial year was 369.36 metric tons.</sent>
+				<sent id ="28">The contribution of agriculture and forest sectors to our gross national production during the same period was 15.65%.</sent>
+				<sent id ="29">Fishery: The amount of fish caught from our inland rivers, other waters and the sea during 2009-2010 financial year was 28.97 metric tons.</sent>
+				<sent id ="30">The contribution of fishery sector to local production or GDP was 4.51%.</sent>
+				<sent id ="31">Industry sector: The contribution of industry sector to gross national production during 2009-2010 financial year was 29.95%.</sent>
+				<sent id ="32">Wholesale and retail marketing: The contribution of this sector to our national income during 2009-2010 financial year was 14.30%.</sent>
+				<sent id ="33">e. Transport and communication: The contribution of this sector to our national income during 2009-2010 financial year was 10.76%.</sent>
+				<sent id ="34">Health and welfare sector: The contribution of this sector to our local production or national income during 2009-2010 financial year was 49.90%.</sent>
+				<sent id ="35">The contribution of agriculture to our gross national production is the biggest if we calculate sector-wise.</sent>
+				<sent id ="36">The role of industries is also becoming more significant day by day.</sent>
+				<sent id ="37">Besides, welfare sectors are also contributing greatly in the economy of the country.</sent>
+				<sent id ="38">The modern world depends on technology.</sent>
+				<sent id ="39">We should maintain co-ordination in the development of different sectors by adopting proper plans.</sent>
+				<sent id ="40">We also should maintain a balance of income.</sent>
+				<sent id ="41">If we can do so, this will help to upgrade people's standard of life.</sent>
+				<sent id ="42">Some innovate or help innovating new resource by the help of merit.</sent>
+				<sent id ="43">An unskilled person can be converted into a skilled person which means human resource with the help of education and training.</sent>
+				<sent id ="44">The population of a country turns into human resource in this manner.</sent>
+				<sent id ="45">Steps to be taken to develop human resource in Bangladesh;</sent>
+				<sent id ="46">We can expedite the development of the country by transforming our big population into human resource.</sent>
+				<sent id ="47">This work of human resource development can be done in the following sectors in the following manner:</sent>
+				<sent id ="48">They are unconscious and unskilled for want of education.</sent>
+				<sent id ="49">With a view to developing human resource, the government has given many benefits in the field of expanding the primary and the secondary education.</sent>
+				<sent id ="50">We must ensure the acceptance of these benefits by every citizen of the country.</sent>
+				<sent id ="51">The government should allocate more budget for the expansion of female education.</sent>
+				<sent id ="52">Education of those who lag behind must also be ensured.</sent>
+				<sent id ="53">The opportunity of financial co-operation and sub scholarship for the poor and the lower class of people must be increased.</sent>
+				<sent id ="54">More opportunities to this effect should be created.</sent>
+				<sent id ="55">c) Labour and employment: Lacs of young persons of our county are now going abroad on service.</sent>
+				<sent id ="56">Among them, there are unskilled workers;</sent>
+				<sent id ="57">there are also doctor, engineer, teacher and other professionals.</sent>
+				<sent id ="58">They are earning foreign currency by rendering hard labour in those countries and they are regularly sending a part of their income.</sent>
+				<sent id ="59">In this manner, they are playing a great role in the development of our economic condition.</sent>
+				<sent id ="60">A special quota is maintained for the undeveloped and unprivileged persons in the recruitment process.</sent>
+				<sent id ="61">The main purpose of this govt.</sent>
+				<sent id ="62">policy is nothing but to expedite human resource development.</sent>
+				<sent id ="63">The money sent to the country by the expatriate workers is called remittance.</sent>
+				<sent id ="64">The labourer, employee and professionals working abroad send a part of their income to their families by Bank.</sent>
+				<sent id ="65">At present, a great part of national income of Bangladesh comes from remittance sent by the expatriates.</sent>
+				<sent id ="66">At present, lacs of people of Bangladesh are working in different countries of the world.</sent>
+				<sent id ="67">The labourers and the other professionals of Bangladesh are working in Saudi Arabia, Kuwait, Qatar, Egypt, Libya, Morocco and other countries of the Middle East.</sent>
+				<sent id ="68">Many people of Bangladesh are doing different jobs in the near and far eastern countries, such as; Malaysia, Singapore, Brunei, South Korea.</sent>
+				<sent id ="69">Many Bangladeshi are also doing different types of jobs and business in Europe, America, Australia and Africa.</sent>
+				<sent id ="70">According to World Bank statistics, the position of Bangladesh was 12th among the countries receiving the highest amount of remittance.</sent>
+				<sent id ="71">This position was upgraded to 8th place in The position of Bangladesh among SARC countries in this period was 2nd.</sent>
+				<sent id ="72">The economic condition of Bangladesh did not face any crisis even during the economic depression throughout the entire world in 2008.</sent>
+				<sent id ="73">The main reason of this is the huge amount of remittance sent by the expatriates.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

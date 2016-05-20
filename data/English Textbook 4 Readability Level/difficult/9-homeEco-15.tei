@@ -1,0 +1,188 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-homeEco-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:06.352</idno>
+				<idno type="Number of sentences">160</idno>
+				<idno type="Number of tokens">2541</idno>
+				<idno type="Number of token types">769</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t102">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Importance of Colour, Line, Design and Texture in the Selection of Dress Dresses are needed to increase the beauty of human body by covering the body with it.</sent>
+				<sent id ="2">It is desirable to pay attention to the artistic aspects of wearing dresses according to the demand of time.</sent>
+				<sent id ="3">The artistic elements like colour, line, design and texture etc. can greatly contribute in the beautification of dresses.</sent>
+				<sent id ="4">Utility of these elements varies from person to person in the dresses they wear.</sent>
+				<sent id ="5">Colour, line, design and texture that are used in dresses have impacts on the person's physical structure, appearance and complexion.</sent>
+				<sent id ="6">The main purpose of wearing a dress is to make a person attractive by selecting the dress according to taste in a befitting way by adjusting physical appearance and complexion.</sent>
+				<sent id ="7">For this reason, how art can be created by using artistic elements in case of dress and how colour, line, design and texture of dress can make impact on a person's physical structure, appearance, size and colour complexion etc. are mainly discussed in this chapter.</sent>
+				<sent id ="8">Colour has an important role in selecting dresses for different persons.</sent>
+				<sent id ="9">If proper colour is not selected, the colour of a person's dress diminishes one's beauty.</sent>
+				<sent id ="10">Again, selection of appropriate colour can make one attractive even if one wears a simple dress with appropriate colour.</sent>
+				<sent id ="11">It is necessary to have sufficient knowledge on the characteristics and impacts of different colours for correct selection of colours depending on place, time and person.</sent>
+				<sent id ="12">Correct concept of identity, classification and sources of colours can be attained by colour cycle.</sent>
+				<sent id ="13">Then it can be said that the cycle through which one can have detailed concept of identification and classification of colours, is called colour cycle.</sent>
+				<sent id ="14">The source of colour is light.</sent>
+				<sent id ="15">There are seven colours in the ray of sun; these are violet, blue, indigo, green, yellow, orange and red.</sent>
+				<sent id ="16">In short, these, seven colours are called VBIGYOR.</sent>
+				<sent id ="17">There are three primary or main colours, three secondary or mixed colours and six marginal colours in the colour cycle.</sent>
+				<sent id ="18">Primary colours are red, yellow and blue.</sent>
+				<sent id ="19">Mixing of this main colours subsequently makes other colour.</sent>
+				<sent id ="20">It can simply be said that by mixing two main or primary colours, the secondary colours are made and by the mixture or combination of one primary and one secondary colours, the marginal or fringe colours are made.</sent>
+				<sent id ="21">Red, yellow and blue- primary or main colours.</sent>
+				<sent id ="22">Orange, green and violet - secondary or mixed colours.</sent>
+				<sent id ="23">Reddish orange, yellowish orange, yellowish green, bluish green, bluish violet and reddish violet - marginal or fringe colours.</sent>
+				<sent id ="24">Secondary colour is made by the mixture or combination of two primary colours.</sent>
+				<sent id ="25">For example, orange colour is made by the combination of equal quantity of red and yellow colours.</sent>
+				<sent id ="26">The mixture of red and blue colour makes violet colour.</sent>
+				<sent id ="27">Green is made by the combination of blue and yellow.</sent>
+				<sent id ="28">Therefore, it is observed that orange, violet, and green are secondary colours.</sent>
+				<sent id ="29">Marginal or fringe colours are made by the equal proportion of combination of one primary and one secondary colours.</sent>
+				<sent id ="30">For example, if the primary colour-red is being mixed with one secondary colour such as violet, then the reddish violet colour is made or produced.</sent>
+				<sent id ="31">The quality and depth of colour can also be mentioned during the description of colours.</sent>
+				<sent id ="32">The quality of colour means whether the colour is deep or light.</sent>
+				<sent id ="33">In a specific colour, light and deep both conditions are present.</sent>
+				<sent id ="34">When blue colour becomes navy blue, its quality possesses deep colour.</sent>
+				<sent id ="35">Again sky blue or indigo has the quality of light colour of blue.</sent>
+				<sent id ="36">Pink and dark brown colours are respectively light and deep states of red colour.</sent>
+				<sent id ="37">Similarly brightness and dimness of colour are mean the colour's depth.</sent>
+				<sent id ="38">Bright colours are red, orange and yellow.</sent>
+				<sent id ="39">On the other hand, dim colors are within the class of gray and ash.</sent>
+				<sent id ="40">Clothes are needed to cover the body and to make a person attractive to others.</sent>
+				<sent id ="41">Skin colour and physical structure are not similar for every person.</sent>
+				<sent id ="42">Moreover, it has been observed that diversified impacts of colours through clothing that are worn has a special significance.</sent>
+				<sent id ="43">Due to the impact of colours, sometimes a large object appears small.</sent>
+				<sent id ="44">Again a small object appears large.</sent>
+				<sent id ="45">A person can be made attractive by selecting appropriate colours of clothing.</sent>
+				<sent id ="46">Deep colour clothing should be selected for those whose physical structure is short.</sent>
+				<sent id ="47">Because apparently, deep colour appears large.</sent>
+				<sent id ="48">Again for fat and tall structured person, light coloured clothes are suitable.</sent>
+				<sent id ="49">Because apparently light colour appears small.</sent>
+				<sent id ="50">The light and dull colours make an object farther than its actual existence.</sent>
+				<sent id ="51">Again bright lustrous colors, when used, bring distant objects nearer to our vision.</sent>
+				<sent id ="52">Hence, the colour of clothing should be selected considering the physical structure.</sent>
+				<sent id ="53">Girls, who are tall, well shaped; healthy and bulky should put on clothing of light colours so that they appear slim and smaller.</sent>
+				<sent id ="54">On the other, for thin and short structured girls bright colours are suitable.</sent>
+				<sent id ="55">This makes them appear larger than what actually they are.</sent>
+				<sent id ="56">Again when a short structured girl puts on a saree and blouse of the same colour, she looks relatively taller.</sent>
+				<sent id ="57">If she puts on a saree and a blouse of contrast colour, she will look shorter.</sent>
+				<sent id ="58">The appropriate selection of clothing also has great impact on a person's personality.</sent>
+				<sent id ="59">A girl of quiet nature will look dull and feeble if she wears light and dull coloured clothing.</sent>
+				<sent id ="60">She should wear bright and dark colours.</sent>
+				<sent id ="61">A girl of bright complexion can wear clothing of any colour.</sent>
+				<sent id ="62">However too bright colours will make the normal colour of her skin dull.</sent>
+				<sent id ="63">Girls of dark complexion should use clothes of light but bright colours.</sent>
+				<sent id ="64">There is an assembling of various lines in clothing.</sent>
+				<sent id ="65">Many types of lines are used in structural and ornamental designs of clothing.</sent>
+				<sent id ="66">For example, long, round, bent rod like, circles, oblique etc. Clothing is made by the application of various types of lines as per the necessity of the body.</sent>
+				<sent id ="67">If someone likes to know the impact of lines, he/she has to learn first the various types of lines and their characteristics.</sent>
+				<sent id ="68">By using different types of lines, varieties in clothing can also be made.</sent>
+				<sent id ="69">The use of lines are seen in the texture of clothing like along the ends, neck-cuts, length and breadth or arms, waist, chest, length and breadth of body, long cut-ends in front and back, shoulder lines etc.</sent>
+				<sent id ="70">Again in designed lines, small plates, piping, bows, creases, frills, fabric joint of brocks, neck bow, collars of frocks, pocket, borders of sarees, collars of coats etc are seen.</sent>
+				<sent id ="71">Besides, stripes, check and repetition of lines in fabrics make the design more beautiful.</sent>
+				<sent id ="72">The line-rods are joined the base longitudinally.</sent>
+				<sent id ="73">Hence several line-rods or long lines in adjacent arrangement bring about a tall look in the design of the clothing and the person with this clothing looks tall.</sent>
+				<sent id ="74">On the other hand, horizontal lines always are parallel to the base.</sent>
+				<sent id ="75">If horizontal lines are placed one after another, it brings about a wide-look in the design of clothing and the person wearing such clothing looks apparently short.</sent>
+				<sent id ="76">Curved lines reduce the length of the person who wears such type of clothes but it brings rhythm and creates elegance in clothing.</sent>
+				<sent id ="77">Rhythm can also be brought about along the neck through the use of lines.</sent>
+				<sent id ="78">Repeated use of lines also creates rhythms in design.</sent>
+				<sent id ="79">The person who maintains consistency in the arrangement of contrast lines in clothing, he/she can be imparted with spontaneity.</sent>
+				<sent id ="80">Use of lines in clothing can cause apparent changes in the physical structure of the person who wears it.</sent>
+				<sent id ="81">For example, for bulky and short size girls, use of vertical long lines is appropriate in clothing.</sent>
+				<sent id ="82">Use of horizontal lines in clothing makes the person bulky and short.</sent>
+				<sent id ="83">Vertical lines of clothing apparently increase the height of the person who wears it.</sent>
+				<sent id ="84">Horizontal lines apparently decrease the height of the person who wears it.</sent>
+				<sent id ="85">If the lines are nearer to the face of the person who wears it vertically, he/she will seem to have a long facial appearance.</sent>
+				<sent id ="86">Use of curved lines make the length less and through this, softness is expressed of that person who wears it.</sent>
+				<sent id ="87">Deep V- cut lines seem longer.</sent>
+				<sent id ="88">For example, many people wear clothes, who make the design of neck as V-shaped.</sent>
+				<sent id ="89">But wide-shaped V brings about a wide and flattened look in the appearance.</sent>
+				<sent id ="90">Broken lines do not leave for reaching effects and hence, long vertical lines when used in clothing in broken conditions make the body long.</sent>
+				<sent id ="91">So, it is found that different types of lines according to nature and characteristics have a wide impact on the physical structure of person and also it makes him/ her attractive.</sent>
+				<sent id ="92">For a long time, various types of designs have been used in clothing in order to enhance physical beauty.</sent>
+				<sent id ="93">Various designs in clothing are found depending on country, time, man, woman and person.</sent>
+				<sent id ="94">Girls wear sarees, blouzes, pettycoats, salwars, kameezes and dupattas of different designs.</sent>
+				<sent id ="95">Boys wear shirts, pants, pyjamas and panjabis of various designs.</sent>
+				<sent id ="96">With the change of time, designs of these clothing also changed and name of the design in clothing is also changed.</sent>
+				<sent id ="97">Different types of arts are now used in making design in clothing.</sent>
+				<sent id ="98">With new sort of artistic design, it makes clothing more useable and keep balance, similarity, rhythm, preference, unity or coordination among design in clothing.</sent>
+				<sent id ="99">The impact of texture in constructive and decorative design is significantly visible.</sent>
+				<sent id ="100">Texture of clothing means how much the fabric is coarse, thin/height, softness, roughness etc.</sent>
+				<sent id ="101">There are different types of texture in fabrics based on varieties of uses.</sent>
+				<sent id ="102">Textures of fabrics are of various types due to the nature of threads.</sent>
+				<sent id ="103">For example, textures of cotton, woollen, jute and silk fabrics are different from each other.</sent>
+				<sent id ="104">Textures of twin thread, khodder, molmol, markin, moslin etc, fabrics are different due to difference in weaving processes.</sent>
+				<sent id ="105">Textures of fabrics become difference with the help of finishing process.</sent>
+				<sent id ="106">For example, mercerized cotton etc.</sent>
+				<sent id ="107">All types of designs do not become suitable for all types of fabrics.</sent>
+				<sent id ="108">For this reason designs have to be made depending on textures of fabrics based on clothing.</sent>
+				<sent id ="109">For 185Importance of Colour, Line, Design and Texture in the Selection of Dress example, the texture that is applicable for saree is not suitable for pants and shirts too.</sent>
+				<sent id ="110">Moreover, the same texture cannot be used for pants and shirts too.</sent>
+				<sent id ="111">The texture of skirts is not suitable for tops.</sent>
+				<sent id ="112">Thick and of rough textured textiles cannot make themselves much suitable if it is used to create smooth designs in clothing.</sent>
+				<sent id ="113">Again in smooth textured clothes any type of colour appears very shining.</sent>
+				<sent id ="114">In non-smooth textured textiles when colours are imparted, it looks light and blurred.</sent>
+				<sent id ="115">Designs made on clothing of fine textured become more attractive.</sent>
+				<sent id ="116">Twin threaded fabrics made by cotton and handloom fabrics are non-smooth in somewhat.</sent>
+				<sent id ="117">Mill textiles are smooth and thin, mercerized cotton fabrics are also smooth in character.</sent>
+				<sent id ="118">Silk fabrics are smooth and bright, so these are not suitable to use at home.</sent>
+				<sent id ="119">If it is desired to make designs on clothing by using several fabrics, similarity should be maintained among the textures of all fabrics.</sent>
+				<sent id ="120">If smooth and non-smooth fabrics are joined together in making design on clothing ,the design does not appear attractive.</sent>
+				<sent id ="121">But although blue jacket or woollen sweaters are of different texture, the combination of this with thick jeans made of blue cotton is not unsuitable.</sent>
+				<sent id ="122">Since, both of them are thick and mostly non-smooth, though these do not have entirely similar textures.</sent>
+				<sent id ="123">It is not always possible to make bloom fine designs on all types of textures.</sent>
+				<sent id ="124">Piping also does not fit in fabrics of thick and non-smooth texture.</sent>
+				<sent id ="125">Any sort of design can be easily made attractive on fabrics of soft, light and smooth texture.</sent>
+				<sent id ="126">But the same design does not look beautiful on thick and rough texture.</sent>
+				<sent id ="127">It is necessary to give importance on texture of fabrics while making designs.</sent>
+				<sent id ="128">All types of designs are not appropriate for all textures.</sent>
+				<sent id ="129">Hence texture of fabrics is needed to be selected according to the design.</sent>
+				<sent id ="130">In this way, it is possible in many cases to create attractive designs in clothing.</sent>
+				<sent id ="131">The word body means physical structure, formation of body, shape, facial shape and size of human beings in a collective way.</sent>
+				<sent id ="132">For example, body or feature means, whether a person is tall or short, fat or slim, facial shape is round or long, i.e the overall physical structure of human beings.</sent>
+				<sent id ="133">Hence it can easily be assumed by following the previous discussion that one needs to put on clothing by maintaining consistency with one's body or features.</sent>
+				<sent id ="134">However specific discussions have been made at this stage about the impact of structural and ornamented designs on human body.</sent>
+				<sent id ="135">Structural designs are those that are created through various cuts of clothing.</sent>
+				<sent id ="136">Examples of structural designs are mini frock, long frock, kameez, wide circumference spread out kameez, punjabi, small arms, long arms etc.</sent>
+				<sent id ="137">Again cutting like round neck, square neck, V- neck, punjabi neck, collared neck etc. are important.</sent>
+				<sent id ="138">Ornamented designs are those when creases, freals, needlework, lace fixing, prints etc. make clothing more attractive.</sent>
+				<sent id ="139">Both structural and ornamented designs have significant impacts on the body of a person.</sent>
+				<sent id ="140">Distinctive nature of a person is expressed through the person's facial structure and appearance.</sent>
+				<sent id ="141">If the cut of neck of the clothing is done based on the facial structure and appearance of a person, it may make the person more attractive.</sent>
+				<sent id ="142">Especially for selection of clothing for women and adolescent girls, the facial structure should be given importance.</sent>
+				<sent id ="143">By wearing mini frock, a person looks short while long frock makes one look tall.</sent>
+				<sent id ="144">Any sort of cut is suitable for a long facial appearance.</sent>
+				<sent id ="145">If the face is round then V- cut neck or deep cut U- neck makes the face look long.</sent>
+				<sent id ="146">The picture shows a girl wearing clothing of two types of neck cuts.</sent>
+				<sent id ="147">One is deep V cut neck and the other is a round cut neck with collar.</sent>
+				<sent id ="148">A number of inconsistencies of one's, feature or body can be covered through structural designs and ornamented designs of clothing.</sent>
+				<sent id ="149">Example may be cited of those who have short neck.</sent>
+				<sent id ="150">They can appear to have still shorter necks if they put on clothing having collared round cut necks.</sent>
+				<sent id ="151">On the other hand, for them clothing with wide cut, V or U cut necks are suitable.</sent>
+				<sent id ="152">If fat people wear high collared clothing, they will look fatter.</sent>
+				<sent id ="153">Again frocks or blouses with high collar is suitable for thin and tall girls.</sent>
+				<sent id ="154">Clothing for boys such as shirts, and punjabis with structural designs are usual and well accepted to all.</sent>
+				<sent id ="155">But different persons like different designs regarding print on fabrics, needlework in ornamented design.</sent>
+				<sent id ="156">For boys clothes also should be selected based on features or bodies.</sent>
+				<sent id ="157">It will be more inconsistent if large prints or heavy designs are selected for fat people.</sent>
+				<sent id ="158">For them small prints and light designs are suitable.</sent>
+				<sent id ="159">In this way structural and ornamented designs have their impacts on physical structure of human beings.</sent>
+				<sent id ="160">Hence, designs of clothing should be chosen by keeping similarity with the appearance or the body of a person.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,205 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.664</idno>
+				<idno type="Number of sentences">177</idno>
+				<idno type="Number of tokens">2102</idno>
+				<idno type="Number of token types">680</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t82">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">What is force?</sent>
+				<sent id ="2">What do you do to open a door?</sent>
+				<sent id ="3">You push or pull.</sent>
+				<sent id ="4">A cart man pushes a cart from the back or pulls it from the front to move it on.</sent>
+				<sent id ="5">Again in order to stop the cart, he pulls it from the back or pushes it backward from the front.</sent>
+				<sent id ="6">This push or pull is called force.</sent>
+				<sent id ="7">You can bend, twist or stretch the piece of rubber you use for erasing pencil marks.</sent>
+				<sent id ="8">This will change the shape of the rubber.</sent>
+				<sent id ="9">Also the volume will decrease on pressing it a little hard.</sent>
+				<sent id ="10">This bending, twisting, pressing or thrusting is also kinds of push or pull ?</sent>
+				<sent id ="11">that is force.</sent>
+				<sent id ="12">The beginning of the football game, the football is kept at middle of the field.</sent>
+				<sent id ="13">It remains then motionless until any player displaces that.</sent>
+				<sent id ="14">Again suppose, a player changes the course of a football passing over his head towards the goal, by heading.</sent>
+				<sent id ="15">Both the speed and direction of the football are changed.</sent>
+				<sent id ="16">Goalkeeper catches the football.</sent>
+				<sent id ="17">The football is stopped.</sent>
+				<sent id ="18">Force has been applied to hit, head and catch (stop) the football.</sent>
+				<sent id ="19">Force can neither be seen with eyes, nor can be touched or felt.</sent>
+				<sent id ="20">But the change of a body can be seen when the force is applied on it.</sent>
+				<sent id ="21">Again suppose, you push a pushcart loaded with bricks, but do not succeed.</sent>
+				<sent id ="22">So it is not that a body at rest, always moves, on application of force, but it tends to move.</sent>
+				<sent id ="23">If one of your friends join you and you push together the cart may start moving.</sent>
+				<sent id ="24">Till now we have learnt that force?</sent>
+				<sent id ="25">You know that force cannot be seen but its effect can be seen.</sent>
+				<sent id ="26">For that force cannot be measured directly and it is measured by measuring the effect caused by it.</sent>
+				<sent id ="27">What does happen when a rubber tape or a spring is pulled?</sent>
+				<sent id ="28">It becomes longer.</sent>
+				<sent id ="29">The greater is the pull the longer it becomes.</sent>
+				<sent id ="30">This amount of increase in length can be seen and measured.</sent>
+				<sent id ="31">For measurement of any thing we need to know its unit.</sent>
+				<sent id ="32">In the System International unit of force is Newton.</sent>
+				<sent id ="33">Now how much force is equal to one Newton?</sent>
+				<sent id ="34">To have an idea of this, keep in mind that a mass of one kilogram weighs about 10 Newton.</sent>
+				<sent id ="35">Hence. 1 Newton is equal to the weight of mass of about 100 gram.</sent>
+				<sent id ="36">Units of weight and force are the same.</sent>
+				<sent id ="37">Because weight of a body is the force of attraction or the pull of the earth on it.</sent>
+				<sent id ="38">Thus weight is force.</sent>
+				<sent id ="39">Force can be measured with the help of a spring balance.</sent>
+				<sent id ="40">In this machine there is a graduated scale fixed with a spring.</sent>
+				<sent id ="41">Graduation in the scale is such that a single change in graduation is equivalent to one Newton of force.</sent>
+				<sent id ="42">There is a pointer or an indicator attached to the spring.</sent>
+				<sent id ="43">The pointer comes down when the spring increases in length on application of force.</sent>
+				<sent id ="44">The reading of the pointer directly gives the measurement of force in Newton.</sent>
+				<sent id ="45">What is Pressure?</sent>
+				<sent id ="46">We use the word pressure in various meanings.</sent>
+				<sent id ="47">Such as, the pressure of study, mental pressure, social pressure, political pressure etc.</sent>
+				<sent id ="48">But in the language of science the word pressure has a special meaning, which is different from the ordinary meaning.</sent>
+				<sent id ="49">When force is applied on a body, then many things depend on how much area this force is applied on.</sent>
+				<sent id ="50">The same force applied on a small area and on a larger area makes a lot of difference.</sent>
+				<sent id ="51">You take a board pin or a flat-headed nail.</sent>
+				<sent id ="52">Put the sharp end of the pin vertically on your exercise book and press it with your thumb.</sent>
+				<sent id ="53">You will see that the pin has pierced through the pages of the exercise book.</sent>
+				<sent id ="54">Turn the nail or the pin up sided own and place the flat end on the exercise book.</sent>
+				<sent id ="55">Now try to press the pin with your finger.</sent>
+				<sent id ="56">You can't press it hard, as it will pierce through your finger.</sent>
+				<sent id ="57">What is the reason for it?</sent>
+				<sent id ="58">It is almost a dot.</sent>
+				<sent id ="59">While the other end is flat and its area is many times larger than the sharp end.</sent>
+				<sent id ="60">As a result, its influence increases.</sent>
+				<sent id ="61">On the other hand when the force is applied on the sharp end it gets spread over a larger area.</sent>
+				<sent id ="62">As a result its influence decreases.</sent>
+				<sent id ="63">That is to say the pressure decreases.</sent>
+				<sent id ="64">So, influence of force depends on the extent of area on which it is applied.</sent>
+				<sent id ="65">Pressure is obtained by dividing force by the area.</sent>
+				<sent id ="66">In other word, force exerted on a unit area is called pressure.</sent>
+				<sent id ="67">The same force can exert a high pressure, as well as low pressure.</sent>
+				<sent id ="68">When force is concentrated on a small area, the pressure increases.</sent>
+				<sent id ="69">Again, when the force is spread over a bigger area, the pressure decreases.</sent>
+				<sent id ="70">Unit of force is Newton and unit of area is square metre.</sent>
+				<sent id ="71">So, unit of pressure is Newton/square metre.</sent>
+				<sent id ="72">This unit has been named as Pascal.</sent>
+				<sent id ="73">Therefore, 1 Pascal = 1 Newton per sq.</sent>
+				<sent id ="74">You can now surely understand why, the point of a pin or a nail is made so sharp.</sent>
+				<sent id ="75">The sharper the knives, scissors, axes, fish knives are easier to work with them.</sent>
+				<sent id ="76">That is to say, more work can be done with the application of less force.</sent>
+				<sent id ="77">Here pressure has been increased by decreasing area.</sent>
+				<sent id ="78">Again, you have surely noticed that in the construction of a building the lowermost wall is made wider.</sent>
+				<sent id ="79">Here the amount of pressure has been decreased by increasing the area.</sent>
+				<sent id ="80">It is for this reason that the wheel of a truck is much wider than the wheel of a rickshaw.</sent>
+				<sent id ="81">The rear wheels of buses and trucks are also used in pairs.</sent>
+				<sent id ="82">Some of you may have seen physical feats demonstrated by some men.</sent>
+				<sent id ="83">They lie down on the points of nails, placed in rows.</sent>
+				<sent id ="84">They lie down bare bodied.</sent>
+				<sent id ="85">This is possible as the weight of the man that is the force gets distributed over a number of nails.</sent>
+				<sent id ="86">As a result the pressure becomes much less.</sent>
+				<sent id ="87">Otherwise it would not be possible to lie down over a single nail.</sent>
+				<sent id ="88">There are some bodies around us, which are at rest.</sent>
+				<sent id ="89">Such as the houses, trees, hills and mountains.</sent>
+				<sent id ="90">Again, there are some bodies, which are in motion.</sent>
+				<sent id ="91">Such as the moving train, motorcar, rickshaw etc.</sent>
+				<sent id ="92">Thus all bodies may be divided into two groups according to their position: Bodies at rest Bodies in motion.</sent>
+				<sent id ="93">Your school building is at the same place today as it was yesterday.</sent>
+				<sent id ="94">And it will remain at the same place until it is broken or removed for some reason.</sent>
+				<sent id ="95">These are called static bodies and this state of the bodies is called rest.</sent>
+				<sent id ="96">While a bus or a train remains standing at a station, then they are static.</sent>
+				<sent id ="97">But as soon as they begin to move their positions also go on changing.</sent>
+				<sent id ="98">They will be seen at some places after ten minutes and at some other places after one hour.</sent>
+				<sent id ="99">Therefore their positions change with the change of time.</sent>
+				<sent id ="100">These are called bodies in motion or moving bodies.</sent>
+				<sent id ="101">And this moving condition of the body is called motion.</sent>
+				<sent id ="102">Suppose, you are going from one place to another by a train.</sent>
+				<sent id ="103">The train has started to move.</sent>
+				<sent id ="104">Will there be any change in your position with respect to door, window or passengers of the train?</sent>
+				<sent id ="105">Again houses and trees are at rest, with respect to the earth.</sent>
+				<sent id ="106">As a result of this day and night occur.</sent>
+				<sent id ="107">The earth revolves round the sun also.</sent>
+				<sent id ="108">So, all bodies on earth are in motion.</sent>
+				<sent id ="109">In real sense, nothing in this universe is at rest.</sent>
+				<sent id ="110">The earth, the moon, the sun, the stars all are moving.</sent>
+				<sent id ="111">Thus there is nothing like absolute motion or absolute rest.</sent>
+				<sent id ="112">Whether a body is at rest or in motion can only be understood by comparing it with other bodies.</sent>
+				<sent id ="113">Therefore, all motions and rests are only relative.</sent>
+				<sent id ="114">Motion of a moving body changes on application of force on it.</sent>
+				<sent id ="115">That means, the motion increases or decreases.</sent>
+				<sent id ="116">What does happen if force is not applied?</sent>
+				<sent id ="117">The motion neither increases nor decreases, and the body moves with the same uniform motion.</sent>
+				<sent id ="118">How long will it move in this way.</sent>
+				<sent id ="119">The body will move in this way until any force is applied on it.</sent>
+				<sent id ="120">It will continue to move forever if no force is applied on it to change it.</sent>
+				<sent id ="121">So a body at rest will remain at rest forever if no force is applied on it.</sent>
+				<sent id ="122">Similarly a moving body will continue to move forever at uniform speed if no force is applied on it.</sent>
+				<sent id ="123">Is it surprising?</sent>
+				<sent id ="124">You will learn many surprising things, like this in your science classes.</sent>
+				<sent id ="125">Names of different kinds of motion are different.</sent>
+				<sent id ="126">You lift a body up and let it fall.</sent>
+				<sent id ="127">The body will fall down straight.</sent>
+				<sent id ="128">The motion of a bullet fired from a gun is linear motion.</sent>
+				<sent id ="129">Therefore, if the course of a moving body is curved, the motion of that body is called curvilinear motion.</sent>
+				<sent id ="130">Motion of a moving rickshaw, van, bus, truck etc. is curvilinear motion.</sent>
+				<sent id ="131">Because, perfectly straight road can hardly be seen.</sent>
+				<sent id ="132">Take a rope of one metre length.</sent>
+				<sent id ="133">Tie a piece of brick or stone at one end.</sent>
+				<sent id ="134">Wind other end of rope with your finger and revolve the stone.</sent>
+				<sent id ="135">Motion acquired by the stone is called rotational motion.</sent>
+				<sent id ="136">Sometimes a bi-cycle moves faster and sometimes it moves slower.</sent>
+				<sent id ="137">Thus the time taken by the wheel of a bi- cycle to revolve once is sometime less and sometimes more.</sent>
+				<sent id ="138">So the motion of the wheel of a bi-cycle is not periodic motion.</sent>
+				<sent id ="139">Time taken by the earth to make one complete rotation about its own axis is always 24 hours.</sent>
+				<sent id ="140">So the motion of the earth is periodic motion.</sent>
+				<sent id ="141">Hold the rope to which a stone is tied in such a way that it hangs downwards.</sent>
+				<sent id ="142">Holding the rope with right hand, pull the stone with your left hand slightly and let it go.</sent>
+				<sent id ="143">The stone will be oscillating in this way.</sent>
+				<sent id ="144">That is to say, at a specific interval of time, the motion of the stone will be reversed.</sent>
+				<sent id ="145">This motion of the stone is called oscillatory motion.</sent>
+				<sent id ="146">The motion of pendulum of a clock and the motion of a cradle are also oscillatory motion.</sent>
+				<sent id ="147">Oscillatory motion is a kind of periodic motion.</sent>
+				<sent id ="148">Difference is that the motion of a body, having oscillatory motion, is reversed at a specific interval of time.</sent>
+				<sent id ="149">All oscillatory motions are periodic motions but all periodic motions are not oscillatory motions.</sent>
+				<sent id ="150">The motion of the pendulum of a clock is oscillatory as well as periodic motion.</sent>
+				<sent id ="151">But the motion of the hands of a clock is not oscillatory it is only periodic motion.</sent>
+				<sent id ="152">Whenever a bi-cycle moves along with the rotation of its wheels it gains a forward motion also.</sent>
+				<sent id ="153">The motion of the wheels of a moving motorcar, train or rickshaw is complex motion.</sent>
+				<sent id ="154">You keep your book on the table, a distance apart.</sent>
+				<sent id ="155">The position of book is changed.</sent>
+				<sent id ="156">The change of position of a body is called displacement.</sent>
+				<sent id ="157">But this change of position should be in a definite direction.</sent>
+				<sent id ="158">The linear distance between first and second positions of the object is the magnitude of displacement.</sent>
+				<sent id ="159">Displacement is a distance, so units of displacement and length are the same.</sent>
+				<sent id ="160">Therefore unit of displacement is metre.</sent>
+				<sent id ="161">Suppose the distance of your school from your house is 1000 metres.</sent>
+				<sent id ="162">You take 20 minutes to go there on foot.</sent>
+				<sent id ="163">That is to say, you can walk a 50- metre path in a minute.</sent>
+				<sent id ="164">Thus your speed is 50 metres per minute.</sent>
+				<sent id ="165">Speed does not depend on traversing straight or curved path.</sent>
+				<sent id ="166">It depends upon the total distance traversed and the time taken to traverse it.</sent>
+				<sent id ="167">In a word, distance traversed by a body in unit time is called speed.</sent>
+				<sent id ="168">Unit of speed is metre per second.</sent>
+				<sent id ="169">Speed having a definite direction is called velocity.</sent>
+				<sent id ="170">Therefore distance traversed by a body in a definite direction in unit time is called velocity.</sent>
+				<sent id ="171">Suppose you took part in a 100-metre race in the annual sports of your school.</sent>
+				<sent id ="172">You took 20 seconds to run 100 metres.</sent>
+				<sent id ="173">You ran straight, without moving this side or to that side.</sent>
+				<sent id ="174">Therefore, your direction of motion was fixed.</sent>
+				<sent id ="175">Your velocity was 5 metres per second.</sent>
+				<sent id ="176">Unit of velocity and speed is one metre per second.</sent>
+				<sent id ="177">The difference between speed and velocity is that, speed has no definite direction, but the direction of velocity is definite.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

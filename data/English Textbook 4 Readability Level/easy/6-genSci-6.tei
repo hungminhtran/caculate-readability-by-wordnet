@@ -1,0 +1,117 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.981</idno>
+				<idno type="Number of sentences">89</idno>
+				<idno type="Number of tokens">968</idno>
+				<idno type="Number of token types">430</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t97">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">All these things can be broadly divided into living and nonliving things.</sent>
+				<sent id ="2">Things like tree, birds, animals, insects, humans have life, and so are called living.</sent>
+				<sent id ="3">It is thus evident that the basic difference between living and nonliving is the presence or absence of life.</sent>
+				<sent id ="4">Because of the presence of life, the living things show certain characteristics, that nonliving things do not posses.</sent>
+				<sent id ="5">What follows is a brief discussion on the characteristics or features of living things.</sent>
+				<sent id ="6">Living body is made up of innumerable cells.</sent>
+				<sent id ="7">These cells contain a jelly-like substance, the protoplasm.</sent>
+				<sent id ="8">The protoplasm in the cell is in continuous motion.</sent>
+				<sent id ="9">It is because of this protoplasm that there is movement in living bodies.</sent>
+				<sent id ="10">The movements shown by living bodies come from within.</sent>
+				<sent id ="11">The change of position is not movement.</sent>
+				<sent id ="12">The change of position is locomotion.</sent>
+				<sent id ="13">All living things show movement and locomotion.</sent>
+				<sent id ="14">Locomotion is easily observed in humans, birds, animals, insects, fish, and so on.</sent>
+				<sent id ="15">Some animals move with the help of legs on land, while some swim in water with the help of fins.</sent>
+				<sent id ="16">Plants too exhibit movement.</sent>
+				<sent id ="17">For example, the roots grow and move in search of water; the stem grows and moves towards light.</sent>
+				<sent id ="18">This shows that living beings exhibit movement and locomotion.</sent>
+				<sent id ="19">Nonliving things do not exhibit movement and locomotion.</sent>
+				<sent id ="20">Living organisms respond to stimuli.</sent>
+				<sent id ="21">In fact, sensation and the ability to respond to stimuli is the basic property of protoplasm itself.</sent>
+				<sent id ="22">Similarly, living beings feel the presence of light or heat, and respond as required by the body.</sent>
+				<sent id ="23">Nonliving things do not have the capacity to respond to stimuli.</sent>
+				<sent id ="24">Living beings take food.</sent>
+				<sent id ="25">This food is digested and helps in the growth and repair of the body.</sent>
+				<sent id ="26">Trees, humans, birds, insects are all seen to slowly grow bigger from a very small size.</sent>
+				<sent id ="27">There is increase in size and weight.</sent>
+				<sent id ="28">The diagram shows the growth of a seed ?</sent>
+				<sent id ="29">Nonliving do not grow from within.</sent>
+				<sent id ="30">Things may be added from outside but that is not growth.</sent>
+				<sent id ="31">All living bodies take in oxygen during inspiration and give out carbon dioxide during expiration.</sent>
+				<sent id ="32">The oxygen is needed to carry out the metabolic functions of the living cells.</sent>
+				<sent id ="33">The nonliving things do not need oxygen and so do not respire.</sent>
+				<sent id ="34">Reproduction is a process whereby all living organisms produce offspring.</sent>
+				<sent id ="35">Trees produce seeds, these seeds then grow into saplings and then trees again.</sent>
+				<sent id ="36">The hens lay eggs from which a chicken comes out.</sent>
+				<sent id ="37">Humans, cow, goat, cat and so on give birth to babies.</sent>
+				<sent id ="38">Reproduction is one of the essential functions of plants, animals, and single celled organisms, for the preservation of the species.</sent>
+				<sent id ="39">Plants and animals do not live forever.</sent>
+				<sent id ="40">The life of living beings have three stages childhood, youth or adulthood, and old age.</sent>
+				<sent id ="41">Nonliving things have no death.</sent>
+				<sent id ="42">Living things include both plants and animals.</sent>
+				<sent id ="43">But some parts of the plant body do move, such as roots, leaves, stem, branches, and so on.</sent>
+				<sent id ="44">Plants and animals have few features in common, while other do not match.</sent>
+				<sent id ="45">Have chlorophyll, a green pigment, with the help of which plant manufacture their own food.</sent>
+				<sent id ="46">Cannot manufacture their own food, as they do not have chlorophyll.</sent>
+				<sent id ="47">So animals depend on plants for food.</sent>
+				<sent id ="48">Most plants cannot move.</sent>
+				<sent id ="49">Almost all animals can move.</sent>
+				<sent id ="50">Plants cannot take solid food.</sent>
+				<sent id ="51">Animals can take solid, liquid and other forms of food.</sent>
+				<sent id ="52">During photosynthesis plants take in carbon dioxide and give out oxygen.</sent>
+				<sent id ="53">During respiration it takes in oxygen and give out carbon dioxide.</sent>
+				<sent id ="54">Animals take in oxygen and give out carbon dioxide during respiration.</sent>
+				<sent id ="55">It never takes in carbon dioxide as photosynthesis does not occur in animals.</sent>
+				<sent id ="56">Plants have a definite structure and shape, but the branches are not well defined.</sent>
+				<sent id ="57">Animals have a definite size, shape and structure.</sent>
+				<sent id ="58">Plants do not have specific organ system.</sent>
+				<sent id ="59">Animals have specific organ systems.</sent>
+				<sent id ="60">Most plants are food producers.</sent>
+				<sent id ="61">Most animals are food consumers.</sent>
+				<sent id ="62">Plants grow till before they die.</sent>
+				<sent id ="63">Animals grow up to a certain age.</sent>
+				<sent id ="64">Plant cells have cell wall.</sent>
+				<sent id ="65">Animal cells do not have cell wall.</sent>
+				<sent id ="66">Animal kingdom may be divided into invertebrates and vertebrates.</sent>
+				<sent id ="67">Invertebrates: Animals that do not have vertebral column or spinal cord are called invertebrates.</sent>
+				<sent id ="68">For example: earthworm, spider, crab, scorpion, cockroach, prawn, snail, fly, mosquito, and so on.</sent>
+				<sent id ="69">Vertebrates: Animals that have vertebral column or spinal cord are called vertebrates or chordates.</sent>
+				<sent id ="70">For example: goat, elephant, horse, tiger, lion, frog, snake, cattle, fish, crocodile, monkey, cat, humans, and so on.</sent>
+				<sent id ="71">The vertebrates found in our near environment have been grouped into five classes.</sent>
+				<sent id ="72">What follows is identifying features of the animals in each class.</sent>
+				<sent id ="73">a. Pisces or fishes: All fishes are included in this group.</sent>
+				<sent id ="74">They live in water.</sent>
+				<sent id ="75">Amphibia: Vertebrates that can live in both water and land are called amphibians.</sent>
+				<sent id ="76">For example, toad, golden frog, tree frog, and so on.</sent>
+				<sent id ="77">The eggs and larvae of the amphibians do not survive without water.</sent>
+				<sent id ="78">Reptiles: Vertebrates that move on the ventral aspect of the body are called reptiles.</sent>
+				<sent id ="79">For example, lizard, snake, crocodile, and so on.</sent>
+				<sent id ="80">Aves or birds: Vertebrates that have feathers are called birds.</sent>
+				<sent id ="81">For example, crow, cuckoo, myna, duck, hen, pigeon, sparrow, weaver bird, parrot, kite, vulture, and so on.</sent>
+				<sent id ="82">Mammals: Vertebrates that give birth to live young ones or babies that feed on mothers milk are called mammals.</sent>
+				<sent id ="83">For example, human, cat, cow, buffalo, dog, goat, horse, tiger, monkey, donkey, and so on.</sent>
+				<sent id ="84">Among the animals, humans are the best.</sent>
+				<sent id ="85">Human is the only animal that can walk upright.</sent>
+				<sent id ="86">Human brain is bigger than those of other animals, so they are more intelligent.</sent>
+				<sent id ="87">Using the intelligence, humans are ruling everywhere.</sent>
+				<sent id ="88">In today's world, humans are moving freely in space, moon, highest mountain, and in the depth of oceans.</sent>
+				<sent id ="89">Thus, human occupy an unique and superior position among all living things.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

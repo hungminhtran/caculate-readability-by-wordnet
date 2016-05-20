@@ -1,0 +1,137 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-hind-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.415</idno>
+				<idno type="Number of sentences">109</idno>
+				<idno type="Number of tokens">1359</idno>
+				<idno type="Number of token types">559</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t152">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Ishwara transforms of his qualities or power in to visible forms and they are called Devata i. e. gods and goddesses.</sent>
+				<sent id ="2">Bramha, Vishnu, Durga etc, are the examples of such Devatas (gods and goddesses).</sent>
+				<sent id ="3">Brahma is the god of creation, Vishnu preserves us and Durga is the goddess of power.</sent>
+				<sent id ="4">The Devatas are worshipped to achieve their qualities or power.</sent>
+				<sent id ="5">Their deeds and attributes are praised through eulogies.</sent>
+				<sent id ="6">The worship of any god or goddess is the worship of Parameshwara (the supreme God).</sent>
+				<sent id ="7">Ishwara and the Devatas become satisfied if they are worshipped.</sent>
+				<sent id ="8">It begets welfare for the mankind.</sent>
+				<sent id ="9">We know, the Puranas, The scriptures are composed on the basis of our original scripture, the Veda.</sent>
+				<sent id ="10">The Devatas of the Veda are changed in form and importance in the Puranas.</sent>
+				<sent id ="11">Moreover there are some Devatas who are not cited in the vedas and puranas.</sent>
+				<sent id ="12">But age after age they are being worshipped.</sent>
+				<sent id ="13">These Devatas are called Laukika i. e. customary or folk based gods and goddesses.</sent>
+				<sent id ="14">The same Devata is mentioned as a Devata of these three groups also.</sent>
+				<sent id ="15">Here we are giving a pen'picture in brief, of three Devatas namely ' Surya, Jagaddhatri and Vishwakarma.</sent>
+				<sent id ="16">Surya or the sun is one of the principal Devatas.</sent>
+				<sent id ="17">He has all of the three fold forms i. e, the Vedic, the pauranic and the Laukika.</sent>
+				<sent id ="18">Surya has several names viz: Aditya, Savita, Aryama,Pusha, Mitra, Vaskar, Divakar, Rabi etc.</sent>
+				<sent id ="19">In the Mahabharata we get 108 names of Surya.</sent>
+				<sent id ="20">In the Vedas Surya is described as Tejas i. e . energy and the source of life.</sent>
+				<sent id ="21">He is called the soul of the whole universe.</sent>
+				<sent id ="22">Surya is as if the eyes of Mitra, Varuna and Agni.</sent>
+				<sent id ="23">Here the word eye denotes the exposer of all the things of the whole universe.</sent>
+				<sent id ="24">Surya has a chariot i. e. a vehicle.</sent>
+				<sent id ="25">That chariot has only one wheel and seven horses.</sent>
+				<sent id ="26">Aruna is the charioteer of the chariot of Surya.</sent>
+				<sent id ="27">In the scriptures like Mahabharata, Markandeya Purana, Bhavishya Purana etc. Surya is denoted as the eye of the Devatas.</sent>
+				<sent id ="28">In a book named Brihaddevata, Surya is depicted as the source of origination and the place of extinction.</sent>
+				<sent id ="29">Surya is the energy of Ishwara.</sent>
+				<sent id ="30">The worship of Surya has been going on for a very long time.</sent>
+				<sent id ="31">It is said in the Ramayana that Rama eulogized Surya before the killing of Ravana.</sent>
+				<sent id ="32">Raktajava i. e. a species of China rose is very fond of Sruya.</sent>
+				<sent id ="33">In the worship of Surya the leaf of wood apple is prohibited.</sent>
+				<sent id ="34">On the seventh tithi (day) of the bright fortnight of the month of Magha of the Bengali year the female worshippers worship Surya gorgeously.</sent>
+				<sent id ="35">This ceremony is known as the Araghya Saptami Vrata.</sent>
+				<sent id ="36">i, e. vow to attain cure of from diseases.</sent>
+				<sent id ="37">This Brata which is performed with a prayer to be cured and to achieve wealth is also known as the Bidhan Saptami Vrata.</sent>
+				<sent id ="38">At the advent of the worship of the desired Devata, some other gods or goddesses are worshipped together.</sent>
+				<sent id ="39">Surya is one of those Devatas.</sent>
+				<sent id ="40">Moreover at the beginning of the worship of any Devata Surya must be given Arghya i. e. offerings.</sent>
+				<sent id ="41">He is also worshipped as folk or customary deity having the name of Itu, Bhadu, Tusu etc.</sent>
+				<sent id ="42">The worshippers of Surya are known as Saura.</sent>
+				<sent id ="43">There are many temples of Surya in different places.</sent>
+				<sent id ="44">The temple of Konark of Orishya in India is to be cited first.</sent>
+				<sent id ="45">There is a very fine temple of Surya at Modhera of Gujrat.</sent>
+				<sent id ="46">Surya possesses uncountable qualities.</sent>
+				<sent id ="47">The worshipper of Surya is rewarded with energy an vigiour and infinite blessings.</sent>
+				<sent id ="48">By the blessings of Surya one gets cure from the diseases.</sent>
+				<sent id ="49">Praying to Surya a poet of Sanskrit literature named Mayura was recovered from Leprosy.</sent>
+				<sent id ="50">The name of the scripture, composed by mayura, named as suryashataka.</sent>
+				<sent id ="51">In Shukla Yajurveda, prayer was made to Surya in this way.</sent>
+				<sent id ="52">Oh! : Surya, you are the source of energy.</sent>
+				<sent id ="53">Give us energy please.</sent>
+				<sent id ="54">The English translation of this stanza: In the heart of the morning, Sun! oh Hiranmaya, Brahma I saw you.</sent>
+				<sent id ="55">Here Hiranmaya means Brahma or God.</sent>
+				<sent id ="56">Realization of energy is achieved through the worship of Surya.</sent>
+				<sent id ="57">The light and heat of Surya cures from the diseases.</sent>
+				<sent id ="58">This instruction is also attainable from the worship of Surya.</sent>
+				<sent id ="59">To salute Surya early in the morning is one of the activities to be performed daily.</sent>
+				<sent id ="60">With the following mantra Surya is saluted.</sent>
+				<sent id ="61">The power of Ishwara (God) is revealed in the form of Devi Jagaddhatri.</sent>
+				<sent id ="62">The word Jagaddhatri is a combination of the two words Jagat (world) and dhhatri (one who bears, or mother).</sent>
+				<sent id ="63">So the meaning of the word Jagaddhatri is one who bears the world i. e. mother of the world.</sent>
+				<sent id ="64">The full name of the goddess Jagaddhatri is Jagaddhatri Durga.</sent>
+				<sent id ="65">Actually Jagaddhatri is none but Durga in another form.</sent>
+				<sent id ="66">This goddess took a lion as her riding animal or a vehicle and the lion has defeated a big elephant.</sent>
+				<sent id ="67">Devi Jagaddhatri has four hands, wears red garments and is ornamented with various ornaments.</sent>
+				<sent id ="68">The colour of her body is as like as the colour of the morning sun.</sent>
+				<sent id ="69">In her left two hands there are conch shell and a bow.</sent>
+				<sent id ="70">She is seated on the bloomed lotus.</sent>
+				<sent id ="71">The strong lion is the symbol of purashakara or strength and the drunk elephant is that of oscillating mind.</sent>
+				<sent id ="72">Our mind is very oscillating, drunk and strong.</sent>
+				<sent id ="73">Mind should be controlled with vigour and strength'this instruction one may also acquire from the worship of Jagaddhatri.</sent>
+				<sent id ="74">Jagaddhatri puja is performed on the ninth tithi at the bright fortnight in the month of Kartika.</sent>
+				<sent id ="75">The worship of the Devi (goddess) is performed three times of the same days; morning, noon and afternoon.</sent>
+				<sent id ="76">Afterwards sacrifical ceremony (Yajna) is performed according to the scripture known as the Tantras.</sent>
+				<sent id ="77">On the next day morning usual worship is offered to the Devi followed by the symbolic Visarjana (immersion of the statue of god or goddess).</sent>
+				<sent id ="78">In some places sacrificial ceremony and visarjana are held on the same day.</sent>
+				<sent id ="79">At the time of worship of Devi Jagaddhatri, chandi is enchanted three times.</sent>
+				<sent id ="80">In many places the ceremony of the worship of Devi Jagaddhatri is held during three days on the seventh, eight and ninth tithis.</sent>
+				<sent id ="81">On the tenth tithis the idol of the Devi is immersed.</sent>
+				<sent id ="82">With Devi Jagaddhatri Nilkanthas (i.</sent>
+				<sent id ="83">e. blue-necked) shiva is also worshipped.</sent>
+				<sent id ="84">The literary meaning of the word Vishwakarma denotes the maker of the universe.</sent>
+				<sent id ="85">The literal meaning is accepted in the Veda.</sent>
+				<sent id ="86">It is said in the Rigveda that Vishwakarma is an all pervading seer.</sent>
+				<sent id ="87">His eyes, face, arms and legs are spread to all directions.</sent>
+				<sent id ="88">Using the arms and legs he builds the heaven and the earth.</sent>
+				<sent id ="89">He names the gods and goddesses.</sent>
+				<sent id ="90">According to Purana Vishwakarma is the god of art and craft.</sent>
+				<sent id ="91">He is the originator of an Upaveda namely the Sthapatyaveda i. e. the knowledge of architecture.</sent>
+				<sent id ="92">At the same time he is also the god of 64 kinds of art.</sent>
+				<sent id ="93">Drawing his favour one becomes skilled in art and machinery.</sent>
+				<sent id ="94">He is first maker of ornaments and the air craft of gods.</sent>
+				<sent id ="95">He made the weapon of gods also.</sent>
+				<sent id ="96">All kinds of artistic decoration and ornamentation are started by him.</sent>
+				<sent id ="97">He is maker of the heaven also.</sent>
+				<sent id ="98">Directed by Brahma, Vishwakarma made the city of kishkindhya.</sent>
+				<sent id ="99">By order of Lord Shrikrishna he built the city of Dwaraka.</sent>
+				<sent id ="100">It was said that the idol of Jagannatha in Puri was made by him.</sent>
+				<sent id ="101">An elephant is the riding animal of Vishwakarma.</sent>
+				<sent id ="102">The worship of Vishwakarma is performed making an idol of him or Ghata (i.</sent>
+				<sent id ="103">e. metal or earthen pitcher ) on the last day of the month of Bhadra.</sent>
+				<sent id ="104">Especially the artists and the labourer worship this god.</sent>
+				<sent id ="105">For the development of the artistic skill, the determination should be taken for worship.</sent>
+				<sent id ="106">We bow to you.</sent>
+				<sent id ="107">As a power for all sorts of art and craft including architecture of God, Vishwakarma is imaged.</sent>
+				<sent id ="108">Vishwakarma is the inspiration for art and craft.</sent>
+				<sent id ="109">Through the worship of Vishwakaram, we get this kind of lesson prevalent in the minds of people.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

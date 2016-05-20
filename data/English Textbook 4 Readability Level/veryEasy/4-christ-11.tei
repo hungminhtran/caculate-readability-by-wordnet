@@ -1,0 +1,89 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.799</idno>
+				<idno type="Number of sentences">61</idno>
+				<idno type="Number of tokens">598</idno>
+				<idno type="Number of token types">267</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t55">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Parents, brothers, sisters and other relatives make our family.</sent>
+				<sent id ="2">If we live alone, our life becomes monotonous.</sent>
+				<sent id ="3">But if we live together, our life becomes full of joy.</sent>
+				<sent id ="4">When we do something alone, it takes a long time.</sent>
+				<sent id ="5">We have learnt these things earlier.</sent>
+				<sent id ="6">We have also learnt how many types of families are there.</sent>
+				<sent id ="7">We have learnt what a Christian family is.</sent>
+				<sent id ="8">We have also learnt their important qualities.</sent>
+				<sent id ="9">Now, we shall discuss the duties and responsibilities of a Christian Family.</sent>
+				<sent id ="10">Look at the following picture carefully.</sent>
+				<sent id ="11">We can see a human body in the picture above.</sent>
+				<sent id ="12">It has a head, hands, eyes, mouth, nose, belly and legs etc.</sent>
+				<sent id ="13">All these are different parts of a human body.</sent>
+				<sent id ="14">These parts are taken together to form a complete body of a human being.</sent>
+				<sent id ="15">All these parts are inter-connected and they function unitedly.</sent>
+				<sent id ="16">All of the parts together love the body itself.</sent>
+				<sent id ="17">One part of it feels for the other one.</sent>
+				<sent id ="18">For example, if a hand is hurt, the whole body feels pain too.</sent>
+				<sent id ="19">Each part of the body functions for the whole body.</sent>
+				<sent id ="20">The ears again listen properly, while the nose smells and breathes.</sent>
+				<sent id ="21">If any of these does not function well, the whole body suffers.</sent>
+				<sent id ="22">A family also functions just like this.</sent>
+				<sent id ="23">In a family we have father, mother, brothers and sisters.</sent>
+				<sent id ="24">All of them have their own responsibilities.</sent>
+				<sent id ="25">Again, if any one of them becomes sick, the others look after him or her.</sent>
+				<sent id ="26">A family is called a Christian family when the parents and children are Christians.</sent>
+				<sent id ="27">Again, several Christian families of an area can be called a Christian family.</sent>
+				<sent id ="28">The Christians of a religious community is also called a Christian family.</sent>
+				<sent id ="29">There are some characteristics of a Christian family.</sent>
+				<sent id ="30">They lead their lives following the ideals of Jesus Christ.</sent>
+				<sent id ="31">They love and serve one another.</sent>
+				<sent id ="32">They also forgive and help one another.</sent>
+				<sent id ="33">They follow the ideals of the family of Mary, Joseph and Jesus Christ.</sent>
+				<sent id ="34">The conduct and behaviour of the Christians are modest and tolerant.</sent>
+				<sent id ="35">They believe one another they discuss matters with one another and come to a decision.</sent>
+				<sent id ="36">They possess the qualities, such as unity, honesty, simplicity, righteousness and love for peace.</sent>
+				<sent id ="37">Duties and Responsibilities of the Parents of a Christian Family.</sent>
+				<sent id ="38">The parents raise their children and teach them the ideals of Christianity;</sent>
+				<sent id ="39">The parents also follow what they teach their children;</sent>
+				<sent id ="40">The father and mother respect and love each other;</sent>
+				<sent id ="41">Everyday they join the family prayers together with their children;</sent>
+				<sent id ="42">They regularly take part in the prayer of the Church;</sent>
+				<sent id ="43">They take part and assist in the work of the Church.</sent>
+				<sent id ="44">Duties and Responsibilities of the Children of a Christian Family.</sent>
+				<sent id ="45">They respect their parents;</sent>
+				<sent id ="46">They live together and maintain good relationship with one another;</sent>
+				<sent id ="47">They respect and obey their parents and elders;</sent>
+				<sent id ="48">They teach themselves the ideals of Christianity;</sent>
+				<sent id ="49">They form the habit of praying regularly;</sent>
+				<sent id ="50">They try to acquire good qualities;</sent>
+				<sent id ="51">They try their best to give up their bad habits;</sent>
+				<sent id ="52">They give up laziness and become diligent.</sent>
+				<sent id ="53">They have their own duties and responsibilities.</sent>
+				<sent id ="54">In a Christian community the priest conducts the prayer.</sent>
+				<sent id ="55">The preacher preaches God's messages and the teacher teaches.</sent>
+				<sent id ="56">The Pastor conducts the prayer moving from house to house in different locality.</sent>
+				<sent id ="57">Again, some of them nurse the sick while others discuss things with the school children.</sent>
+				<sent id ="58">Some of them help the poor.</sent>
+				<sent id ="59">In this way, each of them performs a duty.</sent>
+				<sent id ="60">Write down the characteristics of ideal children.</sent>
+				<sent id ="61">Write down the duties and responsibilities you have towards others as an ideal Christian child.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

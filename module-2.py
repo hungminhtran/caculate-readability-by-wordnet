@@ -1,5 +1,6 @@
 import importlib
 mod1 = importlib.import_module("module-1")
+extractText = importlib.import_module("ExtractText")
 from nltk.corpus import wordnet as wn
 import nltk
 import re
@@ -24,16 +25,13 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
         print result
     return result
 
-def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS, printForDeBug=0):
+def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS, printForDeBug=0, isTEI=0):
     import time;
     startTime = time.time();
 
     # get input
-    inputFile = open(INPUT, 'r')
-    inputData = inputFile.read()
+    inputData = extractText.extractTextTEI(INPUT, isTEI)
     inputData = inputData.lower()
-    print inputData
-    inputFile.close()
 
     #get all BLW
     inputFile= open(BLW_NOUNS, 'r')
@@ -49,15 +47,19 @@ def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS, printForDeBug
     nounsBLWInput = findAllItemFromArray(tmp, BLWnounsArray.splitlines(), printForDeBug)
     # tmp = inputData
     nounsInput = findAllItemFromArray(tmp, NounsArray.splitlines(), printForDeBug)
+    print INPUT, " time cost: ", time.time() - startTime
     if (len(nounsInput) == 0):
-        print "no BLW"
+        if (printForDeBug):
+            print "no BLW"
+        return None
     else:
-        print "ratio: ", float(len(nounsBLWInput))/len(nounsInput)*100, "%"
-    print "blw:"
-    print nounsBLWInput
-    print "all nouns:"
-    print nounsInput
-    print "time cost: ", time.time() - startTime
+        if (printForDeBug):
+            print "ratio: ", float(len(nounsBLWInput))/len(nounsInput)*100, "%"
+            print "blw:"
+            print nounsBLWInput
+            print "all nouns:"
+            print nounsInput
+        return float(len(nounsBLWInput))/len(nounsInput)*100, nounsBLWInput, nounsInput
 
 def listAllFile(fullPath, listSubDir = 0):
     from os import listdir
@@ -72,9 +74,17 @@ def listAllFile(fullPath, listSubDir = 0):
             temp = listAllFile(tf, listSubDir)
             onlyfiles = onlyfiles + temp
     return onlyfiles
-
+#a.e. bug
 # calculateReabilityByWordnetForEnglish('data/_testData.txt','all-BLW.txt','all-SORTED-wordnet-nouns.txt', 1)
-for f in listAllFile('data', 1):
-    print f
-    calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt')
-    print ''
+output = open('data/output_English Textbook 4 Readability Level_WN.csv', 'w')
+output.write("file;ratio;blw;allNoun\n")
+# for f in listAllFile('data/testDataTEI', 1):
+#     output.write(f + ";");
+#     ratio, blwN, allN = calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt', 0, 1)
+#     output.write(str(ratio) + ";" + " | ".join(blwN) + ";"  + " | ".join(allN) + "\n")
+
+for f in listAllFile('data/English Textbook 4 Readability Level', 1):
+    output.write(f + ";");
+    ratio, blwN, allN = calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt', 0, 1)
+    output.write(str(ratio) + ";" + " | ".join(blwN) + ";"  + " | ".join(allN) + "\n")
+output.closed

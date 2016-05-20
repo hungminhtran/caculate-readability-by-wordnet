@@ -1,0 +1,165 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.973</idno>
+				<idno type="Number of sentences">137</idno>
+				<idno type="Number of tokens">1863</idno>
+				<idno type="Number of token types">630</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t174">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Man takes food when he/she feels hungry.</sent>
+				<sent id ="2">This is because food can supply nutrition.</sent>
+				<sent id ="3">So we take in the daily requirement of nutrition from food.</sent>
+				<sent id ="4">It gives energy to the body, maintain metabolic function, prevent and protect from diseases.</sent>
+				<sent id ="5">We get the amount and type of food we need at different stages from an approved food list.</sent>
+				<sent id ="6">If we take food according to that approved food list the body will work properly.</sent>
+				<sent id ="7">Only one type of food can not perform all the functions of the body.</sent>
+				<sent id ="8">Different types of food are necessary for different types of body function.</sent>
+				<sent id ="9">Balanced and nutritious diet is necessary to body healthy and fit .</sent>
+				<sent id ="10">In different physiological condition different types of food is necessary.</sent>
+				<sent id ="11">A grown up baby needs food for its growth.</sent>
+				<sent id ="12">A pregnant mother needs food for her baby's growth and to recover her health.</sent>
+				<sent id ="13">A breast feeding mother needs food to produce milk for her baby and protection of her own body.</sent>
+				<sent id ="14">So some type and same amount of food is not perfect for all.</sent>
+				<sent id ="15">At every stage, we need balanced food.</sent>
+				<sent id ="16">To prepare balance diet we need to take care of the following important factors: Diet list should be prepared according to the body need.</sent>
+				<sent id ="17">Six types of food should be included.</sent>
+				<sent id ="18">Ingredients food should be present in our food proportionally.</sent>
+				<sent id ="19">In different ages and in different stages the need of nutrition is different.</sent>
+				<sent id ="20">For example, in childhood for the growth of the body, we need more protein, vitamin and minerals.</sent>
+				<sent id ="21">In adult age for prevention of loss of energy and protection of body minerals, vitamins and water.</sent>
+				<sent id ="22">In old age we need vitamin, minerals and water for immunity body control and protection.</sent>
+				<sent id ="23">The diet will not be balanced if any one of six ingredients of food is absent.</sent>
+				<sent id ="24">Because six types of food is necessary in different proportion for a body.</sent>
+				<sent id ="25">Kwashiorkor of babies is due to deficiency of protein and vitamin E. Deficiency of vitamin C causes scurvy and deficiency of vitamin D causes rickets.</sent>
+				<sent id ="26">Different diseases and symptoms are seen due to deficiency of different types of food.</sent>
+				<sent id ="27">So, a diet menu should contain six ingredients of food.</sent>
+				<sent id ="28">The amount of food should be as much as the body needs.</sent>
+				<sent id ="29">According to age and stage sometimes we need more proteins and vitamins.</sent>
+				<sent id ="30">So we should be careful about the six types of ingredients and amount of food in a diet menu.</sent>
+				<sent id ="31">One should be careful while selecting food for preparation of balanced diet.</sent>
+				<sent id ="32">We should give importance to body need and demand.</sent>
+				<sent id ="33">Because same amount of food does not fulfil the need of all.</sent>
+				<sent id ="34">Body needs three types of food.</sent>
+				<sent id ="35">Energy producing food- Rice, Wheat, Potato, Sugar, Butter, Oil and Ghee.</sent>
+				<sent id ="36">Food for body control and immunization- Vegetables and fruits (Red, Green, Yellow).</sent>
+				<sent id ="37">Selection should be made in a way that the diet contain all the food nutrients mentioned in three categories.</sent>
+				<sent id ="38">Above all appropriate quantity of elements should be according to the demand of the body.</sent>
+				<sent id ="39">These three ingredients mixed in proportion make a balanced diet.</sent>
+				<sent id ="40">We should select food to supply everyday need of calorie from carbohydrate 60%-70%, 30%-40% from fat and 10% from protein.</sent>
+				<sent id ="41">Balanced diet should be a mixed diet.</sent>
+				<sent id ="42">It means in selection of protein we should select vegetable protein along with animal protein.</sent>
+				<sent id ="43">We should select small fish or egg with pulse.</sent>
+				<sent id ="44">On the other hand, if rice, fish, dal, vegetable and fruits are contained in one meal that is also a balanced diet.</sent>
+				<sent id ="45">We should prepare a balanced diet with foods which are available in market, those are cheap and rich with food value and easily available.</sent>
+				<sent id ="46">If we prepare balanced diet with seasonal food that will be more qualitative because seasonal food contains more food value.</sent>
+				<sent id ="47">Seasonal foods are fresh, natural and pure in taste and flavour.</sent>
+				<sent id ="48">In preparation of balance diet one should be careful about ones habit and physical condition.</sent>
+				<sent id ="49">If any food is allergic or forbidden to the culture and heritage of the family then balanced diet should be prepared with alternative food.</sent>
+				<sent id ="50">If some one has allergy in prawn or shrimp or Hilsha fish we should use another fish.</sent>
+				<sent id ="51">If some one is vegetarian pulse and milk can fulfil his protein need.</sent>
+				<sent id ="52">In a balanced diet 30 gm oil and 20 gm sugar should be allotted per head.</sent>
+				<sent id ="53">One should be careful about preserving the food value while cooking.</sent>
+				<sent id ="54">In preparing and serving balanced diet our should be careful so that the loss of food value is not occurred.</sent>
+				<sent id ="55">In preparing a balanced diet one should be careful about neatness and cleanliness of every thing.</sent>
+				<sent id ="56">Food should be served in hygienic environment.</sent>
+				<sent id ="57">The combination of different types of food is called a menu.</sent>
+				<sent id ="58">The planning for balanced diet is the preparation of food menu.</sent>
+				<sent id ="59">It will also be easy to select, purchase and prepare food if there is a diet list.</sent>
+				<sent id ="60">It also helps to take mental preparation.</sent>
+				<sent id ="61">Unit: Breakfast, lunch and dinner of a day should be considered as a unit of menu.</sent>
+				<sent id ="62">And diet list of a week should be prepared according to that menu.</sent>
+				<sent id ="63">Division of three foods: Balanced diet should be arranged for every members of the family.</sent>
+				<sent id ="64">Six types of foods will be provided in a daily menu if there is a selection of food from these three divisions.</sent>
+				<sent id ="65">The distribution of food should be in a way that one type of food is not given importance.</sent>
+				<sent id ="66">For example, if there is fish, meat and pulse in a lunch these will be excess of protein.</sent>
+				<sent id ="67">In breakfast be egg or pulse, in lunch small fish and in dinner meat would be accurate diet.</sent>
+				<sent id ="68">Monotony: The same food in every meal causes monotony.</sent>
+				<sent id ="69">For example, chicken in both lunch and dinner may monotonous and there will be no variety in food.</sent>
+				<sent id ="70">Make a change: There should be a change in diet menu.</sent>
+				<sent id ="71">We should try to prepare a diet menu by different kinds of food to bring a change in taste of food.</sent>
+				<sent id ="72">Change in taste and flavour increases the attraction and desire of food.</sent>
+				<sent id ="73">In breakfast it can be Noodles and Shemai by turn instead of bread and ruti.</sent>
+				<sent id ="74">Breakfast can also be done by cereal like chira, muri and khai.</sent>
+				<sent id ="75">Seasonal fruits and vegetables should be in daily menu.</sent>
+				<sent id ="76">In breakfast there should be ruti with vegetable and in lunch and dinner there should be two types of vegetables with salad.</sent>
+				<sent id ="77">On the other hand, in diet list vitamin A and C enriched fruits and coloured vegetables should be present.</sent>
+				<sent id ="78">In a weekly menu- if there is some vegetables and fruits these will not be boring if the serving style is different.</sent>
+				<sent id ="79">It is not possible to keep sweets in every meal.</sent>
+				<sent id ="80">In the menu of a party, there may be sweets, firny, halua, yogurt, jarda, shemai, pudding, custard and ice-cream.</sent>
+				<sent id ="81">Occasionally mango, jackfruit, papaya can be served as a desert.</sent>
+				<sent id ="82">If there is absence of fish, meat or fats in a menu milk can be the substitute.</sent>
+				<sent id ="83">Fruits can be taken in between lunch and dinner.</sent>
+				<sent id ="84">The rules of diet according to menu: Drinks should be kept in the menu according to age.</sent>
+				<sent id ="85">Sarbat, fruit juice, tea-Coffee, milk and fresh water can be the drinks.</sent>
+				<sent id ="86">Food items should be arranged in the menu according to rules.</sent>
+				<sent id ="87">Soup and fish or meat will be listed first.</sent>
+				<sent id ="88">Vegetables pulse, salad, rice ruti, sweets tea and coffee should be listed accordingly.</sent>
+				<sent id ="89">It is easy to cook the food if cooking process is mentioned in the menu.</sent>
+				<sent id ="90">Making food tasty: To make food tasty, there should be some supporting food which make the main food tasty.</sent>
+				<sent id ="91">This supportive food should be written in the same line of the main item.</sent>
+				<sent id ="92">In our country there are three main meals -breakfast, lunch and dinner.</sent>
+				<sent id ="93">Except this there is also tea time in the afternoon.</sent>
+				<sent id ="94">These four meals are considered for the planning of a menu, so that one meal is not the substitute of another.</sent>
+				<sent id ="95">Certainly the planning of each meal depends on one's body demand, personal food habit, nature of work and job, time or season.</sent>
+				<sent id ="96">Suppose a service takes ruti, egg, sweets and tea in the breakfast but a farmer takes rice, varta, and pulse etc.</sent>
+				<sent id ="97">Because his food habit is different from a job holder.</sent>
+				<sent id ="98">So we feel hungry in the morning.</sent>
+				<sent id ="99">The gap between the breakfast and the lunch is long.</sent>
+				<sent id ="100">Some one may take light food in between.</sent>
+				<sent id ="101">The workload is also high till noon.</sent>
+				<sent id ="102">That is why the breakfast is a very important meal.</sent>
+				<sent id ="103">The school going girl who has the morning school can not take breakfast due to rush.</sent>
+				<sent id ="104">Breakfast is of two types- heavy and light.</sent>
+				<sent id ="105">It depends on ones habit and type of job.</sent>
+				<sent id ="106">There are differences in village and town in breakfast.</sent>
+				<sent id ="107">But it must fulfil one's need.</sent>
+				<sent id ="108">Here is an example of breakfast.</sent>
+				<sent id ="109">In our country lunch is an important meal.</sent>
+				<sent id ="110">Rice is the main food of Bangladesh.</sent>
+				<sent id ="111">We take rice with different type of curry.</sent>
+				<sent id ="112">Traditionally there are fish, meat, vegetables, pulse and fruits with rice.</sent>
+				<sent id ="113">But if there is an arrangement of some fruits and sweets, the lunch is complete.</sent>
+				<sent id ="114">But it should be remembered 100 Home Economics that the menu of lunch should not be a heavy one.</sent>
+				<sent id ="115">Otherwise people become lazy.</sent>
+				<sent id ="116">Those who work outside home and do not come home at lunch time take packet lunch with them.</sent>
+				<sent id ="117">Generally there are ruti, egg kabab, chap, sumucha, vegetable role, banana, apple, orange etc in the lunch packet.</sent>
+				<sent id ="118">As these kinds of food are easy to carry and easy to take these kinds of meal can also be supplied in the school tiffin.</sent>
+				<sent id ="119">Generally there is no big difference between the lunch of village and town.</sent>
+				<sent id ="120">But fresh fish, vegetables, egg and milk are available in the village area.</sent>
+				<sent id ="121">The people of town are habituated to meat than fish.</sent>
+				<sent id ="122">Generally village people are not habituated to evening tea.</sent>
+				<sent id ="123">They usually take pitha, khoi, muri, banana etc.</sent>
+				<sent id ="124">People in the urban area, take their evening tea with their family members and gossip at the same time.</sent>
+				<sent id ="125">Most of the people like home made food rather than ready made food.</sent>
+				<sent id ="126">People prepare food like noodles, shingara, samucha, nimki, payesh, halua, pitha of their own if they find time.</sent>
+				<sent id ="127">Young children drink milk in the late afternoon.</sent>
+				<sent id ="128">Some people do not like tiffin.</sent>
+				<sent id ="129">They can take fruit juice or soft drinks.</sent>
+				<sent id ="130">Those who take light lunch and late dinner can take a heavy tiffin Now-a-days dinner is treated as the main meal.</sent>
+				<sent id ="131">Most of the family members can not get together at home in the lunch due to work outside.</sent>
+				<sent id ="132">But they can have their dinner all together at home and enjoy themselves.</sent>
+				<sent id ="133">If the dinner is of variety and light food then it is easy to digest.</sent>
+				<sent id ="134">Dinner and lunch in our country is almost same.</sent>
+				<sent id ="135">But those who have high blood pressure, heart disease or rheumatic problem take bread/ruti instead of rice.</sent>
+				<sent id ="136">Dinner become delicious if there is milk or sweet after meal.</sent>
+				<sent id ="137">A daily diet list for different age group is given bellow: For 0-6 months child breast feeding is the best food.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

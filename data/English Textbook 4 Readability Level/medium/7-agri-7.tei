@@ -1,0 +1,114 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.924</idno>
+				<idno type="Number of sentences">86</idno>
+				<idno type="Number of tokens">1052</idno>
+				<idno type="Number of token types">472</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t16">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Many families rear goats in the villages of our country.</sent>
+				<sent id ="2">*The population of goat is 2.075 crore in Bangladesh in the year of 2006-The importance of goat rearing is increasing day by day.</sent>
+				<sent id ="3">The meat and milk of goat can play a major role in meeting the deficit of protein consumption.</sent>
+				<sent id ="4">You can rear goats successfully on a little space in your homestead.</sent>
+				<sent id ="5">Goats graze on the grass, creepers and leaves that grow on the footpaths among plots of land, sides of roads and fallow land.</sent>
+				<sent id ="6">You can rear 2-3 goats in a little space investing a little capital.</sent>
+				<sent id ="7">Income from this investment is comparatively more satisfactory than elsewhere.</sent>
+				<sent id ="8">It is said that a goat is a poor man's cow.</sent>
+				<sent id ="9">A goat matures in 12-15 months and begins to reproduce.</sent>
+				<sent id ="10">Goats reproduce 1- 4 kids in every spell twice a year.</sent>
+				<sent id ="11">Mostly two kinds of goats outnumber other species in Bangladesh.</sent>
+				<sent id ="12">Black Bengal is the most prominent one, and the other one is Jamunapari.</sent>
+				<sent id ="13">This species of goat is reared almost in all the regions of Bangladesh.</sent>
+				<sent id ="14">They are usually black.</sent>
+				<sent id ="15">However, they may be white, almond, grey or a mix of black and white.</sent>
+				<sent id ="16">Their ears are straight and upright.</sent>
+				<sent id ="17">Their horns are a little bent backward.</sent>
+				<sent id ="18">They are small in size.</sent>
+				<sent id ="19">They can survive feeding on grass, creeping plants, leaves and bark of trees.</sent>
+				<sent id ="20">Their meat and hide are of high quality.</sent>
+				<sent id ="21">Black Bengal goats may give 1 litre milk a day.</sent>
+				<sent id ="22">The goats of this species are reared in the north-western region of Bangladesh.</sent>
+				<sent id ="23">Besides, they are also reared in other parts of Bangladesh.</sent>
+				<sent id ="24">You need to keep the living place of goats dry.</sent>
+				<sent id ="25">A damp place spreads diseases.</sent>
+				<sent id ="26">You can clean the shed and dry it in the day time and use it again.</sent>
+				<sent id ="27">Goats prefer living in a place higher than the floor.</sent>
+				<sent id ="28">It is better for the goats if you set up a platform or bed 60 cm high on the floor.</sent>
+				<sent id ="29">It makes cleaning the floor easier.</sent>
+				<sent id ="30">A goat requires a cubicle of one square metre in the form of a platform or bed.</sent>
+				<sent id ="31">More space is required if kids are there.</sent>
+				<sent id ="32">An arrangement must be there for sufficient light and air.</sent>
+				<sent id ="33">It keeps the shed dry.</sent>
+				<sent id ="34">However, you have to give two square metre space to a stud [goat], an uncastrated he- goat for reproduction.</sent>
+				<sent id ="35">A female Black Bengal Goat delivers more than a kid at a time.</sent>
+				<sent id ="36">Different care is required if the mother goat gives birth to more kids.</sent>
+				<sent id ="37">After the kid is born, you have to place it in front of its mother to let her lick the kid clean.</sent>
+				<sent id ="38">If the goat does not lick, take some hay or soft cloth to wipe the body of the kid.</sent>
+				<sent id ="39">Spread soft hay and make a separate bed for the kid.</sent>
+				<sent id ="40">It is better to make separate boxes with hay spread on the bottom surface to keep the kids if there live many goats together.</sent>
+				<sent id ="41">Kids do not need food for several hours after birth.</sent>
+				<sent id ="42">However, you have to feed them the colostrums of the mother goat for the first four days.</sent>
+				<sent id ="43">If there are more than two kids, you have to hold them each by hand and feed them the mother's milk.</sent>
+				<sent id ="44">It is done because if a kid is weak, it may not have a chance to feed on its mother's milk.</sent>
+				<sent id ="45">Make the kid grow the habit of feeding on grass, creeping plants, leaves and grains along with the milk when it is two weeks old.</sent>
+				<sent id ="46">You may allow a kid to continue having its mother's milk for two months at best.</sent>
+				<sent id ="47">Then the kid is to be reared separately.</sent>
+				<sent id ="48">A kid grows quickly physically if it is castrated in 2 - 4 weeks time.</sent>
+				<sent id ="49">These goats are good for meat.</sent>
+				<sent id ="50">Their hides are good too.</sent>
+				<sent id ="51">The mother goat needs to be kept separate at least one week before it gives birth.</sent>
+				<sent id ="52">Don't let it climb high platforms.</sent>
+				<sent id ="53">Make a separate cubicle for delivery on one side of the platform if the goat has already been living there.</sent>
+				<sent id ="54">Make a bed of straw there.</sent>
+				<sent id ="55">As the studs give off a repulsive smell, you have to brush them clean before a bath, 2- 3 days a week.</sent>
+				<sent id ="56">There should be 2 -3 studs in a village for procreation.</sent>
+				<sent id ="57">If any someone wants to succeed in rearing goats, they must provide them with balanced feed.</sent>
+				<sent id ="58">If you want to make your goat strong and obtain more milk, you are obliged to give it nutritious feed regularly.</sent>
+				<sent id ="59">You have to treat it with the correct amount of protein, starch, fat, mineral compounds, vitamins and water.</sent>
+				<sent id ="60">Add grains as supplement.</sent>
+				<sent id ="61">The grass called para is an ideal feed for goats.</sent>
+				<sent id ="62">An adult requires 250-300 gm grains daily.</sent>
+				<sent id ="63">Put molasses in the mixture.</sent>
+				<sent id ="64">Now dip the straw in the solution.</sent>
+				<sent id ="65">Offer it to the goat.</sent>
+				<sent id ="66">A goat can feed on 500-800 gm UMS.</sent>
+				<sent id ="67">You need to divide the grains into two parts: give one-half in the morning and one-half in the afternoon.</sent>
+				<sent id ="68">Milk the goat after it has had the grains.</sent>
+				<sent id ="69">You have to fill in the tub with water again.</sent>
+				<sent id ="70">Guide the goat to the shed as night falls.</sent>
+				<sent id ="71">The most urgent it is to arrest the disease if it has attacked a goat.</sent>
+				<sent id ="72">In addition, goats suffer from bloating stomach, indigestion, diarrhoea, stomachache, food poisoning, etc. Skin diseases harm goats too much.</sent>
+				<sent id ="73">If you keep a goat in a damp place, it will contract more diseases.</sent>
+				<sent id ="74">It is advised that you will not keep it in such a place.</sent>
+				<sent id ="75">Contact the local veterinary hospital to vaccinate the goats against contagious diseases.</sent>
+				<sent id ="76">Separate the sick goats from the healthy ones and treat them.</sent>
+				<sent id ="77">Don't let the goats stay in a damp place or ditch or marsh.</sent>
+				<sent id ="78">Worms may attack them from these places.</sent>
+				<sent id ="79">You cannot allow a goat to get wet in rain and catch cold.</sent>
+				<sent id ="80">Pneumonia immediately follows cold.</sent>
+				<sent id ="81">Watch the goat does not suffer from malnutrition to indisposition.</sent>
+				<sent id ="82">Goats can be protected from the contagious diseases like anthrax, hoof infection, smallpox, hydrophobia by vaccination.</sent>
+				<sent id ="83">List all the requirements for making 10 kg feed.</sent>
+				<sent id ="84">Take the ingredients according to the measure mentioned in the list.</sent>
+				<sent id ="85">Blend the ingredients with mineral mixtures and salt.</sent>
+				<sent id ="86">Keep the feed in ten bags, one kg each.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,100 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-budh-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.634</idno>
+				<idno type="Number of sentences">72</idno>
+				<idno type="Number of tokens">718</idno>
+				<idno type="Number of token types">315</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t47">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The glorious events of Buddha's life took place during these Purnimas.</sent>
+				<sent id ="2">On these Purnimas, the Buddhists remember those events and offer respect to them.</sent>
+				<sent id ="3">In this chapter, we shall learn about some other memorable Purnimas.</sent>
+				<sent id ="4">These Purnimas are not less important.</sent>
+				<sent id ="5">Those Purnimas have been discussed below.</sent>
+				<sent id ="6">The Buddhist religious book is the Tripitak.</sent>
+				<sent id ="7">The conference for compiling the messages of Buddha is called the Sangiti.</sent>
+				<sent id ="8">In the fourth month after the Parinirban the first Sangiti started during the Shrabani Purnima.</sent>
+				<sent id ="9">The venue of this Sangiti was the Saptaparni Cave of the Bevar Mountain near Rajgriha.</sent>
+				<sent id ="10">Mahakashyap Thero presided over the Sangiti.</sent>
+				<sent id ="11">This Sangiti was held with the help of Ajatshatru, the king of Magadha.</sent>
+				<sent id ="12">The Shrabani purnima is noteworthy for the first Sangiti.</sent>
+				<sent id ="13">The Madhu Purnima is a remarkable Purnima.</sent>
+				<sent id ="14">Buddha observed the Barshabas for forty-five years.</sent>
+				<sent id ="15">Once he observed the Barshabas into a dense forest called Parileya.</sent>
+				<sent id ="16">Wild animals would offer respect to him with the influence of Karuna, his friend.</sent>
+				<sent id ="17">In this forest, there was a big elephant named Parileya.</sent>
+				<sent id ="18">The elephant, offering him sweet fruits, served and worshipped Buddha.</sent>
+				<sent id ="19">A monkey saw the elephant worshipping and giving offering to him.</sent>
+				<sent id ="20">The monkey felt an urge to offer something to Buddha.</sent>
+				<sent id ="21">But the elephant had offered him all the sweet fruits.</sent>
+				<sent id ="22">He thought he would offer something new to Buddha.</sent>
+				<sent id ="23">The monkey saw a beehive in a tree.</sent>
+				<sent id ="24">The bees had left the beehive.</sent>
+				<sent id ="25">But there was still some honey left in the beehive.</sent>
+				<sent id ="26">The monkey thought it was the right thing to offer.</sent>
+				<sent id ="27">I would offer honey from different flowers to Buddha.</sent>
+				<sent id ="28">I would worship him.</sent>
+				<sent id ="29">The monkey offered the beehive with great respect to Buddha.</sent>
+				<sent id ="30">Buddha took the beehive from the monkey.</sent>
+				<sent id ="31">He drank the honey.</sent>
+				<sent id ="32">The monkey became very happy.</sent>
+				<sent id ="33">He started dancing in joy from tree to trees.</sent>
+				<sent id ="34">He once fell down from a tree and died.</sent>
+				<sent id ="35">After his death, he was reborn in the heaven as a son of god.</sent>
+				<sent id ="36">It was the Bhadra Purnima.</sent>
+				<sent id ="37">It was named the Madhu Purnima in memory of the offering of the monkey.</sent>
+				<sent id ="38">On the Madhu Purnima, the Buddhists give away honey.</sent>
+				<sent id ="39">On this day, they perform the Uposath Shil.</sent>
+				<sent id ="40">They observe the Madhu Purnima with respect.</sent>
+				<sent id ="41">It is Autumn in the Bengali month of Aswin.</sent>
+				<sent id ="42">The Aswini Purnima is a beautiful time in Autumn.</sent>
+				<sent id ="43">Bhagwan Buddha once performed the Barshabas in the heaven of Tabatimsa.</sent>
+				<sent id ="44">During the three months of his Barshabas he explained the Darma to the gods.</sent>
+				<sent id ="45">He also during this time explained the Darma to his mother in the heaven.</sent>
+				<sent id ="46">At the end of his Barshabas, he came down to the Shankasya Nagar.</sent>
+				<sent id ="47">The Nagar was enlightened as Buddha displayed his various attainments.</sent>
+				<sent id ="48">Buddha used to give religious sermons to his disiplen on this purnima or full-moon night.</sent>
+				<sent id ="49">Gods, Brahma and the mankind listened to the instructions of Buddha at the same time.</sent>
+				<sent id ="50">The Aswini Purnima is very significant, eventful and diversified in the history of Buddhism.</sent>
+				<sent id ="51">Its religious and social values are unlimited.</sent>
+				<sent id ="52">The Kirtiki Purnima is remarkable for three important events.</sent>
+				<sent id ="53">Bhagwan Buddha explained the Shramanyaphal Sutra to the king of Magadha, Ajatashatru.</sent>
+				<sent id ="54">Listening to the precepts from this Sutra, the great king, Ajatashatru was converted to Buddhism.</sent>
+				<sent id ="55">On this day Sariputra Thero, an Agrashrabak of Buddha, attained Parinirban.</sent>
+				<sent id ="56">Besides, on this day, the auspicious Kathin Chiba Dan (Yellow Robes Offering Ceremony) ended.</sent>
+				<sent id ="57">It is spring in the Bengali month of Falgun.</sent>
+				<sent id ="58">It is full of natural beauties.</sent>
+				<sent id ="59">On this Purnima, some events took place in the life of Buddha.</sent>
+				<sent id ="60">Kaludayi is a friend to Siddhartha since his boyhood.</sent>
+				<sent id ="61">He went to Buddha with a message from the king, Shuddhodan.</sent>
+				<sent id ="62">Bhagwan Buddha came to the kingdom of Shakya as Kaludayi could convince him.</sent>
+				<sent id ="63">This day was celebrated in the kingdom of Shakya.</sent>
+				<sent id ="64">On this Purnima, Buddha explained the Dharma.</sent>
+				<sent id ="65">Listening to his precepts, the great king, Shuddhodan attained the Arhatvaphal.</sent>
+				<sent id ="66">The conference of the relatives turned into a great celebration.</sent>
+				<sent id ="67">The Falguni Purnima is observed in memory of this great celebration.</sent>
+				<sent id ="68">The pious Buddhists commemorate the day with joy.</sent>
+				<sent id ="69">These remarkable Purnimas are very glorious for us.</sent>
+				<sent id ="70">On these days the Buddhists get together.</sent>
+				<sent id ="71">As a result, these days turn into the great celebrations.</sent>
+				<sent id ="72">You will remember the different events in the life of Buddha with due respect.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

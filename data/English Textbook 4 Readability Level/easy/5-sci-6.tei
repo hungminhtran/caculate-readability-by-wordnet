@@ -1,0 +1,74 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.021</idno>
+				<idno type="Number of sentences">46</idno>
+				<idno type="Number of tokens">574</idno>
+				<idno type="Number of token types">289</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t54">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We may also have accidents such as drowning.</sent>
+				<sent id ="2">When these accidents occur, there might not always be a doctor nearby.</sent>
+				<sent id ="3">In such cases, first aid can be given in order to deal with minor accidents.</sent>
+				<sent id ="4">That is why it is necessary for everyone to have some idea about basic medical treatment.</sent>
+				<sent id ="5">Last year, you learnt how to give first aid in case of such accidents.</sent>
+				<sent id ="6">If a doctor is not available during the time of the accident, you will have to administer the first aid.</sent>
+				<sent id ="7">What is first aid?</sent>
+				<sent id ="8">The pain of an injured person can be reduced with the help of proper first aid.</sent>
+				<sent id ="9">Suppose one of your friends broke his arm or leg while playing football or upon falling from a tree.</sent>
+				<sent id ="10">He starts to moan and scream in pain.</sent>
+				<sent id ="11">He cannot move his arms or legs.</sent>
+				<sent id ="12">What should you do?</sent>
+				<sent id ="13">This will cause the swelling and pain of the injured place to alleviate.</sent>
+				<sent id ="14">This will prevent broken bones from moving, and the patient will feel less pain.</sent>
+				<sent id ="15">A bandage can be used to tie the slabs of wood.</sent>
+				<sent id ="16">Do not use any medicine on the area of fracture.</sent>
+				<sent id ="17">Never try to relocate or pull the broken bones in any way in order to straighten it.</sent>
+				<sent id ="18">Next the patient should be taken to a hospital or to a doctor as soon as possible.</sent>
+				<sent id ="19">Not all snakes are poisonous.</sent>
+				<sent id ="20">The most poisonous snakes in Bangladesh are viper and cobra.</sent>
+				<sent id ="21">The appearance of snakes increases during the summer and rainy season in rural areas.</sent>
+				<sent id ="22">Sometimes people or animals die from the bites of poisonous snakes.</sent>
+				<sent id ="23">Whether a snake is poisonous or not can be determined by observing the wound left by its bite.</sent>
+				<sent id ="24">First aid is required immediately after a snakebite occurs.</sent>
+				<sent id ="25">It is possible to save the patient's life if medical treatment is provided immediately.</sent>
+				<sent id ="26">This will prevent the snake's poison from spreading throughout the body through the bloodstream.</sent>
+				<sent id ="27">Now the wound must be examined carefully.</sent>
+				<sent id ="28">If the place of wound contains two fang marks, it would indicate that the snake was poisonous.</sent>
+				<sent id ="29">Take a rust-free knife, a pair of scissors or a blade.</sent>
+				<sent id ="30">Before using a knife, scissors or a blade, it should be cooled first.</sent>
+				<sent id ="31">This will cause the poison to come out with the blood.</sent>
+				<sent id ="32">After giving first aid, the patient should be taken to the hospital as soon as possible.</sent>
+				<sent id ="33">Remember that a conjuror can never drain out poison.</sent>
+				<sent id ="34">This is a wrong method of treatment which is only based on superstition.</sent>
+				<sent id ="35">When electricity causes injury to someone, it is termed as an electric shock.</sent>
+				<sent id ="36">Faulty electrical connections or other electrical disturbances can cause electricity to pass through any object at homes or offices.</sent>
+				<sent id ="37">If proper steps are not taken in time, the person or animal may die.</sent>
+				<sent id ="38">In such cases the victim of the shock must be separated from the electrified object immediately.</sent>
+				<sent id ="39">First the main switch must be turned off.</sent>
+				<sent id ="40">If anyone receives an electrical shock, that person must not be touched.</sent>
+				<sent id ="41">Remember that the human body is a conductor of electricity.</sent>
+				<sent id ="42">If you touch an electrocuted person, you will also receive an electric shock.</sent>
+				<sent id ="43">Electric currents can pass through wet wood or bamboo, but not through dry wood or bamboo.</sent>
+				<sent id ="44">In many cases, the shock victim faces breathing problems.</sent>
+				<sent id ="45">If required, an artificial respiration should be arranged for the patient.</sent>
+				<sent id ="46">The victim must be taken to a hospital or to a doctor as soon as possible.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

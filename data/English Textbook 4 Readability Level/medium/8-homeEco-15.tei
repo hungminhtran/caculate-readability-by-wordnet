@@ -1,0 +1,172 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.734</idno>
+				<idno type="Number of sentences">144</idno>
+				<idno type="Number of tokens">1884</idno>
+				<idno type="Number of token types">595</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t164">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Cotton clothes are widely and generally used in our homes.</sent>
+				<sent id ="2">Dresses, garments, bed sheets, sofa-cover, pillow-covers, door and window screens, diaper of children and many others clothes are made of cotton.</sent>
+				<sent id ="3">These clothes becomes dirty after using some days and are not suitable for use.</sent>
+				<sent id ="4">It is made suitable for use after cleaning with soap, soda or any other detergent.</sent>
+				<sent id ="5">To make it clean is not enough.</sent>
+				<sent id ="6">To bring back the natural beauty and brightness of clothes starch and indigo are to be used and then ironed.</sent>
+				<sent id ="7">Therefore washing is a long process of included cleaning with soap and soda, using starch and indigo and then ironing.</sent>
+				<sent id ="8">The following process is followed for proper washing of cotton clothes.</sent>
+				<sent id ="9">(A) Clothes should be selected according to their colour, texture and size.</sent>
+				<sent id ="10">Before soaking for washing, clothes should be selected according to their colour to deep, light and white clothes.</sent>
+				<sent id ="11">Some deep colours are not permanent and it will discolour the other clothes if there are not separated before washing.</sent>
+				<sent id ="12">Clothes should be separated according to plant fibre, animal fibre and synthetic fibre.</sent>
+				<sent id ="13">Because the dresses made of different fibre can not be washed in same process.</sent>
+				<sent id ="14">The washing methods are different.</sent>
+				<sent id ="15">Cotton clothes can be boiled, but silk and woollen clothes are not suitable for boiling.</sent>
+				<sent id ="16">Before washing, clothes should be separated according to their size like under garments, bed sheets, handkerchiefs and socks.</sent>
+				<sent id ="17">If they are washed together there may be a possibility of loosing small clothes.</sent>
+				<sent id ="18">Clothes also should be separated according to their amount of dirt too.</sent>
+				<sent id ="19">If less dirty clothes are separated from very dirty clothes.</sent>
+				<sent id ="20">It can be easily and quickly cleaned only with soap quickly and without much labour.</sent>
+				<sent id ="21">The clothes should be soaked in lukewarm water with soap little bit before washing so that it is easy to clean.</sent>
+				<sent id ="22">These types of clothes need more labour and more time.</sent>
+				<sent id ="23">So it may be washed with hot water or in boiling water.</sent>
+				<sent id ="24">But coloured clothes should not be boiled.</sent>
+				<sent id ="25">These clothes can be soaked in soap water for some time and then washed to make it clean.</sent>
+				<sent id ="26">On regular using clothes, fibre loose strength and start tearing where pressure is exerted.</sent>
+				<sent id ="27">Clothes should be repaired on time.</sent>
+				<sent id ="28">Otherwise these tears become broader and may not suitable for further use.</sent>
+				<sent id ="29">The process of darning, patches, setting button are described bellow.</sent>
+				<sent id ="30">This is a type of repairing work.</sent>
+				<sent id ="31">A frame is needed for fixing the clothes inrepairing place.</sent>
+				<sent id ="32">Needle and thread must be chosen according to size and colour of the clothes, some time some colour of threads are not available for darning.</sent>
+				<sent id ="33">If it is a sari, some thread can be taken off from the end of the sari for darning.</sent>
+				<sent id ="34">Before starting rifu put a mark around the repairing portion with pencil.</sent>
+				<sent id ="35">Then put running stitch over the pencil mark.</sent>
+				<sent id ="36">Then start stitching breadth wise with warp yarn and then length wise with filling yarn.</sent>
+				<sent id ="37">This filling stitch will be interred- curving the running stitch which is passing up and down way.</sent>
+				<sent id ="38">The whole process of work is called darning or rifu.</sent>
+				<sent id ="39">If any portion of the dress or clothes is torn off or cut for somehow, a hole, big or small may appear on it.</sent>
+				<sent id ="40">To mend this hole a patch up is necessary.</sent>
+				<sent id ="41">Patch up is done by a piece of clothe almost similar in texture and colour.</sent>
+				<sent id ="42">The piece of cloth should be bigger then the size of the hole.</sent>
+				<sent id ="43">The piece of cloth should be placed on the hole and stitched around it by hemstitch.</sent>
+				<sent id ="44">Hemstitch is a round about stitch used on the folded edge of the clothes.</sent>
+				<sent id ="45">This will give a good finishing work. 1) Select the place for setting button through the button hole.</sent>
+				<sent id ="46">2) Fix the button on the selected place with double thread in the needle.</sent>
+				<sent id ="47">3) Put the button on a fixed place with a pin then pass the needle with a thread up and down across the button hole.</sent>
+				<sent id ="48">4) Put out the pin from the dress and a knot should be made with the threads under the button.</sent>
+				<sent id ="49">In case of press-button you need not make any button hole.</sent>
+				<sent id ="50">The button is divided into two parts.</sent>
+				<sent id ="51">Each part has to be fixed to opposite sides so that the both sides are fixed together.</sent>
+				<sent id ="52">Some time stains are created on clothes due to carelessness.</sent>
+				<sent id ="53">If these stains are not removed, it may become permanent some stains can be removed only washing with water only.</sent>
+				<sent id ="54">Some time chemicals are needed for removal of stain.</sent>
+				<sent id ="55">When more then one dress is washed together the colour of one dress may stain with the other dress.</sent>
+				<sent id ="56">Some times iron stain clothes.</sent>
+				<sent id ="57">Setting methods of button & press-button Vapour bath method Many processes are used for the removal of stain from clothes.</sent>
+				<sent id ="58">It depends on fibre and texture, colour and design, duration of stain etc.</sent>
+				<sent id ="59">For the removal of stain dipping, steaming, dropping and sponge methods are most common.</sent>
+				<sent id ="60">When the whole clothes are sink on the removal agent that is called the dipping method.</sent>
+				<sent id ="61">The stain of sweating and turmeric are removed by sinking method.</sent>
+				<sent id ="62">So that the stain is removed by the vapour.</sent>
+				<sent id ="63">On the other process removal agents are put on the stained portion by a dropper.</sent>
+				<sent id ="64">Generally the stain of blood and tea of silk and woollen clothes and ball pen marks on cotton clothes are removed by this process.</sent>
+				<sent id ="65">The stained portion should be dipped in cold water to washe it with soap and water.</sent>
+				<sent id ="66">If the stain is old it should be removed with diluted ammonia solution and washed it with soap and water.</sent>
+				<sent id ="67">This mark should be clean with soap and water.</sent>
+				<sent id ="68">If the mark is not removed it should be washed with oxalic acid or ammonia.</sent>
+				<sent id ="69">These marks also are removed by same method with milk.</sent>
+				<sent id ="70">The marked portion should be cleaned with boracom or lemon juice and then dry it in the sun light.</sent>
+				<sent id ="71">Besides boiled water can be poured from 30 to 90 cm height from the marked portion through a kettle for the removal of the mark.</sent>
+				<sent id ="72">Cotton clothes can be washed with soap and lukewarm water and then dried it on the grass.</sent>
+				<sent id ="73">So the stain of turmeric can be removed.</sent>
+				<sent id ="74">Usual stain of sweat can be removed by washing with soap and water and then dried it in the sunlight.</sent>
+				<sent id ="75">But old and dirtier stain needs treatment with ammonic solution or dilute hydrogen peroxide solution.</sent>
+				<sent id ="76">These clothes should be soaked for some time before washing.</sent>
+				<sent id ="77">Stain rust should be removed by lemon juice.</sent>
+				<sent id ="78">If the stain is old it needs salt with lemon juice or light oxalic acid for removal of stain.</sent>
+				<sent id ="79">The mud of the clothes should be removed with a brush after drying it then washed it with soap and water.</sent>
+				<sent id ="80">After removal of stain the cotton clothes should be soaked in lukewarm or cold water with soap according to need.</sent>
+				<sent id ="81">Some times phlegm is remain on handkerchief.</sent>
+				<sent id ="82">It should be washed with salt water.</sent>
+				<sent id ="83">White cotton clothes should be boiled with soap and soda according to need.</sent>
+				<sent id ="84">The clothes should be kept in soap water for two to three hours.</sent>
+				<sent id ="85">Some time brush may be used for cleaning the folded part of the clothes like collar of shirt, cuff, sleeves of blouses etc.</sent>
+				<sent id ="86">To remove the soap from the clothes, rinse it for some time in clean water then twist it by hand.</sent>
+				<sent id ="87">When the dirt is removed by washing, it needs rinsing.</sent>
+				<sent id ="88">Rinsing should be done in clean water and these should be done several times.</sent>
+				<sent id ="89">When there is no soap in water and the water is clean then the clothes are to be preserved by hand.</sent>
+				<sent id ="90">All types of clothes need not to use indigo.</sent>
+				<sent id ="91">Indigo brightens white clothes.</sent>
+				<sent id ="92">White clothes become yellowish for using soap and soda.</sent>
+				<sent id ="93">To remove this yellowish shade indigo is used.</sent>
+				<sent id ="94">The powder or solid form of indigo should be poured and diluted in water.</sent>
+				<sent id ="95">For this purpose indigo powder is poured in a piece of thin cloth and diluted it properly.</sent>
+				<sent id ="96">When the colour of water is light blue them rinsed clothes should be soaked in that water.</sent>
+				<sent id ="97">There should be sufficient water.</sent>
+				<sent id ="98">Other wise the colour will not be equally applied.</sent>
+				<sent id ="99">Then, again rinsed it and spread it in the sunlight for drying.</sent>
+				<sent id ="100">Some points are to be remembered for applying indigo in washed clothes.</sent>
+				<sent id ="101">Before sinking in blue water clothes should be rinsed and spread properly so that there would be no fold on the clothes.</sent>
+				<sent id ="102">(B) Before soaking clothes, blue with water should be mixed well.</sent>
+				<sent id ="103">(C) Clothes should not be soaked in blue water for a long time.</sent>
+				<sent id ="104">(D) The indigo should not be mixed in water after soaking clothes.</sent>
+				<sent id ="105">(E) Only one clothes should be soaked in blue water at a time.</sent>
+				<sent id ="106">Fine cotton clothes are dressed with starch for looking smart.</sent>
+				<sent id ="107">So that clothes do not get dirty easily.</sent>
+				<sent id ="108">Starch from boiled rice is also used for this purpose.</sent>
+				<sent id ="109">Starch is prepared by boiling water with flour, burley and arroroot.</sent>
+				<sent id ="110">The hardness of clothes depends on the thickness of the starch.</sent>
+				<sent id ="111">Starch should be poured through a fine clothes then mixed with water to use it in the cloth.</sent>
+				<sent id ="112">The water of the clothes should be removed by shaking.</sent>
+				<sent id ="113">This will also remove fold created by pressure of hand.</sent>
+				<sent id ="114">White clothes can be dried in sunlight, so that it becomes whiter, brighter and germfree.</sent>
+				<sent id ="115">Dress is not ready to be used only after washing and drying.</sent>
+				<sent id ="116">It needs ironing to makes the cloth smooth, bright and orderly.</sent>
+				<sent id ="117">Sprinkling of water is needed before ironing.</sent>
+				<sent id ="118">Iron, and iron stand are necessary for ironing.</sent>
+				<sent id ="119">Iron should be made hot according to the quality of the clothes.</sent>
+				<sent id ="120">Clothes should be spread smoothly before ironing done.</sent>
+				<sent id ="121">Cotton clothes should be ironed slowly to remove shrinkage.</sent>
+				<sent id ="122">For ironing a sharee the border and end of the sharee should be ironed first.</sent>
+				<sent id ="123">For ironing a shirt collar, pocket and cuff should be ironed first.</sent>
+				<sent id ="124">For ironing a pant a crease line of the pant should be ironed.</sent>
+				<sent id ="125">Embroidery clothes should be ironed from back side.</sent>
+				<sent id ="126">Two or three layers of clothes can be iron at a time to save time and electricity.</sent>
+				<sent id ="127">Ironing should be done in sufficient light and air so that water of the cloth dries up quickly and will not feel hot.</sent>
+				<sent id ="128">The following point may be remembered and checked.</sent>
+				<sent id ="129">Iron surface or bottom should be cleaned from stain and rust.</sent>
+				<sent id ="130">Iron should not be too heated.</sent>
+				<sent id ="131">Too much heat may burn the cloth.</sent>
+				<sent id ="132">Switch off the iron while not ironing.</sent>
+				<sent id ="133">Here are the steps for ironing a kameej.</sent>
+				<sent id ="134">At first iron the sleeves.</sent>
+				<sent id ="135">Then iron two sides of kameej.</sent>
+				<sent id ="136">Spread it according to (picture one).</sent>
+				<sent id ="137">Then spread the back portion upward on the table (picture two).</sent>
+				<sent id ="138">Then start folding the body at length and the sleeves.</sent>
+				<sent id ="139">Then the left side and sleeve should be folded from the right half.</sent>
+				<sent id ="140">Then give a slight pressure pressing of iron on it.</sent>
+				<sent id ="141">The whole kameej should have three folds according to the (picture four).</sent>
+				<sent id ="142">After ironing cooling is necessary to dry the sprinkled water.</sent>
+				<sent id ="143">Then keep it with naphthalene.</sent>
+				<sent id ="144">The clothes which are kept for a long time should not be starched because these clothes easily attract worm.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

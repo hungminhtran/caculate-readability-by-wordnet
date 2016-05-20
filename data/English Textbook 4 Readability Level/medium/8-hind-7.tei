@@ -1,0 +1,161 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-hind-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.493</idno>
+				<idno type="Number of sentences">133</idno>
+				<idno type="Number of tokens">1390</idno>
+				<idno type="Number of token types">589</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t155">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Which can hold us is known as religion.</sent>
+				<sent id ="2">Bearing it the welfare of the society and person alike can be obtained.</sent>
+				<sent id ="3">God is the Creator of all things.</sent>
+				<sent id ="4">So He is the creator of religion also.</sent>
+				<sent id ="5">Hence God is the origin of religion.</sent>
+				<sent id ="6">Religion is also expressed through different attributes.</sent>
+				<sent id ="7">It is said in Manusamhita.</sent>
+				<sent id ="8">Patience, forgiveness, kindness, not to steal, purity, self control, honest intellect, knowledge, truthfulness, wrathlessness these ten attributes are the external manifestations of religion.</sent>
+				<sent id ="9">Through these attributes religion expresses itself.</sent>
+				<sent id ="10">It is also said in the scriptures Dharmamulo hi Bhagawan: God is the origin of religion.</sent>
+				<sent id ="11">Keeping faith on god and following the pathway of virtue is called religion.</sent>
+				<sent id ="12">Religious faith again is expressed through some rituals and ceremonies.</sent>
+				<sent id ="13">So fatih, rituals and ceremonies these three elements are the constituents of religion.</sent>
+				<sent id ="14">We know that the Vedas, the Smritis (law), the virtuous practice and conscience these four are the identities of Sanatan or eternal religion.</sent>
+				<sent id ="15">The behaviour of great men are known as virtuous practices and conscience is one's own sense of morality.</sent>
+				<sent id ="16">Following these four, virtue or vice can be determined.</sent>
+				<sent id ="17">Vice is against religion.</sent>
+				<sent id ="18">To be derailed from religion is vice.</sent>
+				<sent id ="19">Not only that, if religion is not followed properly, religion takes retaliating measure.</sent>
+				<sent id ="20">It means if anybody destroys religion, religion does him harm.</sent>
+				<sent id ="21">On the other hand, if religion is protected, it saves the protector.</sent>
+				<sent id ="22">A religious or virtuous man becomes victorious with the help of religion.</sent>
+				<sent id ="23">If one goes against religion, it causes one's ruin.</sent>
+				<sent id ="24">Let us listen to a story about the victory of virtue and defeat of vice: Dharmavuddhi and Papavuddhi There lived two friends in a village.</sent>
+				<sent id ="25">The name of one of them was Dharmavuddhi and the name of the other was Papavuddhi.</sent>
+				<sent id ="26">Dharmavuddhi was really virtuous.</sent>
+				<sent id ="27">Actually his name was not Dharmavuddhi.</sent>
+				<sent id ="28">The other was addressed as Papavuddhi instead of his real name for his vicious deeds.</sent>
+				<sent id ="29">Once Dharmavuddhi and Papavuddhi went abroad for trade.</sent>
+				<sent id ="30">Wandering around so many countries, they were running their business.</sent>
+				<sent id ="31">Papavuddhi, if he could find out a chance, tried to deceive anybody.</sent>
+				<sent id ="32">But Dharmavuddhi prohibited him from doing so.</sent>
+				<sent id ="33">He said, what is the use of deceiving anybody?</sent>
+				<sent id ="34">Normally we are making much profit.</sent>
+				<sent id ="35">It is not wise to be more greedy.</sent>
+				<sent id ="36">There is a proverb: Temptation leads to sin and sin to death.</sent>
+				<sent id ="37">You are very fool.</sent>
+				<sent id ="38">If we deceive others, we will be able to make more profit and will be able to return home with more wealth.</sent>
+				<sent id ="39">But Dharmavuddhi remained unchanged.</sent>
+				<sent id ="40">He said, Whatever you say, I am not following the vicious means.</sent>
+				<sent id ="41">By virtue of Dharmavuddhi, even keeping the honest way both the friends returned with a lot of wealth.</sent>
+				<sent id ="42">Look forward, my friend, it is our village.</sent>
+				<sent id ="43">How nice the trees and plants with their dense shadow are!.</sent>
+				<sent id ="44">How affectionate it is!</sent>
+				<sent id ="45">Wherever I go, my heart cries for this village.</sent>
+				<sent id ="46">Within a very short time, they reached the familiar banyan tree of their village.</sent>
+				<sent id ="47">They were tired for the journey.</sent>
+				<sent id ="48">To be fresh from tiredness they sat under the shadow of that banyan tree.</sent>
+				<sent id ="49">After a while, Papavuddhi said, My friend, I have got an idea in my head.</sent>
+				<sent id ="50">What is it?</sent>
+				<sent id ="51">What is that beguiling ghost who has possessed you?</sent>
+				<sent id ="52">My friend, won't you be a man of honest will?</sent>
+				<sent id ="53">I think, once you may deceive even me!</sent>
+				<sent id ="54">I must avail, if I get a chance!.</sent>
+				<sent id ="55">Papavuddhi said smiling.</sent>
+				<sent id ="56">Listen to me.</sent>
+				<sent id ="57">It will not be wise to take home such a big amount of money.</sent>
+				<sent id ="58">Many persons who will get information of our money, may come to borrow or get it showing so many excuses.</sent>
+				<sent id ="59">The king may impose taxes at a higher rate.</sent>
+				<sent id ="60">Many men will come to know that we have much money.</sent>
+				<sent id ="61">Thieves and robbers will wait for a chance.</sent>
+				<sent id ="62">Much money has got much problems.</sent>
+				<sent id ="63">Then what do you want to do? Dharmavuddhi asked.</sent>
+				<sent id ="64">Papavuddhi answered, Keeping some of the money with us, let us bury the rest under this tree.</sent>
+				<sent id ="65">When we need, we will come and take any amount according to our necessity.</sent>
+				<sent id ="66">Dharmavuddhi thought over the proposal and found reasons behind it.</sent>
+				<sent id ="67">Then they buried three-fourths of the amount of money, took one fourth with them and sharing out them and started for home.</sent>
+				<sent id ="68">After some days Dharmavuddhi felt the need of some money.</sent>
+				<sent id ="69">Then Dharmavuddhi and Papavuddhi went together to bring money.</sent>
+				<sent id ="70">They dug the soil and saw that there was no money at all.</sent>
+				<sent id ="71">Papavuddhi was as if as a loss setting his hand over his head, he began to utter repeatedly exclamations of regret.</sent>
+				<sent id ="72">He said, to Dharmavuddhi, Oh, so mean you are!</sent>
+				<sent id ="73">You have come alone and have taken all the money, I believe.</sent>
+				<sent id ="74">Fie on you! fie!</sent>
+				<sent id ="75">What do you say?</sent>
+				<sent id ="76">It was decided that both of us will come together and take our money out.</sent>
+				<sent id ="77">I have come alone and taken money how could you imagine this improper matter regarding me!</sent>
+				<sent id ="78">Instead, it is you who has taken the money.</sent>
+				<sent id ="79">I will not be satisfied until I am getting my share.</sent>
+				<sent id ="80">Both of them made each other guilty for the money and began to quarrel.</sent>
+				<sent id ="81">At last the matter moved to the court of the king.</sent>
+				<sent id ="82">Both of them wanted justice and demanded his own share.</sent>
+				<sent id ="83">The king heard their complain and asked, It is difficult to judge a case without the witness.</sent>
+				<sent id ="84">Have you any?</sent>
+				<sent id ="85">Both of them remained silent.</sent>
+				<sent id ="86">Papavuddhi had a ready wit to get the idea of mischievous action.</sent>
+				<sent id ="87">he answered the king.</sent>
+				<sent id ="88">Yes, your excellency.</sent>
+				<sent id ="89">That banyan tree under which we have buried our money, is my witness.</sent>
+				<sent id ="90">It will give evidence.</sent>
+				<sent id ="91">It will tell the name of the guilty.</sent>
+				<sent id ="92">The king said, Well, the judgement will be held tomorrow under that banyan tree.</sent>
+				<sent id ="93">But Papavuddhi, did not tell so taking the banyan tree a real witness.</sent>
+				<sent id ="94">He returned home and narrated the whole matter to his father.</sent>
+				<sent id ="95">It is fact that I have taken the money.</sent>
+				<sent id ="96">You, please, will take the trouble to save me, father!</sent>
+				<sent id ="97">You will go to the spot and hide yourself in the hollow part of the banyan tree.</sent>
+				<sent id ="98">Otherwise, money and my life, both will be lost.</sent>
+				<sent id ="99">To save the life of the son, the old father agreed to give false witness.</sent>
+				<sent id ="100">Next day the case was trialed under that banyan tree.</sent>
+				<sent id ="101">Following the plan of the son, Papavuddhi's father shouted, Dharmavuddhi is the real thief.</sent>
+				<sent id ="102">He has stolen the money.</sent>
+				<sent id ="103">Hearing the statement of the banyan tree, everybody became astonished.</sent>
+				<sent id ="104">All of them scolded Dharmavuddhi, - It was you who have got the tittle Dharmavuddhi, from us!</sent>
+				<sent id ="105">Such a vice you have committed! .</sent>
+				<sent id ="106">Fie on you, fie! Dharmavuddhi's ears had been poured into as if with hottened lead.</sent>
+				<sent id ="107">He did never fall in such an insulting situation.</sent>
+				<sent id ="108">The king also became speechless!</sent>
+				<sent id ="109">Dharmavuddhi involved himself in such a vicious activity!</sent>
+				<sent id ="110">Dharmavuddhi became reddened with anger, grief and perturbation.</sent>
+				<sent id ="111">His eyes also became red as if fire was flaming there!</sent>
+				<sent id ="112">Dharmavuddhi shouted, I have not committed any vice in my life.</sent>
+				<sent id ="113">Always I have been following the order of religion.</sent>
+				<sent id ="114">The banyan tree has told a lie.</sent>
+				<sent id ="115">I will burn it.</sent>
+				<sent id ="116">Saying this, Dharmavuddhi gathered some dry creepers and leaves and set the hllow of the banyan tree to fire.</sent>
+				<sent id ="117">The blazing flames of the fire were going up.</sent>
+				<sent id ="118">Then from the hole of that banyan tree, the father of Papavuddhi came out shouting for a rescue.</sent>
+				<sent id ="119">Oh, I am going to be burnt and die!</sent>
+				<sent id ="120">I following the plan of my son and to save him, I have told a lie.</sent>
+				<sent id ="121">It is not Dharmavuddhi, but Papavuddhi is a thief.</sent>
+				<sent id ="122">He came alone and took the whole amount of money and shifted the charge of the crime to Dharmavuddhi.</sent>
+				<sent id ="123">Papavuddhi's father begged pardon to Dharmavuddhi.</sent>
+				<sent id ="124">He was groaning out of the severe pain of burning.</sent>
+				<sent id ="125">After a while, he died.</sent>
+				<sent id ="126">The king looked at Papavuddhi with anger.</sent>
+				<sent id ="127">Papavuddhi was trembling in fear.</sent>
+				<sent id ="128">He repeatedly fell down at the feet of the king and Dharmavuddhi.</sent>
+				<sent id ="129">Weeping bitterly he said, I beg pardon.</sent>
+				<sent id ="130">I will never do any vicious deed in future.</sent>
+				<sent id ="131">But he did not get pardon.</sent>
+				<sent id ="132">According to the order of the king he had to pay the money of the share of Dharmavuddhi.</sent>
+				<sent id ="133">The king punished Papavuddhi severely.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

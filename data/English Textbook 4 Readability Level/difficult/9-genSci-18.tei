@@ -1,0 +1,120 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-genSci-18</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.227</idno>
+				<idno type="Number of sentences">92</idno>
+				<idno type="Number of tokens">1119</idno>
+				<idno type="Number of token types">467</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t65">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Colour has made our life and environment highly beautiful and colourful.</sent>
+				<sent id ="2">We find the games of colours every where in the nature.</sent>
+				<sent id ="3">The presence of wonderful colours in nature is actually the reflection of different colours of the rays of sunlight.</sent>
+				<sent id ="4">If we return our eyes from nature to the substances used in our daily life, our food, cloth, house, furniture, doors and windows, roads, vehicles, launches, boats etc.</sent>
+				<sent id ="5">we find that every thing is some how coloured or painted.</sent>
+				<sent id ="6">People have been learning the method of colouring for thousands of years.</sent>
+				<sent id ="7">Colour makes our usable articles manifold attractive and enhances the beauty.</sent>
+				<sent id ="8">The substances which are used to dye or paint something are called colourants.</sent>
+				<sent id ="9">In ancient times people used vegetable, animal sources and minerals as colouring substances.</sent>
+				<sent id ="10">Artificial dyes have been discovered towards the eve of nineteenth century.</sent>
+				<sent id ="11">As a result varieties of colour developed and their qualities also improved to a great extent.</sent>
+				<sent id ="12">The colouring materials can be divided into two classes.</sent>
+				<sent id ="13">Soluble colouring agent and insoluble colouring agent.</sent>
+				<sent id ="14">The colouring agents which are soluble in water or in any other liquid are called dye.</sent>
+				<sent id ="15">The colouring agents which are insoluble in water or any other liquid but can be used as opaque fluid for coating purposes on solid surface are called insoluble colour or paint.</sent>
+				<sent id ="16">Paints can be used to metal surface, wood, bamboo, stone, paper, cloth, leather or on any other solid.</sent>
+				<sent id ="17">Dyes can be used in cloth, paper, different types of fibres and cloths.</sent>
+				<sent id ="18">Paint is actually the mixture of pigment and vehicle.</sent>
+				<sent id ="19">Vehicle is a liquid but pigment never dissolves in vehicle.</sent>
+				<sent id ="20">But the pigments diffuse in it uniformly.</sent>
+				<sent id ="21">That is, the pigment particles mix with the vehicle in such a way that the particles are distributed in equal distances through out the whole liquid.</sent>
+				<sent id ="22">Another liquid solvent is used to dilute this paint mixture.</sent>
+				<sent id ="23">The vehicle dissolves in it but the original pigment does not dissolve.</sent>
+				<sent id ="24">This is called solvent thinner.</sent>
+				<sent id ="25">By diluting the paint coating on the surface becomes uniform and easy.</sent>
+				<sent id ="26">Specially, use of thinner is very important in spray painting.</sent>
+				<sent id ="27">Paints of different qualities are made from the different pigment, vehicle and thinner.</sent>
+				<sent id ="28">As a result, variation of uses are found.</sent>
+				<sent id ="29">A kind of milky white liquid or extracts come out from the bark of certain trees.</sent>
+				<sent id ="30">Generally this is called latex.</sent>
+				<sent id ="31">Such type of white liquid is extracted from rubber trees.</sent>
+				<sent id ="32">In general, latex indicates the juice from rubber tree.</sent>
+				<sent id ="33">Rubber is produced from this juice.</sent>
+				<sent id ="34">Latex can also be produced by artificial means.</sent>
+				<sent id ="35">Latex can also be made by mixing artificial or synthetic rosin with water.</sent>
+				<sent id ="36">The paint produced by mixing pigment with latex vehicle is called latex or emulsion paint.</sent>
+				<sent id ="37">This paint is used to coating wall, metal surface, wood, bamboo, cane etc.</sent>
+				<sent id ="38">This paint is diluted with water.</sent>
+				<sent id ="39">The emulsion which is made for wall painting contains polyvinyl latex vehicle and different pigments.</sent>
+				<sent id ="40">The emulsion paint particularly made for wood can also be applied on concrete, wall and roofs.</sent>
+				<sent id ="41">Polyvinyl acetate or acrylic is used to make this paint.</sent>
+				<sent id ="42">Water is used in it as thinner.</sent>
+				<sent id ="43">The thin coating of this paint protects solid surfaces from alkaline action.</sent>
+				<sent id ="44">Emulsion can also be made by mixing pigments with poly acrylic latex.</sent>
+				<sent id ="45">The pigments which are used as constituents of paint can be divided into two kinds.</sent>
+				<sent id ="46">Prime pigment and inert pigment.</sent>
+				<sent id ="47">Prime pigment produces colour of the paint.</sent>
+				<sent id ="48">Different types of chemical compounds viz.</sent>
+				<sent id ="49">compounds of lead were also used as pigments in before.</sent>
+				<sent id ="50">Recently the paint industries are using different artificial or synthetic substances as pigments.</sent>
+				<sent id ="51">Important synthetics of this type are: Titanium dioxide (white pigment), Tahloeynine (blue and green pigment), Iron oxide (brown, red, yellow pigment).</sent>
+				<sent id ="52">Inert pigment has no effect on the colour of the paint.</sent>
+				<sent id ="53">But these substances make the colour bright, long-lasting.</sent>
+				<sent id ="54">The important inert pigments are calcium carbonate clay, magnesium, silicate mica, talc etc.</sent>
+				<sent id ="55">To make wood, metal and other substances lustrous, bright and to protect from air and moisture a coating of a transparent liquid on its surface is used.</sent>
+				<sent id ="56">This is called varnish.</sent>
+				<sent id ="57">A thin, strong and bright layer remain on the surface after drying the varnish.</sent>
+				<sent id ="58">The wood, bamboo, cane or metal surface is clearly seen through this layer.</sent>
+				<sent id ="59">Wood fibres are clearly seen.</sent>
+				<sent id ="60">Varnish materials has its own colour.</sent>
+				<sent id ="61">This changes the colour of the wood but still the wood fibres remain visible clearly.</sent>
+				<sent id ="62">Varnishes applied on metal surface sometimes are called lacquers.</sent>
+				<sent id ="63">Lacquers prevent metal from erosion and rusting.</sent>
+				<sent id ="64">But brightness of metal remains unchanged.</sent>
+				<sent id ="65">Varnish is used to protect insulating wires, wooden materials, paper etc. from the effect of weather.</sent>
+				<sent id ="66">Varnish is mainly of two types, spirit varnish and oil-resin or oleoresinous varnish.</sent>
+				<sent id ="67">Spirit varnish is prepared by dissolving resin or shellac ethyl alcohol or methelated spirit.</sent>
+				<sent id ="68">When this varnish is applied on wood surface the spirit turns to vapour and a layer of varnish settles on the wooden surface.</sent>
+				<sent id ="69">Spirit varnish is of four typs; shellac varnish, resin varnish, phenol-resin varnish and urea-formaldehyde resin varnish.</sent>
+				<sent id ="70">Oil-resin varnish is made by mixing resin with special types of oil.</sent>
+				<sent id ="71">Resin is added to oil and then heated.</sent>
+				<sent id ="72">It is then dissolved in tarpinol and petroleum.</sent>
+				<sent id ="73">This solution evaporates and helps to condense oil.</sent>
+				<sent id ="74">This type of varnish is very suitable for outer materials of houses.</sent>
+				<sent id ="75">Oil resin varnish is classified into eight classes.</sent>
+				<sent id ="76">Among these the most important are, outer surface varnish, inner-surface varnish, oak varnish, floor varnish, flatting varnish and stove varnish.</sent>
+				<sent id ="77">Both natural and synthetic resin are used for making varnish.</sent>
+				<sent id ="78">Natural resin is extracted from juice of certain trees.</sent>
+				<sent id ="79">Shellac, lac and demur etc. resin obtain from natural sources.</sent>
+				<sent id ="80">Artificial resin are of some chemical compounds produced in laboratory, such as phenol-formaldehyde etc.</sent>
+				<sent id ="81">To make spirit varnish, some methelated spirit are to be taken in a soil, glass or metallic container.</sent>
+				<sent id ="82">Then required quantity of resin or shellac are to be dissolved in it.</sent>
+				<sent id ="83">Within some time shellac will dissolve in it.</sent>
+				<sent id ="84">To dissolve quickly the mixture may be stirred with a stick.</sent>
+				<sent id ="85">It may be heated gently if required.</sent>
+				<sent id ="86">A little cotton or a small piece of soft cloth is moistened with this viscera solution and surface of wooden furniture is gently rubbed with it.</sent>
+				<sent id ="87">It is repeated several times and finally varnish coating will deposit on the wood surface.</sent>
+				<sent id ="88">A formula of spirit varnish is given here.</sent>
+				<sent id ="89">By keeping the proportion of constituents unchanged, a small quantity of varnish may be prepared and used experimentally.</sent>
+				<sent id ="90">Spirit varnish is widely used in our country.</sent>
+				<sent id ="91">This varnish is used to protect wood, bamboo, cane-furniture from climate.</sent>
+				<sent id ="92">As a result, the furniture becomes bright and lustrous for a longer period of time.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

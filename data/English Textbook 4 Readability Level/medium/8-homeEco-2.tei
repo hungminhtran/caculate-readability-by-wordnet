@@ -1,0 +1,125 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.806</idno>
+				<idno type="Number of sentences">97</idno>
+				<idno type="Number of tokens">1307</idno>
+				<idno type="Number of token types">523</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t167">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In our country in every house, there are some common resources for every day use.</sent>
+				<sent id ="2">All members of a family share those things such as telephones, news papers, electric fans and lights, toilet, tube well area, lawn etc.</sent>
+				<sent id ="3">The members should take care while using the common properties.</sent>
+				<sent id ="4">Slight negligence or indifference may cause deterioration of relationship or mental conflict among the members.</sent>
+				<sent id ="5">Every body should be mentally prepared to sacrifice his self-interest for proper utilisation of common resources.</sent>
+				<sent id ="6">It is not only the money matter.</sent>
+				<sent id ="7">it is expressed through everyday affairs, words and behaviour too.</sent>
+				<sent id ="8">Every body should shun competitive mentality and use the common items of the family belongings through patience and understanding.</sent>
+				<sent id ="9">If all the members maintain this, they will be respectful to each other.</sent>
+				<sent id ="10">All the members of a family use telephone according to their need.</sent>
+				<sent id ="11">At the time of using telephone, every body should remember that he/she should not engage it by excessive unnecessary conversation.</sent>
+				<sent id ="12">If some body engages telephone by meaningless continuous talking, urgent call from others may not get line.</sent>
+				<sent id ="13">So everybody should be brief while talking over telephone.</sent>
+				<sent id ="14">If somebody needs to telephone, he should write in a paper what he is going to tell.</sent>
+				<sent id ="15">When the conversation over the telephone is over, the receiver should be kept properly, otherwise it will not get connected.</sent>
+				<sent id ="16">It should be remembered that telephone should be used at the moment of necessity.</sent>
+				<sent id ="17">We get news from home and abroad through newspaper.</sent>
+				<sent id ="18">If there is one news paper in a family, it should be read by all together.</sent>
+				<sent id ="19">No one should quarrel over the matter of who will read first.</sent>
+				<sent id ="20">Preference should be given to the elders.</sent>
+				<sent id ="21">When the elders finish reading, the younger should read by turn or together.</sent>
+				<sent id ="22">Those who will go to office or outside the house should be given the opportunity to read first.</sent>
+				<sent id ="23">Those who are staying back will read later on.</sent>
+				<sent id ="24">Sometimes people are eager to know the exciting news.</sent>
+				<sent id ="25">In this case one will read aloud and others will listen.</sent>
+				<sent id ="26">Knowing this kind of news and expressing zeal and enthusiasm simultaneously provides different kinds of pleasure.</sent>
+				<sent id ="27">A news paper can be read by two or three members at a time by exchanging pages among them.</sent>
+				<sent id ="28">Nobody should keep paper with him for long time.</sent>
+				<sent id ="29">Somebody can read the headlines and then allow others to read first.</sent>
+				<sent id ="30">After reading, the paper should not be kept here and there.</sent>
+				<sent id ="31">The newspaper materials are of low quality and easily damaged.</sent>
+				<sent id ="32">For keeping newspapers, racks made of wood, plastic, cane are found in the market.</sent>
+				<sent id ="33">Some members of the family may have the habit of thorough reading.</sent>
+				<sent id ="34">They should get chance to read it at their leisure.</sent>
+				<sent id ="35">Two or three members may live in the same room.</sent>
+				<sent id ="36">There may be one fan to be shared by all.</sent>
+				<sent id ="37">It should be kept in mind that the fan is not for one person.</sent>
+				<sent id ="38">The an should be used or its speed should be controlled according to the need of the members.</sent>
+				<sent id ="39">One who feels hot may stay near the fan and one who can not bear excess air should stay away from the fan.</sent>
+				<sent id ="40">Even sitting arrangement for that person should be away from the fan.</sent>
+				<sent id ="41">If somebody becomes sick and if the air of the fan harms him, the fan can be stopped or the speed may be lowered.</sent>
+				<sent id ="42">Above all, the members should have understanding and adjust themselves accordingly.</sent>
+				<sent id ="43">Different types of light in different rooms are arranged according to the purposes.</sent>
+				<sent id ="44">Need for light depends upon nature of the jobs.</sent>
+				<sent id ="45">Again two or three members live in a room.</sent>
+				<sent id ="46">Different members may have different jobs.</sent>
+				<sent id ="47">But for every individual, separate lighting system can not be arranged.</sent>
+				<sent id ="48">For an example, we use bed room for study and sleep.</sent>
+				<sent id ="49">Some members are in the habit of going to bed earlier.</sent>
+				<sent id ="50">Common resources should be used through mutual understanding.</sent>
+				<sent id ="51">Every body should have the mentality to get along with others without creating troubles for others.</sent>
+				<sent id ="52">Otherwise there will be chaos, conflicts, misunderstanding among the members.</sent>
+				<sent id ="53">So, one should not try to dominate others.</sent>
+				<sent id ="54">Every one should try to create congenial atmosphere.</sent>
+				<sent id ="55">Sometimes one can go for separate light even though the same light would have done.</sent>
+				<sent id ="56">It is nothing but wastage of money.</sent>
+				<sent id ="57">After finishing the job, one should switch off the light.</sent>
+				<sent id ="58">A toilet is a necessary part of our house.</sent>
+				<sent id ="59">There are few houses where there is an arrangement of more than two toilets.</sent>
+				<sent id ="60">So for the use of toilet we must think about the urgency of the members.</sent>
+				<sent id ="61">Office going persons and school going children should be given priority.</sent>
+				<sent id ="62">One should not pass one's time in toilet more than necessary.</sent>
+				<sent id ="63">One should flush as soon as his toilet use is over.</sent>
+				<sent id ="64">All should be careful about the cleanliness of the toilet.</sent>
+				<sent id ="65">The responsibility of cleaning 20 Home Economics toilet should not go to one member; rather all should share it spontaneously.</sent>
+				<sent id ="66">If water remains stagnant for long time, the floor becomes slippery.</sent>
+				<sent id ="67">So every body should remove water by a broom after the use.</sent>
+				<sent id ="68">If tap or a tube-well is shared by different members of the family, all should use it carefully.</sent>
+				<sent id ="69">While cleaning kitchen utensils, washing clothing and vegetables, taking water for cooking no one should not create problems for others.</sent>
+				<sent id ="70">If they work in different places, little distance should be kept from the tap or tube well, so that nobody faces any problem.</sent>
+				<sent id ="71">The tap should be properly turned off after some one has finished his job.</sent>
+				<sent id ="72">It is the duty of all to clean the tap or tube well area.</sent>
+				<sent id ="73">Wells are hardly seen in towns.</sent>
+				<sent id ="74">They are found in some places in the rural areas.</sent>
+				<sent id ="75">There should be ways for everybody to take water from the well.</sent>
+				<sent id ="76">One should do his works by taking one bucket of water at a time and it should be done through understanding.</sent>
+				<sent id ="77">If some one takes buckets of water, one after another, other members have to keep standing.</sent>
+				<sent id ="78">It is wastage of time for others.</sent>
+				<sent id ="79">If the bucket is hold by one particular person, other persons will feel bored and it results in quarrel, chaos and conflict.</sent>
+				<sent id ="80">Therefore this resource should be shared through mutual understanding.</sent>
+				<sent id ="81">After all jobs done the bucket of water should be kept to its particular place and the well should be covered properly.</sent>
+				<sent id ="82">If there is water around the well for long time, it will be slippery and it may cause accident.</sent>
+				<sent id ="83">The surrounding of the well should be cleaned properly.</sent>
+				<sent id ="84">Those who use the water of well should clean the area regularly.</sent>
+				<sent id ="85">As the well is a common property of all, all should take responsibility to keep the well in good form.</sent>
+				<sent id ="86">The cleanliness and tidiness of the surrounding of a house proves the good environment and taste of the members.</sent>
+				<sent id ="87">It is not the duty of the house wife or the servants alone to keep the lawn clean.</sent>
+				<sent id ="88">Cleanliness and tidiness of the outside environment of a house depends on the taste and the habit of all family members.</sent>
+				<sent id ="89">Many people like to gossip in the afternoon sitting in the lawn.</sent>
+				<sent id ="90">Fallen leaves, paper, pieces of waste fruits make the lawn dirty.</sent>
+				<sent id ="91">All these things should be cleared off by all the members.</sent>
+				<sent id ="92">If you see dust, weeds or bushes in front of your house, clean it yourself.</sent>
+				<sent id ="93">Nobody should throw the skins of bananas here and there, which may be cause serious accident.</sent>
+				<sent id ="94">If all the members want to live together in love and affection, they should think for others forgetting self interest.</sent>
+				<sent id ="95">They must create congenial atmosphere by discussion, co-operation and understanding.</sent>
+				<sent id ="96">For this they need to have broadness of mind, patience, generosity and sympathy.</sent>
+				<sent id ="97">All the member of the family can create a peaceful environment by their joint efforts.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

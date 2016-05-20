@@ -1,0 +1,147 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-17</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.366</idno>
+				<idno type="Number of sentences">119</idno>
+				<idno type="Number of tokens">1793</idno>
+				<idno type="Number of token types">574</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t9">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Simultaneous production of ducks, chicken and fish in pond following scientific methods is called integrated cultivation.</sent>
+				<sent id ="2">The number of ponds in Bangladesh is almost 13 lacs.</sent>
+				<sent id ="3">Most of these ponds are unutilized or unexcavated.</sent>
+				<sent id ="4">Production in all the ponds is less or nil because of shortage of fund for supplying fertilizer and fish food.</sent>
+				<sent id ="5">On the other hand, poultry (chicks and ducks) farming in our country is widely practised.</sent>
+				<sent id ="6">There are about 20.689 crore fowls or chicken and about 3.908 crore ducks in Bangladesh during 2006.</sent>
+				<sent id ="7">But poultry excreta have not been used in productive purposes.</sent>
+				<sent id ="8">By integrated cultivation of ducks-chicks, their excreta are used as sources of producing organic manure and directly as fish food.</sent>
+				<sent id ="9">By integrated farming of ducks-hens-fish, fish production, can be increased without using fertilizer and food in the pond.</sent>
+				<sent id ="10">Besides this houses of ducks-hens constructed on the water of the pond and hence no extra land is required for their farming.</sent>
+				<sent id ="11">The excreta of ducks are good manure.</sent>
+				<sent id ="12">If ducks are reared in the pond, there is no need of supplying fertilizer and supplementary food to fish.</sent>
+				<sent id ="13">Some fish take the excreta of hens and ducks directly as their food.</sent>
+				<sent id ="14">The dropped duck-food in water is used as supplementary food of fish.</sent>
+				<sent id ="15">Ducks take oysters and snails as their food.</sent>
+				<sent id ="16">As a result, the life cycle of such parasites, as can attack fish, is destroyed.</sent>
+				<sent id ="17">Besides these, ducks eat frogs, mosquitoes and other aquatic insects and thus keep the environment.</sent>
+				<sent id ="18">When the duck swims in the pond the oxygen from air mixes with water.</sent>
+				<sent id ="19">This oxygen is necessary for fish.</sent>
+				<sent id ="20">The duck dives into water inquest of food and by way of moving the bottom soil the nutrients of soil mixes with water.</sent>
+				<sent id ="21">As a result, the fertility and productivity of water increases.</sent>
+				<sent id ="22">Also the stored poisonous gas of the soil is released because of this activity.</sent>
+				<sent id ="23">The house of the ducks are constructed on the pond and there is no need of extra land for ducks.</sent>
+				<sent id ="24">There is some positive role of ducks in controlling aquatic plants.</sent>
+				<sent id ="25">A solitary place of the pond has to be selected for construction of house for ducks.</sent>
+				<sent id ="26">The ducks house should be made of a place away from the bank of the pond and where the depth of water is highest.</sent>
+				<sent id ="27">At this, the chance of leaving the ducks house in dry land can be avoided even during dry season.</sent>
+				<sent id ="28">Two types of houses can be made, floating and permanent.</sent>
+				<sent id ="29">The house can be constructed on the bank of the pond also.</sent>
+				<sent id ="30">Generally for every duck an area of 2700 square centimetres is required.</sent>
+				<sent id ="31">That means for 30 ducks, the house should be constructed on an area of 10 square metres, The height of the house should be 2.25 metres.</sent>
+				<sent id ="32">The roof of the house may be made of tin, straw or grass.</sent>
+				<sent id ="33">But bamboo laths in such way should make the floor of the house that the excreta can fall into water.</sent>
+				<sent id ="34">The bamboo laths in the floor should be arranged in such a way that the distance between the laths remains I cm.</sent>
+				<sent id ="35">Because, if the distance is more than this, the legs of the ducks may be affixed suddenly.</sent>
+				<sent id ="36">If all the excreta do not fall directly in to the water, it should be cleaned by water regularly.</sent>
+				<sent id ="37">Indian runner, Khaki Campbell or Jinding breeds are selected for rearing in integrated farming system:</sent>
+				<sent id ="38">Because the Indian runner lays 200 to 250 eggs and Jinding and Khaki Campbell lays 230 to 250 eggs per year.</sent>
+				<sent id ="39">The pond is made suitable for fish farming.</sent>
+				<sent id ="40">For this purpose, fish predators like catfish, Shol, Gajar; Airh should be removed from the pond.</sent>
+				<sent id ="41">Rotenon at the rate of 35 gm per I decimal is used to remove unwanted fish of the pond or those are removed by draining out water.</sent>
+				<sent id ="42">The aquatic weeds should be uprooted from the pond.</sent>
+				<sent id ="43">The clay, rotten leaves or rubbish should be cleared from the bottom of the pond.</sent>
+				<sent id ="44">The uneven bottom of the pond should be leveled.</sent>
+				<sent id ="45">If the banks of the pond are uneven, those should also be leveled.</sent>
+				<sent id ="46">If there are heavy jungles on the bank some should be cut to allow fight and wind.</sent>
+				<sent id ="47">After draining out water from the pond lime should be used at the rate of 1 kg, per decimal.</sent>
+				<sent id ="48">If poison is applied in the pond, then lime should be applied after 7 days of application of poison.</sent>
+				<sent id ="49">After 1 week of application of lime young ducks can be brought to the house constructed on the pond.</sent>
+				<sent id ="50">After 10-12 days of bringing the young ducks fish fries should be released in the pond.</sent>
+				<sent id ="51">After preparing the pond for integrated farming, it is necessary to select the right varieties of fish.</sent>
+				<sent id ="52">In this method of farming, enough fish-food is stored in the bottom of the pond.</sent>
+				<sent id ="53">For this, fish like Mrigel, Kalibaush, Common carp should be released because these types of fish eat the food stored at the bottom of the pond.</sent>
+				<sent id ="54">Besides this, grass carp is good to be released.</sent>
+				<sent id ="55">The weight of fish should be examined once in every month by pulling net.</sent>
+				<sent id ="56">If the growth of the fish is low, then the fishery experts can be consulted for remedy.</sent>
+				<sent id ="57">Generally fish after 10 to 12 months.</sent>
+				<sent id ="58">At this time after marketing fish, Silver carps of 7-8 cm should be released again.</sent>
+				<sent id ="59">It is difficult to treat fish once if it is diseased.</sent>
+				<sent id ="60">The first condition of control of fish disease is the preparation of the pond in scientific method.</sent>
+				<sent id ="61">Yet if it is diseased, the local fisheries experts can be consulted.</sent>
+				<sent id ="62">Duck eat natural feed from the pond: They fed on weeds of the pond, insects, grasses, leaves, oysters, small fish etc. and thus fulfil 50% of the total requirement of feed.</sent>
+				<sent id ="63">To meet the requirement of feed and to fulfill the rest of the requirement ducks should be supplied with balanced feed.</sent>
+				<sent id ="64">Crushed wheat, wheat husks, rice dust, til/sesame cake soyabean and fish meal should be mixed together and feed the ducks.</sent>
+				<sent id ="65">The amount of protein for young ducks should be 21 % and that for the laying ducks should be 18%.</sent>
+				<sent id ="66">The duck likes wet food.</sent>
+				<sent id ="67">The food of ducks should always be mixed with water.</sent>
+				<sent id ="68">They should be fed with enough water.</sent>
+				<sent id ="69">Food and water should be supplied in separate pans.</sent>
+				<sent id ="70">Generally food should be given to ducks 4-5 times daily at the age of 1-2 months.</sent>
+				<sent id ="71">From age of 8 weeks they should be fed 2-3 times and the growing up ducks should be fed 2 times daily.</sent>
+				<sent id ="72">For the daily Indian Runner types of ducks the daily requirement of food should be 110 gm.</sent>
+				<sent id ="73">The ducks should be fed first at 9 am.</sent>
+				<sent id ="74">Then they should be released to the pond.</sent>
+				<sent id ="75">They should be feed again before sunset.</sent>
+				<sent id ="76">They should be encamped after feeding.</sent>
+				<sent id ="77">They should be given food and water for the night so that they can take food and water during their requirement.</sent>
+				<sent id ="78">In integrated farming of ducks and fish, extra food or fertilizers are not supplied for the fish.</sent>
+				<sent id ="79">Because, the excreta and remains of ducks meal act as supplementary food of the fish.</sent>
+				<sent id ="80">In case of rearing 2 duck per decimal of pond there is no need of supplying extra food for fish.</sent>
+				<sent id ="81">The ducks should be marketed or sold at their age of 2.5 years and equal number of young ducks should be collected.</sent>
+				<sent id ="82">In mixed farming system 25 fries per decimal can be released.</sent>
+				<sent id ="83">In ducks rearing pond young fish of 8-10 cm should be released.</sent>
+				<sent id ="84">Fish of this size can protect themselves from the attack of ducks.</sent>
+				<sent id ="85">Ducks can eat up fish of 4 gm or less.</sent>
+				<sent id ="86">Fish need not to be supplied with food except for grass carp.</sent>
+				<sent id ="87">Fish is released in integrated farming system as per following list.</sent>
+				<sent id ="88">The pond prepared for farming ducks and fish, can also be used for fowl farming with fish.</sent>
+				<sent id ="89">In this case also the excreta and remains of food of fowls are used as food of the fish and help in the production of organic manure.</sent>
+				<sent id ="90">The number of fowls in Bangladesh is almost 20.689 crores during 2006-Their production may be increased by integration of farming.</sent>
+				<sent id ="91">There is no need of extra land for poultry farming because the house is constructed on the pond.</sent>
+				<sent id ="92">The excreta of fowls drop directly into the water.</sent>
+				<sent id ="93">These excreta supply manure to the pond.</sent>
+				<sent id ="94">A solitary place of the pond should be selected for construction of fowl house.</sent>
+				<sent id ="95">The place should have light and air.</sent>
+				<sent id ="96">The jungle should be cleaned if required.</sent>
+				<sent id ="97">When constructing fowl house on the pond the floor should be made of bamboo-laths.</sent>
+				<sent id ="98">In distance between 2 laths should be very little, so as to avoid affixing legs of fowl in the hole of the laths.</sent>
+				<sent id ="99">Again apertures should allow the excreta of fowl and remains of feed particles easy dropping into the water.</sent>
+				<sent id ="100">The house should be rectangular in size and the depth of the water of the pond should be at least 1 metre.</sent>
+				<sent id ="101">So that the excreta and remains of food can drop into water even during dry season when water becomes less.</sent>
+				<sent id ="102">The house should be made with to slanting roofs for making.</sent>
+				<sent id ="103">It long lasting.</sent>
+				<sent id ="104">The roof should be made 200-250 cm above the floor.</sent>
+				<sent id ="105">The house should be surrounded by hard bamboo-mat having, 60 cm.</sent>
+				<sent id ="106">The 4 cm.</sent>
+				<sent id ="107">space between the bamboo-mat of the fencing and the roof should be fenced with bamboo, sticks having gaps in-between so as to allow light and air to enter into the house properly.</sent>
+				<sent id ="108">The temperature control during winter or summer becomes easier if the house is made of straw.</sent>
+				<sent id ="109">Star bro type broiler is the best for increased production of meat.</sent>
+				<sent id ="110">Layer chicks like Star cross, Isa Brown and Lohmann can be selected for increased production of eggs.</sent>
+				<sent id ="111">Preparation of Pond: Similar as that of ducks and fishes.</sent>
+				<sent id ="112">Fowls : The food of chicks is prepared by mixing wheat, rice bran, til cake, fish meal and salt.</sent>
+				<sent id ="113">Balanced diet should be s upplied to the broiler for smooth growth and to the layer to increase the rate, of production of eggs.</sent>
+				<sent id ="114">Fish : There is no problem of fish food management in integrated farming system.</sent>
+				<sent id ="115">Because the excreta and remains of feed fowls different into the water of the pond.</sent>
+				<sent id ="116">These excreta and remains of are used as feed for fish.</sent>
+				<sent id ="117">In this case the requirement of food of fish and fertilizer depends entirely on the density or number of fowls.</sent>
+				<sent id ="118">Number of Fowls : There is no need of supplying food or fertilizer when 2 fowls are reared per decimal of pond.</sent>
+				<sent id ="119">This density of fowls does not pollute the water of pond as well.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

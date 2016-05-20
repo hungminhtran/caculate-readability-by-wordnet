@@ -1,0 +1,99 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-genSci-19</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.85</idno>
+				<idno type="Number of sentences">71</idno>
+				<idno type="Number of tokens">899</idno>
+				<idno type="Number of token types">405</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t91">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Bangladesh is a small country with an area of 1,47,570 square kilometre.</sent>
+				<sent id ="2">It is a highly populated country, but previously it was not so populated.</sent>
+				<sent id ="3">A close look at table-1 given below will give an idea of the population in the last sixty years.</sent>
+				<sent id ="4">The rapid increase of population in Bangladesh is causing adverse effect on the social and natural environment.</sent>
+				<sent id ="5">This effect is observed both in the rural and urban settings.</sent>
+				<sent id ="6">A. Rural area: Food comes up as the first issue.</sent>
+				<sent id ="7">The production of crop and other agricultural products is not increasing at the same rate as the population.</sent>
+				<sent id ="8">The demand for housing, roadways, market place, schools and colleges is increasing.</sent>
+				<sent id ="9">This in turn is decreasing the cultivable land, and thus decreasing per head production of crop.</sent>
+				<sent id ="10">To increase the crop production, increased amount of fertiliser and pesticides are being used.</sent>
+				<sent id ="11">So the fish population is also decreasing.</sent>
+				<sent id ="12">Due to the use of pesticides and other disinfectants, the number of beneficial insects, and frogs, are decreasing.</sent>
+				<sent id ="13">This is leading to the increase of insects that are harmful for crops.</sent>
+				<sent id ="14">This is one of the reasons for the decrease in protein food.</sent>
+				<sent id ="15">To meet the increased demand of housing and roadways, increased number of gardens and forests are being cleared.</sent>
+				<sent id ="16">The land is becoming bare and more of the topsoil is being washed into rivers and lakes with the rainwater.</sent>
+				<sent id ="17">The water retaining capacity is also decreasing for the same reason.</sent>
+				<sent id ="18">As soon as the monsoons are over, the ponds and lake become dry, thus hampering crop production.</sent>
+				<sent id ="19">Again, increasingly deep tube-wells are used to compensate for the dryness in winter season.</sent>
+				<sent id ="20">Plants are not getting enough water so their number is also decreasing.</sent>
+				<sent id ="21">The natural resource of Bangladesh is not being used efficiently.</sent>
+				<sent id ="22">Increasingly, trees are being cut indiscriminately to be used as fuel, for housing and furniture making, and brick burning.</sent>
+				<sent id ="23">To maintain a healthy environment, enough trees are not being planted.</sent>
+				<sent id ="24">A comprehensive aforestation plan is also not in place.</sent>
+				<sent id ="25">The insects and pests that usually live in forests are increasingly turning to crops.</sent>
+				<sent id ="26">The natural habitat of wildlife is being destroyed gradually.</sent>
+				<sent id ="27">Too much, or too little rain is turning into a normal phenomenon.</sent>
+				<sent id ="28">Crop cannot be produced in draught.</sent>
+				<sent id ="29">Food is less and people become under-nourished.</sent>
+				<sent id ="30">Less crop means less hay, that is less fodder and food for cattle.</sent>
+				<sent id ="31">The cattle become weak and cannot pull the plough, and milking cows give less milk.</sent>
+				<sent id ="32">Most of the people in Bangladesh live in the rural area, and most are farmers.</sent>
+				<sent id ="33">Population is increasing day by day, but the land is not.</sent>
+				<sent id ="34">When the father dies, the land is distributed among his children, thus the per capita land is gradually decreasing.</sent>
+				<sent id ="35">In congested living conditions less air and light reach individual living quarter.</sent>
+				<sent id ="36">It becomes difficult to arrange for sanitary disposal of urine and faeces.</sent>
+				<sent id ="37">People practice open-air defecation and pollute the environment.</sent>
+				<sent id ="38">The water rapidly becomes polluted and unsuitable for use.</sent>
+				<sent id ="39">this polluted water also becomes the source of many diseases.</sent>
+				<sent id ="40">B. Urban area: Because of increased population, there is scarcity of jobs in the rural area.</sent>
+				<sent id ="41">So many people move to urban areas in search of food and job.</sent>
+				<sent id ="42">As a result the rate of increase of population is much higher than the national figures.</sent>
+				<sent id ="43">Rapid increase in urban population compels people to live in congested unhealthy slums.</sent>
+				<sent id ="44">Living in unhealthy conditions is giving rise to different diseases.</sent>
+				<sent id ="45">Population study as a discipline is known as demography.</sent>
+				<sent id ="46">The distribution of people in different areas is different.</sent>
+				<sent id ="47">In some places more people live compared to others.</sent>
+				<sent id ="48">The density of population will be (4000/4) 1000 per square kilometre.</sent>
+				<sent id ="49">The amount of land owned by the number of families living in a place is not the same.</sent>
+				<sent id ="50">Some have more land, while some have less.</sent>
+				<sent id ="51">Suppose, a 10 membered family has 10 acres of land.</sent>
+				<sent id ="52">Then how much land is there per person of the family.</sent>
+				<sent id ="53">Per capita land is also termed as average land.</sent>
+				<sent id ="54">Per capita land is measured in acres or hectares.</sent>
+				<sent id ="55">1 acre is equal to 100 decimal or 43560 square foot, and 2.47 acres is equal to 1 hectare.</sent>
+				<sent id ="56">The per capita land in Bangladesh is much less than that of many other countries.</sent>
+				<sent id ="57">According to the census of 1981, the per capita land in Bangladesh was 0.33 acres.</sent>
+				<sent id ="58">In 1991 it became 0.29 acres, and as of 2001 this stands at 0.28 acres.</sent>
+				<sent id ="59">If the present conditions persist, then soon the per capita land will further decrease.</sent>
+				<sent id ="60">What are the reasons for such a situation?</sent>
+				<sent id ="61">Per capita income: All the persons in a family do not earn.</sent>
+				<sent id ="62">One or two members may earn, but it is consumed by all the members.</sent>
+				<sent id ="63">In other word, the income by one or two persons is considered the income of the family.</sent>
+				<sent id ="64">That family is composed of 10 members.</sent>
+				<sent id ="65">The per capita income of every family can be thus calculated.</sent>
+				<sent id ="66">For convenience and uniformity the per capita income world-wide is calculated in dollars.</sent>
+				<sent id ="67">The per capita income in Bangladesh, as per 2001 census, is US dollar 377?.</sent>
+				<sent id ="68">In 2001, US dollar 1 was equal to Tk. 57.33.</sent>
+				<sent id ="69">From this the per capita income in Bangladesh may be calculated in Bangladeshi currency.</sent>
+				<sent id ="70">Per capita income or average income is not constant, it may increase or decrease.</sent>
+				<sent id ="71">The total income of rich and poor determines the average income.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

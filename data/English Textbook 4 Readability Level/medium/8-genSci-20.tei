@@ -1,0 +1,75 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-20</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.058</idno>
+				<idno type="Number of sentences">47</idno>
+				<idno type="Number of tokens">718</idno>
+				<idno type="Number of token types">251</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t136">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We know that body of human being consists of more than one cell.</sent>
+				<sent id ="2">However there are one-celled animals and plants as well.</sent>
+				<sent id ="3">A cell is a minute one in form and size.</sent>
+				<sent id ="4">It is so small that it can not be seen with naked eyes.</sent>
+				<sent id ="5">So microscope is essential to see a cell.</sent>
+				<sent id ="6">Cells of all organisms are not similar.</sent>
+				<sent id ="7">The cells are of different sizes.</sent>
+				<sent id ="8">According to the diversity of living organisms the living cells are of different sizes.</sent>
+				<sent id ="9">Again according to functions, the shape of the cell becomes different.</sent>
+				<sent id ="10">As for example the shape and size of hepatic cells are different from those of pulmonary cells.</sent>
+				<sent id ="11">A small insect or a large animal such as an elephant or a large banyan tree etc are made from a single cell.</sent>
+				<sent id ="12">Certainly you are now interested to know how a large plant or a large animal are created from a tiny cell.</sent>
+				<sent id ="13">During sexual reproduction a sperm and an ovum together form a zygote.</sent>
+				<sent id ="14">The living body is formed by the divisions of the zygote.</sent>
+				<sent id ="15">In this way, through repeated divisions of cells, body of the living organism is developed and a mature body is built up.</sent>
+				<sent id ="16">The process by which a living cell produces two or more new cells is called cell division.</sent>
+				<sent id ="17">The cell which produces new cells through division is called mother cell.</sent>
+				<sent id ="18">The new cells which are produced as a result of cell division of mother cell are known daughter cells.</sent>
+				<sent id ="19">In brief, it may be said that the process by which daughter cells are produced from mother cell is called cell division.</sent>
+				<sent id ="20">So we could understand that due to cell division body of living organism increases.</sent>
+				<sent id ="21">Along with the growth of living body, development of embryo, metabolic activities, reproduction etc takes place through cell division.</sent>
+				<sent id ="22">In all living bodies two main types of cell divisions are found, such as- mitotic cell division and meiotic cell division.</sent>
+				<sent id ="23">Mitotic cell division: We have come to know in class- VI that nucleus is present inside a cell and chromosomes are there in the nucleus.</sent>
+				<sent id ="24">Chromosomes bear the characteristic features of the organism.</sent>
+				<sent id ="25">In the mitotic cell division the number of chromosome remains equal in mother cell and also in daughter cells and they are of same quality.</sent>
+				<sent id ="26">After mitotic cell division, the daughter cells inherit the same characteristics.</sent>
+				<sent id ="27">Thus this process of cell division is also known as cell division of similarity.</sent>
+				<sent id ="28">Mitotic division takes place mainly in the body cells of living organism.</sent>
+				<sent id ="29">In the process of mitosis main division takes place in the nucleus though this division is understood as the division of full cell.</sent>
+				<sent id ="30">Division of nucleus: Nucleus becomes larger in size at the begining of the division of a body cell.</sent>
+				<sent id ="31">At the same time nuclear reticulum becomes prominent.</sent>
+				<sent id ="32">(B) Division of Cytoplasm: Centering the daughter nucleus cytoplasm is divided.</sent>
+				<sent id ="33">At this stage cytoplasm of dividing cell surrounds the daughter nucleus by being divided into two.</sent>
+				<sent id ="34">At first stage a fissure is formed in the cell membrane in the middle of the cell.</sent>
+				<sent id ="35">Gradually this fissure becomes deep.</sent>
+				<sent id ="36">In this way cytoplasm is divided into two resulting in two daughter cells.</sent>
+				<sent id ="37">Importance of Mitotic cell division: Embryo is fromed from zygote and mitiosis is important for the development of embryo.</sent>
+				<sent id ="38">In this process of cell division, the number of cell increases.</sent>
+				<sent id ="39">In this way the body of plants and animals grows.</sent>
+				<sent id ="40">Meiotic cell division : Meiotic cell division always occur during the formation of reproductive cells from reproductive mother cells.</sent>
+				<sent id ="41">The number of chromosomes of the reproductive cell, which is formed by this division, becomes half the number of chromosomes of mother cell.</sent>
+				<sent id ="42">The number of chromosomes same as the mother cell in the newly formed cell resulted from the fusion of such two reproductive cells.</sent>
+				<sent id ="43">This fused two cells together is called fertilized egg or zygote.</sent>
+				<sent id ="44">As a result of cell division by meiosis the number of chromosomes of an organism remains constant generation after generation.</sent>
+				<sent id ="45">The characteristic of meiotic cell division is that the nucleus divides twich.</sent>
+				<sent id ="46">Importance of meiosis : The living organisms in which sexual reproduction occurs, their reproductive cells are formed by this process.</sent>
+				<sent id ="47">By this process of cell division the number of chromosomes in each organism remains constant and daughter cells are created with new characteristics.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

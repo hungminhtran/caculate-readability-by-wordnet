@@ -1,0 +1,155 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.365</idno>
+				<idno type="Number of sentences">127</idno>
+				<idno type="Number of tokens">1019</idno>
+				<idno type="Number of token types">368</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t33">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We read in class three.</sent>
+				<sent id ="2">There are many students in our school.</sent>
+				<sent id ="3">Besides, there are teachers and staff.</sent>
+				<sent id ="4">Each of us has a name.</sent>
+				<sent id ="5">We. the students, teachers and staff are all human beings.</sent>
+				<sent id ="6">Many of us live together in a house or home.</sent>
+				<sent id ="7">Many of us live in a neighbourhood or community.</sent>
+				<sent id ="8">Many of us live in villages or towns.</sent>
+				<sent id ="9">Many people live in our country.</sent>
+				<sent id ="10">Many people live in this world, We are all human beings.</sent>
+				<sent id ="11">Those of us who read in class three.</sent>
+				<sent id ="12">Students, teachers and staff of our school.</sent>
+				<sent id ="13">Those of us living in our house or home.</sent>
+				<sent id ="14">Those of us living in our neighbourhood or community.</sent>
+				<sent id ="15">Those of us living in our village or town.</sent>
+				<sent id ="16">Those of us living in our country.</sent>
+				<sent id ="17">All the people of our world.</sent>
+				<sent id ="18">We, people of different religions live.</sent>
+				<sent id ="19">We, people of different professions live.</sent>
+				<sent id ="20">We, people of different ages live.</sent>
+				<sent id ="21">We, boys and girls, men and women live.</sent>
+				<sent id ="22">Our society is formed with all of us.</sent>
+				<sent id ="23">Let us know about the society.</sent>
+				<sent id ="24">People of four religions mainly live in Bangladesh.</sent>
+				<sent id ="25">These religions are- Islam Hinduism Buddhism 4. Christianity.</sent>
+				<sent id ="26">Every religion has different ceremonies and festivals.</sent>
+				<sent id ="27">We celebrate these festivals through different ceremonies.</sent>
+				<sent id ="28">The followers of Islam are called Muslims.</sent>
+				<sent id ="29">Eid is the greatest festival for the Muslims.</sent>
+				<sent id ="30">Two Eids are celebrated in a year.</sent>
+				<sent id ="31">These Eids are Eid-ul-Fitr and Eid-ul-Ajha.</sent>
+				<sent id ="32">Eid-ul-Fitr is celebrated after we observe fasting in the month of Ramadan.</sent>
+				<sent id ="33">Eid-ul-Ajha is celebrated on the 10th of the month of Zilhaj.</sent>
+				<sent id ="34">This Eid is also called the Eid of sacrifice.</sent>
+				<sent id ="35">Every Muslim wears new clothes on the Eid day.</sent>
+				<sent id ="36">They perform Eid prayers at the Eidgah or mosque.</sent>
+				<sent id ="37">Delicious foods are prepared in every house on this day.</sent>
+				<sent id ="38">Neighbours, relatives, friends eat these foods together.</sent>
+				<sent id ="39">On the occasion of Eid, the poor are helped in various ways.</sent>
+				<sent id ="40">The Muslim children wear different coloured dresses on the Eid day.</sent>
+				<sent id ="41">They wander in groups.</sent>
+				<sent id ="42">They make about of funs in various other ways.</sent>
+				<sent id ="43">Shab-e-Qadr is one of the festivals of Muslims.</sent>
+				<sent id ="44">On the night of 27th Ramadan the Quran was revealed to Hazrat Muhammad SM).</sent>
+				<sent id ="45">Shab-e-Qadr is celebrated due to this event.</sent>
+				<sent id ="46">The Muslims pray to Allah throughout the night.</sent>
+				<sent id ="47">They also help the poor.</sent>
+				<sent id ="48">Children also join the adults in prayers.</sent>
+				<sent id ="49">On the occasion of Shab-e-Barat, the Muslims perform special prayers.</sent>
+				<sent id ="50">They also recite the Holy Quran.</sent>
+				<sent id ="51">They give away money and food to the poor.</sent>
+				<sent id ="52">On this occasion, special food is prepared in every house.</sent>
+				<sent id ="53">The children enjoy it in different ways.</sent>
+				<sent id ="54">The Hindus arrange different Pujas throughout the year.</sent>
+				<sent id ="55">DurgaPuja is celebrated during Autumn.</sent>
+				<sent id ="56">To the Hindus, Durga is the goddess of power.</sent>
+				<sent id ="57">The children wear different coloured dresses and have funs.</sent>
+				<sent id ="58">The Hindus believe that in Saraswathi is the goddess of knowledge.</sent>
+				<sent id ="59">The Hindu students celebrate the Sarwasbathipuja with great fanfare.</sent>
+				<sent id ="60">During this Puja, they distribute sweets fruits and flowers.</sent>
+				<sent id ="61">The children also celebrate this day with joy.</sent>
+				<sent id ="62">To the Hindus Lakshmi is the goddess of wealth.</sent>
+				<sent id ="63">Therefore, they celebrate the LakshmiPuja with great fanfare.</sent>
+				<sent id ="64">The children also enjoy the day in various ways.</sent>
+				<sent id ="65">Buddha Purnima is the gratest festival of the Buddhists.</sent>
+				<sent id ="66">Buddha Pumima is celebrated on the occasion of the birth of Buddha.</sent>
+				<sent id ="67">During this time, the Buddhists perform special Bandana to Gautama Buddha.</sent>
+				<sent id ="68">The children also take part in this Bandana.</sent>
+				<sent id ="69">Like Buddha Purnima, the Buddhists also celebrate Maghi Purnima with great devotion.</sent>
+				<sent id ="70">Men and women of all ages participate in this celebration.</sent>
+				<sent id ="71">Christmas is the greatest festival of the Christians.</sent>
+				<sent id ="72">Christ was born on 25th December.</sent>
+				<sent id ="73">That is why, the festival is celebrated on this day.</sent>
+				<sent id ="74">Different functions are arranged.</sent>
+				<sent id ="75">All the Christians pray on this day.</sent>
+				<sent id ="76">The children wear new dresses and have lots of fun.</sent>
+				<sent id ="77">The Christians also celebrate Good Friday and Easter Sunday.</sent>
+				<sent id ="78">We all celebrate our own religious festivals and ceremonies.</sent>
+				<sent id ="79">We enjoy taking part in our own religious festivals.</sent>
+				<sent id ="80">We will invite our class friends of other religions to these festivals.</sent>
+				<sent id ="81">We will also invite our friends from school, neighbourhood or community.</sent>
+				<sent id ="82">On the occasion of the religious festivals, we wish our friends of all religions.</sent>
+				<sent id ="83">We will present them greeting cards and other things.</sent>
+				<sent id ="84">We will enjoy together.</sent>
+				<sent id ="85">We will eat delicious food.</sent>
+				<sent id ="86">We will play together.</sent>
+				<sent id ="87">People of different professions live in our society.</sent>
+				<sent id ="88">There are also teachers, doctors, engineers, judges, lawyers, businessmen, etc.</sent>
+				<sent id ="89">We are all human beings.</sent>
+				<sent id ="90">There are people of different ages in our society.</sent>
+				<sent id ="91">Many are children like us.</sent>
+				<sent id ="92">Again, many are younger than us.</sent>
+				<sent id ="93">Many are older than us as well.</sent>
+				<sent id ="94">Although we are young and old in age, we are all human beings.</sent>
+				<sent id ="95">We will behave well with all.</sent>
+				<sent id ="96">If necessary, we will take help from others.</sent>
+				<sent id ="97">We will assist others as well.</sent>
+				<sent id ="98">There are many children in our society.</sent>
+				<sent id ="99">Some of us are boys and some are girls.</sent>
+				<sent id ="100">We are all equal.</sent>
+				<sent id ="101">We study together.</sent>
+				<sent id ="102">We play together.</sent>
+				<sent id ="103">There are many who are older than us.</sent>
+				<sent id ="104">Everyone does not have the same condition in society.</sent>
+				<sent id ="105">There are people of different incomes.</sent>
+				<sent id ="106">Some are rich, some are poor.</sent>
+				<sent id ="107">But all are human beings.</sent>
+				<sent id ="108">Therefore, we will respect all we will help the poor living around our house.</sent>
+				<sent id ="109">our poor playmates and classmates.</sent>
+				<sent id ="110">What things can them with?</sent>
+				<sent id ="111">We will always behave well with them.</sent>
+				<sent id ="112">There are many people to help us in our household work.</sent>
+				<sent id ="113">They help in agriculture in various homes in the village.</sent>
+				<sent id ="114">The help rearing cattle, goats, ducks and chickens.</sent>
+				<sent id ="115">They assist in doing various works in different homes in the towns.</sent>
+				<sent id ="116">They are all human beings.</sent>
+				<sent id ="117">Just like us, they also have desires and likings.</sent>
+				<sent id ="118">We always will be kind to them.</sent>
+				<sent id ="119">We will always behave well with them.</sent>
+				<sent id ="120">We will never cause grief to them.</sent>
+				<sent id ="121">We will help them in their needs and difficulties.</sent>
+				<sent id ="122">Though we live in different countries we are all human beings.</sent>
+				<sent id ="123">We will always love one another.</sent>
+				<sent id ="124">We will come forward in one another's difficulties.</sent>
+				<sent id ="125">We will cooperate with one another.</sent>
+				<sent id ="126">We will respect the religions of others.</sent>
+				<sent id ="127">In this way, we will establish peace in the world.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

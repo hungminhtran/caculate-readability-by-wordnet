@@ -1,0 +1,129 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-christ-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.609</idno>
+				<idno type="Number of sentences">101</idno>
+				<idno type="Number of tokens">1236</idno>
+				<idno type="Number of token types">452</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t119">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In the Bible this mystery of new life through baptism has been beautifully expressed through an event.</sent>
+				<sent id ="2">Do you know what that is ?</sent>
+				<sent id ="3">There was a Jewish leader named Nicodemus.</sent>
+				<sent id ="4">He had heard many things about Jesus, and he had come to put his faith in Jesus to certain extent.</sent>
+				<sent id ="5">Out of fear of the Jews he had not professed his faith publicly.</sent>
+				<sent id ="6">One night he came to meet Jesus secretly.</sent>
+				<sent id ="7">He said to Jesus, I have heard many things about you.</sent>
+				<sent id ="8">I believe you came from God.</sent>
+				<sent id ="9">That is why you can perform the miracles you are doing.</sent>
+				<sent id ="10">This could not happen unless God were with you.</sent>
+				<sent id ="11">Jesus told him, you are right.</sent>
+				<sent id ="12">somewhat awkwardly he asked, Man is born of his mothers womb just once.</sent>
+				<sent id ="13">What then is new life ?</sent>
+				<sent id ="14">Jesus explained to him saying, This new birth is from water and the Spirit.</sent>
+				<sent id ="15">Without this new birth, no one can understand the power and the grace of God.</sent>
+				<sent id ="16">A person is born physically of human parents, but he has to be born spiritually of the Spirit.</sent>
+				<sent id ="17">In order to enter into the Kingdom of God, every person has to be born anew.</sent>
+				<sent id ="18">The Lord Jesus tried to explain to Nicodemus about the work of the Spirit saying, The wind blows wherever it wishes;</sent>
+				<sent id ="19">you hear the sound it makes, but you do not know where it comes from or where it is going.</sent>
+				<sent id ="20">It is like that with everyone who is born of the Spirit.</sent>
+				<sent id ="21">Even then Nicodemus did not understand.</sent>
+				<sent id ="22">He asked, How is a person born of the Spirit ?</sent>
+				<sent id ="23">Jesus mildly rebuked him.</sent>
+				<sent id ="24">For Nicodemus was teacher in Israel, still he did not understand about the power and the works of the Spirit of God.</sent>
+				<sent id ="25">So, Jesus told him that man's ignorance and blindness create an obstacle to understanding the truth of God.</sent>
+				<sent id ="26">Nicodemus was unable to understand what Jesus was saying because of his mental block.</sent>
+				<sent id ="27">He did not understand that Jesus was Christ, the Messiah of God.</sent>
+				<sent id ="28">It is faith in Jesus that leads to eternal life.</sent>
+				<sent id ="29">And it is impossible for man to believe in Jesus without the light of the Holy Spirit.</sent>
+				<sent id ="30">From this we-can understand what Jesus was saying.</sent>
+				<sent id ="31">We can enter into eternal life by being baptized in water and the Spirit.</sent>
+				<sent id ="32">Water keeps us alive.</sent>
+				<sent id ="33">We use water to clean everything.</sent>
+				<sent id ="34">The use of water at baptism gives us a taste of life.</sent>
+				<sent id ="35">It cleanses us from our sins and makes us pure and holy.</sent>
+				<sent id ="36">Like the wind, the spirit gives us life.</sent>
+				<sent id ="37">It leads us to the way of God and gives us power.</sent>
+				<sent id ="38">By coming into contact with water and the Spirit, we, are transformed into a new being by the power of God.</sent>
+				<sent id ="39">We are not merely flesh and blood; we are God's beloved children.</sent>
+				<sent id ="40">We do not belong to the world, but to heaven.</sent>
+				<sent id ="41">By being redeemed our sinful nature, we put on Christ.</sent>
+				<sent id ="42">And by being united with Christ, we receive new life.</sent>
+				<sent id ="43">In mind and heart, in our total existence we become a new being, In the words of Jesus.</sent>
+				<sent id ="44">we are `reborn.</sent>
+				<sent id ="45">After the ceremony of baptism we sing, What, a change after my new birth !</sent>
+				<sent id ="46">I have become a new being.</sent>
+				<sent id ="47">When man accepts Jesus in his life, he gains new insight.</sent>
+				<sent id ="48">He begins to see things that he never saw before.</sent>
+				<sent id ="49">This new insight is the result of man's new birth.</sent>
+				<sent id ="50">And this happens through baptism.</sent>
+				<sent id ="51">New life begins in a person at the time of baptism.</sent>
+				<sent id ="52">He becomes a new being.</sent>
+				<sent id ="53">He is enlightened by Christ, the darkness of his former life disappears.</sent>
+				<sent id ="54">Jesus said, Whoever believes and is baptized will be saved;</sent>
+				<sent id ="55">whoever does not believe will be condemned.</sent>
+				<sent id ="56">Jesus left for Judea after his meeting with Nicodemus.</sent>
+				<sent id ="57">His disciples were with him.</sent>
+				<sent id ="58">Jesus stayed there for a few days and his disciples baptized many people.</sent>
+				<sent id ="59">At the same time John the Baptist was also baptizing.</sent>
+				<sent id ="60">Many people came to him and were baptized.</sent>
+				<sent id ="61">John's baptism was mainly for conversion.</sent>
+				<sent id ="62">He baptized people by immersion as a sign of conversion from their past sins.</sent>
+				<sent id ="63">At this time an argument was started about the matter of ritual washing between John's disciples and a Jew.</sent>
+				<sent id ="64">Those disciples went to John and told him about Jesus.</sent>
+				<sent id ="65">They told him that the disciples of the man (Jesus) about whom he had testified were baptizing other people.</sent>
+				<sent id ="66">Many people were going to him for baptism.</sent>
+				<sent id ="67">John then explained to his disciples that what Jesus and his disciples were doing was the work of God.</sent>
+				<sent id ="68">He came on earth precisely to do this work.</sent>
+				<sent id ="69">This means that John was pleased and happy when he heard that Jesus was baptizing.</sent>
+				<sent id ="70">He reminded his disciples of the testimony he had given about Jesus.</sent>
+				<sent id ="71">He said, I am not the Christ; but I have been sent ahead of him.</sent>
+				<sent id ="72">This indicates that John's mission of preparing the way was over and Jesus was starting his work of saving mankind.</sent>
+				<sent id ="73">Jesus will gradually reveal himself as the Saviour and John will become less important.</sent>
+				<sent id ="74">This was the will of God.</sent>
+				<sent id ="75">John was successful in carrying out his mission of preparing the people for the coming of Jesus the Messiah.</sent>
+				<sent id ="76">Therefore, he was happy.</sent>
+				<sent id ="77">Now the promised Messiah has come down from heaven.</sent>
+				<sent id ="78">Jesus Christ is the Anointed one.</sent>
+				<sent id ="79">Jesus will reveal God's truth to people through his life and teaching, and mankind will see his salvation.</sent>
+				<sent id ="80">Whoever believes in Jesus Christ, the Son of God, and .</sent>
+				<sent id ="81">listens to his words will receive eternal life.</sent>
+				<sent id ="82">Through this testimony of John we come to see the difference between John and Jesus, as well as between John's baptism and that of Jesus.</sent>
+				<sent id ="83">He is much greater than I am; and I am not good enough even to carry his sandals.</sent>
+				<sent id ="84">Therefore, he is the Son of God anointed by the Holy Spirit.</sent>
+				<sent id ="85">His baptism is not merely with water; nor is it merely for repentance.</sent>
+				<sent id ="86">But rather, his baptism is with water and the Holy Spirit (compared with iii-e).</sent>
+				<sent id ="87">By this baptism a person is made a new creation, just as it happened at the first creation.</sent>
+				<sent id ="88">Being united with Christ, we are given a new life.</sent>
+				<sent id ="89">So, the first step to faith in Christ is baptism.</sent>
+				<sent id ="90">In the life of believer, this baptism is important and necessary.</sent>
+				<sent id ="91">This baptism symbolized the washing away of the past sins and entering into new life.</sent>
+				<sent id ="92">This life of a believer is a participation in the Resurrection of the Lord.</sent>
+				<sent id ="93">Like Jesus, many Christians at first had received the baptism of John.</sent>
+				<sent id ="94">But later they were baptized in the Holy Spirit (i.e., in the name of the Holy Trinity, as prescribed by Jesus).</sent>
+				<sent id ="95">When they heard this, they were baptized in the name of the Lord Jesus.</sent>
+				<sent id ="96">Paul placed his hands on them, and the Holy Spirit came upon them.</sent>
+				<sent id ="97">We need to realize the importance of baptism above all things.</sent>
+				<sent id ="98">For baptism introduces us into the Church and makes us members of the Mystical Body of Christ with rights and duties.</sent>
+				<sent id ="99">Moreover, through repentance for our life before our baptism and for our former sins it leads us into a new life.</sent>
+				<sent id ="100">Hence, once a person is baptized, it cannot be changed or re-baptized.</sent>
+				<sent id ="101">St. Paul said, It is through faith that all of you are God's sons in union with Christ Jesus.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

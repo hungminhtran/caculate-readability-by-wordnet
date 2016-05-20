@@ -1,0 +1,156 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.976</idno>
+				<idno type="Number of sentences">128</idno>
+				<idno type="Number of tokens">1470</idno>
+				<idno type="Number of token types">631</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t52">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">You know that man cannot survive for long without eating.</sent>
+				<sent id ="2">We take food when we become hungry.</sent>
+				<sent id ="3">Everyday you play, go to school and help your parents with household chores.</sent>
+				<sent id ="4">You need energy for doing these tasks.</sent>
+				<sent id ="5">Food supplies the body with energy required to do work.</sent>
+				<sent id ="6">We often suffer from various types of diseases.</sent>
+				<sent id ="7">The immune system of our body protects our body from different diseases.</sent>
+				<sent id ="8">Food helps to build up our immune systems.</sent>
+				<sent id ="9">Some foodstuffs we eat are quite tasty, while some are not.</sent>
+				<sent id ="10">Regardless of taste, all types of food contain some food value, which is used for building up our bodies.</sent>
+				<sent id ="11">This is called the nutritional content of the food.</sent>
+				<sent id ="12">It is food which we get nutrition from.</sent>
+				<sent id ="13">The food which we eat is very complex in structure.</sent>
+				<sent id ="14">Our body is composed of numerous living cells.</sent>
+				<sent id ="15">We must keep these cells alive in order to keep ourselves alive.</sent>
+				<sent id ="16">To keep the cells alive, they must be provided with food.</sent>
+				<sent id ="17">But living cells cannot absorb complex food directly.</sent>
+				<sent id ="18">Nutrition is what forms the relation between food and health.</sent>
+				<sent id ="19">Our body gets necessary nutrition from the foodstuffs we eat, such as rice, fish, meat, pulses, fruits, vegetables etc.</sent>
+				<sent id ="20">We get energy for doing work when we get sufficient nutrition.</sent>
+				<sent id ="21">A child grows up properly only if he/she receives proper nutrition.</sent>
+				<sent id ="22">Not all foods are equal in terms of providing nutrition.</sent>
+				<sent id ="23">As a result you can keep your body healthy.</sent>
+				<sent id ="24">For example, you know that among carbohydrates, such as rice, bread, potato etc.</sent>
+				<sent id ="25">Bread is better than rice in terms of nutritional value, because wheat contains more protein and vitamins than rice.</sent>
+				<sent id ="26">When the nutritional requirements of our body are not properly fulfilled, it results in malnutrition.</sent>
+				<sent id ="27">Most of the children in our country suffer from malnutrition.</sent>
+				<sent id ="28">Malnutrition is harmful for our bodies in many ways.</sent>
+				<sent id ="29">Malnourished children are weak and unhealthy, and their mental development is also impaired.</sent>
+				<sent id ="30">They cannot work hard.</sent>
+				<sent id ="31">They are prone to becoming easily infected by diseases, as their immune systems are weak.</sent>
+				<sent id ="32">In many cases, malnutrition causes early deaths of children.</sent>
+				<sent id ="33">Everyday you eat foods having different tastes, such as sour, hot, sweet etc.</sent>
+				<sent id ="34">Apart from these, mineral salts, vitamins and water are three other types of food.</sent>
+				<sent id ="35">These substances are vital for keeping our bodies healthy and free from disease.</sent>
+				<sent id ="36">Foods are classified into these types according to the types of substances which they are rich in.</sent>
+				<sent id ="37">Rice, wheat, maize, molasses, sugar, potatoes etc. contain high amounts of carbohydrate.</sent>
+				<sent id ="38">They are classified as carbohydrate food.</sent>
+				<sent id ="39">These types of food contain little amounts of protein and vitamin.</sent>
+				<sent id ="40">Carbohydrate food provides energy and gives strength for doing work.</sent>
+				<sent id ="41">Deficiency of carbohydrate results in weight loss of the body, increase in hunger, and tendencies of nausea.</sent>
+				<sent id ="42">The body becomes weak and its capacity for work decreases.</sent>
+				<sent id ="43">Fish, meat, eggs, milk etc. are animal protein.</sent>
+				<sent id ="44">Cow pea, pulses, beans, peas etc. are examples of plant protein.</sent>
+				<sent id ="45">Protein is used in blood cell production and growth of the body.</sent>
+				<sent id ="46">It compensates for physical decay, builds the body and helps it grow.</sent>
+				<sent id ="47">Physical development of children is often hampered due to protein deficiency.</sent>
+				<sent id ="48">Lack of protein causes muscles to become thin and results in repetitive diarrhoea.</sent>
+				<sent id ="49">These are symptoms of marasmus disease.</sent>
+				<sent id ="50">Deficiency of protein can also cause quashiorkor or swelling of limbs.</sent>
+				<sent id ="51">There are two types of fats - animal fat and vegetable fat.</sent>
+				<sent id ="52">Foodstuffs containing high amounts of fat are called fatty or oily foodstuffs.</sent>
+				<sent id ="53">Butter, ghee, fish, animal fat etc. are fatty foods obtained from animals.</sent>
+				<sent id ="54">Soybean oil, mustard oil, nut oil, sesame oil, olive oil etc. are fatty food obtained from plants.</sent>
+				<sent id ="55">We get energy from fatty foods.</sent>
+				<sent id ="56">This energy enables us to do work and keep our bodies warm.</sent>
+				<sent id ="57">Deficiency of fat makes the body become rough and may cause skin diseases.</sent>
+				<sent id ="58">Excessive consumption of fatty food results in accumulation of fat in the body.</sent>
+				<sent id ="59">Deposition of excess fat is harmful to our bodies.</sent>
+				<sent id ="60">It may cause various serious illnesses including high blood pressure and cardiac diseases.</sent>
+				<sent id ="61">Vitamins are food element which protect our body.</sent>
+				<sent id ="62">Deficiency of vitamins results in many diseases and may even cause death.</sent>
+				<sent id ="63">There are many types of vitamins.</sent>
+				<sent id ="64">Many of us suffer from vitamin deficiencies.</sent>
+				<sent id ="65">Deficiency of vitamin A causes night-blindness.</sent>
+				<sent id ="66">One can become blind if he/she does not consume sufficient amounts of vitamin A.</sent>
+				<sent id ="67">All kinds of yellow fruits and green vegetables contain vitamin A.</sent>
+				<sent id ="68">Mala and dhela fish are rich in Vitamin A.</sent>
+				<sent id ="69">There are many types of vitamin B.</sent>
+				<sent id ="70">B1, B2, B6 etc are collectively known as vitamin B complex.</sent>
+				<sent id ="71">Deficiency of Vitamin B causes sores on the lips and tongue.</sent>
+				<sent id ="72">It may also cause mental depression.</sent>
+				<sent id ="73">It strengthens the immunity of the body against diseases, and keeps our skin healthy.</sent>
+				<sent id ="74">Vitamin C is available in emblic myrobalan, guava, lemon, tomato, hog-plum, carambola, shaddock etc.</sent>
+				<sent id ="75">Vitamin C does not remain stored in the body, so it is necessary to eat foods with vitamin C everyday.</sent>
+				<sent id ="76">Deficiency of vitamin C results in gum diseases, cough and cold.</sent>
+				<sent id ="77">Vitamin D makes our bodies firm and strong.</sent>
+				<sent id ="78">Oil extracted from the livers of codfish and sharks contains large amounts of Vitamin A and D.</sent>
+				<sent id ="79">You may have noticed that infants are laid down in sunlight in the morning.</sent>
+				<sent id ="80">This sunlight aids in the synthesis of vitamin D from the layer of fat beneath the skin.</sent>
+				<sent id ="81">Deficiency of vitamin D causes rickets in children.</sent>
+				<sent id ="82">This disease prevents bones from becoming hard, as a result of which bones become bent.</sent>
+				<sent id ="83">Vitamin E can be found in oils or fats, green vegetables, grains, eggs, milk, liver etc.</sent>
+				<sent id ="84">Anemia is caused as a result of deficiency of vitamin E. Vitamin K is found in cauliflowers, cabbages, liver etc.</sent>
+				<sent id ="85">If your hand, leg or any other part of your body is injured, blood flows from the wound.</sent>
+				<sent id ="86">Vitamin K helps the blood to clot, thus preventing loss of blood.</sent>
+				<sent id ="87">Importance of mineral salts Important for the formation of teeth and bone.</sent>
+				<sent id ="88">Helps blood to clot.</sent>
+				<sent id ="89">Aids in the formation of red blood cells.</sent>
+				<sent id ="90">Deficiency causes anemia.</sent>
+				<sent id ="91">Deficiency prevents the thyroid gland from functioning properly and causes goitre.</sent>
+				<sent id ="92">Dificiency causes body to become stiff.</sent>
+				<sent id ="93">Many of us eat myrobalan tamarinds, green mangoes etc. with salt.</sent>
+				<sent id ="94">Mothers use salt while cooking fish, meat or vegetables.</sent>
+				<sent id ="95">This salt is called edible salt.</sent>
+				<sent id ="96">Apart from edible salt, there are other types of salts which are essential for our body.</sent>
+				<sent id ="97">They are called mineral salts.</sent>
+				<sent id ="98">Mineral salts of iron, calcium, iodine, phosphorus, sodium etc. are found in fruits, vegetables, milk, eggs, liver, and sea fish.</sent>
+				<sent id ="99">Deficiency of these salts can cause many diseases.</sent>
+				<sent id ="100">Look at the following table.</sent>
+				<sent id ="101">A list of important mineral salts are given there.</sent>
+				<sent id ="102">The sources and necessities of various mineral salts are shown here.</sent>
+				<sent id ="103">Water is a very important element for the digestion of the foods which we eat everyday.</sent>
+				<sent id ="104">Water aids in the digestion of food and excretion of bodily wastes in the form of sweat and urine.</sent>
+				<sent id ="105">Drinking insufficient amounts of water can cause constipation.</sent>
+				<sent id ="106">From this, it is clear that without water our body cannot perform all its functions properly.</sent>
+				<sent id ="107">The foods that we consume everyday contains large amounts of water.</sent>
+				<sent id ="108">In addition to that, we need to drink 6 to 7 glasses of water per day.</sent>
+				<sent id ="109">Stomach diseases like diarrhoea, cholera etc. cause the amount of water in the body to drop abruptly.</sent>
+				<sent id ="110">This has many adverse effects on the patient's body.</sent>
+				<sent id ="111">In this condition the patient should be fed oral saline.</sent>
+				<sent id ="112">Various complexities can arise if oral saline is not given to the patient in time.</sent>
+				<sent id ="113">In many cases water can accumulate in one's limbs or face.</sent>
+				<sent id ="114">This may happen if any organs of the body fail to function properly.</sent>
+				<sent id ="115">In this situation it is very urgent to consult a doctor.</sent>
+				<sent id ="116">Nutritious and balanced diets are required for maintaining healthy and strong bodies and for production of energy for doing work.</sent>
+				<sent id ="117">Many people believe that only expensive foods have greater nutritional value.</sent>
+				<sent id ="118">But in reality, all foods contain nutrition.</sent>
+				<sent id ="119">Balanced diets contain all types of food elements proportionately.</sent>
+				<sent id ="120">49Introduction to Environment : Science We need to know which food contains which elements.</sent>
+				<sent id ="121">Remember that the amounts of balanced diets for children, youths, labourers, doctors, rickshaw-pullers etc. will not be the same.</sent>
+				<sent id ="122">The amount of food eaten by a person will depend on his/her age and occupation.</sent>
+				<sent id ="123">Look at the following table.</sent>
+				<sent id ="124">Observe the types of food.</sent>
+				<sent id ="125">If it is not possible for you, take help from others to know the prices of foodstuffs.</sent>
+				<sent id ="126">Now-a-days price of different food items are decelaring in different medias like radio, Television, Newspaper etc.</sent>
+				<sent id ="127">After filling in the table, show it to your teacher.</sent>
+				<sent id ="128">Now you have learnt how to prepare lists of different kinds of cheap and expensive foods which constitute balanced diets.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

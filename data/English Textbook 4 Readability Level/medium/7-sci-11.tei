@@ -1,0 +1,118 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.833</idno>
+				<idno type="Number of sentences">90</idno>
+				<idno type="Number of tokens">1142</idno>
+				<idno type="Number of token types">496</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t55">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Food is needed for survival.</sent>
+				<sent id ="2">Of the six components of food, protein is the main component.</sent>
+				<sent id ="3">Protein is needed for growth and repair of wear and tear of the body.</sent>
+				<sent id ="4">Fish is the major sources of protein.</sent>
+				<sent id ="5">Besides protein, fish is the source of mineral salts and vitamins.</sent>
+				<sent id ="6">Fish provides about 75 percent of protein requirement of human beings in the world.</sent>
+				<sent id ="7">For long, people in Bangladesh have been dependent on fish as a source of protein.</sent>
+				<sent id ="8">Among general people in the country, about 80 percent of protein requirement is met by fish.</sent>
+				<sent id ="9">Fish is not only easily available in this land of rivers but also easily digestible and relatively cheap.</sent>
+				<sent id ="10">Fish is an aquatic vertebrate animal.</sent>
+				<sent id ="11">It is available in different water bodies-ponds, lakes, shallow water bodies, nala, haor-baor, beel, rivers, canals, oceans, and so on.</sent>
+				<sent id ="12">The following features of vertebrates are present in fish, so fish is a vertebrate animal.</sent>
+				<sent id ="13">Salmon is one of the most well known fish.</sent>
+				<sent id ="14">It is a vertebrate having scales on its body.</sent>
+				<sent id ="15">It is mainly herbivorous and lives chiefly in fresh water.</sent>
+				<sent id ="16">In Bangladesh, salmon fish is abundantly found in rivers, canals, beel, haor-baor, ponds and other water bodies.</sent>
+				<sent id ="17">Salmon fish usually live in the mid-level of the depth of the water bodies.</sent>
+				<sent id ="18">Algae, rotten leaves, and so on are their favourite food.</sent>
+				<sent id ="19">Shape and Colour: The body of salmon is elongated and flattened from two sides.</sent>
+				<sent id ="20">They resemble pointed gourd (a kitchen-vegetable shaped like a cylinder tapering at both ends), that is the mid-part is expanded and tapering towards both ends.</sent>
+				<sent id ="21">Its ventral surface is silver white, while the dorsal surface and adjoining parts is blackish-brown.</sent>
+				<sent id ="22">The fins are reddish in colour.</sent>
+				<sent id ="23">Salmon is about a metre long, the body is divided into three parts-head, trunk and tail.</sent>
+				<sent id ="24">Head: The head of salmon is relatively smaller than the trunk.</sent>
+				<sent id ="25">The mouth is situated at the anterior end of the head a little below the top.</sent>
+				<sent id ="26">It is lined by two full lips, the upper lip has a pair of barbell.</sent>
+				<sent id ="27">Salmon has a pair of nostrils above their mouth.</sent>
+				<sent id ="28">Behind each nostril is a rounded eye.</sent>
+				<sent id ="29">On either side of the posterior part of the head is the half-moon shaped operculum.</sent>
+				<sent id ="30">Under each operculum is four comb-shaped gills.</sent>
+				<sent id ="31">Trunk: The part of the body that extends from the end of the operculum to the anus is called trunk.</sent>
+				<sent id ="32">Compared to the head and tail, this part is bulkier.</sent>
+				<sent id ="33">On the ventral aspect of the tail end of the trunk there is a slight swelling that contains the anus.</sent>
+				<sent id ="34">Tail: The rest of the body behind the anus is the tail.</sent>
+				<sent id ="35">The tail is compressed laterally.</sent>
+				<sent id ="36">Scale: The body of salmon has a layer of scales covering their skin.</sent>
+				<sent id ="37">Scales are smooth, rounded plates.</sent>
+				<sent id ="38">In salmon, the scales do not cover the head and fins.</sent>
+				<sent id ="39">The scales are arranged in rows such as that one scale covers a part of the scale behind it.</sent>
+				<sent id ="40">The slippery mucus secreted by the body helps in self-protection.</sent>
+				<sent id ="41">Lateral line: A lateral line lies below the skin along the two lateral sides of the fish.</sent>
+				<sent id ="42">This lateral line helps the salmon to maintain equilibrium in the water.</sent>
+				<sent id ="43">Pectoral fin: These fins are situated behind the operculum on either side of the body.</sent>
+				<sent id ="44">These contain many stick-like spines called fin-rays Pelvic fin: The second paired fin is the pelvic fins.</sent>
+				<sent id ="45">They lie behind the pectoral fin and just in front of the anus.</sent>
+				<sent id ="46">These have finrays too.</sent>
+				<sent id ="47">Dorsal fin: Behind the head on the back at about the middle of the trunk lies the dorsal fin.</sent>
+				<sent id ="48">The fin is quite big and looks like a triangle.</sent>
+				<sent id ="49">This has many fin-rays.</sent>
+				<sent id ="50">Anal fin: The fin lies behind the anus on the ventral surface of the trunk.</sent>
+				<sent id ="51">This has few fin-rays.</sent>
+				<sent id ="52">Caudal fin: This is the third unpaired fin.</sent>
+				<sent id ="53">It is situated at the end of the tail.</sent>
+				<sent id ="54">It is divided into two equal halves.</sent>
+				<sent id ="55">It has many fin-rays.</sent>
+				<sent id ="56">Function of fin: With the help of fins, salmon moves and maintains body equilibrium in water.</sent>
+				<sent id ="57">Source of Protein: Protein is necessary for body growth and repair of wear and tear in the body.</sent>
+				<sent id ="58">Fish is a major source of animal protein.</sent>
+				<sent id ="59">It is easily digestible.</sent>
+				<sent id ="60">It also contains mineral salts and vitamins.</sent>
+				<sent id ="61">The added advantage is that fish can be dried or salted for preservation and can be taken as food after a long time.</sent>
+				<sent id ="62">Restorative Food: Different fishes, like pabda, tangra, shing, magur are used as restorative food for the ill persons.</sent>
+				<sent id ="63">These fishes are easily digestible and help the body to regain lost energy.</sent>
+				<sent id ="64">Source of Vitamin: The oil derived from the shark's liver is a rich source of vitamins A and D.</sent>
+				<sent id ="65">This oil helps in the growth of teeth and bones in children.</sent>
+				<sent id ="66">Source of Mineral Salt: Fish contains lots of mineral salt that help in the structural formation of bones and teeth and increase vision.</sent>
+				<sent id ="67">The bones of small fishes help to restore the calcium level in the body.</sent>
+				<sent id ="68">Preparation of Soup: In China and Philippines the fins of shark are used to prepare soup, which is considered a delicacy in those countries.</sent>
+				<sent id ="69">Bangladesh is a land of rivers.</sent>
+				<sent id ="70">Fish contribute a great deal in the economy of Bangladesh.</sent>
+				<sent id ="71">In our country, about 4 percent of the national income and 11 percent of the export earnings come from fish resource.</sent>
+				<sent id ="72">Besides, employment of a large segment of the population, fish cultivation helps to improve the socio-economic condition of the people.</sent>
+				<sent id ="73">Earning Foreign Exchange: There is world-wide demand for fish.</sent>
+				<sent id ="74">The production of fish can be increased in the suitable water bodies, including restored abandoned ponds.</sent>
+				<sent id ="75">This would lead to export of fish after meeting the domestic demand to bring in considerable foreign exchange.</sent>
+				<sent id ="76">Besides, trinkets and other adornments prepared from fish scales can also be exported to earn further foreign currency.</sent>
+				<sent id ="77">Food for Domestic Animal: The scales, fins and intestine are a good source of food for the domestic animals.</sent>
+				<sent id ="78">Powdered dry fish is a good source of nutrient for the domestic fowl.</sent>
+				<sent id ="79">Fertilizer: Powdered dry fish is used as fertilizer for certain crop production.</sent>
+				<sent id ="80">Whip Production: The tail of shankar fish is used to make whip.</sent>
+				<sent id ="81">Shoe Production: Shark skin is used to make shoes and bags.</sent>
+				<sent id ="82">It is also used in the preparation of sand-paper.</sent>
+				<sent id ="83">Hobby: Many people have the hobby of keeping fishes in aquariums.</sent>
+				<sent id ="84">This not only serves as recreation but also brightens up the environment.</sent>
+				<sent id ="85">Spending Leisure Time: Many people spend leisure time by catching fish.</sent>
+				<sent id ="86">Soap Production: The oil extracted from certain fishes is used as a raw material in soap production.</sent>
+				<sent id ="87">(10) Employment: Starting from fish cultivation to fish catching;</sent>
+				<sent id ="88">production and sale of fishing net, fishing instruments; preservation of fish and exporting;</sent>
+				<sent id ="89">all provide employment to a large section of the population.</sent>
+				<sent id ="90">This reduces unemployment to some extent.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

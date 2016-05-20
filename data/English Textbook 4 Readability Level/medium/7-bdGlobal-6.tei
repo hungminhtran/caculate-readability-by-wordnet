@@ -1,0 +1,177 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-bdGlobal-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.226</idno>
+				<idno type="Number of sentences">149</idno>
+				<idno type="Number of tokens">1944</idno>
+				<idno type="Number of token types">796</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t30">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The words Weather and Climate seem to be the same but the meanings are not the same.</sent>
+				<sent id ="2">The natural condition of a particular area of certain time of daily temperature, rain fall, storm, etc. of a particular area is called weather.</sent>
+				<sent id ="3">It is determined by measuring the temperature, humidity, rainfall, wind movement and pressure.</sent>
+				<sent id ="4">Weather may change daily or hourly and it actually does so.</sent>
+				<sent id ="5">On the other hand, the average weather of 30-40 years of an area is called climate.</sent>
+				<sent id ="6">But to know the climate of a country or region there are some important elements.</sent>
+				<sent id ="7">These are latitude, longitude, distance from sea, height from sea level, wind moment, ocean current, slope of land, soil structure and amount of forest.</sent>
+				<sent id ="8">As Bangladesh is located in tropical region, its climate is temperate.</sent>
+				<sent id ="9">That is to say, it is not very hot or not very cold here.</sent>
+				<sent id ="10">It is located near the sea.</sent>
+				<sent id ="11">The intensity of winter and summer is not severe due to the influence of monsoon.</sent>
+				<sent id ="12">Here winter season is dry and summer is warm and rainy.</sent>
+				<sent id ="13">Though the mountain Himalaya is not adjacent to the boundary of Bangladesh, it protects Bangladesh from Siberian snowfall.</sent>
+				<sent id ="14">For this reason winter season is not long here.</sent>
+				<sent id ="15">The temperature of Bangladesh remains 18-21 Celsius in winter.</sent>
+				<sent id ="16">Sometimes the temperature comes down to 4/5 Celsius in the north and south-eastern parts.</sent>
+				<sent id ="17">The intensity of winter is very high in Thakurgaon, Panchagor and Srimongal.</sent>
+				<sent id ="18">In Bangladesh summer begins from the month of Baishakh - it is mid April in English calendar.</sent>
+				<sent id ="19">Sometimes in summer the temperature goes up to 40/50 Celsius in the north and north-western parts of Bangladesh.</sent>
+				<sent id ="20">The Norwester occurs in some places in the beginning of monsoon.</sent>
+				<sent id ="21">Tornado and cyclone occur in the coastal areas.</sent>
+				<sent id ="22">In rainy season, the wind blows with water vapour from the south of the Bay of Bengal.</sent>
+				<sent id ="23">It is called the monsoon.</sent>
+				<sent id ="24">Heavy rainfall occurs in Bangladesh by the influence of monsoon.</sent>
+				<sent id ="25">Geographical Map of Bangladesh But the rainfall is not equal all over the country.</sent>
+				<sent id ="26">Excessive rainfall occurs in Sylhet, Chittagong, and Cox's Bazar.</sent>
+				<sent id ="27">On the other hand, less rainfall occurs in Rajshahi, Pabna and Kushtia.</sent>
+				<sent id ="28">Though rainfall occurs in Bangladesh in autumn, its quantity is very low.</sent>
+				<sent id ="29">River erosion increases in rainy season.</sent>
+				<sent id ="30">During April-May and October-November -these two times in a year cyclone and tidal wave occurs in Bangladesh.</sent>
+				<sent id ="31">The climate of Bangladesh is moderate.</sent>
+				<sent id ="32">It means the effects of favourable and adverse weather here is similar.</sent>
+				<sent id ="33">Because of favorable weather, the nature of Bangladesh is evergreen and ever fertile.</sent>
+				<sent id ="34">On the other hand, storm, tidal wave, flood, drought, norwester, tornado and excessive rainfall occur due to the influence of unfavorable weather.</sent>
+				<sent id ="35">These types of disaster bring miseries to the people of Bangladesh.</sent>
+				<sent id ="36">A long time ago a mammoth animal named Dinosaur lived in the world.</sent>
+				<sent id ="37">Nowadays nowhere this animal is found.</sent>
+				<sent id ="38">Sometimes the skeletons and bones of that extinct animal are found under the soil.</sent>
+				<sent id ="39">But why was this animal lost?</sent>
+				<sent id ="40">After research, scientists have found that 6.5 crore years ago the weather of the world became abnormal.</sent>
+				<sent id ="41">Its adverse impacts affected the landmass, water body, and the atmosphere of the world.</sent>
+				<sent id ="42">Finally, it affected the whole world.</sent>
+				<sent id ="43">For 20 lac years the change of weather continued.</sent>
+				<sent id ="44">This change over a long period of time affected the climate of the world.</sent>
+				<sent id ="45">Due to this change, the nature and environment were affected.</sent>
+				<sent id ="46">The cause of extinction of Dinosaur is this change of climate.</sent>
+				<sent id ="47">One of the causes of climate change of that time was frequent volcanic eruption.</sent>
+				<sent id ="48">Emitted gas, lava, ash, etc. from volcanic eruptions mixing with atmosphere made a barrier which kept the temperature of sunrays stuck in the earth.</sent>
+				<sent id ="49">For this reason temperature of the earth increased.</sent>
+				<sent id ="50">The gas responsible for increasing the temperature of the earth by making a barrier in the atmosphere is called the Green House Gas.</sent>
+				<sent id ="51">As a result, the sea level increased up to 200-300 feet high and the amount of landmass and forest area decreased.</sent>
+				<sent id ="52">Food scarcity for the animals arose.</sent>
+				<sent id ="53">Consequently, many animals including Dinosaur became extinct.</sent>
+				<sent id ="54">Even today, the main cause of climate change is the green house gas.</sent>
+				<sent id ="55">Carbondioxide, Methane, Nitrous oxide and Chloro-fluoro-carbon etc are combinedly called green house gas.</sent>
+				<sent id ="56">The spread of these gases excessively in the atmosphere increases the temperature of the earth.</sent>
+				<sent id ="57">Human activities are more responsible for the increase of the green house gas in the atmosphere.</sent>
+				<sent id ="58">The quantity of carbon dioxide is maximum among the green house gases created by men.</sent>
+				<sent id ="59">Carbon dioxide is produced from generating power, burning fuel of the vehicles, smoke and brick fields.</sent>
+				<sent id ="60">At present the quantity of transmitted green house gas has been increased by 80% to 90% than the previous.</sent>
+				<sent id ="61">From this, we can easily understand the adverse impacts of climate change.</sent>
+				<sent id ="62">The causes of climate change are almost the same in Bangladesh as in other regions of the world.</sent>
+				<sent id ="63">But like other developing countries, Bangladesh does not use as much fuel as the industrially developed countries do.</sent>
+				<sent id ="64">The temperature of the earth is increasing gradually for deforestation.</sent>
+				<sent id ="65">According to the opinion of the experts, a country needs about 25% forest of its total land area.</sent>
+				<sent id ="66">But in Bangladesh the amount of forest is only 16% of its total land area.</sent>
+				<sent id ="67">Moreover, the amount of forest is still decreasing because of indiscriminate cutting down of trees and destruction of hills and for some other reasons.</sent>
+				<sent id ="68">As a result of all these, the amount of rainfall in Bangladesh has also decreased.</sent>
+				<sent id ="69">Bangladesh is a disaster prone country.</sent>
+				<sent id ="70">Different types of disaster occur here.</sent>
+				<sent id ="71">Among them cyclone, tidal wave, river erosion, drought, cold wave, tornado, norwester etc are noteworthy.</sent>
+				<sent id ="72">Besides, Bangladesh has the risk of earthquake.</sent>
+				<sent id ="73">When the air of earth surface of a particular place gets hot, it blows upward.</sent>
+				<sent id ="74">As a result, air pressure of that place becomes less and air from other places rush to the low pressure areas.</sent>
+				<sent id ="75">This is called cyclone.</sent>
+				<sent id ="76">Most of the cyclones occur in Bangladesh due to the low pressure created by the Bay of Bengal.</sent>
+				<sent id ="77">This is called tidal wave.</sent>
+				<sent id ="78">Cyclones and tidal wave have struck the coastal area of Bangladesh several times severely and many people died and the cattle and crap were damaged.</sent>
+				<sent id ="79">On 12th November 1970, due to such a cyclone and tidal waves on the coastal region of Bangladesh, almost 10 lacs people died.</sent>
+				<sent id ="80">Sidr and Ailla were the two cyclones that occurred recently.</sent>
+				<sent id ="81">On 15th November, 2007, due to Sidr 30 lacs of people of 28 districts were badly affected.</sent>
+				<sent id ="82">And on 20th April, 2009 people, animals, crop and houses were severly damaged by Ailla.</sent>
+				<sent id ="83">Generally, weather forecast and warning messages are broadcast from the weather offices.</sent>
+				<sent id ="84">If we follow the alert and become careful, we can escape from the loss of lives.</sent>
+				<sent id ="85">To fight against disaster, we should take necessary preparations and take shelter in cyclone shelter centers and other safe places.</sent>
+				<sent id ="86">More or less, flood occurrs in Bangladesh almost every year.</sent>
+				<sent id ="87">Almost all the rivers of Bangladesh including the three main rivers - the Padma, the Meghna and the Jamuna are originated from India.</sent>
+				<sent id ="88">Thus flood occurs.</sent>
+				<sent id ="89">In this way, the capacity of containing water of the rivers decreases.</sent>
+				<sent id ="90">The water overflows and inundates the areas around the rivers.</sent>
+				<sent id ="91">Almost every year, flood damages our people and resources.</sent>
+				<sent id ="92">Crops are damaged hugely and consequently food crisis occars.</sent>
+				<sent id ="93">Many people become unemployed by losing their work.</sent>
+				<sent id ="94">In 1988, 1998, 2004 and 2007, massive flood occurred in our country.</sent>
+				<sent id ="95">Now the experts say, Flood cannot be stopped fully.</sent>
+				<sent id ="96">But we can minimize the losses due to flood.</sent>
+				<sent id ="97">River erosion is one of the regular disasters of Bangladesh.</sent>
+				<sent id ="98">It happens almost every year, especially in the rainy season.</sent>
+				<sent id ="99">One of the causes of river erosion is the nature of course of the rivers.</sent>
+				<sent id ="100">Most of the river courses are meandering.</sent>
+				<sent id ="101">Meanderingness of these rivers are frequent, consequently strong current cannot flow straight and strikes the banks and begins to erode the banks.</sent>
+				<sent id ="102">Due to river erosion thousand acres of cultivable land, residence and different constructions are being lost in the womb of the rivers.</sent>
+				<sent id ="103">As a result thousands of people of this country are becoming homeless and losing the opportunity of jobs, they are becoming destitute.</sent>
+				<sent id ="104">River erosion and its damages could be reduced if we are aware of the causes of river erosion and its effects.</sent>
+				<sent id ="105">Drought is a natural disaster of Bangladesh.</sent>
+				<sent id ="106">Drought occurs due to the lack of sufficient rainfall.</sent>
+				<sent id ="107">Almost every year at the end of spring and outset of summer draught occurs in the northern region of Bangladesh.</sent>
+				<sent id ="108">For the lack of water, irrigation is hampered, crops are damaged.</sent>
+				<sent id ="109">Besides lack of rainfall, drought also occurs for making dam in the upstream of many rivers, and for environment pollution.</sent>
+				<sent id ="110">Actually, it is not possible to prevent this natural disaster fully.</sent>
+				<sent id ="111">But if we are aware of it and take necessary steps in time, damages due to drought can be lessened.</sent>
+				<sent id ="112">For this, after examining ground water layer, lifting water from ground needs to be stopped.</sent>
+				<sent id ="113">In rainy season, we should reserve water.</sent>
+				<sent id ="114">The mass awareness about proper management and uses of water should be created.</sent>
+				<sent id ="115">Although Bangladesh is not a cold country mild and medium cold wind is noticed some years.</sent>
+				<sent id ="116">Especially in the northern region intensity of cold can be very high.</sent>
+				<sent id ="117">For extreme coldness many people die.</sent>
+				<sent id ="118">Cold wind makes human life miserable.</sent>
+				<sent id ="119">Ordinary people like day labourers and workers do not get work.</sent>
+				<sent id ="120">Cold wind damages crops.</sent>
+				<sent id ="121">The poor people fall in miserable conditions due to lack of houses and warm clothes.</sent>
+				<sent id ="122">Tornado is one of the mentionable natural disasters of Bangladesh.</sent>
+				<sent id ="123">This is an extremely speedy cyclone.</sent>
+				<sent id ="124">It is created by the low pressure in landmass.</sent>
+				<sent id ="125">Tornado is such a natural disaster about which no information could be predicted.</sent>
+				<sent id ="126">It can attack any place all on a sudden, and within few seconds, it can cause a massacre.</sent>
+				<sent id ="127">Its duration is very short few seconds to few minutes and very small area of a region is attacked by it.</sent>
+				<sent id ="128">Generally in Bangladesh, Tornado occurs from the beginning of Bengali month Falgun to the middle of Jaishthya, i.e. from mid-February to May.</sent>
+				<sent id ="129">Norwester is a kind of temporary and regionally created storm.</sent>
+				<sent id ="130">It is also called Kalbaishakhi in Bengali as it normally occurs in Bangla month Baishakh.</sent>
+				<sent id ="131">It often comes from the North-West direction.</sent>
+				<sent id ="132">In Bangladesh it occurs almost every year.</sent>
+				<sent id ="133">Though it is not as destructive as Tornado, it still does huge damage to common life.</sent>
+				<sent id ="134">It blows away houses, breaks away trees.</sent>
+				<sent id ="135">It disturbs the water-transport systems.</sent>
+				<sent id ="136">Many serious accidents occur due to Norwester.</sent>
+				<sent id ="137">So, precautions should be taken while moving in water-ways during Norwester season.</sent>
+				<sent id ="138">Among all the natural disasters, earthquake does the most damage in the shortest time.</sent>
+				<sent id ="139">Besides, no early warning can be given for earthquake.</sent>
+				<sent id ="140">Before anyone can come to understand anything, it turns the whole region into ruins through one or more jolts.</sent>
+				<sent id ="141">Mild, medium and huge earthquake may occur one after another in succession at a place simultaneously.</sent>
+				<sent id ="142">We have got this proof from the earthquakes that occurred in Iran, China, Mexico, Chile and Japan.</sent>
+				<sent id ="143">Bangladesh is also in danger zone of earthquake, especially Dhaka, Sylhet, Rangpur and Chittagong regions.</sent>
+				<sent id ="144">Mild earthquakes are occurring frequently in Chittagong and Sylhet.</sent>
+				<sent id ="145">The earthquake that occurred on 18 September, 2001 was quite strong.</sent>
+				<sent id ="146">Due to this, whole Bangladesh got a shake.</sent>
+				<sent id ="147">Till now men do not know how to prevent earthquakes.</sent>
+				<sent id ="148">But knowledge about safety, rescue and relief-work must be provided to common people.</sent>
+				<sent id ="149">If proper preparations can be taken before earthquake, loss of life can be reduced to a great extent.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

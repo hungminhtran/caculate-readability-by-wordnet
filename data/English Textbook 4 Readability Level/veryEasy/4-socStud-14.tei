@@ -1,0 +1,60 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-14</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.555</idno>
+				<idno type="Number of sentences">32</idno>
+				<idno type="Number of tokens">317</idno>
+				<idno type="Number of token types">156</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t91">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The members of a state are called citizens of that state.</sent>
+				<sent id ="2">Citizens are permanent residents of a country.</sent>
+				<sent id ="3">They are loyal to the country.</sent>
+				<sent id ="4">We were born in Bangladesh.</sent>
+				<sent id ="5">We are citizens of Bangladesh.</sent>
+				<sent id ="6">As citizens, we have some rights.</sent>
+				<sent id ="7">At the same time we have some duties too.</sent>
+				<sent id ="8">The rights of a citizen mean his opportunities and privileges.</sent>
+				<sent id ="9">These rights are absolutely necessary for proper and smooth living.</sent>
+				<sent id ="10">In this lesson we will learn about two of the rights.</sent>
+				<sent id ="11">The rights essential for living in a society are known as social rights.</sent>
+				<sent id ="12">Let us read the main social rights in the following table.</sent>
+				<sent id ="13">The right to live is the basis of all other rights.</sent>
+				<sent id ="14">The right to property Every citizen has the right to acquire and enjoy property freely.</sent>
+				<sent id ="15">Every citizen has the right to move freel) inside his own country.</sent>
+				<sent id ="16">To speak in mother Language is our fundamental rights.</sent>
+				<sent id ="17">Similarly, to practise culture and observe festivals are also included in this right.</sent>
+				<sent id ="18">Let us read the political rights in the following table.</sent>
+				<sent id ="19">This right means the right to vote and the right to become a candidate.</sent>
+				<sent id ="20">Each citizen has the right to get a government job according to qualifications.</sent>
+				<sent id ="21">Each citizen has the right to express his grievances and problems and seek their solutions.</sent>
+				<sent id ="22">Let us copy the table below in our notebooks and write down three political rights.</sent>
+				<sent id ="23">The rights and duties are inter-dependent.</sent>
+				<sent id ="24">As citizens, we perform some duties towards the state.</sent>
+				<sent id ="25">These rights cannot be enjoyed if the duties are not performed rightly.</sent>
+				<sent id ="26">Let us read the duties of a citizen in the following table.</sent>
+				<sent id ="27">It is their duty to pay taxes regularly.</sent>
+				<sent id ="28">To vote It is an important duty.</sent>
+				<sent id ="29">Through it the citizens participate in the administration.</sent>
+				<sent id ="30">Their duty is to elect honest and competent people.</sent>
+				<sent id ="31">We are now children.</sent>
+				<sent id ="32">When we grow up, we will perform these duties and responsibilities.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

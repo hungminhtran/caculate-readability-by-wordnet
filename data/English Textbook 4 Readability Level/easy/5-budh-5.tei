@@ -1,0 +1,91 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-budh-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.961</idno>
+				<idno type="Number of sentences">63</idno>
+				<idno type="Number of tokens">729</idno>
+				<idno type="Number of token types">374</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t8">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Pitak There are so many religious faiths in this world.</sent>
+				<sent id ="2">The followers of each religion have a Holy-book of their own.</sent>
+				<sent id ="3">These Holy-books have been composed or compiled with the religious sermons of their Preceptors.</sent>
+				<sent id ="4">The religion proclaimed by the Buddha is Buddhism.</sent>
+				<sent id ="5">The Buddhists are the followers of His religion.</sent>
+				<sent id ="6">The Buddha preached His religion for long forty five years.</sent>
+				<sent id ="7">During this period He admonished the religious rules and regulations, advices and messages to His disciples and the followers.</sent>
+				<sent id ="8">The books in which these perceptibles were included is Tripitak.</sent>
+				<sent id ="9">So the Tripitak is the Holy-book of the Buddhists.</sent>
+				<sent id ="10">Tripitak is divided into three parts.</sent>
+				<sent id ="11">Earlier you came across the Vinay pitak and the Sutta pitak.</sent>
+				<sent id ="12">The Abhidhamma is the third part of the Tripitak.</sent>
+				<sent id ="13">Now we shall be acquainted with the contents of the Books lying within the Abhidhamma pitak.</sent>
+				<sent id ="14">The short history of the compilation of the Tripitak was included in the text-book of class four.</sent>
+				<sent id ="15">You are already acquainted with that history.</sent>
+				<sent id ="16">It is found there that the First-Council took place three months after the Mahaparinirban (Extinction) of Lord Buddha.</sent>
+				<sent id ="17">The Dhamma-Vinay (Doctrines and Rules) proclaimed by the Buddha were compiled in that Council.</sent>
+				<sent id ="18">One hundred years later, the Dhamma-Vinay were collected without any change in the Second- Council.</sent>
+				<sent id ="19">The Third-Council was held three hundred years after the Mahaparinirban of the Buddha during the reign of Emperor Ashok.</sent>
+				<sent id ="20">In this Council philosophical and spiritual topics were divided into two parts, namely Sutta and Abhiddamma respectively.</sent>
+				<sent id ="21">In this way the full Tripitak came into being including the Vinay, the Sutta and the Abhidhamma.</sent>
+				<sent id ="22">Thus the Abhidhamma took the full-shape.</sent>
+				<sent id ="23">Which one is the Abhidhamma pitak?</sent>
+				<sent id ="24">What have been considered here?</sent>
+				<sent id ="25">In fact, there is no difference between Dhamma and Abhidhamma.</sent>
+				<sent id ="26">To give more preference to the psychological commentaries the Bangla prefix Abhi is added to it.</sent>
+				<sent id ="27">There are philosophical interpretations on four topics, particularly on mental state, conciousness, corporeality and Nirbana (Extinction) in the Abhidhamma pitak.</sent>
+				<sent id ="28">(Chitta) Mental state means human mind.</sent>
+				<sent id ="29">The couduct that human mind holds is consciousness (chaitasik).</sent>
+				<sent id ="30">Both mental state and consciousness are interrelated.</sent>
+				<sent id ="31">Again (Rupa) corporeality is the shape of physical matter.</sent>
+				<sent id ="32">This is visible and changeable.</sent>
+				<sent id ="33">But Nirban is peaceful, quiet and full of happiness.</sent>
+				<sent id ="34">The intellectual analysis of themes of the Abhidhamma was not easily understable to the common people.</sent>
+				<sent id ="35">For that reason, Lord Buddha ascended unto the Tavatingsa heaven along with Agrasravak Sariputra.</sent>
+				<sent id ="36">There He delivered Abhidhamma (Philosophical doctrines) to the dwelling deities of the Tavatingsa heaven for long three months.</sent>
+				<sent id ="37">To earn fundamental knowledge on Buddhism it is important to know Abhidhamma.</sent>
+				<sent id ="38">So we should have some ideas about the names and their contents contained in the Abhidhamma pitak.</sent>
+				<sent id ="39">There are seven religious books in the Abhidhamma pitak.</sent>
+				<sent id ="40">These Seven Books are collectively known as Sapta Prakaran (Seven contexts).</sent>
+				<sent id ="41">The short description of each Book of Seven contexts is mentioned herewith.</sent>
+				<sent id ="42">Dhamma sangani: In this Book there is a narration of mental state of both right and wrong.</sent>
+				<sent id ="43">Right means good.</sent>
+				<sent id ="44">At the same time, wrong means bad.</sent>
+				<sent id ="45">Right mental state is full of happiness.</sent>
+				<sent id ="46">On the other hand, wrong mental state is extremely sorrowful.</sent>
+				<sent id ="47">The five groups of existence are-Rupa (Corporeality), Vedana (Feeling), Sangya (Perception), Sanskar (Formation) and Biggyan (Consciousness).</sent>
+				<sent id ="48">Dhatukatha: The Book accomodates some thorough analysis of Buddhist philosophy.</sent>
+				<sent id ="49">So, it is one of the Books on philisophy of Buddhism.</sent>
+				<sent id ="50">Puggalapannatti: Puggala means Person, Individual, Human being etc. Pannatti is denoted as prescribed or introduced.</sent>
+				<sent id ="51">The characteristic of this Book is the accurate introductions of various types of human beings.</sent>
+				<sent id ="52">Kathavatthu: This Book is the logical arguments of Buddhist Philosophy.</sent>
+				<sent id ="53">Sthabir Moggaliputta Tissa composed it as soon as the Third Council was over.</sent>
+				<sent id ="54">The real intention of composing this Book was to resolve the wrong views by logical arguments.</sent>
+				<sent id ="55">Yamaka: Yamaka denotes couple or pair.</sent>
+				<sent id ="56">The Book consists of easy solution of the pair of questions both aside and opposite.</sent>
+				<sent id ="57">Patthana: Patthana refers to real or actual cause.</sent>
+				<sent id ="58">The contents of this Book relate to the Cause and Effect.</sent>
+				<sent id ="59">Its significance is to discuss on both mind and body.</sent>
+				<sent id ="60">The Books of the Abhidhamma described above help us earn real concept and knowledge.</sent>
+				<sent id ="61">We should go through all these Books to acquire knowledge on Buddhist philosophy and psychology.</sent>
+				<sent id ="62">Collect these books and read them when you grow a little older.</sent>
+				<sent id ="63">Encourage others to study them too.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

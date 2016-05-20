@@ -1,0 +1,93 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.318</idno>
+				<idno type="Number of sentences">65</idno>
+				<idno type="Number of tokens">663</idno>
+				<idno type="Number of token types">330</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t26">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The main divisions of the Old testament The holy Bible is the Word of God.</sent>
+				<sent id ="2">It contains divine message in human language.</sent>
+				<sent id ="3">The word Bible means book.</sent>
+				<sent id ="4">The holy Bible consists of 73 (66) books.</sent>
+				<sent id ="5">Now the question is, why do we not call it books?</sent>
+				<sent id ="6">The reason is that the word Bible was taken from the Greek word Biblia.</sent>
+				<sent id ="7">It is a collective noun.</sent>
+				<sent id ="8">Biblia means books.</sent>
+				<sent id ="9">So the 73 (66) books of the Bible can be called a library.</sent>
+				<sent id ="10">Previously we learned that there were two main divisions in the Bible: The Old Testament and the New Testament.</sent>
+				<sent id ="11">We learned something about the New Testament in the previous class.</sent>
+				<sent id ="12">Now we will learn about the Old Testament.</sent>
+				<sent id ="13">Catholic Christians count a total of 46 books in the Old Testament of the holy Bible.</sent>
+				<sent id ="14">But the Protestant communities count a total of 39 books.</sent>
+				<sent id ="15">The books of the Old Testament can be divided into some main parts.</sent>
+				<sent id ="16">He can understand what God is saying now.</sent>
+				<sent id ="17">The messengers of God are also called Gods spokesmen.</sent>
+				<sent id ="18">At first the prophets try to know the will of God.</sent>
+				<sent id ="19">They proclaim the will of God to the people.</sent>
+				<sent id ="20">Moreover they try to know the future plan of God and announce them to people.</sent>
+				<sent id ="21">The prophets have to have great courage because very often they have to speak against the injustice.</sent>
+				<sent id ="22">The prophets take the side of the oppressed, the persecuted, the helpless and the poor.</sent>
+				<sent id ="23">They struggle on their behalf for their rights.</sent>
+				<sent id ="24">The prophets keep a close relation with God.</sent>
+				<sent id ="25">Prayer is a great source of power in their lives.</sent>
+				<sent id ="26">The prophets are always ready to respond to the call of God.</sent>
+				<sent id ="27">Through the prophets God directs man to the right way.</sent>
+				<sent id ="28">Four prophets are called The Major Prophets and the other thirteen are called The Minor Prophets.</sent>
+				<sent id ="29">a) Isaiah: One day Isaiah had a vision of God.</sent>
+				<sent id ="30">He saw God seated on a high throne.</sent>
+				<sent id ="31">He was wearing a long robe.</sent>
+				<sent id ="32">were some angels over His head.</sent>
+				<sent id ="33">Each of them had six wings.</sent>
+				<sent id ="34">They were saying: Holy, holy, holy!</sent>
+				<sent id ="35">The Lord Almighty is holy!</sent>
+				<sent id ="36">His glory fills the world.</sent>
+				<sent id ="37">They were praising God so loudly that the doors were trembling.</sent>
+				<sent id ="38">The house was filled with the smoke of incense.</sent>
+				<sent id ="39">Suddenly the prophet felt he was worthless, unholy and sinful.</sent>
+				<sent id ="40">But the angels brought a burning coal from the altar with the tongs and touched his lips.</sent>
+				<sent id ="41">Instantly he was purified.</sent>
+				<sent id ="42">Then he heard the Lord say: Whom shall I send?</sent>
+				<sent id ="43">Who will be our messenger?</sent>
+				<sent id ="44">Isaiah replied: Here am I! Send me.</sent>
+				<sent id ="45">b) Jeremiah: One day the word of the Lord came to Jeremiah.</sent>
+				<sent id ="46">He said: Before I formed you in the womb I knew you.</sent>
+				<sent id ="47">I appointed you a prophet to the nations.</sent>
+				<sent id ="48">Be not afraid of them, for I am with you to deliver you.</sent>
+				<sent id ="49">Now let us look at the prophets lives and learn about their works.</sent>
+				<sent id ="50">a) Prophet Amos criticized the different types of social evils.</sent>
+				<sent id ="51">Especially he criticized injustice in the society, worship of idols, ostentatious prayers and so on.</sent>
+				<sent id ="52">b) Prophet Micah spoke against injustice in the society.</sent>
+				<sent id ="53">He foretold the birth of the Savior in the city of Bethlehem.</sent>
+				<sent id ="54">c) Prophet Ezekiel criticized the Israelites for their apostasy and disobedience.</sent>
+				<sent id ="55">He declared that everybody would be 52 Christian Religious Studies responsible for his own sin.</sent>
+				<sent id ="56">He announced that God was the real shepherd.</sent>
+				<sent id ="57">d) Isaiah prophesied about the birth of Emmanuel.</sent>
+				<sent id ="58">He foretold that the Savior would be born in the family of David.</sent>
+				<sent id ="59">That the Savior would bring about Justice; He would be a wonderful counselor and powerful God.</sent>
+				<sent id ="60">e) Prophet Joel called the people to repentance.</sent>
+				<sent id ="61">He invited them to true conversion.</sent>
+				<sent id ="62">For the day of salvation was near.</sent>
+				<sent id ="63">God would come and shower His divine Spirit on all.</sent>
+				<sent id ="64">f) Prophet Daniel proclaimed the resurrection of the dead.</sent>
+				<sent id ="65">On the day of resurrection every one will reap the harvest of their virtuous or sinful deeds.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,148 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.649</idno>
+				<idno type="Number of sentences">120</idno>
+				<idno type="Number of tokens">1470</idno>
+				<idno type="Number of token types">586</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t3">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Bangladesh is mainly an agricultural country.</sent>
+				<sent id ="2">Fish plays a very important role in its economy.</sent>
+				<sent id ="3">Fish enriches our meals with nutrition.</sent>
+				<sent id ="4">At present, the contribution of fish to the national income is 5%.</sent>
+				<sent id ="5">About 63 percent of the protein supplement in our diet comes from fish.</sent>
+				<sent id ="6">Fish is the main source of animal protein.</sent>
+				<sent id ="7">Protein is essential for the fitness and growth of our body.</sent>
+				<sent id ="8">It helps us to grow resistance to diseases.</sent>
+				<sent id ="9">Protein helps develop our brain and merit in a significant way.</sent>
+				<sent id ="10">The climate, weather, water and soils of Bangladesh are very suitable for cultivation of fishes.</sent>
+				<sent id ="11">But fish production is gradually decreasing day by day because of different natural causes.</sent>
+				<sent id ="12">Improved methods of fish culture are being adopted now to increase fish production in our country.</sent>
+				<sent id ="13">Importance as food: Protein is an important factor of nutrition and development of the body.</sent>
+				<sent id ="14">Protein is essential for health and vitality.</sent>
+				<sent id ="15">We usually get protein from plant and animal sources.</sent>
+				<sent id ="16">Animal protein is very important for our body.</sent>
+				<sent id ="17">Fish, meat, milk, and eggs are the main sources of animal protein.</sent>
+				<sent id ="18">Among these sources, 63% of the total protein comes from fish.</sent>
+				<sent id ="19">There are so many nutrients in fish oil in addition to mineral salts and vitamins.</sent>
+				<sent id ="20">Thus, we need fish to get rid of our malnutrition problem.</sent>
+				<sent id ="21">The quality of fish protein is very high.</sent>
+				<sent id ="22">Fish is easily digested in the body; its fat content is low.</sent>
+				<sent id ="23">Fish is highly enriched with vitamin A and vitamin D. So fish provides us with the essential vitamins as food.</sent>
+				<sent id ="24">Hundreds of thousands of children of the country are affected by night blindness owing to the deficiency of vitamin A.</sent>
+				<sent id ="25">The fishes namely Mola and Dhela contain sufficient quantities of vitamin A. Deficiency of vitamin D causes Ricket.</sent>
+				<sent id ="26">Fish oils contain sufficient quantities of vitamin D, calcium and phosphorus.</sent>
+				<sent id ="27">They help to form and develop our bones and teeth.</sent>
+				<sent id ="28">Small fishes eaten with their bones supply calcium and phosphorus.</sent>
+				<sent id ="29">Sea fish contains sufficient quantities of iodine.</sent>
+				<sent id ="30">Economic importance of fish: Fish is very much important for national economy regarding employment and earning foreign currency.</sent>
+				<sent id ="31">Out of these about 10-12 lakh people are engaged in fishing in the sea and inland waters round the year.</sent>
+				<sent id ="32">Besides, about 12 million people find part time employment in the fish sector.</sent>
+				<sent id ="33">The country earns much foreign exchange through exports of fish and fish products.</sent>
+				<sent id ="34">The place of fish in export is second among all export products.</sent>
+				<sent id ="35">Fishes are grown naturally in the open waters.</sent>
+				<sent id ="36">But fish is required to be cultivated in closed waters.</sent>
+				<sent id ="37">There is an ample scope of solving the unemployment problem through the cultivation of fish in closed waters.</sent>
+				<sent id ="38">The fish sector has immense importance in the national economy: earning foreign currency and solving the unemployment problem.</sent>
+				<sent id ="39">The fish resources include inland open water like rivers, haors, bils, lakes and flood plains.</sent>
+				<sent id ="40">Their area is about 40 lakh 47 thousand 316 hectors.</sent>
+				<sent id ="41">The closed water of the country include ponds, baors and coastal shrimp culture, areas.</sent>
+				<sent id ="42">Their are as is about 5 lakh 28 thousand 390 hectors.</sent>
+				<sent id ="43">Besides, there is a vast area of marine fishing in the southern part of the country.</sent>
+				<sent id ="44">Presently, a large quantity of fish is harvested in the country.</sent>
+				<sent id ="45">But the trend of production is failing to cope with the demand of the increasing population.</sent>
+				<sent id ="46">It is due to the decrease of fisll production in the main inland open waters.</sent>
+				<sent id ="47">However, production has increased in the closed water and the sea.</sent>
+				<sent id ="48">There are two main reasons for depletion of fish resources.</sent>
+				<sent id ="49">The first one is natural and the second one human.</sent>
+				<sent id ="50">The rivers of the country are getting silted every year.</sent>
+				<sent id ="51">This is the natural cause of decrease in fish output.</sent>
+				<sent id ="52">The course of the water flow of rivers and streams has changed.</sent>
+				<sent id ="53">The rivers and canals have silted owing to the accumulation of the eroded soil particles from the floodplains.</sent>
+				<sent id ="54">As a result, they have become unsuitable for fish culture.</sent>
+				<sent id ="55">Natural production of fish in the rivers depends on its stream dynamics.</sent>
+				<sent id ="56">Reduction of water in the rivers seriously hampers the reproductive activities and adaptation of fishes.</sent>
+				<sent id ="57">It hinders the flow of water.</sent>
+				<sent id ="58">Moreover, it does not rain as much as required, because forests are losing ground to civilization.</sent>
+				<sent id ="59">Rainfall contributes much to fish fry production as a natural factor.</sent>
+				<sent id ="60">Most rivers and canals are getting dry because of draught.</sent>
+				<sent id ="61">New islets are forming in the rivers.</sent>
+				<sent id ="62">As a result, environment is degrading very rapidly.</sent>
+				<sent id ="63">The environmental changes in the waters are seriously hampering the reproduction of fishes through spawn and fry production.</sent>
+				<sent id ="64">No life can survive without its specific ecosystem.</sent>
+				<sent id ="65">Fishes also require a compatible environment to live and thrive in a normal way.</sent>
+				<sent id ="66">Environmental degradation has already made many species of fish extinct.</sent>
+				<sent id ="67">Many others are at the risk of extinction.</sent>
+				<sent id ="68">Man, made problems are no less responsible for the decrease in the production of fish in the country.</sent>
+				<sent id ="69">Fish is being harvested at accelerated rates to meet up the food requirement of the over-increasing population.</sent>
+				<sent id ="70">As a result, the quantity of fish in the waters is decreasing.</sent>
+				<sent id ="71">Fishermen harvest brooder fishes and fish fries in their desperate struggle to survive.</sent>
+				<sent id ="72">This activity of theirs is seriously thwarting the future reproduction of fish.</sent>
+				<sent id ="73">Many waters have been turned into agricultural plots to increase food production.</sent>
+				<sent id ="74">As a result, the area of waters suitable for fish production is diminishing.</sent>
+				<sent id ="75">Farmers spray different toxic pesticides on the crop fields to produce high yielding varieties.</sent>
+				<sent id ="76">These toxic pesticides seriously hamper the growth and reproduction of fish.</sent>
+				<sent id ="77">Besides, they also reduce the production of natural feed.</sent>
+				<sent id ="78">Setting up industries with disregard to their ill effects on the environment is a threat to fishes.</sent>
+				<sent id ="79">The toxic wastes of these industries are getting mixed with the river water.</sent>
+				<sent id ="80">Toxin causes different diseases and even death to fishes.</sent>
+				<sent id ="81">People are damming rivers or erecting barriers across their cropland for controlling flood or for irrigation.</sent>
+				<sent id ="82">These constructions stand in the way of fishes and thus restrict their natural movement.</sent>
+				<sent id ="83">The environment of fish reproduction is disturbed and distorted by the infrastructure put up in the rivers and large waters as part of development programs.</sent>
+				<sent id ="84">Fish cultivation cannot proceed properly because of multiple ownerships of the most ponds.</sent>
+				<sent id ="85">Fish is our main source of protein.</sent>
+				<sent id ="86">It is also a source of employment and earning foreign currency.</sent>
+				<sent id ="87">It keeps the environment clean.</sent>
+				<sent id ="88">We usually harvest fishes from the open waters, the closed waters and the sea.</sent>
+				<sent id ="89">Fish is cultivated in the closed waters while it grows on its own in other aquatic spaces.</sent>
+				<sent id ="90">We have quite big tanks and ponds in our country.</sent>
+				<sent id ="91">The average rate of the production of fishes in our country is far less than that of the countries applying improved methods to fish cultivation.</sent>
+				<sent id ="92">But the climate of our country is highly suitable for fish cultivation.</sent>
+				<sent id ="93">Fish cultivation can create jobs for the unemployed people.</sent>
+				<sent id ="94">The protein requirement of the rural poor people can be met very easily.</sent>
+				<sent id ="95">There are many abandoned ponds and ditches in the country.</sent>
+				<sent id ="96">They have become breeding grounds of mosquitoes polluting the environment.</sent>
+				<sent id ="97">They have helped spread many pathogenic diseases in the community.</sent>
+				<sent id ="98">We may clear these tanks and ponds and cultivate fish in them.</sent>
+				<sent id ="99">These waters, now polluting the environment, breeding mosquitoes and spreading pathogenic diseases, can generate protein, financial income and employment.</sent>
+				<sent id ="100">Presently, we can cultivate fish in a short period adopting modern fish production technology .</sent>
+				<sent id ="101">We can increase the fish production in our ponds manifold if we use these technological know-how.</sent>
+				<sent id ="102">There are more than 260 fish species in the sweet waters of our country.</sent>
+				<sent id ="103">But all these species are not suitable for cultivation in the ponds.</sent>
+				<sent id ="104">Now projects are being taken to develop technologies through different research programs to increase the production of fish in the country.</sent>
+				<sent id ="105">About twelve species of fishes have been brought from abroad.</sent>
+				<sent id ="106">Some local species have been improved.</sent>
+				<sent id ="107">Fish fries are being produced artificially with the aids of improved technology.</sent>
+				<sent id ="108">The exotic fish species is being crossbred with the local ones.</sent>
+				<sent id ="109">The characteristics of exotic and local cultivable fish species These fishes grow very fast in the pond.</sent>
+				<sent id ="110">These fish species do not compete with each other for feed and space.</sent>
+				<sent id ="111">These fishes take feed from different layers of water; so environment remains safe.</sent>
+				<sent id ="112">These fishes are very delicious.</sent>
+				<sent id ="113">These fishes have high demand in the market.</sent>
+				<sent id ="114">They can be marketed at a very short time.</sent>
+				<sent id ="115">The fishes are not voracious.</sent>
+				<sent id ="116">Their fries are found in the open waters.</sent>
+				<sent id ="117">Fries of fishes may be produced by artificial injection methods.</sent>
+				<sent id ="118">These fish species have resistance to diseases.</sent>
+				<sent id ="119">These fishes can have supplementary feed in the ponds in addition to natural feed.</sent>
+				<sent id ="120">The fishes having the above characteristics are Rui, Katla, Mrigel, Kalibaus, Silver carp, Mirror carp, Rajpunti, etc.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

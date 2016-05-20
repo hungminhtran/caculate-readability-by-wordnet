@@ -1,0 +1,145 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-christ-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.586</idno>
+				<idno type="Number of sentences">117</idno>
+				<idno type="Number of tokens">1523</idno>
+				<idno type="Number of token types">516</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t45">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">You would certainly like to know what God's command to Abram was and how God made this covenant.</sent>
+				<sent id ="2">Please listen to the story.</sent>
+				<sent id ="3">There was a man named Abram who was very righteous.</sent>
+				<sent id ="4">He used to live in a city called Ur in the land of the Chaldeans.</sent>
+				<sent id ="5">I will give you many descendants, and they will become a great nation.</sent>
+				<sent id ="6">Trusting fully in God and obeying his command, Abram left his native land, his relatives and his father's home.</sent>
+				<sent id ="7">Along with his family he went and began to live in a foreign country.</sent>
+				<sent id ="8">For this God was pleased with Abram.</sent>
+				<sent id ="9">He called him and said, Abram, I am very pleased with you.</sent>
+				<sent id ="10">I will give this beautiful land to your children.</sent>
+				<sent id ="11">But do you know what happened?</sent>
+				<sent id ="12">It is very interesting to know.</sent>
+				<sent id ="13">But he had no children.</sent>
+				<sent id ="14">Besides he was beyond the age of fathering any children.</sent>
+				<sent id ="15">Yet Abram believed God's words to him.</sent>
+				<sent id ="16">In faith he began to wait, hoping that God would certainly give him children.</sent>
+				<sent id ="17">After this promise twenty-five years passed by, but Abram and his wife received no children from God.</sent>
+				<sent id ="18">Abram became restless and he began to pray to God for children who would be his heir.</sent>
+				<sent id ="19">One day God called Abram and said, Do not be afraid, Abram.</sent>
+				<sent id ="20">I will shield you from danger and give you a great reward.</sent>
+				<sent id ="21">But Abram was sad and answered, Lord God, you have given me many rewards.</sent>
+				<sent id ="22">But you have not given us any children.</sent>
+				<sent id ="23">If I die without any children, there will be no heir, no descendants.</sent>
+				<sent id ="24">My only heir is my relative Eliezer of Damascus.</sent>
+				<sent id ="25">He will inherit all my property.</sent>
+				<sent id ="26">God understood Abram's sorrow and he comforted him saying, 'Abram, your own son will be your heir.</sent>
+				<sent id ="27">Look at the sky and try to count the stars; you will have as many descendants as that.</sent>
+				<sent id ="28">Abram put his trust in Gods words.</sent>
+				<sent id ="29">On account of this faith God knew that Abram was truly a righteous person.</sent>
+				<sent id ="30">Abram asked God, Sovereign Lord, how can I know that it will be mine?</sent>
+				<sent id ="31">As a sign of guarantee that God would fulfill His promises, He expressed His wish to form a covenant with Abram.</sent>
+				<sent id ="32">He said to Abram, Bring me a cow, a goat, and a ram, each of them three years old, and a dove and a pigeon.</sent>
+				<sent id ="33">Then and there the Lord made a covenant with Abram.</sent>
+				<sent id ="34">He said, I promise to give your descendants all this land from the border of Egypt to the River Euphrates.</sent>
+				<sent id ="35">In this way God made a lasting covenant of love and faithfulness with Abram and his descendants.</sent>
+				<sent id ="36">Through this covenant God gave the assurance of fulfilling His promises.</sent>
+				<sent id ="37">And along with this He gave Abram and his descendants a beautiful country, happiness and prosperity, peace and fullness of life.</sent>
+				<sent id ="38">God loves those who are righteous and faithful.</sent>
+				<sent id ="39">Those who trust in Him, believe in His love, and obey Him, He gives them everything that they need and fills them with His blessings.</sent>
+				<sent id ="40">All their hopes and aspirations are fulfilled .</sent>
+				<sent id ="41">He is promise bound to fulfill all their needs.</sent>
+				<sent id ="42">God is faithful to His promises.</sent>
+				<sent id ="43">He never breaks His promises.</sent>
+				<sent id ="44">By making a lasting covenant with Abram and his descendants God has given us assurance that He will always fulfill His promises.</sent>
+				<sent id ="45">God wants that we always obey Him, trust in His love and rely on Him.</sent>
+				<sent id ="46">God does not want that human beings fall away from His love.</sent>
+				<sent id ="47">Rather He wants that they remain in His love forever.</sent>
+				<sent id ="48">God loves us.</sent>
+				<sent id ="49">Therefore we are united with him in the covenant of love.</sent>
+				<sent id ="50">God has given us a beautiful country, happiness and prosperity.</sent>
+				<sent id ="51">God had promised to give a son to Abraham.</sent>
+				<sent id ="52">When Abraham was hundred years old, his wife Sarah conceived and bore a son.</sent>
+				<sent id ="53">His name was Isaac.</sent>
+				<sent id ="54">The only son and heir of Abraham was Isaac.</sent>
+				<sent id ="55">Therefore, his father Abraham loved him more than his own life.</sent>
+				<sent id ="56">But Abraham also loved God very much.</sent>
+				<sent id ="57">God wanted to test and see whether Abraham loved his own son and only heir Isaac or God more.</sent>
+				<sent id ="58">Abraham was ready to offer his only son and beloved heir to God.</sent>
+				<sent id ="59">In order to test him God said to Abraham.</sent>
+				<sent id ="60">Take your son, your only son Isaac.</sent>
+				<sent id ="61">Whom you love so much, and go to the land of Moriah.</sent>
+				<sent id ="62">There on a mountain that I will show you, offer him as a sacrifice to me.</sent>
+				<sent id ="63">No one who is not a father can understand how very difficult this command of God to Abraham was.</sent>
+				<sent id ="64">For every parent loves his/her children more than his/her own life.</sent>
+				<sent id ="65">Shocked and dismayed Abraham began to think, it is God who has given him this son.</sent>
+				<sent id ="66">And God Himself promised that his son Isaac would become the father of a great nation and live in this land.</sent>
+				<sent id ="67">Then why does God want this son back or want him to be offered in sacrifice ?</sent>
+				<sent id ="68">His sorrow was greater because Issac was his only heir.</sent>
+				<sent id ="69">Now, if he offers his son in sacrifice as God wants there will be no heir left.</sent>
+				<sent id ="70">On the other hand, if he wants to keep his son, then he will be deprived of the love and friendship of God.</sent>
+				<sent id ="71">Poor Abraham could not decide what he should do.</sent>
+				<sent id ="72">However, Abraham was sure of one thing, he firmly believed that God loved him, and he also loved God.</sent>
+				<sent id ="73">Therefore, he can fear no evil.</sent>
+				<sent id ="74">Whatever God says or does, is right and good.</sent>
+				<sent id ="75">Abraham had unbounded faith and trust in God's love.</sent>
+				<sent id ="76">Abraham firmly believed that God loved him and hence he would fulfill his promises to him.</sent>
+				<sent id ="77">Whatever God does is good.</sent>
+				<sent id ="78">God's power is infinite.</sent>
+				<sent id ="79">If we trust in him, he can turn everything to our good.</sent>
+				<sent id ="80">This deep faith in God and love for Him helped Abraham decide to obey God and His commands.</sent>
+				<sent id ="81">With faith and trust in God, Abraham decided to do what God commanded him to.</sent>
+				<sent id ="82">Abraham decided in his mind to offer his son Isaac in sacrifice.</sent>
+				<sent id ="83">As they walked along together, Isaac asked his father, I see that you have everything for the sacrifice, but where is the lamb ?</sent>
+				<sent id ="84">His father answered, God Himself will provide one.</sent>
+				<sent id ="85">When he came to the place, which God had told him about, they built an altar and arranged the wood and other things on it.</sent>
+				<sent id ="86">But where is the lamb for the sacrifice ?</sent>
+				<sent id ="87">Then Abraham called his dearly beloved son near him and in great sorrow explained to him what God had commanded him to do.</sent>
+				<sent id ="88">Isaac also loved God very much.</sent>
+				<sent id ="89">Therefore, he gladly consented to be offered in sacrifice to God in place of a lamb.</sent>
+				<sent id ="90">At his own request Isaac was bound with ropes and placed on the altar.</sent>
+				<sent id ="91">Abraham was ready to sacrifice Isaac and he picked up the knife to kill him.</sent>
+				<sent id ="92">This was a terrible sight, a moment of great suspense.</sent>
+				<sent id ="93">Abraham and Isaac felt there was no light or air on the earth.</sent>
+				<sent id ="94">In a few moments Isaac will lose his life and Abraham will lose his dearly beloved son.</sent>
+				<sent id ="95">Abraham was ready to strike Issac with the knife, but just at that moment something wonderful happened.</sent>
+				<sent id ="96">God called to Abraham and said, Abraham, dont hurt the boy or do anything to him.</sent>
+				<sent id ="97">Now I know how much you love me.</sent>
+				<sent id ="98">Now I know that you love me more than anything else in the world, even your only beloved son.</sent>
+				<sent id ="99">I did not really want your son to be sacrificed, but only to test you, and you have passed the test.</sent>
+				<sent id ="100">Abraham was filled with joy at what God said.</sent>
+				<sent id ="101">He cut the ropes with which Isaac had been bound and he embraced him.</sent>
+				<sent id ="102">Suddenly when he looks around, he saw a ram caught in a bush by its horns.</sent>
+				<sent id ="103">He understood that God himself provided this lamb.</sent>
+				<sent id ="104">Then Abraham and his son got the lamb and offered it to God as a sacrifice.</sent>
+				<sent id ="105">Never before did Abraham feel happier than at this moment.</sent>
+				<sent id ="106">By the grace of God everything turned out for the good.</sent>
+				<sent id ="107">Abraham did not lose his son and God remained his friend.</sent>
+				<sent id ="108">Through your descendants all the nations of the earth will be blessed.</sent>
+				<sent id ="109">Abraham passed the great test and received God's blessings as rewards.</sent>
+				<sent id ="110">What God wants to tell us : Sometimes God tests us by sending us sufferings and hardships.</sent>
+				<sent id ="111">God love human beings; He wants nothing but good for them ; God is good.</sent>
+				<sent id ="112">If we have faith and trust in God, He delivers us from great dangers.</sent>
+				<sent id ="113">Our life is then filled with God's graces and blessings.</sent>
+				<sent id ="114">If we obey God's commands, He fulfils all our wishes and provides for all our needs.</sent>
+				<sent id ="115">Therefore we should love God more than anything else and obey all the commands God has given us in the Bible.</sent>
+				<sent id ="116">We have to read the Bible everyday to know and understand what God commands us to do and live accordingly.</sent>
+				<sent id ="117">We have to love God and be always ready to offer ourselves to do His will.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

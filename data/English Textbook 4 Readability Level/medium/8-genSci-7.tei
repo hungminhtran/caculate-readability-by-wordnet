@@ -1,0 +1,104 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.287</idno>
+				<idno type="Number of sentences">76</idno>
+				<idno type="Number of tokens">1064</idno>
+				<idno type="Number of token types">406</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t146">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Measurement is an essential element in learning science.</sent>
+				<sent id ="2">Measurement is required to know the exact figure of a certain length, weight or time.</sent>
+				<sent id ="3">We need to measure things in various ways in our day to day life.</sent>
+				<sent id ="4">We often have to take measurementssometimes of small things, sometimes of larger items.</sent>
+				<sent id ="5">Different types of measurements require different types of instruments as well as methods.</sent>
+				<sent id ="6">The balance used for measuring gold is different from the balance used for measuring rice or pulse.</sent>
+				<sent id ="7">Again, the measurement of gold requires much more accuracy than that of rice or pulse.</sent>
+				<sent id ="8">In this chapter we will discuss only how to measure the length with accuracy and precision.</sent>
+				<sent id ="9">In day-to-day life we use various types of things such as pin, needle, wire, lock and key etc.</sent>
+				<sent id ="10">Needles of different sizes are required in sewing machines and in injection syringes.</sent>
+				<sent id ="11">If the size of the needle is not correct, it can not be used in the machine or with the injection syringe.</sent>
+				<sent id ="12">To open a lock a key of the proper size is needed, any key will not do.</sent>
+				<sent id ="13">In order to make these things precise and correct, measurement is required.</sent>
+				<sent id ="14">Similarly, things like radio, television, watch, bi-cycle, motor-car etc have many small parts in them.</sent>
+				<sent id ="15">If these parts are not of accurate size, they may not fit in properly.</sent>
+				<sent id ="16">Therefore, precise and correct measurement is needed to assemble these things.</sent>
+				<sent id ="17">Precise and correct measurement is required in many scientific operations.</sent>
+				<sent id ="18">Say, you are to measure the coefficient of linear expansion of iron, which is 0.000012/C.</sent>
+				<sent id ="19">That is, a one metre long iron rod will have 1.2 mm expansion if its temperature is raised by 100C.</sent>
+				<sent id ="20">In case of nickel this expansion will be 1.3 mm; i.e. the difference is only 0.1mm.</sent>
+				<sent id ="21">Therefore, correct and accurate measurement is required in order to determine the linear expansions of iron and nickel and to differentiate between them precisely.</sent>
+				<sent id ="22">The smallest unit of an ordinary metre scale is 1mm.</sent>
+				<sent id ="23">This scale cannot be used to measure any length smaller than 1mm.</sent>
+				<sent id ="24">Pierre Vernier, a Belgian mathematician, devised a special kind of scale to measure lengths very precisely.</sent>
+				<sent id ="25">This scale is called vernier scale after his name.</sent>
+				<sent id ="26">Vernier scale is small in length (fig.</sent>
+				<sent id ="27">It is attached to the main scale in a way that it can slide along towards left and right.</sent>
+				<sent id ="28">Vernier scale is generally divided into ten equal divisions and its length is equal to the nine divisions of the main scale.</sent>
+				<sent id ="29">That is, 1 division of vernier scale= 9/10 mm =0.9 mm.</sent>
+				<sent id ="30">The difference between one main scale division and one vernier scale division is known as vernier constant.</sent>
+				<sent id ="31">accurately by that vernier scale.</sent>
+				<sent id ="32">Therefore the vernier scale whose vernier constant is 0.1 mm measures a length of 0.01 mm accurately.</sent>
+				<sent id ="33">An ordinary metre scale can measure lengths upto 1mm accurately.</sent>
+				<sent id ="34">Whereas, fractions of 1mm length can be measured accurately by vernier scale.</sent>
+				<sent id ="35">For example, the length of a rod is to be measured (Fig-7.2).</sent>
+				<sent id ="36">Shift the vernier scale towards right and place the rod along the length of the main scale.</sent>
+				<sent id ="37">Coincide the left end of the rod with the zero of the main scale.</sent>
+				<sent id ="38">Now move the vernier scale to bring it to the other end of the rod.</sent>
+				<sent id ="39">Take the main scale reading just before the zero of the vernier.</sent>
+				<sent id ="40">This is the main scale reading.</sent>
+				<sent id ="41">Now mark which of the vernier division coincides with or nearly in coincidence with the main scale division.</sent>
+				<sent id ="42">Count this vernier scale division starting from zero.</sent>
+				<sent id ="43">This is the vernier reading for the length of the rod.</sent>
+				<sent id ="44">Actually, vernier scale reading indicates how much the vernier scale is ahead of the main scale reading.</sent>
+				<sent id ="45">Here, it is 0.4 mm or 0.04 cm ahead of the main scale reading 3.6 cm.</sent>
+				<sent id ="46">Slide callipers is a special type of vernier scale.</sent>
+				<sent id ="47">Its principle of measurement is the same but it is different in structure.</sent>
+				<sent id ="48">The main scale of this instrument is made of steel.</sent>
+				<sent id ="49">A fixed steel jaw is the zero of the main scale.</sent>
+				<sent id ="50">The fixed jaw is at rigt angle to the length of the main scale.</sent>
+				<sent id ="51">Another steel jaw, to which vernier scale is attached, slides over the main scale.</sent>
+				<sent id ="52">This sliding vernier scale can be fixed at any desired place with a screw (F).</sent>
+				<sent id ="53">There is a narrow steel rod (R) fixed to vernier scale on its back and along the main scale.</sent>
+				<sent id ="54">In this position the zero mark of the vernier scale coincides with the zero mark of the main scale.</sent>
+				<sent id ="55">Now readings of the main scale and vernier scale are taken and their sum will give the apparent length of the body.</sent>
+				<sent id ="56">When the two jaws of vernier scale and main scale touch each other, the zeroes of the two scales should coincide.</sent>
+				<sent id ="57">If they do not coincide, there is error in the instrument.</sent>
+				<sent id ="58">The error is called instrumental error.</sent>
+				<sent id ="59">In such case the apparent length is to be corrected.</sent>
+				<sent id ="60">Positive error makes the apparent length more then the actual length and negative error makes it less.</sent>
+				<sent id ="61">So, to get the real length, instrumental error is to be subtracted from the apparent length.</sent>
+				<sent id ="62">To determine instrumental error, the two jaws are made to touch each other.</sent>
+				<sent id ="63">In this condition the reading of the vernier scale, which is in coincidence with the main scale division, is taken.</sent>
+				<sent id ="64">This reading is multiplied by the vernier constant to calculate the instrumental error.</sent>
+				<sent id ="65">Unscrew the vernier scale and shift it toward right.</sent>
+				<sent id ="66">Place the body touching the fixed jaw.</sent>
+				<sent id ="67">Now slide the other jaw and make it touch the other side of the body.</sent>
+				<sent id ="68">The two jaws are now touching the two sides of the body.</sent>
+				<sent id ="69">Screw it firmly.Take the main scale reading and vernier scale reading now.</sent>
+				<sent id ="70">This time the upper parts of the jaws are entered into the hollow cylinder.</sent>
+				<sent id ="71">Unscrew the vernier scale and move the sliding jaws until the two jaws touch the two opposite walls of the cylinder along the diameter.</sent>
+				<sent id ="72">Now screw the vernier and take readings of the two scales.</sent>
+				<sent id ="73">By slide callipers length and/or iameter can be measured by bovementionedmethod.</sent>
+				<sent id ="74">Thesurface area and volume of spheres and cylinders, and areaof a circle can be determ-ned byapplying necessary formula.</sent>
+				<sent id ="75">Only ometimes one (circle) and sometimes ore than one (spheres, cylinders) engths are to be determined.</sent>
+				<sent id ="76">Remember, diameter or radius determinationis also a kind of length determination.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

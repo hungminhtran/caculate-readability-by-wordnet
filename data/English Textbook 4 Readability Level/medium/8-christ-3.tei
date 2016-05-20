@@ -1,0 +1,146 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-christ-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.445</idno>
+				<idno type="Number of sentences">118</idno>
+				<idno type="Number of tokens">1407</idno>
+				<idno type="Number of token types">572</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t114">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Those who have faith in God and those who are single-minded, their prayers are always heard.</sent>
+				<sent id ="2">Our Lord Jesus Christ also said.</sent>
+				<sent id ="3">Whatever you ask of the Father in my name, he will give it to you.</sent>
+				<sent id ="4">But it is not enough just to ask of the Father.</sent>
+				<sent id ="5">One has to have deep faith in one's heart.</sent>
+				<sent id ="6">Sometimes our prayers are answered and other times not.</sent>
+				<sent id ="7">Whenever we ask of God something and we don't get it, we think that God does not hear our prayers.</sent>
+				<sent id ="8">So we don't feel like praying.</sent>
+				<sent id ="9">In this way many people often stop praying.</sent>
+				<sent id ="10">But one should never do that.</sent>
+				<sent id ="11">Many times we may ask for something, but it may not be good for me.</sent>
+				<sent id ="12">Prayer is essential for the well-being and prosperity of my own self, my family, the society and the country.</sent>
+				<sent id ="13">The family that prays lacks no peace.</sent>
+				<sent id ="14">In a country whose citizens are not indifferent to religion, there will be no chaos.</sent>
+				<sent id ="15">Therefore, in our life's journey we have to have faith in God.</sent>
+				<sent id ="16">He will provide all necessary help to overcome all dangers.</sent>
+				<sent id ="17">The person, family or the country that trusts in God does not face any dangers.</sent>
+				<sent id ="18">King Nebuchadnezzar of Babylonia had captured Jerusalem and carried away some young men as prisoners.</sent>
+				<sent id ="19">Daniel was one of them and he was a Jew, of the tribe of Judah.</sent>
+				<sent id ="20">After the death of Nebuchadnezzar, his son Belshazzar became the king of Babylon.</sent>
+				<sent id ="21">He had no fear of God.</sent>
+				<sent id ="22">He used to live in great luxery.</sent>
+				<sent id ="23">God was very displeased with him.</sent>
+				<sent id ="24">One day he was assassinated.</sent>
+				<sent id ="25">Then Darius became the king of Babylon.</sent>
+				<sent id ="26">In order to administer his kingdom properly, he decided to appoint a hundred and twenty governors to hold office throughout his empire.</sent>
+				<sent id ="27">In addition, he appointed three persons to supervise the governors.</sent>
+				<sent id ="28">Daniel was one of these three.</sent>
+				<sent id ="29">He was a pious and God-fearing man.</sent>
+				<sent id ="30">For this, King Darius loved and respected Daniel.</sent>
+				<sent id ="31">So the king considered putting him in charge of the whole empire.</sent>
+				<sent id ="32">When the supervisors and the governors came to know the king's plan, they became jealous of Daniel.</sent>
+				<sent id ="33">So they began to find fault with him.</sent>
+				<sent id ="34">But Daniel was always very faithful.</sent>
+				<sent id ="35">So their many attempts to find fault with him failed.</sent>
+				<sent id ="36">They began to conspire against him.</sent>
+				<sent id ="37">All the supervisors, the governors, the lieutenant-governors, and the other officials of the Babylonian kingdom conspired together.</sent>
+				<sent id ="38">Anyone violates this order is to be thrown into a pit filled with lions.</sent>
+				<sent id ="39">They had this order signed by the King, for a mere verbal proclamation would not have the force of the law.</sent>
+				<sent id ="40">Arrangements were made to make the order equally applicable to the Medes and Persians.</sent>
+				<sent id ="41">In all simplicity the king consented to their wishes and signed the Decree.</sent>
+				<sent id ="42">Daniel came to know that the king had signed this Decree.</sent>
+				<sent id ="43">Still he continued to pray to God three times a day and sing his praises kneeling at a open window facing Jerusalem.</sent>
+				<sent id ="44">His enemies were waiting just for such an opportunity.</sent>
+				<sent id ="45">They watched him closely and noticed that Daniel was praying as usual and praising God.</sent>
+				<sent id ="46">So they went to the king and reminded him about the Decree.</sent>
+				<sent id ="47">They said to the king, Your Majesty, Daniel does not respect you and the order issued by you.</sent>
+				<sent id ="48">He prays to his God regularly three times a day.</sent>
+				<sent id ="49">When the king heard this, he was upset and did his best to find some way to rescue Daniel.</sent>
+				<sent id ="50">The Persians too are bound by the same law.</sent>
+				<sent id ="51">So the king, seeing no other way to save Daniel, gave permission to throw him into the pit filled with lions.</sent>
+				<sent id ="52">The king said to Daniel, May your God, whom you serve so loyally, rescue you.</sent>
+				<sent id ="53">You know that jealousy or envy is a vice.</sent>
+				<sent id ="54">Jealousy lead to the thought of murder.</sent>
+				<sent id ="55">But killing someone is a grave sin.</sent>
+				<sent id ="56">The Fifth Commandment says it clearly, Do not kill.</sent>
+				<sent id ="57">When someone knowingly and freely kills another person, he commits a murder.</sent>
+				<sent id ="58">The high officials of Babylon did precisely this.</sent>
+				<sent id ="59">They wanted to kill Daniel so that they could occupy his position and win the King's favour.</sent>
+				<sent id ="60">But the king was sad thinking that he would lose someone so wise as Daniel and this would mean a great loss for the nation.</sent>
+				<sent id ="61">Moreover, Daniel was innocent.</sent>
+				<sent id ="62">And yet, the king did not use his authority as the ruler.</sent>
+				<sent id ="63">Envy, anger, hatred, etc. are sins.</sent>
+				<sent id ="64">Envy and anger vitiates the atmosphere of the heart.</sent>
+				<sent id ="65">It is a sin to nurture hatred and spirit of revenge.</sent>
+				<sent id ="66">It is a sin to hate someone.</sent>
+				<sent id ="67">The Bible says, Whoever hates his brother is a murderer, and you know that a murderer has not got eternal life in him.</sent>
+				<sent id ="68">Hence we must avoid the sins of envy, anger and hatred.</sent>
+				<sent id ="69">Through self-control, appreciation for others qualities, tolerance for others, love and spirit of forgiveness we can avoid this sort of sinful tendencies.</sent>
+				<sent id ="70">We should not envy anyone for his good works and status.</sent>
+				<sent id ="71">Envy begets a spirit of revenge, and even grave sins like murder.</sent>
+				<sent id ="72">If we remain close to God through prayer and self-control, then we can overcome envy, greed, anger, hatred, etc.</sent>
+				<sent id ="73">In the previous lessons we learned that the Babylonians were worshipers of many gods and goddesses.</sent>
+				<sent id ="74">But Daniel believed in the Lord God and offered prayers and praises to him along.</sent>
+				<sent id ="75">For this reason he was thrown into the pit of lions.</sent>
+				<sent id ="76">In this lesson we will see how Daniel's faith in God was rewarded.</sent>
+				<sent id ="77">We will learn how God saved Daniel from the mouths of the lions.</sent>
+				<sent id ="78">King Darius had Daniel thrown into the pit of the lions in order to be faithful to the royal Decree.</sent>
+				<sent id ="79">But he had said to Daniel, May your God, whom serve so loyally, rescue you.</sent>
+				<sent id ="80">We can interpret this statement of his as an expression of his faith.</sent>
+				<sent id ="81">King Darius was very sad when Daniel was thrown into the pit of the lions.</sent>
+				<sent id ="82">He spent the whole night in his palace fasting, he touched nothing of luxury.</sent>
+				<sent id ="83">He could not even fall: asleep the whole night.</sent>
+				<sent id ="84">The following morning he got up early went near the pit of the lions.</sent>
+				<sent id ="85">This proved that he had faith in God.</sent>
+				<sent id ="86">Daniel replied to the king, May Your Majesty live for ever!</sent>
+				<sent id ="87">God sent his angel to shut the mouth of the lions so that they would not hurt me.</sent>
+				<sent id ="88">He did this because he knew that I was innocent and because I have not wronged you, Your Majesty.</sent>
+				<sent id ="89">When king Darius knew for sure that Daniel's God had saved him from the mouths of the lions, he was overjoyed.</sent>
+				<sent id ="90">He gave orders for Daniel to be pulled up out of the pit-He was pulled up and there were no wounds on his body.</sent>
+				<sent id ="91">For he trusted God firmly.</sent>
+				<sent id ="92">So God saved him.</sent>
+				<sent id ="93">Before they even reached the bottom of the pit, the lions pounced on them and broke all their bones.</sent>
+				<sent id ="94">For the lions were very hungry.</sent>
+				<sent id ="95">Then king Darius wrote to all the people of his kingdom, Peace be with you !</sent>
+				<sent id ="96">I command that throughout my empire everyone should fear and respect Daniel's God.</sent>
+				<sent id ="97">For he is a living God, and he will rule for ever.</sent>
+				<sent id ="98">His kingdom will never be destroyed, and his power will never come to an end.</sent>
+				<sent id ="99">He saves and rescues; he performs wonders and miracles in heaven and on earth.</sent>
+				<sent id ="100">He saved Daniel from being killed by the lions.</sent>
+				<sent id ="101">How infinite is God's mercy.</sent>
+				<sent id ="102">He is Almighty.</sent>
+				<sent id ="103">By his own power he saved Daniel from the mouths of the hungry lions.</sent>
+				<sent id ="104">Why did he save him ?</sent>
+				<sent id ="105">Because worshipped the one and only God.</sent>
+				<sent id ="106">Daniel used to pray to God every day in humility and on bended knees.</sent>
+				<sent id ="107">He was not afraid of anyone, and he remained firm in his faith in God.</sent>
+				<sent id ="108">The officials had conspired to throw him into the pit of the lions because he prayed to God.</sent>
+				<sent id ="109">They thought the lions would devour him.</sent>
+				<sent id ="110">But he was not afraid.</sent>
+				<sent id ="111">We should never be ashamed of giving witness to Christ in public.</sent>
+				<sent id ="112">God is Almighty, he is All-powerful.</sent>
+				<sent id ="113">We will always depend on him.</sent>
+				<sent id ="114">God gives us his blessings if we persevere in prayer.</sent>
+				<sent id ="115">Dihan and Harry are meritorious students of Class Eight.</sent>
+				<sent id ="116">Harry stands first in examination.</sent>
+				<sent id ="117">For this Dihan feels humiliated.</sent>
+				<sent id ="118">He makes a plot to do harm to Harry out of Jealousy.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

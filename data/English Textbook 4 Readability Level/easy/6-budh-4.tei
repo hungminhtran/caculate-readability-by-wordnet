@@ -1,0 +1,102 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-budh-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.3</idno>
+				<idno type="Number of sentences">74</idno>
+				<idno type="Number of tokens">944</idno>
+				<idno type="Number of token types">491</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t66">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The word Mangala refers to good, welfare etc.</sent>
+				<sent id ="2">It is Mangala when we pray for the good and welfare of others.</sent>
+				<sent id ="3">Its real meaning is happiness.</sent>
+				<sent id ="4">The Mangala Satta or the Verse of real happiness occupies a significant place in the Tripitaka.</sent>
+				<sent id ="5">It is included in the Khuddaka Nikaya of the Sutta Pitaka.</sent>
+				<sent id ="6">This Sutta has been taken here from the KUddaka Patho, thee first book of the said Khuddaka Nikaya.</sent>
+				<sent id ="7">Khuddaka Patho means a short learning or recitation.</sent>
+				<sent id ="8">Both the Buddhist monks and the lay devotees recite those sutras with due respect.</sent>
+				<sent id ="9">India was known as Jambudvipa during the Buddha's period.</sent>
+				<sent id ="10">People at that time used to asset-rible in the state Councils to discuss various topics to find out their solutions.</sent>
+				<sent id ="11">Such discussion meetings sometimes continued for three to four months.</sent>
+				<sent id ="12">Once a question on Mangala or real happiness arose in the meeting.</sent>
+				<sent id ="13">What is real happiness?</sent>
+				<sent id ="14">Is it to look at beautiful things?</sent>
+				<sent id ="15">Does it hein sweet sounds to hear or perfumes to smell?</sent>
+				<sent id ="16">One of the councellors said, To look at a beautiful thing is happiness.</sent>
+				<sent id ="17">For example, he continued, To see a bird, a prince with royal dress.</sent>
+				<sent id ="18">a big fish, a cart pulled by the horses etc. early in the morning are real happinesss.</sent>
+				<sent id ="19">Some of them believed it but denied a11 the others.</sent>
+				<sent id ="20">So the debate on real happiness went on among the disblievers.</sent>
+				<sent id ="21">According to him, This is worth listening.</sent>
+				<sent id ="22">Very few of them believed him but not many others.</sent>
+				<sent id ="23">Then another councelove stood up and said, There is no happiness to hear the sound at all.</sent>
+				<sent id ="24">So the real happiness is actually felt when anything is smelt, tasted or touched.</sent>
+				<sent id ="25">A few believed him but many others could not support him.</sent>
+				<sent id ="26">Thus both the gods and men passed long twelve years thinking over real happiness.</sent>
+				<sent id ="27">Then all the gods in heaven met togther and went to Indra, their kin, for his suggestions.</sent>
+				<sent id ="28">The Prince of heaven at once came and went to the Buddha with many other gods following him.</sent>
+				<sent id ="29">The Buddha was then staying at the monastery of Anathapindika at Jetabana.</sent>
+				<sent id ="30">The Prince and the gods paid their refuge to the Buddha and asked him about real happiness with due respect.</sent>
+				<sent id ="31">In reply the Buddha uttered thirty eight kinds of real happiness for human beings and gods.</sent>
+				<sent id ="32">This was the background of Mangala sutta i.e; the verse of great happiness.</sent>
+				<sent id ="33">But none could tell exactly what brings real happiness.</sent>
+				<sent id ="34">Not associating with fools, associating with the wise, honouring those worthy of honour, -this is the great happiness.</sent>
+				<sent id ="35">Becoming learned and knowledgeable, being welltrained and dsciplined, speaking in a meaningful way- this: is the great happiness.</sent>
+				<sent id ="36">Serving the parents, providing for wife and children, being orderly in occupations -this is the great happiness.</sent>
+				<sent id ="37">Sharing and being righteous, helping the relatives, avoiding the harmful actions -this is the great happiness.</sent>
+				<sent id ="38">Ceasing and abstaining from evil, refraining from intoxicants, being diligent in virtue -this is the great happiness.</sent>
+				<sent id ="39">Showing respect and being humble, content and grateful, listening to the Dhamma at right time -this is the great happiness.</sent>
+				<sent id ="40">Exercising discipline, living a religious life, perceivig the noble truths and realizing Nibbana-this is the great happiness.</sent>
+				<sent id ="41">This is the Second Book of the Khuddaka Nikaya of the Sutta pitaka.</sent>
+				<sent id ="42">All the verses contained in it were collected from different Books of the Holy Tripitaka.</sent>
+				<sent id ="43">Dhammapada means the path of religion and virtue.</sent>
+				<sent id ="44">In the Dhammapada, there are 423 verses in 26 chapters.</sent>
+				<sent id ="45">Dandavagga is the 10th chapter of the Dhammapada.</sent>
+				<sent id ="46">Dando means punishment.</sent>
+				<sent id ="47">Punishment is necessary to check injustice prevailing in the world.</sent>
+				<sent id ="48">Here in this Vagga, the Buddha's explanation on punishment is not traditional one.</sent>
+				<sent id ="49">He never prohibited the punishment to the evil doer, but he urged the punisher to be sympathetic to the punished.</sent>
+				<sent id ="50">In every verse of Dandavagga we find a nice co relation between the.punsher and the punished.</sent>
+				<sent id ="51">It is customery that all living beings on earth are afraid of death.</sent>
+				<sent id ="52">Death is not desirable to any living being.</sent>
+				<sent id ="53">It is very much miserable for him who suffers a death sentence.</sent>
+				<sent id ="54">Considering his own life the punsher should not give death sentence, because life is universally desired by all living beings.</sent>
+				<sent id ="55">Punishment destroys the happiness of others and it encourages to take revenge as well.</sent>
+				<sent id ="56">On the other hand, it is more sorrowful if an innocent person suffers a severe punishment in any way.</sent>
+				<sent id ="57">In such a case, accordng to Buddhist belief, unbearable sufferings wait for the punisher in the hell after death.</sent>
+				<sent id ="58">So the men of wisdom always consider manifold interests to punish anybody feeling sympathy for him.</sent>
+				<sent id ="59">In the verses of Dandavagga it has been clearly and nicely explaied by the Buddha.</sent>
+				<sent id ="60">All tremble at punishment (rod).</sent>
+				<sent id ="61">All fear death.</sent>
+				<sent id ="62">Comparing others with oneself, one should neither kill nor cause to kill.</sent>
+				<sent id ="63">All tremble at punishement.</sent>
+				<sent id ="64">Life is dear to all.</sent>
+				<sent id ="65">Comparing others with oneself, one should neither kill nor cause to kill.</sent>
+				<sent id ="66">Whoever, seeking his own happiness, harms with the rod other pleasure lovng beings, experiences no happiness hereafter.</sent>
+				<sent id ="67">Whoever, seeking his own happiness, harms not with the rods other pleasure loving beings, experiences happiness hereafter.</sent>
+				<sent id ="68">Speak not harshly to anyone.</sent>
+				<sent id ="69">Those thus addressed will retort, painful, indeed, is vindictive speech.</sent>
+				<sent id ="70">If, like a cracked gong, you sitcnce yourself, you have already attained Nibbana, no vindictiveness will be f0L'tnd in you.</sent>
+				<sent id ="71">Any one is rarely found in this world, restrained by modesty, avoids reproach, as a thorough-bred horse avoids the whip.</sent>
+				<sent id ="72">Like, a thorough-bred horse, touched by the whip, even so be streneneous and zealous.</sent>
+				<sent id ="73">Irrigators lead the waters, Fietchers bend the shafts, Carpenters bend the woods.</sent>
+				<sent id ="74">The virtuous thus control tlienfseives.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

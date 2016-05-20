@@ -1,0 +1,190 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-budh-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:04.322</idno>
+				<idno type="Number of sentences">162</idno>
+				<idno type="Number of tokens">1861</idno>
+				<idno type="Number of token types">719</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t41">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Tripitaka written in Pali is the name of canonical text.</sent>
+				<sent id ="2">It is a doctrinal book of the Buddhists.</sent>
+				<sent id ="3">It is divided into three parts.</sent>
+				<sent id ="4">Each part is called Pitaka.</sent>
+				<sent id ="5">Some opine that the meaning of Pitaka is a basket where the words of the Buddha are kept with care.</sent>
+				<sent id ="6">During the time of the Buddha, learned and aristocratic people used Sanskrit.</sent>
+				<sent id ="7">But the general mass used Pali.</sent>
+				<sent id ="8">Pali was language used by common people, Pali is the subsequent form of Sanskrit.</sent>
+				<sent id ="9">It is originated in Maggadha (modern Bihar) and Kalinga (modern Orissa).</sent>
+				<sent id ="10">The original form of Bengali, Behari and Oriya is found in Pali.</sent>
+				<sent id ="11">The Buddha preached His doctrine in Pali so that the general masses may understand.</sent>
+				<sent id ="12">Disciples of the Buddha got by heart the teaching of the Buddha.</sent>
+				<sent id ="13">It is presumed that the writing was not much prevalent.</sent>
+				<sent id ="14">For this reason the teachings of Buddha continued in the oral tradition of disciples.</sent>
+				<sent id ="15">It may be said as an example that while digging pond labourers carried mud in a basket from one head to another and complete the digging work.</sent>
+				<sent id ="16">Accordingly the words of the Buddha was handed down from preceptors to disciples.</sent>
+				<sent id ="17">In this way the Tripitaka came to us.</sent>
+				<sent id ="18">Tripitaka written in Pali is no longer available.</sent>
+				<sent id ="19">It has neither any written scripts.</sent>
+				<sent id ="20">The orginal Tripitaka was brought to Ceylon by Thera Mahendra, the son of king Asoka (3rd century B.C).</sent>
+				<sent id ="21">The written form of Pali no longer exists.</sent>
+				<sent id ="22">Probably Pali was written in Ceylonese alphabets.</sent>
+				<sent id ="23">Because we then do not see Brahmi scripts which were used by king Asoka in his inscriptions.</sent>
+				<sent id ="24">As Pali had not its own scripts, the Pali Tripitaka had been transformed into different scripts such as, Ceylonese, Burmese, Tibetan, Chinese, Japanese etc.</sent>
+				<sent id ="25">So Pali Tripitaka is available in those alphabets.</sent>
+				<sent id ="26">The Roman script is the International scripts.</sent>
+				<sent id ="27">So Pali Text society, London has used Roman script for the Pali Tripitaka so that every reader can study it.</sent>
+				<sent id ="28">The full translation of Pali Tripitaka in Bengali has not yet done.</sent>
+				<sent id ="29">Dr. Beni Madhav Barua, Sree Birendra Lal Mutsuddi, Ven.</sent>
+				<sent id ="30">Praonanda Thera, Bhikhu Shilabhadra, Shree Ishan Chandra Ghosh, Ven.</sent>
+				<sent id ="31">Jyotipal Mahathera etc. have translated some volumes in Bengali.</sent>
+				<sent id ="32">Vinaya Pitaka prescribes rules for monks and nuns which they must observe regularly.</sent>
+				<sent id ="33">Vinaya is like the life of Buddhasasana.</sent>
+				<sent id ="34">Without Vinaya like Buddhasasana cannot run smoothly.</sent>
+				<sent id ="35">Considering this fact, after Great demise of the Buddha, the first Great Council was held under the leadership of Ven.</sent>
+				<sent id ="36">Mahakassapa Thera in the Sattlapanni cave of Rajgir.</sent>
+				<sent id ="37">At that time, the Dhamma-Vinaya were compiled by the prominent Theras from oral tradition.</sent>
+				<sent id ="38">Vinaya means rules, ethics or discipline.</sent>
+				<sent id ="39">Every worldly thing is regulated by the discipline, planets, stars etc. are rotated by laws.</sent>
+				<sent id ="40">In our daily life discipline is most necessary.</sent>
+				<sent id ="41">In family life also, either for the rich or the poor, there are disciplines.</sent>
+				<sent id ="42">Unrestrained and undisciplined manner obstruct the prosperity.</sent>
+				<sent id ="43">On the other hand, law, order, control, character, observance of precepts, right concentration, right effort, right livelihood are the main keys of one's prosperity.</sent>
+				<sent id ="44">The rules of Vinaya are essential for daily life as well as non-worldly happiness.</sent>
+				<sent id ="45">It is said that if a monk studies the Tripitaka for hundred years and does not observe the Vinaya rules, he is bound to go to hell.</sent>
+				<sent id ="46">Therefore, one should Study Vinaya and learn from it.</sent>
+				<sent id ="47">A society which does not adhere to discipline and teaching of Vinaya is bound to lack cohesion.</sent>
+				<sent id ="48">The monk who honours Vinaya, the door of Nibbana is open for him.</sent>
+				<sent id ="49">The monks who observe Vinaya are the bright lights of the Buddhist world.</sent>
+				<sent id ="50">They made known the Buddhasasana to the whole world.</sent>
+				<sent id ="51">There are five books in Vinaya Pitakti.</sent>
+				<sent id ="52">These are: Parajika, Pacitteya, Mahavagga, Cullavagga and Parivam.</sent>
+				<sent id ="53">The scholars have divided Vinaya Pitaka into three parts.</sent>
+				<sent id ="54">These are: Suttavibhanga (Parajika, Pacitteya), Khandaka (Mahavagga, Cullavagga) and Parivara.</sent>
+				<sent id ="55">Patimokkha (law book) belongs to Suttavibhanga.</sent>
+				<sent id ="56">There are 227 rules for the monks to be observed.</sent>
+				<sent id ="57">In it, there is mention how and where these rules were prescribed.</sent>
+				<sent id ="58">Again, there is mention of who was the first defaulter in Vinaya and how the offences are to be determined.</sent>
+				<sent id ="59">Further, there are elaborate explanations how to give punishment for atonement.</sent>
+				<sent id ="60">Not only in Pali literature, the place of this book is on the top of all law books or ethics.</sent>
+				<sent id ="61">The offences of the monks have been divided into 8 sections according to their gravity or importance.</sent>
+				<sent id ="62">These are : Parajika, Sanghadisesa, Aniyata, Nissoggiya, Pacitteya, Patidesaniya, Sekhiya and Adhikarana Sarnatha.</sent>
+				<sent id ="63">These rules have more or less been written in two books viz.</sent>
+				<sent id ="64">Bhikkhu Vibhanga and Bhikkhuni Vibhanga.</sent>
+				<sent id ="65">The book where Parajika and Sanghadisesa are written is called Parajika.</sent>
+				<sent id ="66">The book in which the remaining rules are written is called Pacitteya.</sent>
+				<sent id ="67">Mahavagga is a big volume.</sent>
+				<sent id ="68">The place of it is next to Suttavibhanga.</sent>
+				<sent id ="69">It is rich with the historical events of the time of the Buddha.</sent>
+				<sent id ="70">In it, more or less, the life of the Buddha from attainment of Buddhahood to establishment of order has been narrated.</sent>
+				<sent id ="71">Therefore this book is most necessary to know the life-history of the Buddha or to write.</sent>
+				<sent id ="72">There are ten chapters in it.</sent>
+				<sent id ="73">Cullavagga is an expansion copy of Mahavagga.</sent>
+				<sent id ="74">Because the chronology of Mahavagga to some extent has been kept in it.</sent>
+				<sent id ="75">That is why, Mahavagga and Cullavagga combinely is called Khandaka.</sent>
+				<sent id ="76">In the last portion of Cullavagga there have been included two chapters namely First Great Council and Second Council.</sent>
+				<sent id ="77">There are twelve chapters in Cullavagga.</sent>
+				<sent id ="78">The life story of the Buddha has been perfectly discussed.</sent>
+				<sent id ="79">Many lengthy, critical and vast subjects have been described here in an easy method.</sent>
+				<sent id ="80">This book is very essential for the newly ordained monks.</sent>
+				<sent id ="81">There are twenty-one chapters in this hook.</sent>
+				<sent id ="82">Some are long and some are small in size.</sent>
+				<sent id ="83">Some opine that this book had been compiled by the Ceylonese monks.</sent>
+				<sent id ="84">But the usefulness of this book cannot be denied at all.</sent>
+				<sent id ="85">Sutta Pitaka is the greatest and most famous book.</sent>
+				<sent id ="86">This Pitaka records the mundane behaviour, teachings of the Buddha and description of refuting false views.</sent>
+				<sent id ="87">It is divided into five sections or Nikayas.</sent>
+				<sent id ="88">Digha Nikaya means a book of long- discourses preached by the Buddha.</sent>
+				<sent id ="89">It is divided into three Vaggas or sections.</sent>
+				<sent id ="90">There are 13 suttas in 1st vagga, l0 suttas in 2nd Vagga, 11 suttas in 3rd Vagga, in total 34 suttas.</sent>
+				<sent id ="91">These books describe charity, observance of precepts, meditation, wisdom, concentration, salvation, impermanence, sorrow, non- substance, mind, psychic factors and emancipation i.e.</sent>
+				<sent id ="92">Also included are subjects like Indian History, Philosophy, Politics, Sociology, Economics etc.</sent>
+				<sent id ="93">Emphasis has been given much more on Ethics than Philosophy.</sent>
+				<sent id ="94">There are three Vaggas or volumes in Majjhima Nikaya.</sent>
+				<sent id ="95">It is called a middle length discourses.</sent>
+				<sent id ="96">There are 50 suttas in 1st volume, 50 suttas in 2nd volume, 52 suttas in 3rd volume, in total 152 suttas therein.</sent>
+				<sent id ="97">Its main themes are ethics and Buddha-philosophy.</sent>
+				<sent id ="98">According to Acariya Buddhaghose and Dr. B.M. Barua, it is the greatest collection of the Tripitaka.</sent>
+				<sent id ="99">Ethical teachings have been provided through instructions and stories in this volume.</sent>
+				<sent id ="100">Samyatta Nikaya has been divided into five volumes.</sent>
+				<sent id ="101">It contains altogether 2889 suttas.</sent>
+				<sent id ="102">Spritual, ethical and philosophical issues have been discussed through these suttas.</sent>
+				<sent id ="103">There are many poetries in these discourses.</sent>
+				<sent id ="104">There are 2038 suttas in Anguttara Nikaya.</sent>
+				<sent id ="105">These are divided into eleven chapters.</sent>
+				<sent id ="106">These suttas are compiled in prose and poetry.</sent>
+				<sent id ="107">There are 950400 words in number.</sent>
+				<sent id ="108">It is called the essence of Sutta Pitaka.</sent>
+				<sent id ="109">There are nice discussions about the Buddha and His teachings in this Nikaya.</sent>
+				<sent id ="110">Khuddaka Nikaya is the fifth section of Sutta Pitaka.</sent>
+				<sent id ="111">Though its title is khuddaka or small, it is a big volume.</sent>
+				<sent id ="112">It is the totalarization of the contemporary books.</sent>
+				<sent id ="113">This section is compiled in prose and poetry.</sent>
+				<sent id ="114">Poetry is written in old style of writing and some proses in contemporary style of writing.</sent>
+				<sent id ="115">According to Acariya Buddhaghose this Nikaya consisted of fifteen books.</sent>
+				<sent id ="116">It is noted here that Jataka commentary has six volumes which has been translated in Bengali by Shree Ishan Chandra Ghosh.</sent>
+				<sent id ="117">Pali Dhammapada has been translated in many languages.</sent>
+				<sent id ="118">Dhammadhar Mahathera, Shree Ramprasad Sen, Shree Mihir Sen, Shree Girish Chandra Barua etc. have translated Pali Dhammapada into Bengali.</sent>
+				<sent id ="119">We find the answers of many querries regarding Dhammavinaya and Philosophy.</sent>
+				<sent id ="120">In fine, we may say that in studying Dhammapada we may acquire knowledge of Tripitaka.</sent>
+				<sent id ="121">Abhidhamma Pitaka is the third Division of Tripitaka.</sent>
+				<sent id ="122">It consisted of seven books.</sent>
+				<sent id ="123">These books are known as Sattappakarana.</sent>
+				<sent id ="124">They are : Dhammasangani Vibhanga Dhatukatha Puggala Pannatti Kathavatthu Yamaka Patthana.</sent>
+				<sent id ="125">The real Abhidhamma Pitaka consists of consciousness, psychic factors, material qualities and Nibbana.</sent>
+				<sent id ="126">It means, Philosophical scrutiny has been shown in the Abhidhamma Pitaka.</sent>
+				<sent id ="127">The meaning of Dhamma sangani is collection of 4 reals.</sent>
+				<sent id ="128">It is the essence of Abhidhamma Pitaka.</sent>
+				<sent id ="129">There are introductions of Consciousness, Psychic factors and material qualities in it.</sent>
+				<sent id ="130">This book has not yet been translated in Bengali.</sent>
+				<sent id ="131">Khandha, Dhatu, Ayatana, Paceaya etc. are the subject matters of this pakarana.</sent>
+				<sent id ="132">Discussion on mental factors of the meditating monks has been made in this book.</sent>
+				<sent id ="133">It is a small book.</sent>
+				<sent id ="134">Classification of the individuals has been described in the book.</sent>
+				<sent id ="135">It is the fifth book of Abhidhamma.</sent>
+				<sent id ="136">It is a logic book of the doctrine of the Buddha.</sent>
+				<sent id ="137">It is the sixth book of Abhidhamma.</sent>
+				<sent id ="138">Morality, immorality and their roots have been discussed in this book.</sent>
+				<sent id ="139">It has two volumes.</sent>
+				<sent id ="140">This is the seventh book of Abhidhamma.</sent>
+				<sent id ="141">It can be explained as a book of cause and effect.</sent>
+				<sent id ="142">The above cited three divisions i.e.</sent>
+				<sent id ="143">Vinaya, Sutta and Abhidhamma Pitakas are collectively called Tripitaka.</sent>
+				<sent id ="144">But Pali canonical literatures mainly are divided into two sections, viz.</sent>
+				<sent id ="145">Dhamma and Vinaya.</sent>
+				<sent id ="146">It is said that only Dhamma and Vinaya were collected in the first Great Council held in Rajgir.</sent>
+				<sent id ="147">One hundred years after Great demise of the Buddha, the second Council was held at Vesali under the leadership of Thera Yasa.</sent>
+				<sent id ="148">In this Council also, the Dhamma and Vinaya were collected.</sent>
+				<sent id ="149">Again at 300 B.C. at the time of king Asoka, the third Council was held in Patna (old Patliputta).</sent>
+				<sent id ="150">In that Council Pali canonical literatures have been divided into three Pitakas or sections, viz.</sent>
+				<sent id ="151">Vinaya, Sutta and Abhidhamma.</sent>
+				<sent id ="152">It is already stated that the Tripitaka was brought to Ceylon by Thera Mahendra, son of king Asoka in the 3rd century B.C.</sent>
+				<sent id ="153">But in the first century B.C. at the time of king Vattagamini, the Tripitaka was written in a form of books which we study now.</sent>
+				<sent id ="154">The Buddha has explained His main teachings in the Sutta Pitaka.</sent>
+				<sent id ="155">The rules to be followed by the Bhikkhu and Bhikkhunis for moral lives are described in the Vinaya Pitaka.</sent>
+				<sent id ="156">The Buddhist Philosophy is depicted in the Abhidhamma Pitaka.</sent>
+				<sent id ="157">These rules and admonitions are the main teachings and objectives of the Tripitaka.</sent>
+				<sent id ="158">There three Pitakas are collectively known as Tripitaka.</sent>
+				<sent id ="159">We find mention of nine factors or classification sections or of the Pali canonical Text in many places of Tripitaka.</sent>
+				<sent id ="160">The nine factors are collectively called Navanga Satthusasana.</sent>
+				<sent id ="161">These classifications does not mean the entire volume of Tripitaka or any part of it.</sent>
+				<sent id ="162">These divisions are done according to subjects.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

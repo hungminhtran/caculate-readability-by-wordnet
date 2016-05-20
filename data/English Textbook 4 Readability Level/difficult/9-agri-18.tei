@@ -1,0 +1,74 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-18</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.384</idno>
+				<idno type="Number of sentences">46</idno>
+				<idno type="Number of tokens">722</idno>
+				<idno type="Number of token types">320</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t10">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The first condition of getting more meat and eggs from poultry (ducks and hens) is supplying them with balanced food properly.</sent>
+				<sent id ="2">In preparing balanced food the following nutrient elements must be there in proper proportion.</sent>
+				<sent id ="3">Carbohydrate : Carbohydrate is present in food grains like rice, wheat, maize, barly, millet, ground nut, molasses, wheat husks, rice bran, sweet potato.</sent>
+				<sent id ="4">Function of Carbohydrate : This type of food supplies energy and calories to the bodies of poultry.</sent>
+				<sent id ="5">This type of feeding is helpful in producing yolk of the egg and fat.</sent>
+				<sent id ="6">Protein : There are sufficient protein in the boiled entrails of cows and goats, fishmeal, cakes of mustard, til and ground nut, and pulses like khesari, mashkalai etc.</sent>
+				<sent id ="7">Function of Protein :This type of food is helpful in compensating the loss of the body, increasing meat, producing egg, increasing calorie and producing fat.</sent>
+				<sent id ="8">Fat: Sufficient fatty types of food are present in mustard, soyabean, ground nut oil, different types of vegetable oil and seeds.</sent>
+				<sent id ="9">Functions of Fat : Fat is preserved in the body and supplies calorie and energy when necessary.</sent>
+				<sent id ="10">Vitamin : Vitamin is stored in green grass, yellow food grains meat, dried fish, vitamin can be obtained from sun light, cod-liver oil.</sent>
+				<sent id ="11">Functions of Vitamin : Protein, carbohydrate, fat and minerals are not processed in the body and become inactive due to shortage of vitamins.</sent>
+				<sent id ="12">Vitamins increase the strength of disease resistance and help in producing energy.</sent>
+				<sent id ="13">Mineral Substances : Calcium and phosphorus are present in oyster dusts, bone meal, lime, egg shells etc.</sent>
+				<sent id ="14">Function of Mineral Substances : These types of food are helpful in bone development of fowl and production of egg.</sent>
+				<sent id ="15">Water: Poultry birds should be given abundant clean water.</sent>
+				<sent id ="16">Water is also available in green grass and foods.</sent>
+				<sent id ="17">Functions of Water : Water takes out the undesirable thing from the body,of poultry controls the birds temperature of the body and keeps body cell alive.</sent>
+				<sent id ="18">Things to be considered for Poultry Food.</sent>
+				<sent id ="19">70- 75% of the total capital is spent on poultry food.</sent>
+				<sent id ="20">Food should not be costly.</sent>
+				<sent id ="21">There should be necessary nutrients ingredients in proper proportion.</sent>
+				<sent id ="22">The mixture of different food ingredients should be balanced.</sent>
+				<sent id ="23">The mixed food should not be kept for more than 5 days so fungus will grow in any circumstances.</sent>
+				<sent id ="24">If kept more then 5 days in the mixed food.</sent>
+				<sent id ="25">If stored food should be sun-dried once in every week.</sent>
+				<sent id ="26">The ingredients and quantity of food are different for different purposes, such as for meat production or egg production.</sent>
+				<sent id ="27">Again there are differences in the quantity of food and the ingredients depending on the age of the bird.</sent>
+				<sent id ="28">So food for the poultry birds should be prepared as per the list.</sent>
+				<sent id ="29">First of all maize or wheat should be crushed in the mill.</sent>
+				<sent id ="30">Til and the cake should be mixed well and crushed.</sent>
+				<sent id ="31">The crushed wheat and crushed maize should be poured to out in a clean place, bran will have to be poured out on it.</sent>
+				<sent id ="32">Then, fish meal should be poured on bran and til cake on the fish meal.</sent>
+				<sent id ="33">Lastly soyabean will have to be poured out on the top.</sent>
+				<sent id ="34">After all there are poured out fill the food ingredients will look like a pyramid.</sent>
+				<sent id ="35">This time oyster dust and salt will have to be sprinkled on that pyramid.</sent>
+				<sent id ="36">Taking three to four handfuls of food separately vitamin-mineral premix will have to be mixed thoroughly.</sent>
+				<sent id ="37">Afterwards this mixed materials should be sprinkled throughout the whole food on the pyramid.</sent>
+				<sent id ="38">Now an the food ingredients will have to be mixed by turning upside down and downside up with hand.</sent>
+				<sent id ="39">As a result of mixing thoroughly the food will turn to a mass, of almond colour.</sent>
+				<sent id ="40">The meat of snails or oysters will have to be mixed with the poultry food.</sent>
+				<sent id ="41">After collecting the entrails of fowls from different hotels those are to be washed in hot water and boiled.</sent>
+				<sent id ="42">Those are to be sun-dried cut into pieces and mixed with the poultry ration.</sent>
+				<sent id ="43">In this food mixture, there is no need of mixing dried fish dust.</sent>
+				<sent id ="44">In the same way, the entrail of cows and goat can be mixed instead of dried fish dusts.</sent>
+				<sent id ="45">This boiled soyabean can be used as a substitute of dried fish.</sent>
+				<sent id ="46">The amount of protein is specially considered at the time of preparing of balanced food.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

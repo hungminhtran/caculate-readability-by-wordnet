@@ -1,0 +1,80 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.755</idno>
+				<idno type="Number of sentences">52</idno>
+				<idno type="Number of tokens">454</idno>
+				<idno type="Number of token types">219</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t6">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">God, the Almighty We all know that God is the creator of everything.</sent>
+				<sent id ="2">He fosters and protect everything.</sent>
+				<sent id ="3">But sometimes a question comes in our mind: Where is God?</sent>
+				<sent id ="4">God is present every where.</sent>
+				<sent id ="5">He is in the Heaven and in the earth as well.</sent>
+				<sent id ="6">He is inside us and at the same time He is around us.</sent>
+				<sent id ="7">He exists in every man.</sent>
+				<sent id ="8">He can see everything at the same time.</sent>
+				<sent id ="9">He can see us even when we walk or sleep.</sent>
+				<sent id ="10">He also observes us when we do anything right or wrong.</sent>
+				<sent id ="11">He knows if we are kind.</sent>
+				<sent id ="12">He also knows if we are lazy.</sent>
+				<sent id ="13">We can't see God.</sent>
+				<sent id ="14">Because, He does not have any body, nor does he have any form.</sent>
+				<sent id ="15">He is only the soul.</sent>
+				<sent id ="16">Neither can we see nor we touch the soul.</sent>
+				<sent id ="17">For example, there is air everywhere around us.</sent>
+				<sent id ="18">Can we see or touch it?</sent>
+				<sent id ="19">No, we cannot.</sent>
+				<sent id ="20">We can only feel that there is air.</sent>
+				<sent id ="21">Similarly, we cannot see or touch God.</sent>
+				<sent id ="22">But we can only feel His existence.</sent>
+				<sent id ="23">God exists everywhere and He can see everything.</sent>
+				<sent id ="24">God is Almighty.</sent>
+				<sent id ="25">He has the power to do everything, see everything and know everything.</sent>
+				<sent id ="26">Only God can stay at different places at a time, because He is God.</sent>
+				<sent id ="27">Sometimes, we think God cannot see us, when we do anything in secret.</sent>
+				<sent id ="28">Suppose, we steal fruits from others trees and think no one has seen us.</sent>
+				<sent id ="29">But this is wrong.</sent>
+				<sent id ="30">We can take lesson from the Holy Bible.</sent>
+				<sent id ="31">There are many interesting stories in the Holy Bible.</sent>
+				<sent id ="32">They tell us that God can see everything and He knows everything.</sent>
+				<sent id ="33">From the story of Adam and Eve it can be clear to us.</sent>
+				<sent id ="34">Adam and Eve are the first human beings of His creation.</sent>
+				<sent id ="35">God created them according to His sweet will.</sent>
+				<sent id ="36">He let them live in the beautiful garden of the Eden.</sent>
+				<sent id ="37">There were all types of trees, flowers, fruits, animals and birds.</sent>
+				<sent id ="38">They all lived there quite happily in peace with Adam and Eve.</sent>
+				<sent id ="39">No one did any harm to other.</sent>
+				<sent id ="40">Adam and Eve got the duty from God to look after everything in the garden.</sent>
+				<sent id ="41">If you eat, you shall commit sin and shall be punished.</sent>
+				<sent id ="42">But they were tempted by Satan and disobeyed God.</sent>
+				<sent id ="43">Thus they committed sin.</sent>
+				<sent id ="44">They ate the fruits of the forbidden tree.</sent>
+				<sent id ="45">They thought God could not see them.</sent>
+				<sent id ="46">But God saw everything.</sent>
+				<sent id ="47">He called then on and asked Where are you?</sent>
+				<sent id ="48">Both Adam and Eve were afraid and hid themselves.</sent>
+				<sent id ="49">The God came to them.</sent>
+				<sent id ="50">Then they confessed to God that they had disobeyed Him.</sent>
+				<sent id ="51">O God, save me from all temptations.</sent>
+				<sent id ="52">I should not forget that You are always inside me, Amen.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

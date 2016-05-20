@@ -1,0 +1,120 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-bdGlobal-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.185</idno>
+				<idno type="Number of sentences">92</idno>
+				<idno type="Number of tokens">1321</idno>
+				<idno type="Number of token types">528</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t28">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Bangladesh is an agro-based country.</sent>
+				<sent id ="2">Most people of this country live in village and agriculture is the main source of their livelihood.</sent>
+				<sent id ="3">But with the expansion of urban areas the role of industry and commerce has gradually become more significant in our economy.</sent>
+				<sent id ="4">In a developed country, agriculture, industry, trade and commerce no sector of these is less important than others.</sent>
+				<sent id ="5">To develop our country we have to make national economy strong and dynamic from all sides.</sent>
+				<sent id ="6">There is no alternative to this in the present competitive world.</sent>
+				<sent id ="7">For this, we have to develop all sectors including agriculture, industry, trade and commerce.</sent>
+				<sent id ="8">Any work, service or transaction that has economic value is called economic activity.</sent>
+				<sent id ="9">The economic activities of a country can be divided into two types formal and informal.</sent>
+				<sent id ="10">For example, work in one's own land and in shops or business institutions, house-hold works, and the works of hawkers and day labourers, etc.</sent>
+				<sent id ="11">In underdeveloped or developing countries maximum economic activities are run through the informal sectors.</sent>
+				<sent id ="12">As it has been happening from the ancient period, these activities are also called traditional sector of economy.</sent>
+				<sent id ="13">The informal economic activities in Bangladesh, like in any other developing countries, play the main role in the economy of Bangladesh.</sent>
+				<sent id ="14">In a village, a farmer and his family members work in the field from morning to evening in a village.</sent>
+				<sent id ="15">They do not get or take any wage for working in their own field.</sent>
+				<sent id ="16">However, their labour or industry not only benefits their family but also the society and the country.</sent>
+				<sent id ="17">The larger portion of the country's food demand is met by their production.</sent>
+				<sent id ="18">Thus our farmers are contributing significantly to our national economy.</sent>
+				<sent id ="19">The work of blacksmiths and potters and such, cottage industry in villages and other small business enterprises or micro-business belong to this informal economic sector.</sent>
+				<sent id ="20">These works are playing a vital role in keeping our economy dynamic.</sent>
+				<sent id ="21">From the point of national economy, too, this sector is playing an important role.</sent>
+				<sent id ="22">People of all classes high, middle or lower, and the poor live in the urban areas of Bangladesh.</sent>
+				<sent id ="23">Their activities are considered as informal economic activities.</sent>
+				<sent id ="24">Not only this, they also largely contribute to keeping our national economy dynamic.</sent>
+				<sent id ="25">In this way, from the beginning, the economy of Bangladesh has been dependent much on informal economy.</sent>
+				<sent id ="26">Although Bangladesh is an agricultural country, from the British reign some factories and industries were flourishing.</sent>
+				<sent id ="27">Among them jute, cotton and textile industries were the main ones.</sent>
+				<sent id ="28">The Adamjee Jute Mills, the largest jute mill in the world was established at Narayanganj in the then East Pakistan.</sent>
+				<sent id ="29">East Pakistan was subject to gross discrimination and deprivation in establishing factories and industries by the Pakistani rulers.</sent>
+				<sent id ="30">Recently, Bangladesh has achieved a great success in garment and pharmaceutical industry.</sent>
+				<sent id ="31">These industries need huge capital, skilled workers and craftsmen, engineers, expert and experienced managers.</sent>
+				<sent id ="32">The production capacity of these industries is also very high.</sent>
+				<sent id ="33">After meeting the local demand, a portion of production is exported to foreign countries.</sent>
+				<sent id ="34">The importance of these large industries is very high in our national economy.</sent>
+				<sent id ="35">These industries work as the economic backbone of our country.</sent>
+				<sent id ="36">Industry having capital of more than 1.5 crore is called medium industry.</sent>
+				<sent id ="37">For example, light engineering, silk, ceramic and cold storage, etc.</sent>
+				<sent id ="38">These industries play an important role in our national economy by creating employment and meeting the local demand.</sent>
+				<sent id ="39">Those industries whose capital is less than 1.5 crore is called small industry.</sent>
+				<sent id ="40">Handloom, earthen wares, bamboo, cane and wood works, Sari or sweet packets, agorbati are some examples of cottage industries.</sent>
+				<sent id ="41">Our life is incapacitated not only just without food, cloth and medicine, today we cannot imagine our life without fuel, electricity and house building materials.</sent>
+				<sent id ="42">And we get all these from different kinds of industries.</sent>
+				<sent id ="43">A large number of people earn their livelihood, next to agriculture, from these industries.</sent>
+				<sent id ="44">In absence of these industries the rate of unemployment would have increased.</sent>
+				<sent id ="45">In recent times, the expansion of garments industry has made opportunities for millions of people, especially for the women.</sent>
+				<sent id ="46">It has also contributed to social advancement.</sent>
+				<sent id ="47">Opportunities for employment in industries have made the people interested in education and technology.</sent>
+				<sent id ="48">The use of modern technology is thus helping us become the citizens of the world.</sent>
+				<sent id ="49">Bangladesh is a potential country in the field of industry.</sent>
+				<sent id ="50">It has vast human resources.</sent>
+				<sent id ="51">Here both skilled and unskilled laborers are available at a comparatively low wage.</sent>
+				<sent id ="52">As a result foreign investors are interested in investing and establishing industries in this country.</sent>
+				<sent id ="53">Different foreign companies have established garment industries individually and jointly with the people of this country.</sent>
+				<sent id ="54">The garments products of this country are well received in the international market.</sent>
+				<sent id ="55">The foreigners are showing their interest to invest not only in garments sectors but also in other industries.</sent>
+				<sent id ="56">Government has established several export processing zones to attract foreign investors.</sent>
+				<sent id ="57">As a result, a great possibility is appearing for the establishment of different industries in future.</sent>
+				<sent id ="58">Now-a-days many of the Bangladeshis who work abroad are showing interest to establish industries in this country.</sent>
+				<sent id ="59">Thus the possibilities of Bangladesh being an industrially developed middle income country is being gradually brightened.</sent>
+				<sent id ="60">Generally, a country itself cannot produce all the things of its demand.</sent>
+				<sent id ="61">It has to import some commodities from other countries to meet the demand.</sent>
+				<sent id ="62">A country exports a portion of produced commodities to foreign countries after meeting the internal demand.</sent>
+				<sent id ="63">A country generally exports goods which it produces in huge amount.</sent>
+				<sent id ="64">The import and export of various commodities or goods among different countries is called international trade.</sent>
+				<sent id ="65">International trade has an important role in the economy of any country.</sent>
+				<sent id ="66">In the modern world the scope of international trade has much increased.</sent>
+				<sent id ="67">No country can think of producing all commodities of its demand.</sent>
+				<sent id ="68">Rather, considering the economy of a country, the commodities or goods which are easy and profitable to export and import are exported and imported.</sent>
+				<sent id ="69">This trade is run under a certain plan and policy.</sent>
+				<sent id ="70">Under mutual contract, import and export or international trade activities are operated among different countries.</sent>
+				<sent id ="71">In the international trade, the country which exports more than imports is called a developed country.</sent>
+				<sent id ="72">This trade is run by both the government and non- government sectors.</sent>
+				<sent id ="73">This amount is less than the previous two years.</sent>
+				<sent id ="74">That is to say, the expenditure of Bangladesh in import sector is decreasing.</sent>
+				<sent id ="75">Once upon a time jute was the main export commodity of Bangladesh.</sent>
+				<sent id ="76">Our country earned a lot of foreign currencies by exporting jute, jute goods like sack, carpet, etc.</sent>
+				<sent id ="77">But for some years demand of jute and jute goods has decreased in the world market.</sent>
+				<sent id ="78">Bangladesh exports not only jute and jute goods but also tea, hides and skins, readymade garments, prawn, handicraft, vegetables and different food items.</sent>
+				<sent id ="79">The U.S.A is the largest buyer of Bangladeshi commodities including garments.</sent>
+				<sent id ="80">Germany, UK and France also import commodities from Bangladesh.</sent>
+				<sent id ="81">Bangladesh imports mainly those commodities from foreign courtiers, which are necessary to meet the demand of food and other demands.</sent>
+				<sent id ="82">In case of failure to import those commodities in time, the country normally would face extreme want and price hike of those commodities.</sent>
+				<sent id ="83">As a result, social and political unrest would happen in the country.</sent>
+				<sent id ="84">No country in the world can produce all the commodities of its demand.</sent>
+				<sent id ="85">It imports commodities with reasonable price under trade policy.</sent>
+				<sent id ="86">Bangladesh is not different from others.</sent>
+				<sent id ="87">Bangladesh exports some commodities regularly.</sent>
+				<sent id ="88">Bangladesh earns significant foreign exchange from it.</sent>
+				<sent id ="89">It helps not only to keep the economy dynamic, but also creates opportunities for employment and expansion of industry.</sent>
+				<sent id ="90">As a nation we can be self- reliant by reducing import and increasing export.</sent>
+				<sent id ="91">By ensuring large involvement of the people with production, we can be financially self- reliant.</sent>
+				<sent id ="92">In order to make Bangladesh a middle income and industrially potential country, we have to put more emphasis on international trade, especially on export.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

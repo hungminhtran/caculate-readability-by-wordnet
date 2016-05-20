@@ -1,0 +1,104 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-17</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.914</idno>
+				<idno type="Number of sentences">76</idno>
+				<idno type="Number of tokens">892</idno>
+				<idno type="Number of token types">433</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t49">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">There are many types of plants and climbers around us.</sent>
+				<sent id ="2">Everyone loves to eat mango, jackfruit, lychee, pineapple, jambu, star apple and so on.</sent>
+				<sent id ="3">Have you ever observed the characteristics of these plants?</sent>
+				<sent id ="4">Each of these plants have different-looking leaves and flowers.</sent>
+				<sent id ="5">The fruits borne by these trees also smell and taste different.</sent>
+				<sent id ="6">The fruits mentioned above are sweet.</sent>
+				<sent id ="7">But tamarind, myrobalan (amlaki) and olive are sour.</sent>
+				<sent id ="8">Bitter gourd (karala) and neem taste bitter.</sent>
+				<sent id ="9">Although the tastes of these plants vary widely, all of them are useful to us in many ways.</sent>
+				<sent id ="10">We all know how we are benefited by plants from which we obtain sweet fruits or expensive wood.</sent>
+				<sent id ="11">But it is quite surprising how a plant with bitter-tasting bark, leaves and fruits can help us.</sent>
+				<sent id ="12">Have you seen neem trees?</sent>
+				<sent id ="13">What does a neem tree look like?</sent>
+				<sent id ="14">What do its leaves, flowers and fruit look like?</sent>
+				<sent id ="15">How do neem trees benefit us?</sent>
+				<sent id ="16">Neem plants are classified as trees.</sent>
+				<sent id ="17">Neem trees usually grow 30 40 feet tall.</sent>
+				<sent id ="18">They have many branches.</sent>
+				<sent id ="19">Their leaves are not simple.</sent>
+				<sent id ="20">The small leaf-like growths are actually parts of a leaf.</sent>
+				<sent id ="21">They are arranged along a rachis.</sent>
+				<sent id ="22">These small parts are called leaflets.</sent>
+				<sent id ="23">All the leaflets arranged along a rachis together make a single leaf.</sent>
+				<sent id ="24">Neem flowers are small, white and sweet-smelling.</sent>
+				<sent id ="25">Neem fruits are small and green, but they gain a yellowish green hue when they ripen.</sent>
+				<sent id ="26">The bark of the trunk and roots, the sap, the leaves and the fruits of neem trees are bitter-tasting.</sent>
+				<sent id ="27">Nimbidine is the one of the main substances responsible for this bitter taste.</sent>
+				<sent id ="28">Two more types of bitter substances are also found in the bitter parts of neem trees.</sent>
+				<sent id ="29">It takes almost ten years for a neem tree to reach maturity.</sent>
+				<sent id ="30">Neem trees have a very long lifespan.</sent>
+				<sent id ="31">Some neem trees live for more than two hundred years.</sent>
+				<sent id ="32">Scientists have performed extensive research on neem, and have discovered their various useful properties.</sent>
+				<sent id ="33">They have also come to the conclusion that neem trees contain no poisonous or harmful substances.</sent>
+				<sent id ="34">Because of this, the uses of neem are very safe.</sent>
+				<sent id ="35">Research on neem first began in the Indian subcontinent.</sent>
+				<sent id ="36">In the modern world extensive research on neem is being carried out with great enthusiasm.</sent>
+				<sent id ="37">Now, let us see in which ways this friendly tree can benefit humans and animals.</sent>
+				<sent id ="38">Medical treatment : Neem is now widely used in all the established fields of medicine.</sent>
+				<sent id ="39">Neem is used for treating itches, scabies, boils, pox, sores, allergy, jaundice, diabetes, diseases caused by worms, dental diseases etc.</sent>
+				<sent id ="40">Bark, sap, leaves and seeds of neem can be used as a remedy for snakebites.</sent>
+				<sent id ="41">Using neem twigs for brushing teeth helps to heal gum diseases and strengthen teeth.</sent>
+				<sent id ="42">Neem is also used to treat diseases contracted by domestic animals.</sent>
+				<sent id ="43">Oil extracted from neem seeds is used to cure indigestion, worms, wounds and other infections of animals.</sent>
+				<sent id ="44">Agriculture : In the agricultural field, neem is used as an insecticide and a fertilizer.</sent>
+				<sent id ="45">The use of neem decreases the acidity of soil and helps to increase its fertility.</sent>
+				<sent id ="46">Dry neem leaves is useful for storing food grain.</sent>
+				<sent id ="47">Conservation of environment : The air from neem trees is good for health.</sent>
+				<sent id ="48">Neem plants are ideal for purifying polluted air.</sent>
+				<sent id ="49">Planting neem trees in the yard of a house helps to make it safe from diseases.</sent>
+				<sent id ="50">Neem trees prevent the erosion of soil.</sent>
+				<sent id ="51">They increase the water-retaining abilities of soil and thus prevent desertification.</sent>
+				<sent id ="52">Economic benefits : From the above discussion, we have learnt about various uses of neem.</sent>
+				<sent id ="53">Now let us see what other valuable things can be obtained from neem.</sent>
+				<sent id ="54">We obtain good-quality wood from neem.</sent>
+				<sent id ="55">This wood can be used for making furniture, wheels of oxcarts, doors, windows etc.</sent>
+				<sent id ="56">Neem can also be used as cattle feed and fuel.</sent>
+				<sent id ="57">It is more beneficial if the chewed part is cut off every day and a fresh part is chewed anew.</sent>
+				<sent id ="58">Many types of consumables are being made from neem these days.</sent>
+				<sent id ="59">Neem-flavoured toothpaste and tooth powder, neem oil, neem soap etc. act as disinfectants.</sent>
+				<sent id ="60">There is high demand for neem in many countries.</sent>
+				<sent id ="61">We can plant more and more neem trees and sell them to foreigners.</sent>
+				<sent id ="62">Both our country and countrymen can be benefited by this.</sent>
+				<sent id ="63">We all should grow and take care of neem trees.</sent>
+				<sent id ="64">Now, let us learn how to grow and take care of neem trees.</sent>
+				<sent id ="65">Neem trees grow in dry and dense clayey soil.</sent>
+				<sent id ="66">Black loamy soil is suitable for planting neem trees.</sent>
+				<sent id ="67">Neem trees do not grow well in areas where water accumulates.</sent>
+				<sent id ="68">Neem seeds should be collected and planted as early as possible during the rainy season (from June to August).</sent>
+				<sent id ="69">The seeds can be planted in nursery beds, polythene bags, or directly in the soil.</sent>
+				<sent id ="70">The seeds can be planted in nursery beds in rows 15 centimeters away from each other.</sent>
+				<sent id ="71">Seeds in each row should be evenly spaced by 2 to 5 centimeters.</sent>
+				<sent id ="72">After planting the seeds, they must be covered loosely by soil and sprinkled with water.</sent>
+				<sent id ="73">When the saplings are two months old, weeding would be beneficial for their normal growth.</sent>
+				<sent id ="74">We have learnt about the properties, uses and cultivation of neem trees.</sent>
+				<sent id ="75">We can see that the planting of such a useful tree would be highly beneficial for Bangladesh.</sent>
+				<sent id ="76">This tree can benefit Bangladesh in many ways.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,102 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-artCraft-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.06</idno>
+				<idno type="Number of sentences">74</idno>
+				<idno type="Number of tokens">834</idno>
+				<idno type="Number of token types">361</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t22">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Paper is a vital thing in our lives.</sent>
+				<sent id ="2">The use of paper is unavoidable in every sphere of life.</sent>
+				<sent id ="3">The paper signifies the development of a civilization.</sent>
+				<sent id ="4">As time is passing, the consumption of papers is increasing in our day to day lives.</sent>
+				<sent id ="5">There are different papers for different tasks.</sent>
+				<sent id ="6">They are of different kinds- hard, soft, thick, thin, white and coloured papers, It is difficult to specify them.</sent>
+				<sent id ="7">Thousand of useful things are made of these papers, Decoration of houses, festivals, functions, all can be done with papers.</sent>
+				<sent id ="8">Any kind of art with these papers gives us pleasure.</sent>
+				<sent id ="9">If we could continue doing these delightful works then life would be more pleasant.</sent>
+				<sent id ="10">If you want to do any work of art, it is necessary to learn the art and practice it to be skilled.</sent>
+				<sent id ="11">Let us make a few crafts with papers.</sent>
+				<sent id ="12">Crafts with paper.</sent>
+				<sent id ="13">You can realise that the material is of various kinds and coloured, red, white, blue, yellow, purple etc.</sent>
+				<sent id ="14">Besides these, thick thread, sharp knife to cut papers, small and big scissors, thick flour-gum etc. will be needed.</sent>
+				<sent id ="15">you have made flowers with papers.</sent>
+				<sent id ="16">You have known how to fold a paper in rectangle.</sent>
+				<sent id ="17">If you cannot remember that, then have a look at the book of class six.</sent>
+				<sent id ="18">The cutting of the design in class six, which was given for you was a primary one.</sent>
+				<sent id ="19">It was very simple and small.</sent>
+				<sent id ="20">You will be able to cut big designs in the process which you have learnt before.</sent>
+				<sent id ="21">Two samples of designs of folding and cutting papers have been given in the picture.</sent>
+				<sent id ="22">Looking at the sample, fold and draw the design then cut it, see, how beautiful it looks better than which you have cut before.</sent>
+				<sent id ="23">You had cut a designed long fringe.</sent>
+				<sent id ="24">This time make a semi-circled fringe.</sent>
+				<sent id ="25">You have to decide the size of a paper taking the measurement for the semi-circled fringe.</sent>
+				<sent id ="26">Here is a general rule of taking the measurement of the paper.</sent>
+				<sent id ="27">The length will be 21_2 cm.</sent>
+				<sent id ="28">more than the width.</sent>
+				<sent id ="29">Take a paper for a kite 25 cm.</sent>
+				<sent id ="30">long and 15 cm.</sent>
+				<sent id ="31">Fold it in double.</sent>
+				<sent id ="32">One side of the paper is 1212 cm. and another side is 15 cm.</sent>
+				<sent id ="33">Look at the picture well and fold again tile folded paper diagonally according to the Picture.</sent>
+				<sent id ="34">Look at the fold of 21_2 cm.</sent>
+				<sent id ="35">There is surplus paper.</sent>
+				<sent id ="36">Looking at the picture fold again.</sent>
+				<sent id ="37">Now draw the design on the folded paper with a pencil.</sent>
+				<sent id ="38">Then, cut just all along the line of the design.</sent>
+				<sent id ="39">Fold and cut 21_2 cm.</sent>
+				<sent id ="40">upper portion of the design which remained surplus of the folded paper (Look at the picture).</sent>
+				<sent id ="41">If you open the folding you will see that, you have made a semi circled designed fringe.</sent>
+				<sent id ="42">What do you think, how is the fringe?</sent>
+				<sent id ="43">Very beautiful is n't it?</sent>
+				<sent id ="44">If you draw the same design in tile format of the board, and cut it which you cut in this fringe.</sent>
+				<sent id ="45">then you may cut many of the same designed fringes by drawing on the other papers, With the help of tile format.</sent>
+				<sent id ="46">The things which we throw away, thinking that, there will be no use of those, these are called rejected things.</sent>
+				<sent id ="47">You can make beautiful crafts with your imagination and intelligence if you think a bit.</sent>
+				<sent id ="48">There are so many things round us which we consider to be useless things.</sent>
+				<sent id ="49">We don't care so much or notice of lots of things, with which you can make nice things.</sent>
+				<sent id ="50">These are known as recycled crafts.</sent>
+				<sent id ="51">Take a branch of palm tree with thorns.</sent>
+				<sent id ="52">The branches of other trees may be taken too, but these should have thorns.</sent>
+				<sent id ="53">Taking a light yellow paper of kite, cut it 2.50 cm.</sent>
+				<sent id ="54">wide but long strips.</sent>
+				<sent id ="55">Fold the paper and make it 2.50 cm.</sent>
+				<sent id ="56">wide and 15 cm.</sent>
+				<sent id ="57">Then cut one side making thin repeatedly and another side will remain stuck upto almost 6 cm.</sent>
+				<sent id ="58">so that it will not be cut.</sent>
+				<sent id ="59">This cut-paper will resemble a cone.</sent>
+				<sent id ="60">Open the papers after cutting them.</sent>
+				<sent id ="61">Take a few thin stalks of jute.</sent>
+				<sent id ="62">Then, cut evenly one edge of a stalk of the jute.</sent>
+				<sent id ="63">Twisting spirally bend another for five or six times, tear the strip of paper.</sent>
+				<sent id ="64">Then cut the stalk of the jute underneath the strip of the paper.</sent>
+				<sent id ="65">Spread out the twisted paper equally.</sent>
+				<sent id ="66">Look what a beautiful flower has been made.</sent>
+				<sent id ="67">Make the flowers one after another in this process.</sent>
+				<sent id ="68">If one stalk of the jute is finished, then take another one.</sent>
+				<sent id ="69">Making a good number offlowers, fix one by one on the thorn of the branch.</sent>
+				<sent id ="70">The stalk of the jute is soft, so it won't be hard to fix the flowers.</sent>
+				<sent id ="71">Fill up the whole branch with the flowers.</sent>
+				<sent id ="72">See, how beautiful it looks.</sent>
+				<sent id ="73">Filling a flower-tub with clay fix your flower branch in it and keep it in a suitable place.</sent>
+				<sent id ="74">When someone makes mistakes it for real flowers you will be very happy.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

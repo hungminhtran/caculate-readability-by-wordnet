@@ -1,0 +1,120 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-17</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.613</idno>
+				<idno type="Number of sentences">92</idno>
+				<idno type="Number of tokens">793</idno>
+				<idno type="Number of token types">364</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t94">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Asia is the largest continent of the world.</sent>
+				<sent id ="2">There are many countries in Asia.</sent>
+				<sent id ="3">Let us read the names of some countries in the following table.</sent>
+				<sent id ="4">We have learnt about the cultures of India and Myanmar in Class Three.</sent>
+				<sent id ="5">Now we will learn about the cultures of two other countries - Japan and Malaysia.</sent>
+				<sent id ="6">Japan is situated in the north-east of Asia.</sent>
+				<sent id ="7">Japan consists of some small and big islands.</sent>
+				<sent id ="8">Earthquakes occur frequently here.</sent>
+				<sent id ="9">At present buildings are being built to withstand the earthquakes.</sent>
+				<sent id ="10">Japan is a monolingual country.</sent>
+				<sent id ="11">Japanese is the main language of this country.</sent>
+				<sent id ="12">It is the official language.</sent>
+				<sent id ="13">Most of the people of Japan are Buddhist.</sent>
+				<sent id ="14">Besides Buddhism, some people believe in Shinto religion.</sent>
+				<sent id ="15">They are sun worshippers.</sent>
+				<sent id ="16">Rice and fish are the staple foods of Japan.</sent>
+				<sent id ="17">Tney put their food in a cup and eat it with sticks.</sent>
+				<sent id ="18">It is one of their characteristics.</sent>
+				<sent id ="19">The name of the traditional dress of the Japanese is Kimono.</sent>
+				<sent id ="20">It is a colourful dress.</sent>
+				<sent id ="21">Ukata is another of their traditional dresses made in imitation of Kimono.</sent>
+				<sent id ="22">It is relatively an ordinary dress.</sent>
+				<sent id ="23">Men and women all wear their traditional dress Kimono and Ukata1 on different festivals.</sent>
+				<sent id ="24">At present the Japanese wear western dresses like tea-shirts, jeans, etc.</sent>
+				<sent id ="25">The Japanese are very fond of music.</sent>
+				<sent id ="26">Folk songs are in vogue on different social and religious festivals.</sent>
+				<sent id ="27">Ondo and Enco are such folk songs.</sent>
+				<sent id ="28">They present group dance to the accompaniment of Ondo on various occasions.</sent>
+				<sent id ="29">Bonodori is a famous dance of Japan.</sent>
+				<sent id ="30">Besides, one kind of mask dance named Kabuki is also presented here.</sent>
+				<sent id ="31">The Japanese love games and sports.</sent>
+				<sent id ="32">The traditional games of this country are: judo, karate, kendo, kite flying, etc.</sent>
+				<sent id ="33">Sumo1 is the national game of Japan.</sent>
+				<sent id ="34">It is highly popular in Japan.</sent>
+				<sent id ="35">There are some customs and etiquettes in the social life of the Japanese.</sent>
+				<sent id ="36">Most of the festivals of this country are based on seasons.</sent>
+				<sent id ="37">The biggest festival of this country is oshowgatsu or New Year.</sent>
+				<sent id ="38">This festival lasts for the first three days of the New Year.</sent>
+				<sent id ="39">During that time all offices remain closed.</sent>
+				<sent id ="40">People from distant places gather in temples or holy places.</sent>
+				<sent id ="41">They pray so that the New Year passes well.</sent>
+				<sent id ="42">Besides, they observe icobana or arranging flowers, and tea festival.</sent>
+				<sent id ="43">These are symbols of simplicity and beauty.</sent>
+				<sent id ="44">During this time they present cherry dances.</sent>
+				<sent id ="45">Autumn is the season of harvesting.</sent>
+				<sent id ="46">During this time various kinds of cake festivals take place in the rural areas.</sent>
+				<sent id ="47">This festival is observed on 5th May every year.</sent>
+				<sent id ="48">The Japanese burn the dead body and bury the ashes.</sent>
+				<sent id ="49">Malaysia is situated in the southeast of Bangladesh.</sent>
+				<sent id ="50">It is a very beautiful country.</sent>
+				<sent id ="51">The people of this country are very hospitable.</sent>
+				<sent id ="52">Most of the people of Malaysia speak Malay.</sent>
+				<sent id ="53">Besides, there are Telegu, Malayalam, Punjabi, Hindi, etc.</sent>
+				<sent id ="54">Most of the inhabitants of Malaysia are Muslims.</sent>
+				<sent id ="55">But there are also Christians, Hindus, Buddhists and people of other religions.</sent>
+				<sent id ="56">Rice and fish are the main foods of the Malaysians.</sent>
+				<sent id ="57">They use a lot of spices in their food.</sent>
+				<sent id ="58">Their favourite breakfast is Nasilemark.</sent>
+				<sent id ="59">It is one kind of rice, spicy and perfumed.</sent>
+				<sent id ="60">With this, there are coconut milk and chicken or beef curry.</sent>
+				<sent id ="61">It is served on leaves of banana trees.</sent>
+				<sent id ="62">Besides, they eat Chinese, Indonesian, Indian, and Pakistani food.</sent>
+				<sent id ="63">Of the fruits, they eat pineapples, bananas, papayas, guavas, mangoes and a fruit called durian.</sent>
+				<sent id ="64">They call durian the king of fruits.</sent>
+				<sent id ="65">It looks like a jackfruit of our country.</sent>
+				<sent id ="66">This fruit has an odour and thorny.</sent>
+				<sent id ="67">Generally different colourful silky dresses are very much popular with the Malaysians.</sent>
+				<sent id ="68">Scarf and kaptan are their traditional dresses.</sent>
+				<sent id ="69">They like very much the clothes with boutique.</sent>
+				<sent id ="70">They love to wear gold and silver jewellery.</sent>
+				<sent id ="71">Music and dance are closely related in Malayasia.</sent>
+				<sent id ="72">There is Sayaputul theatre here.</sent>
+				<sent id ="73">It comes from Java.</sent>
+				<sent id ="74">Besides, Chinese operas are worth mentioning.</sent>
+				<sent id ="75">Most of the musical instruments of this country are made of coconut choir.</sent>
+				<sent id ="76">Tarian Lilin is a dance with candles.</sent>
+				<sent id ="77">This is a dance of unmarried girls.</sent>
+				<sent id ="78">The name of their traditional dance is samajao.</sent>
+				<sent id ="79">This dance is presented during the festival of harvesting.</sent>
+				<sent id ="80">The people of Malayasia are fond of games and sports.</sent>
+				<sent id ="81">Flying kites is their favourite and traditional game.</sent>
+				<sent id ="82">This game is called oao.</sent>
+				<sent id ="83">Silat1 is also their favourite game.</sent>
+				<sent id ="84">It is very much like Japanese'karate'.</sent>
+				<sent id ="85">They also enjoy fishing in the sea.</sent>
+				<sent id ="86">Followers of different religions of this country observe different festivals.</sent>
+				<sent id ="87">The Muslims observe Eid-ul-Fitr and Eid- ul-Azha.</sent>
+				<sent id ="88">They call .Eid Huri Raia.</sent>
+				<sent id ="89">The Hindus observe the festival of light Dipabali.</sent>
+				<sent id ="90">The Christians observe Christmas.</sent>
+				<sent id ="91">The Mongolians observe Moon Cake1 festival and the Chinese observe Chinese New Year.</sent>
+				<sent id ="92">We have become familiar with many aspects of the cultures of Japan and Malaysia.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

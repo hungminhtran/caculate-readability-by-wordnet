@@ -1,0 +1,111 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-bdGlobal-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.057</idno>
+				<idno type="Number of sentences">83</idno>
+				<idno type="Number of tokens">1105</idno>
+				<idno type="Number of token types">465</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t99">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Population and development-these two are interrelated.</sent>
+				<sent id ="2">The development of a country largely depends on her population.</sent>
+				<sent id ="3">For example, we can study the cases of America and Bangladesh.</sent>
+				<sent id ="4">Thirty two people live in America per sq.</sent>
+				<sent id ="5">kilometer and their per capita income is 46,970 US Dollar.</sent>
+				<sent id ="6">On the other hand, 993 people live in Bangladesh per sq.</sent>
+				<sent id ="7">kilometer and their per capita income is only 818 US Dollar.</sent>
+				<sent id ="8">The future development of a country depends on the effective implementation of its economic planning and population policy.</sent>
+				<sent id ="9">This is more true with a populous and developing country like Bangladesh.</sent>
+				<sent id ="10">In general sense, population policy means the national planning about population of the country.</sent>
+				<sent id ="11">This policy is made keeping similarity with the socio-economic condition of the country.</sent>
+				<sent id ="12">The main objectives or the aims of the population policy of Bangladesh are:</sent>
+				<sent id ="13">To arrange necessary health and family panning welfare service for all people of the country.</sent>
+				<sent id ="14">To strengthen family planning programme and maternity health care.</sent>
+				<sent id ="15">To minimise malnutrition of the children and the women.</sent>
+				<sent id ="16">To arrange health care for women and children up to union level.</sent>
+				<sent id ="17">To ensure the full- time presence of doctor, nurse and regular supply of medicine in the Thana and the union health complexes.</sent>
+				<sent id ="18">To expand primary health care and to reach reproductive health care to every people everywhere.</sent>
+				<sent id ="19">To arrange reproductive health care service for the poorer section of people and also for those who have special demand.</sent>
+				<sent id ="20">To ensure security and health care for the older people of the county.</sent>
+				<sent id ="21">The slogan of Bangladesh on population is-Be it son or daughter: two children are sufficient.</sent>
+				<sent id ="22">2nd February is observed as population day every year in Bangladesh.</sent>
+				<sent id ="23">The government has taken the following steps with a view to reducing the present growth rate of population.</sent>
+				<sent id ="24">a. Priority has been given on primary and the mass education with a view to removing illiteracy and increasting the rate of education.</sent>
+				<sent id ="25">The government is pledge- bound to remove illiteracy by 2014 and ensure education for all by 2015.</sent>
+				<sent id ="26">The govt. has taken a massive plan for the expansion of women education.</sent>
+				<sent id ="27">For example: Text books are being given free of cost to all students from primary level up to secondary level.</sent>
+				<sent id ="28">Sub- Scholarship is also being given to girl students from class VI to class XII.</sent>
+				<sent id ="29">The govt. has taken a plan to ensure Medicare of the citizen.</sent>
+				<sent id ="30">Side by side, health and family planning programme is also going on to keep family small.</sent>
+				<sent id ="31">Emphasis has been given for the registration of marriage at the kazi office (marriage registrar).</sent>
+				<sent id ="32">The govt. has also given emphasis on women's participation in income generating activities, such as- Poultry farm and Pisciculture.</sent>
+				<sent id ="33">Besides, women are now taking part in large number in garments industry, handicrafts, cottage industry and other manual industries.</sent>
+				<sent id ="34">These will play a significant role to control the overall population.</sent>
+				<sent id ="35">Bangladesh got United Nations award (UN-award) for achieving success in reducing infant mortality rate.</sent>
+				<sent id ="36">Non-government development organization (NGO) of regional, national and international levels are playing an important role in the task of controlling population in Bangladesh.</sent>
+				<sent id ="37">They(NGOs) started their work by assisting the people in rehabilitation task after our liberation war.</sent>
+				<sent id ="38">One of the major fields of work of these organization is population control and family planning programmes.</sent>
+				<sent id ="39">These organizations working in Bangladesh perform many activities to control our population.</sent>
+				<sent id ="40">They are encouraged to accept family planning method.</sent>
+				<sent id ="41">Under the programme, service is also given to the health of mother and the child, vaccination, injection and nutritional education.</sent>
+				<sent id ="42">Implementation of making a planned family of two children: Bangladesh govt.</sent>
+				<sent id ="43">has finalized national policy of making two children-family.</sent>
+				<sent id ="44">organizations are working to achieve this goal.</sent>
+				<sent id ="45">They are also working to encourage people to accept family planning method.</sent>
+				<sent id ="46">Resistance of child marriage and encouraging late marriage: The Non- govt.</sent>
+				<sent id ="47">organizations are also playing a significant role to encourage people to resist child- marriage and delay normal marriage.</sent>
+				<sent id ="48">Training Programme: The specialists of Non-govt.</sent>
+				<sent id ="49">organizations are training the people on the health care of the mother and the child, vaccination and family planning method.</sent>
+				<sent id ="50">e. Awareness activities: The Non- govt.</sent>
+				<sent id ="51">organizations make and use various items for making people conscious to address population problem.</sent>
+				<sent id ="52">For example; magazine of family planning, poster, calendar, chart, newsletter, documentary film etc are made and used to this effect.</sent>
+				<sent id ="53">Encouragement programme of religious leaders: The Non- govt.</sent>
+				<sent id ="54">organization arrange workshop for the religious leaders and encourage them about this matter.</sent>
+				<sent id ="55">The religious leaders can also play a role to reduce population.</sent>
+				<sent id ="56">The population of Bangladesh is very large if we compare it with the amount of land and the population of other countries of the world.</sent>
+				<sent id ="57">Moreover, our growth rate of population is also very high, though the present growth rate is less than the previous ones.</sent>
+				<sent id ="58">This has been possible only due to family planning programme and ever-increasing consciousness of the people.</sent>
+				<sent id ="59">On the other side, the death rate of infant and mother has recently come down due to the improvement of Medicare management.</sent>
+				<sent id ="60">The number of population is also increasing for this.</sent>
+				<sent id ="61">By this way, the country will go fast towards economic development.</sent>
+				<sent id ="62">The huge population of a country becomes a great problem for her if its resource is limited.</sent>
+				<sent id ="63">Again, the population can be converted into human resource by adopting proper planning.</sent>
+				<sent id ="64">Many countries of the world have already converted their large population into human resource.</sent>
+				<sent id ="65">We can cite the example of China to this effect.</sent>
+				<sent id ="66">Our neighboring countries India and Srilanka have also shown success in converting population into human resource.</sent>
+				<sent id ="67">India has advanced much in the field of information-technology.</sent>
+				<sent id ="68">23% of information-technology sector of a developing country like America depends on the skilled man power of India.</sent>
+				<sent id ="69">Our country has also invested a good amount in IT sector during the last years.</sent>
+				<sent id ="70">Government has taken massive programme to convert our youth- power into a resource.</sent>
+				<sent id ="71">We can hope that we will get its result in the future.</sent>
+				<sent id ="72">The strategy/technique adopted to convert our population into human resource is mentioned below.</sent>
+				<sent id ="73">To expand job-oriented education and build knowledgeable society ;</sent>
+				<sent id ="74">To increase skill and expand training-oriented programme ;</sent>
+				<sent id ="75">To expand technology and technical education ;</sent>
+				<sent id ="76">To expand women education ;</sent>
+				<sent id ="77">To expand health and nutrition programme ;</sent>
+				<sent id ="78">To adopt education and training programme according to production based sectors ;</sent>
+				<sent id ="79">To expand agriculture-based education and training ;</sent>
+				<sent id ="80">To modernize agriculture for employment opportunities ;</sent>
+				<sent id ="81">To improve information and communication sector ;</sent>
+				<sent id ="82">To expand small and cottage industries ;</sent>
+				<sent id ="83">To send large number of meritorious students to developed and technology- based countries of the world by arranging more scholarships on govt. and non- govt.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

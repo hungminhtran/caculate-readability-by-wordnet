@@ -1,0 +1,112 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.537</idno>
+				<idno type="Number of sentences">84</idno>
+				<idno type="Number of tokens">732</idno>
+				<idno type="Number of token types">351</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t42">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Some of us live in villages and some in towns.</sent>
+				<sent id ="2">We all live in houses.</sent>
+				<sent id ="3">Our houses should always be clean.</sent>
+				<sent id ="4">We feel well to live in clean houses.</sent>
+				<sent id ="5">Our health will also be good.</sent>
+				<sent id ="6">We can study better.</sent>
+				<sent id ="7">So we will always keep our houses clean and tidy.</sent>
+				<sent id ="8">What should we do to keep our houses nice and tidy?</sent>
+				<sent id ="9">Let us read the table below.</sent>
+				<sent id ="10">We will sweep the compound every morning and evening.</sent>
+				<sent id ="11">We will dust the furniture everyday.</sent>
+				<sent id ="12">We will arrange things in the house everyday.</sent>
+				<sent id ="13">We will clean the toilet and bathroom every morning and evening.</sent>
+				<sent id ="14">The rubbish should be thrown in a particular place.</sent>
+				<sent id ="15">It is not enough to keep the house clean.</sent>
+				<sent id ="16">We will keep the surroundings clean also.</sent>
+				<sent id ="17">Or dust and dirt will be piled up.</sent>
+				<sent id ="18">This makes our environment dirty.</sent>
+				<sent id ="19">Nobody likes a dirty environment.</sent>
+				<sent id ="20">We will be attacked with diseases if we live in this kind of environment.</sent>
+				<sent id ="21">Our parents work to keep the house clean; others also work for it.</sent>
+				<sent id ="22">They sweep the rooms and the compound.</sent>
+				<sent id ="23">They make beds, chairs and tables and almirahs clean.</sent>
+				<sent id ="24">They wash plates, glasses, jugs and bowls.</sent>
+				<sent id ="25">They clean our bathrooms and toilets.</sent>
+				<sent id ="26">They clear up the rubbish.</sent>
+				<sent id ="27">They also do different kinds of works to keep the surroundings of the house clean.</sent>
+				<sent id ="28">We will always take care to keep our house clean and tidy.</sent>
+				<sent id ="29">We will help our parents and other persons in this work.</sent>
+				<sent id ="30">Now we shall fill in the table below.</sent>
+				<sent id ="31">Besides we shall arrange neatly our own books, exercise books, pens and pencils.</sent>
+				<sent id ="32">We shall keep our clothes and other things clean.</sent>
+				<sent id ="33">We will not be afraid of any work.</sent>
+				<sent id ="34">We shall not dislike to do any work.</sent>
+				<sent id ="35">We will love do work with our own hands.</sent>
+				<sent id ="36">We have learnt about different kinds of works in the house.</sent>
+				<sent id ="37">People from different professions meet our needs.</sent>
+				<sent id ="38">Some people do physical work.</sent>
+				<sent id ="39">They are called labourers.</sent>
+				<sent id ="40">Farmer : A farmer grows paddy, wheat, pulse and vegetables.</sent>
+				<sent id ="41">We get food from them.</sent>
+				<sent id ="42">Weaver : A weaver weaves clothes.</sent>
+				<sent id ="43">We make dresses from this cloth.</sent>
+				<sent id ="44">Fisherman: A fisherman catches fish in canals rivers and seas Fish is our favourite food.</sent>
+				<sent id ="45">Blacksmith: A blacksmith makes ploughs, scissors and knives We use them for various works.</sent>
+				<sent id ="46">Potter : A potter makes flower pots, jars, pots, water jars with clay.</sent>
+				<sent id ="47">We use them for various works.</sent>
+				<sent id ="48">Tailor : A tailor makes our dresses.</sent>
+				<sent id ="49">Barber : A barber cuts hair.</sent>
+				<sent id ="50">Cobbler : A cobbler mends our shoes.</sent>
+				<sent id ="51">Porter : A porter works at railway stations, steamer ghats, bus terminals and bazars.</sent>
+				<sent id ="52">They carry our goods.</sent>
+				<sent id ="53">Hawker : A hawker sells things in lanes and localities.</sent>
+				<sent id ="54">Introduction to Environment: Social studies 75 Boatman : A boatman rows boats.</sent>
+				<sent id ="55">He carries us as well as our goods.</sent>
+				<sent id ="56">Mason : A mason builds our house with bricks, cement, sand, iron rods etc.</sent>
+				<sent id ="57">Carpenter : A carpenter makes chairs, tables, beds, doors windows amirahs with wood.</sent>
+				<sent id ="58">Electrician : An electrician installs electric lines, electrical goods and also repairs them.</sent>
+				<sent id ="59">Factory Workers: They work in different factories.</sent>
+				<sent id ="60">They make many useful goods for us.</sent>
+				<sent id ="61">There are many workmen around us.</sent>
+				<sent id ="62">We will write some name of the workmen in the table below.</sent>
+				<sent id ="63">There are some professions also.</sent>
+				<sent id ="64">Their professions do not need physical labour.</sent>
+				<sent id ="65">People do their work with their knowledge and intelligence.</sent>
+				<sent id ="66">They are called professionals.</sent>
+				<sent id ="67">Now we will learn about the works of different professionals.</sent>
+				<sent id ="68">Teacher : A teacher helps his students with his teachings to be good human beings.</sent>
+				<sent id ="69">Judge : A judge passes judgment in courts.</sent>
+				<sent id ="70">Lawyer : A lawyer assists in matters of judgment in courts.</sent>
+				<sent id ="71">Journalist : A journalist collects information and news from home and abroad.</sent>
+				<sent id ="72">We can know it from journalists, from newspapers, from radios and televisions.</sent>
+				<sent id ="73">Doctor : A doctor treats our diseases.</sent>
+				<sent id ="74">Engineer : An engineer makes plans of roads, bridges and big buildings.</sent>
+				<sent id ="75">They supervise the making of these things.</sent>
+				<sent id ="76">They also make different types of machines.</sent>
+				<sent id ="77">Agriculturist: An agriculturist works for the development of agriculture.</sent>
+				<sent id ="78">He does research about how to breed new seeds of crops.</sent>
+				<sent id ="79">Nurse : A nurse looks after the sick.</sent>
+				<sent id ="80">We have learnt about some workers and professionals.</sent>
+				<sent id ="81">We have also learnt about their works.</sent>
+				<sent id ="82">All the workers and professionals are important.</sent>
+				<sent id ="83">We depend on them for various reasons.</sent>
+				<sent id ="84">We respect all workers and professionals and all their works.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

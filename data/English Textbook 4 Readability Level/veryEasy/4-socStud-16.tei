@@ -1,0 +1,152 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-16</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.594</idno>
+				<idno type="Number of sentences">124</idno>
+				<idno type="Number of tokens">1135</idno>
+				<idno type="Number of token types">477</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t93">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We use every day many of the things surrounding us.</sent>
+				<sent id ="2">We work in the fields.</sent>
+				<sent id ="3">We build homes and houses.</sent>
+				<sent id ="4">We catch fish in the river.</sent>
+				<sent id ="5">We use the water of the river in various activities.</sent>
+				<sent id ="6">We get wood from the forest.</sent>
+				<sent id ="7">We walk along the streets.</sent>
+				<sent id ="8">We go to school.</sent>
+				<sent id ="9">We travel by various types of vehicles.</sent>
+				<sent id ="10">The things which fulfil our personal and social needs are called resources.</sent>
+				<sent id ="11">State Resources: The resources under the ownership of the state are called state resources.</sent>
+				<sent id ="12">The government directly governs the state resources.</sent>
+				<sent id ="13">All citizens of the country have the right to enjoy these resources.</sent>
+				<sent id ="14">Social Resources: Human beings develop many resources for their own necessity.</sent>
+				<sent id ="15">These are schools, hospitals, mosques, temples, churches, libraries, clubs, parks, playgrounds, roads, culverts, etc.</sent>
+				<sent id ="16">House-holds, properties, cows, buffalos, goats, ducks and poultry, etc. are personal resources.</sent>
+				<sent id ="17">We can easily go from one place to another.</sent>
+				<sent id ="18">We can sell the local products at higher prices by carrying them to other places.</sent>
+				<sent id ="19">Generally on mud roads bullock carts, buffalo carts, vans, push carts can be used.</sent>
+				<sent id ="20">These are very useful for local people.</sent>
+				<sent id ="21">Many bridges, culverts, etc. have been built up in this riverine country.</sent>
+				<sent id ="22">Bridges on big rivers, on canals, culverts on small canals have been built up.</sent>
+				<sent id ="23">There are bamboo pathways (SHANKO) to go across canals in many villages.</sent>
+				<sent id ="24">These are used to go to schools, markets or to distant places.</sent>
+				<sent id ="25">Various types of vehicles pass along the bridges.</sent>
+				<sent id ="26">Ferries take time.</sent>
+				<sent id ="27">It is risky to use ferries in times of rain or storms.</sent>
+				<sent id ="28">Small children find it difficult to use bamboo pathways.</sent>
+				<sent id ="29">With bridges across the rivers, we can cross them easily and quickly.</sent>
+				<sent id ="30">Water is another name for life.</sent>
+				<sent id ="31">Man cannot live without water.</sent>
+				<sent id ="32">We need water for drinking, cooking, bathing, washing plates and clothes, farming, etc.</sent>
+				<sent id ="33">It is used in the mills and factories.</sent>
+				<sent id ="34">It is used to put out fire.</sent>
+				<sent id ="35">We get water from rivers, canals, marchy lands, large tanks, lakes, ponds and tube-wells.</sent>
+				<sent id ="36">It rains a lot in our country.</sent>
+				<sent id ="37">Ponds are filled up with rain water.</sent>
+				<sent id ="38">Rainwater is very important for cultivation.</sent>
+				<sent id ="39">We get fish from ponds.</sent>
+				<sent id ="40">We cultivate fish in ponds, big tanks and other water bodies.</sent>
+				<sent id ="41">There are tube-wells in most villages of our country.</sent>
+				<sent id ="42">A tube- well is also called a hand driven machine.</sent>
+				<sent id ="43">Most of the people of our country drink tube-well water.</sent>
+				<sent id ="44">We use this water for cooking.</sent>
+				<sent id ="45">We also use tube-well water for other purposes.</sent>
+				<sent id ="46">There are ponds at many homes of the village.</sent>
+				<sent id ="47">We bathe in the pond, wash plates and dishes and clothes.</sent>
+				<sent id ="48">We cultivate fish in the pond.</sent>
+				<sent id ="49">We drink the water of the pond.</sent>
+				<sent id ="50">However, the water of the pond should be drunk after boiling it properly.</sent>
+				<sent id ="51">Electricity is one kind of power.</sent>
+				<sent id ="52">We cannot do without electricity.</sent>
+				<sent id ="53">It lights our homes and roads and streets.</sent>
+				<sent id ="54">Fans run on electricity.</sent>
+				<sent id ="55">The telecommunication system becomes inactive without electricity.</sent>
+				<sent id ="56">Television and radio are run on electricity.</sent>
+				<sent id ="57">A computer cannot work without electricity.</sent>
+				<sent id ="58">We need electricity to run mills and factories.</sent>
+				<sent id ="59">It is also needed for irrigating lands.</sent>
+				<sent id ="60">It is used to run modern equipment for detecting diseases.</sent>
+				<sent id ="61">It is needed to run tractors for cultivation.</sent>
+				<sent id ="62">We need electricity to preserve crops.</sent>
+				<sent id ="63">Natural gas is the most important mineral resource of Bangladesh.</sent>
+				<sent id ="64">It is used to produce energy, light and electricity and other kinds of power.</sent>
+				<sent id ="65">It is the main power of the industries of the country.</sent>
+				<sent id ="66">Gas is the raw material of fertilizer factories.</sent>
+				<sent id ="67">It is used to produce insecticides.</sent>
+				<sent id ="68">We use gas for cooking.</sent>
+				<sent id ="69">Gas is being used to run motorcars and baby-taxis.</sent>
+				<sent id ="70">The use of gas in our country is multi-dimensional.</sent>
+				<sent id ="71">Natural gas is our State resource.</sent>
+				<sent id ="72">The telephone is very important in modem living.</sent>
+				<sent id ="73">Many of our close relatives and friends live in different places of the country.</sent>
+				<sent id ="74">Many of them also live in foreign countries.</sent>
+				<sent id ="75">We talk to them over the telephone.</sent>
+				<sent id ="76">At present the mobile phone has brought about a revolution in communication.</sent>
+				<sent id ="77">Due to lack of proper drainage system, the environment is affected.</sent>
+				<sent id ="78">Introduction to Environment: Social Studies 145 Human beings are attacked with various diseases.</sent>
+				<sent id ="79">Generally the drainage system in our country is limited to the towns.</sent>
+				<sent id ="80">This system has been built in developed villages.</sent>
+				<sent id ="81">It is necessary to build up drainage system in all the villages.</sent>
+				<sent id ="82">There are post offices in the towns and villages of Bangladesh.</sent>
+				<sent id ="83">A post office has a postmaster and a peon.</sent>
+				<sent id ="84">We buy postcards and envelopes from the post offices to write letters to the relatives.</sent>
+				<sent id ="85">The postman delivers them to our homes.</sent>
+				<sent id ="86">We feel happy when he comes.</sent>
+				<sent id ="87">In some post offices there is arrangement for sending telegrams and making telephone calls.</sent>
+				<sent id ="88">There are clubs in big cities.</sent>
+				<sent id ="89">There are also clubs at thana/ upazila level.</sent>
+				<sent id ="90">Clubs have been formed in many villages too.</sent>
+				<sent id ="91">Many development activities are done through clubs.</sent>
+				<sent id ="92">We participate in entertainment activities in the clubs.</sent>
+				<sent id ="93">It is necessary to form clubs in those villages where there is no club.</sent>
+				<sent id ="94">There are libraries like clubs in towns and villages.</sent>
+				<sent id ="95">We will build up libraries in those villages where there is no library.</sent>
+				<sent id ="96">Games and sports are necessary for good health.</sent>
+				<sent id ="97">And 146 Our Social and State Resources playground is needed for this.</sent>
+				<sent id ="98">We will play various kinds of games in the playground.</sent>
+				<sent id ="99">Parks are built in towns.</sent>
+				<sent id ="100">People go to the parks to bring variety in a dull life.</sent>
+				<sent id ="101">Places of worship are built to observe religion.</sent>
+				<sent id ="102">We go to mosques, temples, churches and pagodas to perform religious activities.</sent>
+				<sent id ="103">We come to know about the important things of our own religions in these places.</sent>
+				<sent id ="104">Water, electricity and gas are State resources.</sent>
+				<sent id ="105">AH the people of the state have right to these resources.</sent>
+				<sent id ="106">We will never waste them.</sent>
+				<sent id ="107">We will use them according to our needs.</sent>
+				<sent id ="108">We will not use the lights and fans unnecessarily at home and school.</sent>
+				<sent id ="109">We will use as much water as we need.</sent>
+				<sent id ="110">We will switch off the fans and lights during the lunch period and after school.</sent>
+				<sent id ="111">We will not keep the gas cooker on in the kitchen.</sent>
+				<sent id ="112">We will make sure that the gas cooker is off.</sent>
+				<sent id ="113">Our resources are limited.</sent>
+				<sent id ="114">The country is overpopulated.</sent>
+				<sent id ="115">We will be losers if the resources are reduced quickly.</sent>
+				<sent id ="116">We will be economical in using water, electricity and gas.</sent>
+				<sent id ="117">We will take care of the books of the library.</sent>
+				<sent id ="118">We will read the library books and will not damage any book.</sent>
+				<sent id ="119">We will not make the park dirty by throwing away nuts, grams and chanachur.</sent>
+				<sent id ="120">We will not throw plastic bottles here and there.</sent>
+				<sent id ="121">We will not make the benches of the park dirty.</sent>
+				<sent id ="122">These are our social resources.</sent>
+				<sent id ="123">We ourselves use these things.</sent>
+				<sent id ="124">So it is our social duty and responsibility to take care of these things.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

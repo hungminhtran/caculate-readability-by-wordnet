@@ -1,0 +1,64 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.796</idno>
+				<idno type="Number of sentences">36</idno>
+				<idno type="Number of tokens">300</idno>
+				<idno type="Number of token types">147</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t8">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">A Call to Samuel There was a boy named Samuel.</sent>
+				<sent id ="2">His mother offered him to serve the Church.</sent>
+				<sent id ="3">So he served God in the Church.</sent>
+				<sent id ="4">Eli was the priest of the Church.</sent>
+				<sent id ="5">He taught Samuel how to serve God and listen to the divine wishes.</sent>
+				<sent id ="6">He ran up to Eli and said, Did you call me?</sent>
+				<sent id ="7">Here I am.</sent>
+				<sent id ="8">Eli replied, I did not call you, go and sleep.</sent>
+				<sent id ="9">So he went back and fell asleep.</sent>
+				<sent id ="10">But God called him again, Samuel!</sent>
+				<sent id ="11">Samuel woke up and went to Eli.</sent>
+				<sent id ="12">He said, Did you call me?</sent>
+				<sent id ="13">I am right here.</sent>
+				<sent id ="14">The priest said, I did not call you, my son, go back and sleep again.</sent>
+				<sent id ="15">Samuel did not yet know the Lord.</sent>
+				<sent id ="16">God never talked to him before.</sent>
+				<sent id ="17">So Samuel went back to sleep again.</sent>
+				<sent id ="18">God called Samuel for the third time, Samuel!</sent>
+				<sent id ="19">He again woke up and went to Eli.</sent>
+				<sent id ="20">In the same way he asked, Did you call me?</sent>
+				<sent id ="21">Here I am.</sent>
+				<sent id ="22">Now Eli understood that God Himself called Samuel.</sent>
+				<sent id ="23">So he said to Samuel, Go back and sleep.</sent>
+				<sent id ="24">If anyone calls you again, you will say: Speak, my Lord!</sent>
+				<sent id ="25">Your servant is listening to you.</sent>
+				<sent id ="26">So Samuel went back to his own place and lay down.</sent>
+				<sent id ="27">Your servant is listening to You.</sent>
+				<sent id ="28">It is not in our words alone.</sent>
+				<sent id ="29">We have to acquire some qualities in order to follow the divine wishes.</sent>
+				<sent id ="30">We must follow Jesus properly.</sent>
+				<sent id ="31">And we must study the Holy Bible, meditate deeply and pray to God.</sent>
+				<sent id ="32">Thus we can know our Lord Jesus and follow his path.</sent>
+				<sent id ="33">We must carefully listen to the God's call.</sent>
+				<sent id ="34">But the main objective is one and the same.</sent>
+				<sent id ="35">It is to love and serve God and His creation.</sent>
+				<sent id ="36">Many people sacrifised their lives at the call of God.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

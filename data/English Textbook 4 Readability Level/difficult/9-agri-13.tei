@@ -1,0 +1,103 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-13</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.285</idno>
+				<idno type="Number of sentences">75</idno>
+				<idno type="Number of tokens">959</idno>
+				<idno type="Number of token types">382</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t5">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Disease is developed in the body of the fish by the joint activities of germs of diseases and environmental persecution.</sent>
+				<sent id ="2">Generally diseases of fish can be developed for the following reasons.</sent>
+				<sent id ="3">Change of physical and chemical characteristics of water.</sent>
+				<sent id ="4">Malnutrition of want of standard food.</sent>
+				<sent id ="5">Injection by germs of diseases.</sent>
+				<sent id ="6">Attack by parasites.</sent>
+				<sent id ="7">Storing of more fish than the specified number.</sent>
+				<sent id ="8">Wearing off of the fins or development of scars on the skin.</sent>
+				<sent id ="9">Come out of eyes.</sent>
+				<sent id ="10">Swelling or dropping off of scales.</sent>
+				<sent id ="11">Development of spots on skin, fins or gills or presence of parasites.</sent>
+				<sent id ="12">Small white threading things can be seen on the body.</sent>
+				<sent id ="13">Rottening or dropping off of wings.</sent>
+				<sent id ="14">The head being bigger in comparison with the body or swelling or squeezing off of the belly.</sent>
+				<sent id ="15">Lack of general luster of growth of the fish.</sent>
+				<sent id ="16">Small white round spots or dots are seen on the head, dorsal side, fins.</sent>
+				<sent id ="17">Additional slippery substance is deposited on the surface of the body.</sent>
+				<sent id ="18">Fish moves slothfully and does not take any food.</sent>
+				<sent id ="19">Heavily infected fish dies readily.</sent>
+				<sent id ="20">During preparation of the pond proper quantity of lime should be used.</sent>
+				<sent id ="21">Potassium permanganate, at the rate of 100-150 gm per I metre, of depth in every decimal of the pond, should be sprinkled after mixing with water on.</sent>
+				<sent id ="22">The infected fish should be immersed for minutes under 2-3% saline water of 1 minute in 5% ammonium solution and released in the pond.</sent>
+				<sent id ="23">Firstly white spots appear on the tail and fins of fish.</sent>
+				<sent id ="24">The web of fins tear off.</sent>
+				<sent id ="25">The fins and the tail decay off gradually, As a result, fish losses its balance, the colour becomes pale and ultimately dies.</sent>
+				<sent id ="26">This disease can be prevented by previously applying 1kg salt and, 1 kg lime per decimal.</sent>
+				<sent id ="27">The fins of the infected fish should be cut off and should be washed in 2.5% saline solution.</sent>
+				<sent id ="28">The infected fish should be dipped in to solution, of 0.5 gm copper sulphate in 1 litre of water, for 1 hour and released in the pond.</sent>
+				<sent id ="29">Some liquid substances deposited in one or more than one organ of the body of the fish.</sent>
+				<sent id ="30">The scales become loose and swell.</sent>
+				<sent id ="31">Water come out through the rectum if the belly, if pressed.</sent>
+				<sent id ="32">Majority of the infected fish die.</sent>
+				<sent id ="33">During preparation of the pond 1 kg lime per decimal may be applied.</sent>
+				<sent id ="34">Fish infected by this disease can not be cured.</sent>
+				<sent id ="35">At the initial stage, application of potassium permanganate at the rate of 2 gm per cubic metre of water of the pond gives good result.</sent>
+				<sent id ="36">Terramycin should be mixed with food the rate of 100 mg per 1 kg of food and this should be fed for 7 days.</sent>
+				<sent id ="37">This is a fungal disease.</sent>
+				<sent id ="38">One type of fungus enters into the gills of fish and stops blood circulation.</sent>
+				<sent id ="39">As a result, the supply of food and oxygen to the Diseases of Fish and their control external part of the gill the stopped.</sent>
+				<sent id ="40">Deposition of excessive organic matter in the pond should not be allowed.</sent>
+				<sent id ="41">Lime should the applied at proper dose previously.</sent>
+				<sent id ="42">Generally the fish infected by this disease dies.</sent>
+				<sent id ="43">At the initial stage, the infected fish should be dipped in to a solution, of 5 mg.</sent>
+				<sent id ="44">copper sulphate in one litre of water for 5 minutes and released in the pond, good result can be expected from.</sent>
+				<sent id ="45">This disease develops by the attack of a type of parasite called Argulus.</sent>
+				<sent id ="46">Agrulus can not be seen by naked eyes.</sent>
+				<sent id ="47">Argulus sticks to. the fins or body of the fish with sucker and sucks blood.</sent>
+				<sent id ="48">Sores develop or, the body of the fish.</sent>
+				<sent id ="49">Fungi and bacteria infect the sores.</sent>
+				<sent id ="50">Infected fish moves with unnatural swift speed and begin to rub its body with hard things.</sent>
+				<sent id ="51">The environment of the pond should be kept clean and pollution free.</sent>
+				<sent id ="52">For every decimal of the pond 40 mg.</sent>
+				<sent id ="53">dipterex should be applied for I metre depth.</sent>
+				<sent id ="54">This should be applied twice in an interval of 7 days.</sent>
+				<sent id ="55">The infected fish may be dipped into 15-20 PPM formalin solutions and then released in the pond.</sent>
+				<sent id ="56">This disease is created at the primary stage by the viral infection and laterally by fungal or bacterial infection.</sent>
+				<sent id ="57">It is a contagious disease.</sent>
+				<sent id ="58">This disease develops in the adverse environment of the pond.</sent>
+				<sent id ="59">Firstly spots can be seen on the body of the fish.</sent>
+				<sent id ="60">Scales of the infected part drop off.</sent>
+				<sent id ="61">The red spots gradually turn into big sore.</sent>
+				<sent id ="62">The severity of this disease can be minimised by application of proper dose of lime during preparation of the pond. 1 kg.</sent>
+				<sent id ="63">lime and 1 kg salt per decimal of pond will have to be applied in the infected pond.</sent>
+				<sent id ="64">The infected fish should be dipped into 5PPM malakhite solution for 15 minutes and then released in released in the pond.</sent>
+				<sent id ="65">When a special type of mark or symptom develops on the body of the fish for want of a particular food nutrient then it is called diseases due to malnutrition.</sent>
+				<sent id ="66">In case of fish shortage of protein and vitamin can be noticed vigorously.</sent>
+				<sent id ="67">The growth of fish is greatly related for want of protein.</sent>
+				<sent id ="68">As a result, the head become big in comparison to its body, some parts of the body of the fish may be curved or crippled due to shortage of vitamins.</sent>
+				<sent id ="69">The infected fish gradually dies.</sent>
+				<sent id ="70">The fish should be fed protein, vitamin, mineral slat mixing in proper proportion with the supplementary food.</sent>
+				<sent id ="71">First of all keep-the diseased fish on the tray.</sent>
+				<sent id ="72">Observe the different parts of the body of fish.</sent>
+				<sent id ="73">Observe minutely the infected organ with magnifying glass.</sent>
+				<sent id ="74">Draw a diagram of the fish in the practical note book and mark the infected part.</sent>
+				<sent id ="75">Write down the symptoms and name of the diseases.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

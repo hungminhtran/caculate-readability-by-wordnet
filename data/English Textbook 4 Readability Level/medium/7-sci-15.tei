@@ -1,0 +1,101 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.918</idno>
+				<idno type="Number of sentences">73</idno>
+				<idno type="Number of tokens">933</idno>
+				<idno type="Number of token types">407</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t59">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Already you have learnt that the earth was very hot and in gaseous form at the time of its birth.</sent>
+				<sent id ="2">Gradually by radiating temperature, the earth first turned into molten form and then due to further cooling it was hardened.</sent>
+				<sent id ="3">This hard surface of the earth is named as crust.</sent>
+				<sent id ="4">The liquid part of under the crust is made of different elements.</sent>
+				<sent id ="5">This type of concentric layer within the interior of the earth is called layers of the interior of the earth.</sent>
+				<sent id ="6">The geologists have.</sent>
+				<sent id ="7">divided these layers into three classes.</sent>
+				<sent id ="8">The Lithosphere: The crust and its immediate lower portion together form the lithosphere.</sent>
+				<sent id ="9">The above thin layer of the lithosphere is called crust.</sent>
+				<sent id ="10">The depth of this lithosphere is 16 to 40 km.</sent>
+				<sent id ="11">The lithosphere is made by the elements such as- Oxygen, Silicon, Aluminium, Calcium, Sodium, Potassium etc.</sent>
+				<sent id ="12">We can divide this lithosphere into two parts viz- Sial and Sima.</sent>
+				<sent id ="13">The sial layer which is formed by silicon and aluminium is lighter than the layer of sima which is made by silicon and magnesium.</sent>
+				<sent id ="14">That is why this layer remain above of the layer sima.</sent>
+				<sent id ="15">Above of this lithosphere is surrounded by atmosphere.</sent>
+				<sent id ="16">Below of the lithosphere, there is a layer of about 2,885 km deep that is called the Mesosphere.</sent>
+				<sent id ="17">This layer is made of mainly silicon and magnesium.</sent>
+				<sent id ="18">This zone is quite hot and remains great pressure from all sides.</sent>
+				<sent id ="19">For this- reason, constituents of this layer is highly concentrated like pitch that means an intermediate state of solid and liquid.</sent>
+				<sent id ="20">The Barysphere is mainly made by heavy elements such as- Iron and nickel.</sent>
+				<sent id ="21">The hard surface that covers the earth is called crust of the earth.</sent>
+				<sent id ="22">This crust is made of various stones and mineral substances.</sent>
+				<sent id ="23">The elements by which the crust is formed are Oxygen, Silicon, Aluminium, Iron, Sodium, Calcium, Magnesium and Potassium.</sent>
+				<sent id ="24">But the average percentage of oxygen and silicon in rocks is 73.07%</sent>
+				<sent id ="25">and all the other elements together is 26.93%.</sent>
+				<sent id ="26">The earth is made of different rocks.</sent>
+				<sent id ="27">This rocks are composed of different minerals.</sent>
+				<sent id ="28">Two or more elements like- quartz, tale, topaz naturally forms minerals.</sent>
+				<sent id ="29">You might have noticed that the talcum powder that we use for our body is the powdered talc.</sent>
+				<sent id ="30">But small quantity of perfume and medicine needed to mix with this.</sent>
+				<sent id ="31">The components by which the crust form is called rock.</sent>
+				<sent id ="32">When two or more minerals aggregate then rock is formed.</sent>
+				<sent id ="33">Rock does not mean only the hard substances.</sent>
+				<sent id ="34">In higher class you will know that clay or sand is also a form of rock.</sent>
+				<sent id ="35">On the basis of their mole of formation rocks are classified into three classes.</sent>
+				<sent id ="36">Such as- Igneous or primary rock: viz- Granite, Basalt, Dolerite etc. Sedimentary or stratified rock: viz Sand stone, Lime stone, Coal, Marine salt etc.</sent>
+				<sent id ="37">As this rock is formed from the hot and molten matter, it is called igneous rock.</sent>
+				<sent id ="38">As this igneous rock has no layer so it is called unstratified rock.</sent>
+				<sent id ="39">This rock does not possess any fossil, so, it is called unfossilized rock also.</sent>
+				<sent id ="40">When animals, trees remain in between layers of rocks for millions of years then fossil is created.</sent>
+				<sent id ="41">Trees or any other animal turn into ashes or gases with the help of highly hotted molten matter.</sent>
+				<sent id ="42">That is why this igneous rock contains no fossil.</sent>
+				<sent id ="43">Initially the Igneous rock is divided into two parts.</sent>
+				<sent id ="44">viz- extrusive and intrusive igneous rock.</sent>
+				<sent id ="45">The crystals of this rock are finely grained and smooth.</sent>
+				<sent id ="46">For this reason, this type of rock is very hard.</sent>
+				<sent id ="47">Basalt, Pumice stone, Breccias, Tuff etc. are the examples of extrusive igneous rock.</sent>
+				<sent id ="48">Again, sometimes the molten materials of the interior of the earth solidify below the surface and form rock, this is called intrusive rock.</sent>
+				<sent id ="49">Granite and gabbros are the examples of intrusive rock.</sent>
+				<sent id ="50">Due to heat, rainfall, wind, snow, glacier, river, ocean's flow and wave, the Igneous rocks are pulverized and eroded to gravel, pebble and sand particle.</sent>
+				<sent id ="51">These eroded materials rowed by rivers flow and wind and deposited at the bottom of lake, sea and ocean in layers.</sent>
+				<sent id ="52">As this rock is made by sedimentation, it is called sedimentary rock.</sent>
+				<sent id ="53">This rock contains fossils.</sent>
+				<sent id ="54">As this rock is formed in layers, it is also called stratified rock.</sent>
+				<sent id ="55">The Himalayas and the Alps are the mountains formed by sedimentary rock.</sent>
+				<sent id ="56">Because of various regions Igneous rocks and sedimentary rocks remain in too much down from the subterranean in many places.</sent>
+				<sent id ="57">Due to tremendous heat pressure and chemical reactions these rocks transformed into a new rock.</sent>
+				<sent id ="58">For example- sand stone is changed into quartzite, limestone to marble, coal to graphite and clay to slate.</sent>
+				<sent id ="59">The Tajmohol is one of the seven wonders of the world.</sent>
+				<sent id ="60">This Tajmohol is made by marble rock.</sent>
+				<sent id ="61">It is a transformed form of rocks.</sent>
+				<sent id ="62">This rock is very hard, so it is not easily eroded.</sent>
+				<sent id ="63">Rock is useful to man in various ways.</sent>
+				<sent id ="64">Moreover, it is possible to do economic development of a country by importing and exporting rock.</sent>
+				<sent id ="65">The pulverized part of rocks mix with different organic substances to make soil.</sent>
+				<sent id ="66">On this soil people like and grow crops.</sent>
+				<sent id ="67">The quality and fertility, the capacity to retain water etc. depend on the rock below.</sent>
+				<sent id ="68">The water of a region depends on the type of the rock of that region.</sent>
+				<sent id ="69">Granite and basalt are used to construct road.</sent>
+				<sent id ="70">Limestone, sand stone and granite are used as mortar for constructing buildings.</sent>
+				<sent id ="71">Limestone is used to prepare lime and cement.</sent>
+				<sent id ="72">Coal and mineral oil are used as fuel.</sent>
+				<sent id ="73">Clay stone for example - china clay, fire clay, are used in pottery.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

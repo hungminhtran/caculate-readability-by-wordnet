@@ -1,0 +1,97 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.325</idno>
+				<idno type="Number of sentences">69</idno>
+				<idno type="Number of tokens">672</idno>
+				<idno type="Number of token types">328</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t79">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">No organism can survive without water.</sent>
+				<sent id ="2">Therefore, water is another name for life.</sent>
+				<sent id ="3">About 70% of our total body mass consists of water.</sent>
+				<sent id ="4">Almost three-fourths of the surface of the earth consists of water.</sent>
+				<sent id ="5">Water can be obtained from many different sources.</sent>
+				<sent id ="6">What sources of water are available in your locality?</sent>
+				<sent id ="7">Make a list of them.</sent>
+				<sent id ="8">Which sources of water are man-made?</sent>
+				<sent id ="9">People dig ponds, sink tube- wells and dig wells because of their own needs.</sent>
+				<sent id ="10">They create artificial fountains and lakes at various places for beautification.</sent>
+				<sent id ="11">They are manmade sources of water.</sent>
+				<sent id ="12">They are natural sources of water.</sent>
+				<sent id ="13">We drink water when we are thirsty.</sent>
+				<sent id ="14">Plants and other organisms also take water.</sent>
+				<sent id ="15">Lots of water is also used in factories, brick fields, and for agricultural purposes.</sent>
+				<sent id ="16">Agriculture, industries and fisheries all involve the use of large amounts of water.</sent>
+				<sent id ="17">The power of this current can be used to generate electricity.</sent>
+				<sent id ="18">Now you know what purposes water is used for.</sent>
+				<sent id ="19">Make a list of all the purposes for which water is used in your locality.</sent>
+				<sent id ="20">How does the water you use at home taste?</sent>
+				<sent id ="21">Do you like its taste?</sent>
+				<sent id ="22">Dissolve some salt in a glass of water and drink it.</sent>
+				<sent id ="23">How does the water taste?</sent>
+				<sent id ="24">This type of water does not taste good to human beings.</sent>
+				<sent id ="25">Seawater is salty.</sent>
+				<sent id ="26">Water which tastes salty is called salt water.</sent>
+				<sent id ="27">Water which is not salty is called fresh water.</sent>
+				<sent id ="28">Water is indispensable for the existence of life.</sent>
+				<sent id ="29">Water which contains dust particles and microbes of diseases is called polluted water.</sent>
+				<sent id ="30">If garbage is dumped in water, it becomes polluted.</sent>
+				<sent id ="31">Man is mainly responsible for the pollution of water.</sent>
+				<sent id ="32">Often industrial waste and toxic chemicals mix with water and cause it to become polluted.</sent>
+				<sent id ="33">Sometimes, fuel leaking from launches and steamers pollute water.</sent>
+				<sent id ="34">Plastic, polythene, sewage and decomposed bodies of animals mix with water and make it polluted.</sent>
+				<sent id ="35">Besides, jute, bamboo etc. left to rot in water also pollute it.</sent>
+				<sent id ="36">Another name for water is life.</sent>
+				<sent id ="37">The lives of all types of plants and animals depend on water.</sent>
+				<sent id ="38">They decay and cause the water to become tasteless and bad-smelling.</sent>
+				<sent id ="39">As a result of this, the oxygen in water decreases and aquatic organisms die.</sent>
+				<sent id ="40">Bathing in polluted water can cause many types of skin diseases.</sent>
+				<sent id ="41">Steps to stop water pollution Polluted water is harmful for our living.</sent>
+				<sent id ="42">So, the following steps must be taken in order to prevent water pollution.</sent>
+				<sent id ="43">Clay or cement walls must be raised around wells.</sent>
+				<sent id ="44">Industrial waste pollutes water.</sent>
+				<sent id ="45">So, industrial waste must be decontaminated before releasing it into water.</sent>
+				<sent id ="46">Excessive use of insecticides and chemical fertilizers must be stopped.</sent>
+				<sent id ="47">Organic fertilizers should be used instead of chemical ones.</sent>
+				<sent id ="48">So, water hyacinth plants should be cultured in polluted water bodies.</sent>
+				<sent id ="49">Clean water containing no microbes is called safe water.</sent>
+				<sent id ="50">In this chapter, you have learnt about various reasons as to why water becomes polluted.</sent>
+				<sent id ="51">You have also learnt about the harmful effects of using polluted water which contains microbes.</sent>
+				<sent id ="52">You have learnt how water in your locality can become polluted.</sent>
+				<sent id ="53">Water containing arsenic is poisonous, and it is not safe to drink.</sent>
+				<sent id ="54">If this water is drunk regularly, arsenic poisoning may occur within a few years.</sent>
+				<sent id ="55">Nausea and frequent discharge of the bowels occur.</sent>
+				<sent id ="56">A burning pain is felt in the anus.</sent>
+				<sent id ="57">The victim of the poisoning then becomes feverish and finds it hard to breathe.</sent>
+				<sent id ="58">The efficiency of the kidneys gradually decreases, and the patient often vomits blood.</sent>
+				<sent id ="59">He or she also suffers from jaundice and headache.</sent>
+				<sent id ="60">The patient slowly moves toward death.</sent>
+				<sent id ="61">At this stage, water must be disinfected by boiling prior to drinking.</sent>
+				<sent id ="62">But past this stage, it is hard to stop the disease.</sent>
+				<sent id ="63">Water is indispensable for our survival.</sent>
+				<sent id ="64">Water must not be wasted.</sent>
+				<sent id ="65">Water must not be polluted.</sent>
+				<sent id ="66">We must drink and use pure and safe water.</sent>
+				<sent id ="67">If required, help of the adults should be sought.</sent>
+				<sent id ="68">Beside them, write down the ways in which these cases of pollution can be prevented.</sent>
+				<sent id ="69">Ask your elders for help if needed.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

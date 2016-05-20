@@ -1,0 +1,159 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.854</idno>
+				<idno type="Number of sentences">131</idno>
+				<idno type="Number of tokens">1764</idno>
+				<idno type="Number of token types">627</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t169">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The things which are used as mediums or means of completing works are known as equipments.</sent>
+				<sent id ="2">The utensils, equipments, apparatus, which are used for performing daily activities are called household equipments.</sent>
+				<sent id ="3">For comfortable living, every family needs sufficient and useful commodities.</sent>
+				<sent id ="4">Suitable tools and instruments help women to perform various activities as well as grow more interest of women the housewife towards the work.</sent>
+				<sent id ="5">But for selecting and purchasing these equipments, one is to be careful and cautious.</sent>
+				<sent id ="6">One may waste his/her money if he/she does not have the knowledge of the product, price, sustainability of the thing and use of an instrument.</sent>
+				<sent id ="7">So, one should have the knowledge of principles of buying household commodities.</sent>
+				<sent id ="8">Otherwise he/she should seek advice from or take an experience person with him for going to purchase.</sent>
+				<sent id ="9">Before buying, one is to be acquainted with various household commodities.</sent>
+				<sent id ="10">A list of those tools and instruments is given below.</sent>
+				<sent id ="11">Some points are to be considered for buying household commodities and utensils.</sent>
+				<sent id ="12">If the buyer does not have an idea of it, he faces many problems in selecting the particular thing.</sent>
+				<sent id ="13">Some times choosing and selecting an article become difficult for the financial constraint.</sent>
+				<sent id ="14">In this case, an intelligent buyer selects the most necessary article and drops unnecessary articles from the list to meet the need of the time.</sent>
+				<sent id ="15">For household activities, many things are required.</sent>
+				<sent id ="16">Most of the families can not afford to buy all these things at a time.</sent>
+				<sent id ="17">So articles are bought according to the need.</sent>
+				<sent id ="18">Necessity determines which articles are to be given the most priority at the time of purchase and which are not.</sent>
+				<sent id ="19">This system is known as need based buying.</sent>
+				<sent id ="20">The members should discuss to decide what to buy to meet the need at present situation.</sent>
+				<sent id ="21">So we must think that the article which is needed the most should be purchased first.</sent>
+				<sent id ="22">In the same way the goods that satisfy our hunger should be given preference over luxurious goods.</sent>
+				<sent id ="23">Our demands should be adjusted with the budget.</sent>
+				<sent id ="24">We should consider our income to make a list of necessary things to be purchased.</sent>
+				<sent id ="25">n not make life successful.</sent>
+				<sent id ="26">Similarly it is not wise to buy household articles without planning.</sent>
+				<sent id ="27">First of all we must make a list of necessary things so that any essential item may not be dropped.</sent>
+				<sent id ="28">We have to consider how much the thing is required and how much it serves the need.</sent>
+				<sent id ="29">At the time of buying a cooker or chulla we must consider the size of the family.</sent>
+				<sent id ="30">Single family needs one-burner gas chulla but a joint family or a big family needs three or four-burner gas chulla at a time.</sent>
+				<sent id ="31">On the other hand a family in a village needs katcha chulla more than electric or gas chulla.</sent>
+				<sent id ="32">Wood is used for katcha chulla.</sent>
+				<sent id ="33">It is cheaper than other fuels and also available in the villages.</sent>
+				<sent id ="34">The food cooked in an earthen chulla is tasty and the cooking process can be finished within a short time.</sent>
+				<sent id ="35">The size and shape of the equipments should be in accordance with the size of he family.</sent>
+				<sent id ="36">Big sized equipments or utensils are needed for the big family.</sent>
+				<sent id ="37">These utensils must be strong and long lasting so that these are not easily damaged at frequent use.</sent>
+				<sent id ="38">Again before purchasing we must consider whether the article serves the purpose of the members.</sent>
+				<sent id ="39">Chairs and table for the children should not be the height of the elders.</sent>
+				<sent id ="40">These should be according to their height.</sent>
+				<sent id ="41">Only then the children will feel comfort for sitting on and studying.</sent>
+				<sent id ="42">The quality of the good should be befitting to the status of the family.</sent>
+				<sent id ="43">The standard depends upon the socio economic condition.</sent>
+				<sent id ="44">They must think about their financial limitation.</sent>
+				<sent id ="45">The aim of purchase planning should be to buy all goods according to the financial and social status of the family.</sent>
+				<sent id ="46">Only then it will be possible to keep the purchase within the budget.</sent>
+				<sent id ="47">The Planning of buying goods should be made to meet the future need of the family.</sent>
+				<sent id ="48">Pre-planning is important before purchase.</sent>
+				<sent id ="49">No equipment or utensil is bought to meet the need of one day.</sent>
+				<sent id ="50">Whatever may be the thing, it should meet the future need.</sent>
+				<sent id ="51">One should not buy things by imitating others or by the temporary beauty of the good.</sent>
+				<sent id ="52">But one can buy luxurious goods to beautify house, to fulfil desire or to feel comfort if one can afford it.</sent>
+				<sent id ="53">One should not hurry in buying.</sent>
+				<sent id ="54">Sufficient time should be kept for shopping.</sent>
+				<sent id ="55">It should be planned when one will get time, which time of the month or year is suitable for a good to be purchased.</sent>
+				<sent id ="56">If all these aspects are considered, one can buy good things in the market.</sent>
+				<sent id ="57">One should judge the quality of a good before purchase whether it is small or big.</sent>
+				<sent id ="58">A thing of good quality serves the aim and purpose.</sent>
+				<sent id ="59">It can be used at ease.</sent>
+				<sent id ="60">It will be cost effective also.</sent>
+				<sent id ="61">Excessive heavy and big sized articles are not always suitable.</sent>
+				<sent id ="62">Light, easily moveable articles are good for work.</sent>
+				<sent id ="63">Many equipments of modern design are available in the market.</sent>
+				<sent id ="64">Those who work outside and want to save time and energy can buy pressure cooker, electric iron, blender etc.</sent>
+				<sent id ="65">These things not only save time and energy but also ensure volume and standard of work.</sent>
+				<sent id ="66">Price determines the quality and services of the goods.</sent>
+				<sent id ="67">Some times cheap goods made of raw materials of our country are more qualitative and standard than foreign glittering goods.</sent>
+				<sent id ="68">Again it is wise to buy quality goods with a little high price than cheap goods of low quality.</sent>
+				<sent id ="69">Different metals or materials are used to prepare equipment according to the need and purpose of the work.</sent>
+				<sent id ="70">Whatever may be the metal used for the equipment, it should be suitable for use, care and preservation.</sent>
+				<sent id ="71">Kitchen utensils should be of aluminium, non-stick fry- pan for frying.</sent>
+				<sent id ="72">For the middle class people, iron frying pans may be used instead of non-stick frying pans.</sent>
+				<sent id ="73">For all time use, glass wares are not proper as they can be easily broken.</sent>
+				<sent id ="74">Instead of glass ware, one can use utensils of melamine, stainless steel, aluminium ware etc.</sent>
+				<sent id ="75">Yet some articles such as glass, plate, tea cup and plates, flower vase are more acceptable if they are made of glass.</sent>
+				<sent id ="76">Glass wares need more care.</sent>
+				<sent id ="77">Longevity of equipment depends on caring and storage system.</sent>
+				<sent id ="78">Structure depends upon the joints of the utensils.</sent>
+				<sent id ="79">It should be checked whether the joints are properly done.</sent>
+				<sent id ="80">Screws fixed on the joints of kitchen utensils are to be checked.</sent>
+				<sent id ="81">The handles are to be properly set with the pans.</sent>
+				<sent id ="82">Sometimes wooden articles are fixed with gum.</sent>
+				<sent id ="83">If the gum is of below quality, the parts are not fixed properly.</sent>
+				<sent id ="84">Even with a slight heat, the joints may get loose.</sent>
+				<sent id ="85">The handle of the frying pans should be of wood or good quality plastic because the handle of tin or iron becomes hot rapidly.</sent>
+				<sent id ="86">So it can not be used easily.</sent>
+				<sent id ="87">Some articles serve more than one purposes.</sent>
+				<sent id ="88">One should have more interest to buy those articles.</sent>
+				<sent id ="89">Due to insufficient space or financial limitation, one can use dining table for reading.</sent>
+				<sent id ="90">Thus the table serves double purposes.</sent>
+				<sent id ="91">Many of the goods have labels or seals on them.</sent>
+				<sent id ="92">The label tells about the methods of preparation, use, care, preservation, guarantee of the equipment.</sent>
+				<sent id ="93">From this label, durability and quality of a good can be assumed.</sent>
+				<sent id ="94">For this reason these label and seals are to be checked.</sent>
+				<sent id ="95">While purchasing one should verify the quality and effectiveness of household equipment.</sent>
+				<sent id ="96">There is a system of quality control of a good before marketing.</sent>
+				<sent id ="97">Goods should be supplied to market according to the standard.</sent>
+				<sent id ="98">Only then the buyer will get chance to verify it and feel secured to buy.</sent>
+				<sent id ="99">While purchasing it is seen that the price of a good is different in two shops side by side.</sent>
+				<sent id ="100">In this way the buyer can have some idea about the good and its utility.</sent>
+				<sent id ="101">Goods are sold in a reduction price one or more times a year.</sent>
+				<sent id ="102">On established and decorated shops goods are sold comparatively at a high rate.</sent>
+				<sent id ="103">They have to pay excess money for shop fare, decoration, salaries for salesmen etc.</sent>
+				<sent id ="104">These expenses are met by increasing the rate of price.</sent>
+				<sent id ="105">Goods of same quality can be bought from small shop at a less rate.</sent>
+				<sent id ="106">But before purchase goods are to be checked properly.</sent>
+				<sent id ="107">Country made goods differ in price compared to foreign goods.</sent>
+				<sent id ="108">Comparatively the foreign goods are of high price.</sent>
+				<sent id ="109">If the country made goods are not of below quality they should be bought.</sent>
+				<sent id ="110">The parts of the equipment are available and it can be easily repaired if necessary.</sent>
+				<sent id ="111">So if one has the idea of market price, he will not be befooled by the shopkeepers.</sent>
+				<sent id ="112">Purchasing at a reasonable rate depends upon the cooperation between buyers and sellers.</sent>
+				<sent id ="113">Both sellers and buyers should not treat each other as competitors.</sent>
+				<sent id ="114">If there is a good understanding between them, the salesmen will provide the customers with opportunity to select his required item.</sent>
+				<sent id ="115">At this the customers are benefited and the sellers are not losers.</sent>
+				<sent id ="116">If they give time to each other, they can establish good understanding.</sent>
+				<sent id ="117">Both sellers and customers should behave properly.</sent>
+				<sent id ="118">Then sellers will give accurate information about the goods.</sent>
+				<sent id ="119">And they will ask for reasonable price.</sent>
+				<sent id ="120">If the buyer can understand that the seller has demanded high price, he should try to convince him.</sent>
+				<sent id ="121">He can tell him about the cheap rate of other shops in a polite manner, and then he may buy it at a low price.</sent>
+				<sent id ="122">If the salesman is shown good behaviour, he will help to collect the necessary item of the customer in his own initiative.</sent>
+				<sent id ="123">Sometimes the salesman behaves rudely at the rough behaviour of the customer.</sent>
+				<sent id ="124">There are some buyers who have no desire to buy, but harass the seller by asking them to show various articles.</sent>
+				<sent id ="125">The sellers have long experience and they perceive the mentality of the buyers and in return they also behave in an improper way.</sent>
+				<sent id ="126">So both sides should show patience.</sent>
+				<sent id ="127">If the customer behaves nicely with the salesman, he may get the best thing in the shop.</sent>
+				<sent id ="128">After coming back to house, if he does not like the item he may return it.</sent>
+				<sent id ="129">The sellers also try to attract the customers with their good behaviour.</sent>
+				<sent id ="130">The buyers also should be diplomatic as the sellers.</sent>
+				<sent id ="131">One should never buy unnecessary and undesired things being persuaded by the tactful words of the sellers.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,53 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-bdGlobal-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.115</idno>
+				<idno type="Number of sentences">25</idno>
+				<idno type="Number of tokens">355</idno>
+				<idno type="Number of token types">197</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t25">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">No country in the world is solely independent.</sent>
+				<sent id ="2">Every country has to depend on others in some respect.</sent>
+				<sent id ="3">Every country wants to fulfil the demand of its own people as well as to make itself developed and rich.</sent>
+				<sent id ="4">And for this it has to take help and cooperation from a neighbouring country or others.</sent>
+				<sent id ="5">Keeping this objective of mutual cooperation in view, many organizations and alliances have developed in the world.</sent>
+				<sent id ="6">Such three organizations formed by the countries of south Asia are SAARC, ASEAN and BIMSTEC.</sent>
+				<sent id ="7">Let's now briefly discuss these three regional organizations.</sent>
+				<sent id ="8">SARC: SAARC was formed in 1985 with seven south Asian countries namely Bangladesh, India, Pakistan, Nepal, Bhutan, Sri Lanka and the Maldives.</sent>
+				<sent id ="9">The full name of the organization is South Asian Association for Regional Cooperation.</sent>
+				<sent id ="10">In the pact, cooperation in 9 sectors were mentioned such as, agriculture, weather, rural development, science, communication, education, environment and technical.</sent>
+				<sent id ="11">Later in 2005, Afghanistan became a member of SAARC.</sent>
+				<sent id ="12">The present members of SAARC are eight.</sent>
+				<sent id ="13">The Head Quarters of the organization is at Kathmandu in Nepal.</sent>
+				<sent id ="14">The main objectives of the organization are to solve the regional problems through mutual cooperation and the development of SAARC countries.</sent>
+				<sent id ="15">Besides, the leaders of these seven countries agreed on the development through mutual cooperation in terrorism, HIV/AIDS, commerce investment, education and environment.</sent>
+				<sent id ="16">It is a regional cooperation organization of south Asian countries.</sent>
+				<sent id ="17">The full name of the organisation is Association of South Asian Nations.</sent>
+				<sent id ="18">This cooperation organisation consists of ten countries.</sent>
+				<sent id ="19">They are Indonesia, Singapore, Philippines, Malaysia, Thailand, Brunei, Vietnam, Myanmar, Cambodia and Laos.</sent>
+				<sent id ="20">The Head Quarter of ASEAN is in Indonesian capital Jakarta.</sent>
+				<sent id ="21">The main objective of the association is mutual cooperation among members in the development of social, economic, cultural, scientific and technical fields.</sent>
+				<sent id ="22">The full name of BIMSTEC is Bay of Bengal Initiative for Multi Sector Technical and Economic Cooperation.</sent>
+				<sent id ="23">The member countries are Bangladesh, Sri Lanka, Thailand, Myanmar, Nepal and Bhutan.</sent>
+				<sent id ="24">At present the scope for cooperation among members has been extended.</sent>
+				<sent id ="25">Commerce, investment, technology, tourism, human resource development, agriculture, fisheries, transport and communication, medicine, textile, leather etc have been included in it.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

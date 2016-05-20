@@ -1,0 +1,135 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-budh-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.425</idno>
+				<idno type="Number of sentences">107</idno>
+				<idno type="Number of tokens">1337</idno>
+				<idno type="Number of token types">620</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t39">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Gautama Buddha advised the Bhikkhus at different times on various topics.</sent>
+				<sent id ="2">He proclaimed His doctrine to the laities too.</sent>
+				<sent id ="3">He recited the Sutras and explained them to the attendants.</sent>
+				<sent id ="4">Where and on what occasion these Sutras were manifested have been mentioned in the holy Tripitakas.</sent>
+				<sent id ="5">Nidhikanda Sutra includes in the Khuddaka Patho of the Sutrapitaka.</sent>
+				<sent id ="6">Once the Buddha was residing at Sravasti along with the Bhikkhu Sangha.</sent>
+				<sent id ="7">A rich merchant of that place showed his devotion and respect to the Buddha.</sent>
+				<sent id ="8">He often invited the Buddha with His disciples.</sent>
+				<sent id ="9">The merchant was very much wealthy.</sent>
+				<sent id ="10">He led an honest life.</sent>
+				<sent id ="11">All of a sudden, the king of the country was in need of money.</sent>
+				<sent id ="12">The king said to one of his attendants, Go to the merchant and ask him to come to me.</sent>
+				<sent id ="13">The attendants went to the merchant and said, The king has asked you to meet him.</sent>
+				<sent id ="14">At that very moment the merchant was engaged in serving the Buddha with food.</sent>
+				<sent id ="15">The merchant then said to the royal messenger, You please go now, I shall meet him later on.</sent>
+				<sent id ="16">I am now sowing the seeds of wealth.</sent>
+				<sent id ="17">Saying so, he again began to serve the Buddha and the Bhikkhu Sangha.</sent>
+				<sent id ="18">Saying so the Buddha recited the Nidhikanda Sutra.</sent>
+				<sent id ="19">The Pali word Nidhi means wealth.</sent>
+				<sent id ="20">The wealth is of two kinds--quantitative and qualitative.</sent>
+				<sent id ="21">Money, gold, diamond etc. are quantitative wealth while knowledge, wisdom and other virtues are the wealth of quality.</sent>
+				<sent id ="22">Kanda denotes the stem or the root of the plants.</sent>
+				<sent id ="23">So the meaning of Nidhikanda is the root of wealth kept hidden underground.</sent>
+				<sent id ="24">The virtues attained by human being follow him in the present and preceding lives.</sent>
+				<sent id ="25">This is the reason that the wealth of virtues is called the real wealth or nidhi.</sent>
+				<sent id ="26">Both money and wealth may be stolen or misappropriated by others.</sent>
+				<sent id ="27">Again this kind of wealth may be destroyed due to famine, flood or fire.</sent>
+				<sent id ="28">Even the king of the state may cease the wealth.</sent>
+				<sent id ="29">But the virtues earned by charity might never be wasted.</sent>
+				<sent id ="30">These virtues follow the person even in the next world after death.</sent>
+				<sent id ="31">So these virtues are the real wealth of human being.</sent>
+				<sent id ="32">We should try our best to earn these real virtues.</sent>
+				<sent id ="33">Money is necessary for livelihood.</sent>
+				<sent id ="34">Both money and wealth are further required to lead our mortal life.</sent>
+				<sent id ="35">But this kind of wealth is useless after death.</sent>
+				<sent id ="36">Man is reborn as soon as he dies.</sent>
+				<sent id ="37">To be born in a noble family we should earn the virtues.</sent>
+				<sent id ="38">These virtues are gained by founding the monastery and shrine.</sent>
+				<sent id ="39">Service to parents and the superiors help us earn the virtues.</sent>
+				<sent id ="40">Moreover, service to the poor and the sick bring happiness in our life.</sent>
+				<sent id ="41">The Nidhikanda Sutra will lead us to attain all these virtues.</sent>
+				<sent id ="42">Will this be helpful at the time of scarcity- thinking so the people keep their wealth into the deep cavity underground.</sent>
+				<sent id ="43">For saving from persecution of the ruler, stealing by the thief, debt, famine and danger, the people keep their wealth hidden underground.</sent>
+				<sent id ="44">In the nick of time the wealth put underground seldom brings good return.</sent>
+				<sent id ="45">This wealth of virtues can be claimed by none nor it be stolen by the thief.</sent>
+				<sent id ="46">So should the wise try their best to attain the virtues that follow them.</sent>
+				<sent id ="47">This wealth of virtues fulfils all desires of both men and deities and helps attain everything as prayed for.</sent>
+				<sent id ="48">Attracting colour, sweet voice.</sent>
+				<sent id ="49">healthy body, handsome face, sovereign lordship and noble family, all these qualities may be attained with the virtues earned.</sent>
+				<sent id ="50">30 Buddhist Religious Studies Predominance of the kingdom, the glory, the imperial happiness, divine contentment etc. are attained by proper application of the wealth.</sent>
+				<sent id ="51">Human excellence, heavenly pleasure and the happiness of Nibbana are attained with this virtue.</sent>
+				<sent id ="52">On attainment of this wealth he who perform, meditation with noble intention can achieve the skill, salvation and mental satisfaction.</sent>
+				<sent id ="53">The proper utilisation of wealth helps the owner to attain analytical knowledge, deliverance, perfection or Arahantship, self-Enlightenment and the Buddhahood.</sent>
+				<sent id ="54">These virtues are so supernatural that are appreciated by the learned ofprofound knowledge.</sent>
+				<sent id ="55">The Pali word Appamada means heedfulness, rightfulness or resolute and Vagga refers to the chapter or episode.</sent>
+				<sent id ="56">Here the actual meaning of Appamada is the interest to perform right activities faithfully.</sent>
+				<sent id ="57">So the righteous persons always perform their activities with self control and great devotion.</sent>
+				<sent id ="58">The devoted persons attain Nibbana conquering the cycle of birth and rebirth.</sent>
+				<sent id ="59">They remain immortal.</sent>
+				<sent id ="60">On the other hand the reckless are as same as the deceased.</sent>
+				<sent id ="61">Because they cannot control themselves.</sent>
+				<sent id ="62">So they are under control of birth and rebirth.</sent>
+				<sent id ="63">They can never attain Nibbana.</sent>
+				<sent id ="64">The Appamada Vagga has been taken from the Dhammapada.</sent>
+				<sent id ="65">It is a part of the Tripitaka.</sent>
+				<sent id ="66">There are more 25 vaggas like it i.e. the Dhammapada contains 26 vaggas.</sent>
+				<sent id ="67">English version : Distinctly understanding this difference, the wise intent on heedfulness rejoice in heedfulness, delighting in the realm of the Ariyas.</sent>
+				<sent id ="68">English version : The wise ones, ever meditative and steadfastly persevering, alone experience Nibbana, the incomparable freedom from bondage.</sent>
+				<sent id ="69">English version : Evergrows the glory of him who is energetic, mindful and pure in conduct discerning and self controlled, righteous and heedful.</sent>
+				<sent id ="70">English version : By effort and heedfulness, discipline and self control, let the wise one make for him an island which no flood can overwhelm.</sent>
+				<sent id ="71">English version : The foolish and ignorant indulge in heedlessness, but the wise one keeps his heedfulness as his best treasure.</sent>
+				<sent id ="72">English version : Do not give way to heedlessness.</sent>
+				<sent id ="73">Do not indulge in sensual pleasures.</sent>
+				<sent id ="74">Only the heedful and meditative attain great happiness.</sent>
+				<sent id ="75">English version : Heedful among the heedless, wide awake among the sleepy, the wise man advances like a swift horse leaving behind a weak jade.</sent>
+				<sent id ="76">English version : By heedfulness did Indra become the overlord of gods.</sent>
+				<sent id ="77">heedfulness is ever praised and heedlessness ever despised.</sent>
+				<sent id ="78">English version : The monk who delights in heedfulness and looks with fear at heedlessness, advances like fire burning all fetters small and large.</sent>
+				<sent id ="79">English version : The monk who delights in heedfulness and looks with fear at heedlessness will not fall.</sent>
+				<sent id ="80">He is close to Nibbana.</sent>
+				<sent id ="81">Shyamavati had great devotion to the Buddha while Magandhia was envious to Him.</sent>
+				<sent id ="82">Magandhia out of malice burnt Shyamavati to death along with her five hundred associates.</sent>
+				<sent id ="83">Devadatta who was also envious to Buddha tried always to endanger His life.</sent>
+				<sent id ="84">Devadatta appointed some expert archers with the help of the king Ajatsatru to kill the Buddha.</sent>
+				<sent id ="85">One of the best archers, shooted an arrow to the Buddha but surprisingly it came back.</sent>
+				<sent id ="86">After the incident he begged pardon and became the disciple of the Buddha along with all the members of his gang.</sent>
+				<sent id ="87">Later on Devadatta tried to kill the Buddha by throwing a heavy stone from a high hill.</sent>
+				<sent id ="88">Once again Devadatta set Nalagiri, a very large elephant intoxicating him with wine for killing the Buddha.</sent>
+				<sent id ="89">But the Buddha could save Himself twice by virtue of His amity and compassion.</sent>
+				<sent id ="90">Atlast Devadatta losing all his honour and prestige wanted to undertake refuge to the Buddha.</sent>
+				<sent id ="91">But he could not see the Buddha.</sent>
+				<sent id ="92">The earth split up and took him into the hell.</sent>
+				<sent id ="93">Pamada i.e. the heedlessness destroys completely the human life.</sent>
+				<sent id ="94">So the heedlessness should be avoided.</sent>
+				<sent id ="95">Asoka became the emperor by killing his 99 brothers.</sent>
+				<sent id ="96">Later, he fought against Kalinga (Orissa).</sent>
+				<sent id ="97">In this fight one and a half lac of people were killed.</sent>
+				<sent id ="98">The bloodshed of the battle field brought an unprecedented change in his life.</sent>
+				<sent id ="99">He became a heedful emperor.</sent>
+				<sent id ="100">He took the vow to conquer the countries with amity instead of fighting.</sent>
+				<sent id ="101">He embraced Buddhism taking ordination to Bhikkhu Upagupta.</sent>
+				<sent id ="102">Since then Asoka ruled over the subjects with heedfulness through out his life.</sent>
+				<sent id ="103">He stressed to live a virtuous life.</sent>
+				<sent id ="104">He prohibitted killing animals.</sent>
+				<sent id ="105">He observed heedfulness as the best wealth till his death.</sent>
+				<sent id ="106">Everybody should therefore, dedicate himself to lead a heedful life.</sent>
+				<sent id ="107">It is possible to establish our life avoiding all sorts of heedlessness.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

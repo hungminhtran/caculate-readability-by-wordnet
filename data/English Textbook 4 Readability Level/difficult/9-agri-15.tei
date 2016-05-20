@@ -1,0 +1,120 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.325</idno>
+				<idno type="Number of sentences">92</idno>
+				<idno type="Number of tokens">1348</idno>
+				<idno type="Number of token types">497</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t7">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Fertilized eggs are used for incubation.</sent>
+				<sent id ="2">The eggs capable of producing chicks are called fertilized eggs.</sent>
+				<sent id ="3">Before hatching the eggs have to be selected.</sent>
+				<sent id ="4">One cock in every 8-10 hens will have to be reared for getting fertilized eggs.</sent>
+				<sent id ="5">The following things will have to be considered in selecting eggs.</sent>
+				<sent id ="6">The Size of the Egg : Medium sized eggs are best for hatching.</sent>
+				<sent id ="7">Eggs having unnatural size and thin shell should be avoided.</sent>
+				<sent id ="8">Only eggs having smooth, thick and hard shell should be selected.</sent>
+				<sent id ="9">Colour of the Shell : Depending on variety, the hen lays eggs of different colour.</sent>
+				<sent id ="10">The colour of the shell may be white, brown, black or blackish.</sent>
+				<sent id ="11">Eggs should be selected depending on the variety, which gives the particular coloured eggs.</sent>
+				<sent id ="12">Cracked Eggs : Crackedd eggs should be avoided.</sent>
+				<sent id ="13">This may be determined by the sound developed by hitting one egg with the other.</sent>
+				<sent id ="14">The Characteristics of the Egg's Internal Composition : If the inside of the egg is transparent and the yolk is in the middle then the egg should be selected for hatching.</sent>
+				<sent id ="15">Cleanliness of the Egg : During selection it is to be ascertained whether the eggs are clean.</sent>
+				<sent id ="16">Dirty eggs will have been cleaned with piece of cloth.</sent>
+				<sent id ="17">The Weight of the Egg : The weight of the egg of an improved variety should be 50-60 gm.</sent>
+				<sent id ="18">The egg should never be washed in water.</sent>
+				<sent id ="19">Age of the Egg : The age of the egg to be hatched should never be more than 3-4 days during summer and 7-10 days during winter.</sent>
+				<sent id ="20">Hatching process depends on the preservation methods of the eggs.</sent>
+				<sent id ="21">So during the preservation of selected eggs, the following things must be considered.</sent>
+				<sent id ="22">Age of the Egg : Eggs can be preserved 7-10 days during winter and 3-4 days during summer.</sent>
+				<sent id ="23">If preserved for more days, the eggs do not hatch.</sent>
+				<sent id ="24">Temperature : The ideal temperature for egg preservation is between 10?-15?C.</sent>
+				<sent id ="25">Eggs in big hatcheries should be preserved in air conditioned room.</sent>
+				<sent id ="26">During preservation the broad portion of the egg should be placed in the upper side and the tapering portion should be in the lower side.</sent>
+				<sent id ="27">Relative Humidity (RH) : The ideal humidity of egg preservation should be between 75-80%.</sent>
+				<sent id ="28">Low humidity decreases hatching capacity.</sent>
+				<sent id ="29">Cleanliness : Eggs should always be preserved in clean place.</sent>
+				<sent id ="30">Because the pores of the shell may be closed with dirty materials and this might destort respiration of the embryo.</sent>
+				<sent id ="31">Artificial Method : Incubation of eggs in a specially manufactured instrument maintaining proper temperature is called artificial incubation.</sent>
+				<sent id ="32">In this method a good number of eggs can be incubated.</sent>
+				<sent id ="33">There are 2 methods of artificial incubation, such as Incubation and Husk method.</sent>
+				<sent id ="34">Incubation Method : This method of incubation is the most modern and improved system.</sent>
+				<sent id ="35">This method is followed in big poultry farms.</sent>
+				<sent id ="36">The kerosene incubator is operated with kerosene oil.</sent>
+				<sent id ="37">50 to 500 eggs can be hatched in this incubator.</sent>
+				<sent id ="38">This method of incubation is followed in areas where there is no electricity.</sent>
+				<sent id ="39">It is less costly too.</sent>
+				<sent id ="40">Relative Humidity: In kerosene or electric incubator the relative humidity for the first 18 days should be 50%-60% and for the next 3 days 65%-75%.</sent>
+				<sent id ="41">Turning of Eggs : Turning of eggs should be done 8 times daily e.g. after every three hours.</sent>
+				<sent id ="42">In case of improved incubator turning of egg is done automatically with the help of a timer.</sent>
+				<sent id ="43">In case of kerosene incubator turning of egg is done with the help of U shaped wire.</sent>
+				<sent id ="44">Placing the Eggs : Eggs should be placed in incubation tray so that tapering side of the egg lies downward and the broader side lies at 45?</sent>
+				<sent id ="45">angle Examination of Eggs : Eggs are examined in the seventh day in a dark room with the help of a torch light or an electric bulb.</sent>
+				<sent id ="46">If enough blood vessels are found in the middle and the side then it is to be understood that the embryo is developing, the egg is fertilized and it will hatch.</sent>
+				<sent id ="47">Re-examination is done in the 14th day.</sent>
+				<sent id ="48">Intake of oxygen and outlet of carbon dioxide of the egg is necessary for the development of the embryo: For this reason proper ventilation system is maintained in the incubator.</sent>
+				<sent id ="49">Transfer of Eggs from Setting Tray to Hatching Tray : Generally eggs are transferred from setting tray to hatching tray on the 19th day.</sent>
+				<sent id ="50">The newly born chicks came out of the egg in this tray.</sent>
+				<sent id ="51">Cleanliness : After and before every incubation the incubator should be cleaned with clean water mixed with geimicide.</sent>
+				<sent id ="52">After making germ-free the incubator should be fumigated.</sent>
+				<sent id ="53">For, fumigation of eggs, rates measuring only third of the above mentioned doses of the incubation.</sent>
+				<sent id ="54">Fumigation : For an incubator of 100 cft.</sent>
+				<sent id ="55">80 cc (40%), formalin with 40 gm. potassium permanganate should be kept in the incubator.</sent>
+				<sent id ="56">By this all germs of the incubator will die.</sent>
+				<sent id ="57">The process is called fumigation.</sent>
+				<sent id ="58">This is an ancient method.</sent>
+				<sent id ="59">This method is followed in rural areas having no electricity.</sent>
+				<sent id ="60">In husk method the eggs of both duck and hen can be incubated.</sent>
+				<sent id ="61">But in our country this method is mainly followed for incubating duck eggs.</sent>
+				<sent id ="62">When a hen hatches the fertilized eggs with the help of its body temperature it is called natural method of incubation.</sent>
+				<sent id ="63">This is very old method.</sent>
+				<sent id ="64">Natural method of incubation is followed in almost every village of Bangladesh.</sent>
+				<sent id ="65">Country breeds of hens are used in this method.</sent>
+				<sent id ="66">Country hens, after giving eggs for some days, become broody and tends to sit on eggs, 8-10 eggs can be kept under such a healthy broody hen.</sent>
+				<sent id ="67">In the first stage a small basket or a bowl can be filled with straws and dried leaves.</sent>
+				<sent id ="68">By making hole in the basket with the help of hands soft littre is prepared for the hen.</sent>
+				<sent id ="69">This basket is to be kept in a solitary place of the house so as to avoid noise.</sent>
+				<sent id ="70">The nest should be 37 cm. diametre and 10 cm. If the area of the nest is bigger than the eggs will move more problems may arise in hatching and the eggs may be broken even.</sent>
+				<sent id ="71">Before the hen sits on the eggs, it should be fed with granular food and water.</sent>
+				<sent id ="72">To start with some bad eggs may be kept under the hen so as to make it habituated for brooding.</sent>
+				<sent id ="73">When it will be habituated for brooding then 8-10 fertilized eggs can be kept under the hen and the bad ones should be taken out.</sent>
+				<sent id ="74">The nest of the hen may be covered with cloth, Hessian or straw.</sent>
+				<sent id ="75">Granular food and water should be kept near the nest of the hen.</sent>
+				<sent id ="76">Every day at a definite time the hen should be allowed to move about.</sent>
+				<sent id ="77">After 8-10 days the eggs should be examined in sunlight The presence of embryo may be indicated by a black mark in the egg.</sent>
+				<sent id ="78">After 21 to 23 days the chicks will be coming out of the eggs, The hen looks after the chicks for 2 months.</sent>
+				<sent id ="79">Then they will be able to move independently.</sent>
+				<sent id ="80">The Advantages of Natural Incubation This method is less costly and provides more security.</sent>
+				<sent id ="81">Human care is not a necessity; the hen itself looks after the chicks.</sent>
+				<sent id ="82">Hen under one year age can not be used for brooding.</sent>
+				<sent id ="83">These hens may stop brooding after 10-15 days.</sent>
+				<sent id ="84">Only when the hen tends to brood, only then the eggs should be kept under it.</sent>
+				<sent id ="85">Hens can not be used for brooding at the time of molting.</sent>
+				<sent id ="86">The hen and its nest should be treated with insecticides like gamaxone, sodium chloride dust.</sent>
+				<sent id ="87">The house should be neat and clean.</sent>
+				<sent id ="88">The hen should be allowed to sit on eggs during night.</sent>
+				<sent id ="89">By this, there is every possibility of hatching the eggs at night after 21 days.</sent>
+				<sent id ="90">Separate the eggs on the basis of the structure in order to select the fertilizer egg.</sent>
+				<sent id ="91">Hold the eggs in the light and examine the inner characteristics.</sent>
+				<sent id ="92">Separate the eggs which are not suitable for hatching, and describe the causes mentioning the serial numbers.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,70 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.932</idno>
+				<idno type="Number of sentences">42</idno>
+				<idno type="Number of tokens">570</idno>
+				<idno type="Number of token types">286</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t50">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Bangladesh is a country of six seasons.</sent>
+				<sent id ="2">Every year we experience them one after another: summer, rainy season, autumn, late autumn, winter and spring.</sent>
+				<sent id ="3">In summer, it is quite hot during the day and also during the night.</sent>
+				<sent id ="4">In this season, sunflower, jasmine, butterfly pea (aparajita), and different types of lilies bloom.</sent>
+				<sent id ="5">In the rainy season, the sky is covered with dense clouds, and heavy rainfall occurs.</sent>
+				<sent id ="6">Flowers such as dolonchampa, tagar, kamini, gandharaj, canna, dopati etc. bloom in this season.</sent>
+				<sent id ="7">Thatch grass (kash) flowers are the speciality of autumn.</sent>
+				<sent id ="8">Apart from this, night jasmine, elengi (bakul) and queen of the night (hasnahena) flowers also bloom during this season.</sent>
+				<sent id ="9">The greatest diversity of flowers can probably be seen during the winter.</sent>
+				<sent id ="10">Flowers such as calendula, marigold, zinnia, cosmos, dahlia, chrysanthemum etc. blossom in winter.</sent>
+				<sent id ="11">Although different flowers bloom in different seasons, flowers such as rose, china rose, tuberose etc. blossom throughout the year.</sent>
+				<sent id ="12">In order to plant a flower plant, the soil must first be prepared accordingly.</sent>
+				<sent id ="13">Flower plants grow well in loamy soil.</sent>
+				<sent id ="14">Soil prepared in gardens or pots can be used to plant flower seedlings or grafts.</sent>
+				<sent id ="15">A graft can be prepared in a very simple way.</sent>
+				<sent id ="16">Cut and take a branch of a money-plant, rangan or a tagar plant, including the leaves.</sent>
+				<sent id ="17">Immerse the base of the branch in a bottle filled with water.</sent>
+				<sent id ="18">Make sure that the water in the bottle does not dry up.</sent>
+				<sent id ="19">After a few days you will observe that roots have grown from the base of the branch.</sent>
+				<sent id ="20">In higher classes you will learn about other methods of preparing grafts.</sent>
+				<sent id ="21">Just as various flowers bloom during the six seasons in our country, various fruits also grow at the same time.</sent>
+				<sent id ="22">Apart from these, banana, papaya, coconut etc. grow more or less throughout the year.</sent>
+				<sent id ="23">Like flower trees, fruit plants can also be planted in the soil and in pots.</sent>
+				<sent id ="24">Loamy soil is good for fruit trees.</sent>
+				<sent id ="25">The soil should be prepared by mixing it with fertilizers in order to plant trees.</sent>
+				<sent id ="26">If trees are planted early in the rainy season, they grow quickly because of rainfall.</sent>
+				<sent id ="27">It must be made sure that water does not accumulate at the base of the plant.</sent>
+				<sent id ="28">Weeding should be done regularly.</sent>
+				<sent id ="29">The base of the tree should be watered frequently during the dry season.</sent>
+				<sent id ="30">You should plant flower plants and fruit trees around your houses and in suitable vacant places in your school.</sent>
+				<sent id ="31">The pit should be kept like this for a few days.</sent>
+				<sent id ="32">Sometimes it is necessary to provide a support for the stems of the seedlings to help it stand upright.</sent>
+				<sent id ="33">Many different kinds of vegetables also grow in our country.</sent>
+				<sent id ="34">Vegetables that are grown from April to September are known as summer vegetables.</sent>
+				<sent id ="35">Palwal (patal), okra, pumpkin, cucumber, ribbed gourd, kakrol, bitter gourd (karala), amaranth etc. are summer vegetables.</sent>
+				<sent id ="36">The vegetables which are grown from October to March are called winter vegetables.</sent>
+				<sent id ="37">Tomato, bottle gourd, bean, cauliflower, cabbage, radish, carrot, pea, Indian spinach etc. are winter vegetables.</sent>
+				<sent id ="38">Plantain, papaya, eggplant, Indian spinach etc. are available almost throughout the year.</sent>
+				<sent id ="39">You can try to grow vegetables or flowers in any empty patches of land around your house or school.</sent>
+				<sent id ="40">If no such places are available at all, you can try planting vegetables in pots.</sent>
+				<sent id ="41">Loamy soil is ideal for growing vegetables.</sent>
+				<sent id ="42">The soil must be prepared well by adding sufficient organic fertilizer to it.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

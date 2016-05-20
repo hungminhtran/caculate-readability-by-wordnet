@@ -1,0 +1,99 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-bdGlobal-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.961</idno>
+				<idno type="Number of sentences">71</idno>
+				<idno type="Number of tokens">924</idno>
+				<idno type="Number of token types">449</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t95">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Every society has certain rules, regulations, values, beliefs, and ideals.</sent>
+				<sent id ="2">People of a society are to learn them through many processes.</sent>
+				<sent id ="3">These processes are known as socialisation.</sent>
+				<sent id ="4">It helps human beings to grow up with expected behaviour and makes them suitable for the society they live.</sent>
+				<sent id ="5">Socialisation is an ongoing process until death.</sent>
+				<sent id ="6">Socialisation is necessary for the proper development of an individual.</sent>
+				<sent id ="7">From birth, a child starts learning different kinds of laws, rules, and regulations of a society.</sent>
+				<sent id ="8">This is what we call the process of socialisation.</sent>
+				<sent id ="9">This chapter focuses on roles of some institutions in the process.</sent>
+				<sent id ="10">Local society: The local society has the most important roles in socialization after the parents.</sent>
+				<sent id ="11">A child grows up by observing his surroundings and learning rules and regulations, and behaviour.</sent>
+				<sent id ="12">Thus he develops social behaviour and is familiar with social customs.</sent>
+				<sent id ="13">The gesture and posture of the people, and the values he observes influence his behaviour.</sent>
+				<sent id ="14">Different elements of a local society: Different elements of a local society include literary circles, cultural organizations, sports clubs, music institutions, science clubs etc.</sent>
+				<sent id ="15">These locally developed organizations affect a person's way of thinking, attitude to life, and behavioural pattern.</sent>
+				<sent id ="16">People involve themselves with these organizations to sharpen cognitive, aesthetic, and other softer aspects of life by socializing with others in these places.</sent>
+				<sent id ="17">Thus they develop adaptability in them and become a part of that society.</sent>
+				<sent id ="18">Contemporaries: Contemporaries also play important roles in the process of socialization.</sent>
+				<sent id ="19">Children naturally play with their contemporaries when they are in their teens.</sent>
+				<sent id ="20">During this period, they learn many things from their friends.</sent>
+				<sent id ="21">They influence each other through their conversations, behaviour, and attitudes.</sent>
+				<sent id ="22">In this way, they develop fellow feelings, cooperation, patience, and qualities of leadership.</sent>
+				<sent id ="23">Educational institutions: Educational institutions provide opportunities for children to interact and influence each other.</sent>
+				<sent id ="24">Thus, educational institutions have important roles in the process of socialization.</sent>
+				<sent id ="25">Political institutions: Political parties, their leaders and different kinds of movements are also important in socialization.</sent>
+				<sent id ="26">They play their roles by organizing people and increasing their consciousness.</sent>
+				<sent id ="27">News papers, radio, television, cinema are called mass media as they are some means to present news, opinions, and entertainments to mass people.</sent>
+				<sent id ="28">On the other hand, information and communications technology is that through which information can be preserved and used such as internet, phone etc.</sent>
+				<sent id ="29">Media, and information and communication technology have strong roles now a days in socialization.</sent>
+				<sent id ="30">This role is on the rise as technology is in progress everyday.</sent>
+				<sent id ="31">Newspapers: Newspapers too play significant roles in socialization.</sent>
+				<sent id ="32">In developing countries like ours, newspapers are an effective means of mass education.</sent>
+				<sent id ="33">It helps create true pictures about own society and the universe and broadens insight.</sent>
+				<sent id ="34">It improves our patience, fellow feelings, universal thinking.</sent>
+				<sent id ="35">Radio: Radio broadcasts not only news but also different types of educational and entertaining programs.</sent>
+				<sent id ="36">It increases consciousness among mass people and develops cultural insight.</sent>
+				<sent id ="37">Television: Television is another strong and popular media all over the world at the present time.</sent>
+				<sent id ="38">It manipulates human thinking and life style in different ways.</sent>
+				<sent id ="39">It presents various kinds of entertaining programes along with informative and educative programes to entertain and educate people.</sent>
+				<sent id ="40">Television has huge influence over people and children.</sent>
+				<sent id ="41">This influence can be interpreted both in the negative and positive ways.</sent>
+				<sent id ="42">Informative and educative programes can enlighten people if presented in attractive ways.</sent>
+				<sent id ="43">Television can maximise patriotic feelings among new generations by introducing them to their country, cultural aspects, and traditions.</sent>
+				<sent id ="44">It makes the task of socialization easy.</sent>
+				<sent id ="45">In contrast, cheap entertainments or sub-standard programes cast adverse impact on society especially on children.</sent>
+				<sent id ="46">As a result, they grow up with sick mentality and perversion.</sent>
+				<sent id ="47">Too much addiction to television hampers students studies too.</sent>
+				<sent id ="48">Cinema: Pleasant, decent, and educative cinema can be an influential medium for socialization through recreation.</sent>
+				<sent id ="49">It enhances values, humanity, and fellow feelings.</sent>
+				<sent id ="50">On the other hand, vulgar or indecent cinema has adverse impact on human values and taste.</sent>
+				<sent id ="51">It creates negative influence on a society too.</sent>
+				<sent id ="52">In that case in stead of enhancing socialization, it works as a tool to increase crimes and anarchy by destroying values.</sent>
+				<sent id ="53">Influence of information and communication technology: People's communications at home and abroad has been easy due to internet.</sent>
+				<sent id ="54">Social communications, exchange of feelings and emotions with friends and family members, or business deals are possible now from homes very easily.</sent>
+				<sent id ="55">This was unthought-of previously.</sent>
+				<sent id ="56">Thus communications technology is playing an important role in social development through socialization.</sent>
+				<sent id ="57">Electronic mail: E-mail is a commonly used term now a days.</sent>
+				<sent id ="58">It stands for electronic mail.</sent>
+				<sent id ="59">It is used to exchange letters, and information at home and aboard with less time and expenditure.</sent>
+				<sent id ="60">Email has revolutionized the field of communications worldwide.</sent>
+				<sent id ="61">In recent times, it has effective influence on social development through personal communications.</sent>
+				<sent id ="62">E-mail has no alternative to expanding our talents and thoughts as well as to keep pace with the ever changing world.</sent>
+				<sent id ="63">Electronic commerce: E-commerce stands for electronic commerce.</sent>
+				<sent id ="64">A customer and a trader can do business online through this system.</sent>
+				<sent id ="65">Facebook and Twitter: Facebook and Twitter help communicate with people at home and abroad as well as make new friends, and exchange opinions and photos/pictures.</sent>
+				<sent id ="66">The present world has acknowledged them as effective means of social networking.</sent>
+				<sent id ="67">Their importance is increasing day by day.</sent>
+				<sent id ="68">However, Facebook and Twitter have some negative aspects too like all other scientific innovations.</sent>
+				<sent id ="69">Their abuse can be destructive for individual and social life.</sent>
+				<sent id ="70">The negative impact of Facebook and Twitter on our young generation is commonly heard these days.</sent>
+				<sent id ="71">We have to be aware of these.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

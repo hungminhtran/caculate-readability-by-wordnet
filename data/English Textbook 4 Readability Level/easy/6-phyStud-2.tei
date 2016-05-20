@@ -1,0 +1,123 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-phyStud-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.394</idno>
+				<idno type="Number of sentences">95</idno>
+				<idno type="Number of tokens">1250</idno>
+				<idno type="Number of token types">438</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t113">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">As a result, sports, games and physical exercises become more attractive.</sent>
+				<sent id ="2">Through this play the students can learn the ball throwing and catching neatly.</sent>
+				<sent id ="3">The techniques of bowling of cricket and other games will easily be learned.</sent>
+				<sent id ="4">The players of A Team will stand feet apart and will throw the ball very high.</sent>
+				<sent id ="5">Always the ball should be thrown directly towards the opposite players.</sent>
+				<sent id ="6">At the time of throwing the ball the opposite leg of the throwing hand will come forward.</sent>
+				<sent id ="7">1) The fingers of both the hands taken together a cup or a funnel is to be made.</sent>
+				<sent id ="8">2) The ball is to be caught with close fist and firmly.</sent>
+				<sent id ="9">To catch the ball always keep the eyes on the ball.</sent>
+				<sent id ="10">The ball should have to be caught with promptness.</sent>
+				<sent id ="11">A B both the groups should be habituated to catch the hail.</sent>
+				<sent id ="12">To skip with rope is a delightful game and very useful for the development 0 the body.</sent>
+				<sent id ="13">Equipment: Skipping rope.</sent>
+				<sent id ="14">By holding the two ends of the rope with two hands one is to skip with single leg rhythmically.</sent>
+				<sent id ="15">In between skipping the leg can be changed.</sent>
+				<sent id ="16">In this way as far as possible practice can be done in one spot or on moving forward.</sent>
+				<sent id ="17">Some technique discussed above in single leg skipping is to be applied.</sent>
+				<sent id ="18">The only difference is instead of single leg double leg will be used (Figure B.).</sent>
+				<sent id ="19">Two players will skip with one rope simultaneously.</sent>
+				<sent id ="20">When a few stand in a circle one will move a rope round the circle.</sent>
+				<sent id ="21">All will have to jump over the rope.</sent>
+				<sent id ="22">Games played with the help of hoops build the habit of perseverance and self control and also give pleasure.</sent>
+				<sent id ="23">Equipment: Bamboo, cane, steel made hoops or ring.</sent>
+				<sent id ="24">The diameter of the ring will be 1 8 to 24 inches.</sent>
+				<sent id ="25">Stand in a ring placed on the ground.</sent>
+				<sent id ="26">After this maintain balance changing the hand and the foot as sown in the picture.</sent>
+				<sent id ="27">3, For maintaining balance keep the leg and the hip straight.</sent>
+				<sent id ="28">Standing in the ring keep weight on the right leg at first, fold the left knee and raise up.</sent>
+				<sent id ="29">Now as shown in the picture hold the knees with two hands against the chest.</sent>
+				<sent id ="30">In this way alternately lift the right and left knee and pratise.</sent>
+				<sent id ="31">During practice of maintaining balance keep the backbone and the hand as for as possible straight.</sent>
+				<sent id ="32">Firstly one should sit in kneel down position in the ring.</sent>
+				<sent id ="33">Keeping the breathing natural hold this position for 20-30 seconds.</sent>
+				<sent id ="34">In this way the practicing for maintenance of balance will be done for 3 to 4 times.</sent>
+				<sent id ="35">Besides, if one can maintain balance in various ways in the ring as shown in the picture below.</sent>
+				<sent id ="36">(B) Put a ring in a slanting position towards yourself.</sent>
+				<sent id ="37">The ring will move in its own orbit by itself.</sent>
+				<sent id ="38">In this moving ring try to cross through it.</sent>
+				<sent id ="39">Sometimes jump over to cross it and catch it before t lands on the ground.</sent>
+				<sent id ="40">The sticks should be 1 to 3 hands long and round with a smooth surface.</sent>
+				<sent id ="41">After this return to the first position.</sent>
+				<sent id ="42">In this way practice 3 to 4 times.</sent>
+				<sent id ="43">Two players will sit on the ground with their legs straight having their feet placed with one another.</sent>
+				<sent id ="44">Sitting on the ground by bending the knees hold ends of a two hand long stick firmly with two hands.</sent>
+				<sent id ="45">Relax the body and come to the primary stage and do the exercise for several times.</sent>
+				<sent id ="46">With feet little apart two players will stand face to face keeping 5 to 6 feet distance from one another.</sent>
+				<sent id ="47">Immediately he will extend his two hands and hand over the stick to his partner with a small push.</sent>
+				<sent id ="48">The receiver will always keep his eyes on the stick.</sent>
+				<sent id ="49">Practise this exercise of stick for several times.</sent>
+				<sent id ="50">This game can be played by dividing the students into two groups.</sent>
+				<sent id ="51">Everyone will stand at a distance of 30 to 30 metres.</sent>
+				<sent id ="52">The stick will remain in the left hand of the first layer.</sent>
+				<sent id ="53">With the starting signal the first player will start running.</sent>
+				<sent id ="54">After the change of the stick he will change the stick from his right hand to his left hand.</sent>
+				<sent id ="55">The time should not be wasted to exchange the stick.</sent>
+				<sent id ="56">For increasing the strength and development of muscles of the body rope climbing is a romantic feeling.</sent>
+				<sent id ="57">Through this game courage and tolerance are increased.</sent>
+				<sent id ="58">These are much needed in life.</sent>
+				<sent id ="59">The practice is to be done with hanging a rope knotted at a distance of one hand.</sent>
+				<sent id ="60">Climb up with the help of the hand by the unknotted rope.</sent>
+				<sent id ="61">The practice of climbing a rope with the help of two hands and two legs.</sent>
+				<sent id ="62">To hang in a swing rope, to swing in a hanging rope etc. may be practised.</sent>
+				<sent id ="63">To hang like Tarzan in a swinging rope.</sent>
+				<sent id ="64">With the help of rope swing like a cradle.</sent>
+				<sent id ="65">Roll in different posture on a low bench: Equipment: a low bench 18 inches high hand or 5/6 feet long.</sent>
+				<sent id ="66">All players will stand at one end of the bench in a starting line.</sent>
+				<sent id ="67">Before the start of roll or somersault two helpers will stand by the two sides of the bench.</sent>
+				<sent id ="68">With the signal of starting the students will do front roll in turns.</sent>
+				<sent id ="69">After this they will practise back roll.</sent>
+				<sent id ="70">Stand on low parallel bars in different ways Parallel bars is a kind of attractive playing equipment.</sent>
+				<sent id ="71">With its help through body movement the muscles of the body and nerves get conditioned.</sent>
+				<sent id ="72">Equipment: Low parallel bars and mats which can be made locally by bamboo and wood.</sent>
+				<sent id ="73">Preparation: First body should be warmed up then all will come to the starting line in a file.</sent>
+				<sent id ="74">Two persons are to stand as helpers on two sides of the bars.</sent>
+				<sent id ="75">The two bars of the parallel bars are to be caught with two hands.</sent>
+				<sent id ="76">With the help of the hands after a mount in parallel bars students will take their position on it.</sent>
+				<sent id ="77">Parallel bars is to be mounted with the help of pressing the hands.</sent>
+				<sent id ="78">After a little swing the legs will go over the bars and spread on the two sides of the bars.</sent>
+				<sent id ="79">After practising from one end to the other end dismount from the bars with a little jump.</sent>
+				<sent id ="80">Standing on the shoulder and the hands on low parallel bars: The body will be in forward position.</sent>
+				<sent id ="81">Keeping the weight on the upper part of the arms, the legs should be raised.</sent>
+				<sent id ="82">The weight of the body will be carried on one shoulder.</sent>
+				<sent id ="83">In this position two hands will hold the two bars firmly.</sent>
+				<sent id ="84">Mounting, dismounting and showing different kinds of feats on vaulting box are enjoyable game.</sent>
+				<sent id ="85">These games develop fastness and physical skill.</sent>
+				<sent id ="86">Equipment: vaulting box, mat.</sent>
+				<sent id ="87">These could be made locally with wood.</sent>
+				<sent id ="88">Two helpers will stand at the take off point and another at the landing point on the mat.</sent>
+				<sent id ="89">The vaulting box should be placed crosswise to practise the exercises.</sent>
+				<sent id ="90">After this he will jump down on the mat.</sent>
+				<sent id ="91">In this way every player will practise several times.</sent>
+				<sent id ="92">Teach front roll on soft soil or grass before teaching the partner Dive Roll on mat.</sent>
+				<sent id ="93">After completing his dive roll he will take position as the first player did.</sent>
+				<sent id ="94">This is the prophet pro cedure to learn dive roll and in it you will find pleasure.</sent>
+				<sent id ="95">Dive roll can be practiced competitively by dividing students in two groups.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

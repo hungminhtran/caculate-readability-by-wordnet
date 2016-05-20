@@ -1,0 +1,87 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-sci-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.311</idno>
+				<idno type="Number of sentences">59</idno>
+				<idno type="Number of tokens">624</idno>
+				<idno type="Number of token types">299</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t30">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">They have to study and know about new and current information.</sent>
+				<sent id ="2">Human race is different from birds and animals.</sent>
+				<sent id ="3">You may have noticed that they do not have to learn anything new to survive.</sent>
+				<sent id ="4">But we have to learn to survive.</sent>
+				<sent id ="5">When a child is born, he remains totally helpless.</sent>
+				<sent id ="6">His mother rears him up with a lot of care and attention.</sent>
+				<sent id ="7">The mother has to know many things to help the child grow up properly.</sent>
+				<sent id ="8">She learns the things from other members of the family or from doctors or nurses.</sent>
+				<sent id ="9">She also learns many things from radio or TV.</sent>
+				<sent id ="10">The children also start learning new things as they grow up.</sent>
+				<sent id ="11">They go to school after growing up a little more.</sent>
+				<sent id ="12">Information and Knowledge do not mean the same.</sent>
+				<sent id ="13">It is not good enough to have information.</sent>
+				<sent id ="14">Information needs to be applied also.</sent>
+				<sent id ="15">Application of information can be termed as Knowledge.</sent>
+				<sent id ="16">You can easily understand this from the following example.</sent>
+				<sent id ="17">The marks obtained by a student of your class is information.</sent>
+				<sent id ="18">But if you study the figures in details, your knowledge will increase.</sent>
+				<sent id ="19">This means that English was not taught well in your class.</sent>
+				<sent id ="20">You will then study more and try to learn English well.</sent>
+				<sent id ="21">From the information you will be able to seek new knowledge.</sent>
+				<sent id ="22">You will be able to apply your knowledge properly in your life.</sent>
+				<sent id ="23">Many people in our country think that information is knowledge.</sent>
+				<sent id ="24">They force the students to memorise the information given in the textbooks at the schools.</sent>
+				<sent id ="25">You must have understood by now the necessity of information.</sent>
+				<sent id ="26">The capability to use information is Knowledge.</sent>
+				<sent id ="27">Therefore if there is no information, there will be no knowledge.</sent>
+				<sent id ="28">Scientists extract new knowledge by using new information.</sent>
+				<sent id ="29">Government needs to have information, old and new to run the country well.</sent>
+				<sent id ="30">Therefore information is essential for a better way of life.</sent>
+				<sent id ="31">But information has to be correct and has to reach concerned people in proper time.</sent>
+				<sent id ="32">There was a time when information could not be stored or preserved.</sent>
+				<sent id ="33">People used to store information in their mind.</sent>
+				<sent id ="34">When they used to get old, they used to transfer the information to other people.</sent>
+				<sent id ="35">Men for the first time started preserving information when they learnt how to write.</sent>
+				<sent id ="36">People used to write books by hands, before the printing machine was invented.</sent>
+				<sent id ="37">This is why there was limited number of books in the world.</sent>
+				<sent id ="38">Only a few lucky persons could read those books.</sent>
+				<sent id ="39">After the printing press was invented ordinary people also had the chance to read books.</sent>
+				<sent id ="40">Information also has been stored as photographs, images of books, films, and audios.</sent>
+				<sent id ="41">Fig: A lot of information are preserved in Library books.</sent>
+				<sent id ="42">People started preserving information in a new system after computer was invented.</sent>
+				<sent id ="43">This is known as Digital System.</sent>
+				<sent id ="44">This system can help to store a large volume of information within a smaller space.</sent>
+				<sent id ="45">If you just collect and store information, your work does not finish.</sent>
+				<sent id ="46">Information has to be sent from one place to another.</sent>
+				<sent id ="47">We can send letters by postal system.</sent>
+				<sent id ="48">You all have seen telephones.</sent>
+				<sent id ="49">Anyone can talk with another person through a telephone.</sent>
+				<sent id ="50">Now mobile phones have been invented.</sent>
+				<sent id ="51">We can carry a mobile phone in our pocket to any place we go.</sent>
+				<sent id ="52">Computer networks are now widely used for exchanging information.</sent>
+				<sent id ="53">This system is known as Internet.</sent>
+				<sent id ="54">Not only that one can find lots of information stored in different computers.</sent>
+				<sent id ="55">The current world depends heavily on the internet system.</sent>
+				<sent id ="56">If you wish you can start collecting information even from now.</sent>
+				<sent id ="57">We give below a few ideas which you can use.</sent>
+				<sent id ="58">Along with these you can also use your own ideas.</sent>
+				<sent id ="59">Remember, your duty does not finish with collection of information this way.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

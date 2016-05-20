@@ -1,0 +1,159 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-budh-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.142</idno>
+				<idno type="Number of sentences">131</idno>
+				<idno type="Number of tokens">1779</idno>
+				<idno type="Number of token types">712</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t102">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">After the death of Bindusar his son Ashok ascended the throne of Magadha in the year 273 B.C.</sent>
+				<sent id ="2">He was not only the greatest Emperor of the Maurya dynasty but also Emperor like him is very rare to find out in this world.</sent>
+				<sent id ="3">As per the historian Wells, he was the greatest Emperor in the world.</sent>
+				<sent id ="4">In early life Ashok was very cruel.</sent>
+				<sent id ="5">After the death of Bindusar, there was a quarrel between Ashok and his brothers with regard to ascending the throne.</sent>
+				<sent id ="6">For the first four years after the death of his father, he was engaged in war with his brothers.</sent>
+				<sent id ="7">It is said that he killed his 99 brothers in the war and took the kingship.</sent>
+				<sent id ="8">During the later part of the reign of Bindusar, there was a revolt in Taxila.</sent>
+				<sent id ="9">Crown prince Ashok was sent to bring under control, the rebellion.</sent>
+				<sent id ="10">There he brought under control the rebellion showing might and strength.</sent>
+				<sent id ="11">Eight years after the Coronation he conquered Kalinga.</sent>
+				<sent id ="12">But the massive destructions caused by the war of Kalinga has saddened him very much.</sent>
+				<sent id ="13">Many others also died.</sent>
+				<sent id ="14">At the destructions of this war, he became intensely sorrowful mentally.</sent>
+				<sent id ="15">In exchange of victory over the countries he saw bloodshed and horror.</sent>
+				<sent id ="16">As a result, he was suffering from regrets, repentance and inner contradictions in mind.</sent>
+				<sent id ="17">Even after three years of Coronation, Ashok was a follower or devotee of the heretics for three years.</sent>
+				<sent id ="18">One day standing on the main gate symbolized with lion, he was observing the beauty of Patliputra.</sent>
+				<sent id ="19">He was sad and emotional.</sent>
+				<sent id ="20">At that time a calm and quiet, restrained seven years old Sraman was slowly passing by the courtyard.</sent>
+				<sent id ="21">At the very sight of his gentle movement, there arose a sense of reverence in the mind of the Emperor.</sent>
+				<sent id ="22">This boy was the Nigrodha Samanera.</sent>
+				<sent id ="23">He was the son of the first son, crown prince Suman of king Bindusar.</sent>
+				<sent id ="24">He sent the minister to call the boy.</sent>
+				<sent id ="25">The Sraman entered the palace with his alms-bowl.</sent>
+				<sent id ="26">He wanted to hear from him the immortal words of the Buddha.</sent>
+				<sent id ="27">Nigrodha Sraman explained the verses of the Apramada Varga from the Dharmapada.</sent>
+				<sent id ="28">He embraced the doctrine of the Buddha from him.</sent>
+				<sent id ="29">From that day he desired to conquer the minds of men.</sent>
+				<sent id ="30">He renounced the strong desire from his mind to conquer the world.</sent>
+				<sent id ="31">The ill-famed cruel Condashok in his early life became the Dharmashok.</sent>
+				<sent id ="32">To conquer with the Dharma became his constant endeavour of his life.</sent>
+				<sent id ="33">Ashok had a magnanimous heart.</sent>
+				<sent id ="34">His great effort, genius and generosity have endowed him greatness.</sent>
+				<sent id ="35">His place as an Emperor is second to none.</sent>
+				<sent id ="36">He paid great reverence to the Buddha.</sent>
+				<sent id ="37">But he did not feel any kind of hatred to the Brahmins, Jains and Ajivakas.</sent>
+				<sent id ="38">At that time the religious attitude was extreme.</sent>
+				<sent id ="39">The feelings of hatred between the Buddhists, Jains and Brahmins became extreme.</sent>
+				<sent id ="40">He established the unity among the different castes and the followers of the religions by following the principle of tolerance of other's views.</sent>
+				<sent id ="41">He created a human bondage.</sent>
+				<sent id ="42">He dreamt to establish an united Jambudvipa (India).</sent>
+				<sent id ="43">During his life he became successful.</sent>
+				<sent id ="44">Ashok was a cruel fighter and an intelligent politician.</sent>
+				<sent id ="45">By incorporating humanism in the constitution he conquered the whole world.</sent>
+				<sent id ="46">His state policy, social policy and the policy of religion were really dedicated to the welfare of mankind.</sent>
+				<sent id ="47">Conquest and Propagation of Dharma Emperor Ashok became famous in the world as the great propagater of the Bouddhadharma.</sent>
+				<sent id ="48">He stopped the traditional pleasure trips of the Maurya Emperor.</sent>
+				<sent id ="49">In place of it, he arranged the religious tour, to propagate the words of the Buddha and to visit the religious places.</sent>
+				<sent id ="50">He appointed a special class of officials named Dharma Mahapatra (minister for religious affairs) to propagate the Dharma.</sent>
+				<sent id ="51">They used to propagate the principles of the Dharma in the cities, rural areas and everywhere.</sent>
+				<sent id ="52">He himself visited the places bearing the memories of the Buddha.</sent>
+				<sent id ="53">During his reign India achieved tremendous mastery in the fields of worldly and non-worldly improvements.</sent>
+				<sent id ="54">The political, social and religious history of the ancient India cannot be thought of without the presence of Emperor Ashok.</sent>
+				<sent id ="55">Taxila, Maharastra, Kashmir, Himachal, Kalinga, Vindhachal, Kamrup, East Bengal, in fact, all the kings of Ariyavarta demonstrated loyalty to his conquest of Dharma.</sent>
+				<sent id ="56">Basically, this Ariyavarta was known as Jambudvip in the Buddhist technical term, although its boundary was more expanded.</sent>
+				<sent id ="57">His political revolution was totally involved with the religious revolution.</sent>
+				<sent id ="58">Not conquering the kingdom but by promoting the Dharma he promoted the moral life of human beings.</sent>
+				<sent id ="59">His edict mentioned that : Propagation of Dharma is a great deed.</sent>
+				<sent id ="60">It is impossible for an immoral person to preach and practise the Dharma.</sent>
+				<sent id ="61">The superiority and development in practising the Dharma are desirable this aim is to expand (rock edict No. .</sent>
+				<sent id ="62">After the third Buddhist Council held in Ashokarama, Patliputra, he sent the religious messengers all over India and outside India to propagate the Dharma.</sent>
+				<sent id ="63">It is mentioned in the stone edict that he sent preachers of the Dharma to different kingdoms of the world.</sent>
+				<sent id ="64">There were special improvements in the arts of sculpture and architecture during the reign of Ashok.</sent>
+				<sent id ="65">He constructed a palace made of stones in place of a palace made of wood by Chandragupta.</sent>
+				<sent id ="66">He constructed many stups, pillars, cavehouses and monasteries in the books named Mahabangsa and Dipabangsa, there are descriptions of construction of 84000 monasteries and stups.</sent>
+				<sent id ="67">He was an ideal Emperor and an ideal man.</sent>
+				<sent id ="68">He discarded his own happiness.</sent>
+				<sent id ="69">To do good to the subjects was the chief object of his life.</sent>
+				<sent id ="70">Emperor Ashok, extraordinary activists, expert administrator, virtuous and humanitarian king after reigning for forty years died in the year 232 B.C.</sent>
+				<sent id ="71">He became immortal in the history of the world as the greatest patron of the Dharma of the Buddha.</sent>
+				<sent id ="72">Though Buddhist had significant influence in the ages of Maurya, it somewhat declined during the Sunga dynasty.</sent>
+				<sent id ="73">Again during Kushan days it was again resurrected.</sent>
+				<sent id ="74">The Emperor Kaniska was a great patron of the BouddhaDharma.</sent>
+				<sent id ="75">The Kushans were the branch of the U-chi race who came from the Chinese border.</sent>
+				<sent id ="76">The U-chi race lived in the border of China.</sent>
+				<sent id ="77">In course of time they defeated Sakyas and started living on the bank of the river Bakkhu.</sent>
+				<sent id ="78">Afterwards capturing the kingdom of Bahalika, they gave up the nomadic profession.</sent>
+				<sent id ="79">Out of the five branches of the U-chi race the Kushans became very powerful.</sent>
+				<sent id ="80">Kaniska was the greatest and most powerful of the Kushan dynasty.</sent>
+				<sent id ="81">At his time Kashmir, Kasagar of the eastern Turky, arkand, khotan and other places came under the empire of the Kushan.</sent>
+				<sent id ="82">His Empire spread from middle Asia to Kasai, He defeated the Emperor of China and detained the prince of China on bail.</sent>
+				<sent id ="83">The king of Patliputra was also defeated by Kaniska.</sent>
+				<sent id ="84">The capital of Kaniska was Puruspur (modern Peshwar).</sent>
+				<sent id ="85">The fame of Emperor Kaniska was more in his propagation of the Bouddha- Dharma than in his rulling the empire.</sent>
+				<sent id ="86">He also achieved fame as a great Emperor like the Emperor Ashok by preaching Buddhism.</sent>
+				<sent id ="87">At first he concentrated in spreading the empire.</sent>
+				<sent id ="88">But after that the state policy became the rule of the Dharma.</sent>
+				<sent id ="89">After capturing Patliputra, on his way back he brought with him a wooden statue of the Buddha, an alms-bowl; and the great poet Asvaghosh.</sent>
+				<sent id ="90">He established that statue of the Buddha and the alms bowl in Puruspur.</sent>
+				<sent id ="91">He requested Asvaghosh, to stay in the monastery of Puruspur.</sent>
+				<sent id ="92">Asvaghosh was at the same time a great poet, philosopher and renowned monk.</sent>
+				<sent id ="93">In course of time the monastery of Puruspur became known as the monastery of Kaniska.</sent>
+				<sent id ="94">In the book Sutralankar of Asvaghosh, there is a short description of conquests in Eastern India.</sent>
+				<sent id ="95">To commemorate of his conquest of Patliputra he constructed stup and monastery in Puruspur.</sent>
+				<sent id ="96">The Mahayana Buddhists (Mahayanists) placed him as a god.</sent>
+				<sent id ="97">The history of Kaniska is, very important for two reasons.</sent>
+				<sent id ="98">First, when he ascended the throne, from that time Shak Era started to be counted.</sent>
+				<sent id ="99">Secondly, as a sincere patron of the Bouddhadharma, he convened the Buddhist Conference in Kaniska Vihar at Jalandhar.</sent>
+				<sent id ="100">After embracing the Bouddhadharma, he used to practise the doctrine of the Buddha after the state works i.e. at the leisure period.</sent>
+				<sent id ="101">He was confused at the different explanations on the words of the Buddha.</sent>
+				<sent id ="102">He found out after investigation that there was a difference of opinion among the Sangha regarding the basic principle of the Bouddhadharma.</sent>
+				<sent id ="103">He convened a Conference with the help of his religious teacher Parsva.</sent>
+				<sent id ="104">This great Conference was held under the Presidentship of the renowned philosopher Vasumitra.</sent>
+				<sent id ="105">Out of the monks, five hundred monks were selected for the working committee.</sent>
+				<sent id ="106">Here Asvaghosh was present as the Vice-President.</sent>
+				<sent id ="107">They unitedly compiled a book of commentary of the Tripitak named Mahavibhasa.</sent>
+				<sent id ="108">In this Conference the main Tripitak was not collected.</sent>
+				<sent id ="109">The scripture Mahavibhasa was compiled in Sanskrit language instead of Pali language.</sent>
+				<sent id ="110">It was corrected by Asvaghosh.</sent>
+				<sent id ="111">The scripture Mahavibhasa was the main scripture of the Sarvastivadins.</sent>
+				<sent id ="112">It was considered as the book of commentary of the scripture Jnano Prasthana.</sent>
+				<sent id ="113">For this reason this Conference was also called as the Sarvastivadin Conference.</sent>
+				<sent id ="114">The Abhidharma kosh of Basubandhu was written in imitation of the scripture Mahavibhasa.</sent>
+				<sent id ="115">After the Conference this scripture was preserved encraving on the copper plates.</sent>
+				<sent id ="116">In this Conference the Sarvastivadins played a great role.</sent>
+				<sent id ="117">In the content of compilation of the Mahayana scriptures, the importance of this Conference was very much.</sent>
+				<sent id ="118">After the Conference the preachers of the Dharma were sent to different places.</sent>
+				<sent id ="119">The Sarvastivad bearing the name of Mahayana entered into Tibet, Mongalia, China, Japan, Vietnam, Korea and other places.</sent>
+				<sent id ="120">Kaniska was keen on literature.</sent>
+				<sent id ="121">He erected stup on sacred relics of the Buddha.</sent>
+				<sent id ="122">Though the Buddhist art and sculpture came into being during the Maurya Era actually these were developed during the reign of Kushan.</sent>
+				<sent id ="123">At the time of Kaniska the statue of the Buddha came into existence.</sent>
+				<sent id ="124">In the Ist century A.D. the Gandhar arts flourished in Gandhar area in accordance with the arts and sculptures of the Greek.</sent>
+				<sent id ="125">The Greek idea interacting with Buddhism changed its form and contents.</sent>
+				<sent id ="126">After the Emperor Ashok, the Kushan Emperor Kaniska established the Indian art and sculpture outside India.</sent>
+				<sent id ="127">Art, culture and sculpture introduced by the Kushan Emperor expanded in China, Tibet, Mongolia, Korea and Japan.</sent>
+				<sent id ="128">The Buddhist artists travelled to those countries at the time of spreading of the Dharma by the religious teachers or monks.</sent>
+				<sent id ="129">Mainly the Kushan art found its manifestation in two ways.</sent>
+				<sent id ="130">One is the Gandhar art and the other Mathur art.</sent>
+				<sent id ="131">Humanism deeply inspired the work of art in both the schools.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

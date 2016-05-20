@@ -1,0 +1,110 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.349</idno>
+				<idno type="Number of sentences">82</idno>
+				<idno type="Number of tokens">889</idno>
+				<idno type="Number of token types">384</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t28">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Once upon a time Jesus went to Capernaum.</sent>
+				<sent id ="2">The people came to know that he was there.</sent>
+				<sent id ="3">So many people gathered there in the house that there was hardly any room.</sent>
+				<sent id ="4">Jesus was telling them about God's love for man.</sent>
+				<sent id ="5">Just at that time four persons brought a paralytic on a stretcher.</sent>
+				<sent id ="6">But they could not get near Jesus because of the crowd.</sent>
+				<sent id ="7">Seeing their faith he told the paralytic: My son, your sins are forgiven.</sent>
+				<sent id ="8">At that time some teachers of religion were sitting there.</sent>
+				<sent id ="9">They thought to themselves: Why does Jesus tell such a thing?</sent>
+				<sent id ="10">Does he decry God? Who can forgive sin except God?</sent>
+				<sent id ="11">As Jesus could read their mind, he replied: Why do you think so?</sent>
+				<sent id ="12">He told that paralyzed man: I tell you, get up.</sent>
+				<sent id ="13">Take up your mat and go home.</sent>
+				<sent id ="14">The paralyzed man promptly got up, and taking up his mat went out walking in the sight of all.</sent>
+				<sent id ="15">Everybody was astonished at seeing that.</sent>
+				<sent id ="16">They glorified God saying, We have never seen anything like this.</sent>
+				<sent id ="17">Jesus cured the paralyzed man.</sent>
+				<sent id ="18">Those who were present there knew that only God could forgive sins.</sent>
+				<sent id ="19">They were right.</sent>
+				<sent id ="20">Except God nobody could forgive sin.</sent>
+				<sent id ="21">However, they did not know that Jesus himself was God.</sent>
+				<sent id ="22">They did not have the faith to believe that God had sent His own Son into this world.</sent>
+				<sent id ="23">They could neither believe in Jesus teaching nor in his works.</sent>
+				<sent id ="24">But we know that Jesus was born in the form of man, even though he was God.</sent>
+				<sent id ="25">Jesus proclaimed that the Son of Man has the authority to forgive sins.</sent>
+				<sent id ="26">So he cured the paralyzed man.</sent>
+				<sent id ="27">Jesus can cure not only the physical diseases but also the spiritual ones.</sent>
+				<sent id ="28">To be free from disease in a true sense one must healthy spiritually also.</sent>
+				<sent id ="29">Jesus the Lord came into this world so that mankind could be saved from their sins.</sent>
+				<sent id ="30">And in this way man can also attain new life by being cured spiritually.</sent>
+				<sent id ="31">All people do not have the same faith in Jesus.</sent>
+				<sent id ="32">There are people who accept Jesus with complete faith and without doubt.</sent>
+				<sent id ="33">They think Jesus is the true God.</sent>
+				<sent id ="34">He can forgive the sins of man.</sent>
+				<sent id ="35">But there are people who think that Jesus is just a man like us.</sent>
+				<sent id ="36">We know that Jesus is the Son of God.</sent>
+				<sent id ="37">We believe that he can forgive our sins and those of others.</sent>
+				<sent id ="38">We will ask for his forgiveness for our sins.</sent>
+				<sent id ="39">Jesus Christ is true God and true man.</sent>
+				<sent id ="40">Even though He is God, he became man and took on himself our human nature.</sent>
+				<sent id ="41">He became man in order to free us from our sin.</sent>
+				<sent id ="42">He took flesh in the womb of the Virgin Mary (Mariam).</sent>
+				<sent id ="43">For this reason the holy child will be called the Son of God .</sent>
+				<sent id ="44">Even the demons or unclean spirits confessed that Jesus was the Son of God.</sent>
+				<sent id ="45">Jesus drove Angel Gabriel comes with a message to Mary out the evil spirits from many people.</sent>
+				<sent id ="46">But while leaving their victims the evil spirits said loudly, You are the son of God.</sent>
+				<sent id ="47">But Jesus sternly ordered the evil spirits not to tell who he was.</sent>
+				<sent id ="48">Because they knew that he was the Christ.</sent>
+				<sent id ="49">Once two people possessed by demons came out of the graveyard and moved towards Jesus.</sent>
+				<sent id ="50">They were so fierce that nobody could go through that road.</sent>
+				<sent id ="51">Jesus himself addressed God as Father.</sent>
+				<sent id ="52">He revealed that he was the Son of God.</sent>
+				<sent id ="53">He has been given all authority in heaven and on earth .</sent>
+				<sent id ="54">The interrelation between the body, the mind and the soul The paralyzed man was physically sick.</sent>
+				<sent id ="55">And yet Jesus told him: Your sin has been forgiven.</sent>
+				<sent id ="56">He knew that sin makes a man sick; sin makes the soul unholy.</sent>
+				<sent id ="57">But sin not only affects the soul but it also enters the body and mind.</sent>
+				<sent id ="58">Besides, when the soul of a sinner becomes unholy, he always condemns himself.</sent>
+				<sent id ="59">In this way his mind and soul become sick.</sent>
+				<sent id ="60">Jesus cured the sickness of the body and at the same time he also cured the spiritual sickness.</sent>
+				<sent id ="61">Good health of the soul is very necessary for any man.</sent>
+				<sent id ="62">know what his body does.</sent>
+				<sent id ="63">A mad man does not even know how to take care of his soul because he is sick mentally.</sent>
+				<sent id ="64">But we call those people healthy whose body, mind and spirit are integrated.</sent>
+				<sent id ="65">There are five senses in our body.</sent>
+				<sent id ="66">We call them the five sense- organs.</sent>
+				<sent id ="67">They are: the eye, the ear, the nose, the tongue and the skin.</sent>
+				<sent id ="68">With these sense-organs we can do good works as well as bad works.</sent>
+				<sent id ="69">We feel happy when we do good works.</sent>
+				<sent id ="70">The soul then experiences peace.</sent>
+				<sent id ="71">But if we do bad things then feel unhappy.</sent>
+				<sent id ="72">Unhappiness is a condition of the soul.</sent>
+				<sent id ="73">Our mind is capable of thinking good things as well as bad things.</sent>
+				<sent id ="74">Therefore, we can say that our thinking can influence both our body and soul.</sent>
+				<sent id ="75">Let us see what good or bad things are done by our five sense- organs.</sent>
+				<sent id ="76">Prayer: O God! I confess that I am a sinner.</sent>
+				<sent id ="77">Just now I remember my sins.</sent>
+				<sent id ="78">You are my Savior.</sent>
+				<sent id ="79">You can forgive me my sins.</sent>
+				<sent id ="80">So I beg your forgiveness.</sent>
+				<sent id ="81">Make me fresh and holy.</sent>
+				<sent id ="82">Help me guard against all types of evil temptations.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

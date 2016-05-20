@@ -1,0 +1,148 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.424</idno>
+				<idno type="Number of sentences">120</idno>
+				<idno type="Number of tokens">1149</idno>
+				<idno type="Number of token types">526</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t84">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Health is the state of being healthy.</sent>
+				<sent id ="2">Health means sound body and sound mind.</sent>
+				<sent id ="3">Health is wealth.</sent>
+				<sent id ="4">Since birth an infant is fed only on milk.</sent>
+				<sent id ="5">Notice that babies learn to eat many more types of food as they grow up.</sent>
+				<sent id ="6">There are many types of food in the world.</sent>
+				<sent id ="7">All of them do not possess the same food value.</sent>
+				<sent id ="8">Carbohydrate, protein, and fat are the three main elements of food.</sent>
+				<sent id ="9">We also consume water, vitamins and minerals.</sent>
+				<sent id ="10">To digest carbohydrate, protein and fat, we need enzymes.</sent>
+				<sent id ="11">To keep our body sound and healthy we need all these elements.</sent>
+				<sent id ="12">We need protein for building up, compensating for decay and growth of our bodies.</sent>
+				<sent id ="13">This type of food gives us energy to work.</sent>
+				<sent id ="14">Butter, ghee, and various types of oils are fatty foods.</sent>
+				<sent id ="15">Fat gives us energy.</sent>
+				<sent id ="16">There are plenty of vitamins and minerals in vegetables and fruits.</sent>
+				<sent id ="17">Vitamins protect our body.</sent>
+				<sent id ="18">Vitamin deficiency may cause various diseases.</sent>
+				<sent id ="19">It may even cause death.</sent>
+				<sent id ="20">Vitamins are of many kinds.</sent>
+				<sent id ="21">Many of us suffer from different diseases because of vitamin deficiencies.</sent>
+				<sent id ="22">You must have heard about a disease called night- blindness.</sent>
+				<sent id ="23">Deficiency of vitamin A causes this disease.</sent>
+				<sent id ="24">If this deficiency is not compensated for in time, it may lead to permanent blindness.</sent>
+				<sent id ="25">All kinds of coloured fruits and green vegetables contain vitamin A.</sent>
+				<sent id ="26">Mala and dhela fish also contain plenty of vitamin A.</sent>
+				<sent id ="27">Sores on lips and tongue are caused because of deficiencies of vitamin B.</sent>
+				<sent id ="28">Rice husked using husking pedal (dhenki), peas, liver, vegetables etc. contain vitamin B.</sent>
+				<sent id ="29">Fruits such as hog-plum, guava, tomato, lemon, myrobalan etc. contain plenty of vitamin C.</sent>
+				<sent id ="30">Vitamin C increases our ability to fight diseases.</sent>
+				<sent id ="31">Deficiency of vitamin C causes a disease called scurvy.</sent>
+				<sent id ="32">This disease causes swelling, soreness and bleeding of gums.</sent>
+				<sent id ="33">Vitamin C keeps our skin healthy and protect us from catching cold.</sent>
+				<sent id ="34">Vitamin C is spoilt by heat.</sent>
+				<sent id ="35">Therefore, the fruits which contain vitamin C should be eaten raw.</sent>
+				<sent id ="36">Our body cannot store this vitamin, so we should take food containing vitamin C everyday.</sent>
+				<sent id ="37">Minerals are essential elements for our bodies.</sent>
+				<sent id ="38">Minerals strengthen our teeth and bones.</sent>
+				<sent id ="39">The fish, meat and vegetables which we eat contain various kinds of minerals.</sent>
+				<sent id ="40">Deficiency of minerals causes many kinds of diseases.</sent>
+				<sent id ="41">For example - deficiency of iron causes anemia.</sent>
+				<sent id ="42">Generally children and women suffer from this disease.</sent>
+				<sent id ="43">Molasses, eggs, red amaranths, arum leaves, liver, plantain etc. contain plenty of iron.</sent>
+				<sent id ="44">Many of you have heard about a disease called goitre.</sent>
+				<sent id ="45">This disease is caused by iodine deficiencies.</sent>
+				<sent id ="46">There is iodine in sea fish.</sent>
+				<sent id ="47">Iodine deficiency can be compensated for if we take iodized salt.</sent>
+				<sent id ="48">Bones do not grow properly if there is deficiency of calcium in the body.</sent>
+				<sent id ="49">This deficiency also causes children's legs to bend and teeth to decay.</sent>
+				<sent id ="50">Milk, curd, arum leaves, small fish, red amaranths etc. contain calcium.</sent>
+				<sent id ="51">Like other food elements, water is also an essential element for our body.</sent>
+				<sent id ="52">The food we eat cannot be digested without water.</sent>
+				<sent id ="53">To put it simply, no living being can live without water.</sent>
+				<sent id ="54">About 70 to 80 percent of our body mass consists of water.</sent>
+				<sent id ="55">The food we eat everyday contains a lot of water.</sent>
+				<sent id ="56">Still, we need to drink five to six glasses of water everyday.</sent>
+				<sent id ="57">You already know that cleanliness is a part of hygiene.</sent>
+				<sent id ="58">Do you know why we eat food?</sent>
+				<sent id ="59">What is food?</sent>
+				<sent id ="60">Why is food necessary for our health?</sent>
+				<sent id ="61">Eating large quantities of nutritious food is not enough to maintain a good health.</sent>
+				<sent id ="62">It will gradually decrease our ability to work.</sent>
+				<sent id ="63">We will become physically incapable.</sent>
+				<sent id ="64">Also we will start suffering from various diseases.</sent>
+				<sent id ="65">So we need to do physical work to keep ourselves physically strong and active.</sent>
+				<sent id ="66">Children should play regularly.</sent>
+				<sent id ="67">It takes away lethargy and increases hunger and appetite.</sent>
+				<sent id ="68">It helps to keep them cheerful.</sent>
+				<sent id ="69">It also helps to develop interest in studying and doing other things.</sent>
+				<sent id ="70">Do you feel good?</sent>
+				<sent id ="71">It is good for your health to do some light exercise regularly.</sent>
+				<sent id ="72">For example - walking briskly, running, swimming etc.</sent>
+				<sent id ="73">Exercises enhance the blood circulation in the body and make us feel fresh.</sent>
+				<sent id ="74">We play, work, study etc. all day long.</sent>
+				<sent id ="75">Why do we feel like this?</sent>
+				<sent id ="76">This happens because working expends a lot of energy.</sent>
+				<sent id ="77">Rest means a break between periods of activity.</sent>
+				<sent id ="78">We regain our energy through rest.</sent>
+				<sent id ="79">We cannot work continuously without resting.</sent>
+				<sent id ="80">Resting keeps both our body and mind fresh.</sent>
+				<sent id ="81">A man need to sleep for six to eight hours everyday.</sent>
+				<sent id ="82">A sound and pleasant sleep drives away physical and mental fatigue.</sent>
+				<sent id ="83">It is good to get up early in the morning.</sent>
+				<sent id ="84">Morning air is very good for health.</sent>
+				<sent id ="85">Health is the key to all happiness.</sent>
+				<sent id ="86">People who are not healthy are the most miserable people in the world.</sent>
+				<sent id ="87">Health is represented by a disease-free body and a healthy mind.</sent>
+				<sent id ="88">You have also learnt that we need to keep our environment clean as well.</sent>
+				<sent id ="89">Notice how your houses, roads, yards, surroundings etc. get dirty.</sent>
+				<sent id ="90">Now fill in the following table and show it to your teacher.</sent>
+				<sent id ="91">What is garbage?</sent>
+				<sent id ="92">The dirty and useless stuff we throw away is garbage.</sent>
+				<sent id ="93">Garbage and waste can be of three kinds.</sent>
+				<sent id ="94">Garbage and excreta spread bad smell when they decompose.</sent>
+				<sent id ="95">It causes air pollution.</sent>
+				<sent id ="96">Flies lay their eggs in rotten garbage and thus they breed and spread diseases.</sent>
+				<sent id ="97">If garbage is thrown in wells or ponds or near tube-wells, they rot.</sent>
+				<sent id ="98">This rotten garbage is washed into the waters of ponds or wells.</sent>
+				<sent id ="99">This results in water pollution.</sent>
+				<sent id ="100">Garbage and excreta are ideal dwelling places for insects.</sent>
+				<sent id ="101">This often invites pests such as flies, cockroaches and rats.</sent>
+				<sent id ="102">The garbage disposal facilities in urban and rural areas are not the same.</sent>
+				<sent id ="103">In urban areas, garbage must be disposed of in dustbins close to your houses.</sent>
+				<sent id ="104">It is not at all right to throw away garbage beside dustbins.</sent>
+				<sent id ="105">Garbage vans owned by the municipalities collect this garbage everyday.</sent>
+				<sent id ="106">This garbage is used to fill up ditches or low lands.</sent>
+				<sent id ="107">There are brick-built drainage systems in towns for disposing of liquid waste.</sent>
+				<sent id ="108">Many of us throw other types of garbage besides liquid waste into these systems.</sent>
+				<sent id ="109">But this is not right at all.</sent>
+				<sent id ="110">Rural areas do not have brick-built drainage systems.</sent>
+				<sent id ="111">There people must construct their own earthen drains.</sent>
+				<sent id ="112">We must be careful so that the drains do not clog up.</sent>
+				<sent id ="113">Drain water can be released into agricultural fields.</sent>
+				<sent id ="114">Earthen drains must be cleaned everyday.</sent>
+				<sent id ="115">Garbage and waste do not always create problems for us.</sent>
+				<sent id ="116">In rural areas rotten garbage is used as fertilizer.</sent>
+				<sent id ="117">To make fertilizer, a hole is dug 8 to 10 meters away from houses.</sent>
+				<sent id ="118">Once the hole is completely filled with garbage, it is covered with soil.</sent>
+				<sent id ="119">Within a few days the garbage decomposes and is converted into a very good fertilizer.</sent>
+				<sent id ="120">Garbage is also burnt and buried underground to fill up pits, ditches etc.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

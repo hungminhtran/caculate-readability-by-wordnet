@@ -1,0 +1,186 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-genSci-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:04.936</idno>
+				<idno type="Number of sentences">158</idno>
+				<idno type="Number of tokens">2559</idno>
+				<idno type="Number of token types">1009</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t56">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Science has contributed immensely to human civilization.</sent>
+				<sent id ="2">With the help of science we have obtained colossal knowledge about the universe and great power to control the environment.</sent>
+				<sent id ="3">Science and technology have enabled us to provide plenty of food, housing and long healthy life to all.</sent>
+				<sent id ="4">Science has given us new things, information about source of energy, and has set up quickest communication and transportation.</sent>
+				<sent id ="5">Scientific inventions and technological innovations have been changing man's lifestyle and outlook everyday.</sent>
+				<sent id ="6">Some wonderful inventions of modern science and technology are- satellite, space craft, artificial heart transplantation, gene technology, transistor & computer; atomic energy and use of solar energy.</sent>
+				<sent id ="7">The term science implies organized knowledge obtained from the observation of the animals and materials around us.</sent>
+				<sent id ="8">This specialized information has been enriching human knowledge.</sent>
+				<sent id ="9">In fact, knowledge of the unknown universe is science.</sent>
+				<sent id ="10">Many of us observe the diversity of events which occur around and in our environment.</sent>
+				<sent id ="11">But there are some people who do not give up their enquiry after observing it, but seek to find out an answer why and how the events occur or try to reveal the mystery of the universe through regular process of experiments.</sent>
+				<sent id ="12">Dedicated, inquisitive and creative men who always work for the welfare of mankind are called scientists.</sent>
+				<sent id ="13">Generosity, modesty, firmness in the search for truth, creativity, tolerance and above all philanthropy are the characteristics of a scientist.</sent>
+				<sent id ="14">Their contribution to the service of mankind cannot be denied.</sent>
+				<sent id ="15">Innumerable people of the world are indebted to the scientists.</sent>
+				<sent id ="16">So, they deserve respect of all.</sent>
+				<sent id ="17">The scientific working procedure is the process which the scientists use to solve a problem.</sent>
+				<sent id ="18">With this procedure the subtle mathematical arguments, elaborate analysis, invention of machines, controlled observation, creation of theories etc. complicated actions are related.</sent>
+				<sent id ="19">Scientists follow these steps as specialists.</sent>
+				<sent id ="20">Side by side we also notice that a common man also follows the scientific working procedure.</sent>
+				<sent id ="21">As for example, an innovative farmer may be called a scientist.</sent>
+				<sent id ="22">In order to grow Boro rice a farmer may face some problems.</sent>
+				<sent id ="23">He can realize that all the problems cannot be solved at a time.</sent>
+				<sent id ="24">He earmarks one problem and begins to work in order to solve it.</sent>
+				<sent id ="25">His earmarked first problem is how to increase production.</sent>
+				<sent id ="26">Identification of a problem before starting work is called fixation of problem.</sent>
+				<sent id ="27">Does the yielding of paddy increase by applying chemical fertilizer ?</sent>
+				<sent id ="28">Does the yielding increase if more fertilizer is used ?</sent>
+				<sent id ="29">In order to seek a solution of these problems, the farmer goes to visit an exhibition of an agricultural farm.</sent>
+				<sent id ="30">There he finds that the application of fertilizer on the land increases the yielding of paddy.</sent>
+				<sent id ="31">He comes to know more about this after talking with some experienced farmers.</sent>
+				<sent id ="32">This way to procure information is called collection of data.</sent>
+				<sent id ="33">that production increases when chemical fertilizer is used.</sent>
+				<sent id ="34">that production is more if much fertilizer is used.</sent>
+				<sent id ="35">Arriving at a decision by analysing the collected data is called hypothesis.</sent>
+				<sent id ="36">The farmer plans an experiment in order to verify the truth of his hypothesis.</sent>
+				<sent id ="37">First he selects three pieces of land of the same kind and same measurement.</sent>
+				<sent id ="38">He makes them ready for cultivation in the same way.</sent>
+				<sent id ="39">He sows paddy seeds in each piece of land at the same time.</sent>
+				<sent id ="40">He reaps crops at the same time giving same nursing to three pieces of land.</sent>
+				<sent id ="41">By using one bag of fertilizer in the first piece of land, the farmer gets a great quantity of paddy.</sent>
+				<sent id ="42">By using half a bag of fertilizer he gets almost the same quantity of paddy.</sent>
+				<sent id ="43">In the third piece of land he did not use any fertilizer.</sent>
+				<sent id ="44">He gets much less quantity of paddy.</sent>
+				<sent id ="45">From this experiment he realizes that- Production increases with chemical fertilizer.</sent>
+				<sent id ="46">So, his first hypothesis is correct.</sent>
+				<sent id ="47">His hypothesis that more fertilizer gives more production is not correct.</sent>
+				<sent id ="48">Fixed quantity of fertilizer should be used in a land of definite size.</sent>
+				<sent id ="49">The experiment on the third piece of land without using fertilizer is called controlled experiment.</sent>
+				<sent id ="50">Here the farmer cultivated the land without using fertilizer in order to compare the experimental results.</sent>
+				<sent id ="51">He takes the final decision on the basis of the data received from his experiments.</sent>
+				<sent id ="52">Thus he may take or reject or modify his hypothesis.</sent>
+				<sent id ="53">Thus the enthusiastic farmer has followed a scientific procedure.</sent>
+				<sent id ="54">He now understands how much fertilizer is needed to grow boro in a particular piece of land in a particular season.</sent>
+				<sent id ="55">We may call this farmer a scientist.</sent>
+				<sent id ="56">The farmer first identifies his problem and has arrived at a solution through a successful process.</sent>
+				<sent id ="57">To arrive at a fixed decision a scientist has to identify a problem, make a hypothesis, perform the experiment, analyse the result.</sent>
+				<sent id ="58">This special attitude and the system which the scientists follow and proceed in their way to discovery is called scientific working procedure.</sent>
+				<sent id ="59">Importance of the Culture of Science Development and progress of science are indispensable for mankind.</sent>
+				<sent id ="60">Food, clothing, housing, medicine, education, agriculture, industry, transportation, communication, exchange of information, management of information, procurement of natural resources and their preservation, space-research etc.</sent>
+				<sent id ="61">in all these areas, culture of science is essential.</sent>
+				<sent id ="62">Nature has come under human control as a result of continuous success of science in all these fields.</sent>
+				<sent id ="63">New successes of science has to be brought about in order to protect the huge population and to face the unknown future.</sent>
+				<sent id ="64">Some examples of scientific success of the last few centuries are presented below.</sent>
+				<sent id ="65">During the middle of the 18th century in England new mills and factories were established with the help of steam engine and various kinds of machine.</sent>
+				<sent id ="66">This era is called the age of industrial revolution.</sent>
+				<sent id ="67">With advanced transport system goods can be distributed easily.</sent>
+				<sent id ="68">As a result, demand for the goods and their sale increased.</sent>
+				<sent id ="69">Scientific inventions were accelerated.</sent>
+				<sent id ="70">Thus, in physics atomic theory, quantum theory and theory of relativity emerged.</sent>
+				<sent id ="71">Immense advancement in air travel, space travel, atomic energy, electronics has opened a new horizon for human civilization.</sent>
+				<sent id ="72">Man has set up artificial satellites in the space in order to acquire various knowledge about space.</sent>
+				<sent id ="73">As a result man has set foot on the moon's surface and rockets move from the planet to planet.</sent>
+				<sent id ="74">Again artificial satellites have made remarkable contribution to weather forecasting and easy communication.</sent>
+				<sent id ="75">Use of electronic equipments and computers have made human life easy, beautiful and enjoyable.</sent>
+				<sent id ="76">Advancement of medical science in the treatment of patients, invention of penicillin, improvement of current medicine to destroy insects, fungus, production of medicines for procreation of plants and animals, use of microbes for preparing preventive medicine, application of new technique in food-processing are all gifts of science.</sent>
+				<sent id ="77">With the help of science mechanical plough or tractor, pump for irrigation, spraymachine for spraying medicine to kill harmful insects, insecticides have been invented.</sent>
+				<sent id ="78">Biochemistry and cell theory have been making efforts to overcome and cure cancer on the basis of knowledge of the chemical action and structure of a cell.</sent>
+				<sent id ="79">Gene theory related to generation of species has been developed.</sent>
+				<sent id ="80">It is now possible to produce high quality and quantity of jute and paddy.</sent>
+				<sent id ="81">Improvement of crop and livestock depends on initial selection of crops and animals of advanced variety and bringing about generation expansion.</sent>
+				<sent id ="82">As a result knowledge of good food and maintenance of health have improved and life expectancy has increased.</sent>
+				<sent id ="83">Livestock has improved through cross-breeding of local and non-local cows which can adjust under unfavorable circumstances.</sent>
+				<sent id ="84">Hence, learners have to be made curious about material and animal world.</sent>
+				<sent id ="85">In order to improve science, to maintain balance of nature, to grow more crops, to maintain a long healthy life, to make human life happier, the young generation should devote more and more to the culture of science.</sent>
+				<sent id ="86">The use of science in some form or other began at the early stage of civilization.</sent>
+				<sent id ="87">Various inventions of science took place; some out of necessity, some out of curiosity and often accidentally.</sent>
+				<sent id ="88">In the primitive age man used to eat uncooked meat and was ignorant about the use of cloth.</sent>
+				<sent id ="89">In course of time fire was discovered and he learnt to eat cooked food.</sent>
+				<sent id ="90">In the absence of cloth he used to wear leaves and bark of trees.</sent>
+				<sent id ="91">Use of stone and metal like iron etc. began in later stage.</sent>
+				<sent id ="92">When he learnt to make weapon by sharpening blunt stone, the technological era began.</sent>
+				<sent id ="93">The words science and technology are used widely now-a-days and they are the key to development of any country and any nation.</sent>
+				<sent id ="94">But what is the difference between science and technology?</sent>
+				<sent id ="95">The scientists investigate and make research about various objects and incidents of nature- as a physicist, a chemist, a botanist, a zoologist does.</sent>
+				<sent id ="96">On the other hand a technologist uses the discovery of science for human welfare, as a doctor, or an engineer or a weather scientist does.</sent>
+				<sent id ="97">A doctor treats a patient with the help of knowledge, medicine, equipment etc. discovered by science.</sent>
+				<sent id ="98">Still question arises, do science and technology contribute only to the welfare of mankind ?</sent>
+				<sent id ="99">In answer to this question it can be said that science and technology create new problems along with doing human welfare.</sent>
+				<sent id ="100">Yet, most of the problems involving science and technology were created due to their misapplications, most of which can be avoided by their proper use.</sent>
+				<sent id ="101">Due to development of medical science man is getting rid of many diseases.</sent>
+				<sent id ="102">In some countries, the food production is not increasing at par with the increase of population.</sent>
+				<sent id ="103">As a result they are facing food shortage and their standard of living is not improving.</sent>
+				<sent id ="104">We must remember that due to inappropriate application of technology, environment is being polluted and wastage of wealth and energy is taking place.</sent>
+				<sent id ="105">Under the circumstances, we have to tackle these problems through proper application of science and technology so that they may not crop up again.</sent>
+				<sent id ="106">It has become possible to get solutions of many problems of matter and animal through experiments, observation and research.</sent>
+				<sent id ="107">The periphery of man's knowledge has extended a lot.</sent>
+				<sent id ="108">So for the sake of convenience of searching knowledge, science has been arranged in different branches.</sent>
+				<sent id ="109">Among them, two main branches are physical science and biological science.</sent>
+				<sent id ="110">In physical science, properties of matter, influence of energy on matter and their interaction are discussed.</sent>
+				<sent id ="111">All the experiments, observations and researches of matter and energy are included in this branch.</sent>
+				<sent id ="112">Two fundamental branches of physical science are physics and chemistry.</sent>
+				<sent id ="113">In fact, various successes achieved in different branches of physical science are playing key role in the development and growth of other branches of science.</sent>
+				<sent id ="114">One of the important branches of science is biological science.</sent>
+				<sent id ="115">This is the oldest branch of natural science.</sent>
+				<sent id ="116">Plant and animal are the main topics of discussion of biology.</sent>
+				<sent id ="117">Man has to know about plant and animal first for the sake of living in this world.</sent>
+				<sent id ="118">This primary knowledge is the main objective for studying biology.</sent>
+				<sent id ="119">Structure of all animals including man and plant, their working principle, adaptation, evolution, genetics etc. are discussed in biology.</sent>
+				<sent id ="120">For the convenience of acquiring knowledge it has been divided into two fundamental branches-Botany and Zoology.</sent>
+				<sent id ="121">The way science was divided into different branches in older time is valid still now.</sent>
+				<sent id ="122">But when scientists in modern age carry on research work on any subject, they seldom abide by this division.</sent>
+				<sent id ="123">When a cytologist carries research on cell he applies advanced biochemical technique.</sent>
+				<sent id ="124">When physics and biology are studied together, it is possible to have better knowledge of life force, movement of life and its propagation.</sent>
+				<sent id ="125">Again, it becomes possible to solve many complex problems of biology with the help of mathematics.</sent>
+				<sent id ="126">To search knowledge, one branch of science accepts and applies technological skill from one or more branches of science.</sent>
+				<sent id ="127">Even the scientists engaged in research work about the different aspects of the same subject, work together to achieve a common goal.</sent>
+				<sent id ="128">It is of extreme necessity that the measurements of science should be correct and accurate.</sent>
+				<sent id ="129">It is not sufficient to know the presence of a substance by instruments, its quantity should be known definitely in most of the cases.</sent>
+				<sent id ="130">This man is very tall, water of this bucket is very hot, the train is running fast, the paddy seedlings are not growing rapidly, this stone is very heavy, such superficial knowledge is not useful to scientists.</sent>
+				<sent id ="131">So various measuring instruments have been made to determine the distance, weight, time, temperature etc. Scale, balance, clock, ammeter, voltmeter etc. are examples of measuring instruments.</sent>
+				<sent id ="132">To measure something, the quantity to be measured such as length, mass are to be compared with some standard quantity.</sent>
+				<sent id ="133">This standard length is the unit of length, and standard mass is the unit of mass.</sent>
+				<sent id ="134">Among the various kinds, quantities with which the scientists mainly work are length, mass and time.</sent>
+				<sent id ="135">To measure these quantities scientists use mainly metric system.</sent>
+				<sent id ="136">The chief advantage of metric system is that all calculation can be made in decimal.</sent>
+				<sent id ="137">For this, the system is being used today even for general work in most of the countries.</sent>
+				<sent id ="138">For measurement in metric system two types of unit-metre-killogram-second (M.K.S) and centimetre-gram-second (C.G.S) are used.</sent>
+				<sent id ="139">M.K.S system has been taken internationally as the measuring system for all kinds of quantities and is called S.I or system international.</sent>
+				<sent id ="140">Length : The unit of length in S.I is metre.</sent>
+				<sent id ="141">The distance between two fixed points on rod made of alloy of platinum and irridium (90:10) at a temperature of 273 Kelvin i.e.at zero degree celcius kept in the office of the International Bureau of Weight and Measures in Paris, capital of France is called metre.</sent>
+				<sent id ="142">One hundredth part of a metre is called one centimetre (cm).</sent>
+				<sent id ="143">One thousandth part of a metre is celled one millimetre (mm).</sent>
+				<sent id ="144">Again a killo means thousand times; so one killometre indicates one thousand metres and 1 mile is nearly equal to 1.61 killometres.</sent>
+				<sent id ="145">Say, a rod is 2.5 metre long; This means that this rod is two and a half times longer than unit of length, 1 metre.</sent>
+				<sent id ="146">Mass : The unit of mass in S.I. is killogram.</sent>
+				<sent id ="147">The mass of a solid cylinder made of alloy of platinum and irridium preserved in the office of International bureau of weight and measures in Paris city of France is considered as standard of mass unit.</sent>
+				<sent id ="148">General people call it one killo or one kg.</sent>
+				<sent id ="149">One thousandth part of one killogram is called one gram .</sent>
+				<sent id ="150">One hundred killograms make one quintal and one thousand killograms is equal to one metric ton.</sent>
+				<sent id ="151">Say, a thing weighs 100 kg, this means its mass is 100 times greater than the unit mass, one killogram.</sent>
+				<sent id ="152">Time : The S.I. unit of time is second.</sent>
+				<sent id ="153">60 seconds make a minute and 60 minutes make an hour and 24 hours are equal to one day.</sent>
+				<sent id ="154">This system of measuring time was devised in ancient Babylon.</sent>
+				<sent id ="155">Volume : In metric system, volume is measured in cubic metre.</sent>
+				<sent id ="156">A body of one metre long, one metre wide and one metre height has volume of one cubic metre;</sent>
+				<sent id ="157">it is also written as (metre)Sometimes cubic centimetre (i.e. l cm long, l cm wide, l cm height) is used as unit of volume and is written as (centimetre)3 or (cm)The volume of a liquid is usually expressed in litre.</sent>
+				<sent id ="158">One litre is equal to 1000 cubic centimetre, commonly called 1000 cc.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

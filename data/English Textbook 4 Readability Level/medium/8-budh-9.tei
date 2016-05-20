@@ -1,0 +1,152 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-budh-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.341</idno>
+				<idno type="Number of sentences">124</idno>
+				<idno type="Number of tokens">1689</idno>
+				<idno type="Number of token types">644</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t110">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Gautam Buddha has prescribed Vinay Pitak as a separate Bhikkhu Vinay for the monks.</sent>
+				<sent id ="2">Duties of the householders or the formal discipline for lay disciples have been described in these books.</sent>
+				<sent id ="3">For this reason, this Sutra is called the Vinay for the householders.</sent>
+				<sent id ="4">There are many such Sutras.</sent>
+				<sent id ="5">The Mangal Sutra, the Parabhav Sutra, the Nidhikanda Sutra, the Vyagghapaja Sutra and Sutra Aparihaniya Dharma are among many such Sutras.</sent>
+				<sent id ="6">Those who perform duly the instructions laid down in these Sutras in their household lives are greatly benefited.</sent>
+				<sent id ="7">These household lives become nice, prosperous and successful.</sent>
+				<sent id ="8">In Pali literature the householders are known as lay disciples (male and female).</sent>
+				<sent id ="9">After formation of the Sangha (the order), monks receive food items and other gifts from the householders.</sent>
+				<sent id ="10">They keep themselves engaged in Shil, Samadhi and Gyana.</sent>
+				<sent id ="11">As a result, closest contact is established between the monks and the householders.</sent>
+				<sent id ="12">For that reason participation of householders in various religious functions and rituals is considered an integrated part of religious life.</sent>
+				<sent id ="13">For example, the lay disciples should take refuge to the Trisarana two times - morning and evening.</sent>
+				<sent id ="14">Take precepts, pay homage to the Buddha and to adore the Triratana.</sent>
+				<sent id ="15">Attend the Buddha -purnima (full-moon day), Aswari purnima and pravarana purnima etc.</sent>
+				<sent id ="16">Keep oneself engaged in offerings, observe precepts and be engaged in meditation.</sent>
+				<sent id ="17">Take part in Sanghadan, in offerings of eight requisite items for the monks [Asttapariskardan] and in offerings of yellow robes [Kathin Chibar].</sent>
+				<sent id ="18">Visit the Buddhist religious places and worship the relics of the Buddha and the Buddhist shrines.</sent>
+				<sent id ="19">The Buddha has given importance to the life of a human being for various reasons.</sent>
+				<sent id ="20">The human being occupies a distinctive position for his intellectual consideration, kindness and compassion, for doing good deeds and scope for meditation.</sent>
+				<sent id ="21">Birth as human being provide ground for release of all beings from sorrows.</sent>
+				<sent id ="22">Meditation is nowhere possible except in human life.</sent>
+				<sent id ="23">There is no room to perform virtues in the hell or in the world of ghosts.</sent>
+				<sent id ="24">There is no opportunity there to be free from the sorrows of life.</sent>
+				<sent id ="25">It is difficult to regain human life if once the humanity is lost due to evil deeds.</sent>
+				<sent id ="26">Again, being blessed in the world of the gods, one forgets the virtuous deeds.</sent>
+				<sent id ="27">But the human world is the place of both happiness and sorrows.</sent>
+				<sent id ="28">They stand side by side.</sent>
+				<sent id ="29">The difference can be seen with one's own eyes.</sent>
+				<sent id ="30">So, those who are wise achieve success in life by fruitfully performing meritorious and happy deeds, for attaining highest bliss i.e.</sent>
+				<sent id ="31">Those who follow the teachings of the Buddha in the household life, find themselves there happy.</sent>
+				<sent id ="32">It brings prosperity in the family.</sent>
+				<sent id ="33">Once the Buddha was residing in the Kalandaka vihar situated in Benuban of Rajgriha.</sent>
+				<sent id ="34">There he used to salute the six directions-North, South, East, West, Zenith and Nadir with wet clothes and wet hairs and folded hands.</sent>
+				<sent id ="35">One day in the morning the Buddha with the robe and alms-bowl entered into Rajgriha for begging alms.</sent>
+				<sent id ="36">On the way he saw, young Sigalak son of a lay disciple, saluting the six directions with wet clothes and wet hairs and folded hands.</sent>
+				<sent id ="37">On seeing him the Buddha asked, 0 householders son, why are you saluting in this way the six directions with wet clothes and wet hairs?</sent>
+				<sent id ="38">O my Lord, at the time of death, my father has advised me to salute the six directions every day.</sent>
+				<sent id ="39">For that reason, I salute the six directions every morning to honour the words of my father.</sent>
+				<sent id ="40">O my lord, kindly say me what is the law laid down in the Ariya Vinay to salute the six directions.</sent>
+				<sent id ="41">O my householder, hear me attentively Saying this, the Buddha started to preach the Singalovada Sutra.</sent>
+				<sent id ="42">This Sutra is also called Sigalakovad in accordance with the name of householder Sigalak.</sent>
+				<sent id ="43">The virtuous householder abandons four kinds of evil deeds.</sent>
+				<sent id ="44">Due to four reasons he does not do the evil deeds.</sent>
+				<sent id ="45">He abandons six kinds of bad habit which brings destruction to the properties.</sent>
+				<sent id ="46">In this way he keeps himself away from doing fourteen kinds of evil deeds.</sent>
+				<sent id ="47">The man who keeps the six directions, becomes owner of the great fortune in this world and in the next world.</sent>
+				<sent id ="48">After death, he is reborn in the heaven.</sent>
+				<sent id ="49">Which four evil deeds does the virtuous householder abandon?</sent>
+				<sent id ="50">He forsakes the destruction of life, receiving what is not given, licentiousness and lying speech.</sent>
+				<sent id ="51">Due to which four reasons he abstains from doing evil deeds?</sent>
+				<sent id ="52">O the householder's son, the religious householder does not do evil deeds being influenced by the strong desire, hatred, fear and ignorance.</sent>
+				<sent id ="53">What are the six kinds of bad habit leading to destruction of properties he abandons?</sent>
+				<sent id ="54">The religious householder does not drink or use intoxicant drinks.</sent>
+				<sent id ="55">Does not roam in the roads and streets untimely.</sent>
+				<sent id ="56">Does not attend the merry- making function.</sent>
+				<sent id ="57">Remains detached from playing cards and dice.</sent>
+				<sent id ="58">Abandons the association of the bad companion.</sent>
+				<sent id ="59">Does not become lazy.</sent>
+				<sent id ="60">Abandons these six kinds of bad habit which cause destruction to the properties.</sent>
+				<sent id ="61">O the householder's son, there are six poisonous and bad effects in drinking intoxicating drinks.</sent>
+				<sent id ="62">O the householder's son, those who roam into the roads and streets untimely, suffer from six poisonous or bad effects.</sent>
+				<sent id ="63">They are : he remains unrestrained and unprotected.</sent>
+				<sent id ="64">Wife and children remain uncovered and unprotected.</sent>
+				<sent id ="65">The properties remain unhidden and unprotected.</sent>
+				<sent id ="66">Walks always in fearful mind.</sent>
+				<sent id ="67">Is considered guilty for false scandal due to one's sinful acts.</sent>
+				<sent id ="68">There arises cause to suffer all kinds of miseries.</sent>
+				<sent id ="69">O son of the householder, those who always attend dances, singings or merry-making functions, suffer six poisonous or bad results.</sent>
+				<sent id ="70">From dancing and singing etc. there arises evil.</sent>
+				<sent id ="71">O son of the householder, there are six kinds of harmful effects in playing cards and dice.</sent>
+				<sent id ="72">They are : There arises enmity, one repents if defeated, lead to destruction of properties.</sent>
+				<sent id ="73">Their words are not considered just.</sent>
+				<sent id ="74">Friends and relatives, Govt service holders or civil service men hate them.</sent>
+				<sent id ="75">Nobody comes forward in marriage with them because of his inability in supporting the life.</sent>
+				<sent id ="76">There are six kinds of harmful effects in association with evil friends.</sent>
+				<sent id ="77">They are : wicked person, persons addicted to drink, needy, cheater, cunning men and rogues.</sent>
+				<sent id ="78">Harmful result of association with them is poisonous.</sent>
+				<sent id ="79">There are six kinds of harmful effects in laziness.</sent>
+				<sent id ="80">In this way due to negligence many work remain undone.</sent>
+				<sent id ="81">Due to these six causes the unearned money is not earned.</sent>
+				<sent id ="82">The earned money decays.</sent>
+				<sent id ="83">Four classes of people is called an enemy as like as friend.</sent>
+				<sent id ="84">They are : A thief, a man of words and not deeds, a flatterer and an instigator in doing evil deeds.</sent>
+				<sent id ="85">In every occasion he wants to fulfil his own selfish interest only.</sent>
+				<sent id ="86">By four ways a man of words and not deeds is called as one who turns hostile to a friend.</sent>
+				<sent id ="87">By these four causes a man of words and not deeds is known as one who turns hostile to a friend.</sent>
+				<sent id ="88">By four ways a flatterer is known as one who turns hostile to a friend.</sent>
+				<sent id ="89">They are : He consents to do wrong; dissents from doing right; praises one to his face; and spreads ill of others.</sent>
+				<sent id ="90">By four ways a fellow waster is known as one who turns hostile to a friend.</sent>
+				<sent id ="91">They are : He indulges in strong drinking; frequents the street at untimely hours; haunts shows and fairs; and is infatuated with gambling etc.</sent>
+				<sent id ="92">In four ways a man of good counsel becomes a friend.</sent>
+				<sent id ="93">In four ways a man who sympathizes is called a friend.</sent>
+				<sent id ="94">The four persons are worthy -of becoming a friend.</sent>
+				<sent id ="95">They are : who welcomes the helpmate; who is the one in happiness and adversity; the friend of good counsel; and the friend who sympathizes.</sent>
+				<sent id ="96">In four places a benevolent person is called a helpmate.</sent>
+				<sent id ="97">In four way's he who is the same in happiness and adversity is called a friend.</sent>
+				<sent id ="98">How a religious householder keeps the six directions?</sent>
+				<sent id ="99">These are the six directions of duties of the householder that you will know.</sent>
+				<sent id ="100">By five ways of duties children will keep the direction of East as like as parents.</sent>
+				<sent id ="101">In five ways the parents also oblige the children.</sent>
+				<sent id ="102">O son of the housefather, by five ways of duties, pupil will keep the direction of South as like as teacher.</sent>
+				<sent id ="103">By five ways teachers show love and good will towards their pupils.</sent>
+				<sent id ="104">Thus, in performance of duties by both the pupil and the teacher, the direction of South as like as teacher is kept protected and safe.</sent>
+				<sent id ="105">O son of the housefather, by five ways of duties, husband will keep the direction of West as like as wife.</sent>
+				<sent id ="106">In five ways also, the wife will oblige the husband.</sent>
+				<sent id ="107">Thus, by discharging duties, both the husband and the wife keep the direction of West as like as wife well protected and safe.</sent>
+				<sent id ="108">By five ways of duties a clansman will keep the direction of North as like as friends and kinsmen.</sent>
+				<sent id ="109">In five ways of duties, friends and kinsmen will show good will to the clansman.</sent>
+				<sent id ="110">By five ways of duties the master will keep the direction of subordinate as like as servants and employees.</sent>
+				<sent id ="111">sharing with them delicious food; and by granting them leave at times.</sent>
+				<sent id ="112">By five ways of duties servants and employees become dutiful towards their master.</sent>
+				<sent id ="113">By five ways of duties the clansman will keep the direction of Zenith as like as Sraman and Brahmana.</sent>
+				<sent id ="114">By six ways of duties the Sraman and Brahmana will show good-will towards the clansman.</sent>
+				<sent id ="115">It is very excellent.</sent>
+				<sent id ="116">It is very wonderful.</sent>
+				<sent id ="117">From to-day I take-refuge in the Buddha and in the Dharma and in the Sangha (TTriratana).</sent>
+				<sent id ="118">Kindly accept me as a lay-disciple (Upasaka).</sent>
+				<sent id ="119">The Singalovad Sutra is called Grihi Vinay by name.</sent>
+				<sent id ="120">It is not confined in colour, time, religion, society and race.</sent>
+				<sent id ="121">If these instructions are observed, the individual life, social life, family life and national life become prosperous.</sent>
+				<sent id ="122">You will abide by these instructions.</sent>
+				<sent id ="123">Will use in daily life.</sent>
+				<sent id ="124">The family will be well disciplined and ideal.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

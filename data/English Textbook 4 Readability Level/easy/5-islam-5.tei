@@ -1,0 +1,78 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-islam-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.689</idno>
+				<idno type="Number of sentences">50</idno>
+				<idno type="Number of tokens">444</idno>
+				<idno type="Number of token types">208</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t39">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Waqf is an Arabic word.</sent>
+				<sent id ="2">Its literal meaning is to stop or to give a pause.</sent>
+				<sent id ="3">In the term of tajvid waqf is the pause between two breathings.</sent>
+				<sent id ="4">In every waqf the last letter of the last word will get jazm.</sent>
+				<sent id ="5">This is called sakin alss.</sent>
+				<sent id ="6">No work becomes satisfactory and pleasant if it is done without break.</sent>
+				<sent id ="7">As a result we get pleasure and interest in the study or in any work.</sent>
+				<sent id ="8">It enhances our attention and increases our energy.</sent>
+				<sent id ="9">Even, when we talk we do not speak non-stop, or without punctuating pause.</sent>
+				<sent id ="10">We give pause or we stop at intervals.</sent>
+				<sent id ="11">The waqf can not be done without giving jazm'or sakin at the last latter of the word.</sent>
+				<sent id ="12">But the recitantion should be started from the very word, where it was stoped.</sent>
+				<sent id ="13">This sign indicates the finishing of the sentence.</sent>
+				<sent id ="14">This is called waqf tamm (full stop).</sent>
+				<sent id ="15">One should stop here.</sent>
+				<sent id ="16">This is called waqf lazim.</sent>
+				<sent id ="17">It says that the reader must stop here.</sent>
+				<sent id ="18">Because, if not stopped there is possibility of the change of the meaning.</sent>
+				<sent id ="19">This sign is called waqf mutlaq.</sent>
+				<sent id ="20">Mutlaq means general.</sent>
+				<sent id ="21">It is like comma.</sent>
+				<sent id ="22">It indicates that a short break is better here.</sent>
+				<sent id ="23">It is called waqf jayez.</sent>
+				<sent id ="24">Here one may or may not stop, but stopping is the best thing to do.</sent>
+				<sent id ="25">It is called waqf mujawaz.</sent>
+				<sent id ="26">Mujawaz means approved.</sent>
+				<sent id ="27">It is better not to stop here.</sent>
+				<sent id ="28">It is called waqf murak-khas.</sent>
+				<sent id ="29">Murakkhas means approved.</sent>
+				<sent id ="30">It is better not to pause here.</sent>
+				<sent id ="31">But pause is permissible in case the reader's breath finishes.</sent>
+				<sent id ="32">Here stopping is better.</sent>
+				<sent id ="33">This sign says not to stop or break.</sent>
+				<sent id ="34">One must not stop if the sign is in the middle of the sentence.</sent>
+				<sent id ="35">This sign says stopping and not stopping both are permissible.</sent>
+				<sent id ="36">This sign says, continuing to read (without breaking) is better.</sent>
+				<sent id ="37">This sign says little pause is better, but the breeth should be continued.</sent>
+				<sent id ="38">In the whole Quran this sign exists in eight places.</sent>
+				<sent id ="39">Gunnah is a technique to recite Holy Quran correctly.</sent>
+				<sent id ="40">It means keeping sound in the nose for some time.</sent>
+				<sent id ="41">Idgam is an added pronunciation.</sent>
+				<sent id ="42">We learnt that Arabic letters are 29 in number.</sent>
+				<sent id ="43">Gunnah is wajib.</sent>
+				<sent id ="44">The smallest duration of gunnah sound is equal to the prolonging of one Alif;</sent>
+				<sent id ="45">According to the expert readers of the Quran gunnah is wajib (must be followed).</sent>
+				<sent id ="46">So, in tajvid (technique of pronunciation) the importance of gunnah is enormous.</sent>
+				<sent id ="47">In reciting the Quran correctly and beautifully gunnah's role is very significant.</sent>
+				<sent id ="48">Idgam We have to know another thing which is essential for reciting the Quran correctly.</sent>
+				<sent id ="49">That is Idgam.</sent>
+				<sent id ="50">The combined pronunciation of two letters is called Idgam.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

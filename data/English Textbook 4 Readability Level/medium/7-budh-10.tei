@@ -1,0 +1,104 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-budh-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.325</idno>
+				<idno type="Number of sentences">76</idno>
+				<idno type="Number of tokens">866</idno>
+				<idno type="Number of token types">372</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t35">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The religion of the Buddha is the religion of welfare for all mankind.</sent>
+				<sent id ="2">In this religion the Buddha not only preached the religious thoughts but also kept many messages and advices for the welfare of men.</sent>
+				<sent id ="3">Later those messages became the part and parcel of the social rules.</sent>
+				<sent id ="4">Man is a social animal.</sent>
+				<sent id ="5">So everyone should live unitedly in the society.</sent>
+				<sent id ="6">Because unity is the strength.</sent>
+				<sent id ="7">In this respect Gautama Buddha mentioned about seven unavoidable duties for all.</sent>
+				<sent id ="8">The word Aparihaniya in Pali means indispensable or obligatory.</sent>
+				<sent id ="9">So Satta Aparihaniya Dhamma means seven obligatory rules of the religion.</sent>
+				<sent id ="10">To keep them united, the Buddha admonished the Vajjis of Vaisali the seven indispensable rules and impressed them to obey the rules.</sent>
+				<sent id ="11">It is known as Satta Aparihaniya Dhamma in Buddhism.</sent>
+				<sent id ="12">The Vajjis of Vaisali are also known as the Briji.</sent>
+				<sent id ="13">During the life of Gautama Buddha, Vaisaii was a very rich city.</sent>
+				<sent id ="14">Once the city was in the grip of sudden famine, epidemic diseases and oppression of wicked persons.</sent>
+				<sent id ="15">They began to think how they could save the city from those three kinds of tyranny.</sent>
+				<sent id ="16">Then they remembered Gautama Buddha.</sent>
+				<sent id ="17">They thought, Buddha was compassionate one.</sent>
+				<sent id ="18">He surely would rescue them from the danger.</sent>
+				<sent id ="19">Then they went to the Buddha.</sent>
+				<sent id ="20">Gautama Buddha went to Vaisali on their request.</sent>
+				<sent id ="21">As soon as he had reached in the city it began to rain cats and dogs.</sent>
+				<sent id ="22">As a result, the rotten rubbish were washed away by the flow of water.</sent>
+				<sent id ="23">Then by the order of the Buddha, Ananda recited the Ratana Sutta moving all around in the city.</sent>
+				<sent id ="24">After the recitation of the sutta was over the city became free from oppression.</sent>
+				<sent id ="25">The people of the city became happy at this.</sent>
+				<sent id ="26">So they built Shrines there.</sent>
+				<sent id ="27">Gautama Buddha stayed at the temples for many days.</sent>
+				<sent id ="28">While staying there in Sarandada Chaitya he advised the Vajji to live in unitedly and preached seven indispensable duties.</sent>
+				<sent id ="29">From the time that they were united, there did not happen any oppression and happened no anomalous or any anarchy in the country.</sent>
+				<sent id ="30">The enemy from the outside did not dare to attack their country.</sent>
+				<sent id ="31">Even the king Ajatasattu, did not attack them.</sent>
+				<sent id ="32">Then the son of Bimbisara, prince Ajatasattu was the king of Magadha.</sent>
+				<sent id ="33">Vaisali was the neighbour-country.</sent>
+				<sent id ="34">Vaisali was the rich city of the Vajji.</sent>
+				<sent id ="35">The Ganges was flown in the border of both of the kingdoms.</sent>
+				<sent id ="36">There was a big port on the bank of the Ganges.</sent>
+				<sent id ="37">Half of the port was under the possession of the Vajji and the other half with Magadha.</sent>
+				<sent id ="38">That means both of them had an authority over the port.</sent>
+				<sent id ="39">At times the most valuable things used to come there in the port.</sent>
+				<sent id ="40">The Vajjis were united.</sent>
+				<sent id ="41">The Vajji would buy those valuable things before king Ajatasattu appeared there.</sent>
+				<sent id ="42">Ajatasattu often went back in despair.</sent>
+				<sent id ="43">But he became angry as he had to go back in vain again and again.</sent>
+				<sent id ="44">Then he determined to attack Vaisali.</sent>
+				<sent id ="45">Before attacking he thought that the Vajjis were strong.</sent>
+				<sent id ="46">They were educated and united.</sent>
+				<sent id ="47">As they were united so their mental force was very strong.</sent>
+				<sent id ="48">There was no certainty to defeat them.</sent>
+				<sent id ="49">So he thought to discuss with Samyaka Sambuddha before attacking them.</sent>
+				<sent id ="50">So thinking he sent a minister named Varsakar to the Buddha.</sent>
+				<sent id ="51">Buddha was then living at Griddhrakut in Rajagriha.</sent>
+				<sent id ="52">Showing respect to the Buddha, Varsakar informed Him about the intention of Ajatasattu.</sent>
+				<sent id ="53">Ananda was then present there.</sent>
+				<sent id ="54">In reply the Buddha cited about the obeying of the seven rules by the Vajji.</sent>
+				<sent id ="55">He informed that those are the origin of their riches and the source of their un- destroyable strength.</sent>
+				<sent id ="56">As long as the Vajji gathered in the meetings and the conferences they would prosper and there would have no cause for downfall.</sent>
+				<sent id ="57">As many days the Vajji would be united, worked together unanimously, they would be enriched but not be downfall.</sent>
+				<sent id ="58">Then the Buddha said to the Brahmin, 0 Brahmin, once I advised the Vajjis to obey the Satta Aparihaniya Dhamma.</sent>
+				<sent id ="59">As many days they would perform them, their country would prosper and none could defeat them.</sent>
+				<sent id ="60">The Seven Aparihaniya Dhamma that have been explained till now we all should perform them.</sent>
+				<sent id ="61">We should go unitedly in the conference that held in the villages and wards.</sent>
+				<sent id ="62">Then we should return our home in a body after the meeting is over.</sent>
+				<sent id ="63">If any decision is taken in the meeting they should be obeyed at a time.</sent>
+				<sent id ="64">Nobody should take the shelter of injustice.</sent>
+				<sent id ="65">This will cause loss to the society and the country and retard progress.</sent>
+				<sent id ="66">Beyond this, everyone should respect to the superiors and the woman should be honoured.</sent>
+				<sent id ="67">The temples should be re-built.</sent>
+				<sent id ="68">Gifted wealth of the religion should not be enjoyed by the individuals.</sent>
+				<sent id ="69">The virtuous should be honoured.</sent>
+				<sent id ="70">These are the best works.</sent>
+				<sent id ="71">It may bring good to the people.</sent>
+				<sent id ="72">The country will be enriched.</sent>
+				<sent id ="73">The Vajjis obeyed these, so nothing stood in their way to prosperity.</sent>
+				<sent id ="74">Later, the Seven Aparihaniya Doctrines were also introduced for the monks from the seven doctrines of the Vajjis.</sent>
+				<sent id ="75">Thus the Satta Aparihaniya Dhamma is our protector.</sent>
+				<sent id ="76">We should obey each of the precepts that contain in it.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,179 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.629</idno>
+				<idno type="Number of sentences">151</idno>
+				<idno type="Number of tokens">2115</idno>
+				<idno type="Number of token types">834</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t20">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In general, the large areas of land covered by trees are known as forests.</sent>
+				<sent id ="2">Though plants of diverse types are found, the forest are usually covered by large trees.</sent>
+				<sent id ="3">Besides trees, different animals, birds and insects are the integral parts of forest, and all, these in combination create the typical environment of the forests.</sent>
+				<sent id ="4">The forests may be natural or artificial.</sent>
+				<sent id ="5">The forest which has been developed without the direct participation, of men is known as natural forest.</sent>
+				<sent id ="6">The Sundarban, Bhawal and Modhupur Shalban are the typical examples of natural forests.</sent>
+				<sent id ="7">The forests of newly create by planting trees are known as artificial forests.</sent>
+				<sent id ="8">Forest department created Segun forest of Chittagong, Kaora and Byne forests of coastal are the examples of artificial forests.</sent>
+				<sent id ="9">Forest is playing a very important role in the development of human civilization.</sent>
+				<sent id ="10">Forests were the source of food and shelter for man in the ancient period.</sent>
+				<sent id ="11">Still to day the contribution of forest plants in our daily life is great.</sent>
+				<sent id ="12">We can directly meaure some of the contributions as well.</sent>
+				<sent id ="13">The examples are, furniture wood, fuel wood, vegetables, fruits and medicinal plants.</sent>
+				<sent id ="14">The economic values of these forest materials can easily calculated too.</sent>
+				<sent id ="15">On the other hand some of the contribution cannot be measured in terms of money.</sent>
+				<sent id ="16">Forests preserve the balance in the natural environment.</sent>
+				<sent id ="17">Forests reduce the erosion of fertile soil increase water storage and increase the flow of river stream.</sent>
+				<sent id ="18">The importance of forests may be divided into 4 classes on the basic of contributions.</sent>
+				<sent id ="19">The importance of forest is extensive in our daily life.</sent>
+				<sent id ="20">The construction timber fuel wood, bamboo, raw materials for industries and medicinal plants are collected from forests.</sent>
+				<sent id ="21">The economic importance of these materials are discussed below.</sent>
+				<sent id ="22">The role of timber and materials wood in our daily life is very important.</sent>
+				<sent id ="23">Wood is indispensable of construction of house and furniture.</sent>
+				<sent id ="24">Weed is utilized for preparing large number of materials including boats, agricultural implements and its parts and scientific instruments.</sent>
+				<sent id ="25">Millions of people of the country earn their livelihood depending on the employment in the wood works.</sent>
+				<sent id ="26">So wood is playing and important role in solving employment problems and elevation of poverty.</sent>
+				<sent id ="27">Majority of inhabitant of Bangladesh use wood materials as fuel for cooking.</sent>
+				<sent id ="28">The present requirement of fuel wood in the country is about 300 million cubic metre.</sent>
+				<sent id ="29">Its price is about Tk. 150 billion according to market price.</sent>
+				<sent id ="30">About 1 million working people are involved in the collection and business of wood materials and thus have become dependent for there livelihood.</sent>
+				<sent id ="31">Considering these things the fuel wood is playing and important role in the economy of the country.</sent>
+				<sent id ="32">The demand for fuel wood is increasing day by day with the increase of population.</sent>
+				<sent id ="33">As a result problem due to scarcity of fuel wood is also increasing.</sent>
+				<sent id ="34">The rural people are burning cowdung and crop products at an increased rate.</sent>
+				<sent id ="35">If cowdung and cropresidues are used as manure for the crop lands.</sent>
+				<sent id ="36">The soil ferility and crop production would increase.</sent>
+				<sent id ="37">The organic matter content of the soils would be maintained on the other hand.</sent>
+				<sent id ="38">So it is possible to contribute more to the national economy by producing and supplying more fuel wood.</sent>
+				<sent id ="39">Bamboos of different types are collected from the forest areas of Bangladesh.</sent>
+				<sent id ="40">Large quantities of Bamboos are also harvested from the rural household bush.</sent>
+				<sent id ="41">Bamboo has extensive use as a raw material for industries.</sent>
+				<sent id ="42">Both green and ripe bamboos are used for construction of house.</sent>
+				<sent id ="43">Million of people are engaged in the bamboo production and utilization activities for their livelihood.</sent>
+				<sent id ="44">The major raw materials for industries like paper, rayon, matches, tea packing, hard boards etc. are coming from forests.</sent>
+				<sent id ="45">Forest based wood and bamboo are raw materials for the two largest paper mills of the country.</sent>
+				<sent id ="46">Khulna Hard board Mill, Chondraghona Royon Mill, Sylhet Pillps and Paper Mill and match factories of the country are basically dependent on the wood supplied from the forests.</sent>
+				<sent id ="47">The supply of raw materials for the small and cottage industries also come from the forest trees.</sent>
+				<sent id ="48">Million of labours technicians and profesionals are employed these industries.</sent>
+				<sent id ="49">The cottage industries like making furniture and making handicrafts from bamboo and cane have considerable importance in the economy of the country.</sent>
+				<sent id ="50">These handicraft products are also exported to other countries now-a-days.</sent>
+				<sent id ="51">Cottage industries also help increasing employment and simultaneously earning foreign currencies.</sent>
+				<sent id ="52">Medicinal plants are treated as important resource of our country from the ancient time.</sent>
+				<sent id ="53">The major portion of the medicinal plants are collected from the forests.</sent>
+				<sent id ="54">Forest is the source of the popular medicinal plants like Amlaki, Bohera, Haritaki and some others useful plants.</sent>
+				<sent id ="55">The major raw material of Ayurbedic phannaceutical industries are the medicinal plants of the country.</sent>
+				<sent id ="56">The general people of the country are being benefited by getting employment in the industry by taking these types of Ayurbedic medicines.</sent>
+				<sent id ="57">Large quantities of honey, wax and roof materials like Golpata are collected from the Sundarban.</sent>
+				<sent id ="58">The nearby, inhabitants collects fruits and vegetables from the forest to meet up their food requirement.</sent>
+				<sent id ="59">These forests also help in solving the nutritional problem of man.</sent>
+				<sent id ="60">The forest plays a very great role in preserving the balance of the natural environment.</sent>
+				<sent id ="61">We know that a country should have 25 percent of the area covered under forest, for balancing the enviroment.</sent>
+				<sent id ="62">The main points of the mechanism of balancing environment by forest are briefly discussed below;</sent>
+				<sent id ="63">The forest trees assimilate the excess carbondioxide and oxygen in the atmospheric air.</sent>
+				<sent id ="64">Plants through transpiration increase moisture percentage or humidity of the atmospheric air.</sent>
+				<sent id ="65">These moisture helps in making rainfall.</sent>
+				<sent id ="66">Reduce the extremeties of the weather conditions.</sent>
+				<sent id ="67">Control the speed of wind.</sent>
+				<sent id ="68">Protects the soil from erosion and land slip.</sent>
+				<sent id ="69">Increases the under ground water reserve.</sent>
+				<sent id ="70">Control the flow of river water.</sent>
+				<sent id ="71">Increase fertility of soils.</sent>
+				<sent id ="72">Gives shelter to wild animals, birds and insects and also supplies food.</sent>
+				<sent id ="73">Protects the habitats from natural disasters like tornado and flood.</sent>
+				<sent id ="74">Biodiversity may be defined as the presence and distribution of various forms of plant, animal and micro organisms in a certain ecological niche.</sent>
+				<sent id ="75">Many crops which are now commercially cultivated were known to be originally collected from wild species grown in the forest.</sent>
+				<sent id ="76">These crop species have been developed and made adapted suitably for cultivation in fields through scientific research.</sent>
+				<sent id ="77">Likewise, more plant species may be needed in future which might be collected from the forest environments.</sent>
+				<sent id ="78">So it is very important and we should carefully conserve the biodiversity of the forest environments.</sent>
+				<sent id ="79">So it is very necessary to concern natural forests to protects the biodiversity.</sent>
+				<sent id ="80">The forest environments plays vital role in the recreation of busy social life.</sent>
+				<sent id ="81">Open and pure air, green plants, diverse wild animal, flowing river and fountain etc. of the forest are the major attractive components of human recreation.</sent>
+				<sent id ="82">It attributes long term influence on human life.</sent>
+				<sent id ="83">For these resons recreation in natural forest environment is something different, diverse and in belively.</sent>
+				<sent id ="84">Well designed plantaton areas for recreation activities has not yet been fully developed in Bangladesh.</sent>
+				<sent id ="85">The national parks have been established at Bhawal and Modhupur near Dhaka.</sent>
+				<sent id ="86">Peoples rush to these recreational facilities in the Bhawal National Park during winter season.</sent>
+				<sent id ="87">Modhupur National Park and Dhaka Botanical Garden are also important as recreational centres.</sent>
+				<sent id ="88">Several other forest based recreational centre have been established at different regions of the country.</sent>
+				<sent id ="89">Himchari and Teknaf of Cox's bazar, Jointia of Sylhet, Ramsagar of Dinajpur and Hiron point of Sundarban are the major regional centres.</sent>
+				<sent id ="90">These forest based recreational centre may be modernized by, providing more facilities.</sent>
+				<sent id ="91">The forest land area of Bangladesh is about 24.6 lacs hectare comprising 17% of the total land area.</sent>
+				<sent id ="92">But the forest areas are not well distributed through out the country.</sent>
+				<sent id ="93">The major forests are situated in the eastern south eastern and south western regions of the country.</sent>
+				<sent id ="94">Forset in scarce in the large areas of northern and north western regions.</sent>
+				<sent id ="95">The forest areas of the country are illustrated in the following map.</sent>
+				<sent id ="96">The forests of Bangladesh and its distribution may divided in to three classes according to land type and physiography.</sent>
+				<sent id ="97">More than half of forest areas of Bangladesh are distributed only in the hilly areas.</sent>
+				<sent id ="98">Chittagong, Chittagong hill-tracts, Cox's bazar and Sylhet are the major places of hill forests.</sent>
+				<sent id ="99">The total area of hill forest land is about 13.16 lac.</sent>
+				<sent id ="100">The major trees of the hill forest are Shegun, Garjan, Chapalish, Koroi, Telsur, Gamar, Jarul and Champa.</sent>
+				<sent id ="101">Besides, huge quantities of bamboo are available in these forests.</sent>
+				<sent id ="102">The important wild animals of the hill forest areas include elephant, deer, tiger, monkey, bear, wild foul and others.</sent>
+				<sent id ="103">Mainly the Shalban of greater Dhaka, Mymensingh, Tangail, Rangpur, Dinajpur, Rajshahi and Comilla is known as plainland forest.</sent>
+				<sent id ="104">Total area of the plain land forest is about 1.231ac hectares.</sent>
+				<sent id ="105">The major forest tree species is Shal, Gajarj, Other trees are Jarul Koroi, Babla.</sent>
+				<sent id ="106">These forests are situated near, human habitations.</sent>
+				<sent id ="107">As a result peoples heavily cut forest trees to meet up their daily life and business needs.</sent>
+				<sent id ="108">Many pieces of forest lands have been illegally cleared and houses were installed.</sent>
+				<sent id ="109">The forest lands are being covered to crop land.</sent>
+				<sent id ="110">As it result the natural forest are becoming tree less day by day.</sent>
+				<sent id ="111">However, presently the deforested areas are being replanted with the participation of local peoples.</sent>
+				<sent id ="112">Such participatory plantation include tree species like Akashmani, Eucalyptus and Arjun.</sent>
+				<sent id ="113">The natural mangrove forest, or tidal forests are seen in Khulna, Satkhira and Bagerhat.</sent>
+				<sent id ="114">This famous forest is known as SUNDARBON.</sent>
+				<sent id ="115">Sundarban is the largest and the most resourceful mangrove forest of the world.</sent>
+				<sent id ="116">The forest is daily flooded by tidal water as it lies near to the Bay of Bengal.</sent>
+				<sent id ="117">The types and nature of the tree species of the mangrove tidal forest is different from other common trees of the country.</sent>
+				<sent id ="118">SUNDARI is the major free of the forest.</sent>
+				<sent id ="119">The name Sundarban has been given to this forest after the name of the Sundari, tree.</sent>
+				<sent id ="120">Among others the trees like Gaoa, Goran Pashur, Kaora, Bain, and Kakra are important.</sent>
+				<sent id ="121">Golpata is one of the important plant species of Sundarban.</sent>
+				<sent id ="122">The golpata leaf is used in making roof of rural katcha houses.</sent>
+				<sent id ="123">The honey produced in Sundarban in very nutritious and tasty.</sent>
+				<sent id ="124">The world famous Royal Bengal Tiger lives this Sundarban forest.</sent>
+				<sent id ="125">Other animals of this forest are deer, wild pig monkey.</sent>
+				<sent id ="126">Python, crocodile and various birds.</sent>
+				<sent id ="127">Besides Sumdarban, the newly raised coastal charlands are being continuously planted.</sent>
+				<sent id ="128">The main tree species of the man made coastal plantation is Kaora.</sent>
+				<sent id ="129">Bain and Jhao trees are also planted in some areas.</sent>
+				<sent id ="130">Surveys have been carried out to determine the amount of wood stock in different forests of Bangladesh.</sent>
+				<sent id ="131">The trees of forests that are stocked are called growing stock.The forest management planning is developed on the basis of how much growing stock are there in the forests.</sent>
+				<sent id ="132">The wood stock in different forests are 88.91 million cubic metre in amount.</sent>
+				<sent id ="133">There are two specific acts for the management of forest resources and wild animals.</sent>
+				<sent id ="134">For managing wild life one of this acts is Bangladesh forest act 1927 Ammended 1990 and the other is Wild Life Conservation act 1974.</sent>
+				<sent id ="135">Illegal intrusion, capturing government forest land and construction of house or cultivating lands are punishable crimes.</sent>
+				<sent id ="136">Cutting trees without permission from appropriate authorities, removal and transport are also punishable crimes.</sent>
+				<sent id ="137">The persons doing such crimes may be given munimum one year imprisonment along with a fine of Taka Five Thousand.</sent>
+				<sent id ="138">The accused may be given two years imprisonment and a fine of Taka Fifty Thousand as the highest punishment.</sent>
+				<sent id ="139">Besides, punishments may also be given to the persons who carries government forest materials without due permission.</sent>
+				<sent id ="140">Such cases are dealt in the court of a first class magistrate.</sent>
+				<sent id ="141">Catching, hunting and killing by posion of wild animals without permission are also punishable crimes.</sent>
+				<sent id ="142">Husbandry of wild animal as pet is also a punishable activity.</sent>
+				<sent id ="143">Imprisonment for minimum 6 months and of Taka Two Thousand may be imposed to the accused such illegal activities.</sent>
+				<sent id ="144">The maximum imprisonment may be up to 2 months.</sent>
+				<sent id ="145">The trial of cases are conducted in the court of the first class magistrates.</sent>
+				<sent id ="146">The teacher along with the students will visit the forest (area) nearest their school or the catchment areas where many trees or are planted.</sent>
+				<sent id ="147">Enlist and describe the ecological characteristics areas.</sent>
+				<sent id ="148">Give a description of tree composition estemated numbers and existence of different types of trees plants herbs, shrubs, climbing, vines etc.</sent>
+				<sent id ="149">Make a list of some important trees and write about the traditionel use of the trees.</sent>
+				<sent id ="150">Give a description of birds and animals which you have been observed.</sent>
+				<sent id ="151">Write all these descriptions sequentially in your preactical khata.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

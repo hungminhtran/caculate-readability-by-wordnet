@@ -1,0 +1,184 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-socStud-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.519</idno>
+				<idno type="Number of sentences">156</idno>
+				<idno type="Number of tokens">1369</idno>
+				<idno type="Number of token types">579</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t89">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">There are more than 45 ethnic groups living in Bangladesh.</sent>
+				<sent id ="2">Each of the ethnic groups maintains its own culture and traditions.</sent>
+				<sent id ="3">These small groups of people are known as Adivasis.</sent>
+				<sent id ="4">They live in the hills, forests and plain lands.</sent>
+				<sent id ="5">We will now know about the life-styles of some of the Adivasis.</sent>
+				<sent id ="6">The Chakmas in their own language call themselves ‘Chagma’.</sent>
+				<sent id ="7">Chakmas live in the Rangamati and Khagrachhari districts.</sent>
+				<sent id ="8">Scatterdly they also live in the Bandarban district.</sent>
+				<sent id ="9">Chakmas are Buddists.</sent>
+				<sent id ="10">They are divided in many tribes.</sent>
+				<sent id ="11">They help one another in times of danger and financial need.</sent>
+				<sent id ="12">They have certain social characteristics.</sent>
+				<sent id ="13">We will now know about them.</sent>
+				<sent id ="14">The chakmas call their villages Adam and the village chief Karbari.</sent>
+				<sent id ="15">The villages are located in open spaces on low hills beside small rivers.</sent>
+				<sent id ="16">They build platforms with wood and bamboo on strong trees for living.</sent>
+				<sent id ="17">They use wooden stairs to get to the platforms.</sent>
+				<sent id ="18">They call it ijar.</sent>
+				<sent id ="19">There are temples in almost all the villages.</sent>
+				<sent id ="20">A temple is called kang in their language.</sent>
+				<sent id ="21">Now-a-days chakmas live in the plain lands also.</sent>
+				<sent id ="22">They have earned good names in education, business and trades as well as in jobs.</sent>
+				<sent id ="23">The staple food of the chakmas is rice.</sent>
+				<sent id ="24">They like to eat fish, meat and vegetable with rice.</sent>
+				<sent id ="25">They are very fond of dry fish.</sent>
+				<sent id ="26">The chakmas weave fabric in their own looms.</sent>
+				<sent id ="27">They make their clothes with this fabric.</sent>
+				<sent id ="28">Their indigenous tradition is imprinted in these clothes.</sent>
+				<sent id ="29">The name of the traditional dress chakma women wear is called pinon khadi.</sent>
+				<sent id ="30">The boys wear different kinds of dresses.</sent>
+				<sent id ="31">Now the chakmas have become used to wearing modern dresses.</sent>
+				<sent id ="32">Chakmas follow Jum method in cultivating their lands.</sent>
+				<sent id ="33">This method of cultivation is called Jum.</sent>
+				<sent id ="34">They plough the lands and grow various crops.</sent>
+				<sent id ="35">They make dresses.</sent>
+				<sent id ="36">Shawls and other products made by them have great demand home and abroad.</sent>
+				<sent id ="37">They make baskets, fans, combs, flutes and other musical instruments from bamboos and canes.</sent>
+				<sent id ="38">The baskets made by them are very nice.</sent>
+				<sent id ="39">Chakrnas observe various religious and social occasions.</sent>
+				<sent id ="40">Besides this, during celebrating Maghi Purnima they observe kathin chibar danotsav.</sent>
+				<sent id ="41">Biju is their greatest festival.</sent>
+				<sent id ="42">Chakmas observe many rituals and hold various functions.</sent>
+				<sent id ="43">After birth children are fed honey.</sent>
+				<sent id ="44">After seven days a priest is called to purify the infant by washing its hair.</sent>
+				<sent id ="45">They bury the children after death.</sent>
+				<sent id ="46">Customs followed in marriages are very nice.</sent>
+				<sent id ="47">When the bridegroom's party reach the bride's house they are received very cordially.</sent>
+				<sent id ="48">With this the marriage ceremony comes to an end.</sent>
+				<sent id ="49">The Chakmas have their own alphabet and language.</sent>
+				<sent id ="50">They talk in their language among themselves.</sent>
+				<sent id ="51">They have their own songs, dances and literature.</sent>
+				<sent id ="52">Fairy tales, legends and nursery rhymes also are prevalent among them.</sent>
+				<sent id ="53">Girls like to play bauchi.</sent>
+				<sent id ="54">Chakmas enjoy good health.</sent>
+				<sent id ="55">They are studying in Bangla.</sent>
+				<sent id ="56">Recently opportunity has been created for them to study in their own language.</sent>
+				<sent id ="57">They are very much careful about their own language and culture.</sent>
+				<sent id ="58">Most of the Marmas live in Bandarban, Khagrachhari and Rangamati districts.</sent>
+				<sent id ="59">Marmas also live in Cox's bazaar, Patuakhali and Barguna districts.</sent>
+				<sent id ="60">In these areas they are known as Rakhain.</sent>
+				<sent id ="61">Marma society is patriarchal.</sent>
+				<sent id ="62">They have their own king.</sent>
+				<sent id ="63">The king conducts the social cases with the help of aides.</sent>
+				<sent id ="64">Marmas are divided in a few tribes.</sent>
+				<sent id ="65">A few villages make a Mouja.</sent>
+				<sent id ="66">The chief of Mouja is called headman.</sent>
+				<sent id ="67">The chief of the village is called Roaja or Karbari.</sent>
+				<sent id ="68">The district administrator appoints the headmen at the recommendation of the king.</sent>
+				<sent id ="69">Mannas live a well-disciplined life in the society.</sent>
+				<sent id ="70">They love songs, dances and merriments.</sent>
+				<sent id ="71">Marma society is also full of various occasions.</sent>
+				<sent id ="72">We will now know about them.</sent>
+				<sent id ="73">The staple food of the Marmas is rice.</sent>
+				<sent id ="74">They like to eat fish, meat and vegetable.</sent>
+				<sent id ="75">They are fond of curries prepared with hen, chicken and dry fish.</sent>
+				<sent id ="76">In earlier days Marma men used to wear handloom-woven clothes named doah.</sent>
+				<sent id ="77">Now-a-days they wear lungis and shirts.</sent>
+				<sent id ="78">Girls like to adorn themselves.</sent>
+				<sent id ="79">They make different kinds of attractive chignons.</sent>
+				<sent id ="80">They also wear Arakani dresses.</sent>
+				<sent id ="81">They use waist band called khagro made of silver.</sent>
+				<sent id ="82">The marmas are very hard-working.</sent>
+				<sent id ="83">They follow Jum method in cultivation.</sent>
+				<sent id ="84">The women do the household chores as well as take part in cultivation.</sent>
+				<sent id ="85">In groups they prey on fish and crabs in the rivers.</sent>
+				<sent id ="86">They make clothes and cigars.</sent>
+				<sent id ="87">Like the Ckakmas, Marmas are also Buddhists.</sent>
+				<sent id ="88">Both young boys and girls take part in religious and social functions.</sent>
+				<sent id ="89">The main social festival of the Marmas is called sangai.</sent>
+				<sent id ="90">During religious festivals they go to Kang to pay their homage to Gautam Buddha.</sent>
+				<sent id ="91">After birth a child is named on an auspicious day.</sent>
+				<sent id ="92">An astrologer (Boidya) is invited to select a name.</sent>
+				<sent id ="93">Marma boys cannot marry anyone outside their tribes.</sent>
+				<sent id ="94">But the girls are allowed to marry somebody outside the tribes.</sent>
+				<sent id ="95">In Marma society the girls usually choose their bridegrooms.</sent>
+				<sent id ="96">A marriage ceremony is held with great pomp and fun-fair.</sent>
+				<sent id ="97">This worship ceremony is known as chung-mangleh.</sent>
+				<sent id ="98">Now-a-days Marmas are educating themselves.</sent>
+				<sent id ="99">They are studying in schools, colleges and universities.</sent>
+				<sent id ="100">Besides, they are doing jobs and business.</sent>
+				<sent id ="101">The Saontals live in the regions of Dinajpur and Rangpur.</sent>
+				<sent id ="102">The Saontals live in great numbers in Ghoraghat.</sent>
+				<sent id ="103">Fulbari, Chirirbandar, Kaharol of Dinajpur district and in Pirganj of Rangpur district.</sent>
+				<sent id ="104">A small number of Saontals also live in Rajshahi and Bogura regions.</sent>
+				<sent id ="105">The Saontals have been living in this country since ancient times.</sent>
+				<sent id ="106">They are divided in twelve tribes.</sent>
+				<sent id ="107">In Saontal language these tribes are called Paaris.</sent>
+				<sent id ="108">The houses are small and made of mud.</sent>
+				<sent id ="109">There is no window in the house.</sent>
+				<sent id ="110">The Saontals like to live clean and tidy.</sent>
+				<sent id ="111">Saontal men used to wear dhuti made with white linen.</sent>
+				<sent id ="112">Now they wear lungi, dhuti, genji and gamchha.</sent>
+				<sent id ="113">Women wear a dress divided in two parts named fata.</sent>
+				<sent id ="114">Now they also wear saris.</sent>
+				<sent id ="115">All male folks have ulki imprinted in their hands.</sent>
+				<sent id ="116">Women use ornaments like bala, jhumka, ring, mal, hasuli, etc, made of silver.</sent>
+				<sent id ="117">Saontal women like to adorn their chignons (kliopa) with flowers.</sent>
+				<sent id ="118">Before they used to follow the ritual of cremating the dead body.</sent>
+				<sent id ="119">At present for financial reasons Saontals everywhere in Bangladesh bury the dead.</sent>
+				<sent id ="120">Rice is the staple food of the saontals.</sent>
+				<sent id ="121">They are very much fond offish, crabs, hens, chickens, pigs, birds and rabbits.</sent>
+				<sent id ="122">The saontals have accepted agriculture as their main occupation from ancient times.</sent>
+				<sent id ="123">Both men and women work in the fields.</sent>
+				<sent id ="124">Men plough the land and women sow the seeds and reap the crops.</sent>
+				<sent id ="125">Saontals make the agricultural tools by themselves.</sent>
+				<sent id ="126">They are very much enthusiastic about hunting.</sent>
+				<sent id ="127">Now they are facing problems in this occupation as the forests are reducing.</sent>
+				<sent id ="128">Presently many Saontal men and women work as porters, labourers, workers and others.</sent>
+				<sent id ="129">In Saontal language gods are called bonga.</sent>
+				<sent id ="130">The sun is their chief god.</sent>
+				<sent id ="131">The god of the hills is called marangmuro.</sent>
+				<sent id ="132">This god has the maximum influence on the lives of the Saontals.</sent>
+				<sent id ="133">They believe this god to be responsible for their life and death.</sent>
+				<sent id ="134">The name of their home god is boncher.</sent>
+				<sent id ="135">Saontals are very fond of amusement.</sent>
+				<sent id ="136">During various religious and social functions they indulge themselves in songs and dances.</sent>
+				<sent id ="137">They have close relation with nature.</sent>
+				<sent id ="138">They arrange various festivals.</sent>
+				<sent id ="139">Their annual festival is called sohrai.</sent>
+				<sent id ="140">In this festival girls dance in groups.</sent>
+				<sent id ="141">They celebrate baha festival when flowers blossom at the end of winter.</sent>
+				<sent id ="142">The name of one of their favourite festival is dasai.</sent>
+				<sent id ="143">They follow their own social Icustoms.</sent>
+				<sent id ="144">They lead a very simple life.</sent>
+				<sent id ="145">At present Saontals are being influenced by bengali culture.</sent>
+				<sent id ="146">Many of them are becoming used to modern life-style after receiving education.</sent>
+				<sent id ="147">Changes are observed in their behavior and practices.</sent>
+				<sent id ="148">They are interested in arts and crafts.</sent>
+				<sent id ="149">They make and play on musical instruments like dhol, dotara, flute, mego.</sent>
+				<sent id ="150">They draw pictures on the walls of their houses.</sent>
+				<sent id ="151">They draw designs on pots and pitchers by lime.</sent>
+				<sent id ="152">All of us will live in this country together.</sent>
+				<sent id ="153">Adivasis are also citizens of Bangladesh.</sent>
+				<sent id ="154">We will be respectful towards their social rites and customs.</sent>
+				<sent id ="155">In this way a friendly relationship will grow up among all of us.</sent>
+				<sent id ="156">The places where the ethnic people live are shown on the map.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

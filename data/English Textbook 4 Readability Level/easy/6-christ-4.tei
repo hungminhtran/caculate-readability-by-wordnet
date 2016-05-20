@@ -1,0 +1,157 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-christ-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.496</idno>
+				<idno type="Number of sentences">129</idno>
+				<idno type="Number of tokens">1436</idno>
+				<idno type="Number of token types">519</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t75">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Perhaps you have heard about the prophet Samuel in your previous class.</sent>
+				<sent id ="2">Samuel was one of the greatest men of God. in Old Testament.</sent>
+				<sent id ="3">And in Old Testament there are two books in his name.</sent>
+				<sent id ="4">God called him for his service in a strange way.</sent>
+				<sent id ="5">Samuel was the only son very dear to his parents.</sent>
+				<sent id ="6">His mother got him by asking God.</sent>
+				<sent id ="7">So hrs name was Samuel meaning receiving by asking..</sent>
+				<sent id ="8">And she offered Samuel for God's services.</sent>
+				<sent id ="9">Can you imagine of such sacrifice?</sent>
+				<sent id ="10">You too are dear to your parents.</sent>
+				<sent id ="11">But can your parents offer you to God like Samuel?</sent>
+				<sent id ="12">Yes, very hard to do this.</sent>
+				<sent id ="13">Samuel's mother could do it.</sent>
+				<sent id ="14">Because she got Samuel by the mercy of God.</sent>
+				<sent id ="15">So she expressed her gratitude to the Lord by offering him for God's service.</sent>
+				<sent id ="16">God too made Samuel a prophet as He wished.</sent>
+				<sent id ="17">If we surrender ourselves to God he would also use us for His service.</sent>
+				<sent id ="18">Let us feel God's call in our life by hearing about Samuel.</sent>
+				<sent id ="19">There was a man named Elkanah in the hill- country of Ephraim province.</sent>
+				<sent id ="20">He had two wives Hannah and Peninnah.</sent>
+				<sent id ="21">Hannah had no children.</sent>
+				<sent id ="22">Every year they went to worship and offer sacrifices to the Lord Almighty at Shiloh.</sent>
+				<sent id ="23">Each time Elkanah offered his sacrifice, he would give one share of the meat to Hannah.</sent>
+				<sent id ="24">At this she would feel sorry for her because that she had no child.</sent>
+				<sent id ="25">Her husband of course, was very kind to her because of this.</sent>
+				<sent id ="26">One day Hannah could not bear her inner feeling anymore, she cried bitterly and prayed before the altar of God.</sent>
+				<sent id ="27">She said to the Lord, Oh Lord, please look at me, give me a son.</sent>
+				<sent id ="28">I will offer him for your service in the temple.</sent>
+				<sent id ="29">He will never have his hair-cut.</sent>
+				<sent id ="30">Hannah prayed for long.</sent>
+				<sent id ="31">Eli, the priest of the temple, thought that she was drunk.</sent>
+				<sent id ="32">After some days Hannah by the grace of God became pregnant and gave birth to a son.</sent>
+				<sent id ="33">She named him Samuel (receiving by asking).</sent>
+				<sent id ="34">God blessed them with a son.</sent>
+				<sent id ="35">So Elkana and his family offered sacrifices to the Lord.</sent>
+				<sent id ="36">Hannah dedicated her son Samuel to the Lord.</sent>
+				<sent id ="37">So you have seen how God answered the prayer of Hannah.</sent>
+				<sent id ="38">We have many things here in this world.</sent>
+				<sent id ="39">But without God's will despite all things we cannot be satisfied.</sent>
+				<sent id ="40">That is why we let out all our sorrow and joy to God.</sent>
+				<sent id ="41">We do in our prayer.</sent>
+				<sent id ="42">God also wants us to share our sorrow and happiness.</sent>
+				<sent id ="43">If He desires He can grant a man's prayer.</sent>
+				<sent id ="44">Jesus said, The Father, will give you whatever you ask of him in my name.</sent>
+				<sent id ="45">We pray to the Lord in the name of Jesus.</sent>
+				<sent id ="46">It means Jesus mediates on our behalf.</sent>
+				<sent id ="47">He is the path through whom we go to God.</sent>
+				<sent id ="48">One Priest said, Pray in any style of your life.</sent>
+				<sent id ="49">Even though your prayer is not accepted, still pray.</sent>
+				<sent id ="50">Hannah got the answer of her prayers because it was sincere and powerful.</sent>
+				<sent id ="51">How do you pray?</sent>
+				<sent id ="52">Remember it if you pray to the Lord with your whole heart, he listens to you.</sent>
+				<sent id ="53">Nothing happens in this world or in your life without his knowledge.</sent>
+				<sent id ="54">The Lord has filled my heart with joy how happy I am because of what He has done.</sent>
+				<sent id ="55">I laugh at my enemies, how joyful I am because God has helped me.</sent>
+				<sent id ="56">Do you know what are these words said above?</sent>
+				<sent id ="57">These are the first part of the song of praise sung by Samuels mother.</sent>
+				<sent id ="58">Samuels Father Elkanah and his family came back after offering their sacrifice to the Lord.</sent>
+				<sent id ="59">And they slew a bullock and brought the child to Eli.</sent>
+				<sent id ="60">I had promised if I was given a son I would offer him to the Lord.</sent>
+				<sent id ="61">He granted my prayer and gave me a son.</sent>
+				<sent id ="62">Now I have come to keep my promise.</sent>
+				<sent id ="63">I offer this son to the Lord.</sent>
+				<sent id ="64">This son would live here with the Lord for his whole life.</sent>
+				<sent id ="65">Then Hannah with the gratitude bowed before the Lord, and raised her voice in praising and joy.</sent>
+				<sent id ="66">She explained in her song the power of God and his kindness.</sent>
+				<sent id ="67">Thus she handed over her son Samuel to Eli and went back home with her husband.</sent>
+				<sent id ="68">Sometimes you have seen in the Church or in a prayer meeting someone offering donation with thanks.</sent>
+				<sent id ="69">When someone's desire is fulfilled by the blessings of God he thanks God in different ways.</sent>
+				<sent id ="70">Donation of thanks is one of them.</sent>
+				<sent id ="71">Hannah was happy to have a child by the grace of God.</sent>
+				<sent id ="72">She did not want to have that child only for her.</sent>
+				<sent id ="73">According to her solemn promise she offered the son to the Lord.</sent>
+				<sent id ="74">It was not so easy.</sent>
+				<sent id ="75">In which faith she asked the Lord to grant her a child.</sent>
+				<sent id ="76">After getting the child with the same strength of faith she dedicated her son to the Lord.</sent>
+				<sent id ="77">Everything of this world belongs to the Lord, His gifts.</sent>
+				<sent id ="78">We are only looking after them.</sent>
+				<sent id ="79">God has appointed us.</sent>
+				<sent id ="80">We make a mistake when we demand -them as our own.</sent>
+				<sent id ="81">We should always offer our gratitude to him.</sent>
+				<sent id ="82">Many times we forget to thank him.</sent>
+				<sent id ="83">In our prayers we always want for us but never thank him for what we have already got.</sent>
+				<sent id ="84">Whereas the Lord is donating us a lot every moment and every day in different ways.</sent>
+				<sent id ="85">Without his gifts and blessings we can not carry on.</sent>
+				<sent id ="86">This is why St. Paul said, And you always thank your Lord for everything.</sent>
+				<sent id ="87">So let us thank our Lord like Hannah in all conditions even in distress.</sent>
+				<sent id ="88">Let us offer the gifts of gratitude at his feet.</sent>
+				<sent id ="89">Think of Hannah who offered her only son to the priest at the temple for the service of God.</sent>
+				<sent id ="90">She used to come once a year at the time of festival to see her son.</sent>
+				<sent id ="91">How many persons can offer such a big gift of gratitude.</sent>
+				<sent id ="92">Knowing such a great sacrifice of Hannah to the Lord, let us offer ourselves at His feet.</sent>
+				<sent id ="93">There is a good prayer of self sacrifice of a Christian ascetic named Ignetas Layola.</sent>
+				<sent id ="94">Give me your love, your sympathy I will be rich with that, I want nothing more.</sent>
+				<sent id ="95">Samuel was growing up at the temple with the priest Eli.</sent>
+				<sent id ="96">Day by day he was being loved by God and the people.</sent>
+				<sent id ="97">Two sons of Eli, even being priests could not be obedient to the Lord.</sent>
+				<sent id ="98">Because of their selfishness and unbecoming, behaviour, the people almost stopped coming to the temple.</sent>
+				<sent id ="99">One day what happened, do you know?</sent>
+				<sent id ="100">Eli fell asleep, the boy Samuel also was sleeping near the ark of God in the temple.</sent>
+				<sent id ="101">At that time someone was calling Samuel by his name.</sent>
+				<sent id ="102">Samuel went back and lay down.</sent>
+				<sent id ="103">Again someone called Samuel, Samuel.</sent>
+				<sent id ="104">Thus he made mistake three time presuming that Eli had called him.</sent>
+				<sent id ="105">Then Eli told him that definitely God had called you.</sent>
+				<sent id ="106">Lord then spoke about the sons of Eli.</sent>
+				<sent id ="107">He told Samuel that He would punish them.</sent>
+				<sent id ="108">Samuel get up in the morning but he did not tell Eli anything.</sent>
+				<sent id ="109">But when Eli asked him he told him everything.</sent>
+				<sent id ="110">Eli accepted the wish of God, because he know his sons very well.</sent>
+				<sent id ="111">Thus the vision of God appeared to Samuel and the relation was made between the Lord and him.</sent>
+				<sent id ="112">The boy Samuel was growing up before God.</sent>
+				<sent id ="113">Later he had more visions from God so that he could tell the people about Him.</sent>
+				<sent id ="114">Do you know that the Lord knows us by name as He knew Samuel?</sent>
+				<sent id ="115">He is always eager to have relations with you.</sent>
+				<sent id ="116">We can make this relation with him.</sent>
+				<sent id ="117">First by praying to God. Second by serving God and people.</sent>
+				<sent id ="118">Samuel did both the jobs with much care.</sent>
+				<sent id ="119">God may call you by your name as He did to Samuel.</sent>
+				<sent id ="120">He may do so through a priest, a teacher or your parents.</sent>
+				<sent id ="121">Samuel never heard His voice before so he made mistakes several times.</sent>
+				<sent id ="122">But the Lord knew him, so He called him again and again until he could recognise His voice.</sent>
+				<sent id ="123">This may happen in your life too.</sent>
+				<sent id ="124">Our duty is to be alert for His call.</sent>
+				<sent id ="125">God wants to tell us many things in this world.</sent>
+				<sent id ="126">He wants us to be at His service doing many things.</sent>
+				<sent id ="127">He loves us and know us.</sent>
+				<sent id ="128">If we love Him and are obedient, He will get may things done by us.</sent>
+				<sent id ="129">Who surrenders himself to the Lord completely like Samuel the Lord uses him for His works.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

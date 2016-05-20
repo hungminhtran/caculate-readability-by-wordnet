@@ -1,0 +1,68 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-16</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.958</idno>
+				<idno type="Number of sentences">40</idno>
+				<idno type="Number of tokens">437</idno>
+				<idno type="Number of token types">243</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t131">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Scientists have divided the plant kingdom into two classes on the basis of whether they produce flowers or not i.e. flowering; and non flowering plants.</sent>
+				<sent id ="2">The plants which produce flower are called flowering plants.</sent>
+				<sent id ="3">Besides, scientists have again classified flowering plant into two class i.e. monocot and dicot plant s.</sent>
+				<sent id ="4">We have learnt about morphology of plants in the previous class.</sent>
+				<sent id ="5">In this chapter, we shall be acquainted with chilli plant, which we frequently see and regularly use.</sent>
+				<sent id ="6">Chilli: Chilli is an ingredient of spice for most of our cooking.</sent>
+				<sent id ="7">Besides, it is a cash crop of this country.</sent>
+				<sent id ="8">Two types of chillis are cultivated in Bangladesh: sweet chilli and hot chilli.</sent>
+				<sent id ="9">Both the types include different varieties.</sent>
+				<sent id ="10">Scientific name of the chilli that we most commonly use is Capcum fruticens.</sent>
+				<sent id ="11">This plant is a herb.</sent>
+				<sent id ="12">It is used as spice as well as in preparing sauce.</sent>
+				<sent id ="13">Sweet chilli is used as vegetable and in salad too.</sent>
+				<sent id ="14">Chilli is a flowering plant.</sent>
+				<sent id ="15">It has tap root system.</sent>
+				<sent id ="16">In addition, it bears stem, branches, leaves, flowers and fruits.</sent>
+				<sent id ="17">The plant is profusely branched and bushy.</sent>
+				<sent id ="18">The leaves are alternate with short or long petioles and the leaf apex is acute.</sent>
+				<sent id ="19">In the leaf axil of sweet chilli a single flower develops.</sent>
+				<sent id ="20">In case of hot chilli two or more flowers are found in the axil of a leaf.</sent>
+				<sent id ="21">The pedicel of flower is long.</sent>
+				<sent id ="22">The united calyx is five toothedat the top.</sent>
+				<sent id ="23">These are individual epals.</sent>
+				<sent id ="24">The five white petals of he corolla remain united and ppears tubular.</sent>
+				<sent id ="25">The androecium onsists of five stamens.</sent>
+				<sent id ="26">The nthers are black or deep violet.</sent>
+				<sent id ="27">wo ovary chambers contain umerous ovules.</sent>
+				<sent id ="28">Self and cross ollination occur in chilli plant.</sent>
+				<sent id ="29">A phenolic substance called apsicin is present in chilli, as a esult of which it tastes very hot.</sent>
+				<sent id ="30">Sweet chilli is less hot because of less amount of capsicin.</sent>
+				<sent id ="31">Sweet and hot chilli contain high amount of Vitamin C and little amount of vitamin A and E. No plant lives fore ever.</sent>
+				<sent id ="32">All flowering plants have more or less a limited life span.</sent>
+				<sent id ="33">These plants develop flowers, fruits and seeds.</sent>
+				<sent id ="34">If requisite amount of light, water and air are available, the seeds germinate to seedlings.</sent>
+				<sent id ="35">The seedling gradually matures and subsequently produces from flowers and seeds are formed within the fruits.</sent>
+				<sent id ="36">The seeds germinate to give rise to seedling again.</sent>
+				<sent id ="37">Let us examine a chilli.</sent>
+				<sent id ="38">Probably all of us know from where chilli has been developed.</sent>
+				<sent id ="39">Like other flowering plants, this chilli plant has also grown form a chilli seed.</sent>
+				<sent id ="40">If seeds from ripe chillis are sown, new plant grow within 3/4 days.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

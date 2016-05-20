@@ -1,0 +1,184 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-19</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.02</idno>
+				<idno type="Number of sentences">156</idno>
+				<idno type="Number of tokens">1993</idno>
+				<idno type="Number of token types">843</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t134">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">These animals are called vertebrate animals, as hey have a vertebral column.</sent>
+				<sent id ="2">Again, animals like, cockroaches, earthworms,butterflies, and different types f insects are also found in the environment.</sent>
+				<sent id ="3">These nimals do not have vertebral column and so are called invertebrate animals.</sent>
+				<sent id ="4">The ertebrates and invertebrates have been further classified into phyla, classes, orderand so on.</sent>
+				<sent id ="5">lassification of Vertebrate Animals he classification of vertebrates has been discussed in details in the previous class.</sent>
+				<sent id ="6">s an example, the salmon fish (ruhi) was also discussed in detail.</sent>
+				<sent id ="7">Before going nto the details of fowl, the groups in the classification of vertebrates are ecapitulated here in brief.</sent>
+				<sent id ="8">isces or fishes: All fishes live in salt- or fresh-water.</sent>
+				<sent id ="9">They have several paired and npaired fins that help in swimming.</sent>
+				<sent id ="10">They breathe through gills, and the body is overed by scales.</sent>
+				<sent id ="11">Most fishes lay eggs.</sent>
+				<sent id ="12">Examples include hilsa, ruhi (salmon), atla, mrigel, puthi, koi, boal, shul, gojar, shing, magur, ayer, tangra, meni, oopchanda (pomfret), ritha, coral, shark, and so on.</sent>
+				<sent id ="13">Aves: Vertebrates that have feathers and can fly are called birds and are included in the group of aves.</sent>
+				<sent id ="14">Birds have beak but no tooth, and have lungs for respiration.</sent>
+				<sent id ="15">They lay eggs from which the young ones are hatched.</sent>
+				<sent id ="16">For example, ducks, hens, pigeons, sparrows, kites, parrots, kingfishers, crows, cuckoos, and so on.</sent>
+				<sent id ="17">Mammalia: The most superior of the vertebrates are mammals.</sent>
+				<sent id ="18">These give birth to young ones or babies that feed on mothers milk, and the body is covered with hair.</sent>
+				<sent id ="19">Lung is the organ of respiration.</sent>
+				<sent id ="20">Bats and titmouses can fly but their body is covered with hair.</sent>
+				<sent id ="21">Again, whales and dolphins live in water but they give birth to babies and feed them on breast milk.</sent>
+				<sent id ="22">They have no gills, but have lungs for respiration.</sent>
+				<sent id ="23">For example, cows, buffalos, goats, dogs, elephants, horses, tigers, monkeys, chimpanzees, human and so on.</sent>
+				<sent id ="24">They have a hairless, featherless, scaleless body with soft bare skin.</sent>
+				<sent id ="25">They have four legs and fingers, but no nails.</sent>
+				<sent id ="26">The eggs and larvae of the amphibians do not survive without water.</sent>
+				<sent id ="27">Reptilia: Some of the animals in this group live in water and some on land.</sent>
+				<sent id ="28">Some can live both in water and land.</sent>
+				<sent id ="29">They move on the ventral aspect of the body.</sent>
+				<sent id ="30">Lung is present, skin is rough and may be scaly, and they usually have four legs with nails.</sent>
+				<sent id ="31">For example, tortoises, lizards, snakes, crocodiles, and so on.</sent>
+				<sent id ="32">Fowl : Fowl belongs to the class aves of the phylum vertebrate.</sent>
+				<sent id ="33">Domestic fowl is reared in most homesteads in Bangladesh.</sent>
+				<sent id ="34">It is an important source of protein food.</sent>
+				<sent id ="35">Currently in Bangladesh, rearing of domestic fowl is a profitable business, and a mode of self-employment too.</sent>
+				<sent id ="36">What follows is a description of the external and ninternal body features of a domestic fowl.</sent>
+				<sent id ="37">Head: The part of the body extending from the upper end of the neck to the front end of the beak is the head.</sent>
+				<sent id ="38">The structures in the head include eyes, nose, ears, pinna of the ear, head comb, neck comb, and beak.</sent>
+				<sent id ="39">It pecks at food and strikes the enemy with the beak, sees with the eyes, and hears with the ears.</sent>
+				<sent id ="40">Functions: Wings help the fowl to fly.</sent>
+				<sent id ="41">Domestic fowl cannot fly much, but the wild fowl can fly a considerable distance.</sent>
+				<sent id ="42">It protects the chicks with the wings, also strike and drive away enemies.</sent>
+				<sent id ="43">Tail: The tapered part at the back of the trunk is the tail.</sent>
+				<sent id ="44">The feathers of the tail naturally help the fowl to maintain balance during movement and flight.</sent>
+				<sent id ="45">It helps the fowl to stop suddenly when rapidly moving.</sent>
+				<sent id ="46">Leg: Like other birds the domestic fowl also have lower limbs that consists of thigh, knees, ankle.</sent>
+				<sent id ="47">Instead of feathers, the ankle and toes are covered by small scales.</sent>
+				<sent id ="48">Each leg has four toes with sharp pointed nails.</sent>
+				<sent id ="49">The under surface of the toes is padded with soft tissue.</sent>
+				<sent id ="50">Functions: The domestic fowl moves about with the help of legs.</sent>
+				<sent id ="51">It scratches the soil with the legs to extract food, and drives away enemies.</sent>
+				<sent id ="52">Feathers: Like other birds, feather is a special feature of the fowls.</sent>
+				<sent id ="53">Three types of feathers cover the whole body.</sent>
+				<sent id ="54">The feathers on the wings and tail are bigger.</sent>
+				<sent id ="55">The most prominent feathers are called contour feathers, or pennae.</sent>
+				<sent id ="56">They make up the wings and tail of a bird.</sent>
+				<sent id ="57">Functions: Feathers serve as protection against rain, extreme temperature, and injury.</sent>
+				<sent id ="58">It also maintains the body temperature.</sent>
+				<sent id ="59">Its main function is to aid in flight.</sent>
+				<sent id ="60">Functions: Muscles help the fowl to move about quickly.</sent>
+				<sent id ="61">It also helps in respiration.</sent>
+				<sent id ="62">Skeletal system: The characteristic feature of the fowl is its skeleton.</sent>
+				<sent id ="63">The bones are hollow and light but strong.</sent>
+				<sent id ="64">The fore limbs have been modified to serve as wings to help in flight.</sent>
+				<sent id ="65">The size and shape of the bones are adapted to maintain the characteristic body shape.</sent>
+				<sent id ="66">The sternum, synsacrum, humerus, and femur are some of the noteworthy bones.</sent>
+				<sent id ="67">Internal Body Features: The internal structure of the fowl comprises of the muscular system, skeletal system, digestive system, excretory system, and reproductive system.</sent>
+				<sent id ="68">Muscular system: The muscular system of fowl is quite different from those of other vertebrates.</sent>
+				<sent id ="69">The main muscles used in flight are pectoralis major and pectoralis minor.</sent>
+				<sent id ="70">Digestive system: Domestic fowl do not have teeth, they swallow their food, and so their digestive tract is a bit different.</sent>
+				<sent id ="71">The crop is situated in the middle of the digestive tract after the oesophagus, which hold the food.</sent>
+				<sent id ="72">Following the crop is the muscular gizzard, which helps to grind the food.</sent>
+				<sent id ="73">From here the food is passed on to the stomach.</sent>
+				<sent id ="74">There are two major parts in the digestive tract of the fowl.</sent>
+				<sent id ="75">One is predominantly glandular and the other is muscular.</sent>
+				<sent id ="76">The muscular part is the gizzard or gila.</sent>
+				<sent id ="77">When taking food or grains, fowls sometimes take in small pebbles.</sent>
+				<sent id ="78">During the muscular contraction in the gizzard these pebbles help in the grinding of food.</sent>
+				<sent id ="79">Grinding is the function of teeth in other vertebrates, but in fowls pebbles carry out the function of teeth in the gizzard.</sent>
+				<sent id ="80">Absorption of the nutrients occur in the intestine and the waste products of digestion are eliminated through the anus.</sent>
+				<sent id ="81">Circulatory system: The circulatory system comprises of heart, arteries, veins, capillaries, plasma, red blood cells, white blood cells, and platelets.</sent>
+				<sent id ="82">The heart has four chambers'right and left auricle, and right and left ventricle.</sent>
+				<sent id ="83">The heart is continuously contracting and relaxing.</sent>
+				<sent id ="84">During relaxation, the impure deoxygenated blood passes from the right auricle to the right ventricle, and is passed onwards to the lungs.</sent>
+				<sent id ="85">The oxygenated blood from the lung passes to the left auricle, from there to the left ventricle, and onwards to the aorta or great artery.</sent>
+				<sent id ="86">Arteries and arterioles distribute the blood throughout the body.</sent>
+				<sent id ="87">Lungs: Fowl have a pair of lungs contained within and attached to the chest cavity.</sent>
+				<sent id ="88">Fowl respire through the lungs.</sent>
+				<sent id ="89">The lungs are connected to a set of air sacs that changes shape to pump the air, while the lungs stay the same shape.</sent>
+				<sent id ="90">This unique system is an extremely effective way of extracting oxygen from the air, and it enables fowls to fly.</sent>
+				<sent id ="91">Excretory system: Parallel to the vertebral column, and on either side of it is a pair of dark brown kidney.</sent>
+				<sent id ="92">Each kidney is segmented into three parts.</sent>
+				<sent id ="93">The ureter from each kidney empties into the cloaca.</sent>
+				<sent id ="94">Reproductive system: In male fowl, beside each kidney is a testis.</sent>
+				<sent id ="95">Sperms are produced in the testes.</sent>
+				<sent id ="96">In the female fowl, there is only one ovary.</sent>
+				<sent id ="97">The ovarian duct opens into the cloaca.</sent>
+				<sent id ="98">The open end of the ovary is like a funnel.</sent>
+				<sent id ="99">First the egg yolk is produced in the ovary.</sent>
+				<sent id ="100">Over the yolk membrane there is a minute egg.</sent>
+				<sent id ="101">On maturity the egg yolk slowly slides down.</sent>
+				<sent id ="102">The egg is enclosed in a whitish liquid, the albumin.</sent>
+				<sent id ="103">This albumin is the white portion of an egg.</sent>
+				<sent id ="104">As it further slides down, the calcium carbonate producing glands secrete a shell around the albumin.</sent>
+				<sent id ="105">This shell is initially soft, it later hardens when in contact with air.</sent>
+				<sent id ="106">From the ovarian duct the egg then passes to the cloaca from where it passes out through the anus.</sent>
+				<sent id ="107">Normally this egg when kept warm or incubated under the hen for 21 days, hatched and chicks come out.</sent>
+				<sent id ="108">The eggs can be hatched artificially by incubating them in an incubator for 21 days at a temperature around 390 centigrade.</sent>
+				<sent id ="109">As a nutritive food, eggs come after milk.</sent>
+				<sent id ="110">The fowl meat is easily digestible, and can be eaten by people of all ages.</sent>
+				<sent id ="111">Currently, fowl farming is an important mode of self- employment.</sent>
+				<sent id ="112">Presently, many countries in the world are earning huge amounts of foreign currency by exporting eggs and fowl meat.</sent>
+				<sent id ="113">The feathers are used to make sports goods, and other luxurious articles.</sent>
+				<sent id ="114">The excreta of the fowl is an excellent fertiliser, and is also used as fish feed.</sent>
+				<sent id ="115">Features of different breeds of improved fowls: Among breeds of economic importance are four groups of fowl.</sent>
+				<sent id ="116">All these fowls can be reared in the climatic conditions of Bangladesh.</sent>
+				<sent id ="117">The names, features and descriptions of different varieties of fowls are given below.</sent>
+				<sent id ="118">Some of the breeds are Rhode Island Reds (RIR), New Hampshire and Plymouth Rock.</sent>
+				<sent id ="119">Some of the breeds are Leghorn, Minorca and Ancona.</sent>
+				<sent id ="120">Leghorn: There are many varieties within the Leghorn breed.</sent>
+				<sent id ="121">Among them, the white Leghorn produces the most eggs.</sent>
+				<sent id ="122">A full-grown fowl weighs about 1.5 to 2.5 kilograms.</sent>
+				<sent id ="123">They lay more than 300 eggs a year.</sent>
+				<sent id ="124">Leghorns are world famous for laying eggs.</sent>
+				<sent id ="125">Rhode Island Reds: This breed produces good quality and quantity of eggs and meat.</sent>
+				<sent id ="126">Hence rearing of this variety is profitable.</sent>
+				<sent id ="127">The body is brownish red, and may weigt about 23 kilograms.</sent>
+				<sent id ="128">They lay about 150 eggs a year.</sent>
+				<sent id ="129">They survive well in Bangladesh climate.</sent>
+				<sent id ="130">Australorp: This breed is well known for its meat and eggs.</sent>
+				<sent id ="131">The body is wide, and is greenish black in colour.</sent>
+				<sent id ="132">A full-grown fowl may weight 23.5 kilograms, and lay about100120 eggs a year.</sent>
+				<sent id ="133">They are more resistant to fowl diseases.</sent>
+				<sent id ="134">Aseel: This breed is seen in Chittagong and Brahmanbaria of Bangladesh.</sent>
+				<sent id ="135">This variety is famous for cockfight.</sent>
+				<sent id ="136">A full-grown fowl may weight 1.53 kilograms, and lay about 4060 eggs a year.</sent>
+				<sent id ="137">Fowl Rearing Process: In Bangladesh, mainly three processes are used for rearing fowl or hens.</sent>
+				<sent id ="138">These are'open space rearing, confined space rearing, and caged rearing.</sent>
+				<sent id ="139">As it roams around it eats grains, leftover food, vegetable peels, seeds, fish scales, animal viscera, insects, pebbles, and so on.</sent>
+				<sent id ="140">Sometimes, the owners feed them too.</sent>
+				<sent id ="141">During rain and storm, and at night, they take shelter in small coops where hens, cocks and chickens all huddle together.</sent>
+				<sent id ="142">As a result they do not get sufficient light and air, and so are often afflicted by different diseases.</sent>
+				<sent id ="143">The hens tend to lay eggs at unspecified places that are eaten by cats and dogs.</sent>
+				<sent id ="144">In this type of rearing the fowl have to be provided with food, and the coop has to be cleaned regularly at 23 days interval.</sent>
+				<sent id ="145">Besides, the fowl are protected from predators and other enemies.</sent>
+				<sent id ="146">It is more profitable to rear fowl by confined space rearing method.</sent>
+				<sent id ="147">Caged rearing: In this method the fowl are reared in cages made of wire.</sent>
+				<sent id ="148">More fowl can be easily reared in less space.</sent>
+				<sent id ="149">The floor of the cage is made of closely netted wire.</sent>
+				<sent id ="150">A tray is placed below the netted cage floor.</sent>
+				<sent id ="151">The faeces collect on the tray after passing through the net.</sent>
+				<sent id ="152">The tray has to be cleaned every 23 days.</sent>
+				<sent id ="153">The cage floor is also inclined forwards so that the eggs laid roll forwards.</sent>
+				<sent id ="154">The size of the cage may vary, it may also be in 24 layers or multi-storied.</sent>
+				<sent id ="155">For sufficient light and air, it is convenient to place these cages in the verandah or open space.</sent>
+				<sent id ="156">If improved breeds are reared then they have to be given a balanced diet, and any disease condition has to be promptly attended to.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

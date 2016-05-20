@@ -1,0 +1,152 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-geo-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.875</idno>
+				<idno type="Number of sentences">124</idno>
+				<idno type="Number of tokens">2419</idno>
+				<idno type="Number of token types">596</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t85">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Definition : The hydrosphere is the mantle of water which covers the lower parts of the surface of the globe.</sent>
+				<sent id ="2">The hydrosphere covers 71 per cent of the surface of the globe.</sent>
+				<sent id ="3">Its area is about 36.25 lakh square kilometres.</sent>
+				<sent id ="4">The hydrosphere is formed of oceans, seas, gulfs, lakes etc.</sent>
+				<sent id ="5">The great stretch of open water is known as Ocean, the smaller areas less than ocean are the seas.</sent>
+				<sent id ="6">The open stretch of water surrounded on three sides by land is the bay while the gulf is surrounded by land almost on all sides.</sent>
+				<sent id ="7">The lakes are the stretches of water surrounded by land.</sent>
+				<sent id ="8">There are five oceans in the world.</sent>
+				<sent id ="9">These are : the Pacific Ocean, the Atlantic Ocean, the Indian Ocean, the Arctic Ocean and the South Ocean.</sent>
+				<sent id ="10">Of these, the Pacific is the largest ocean having an area of 60 crore and 60 lakh square kilometres.</sent>
+				<sent id ="11">The average depth of the Pacific is the highest being about 4,270 metres.</sent>
+				<sent id ="12">The Atlantic Ocean is the second largest ocean having an area of 8 crore and 24 lakh square kilometres although its place is third in respect of average depth.</sent>
+				<sent id ="13">There are many semi-circles seas in the Atlantic having indented coastline.</sent>
+				<sent id ="14">The Indian Ocean is about 7 crore and 36 lakh square kilometres in area and its average depth is 3,962 metres.</sent>
+				<sent id ="15">The Arctic Ocean or the North Ocean surrounds the north pole.</sent>
+				<sent id ="16">The southern part of this ocean is surrounded nearly all over by North America and Eurasia.</sent>
+				<sent id ="17">The North Ocean is 1 crore and 50 lakh square kilometres in area and the average depth is 824 metres.</sent>
+				<sent id ="18">The South Ocean is 1 crore 47 lakh square kilometres with average depth of 149 metres (Fig. 48).</sent>
+				<sent id ="19">Table 2 : Area and average depth of the oceans.</sent>
+				<sent id ="20">Definition of the ocean currents : The movement of water in a regular and fixed course from one part of the ocean to another gives rise to ocean currents.</sent>
+				<sent id ="21">Wind movement : The strong and regular wind blows over the surface of the ocean to a particular direction.</sent>
+				<sent id ="22">So the wind system is the major cause of the ocean currents.</sent>
+				<sent id ="23">In the belts of the Trade Winds, ocean currents flow from the east to the west while in the westerly wind belts they flow from the west to the east .</sent>
+				<sent id ="24">Difference of temperature : The temperature of the surface water of the ocean is different in different latitudes.</sent>
+				<sent id ="25">Strong heat in the equatorial and tropical regions causes the water to become warmer which in turn results in the expansion of the water in volume and thereby the water becomes lighter and the density also decreases.</sent>
+				<sent id ="26">But in upper and mid-latitude regions, the water is heavy due to less heat.</sent>
+				<sent id ="27">The hot and light water in the equatorial regions flows poleward as warm surface currents while the colder water from the poles creeps as under currents to fill the vaccum.</sent>
+				<sent id ="28">Difference of salinity : Density of water depends on the salinity.</sent>
+				<sent id ="29">Water becomes lighter with the decrease of salinity while the water becomes heavier with the increase of salinity.</sent>
+				<sent id ="30">Light water flows as surface currents while the heavy water flows as under current .</sent>
+				<sent id ="31">Differences of evaporation : Much evaporation occurs in the hot regions of the ocean resulting in the decrease of water level.</sent>
+				<sent id ="32">Comparatively cold water from the neighbouring less hot areas of the ocean move towards more hot areas to maintain equilibrium in the ocean water.</sent>
+				<sent id ="33">Variation in depth : The shallow ocean water becomes hot and light very quickly that causes up-rise of the warm water resulting in a downward flow of the cold water current to occupy the place of the warm water.</sent>
+				<sent id ="34">As a result, of the upward and downward movement of the ocean water as currents are created.</sent>
+				<sent id ="35">Rotation of the earth : The earth rotates from west to east.</sent>
+				<sent id ="36">As a result, the ocean currents are deflected to the right in the northern hemisphere and to the left in the southern hemisphere.</sent>
+				<sent id ="37">Location of the landmass : Landmasses deflect the flow of ocean currents resulting in the formation of a new course.</sent>
+				<sent id ="38">It is, for example, due to the Cape of Saint Rock in the east of Brazil that the South Equatorial current in the Atlantic Ocean is divided into two branches.</sent>
+				<sent id ="39">One is flowing through the north coast of South America and the other through south-east coast.</sent>
+				<sent id ="40">Various ocean currents : The ocean water does not remain stationary in one place.</sent>
+				<sent id ="41">The water of all the oceans and seas are flowing either as surface or under current.</sent>
+				<sent id ="42">Hence, the ocean currents are divided into three on the basis of the location of the oceans.</sent>
+				<sent id ="43">The Atlantic Ocean Currents : The continents of Europe and Africa are in the east of Atlantic while North America and South America are in the west.</sent>
+				<sent id ="44">The equator has divided the Atlantic Ocean into north and south part.</sent>
+				<sent id ="45">So, the currents can be divided into two parts.</sent>
+				<sent id ="46">The Antarctic Current : The cold waters from the Antarctic move under the influence of the strong westerly wind from west to east.</sent>
+				<sent id ="47">This is known as the Antarctic current and it enters into the Atlantic by the south of South America.</sent>
+				<sent id ="48">Benguela Current : The branch of the Antarctic current being deflected near the Cape of Good Hope turns to the north and flows by the west side of South Africa.</sent>
+				<sent id ="49">This current is known as the Benguela current.</sent>
+				<sent id ="50">The current is cold since it comes from the cold current.</sent>
+				<sent id ="51">It turns westward under the influence of the south-east trade winds and joins the South Equatorial current.</sent>
+				<sent id ="52">South Equatorial Current : The South Equatorial Current originates from the extended part of the Benguela current.</sent>
+				<sent id ="53">This current marches towards north-west upto the equator being influenced by the rotation of the earth and the south-east trade winds.</sent>
+				<sent id ="54">This current is known as the South Equatorial Current as it flows to the south of the equator.</sent>
+				<sent id ="55">This is warm current.</sent>
+				<sent id ="56">Brazil Current : The branch of South Equatorial current known as Brazil current which flows through the east coast of Brazil to the south-west.</sent>
+				<sent id ="57">The current is warm since it originates from the warm current and flows through the tropical region, crossing the Tropic of Capricorn, the current turns eastward gradually under the influence of westerly wind and meets the Antarctic current.</sent>
+				<sent id ="58">Falkland Current : A branch of the Antarctic current on entering the Atlantic Ocean turns north and flows northward along the coast of Falkland Island and Argentina.</sent>
+				<sent id ="59">This is known as Falkland Current and it is a cold current.</sent>
+				<sent id ="60">North Equatorial Current : The warm currents flowing from east to west along the north of the equator under the influence of the rotation of the earth and the north- east trade winds is known as the North Equatorial Current (Fig. 51).</sent>
+				<sent id ="61">This is warm current.</sent>
+				<sent id ="62">After crossing the Mid-Atlantic, the northern branch of the South Equatorial current meets the North Equatorial current.</sent>
+				<sent id ="63">The North Equatorial current is divided into two branches.</sent>
+				<sent id ="64">The first branch flows into the Gulf Stream taking a turn to the north.</sent>
+				<sent id ="65">The second branch flows first into the Carribean Sea and then into the Gulf of Mexico.</sent>
+				<sent id ="66">The Equatorial Counter Current : Between the North and South Equatorial currents, there is a weak current flowing from west to east is known as the Equatorial Counter Current.</sent>
+				<sent id ="67">This is a warm current.</sent>
+				<sent id ="68">The Gulf Stream : The Gulf Stream, practically, has originated from the extended part of South and North Equatorial currents.</sent>
+				<sent id ="69">This mixed current enters into the Carribean Sea and is divided into two branches being obstructed by the islands.</sent>
+				<sent id ="70">One of the branches enters into the Gulf of Mexico.</sent>
+				<sent id ="71">The rush of water from the Mississippi river of the United States of America enhances the speed of this current and flows through the narrow strait of Florida to North Atlantic.</sent>
+				<sent id ="72">It is known as the Gulf Stream since it has originated in the Gulf of Mexico.</sent>
+				<sent id ="73">The extent of the Gulf Stream varies from 64 to 80 kilometres at the entrance of Florida strait, the depth is 914 metres, the average speed is 8 kilometres per hour and the temperature is 30 Celsius.</sent>
+				<sent id ="74">The colour of the current is deep blue.</sent>
+				<sent id ="75">At the Mid-Atlantic, the depth and the temperature of the current comes down while the width gets increased and this current flows here at a speed of 2.5 kilometres per hour.</sent>
+				<sent id ="76">While flowing north-east along the east coast of the United States of America, the Gulf Stream is divided into three branches at the mid of the North Atlantic due to the influence of the westerlies.</sent>
+				<sent id ="77">North Atlantic Stream : The first branch of the Gulf Stream being called North Atlantic Stream flows along the coast of West Europe, the British Islands and Norway into the North Sea as a warm current.</sent>
+				<sent id ="78">West Greenland Current : The warm West Greenland current, the second branch of Gulf Stream curving northward proceeds along the south of Iceland and Greenland and then flows through Davis Strait between Greenland and Baffin Island to the north.</sent>
+				<sent id ="79">Canaries Current : The third branch of Gulf Stream known as the Canaries current turning southward flows along Portugal and the west coast of West Africa.</sent>
+				<sent id ="80">The current is divided into two branches.</sent>
+				<sent id ="81">The first branch curving south-west under the influence of Trade Wind flows into North Equatorial Current.</sent>
+				<sent id ="82">This is a cold current.</sent>
+				<sent id ="83">Guinea Current : The Guinea current, the second branch of Canaries Current, flows along the coast of Guinea of West Africa to the south upto the Equator.</sent>
+				<sent id ="84">Then joining the Equatorial Counter Current, it flows into the Bay of Guinea.</sent>
+				<sent id ="85">This is a cold current.</sent>
+				<sent id ="86">The flow of different currents and cross currents along the sides of North Atlantic Ocean has caused in the centre of the ocean an area of stagnant sea often full of drifted branches of plants, grass, sea-weeds etc. and is called the Sargasso Sea (Fig. 51).</sent>
+				<sent id ="87">Labrador Current : Two cold currents from the North Ocean flows along the east and west of Greenland into the Atlantic Ocean.</sent>
+				<sent id ="88">These two currents join in the north of Labrador Peninsula and taking the name of the Labrador Currents.</sent>
+				<sent id ="89">It flows along the east coast of Newfoundland and the United States of America to the south.</sent>
+				<sent id ="90">The Labrador current flowing south to New York gets deflected by the warm Gulf Stream.</sent>
+				<sent id ="91">The deep blue water of the Gulf Stream and the green water of the Labrador flow side by side in the opposite direction and the border of these two cross currents is called the Cold Wall.</sent>
+				<sent id ="92">The ocean water in the mid-tropic and high tropic region freezes in winter.</sent>
+				<sent id ="93">Naturally the mercantile ships cannot ply in those seas.</sent>
+				<sent id ="94">But the warm current keeps the sea ports ice free where it enters the sea.</sent>
+				<sent id ="95">This makes possible the free trafic of the commercial ships in the seas.</sent>
+				<sent id ="96">A ship can sail to a port of destination in a short time in favour of the current but it takes a lot of money, energy and time if the ship goes against the current.</sent>
+				<sent id ="97">It is safe to sail ships in the passage of the warm currents.</sent>
+				<sent id ="98">Cold currents bring icebergs.</sent>
+				<sent id ="99">The ships are damaged if hit by an iceberg and sinks into the ocean.</sent>
+				<sent id ="100">This way the Titanic ship sinks into the Atlantic Ocean.</sent>
+				<sent id ="101">The icebergs that come floating with the cold current are quickly melted and the loads such as pebbles, sand, mud etc. are deposited on the sea bed creating shoals.</sent>
+				<sent id ="102">Plenty of fish food is available in these shoal areas, and as such are good for fishing ground.</sent>
+				<sent id ="103">Hydrosphere : The hydrosphere is the envelope of water which covers about 71 per cent of the surface of the earth.</sent>
+				<sent id ="104">It covers an area of 36 crore and 25 lakh square kilometres.</sent>
+				<sent id ="105">The land and waterbodies : The water area covers 71 per cent and land area covers 29 per cent of the total area of the surface of the earth.</sent>
+				<sent id ="106">The Oceans : The wide open mantle of water is called the Ocean.</sent>
+				<sent id ="107">There are five oceans in the world namely, the Pacific Ocean, the Atlantic Ocean, the Indian Ocean, the North Ocean and the South Ocean.</sent>
+				<sent id ="108">The area of the Oceans : The Pacific Ocean is 16 crore and 60 lakh square kilometres, the Atlantic Ocean is 8 crore and 24 lakh square kilometres, the Indian Ocean is 7 crore and 36 lakh square kilometres, the North Ocean is 1 crore and 50 lakh square kilometres, and the South Ocean is 1 crore and 47 lakh square kilometres.</sent>
+				<sent id ="109">The Ocean Currents : The movement of water from one part of the ocean to another in a regular and fixed course is known as ocean current.</sent>
+				<sent id ="110">Warm current generally flows as surface current, while the cold current moves as under current.</sent>
+				<sent id ="111">The causes of Ocean Currents : The wind system, the difference of temperature depth, salinity, evaporation, rotation of the earth and location of land area cause ocean currents.</sent>
+				<sent id ="112">Of these factors, the wind system plays a vital role to create ocean currents.</sent>
+				<sent id ="113">South Atlantic Ocean Currents : The South Atlantic Ocean currents flow towards left (leftward or anti-clockwise).</sent>
+				<sent id ="114">The Antarctic current, Falkland current, Benguela current, South Equatorial current, and Brazil current flow into the Atlantic Ocean.</sent>
+				<sent id ="115">Among all these currents, the Antarctic current, Falkland and Benguela currents are cold currents and others are warm currents.</sent>
+				<sent id ="116">North Atlantic Ocean Current : The currents of the North Atlantic Ocean are flowing towards right (southward or clockwise).</sent>
+				<sent id ="117">The North Equatorial Current, the Gulf Stream, North Atlantic Stream, West Greenland Current, Canaries current, Guinea Current, Labrador Current, and Equatorial Counter Current are the principal currents of the North Atlantic Ocean.</sent>
+				<sent id ="118">The Labrador, Canaries, and Guinea currents are cold currents.</sent>
+				<sent id ="119">There are different currents and cross currents on the sides of North Atlantic Ocean and in the whirlpool of water in the centre, there is no current resulting in the deposit of moss and drifting weeds in the stagnant water.</sent>
+				<sent id ="120">This is called the Sargasso Sea.</sent>
+				<sent id ="121">The impact of the Ocean Currents : The seas in the high latitudes are frozen during winter and the mercantile ships cannot ply.</sent>
+				<sent id ="122">Naturally, the commercial transactions are disturbed in the ports during winter on the high latitudes.</sent>
+				<sent id ="123">But the seas where warm currents flow do not freeze in winter and mercantile ships can move freely.</sent>
+				<sent id ="124">There are possibilities for the ships to get damaged by the icebergs that the cold currents bring.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

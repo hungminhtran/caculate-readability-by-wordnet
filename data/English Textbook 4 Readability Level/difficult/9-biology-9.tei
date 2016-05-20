@@ -1,0 +1,112 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-biology-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:04.166</idno>
+				<idno type="Number of sentences">84</idno>
+				<idno type="Number of tokens">1177</idno>
+				<idno type="Number of token types">439</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t36">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Flowers are the most beautiful and charming creation of thenature.</sent>
+				<sent id ="2">we all love flowers; trees full of red Shimul, Palash, Madar, or Krishnachura, field full of yellow mustard, beels and Jheels full of violet Kalmilata, hedges full of blue Aparajita, gardens full of roses, China-Roses, Gandhoraj, Kamini, Shephali, Bokul etc. are all dear to us.</sent>
+				<sent id ="3">Are all these flowers around us are alike?</sent>
+				<sent id ="4">No, if you observe carefully, it will be seen that among them some are red, some are yellow, some are blue or some are white.</sent>
+				<sent id ="5">Again some one of them has strong smell (Hasnahena), some one has sweet smell (Rajanigandha, Chapa, Gandharaj).</sent>
+				<sent id ="6">Again some has no smell at all (Jaba).</sent>
+				<sent id ="7">As There are diversity in colour and smell among them they also differ in structure.</sent>
+				<sent id ="8">A flower has several parts.</sent>
+				<sent id ="9">Different parts have several functions.</sent>
+				<sent id ="10">Taking a flower in hand we can observe its different parts.</sent>
+				<sent id ="11">Let us see what parts are there in a'datura [Dhutura] flower.</sent>
+				<sent id ="12">There is a green slender stalk (Pedicel) at the base of the flower the pedicel is swollen.</sent>
+				<sent id ="13">On this swollen part other whorls of the flower are arranged.</sent>
+				<sent id ="14">This part is called thalamus.</sent>
+				<sent id ="15">Thalamus is present in all flowers but all flower not have pedicel.</sent>
+				<sent id ="16">Function: To hold other parts of the flower and to attach a sessile flower with stem.</sent>
+				<sent id ="17">Out side the flower there is a green tubelike structure at the base.</sent>
+				<sent id ="18">Top of this tube is splitted into five,segments.</sent>
+				<sent id ="19">From this it is understood that these five segments are combined together to form the tube.</sent>
+				<sent id ="20">This outer green whorl of the flower is called the Calyx.</sent>
+				<sent id ="21">Each of the five parts that comprises the calyx is called a sepal.</sent>
+				<sent id ="22">Sepals may be united together (as in Datura) or may be separated (as in Brassica).</sent>
+				<sent id ="23">In China-rose (Jaba) outside the calyx there is another whorl like the calyx called Epicalyx.</sent>
+				<sent id ="24">Next to, petals combined together, to make the corolla.</sent>
+				<sent id ="25">Usually corolla is the show part of the flower.</sent>
+				<sent id ="26">Petals may be united (as in Datura).</sent>
+				<sent id ="27">or may separate from each other [as in Brassica (Sharisha)].</sent>
+				<sent id ="28">Function: To attract insects and to protect internal parts of the flower.</sent>
+				<sent id ="29">Inside the corolla there is five rod like organ attached at the base.</sent>
+				<sent id ="30">Each of these organs is called Stamen.</sent>
+				<sent id ="31">Each stamen is divided into two parts the slender part is the filament and swollen part at the top is the anther.</sent>
+				<sent id ="32">Inside anther there lies pollen grains.</sent>
+				<sent id ="33">The total stamens of a flower collectively form a whorl, which is called the Androecium.</sent>
+				<sent id ="34">Function: Main function of the Androecium is to produce pollen grains.</sent>
+				<sent id ="35">The central part of the flower is the Carpel.</sent>
+				<sent id ="36">Swollen part at the base of carpel is the Ovary, long slender part at the middle is the Style and lobbed part at the top is the Stigma.</sent>
+				<sent id ="37">Inside the ovary there are small round parts call Ovules.</sent>
+				<sent id ="38">Ovules later develop to seeds.</sent>
+				<sent id ="39">In Datura flower there are two carpels united together.</sent>
+				<sent id ="40">The whorl of a flower that is formed by one or more carpel called the Gynoecium.</sent>
+				<sent id ="41">The ovary of a flower develops to a fruit.</sent>
+				<sent id ="42">In china-rose five carpels are united to forms the gynoecium.</sent>
+				<sent id ="43">Function: Functions of the gynoecium is to produce fruits and seeds.</sent>
+				<sent id ="44">From the above discussion it is understood that a Datura flower has five parts namely: thalamus, calyx, corolla,androecium or male whorl and (5.</sent>
+				<sent id ="45">gynoecium or female whorl.</sent>
+				<sent id ="46">Among these thalamus is an axis on which other four whorls are arranged.</sent>
+				<sent id ="47">Datura flower has five parts.</sent>
+				<sent id ="48">But some flowers may have thee or four parts.</sent>
+				<sent id ="49">The flower, which has five parts, is called an ideal flower.</sent>
+				<sent id ="50">Function of flower: The main function of a flower is to produce fruits and seeds for reproduction of the plant.</sent>
+				<sent id ="51">Androecium and gynoecium are directly involved in seed production, thus they are called essential whorls.</sent>
+				<sent id ="52">Calyx and corolla are called accessory whorls.</sent>
+				<sent id ="53">If we examine various flowers surrounding us it will be seen that all the flowers are not alike.</sent>
+				<sent id ="54">Like colour and smell they have many variations in their structure too.</sent>
+				<sent id ="55">A description about this is given below:</sent>
+				<sent id ="56">(A) According to completeness: Complete Flower: A flower that possesses all the five whorls is said to be a complete flower.</sent>
+				<sent id ="57">Datura, China-rose etc. are complete flowers.</sent>
+				<sent id ="58">Incomplete flowre : A flower is said to be an incomplete flower that does not have all the five whorls.</sent>
+				<sent id ="59">Lau, Kumra, shasha, jhinga etc. are incomplete flowers.</sent>
+				<sent id ="60">In these flowers either male or female whorl is absent.</sent>
+				<sent id ="61">Bisexual flower: Flowers, which bear both male and female whorl (Androecium and Gynoecium), are called Bisexual flowers.</sent>
+				<sent id ="62">Datura China-rose, Brassica (Sharisha) etc. are bisexual flowers.</sent>
+				<sent id ="63">Unisexual flower: Flowers, which have either male or female whorl, are called unisexual flowers.</sent>
+				<sent id ="64">Flower that bear only female whorl is called female flower and flower that bears only male whorl is called male flower.</sent>
+				<sent id ="65">In plants like lau (Bottle Gourd), Kumra (Gourd), Jhinga (Luffa) etc. male and female flowers are grown separately in the same plant.</sent>
+				<sent id ="66">Regular Flower: Flowers in which the members of each whorl are similar in shape and size called regular flower.</sent>
+				<sent id ="67">Datura, Brassica, Hibiscus (China- rose) etc. Irregular flower: A flower having member of each whorl (especially calyx and corolla) dissimilar in size and shape is called irregular flower.</sent>
+				<sent id ="68">pisum (Motor), Clitoria (Aparajita), Beans (Shim), etc. are irregular flowers.</sent>
+				<sent id ="69">Symmetric Flower: A flower, which may be cut into two equal halves by one or more vertical plane passing through the center of the flower is called a smymetric flower.</sent>
+				<sent id ="70">Zygomorphic: Flowers, which may be cut into two equal halves by only one vertical plane passing through the center of the flower is called Zygomorphic flower e.g.</sent>
+				<sent id ="71">pisum, Beans, Clitoria etc. (ii) Actinomorphic : Flowers, whcih may be cut into two equal halves by more than one vertical plane passing through the center of the flower, is called actinomophic flower.</sent>
+				<sent id ="72">e.g Datura, Hibiscus, Brassica etc. Asymmetric Flower: Flowers, which cannot be cut into two equal halves by any vertical planes is called asymmetric `flower.</sent>
+				<sent id ="73">Canna (Kalabati) flower is an asymmetric flower.</sent>
+				<sent id ="74">Bracteate Flower: Flowers, which have bract or bracts at its base is called bracteate flower, e.g.</sent>
+				<sent id ="75">Ebracteate Flower: Flowers, which have no bract at the base is called ebracteate flower.</sent>
+				<sent id ="76">In Brassica flower there is no bract.</sent>
+				<sent id ="77">A bract is a small leaf or leaf like organ in the axils of which arise flowers.</sent>
+				<sent id ="78">Hypogynous flower: A flower in which Calyx, Corolla and Androecium lies beneath the ovary is called hypogynous flower.</sent>
+				<sent id ="79">Flowers of Datura, Hibiscus, Brassica, Solanum, and Chili etc. are hypogynous flowers.</sent>
+				<sent id ="80">Epigynous flower: A flower in which Calyx, Corolla, and Androecium are placed above the ovary is called epigynous flower.</sent>
+				<sent id ="81">Flowers of lau (Lagenaria), Kumra (Cucurbita), Jhinga (Luffa) etc are examples of epigynous flowers.</sent>
+				<sent id ="82">Perigynous flower: A flower in which Calyx, Corolla and Androecium are placed around the ovary is called perigynous flower.</sent>
+				<sent id ="83">The thalamus of perigynous flower is cup shaped and the ovary is placed in the concave center of the thalamus, e.g.</sent>
+				<sent id ="84">ovary is placed in the concave center of the thalamus, e.g.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

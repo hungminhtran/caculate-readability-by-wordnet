@@ -1,0 +1,163 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-sci-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.767</idno>
+				<idno type="Number of sentences">135</idno>
+				<idno type="Number of tokens">1541</idno>
+				<idno type="Number of token types">556</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t42">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">You will obviously notice trees, houses, the sky above you, the ground under your feet etc.</sent>
+				<sent id ="2">You will also see the leaves of the trees stirring and your clothes fluttering - sometimes faster, sometimes slower.</sent>
+				<sent id ="3">Do you know why the tree leaves or your clothes move or what makes them move?</sent>
+				<sent id ="4">Can you see it?</sent>
+				<sent id ="5">No, it cannot be seen, but its presence can be felt.</sent>
+				<sent id ="6">This is called air.</sent>
+				<sent id ="7">It cannot be grabbed or touched, but it can be felt.</sent>
+				<sent id ="8">Air is all around us.</sent>
+				<sent id ="9">It even surrounds the earth.</sent>
+				<sent id ="10">This huge layer of air is called the atmosphere.</sent>
+				<sent id ="11">Without air, we could not have survived for even two or three minutes.</sent>
+				<sent id ="12">Life does not exist on the moon or on other planets because there is no air there.</sent>
+				<sent id ="13">Without air no animals or plants can survive.</sent>
+				<sent id ="14">Because of this, life is another name for air.</sent>
+				<sent id ="15">Air is a substance.</sent>
+				<sent id ="16">Maybe you are wondering how it can be so, since you cannot touch or see air.</sent>
+				<sent id ="17">Well, as you have already learnt, substances have some definite properties.</sent>
+				<sent id ="18">These are: they have weight, they occupy space, and they resist when pressure is applied to them.</sent>
+				<sent id ="19">Inflate the balloons equally by blowing into them and tie their mouths with strings.</sent>
+				<sent id ="20">Now, suspend the balloons from both ends of the stick using string.</sent>
+				<sent id ="21">Tie a string lightly to the middle of the stick.</sent>
+				<sent id ="22">Take care so that the string can be moved sideways easily.</sent>
+				<sent id ="23">Tie a loop at the upper end of the string so that your finger can be inserted through it.</sent>
+				<sent id ="24">Now, lift the balloons by using the string tied to the middle of the stick.</sent>
+				<sent id ="25">You may see that the stick is slanting, and is not parallel to the ground.</sent>
+				<sent id ="26">Ask your friends to confirm that the ends are balanced.</sent>
+				<sent id ="27">You obviously know that the inflated balloons contain air, and the weights of the balloons are equal and balanced.</sent>
+				<sent id ="28">Now, puncture one of the suspended balloons with a pin.</sent>
+				<sent id ="29">You will see the air leaking out and the balloon becoming deflated.</sent>
+				<sent id ="30">What else will you see?</sent>
+				<sent id ="31">Why is it dipping?</sent>
+				<sent id ="32">Because that balloon still contains air, but the punctured one does not.</sent>
+				<sent id ="33">The weight of the air inside the balloon causes the stick to dip.</sent>
+				<sent id ="34">This proves that air has weight.</sent>
+				<sent id ="35">You can all perform this experiment very easily by yourselves.</sent>
+				<sent id ="36">When your bookshelf or your schoolbag becomes full of books, you cannot keep any more books in them.</sent>
+				<sent id ="37">Much of the space in this huge world is also occupied by plants, animals and inanimate objects.</sent>
+				<sent id ="38">Seas, rivers, canals and ponds are full of water.</sent>
+				<sent id ="39">Other than those, are the huge empty spaces we see on earth really empty?</sent>
+				<sent id ="40">No, they are not empty.</sent>
+				<sent id ="41">These spaces are all occupied by air.</sent>
+				<sent id ="42">Air occupies any blank spaces it finds.</sent>
+				<sent id ="43">Even when there is no water in your bottle, it remains full of air.</sent>
+				<sent id ="44">You can prove that air occupies space through various experiments.</sent>
+				<sent id ="45">When air is blown into a deflated balloon, it inflates; when air is pumped into a football bladder, it swells.</sent>
+				<sent id ="46">Why does this so happen?</sent>
+				<sent id ="47">Because the air occupies space, causing the balloon and the bladder to swell.</sent>
+				<sent id ="48">The fact that air occupies space can be proved by two experiments.</sent>
+				<sent id ="49">Insert the end of a hollow tube into the mouth of a deflated balloon and tie it with a string.</sent>
+				<sent id ="50">Keep the deflated balloon in a paper box on a table and cover it with dry leaves.</sent>
+				<sent id ="51">Now blow through the tube.</sent>
+				<sent id ="52">You will see the layer of leaves gradually swelling upward.</sent>
+				<sent id ="53">What is actually happening?</sent>
+				<sent id ="54">The air is inflating the balloon, and the air is replacing the space occupied by the dry leaves.</sent>
+				<sent id ="55">If the air is released, the balloon will deflate and the leaves will go back to their original positions.</sent>
+				<sent id ="56">The experiment proves that air occupies space.</sent>
+				<sent id ="57">You can also perform this experiment using pieces of paper, cotton or other light substances instead of dry leaves.</sent>
+				<sent id ="58">Take an uncapped transparent plastic bottle and drill a hole in its bottom.</sent>
+				<sent id ="59">Take a bucket of water.</sent>
+				<sent id ="60">Press your finger tightly on the hole so that air cannot come out.</sent>
+				<sent id ="61">Now, holding the open mouth of the bottle vertically downward, try to dip it in the water.</sent>
+				<sent id ="62">You will not be able to do so easily.</sent>
+				<sent id ="63">You will feel a pressure.</sent>
+				<sent id ="64">Now, lift the bottle from the water.</sent>
+				<sent id ="65">You will find that there is no water inside the bottle, and no water is falling from it.</sent>
+				<sent id ="66">This is because no water had entered the bottle.</sent>
+				<sent id ="67">This time you will find that the bottle easily goes underwater.</sent>
+				<sent id ="68">You will notice air coming out of the hole in the bottom of the bottle.</sent>
+				<sent id ="69">Because the air inside the bottle occupied space.</sent>
+				<sent id ="70">This experiment also shows that air occupies space.</sent>
+				<sent id ="71">Experiment: Air opposes forces applied to it Take a deflated balloon and fill it with air by blowing into it.</sent>
+				<sent id ="72">Now tie the mouth of the balloon with a string so that the air cannot escape.</sent>
+				<sent id ="73">Now carefully press the balloon with your hand.</sent>
+				<sent id ="74">You can easily feel this resistance.</sent>
+				<sent id ="75">Who is providing the resistance?</sent>
+				<sent id ="76">It is the air inside the balloon.</sent>
+				<sent id ="77">So, air opposes external forces which are applied to it.</sent>
+				<sent id ="78">So, air is a substance.</sent>
+				<sent id ="79">What is air pressure ?</sent>
+				<sent id ="80">We are actually immersed in a sea of air.</sent>
+				<sent id ="81">Air surrounds us from all sides.</sent>
+				<sent id ="82">It is a type of matter.</sent>
+				<sent id ="83">Like other substances, air has weight.</sent>
+				<sent id ="84">Because of this weight of air a force is exerted on the surface of the earth.</sent>
+				<sent id ="85">The force exerted per unit area is called air pressure.</sent>
+				<sent id ="86">However, air pressure is usually called atmosphere under normal conditions.</sent>
+				<sent id ="87">The air pressure is not the same all the time everywhere.</sent>
+				<sent id ="88">It varies because of a number of reasons.</sent>
+				<sent id ="89">For example: The air pressure decreases and increases on the earth due to different altitudes.</sent>
+				<sent id ="90">The air pressure is maximum at the surface of the earth.</sent>
+				<sent id ="91">The higher we rise above the earth's surface, the lower the air pressure gets.</sent>
+				<sent id ="92">2) If the amount of water vapour in the air increases, the amount of air decreases, and it becomes thinner.</sent>
+				<sent id ="93">This causes the pressure to decrease.</sent>
+				<sent id ="94">The air pressure can also vary as a result of variation of the heat of the sun.</sent>
+				<sent id ="95">Air expands and becomes thinner as a result of heating.</sent>
+				<sent id ="96">Thinner air exerts less pressure.</sent>
+				<sent id ="97">The substance moving inside the barometer shown in the diagram is mercury.</sent>
+				<sent id ="98">The level of mercury inside the barometer rises and falls with the increases and decreases of air pressure.</sent>
+				<sent id ="99">Barometers are used to measure the pressure of air.</sent>
+				<sent id ="100">It can also be used to determine how higher or lower than the sea level a place is.</sent>
+				<sent id ="101">The tube contains mercury.</sent>
+				<sent id ="102">The level of mercury inside the barometer rises and falls with the increases and decreases of air pressure.</sent>
+				<sent id ="103">Under normal conditions, the height of the mercury inside a barometer at sea level is 76 cm.</sent>
+				<sent id ="104">The higher we go above sea level, the lower the mercury level inside the barometer becomes.</sent>
+				<sent id ="105">This causes the level of mercury inside the barometer to go below 76 cm.</sent>
+				<sent id ="106">This usually indicates the possibility of rainfalls and storms.</sent>
+				<sent id ="107">If the mercury levels becomes too low, it indicates the possibility of severe storms or cyclones.</sent>
+				<sent id ="108">Sailors on sea-going vessels use barometers.</sent>
+				<sent id ="109">They can prepare for storms in time by observing the mercury level of the barometer.</sent>
+				<sent id ="110">The rays of the sun fall vertically on some places and at an angle at the other places.</sent>
+				<sent id ="111">So the air pressure in those locations decreases.</sent>
+				<sent id ="112">As a result, the heavy air of the high-pressure zones flow toward the low-pressure zones.</sent>
+				<sent id ="113">Therefore, the temperature of the air is much less, and it is cold and heavy.</sent>
+				<sent id ="114">This causes the air pressure in these areas to be greater.</sent>
+				<sent id ="115">As a result, the heavy air of the high-pressure polar regions flow toward the low-pressure equatorial regions.</sent>
+				<sent id ="116">As a result, wind blows from the water to the land.</sent>
+				<sent id ="117">However, during the night, the land cools down by radiating heat faster than the water.</sent>
+				<sent id ="118">As a result of this, cold and heavy air flows from the land to the water during night.</sent>
+				<sent id ="119">Air cannot be seen or touched, but its movement can be felt.</sent>
+				<sent id ="120">Naturally, air travels from high-pressure zones to low-pressure zones.</sent>
+				<sent id ="121">This flow of air is called a wind.</sent>
+				<sent id ="122">If there is a major difference between air pressures, air sometimes blows very fast toward the low-pressure zones.</sent>
+				<sent id ="123">These unusually fast flows of air are called storms.</sent>
+				<sent id ="124">If the speeds of storms are very high, they may even blow our houses away and uproot plants.</sent>
+				<sent id ="125">The abnormal flow of air is harmful for us.</sent>
+				<sent id ="126">But normal flows of air can be made to serve many purposes.</sent>
+				<sent id ="127">Winds help to maintain the balance of temperature on the surface of the earth.</sent>
+				<sent id ="128">Winds are used for sailing.</sent>
+				<sent id ="129">In many countries, factories are run by wind power.</sent>
+				<sent id ="130">Windmills are used to generate power and provide irrigation.</sent>
+				<sent id ="131">Winds are useful for drying clothes.</sent>
+				<sent id ="132">We use palm-leaf fans or electric fans during very hot weather.</sent>
+				<sent id ="133">This gives us relief.</sent>
+				<sent id ="134">This is nothing but a way to create waves in the air and remove the hot air.</sent>
+				<sent id ="135">We feel cooler when colder air occupies the area.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,83 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-budh-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.02</idno>
+				<idno type="Number of sentences">55</idno>
+				<idno type="Number of tokens">564</idno>
+				<idno type="Number of token types">299</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t11">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Siddhartha Goutam attained Buddhahood by an arduous practice of meditation for six years.</sent>
+				<sent id ="2">He became the Buddha.</sent>
+				<sent id ="3">The universal truth that He perceived were the Four Noble-Truths.</sent>
+				<sent id ="4">The basic principle of the Four Noble-truths is that the earth is full of sufferings.</sent>
+				<sent id ="5">Ignorance originate sufferings.</sent>
+				<sent id ="6">Due to craving a human being is born again and again and embraces death.</sent>
+				<sent id ="7">Both birth and death again and again are sorrowful.</sent>
+				<sent id ="8">Entire salvation from birth and death is Nirban.</sent>
+				<sent id ="9">Attainment of Nirban is the ultimate goal (desire) of the Buddhists.</sent>
+				<sent id ="10">It requires arduous practice of meditation to attain salvation.</sent>
+				<sent id ="11">The Buddha indicated a real path to meditate Nirban.</sent>
+				<sent id ="12">This is the Noble Eight-fold path.</sent>
+				<sent id ="13">The Noble Eight- fold path is the path of eight components.</sent>
+				<sent id ="14">The Buddha expounded it as Majjhima patipada or the Middle path.</sent>
+				<sent id ="15">Both extreme practice of meditation and excessive earthly enjoyment, are not the way to salvation.</sent>
+				<sent id ="16">Rather it is a hindrance.</sent>
+				<sent id ="17">For that reason, the Buddha advised to follow the Middle path avoiding those two extremities.</sent>
+				<sent id ="18">It is easy to attain Nirban by practising the Middle path.</sent>
+				<sent id ="19">The Middle-path or the Noble Eight-fold path as indicated by the Buddha possesses three sections.</sent>
+				<sent id ="20">Right view: Samyak means right or accurate.</sent>
+				<sent id ="21">So Right view is perfect or accurate vision.</sent>
+				<sent id ="22">Real perception of the Four Noble-truth is called the Right view.</sent>
+				<sent id ="23">Right thoughts: It refers to honest or excellent thought.</sent>
+				<sent id ="24">Greed, hatred, delusion (fascination) etc. unwholesome intentions should be avoided.</sent>
+				<sent id ="25">To engage oneself for the welfare of others is the Right thought.</sent>
+				<sent id ="26">Right speech: Honest or gentle behaviour is defined as Right speech.</sent>
+				<sent id ="27">Telling lies, speaking truth, speech that creates disunity and meaningless words-all these are unwholesome (bad) speech.</sent>
+				<sent id ="28">On the other hand, truthful, moderate and meaningful words are Right speech.</sent>
+				<sent id ="29">Right speech makes a man favourite to everybody.</sent>
+				<sent id ="30">Right action: Honest or virtuous deed denotes the Right action.</sent>
+				<sent id ="31">All types of unwholesome (bad) actions should be avoided.</sent>
+				<sent id ="32">Killing, stealing, committing adultery, drinking alcohols etc, are evil deeds (unwholesome actions).</sent>
+				<sent id ="33">Submissive and beneficial actions for own self and others are Right speeches.</sent>
+				<sent id ="34">Performance of good deeds is the Right action.</sent>
+				<sent id ="35">Right livelihood: Living an honest or vituous life by honest means is the Right livelihood.</sent>
+				<sent id ="36">In Buddhism five kinds of business are prohibited.</sent>
+				<sent id ="37">These are-trading in armoury, poison, living being (slave) and meat.</sent>
+				<sent id ="38">It is good to earn livelihood by agriculture, business and service.</sent>
+				<sent id ="39">Actually, to earn by honest means is the Right livelihood.</sent>
+				<sent id ="40">Right effort: It means positive determination or enthusiasm.</sent>
+				<sent id ="41">Self-control, crimelessnss (destruction of crime), creation and development of wholesome (proficiency) are the Right efforts.</sent>
+				<sent id ="42">Right mindfulness: To recollect right deeds again and again indicates the Right mindfulness.</sent>
+				<sent id ="43">Memorisation of wrong deed previously done is not right mindfulness.</sent>
+				<sent id ="44">Wrong or unsholesome memory leads human being to commit sin (crime).</sent>
+				<sent id ="45">Hence we should have recollect the memory of right deeds at all times.</sent>
+				<sent id ="46">Right concentration: Samadhi (Meditation) relates to concentration of mind or mental state.</sent>
+				<sent id ="47">Human mind never remains fixed (still).</sent>
+				<sent id ="48">It is always restless.</sent>
+				<sent id ="49">Restless mind hampers to perform virtuous deeds.</sent>
+				<sent id ="50">Basically, control over restless mental state (mind) is the Right concentration.</sent>
+				<sent id ="51">The Noble Eight-fold path is an unprecedented discovery of Lord Buddha.</sent>
+				<sent id ="52">The Eight-fold path leads us to attain Nirban.</sent>
+				<sent id ="53">Its good- effects are limitless.</sent>
+				<sent id ="54">Try to realize the Noble Eight-fold path.</sent>
+				<sent id ="55">Practice of the Noble eight- fold path is very much important for the happiness in the present and preceding lives.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

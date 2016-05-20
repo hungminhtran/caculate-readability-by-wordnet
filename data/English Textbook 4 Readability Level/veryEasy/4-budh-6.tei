@@ -1,0 +1,82 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-budh-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.673</idno>
+				<idno type="Number of sentences">54</idno>
+				<idno type="Number of tokens">479</idno>
+				<idno type="Number of token types">208</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t49">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Satya The word, Chatu means four and Arya means noble.</sent>
+				<sent id ="2">So the Chaturarya Satya is the Four Noble Truths.</sent>
+				<sent id ="3">It is the best discovery of Bhagwan Buddha.</sent>
+				<sent id ="4">After attainment of Buddhahood, he realized-life and the world are full of sufferings.</sent>
+				<sent id ="5">Happiness is temporary.</sent>
+				<sent id ="6">This temporary happiness brings sufferings in the long run.</sent>
+				<sent id ="7">The essence of Buddhism lies into the Four Noble Truths.</sent>
+				<sent id ="8">To be born on earth is suffering.</sent>
+				<sent id ="9">The Noble Truth is to acquire proper knowledge about sufferings.</sent>
+				<sent id ="10">The Noble Truth is of four kinds.</sent>
+				<sent id ="11">Now we have a brief explanation about the Four Noble Truths below:</sent>
+				<sent id ="12">The Noble Truth of Suffering: Human life is full of sufferings.</sent>
+				<sent id ="13">Every man is caught under the charms of illusion.</sent>
+				<sent id ="14">We cannot realize the real picture of suffering.</sent>
+				<sent id ="15">We rather consider the causes of suffering as our happiness.</sent>
+				<sent id ="16">This is Buddhist Religious Studies64 called ignorance.</sent>
+				<sent id ="17">It is ignorance which is the main cause of our sufferings.</sent>
+				<sent id ="18">Sufferings are of many kinds.</sent>
+				<sent id ="19">Everything from birth to death is full of sufferings.</sent>
+				<sent id ="20">The Noble Truth of the Cause of Suffering: There is a reason behind every action.</sent>
+				<sent id ="21">As there is reason, sufferings are originated.</sent>
+				<sent id ="22">Thirst emerges in human mind as there are sufferings.</sent>
+				<sent id ="23">Ignorance is the cause of thirst.</sent>
+				<sent id ="24">Thirst makes man to be attracted by illusion.</sent>
+				<sent id ="25">Because of thirst man is born again and again.</sent>
+				<sent id ="26">In this way, suffering emerges out of thirst.</sent>
+				<sent id ="27">So it is called the Noble Truth of the Cause of Suffering.</sent>
+				<sent id ="28">The Noble Truth of the End of Suffering: Thirst is the cause of rebirth.</sent>
+				<sent id ="29">To prevent rebirth thirst must be restrained.</sent>
+				<sent id ="30">When thirst will be destroyed, rebirth will be prevented.</sent>
+				<sent id ="31">If there is no birth, no death will occur.</sent>
+				<sent id ="32">We shall have no suffering as well.</sent>
+				<sent id ="33">Those who can prevent rebirth by destroying thirst attain Nirban.</sent>
+				<sent id ="34">Nirban means total destruction of thirst.</sent>
+				<sent id ="35">If there is birth, there is death.</sent>
+				<sent id ="36">And rebirth occurs because of thirst.</sent>
+				<sent id ="37">Restraining birth and death is Nirban.</sent>
+				<sent id ="38">The attainment of Nirban is the main objective of Buddhism.</sent>
+				<sent id ="39">If suffering is restrained, Nirban will be attained.</sent>
+				<sent id ="40">So it is called the Noble Truth of the End of Suffering.</sent>
+				<sent id ="41">For this reason, we get rid of disease.</sent>
+				<sent id ="42">Likewise there is also a way to get rid of suffering.</sent>
+				<sent id ="43">It is called the middle course.</sent>
+				<sent id ="44">According to Buddha, the middle course is the only way to get rid of suffering.</sent>
+				<sent id ="45">Buddha has instructed eight principles of the middle course.</sent>
+				<sent id ="46">These eight principles are the Noble Eight- fold Path.</sent>
+				<sent id ="47">We have learned about the Four Noble Truths in this chapter.</sent>
+				<sent id ="48">We have to understand the Four Noble Truths well.</sent>
+				<sent id ="49">For this we need meditation and practice.</sent>
+				<sent id ="50">It is possible to get rid of suffering through meditation and practice.</sent>
+				<sent id ="51">Real happiness can be enjoyed.</sent>
+				<sent id ="52">Nirban can be attained.</sent>
+				<sent id ="53">Buddha said-Nibbanag Paramang Sukhang-that is, Nirban is the supreme happiness.</sent>
+				<sent id ="54">You can learn elaborately about the Noble Eight-fold Path later.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

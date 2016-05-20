@@ -1,0 +1,73 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-budh-3</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.614</idno>
+				<idno type="Number of sentences">45</idno>
+				<idno type="Number of tokens">408</idno>
+				<idno type="Number of token types">229</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t46">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">You know the Tripitak is the holy religious book for the Buddhists.</sent>
+				<sent id ="2">It was necessary to compile his religious messages.</sent>
+				<sent id ="3">This religious conference is called the Sangiti in the history of Buddhism.</sent>
+				<sent id ="4">The venue was decided.</sent>
+				<sent id ="5">It was the Saptaparni Cave at Rajgriha.</sent>
+				<sent id ="6">Five hundred wise Theros attended the conference.</sent>
+				<sent id ="7">Dharma-Binay of Buddha was compiled.</sent>
+				<sent id ="8">Upali Thero recited the Binay.</sent>
+				<sent id ="9">Dharma was recited by Ananda Thero.</sent>
+				<sent id ="10">Ajatshatru, the king of Magadha, patronized this Sangiti.</sent>
+				<sent id ="11">The second Sangiti was organized after one hundred years of the Mahaparinirban of Buddha.</sent>
+				<sent id ="12">Jasha Thero took initiative to call this Sangiti.</sent>
+				<sent id ="13">Seven hundred Theros attended the second Sangiti.</sent>
+				<sent id ="14">The Dharma-Binay was recited again in this Sangiti.</sent>
+				<sent id ="15">Emperor Kalashok was the patron of the second Sangiti.</sent>
+				<sent id ="16">Patliputra was the capital of his large kingdom.</sent>
+				<sent id ="17">The third Sangiti was held with the patronization of Emperor Ashok.</sent>
+				<sent id ="18">One thousand Theros attended it under the leadership of Moggalliputt Tiss.</sent>
+				<sent id ="19">With their efforts, the Dharma- Binay was divided into three parts: Binay, Sutta and AbhiDhamma.</sent>
+				<sent id ="20">In this way, the Tripitak was compiled in the third Sangiti.</sent>
+				<sent id ="21">You have learnt about the Binay Pitak in class three.</sent>
+				<sent id ="22">Now we shall learn about the Sutta Pitak.</sent>
+				<sent id ="23">There are five Nikays in the Sutta Pitak.</sent>
+				<sent id ="24">Brief descriptions of the above Nikays have been given below:</sent>
+				<sent id ="25">Digh Nikay: There are three Baggas in Digh.</sent>
+				<sent id ="26">Nikay: Silkkhandha Bagga, Mahabagga and Patig Bagga.</sent>
+				<sent id ="27">The Suttas of these Barga are very long.</sent>
+				<sent id ="28">Nibbana with donation, the Shil and Bhabna (thoughts) has been explained in these Suttas.</sent>
+				<sent id ="29">Majjhim Nikay: This Nikay is also divided into three parts.</sent>
+				<sent id ="30">These are-Mul Pangangas, Majjhim Pangangas and Upari Pangangas.</sent>
+				<sent id ="31">The main objectives of writing these are to teach morals through stories and instructions.</sent>
+				<sent id ="32">Sangjukta Nikay: Sangjukta Nikay consists of five Baggas.</sent>
+				<sent id ="33">Those are-Sagatha Bagga, Nidan Bagga, Khandhak Bagga, Salayatan Bagga and Mahabagga.</sent>
+				<sent id ="34">In these books, moral and religious rites have been discussed.</sent>
+				<sent id ="35">Anguttar Nikay: This Nikay consists of eleven Nipats.</sent>
+				<sent id ="36">Those Nipats are-Eik Nipat.</sent>
+				<sent id ="37">Those Nipats contain the messages of Bhagwan Buddha elaborately.</sent>
+				<sent id ="38">Khuddak Nikay: The word, Khuddak means little.</sent>
+				<sent id ="39">Though it Kshudra or little by name, it is very large in volume.</sent>
+				<sent id ="40">Number of books of this Nikay, written in prose and in verse, is fifteen.</sent>
+				<sent id ="41">Niddes Jataka Patisambhida Magga Apadan 14. Buddhabangsa Chariya Pitaka.</sent>
+				<sent id ="42">The instructions of Bhagwan Buddha in these books of the Sutta Pitaka.</sent>
+				<sent id ="43">Everybody should obey these instructions.</sent>
+				<sent id ="44">When you grow up, you will collect these books.</sent>
+				<sent id ="45">You will also inspire others to read those.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

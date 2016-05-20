@@ -1,0 +1,122 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-biology-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.909</idno>
+				<idno type="Number of sentences">94</idno>
+				<idno type="Number of tokens">1126</idno>
+				<idno type="Number of token types">467</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t31">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Cells possess the power of cell division.</sent>
+				<sent id ="2">Usually the cells are rectangular of oval.</sent>
+				<sent id ="3">Cell wall is made of cellulose and is thin.</sent>
+				<sent id ="4">Nucleus is large and the cytoplasm is denser.</sent>
+				<sent id ="5">Usually no vacuole is seen in the cell.</sent>
+				<sent id ="6">Usually there is no intercellular space in Meristamatic tissue, so the cells are arranged compactly.</sent>
+				<sent id ="7">Meristamatic tissues are present at the apex of roots and stems.</sent>
+				<sent id ="8">According to their position they are Apical meristems and accroding to their origin they are Primary meristems, because they are originated from the embryonic stage.</sent>
+				<sent id ="9">Stem and root increase in length by the division of cells of these tissues.</sent>
+				<sent id ="10">In the roots and stems of gymnosperms and dicotyledonous plants there develops a new Meristamatic tissue, they are called Secondary meristems.</sent>
+				<sent id ="11">According to their position they are Secondary meristems.</sent>
+				<sent id ="12">Cells of permanent tissues are not capable of cell division, for which they are called Permanent tissue.</sent>
+				<sent id ="13">They are originated from Meristamatic tissues.</sent>
+				<sent id ="14">All tissues other than the Meristamatic ones are permanent tissues.</sent>
+				<sent id ="15">Cells of these tissues have no power of division.</sent>
+				<sent id ="16">Cells are well developed and properly shaped.</sent>
+				<sent id ="17">Cell wall is comparatively thick.</sent>
+				<sent id ="18">Nucleus of the cells are bigger and cytoplasm is dense.</sent>
+				<sent id ="19">Usually there are vacuoles in the cell.</sent>
+				<sent id ="20">There may have intercellular spaces in between cells.</sent>
+				<sent id ="21">* Cells are almost uniform in length, breath and depth.</sent>
+				<sent id ="22">* Cells are round, oval or polygonal in shape.</sent>
+				<sent id ="23">* Cell wallls are evenly thick.</sent>
+				<sent id ="24">* Cells are living and contain sufficient protoplasm.</sent>
+				<sent id ="25">* There may have intercellular spaces between adjacent cells.</sent>
+				<sent id ="26">Permanent - tissues that Thin cell wall contain chlorophyll are called Chlorenchyma.</sent>
+				<sent id ="27">The chlorenchyma of leaf IS called Messophyll.</sent>
+				<sent id ="28">Parenchymatous tissues with large air spaces In aquatic plants are Aerenchyma.</sent>
+				<sent id ="29">Chlorenchyma manufactures food materials.</sent>
+				<sent id ="30">They help ,in transporting the food materials.</sent>
+				<sent id ="31">Parenchyma in the epidermis act as a defensive organ.</sent>
+				<sent id ="32">Position: Usually pith, pith rays, epidermis and most of the cortex are made of this tissue.</sent>
+				<sent id ="33">Cells are to some extent elongated.</sent>
+				<sent id ="34">Cell wall is unevenly thick, thickness is greater at eorners of the cells.</sent>
+				<sent id ="35">Cells with chlorophyll manufacture food.</sent>
+				<sent id ="36">It gives mechanical strength to the growmg organ.</sent>
+				<sent id ="37">Position: It is found under the epidermis, in the petioles and veins of leaves and in the flower stalks.</sent>
+				<sent id ="38">Cells elongateq and the ends are pointed.</sent>
+				<sent id ="39">Cell walls being lignified become thick and the thickness is uniform.</sent>
+				<sent id ="40">Mature cells are dead and without nucleus and protoplasm.</sent>
+				<sent id ="41">In transverse section they are polygonal.</sent>
+				<sent id ="42">To give mechanical strength to different organs of the plant is the main function.</sent>
+				<sent id ="43">Some dead cell may store excretory substances of plants.</sent>
+				<sent id ="44">Complex tissue: Complex tissue is composed of more than one kind of cells.</sent>
+				<sent id ="45">They are two types, namely Xylem tissue and Phloem tissue.</sent>
+				<sent id ="46">Xylem tissue: Xylem tissue consists of four types of cells, namely: Tracheids, Vessels or Trachaea, Xylem fibre and Xylem Parenchyma.</sent>
+				<sent id ="47">Tracheids: Cells are dead, long with transverse ends, containing large vacuole.</sent>
+				<sent id ="48">Cell walls are hard, strong.</sent>
+				<sent id ="49">Their main functions are to gIve mechanical strength and to supply water and dissolved minerals from root to the leaves.</sent>
+				<sent id ="50">Vessels or Trachaea: Cells are broad and short, placed end to end to form a continuous hollow tube.</sent>
+				<sent id ="51">Water and waterdissolved minerals are conducted from root to leaf by these cells.</sent>
+				<sent id ="52">Their main function is to give mechanical strength to the plant.</sent>
+				<sent id ="53">Functions of these cells are storage and conduction of food materials.</sent>
+				<sent id ="54">Functions of xylem tissue: Their functions are to give mechanical strength to the plant body, conduction of water, minerals and food materials and storage of food.</sent>
+				<sent id ="55">Phloem tissue: Phloem tissue consists of four types of cells, namely: sieve tubes, companion cells, phloem fibres and phloem parenchyma.</sent>
+				<sent id ="56">The partition walls between two adjacent sieve cells are perforated and known as sieve plate.</sent>
+				<sent id ="57">In m4;iture sieve tube there is.</sent>
+				<sent id ="58">no nucleus in the cell.</sent>
+				<sent id ="59">Conduction of food, prepared in the leaves is its main function.</sent>
+				<sent id ="60">Companion cells: These are parenchymatous, narrow, elongated cells, and are closely associated with the sieve tube.</sent>
+				<sent id ="61">They have dense cytoplasm and a large nucleus.</sent>
+				<sent id ="62">Conduction with the sieve tube is done through the pores present on the walls of these cells.</sent>
+				<sent id ="63">They help the sieve tubes in conduction of food materials.</sent>
+				<sent id ="64">Phloem fibre: These are Sclerenchymatous cells.</sent>
+				<sent id ="65">They are also known as bast fibre.</sent>
+				<sent id ="66">Its function is to give mechanical strength.</sent>
+				<sent id ="67">There main function is to conduct food materials, prepared in the leaves, to different parts of the plant.</sent>
+				<sent id ="68">They give mechanical strength to plant organ.</sent>
+				<sent id ="69">In case of necessity they store food materials.</sent>
+				<sent id ="70">In respect of physiological and economic aspects, complex tissues are of great importance.</sent>
+				<sent id ="71">Complex tissues perform the duty of conduction of raw food materials to leaves and prepared food materials to all the living cells.</sent>
+				<sent id ="72">Beside preparation of food, water is necessary for various reactions.</sent>
+				<sent id ="73">This water is conducted from root to stem through the complex tissue named xylem.</sent>
+				<sent id ="74">Through xylem tissue dissolved minerals along with water also passes upwardly.</sent>
+				<sent id ="75">Water used in transpiration also moves to leaf through xylem tissue.</sent>
+				<sent id ="76">The most important economic crop in Bangladesh is jute fiber.</sent>
+				<sent id ="77">Jute fiber is the secondary phloem or bast fiber.</sent>
+				<sent id ="78">The wood we use, in the construction of houses, in making furniture, boat or musical instruments or as fuel, is the secondary xylem.</sent>
+				<sent id ="79">Secretory tissue: Secretoy tissues are those tissues, which secrets various liquids, Resins, gums, rubber etc. are collected from secretory tissues.</sent>
+				<sent id ="80">Laticiferous tissues and Glandular tissues.</sent>
+				<sent id ="81">Laticiferous tissue: Latex is a white, yellow or colourless liquid Carbohydrates, protein, gums, and fats etc. are mixed in Latex.</sent>
+				<sent id ="82">Latex is found in various plants like;- Musa (KALA) Ficus (BOT), Hevea (RUBBER), Papiver (OPIUM), Calotropis (AKONDO), Alstonia (CHHATIM), Argement (SHIALKATA).</sent>
+				<sent id ="83">When one or more kinds of tissues are united and together perform a similar function, then it is known as tissue system.</sent>
+				<sent id ="84">Epidermal Tissue System: - This tissue system makes the outer cover of plant organs like, roots stems, branches, leaves, fruits.</sent>
+				<sent id ="85">etc. Typically it consists of a closely arranged single layer of parenchymatous cells.</sent>
+				<sent id ="86">There may have unicellular or multicellular hairs.</sent>
+				<sent id ="87">Functions: To give protection to the internal portion of the plant organ.</sent>
+				<sent id ="88">Theses are the main bulk of tissues of roots and stems.</sent>
+				<sent id ="89">The ground tissue is differentiated into outer cortical region and inner medulla or pith region.</sent>
+				<sent id ="90">Medulla and Medullary Rays encircled by, the Pericycle form the central Pith.</sent>
+				<sent id ="91">Functions : Functions of this tissue system are to give mechanical stregth to the stem and to store food materials.</sent>
+				<sent id ="92">Vascular tissue system comprises of two complex tixssue, namely; Xylem and phloem, These tissues are embedded in the ground tissues.</sent>
+				<sent id ="93">In dicotyledonous stems xylem and phloem lie side by side on the same radius and between them there is a kind of Meristamatic tissue named Cambium.</sent>
+				<sent id ="94">Phloem tissue lies towards the periphery and xylem toward center of the stem.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

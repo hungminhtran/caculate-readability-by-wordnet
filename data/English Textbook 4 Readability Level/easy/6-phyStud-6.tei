@@ -1,0 +1,91 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-phyStud-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.5</idno>
+				<idno type="Number of sentences">63</idno>
+				<idno type="Number of tokens">736</idno>
+				<idno type="Number of token types">380</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t117">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">When we work, we become tired and we need rest.</sent>
+				<sent id ="2">During rest, if we do some recreational activities, we get inspired to do more work.</sent>
+				<sent id ="3">Recreations bring joy and happiness in mind.</sent>
+				<sent id ="4">We may get recreation through leisure time activities.</sent>
+				<sent id ="5">These may be competitive games, cultural functions, journey to any place of interest, picnic etc.</sent>
+				<sent id ="6">But recreation varies from person to person and according to age.</sent>
+				<sent id ="7">Ludo and carrom Board fall in the groups of indoor games.</sent>
+				<sent id ="8">During leisure time, Ludo and carrom game are extensively played in the country.</sent>
+				<sent id ="9">This is a very good medium to give recreation.</sent>
+				<sent id ="10">These two games have been elaborated in the Chapter Four.</sent>
+				<sent id ="11">Chess has earned reputation as a brain stimulating game.</sent>
+				<sent id ="12">It is said that chess is originated in the 5th century in Indian sub- continent.</sent>
+				<sent id ="13">In earlier days, it was known as a game of dices (chaturango).</sent>
+				<sent id ="14">Chess was introduced in Persia in the 6th century.</sent>
+				<sent id ="15">Chess is now an international game and it has become a prestigious event.</sent>
+				<sent id ="16">The world famous chess players are mostly found in Rassia.</sent>
+				<sent id ="17">The highest title of Grand Master is conferred to the best chess players of the world.</sent>
+				<sent id ="18">There are many Grand Masters in the countries like the USA, UK.</sent>
+				<sent id ="19">Chess men-A chess set consists of two similar teams of 16 men one white and the other black.</sent>
+				<sent id ="20">The move-The player having white pieces will move first.</sent>
+				<sent id ="21">His move will be of one time and only one piece will be moved.</sent>
+				<sent id ="22">After his move, his opponent having black pieces will move his piece.</sent>
+				<sent id ="23">At the first move, one can send his pawn by moving two squares.</sent>
+				<sent id ="24">After that the pawn can be moved only one square.</sent>
+				<sent id ="25">The rooks can move vertically and horizontally to any number of squares.</sent>
+				<sent id ="26">All the moves except in the case of knights will be limited by the presence of other men.</sent>
+				<sent id ="27">The won game-The player who checkmated the opponent's king is the winner of the game.</sent>
+				<sent id ="28">Castling-For greater safety of the king.</sent>
+				<sent id ="29">a castling is made between the king and the rook.</sent>
+				<sent id ="30">This can be done when in between the king and rook, there will be no other chessmen.</sent>
+				<sent id ="31">Setting of chessmell in the board-The two rooks will be placed first at the two corners of the board.</sent>
+				<sent id ="32">Then the two knights will be put beside the two rooks.</sent>
+				<sent id ="33">The two bishops will sit beside the two knights.</sent>
+				<sent id ="34">For black pieces, queen sits in the .white</sent>
+				<sent id ="35">There will be one Arbiter who will conduct the game as per rules and regulations.</sent>
+				<sent id ="36">Immature attack: It is not wise to move very fast.</sent>
+				<sent id ="37">This hampers the progress of the game while the opponent gets advantage from such unnecessary move.</sent>
+				<sent id ="38">The chess is to think, observe and perform every thing positively.</sent>
+				<sent id ="39">He must not surrender before the actual end play comes.</sent>
+				<sent id ="40">These are reading of educational books, recitation from the holy hooks, poems depicting heroism, patriotism etc.</sent>
+				<sent id ="41">The books on the Liberation War of Bangladesh, national history, culture can also be read to acquire knowledge.</sent>
+				<sent id ="42">The books can be read out to the illiterate persons who find pleasure of hearing many aspects of knowledge.</sent>
+				<sent id ="43">Recitation is another pursuit of knowledge.</sent>
+				<sent id ="44">It inspires the readers as well as the hearers.</sent>
+				<sent id ="45">Music is another medium and most probably the best one which is used for recreational purposes.</sent>
+				<sent id ="46">It has manifold useful ness.</sent>
+				<sent id ="47">The music is of various types these arc classical, modern, folk, parody, patriotic etc.</sent>
+				<sent id ="48">One is to prepare thoroughly to participate in such programmes.</sent>
+				<sent id ="49">We need food to maintain our body.</sent>
+				<sent id ="50">When we work, our body gets tired and then we need rest.</sent>
+				<sent id ="51">This is essential to restore energy so that we can work further.</sent>
+				<sent id ="52">We know that the human body is composed with innumer able number of cells.</sent>
+				<sent id ="53">These cells are constantly supplied with food in a very complex method.</sent>
+				<sent id ="54">We thus get energy for work.</sent>
+				<sent id ="55">When the supply of food to the cells is exhausted.</sent>
+				<sent id ="56">we feel tired.</sent>
+				<sent id ="57">Then we need rest to regain the energy.</sent>
+				<sent id ="58">Sometimes we take sleep also to get ourselves fit for work.</sent>
+				<sent id ="59">The rest and sleep are essential for human body.</sent>
+				<sent id ="60">Without this no one can survive.</sent>
+				<sent id ="61">As per physiologists, the young hi1dren of 10-12 years of age require - 10 hours sleep per day.</sent>
+				<sent id ="62">This of course varies for the older people.</sent>
+				<sent id ="63">So the recreational activities, rest and sleep for the children, youths and older people are to be set carefully.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

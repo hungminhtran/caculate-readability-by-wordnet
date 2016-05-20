@@ -1,0 +1,188 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-phyStud-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.373</idno>
+				<idno type="Number of sentences">160</idno>
+				<idno type="Number of tokens">2081</idno>
+				<idno type="Number of token types">690</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t112">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">To maintain the balance of the body and mind physical education is an integral part of general education.</sent>
+				<sent id ="2">Healthy body, work ability and intelligence are connected with physical excellence.</sent>
+				<sent id ="3">Physical education means development of the body and mind through physical exercise.</sent>
+				<sent id ="4">To make the structure of the body strong and well-built.</sent>
+				<sent id ="5">To develop natural growth and vitality.</sent>
+				<sent id ="6">To maintain health and to form a habit of healthy way of living.</sent>
+				<sent id ="7">With practices of sports and games keep body strong and free from diseases.</sent>
+				<sent id ="8">Many of us think that without equipment no activities of sports and games are possible.</sent>
+				<sent id ="9">For all ages walking is the best exercise.</sent>
+				<sent id ="10">Besides, one can walk imitating birds and animals.</sent>
+				<sent id ="11">While sitting keep your spine erect.</sent>
+				<sent id ="12">While sitting in a chair the waist will touch the back of the chair.</sent>
+				<sent id ="13">The sole of the foot will rest on the ground in one level.</sent>
+				<sent id ="14">The chest should be kept high so that the function of the heart and lungs remains natural.</sent>
+				<sent id ="15">At the time of walking the opposite arm will follow the front foot.</sent>
+				<sent id ="16">In this way the arm and feet co- ordination should be maintained to make the habit of walking.</sent>
+				<sent id ="17">Keeping the pace of natural walking the speed of walking to be increased.</sent>
+				<sent id ="18">The style of hand and feet will be like walking.</sent>
+				<sent id ="19">But steps will be place on the same place or spot.</sent>
+				<sent id ="20">Time to time one can walk carrying one partner on the shoulder.</sent>
+				<sent id ="21">Walking competitions should be held among themselves.</sent>
+				<sent id ="22">The leg will be placed forward, the alternate hand will come forward.</sent>
+				<sent id ="23">4) The head up, the shoulder in natural position and the spine should he kept straight.</sent>
+				<sent id ="24">When the foot comes forward the weight or balance will be on the ball of the foot.</sent>
+				<sent id ="25">A. Two players of same height should stand by placing back to back locking their elbows (that their hands).</sent>
+				<sent id ="26">After this one will walk forward and the other back ward.</sent>
+				<sent id ="27">They will take 10/12 steps forward and backward.</sent>
+				<sent id ="28">While walking in this style one should take small steps.</sent>
+				<sent id ="29">B. Walk fast in front by taking very small steps.</sent>
+				<sent id ="30">The head will remain bend slightly forward.</sent>
+				<sent id ="31">While carrying light weight they walk like common people keeping their body erect.</sent>
+				<sent id ="32">They get the benefit of keeping the balance of their body and the advantage of carrying the load.</sent>
+				<sent id ="33">Students with the help of their partners can imitate the walking of a porter and practise it.</sent>
+				<sent id ="34">Running is a useful exercise for body building.</sent>
+				<sent id ="35">Regular habit of running in the morning or in the evening is very useful for health.</sent>
+				<sent id ="36">Before starting exercise or any game the body should be warmed up through running.</sent>
+				<sent id ="37">After this with the command one should start running and reach the fixed finishing line.</sent>
+				<sent id ="38">One who can reach the fixed finishing line will be the winner.</sent>
+				<sent id ="39">In this run whenever required the legs could be changed.</sent>
+				<sent id ="40">For this run two partners of equal height and weight are necessary.</sent>
+				<sent id ="41">The partners should stand side by side.</sent>
+				<sent id ="42">The partners will place one of their hands either on each other's shoulders or on the hips and become one.</sent>
+				<sent id ="43">They should maintain good understanding among themselves and keep equal foot steps in running to reach the finishing line.</sent>
+				<sent id ="44">However reaches the finishing line first will be declared the winner.</sent>
+				<sent id ="45">During running the knees should be raised so l that it should touch the palm of the hands.</sent>
+				<sent id ="46">Besides, running practice can be done by placing the palms of the hands on both knees.</sent>
+				<sent id ="47">For this run all competitors will stand on the starting line.</sent>
+				<sent id ="48">After the signal or whistle of the starter, the competitors start running by keeping the same position.</sent>
+				<sent id ="49">The competitor who can each the finishing line first will win.</sent>
+				<sent id ="50">Usefulness: Practice of this kind of run strengthens and develops the leg muscles.</sent>
+				<sent id ="51">Besides, the skill of controlling the body balance can be achieved.</sent>
+				<sent id ="52">This history of jump is as old as human.</sent>
+				<sent id ="53">Jumping is a good exercise and an Olympic event.</sent>
+				<sent id ="54">Stand straight putting weight on the bail of the feet, hop up and jump high and land.</sent>
+				<sent id ="55">From jumping position land with folded knees.</sent>
+				<sent id ="56">Usefulness: Practice of this kind of jumping up and twisting of the body will help to learn high jump.</sent>
+				<sent id ="57">After twisting the body left and right while in the air land softly.</sent>
+				<sent id ="58">Human life is full of obstacles.</sent>
+				<sent id ="59">For the existence of life, one has to overcome many barriers.</sent>
+				<sent id ="60">While learning crossing students barrier attention should be given for the security of the students.</sent>
+				<sent id ="61">The students will stand in two or three files of equal numbers.</sent>
+				<sent id ="62">The student a lead of the file will bend and place his both hands on the knees.</sent>
+				<sent id ="63">In this manner all other fellows will jump over and cross and stand like their friend.</sent>
+				<sent id ="64">In this way the group who finishes first will be declared the winner.</sent>
+				<sent id ="65">Special note: The jumping practice over the barrier can be done in many ways or styles and with implements.</sent>
+				<sent id ="66">These three main points should be kept in mind.</sent>
+				<sent id ="67">Besides, a helper or stand by should always stay near by.</sent>
+				<sent id ="68">While playing or doing exercise the balance of the body should be kept in control.</sent>
+				<sent id ="69">One who can control his balance only he can achieve his goal without causing any accident.</sent>
+				<sent id ="70">In fact balance means to control weight and speed of the body.</sent>
+				<sent id ="71">Sit on the heel and ball of the feet on the ground or mat with folded knees.</sent>
+				<sent id ="72">As far as possible the shape of the body will be like an egg.</sent>
+				<sent id ="73">Sit in an imaginary chair in folded knee position.</sent>
+				<sent id ="74">Stay for some time in this position then stand straight.</sent>
+				<sent id ="75">During the practice of this exercise extend both the arms in front parallel to the shoulder and ground.</sent>
+				<sent id ="76">The knee balancing and standing exercise can be practised 10 to 15 times.</sent>
+				<sent id ="77">This exercise makes the legs strong and develops the muscles.</sent>
+				<sent id ="78">Those who have weak legs if they can practise this exercise adequately and regularly will be benefited.</sent>
+				<sent id ="79">Sit with both the hands in between your thighs and place them on the ground or mat with open palms.</sent>
+				<sent id ="80">Now keeping the body weight, on the palms try to keep balance and lift your legs.</sent>
+				<sent id ="81">This position looks like a frog.</sent>
+				<sent id ="82">By maintaining balance like a frog one can reach by hoping up to a particular point.</sent>
+				<sent id ="83">From the elbow to palm portion of the hand to be placed on the ground or mat.</sent>
+				<sent id ="84">After taking rest this exercise is to be practised three or four times.</sent>
+				<sent id ="85">For the sake of learning this and safety measure one helper should be kept near by.</sent>
+				<sent id ="86">This exercise strengthens the hands, legs, chest, hack and the backbone and make them capable of work.</sent>
+				<sent id ="87">The body becomes light and agile like a tiger.</sent>
+				<sent id ="88">During play or exercise somersoult or roll is required.</sent>
+				<sent id ="89">If skills arid techniques of somersault are known can be avoided.</sent>
+				<sent id ="90">The player will get ready in the starting place.</sent>
+				<sent id ="91">Both partners will stand by holding hands in such a way so that it makes a ring.</sent>
+				<sent id ="92">Instead of holding hands the partners can hold a ring made of bamboo or cane.</sent>
+				<sent id ="93">The starting player takes a run and gives a dive through the ring or hand made ring of the partners.</sent>
+				<sent id ="94">This exercise should be practised 5-7 times slowly and rapidly.</sent>
+				<sent id ="95">This exercise develops the muscles from the hips to the legs and increase the strength, The blood circulation becomes natural.</sent>
+				<sent id ="96">Accidents can be avoided by keeping balance of the body.</sent>
+				<sent id ="97">In this chapter the exercise sitting like an egg have been described.</sent>
+				<sent id ="98">In this way the exercise is to be repeated from the right side.</sent>
+				<sent id ="99">Practise rolling for several times.</sent>
+				<sent id ="100">In this way this exercise will be under controlled.</sent>
+				<sent id ="101">Imaginative and imitative exercise: To increase the power of imagination, imaginative and imitative types of exercises are taught.</sent>
+				<sent id ="102">These exercises are generally done by imitation of animals, birds, transports etc.</sent>
+				<sent id ="103">To run like a dog or a horse one has to run on all fours (hands & feet).</sent>
+				<sent id ="104">To imitate a dog and a horse running first, practise slowly and gradually faster.</sent>
+				<sent id ="105">In prone position, the feet together, the hands to be folded from the elbows on the mat or ground.</sent>
+				<sent id ="106">The position is almost like a push up position.</sent>
+				<sent id ="107">Now just like stepping on the foot walk forward with both the hands.</sent>
+				<sent id ="108">The position of the body from the head to the toes will remain straight.</sent>
+				<sent id ="109">While walking by the hands, body will go right and on the left.</sent>
+				<sent id ="110">But no help can be taken from the legs.</sent>
+				<sent id ="111">The toes will be dragged to go forward.</sent>
+				<sent id ="112">The co-ordinate exercise of musical measurement and time which makes exercises more attractive, fruitful are called rhythmic exercises.</sent>
+				<sent id ="113">With the sound of clapping the foot will be up and down, limbs move or dance.</sent>
+				<sent id ="114">t2) With the sound of the finger snapping movement of limbs or dance will start.</sent>
+				<sent id ="115">Examples of some joyous rhymes are given below.</sent>
+				<sent id ="116">By realising the meaning of the rhymes the students can practise other movements or dances.</sent>
+				<sent id ="117">We dance by raising two hands on our sides.</sent>
+				<sent id ="118">We light electric lamp on our head.</sent>
+				<sent id ="119">Sometimes we make an umbrella with the help of our hands.</sent>
+				<sent id ="120">We make a ring by catching each other hand.</sent>
+				<sent id ="121">We jump together one, two, three.</sent>
+				<sent id ="122">One can get enjoyment and benefit from exercise when performs with one or more partners.</sent>
+				<sent id ="123">Few example of exercise with partners are given below.</sent>
+				<sent id ="124">Eskimo roll is also called double roll.</sent>
+				<sent id ="125">The lying partner will raise his legs; both the partners will hold each other's ankles firmly.</sent>
+				<sent id ="126">From this position the standing partner coming to a diving position will learn forward and roil.</sent>
+				<sent id ="127">The legs of the lying partner will remain very near to his buttock.</sent>
+				<sent id ="128">When upper partner rolls the lying partner auto- matically will come to a standing position.</sent>
+				<sent id ="129">Before learning double roll the students should learn front roll.</sent>
+				<sent id ="130">For performing this exercise two partners have to stand in a back to back position and lock each other's elbows.</sent>
+				<sent id ="131">After this one partner will carry the other on his back and put him down and vice versa.</sent>
+				<sent id ="132">After this one partner will carry the other partner in his back and move around.</sent>
+				<sent id ="133">Hand to hand wrestling on a table: Two competitors will stand on the two ends of a table.</sent>
+				<sent id ="134">After this they will put their elbows on the marked place of the table and grab each other's palm.</sent>
+				<sent id ="135">In no circumstances the elbows will come up from the surface of the tale.</sent>
+				<sent id ="136">In this competition the highest scorer of the fixed 3 to 5 rounds can be declared the best hand wrestler.</sent>
+				<sent id ="137">Generally this type of exercise is exhibited where different types of balance, ic, physical feat, gymnastics, tumbling etc. are required.</sent>
+				<sent id ="138">These activities of balance give much pleasure to the audience when performed with partners.</sent>
+				<sent id ="139">Two partners are required to perform this exercise.</sent>
+				<sent id ="140">One partner will lie on his back by making his hands and feet as four legs of a bench.</sent>
+				<sent id ="141">The exercise may be imitated from the picture shown here.</sent>
+				<sent id ="142">The exercise will be practised for thirty seconds 3 to 4 times as shone in the picture.</sent>
+				<sent id ="143">For performing this exercise a stand by or helper is required.</sent>
+				<sent id ="144">An imaginary triangle should be drawn on the ground or mat before starting this exercise.</sent>
+				<sent id ="145">Now the forehead and two hands are to be placed on the mat.</sent>
+				<sent id ="146">Then the two legs will be raised up keeping balance with the head and two hands.</sent>
+				<sent id ="147">Staying in this position for 30 seconds the legs will come down.</sent>
+				<sent id ="148">While practising standing on the head it is better to keep a helper.</sent>
+				<sent id ="149">At the time of landing from this position the chin should touch the chest and roll on your back.</sent>
+				<sent id ="150">In this process there in no possibility of hurting or causing accident.</sent>
+				<sent id ="151">Building a pyramid is very interesting.</sent>
+				<sent id ="152">This requires strength, capacity and courage.</sent>
+				<sent id ="153">For the formation of this pyramid the partner underneath should be stronger.</sent>
+				<sent id ="154">The partner above must have good sense of balance.</sent>
+				<sent id ="155">First, the partner underneath will form an arch.</sent>
+				<sent id ="156">The upper partner will maintain his balance and stand straight on his belly.</sent>
+				<sent id ="157">A helper can help the upper partner in taking position on the belly of his partner.</sent>
+				<sent id ="158">Two partners vi1l be in kneel down position placing their palms on the mat or ground.</sent>
+				<sent id ="159">Their back will remain taut.</sent>
+				<sent id ="160">The third partner will stand on the back of two partners and maintain balance.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

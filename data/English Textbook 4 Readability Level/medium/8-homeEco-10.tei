@@ -1,0 +1,86 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.631</idno>
+				<idno type="Number of sentences">58</idno>
+				<idno type="Number of tokens">776</idno>
+				<idno type="Number of token types">321</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t159">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Different kinds of food are needed for over all growth of body.</sent>
+				<sent id ="2">A balanced diet should be prepared from different types of food according to body need.</sent>
+				<sent id ="3">A balanced diet contain specific amount of protein, carbohydrates, fats, vitamins and minerals.</sent>
+				<sent id ="4">These types of ingredients are obtained from different food.</sent>
+				<sent id ="5">Some food contains one and some foods contain more than one type of ingredient.</sent>
+				<sent id ="6">For example the name of sugar and milk can be mentioned.</sent>
+				<sent id ="7">There is nothing in sugar without carbohydrate.</sent>
+				<sent id ="8">But all types of nutrients contain in milk.</sent>
+				<sent id ="9">So to prepare a balance diet with different types of food we should have the knowledge of the food value of different types of food.</sent>
+				<sent id ="10">With the development of science food specialists have tried to solve the problem of food.</sent>
+				<sent id ="11">Scientists are trying to invent new processes for the supply of nutrition requirement.</sent>
+				<sent id ="12">Definition: All types of foods are divided into some groups or division and advice is given to take food from all these divisions.</sent>
+				<sent id ="13">These types of food are called the basic group of food.</sent>
+				<sent id ="14">To prepare a list of balanced diet basic group of food are very important.</sent>
+				<sent id ="15">Each of the groups of food has a special character.</sent>
+				<sent id ="16">So one has to take food from all the groups that mean from mixed group.</sent>
+				<sent id ="17">So basic food group play and important role in mixed food.</sent>
+				<sent id ="18">It is possible to bring a variety in food taking from all groups of food.</sent>
+				<sent id ="19">The body functions properly by taking food from all groups and body can be protected from deficiency diseases.</sent>
+				<sent id ="20">Basic groups of food can fulfil the basic requirement of body nutrients.</sent>
+				<sent id ="21">Basic groups of food are required to calculate the food value.</sent>
+				<sent id ="22">In this case it is not necessary to know the food value of individual food.</sent>
+				<sent id ="23">For easy calculation of food value foods are taken from different group in definite amount.</sent>
+				<sent id ="24">This type of food is called the body building food or protein food.</sent>
+				<sent id ="25">This type of food supply high quality protein.</sent>
+				<sent id ="26">Without protein iron, vitamin A, Vitamin D, Vitamin B1 (Thiamine) Niacin, Calcium, Phosphorus and sulphur are obtained from this type of food.</sent>
+				<sent id ="27">By taking 60-120 gm of good from this group daily protein need can be fulfilled.</sent>
+				<sent id ="28">In a meal 30-60 gm protein are served.</sent>
+				<sent id ="29">Minimum one serving animal protein should be required everyday.</sent>
+				<sent id ="30">Animals protein is essential for nutrition to pregnant mother, pre-school going children and school going children.</sent>
+				<sent id ="31">Cereal type of food is called energy producing food.</sent>
+				<sent id ="32">Main elements of these foods are carbohydrates.</sent>
+				<sent id ="33">Among the energy producing food more than half of the calorie is obtained from the cereal foods.</sent>
+				<sent id ="34">In daily meal we take cereal types of food more than any other food.</sent>
+				<sent id ="35">So rice, wheat and potato supply a /big amount of protein.</sent>
+				<sent id ="36">Thiamine Riboflavin, Niacin and small amount of iron are obtained from these foods.</sent>
+				<sent id ="37">This type of food is needed for a normal man.</sent>
+				<sent id ="38">A hard working person needs more calories and should take more than one serving.</sent>
+				<sent id ="39">A grown up man or a woman needs 300-650 gm food according to their age and amount of work.</sent>
+				<sent id ="40">These groups of foods are available in all types of vegetables, plants and fruits.</sent>
+				<sent id ="41">These types of food supply vitamin C, carotene, riboflavin, iron, calcium, Iodine, sulphur, sodium, potassium, magnesium in the meal.</sent>
+				<sent id ="42">An adult and normal laborious person need 300-55 gm vegetables and fruits daily.</sent>
+				<sent id ="43">Plainly 4-6 serving of vegetables and fruits are essential for body nutrition.</sent>
+				<sent id ="44">In every meal there should 50 gm edible raw vegetable and 50-100 gm fruits.</sent>
+				<sent id ="45">The fruits and vegetable which are enriched with vitamin-C and carotene should be taken in each meal and 2-4 meal from other vegetables.</sent>
+				<sent id ="46">Each adult person and boy and girl need 300 gm vegetable and 50-60 gm fruits.</sent>
+				<sent id ="47">The dailyneeds of vegetable and fruits are to be filled by serving seasonal fruits.</sent>
+				<sent id ="48">This two groups of foods are essential for babies.</sent>
+				<sent id ="49">Primary and main food of a newborn is milk.</sent>
+				<sent id ="50">By drinking milk a baby grows up, enlarges his stomach and increases its digestive capacity.</sent>
+				<sent id ="51">The baby is then gradually capable of taking other food.</sent>
+				<sent id ="52">Milk is not necessary for an adult person in daily diet.</sent>
+				<sent id ="53">Daily 200-800 gm of milk is necessary for a baby with other foods.</sent>
+				<sent id ="54">In one meal 200 gm of liquid milk is necessary.</sent>
+				<sent id ="55">Only breast milk is enough for a baby up to five months.</sent>
+				<sent id ="56">When breast milk reduces cows milk should be provided.</sent>
+				<sent id ="57">For school going girls and boys at least in one meal or in two meal milk or milk product should be provided.</sent>
+				<sent id ="58">The milk product like chana cheese yogurt ghol and sweets are same types of food.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

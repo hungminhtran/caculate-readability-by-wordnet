@@ -1,0 +1,81 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-11</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.401</idno>
+				<idno type="Number of sentences">53</idno>
+				<idno type="Number of tokens">515</idno>
+				<idno type="Number of token types">223</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t35">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The area and population of Bangladesh: In world map Bangladesh is a very small country.</sent>
+				<sent id ="2">Its area is 187.570</sent>
+				<sent id ="3">Our country is very small in comparison to the neighbouring countries like India and Mayanmar.</sent>
+				<sent id ="4">Though Bangladesh is a small country, it has a large population.</sent>
+				<sent id ="5">This population is larger than that of any country.</sent>
+				<sent id ="6">The number of male is 51 percent and the number of female is 49.</sent>
+				<sent id ="7">We have learnt about the area and population of our small but beautiful country.</sent>
+				<sent id ="8">Now we shall fill in the table below writing in our exercise book.</sent>
+				<sent id ="9">So we can realize that the population of our country is very large.</sent>
+				<sent id ="10">Its main reason is the very fast growth of population.</sent>
+				<sent id ="11">The population of our country is increasing fast.</sent>
+				<sent id ="12">If we look around, we can only see large crowds.</sent>
+				<sent id ="13">Large number of people are seen on roads and in transports.</sent>
+				<sent id ="14">We live in families.</sent>
+				<sent id ="15">Usually a family consists of parents, children, grandfather, grandmother, uncles and aunts.</sent>
+				<sent id ="16">Besides, there are other persons also.</sent>
+				<sent id ="17">The population of the country is less if each family has few members.</sent>
+				<sent id ="18">The population increases fast if the members in the family are large in number.</sent>
+				<sent id ="19">There are pictures of two families below.</sent>
+				<sent id ="20">We shall count the members of the families and write down below.</sent>
+				<sent id ="21">What can we see in the pictures?</sent>
+				<sent id ="22">In the picture in the right hand side we see a family with nine members.</sent>
+				<sent id ="23">Let us decide which family is big and which is small.</sent>
+				<sent id ="24">Usually, a small family consists of few children.</sent>
+				<sent id ="25">And a big family consists of a large number of children.</sent>
+				<sent id ="26">In our country a small family consists of two children.</sent>
+				<sent id ="27">We have learnt about a small and a big family.</sent>
+				<sent id ="28">Now we shall compare the size of the family.</sent>
+				<sent id ="29">In this way we can identify a big and a small family easily.</sent>
+				<sent id ="30">The needs of a small family can be easily fulfilled.</sent>
+				<sent id ="31">Parents can provide nutritious food if there are few children.</sent>
+				<sent id ="32">Besides, we can wear nice clothes.</sent>
+				<sent id ="33">We can live in Introduction to Environment: Social studies 95 nice houses.</sent>
+				<sent id ="34">We can sleep comfortably.</sent>
+				<sent id ="35">We can get medical care easily if we are sick.</sent>
+				<sent id ="36">We can also study happily.</sent>
+				<sent id ="37">This is good for our health and mind.</sent>
+				<sent id ="38">It is not possible at all.</sent>
+				<sent id ="39">Because income does not increase with the increasing number of people in the family.</sent>
+				<sent id ="40">If they are ill, they often cannot effort treatment.</sent>
+				<sent id ="41">Besides necessary clothes are not available for all.</sent>
+				<sent id ="42">For this, children suffer in winter.</sent>
+				<sent id ="43">It causes troubles to all.</sent>
+				<sent id ="44">In big families the children do not get chance.</sent>
+				<sent id ="45">So they remain illiterate.</sent>
+				<sent id ="46">A big family can only give the boys opportunity for education and other facilities.</sent>
+				<sent id ="47">As a result the girls lag behind in education.</sent>
+				<sent id ="48">They also do not get other facilities.</sent>
+				<sent id ="49">But the education for girls is necessary for the development of a country.</sent>
+				<sent id ="50">There are two pictures of a small and a big families in the previous page.</sent>
+				<sent id ="51">we can find out its reason easily.</sent>
+				<sent id ="52">Its main reason is the rapid growth of population.</sent>
+				<sent id ="53">A large family needs more rooms.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

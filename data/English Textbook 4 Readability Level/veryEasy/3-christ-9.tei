@@ -1,0 +1,109 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.901</idno>
+				<idno type="Number of sentences">81</idno>
+				<idno type="Number of tokens">734</idno>
+				<idno type="Number of token types">332</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t13">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">All the animals and birds of the world feel hungry and thirsty every day.</sent>
+				<sent id ="2">Similarly, as human beings we too have hunger and thirst.</sent>
+				<sent id ="3">So we eat various kinds of foods and drink water.</sent>
+				<sent id ="4">As long as we live, we feel hunger and thirst.</sent>
+				<sent id ="5">We get energy from food and drink.</sent>
+				<sent id ="6">Human beings had different kinds of hunger.</sent>
+				<sent id ="7">As human being have physical hunger, so they have mental and spiritual hunger.</sent>
+				<sent id ="8">To satisfy our physical hunger we eat rice, fish, meat, bread, curry, etc.</sent>
+				<sent id ="9">We share our joys and sorrows with others.</sent>
+				<sent id ="10">We also satisfy our spiritual hunger.</sent>
+				<sent id ="11">For this we go to Church to pray and recite from the Holy Bible.</sent>
+				<sent id ="12">Everyday we try to follow the wills of God.</sent>
+				<sent id ="13">People used to come to Jesus for all kinds of foods.</sent>
+				<sent id ="14">Sometimes, they came with physical hunger, some times for recovery from illness.</sent>
+				<sent id ="15">They wanted to have peace of mind by listening to Jesus.</sent>
+				<sent id ="16">Hearing Jesus spiritual words they had spiritual peace.</sent>
+				<sent id ="17">Jesus was careful to all kinds of their hunger.</sent>
+				<sent id ="18">So, people were eager to see Jesus.</sent>
+				<sent id ="19">Once Jesus wanted to go to an isolated place for prayer.</sent>
+				<sent id ="20">People found him out.</sent>
+				<sent id ="21">They went to him in groups to listen to his sermon.</sent>
+				<sent id ="22">In this way one day five thousand people came to Jesus.</sent>
+				<sent id ="23">Jesus felt pity for them.</sent>
+				<sent id ="24">He stayed with them.</sent>
+				<sent id ="25">Like many other days, that day, people brought many ailing persons to him.</sent>
+				<sent id ="26">He cured them of their illness and advised them.</sent>
+				<sent id ="27">Thus the evening came by.</sent>
+				<sent id ="28">The place was far off from the town.</sent>
+				<sent id ="29">There was no shop around the place from where they could buy food to eat.</sent>
+				<sent id ="30">But Jesus told his disciples, No, they need not go.</sent>
+				<sent id ="31">You rather arrange food for them.</sent>
+				<sent id ="32">The disciples had no food for five thousand people.</sent>
+				<sent id ="33">They found a boy with some food.</sent>
+				<sent id ="34">So they said, Here is a boy.</sent>
+				<sent id ="35">He has five bread and two fish only.</sent>
+				<sent id ="36">But this is quite inadequate for so many people.</sent>
+				<sent id ="37">Jesus asked them, Bring whatever you have.</sent>
+				<sent id ="38">The disciples brought those five bread and those fish to him.</sent>
+				<sent id ="39">Jesus asked the disciples, Let the people sit on the grass in rows.</sent>
+				<sent id ="40">The disciples did so.</sent>
+				<sent id ="41">Jesus then offered those bread and fish to God.</sent>
+				<sent id ="42">He then thanked and praised God, the Father.</sent>
+				<sent id ="43">After that he asked his followers to distribute those things to those people.</sent>
+				<sent id ="44">They gave food to all of them.</sent>
+				<sent id ="45">What a miracle it was!</sent>
+				<sent id ="46">Five thousand people ate to their heart content.</sent>
+				<sent id ="47">But the food was not completely exhausted.</sent>
+				<sent id ="48">The remaining pieces of bread were collected and stored in one place.</sent>
+				<sent id ="49">Twelve baskets were filled up with the rest of them.</sent>
+				<sent id ="50">This was a miracle by Jesus.</sent>
+				<sent id ="51">It was not possible for a human being.</sent>
+				<sent id ="52">He did miraculous deeds to reveal God's glory.</sent>
+				<sent id ="53">So many people cannot be fed with only five pieces of bread and two fish.</sent>
+				<sent id ="54">It was impossible for an ordinary person, but it was possible for Jesus.</sent>
+				<sent id ="55">For, he was not only a man but also a God at the same time.</sent>
+				<sent id ="56">A little boy had only some bread and fish.</sent>
+				<sent id ="57">The boy had brought it for himself.</sent>
+				<sent id ="58">He could eat those foods alone on his way home.</sent>
+				<sent id ="59">But the disciples of Jesus told the boy that Jesus had asked those foods.</sent>
+				<sent id ="60">On hearing this the boy gave away his foods.</sent>
+				<sent id ="61">He did not even think about himself.</sent>
+				<sent id ="62">We Must Sacrifice for Others We have many classmates.</sent>
+				<sent id ="63">Some of them are rich compared to others.</sent>
+				<sent id ="64">If they desire they can share their foods with the poor.</sent>
+				<sent id ="65">Jesus tells us, You must give them food.</sent>
+				<sent id ="66">Can we share with others what we have?</sent>
+				<sent id ="67">We can do this, if we try.</sent>
+				<sent id ="68">But it requires our good intention and an attitude to sacrifice.</sent>
+				<sent id ="69">Jesus helped people in different ways.</sent>
+				<sent id ="70">He gave them physical and mental food.</sent>
+				<sent id ="71">He also gave them their spiritual food too.</sent>
+				<sent id ="72">Many students come to school without taking food.</sent>
+				<sent id ="73">We can share our foods with them.</sent>
+				<sent id ="74">Many are in need of clothes.</sent>
+				<sent id ="75">We can share our additional clothes with them.</sent>
+				<sent id ="76">Many orphans have no money to buy books and other necessities.</sent>
+				<sent id ="77">We can buy books for them with our pocket money.</sent>
+				<sent id ="78">The blind and the old cannot walk on roads alone.</sent>
+				<sent id ="79">We can help them walk.</sent>
+				<sent id ="80">Write down what elsewe can do.</sent>
+				<sent id ="81">O, Lord Jesus, help and encourage us so that we can do good deeds.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

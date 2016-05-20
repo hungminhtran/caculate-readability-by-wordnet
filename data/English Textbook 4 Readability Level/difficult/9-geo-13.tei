@@ -1,0 +1,170 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-geo-13</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.726</idno>
+				<idno type="Number of sentences">142</idno>
+				<idno type="Number of tokens">2564</idno>
+				<idno type="Number of token types">761</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t80">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Definition of scale : Scale is defined as a ratio of the distance between two points on the map to the corresponding actual distance on the ground.</sent>
+				<sent id ="2">If, for instance, the distance between two points on a map is 1 cm.</sent>
+				<sent id ="3">and the corresponding actual distance between those two points on the ground is 10 kms., then, the map has been drawn to a scale of 1 cm. to 10 kms.</sent>
+				<sent id ="4">Hence, the ratio existing between 1 cm.</sent>
+				<sent id ="5">and 10 kms. is the scale.</sent>
+				<sent id ="6">It is necessary to keep in mind that the expression of 1 cm.</sent>
+				<sent id ="7">It is not possible to show the actual area or the actual distance on any sheet of paper of a definite size.</sent>
+				<sent id ="8">Hence, the actual area or the distance is measured and according to the requirement, it is reduced and then drawn on the paper.</sent>
+				<sent id ="9">So, the ratio of the distance on the paper to the actual distance is the scale.</sent>
+				<sent id ="10">Method of showing scale on the map : There are three ways the scale is depicted on the map.</sent>
+				<sent id ="11">By statement : We express the scale of a map by statement or by language.</sent>
+				<sent id ="12">As for instance, 1 inch to 4 miles, 16 inches to a mile, 1 cm. to 1 hectometre.</sent>
+				<sent id ="13">Here, in every case, the first figure (either expressed in inches or in cms.) indicates the distance on the map and the second figure (whether expressed in miles, yards, kilometres or hectometres) indicates the corresponding actual distance on the ground.</sent>
+				<sent id ="14">By graphical method : By dividing a line of inches or of cms.</sent>
+				<sent id ="15">into equal parts and further into smaller divisions and marking the values to each part, the scale of the map is expressed.</sent>
+				<sent id ="16">As, for instance, if the scale of 1 cm. to 10 kms. is to be expressed graphically, then a line of 5 cms.</sent>
+				<sent id ="17">long is to be divided into 5 equal parts and the value of each part would be 10 kms.</sent>
+				<sent id ="18">Leaving aside 1 part to the left, the divisions are marked as 0, 10, 20, 30, 40 sequentially and the unit of kms. is put.</sent>
+				<sent id ="19">The same rule is also to be followed in case of scale of inches (Fig. 98 .</sent>
+				<sent id ="20">Here, a line of 3 inches long is to be divided, first, into three equal parts, then leaving one division to the left, each division is marked and the left part divided further into smaller divisions.</sent>
+				<sent id ="21">At the time of expressing the statement of 1 inch to 4 miles graphically, a line of 3 inches long is to be divided into 3 equal parts, leaving one part to the left, the divisions are marked as 0, 4, 8 and the unit of mile is mentioned.</sent>
+				<sent id ="22">The left part is also divided into 4 equal parts (1 inch = 4 miles).</sent>
+				<sent id ="23">Sequentially, the values of 1, 2, 3, 4 miles starting from 0 to the left are put.</sent>
+				<sent id ="24">By Representative Fraction (R.F.) : An independent unit of scale is used to measure the distances for different countries.</sent>
+				<sent id ="25">If the scale in a map is expressed in the unit of one country, then it may not be acceptable to another country due to language problem.</sent>
+				<sent id ="26">To overcome this disadvantage, the R.F. method has been introduced.</sent>
+				<sent id ="27">In English, it is known as Representative Fraction and the abbreviation is R.F.</sent>
+				<sent id ="28">This expresses the proportion of the scale by a fraction in which the numerator is 1 which denotes the length on the map and the denominator in the same unit denotes the corresponding length on the ground.</sent>
+				<sent id ="29">As for example, if we have to express the scale of 1 cm. to 1 metre in R.F., then the metre is to be converted into cms.</sent>
+				<sent id ="30">and the symbol in between such two figures is to be put. 1 mt.</sent>
+				<sent id ="31">= 100 cms.</sent>
+				<sent id ="32">Therefore, the numerator is 1 and the denominator is So, the scale would be 1 t 100 or 1/It means that when the distance on the map is 1 cm., the corresponding distance on the ground is 100 cms.</sent>
+				<sent id ="33">Classification of scales : The scale is classified into different groups.</sent>
+				<sent id ="34">Generally, the simple scale, diagonal scale, comparative scale, time scale, scale of slope, proportional scale and vernier scale are in use.</sent>
+				<sent id ="35">Linear scale : In English, the terms-the Simple scale, Linear scale, Plain scale and Graphic scale are all the same but generally the term Simple scale is used.</sent>
+				<sent id ="36">Drawing of simple scale : A line of required length is divided into a number of big equal divisions and the values of each division is put leaving one division to the left which is further sub-divided into smaller divisions and each smaller division is marked.</sent>
+				<sent id ="37">The big divisions are known as primary and the smaller divisions to the left as secondary part.</sent>
+				<sent id ="38">It is remarkable to note that the length of the scale and the number of divisions would depend on the nature of the scales to be drawn.</sent>
+				<sent id ="39">Length of the scale : Scale of any length can be drawn.</sent>
+				<sent id ="40">But it is necessary to draw the scale taking into consideration the beauty and the size of the paper.</sent>
+				<sent id ="41">Generally, for classroom practical khata, the length of the scale should be within 4.5 inches to 6 inches or 12 kms.</sent>
+				<sent id ="42">is 15 cms.</sent>
+				<sent id ="43">So, it becomes befitting and gives a good look, otherwise it looks odd.</sent>
+				<sent id ="44">In small size maps of large scale, the scale of 5 to 6 cms.</sent>
+				<sent id ="45">or 2 to 3 inches length is drawn.</sent>
+				<sent id ="46">A thin scale looks nice.</sent>
+				<sent id ="47">Hence, thin or narrow scales are drawn.</sent>
+				<sent id ="48">Almost in all cases, the simple scale of 0.2 inch width or even less than this is chosen and divided horizontally into two parts.</sent>
+				<sent id ="49">Chapter Two Drawing of Plans Definition of plan : Representation of houses, schools, play grounds etc. on reduced size is a plan.</sent>
+				<sent id ="50">Scale is also used to draw sketches as that of maps.</sent>
+				<sent id ="51">The length, breadth and size of any area if reduced and presented on a paper according to specific scale one gets a clear idea of the size and the location of that area.</sent>
+				<sent id ="52">In reality, a big school and its yard occupies a great area on the ground.</sent>
+				<sent id ="53">The whole complex can be shown in a plan on some reduced scale.</sent>
+				<sent id ="54">Drawing procedure of a plan : During plan preparation, a metallic tape of feet, inches or metre is used.</sent>
+				<sent id ="55">First, a rough sketch map is prepared of the area which is to be sketched.</sent>
+				<sent id ="56">The linear and the angular measurements are noted in a field book or in a sheet of paper.</sent>
+				<sent id ="57">Afterwards, the plan of the area is drawn using a specific scale.</sent>
+				<sent id ="58">Generally, the surveyors or Amins use a scale of 1 inch to 8 feet or 1 cm. to 10 metres, at the time of drawing the plans of houses, settlemens, schools etc.</sent>
+				<sent id ="59">A procedure for plan drawing of a school is shown below (Fig. 101).</sent>
+				<sent id ="60">Plan of a school : The play ground, garden and the boundary wall is measured.</sent>
+				<sent id ="61">The length of the boundary wall measured is 135 metres and the breadth is 70 metres.</sent>
+				<sent id ="62">A scale of 1 cm. to 10 metres is chosen to draw the plan.</sent>
+				<sent id ="63">Drawing procedure : Take a line of 13.5 cms.</sent>
+				<sent id ="64">long and draw two perpendiculars of 7 cms.</sent>
+				<sent id ="65">long at each end of this line to get the school premises.</sent>
+				<sent id ="66">Leaving a space of 0.5 cm. to the north, 0.8 cm. to the east.</sent>
+				<sent id ="67">1.2 cms. to the west and 1 cm. to the south, the plan of the school has been prepared comprising of the school building, play ground and the garden (Fig. 101).</sent>
+				<sent id ="68">Plan drawing procedure : Measurements with the help of a metallic tape is to be completed first before drawing a plan of any area.</sent>
+				<sent id ="69">A draft sketch of the area is to be prepared.</sent>
+				<sent id ="70">According to a selected scale, the plan is drawn as that of the draft sketch.</sent>
+				<sent id ="71">North line and the scale are to be drawn in the plan.</sent>
+				<sent id ="72">Chapter Four Map Reading Definition of map : Map is a representation of any part of the earth or the earth as a whole on some reduced scale with latitudes and longitudes in a plain sheet of paper.</sent>
+				<sent id ="73">To draw a map of any part of the world (continent, country, district, thana, village etc.), an accurate survey work is to be conducted or if the area is small, then the photograph is to be taken.</sent>
+				<sent id ="74">Classification of map : There may be various types of maps.</sent>
+				<sent id ="75">Generally, on the basis of the scale used in maps and the subject matter, the maps are classified into two groups.</sent>
+				<sent id ="76">Navigation charts, aero-nautical charts, mouza maps or cadastral maps etc. are all large scale maps.</sent>
+				<sent id ="77">As a small area is enlarged, so many data or information can be accommodated in the map.</sent>
+				<sent id ="78">Atlasses, wall maps etc. are small scale maps.</sent>
+				<sent id ="79">The whole world or the continent or any big region like that of a country when shown on a sheet of paper, small space remains in the map.</sent>
+				<sent id ="80">So, not much information can be shown on this type of map.</sent>
+				<sent id ="81">Qualitative map : Geological map, topo-map, relief map, soil map, wall map, atlasses, topographical map and mouza map are of this type.</sent>
+				<sent id ="82">Quantitative map : Air temperature, amount of rainfall, distribution of population, density of population, mineral extraction, forest production, agricultural production etc. shown on a map is known as quantitative map.</sent>
+				<sent id ="83">Map reading procedure : We not only see the map, but also read it.</sent>
+				<sent id ="84">Map reading is necessary if we have to discuss the items shown in the map.</sent>
+				<sent id ="85">The procedure to read the map according to the types and nature is also different.</sent>
+				<sent id ="86">In the physical maps, the location of the mountains, plateaus, hills, valleys, plain lands, rivers, lakes, deltas, oceans and seas etc. are shown using the conventional signs.</sent>
+				<sent id ="87">The physical features of Asia have been shown in Fig. Extension of the mountains from Pamir Knot, the location of plateaus between the mountains, existence of plain lands etc. in Asia can be studied using this map.</sent>
+				<sent id ="88">With the help of contour lines, the elevation and the relief can be shown.</sent>
+				<sent id ="89">It is not possible to study such maps without having the knowledge of the definition, the characteristics of contours, location of vertical and normal slope.</sent>
+				<sent id ="90">The climatic divisions of Europe has been shown in Fig.</sent>
+				<sent id ="91">What type of climate is prevailing in which part of this map can be explained if properly studied.</sent>
+				<sent id ="92">Again, the weather map is of different type.</sent>
+				<sent id ="93">Ideas can be had regarding the high and low pressure areas, wind direction, amount of rainfall, cloud cover, ocean conditions etc.</sent>
+				<sent id ="94">Boundary of each plot of a mouza is shown in the mouza map, hence, the boundary of the plot can be determined according to the Dag number of the plot and these maps are used to realise the government revenue.</sent>
+				<sent id ="95">A topographical map is prepared of the villages situated side by side or enlarging such a small village.</sent>
+				<sent id ="96">Physical features such as mountains, plateaus, forests, lakes etc. can be shown using the conventional signs.</sent>
+				<sent id ="97">Besides, the cultural aspects such as roads, railways, airports, settlements, towns, cities, canals, bridges, ferry ghats etc. too can be shown.</sent>
+				<sent id ="98">One should have the knowledge about parallels, meridians, scales, different conventional signs etc. before reading such maps.</sent>
+				<sent id ="99">Fig.105 represents a map of a village.</sent>
+				<sent id ="100">Rivers, railways, roads have passed through this village.</sent>
+				<sent id ="101">There are North Para, South Para, West Para, mosques, temples, post office, school, market, crop fields etc. shown in different places in this map.</sent>
+				<sent id ="102">To study this map, one should have the knowledge beforehand about the directions.</sent>
+				<sent id ="103">Upper part of the map indicates the North, the opposite is the South, the right hand side of the reader, the East and the left side, the West.</sent>
+				<sent id ="104">Then the location of the market, post office etc. according to scale is to be studied.</sent>
+				<sent id ="105">It is better to give different titles of the subject matter studied.</sent>
+				<sent id ="106">Reading procedure for Fig. 105, and the steps to be followed are explained below.</sent>
+				<sent id ="107">Terminal information : This map has been prepared at the scale of 1 inch to 4 miles.</sent>
+				<sent id ="108">There does not exist any parallel and meridian in a topo map.</sent>
+				<sent id ="109">So, no parallel and meridian has also been shown in this plan (Fig. 105).</sent>
+				<sent id ="110">Physical features : There is no hill or high land in this village.</sent>
+				<sent id ="111">There is a marshy land to the east-central place and one swamp to the south-east.</sent>
+				<sent id ="112">The normal slope is towards south-east.</sent>
+				<sent id ="113">Drainage system : A major meandering river is found to pass through the central part of the village from north-west to south-east.</sent>
+				<sent id ="114">A small river flowing from the north joins the main stream at the north-west corner of the village.</sent>
+				<sent id ="115">A bit bigger river coming from south-west joins the main stream.</sent>
+				<sent id ="116">The main river comes under the influence of tide and as a result, the other rivers are also affected.</sent>
+				<sent id ="117">Communication system : An unmetalled road coming from the west has crossed the river.</sent>
+				<sent id ="118">Some portion of the east-west road near the river is metalled and the rest is unmetalled.</sent>
+				<sent id ="119">Two unmetalled roads coming from north and north-east join this metalled road.</sent>
+				<sent id ="120">One unmetalled road coming from the railway station in the south terminates at the river side.</sent>
+				<sent id ="121">The railway line in the south of this village runs from north-east to south-west.</sent>
+				<sent id ="122">The steamer plies always in the main river.</sent>
+				<sent id ="123">The water communication is maintained by boat in other rivers.</sent>
+				<sent id ="124">The railway line and the road crossed the river through a bridge.</sent>
+				<sent id ="125">The communication system of the village is developed.</sent>
+				<sent id ="126">Settlements : There are six scattered settlements in this village, viz., North Para, South Para, East Para, Central Para, West Para and Fishermen's Para, there is a mosque by the side of the school at West Para and a temple in the Fishermen's Para.</sent>
+				<sent id ="127">The concentration of the houses is found to exist in the West Para only.</sent>
+				<sent id ="128">There is a school located almost at the central place of the village.</sent>
+				<sent id ="129">The market located by the side of the river is the only marketing centre for the inhabitants.</sent>
+				<sent id ="130">There is a post office in this village.</sent>
+				<sent id ="131">The grassland situated in the northern part of the village is used as the grazing land for the cattles of the farmers.</sent>
+				<sent id ="132">Agricultural land : 80 per cent of the total land of the village is under crop.</sent>
+				<sent id ="133">The land has been fragmented gradually due to the application of the law of inheritance.</sent>
+				<sent id ="134">It is possible to irrigate the land from rivers and swamps during the dry season.</sent>
+				<sent id ="135">Agriculture is the main occupation of the inhabitants of the village.</sent>
+				<sent id ="136">Definition of map : Map is the representation of any part of the earth or the earth as a whole on some reduced scale on a plain sheet of paper.</sent>
+				<sent id ="137">Classification of maps : According to the scale used and the subject matter, the maps are divided into two.</sent>
+				<sent id ="138">According to the scale, the map can be sub-divided into two, large scale map, and small scale map.</sent>
+				<sent id ="139">Map reading : The techniques of map reading of different maps are different.</sent>
+				<sent id ="140">Different conventional signs and lines are used in the physical maps.</sent>
+				<sent id ="141">For climatic map reading, one should have clear ideas about cloud cover, amount of rainfall, conditions of the ocean etc.</sent>
+				<sent id ="142">Different types of maps should be studied using different techniques.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

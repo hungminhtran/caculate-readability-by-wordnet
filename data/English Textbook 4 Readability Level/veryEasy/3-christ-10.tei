@@ -1,0 +1,109 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.666</idno>
+				<idno type="Number of sentences">81</idno>
+				<idno type="Number of tokens">745</idno>
+				<idno type="Number of token types">334</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t2">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">There is a difference between an ordinary call and call by Jesus.</sent>
+				<sent id ="2">Generally sermon is a kind of call.</sent>
+				<sent id ="3">But when we call anyone for any little purposes we don't consider it a sermon.</sent>
+				<sent id ="4">A sermon is always used for special purpose.</sent>
+				<sent id ="5">We have already learnt that Samuel had a call from God for a special work.</sent>
+				<sent id ="6">Thus Jesus Christ gave a call to his Apostles.</sent>
+				<sent id ="7">There had been a lot of good work starting up on this earth by Jesus.</sent>
+				<sent id ="8">They were about preaching love, mercy, peace and forgiveness.</sent>
+				<sent id ="9">That is why he founded a Church.</sent>
+				<sent id ="10">He knew he would not live on earth as a human being forever.</sent>
+				<sent id ="11">But his work must continue.</sent>
+				<sent id ="12">The Church should not be perished.</sent>
+				<sent id ="13">It should continue forever.</sent>
+				<sent id ="14">Lord Jesus had twelve Apostles.</sent>
+				<sent id ="15">One of them was Peter.</sent>
+				<sent id ="16">Like others Jesus gave a call to Peter for a definite mission.</sent>
+				<sent id ="17">Peter also responded to his call.</sent>
+				<sent id ="18">We will now learn this from the Holy Bible.</sent>
+				<sent id ="19">He saw two fishermen Simon and Andrew catching fish over there.</sent>
+				<sent id ="20">They were brothers.</sent>
+				<sent id ="21">Jesus said to them, Come with me.</sent>
+				<sent id ="22">I will teach you what I do.</sent>
+				<sent id ="23">I will teach you how to catch human beings.</sent>
+				<sent id ="24">Jesus changed Simon's name as Peter, which means 'a stone' or a rock.</sent>
+				<sent id ="25">Jesus gave this name because his faith in God was as firm as a stone.</sent>
+				<sent id ="26">We have learnt that Jesus gave a call to Simon and his brother, Andrew.</sent>
+				<sent id ="27">And the two brothers, at once left everything and followed Jesus.</sent>
+				<sent id ="28">This is what we call a response to a call.</sent>
+				<sent id ="29">When Jesus calls somebody, he or she should respond in this way.</sent>
+				<sent id ="30">For three years Peter followed Jesus like a shadow.</sent>
+				<sent id ="31">He learnt many things from Jesus.</sent>
+				<sent id ="32">He saw Jesus was not an ordinary man.</sent>
+				<sent id ="33">One day Jesus asked a question to his Apostles.</sent>
+				<sent id ="34">It was a difficult one to answer directly.</sent>
+				<sent id ="35">He asked them, Now tell me, what do you know about me?</sent>
+				<sent id ="36">All disciples were silent.</sent>
+				<sent id ="37">Only Peter answered, You are the son of the living God.</sent>
+				<sent id ="38">You are the Saviour.</sent>
+				<sent id ="39">Jesus had great trust on Peter.</sent>
+				<sent id ="40">So he said to him: You are Peter, which means, a stone.</sent>
+				<sent id ="41">Upon this stone I shall build my Church.</sent>
+				<sent id ="42">Thus I shall give you the keys of the Heaven.</sent>
+				<sent id ="43">Through the discussions above Peter assumed many important responsibilities from Jesus.</sent>
+				<sent id ="44">Jesus made Peter the director of his Church.</sent>
+				<sent id ="45">Peter's faith was firm.</sent>
+				<sent id ="46">Jesus described Peter's faith as firm and strong as the stone.</sent>
+				<sent id ="47">To guide the Church of Jesus Christ one must have deep faith.</sent>
+				<sent id ="48">Jesus gave the key of Heaven to Peter.</sent>
+				<sent id ="49">He believed that human beings can go to Heaven through his guidance.</sent>
+				<sent id ="50">That is, peter will turn man back from the path of sin.</sent>
+				<sent id ="51">After Resurrection Jesus appeared before Peter and said, Keep an eye on my sheep.</sent>
+				<sent id ="52">Thus Jesus gave Peter the responsibilities to look after the Christian devotees.</sent>
+				<sent id ="53">This is why, Peter is the first Pope of the Church.</sent>
+				<sent id ="54">We already know Peter was the Pope of the Church.</sent>
+				<sent id ="55">Jesus gave this responsibility to Peter.</sent>
+				<sent id ="56">So Peter would never forget the responsibilities on him.</sent>
+				<sent id ="57">It was his prime duty to preach the messages of Jesus.</sent>
+				<sent id ="58">One day Peter saw many people outside the Church.</sent>
+				<sent id ="59">They were all Jews.</sent>
+				<sent id ="60">These Jews killed Jesus.</sent>
+				<sent id ="61">But Peter was not afraid of them.</sent>
+				<sent id ="62">He preached the massages of love, peace and forgiveness of Jesus with courage.</sent>
+				<sent id ="63">For Jesus was the saviour of mankind.</sent>
+				<sent id ="64">As a result, their mind changed and they begged forgiveness for their sin.</sent>
+				<sent id ="65">Peter baptised them.</sent>
+				<sent id ="66">On that day three thousand people were baptised.</sent>
+				<sent id ="67">One day Peter was going to the Church.</sent>
+				<sent id ="68">As he came to the door he saw a lame man.</sent>
+				<sent id ="69">He was begging.</sent>
+				<sent id ="70">His relatives took him there and made him sit at the door.</sent>
+				<sent id ="71">As he saw Peter, he begged for alms to him.</sent>
+				<sent id ="72">Peter said, I have no money, nor have I any gold.</sent>
+				<sent id ="73">I have the name of Jesus with me.</sent>
+				<sent id ="74">I say, you walk along with the name of the crucified Jesus.</sent>
+				<sent id ="75">As soon as Peter touched his right hand, the man jumped and stood up.</sent>
+				<sent id ="76">The lame man was cured at once.</sent>
+				<sent id ="77">He began to walk and praise the Lord.</sent>
+				<sent id ="78">He then followed Peter to the Church.</sent>
+				<sent id ="79">Thus Peter did the first miracle in the name of Jesus.</sent>
+				<sent id ="80">Oh Lord, we thank you for the life and work of Your Apostle, Peter.</sent>
+				<sent id ="81">Bless us so that we can work for You.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

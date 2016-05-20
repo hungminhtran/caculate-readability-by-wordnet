@@ -1,0 +1,117 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.961</idno>
+				<idno type="Number of sentences">89</idno>
+				<idno type="Number of tokens">1274</idno>
+				<idno type="Number of token types">503</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t18">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Ducklings are normally reared by hatching hens in rural areas where electricity or gas is not available.</sent>
+				<sent id ="2">In this method, one hatching hen is seated with a few eggs.</sent>
+				<sent id ="3">Next, a day old ducklings are given under the hen at night.</sent>
+				<sent id ="4">At first one or two ducklings are given.</sent>
+				<sent id ="5">When the hatching hen accepts them, the rest of the ducklings are given to her care in the same way.</sent>
+				<sent id ="6">Overall 10 to 15 ducklings may be given to the care of a hen.</sent>
+				<sent id ="7">Eventually, the hen with the ducklings may be released to loiter and feed on.</sent>
+				<sent id ="8">The hen and the ducklings at this time should be given meals of ground wheat, rice bran and small snails.</sent>
+				<sent id ="9">It is possible to rear a small number of ducklings without a local hen.</sent>
+				<sent id ="10">Water and feed should be given at the place.</sent>
+				<sent id ="11">The ducklings will be comfortable at night if they are kept in a basket hang over an oven burning a low fire.</sent>
+				<sent id ="12">They will enjoy the warmth produced by the oven.</sent>
+				<sent id ="13">They may die of cold or contract other diseases.</sent>
+				<sent id ="14">Duckling rearing on a farm follows the discipline of chick rearing on the poultry farm.</sent>
+				<sent id ="15">Special arrangement should be made as regards separate houses, temperature regime management, feed, water and prevention of infectious diseases.</sent>
+				<sent id ="16">Arrangement should be there to protect the ducklings from the stormy weather and rainfall by hanging jute sacks over the windows or openings.</sent>
+				<sent id ="17">The jute sacks may be folded or not as needed.</sent>
+				<sent id ="18">A 4.5 square metre space can accommodate 100 ducklings for a month.</sent>
+				<sent id ="19">Method of managing temperature: The temperature regime may be managed with electric bulbs, electric heaters, gas brooders or hurricanes.</sent>
+				<sent id ="20">Brooders may be made with hardboard, tin or wood.</sent>
+				<sent id ="21">A brooder may be built on four pillars or low legs.</sent>
+				<sent id ="22">It may be a 90 cm square with 30 cm height.</sent>
+				<sent id ="23">As a result, they stay comfortably under the canopy of the brooder.</sent>
+				<sent id ="24">The guard may be made of hard board, tin or bamboo mats.</sent>
+				<sent id ="25">The temperature of the brooder should be fixed 6 hours prior to the release of ducklings.</sent>
+				<sent id ="26">You may understand that the temperature of the brooder has fallen if you see the ducklings crowding under it.</sent>
+				<sent id ="27">The ducklings will be found to stay uniformly spreading throughout the brooder if the temperature regime remains at the comfortable range.</sent>
+				<sent id ="28">Open the windows or fold the jute sack screens hanging over them when it is day and let fresh air enter.</sent>
+				<sent id ="29">Temperature supplement is required for 4 weeks in summer and 5 weeks in winter for ducklings.</sent>
+				<sent id ="30">It is better to keep a thermometre for measuring the temperature of the brooder frequently.</sent>
+				<sent id ="31">The brooder guard is not usually required after 10 to 15 days during summer and 15 to 20 days during winter.</sent>
+				<sent id ="32">At this stage, the ducklings will loiter on and around the floor of the shed.</sent>
+				<sent id ="33">A duckling needs 450 square metre floor spaces until it is one month old.</sent>
+				<sent id ="34">The littre bed should be changed after 4 to 5 days or some more littre materials should be added.</sent>
+				<sent id ="35">As a result the ducklings will be able to live in a dry environment.</sent>
+				<sent id ="36">The littre material should be turned up and down or pulverized from time to time, and dry lime should be spread over it.</sent>
+				<sent id ="37">Feed and water: Sufficient amount of clear water and balanced feed should be given to the ducklings.</sent>
+				<sent id ="38">3 to 4 water pots and 3 to 4 feed trays or plates should be placed at every brooder.</sent>
+				<sent id ="39">The feed trays may be replaced by feed pots after a week.</sent>
+				<sent id ="40">Some glucose may be mixed with the drinking water on the first day if the ducklings are collected from a distant place.</sent>
+				<sent id ="41">Be on guard that the ducklings are not wet with water.</sent>
+				<sent id ="42">Feed: Balanced feed is to be given to the ducklings.</sent>
+				<sent id ="43">Water: Sufficient clean water should be provided to the ducklings.</sent>
+				<sent id ="44">The plastic pots or tin pots available in the market may be used for offering drinking water.</sent>
+				<sent id ="45">However, in this case, a narrow hole should be made on the neck of the kalsi.</sent>
+				<sent id ="46">The hole should go below the upper rim of the shanki when the kalsi is placed upside down on it.</sent>
+				<sent id ="47">This hole will help maintain a uniform water level in the shanki.</sent>
+				<sent id ="48">Prevention of diseases: The rearing method of ducklings is mostly similar to the methods of rearing poultry chicks.</sent>
+				<sent id ="49">Much care should be taken to keep the environment, floor and littre bed dry.</sent>
+				<sent id ="50">Diseases spread rapidly in damp conditions.</sent>
+				<sent id ="51">Preventive injection: Infection of disease in ducklings is less than in poultry chicks.</sent>
+				<sent id ="52">Ducklings are frequently infected with duck plague.</sent>
+				<sent id ="53">Duck plague may be prevented if you inject them when they are 15 to 20 days old.</sent>
+				<sent id ="54">This injection is found in all livestock hospitals or clinics.</sent>
+				<sent id ="55">The preventive methods of controlling diseases of duckling are mostly similar to those of poultry chicks.</sent>
+				<sent id ="56">Farming activities are badly affected owing to lack of appropriate management practices.</sent>
+				<sent id ="57">The loss may become very high especially in case of poultry chick and duckling farms.</sent>
+				<sent id ="58">All the chicks or ducklings may die if the right management practices are not followed at the right time.</sent>
+				<sent id ="59">Excessive cold creates a great problem in winter in our country.</sent>
+				<sent id ="60">The ducklings are found to be inactive and gather together to get rid of the cold, make distressing sounds and finally die.</sent>
+				<sent id ="61">If the doors and windows of poultry house remain open at night.</sent>
+				<sent id ="62">If the management of temperature regime fails.</sent>
+				<sent id ="63">If the temperate range of the brooder does not function properly.</sent>
+				<sent id ="64">If the space below the brooder is not adequate.</sent>
+				<sent id ="65">Symptom of cold stress of ducklings The ducklings will stay closely attached to each other in dense concentrations.</sent>
+				<sent id ="66">Stop taking feed, have breathing troubles, show general weakness and finally die.</sent>
+				<sent id ="67">Practices for the remedy of cold problem Appropriate measures should be taken after identifying the causes of the cold stress.</sent>
+				<sent id ="68">Enough balanced feed and vitamins should be provided to let the ducklings recover the losses they have incurred owing to the cold stress.</sent>
+				<sent id ="69">Maintaining the room temperature at the right range.</sent>
+				<sent id ="70">If sufficient quantities of drinking water is not provided.</sent>
+				<sent id ="71">If the water pots are kept in too hot or too cold places.</sent>
+				<sent id ="72">If the drinking water supplied does not agree with their taste.</sent>
+				<sent id ="73">If the water pot is not suitable for the ducklings to drink from.</sent>
+				<sent id ="74">If the temperature of the brooder is too high.</sent>
+				<sent id ="75">If water removal from the body of the ducklings is more owing to infections or diseases.</sent>
+				<sent id ="76">The death rate of the ducklings will greatly increase in 4 to 5 days for dehydration.</sent>
+				<sent id ="77">All the ducklings may die in 7 to 10 days.</sent>
+				<sent id ="78">All the ducklings will be very much weak.</sent>
+				<sent id ="79">They will show dryness on the body.</sent>
+				<sent id ="80">The stool or excreta will be hard.</sent>
+				<sent id ="81">Identify the actual causes of the problem and then find a solution.</sent>
+				<sent id ="82">Sufficient drinking water should be supplied to the ducklings.</sent>
+				<sent id ="83">The body weight of the poultry birds on the farm will decrease gradually if they remain half fed or suffer from any lack of feed.</sent>
+				<sent id ="84">They will lose weight and finally die if the situation continues.</sent>
+				<sent id ="85">If the temperature of the brooder is low, the ducklings will not go to the feed, and consequently will grow weaker day by day.</sent>
+				<sent id ="86">If the feed space is limited, some ducklings will go there to feed on but the others will fail to reach there.</sent>
+				<sent id ="87">In this way the weaker ones will be deprived of feed and get weaker and weaker.</sent>
+				<sent id ="88">If the feed pots are not uniformly distributed and the quantity of feed is inadequate.</sent>
+				<sent id ="89">If the feed is not to their taste.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

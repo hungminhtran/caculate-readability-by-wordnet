@@ -1,0 +1,139 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-genSci-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.377</idno>
+				<idno type="Number of sentences">111</idno>
+				<idno type="Number of tokens">1462</idno>
+				<idno type="Number of token types">595</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t71">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">In many natural phenomena, like flashes in the sky, thundering in a cloudy day, Tsunami in the sea, wave formation in sea and river etc. we see revelation of energy.</sent>
+				<sent id ="2">We also notice influence of energy in our movement, in our daily work, in the running of mills and factories, and in storm and earthquake when our life is in distress.</sent>
+				<sent id ="3">The cow draws plough, the boatman sails boat, goods are produced in factories; energy is involved in each of them.</sent>
+				<sent id ="4">In physics energy is defined precisely.</sent>
+				<sent id ="5">To know energy we are to understand force and work.</sent>
+				<sent id ="6">We can pull a spring to increase its length or we can move a body at rest.</sent>
+				<sent id ="7">These are done by force.</sent>
+				<sent id ="8">Actually a force is an external agency which changes or tends to change the state of rest or of motion of a body.</sent>
+				<sent id ="9">Many of us synonym force and energy but in physics, they carry different meaning.</sent>
+				<sent id ="10">When the application of force on a body shifts its position in the direction of force, then we say some work has been done by the force.</sent>
+				<sent id ="11">Product of force and displacement of the body in the direction of force then measures the quantity of work done.</sent>
+				<sent id ="12">Application of force on a rigid wall does no work as force applied there can not displace the wall.</sent>
+				<sent id ="13">Work done when a stone is raised from ground to the top of a building is calculated by multiplying force by the height of the building.</sent>
+				<sent id ="14">The total energy spent for this is known from the work done.</sent>
+				<sent id ="15">Therefore the total amount of work that a man or an engine can do is the measure of energy.</sent>
+				<sent id ="16">Work and energy is measured by same unit; their dimension is also the same.</sent>
+				<sent id ="17">In S.I system the unit of work is joule, so is the unit of energy.</sent>
+				<sent id ="18">Millions of years ago, there were forests on this earth.</sent>
+				<sent id ="19">Coal is the transformation form of these forests under the earth.</sent>
+				<sent id ="20">Due to transformation of earth crust these forests went under earth and by excessive pressure and temperature change, they turned into coal.</sent>
+				<sent id ="21">But when the trees were alive they took food from ground, heat from sunrays and grew naturally.</sent>
+				<sent id ="22">So, it is seen that in coal solar energy is stored in as chemical potential energy.</sent>
+				<sent id ="23">Burning of coal produces steam which then rotates turbine and produces electricity that we use to light our house.</sent>
+				<sent id ="24">Therefore we understand that the sun is the fundamental source of energy.</sent>
+				<sent id ="25">We see energy in various forms such as, heat, light, sound, electricity, magnetism, chemical and mechanical energy.</sent>
+				<sent id ="26">Again mechanical energy is of two kinds- potential energy, kinetic energy.</sent>
+				<sent id ="27">Influence of energy on the life of man is immense.</sent>
+				<sent id ="28">Starting from beginning to the end of life he needs energy for walking, working, playing etc.</sent>
+				<sent id ="29">We get this energy from our food.</sent>
+				<sent id ="30">There it remains as chemical energy.</sent>
+				<sent id ="31">Coal, wood, cake of cow dung, gas etc. all are source of chemical energy.</sent>
+				<sent id ="32">By burning of these sources of energy in oven, or in engine we obtain energy to do work.</sent>
+				<sent id ="33">Electrical energy is making our lives easy and comfortable.</sent>
+				<sent id ="34">Hydro-electric project applies energy of water current to produce electrical energy.</sent>
+				<sent id ="35">Here a turbine rotates by the energy of water current and produces electricity.</sent>
+				<sent id ="36">Kinetic energy of wind current is used to sail boat and wind mill.</sent>
+				<sent id ="37">Solar energy and energy of sea waves are considered now-a-days as an unlimited source of renewable energy.</sent>
+				<sent id ="38">Recently a British scientist installed machine to produce electrical energy from sea-waves.</sent>
+				<sent id ="39">To dry cloth or to dry paddy sunshine is being used from time immemorial.</sent>
+				<sent id ="40">Transformation of energy: We mentioned above various forms of energy.</sent>
+				<sent id ="41">These forms are interrelated.</sent>
+				<sent id ="42">Any form of energy can be transformed into other forms.</sent>
+				<sent id ="43">This is known as transformation of energy.</sent>
+				<sent id ="44">We mention below some examples of energy transformation.</sent>
+				<sent id ="45">From heat to mechanical energy : Heat produces water vapour to run steam engine.</sent>
+				<sent id ="46">Here heat is transformed into mechanical energy. .</sent>
+				<sent id ="47">From electricity to heat and light : As electric current passes through an electric bulb, it heats the filament of the bulb and produces light.</sent>
+				<sent id ="48">In the process electrical energy is transformed first to heat, then to light.</sent>
+				<sent id ="49">From light to electric energy: When light falls on a photo-electric cell, it produces electricity.</sent>
+				<sent id ="50">Here light energy is transformed into electrical energy.</sent>
+				<sent id ="51">From sound to mechanical energy: Using ultrasonic sound wave (sound of very high frequency) high precession machinery is cleaned.</sent>
+				<sent id ="52">This is an example of sound energy converting into mechanical energy.</sent>
+				<sent id ="53">From electricity to heat and chemical energy: In electric heater and iron, heat is produced from electrical energy.</sent>
+				<sent id ="54">In electric cell electricity is stored here as chemical energy.</sent>
+				<sent id ="55">From atomic energy to mechanical energy: Atomic power driven submarine is used in war.</sent>
+				<sent id ="56">This is an example of transformation of atomic energy into mechanical energy.</sent>
+				<sent id ="57">From magnetic energy to mechanical energy: Huge electromagnet is used as a crane to lift heavy loads.</sent>
+				<sent id ="58">Here magnetic energy is transformed into mechanical energy.</sent>
+				<sent id ="59">Conservation of energy : Energy can not be created or destroyed, only it can be transformed from one form to another and sum total of energy in this universe is constant.</sent>
+				<sent id ="60">This is called law of conservation of energy.</sent>
+				<sent id ="61">Solar energy: Energy from the sun is considered now-a-days a store house of renewable energy.</sent>
+				<sent id ="62">The radiant sun rays carry to earth huge energy.</sent>
+				<sent id ="63">The mechanism of storing this energy has been found.</sent>
+				<sent id ="64">Solar cell is such a device.</sent>
+				<sent id ="65">During day a place where sun rays fall for a long time, parabolical mirror collects and concentrates rays to heat a specially made boiler.</sent>
+				<sent id ="66">Thus water is converted into steam to drive turbine to produce electricity.</sent>
+				<sent id ="67">In solar furnace placed at the base of Pyrenees mountain a range temperature of 3800 Celsius has been achieved.</sent>
+				<sent id ="68">Now-a-days, for cooking solar cooker is used.</sent>
+				<sent id ="69">Atomic energy : Billions of years ago, at the start of the universe heavy elements were created.</sent>
+				<sent id ="70">In the formation of their atom huge amount of energy was stored in and is still there.</sent>
+				<sent id ="71">If they are broken into fundamental particles the stored energy will be released.</sent>
+				<sent id ="72">This energy can be used if we control the process.</sent>
+				<sent id ="73">Now how can we break a small particle like atom?</sent>
+				<sent id ="74">Scientists at the start of 20th century found out a way to break atom.</sent>
+				<sent id ="75">They found that bombarding by particles smaller than atom, like neutron, atom can be split into its constituent particles.</sent>
+				<sent id ="76">For this, heavy uranium atom (atomic number 92) was bombarded by neutron.</sent>
+				<sent id ="77">The atom split into two small parts and yielded three neutrons along with huge amount of energy.</sent>
+				<sent id ="78">This energy is the atomic energy.</sent>
+				<sent id ="79">Demand of energy: Whatever man does for living and for development of his fate, he needs energy.</sent>
+				<sent id ="80">For agriculture, industry or for any production system use of energy is indispensable.</sent>
+				<sent id ="81">Generally expenditure of energy per head is taken as the index of development of a country.</sent>
+				<sent id ="82">Now-a-days, we see tremendous efforts of national development in all spheres.</sent>
+				<sent id ="83">So demand for the use of energy is increasing.</sent>
+				<sent id ="84">We state below some reasons for this demand.</sent>
+				<sent id ="85">Increasing population demands increasing rate of expenditure of energy.</sent>
+				<sent id ="86">Developing countries build more buildings, roads and highways, more mills and factories; more vehicles are being used.</sent>
+				<sent id ="87">All these building works and care of transports need more energy.</sent>
+				<sent id ="88">Men build big palatial buildings for living; they use radio, TV, computer, VCR etc. in increasing number.</sent>
+				<sent id ="89">So their energy consumption is increasing.</sent>
+				<sent id ="90">The business, works and communication are increasing day by day.</sent>
+				<sent id ="91">So the use of energy is increasing also.</sent>
+				<sent id ="92">Use and protection of energy: We use energy in all spheres of life.</sent>
+				<sent id ="93">We need energy to live also to develop our life style.</sent>
+				<sent id ="94">We can not do without energy.</sent>
+				<sent id ="95">Energy is connected with our existence.</sent>
+				<sent id ="96">We see that fossil fuel is a great source of energy.</sent>
+				<sent id ="97">But this source is not unlimited.</sent>
+				<sent id ="98">One day it will all be exhausted.</sent>
+				<sent id ="99">Therefore men are searching for new sources of energy.</sent>
+				<sent id ="100">Renewable energy about which we talked earlier seems to be a probable source.</sent>
+				<sent id ="101">But until we find a limitless source of energy we must be conscious and thrifty about using energy.</sent>
+				<sent id ="102">It is our moral obligation to minimise wastage and misuse of energy.</sent>
+				<sent id ="103">Following steps in this regard may be taken: We should think about energy as not a personal thing but a national wealth.</sent>
+				<sent id ="104">Radio, TV, lamp, fan etc. are only to be used when necessary.</sent>
+				<sent id ="105">Unnecessary uses are to be discouraged.</sent>
+				<sent id ="106">A faulty vehicle or machine misuse energy.</sent>
+				<sent id ="107">So they are to be repaired timely.</sent>
+				<sent id ="108">If they are irrepairable, they should be left unused.</sent>
+				<sent id ="109">A transport engine must not be turned on unnecessarily.</sent>
+				<sent id ="110">It consumes energy for nothing.</sent>
+				<sent id ="111">We must prevent our personal and national wastage through conservation of energy.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

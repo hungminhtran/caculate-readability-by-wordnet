@@ -1,0 +1,76 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-agri-10</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:58.628</idno>
+				<idno type="Number of sentences">48</idno>
+				<idno type="Number of tokens">590</idno>
+				<idno type="Number of token types">307</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t2">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Pigeons are very popular domestic birds.</sent>
+				<sent id ="2">People rear pigeons like other poultry birds in most homesteads of our country.</sent>
+				<sent id ="3">Pigeon meat is very delicious.</sent>
+				<sent id ="4">Pigeon rearing has a respectable history across ancient Europe, America, and India during the Mogul rule.</sent>
+				<sent id ="5">The pigeons that accompanied the great saint Hazrat Shahjalal (R.A) to Sylhet is known as Jalali Kabutor.</sent>
+				<sent id ="6">Pigeons are quiet and cool.</sent>
+				<sent id ="7">Pigeons can be domesticated very easily.</sent>
+				<sent id ="8">Pigeons may be reared at homesteads, on the roof tops of any shed, etc.</sent>
+				<sent id ="9">It is said that pigeons were trained to carry letters in ancient times.</sent>
+				<sent id ="10">Pigeons can be trained to learn different attractive acrobatics very easily.</sent>
+				<sent id ="11">Pigeons start to lay eggs when they are only 6 months old.</sent>
+				<sent id ="12">On average a single pair of pigeons reproduce two chicks every month.</sent>
+				<sent id ="13">Pigeon chicks attain the table size in 3 to 4 weeks.</sent>
+				<sent id ="14">No feed is required for the chicks for 10 days.</sent>
+				<sent id ="15">Their parents feed them with a milk like substance grown in their food sacs.</sent>
+				<sent id ="16">The meat of pigeon is highly nutritious and tasty.</sent>
+				<sent id ="17">The feed cost of pigeon is very low.</sent>
+				<sent id ="18">The pigeon house may be made with low cost materials.</sent>
+				<sent id ="19">The children can easily rear them in the house.</sent>
+				<sent id ="20">Its husbandry is delightful.</sent>
+				<sent id ="21">It is possible to be economically benefited very easily investing only a little capital and labour.</sent>
+				<sent id ="22">Breeds of pigeon: There are about 200 to 300 breeds of pigeon in the world.</sent>
+				<sent id ="23">Giribaz, Shirajee, Moyur Panki, Silver King, White King, Gora, Homar, Jalali, Fan, Loton, etc. are the most familiar breeds among them.</sent>
+				<sent id ="24">The amateurs rear pigeons for games and other entertainments.</sent>
+				<sent id ="25">The Giribaz pigeons display acrobatics in the open sky.</sent>
+				<sent id ="26">People enjoy as they fly high and somersault down.</sent>
+				<sent id ="27">No specific house is required for rearing pigeons.</sent>
+				<sent id ="28">Pigeon may be reared on the slopes of the roofs, on the window sheds or balconies.</sent>
+				<sent id ="29">The house may be made with light wood, thin tin, bamboo or packing wood.</sent>
+				<sent id ="30">There should be a space to accommodate two pigeons in each apartment.</sent>
+				<sent id ="31">The size of an apartment should be 30 cm wide and 30 cm high for each pair of pigeon.</sent>
+				<sent id ="32">There should be sufficient space for movement inside the apartment.</sent>
+				<sent id ="33">Care should be taken so that no rainwater can enter the pigeon apartments.</sent>
+				<sent id ="34">The house of the pigeons should be in an elevated place so that dogs, cats, rats, etc. cannot harm them.</sent>
+				<sent id ="35">The apartments of the box cages of pigeons may be arranged horizontally or designed vertically like a multistoried building.</sent>
+				<sent id ="36">Each box cage or apartment should have a door 12 cm 12 cm.</sent>
+				<sent id ="37">The excreta of the pigeons should be cleared off once or twice a month.</sent>
+				<sent id ="38">The house should be kept clean and dry.</sent>
+				<sent id ="39">The water pot and feed pot for the pigeons should be kept near the box cages or the apartments.</sent>
+				<sent id ="40">Water and dust for bathing and straw for making nests should be kept within their easy reach.</sent>
+				<sent id ="41">Feed: Pigeons usually feed on grains such as wheat, pea, grass pea, mustard, maize, pulses, paddy, rice, millets, sorghum, etc.</sent>
+				<sent id ="42">Pigeons feed on these kept in a pot near their shed.</sent>
+				<sent id ="43">It is better to give them some green vegetable leaves, ground oyster and mineral salts.</sent>
+				<sent id ="44">The balanced feed prepared for poultry birds may be given to pigeons.</sent>
+				<sent id ="45">Pigeon feed should contain 15 to 16 percent protein.</sent>
+				<sent id ="46">Every pigeon requires about 35 to 60 gram feed daily.</sent>
+				<sent id ="47">The major diseases of pigeons: How to control them.</sent>
+				<sent id ="48">Remedial measures should be taken after consultation with a vet when the pigeons are found to be ill.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

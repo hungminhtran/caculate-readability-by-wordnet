@@ -1,0 +1,191 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-8</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.289</idno>
+				<idno type="Number of sentences">163</idno>
+				<idno type="Number of tokens">1834</idno>
+				<idno type="Number of token types">797</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t75">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Microbes or germs mean very small organisms.</sent>
+				<sent id ="2">There are many such organisms in soil, water, air and environment; which cannot be seen by unaided eyes.</sent>
+				<sent id ="3">Its existence is realized only when seen under a microscope.</sent>
+				<sent id ="4">These minute organisms are termed as microbes.</sent>
+				<sent id ="5">Rickettsia, Bacteria, Fungi, Protozoa etc. are the microbes.</sent>
+				<sent id ="6">Most of them are parasites and produce diseases in the host body.</sent>
+				<sent id ="7">Virus is also a special kind of microbe.</sent>
+				<sent id ="8">Virus is a microbe or an entity in between living and nonliving.</sent>
+				<sent id ="9">Their size is very small; about 12-400 nanometer (one nanometer is equivalent to one millionth of a millimeter).</sent>
+				<sent id ="10">It cannot be seen without the help of an electron microscope.</sent>
+				<sent id ="11">They cannot lead independent life.</sent>
+				<sent id ="12">They live inside a host body as a parasite.</sent>
+				<sent id ="13">The body of a virus particle does not have any cell membrane, cell wall, organised nucleus, cytoplasm and different cytoplasmic inclusions.</sent>
+				<sent id ="14">It a coating of protein having nucleic acid (DNA or RNA) inside.</sent>
+				<sent id ="15">In some virus this structure bears a tail like projection.</sent>
+				<sent id ="16">In this case the virus particle looks like T. Example- T2 or T4- phage virus.</sent>
+				<sent id ="17">Few fibrous growths are visible at open end of the tail.</sent>
+				<sent id ="18">Outside the body of the host, the virus does not show any sign of life, like- respiration, nutrition, metabolism, reproduction etc.</sent>
+				<sent id ="19">Virus particles can be crystallized out and can be preserved for long time.</sent>
+				<sent id ="20">When they again get inside the living body of the host, then it can multiply like other microbes.</sent>
+				<sent id ="21">Because of absence of normal functioning of life activities and ability to become crystallized they seem to be non living.</sent>
+				<sent id ="22">But when activities like ability to multiply and presence of DNA are shown; they seem to be living entities.</sent>
+				<sent id ="23">Due to this dual characteristics the virus is placed in between living and nonliving.</sent>
+				<sent id ="24">They are treated as microbes because they are microscopic and show some symptoms of life.</sent>
+				<sent id ="25">a) Diseases of plants: Virus is responsible for mosaic diseases of tobacco, beans, papaya etc.</sent>
+				<sent id ="26">b) Diseases of man: The most fatal disease of man is the AIDS disease.</sent>
+				<sent id ="27">It is caused by HIV virus.</sent>
+				<sent id ="28">Besides, Small Pox, Measles, Poliomyelitis, Influenza, Mumps, Herpes, Hepatitis etc. are also caused by virus.</sent>
+				<sent id ="29">c) Diseases of animal and birds: Foot and mouth disease of cattle, hydrophobia of cats and dogs;</sent>
+				<sent id ="30">Foot and mouth diseases of cattle IBD or Infectious Bursal Disease (Ranikhet) of poultry etc. are caused by virus.</sent>
+				<sent id ="31">d) Destroying beneficial bacteria: Some virus destroy some beneficial bacteria.</sent>
+				<sent id ="32">Rickettsia looks like a rod or an egg.</sent>
+				<sent id ="33">They are 350 nanometers long and 25 nanometers wide.</sent>
+				<sent id ="34">It can be seen under a powerful optical microscope; with a great difficulty.</sent>
+				<sent id ="35">An electron microscope show their structures very similar-to a bacteria.</sent>
+				<sent id ="36">But its size is very small.</sent>
+				<sent id ="37">All rickettsia except one species do not show any sign of life outside the host body.</sent>
+				<sent id ="38">They are treated as an intermediate micro organism in between virus and bacteria.</sent>
+				<sent id ="39">Different types of rickettsia live in the elementary canal of spider, insects and other arthropods.</sent>
+				<sent id ="40">Few species cause disease in man.</sent>
+				<sent id ="41">In cold countries the louse transmitted typhus fever is worth mentioning disease.</sent>
+				<sent id ="42">Bacteria are microbial organisms.</sent>
+				<sent id ="43">It is larger than the virus and rickettsia.</sent>
+				<sent id ="44">Even then they are not visible with unaided eyes.</sent>
+				<sent id ="45">They are visible only under a microscope.</sent>
+				<sent id ="46">The size of bacteria varies from 1-5 micron (one micron is one thousandth part of a milli meter).</sent>
+				<sent id ="47">Bacteria are unicellular.</sent>
+				<sent id ="48">Bacterial cells are not like normal plant cells.</sent>
+				<sent id ="49">These cells are protocells or primitive cells.</sent>
+				<sent id ="50">These cells do not have mitochondria, plastids, golgi bodies etc. and their nuclei are not organized.</sent>
+				<sent id ="51">It is bounded by a cell wall.</sent>
+				<sent id ="52">The cytoplasm of the cell bears only one DNA molecule and there is no nuclear membrane.</sent>
+				<sent id ="53">So, it is called nucleoid and not nucleus.</sent>
+				<sent id ="54">Bacterial cells are of various shapes.</sent>
+				<sent id ="55">According to shape these are classified into four groups.</sent>
+				<sent id ="56">When the cell shape is round or egg shaped, they are called coccus (plu-cocci).</sent>
+				<sent id ="57">Rod like bacterial group is called bacillus (plu.-</sent>
+				<sent id ="58">When the shape is like comma (,), it is called vibrio.</sent>
+				<sent id ="59">When bacterial cells are twisted like a loose spring, it is called spirillum.</sent>
+				<sent id ="60">Few bacteria are parasitic.</sent>
+				<sent id ="61">They are responsible for diseases of man, animal and plants.</sent>
+				<sent id ="62">Few other bacteria get .energy</sent>
+				<sent id ="63">from decomposed dead remains of organisms.</sent>
+				<sent id ="64">In this way, they keep the environment clean.</sent>
+				<sent id ="65">Nitrogen fixing bacteria fix atmospheric free oxygen to the soil.</sent>
+				<sent id ="66">As a result, soil becomes fertile.</sent>
+				<sent id ="67">Some bacteria can get energy from inorganic substances like iron, sulfur, and nitrogen.</sent>
+				<sent id ="68">Bacteria decompose dead bodies of animals and plants and increases soil fertility.</sent>
+				<sent id ="69">Example-Nitrobacter. Besides, few soil bacteria fix nitrogen from the atmosphere to the soil.</sent>
+				<sent id ="70">This process increase fertility of soil.</sent>
+				<sent id ="71">Example- Azotobacter, Clostridium etc.</sent>
+				<sent id ="72">In leguminous plants some symbiotic bacteria live in the roots and form root nodules.</sent>
+				<sent id ="73">These bacteria convert free nitrogen of the air to nitrates and make the soil fertile.</sent>
+				<sent id ="74">In jute rotting: Jute has a great impact on the economy of Bangladesh.</sent>
+				<sent id ="75">Through export of jute Bangladesh earns huge amount of foreign exchange.</sent>
+				<sent id ="76">Jute stems after cutting, immerged in water for few days for loosening of fibres.</sent>
+				<sent id ="77">Some bacteria play roles in this rotting process.</sent>
+				<sent id ="78">In curing process: Bacteria have important role in processing of tea, coffee,tobacco etc.</sent>
+				<sent id ="79">In leather industry: Bacteria help to remove hair from raw skin of cattle.</sent>
+				<sent id ="80">Production of milk product: Bacteria play its role in the production of curd, butter, cheese etc. from milk.</sent>
+				<sent id ="81">Preparation of medicine: Vaccines for cholera, typhoid, tuber-culosis, etc. are produced from bacteria.</sent>
+				<sent id ="82">Decomposing garbage: Bacteria decompose garbage in drains and canals and help to keep the environment clean.</sent>
+				<sent id ="83">Human diseases: Bacteria are responsible for fatal human diseases like Cholera, Typhoid, Tuberculosis, Pneumonia, Diphtheria, Tetanus, Syphilis etc.</sent>
+				<sent id ="84">b) Diseases of animals and birds: Some of the diseases caused by bacteria are Tuberculosis of cattle, Cholera of poultry etc.</sent>
+				<sent id ="85">c) Diseases of plants: Blight of rice, Gummosis of sugar cane, Canker of tomato, Brown rot of potato etc. are caused by bacteria.</sent>
+				<sent id ="86">Rotting of food: Bacteria do harm to us by rotting of fruits, vegetables, fish, meat, milk and cooked food staffs etc.</sent>
+				<sent id ="87">Denitrification: Few soil bacteria produce free nitrogen gas from nitrates of the soil and leave in the environment.</sent>
+				<sent id ="88">As a result, the fertility of soil decreases.</sent>
+				<sent id ="89">Fungi (sing-Fungus ) are usually multicellular organism.</sent>
+				<sent id ="90">Unicellular fungi are also available.</sent>
+				<sent id ="91">Previously they were treated as a member of plant kingdom; now they are treated in a separate kingdom.</sent>
+				<sent id ="92">They have no chlorophyll so they are nongreen.</sent>
+				<sent id ="93">and cannot manufacture their own food.</sent>
+				<sent id ="94">They cannot take solid foods like animals.</sent>
+				<sent id ="95">They live only on liquid food from the body of other organisms, dead or alive.</sent>
+				<sent id ="96">So, fungi are either saprophytes or parasites.</sent>
+				<sent id ="97">Fungi that live on decomposed dead remains of organisms are called saprophytes; such as Penicillium, Mucor, Yeast, Agaricus etc.</sent>
+				<sent id ="98">While other fungi that draw their food from living body of the host, are called parasites; such as Phytophthora, Puccinia etc.</sent>
+				<sent id ="99">Fungi have many economic importances.</sent>
+				<sent id ="100">They have both beneficial as well as harmful effects.</sent>
+				<sent id ="101">a) Production of medicine: The most important antibiotic drug is Penicillin.</sent>
+				<sent id ="102">It is extracted mainly from Penicillium notatum.</sent>
+				<sent id ="103">Penicillin is the medicine used for throat pain, septic ulceration, tonsillitis etc.</sent>
+				<sent id ="104">Microbiologist Alexander Flemming discovered Penicillin in 1928 from Penicillium fungi.</sent>
+				<sent id ="105">b) Soil fertility: Fungi living in the soil decompose different organic matters and increase fertility of the soil.</sent>
+				<sent id ="106">c) Production of alcohol or ethanol: Fungus plays an important role in production of alcohol or ethanol.</sent>
+				<sent id ="107">Yeast, an unicellular saprophytic fungus has a role in its production.</sent>
+				<sent id ="108">d) Bakery products: Yeast is necessary in the production of bread.</sent>
+				<sent id ="109">Yeasts make breads swollen up and soft.</sent>
+				<sent id ="110">e) As food: Some fungi such as Mushrooms, are nutritious food.</sent>
+				<sent id ="111">People of many countries are fond of this food.</sent>
+				<sent id ="112">Human diseases : Fungi cause diseases like Ring worm, Lentego etc.</sent>
+				<sent id ="113">Diseases of plants: Fungi cause various diseases of important crop plants like Paddy, Potato, Wheat, Sugar cane etc.</sent>
+				<sent id ="114">Spoil of food: Fungi spoil bread, fish, meat, cooked food, vegetables, fruits, jelly, jam, pickles etc.</sent>
+				<sent id ="115">Destroying Furniture, leather and optical goods: Fungi spoil wooden furniture, leather goods, camera, microscopes etc.</sent>
+				<sent id ="116">Poisonous action: Some mushrooms are very poisonous.</sent>
+				<sent id ="117">When it is taken, it may cause even death.</sent>
+				<sent id ="118">Dysentery is a dangerous disease of man.</sent>
+				<sent id ="119">It is of two types.</sent>
+				<sent id ="120">Bacillary dysentery and Amoebic dysentery.</sent>
+				<sent id ="121">Bacillary dysentery is caused by bacteria and amoebic dysentery is caused by one type of amoeba, called Entamoeba hystolytica.</sent>
+				<sent id ="122">These parasites get into human body through food and water.</sent>
+				<sent id ="123">Entamoeba lives in large intestine and sucks nutrition from the intestinal wall.</sent>
+				<sent id ="124">It produces ulceration on the wall.</sent>
+				<sent id ="125">As a result, blood and mucous are released with stool.</sent>
+				<sent id ="126">This symptom may accompany with fever.</sent>
+				<sent id ="127">The affected person feels pain at the abdomen.</sent>
+				<sent id ="128">In some cases the intestinal wall may develop pores.</sent>
+				<sent id ="129">This parasite can spread to the liver and other parts of the body including brain through blood.</sent>
+				<sent id ="130">In extreme case the patient may die even.</sent>
+				<sent id ="131">What is Entamoeba?</sent>
+				<sent id ="132">Entamoeba is a member of phylum protozoa of animal kingdom.</sent>
+				<sent id ="133">They are unicellular animals, very small in size and cannot be seen with unaided eyes.</sent>
+				<sent id ="134">Entamoeba histolytica is the human parasite living in the large intestine.</sent>
+				<sent id ="135">They produce dysentery.</sent>
+				<sent id ="136">Six other species of Entamoeba live in the human body as heterophytes but they do not cause diseases.</sent>
+				<sent id ="137">The Entamoeba has no definite shape.</sent>
+				<sent id ="138">Its shape is changeable with the formation of pseudopodia.</sent>
+				<sent id ="139">It is a unicellular animal.</sent>
+				<sent id ="140">The cell membrane is living, thin, and elastic.</sent>
+				<sent id ="141">The cell is divided into two parts; such as cytoplasm and nucleus.</sent>
+				<sent id ="142">It moves by producing pseudopodia from cytoplasm.</sent>
+				<sent id ="143">Its cytoplasm contains different types of vacuoles.</sent>
+				<sent id ="144">Nucleus regulates different physiological activities of the cell.</sent>
+				<sent id ="145">Life history: In unfavourable conditions Entamoeba develops a covering around its body with the help of cytoplasm.</sent>
+				<sent id ="146">This stage is called a cyst.</sent>
+				<sent id ="147">Large number of cysts come out with stool of infected persons.</sent>
+				<sent id ="148">Drinking polluted water or taking unwashed raw vegetables are the ways these cysts enter into the human digestive tract.</sent>
+				<sent id ="149">They may enter into the human body with other foods.</sent>
+				<sent id ="150">Cysts travel through stomach to the small intestine.</sent>
+				<sent id ="151">The new cells gradually become mature and secrete enzymes that digest epithelial cell layer of large intestine wall.</sent>
+				<sent id ="152">Entamoeba cells take pieces of epithelial cells and red blood cells as their food.</sent>
+				<sent id ="153">As a result, small wounds are created on the wall of large intestine.</sent>
+				<sent id ="154">Due to these wounds small pieces of epithelial layer come out with stool as mucous.</sent>
+				<sent id ="155">The following preventive and curative measures may be taken against dysentery .</sent>
+				<sent id ="156">Drinking water must be boiled properly.</sent>
+				<sent id ="157">Food must be covered to avoid contamination through fly or cockroach.</sent>
+				<sent id ="158">Fruits and vegetables must be washed thoroughly before eating.</sent>
+				<sent id ="159">Hands should be washed thoroughly before taking anything or clean spoon should be used.</sent>
+				<sent id ="160">Nails should not be allowed to grow long.</sent>
+				<sent id ="161">Use of clean and sanitary latrine should be ensured.</sent>
+				<sent id ="162">Hands should be washed well after defecation.</sent>
+				<sent id ="163">A sick person must take medicine as per advice of a physician.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

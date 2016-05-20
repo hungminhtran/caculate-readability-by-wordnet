@@ -1,0 +1,124 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-23</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.118</idno>
+				<idno type="Number of sentences">96</idno>
+				<idno type="Number of tokens">1360</idno>
+				<idno type="Number of token types">558</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t68">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">It is one of the biggest delta regions of the world.</sent>
+				<sent id ="2">This huge delta is formed by the alluvial soil drained by the Padma, the Jamuna and the Meghna.</sent>
+				<sent id ="3">The area of Bangladesh is 1,47,570 square kilometres.</sent>
+				<sent id ="4">To the north and north-east of this country lies some hills that are not very high and next to these are the provinces of India.</sent>
+				<sent id ="5">There are the high Himalayas at a little further to this.</sent>
+				<sent id ="6">To the north-east are the Garo, the Khashia and the Joyantia mountains ranges.</sent>
+				<sent id ="7">To the east and south-east is the Arakan Yama.</sent>
+				<sent id ="8">The Bay of Bengal in the south extends southwards to merge with the Indian Ocean.</sent>
+				<sent id ="9">On the west lies the extensive plain land of India.</sent>
+				<sent id ="10">Because of such location, the winter is not long lasting in Bangladesh.</sent>
+				<sent id ="11">The intensity of cold is also less.</sent>
+				<sent id ="12">There is plenty of rainfall during the monsoon.</sent>
+				<sent id ="13">The Himalayas protects Bangladesh from the cold waves flowing from Siberia.</sent>
+				<sent id ="14">During the monsoon, air filled with moisture flows from the south of the Bay of Bengal.</sent>
+				<sent id ="15">Besides the geographical location, Bangladesh is endowed with some other unusual natural characteristics.</sent>
+				<sent id ="16">For this reason, dreadful tidal wave and flood occur frequently in Bangladesh.</sent>
+				<sent id ="17">Located in the torrid zone with the distinctive configuration of land, the climate of Bangladesh is mainly equable.</sent>
+				<sent id ="18">Because of this equable of climate, the weather prevalent in Bangladesh is both favourable and unfavourable.</sent>
+				<sent id ="19">The favourable weather keeps the nature of Bangladesh evergreen with abounding crop.</sent>
+				<sent id ="20">The unfavourable weather brings sudden calamity every year.</sent>
+				<sent id ="21">The unfavourable weather is manifested as sea cyclone and tidal wave and flood, draught, kalboishakhi tornado and excess rainfall.</sent>
+				<sent id ="22">According to meteorologists, four major seasons prevail in Bangladesh.</sent>
+				<sent id ="23">These are pre- monsoon (March, April, May), monsoon (June, July, August, September), post- monsoon (October, November) and winter (December, January, February).</sent>
+				<sent id ="24">These four seasons have great influence over the weather in Bangladesh.</sent>
+				<sent id ="25">Seasonal influence along with overall long-term weather forms the overall climate of this country.</sent>
+				<sent id ="26">So, the climate of Bangladesh can be called the climate of tropical seasons.</sent>
+				<sent id ="27">The annual rainfall in all parts of Bangladesh is not the same.</sent>
+				<sent id ="28">There is a statistical data for the average rainfall over the last thirty years.</sent>
+				<sent id ="29">According to the statistics, Sylhet has the highest average annual rainfall.</sent>
+				<sent id ="30">The avarage rainfall is 4500 millimetre.</sent>
+				<sent id ="31">The second highest rainfall recorded at Cox's Bazar and Chittagong areas.</sent>
+				<sent id ="32">The average annual rainfall is 3000 millimetre.</sent>
+				<sent id ="33">The areas with lowest annual rainfall are Rajshahi, Pabna and Kushtia.</sent>
+				<sent id ="34">In these areas the annual average rainfall is little over 1400 millimetre.</sent>
+				<sent id ="35">The average annual rainfall in Dhaka and the adjoining areas is about 2000 millimetre.</sent>
+				<sent id ="36">In Bangladesh, the temperature in all seasons at all places is not the same.</sent>
+				<sent id ="37">The temperature is the highest in the pre-monsoon and the lowest in winter.</sent>
+				<sent id ="38">On 18 May 1972, the highest temperature at Rajshahi rose up to 45.10 Celsius.</sent>
+				<sent id ="39">The winter temperature in the northern and central regions of Bangladesh is 180-210 and sometimes falls as low as 40-50 Celsius.</sent>
+				<sent id ="40">On 4 February 1968, the lowest temperature of the country fell at 2.50 Celsius at Srimongol.</sent>
+				<sent id ="41">What is flood: According to the hydrologists, flow of water more than the drainage capacity through the outlet is flood.</sent>
+				<sent id ="42">During monsoon, there is excess rainfall in the upstream and within Bangladesh.</sent>
+				<sent id ="43">When there is excess rainfall, there is tremendous increase in the pressure of water in the basins of major rivers and their tributaries.</sent>
+				<sent id ="44">As a result, the flow of water in the rivers goes beyond their holding capacity.</sent>
+				<sent id ="45">The country is then flooded.</sent>
+				<sent id ="46">Causes of flood: A total of 230 rivers including the Padma, the Jamuna and the Meghna rivers, flow through Bangladesh.</sent>
+				<sent id ="47">Among these rivers, excess rainfall in the basins of the Padma, the Jamuna and the Meghna is the main reason for flood in the country.</sent>
+				<sent id ="48">Of the annual rainfall over the country, 80 percent occur during the four months of June-September.</sent>
+				<sent id ="49">The area of the drainage basin of these three rivers is 16,00,000 square kilometres altogether of which only 7.5 percent area is in Bangladesh.</sent>
+				<sent id ="50">The monsoon water of this large basin flows through Bangladesh to the Bay of Bengal.</sent>
+				<sent id ="51">So, even if there is less rainfall during the monsoon in Bangladesh but excess rainfall elsewhere in the river basin causes flood in Bangladesh.</sent>
+				<sent id ="52">This happened in the flood of Flood in Bangladesh may take the form of moderate, terrible or colossal intensity.</sent>
+				<sent id ="53">The usual cycle of occurrence of the moderate, terrible and colossal floods are 3-4, 6-7 and 30-35 years respectively.</sent>
+				<sent id ="54">In addition to the excess rainfall in the basin, there are some other factors that help increase the height of floodwater.</sent>
+				<sent id ="55">T Construction of roads, highways, railways, dams, embankments and so on, obstruct the natural flow of water.</sent>
+				<sent id ="56">This flood started from about the end of August and lasted till the middle of September.</sent>
+				<sent id ="57">The flood covered 1,20,973 square kilometre area in 60 districts.</sent>
+				<sent id ="58">The number of affected people were 4 crore 67 lakh and casualty was 2,329 persons.</sent>
+				<sent id ="59">In 1998, the most terrible flood of the century occurred in Bangladesh.</sent>
+				<sent id ="60">This flood lasted for about three months and inundated two-third area of the country.</sent>
+				<sent id ="61">This was the longest lasting flood of the century.</sent>
+				<sent id ="62">The height of water level in the big rivers surpassed all the previous records.</sent>
+				<sent id ="63">Recalling the past, this dreadful flood was a strong blow to the overall economy and infrastructure of the country.</sent>
+				<sent id ="64">The people of this country are living with flood since long.</sent>
+				<sent id ="65">In this stage of development, it is not possible to stop or totally control flood.</sent>
+				<sent id ="66">But we can take short and medium term preparations.</sent>
+				<sent id ="67">As a result, life and property and the natural environment can be saved to a great extent from being damaged.</sent>
+				<sent id ="68">The role of river in the life of the people in Bangladesh is unlimited.</sent>
+				<sent id ="69">For centuries, life and living of the people has revolved around river for fishing, farming, transportation and business.</sent>
+				<sent id ="70">As a result, human habitation has developed much along the riverbanks compared to other places.</sent>
+				<sent id ="71">For Bangladesh, river erosion is a great problem.</sent>
+				<sent id ="72">At least 70 lakh people have been affected by river erosion during the period 1970.</sent>
+				<sent id ="73">River erosion occurs at about 130 places of riverbanks in 218 General Science Bangladesh.</sent>
+				<sent id ="74">Several lakh people are affected each year by it.</sent>
+				<sent id ="75">Their normal life is severely interrupted.</sent>
+				<sent id ="76">Causes and places of river erosion: Bangladesh is formed of alluvial soil.</sent>
+				<sent id ="77">So, the flow of river regulates the process of river erosion.</sent>
+				<sent id ="78">River erosion occurs regularly in 75 rivers including the Padma, the Jamuna and the Meghna.</sent>
+				<sent id ="79">The villages, market places and cities by the banks of rivers are always threatened by river erosion.</sent>
+				<sent id ="80">Maximum erosion occurs along the banks of the Jamuna and the Meghna.</sent>
+				<sent id ="81">The gradual erosion of the Jamuna and the Meghna has put the districts of Sirajganj and Chandpur respectively at risk.</sent>
+				<sent id ="82">In spite of throwing big boulders and concrete blocks in the rivers, it is becoming increasingly difficult to save the two towns.</sent>
+				<sent id ="83">Research shows that erosion occurs more in wide rivers.</sent>
+				<sent id ="84">Measures to prevent erosion: River erosion can be prevented by different measures.</sent>
+				<sent id ="85">The influence of high pressure annulus in the torrid zone is considered to be the main cause of draught in this country.</sent>
+				<sent id ="86">In Bangladesh, the draught is usually of short and medium duration.</sent>
+				<sent id ="87">This type of draught mainly disrupts agricultural activities.</sent>
+				<sent id ="88">Effects of draught: In Bangladesh, the effects of draught become severe in some years.</sent>
+				<sent id ="89">Land, canal, beel, pond, nala, etc. all dry up.</sent>
+				<sent id ="90">As a result, agricultural activity is threatened and there is severe shortage of food.</sent>
+				<sent id ="91">In order to provide food to the huge population, the Government has to import food from the development budget on emergency basis.</sent>
+				<sent id ="92">There is possibility of famine if for some reason a delay occurs in the import of food.</sent>
+				<sent id ="93">Like many other countries of the world, draught is not long lasting in Bangladesh.</sent>
+				<sent id ="94">In the country, draught is irregular and non-periodic.</sent>
+				<sent id ="95">The whole of Bangladesh is not affected by draught at the same time.</sent>
+				<sent id ="96">Measure for prevention of draught: To prevent draught, long term and immediate plans need to be taken at the state, regional and village levels.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

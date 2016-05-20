@@ -1,0 +1,163 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-agri-22</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:03.498</idno>
+				<idno type="Number of sentences">135</idno>
+				<idno type="Number of tokens">2000</idno>
+				<idno type="Number of token types">710</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t15">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The goat is reared in almost every country of the world.</sent>
+				<sent id ="2">The goat meets the demand of protein by producing meat and milk.</sent>
+				<sent id ="3">Skins and hairs of goat are used not only in preparing tannery materials but are used in different handicrafts:</sent>
+				<sent id ="4">Goat dung is used in land as a good organic manure.</sent>
+				<sent id ="5">The goat population in Bangladesh is almost 2.075 crore during 2006.</sent>
+				<sent id ="6">The skin of Black Bengal goat of this sub-continent is of superior quality and its demanding the world is tremendous.</sent>
+				<sent id ="7">The Black Bengal she-goat gave of birth of 2-3 kids at a time.</sent>
+				<sent id ="8">So there is opportunity of earning foreign exchanges by exporting skins through increasing the number of goats.</sent>
+				<sent id ="9">Now the number of goats is decreasing alarmingly.</sent>
+				<sent id ="10">In order to increase their number, it is very important to rear goat in family basis.</sent>
+				<sent id ="11">Every body of a family can take part in goat rearing with small capital through sound planning.</sent>
+				<sent id ="12">Goat farming in family basis can be started by purchasing one pair of 4 months she-goats.</sent>
+				<sent id ="13">This size of the goat is small.</sent>
+				<sent id ="14">Very limited space is required for their rearing.</sent>
+				<sent id ="15">Generally in our country the farmers of villages make dwelling house of the goats by spreading hessian in their bed room, or corridors.</sent>
+				<sent id ="16">This arrangement is harmful for the dwellers of the house.</sent>
+				<sent id ="17">If money can not be afforded, it will be better to make a separate dwelling house for the goats by making at least a fence in the middle of the bed room.</sent>
+				<sent id ="18">If the numbers of goats are many, it is necessary to make separate house for them.</sent>
+				<sent id ="19">The house of goats should be constructed on high land.</sent>
+				<sent id ="20">Arrangements should be done to have plenty of air in the house.</sent>
+				<sent id ="21">Care should be taken so that the house does not become damp.</sent>
+				<sent id ="22">For every adult goat, a house should be built measuring 2 metre in length and 1 metre in breadth, the roof may be made with tin, straw (chhan) or even bamboo.</sent>
+				<sent id ="23">The floor of the house may be cemented and it would be good to have 60 cm brick work in the lower part of fence.</sent>
+				<sent id ="24">The height of the front side of this type of house should be 2 -3 metre and rear side 1 to 1.5 metre.</sent>
+				<sent id ="25">This house should have to be slope in rear portion.</sent>
+				<sent id ="26">A platoon of bamboo or wood can be made at 1 metre height from the floor and the goats can be kept on it.</sent>
+				<sent id ="27">These types of platforms are suitable for comfort of the goats.</sent>
+				<sent id ="28">In this case a ladder can be made to climb up to the platform from the floor.</sent>
+				<sent id ="29">If the platform is made the goat-dung and urine can pass through the gap of the platform.</sent>
+				<sent id ="30">Cleaning of house becomes easier.</sent>
+				<sent id ="31">Light and air can pass well through the house.</sent>
+				<sent id ="32">If milk, is not produced or if goat is reared only for meat production the kid should be allowed to graze with its mother.</sent>
+				<sent id ="33">The kid should also be nursed with its mother It is to be ensured that if there, are two kids, both can get the mother's milk, equally.</sent>
+				<sent id ="34">From time immemorial goat has been reared most carefully in the domestic houses of this country.</sent>
+				<sent id ="35">The great advantage of rearing goats on family basis is that the amount of labour after goat is minimum.</sent>
+				<sent id ="36">No extra man is required for this.</sent>
+				<sent id ="37">Early in the morning the goats have to be brought out of their houses and tied in the countyard.</sent>
+				<sent id ="38">After some time they are to feed with granular food.</sent>
+				<sent id ="39">At about 9-10 a.m. the goats are tied in the field for grazing.</sent>
+				<sent id ="40">If milk is not produced or if goat is reared only for meat production the kid should be allowed to graze with its mother.</sent>
+				<sent id ="41">The kid should also be nursed with its mother.It is to be ensured that if there are two kids,both can get the mothers milk equally.</sent>
+				<sent id ="42">The goat and its kid should be fed medicine of worms regularly.</sent>
+				<sent id ="43">They should be vaccinated regularly for prevention of disease.</sent>
+				<sent id ="44">Generally the goat grazes in the open field or bushes and eats creepers and leaves.</sent>
+				<sent id ="45">They are fond of green leaves and straws.</sent>
+				<sent id ="46">Generally they do not like to eat dirty or wet food.</sent>
+				<sent id ="47">They eat any plant by lopping off the top which cannot sprout easily.</sent>
+				<sent id ="48">They like the leaves of the trees of jack fruit, jhiga, banyan, mango, mander etc.</sent>
+				<sent id ="49">Besides these, they like to eat green vegetables and granular food such as oat, barley, maize, different types of oil seeds, oil seeds, cakes etc.</sent>
+				<sent id ="50">They prefer to eat crushed granule to uncrushed ones.</sent>
+				<sent id ="51">Like cows, buffaloes and sheeps the goat is also a ruminant animal.</sent>
+				<sent id ="52">Its stomach is divided into 4 parts.</sent>
+				<sent id ="53">After they take food, those are stored in the stomach without being, chewed, Afterwards they bring the unchewed foods again in the mouth for chewing.</sent>
+				<sent id ="54">For this type of activities they are called ruminant animals.</sent>
+				<sent id ="55">Putting weight of the body on 2 rear legs, the goat fixes its front two legs to plants or fences and eats the creepers, shrubs or leaves of the plants by tearing them.</sent>
+				<sent id ="56">The special characteristics of the goat is eating by pulling the very small grasses, green leaves, buds of leaves etc. with the help of its hard lips and tongue.</sent>
+				<sent id ="57">The capacity of goat differentiate the tastes of sourness, sweetness, salinity of food is higher in comparison to other animals.</sent>
+				<sent id ="58">Within one hour of the birth of the kid it should be fed with colostrums.</sent>
+				<sent id ="59">It is necessary to food this colostrums for three days.</sent>
+				<sent id ="60">The food nutrients in colostrums are higher than natural milk and disease resistant capacity of colostrums is also higher.</sent>
+				<sent id ="61">So this milk is very useful for the kids.</sent>
+				<sent id ="62">During the first week of birth the kid should be feed milk 3-4 times a day.</sent>
+				<sent id ="63">A kid weighing 2-3 kg.</sent>
+				<sent id ="64">Should be fed 300-400 gm.</sent>
+				<sent id ="65">milk in the morning and in the evening, besides these each kid requires 100 gm.</sent>
+				<sent id ="66">In addition, it should be provided with sufficient green grass.</sent>
+				<sent id ="67">Every lay 150 grams granular food should be given to a fully grown goat.</sent>
+				<sent id ="68">Extra 400 grams food should be given daily to a milch goat.</sent>
+				<sent id ="69">This amount should be divided in two meal.</sent>
+				<sent id ="70">In addition to this sufficient grass, leaves ereepers etc. and clean water should be given with it.</sent>
+				<sent id ="71">Procreative he-goats should always be given sufficient grass.</sent>
+				<sent id ="72">During procreation period it should be given 500 gm to 1 kg.</sent>
+				<sent id ="73">granular food daily.</sent>
+				<sent id ="74">In each case clean water should be given to drink with food.</sent>
+				<sent id ="75">Before discussing about farm management of goat one should have a clear conception about a goat farm.</sent>
+				<sent id ="76">The place where goat is reared on commercial basis by scientific management is called goat farm.</sent>
+				<sent id ="77">The arrangement taken thorough daily observation for executing the permanent and daily activities of the farm and ascertaining future plan of action are called farm management.</sent>
+				<sent id ="78">Improved management acts as supportive power in achieving aims and objectives of the farm.</sent>
+				<sent id ="79">The place of the farm should be higher than the-surrounding area so that water cannot stand and dirty water from the surrounding area cannot enter into the farm.</sent>
+				<sent id ="80">The farm should be in an open place.</sent>
+				<sent id ="81">So that sufficient light and air can enter.</sent>
+				<sent id ="82">There should be grazing land in and around the farm.</sent>
+				<sent id ="83">Different trees such as ipil- ipil, jack fruit, jhiga, mango, black berry tree etc. can be cultivated in the farm and the goat can be fed.</sent>
+				<sent id ="84">In constructing house for goats building materials like tin, asbestus, chhan, bamboo can best be used.</sent>
+				<sent id ="85">These materials are easily available.</sent>
+				<sent id ="86">If necessary these can be changed after 3-4 years.</sent>
+				<sent id ="87">But brick house can also be constructed.</sent>
+				<sent id ="88">The houses of goat farm need to be in line and south facing.</sent>
+				<sent id ="89">By this, all activities of the house like supply of food, movement and cleaning can be done in short time.</sent>
+				<sent id ="90">Care should be taken so that light and air can enter into the house and the goat can stay comfortably.</sent>
+				<sent id ="91">House for Joint Dwelling : When an arrangement is done to keep many goats in one house or room, then it is called the house for joint dwelling.</sent>
+				<sent id ="92">In such types of houses many goats are kept separately on the basis of age and production.</sent>
+				<sent id ="93">In these types of houses many goats can be reared.</sent>
+				<sent id ="94">The area of the house can be increased on the basis of the number of goats.</sent>
+				<sent id ="95">The milch goat can also be kept in joint house.</sent>
+				<sent id ="96">But they should have separate house.</sent>
+				<sent id ="97">Because in order to produce milk they should be given granular and fibrous food separately.</sent>
+				<sent id ="98">The floor of the house should be cemented and high.</sent>
+				<sent id ="99">Or a wooden or bamboo-made platform can be made.</sent>
+				<sent id ="100">Separate stalled house : The house each goat is kept in separate individual room, it is called stall house, these types of stall houses are very much suitable for milch, pregnant or goat at delivery stage.</sent>
+				<sent id ="101">In these cases necessary granular food can be given separately.</sent>
+				<sent id ="102">The he-goat stall should be far away from she-goat stall.</sent>
+				<sent id ="103">Every- stall should have facilities for air and light entrance.</sent>
+				<sent id ="104">If there are stall arrangements in both the way sides the for food supply should be in the middle of both the lines.</sent>
+				<sent id ="105">This will also help nursing.</sent>
+				<sent id ="106">The rear portion of the stall should be a bit slopy.</sent>
+				<sent id ="107">This makes drainage arrangement to remove the filth and urine easier.</sent>
+				<sent id ="108">There are arrangements for keeping pans for giving water and grass.</sent>
+				<sent id ="109">These should be cleaned every day so that germ do not grow.</sent>
+				<sent id ="110">In one side of the stall there is arrangement of keeping specially made basket to keep grass type foods.</sent>
+				<sent id ="111">The drainage system of the farm should be as such that the dung and urine of goat can easily move through the drainand store in a hole.</sent>
+				<sent id ="112">This type of hole is called Serpit The Serpit is thatched to avoid rainwater or sunshine to enter into.</sent>
+				<sent id ="113">Daily Routine Work in Farm Management Everyday the dung and urine of the stall should be cleaned between 7 to 8 a.m. and the goats are to be released in the courtyard.</sent>
+				<sent id ="114">Arrangement for conception of the she-goat is to be done at the time when she is in heat.</sent>
+				<sent id ="115">It is to be marked whether the laboures engaged for farm works have daily joined the work.</sent>
+				<sent id ="116">Milking is to be done everyday at a definite time.</sent>
+				<sent id ="117">This can be done once in everyday between 9-10 a. m.</sent>
+				<sent id ="118">The productive capacity of milk of Black Bengal breed of this region is very small and ranges from daily.</sent>
+				<sent id ="119">400 to 500 ml sometimes this milk is not sufficient for the kids.</sent>
+				<sent id ="120">But in case of highly productive goats milking can be done in the morning and in the evening.</sent>
+				<sent id ="121">In order to help the body of the goat clean it should be brushed everyday in the evening.</sent>
+				<sent id ="122">The goat is by birth sensitive to water or cold.</sent>
+				<sent id ="123">So it needs to be cleaned by brushing instead of cleaning by bathing.</sent>
+				<sent id ="124">By way of brushing lice or other parasites or dirts will be removed.</sent>
+				<sent id ="125">Every goat should be fed anthematic medicines regularly depending on their ages.</sent>
+				<sent id ="126">The feeding and water pans and other used materials should be cleaned and sundered twice in every week.</sent>
+				<sent id ="127">They should be vaccinated timely and daily health information is to be noted in the register.</sent>
+				<sent id ="128">Numbering in the ear of the goat.</sent>
+				<sent id ="129">In order to identify the goat at farm level some sort of numbers has to be inserted in its ear.</sent>
+				<sent id ="130">The goat is identified by this number and note is kept in the account book by this number.</sent>
+				<sent id ="131">The unproductive goats are to be scrutinizing and sold away.</sent>
+				<sent id ="132">Otherwise the production of the farm will be hampered.</sent>
+				<sent id ="133">In order to perform daily activities and nursing it is necessary to recruit laboures.</sent>
+				<sent id ="134">One labour will work 6-8 hours daily.</sent>
+				<sent id ="135">For rearing every 100 goats, 23 labours are required.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

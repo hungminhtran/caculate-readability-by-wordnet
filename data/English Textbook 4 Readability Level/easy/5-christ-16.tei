@@ -1,0 +1,178 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-16</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.194</idno>
+				<idno type="Number of sentences">150</idno>
+				<idno type="Number of tokens">1680</idno>
+				<idno type="Number of token types">700</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t20">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Global family and its members A group consisting of parents and children is called a family.</sent>
+				<sent id ="2">The members of the family may live together or some of the members may live far away or even abroad.</sent>
+				<sent id ="3">The word family also has a wider meaning.</sent>
+				<sent id ="4">This concept of the family has even more extended meaning.</sent>
+				<sent id ="5">The men and women originating from the same ancestors are members of the same family.</sent>
+				<sent id ="6">He Who created our first parents is called God or Allah, or Iswar.</sent>
+				<sent id ="7">By whatever name He may be called, He is One and the Same.</sent>
+				<sent id ="8">He is the Creator.</sent>
+				<sent id ="9">Our Creator is only one.</sent>
+				<sent id ="10">So it can be said that we all came from the One Creator.</sent>
+				<sent id ="11">After death all the 133Christian Religious Studies souls will go back to Him.</sent>
+				<sent id ="12">He is the Creator from Whom we all came.</sent>
+				<sent id ="13">He is our Father and He is our Mother also.</sent>
+				<sent id ="14">We all are His children.</sent>
+				<sent id ="15">So, all of us on this earth are mutually related as brothers and sisters.</sent>
+				<sent id ="16">There is only one human family across the globe.</sent>
+				<sent id ="17">We are the members of the one global family.</sent>
+				<sent id ="18">From the book of Genesis in the Bible we learned the history of how the global family started.</sent>
+				<sent id ="19">After the completing the creation of the other species, God created man on the Sixth Day.</sent>
+				<sent id ="20">The whole human race originated from the first parents.</sent>
+				<sent id ="21">Right at the beginning of creation God formed a family.</sent>
+				<sent id ="22">It was the first human family.</sent>
+				<sent id ="23">From this family all the human beings have been born gradually.</sent>
+				<sent id ="24">Their descendants have filled the world.</sent>
+				<sent id ="25">Even if we do not know each other, still we know that our ancestors are the same.</sent>
+				<sent id ="26">We all breathe the same air in order to stay alive.</sent>
+				<sent id ="27">We all move around and enjoy in the same sunlight.</sent>
+				<sent id ="28">In order to survive all eat of the produce of the same earth or soil.</sent>
+				<sent id ="29">We all need to drink the same water having oxygen and hydrogen .</sent>
+				<sent id ="30">However, in spite of being members of the same family, there are many conflicts and quarrels among us.</sent>
+				<sent id ="31">There may be in the same family quarrels among the brothers and sisters.</sent>
+				<sent id ="32">Similarly there may be problems among the members of the global family.</sent>
+				<sent id ="33">The spirit of revenge may be stronger than the spirit of love among the members of the global family.</sent>
+				<sent id ="34">Not every one can enjoy their basic human rights.</sent>
+				<sent id ="35">Many of them are deprived of their fundamental rights.</sent>
+				<sent id ="36">The majority of the members are selfish.</sent>
+				<sent id ="37">So they think of themselves only, indifferent to or unconcerned about others.</sent>
+				<sent id ="38">For this reason there is mistrust and domination.</sent>
+				<sent id ="39">Many try to be rich at the expense of the others.</sent>
+				<sent id ="40">While a few have become excessively rich while the great majority remain poor and at the starvation level.</sent>
+				<sent id ="41">Competition for power and wealth results into growing jealousy, hostility, exploitation and oppression.</sent>
+				<sent id ="42">Some States engage in hostility and war.</sent>
+				<sent id ="43">Terrorism, violence and corruption increase and spread due to man's desire for domination.</sent>
+				<sent id ="44">Justice is denied to many.</sent>
+				<sent id ="45">They do not get the share of the earth's resources that rightfully belongs to them.</sent>
+				<sent id ="46">So there is 135Christian Religious Studies injustice in the society.</sent>
+				<sent id ="47">And lack of justice means lack of peace.</sent>
+				<sent id ="48">The elderly people, women and children's dignity is not respected.</sent>
+				<sent id ="49">Those in power enjoy too many privileges.</sent>
+				<sent id ="50">* The human and moral values are eroding due to greed.</sent>
+				<sent id ="51">* People less attentive to the needs of spirituality or their need for God.</sent>
+				<sent id ="52">Injustice, restlessness conflict, hostility, thirst for revenge etc. exist all around the globe.</sent>
+				<sent id ="53">To achieve this goal, he worked relentlessly.</sent>
+				<sent id ="54">Some of his efforts are mentioned below.</sent>
+				<sent id ="55">One of the most basic principles of Pope John Paul II was: Not war but peace.</sent>
+				<sent id ="56">He believed that a war causes another war.</sent>
+				<sent id ="57">The hostility among the nations increases.</sent>
+				<sent id ="58">War cannot bring about peace; war is not a solution to any problems.</sent>
+				<sent id ="59">Rather it leads to further conflicts and bloodshed.</sent>
+				<sent id ="60">Many people, soldiers, women and children die in war.</sent>
+				<sent id ="61">Many households and properties are destroyed.</sent>
+				<sent id ="62">So whenever the Pope went to any country, he kissed the ground.</sent>
+				<sent id ="63">By doing that he wanted to show that God loves all equally.</sent>
+				<sent id ="64">Every leader of every country should have such an attitude.</sent>
+				<sent id ="65">He knew that deep down everyone wants peace.</sent>
+				<sent id ="66">So he tried to bring together all religious communities, nations and classes of people for the sake of peace.</sent>
+				<sent id ="67">He urged them to pray together.</sent>
+				<sent id ="68">He called together the leaders of the Jews, Hindus, Muslims, Buddhists, and Christians.</sent>
+				<sent id ="69">He invited all the religious leaders.</sent>
+				<sent id ="70">They gathered in 1993 in the city of Assisi in Italy.</sent>
+				<sent id ="71">They prayed together for peace.</sent>
+				<sent id ="72">All of them responded to the call of the Pope and joined the prayer.</sent>
+				<sent id ="73">That day the Pope John Paul II became very happy.</sent>
+				<sent id ="74">So he called the leaders again in 2002 to establish the peace in the different places of the world.</sent>
+				<sent id ="75">All the leaders again joined the programme this time. .</sent>
+				<sent id ="76">Beside that, Pope John Paul II strongly condemned those leaders who advocated wars.</sent>
+				<sent id ="77">For example, in 1991 Pope John Paul II condemned President Saddam and George Bush for war.</sent>
+				<sent id ="78">He wrote letters to them urging them to stop the war.</sent>
+				<sent id ="79">On 11 September 2002 when the terrorists attacked the Twin Tower in U.S.A., Pope John Paul II protested.</sent>
+				<sent id ="80">In this way he tried his best to build a family of love bringing together all people of the globe.</sent>
+				<sent id ="81">In 2003 when the U.S.A. attacked Iraq, Pope John Paul II again criticized the president of U.S.A. openly.</sent>
+				<sent id ="82">He urged him to stop the war.</sent>
+				<sent id ="83">Pope John Paul II became an intimate friend with the young and the old alike.</sent>
+				<sent id ="84">In 1981 he was shaking hands cordially with the people at St. Peter's Square.</sent>
+				<sent id ="85">Taking advantage of the situation, a man named Mehmet Ali Agsa, a citizen of Turkey shot at the Pope.</sent>
+				<sent id ="86">The bullet hit the belly of the Pope.</sent>
+				<sent id ="87">Immediately the police arrested the miscreant.</sent>
+				<sent id ="88">And the Pope was sent to a hospital.</sent>
+				<sent id ="89">Gradually he recovered and resumed his usual activities.</sent>
+				<sent id ="90">Every day he prayed for the conversion of Agsa.</sent>
+				<sent id ="91">In 1983 he went to see Agsa in the prison.</sent>
+				<sent id ="92">He pardoned him there and blessed him with his hands on his head.</sent>
+				<sent id ="93">The honorable Pope requested the heads of States not give capital punishment to Agca.</sent>
+				<sent id ="94">The leaders accepted the request of Pope and Agsa was sentenced to jail for life.</sent>
+				<sent id ="95">The people of the world became astonished to see the example of forgiveness of the Pope.</sent>
+				<sent id ="96">Why did Pope John Paul II forgive Ali Agsa?</sent>
+				<sent id ="97">Because he knew that through forgiveness one can be converted.</sent>
+				<sent id ="98">Through forgiveness all can live together.</sent>
+				<sent id ="99">As Jesus forgave His enemies, Pope forgave his enemy in the same way.</sent>
+				<sent id ="100">He wanted people to know that forgiveness is necessary for living together in peace.</sent>
+				<sent id ="101">Forgiveness is a proof of the love for each other.</sent>
+				<sent id ="102">Pope John Paul II was Pope for 26 years.</sent>
+				<sent id ="103">During his pontificate 104 times he visited many different places of the world.</sent>
+				<sent id ="104">He visited over 142 countries and attended many programs.</sent>
+				<sent id ="105">The motive of his journey was to establish brotherhood among the people of the world.</sent>
+				<sent id ="106">He wanted to make the people know that God loves everybody.</sent>
+				<sent id ="107">As a man of God he also loves all.</sent>
+				<sent id ="108">For this reason he would kiss the ground of every country where he landed.</sent>
+				<sent id ="109">Through this type of efforts he was able to establish a good relation among the nations.</sent>
+				<sent id ="110">In order to make the global family a place of joy and happiness it should have some characteristics.</sent>
+				<sent id ="111">But how do we acquire those qualities?</sent>
+				<sent id ="112">We have to learn those in a small family of our own.</sent>
+				<sent id ="113">A family is the most important primary school.</sent>
+				<sent id ="114">While growing up in a family we acquire many necessary virtues.</sent>
+				<sent id ="115">Those who learn to be responsible in the family, also learn to carry out the responsibilities in the global family.</sent>
+				<sent id ="116">Every political or religious leader comes from a family.</sent>
+				<sent id ="117">We see many leaders helping other countries.</sent>
+				<sent id ="118">They have learnt it from their families.</sent>
+				<sent id ="119">As members of the global family we hope that the leaders of every country will help other countries in need.</sent>
+				<sent id ="120">They can help each other in terms of food, clothing, housing, education, health, culture, security and so on.</sent>
+				<sent id ="121">Through mutual cooperation the people of all countries can grow up together.</sent>
+				<sent id ="122">We can find many instances of cooperation everywhere.</sent>
+				<sent id ="123">Obviously we have heard about tsunami through the communication media like television, radio and newspapers.</sent>
+				<sent id ="124">This devastating natural calamity affected Indonesia, Sri Lanka, India and some other countries on 26 December.</sent>
+				<sent id ="125">At the bottom of the sea a violent earthquake caused vibration in the water.</sent>
+				<sent id ="126">The water level rose very high and the mountain high waves rolled over the villages and towns.</sent>
+				<sent id ="127">That water flooded the shores affecting animals, households and all other domestic things.</sent>
+				<sent id ="128">Thousands of people died.</sent>
+				<sent id ="129">Many people were wounded.</sent>
+				<sent id ="130">They lost their lives, wealth and mental health.</sent>
+				<sent id ="131">They came to help them as their own brothers and sisters.</sent>
+				<sent id ="132">Those who could not go there physically, prayed for the relief of their suffering.</sent>
+				<sent id ="133">Through these activities the unity and brotherhood of the global family was expressed and strengthened.</sent>
+				<sent id ="134">The responsibilities and duties of the members of the global family.</sent>
+				<sent id ="135">We love our heavenly Father; all men and women of the globe are His children.</sent>
+				<sent id ="136">So we are mutually brothers and sisters.</sent>
+				<sent id ="137">Therefore, we have some responsibilities towards one another.</sent>
+				<sent id ="138">Some of the ways in which we can carry out our responsibilities are stated below:</sent>
+				<sent id ="139">a) By loving human beings and believing in his/her dignity.</sent>
+				<sent id ="140">b) By respecting our parents and leaders.</sent>
+				<sent id ="141">c) By doing work together with the young and the old.</sent>
+				<sent id ="142">d) By being responsible, obedient and respectful to the family, society and country.</sent>
+				<sent id ="143">e) By showing respect to man and following good ideals.</sent>
+				<sent id ="144">f) By praying regularly.</sent>
+				<sent id ="145">g) By acquiring good qualities.</sent>
+				<sent id ="146">h) By avoiding bad habits.</sent>
+				<sent id ="147">i) By leading an honest life.</sent>
+				<sent id ="148">j) By doing hard work.</sent>
+				<sent id ="149">k) By following the teaching and the example of Jesus.</sent>
+				<sent id ="150">l) By taking part in social and religious activities.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

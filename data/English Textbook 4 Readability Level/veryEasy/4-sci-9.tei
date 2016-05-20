@@ -1,0 +1,110 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-sci-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:55.444</idno>
+				<idno type="Number of sentences">82</idno>
+				<idno type="Number of tokens">785</idno>
+				<idno type="Number of token types">372</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t85">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Mosquitoes, flies, ants, silkworms, bees, cockroaches etc. are insects.</sent>
+				<sent id ="2">We get silk from the cocoons of silkworms.</sent>
+				<sent id ="3">We collect honey from beehives.</sent>
+				<sent id ="4">These are useful insects.</sent>
+				<sent id ="5">Insects like mosquitoes, flies and cockroaches spread diseases.</sent>
+				<sent id ="6">These are harmful insects.</sent>
+				<sent id ="7">These insects breed in unhealthy and dirty environments.</sent>
+				<sent id ="8">They cannot survive in clean environments.</sent>
+				<sent id ="9">Now let us know about the breeding grounds of these harmful insects.</sent>
+				<sent id ="10">It will help us to prevent them from breeding.</sent>
+				<sent id ="11">The mosquito is a very common harmful insect.</sent>
+				<sent id ="12">There are many marshlands and swamps in Bangladesh.</sent>
+				<sent id ="13">That is why we are disturbed by mosquitoes so much.</sent>
+				<sent id ="14">The buzzing sound of their wings makes us aware of their presence at night.</sent>
+				<sent id ="15">Mosquitoes stick their needle-like probosces into our bodies and suck our blood.</sent>
+				<sent id ="16">This is what we call mosquito bites.</sent>
+				<sent id ="17">There are three types of mosquitoes in our country.</sent>
+				<sent id ="18">Male anopheles mosquitoes cannot bear germs of malaria.</sent>
+				<sent id ="19">They cannot even suck human blood.</sent>
+				<sent id ="20">They live on the juices of leaves and fruits.</sent>
+				<sent id ="21">Female anopheles mosquitoes are the vectors of malarial germs.</sent>
+				<sent id ="22">When the number of germs becomes sufficiently high, then the symptom of malaria is reveabl.</sent>
+				<sent id ="23">The body of the patient begins to shiver with cold, and a high fever occurs.</sent>
+				<sent id ="24">Severe aches occur in the head and all over the body.</sent>
+				<sent id ="25">Fever occurs intermittently.</sent>
+				<sent id ="26">Culex mosquitoes spread germs of elephantiasis.</sent>
+				<sent id ="27">In our country there had not been any violent outbreaks of dengue until recent years.</sent>
+				<sent id ="28">Female aedis mosquitoes are vectors of dengue.</sent>
+				<sent id ="29">Aedis mosquitoes have white dots on their bodies.</sent>
+				<sent id ="30">These mosquitoes can be identified at close proximity.</sent>
+				<sent id ="31">Dengue causes body temperature to rise severely.</sent>
+				<sent id ="32">Bleeding occurs from eyes, tongue, gums and other parts of the body.</sent>
+				<sent id ="33">This disease reduces the number of platelets in bloodstream.</sent>
+				<sent id ="34">Identify the breeding grounds of mosquitoes in your surroundings.</sent>
+				<sent id ="35">In which season do mosquitoes pester the most?</sent>
+				<sent id ="36">When are they less prevalent?</sent>
+				<sent id ="37">They lay eggs in stagnant water.</sent>
+				<sent id ="38">However, aedis mosquitoes lay their eggs in such water only if it is clear.</sent>
+				<sent id ="39">Mosquito larvae hatch from the eggs.</sent>
+				<sent id ="40">Take a close look, and you will find the larvae swimming in the water.</sent>
+				<sent id ="41">If you cannot identify these mosquitoes, ask your teachers or elders for help.</sent>
+				<sent id ="42">Now try to find mosquito-larva in springs, rivers or in the clear water of ponds.</sent>
+				<sent id ="43">Can you find any larvae there?</sent>
+				<sent id ="44">What is the reason behind this?</sent>
+				<sent id ="45">You know that mosquitoes lay their eggs in stagnant and dirty water.</sent>
+				<sent id ="46">They do not lay eggs in flowing or clean water.</sent>
+				<sent id ="47">To prevent the breeding of any animal, we need to destroy its breeding grounds.</sent>
+				<sent id ="48">So we must first make sure that there is no stagnant water in our surroundings.</sent>
+				<sent id ="49">But be careful, and never do this by yourselves.</sent>
+				<sent id ="50">This should be carefully done only by adults.</sent>
+				<sent id ="51">Drains of houses must be kept clean.</sent>
+				<sent id ="52">Mosquitoes hide in the bushes during daytime.</sent>
+				<sent id ="53">So we need to clear bushes from the immediate vicinity of our houses.</sent>
+				<sent id ="54">We must practise sleeping under mosquito nets in order to be protected from mosquitoes.</sent>
+				<sent id ="55">Flies are one of the most harmful insects.</sent>
+				<sent id ="56">In summer flies are seen flying around rotten and stale food, garbage and ripe fruits.</sent>
+				<sent id ="57">Every year thousands of people die in our country from diarrhoea, cholera, dysentery etc.</sent>
+				<sent id ="58">Flies are vectors of these diseases.</sent>
+				<sent id ="59">They carry germs on their wings and legs.</sent>
+				<sent id ="60">Flies are great enemies to us.</sent>
+				<sent id ="61">They also carry germs of tuberculosis and typhoid.</sent>
+				<sent id ="62">They are found flying around mostly during the day.</sent>
+				<sent id ="63">Flies generally live on human excrement, vomit, faeces of animals, rotten and decomposed garbage etc.</sent>
+				<sent id ="64">They vomit and defecate repeatedly while they feed on.</sent>
+				<sent id ="65">You have learnt that flies are vectors of a lot of diseases.</sent>
+				<sent id ="66">Newly-born flies hatch from those eggs and grow up.</sent>
+				<sent id ="67">They do not have wings or legs.</sent>
+				<sent id ="68">They move like worms and remain within shells.</sent>
+				<sent id ="69">They finally turn into adult flies.</sent>
+				<sent id ="70">Adult flies have wings and legs, and they can fly.</sent>
+				<sent id ="71">If we can destroy habitats of flies, we can prevent them from breeding.</sent>
+				<sent id ="72">In order to do this, we need to keep our houses clean.</sent>
+				<sent id ="73">We must not throw away rotten or stale food, garbage, excreta etc. in open places.</sent>
+				<sent id ="74">In urban areas we must dispose of garbage in dustbins.</sent>
+				<sent id ="75">Besides, it will prevent flies from laying eggs in the garbage.</sent>
+				<sent id ="76">We need to spray phenyl or insecticides on the breeding grounds of flies.</sent>
+				<sent id ="77">So now we know how to destroy the habitats and breeding grounds of flies.</sent>
+				<sent id ="78">We must keep our houses and the surroundings clean.</sent>
+				<sent id ="79">We must keep the drains clean and regularly spray phenyl or DDT into the drains.</sent>
+				<sent id ="80">We must not defecate or urinate in open places.</sent>
+				<sent id ="81">We must not eat rotten or stale food.</sent>
+				<sent id ="82">Cockroaches, bedbugs, lice etc. spread diseases.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

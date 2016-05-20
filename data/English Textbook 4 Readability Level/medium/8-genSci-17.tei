@@ -1,0 +1,137 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-17</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:01.978</idno>
+				<idno type="Number of sentences">109</idno>
+				<idno type="Number of tokens">1495</idno>
+				<idno type="Number of token types">618</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t132">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We see various types of plants in the environment around us;</sent>
+				<sent id ="2">some of these plants produce flowers and fruits and some do not.</sent>
+				<sent id ="3">Again some plants live for one or two years while the others survive for many years and provide us with shade, flowers and fruits.</sent>
+				<sent id ="4">Besides, there are some plants which have soft stems and some others have large and hard stems.</sent>
+				<sent id ="5">In addition, some plants are autotrophic, parasitic and saprophytic.</sent>
+				<sent id ="6">We have learnt about such classifications of plants in the previous class.</sent>
+				<sent id ="7">In this class, we shall study the classification of plants based on their environment.</sent>
+				<sent id ="8">The environment of plants growing at a particular place consists of soil, water, wind, sunlight, and other living materials around them.</sent>
+				<sent id ="9">Different plants grow under different environmental conditions.</sent>
+				<sent id ="10">The plants that grow in water can not survive in land.</sent>
+				<sent id ="11">Again plants growing in deserts are not able to grow in aquatic habitats.</sent>
+				<sent id ="12">All land plants can not grow in saline soil or water.</sent>
+				<sent id ="13">Botanists have divided plants into four classes on the basis of the availability of water and salinity prevailing in their habitat.</sent>
+				<sent id ="14">Hydrophytes: Plants which grow in water or places having water are known as hydrophytes.</sent>
+				<sent id ="15">Such aquatic plants grow abundantly in rivers, canals, lakes, ditches, ponds, and other aquatic habitats.</sent>
+				<sent id ="16">Free Floating : The floating plants which freely float on the water surface are known as free floating hydrophytes.</sent>
+				<sent id ="17">They are almost devoid of roots.</sent>
+				<sent id ="18">Some foaling plants possess floating roots but there is no root hair in them.</sent>
+				<sent id ="19">Instead of root hair, root pockets are found in them.</sent>
+				<sent id ="20">The upper surface of leaf is provided with waxy coating and stomata.</sent>
+				<sent id ="21">Examples of free floating hydrophytes are: Lemna, Eichhornia, Wolffia, Singara, Agolla etc.</sent>
+				<sent id ="22">Rooted floating hydrophytes: Plants with floating leaves and flowers and with roots embedded in underwater-mud are regarded as rooted floating hydrophytes.</sent>
+				<sent id ="23">Water lily, lotus, Euryale (Makhna) etc (Fig. 17.2) are examples of such hydrophytes..</sent>
+				<sent id ="24">They can float even on the deep water surface because of the presence of long petioles.</sent>
+				<sent id ="25">Adaptations of plants: Naturally each plant survives and reproduces in its own environment.</sent>
+				<sent id ="26">If this environment is changed due to some reasons, the plants also undergo changes in their nature and physical structure.</sent>
+				<sent id ="27">Adjustment of the plants with the new environment in this way is regarded as adaptation of plants.</sent>
+				<sent id ="28">Adaptations of aquatic plants : Adaptations of aquatic plants may take place in many ways.</sent>
+				<sent id ="29">Submerged hydrophytes: Plants which always remain under water are termed as submerged hydrophytes.</sent>
+				<sent id ="30">Plants such as Vallisneria, (Patashaola) Hydrilla, Potamogeton (Patajhajhi) etc belong to this type.</sent>
+				<sent id ="31">The stems of such plants are very soft, weak, slender and green.</sent>
+				<sent id ="32">Amphibious hydrophytes: Plants which grow partly in water and partly on land are known as amphibious hydrophytes.</sent>
+				<sent id ="33">These plants grow by the side of water bodies but extend their stem long distance up to the water surface.</sent>
+				<sent id ="34">Examples of amphibious hydrophytes may well include Jussia (Keshardam), Ipomoea (kalmisak) Enhydra (helencha) etc. body because of the presence of epidermis with thin covering.</sent>
+				<sent id ="35">For this reason these plants do not require well developed root hair.</sent>
+				<sent id ="36">These plants can adjust with water current and movement of aquatic animals owing to the presence of wavy, thin, soft and slender stems.</sent>
+				<sent id ="37">If the stems were hard, they would break easily.</sent>
+				<sent id ="38">Since aquatic plants can absorb water through the entire epidermis, importance of water conducting tissue is comparatively less.</sent>
+				<sent id ="39">In aquatic plants pollination generally occurs through water.</sent>
+				<sent id ="40">As a result fertilization is not ensured and sexual reproduction is hindered.</sent>
+				<sent id ="41">That is why, in most cases, aquatic plants act upon their reproduction vegetatively.</sent>
+				<sent id ="42">Xerophytic plants are adapted to special features for preservation and easy intake of water, limited use of preserved water and prevention of water loss.</sent>
+				<sent id ="43">Since xerophytic plants get little amount of water, they become small and bushy.</sent>
+				<sent id ="44">Leaves and stems of xrophytes are succulent due to storage of water.</sent>
+				<sent id ="45">Their tap root becomes very long because it has to collect water from deep under ground.</sent>
+				<sent id ="46">For easy absorption of water and mineral salts their dwarf branch roots remain wide spread with innumerable long root hair.</sent>
+				<sent id ="47">Stems become flat, leaf-like and green.</sent>
+				<sent id ="48">The epidermis of leaf is provided with thick-cuticle or thin waxy coating.</sent>
+				<sent id ="49">With little rainfall germination takes place and plants can produce flowers and fruits in short time.</sent>
+				<sent id ="50">Cells become small and are provided with thick walls so that they are not destroyed during extreme drought.</sent>
+				<sent id ="51">Mechanical tissues of xerophytes are highly developed so that they do not wilt during dry season.</sent>
+				<sent id ="52">Halophytes: Plants that grow in saline soil are called halophytes.</sent>
+				<sent id ="53">Keora, Sundari, Gewa, Goran.</sent>
+				<sent id ="54">Golpata, Pashur, Bora, Hindal etc are examples of halophytes.</sent>
+				<sent id ="55">All types of plants do not grow in saline soil.</sent>
+				<sent id ="56">Those plants which can adjust with saline soil and water, can grow in habitat.</sent>
+				<sent id ="57">Plants growing in the Sundarbans of our country are halophytes.</sent>
+				<sent id ="58">The halophytes in the tidal regions are called Mangrove plants.</sent>
+				<sent id ="59">Sundari, Gewa, Goran are mangrove plants.</sent>
+				<sent id ="60">They have some features which are not found in other plants.</sent>
+				<sent id ="61">In halophytes stems and le.aves are succulent and often modified to thorns or spines.</sent>
+				<sent id ="62">Plants develop stilt roots and prop roots so that they do not slant or lose ground because of tidal water.</sent>
+				<sent id ="63">Germination takes placer when the fruits remain attached with the plants.</sent>
+				<sent id ="64">This type of germination is called viviparous germination.</sent>
+				<sent id ="65">Roots and their branches are long and they spread up to a long distance just below the soil surface.</sent>
+				<sent id ="66">But the pneumatophores or breathing roots vertically come above the soil surface for easy exchange of gases.</sent>
+				<sent id ="67">Due to the presence of greater amount of salt in the cells the plants can absorb saline water.</sent>
+				<sent id ="68">Plants face difficulty in absorbing water from saline soil.</sent>
+				<sent id ="69">The degree of salinity reduces during sufficient rainfall.</sent>
+				<sent id ="70">At that time these plants store water in their cells.</sent>
+				<sent id ="71">As a result of which their cells, leaves, stems and roots remain succulent.</sent>
+				<sent id ="72">Everyday mangrove plants become regularly submerged during tidal bore.</sent>
+				<sent id ="73">Because of this phenomenon, prop roots and stilt roots develop from the stems and firmly attach the plants with soil.</sent>
+				<sent id ="74">As a result, the plants are not washed off by tidal water.</sent>
+				<sent id ="75">In these plants exchange of gases is obstructed because of water logging in soil.</sent>
+				<sent id ="76">To overcome this difficulty the pneumatophores or breathing roots develop in such plants.</sent>
+				<sent id ="77">These roots perform the exchange of gases coming as they come over the water surface.</sent>
+				<sent id ="78">Besides, there are large air cavities in these pneumatophores, which remain filled with oxygen.</sent>
+				<sent id ="79">Germination of seeds is impeded in saline soil.</sent>
+				<sent id ="80">Even if germination takes place, the seeds cease to live because of salinity.</sent>
+				<sent id ="81">To overcome this barrier, viviparous germination starts when the fruits remain attached to the branches.</sent>
+				<sent id ="82">As soon as the fruit falls on ground, its roots get fixed in the mud.</sent>
+				<sent id ="83">As a result, they do not float away by tidal waves.</sent>
+				<sent id ="84">To avoid the adverse effects of salinity, the branch roots of these plants are spread along the upper layer of the soil.</sent>
+				<sent id ="85">As a result they can easily exchange gases in the atmosphere.</sent>
+				<sent id ="86">Innumerable living and non-living objects of various types are found around us.</sent>
+				<sent id ="87">When various types of living organisms collectively exist in a place, an ecosystem develops among them.</sent>
+				<sent id ="88">For the survival of living organisms at a particular place or locality different relationships grow among living and non- living objects.</sent>
+				<sent id ="89">Development of such close relationship among living and non-living objects under a certain environment is known as ecosystem.</sent>
+				<sent id ="90">An ideal example of aquatic ecosystem is a small pond.</sent>
+				<sent id ="91">The close relationship among the living and non-living objects present in the pond may be clearly observed and easily understood.</sent>
+				<sent id ="92">The ecosystem of a pond is described below:</sent>
+				<sent id ="93">Abiotic component: These include water, dissolved oxygen, carbon dioxide, different inorganic salts etc.</sent>
+				<sent id ="94">The affectivity of ecosystem of a pond depends on how the biological components utilize these abiotic components.</sent>
+				<sent id ="95">Consumer: Aquatic insects, larvae, fishes, snails, shell fishes, stork, kite, etc are the consumers in this ecosystem.</sent>
+				<sent id ="96">Primary consumer: All animals which consume plants are known as primary consumers.</sent>
+				<sent id ="97">Examples-minute floating insects, larvae of mosquitoes, earthworms, zooplankton etc.</sent>
+				<sent id ="98">Secondary consumer: Animals which consume primary consumers are known as secondary consumers, such as-small fish, frog, other aquatic animals etc.</sent>
+				<sent id ="99">Tertiary consumer: Animals which feed on secondary consumers are called tertiary consumers.</sent>
+				<sent id ="100">Big fish, stork, kite, otter (Udbiral), hawk, eagle, water-fowl-all are tertiary consumers.</sent>
+				<sent id ="101">The decomposed inorganic substances and salts are again used by consumers as a natural process.</sent>
+				<sent id ="102">How does ecosystem maintain the balance of nature?</sent>
+				<sent id ="103">Ecosystem is a self sufficient unit and it is a one-way phenomenon.</sent>
+				<sent id ="104">The energy from the source flows towards the producers.</sent>
+				<sent id ="105">From producer it goes to consumer and from the consumer's body the energy is released in nature.</sent>
+				<sent id ="106">As a result of ecosystem balance is maintained in nature.</sent>
+				<sent id ="107">That is one living being binds another in the food chain because of this process.</sent>
+				<sent id ="108">Oneliving organism cannot get increased in number, nor can it become extinct.</sent>
+				<sent id ="109">Consequently, the number of living organisms remains constant in nature;</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

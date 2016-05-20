@@ -1,0 +1,117 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-homeEco-12</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.67</idno>
+				<idno type="Number of sentences">89</idno>
+				<idno type="Number of tokens">1176</idno>
+				<idno type="Number of token types">457</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t161">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Cleanliness of the cook at the time of cooking is very important.</sent>
+				<sent id ="2">The quality of food depends on the personal cleanliness of the cook and the clean cooking environment.</sent>
+				<sent id ="3">Even the most palatable and attractive food, if not prepared in a clean environment, does not bring any satisfaction.</sent>
+				<sent id ="4">On the other hand cook's personal cleanliness, clear environment of kitchen and serving process attract people to eat.</sent>
+				<sent id ="5">Hand should be washed with soap before entering into kitchen.</sent>
+				<sent id ="6">If the nails are long, the get dirty.</sent>
+				<sent id ="7">Those germs can reach food during cooking and enter into our body.</sent>
+				<sent id ="8">So nail of the cook should be cut.</sent>
+				<sent id ="9">If there is scabies or skin diseases on hands germs can easily contaminate the food.</sent>
+				<sent id ="10">In these circumstances cooking or serving food should not be done.</sent>
+				<sent id ="11">Being Cured of diseases after treatment, a cook should start cooking.</sent>
+				<sent id ="12">Many cooks have a habit of cooking food by reading recipe or books.</sent>
+				<sent id ="13">Some of the cooks turn pages of books by touching spits of mouth and touch the food without washing the hand.</sent>
+				<sent id ="14">So germs can contaminate the food.</sent>
+				<sent id ="15">In this case hands must be washed.</sent>
+				<sent id ="16">It is good to use gloves for cooking.</sent>
+				<sent id ="17">Hair of the cook should be put up tightly.</sent>
+				<sent id ="18">If the hair is open it can fall on the food, or fire can catch the hair due to carelessness.</sent>
+				<sent id ="19">Hair should be plated with ribbon or put up in a bun.</sent>
+				<sent id ="20">We should be careful about clothes of the cook.</sent>
+				<sent id ="21">The dress should be tight fitting.</sent>
+				<sent id ="22">Loose and slovenly dress can create problem.</sent>
+				<sent id ="23">The Orna or Anchal of saree should be tightened on the waist.</sent>
+				<sent id ="24">It is common to catch fire from orna or anchal of saree.</sent>
+				<sent id ="25">Whatever the dress is, it should be clean.</sent>
+				<sent id ="26">Germs can enter into the food from dirty cloths.</sent>
+				<sent id ="27">Many of them have the habit of wiping hand on clothes.</sent>
+				<sent id ="28">So that the clothes become oily and dirty.</sent>
+				<sent id ="29">Again the dirt of the cloth makes the hand dirty and makes food dirty too.</sent>
+				<sent id ="30">A clean cloth or clean towel should be there for wiping hands.</sent>
+				<sent id ="31">Many of them use apron while cooking.</sent>
+				<sent id ="32">It is a good habit, so that the dress remains tight and can not become dirty with oil and spices.</sent>
+				<sent id ="33">Safety rules should be followed during building of a kitchen or selection of utensils because in kitchen many kinds of accidents take place.</sent>
+				<sent id ="34">Many of us think that kitchen should be small or of any kind.</sent>
+				<sent id ="35">While working in the kitchen one must be careful.</sent>
+				<sent id ="36">Otherwise the following accidents can take place in kitchen due to carelessness.</sent>
+				<sent id ="37">Burn injury can occur due to carelessness.</sent>
+				<sent id ="38">Burning may occur in two ways.</sent>
+				<sent id ="39">The fire also spreads to the other portion of the house and other persons may be burnt and their wealth may be destroyed.</sent>
+				<sent id ="40">Fire spreads from the burner to the anchol of saree, orna, or ribbon of hair due to carelessness.</sent>
+				<sent id ="41">Some times these may lead to death if the fire goes beyond control.</sent>
+				<sent id ="42">The leakage of gas burner or torn electric wire of electric burner may cause fire if not put off properly after cooking.</sent>
+				<sent id ="43">There may be a possibility of catching fire from straw, leaf, wood which kept near the burner.</sent>
+				<sent id ="44">The other causes of burning is hot liquid like milk, water etc.</sent>
+				<sent id ="45">Boiling rice, a curry may fall on different parts of body due to slipping from hand.</sent>
+				<sent id ="46">When fish, curry, cabab, chop, singara are put into hot oil for frying, it may sprinkle oil.</sent>
+				<sent id ="47">To avoid these accidents a cook can follow the following precautions.</sent>
+				<sent id ="48">After lighting the burner, the match stick should be kept in specific place.</sent>
+				<sent id ="49">After finishing cooking the burning wood should be put out.</sent>
+				<sent id ="50">Wood, straw, leaf, husk of paddy which is used for burning material should be kept away from the burner.</sent>
+				<sent id ="51">To put out the fire some ash, sand or water should be preserved near to burner.</sent>
+				<sent id ="52">If there is any leakage in the gas burner it should be sealed.</sent>
+				<sent id ="53">Never touch the electric wire or switch with wet hand.</sent>
+				<sent id ="54">It may cause electric shock.</sent>
+				<sent id ="55">Torn electrical wire is to be repaired immediately.</sent>
+				<sent id ="56">Stored gas in closed room causes the fire when a match stick is lighted.</sent>
+				<sent id ="57">To take off the hot pot from the burner or for some heat proof material can be used.</sent>
+				<sent id ="58">Cotton pad or iron handle can be used for this purpose.</sent>
+				<sent id ="59">While food staff is put on hot oil it is to be ensured that there is no water in the food.</sent>
+				<sent id ="60">Put the food staff slowly so that it touches the fry pan and hot oil will not sprinkle on your body.</sent>
+				<sent id ="61">If fire catches, do not throw water on it or do not try to put down the pot.</sent>
+				<sent id ="62">In this case burner should be put out or covered with a lid.</sent>
+				<sent id ="63">Cut injury and precaution: The other injury in the kitchen is cut injury.</sent>
+				<sent id ="64">If sharp instrument like dao boti, knives are kept in proper place, these may cause cut injury.</sent>
+				<sent id ="65">While cutting food stuff one can be injured.</sent>
+				<sent id ="66">Some time broken glass, rusted tin, broken plastic lid, aluminium or other broken pot also cause the cut injury.</sent>
+				<sent id ="67">In the village, sharp wood, broken fence or wire injure people.</sent>
+				<sent id ="68">So to avoid this injury a cook should follow the following directions.</sent>
+				<sent id ="69">Cutting instrument should be kept in safe place immediately after the cooking is finished.</sent>
+				<sent id ="70">The drawer should be kept in a higher place out of children reach.</sent>
+				<sent id ="71">Instruments should be sharp enough for cutting.</sent>
+				<sent id ="72">Wood and heavy knife or dao should be used instead of boti for cutting heavy stuff like bones of the meat.</sent>
+				<sent id ="73">Broken utensils should not be used for cooking.</sent>
+				<sent id ="74">Useless stuff should be thrown away from the kitchen.</sent>
+				<sent id ="75">If there is space for walk in the kitchen less accident is occurred.</sent>
+				<sent id ="76">The place of cutting should have sufficient light.</sent>
+				<sent id ="77">Broken glass pieces should not be cleaned by hands.</sent>
+				<sent id ="78">It should be swept away by broom or board or paper.</sent>
+				<sent id ="79">If the utensils are not arranged properly rather scattered here and there, that may cause slipping too.</sent>
+				<sent id ="80">If there is high door sill on the door of the kitchen made of wood or cement, there will be possibility of falling.</sent>
+				<sent id ="81">If proper precaution is taken, this type of injury can be avoided so a cook should take the following precautions.</sent>
+				<sent id ="82">Whatever the kitchen floor is paved or unpaved, attempt should be made to keep it dry and clean.</sent>
+				<sent id ="83">If oil or fluid of boiled rice fall on the kitchen floor, it should be cleaned immediately.</sent>
+				<sent id ="84">Otherwise the kitchen floor may become slippery.</sent>
+				<sent id ="85">After every eight ten days, kitchen should be cleaned with vim, warm water and brass, so that the kitchen does not become slippery.</sent>
+				<sent id ="86">If there is a separate basin for washing utensils in the kitchen it reduces the possibility of accident.</sent>
+				<sent id ="87">To avoid any accident the perfect way is that the possible causes should be known and the precautions should be taken.</sent>
+				<sent id ="88">Remember that simple carelessness causes serious harm.</sent>
+				<sent id ="89">Only the keep eye of the cook can protect it.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

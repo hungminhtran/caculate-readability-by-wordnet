@@ -1,0 +1,129 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>5-christ-17</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:56.216</idno>
+				<idno type="Number of sentences">101</idno>
+				<idno type="Number of tokens">1238</idno>
+				<idno type="Number of token types">540</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t21">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">We are the people of an independent country.</sent>
+				<sent id ="2">The name of our country is Bangladesh.</sent>
+				<sent id ="3">We are all Bangladeshis.</sent>
+				<sent id ="4">People of different religions live in this country.</sent>
+				<sent id ="5">There are some Christians in Bangladesh.</sent>
+				<sent id ="6">They are very few in number.</sent>
+				<sent id ="7">But their contribution in building up the nation is considerable.</sent>
+				<sent id ="8">Christians living in any country respond to the needs of the people in any country of the world.</sent>
+				<sent id ="9">Sometimes people wish to when or how long ago Christianity came to this country.</sent>
+				<sent id ="10">What was the condition of this country like when they came?</sent>
+				<sent id ="11">What kind of services do the Christians render to the society?</sent>
+				<sent id ="12">When Christianity came to our country it was one country with the present India, Pakistan and Myanmar.</sent>
+				<sent id ="13">The present Bangladesh was then called East Bengal.</sent>
+				<sent id ="14">The missionaries also came with these Portuguese traders.</sent>
+				<sent id ="15">The basic objective of those missionaries was to assist the Portuguese in the practice of religion.</sent>
+				<sent id ="16">But during their free time they also began to preach religion to the people of this country.</sent>
+				<sent id ="17">Among them were the Franciscans, the Dominicans, the Augustinians and the Jesuits.</sent>
+				<sent id ="18">They established churches in different places and preached religion.</sent>
+				<sent id ="19">From the very beginning the Christian preachers labored very hard in this country.</sent>
+				<sent id ="20">The people were very poor and backward.</sent>
+				<sent id ="21">They led their lives with much hardship.</sent>
+				<sent id ="22">They depended solely on agriculture.</sent>
+				<sent id ="23">Crops were damaged by natural calamity practically every year.</sent>
+				<sent id ="24">Their houses were separated from one another by long distances.</sent>
+				<sent id ="25">There were no roads to move from one place to another.</sent>
+				<sent id ="26">All around there were forests and jungles.</sent>
+				<sent id ="27">These were infested with ferocious animals.</sent>
+				<sent id ="28">Cholera, pox, malaria, dysentery and typhoid were widespread.</sent>
+				<sent id ="29">Innumerable people died due to lack of medical facilities.</sent>
+				<sent id ="30">Besides, storms and tornados were almost regular occurrences which caused damage to houses of the poor people.</sent>
+				<sent id ="31">It was very difficult to travel by water-ways.</sent>
+				<sent id ="32">Innumerable people died every year in capsize of boats.</sent>
+				<sent id ="33">Those who lived on the banks of the rivers and seas had to live always in fear of pirates.</sent>
+				<sent id ="34">In spite of all these adversities the Christian missionaries worked very hard.</sent>
+				<sent id ="35">It is difficult for us to imagine how the missionaries survived and carried on their activities.</sent>
+				<sent id ="36">At present we are blessed with different kinds of modern technologies.</sent>
+				<sent id ="37">We can surmise that the natural calamities in those days were very severe.</sent>
+				<sent id ="38">In this unfavorable condition it was very hard for the missionaries to preach the messages of Jesus.</sent>
+				<sent id ="39">So the Portuguese missionaries left the country.</sent>
+				<sent id ="40">The Religious Orders that came also did not stay for long.</sent>
+				<sent id ="41">There were only two or three priests to look after the Christians spread out in a vast region.</sent>
+				<sent id ="42">So the Pope proposed to the Congregation of Holy Cross to come to this country.</sent>
+				<sent id ="43">There were priests, Brothers and Sisters in the Congregation of Cross.</sent>
+				<sent id ="44">They came to this country in They have been preaching the messages of Jesus in this country since then.</sent>
+				<sent id ="45">Side by side they founded and administered many schools and health-care centers.</sent>
+				<sent id ="46">Originally they worked in all the areas of Dhaka Diocese and in Chittagong, Barisal and Mymensingh.</sent>
+				<sent id ="47">Congregations of local Sisters are also working in different places of the country.</sent>
+				<sent id ="48">Among them the SMRA Sisters, the Shanti Rani Sisters, and the LHC Sisters are the main.</sent>
+				<sent id ="49">The missionaries consider the preaching of the message of Jesus as their first duty.</sent>
+				<sent id ="50">Therefore, like Jesus they were distressed to see so much suffering.</sent>
+				<sent id ="51">They tried to alleviate this suffering as much as they could.</sent>
+				<sent id ="52">Why did they have to engage in these works?</sent>
+				<sent id ="53">They did it because Jesus said that when we feed the hungry, we actually feed him.</sent>
+				<sent id ="54">When we give shelter to the homeless, we actually give it to him.</sent>
+				<sent id ="55">When we take care of the sick, we actually take care of him.</sent>
+				<sent id ="56">The missionaries made practical application of those messages of Jesus which they preached to the people.</sent>
+				<sent id ="57">The missionaries believed that their preaching had no value without the practical applications of Jesus message.</sent>
+				<sent id ="58">So they placed much emphasis on education, health-care, economic, social and cultural development.</sent>
+				<sent id ="59">The natural calamities destroyed many things every year.</sent>
+				<sent id ="60">So they took it as a challenge to face this situation.</sent>
+				<sent id ="61">The Christian community placed great emphasis on education in Bangladesh.</sent>
+				<sent id ="62">These educational institutions were started by the Christian community.</sent>
+				<sent id ="63">The main objective of the educational institutions run by the Christians is to promote overall development of each student.</sent>
+				<sent id ="64">That is to say, those who study here will become honest men and women committed to the truth and justice.</sent>
+				<sent id ="65">Their personality will become attractive.</sent>
+				<sent id ="66">People will know them as persons of integrity.</sent>
+				<sent id ="67">All, irrespective of race, religion or color, get the opportunity to study in these institutions.</sent>
+				<sent id ="68">To train and form the students to be honest persons.</sent>
+				<sent id ="69">They teach them to be tolerant, methodical, hardworking, 151Christian Religious Studies preserving, cooperative, upright, just, benevolent, responsible, self-respecting and forgiving.</sent>
+				<sent id ="70">To make everyone a good citizen so that he can dedicate his life for the welfare of the nation.</sent>
+				<sent id ="71">Every effort is made to help the students acquire the above- mentioned qualities in all the Church-run educational institutions.</sent>
+				<sent id ="72">They will help build a prosperous and developed Bangladesh.</sent>
+				<sent id ="73">Three out of one thousand mothers die in Bangladesh at the time of giving birth to babies.</sent>
+				<sent id ="74">The rate of the death of babies under one year are 57 in one thousand.</sent>
+				<sent id ="75">Many babies are born under-weight and mal-nourished in our country.</sent>
+				<sent id ="76">And they grow up with poor health.</sent>
+				<sent id ="77">There are not many experienced doctors in the villages.</sent>
+				<sent id ="78">So in the rural areas many die because of lack of good medical treatment.</sent>
+				<sent id ="79">Under the circumstances the Christian community emphasizes very much on health-services and medical care for the people.</sent>
+				<sent id ="80">Thousands of patients get nursing care and medical treatment at these hospitals.</sent>
+				<sent id ="81">Holy family Hospital situated at Moghbazar of Dhaka was also established and run for many years by the Christian missionaries.</sent>
+				<sent id ="82">This hospital is now being run by the Red Crescent Society.</sent>
+				<sent id ="83">There are 53 charitable dispensaries run by the Christian community in different parts of the country.</sent>
+				<sent id ="84">Along with medicines, education and counseling on health are given to the poor patients from the village in these hospitals.</sent>
+				<sent id ="85">There were about 70 qualified Christian doctors in the country in Christian nurses are quite numerous.</sent>
+				<sent id ="86">They are found working in almost all hospitals and clinics in Bangladesh.</sent>
+				<sent id ="87">They provide quality nursing service to the patients with much love and compassion.</sent>
+				<sent id ="88">Man cannot create anything new.</sent>
+				<sent id ="89">Everything is created by God.</sent>
+				<sent id ="90">Man can only work with what has been created by God.</sent>
+				<sent id ="91">But created in the image of God, man has the duty to work for his own development.</sent>
+				<sent id ="92">Changes that are made for the good of man and the society are called development.</sent>
+				<sent id ="93">A poor country like ours has numerous problems.</sent>
+				<sent id ="94">Poverty, over- population, natural calamities etc. are some of the most serious problems.</sent>
+				<sent id ="95">It is not possible for the Govt. of the country to solve all the problems single-handed.</sent>
+				<sent id ="96">Many private organizations are working for development in Bangladesh.</sent>
+				<sent id ="97">The Christian community of Bangladesh is not lagging behind in this regard.</sent>
+				<sent id ="98">There is a good number of NGOs run by the Christian Churches at the national level.</sent>
+				<sent id ="99">For example, CARITAS Bangladesh, World Vision Bangladesh, CCDB, RDRS, Baptist Aid, KOINANIA, SODAP etc.</sent>
+				<sent id ="100">Besides, many Christian faithful on their personal initiatives are running many NGOs at the national and the local levels.</sent>
+				<sent id ="101">For example, HEED Bangladesh, Young Men's Christian Association, Young Women's Christian Association etc.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

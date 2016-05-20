@@ -1,0 +1,148 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>6-budh-7</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:57.357</idno>
+				<idno type="Number of sentences">120</idno>
+				<idno type="Number of tokens">1474</idno>
+				<idno type="Number of token types">601</idno>
+				<idno type="Readability level">easy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t69">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Place of pilgrimage means a sacred place.</sent>
+				<sent id ="2">Many spiritual personalities were born on earth in different ages.</sent>
+				<sent id ="3">They proclaimed their respective doctrines.</sent>
+				<sent id ="4">We find their memorials manywhere.</sent>
+				<sent id ="5">These places are the most sacred places of pilgrimage to their followers.</sent>
+				<sent id ="6">The holy places are of two kinds, such as, common holy places and the most sacred places of pilgrimage.</sent>
+				<sent id ="7">The most sacred places are those where the important events of the Buddha's.</sent>
+				<sent id ="8">life took place.</sent>
+				<sent id ="9">These significant events of his life occurred at Lumbini, Bodhgaya, Saranatha and Kushinagara respectively.</sent>
+				<sent id ="10">Among them Mahasthan, Vasuvihara, Moinamati, Sitakunda etc. in Bngladesh are noteworthy.</sent>
+				<sent id ="11">Every year the Buddhists from home and abroad pay visit to these holy places of pilgrimage for holding religious performances.</sent>
+				<sent id ="12">Even people of other faiths assemble here too.</sent>
+				<sent id ="13">If opportunity comes you should also visit all these holy places of home and abroad with your parents.</sent>
+				<sent id ="14">These visits develop knowledge, helps earn virtues and brings peace of mind.</sent>
+				<sent id ="15">Now we are going to learn about the four sacred places of pilgrimage.</sent>
+				<sent id ="16">Lumbini is one of the four sacred places of pilgrimage.</sent>
+				<sent id ="17">Prince Siddhartha was born here.</sent>
+				<sent id ="18">For this reason this is very much sacred to the Buddhists.</sent>
+				<sent id ="19">On the way to Devadaha from Kapilavastu Siddhartha was born to the.</sent>
+				<sent id ="20">Queen Mahamaya at the grove of this sacred Lumbini.</sent>
+				<sent id ="21">The emperor Asoka erected a monument here in commemoration of the Buddha's birth.</sent>
+				<sent id ="22">Many edicts of emperor Asoka were engraved.</sent>
+				<sent id ="23">These prove that Asoka visited the place in twenty years of his reign.</sent>
+				<sent id ="24">The monument is to the west of the old monastery having iron railing all around it.</sent>
+				<sent id ="25">In his Book of Travel, the great Chinese traveller, Hue-en-sung wrote about this monument.</sent>
+				<sent id ="26">The Lumbini Monastery is to the east of the Asoka monument.</sent>
+				<sent id ="27">It is, at present, known as Rummindei to the local inhabitants.</sent>
+				<sent id ="28">From upstairs a small shrine and the Bodhi-tree could be seen.</sent>
+				<sent id ="29">The shrine has been built over the basement of the old monastery.</sent>
+				<sent id ="30">The original monastery is to the north below.</sent>
+				<sent id ="31">Inside the monastery a big slab is there with the engravings of the birth of Siddhartha.</sent>
+				<sent id ="32">These engravings are still there as good as before even after the ages.</sent>
+				<sent id ="33">In the engravings show that Mayadevi is holding the branch of a shala tree with a woman by her.</sent>
+				<sent id ="34">Most probably, she may be Mahaprajapati Goutami, the younger sister of Mayadevi.</sent>
+				<sent id ="35">In the other end the deities are found with folded hands.</sent>
+				<sent id ="36">New born Siddhartha is standing on a lotus in the front.</sent>
+				<sent id ="37">There are stiars to come down to the Asoka monument from the Monastery.</sent>
+				<sent id ="38">Lumbini is now well known as Rummindei situated in the village of Pariya 3 km.</sent>
+				<sent id ="39">away from Bhagawanpur in the District of Buttol of Nepal.</sent>
+				<sent id ="40">One can visit Lumbini by train from Gorakshapur of Uttar Pradesh of India via Naugarh.</sent>
+				<sent id ="41">There is also a road communication between Kathmondu and Lumbini.</sent>
+				<sent id ="42">From Nepal one can fly to Siddharthanagar from where it is possible to go to Lumbini by road.</sent>
+				<sent id ="43">An extensive forest has been created here at Lumbini for which it looks more beautiful than ever.</sent>
+				<sent id ="44">It is one of the Four holiest places of pilgrimage.</sent>
+				<sent id ="45">Goutama attained Buddhahood beneath the Bodhi tree at Bodhgaya.</sent>
+				<sent id ="46">The peepul tree under which he attained Buddhahood (Supreme knowledge) has been named as the Tree of Mahabodhi.</sent>
+				<sent id ="47">The seat of attaining Buddhahood by the Buddha is called the Vajrasana or the Bodhipallanka.</sent>
+				<sent id ="48">While performing pilgrimage here during his reign Emperor Asoka assigned this Vajrasana which is still supposed to be there.</sent>
+				<sent id ="49">The two storeyed world famous Bodhgaya Temple is very close to the Bodhi tree.</sent>
+				<sent id ="50">It gradually has gone smaller from the First floor mounting spherical at the top.</sent>
+				<sent id ="51">Four small shrines have been set up around four corners of the Temple.</sent>
+				<sent id ="52">There are stairs to go up to the front two shrines.</sent>
+				<sent id ="53">The standing statue of Bodhisattva Padmapani looks beautiful from the stairs.</sent>
+				<sent id ="54">An image of Bodhisattva Avalokitesvara is also found standing in the inner room of the main Temple.</sent>
+				<sent id ="55">There are many images of the Buddha and the gods -and goddesses on the walls of the Temple.</sent>
+				<sent id ="56">All these images were engraved in rocks both in and out side the Temple.</sent>
+				<sent id ="57">In the main Temple there is a big sitting.</sent>
+				<sent id ="58">Buddha image attached to the ground with nicely engraved robes (civara).</sent>
+				<sent id ="59">Other five images of Buddha are found in rows in five outer rooms.</sent>
+				<sent id ="60">These are well known as the seven holy places to the Buddhist pilgrims.</sent>
+				<sent id ="61">After attainment of Supreme knowledge, the Buddha passed seven week there, one weeks in each place.</sent>
+				<sent id ="62">The Foot-print of the Buddha is found here engraved in roock slab.</sent>
+				<sent id ="63">Special arrangements for the pilgrims at the Mahabodhi Society, Birla Temple, Circuit house etc. are noteworthy.</sent>
+				<sent id ="64">The Bodhgaya Temple is the oldest Buddhist remains noted in the History of Buddhism.</sent>
+				<sent id ="65">It is supposed that This Temple was founded in bigger shape by , the emperor Asoka.</sent>
+				<sent id ="66">The Mahabodhi Temple possesses a great significance in Buddhist history.</sent>
+				<sent id ="67">Bodhgaya is 11 km.</sent>
+				<sent id ="68">away from Gaya, the capital of the state of Vihara of India.</sent>
+				<sent id ="69">It is situated on the river Niranjana presently known as the Falgu.</sent>
+				<sent id ="70">From Bodhgaya, the other holy places like Nalanda, Rajgriha etc. may be visited by road.</sent>
+				<sent id ="71">Saranatha is an old town previously known as Isipatana or Migaduva.</sent>
+				<sent id ="72">It stands on the river Baruna very near to the city of Baneres.</sent>
+				<sent id ="73">At the time of attainment of Buddhahood, the five comrades of Siddhartha stayed here with him.</sent>
+				<sent id ="74">They were Koudanno, Vappa, Bhaddiya, Mahanama, and Assajita respectively.</sent>
+				<sent id ="75">The Buddha proclaimed his new doctrines to these five disciples on the Full moon-of Ashara.</sent>
+				<sent id ="76">The `Dhammacakka Pavattana Sutta was first pronounced here by the Buddha to those disciples.</sent>
+				<sent id ="77">So is the reason that Saranatha became one of the Four holiest places of pilgrimage.</sent>
+				<sent id ="78">Excepting the first proclamation of his doctrines by the Buddha, Saranatha is famous for many other reasons.</sent>
+				<sent id ="79">The Buddha first proclaimed his doctrines to the five disciples and then initiated Setthiputta Yasa with his 54 friends.</sent>
+				<sent id ="80">He further pronounced the Vathabhara Sutta, Panca Sutta, Pasa Sutta and many other Suttas here.</sent>
+				<sent id ="81">There is also a Buddha image proclaiming his doctrines to his first five disciples.</sent>
+				<sent id ="82">As a part of his religious pilgrimage, the emperor Asoka arrived here.</sent>
+				<sent id ="83">He erected a pillar after his name known as Asoka Pillar.</sent>
+				<sent id ="84">On the wall of the pillar are inscribed some messages and advices for the Buddhist monks and the nuns.</sent>
+				<sent id ="85">Numerous ruins of the monasteries and temples are found at Saranatha.</sent>
+				<sent id ="86">The emperor Asoka marked the spot of the First sermon of the Buddha and erected a big pillar over there.</sent>
+				<sent id ="87">He further declared the forest free for the deer.</sent>
+				<sent id ="88">Nobody was allowed to kill any deer since then.</sent>
+				<sent id ="89">This is the reason that the spot was named as Migadava.</sent>
+				<sent id ="90">From the.rail-way station of Baneres one can go to visit Saranatha by road.</sent>
+				<sent id ="91">Here is a rail-way station too.</sent>
+				<sent id ="92">Here are Rest houses and Govt.</sent>
+				<sent id ="93">Guest houses for the pilgrims.</sent>
+				<sent id ="94">Kushinagara is also one of the most sacred places of the Buddhist pilgrimage.</sent>
+				<sent id ="95">Here the Buddha embraced Mohaparinibbana on the Full moon of Vaishakha.</sent>
+				<sent id ="96">In ancient times it was known as Kushinara, Kushigram, Kushavati etc.</sent>
+				<sent id ="97">It is situated at Koshia in the district of Gorakshapur of Uttar Pradesh in India.</sent>
+				<sent id ="98">In the past it was on the west bank of the Hiranyavati.</sent>
+				<sent id ="99">At that time it was in the kingdom of the Malia-Kings.</sent>
+				<sent id ="100">Pava is just a bit away from Kushinagara.</sent>
+				<sent id ="101">He built a monastery in his mango-grove and offered it to the Buddha.</sent>
+				<sent id ="102">He further invited the Buddha just before a day of his parinibbana.</sent>
+				<sent id ="103">The Buddha was suffering from illness.</sent>
+				<sent id ="104">He had his last meal here at Chunda's house.</sent>
+				<sent id ="105">It was the full moon of Vaishakha.</sent>
+				<sent id ="106">At the very moment He-admonished his last message to the Bhkkhus (Monks).</sent>
+				<sent id ="107">This lying statue is still a great piece of attraction for the pilgrims.</sent>
+				<sent id ="108">There is also a big stupa allached to it.</sent>
+				<sent id ="109">A Copper plate of Mahaparinibbana was found inside it.</sent>
+				<sent id ="110">Emperor Asoka pointed out it as the spot of the Buddha's Mahaparinibbana.</sent>
+				<sent id ="111">The great Chinese Traveller Fa-Hien visited Kushinagara and wrote that he saw there no people living.</sent>
+				<sent id ="112">Form the Gorakshapur Railway station of North India one can go to Kushinagara by road.</sent>
+				<sent id ="113">There are a number of Rest houses for the pilgrims.</sent>
+				<sent id ="114">A good number Buddhist pilgrims from Bangladesh pay their visit to these four holy places every year travelling by buses.</sent>
+				<sent id ="115">To pay homage to these four holiest places is a virtuous deed for the Buddhists.</sent>
+				<sent id ="116">The visit fills our hearts with joy.</sent>
+				<sent id ="117">It broadens our mind and mobilizes us to be devoted to our religious faiths.</sent>
+				<sent id ="118">It also gives us opportunity to be acquainted with the people of other countries.</sent>
+				<sent id ="119">We can exchange our views with them and thus friendship could be estaflisheed.</sent>
+				<sent id ="120">This friendship and brotherhood help establish world peace.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

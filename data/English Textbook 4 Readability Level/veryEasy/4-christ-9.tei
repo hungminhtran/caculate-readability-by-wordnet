@@ -1,0 +1,89 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>4-christ-9</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.964</idno>
+				<idno type="Number of sentences">61</idno>
+				<idno type="Number of tokens">545</idno>
+				<idno type="Number of token types">248</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t64">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Call means to summon.</sent>
+				<sent id ="2">Jesus is the Son of God.</sent>
+				<sent id ="3">That was why Jesus also had the call from God.</sent>
+				<sent id ="4">Coming down to the earth Jesus started preaching the message of God the Father.</sent>
+				<sent id ="5">But to continue this great task Jesus felt the need of others.</sent>
+				<sent id ="6">So he gave a call to many.</sent>
+				<sent id ="7">Jesus also called Matthew to be his disciple.</sent>
+				<sent id ="8">Matthew was a Tax-collector.</sent>
+				<sent id ="9">Jesus called him to be his disciple.</sent>
+				<sent id ="10">Matthew readily responded to Jesus call leaving everything behind.</sent>
+				<sent id ="11">It has been mentioned in the Bible about Jesus call.</sent>
+				<sent id ="12">We will learn a lot about the call when we discuss more about it.</sent>
+				<sent id ="13">At the same time we will be able to explain what a call means.</sent>
+				<sent id ="14">Jesus calls Matthew while Matthew follows him.</sent>
+				<sent id ="15">One day Jesus was going along the shore of Lake Galilee.</sent>
+				<sent id ="16">As he walked along, he saw a tax-collector named Matthew, sitting in his office.</sent>
+				<sent id ="17">Matthew was also known as Levi.</sent>
+				<sent id ="18">His father's name was Alphaeus.</sent>
+				<sent id ="19">Jesus not only knew Matthew but also was aware of some of his good qualities.</sent>
+				<sent id ="20">Jesus thought within himself to call Matthew for his work.</sent>
+				<sent id ="21">Jesus said to him, Follow me.</sent>
+				<sent id ="22">Matthew heard Jesus call and decided to respond to it.</sent>
+				<sent id ="23">He got up, left everything and followed Jesus.</sent>
+				<sent id ="24">Matthew changed his mind when Jesus called him.</sent>
+				<sent id ="25">He decided to follow Jesus.</sent>
+				<sent id ="26">He loved Jesus from the core of his heart.</sent>
+				<sent id ="27">Matthew used to cheat people.</sent>
+				<sent id ="28">But now he changed his mind and became Jesus disciple.</sent>
+				<sent id ="29">The souls of sinners are sick.</sent>
+				<sent id ="30">They need spiritual doctors for treatment.</sent>
+				<sent id ="31">I have come to change the mind of sinners.</sent>
+				<sent id ="32">I have come to save and look for the lost ones.</sent>
+				<sent id ="33">On hearing this they did not question Jesus any more.</sent>
+				<sent id ="34">Jesus called all his disciples to take part in his work.</sent>
+				<sent id ="35">He also called Matthew for his work.</sent>
+				<sent id ="36">We will read some special works of Matthew.</sent>
+				<sent id ="37">First, Matthew was the writer of a gospel.</sent>
+				<sent id ="38">He was one of the four gospel writers.</sent>
+				<sent id ="39">The gospel was a noble work of Matthew.</sent>
+				<sent id ="40">Matthew presented the story of Jesus in a beautiful way.</sent>
+				<sent id ="41">Secondly, Matthew preached the sayings of Jesus.</sent>
+				<sent id ="42">He also preached the teachings of Jesus with other disciples.</sent>
+				<sent id ="43">He went to Persia, Africa and Ethiopia to preach the message of Jesus.</sent>
+				<sent id ="44">He advised people to follow the teachings of Jesus.</sent>
+				<sent id ="45">Thirdly, Matthew was an educated, intelligent, dutiful and disciplined man.</sent>
+				<sent id ="46">He was Jesus companion and saw for himself the life and deeds of Jesus.</sent>
+				<sent id ="47">He saw the sufferings, crucifixion and resurrection of Jesus.</sent>
+				<sent id ="48">So he followed the teachings of Jesus faithfully throughout his life.</sent>
+				<sent id ="49">Jesus calls us too as he does Matthew.</sent>
+				<sent id ="50">We must continue the work that Jesus started.</sent>
+				<sent id ="51">Matthew responded to the call of Jesus.</sent>
+				<sent id ="52">He sacrificed his life for the sake of Jesus.</sent>
+				<sent id ="53">We should also respond to the call of Jesus.</sent>
+				<sent id ="54">Matthew did not make any excuse for avoiding Jesus call.</sent>
+				<sent id ="55">We should not make any excuse for not responding to Jesus call either.</sent>
+				<sent id ="56">O Jesus, our Friend!</sent>
+				<sent id ="57">You also call us to carry on your work.</sent>
+				<sent id ="58">Please make us realise it.</sent>
+				<sent id ="59">Let us not make any excuse to turn down your call.</sent>
+				<sent id ="60">Please make use of us in your service.</sent>
+				<sent id ="61">Make a stage performance of the story entitled Jesus Calls Matthew.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

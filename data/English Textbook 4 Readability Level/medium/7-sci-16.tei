@@ -1,0 +1,148 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-16</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:59.938</idno>
+				<idno type="Number of sentences">120</idno>
+				<idno type="Number of tokens">1722</idno>
+				<idno type="Number of token types">581</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t60">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">By this time we have learned something about sea, ocean and bay.</sent>
+				<sent id ="2">In this chapter we will know in detail about sea, ocean and bay.</sent>
+				<sent id ="3">About 71 percent of the earth's surface is covered by five oceans.</sent>
+				<sent id ="4">These oceans are Pacific Ocean, Atlantic Ocean, Indian Ocean, Northern Ocean and Southern Ocean.</sent>
+				<sent id ="5">The vast, extensive and deep-water bodies on the earth's surface are called ocean.</sent>
+				<sent id ="6">For example, the Pacific Ocean is the largest and the deepest.</sent>
+				<sent id ="7">The sea is a water body that is relatively smaller than a ocean or is the part of an ocean that is nearer to landmass.</sent>
+				<sent id ="8">For example, Arabian Sea, Japan Sea, Red Sea and so on.</sent>
+				<sent id ="9">The sea that is bounded by land on three sides is called bay.</sent>
+				<sent id ="10">For example, Bay of Bengal, Bay of Malaya and so on.</sent>
+				<sent id ="11">But some seas may be bound on four sides by land, for example, the Mediterranean Sea.</sent>
+				<sent id ="12">Let us now learn about the oceans.</sent>
+				<sent id ="13">Pacific Ocean: The largest of the oceans is the Pacific Ocean.</sent>
+				<sent id ="14">It has an area of approximately 16 crore 60 lakh square kilometre.</sent>
+				<sent id ="15">It covers about one-third of the earth's surface.</sent>
+				<sent id ="16">This Ocean is bounded on the east by the North and South Americas, on the west by Asia and on the south by Antarctica.</sent>
+				<sent id ="17">Its average depth is 4,270 metre.</sent>
+				<sent id ="18">The Ocean has many deep trenches.</sent>
+				<sent id ="19">The greatest known trench is Mariana Trench that is about 10,870 metre and lies off the coast of Mindanao of Philippines.</sent>
+				<sent id ="20">The Pacific Ocean contains many big and small groups of islands.</sent>
+				<sent id ="21">Among them are Kuril Islands, Japan Islands, Philippines Islands, Indonesia Islands and New Zealand Islands are notable.</sent>
+				<sent id ="22">Besides, there are several seas scattered along the western side of the Ocean.</sent>
+				<sent id ="23">These are Bering Sea, Okhotsk Sea, Japan Sea, Yellow Sea, East and South China Seas.</sent>
+				<sent id ="24">Atlantic Ocean: The Atlantic Ocean has an area of about 8 crore 24 lakh square kilometre.</sent>
+				<sent id ="25">That is, about half the size of the Pacific Ocean.</sent>
+				<sent id ="26">The Atlantic Ocean covers about one-sixth of the earth's surface.</sent>
+				<sent id ="27">On the east of the Ocean lie Europe and Africa and on the west lies the North and South.Americas.</sent>
+				<sent id ="28">The Atlantic Ocean is shaped like the English letter S. Its depth is relatively less than the Pacific Ocean.</sent>
+				<sent id ="29">Its average depth is 3,932 metre.</sent>
+				<sent id ="30">The deepest trench in the Atlantic Ocean is the Puerto Rico Trench.</sent>
+				<sent id ="31">In the middle of the ocean bed there are several rocks or mountain ranges similar to the Dolphin and Challenger plateau of North America.</sent>
+				<sent id ="32">The islands in the Atlantic Ocean include Iceland, Falkland, Georgia, Saint Helen, Brazil Islands, Coral Islands, Bermuda and the Volcanic Island of Madeira are notable.</sent>
+				<sent id ="33">The notable seas are the North Sea, Baltic Sea, Caribbean Sea, Hudson Bay, Baffin Bay and Gulf of Mexico.</sent>
+				<sent id ="34">The area of the Indian Ocean is about 7 crore 36 lakh square kilometre.</sent>
+				<sent id ="35">The average depth of the Indian Ocean is 3,962 metre.</sent>
+				<sent id ="36">In the Indian Ocean, there is a trench named the Sunda Trench, which lies off the southern coast of the Island of Java.</sent>
+				<sent id ="37">The well-known islands of Madagascar and Sri Lanka are in the Indian Ocean.</sent>
+				<sent id ="38">Besides these, there are Andaman and Nicobar Islands in the Ocean.</sent>
+				<sent id ="39">The Lakkha and Maldives are the coral islands in the Indian Ocean.</sent>
+				<sent id ="40">The famous seas in the Indian Ocean are the Arabian Sea and Red Sea and the bays are Bay of Bengal and Persian Gulf.</sent>
+				<sent id ="41">Northern Ocean: The Northern Ocean is situated in the northern end of the northern hemisphere.</sent>
+				<sent id ="42">It is surrounded by landmass.</sent>
+				<sent id ="43">The total surface area of the Northern Ocean is about 1 crore 50 lakh square kilometre.</sent>
+				<sent id ="44">It is about one-twelfth of the area of Pacific Ocean and its average depth is about 824 metre.</sent>
+				<sent id ="45">The notable shallow seas in the Ocean include the Beaufort Sea and the Siberian Sea.</sent>
+				<sent id ="46">Besides, there are some islands and group. of islands.</sent>
+				<sent id ="47">The major islands in the Ocean include New Siberian Islands and Canadian Islands.</sent>
+				<sent id ="48">Southern Ocean: The Southern Ocean surrounds the Antarctic continent.</sent>
+				<sent id ="49">That is, the Southern Ocean lies north of Antarctica.</sent>
+				<sent id ="50">The total surface are of the Ocean is about I crore 47 lakh square kilometre.</sent>
+				<sent id ="51">It is covered by ice the year round and has an average depth of about 149 metre.</sent>
+				<sent id ="52">The ridge on its bed connects Australia with the Antarctic continent.</sent>
+				<sent id ="53">Human beings, animals, birds, insects and so on, do not remain stationary in one place.</sent>
+				<sent id ="54">They move from one place to another.</sent>
+				<sent id ="55">But pushcart, boat, cycle, launch, car, train, aeroplane and so on cannot move on their own, they have to be moved by others.</sent>
+				<sent id ="56">Similarly, wind flow and rotation of the earth make the water of the ocean flow from one place to another.</sent>
+				<sent id ="57">The regular flow of water in ocean and sea is called ocean current.</sent>
+				<sent id ="58">For example, the ocean currents in the Pacific and Atlantic Oceans.</sent>
+				<sent id ="59">By now we have come to know that ocean current do not occur on their own.</sent>
+				<sent id ="60">There are few reasons that create ocean current.</sent>
+				<sent id ="61">The major reasons for ocean current are briefly mentioned below.</sent>
+				<sent id ="62">Wind Flow: One of the major reasons for ocean current is wind flow.</sent>
+				<sent id ="63">As the wind flows continuously over the ocean, the water also flows along in the same direction.</sent>
+				<sent id ="64">The direction of wind changes with the changing seasons resulting in the change of direction in the ocean current.</sent>
+				<sent id ="65">For example, the seasonal wind in Bangladesh Earth's Rotation: Ocean current is created due to the earth's rotation.</sent>
+				<sent id ="66">The earth rotates around its axis from west to east once in every 24 hours, this is called diurnal rotation.</sent>
+				<sent id ="67">Because of this diurnal rotation, the water in the ocean flows from west to east creating a current.</sent>
+				<sent id ="68">Earth's rotation is a major reason for ocean current.</sent>
+				<sent id ="69">Variation in Temperature: The ocean current is produced due to the difference in temperature at different parts of the ocean.</sent>
+				<sent id ="70">Where heat from the sun falls perpendicular to the surface water, there is more evaporation compared to where the heat from the sun falls obliquely.</sent>
+				<sent id ="71">This leads to an imbalance in the density and depth of water.</sent>
+				<sent id ="72">Thus ocean current are produced.</sent>
+				<sent id ="73">Salinity: Saline water is heavier and has greater density.</sent>
+				<sent id ="74">Fresh water is lighter and has less density.</sent>
+				<sent id ="75">So, the water of more salinity from warm region flows towards water of less salinity in the temperate region.</sent>
+				<sent id ="76">Besides, as water of more salinity is heavier it sinks to the bottom, while the water of less salinity being lighter rises up.</sent>
+				<sent id ="77">This causes upward and downward currents in the ocean.</sent>
+				<sent id ="78">Because of ocean currents: Movement of ships is facilitated.</sent>
+				<sent id ="79">If the direction of the ship is the same as that of the current, the ship can move faster from one place to another.</sent>
+				<sent id ="80">The ocean water does not turn into ice easily because of the warm ocean current.</sent>
+				<sent id ="81">Rainfall occurs in the coastal region under the influence of warm ocean current.</sent>
+				<sent id ="82">The meeting place of warm and cold currents becomes the habitat of most fish.</sent>
+				<sent id ="83">We all more or less have heard about high and low tides.</sent>
+				<sent id ="84">This increase and decrease of water in the river and ocean are called high and low tides respectively.</sent>
+				<sent id ="85">The sun and moon attract the water and landmass of the earth.</sent>
+				<sent id ="86">Under the influence of this attraction the earth's water swells up daily in specific places and elsewhere it recedes.</sent>
+				<sent id ="87">This rising or swelling of water is called high tide and the recession of water is called low tide.</sent>
+				<sent id ="88">All matters on earth attract each other continuously.</sent>
+				<sent id ="89">The greater the size of matter, the greater is the attraction.</sent>
+				<sent id ="90">But as the distance between objects increases, the attraction decreases.</sent>
+				<sent id ="91">Like other objects, the sun and the moon also attract the earth.</sent>
+				<sent id ="92">Though the moon is small, it is the nearest cosmic body to the earth.</sent>
+				<sent id ="93">Moon is earth's only natural satellite.</sent>
+				<sent id ="94">Therefore, the attraction of the moon on the earth is relatively more.</sent>
+				<sent id ="95">So, the diurnal variation of the moon's attraction on different parts of the earth is the major reason for high and low tides.</sent>
+				<sent id ="96">Direct and Opposite Tides: The moon is continuously moving around the earth.</sent>
+				<sent id ="97">As the moon rotates, its attraction is greatest at the part of the earth that is facing the moon.</sent>
+				<sent id ="98">Therefore, the water closer to the moon swells up and cause high tide.</sent>
+				<sent id ="99">This tide is called the direct tide.</sent>
+				<sent id ="100">The hfgh tide thus caused is called opposite tide.</sent>
+				<sent id ="101">At this time, the water decreases in the two parts between the high tides.</sent>
+				<sent id ="102">Due to decreased water, these two parts experience low tide.</sent>
+				<sent id ="103">When any part of the earth is nearest to the moon, then that part and the part exactly opposite experience high tide.</sent>
+				<sent id ="104">At the same time, low tide occur at place on the earth that is at right angles to the part with high tide (Fig. 17.1).</sent>
+				<sent id ="105">Every day, every part of the earth experience high tide twice.</sent>
+				<sent id ="106">On new moon, the sun and the moon are in line on the same side of the earth.</sent>
+				<sent id ="107">Though the attraction of the sun is less than the moon but the two attractions together is very strong.</sent>
+				<sent id ="108">There is massive swelling of water in the high tide due to this combined attraction.</sent>
+				<sent id ="109">This high tide is called spring tide or flood tide.</sent>
+				<sent id ="110">On full moon, the sun and the moon are in line on the opposite sides of the earth.</sent>
+				<sent id ="111">As a result, there is massive swelling of water.</sent>
+				<sent id ="112">So, on full moon the high tide is called spring tide or flood tide.</sent>
+				<sent id ="113">In this condition, the high tide due to attraction of the moon is reduced by the attraction due to sun.</sent>
+				<sent id ="114">For this reason, at these times the height or swelling of high tide is at its minimum.</sent>
+				<sent id ="115">So, the high tide on the eighth day of new moon or full moon is called neap tide or ebb tide.</sent>
+				<sent id ="116">There is a delay of 52 minutes.</sent>
+				<sent id ="117">As the moon requires 29 days to complete one revolution around the earth, so the moon advances 1/29th of its orbit in one day.</sent>
+				<sent id ="118">Therefore, during single rotation of earth, that is in 24 hours the moon advances about 130 in its orbit.</sent>
+				<sent id ="119">It takes about 4 minutes for the moon to advance.</sent>
+				<sent id ="120">Influence of High and Low Tides: The high and low tides in the rivers or oceans are beneficial to us.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

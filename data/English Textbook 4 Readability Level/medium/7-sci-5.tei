@@ -1,0 +1,129 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-5</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.209</idno>
+				<idno type="Number of sentences">101</idno>
+				<idno type="Number of tokens">1175</idno>
+				<idno type="Number of token types">471</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t72">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Until now 111 elements have been discovered in the world.</sent>
+				<sent id ="2">Scientists have arranged these elements in a table.</sent>
+				<sent id ="3">This table is called the periodic table.</sent>
+				<sent id ="4">Hydrogen is the first element of this table.</sent>
+				<sent id ="5">In 1766, Henry Cavendish first realized the existence of this gas.</sent>
+				<sent id ="6">In contact with fire, it flames.</sent>
+				<sent id ="7">That is why, he named the gas flammable air.</sent>
+				<sent id ="8">In 1788, scientist Lavoisier proved that, hydrogen is an element.</sent>
+				<sent id ="9">Hydrogen produces water when it is burnt in air.</sent>
+				<sent id ="10">So, he named this gas Hydrogen.</sent>
+				<sent id ="11">Hydro means water.</sent>
+				<sent id ="12">As Hydrogen is the main element of water, it has been named so.</sent>
+				<sent id ="13">Hydrogen is not available in the earth's crust or in the atmosphere as an element.</sent>
+				<sent id ="14">But hydrogen exists with a compound.</sent>
+				<sent id ="15">For example, water, sugar, starch, fat, natural gas, acid and many other substances are compounds of hydrogen.</sent>
+				<sent id ="16">The major part of our body is water.</sent>
+				<sent id ="17">Moreover, there are carbon, hydrogen and oxygen compounds and other elements.</sent>
+				<sent id ="18">They are chemically combined with each other.</sent>
+				<sent id ="19">Generally, in the laboratory hydrogen is prepared by carrying out chemical reaction of a dilute acid with a metal.</sent>
+				<sent id ="20">Cavendish himself prepared hydrogen through this process.</sent>
+				<sent id ="21">Potassium, Sodium, Calcium, Magnesium, Aluminium, Zinc, Iron, etc. all are metals.</sent>
+				<sent id ="22">But generally zinc is used to prepare hydrogen in the laboratory.</sent>
+				<sent id ="23">Potassium and sodium are never used for this purpose.</sent>
+				<sent id ="24">Because these two metals react so vigorously with acids that this may cause of danger.</sent>
+				<sent id ="25">Let us prepare hydrogen gas in the laboratory and test its properties.</sent>
+				<sent id ="26">In the laboratory, hydrogen is prepared by reacting zinc with dilute sulphuric acid.</sent>
+				<sent id ="27">Hydrogen is a component of acid.</sent>
+				<sent id ="28">Zinc displaces hydrogen from acid and form zinc sulphate, salt and hydrogen.</sent>
+				<sent id ="29">Take some pieces of zinc in a two-nect (Woulfs bottle).</sent>
+				<sent id ="30">Fix a one hole cork in one mouth of the bottle.</sent>
+				<sent id ="31">To the other mouth of the bottle fix an one-hole cork also.</sent>
+				<sent id ="32">Through the hole of the cork, pass one end of a delivery tube as shown in the figure.</sent>
+				<sent id ="33">Seal carefully the bases of the cork with wax.</sent>
+				<sent id ="34">To test that the apparatus has become air- tight, give a puff through the interior-end of the delivery tube.</sent>
+				<sent id ="35">If the apparatus is not fully airtight, the evolved gas of the bottle will leak out and may cause if there is any flame nearby.</sent>
+				<sent id ="36">So, during prepration of hydrogen never keep flame in the surroundings.</sent>
+				<sent id ="37">Dip the interior-end of the delivery tube into a water contained vessel.</sent>
+				<sent id ="38">Now pour some dilute sulphuric acid in the bottle through the thistle funnel.</sent>
+				<sent id ="39">Zinc and acid will take part in the chemical reaction and produce gas which will pass through the delivery tube.</sent>
+				<sent id ="40">Firstly, wait for a while so that the evolved gas and air mixture can completely flushed out from inside of the bottle.</sent>
+				<sent id ="41">Place a water filled test tube on the delivery tube inverted.</sent>
+				<sent id ="42">You will see that, hydrogen gas is coming up in the form of bubbles and water of the test tube is going down gradually.</sent>
+				<sent id ="43">Collect the gas in a few gas jars instead of test tubes.</sent>
+				<sent id ="44">Now test and observe the properties of hydrogen with the gas collected.</sent>
+				<sent id ="45">Hydrogen is a colourless, odourless and tasteless gas.</sent>
+				<sent id ="46">If you look through the test tube or glass jar filled with hydrogen, it will appear colourless.</sent>
+				<sent id ="47">Smell the gas, it has no smell.</sent>
+				<sent id ="48">Have a taste with your tongue, it has no taste.</sent>
+				<sent id ="49">Hold a hydrogen gas filled gas jar invertedly with its mouth down and put off the lid by your hand.</sent>
+				<sent id ="50">Enter an inflamed stick into the jar.</sent>
+				<sent id ="51">What have you seen ?</sent>
+				<sent id ="52">The flame of the stick extinguished instantly but the hydrogen gas itself began to turn with a bluish flame at the mouth of the jar.</sent>
+				<sent id ="53">From this, it can be understood that hydrogen itself burns but does npt help others to burn.</sent>
+				<sent id ="54">Now if a inflamed stick is put into the mouth of the test tube, hydrogen will instantly inflame making a bang.</sent>
+				<sent id ="55">Hydrogen is lightest element.</sent>
+				<sent id ="56">Air is 14.4 times heavier than hydrogen.</sent>
+				<sent id ="57">Place an air-filled jar on the top of a hydrogen filled jar in a slightly inclined position.</sent>
+				<sent id ="58">Now remove the lid of the hydrogen filled jar.</sent>
+				<sent id ="59">Air will then occupy the lower vacant jar.</sent>
+				<sent id ="60">How would you identify whether the upper jar had been filled up by hydrogen and the lower jar with air?</sent>
+				<sent id ="61">Insert a inflamed stick into the lower jar.</sent>
+				<sent id ="62">What have you seen?</sent>
+				<sent id ="63">The stick is inflaming.</sent>
+				<sent id ="64">Similarly pour another inflamed stick into the upper gas jar.</sent>
+				<sent id ="65">What do you see ?</sent>
+				<sent id ="66">At the same time of entering, the inflamed stick is extinguished and the gas starts burning at the mouth of the jar.</sent>
+				<sent id ="67">From this experiment it is understood that hydrogen gas moved from the lower jar to the upper jar.</sent>
+				<sent id ="68">Hydrogen gas is lighter than air.</sent>
+				<sent id ="69">For this reason, a balloon filled with hydrogen floats up in the sky.</sent>
+				<sent id ="70">Hydrogen is insoluble in water.</sent>
+				<sent id ="71">It has been collected by the downward displacement of water.</sent>
+				<sent id ="72">If hydrogen was soluble in water, it would not be possible.</sent>
+				<sent id ="73">From this, it can be realized that hydrogen is insoluble in water.</sent>
+				<sent id ="74">Put small pieces of wet red and blue litmus papers into a hydrogen filled gas jar.</sent>
+				<sent id ="75">Has there been any change to the colours of litmus papers?</sent>
+				<sent id ="76">No, the colours of red and blue litmus has no change.</sent>
+				<sent id ="77">From this it can be noticed that hydrogen is neither acidic nor basic.</sent>
+				<sent id ="78">Hydrogen is a neutral gas.</sent>
+				<sent id ="79">You have analysed water when you were in class VI.</sent>
+				<sent id ="80">Could you remember the components that you got from analysis of water?</sent>
+				<sent id ="81">You got two parts of hydrogen and one part of oxygen.</sent>
+				<sent id ="82">That means water is produced from two components of Hydrogen and oxygen.</sent>
+				<sent id ="83">So, it can be said that hydrogen burn in air to produce water.</sent>
+				<sent id ="84">(I) Hydrogen is the most well known lightest matter.</sent>
+				<sent id ="85">So, balloons filled with hydrogen can be used for flying.</sent>
+				<sent id ="86">But it is very risky to fly with a balloon filled with hydrogen gas as it is highly inflammable.</sent>
+				<sent id ="87">So, now a days another light gas called helium instead of hydrogen is used for flying.</sent>
+				<sent id ="88">Hydrogen is used in the production of artificial petrol or lubricating oil from coal.</sent>
+				<sent id ="89">The importance of hydrogen will increase when whole reserve of petroleum will be finished.</sent>
+				<sent id ="90">Hydrogen is used in the preparation of nylon, plastic like - p.v.c, etc.</sent>
+				<sent id ="91">In chemical industries, hydrogen is used for preparing different chemicals.</sent>
+				<sent id ="92">Such as ammonia (a compound of hydrogen and nitrogen).</sent>
+				<sent id ="93">Urea fertilizer and various explosives are prepared from ammonia.</sent>
+				<sent id ="94">This gas is used in the manufacture of Hydro-chloric acid.</sent>
+				<sent id ="95">Besides, hydrogen is used in the manufacture of various organic compounds and chemicals such as - Methyl alcohol.</sent>
+				<sent id ="96">Hydrogen is used as a reducing agent.</sent>
+				<sent id ="97">Removal of oxygen from any substance is called reduction.</sent>
+				<sent id ="98">The substance which removes oxygen is called a reducing agent.</sent>
+				<sent id ="99">Hydrogen, mixed with oxygen, form oxy-hydrogen flame.</sent>
+				<sent id ="100">The temperature of this flame is about 2800?C and steel can easily cut with this flame.</sent>
+				<sent id ="101">Oxy-hydrogen flame is used in cutting, melting and welding of metals.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

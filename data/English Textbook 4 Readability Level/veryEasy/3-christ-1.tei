@@ -1,0 +1,82 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-christ-1</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:53.627</idno>
+				<idno type="Number of sentences">54</idno>
+				<idno type="Number of tokens">444</idno>
+				<idno type="Number of token types">230</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t1">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Gradually the light of the sun spreads all around us.</sent>
+				<sent id ="2">As the light spreads, birds start singing sweetly.</sent>
+				<sent id ="3">Children get ready for school and others for their work.</sent>
+				<sent id ="4">Thus we all get ready for our daily work.</sent>
+				<sent id ="5">The sun also starts its work then.</sent>
+				<sent id ="6">It gives us light for about 12 hours a day.</sent>
+				<sent id ="7">We call this period a day.</sent>
+				<sent id ="8">The sun gradually sets in the west.</sent>
+				<sent id ="9">Thus the day ends.</sent>
+				<sent id ="10">Darkness covers all around.</sent>
+				<sent id ="11">This time is called a night.</sent>
+				<sent id ="12">We cannot see anything in the darkness of night.</sent>
+				<sent id ="13">So, we use lamps.</sent>
+				<sent id ="14">Sometimes we have questions in our mind: Why is there no light for all times?</sent>
+				<sent id ="15">Who has created light?</sent>
+				<sent id ="16">Where does this darkness come from?</sent>
+				<sent id ="17">Can mankind create light and darkness?</sent>
+				<sent id ="18">Who is the creator of all these things?</sent>
+				<sent id ="19">He, who has made these things, is the Creator or God.</sent>
+				<sent id ="20">He created all these within six days only.</sent>
+				<sent id ="21">He created light on the first day.</sent>
+				<sent id ="22">On the second day He created the sky.</sent>
+				<sent id ="23">God needed nothing to create all these.</sent>
+				<sent id ="24">He created everything with his words.</sent>
+				<sent id ="25">Now we will try to know how God has created the light and the sky.</sent>
+				<sent id ="26">Creation of the Light and the Sky God existed before everything.</sent>
+				<sent id ="27">There was nothing except Him.</sent>
+				<sent id ="28">Darkness was all around.</sent>
+				<sent id ="29">God said, Let there be light and there was light everywhere.</sent>
+				<sent id ="30">God saw the light.</sent>
+				<sent id ="31">He was delighted.</sent>
+				<sent id ="32">He became very happy.</sent>
+				<sent id ="33">Thus His creation of the first day ended.</sent>
+				<sent id ="34">Then there was no sky.</sent>
+				<sent id ="35">God said, Let there be the sky and at once there was the sky.</sent>
+				<sent id ="36">God became very happy and thus ended His creation of the second day.</sent>
+				<sent id ="37">When we look up in an open field, we see the blue sky above.</sent>
+				<sent id ="38">It seems that the sky has touched the earth far away.</sent>
+				<sent id ="39">How up is the sky?</sent>
+				<sent id ="40">Is the sky a roof on us?</sent>
+				<sent id ="41">In fact, we don't know the right answers.</sent>
+				<sent id ="42">In the sky we see the sun, the moon, the stars and the floating clouds.</sent>
+				<sent id ="43">Sometimes there are storms and rain.</sent>
+				<sent id ="44">Aren't we surprised when we see all these?</sent>
+				<sent id ="45">We realise that no human being can create these.</sent>
+				<sent id ="46">God is the creator of everything.</sent>
+				<sent id ="47">We love to have new dresses, shoes, etc.</sent>
+				<sent id ="48">We thank the person who gives us gifts.</sent>
+				<sent id ="49">We also praise him or her and find pleasure to speak about it.</sent>
+				<sent id ="50">This is admiration.</sent>
+				<sent id ="51">Everyday we get benefits from them in some way or other.</sent>
+				<sent id ="52">O God, I thank You very much for Your gracious light and the sky.</sent>
+				<sent id ="53">Please help me so that I can remain bright and innocent like Your light.</sent>
+				<sent id ="54">Let me love You all the time.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,186 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>9-genSci-15</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:05.152</idno>
+				<idno type="Number of sentences">158</idno>
+				<idno type="Number of tokens">2040</idno>
+				<idno type="Number of token types">697</idno>
+				<idno type="Readability level">difficult</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t62">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The outer parts of our body; skin, nail, hair etc become dirty every moment.</sent>
+				<sent id ="2">Again oil, fat, salt and other waste materials come out from our body during sweating.</sent>
+				<sent id ="3">All these make our body dirty.</sent>
+				<sent id ="4">The dirt thus deposited on the body is harmful to health.</sent>
+				<sent id ="5">Cleaning of this dirt regularly is a pre-condition of maintaining good health.</sent>
+				<sent id ="6">Does our body only become dirty?</sent>
+				<sent id ="7">Our daily used clothes, utensils, furniture etc. are being dirty every day.</sent>
+				<sent id ="8">All usable materials become dirty in various ways with the dust and sand layer on it.</sent>
+				<sent id ="9">Due to this, materials lose their colour and beauty as well as our health is affected.</sent>
+				<sent id ="10">The materials which are usually used to clean the dirt deposited on our body, clothes or used materials are called cleaning agents.</sent>
+				<sent id ="11">The most widely used substance among the cleaning agents is soap.</sent>
+				<sent id ="12">Besides, there are detergents, emulsions, polishes, toilet cleaner etc.</sent>
+				<sent id ="13">In this chapter we shall discuss different types of soap and detergent; their components with methods of preparation.</sent>
+				<sent id ="14">From very ancient time men have been preparing and using soap as a cleaning agent.</sent>
+				<sent id ="15">The methods of preparation and the of quality of soap are improving day by day.</sent>
+				<sent id ="16">Large factories have been set up for the manufacture of soap.</sent>
+				<sent id ="17">The main constituents of soap are fat and alkali.</sent>
+				<sent id ="18">Caustic soda or caustic potash are used as alkali.</sent>
+				<sent id ="19">Different animal fat, vegetable oil, such as coconut oil, palm oil, mahua oil, custard oil, olive oil and animal oil viz grease, cod liver oil etc. are the source of fat for soap making.</sent>
+				<sent id ="20">Besides, various chemicals such as sodium silicate, sodium bicarbonate, tri-sodium phosphate, different perfumes and colouring agents are also required for making soap.</sent>
+				<sent id ="21">Cold process and semi-boiled process are less used than full-boiled process.</sent>
+				<sent id ="22">In cold process soap is made by dissolving fat in a container having mechanical stirrer.</sent>
+				<sent id ="23">The definite quantity of caustic soda is added to it and stirred well.</sent>
+				<sent id ="24">As a result a thick emulsion is produced which is then passed in a dice.</sent>
+				<sent id ="25">Solid soap is separated from dice after few days.</sent>
+				<sent id ="26">Half-boiled process is almost the same as soap making in cold process.</sent>
+				<sent id ="27">In this process comparatively high temperature is applied to complete the soapnification quickly.</sent>
+				<sent id ="28">For soap making in the cold process at home, three formula are given.</sent>
+				<sent id ="29">In large soap factories, soap is made by this process.</sent>
+				<sent id ="30">In this process a mixture of fat or oil and alkali in definite proportion are boiled in a large container to make soap.</sent>
+				<sent id ="31">In soap industry there are two main methods which are adopted in full boiled process.</sent>
+				<sent id ="32">These are kettle process and continuous process.</sent>
+				<sent id ="33">The two methods are discussed here.</sent>
+				<sent id ="34">It is mentioned here that although soap is prepared in various methods, the production principles of all the methods are almost same.</sent>
+				<sent id ="35">A normal flow sheet of the process of soap making is shown below.</sent>
+				<sent id ="36">In kettle process a large sized kettle is used for the manufacture of soap.</sent>
+				<sent id ="37">A kettle can accommodate nearly 150 tons of soap.</sent>
+				<sent id ="38">At first fat is melted in the kettle and caustic soda solution is added to the heated fat.</sent>
+				<sent id ="39">After 3-4 hours of heating, soap-lye or smooth paste like cream is formed and it starts to boil.</sent>
+				<sent id ="40">Salt solution or salt-water is now added to this oiling soap.</sent>
+				<sent id ="41">This process is called graining.</sent>
+				<sent id ="42">In this process soap-lye is separated out.</sent>
+				<sent id ="43">At this stage heating is stopped and the soap is allowed to settle down at the bottom of kettle.</sent>
+				<sent id ="44">In this stage glycerine and soap-lye are taken out.</sent>
+				<sent id ="45">Once again the soap is heated and boiled in kettle and water is slowly added to it.</sent>
+				<sent id ="46">As a result salt and glycerine clinging to the soap are washed away.</sent>
+				<sent id ="47">Now the soap becomes more smooth and creamy.</sent>
+				<sent id ="48">After the boiling and washing for several times clean soap at the surface, strong alkaline soap at the middle and mixture of soap and soap-lye at the bottom are obtained.</sent>
+				<sent id ="49">The soap from the top is pumped out and processed.</sent>
+				<sent id ="50">In this process a tube of stainless steel is used instead of a kettle.</sent>
+				<sent id ="51">The diameter of the tube is about 3 feet and its height is 80 feet.</sent>
+				<sent id ="52">This is called hydrolyser.</sent>
+				<sent id ="53">Boiled water is pumped into the hydrolyser under high pressure.</sent>
+				<sent id ="54">At the same time heated fat is pumped into the bottom of the tube.</sent>
+				<sent id ="55">At high temperature fat is hydrolyzed into fatty acid and glycerine.</sent>
+				<sent id ="56">Fatty acid floats on the upper portion of the hydrolyser.</sent>
+				<sent id ="57">It is separated, refined and soap is made by treating it with alkali.</sent>
+				<sent id ="58">At the first step of the process concentrated soap solution or paste is taken into a special machine called crutcher.</sent>
+				<sent id ="59">In the crutcher other materials such as perfume, colouring agents and titanium oxide are added to the soap.</sent>
+				<sent id ="60">Here the quality of soap is controlled and soap for different purposes are made.</sent>
+				<sent id ="61">For example soap becomes hard by mixing with large sodium silicate.</sent>
+				<sent id ="62">In the crutcher soap is vigorously agitated.</sent>
+				<sent id ="63">As a result the proportion of water is decreased.</sent>
+				<sent id ="64">This soap is poured into iron box or dice.</sent>
+				<sent id ="65">In modern continuous process hot soap solution is pumped into a vacuum chamber.</sent>
+				<sent id ="66">In this chamber excess water and impurities of soap are removed.</sent>
+				<sent id ="67">Then the dry soap is taken into kneading unit.</sent>
+				<sent id ="68">There perfume and antiseptics are mixed with soap and made into long bars or rectangular pieces by applying pressure.</sent>
+				<sent id ="69">The long bars may be cut out into required sizes and be given different necessary shapes by pressing into a mould.</sent>
+				<sent id ="70">Here it is stamped with a trade mark or branded and so on.</sent>
+				<sent id ="71">Soap is mainly of two types.</sent>
+				<sent id ="72">Hard soap and soft soap.</sent>
+				<sent id ="73">Soap made by caustic soda is a hard soap and soap made by using caustic potash is a soft soap.</sent>
+				<sent id ="74">For both the types of soap different sizes and shapes are available in the market according to the demand.</sent>
+				<sent id ="75">A brief discussion of different type of soaps is given below.</sent>
+				<sent id ="76">The soap paste or concentrated soap solution is marketed in definite rectangular shape.</sent>
+				<sent id ="77">Sometimes it is also marketed in oval or egg and sometimes in round of ball shape.</sent>
+				<sent id ="78">Usually toilet soaps and laundry soaps are made in such shape.</sent>
+				<sent id ="79">The piece of soap which is used in bath is called toilet soap.</sent>
+				<sent id ="80">Its constituents are vegetable oil, perfume and antiseptics.</sent>
+				<sent id ="81">Sometimes light colouring agents are also used in it.</sent>
+				<sent id ="82">This type of soap is very soft.</sent>
+				<sent id ="83">This soap is made in the shape of balls or rectangular bars for washing cloth.</sent>
+				<sent id ="84">It does not contain any vegetable oil.</sent>
+				<sent id ="85">The constituents of laundry soap are fat, caustic soda and colouring materials.</sent>
+				<sent id ="86">It does not contain perfume and antiseptics.</sent>
+				<sent id ="87">Comparatively this kind of soap is hard.</sent>
+				<sent id ="88">This kind of soap is paste like soft.</sent>
+				<sent id ="89">It is marketed in tubes.</sent>
+				<sent id ="90">It is called shaving cream.</sent>
+				<sent id ="91">Excess caustic potash and excess stearic acid are used in it.</sent>
+				<sent id ="92">This soap is soft and its leather is long lasting.</sent>
+				<sent id ="93">Different brands of powdered soap are available in the market.</sent>
+				<sent id ="94">Hot soap solution is passed through two steel rollers.</sent>
+				<sent id ="95">One roller is small and heated and another is comparatively large in diameter and cold.</sent>
+				<sent id ="96">As a result the solution sticks at the second roller in the form of thin layer.</sent>
+				<sent id ="97">This soap layer is mechanically cut into ribbons which are scraped off by an automatic blade and dried in a drier.</sent>
+				<sent id ="98">In this way powdered or flaked soap is made.</sent>
+				<sent id ="99">The soap solution from the crutcher is dropped from the top towards the bottom in a drying tower and hot air is passed from the bottom towards the top of the tower.</sent>
+				<sent id ="100">As a result soap becomes dry and its density increases.</sent>
+				<sent id ="101">Granular soap deposits at the bottom of the tower is like crops.</sent>
+				<sent id ="102">Very small and big granules are separated by sieving through two sieves.</sent>
+				<sent id ="103">Then they are packed separately.</sent>
+				<sent id ="104">The soap is kept in liquid state by mixing special solvent and is contained in a bottle and sold in the market.</sent>
+				<sent id ="105">This is called liquid soap.</sent>
+				<sent id ="106">In our country use of this kind of soap has started.</sent>
+				<sent id ="107">In our country use of cake or bar and ball soap is more but in developed countries granular or liquid soap is used more.</sent>
+				<sent id ="108">Detergent is one kind of cleaning agent.</sent>
+				<sent id ="109">These are made from different kinds of synthetic materials.</sent>
+				<sent id ="110">Detergent making actually consists of various complex methods.</sent>
+				<sent id ="111">At first the synthetic cleaning agent is made in a chemical plant.</sent>
+				<sent id ="112">For this different kinds of raw materials such as bi-products of petroleum, constituents of soap - vegetable and animal fats etc. are used.</sent>
+				<sent id ="113">To make detergent from cow-fat or tallow, tallow is reacted with methyl alcohol and then the product is hydrogenated.</sent>
+				<sent id ="114">In this process hydrogenated tallow alcohol is produced.</sent>
+				<sent id ="115">It is a liquid.</sent>
+				<sent id ="116">This liquid is first passed into sulphuric acid and then into alkali.</sent>
+				<sent id ="117">In this process detergent is produced.</sent>
+				<sent id ="118">At this stage dye, bleaching agents, fiber brightening agent builder etc. are mixed and detergent is processed as powdered, granular, liquid or bar form.</sent>
+				<sent id ="119">The process of making powdered and granular detergent is similar to make powdered and granular soap respectively.</sent>
+				<sent id ="120">Detergent tablets are made by pressing the granular detergent with other constituents.</sent>
+				<sent id ="121">Liquid detergent is made by the mixing of such chemicals which do not react with detergent but may keep it liquid at ordinary temperature.</sent>
+				<sent id ="122">A common cleaning agent is present in both soap and detergent.</sent>
+				<sent id ="123">This constituent is composed of such molecules which are attracted by dirty molecules on the surface of a solid substance.</sent>
+				<sent id ="124">The molecules react with dirt particles and separate them from the solid surface.</sent>
+				<sent id ="125">As a result dirt is removed when washed with water or rubbed with a cloth.</sent>
+				<sent id ="126">Most of the detergents contain synthetic cleaning agent and other chemical compounds.</sent>
+				<sent id ="127">These compounds increase the cleaning action of detergent.</sent>
+				<sent id ="128">Use of detergent is more advantageous than the use of soap.</sent>
+				<sent id ="129">Detergents also work in hard water and produce sufficient foam.</sent>
+				<sent id ="130">On the other hand soap can not produce foam in hard water.</sent>
+				<sent id ="131">Even use of excess of soap can not clean well.</sent>
+				<sent id ="132">The reason is that the salt particles in hard water react those with soap.</sent>
+				<sent id ="133">As a result curd of soap or lime soap is produced and damage the action of soap.</sent>
+				<sent id ="134">It is seen by dissolving soap in tube well water.</sent>
+				<sent id ="135">Lime of soap is insoluble in water and hence floats on the water.</sent>
+				<sent id ="136">Thus it makes problems in washing cloth.</sent>
+				<sent id ="137">This problem does not occur in the case of detergents.</sent>
+				<sent id ="138">Detergents have more penetrating capacity in solid surfaces than soap.</sent>
+				<sent id ="139">Besides, detergents dissolve rapidly in cold water.</sent>
+				<sent id ="140">Different detergents are made from different constituents.</sent>
+				<sent id ="141">The cleaning power of detergent varies with different constituent materials contained in it.</sent>
+				<sent id ="142">Different kinds of cleaning agent except soap and detergent have been used for different purposes.</sent>
+				<sent id ="143">Such as toilet cleaner is used to clean toilet basin, commode and floor.</sent>
+				<sent id ="144">To clean metal surfaces special type of emulsions such as metal polish, window cleaner is used to clean glass and plastics; a special type of alcoholic liquid is used to clean computer, V.C.P and tape recorder head.</sent>
+				<sent id ="145">The cleaning materials are not used only for cleaning purposes.</sent>
+				<sent id ="146">This are used at different places for many purposes also.</sent>
+				<sent id ="147">In industries soap and detergents are used as cleaning agent, slippery agent, softening agent and polishing work.</sent>
+				<sent id ="148">For example, during the production of motor tyres soap is used in hot and molten condition so that the molten rubber do not attach with dice.</sent>
+				<sent id ="149">Soap is used for jewellery polishing work.</sent>
+				<sent id ="150">To make lather soft soap is also used.</sent>
+				<sent id ="151">Soap and detergent are very important cleaning agents.</sent>
+				<sent id ="152">The more a country is developed, the more is the use of soap and detergent.</sent>
+				<sent id ="153">Soap, detergent and other cleaning agents are undoubtedly very important.</sent>
+				<sent id ="154">But excess use of these substances are harmful to health and environment.</sent>
+				<sent id ="155">It may damage colour of cloth, may produce skin disease.</sent>
+				<sent id ="156">Decanting soap lye here and there, waste water of washing cloth or water containing waste soap may be a great cause of environmental pollution.</sent>
+				<sent id ="157">For example fish, weeds etc. in the ponds or lakes may die and even can also damage the crops in the field.</sent>
+				<sent id ="158">So, we should take much care in using these substances.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,167 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>3-socStud-4</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:55:54.459</idno>
+				<idno type="Number of sentences">139</idno>
+				<idno type="Number of tokens">1287</idno>
+				<idno type="Number of token types">513</idno>
+				<idno type="Readability level">veryEasy</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t38">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">The name of our country is Bangladesh.</sent>
+				<sent id ="2">This country is our motherland.</sent>
+				<sent id ="3">We love our motherland.</sent>
+				<sent id ="4">The full name of our country is “The People’s Republic of Bangladesh”.</sent>
+				<sent id ="5">It is an independent country.</sent>
+				<sent id ="6">Write down the full name of Bangladesh in the table below:</sent>
+				<sent id ="7">Bangladesh was born through the war of independence in 1971.</sent>
+				<sent id ="8">After fighting for nine months, we have earned a new country.</sent>
+				<sent id ="9">Our Map The map on the right is the map of Bangladesh.</sent>
+				<sent id ="10">We got this map through the war of independence.</sent>
+				<sent id ="11">Our map is our pride.</sent>
+				<sent id ="12">Every country has a national flag.</sent>
+				<sent id ="13">We also have a national flag.</sent>
+				<sent id ="14">The flag in the picture is our national flag.</sent>
+				<sent id ="15">Everywhere in the world this flag bears our identity.</sent>
+				<sent id ="16">There are two colours in our national flag : red and green.</sent>
+				<sent id ="17">Inside the green there is a bright red circle.</sent>
+				<sent id ="18">Our national flag is rectangular.</sent>
+				<sent id ="19">The ratio of the length and width of our national flag is 10:6.</sent>
+				<sent id ="20">The radius of the red circle will be one fifth of the length of flag.</sent>
+				<sent id ="21">We will always honour our national flag.</sent>
+				<sent id ="22">That is way we will know how to use our national flag.</sent>
+				<sent id ="23">Everyday, the national flag is not put up everywhere.</sent>
+				<sent id ="24">It is hoisted daily only in the educational institutions, courts and important public places.</sent>
+				<sent id ="25">In the embassies of Bangladesh abroad the national flag is also hoisted daily.</sent>
+				<sent id ="26">The 26th March is our Independence Day.</sent>
+				<sent id ="27">On this day our national flag is hoisted everywhere in the country.</sent>
+				<sent id ="28">The 16th December is our Victory Day.</sent>
+				<sent id ="29">On this day the national flag is also hoisted everywhere.</sent>
+				<sent id ="30">The national flag is also waved on the houses.</sent>
+				<sent id ="31">The 21st February is our Martyrs Day.</sent>
+				<sent id ="32">However, it is not hoisted fully, it is kept half mast.</sent>
+				<sent id ="33">It is not justified to keep the national flag sometimes at night.</sent>
+				<sent id ="34">We will put down the national flag before sunset.</sent>
+				<sent id ="35">All countries have had national anthems.</sent>
+				<sent id ="36">Bangladesh also has its national anthem.</sent>
+				<sent id ="37">It has been composed by global poet Rabindranath Tagore.</sent>
+				<sent id ="38">We have learnt our national anthem in Class Two.</sent>
+				<sent id ="39">It is sung everyday at the school assembly.</sent>
+				<sent id ="40">Besides the national anthem is also sung at different functions of the state.</sent>
+				<sent id ="41">Let us look at the picture on the right.</sent>
+				<sent id ="42">A water-lily is floating on water.</sent>
+				<sent id ="43">Two paddy sheafs on its two sides.</sent>
+				<sent id ="44">Above the lotus there are three jute leaves put together.</sent>
+				<sent id ="45">there are two stars are on each of the leaves.</sent>
+				<sent id ="46">It is our state emblem.</sent>
+				<sent id ="47">It is used at different activities of the state.</sent>
+				<sent id ="48">Our National Flower The white water-lily is our national flower.</sent>
+				<sent id ="49">The white water-lily blossoms in lakes, open water, ponds, etc.</sent>
+				<sent id ="50">Lakes and ponds which are full of Water-lilies look Very beautiful.</sent>
+				<sent id ="51">Our National Fruit Jackfruit is our national fruit.</sent>
+				<sent id ="52">Jackfruit is grown more or less in all parts of the country.</sent>
+				<sent id ="53">The pods in to the Jackfruit are very juicy.</sent>
+				<sent id ="54">It is a very nutritious food.</sent>
+				<sent id ="55">We eat green Jackfruit by cooking.</sent>
+				<sent id ="56">Our National Fish The Hilsha is our national fish.</sent>
+				<sent id ="57">The Hilsha is silvery.</sent>
+				<sent id ="58">It looks very beautiful.</sent>
+				<sent id ="59">It is very tasty.</sent>
+				<sent id ="60">Our National Animal The Royal Bengal Tiger is our national animal.</sent>
+				<sent id ="61">This tiger with yellow with black stripes on its body lives in the Sundarbans.</sent>
+				<sent id ="62">It is not found anywhere else in the world.</sent>
+				<sent id ="63">This tiger is quite big in size.</sent>
+				<sent id ="64">It looks very beautiful.</sent>
+				<sent id ="65">But it is ferocious.</sent>
+				<sent id ="66">Our National Bird Doyel (the magpie robin) is our national bird.</sent>
+				<sent id ="67">Doyel is small in Size.</sent>
+				<sent id ="68">Its body is covered with black and white feathers.</sent>
+				<sent id ="69">It looks beautiful.</sent>
+				<sent id ="70">Doyel is seen everywhere in Bangladesh.</sent>
+				<sent id ="71">They fly away here and there and chirp sweetly.</sent>
+				<sent id ="72">In our country there are some important days.</sent>
+				<sent id ="73">These are our national days.</sent>
+				<sent id ="74">The national days are : 1.The Martyrs Day, 2.The Independence Day & 3.The Victory Day.</sent>
+				<sent id ="75">These days have special meanings in our lives.</sent>
+				<sent id ="76">Every year we celebrate these days.</sent>
+				<sent id ="77">The 21st of February is our Martyrs day.</sent>
+				<sent id ="78">Every year we celebrate this day with great importance.</sent>
+				<sent id ="79">In 1947 the Subcontinent was divided and India and Pakistan were born.</sent>
+				<sent id ="80">There were two parts of Pakistan : West Pakistan and East Pakistan.</sent>
+				<sent id ="81">Our Banlgadesh was East Bengal befor and later it became East Pakistan.</sent>
+				<sent id ="82">But the people of East Pakistan did not accept it.</sent>
+				<sent id ="83">They started a movement to make Bengali the state language.</sent>
+				<sent id ="84">Gradually this demand took the from of a Mass Movement.</sent>
+				<sent id ="85">We call them The Language Martyrs.</sent>
+				<sent id ="86">Few Language Martyrs are Salam, Barkat, Rafique, Jabbar and Shafiul.</sent>
+				<sent id ="87">The 21st February is called Martyrs Day because they were martyred for the language.</sent>
+				<sent id ="88">We celebrate this day nationally.</sent>
+				<sent id ="89">In Dhaka, the Central Martyrs Memorial Shahid Minar has been built in their memory.</sent>
+				<sent id ="90">Abdul Gaffar Choudhury has composed the song and its musician is Shahid Altaf Mahmud.</sent>
+				<sent id ="91">Every year on this day we show respect to our martyrs.</sent>
+				<sent id ="92">Our Matyred Day (Shahid Dibosh) has now earned the recognition of the whole world.</sent>
+				<sent id ="93">Today this day is observed all over the world as the Intarnational Mother Language dat.</sent>
+				<sent id ="94">We have learnt before that the 26th of March is our Independence Day.</sent>
+				<sent id ="95">This day is also a national day.</sent>
+				<sent id ="96">The West Pakistanis were favoured more in education, in jobs, in trade and commerce etc.</sent>
+				<sent id ="97">The people of East Pakistan always raised protest against these.</sent>
+				<sent id ="98">In 1969, the movement turned into a mass uprising.</sent>
+				<sent id ="99">In 1970 a general election was held all over Pakistan.</sent>
+				<sent id ="100">But they were not allowed to form a Government.</sent>
+				<sent id ="101">On 7 March Bangabandhu called for Independence.</sent>
+				<sent id ="102">And the Non- Cooperation Movement started.</sent>
+				<sent id ="103">The rulers of Pakistan chose to suppress the movement with an iron hand.</sent>
+				<sent id ="104">On the night of 25th March 1971, the Pakistani army attacked the Bengalis.</sent>
+				<sent id ="105">They killed many Bengalis.</sent>
+				<sent id ="106">After this killing the people of East Pakistan became agitated.</sent>
+				<sent id ="107">The Pakistani army arrested Bangabandhu on that very night.</sent>
+				<sent id ="108">This declaration was broadcast from the Swadin Bangla Beter Kendra in Chittagong.</sent>
+				<sent id ="109">For this reason the 26th of March is our national day.</sent>
+				<sent id ="110">We celebrate the day by different functions.</sent>
+				<sent id ="111">On this day we put flowers at the National Monument.</sent>
+				<sent id ="112">From the 26th of March the war of independence started against the cruel occupation forces.</sent>
+				<sent id ="113">The war continued for nine months.</sent>
+				<sent id ="114">On the 16th December, 1971 thepakistan Force accepted defeat and surrendered.</sent>
+				<sent id ="115">We became Free from the enemis and earned our victory.</sent>
+				<sent id ="116">This day is our Victory Day.</sent>
+				<sent id ="117">We celebrate this day like the independence day.</sent>
+				<sent id ="118">Now let us fill up the table below.</sent>
+				<sent id ="119">We will always keep in mind the names of our national days.</sent>
+				<sent id ="120">We will honour these days.</sent>
+				<sent id ="121">We will take part in the functions arranged on these occasions.</sent>
+				<sent id ="122">We have some social festivals.</sent>
+				<sent id ="123">Our main social festival is Bengali New Year.</sent>
+				<sent id ="124">Tne month of Baishakh is the first month of the Bengali year.</sent>
+				<sent id ="125">Pahela Baishakh the first day of Baishakh is celebrated as a New Year.</sent>
+				<sent id ="126">In our social life this day is very important.</sent>
+				<sent id ="127">We celebrate this day by different functions and activities.</sent>
+				<sent id ="128">On this day fairs are organized at many places in our country.</sent>
+				<sent id ="129">Various toys and things made in our country are sold in these fairs.</sent>
+				<sent id ="130">Various sports and games are organized in these fairs.</sent>
+				<sent id ="131">Different places in the country celebrate the New Year in different ways.</sent>
+				<sent id ="132">The important ones are music, sports, boat races, puppet shows, merry-go-rounds etc.</sent>
+				<sent id ="133">The business communities organize open new account books on the New Year day.</sent>
+				<sent id ="134">The indigenous people of this country also celebrate their New Year at this time.</sent>
+				<sent id ="135">We celebrate different religious festivals.</sent>
+				<sent id ="136">The Hindus celebrate, the DurgaPuja, the SarwasathiPuja, LaxmiPuja, etc.</sent>
+				<sent id ="137">The Buddhists celebrate the Buddho Purnima, the Maghi Purnima, etc.</sent>
+				<sent id ="138">The Christians celebrate the Christmas Day, the Good Friday, the Easter Sunday, etc.</sent>
+				<sent id ="139">Through these events we will love our country.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

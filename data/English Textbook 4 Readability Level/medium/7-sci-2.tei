@@ -1,0 +1,193 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>7-sci-2</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:00.03</idno>
+				<idno type="Number of sentences">165</idno>
+				<idno type="Number of tokens">2344</idno>
+				<idno type="Number of token types">629</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t64">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">You have learnt in class six that the weight of an object is the force of attraction with which the earth pulls the object.</sent>
+				<sent id ="2">You have also learnt that pressure refers to a force applied on a unit area.</sent>
+				<sent id ="3">Therefore, any object, which has weight, exerts pressure.</sent>
+				<sent id ="4">Liquid has weight; also it exerts pressure.</sent>
+				<sent id ="5">The force applied by a liquid perpendicularly on a unit area around a point in the liquid is called the pressure of liquid.</sent>
+				<sent id ="6">Liquid is always kept in a container.</sent>
+				<sent id ="7">Liquid applies pressure on the bottom and walls of the container.</sent>
+				<sent id ="8">There are some characteristics of the pressure of a liquid.</sent>
+				<sent id ="9">A solid substance exerts only downward pressure but a liquid in addition to its downward pressure also exerts upward and lateral pressure.</sent>
+				<sent id ="10">We can learn these characteristics by performing some experiments.</sent>
+				<sent id ="11">Experiment 1: Take a long can or pot of tin.</sent>
+				<sent id ="12">Make three holes at different heights up and down on the same line.</sent>
+				<sent id ="13">Seal the holes with wax and fill the can with water.</sent>
+				<sent id ="14">Now open all the holes at a time.</sent>
+				<sent id ="15">You will observe that jets of water are coming out of the holes in a position perpendicular to the wall of the container.</sent>
+				<sent id ="16">However, the jets of water can-not proceed perpendiculary too far, since the gravitational force of the earth pulls the jets downward.</sent>
+				<sent id ="17">You will further observe that water coming out of the highest hole has the least speed and falls nearest to the can.</sent>
+				<sent id ="18">Water coming out of the lowest hole has the greatest speed and falls further away.</sent>
+				<sent id ="19">What's the reason?</sent>
+				<sent id ="20">The reason is that the pressure at any point in a liquid depends on the depth of water upto the level at that point.</sent>
+				<sent id ="21">The topmost hole has the least depth.</sent>
+				<sent id ="22">So, the pressure of water at that level is the lowest.</sent>
+				<sent id ="23">So at that level, water pressure is low.</sent>
+				<sent id ="24">Therefore, water comes out slowly from the topmost hole and falls nearer to the container.</sent>
+				<sent id ="25">The depth of liquid is the greatest at the lowest hole.</sent>
+				<sent id ="26">Therefore, the depth of water and consequently the pressure at that level is the highest.</sent>
+				<sent id ="27">So, water comes out with the highest speed from this hole and falls furthermost away.</sent>
+				<sent id ="28">What did we learn from this experiment?</sent>
+				<sent id ="29">We came to know that the pressure of a liquid depends on the depth of the liquid.</sent>
+				<sent id ="30">The more the depth, the more the pressure is.</sent>
+				<sent id ="31">Again water comes out laterally through all the three holes.</sent>
+				<sent id ="32">Therefore, water exerts lateral pressure.</sent>
+				<sent id ="33">Liquid exerts lateral pressure perpendicular to the wall of the container.</sent>
+				<sent id ="34">During the construction of a dam the lower part of the dam is made wider than the upper part.</sent>
+				<sent id ="35">Can you say why this is done?</sent>
+				<sent id ="36">Experiment 2: Take a glass funnel.</sent>
+				<sent id ="37">Close the mouth of the funnel tightly with a thin piece of rubber.</sent>
+				<sent id ="38">Connect one end of a rubber tube with the funnel tube and the other end with a manometer.</sent>
+				<sent id ="39">Manometer is a simple device for measuring pressure.</sent>
+				<sent id ="40">It is a U-shaped glass tube.</sent>
+				<sent id ="41">A quantity of liquid, e.g., water or mercury is poured into the tube.</sent>
+				<sent id ="42">A scale is attached with the manometer.</sent>
+				<sent id ="43">Difference in heights of the liquid between the two sides is measured with the scale.</sent>
+				<sent id ="44">Now fill up a large beaker or a glass container with water.</sent>
+				<sent id ="45">Immerse the funnel with its mouth downward into water.</sent>
+				<sent id ="46">Look at the manometer.</sent>
+				<sent id ="47">What will you see?</sent>
+				<sent id ="48">What is the reason behind it?</sent>
+				<sent id ="49">The reason is that water exerts pressure on the rubber attached to the mouth of the funnel.</sent>
+				<sent id ="50">This presses the air inside the funnel.</sent>
+				<sent id ="51">The air in turn presses the liquid of the manometer.</sent>
+				<sent id ="52">This causes the level of liquid goes down.</sent>
+				<sent id ="53">You can find the difference in the heights of liquid in two arms by readings from the scale.</sent>
+				<sent id ="54">Now keeping the funnel at the same depth, turn its mouth to all directions, i.e, turn upward, downward and laterally.</sent>
+				<sent id ="55">Keep your eyes fixed on the manometer.</sent>
+				<sent id ="56">You will see that there had been no change in heights of the liquid.</sent>
+				<sent id ="57">What does this prove?</sent>
+				<sent id ="58">This proves that liquid exerts upward, downward and lateral pressure and that pressure at any point in a liquid is the same in all directions.</sent>
+				<sent id ="59">If you submerge the funnel further deep into water, you will see that the difference in heights of the liquid in two arms increases.</sent>
+				<sent id ="60">This proves that pressure of liquid increases with the increase in depth.</sent>
+				<sent id ="61">Now take liquids of different densities in separate containers and repeat the same experiment.</sent>
+				<sent id ="62">You will see that pressure at the same depth in a liquid depends on the density of the liquid.</sent>
+				<sent id ="63">The more is the density of a liquid, the more is the pressure.</sent>
+				<sent id ="64">Experiment 3: Take a glass cylinder with both ends open.</sent>
+				<sent id ="65">Take also a thin metal disc with a hook such that it can close the lower end of the cylinder.</sent>
+				<sent id ="66">Tie a string to the hook and close the lower end of the cylinder by pulling the disc upward.</sent>
+				<sent id ="67">At this stage submerge a part of the cylinder vertically into water.</sent>
+				<sent id ="68">Release the string; take care that no water enters into the cylinder through the sides of the disc.</sent>
+				<sent id ="69">What is the reason?</sent>
+				<sent id ="70">The reason is that the upward pressure of water keeps the disc stuck to the opening of the cylinder.</sent>
+				<sent id ="71">Now take some coloured water in a container and pour it slowly into the cylinder.</sent>
+				<sent id ="72">You will see that when water inside and outside the cylinder comes to the same level, the disc falls down spontaneously.</sent>
+				<sent id ="73">Why does this happen?</sent>
+				<sent id ="74">This happens because water inside the cylinder exerts downward pressure on the disc whereas water outside the cylinder exerts upward pressure.</sent>
+				<sent id ="75">When water inside and outside the cylinder come to the same level, the upward and the downward pressure of water on the disc becomes equal.</sent>
+				<sent id ="76">As a result, the disc falls down due to its own weight.</sent>
+				<sent id ="77">Therefore, we observe that the upward and the downward pressure of a liquid are equal at any point at the same depth of the liquid.</sent>
+				<sent id ="78">If- depth increases, pressure also increases.</sent>
+				<sent id ="79">If depth decreases, pressure also decreases; All kinds of liquid exert upward, downward and lateral pressure;</sent>
+				<sent id ="80">Liquid, at rest, exerts pressure at a point within it in all directions with equal magnitude;</sent>
+				<sent id ="81">The pressure at any point in a liquid at rest depends on the density of the liquid.</sent>
+				<sent id ="82">If the density of a liquid increases, pressure also increases.</sent>
+				<sent id ="83">If the density decreases, pressure also decreases and The upward pressure at any point in a liquid at rest is equal to the downward pressure.</sent>
+				<sent id ="84">Pascal, a French scientist, conducted a good number of experiments on liquid pressure.</sent>
+				<sent id ="85">In one of his experiments, he made a special type of spray.</sent>
+				<sent id ="86">This spray had a hollow sphere attached to its one end.</sent>
+				<sent id ="87">Some small holes of equal size were made on the sphere and the holes were sealed with wax.</sent>
+				<sent id ="88">The sphere was filled up with water and wax was removed from the holes with a pin.</sent>
+				<sent id ="89">Pressure was then applied on water by pressing the piston of the spray.</sent>
+				<sent id ="90">It was observed that water was coming out with equal speed from all the holes.</sent>
+				<sent id ="91">He concluded from this experiment that the pressure of the piston was distributed in water equally in all directions.</sent>
+				<sent id ="92">He expressed his conclusion in the form of a law, which later on was termed as Pascal's Law after his name.</sent>
+				<sent id ="93">Experiment: Take a rubber ball.</sent>
+				<sent id ="94">Make a small hole on its surface to pour water through it.</sent>
+				<sent id ="95">Fill up the ball with water.</sent>
+				<sent id ="96">Make some holes on the ball's surface with a pin.</sent>
+				<sent id ="97">Now close the first hole with your thumb and press on other parts of the ball.</sent>
+				<sent id ="98">You will see that water comes out through all the holes at right angles to the surface of the ball and with equal speed.</sent>
+				<sent id ="99">Therefore, it is proved that if pressure is exerted upon a confined liquid at any point, it is transmitted in all directions equally.</sent>
+				<sent id ="100">i.e., it remains undiminished and acts at right angles to the surface of the container.</sent>
+				<sent id ="101">Upward pressure decreases weight Submerge a football into a bucket of water and keep on holding it under water.</sent>
+				<sent id ="102">It will appear to you as if someone is pushing the ball upward.</sent>
+				<sent id ="103">Take your hands off; the ball will jump up and float on water.</sent>
+				<sent id ="104">Can you say what the cause is?</sent>
+				<sent id ="105">The upward pressure of water is the cause.</sent>
+				<sent id ="106">Immerse a mug in a bucket of water and fill it up with water.</sent>
+				<sent id ="107">You will feel that the mug is much lighter when it is held under water.</sent>
+				<sent id ="108">It will appear to be almost weightless.</sent>
+				<sent id ="109">If you tie a brick with a rope and immerse it in water, you will feel that the brick is lighter than before.</sent>
+				<sent id ="110">It is felt heavier when it is pulled up above water.</sent>
+				<sent id ="111">The weight seems to be much less.</sent>
+				<sent id ="112">We can determine by the following experiment to what extent the weight of a body decreases when it is immersed in water.</sent>
+				<sent id ="113">Experiment: Hang a piece of stone or a brick by the hook of a spring balance.</sent>
+				<sent id ="114">Determine its weight from the reading of the balance.</sent>
+				<sent id ="115">Now immerse it into the water of a container full to the brim (see figure 2.6).</sent>
+				<sent id ="116">Some water will be displaced from the container.</sent>
+				<sent id ="117">Store the displaced water in another container.</sent>
+				<sent id ="118">The volume of the displaced water equals the volume of the object.</sent>
+				<sent id ="119">The weight of the object immersed in water can be determined from the reading of the spring balance.</sent>
+				<sent id ="120">This weight will be less than the weight determined earlier.</sent>
+				<sent id ="121">The weight of the object decreases to the extent to which upward pressure of water acts on it.</sent>
+				<sent id ="122">In other words, weight of displaced water = upward pressure of water = apparent loss of weight.</sent>
+				<sent id ="123">Therefore, it is observed that when a solid is immersed in a liquid at rest, the liquid exerts an upward pressure on the solid.</sent>
+				<sent id ="124">As a result, the solid seems to lose some weight.</sent>
+				<sent id ="125">This apparent loss in the weight of the solid is equal to the weight of the liquid displaced by the solid.</sent>
+				<sent id ="126">This principle is known as Archimedes Principle.</sent>
+				<sent id ="127">Archimedes, a famous Greek scientist, discovered this principle about 2200 years ago.</sent>
+				<sent id ="128">Which object sinks, which object floats When an object is immersed in a liquid partially or totally, two forces act on it;</sent>
+				<sent id ="129">one is the weight of the object, which acts downward and the other is the upward pressure of the liquid that works upward.</sent>
+				<sent id ="130">If the weight of the object becomes lower than the upward pressure of the liquid, the upward force will push it up.</sent>
+				<sent id ="131">As a result, the object will float on the liquid partially immersed.</sent>
+				<sent id ="132">However, what will happen if the weight of the object equals the upward pressure of the liquid?</sent>
+				<sent id ="133">In this state, the object will neither float nor sink.</sent>
+				<sent id ="134">It will keep on floating totally immersed in the liquid.</sent>
+				<sent id ="135">The upward pressure of a liquid equals the weight of the liquid displaced by an object.</sent>
+				<sent id ="136">Therefore, the object floats on the liquid when the weight of the displaced liquid is greater than the weight of the object.</sent>
+				<sent id ="137">Whereas the object sinks into the liquid when the weight of the displaced liquid becomes lower than the weight of the object.</sent>
+				<sent id ="138">When the weight of the displaced liquid equals the weight of the object, the object floats at any position in the submerged condition.</sent>
+				<sent id ="139">Now can you say why a piece of iron sinks into water, whereas a ship made of iron floats?</sent>
+				<sent id ="140">The reason is, when a piece of iron is immersed in water it displaces an amount of water equal to its volume.</sent>
+				<sent id ="141">Since the weight of iron is greater than the weight of equivalent volume of water displaced by it, iron sinks into water.</sent>
+				<sent id ="142">A ship, though made of iron, is hollow and its bottom is much wide, so it displaces a large volume of water.</sent>
+				<sent id ="143">The weight of this displaced water is much greater than the weight of the ship.</sent>
+				<sent id ="144">So, the ship floats on water.</sent>
+				<sent id ="145">The weight of a liquid depends on its density.</sent>
+				<sent id ="146">If density increases, weight also increases.</sent>
+				<sent id ="147">Now say, if a ship enters from sea into a river, will it float sinking more or less?</sent>
+				<sent id ="148">Sink or float in sinking position?</sent>
+				<sent id ="149">Hydraulic press is an example of a practical application of the Pascal's Law.</sent>
+				<sent id ="150">It can be demonstrated with the help of Pascal's Law that the same pressure when applied on a larger area increases the force.</sent>
+				<sent id ="151">In other words applying a low force on one side of a hydraulic press, a high force may be obtained on the other side.</sent>
+				<sent id ="152">This principle of increasing force has been illustrated in figure 2.This container is a U-shaped cylinder full of water.</sent>
+				<sent id ="153">One arm of the container is slender and the other is wider.</sent>
+				<sent id ="154">Both arms have watertight pistons.</sent>
+				<sent id ="155">Suppose, the cross-section of the slender arm, has an area of 10 sq.</sent>
+				<sent id ="156">cm and the cross section of the wider arm has an area of 1000 sq cm.</sent>
+				<sent id ="157">We know, pressure = force/area.</sent>
+				<sent id ="158">According to Pascal's Law, this pressure will be transmitted unchanged through the liquid in all directions.</sent>
+				<sent id ="159">That is, this pressure will act upward on the wider piston, consequently the upward pressure on the wide piston will be 1x1000 = 1000 Newton.</sent>
+				<sent id ="160">Hydraulic Press is constructed on the basis of this principle of increasing force.</sent>
+				<sent id ="161">Hydraulic Press: When piston P2 (see fig 2.8) is pulled up by lever L, valve V2 remains closed.</sent>
+				<sent id ="162">As a result, water is transmitted from container A to container B through a metallic tube greater than that of piston P2.</sent>
+				<sent id ="163">After the completion of a cycle of work, the connecting key T between the reservoir and the metal tube is opened.</sent>
+				<sent id ="164">At this position, piston P1 comes down and water returns back to the reservoir from container B.</sent>
+				<sent id ="165">This machine is used for pressing bales of jute, cotton, and clothes etc. extracting oil from oil seeds and for such other works.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>

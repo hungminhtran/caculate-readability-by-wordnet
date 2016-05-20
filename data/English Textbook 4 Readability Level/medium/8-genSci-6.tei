@@ -1,0 +1,186 @@
+<!DOCTYPE TEI PUBLIC '-//TEI//DTD TEI XML ver. 1' 'http://dtd.hucompute.org/tei_all.dtd'>
+<TEI xml:id="TEd1">
+	<teiHeader>
+		<fileDesc>
+			<description>Readability corpus from English textbooks</description>
+			<titleStmt>
+				<title>8-genSci-6</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="Timestamp">2014-10-30 12:56:02.267</idno>
+				<idno type="Number of sentences">158</idno>
+				<idno type="Number of tokens">2012</idno>
+				<idno type="Number of token types">656</idno>
+				<idno type="Readability level">medium</idno>
+				<idno type="Language">English</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Name: API-Corpus; Source: API</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="t145">
+		<body xml:id="b1">
+			<div xml:id="xd1_di1">
+				<sent id ="1">Science is a practical subject.</sent>
+				<sent id ="2">Science education is not complete without practical experiences.</sent>
+				<sent id ="3">Once you know the theory and information of science, it is needed to experience the knowledge through experiments and practical applications.</sent>
+				<sent id ="4">This is the main objective of science education.</sent>
+				<sent id ="5">If the science education did not have a practical approach, it would be much easier to memorise the theory meticulously.</sent>
+				<sent id ="6">However, the practical aspect of studying science has made it more interesting as well as useful.</sent>
+				<sent id ="7">Learning science through practical work makes the learning more sustainable.</sent>
+				<sent id ="8">A laboratory, apparatus and chemical reagents are essential for the practical work of science.</sent>
+				<sent id ="9">But in our country there is no laboratory in many schools and there is a shortage of equipments.</sent>
+				<sent id ="10">But due to shortage of laboratory and equipments one should not stop doing the practical experiments of science.</sent>
+				<sent id ="11">The idea that we always need well equipped laboratories for practical work of science is not correct.</sent>
+				<sent id ="12">There are many things around us which can be used to run scientific experiments.</sent>
+				<sent id ="13">If we are willing and if we have the interest, then we can do many such experiments with simple things which are available around us.</sent>
+				<sent id ="14">How can we do these?</sent>
+				<sent id ="15">In this chapter we shall discuss some common laboratory process.</sent>
+				<sent id ="16">Now the question is what we understand by a common laboratory process?</sent>
+				<sent id ="17">To learn science and gain knowledge through practical work the methods that we usually use in a laboratory are called common laboratory processes.</sent>
+				<sent id ="18">There is no mneed of a well furnished laboratory or costly equipment for such experiments.</sent>
+				<sent id ="19">Only a simple room is sufficient to do this.</sent>
+				<sent id ="20">Moreover, if any separate room is not available, we can use our class room as a laboratory.</sent>
+				<sent id ="21">For such simple experiments it is not required to purchase equipments from the market.</sent>
+				<sent id ="22">If you try, you can also prepare it.</sent>
+				<sent id ="23">Let us make some simple equipment suitable for using in the laboratory and try to use them.</sent>
+				<sent id ="24">Various types of apparatuses are needed to work in a laboratory.</sent>
+				<sent id ="25">All the apparatuses are not always available.</sent>
+				<sent id ="26">Small parts like delivery tube, connecting rubber tube, jet tube, cork with bores etc. can be made by you in the laboratory.</sent>
+				<sent id ="27">Objectives: To cut a glass tube of a definite size.</sent>
+				<sent id ="28">Necessary tools: A triangular file, glass tube, spirit lamp, asbestos, a scale.</sent>
+				<sent id ="29">Take a clean narrow glass tube and place it on a plain table and hold it pressed by your left hand.</sent>
+				<sent id ="30">Place an edge of a file on a part of the tube where you want to divide it and draw the file forward and backward.</sent>
+				<sent id ="31">Take the tube in your hands.</sent>
+				<sent id ="32">Press gently on the fissure by the thumbs of your two hands.</sent>
+				<sent id ="33">Bend the right and the left parts towards you.</sent>
+				<sent id ="34">The glass tube will be divided across the cut mark.</sent>
+				<sent id ="35">In this way, make pieces of glass tube as many as you need.</sent>
+				<sent id ="36">The cut ends of the tube are very sharp.</sent>
+				<sent id ="37">To make them smooth, heat them on spirit lamp and rotate slowly.</sent>
+				<sent id ="38">When the end of the glass tube becomes red hot then remove it and cool down by keeping it on the asbestos sheet.</sent>
+				<sent id ="39">Only one mark is to be given in the tube by the file.</sent>
+				<sent id ="40">Do not touch the red hot end of the tube.</sent>
+				<sent id ="41">Move slowly the end of the glass tube on the spirit lamp.</sent>
+				<sent id ="42">Otherwise the tube may crack.</sent>
+				<sent id ="43">Cut the glass tube to the desired length with a file.</sent>
+				<sent id ="44">Then put the place where the tube is to be bent hold on the flame.</sent>
+				<sent id ="45">When the heated tube is soft, it will bend automatically.</sent>
+				<sent id ="46">Wait until the tube cools down.</sent>
+				<sent id ="47">Do not touch the heated tube and don't keep it on the table.</sent>
+				<sent id ="48">Precaution must be taken so that the flame can heat 4-5 cm of the tube.</sent>
+				<sent id ="49">Care must be taken so that the bending of the tube is uniform.</sent>
+				<sent id ="50">See figure 6.The first two bent tubes are not perfect but the 3rd one is perfect.</sent>
+				<sent id ="51">Cool the heated tube as slowly as possible.</sent>
+				<sent id ="52">Objectives: Making a jet tube and necessary parts of a wash bottle.</sent>
+				<sent id ="53">What is a jet tube?</sent>
+				<sent id ="54">You have seen the ink dropper.</sent>
+				<sent id ="55">Jet tube is a glass tube having the shape of a dropper.</sent>
+				<sent id ="56">One end of a glass tube is broad and another end gradually becomes narrow and turns into a capillary tube.</sent>
+				<sent id ="57">This type of tube is called a jet tube.</sent>
+				<sent id ="58">Cut about 10 cm off a narrow glass tube.</sent>
+				<sent id ="59">Hold the glass tube on the flame of the spirit lamp.</sent>
+				<sent id ="60">Keep it parallel to the earth surface so that the middle of the tube is placed just above the flame.</sent>
+				<sent id ="61">Rotate the tube slowly.</sent>
+				<sent id ="62">Remove the tube when the heated place becomes soft and pull the tube with equal force from both sides.</sent>
+				<sent id ="63">Thus it becomes gradually narrow at the heated place.</sent>
+				<sent id ="64">Remember, the tube should remain straight during pulling.</sent>
+				<sent id ="65">Otherwise, the jet may bend.</sent>
+				<sent id ="66">The bend should not be pulled forcibly or quickly; other wise the tube may be broken or its mouth may be closed.</sent>
+				<sent id ="67">Cool the tube on the asbestos sheet.</sent>
+				<sent id ="68">After cooling divide it at the middle of the capillary portion with a file.</sent>
+				<sent id ="69">Cut down some portion of the capillary tube if necessary.</sent>
+				<sent id ="70">Making fine jet is not possible if the heated portion of the tube is not soft enough.</sent>
+				<sent id ="71">The tube should be pulled uniformly and slowly by holding the two ends at the same level.</sent>
+				<sent id ="72">Never touch the heated tube.</sent>
+				<sent id ="73">It is one type of pressing machine.</sent>
+				<sent id ="74">After placing the cork into it, the handle is pressed slowly downward and the cork is compressed by the pressing of a rotating roller wheel.</sent>
+				<sent id ="75">If a little big size cork is compressed, this may becomes very hard and air tight.</sent>
+				<sent id ="76">A cork borer is a combination of some metallic tubes of different diameters.</sent>
+				<sent id ="77">One end of the tube is very sharp and the other end contains a handle.</sent>
+				<sent id ="78">Select a suitable cork and wet it in water for 2-3 minutes.</sent>
+				<sent id ="79">Wet cork is to be compressed with pressing in a squeezer.</sent>
+				<sent id ="80">Take a borer smaller in size than the hole to be made in the cork and wet the sharp end in water or glycerine.</sent>
+				<sent id ="81">Keep the cork on the table.</sent>
+				<sent id ="82">Place its narrow end upward.</sent>
+				<sent id ="83">Hold the cork on the table with your left hand.</sent>
+				<sent id ="84">Press the sharp end of the borer with the right hand on the cork where it is to be bored.</sent>
+				<sent id ="85">Keep the borer upward.</sent>
+				<sent id ="86">Rotate the borer in right and left directions slowly.</sent>
+				<sent id ="87">If the rod is slanting, the hole will not be straight.</sent>
+				<sent id ="88">Until the borer reaches the opposite end of the cork, continue rotating the borer.</sent>
+				<sent id ="89">Take out the borer when it reaches near the bottom of the cork.</sent>
+				<sent id ="90">Then turn over the cork and place the borer on the opposite side to complete the bore.</sent>
+				<sent id ="91">Keep the borer upright.</sent>
+				<sent id ="92">If boring or is done quickly the cork will crack.</sent>
+				<sent id ="93">Never bore the cork from the broader end.</sent>
+				<sent id ="94">In that case the bore may not be straight.</sent>
+				<sent id ="95">A flat bottom flask is fitted with an air tight cork through which two tubes are passed.</sent>
+				<sent id ="96">One end of the longer tube reaches almost the bottom of the flask and another tube goes just below the end of the cork.</sent>
+				<sent id ="97">the other end of the long tube is bent at an angle of 60o and a jet is attached to the end.</sent>
+				<sent id ="98">Figure : 6.12 Boring of a cork The second tube is bent at an angle of 120o.</sent>
+				<sent id ="99">Such a bottle is called a wash bottle.</sent>
+				<sent id ="100">After removing the cork, fill the bottle with water and close it again.</sent>
+				<sent id ="101">If it is blown through the outer end of the small tube, there is a strong flow of water through the jet.</sent>
+				<sent id ="102">This is used in a laboratory for washing purposes.</sent>
+				<sent id ="103">At present plastic wash bottles are being used more than glass wash bottles.</sent>
+				<sent id ="104">Collect the above mentioned apparatuses or make them.</sent>
+				<sent id ="105">Fill the bottle with water and close its mouth with an air tight cork.</sent>
+				<sent id ="106">Wash bottle is completed.</sent>
+				<sent id ="107">The diameter of all the glass tubes should be equal.</sent>
+				<sent id ="108">Cork should not be cracked or should not have more than two bores.</sent>
+				<sent id ="109">Cork at bottom should be airtight.</sent>
+				<sent id ="110">The sheet of the filter paper is folded into equal segments as shown in This two folded paper is again folded into two segments.</sent>
+				<sent id ="111">Open one layer of the four folded paper and keep three layers on one side and one fold on another side.</sent>
+				<sent id ="112">It will look like a funnel.</sent>
+				<sent id ="113">Thus a cone with filter paper is made.</sent>
+				<sent id ="114">Place this folded filter paper into the funnel and wet it with water so that the filter paper is fully attached to the funnel.</sent>
+				<sent id ="115">Place the funnel in a ring attached as per clean beaker is placed below.</sent>
+				<sent id ="116">Any liquid changes to vapour when it is heated.</sent>
+				<sent id ="117">This vapour after cooling down again changes to liquid.</sent>
+				<sent id ="118">Such a process is called distillation.</sent>
+				<sent id ="119">Therefore, the processof converting a liquid nto its vapour and then cooling the vapour back into the liquid state is called distillation.</sent>
+				<sent id ="120">To obtain back salt from its water solution, the solution is heated and water evaporates as vapour.</sent>
+				<sent id ="121">Salt crystals remain at the bottom of the container.</sent>
+				<sent id ="122">This process is called vaporization.</sent>
+				<sent id ="123">In this process solvent or liquid water can not get back, because water vaporizes away.</sent>
+				<sent id ="124">If both the substances want to get back from solid and liquid or liquid and liquid mixture then distillation process is followed.</sent>
+				<sent id ="125">Take salt solution in a round bottom flask.</sent>
+				<sent id ="126">Fit a one hole cork at the mouth of the flask and make it airtight.</sent>
+				<sent id ="127">Introduce a glass tube bent twice at right angles in the hole of the cork as shown in the figure.</sent>
+				<sent id ="128">This tube acts as a delivery tube.</sent>
+				<sent id ="129">Introduce the other end of delivery tube into a test tube and place the test tube in the beaker of ice cold water.</sent>
+				<sent id ="130">Now heat the liquid of round bottle flask by Bunsen burner or spirit lamp.</sent>
+				<sent id ="131">Water converts into vapour and pass through the delivery tube.</sent>
+				<sent id ="132">Thus, distillation is the process by which liquid is first converted into its vapour by heating then converted to liquid by cooling the vapour.</sent>
+				<sent id ="133">The apparatus shown in figure 6.15 cannot work after some time because the delivery tube and the cold water kept in the beaker become warm.</sent>
+				<sent id ="134">So vapour does not condense into liquid.</sent>
+				<sent id ="135">To overcome this problem a special type of apparatus is used for distillation.</sent>
+				<sent id ="136">This apparatus is known as Liebig condenser which is named after its inventor.</sent>
+				<sent id ="137">In figure 6.16 the distillation process with Liebig's condenser and in figure 6.17, different parts of Liebig condenser are shown.</sent>
+				<sent id ="138">Take salt solution in a round bottom flask.</sent>
+				<sent id ="139">Take up a Liebig condenser.</sent>
+				<sent id ="140">Introduce the other end of the Liebig condenser into a beaker.</sent>
+				<sent id ="141">Liebig condenser has two side tubes.</sent>
+				<sent id ="142">Connect the lower tube with a water tap so that cold water can be injected.</sent>
+				<sent id ="143">The water leaves out through the upper side tube.</sent>
+				<sent id ="144">The cool of the condenser will make the vapour liquid again.</sent>
+				<sent id ="145">It will collect in the receiving beaker.</sent>
+				<sent id ="146">The liquid collected in the beaker is called liquid residue.</sent>
+				<sent id ="147">In this way, a solute and solvent can be separated from its solution by distillation process with Liebig condenser.</sent>
+				<sent id ="148">Camphor, iodine or naphthalene, when kept in open vessels evaporates slowly.</sent>
+				<sent id ="149">These solid substances when heated change to vapour directly without changing to a liquid state.</sent>
+				<sent id ="150">They are called volatile substances.</sent>
+				<sent id ="151">The sublimation process is illustrated by an example below.</sent>
+				<sent id ="152">Take some mixture of camphor and sugar in a porcelain basin.</sent>
+				<sent id ="153">Cover this mixture with a glass funnel.</sent>
+				<sent id ="154">Wrap up the funnel with a wet cloth.</sent>
+				<sent id ="155">Place the porcelain basin on a wire gauge or a sand bath and heat it gently.</sent>
+				<sent id ="156">You will see, after a short time, a solid layer of camphor is formed inside the funnel.</sent>
+				<sent id ="157">The sugar will remain in the porcelain basin.</sent>
+				<sent id ="158">When other substances are heated, they change to liquid unlike substances like camphor, iodine, ammonium chloride, etc.</sent>
+			</div>
+		</body>
+	</text>
+</TEI>
