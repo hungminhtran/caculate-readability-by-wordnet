@@ -60,30 +60,17 @@ def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS, printForDeBug
             print "all nouns:"
             print nounsInput
         return float(len(nounsBLWInput))/len(nounsInput)*100, nounsBLWInput, nounsInput
-
-def listAllFile(fullPath, listSubDir = 0):
-    from os import listdir
-    from os.path import isfile, join, isdir
-
-    onlyfiles = []
-    for f in listdir(fullPath):
-        tf = join(fullPath, f)
-        if isfile(tf):
-            onlyfiles.append(tf)
-        elif (listSubDir):
-            temp = listAllFile(tf, listSubDir)
-            onlyfiles = onlyfiles + temp
-    return onlyfiles
 #a.e. bug
 # calculateReabilityByWordnetForEnglish('data/_testData.txt','all-BLW.txt','all-SORTED-wordnet-nouns.txt', 1)
-output = open('data/output_English Textbook 4 Readability Level_WN.csv', 'w')
-output.write("file;ratio;blw;allNoun\n")
-# for f in listAllFile('data/testDataTEI', 1):
+
+# output = open('data/output_English Textbook 4 Readability Level_WN.csv', 'w')
+# output.write("file;ratio;blw;allNoun\n")
+# for f in mod1.listAllFile('data/testDataTEI', 1):
 #     output.write(f + ";");
 #     ratio, blwN, allN = calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt', 0, 1)
 #     output.write(str(ratio) + ";" + " | ".join(blwN) + ";"  + " | ".join(allN) + "\n")
 
-for f in listAllFile('data/English Textbook 4 Readability Level', 1):
+for f in mod1.listAllFile('data/English Textbook 4 Readability Level', 1):
     output.write(f + ";");
     ratio, blwN, allN = calculateReabilityByWordnetForEnglish(f,'all-BLW.txt','all-SORTED-wordnet-nouns.txt', 0, 1)
     output.write(str(ratio) + ";" + " | ".join(blwN) + ";"  + " | ".join(allN) + "\n")

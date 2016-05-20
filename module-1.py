@@ -6,6 +6,20 @@ import pickle
 
 MAX_LEVEL = 6
 
+def listAllFile(fullPath, listSubDir = 0):
+    from os import listdir
+    from os.path import isfile, join, isdir
+
+    onlyfiles = []
+    for f in listdir(fullPath):
+        tf = join(fullPath, f)
+        if isfile(tf):
+            onlyfiles.append(tf)
+        elif (listSubDir):
+            temp = listAllFile(tf, listSubDir)
+            onlyfiles = onlyfiles + temp
+    return onlyfiles
+
 #input: noun
 #output: standardized noun
 def standanizeNoun(noun):
