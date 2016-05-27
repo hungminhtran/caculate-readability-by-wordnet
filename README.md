@@ -1,8 +1,8 @@
-Caculate readability using wordneet
+#Caculate readability using wordneet
 
 A part of dissertation: "Measurement of Vietnamese text readability"
 
-command line:
+#Command line:
 
 python module-2.py 4 data/testDataTEI data/output.csv input/wn-nouns/all-BLW.txt input/wn-nouns/all-SORTED-wordnet-nouns.txt
 
