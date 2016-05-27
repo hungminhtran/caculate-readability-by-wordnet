@@ -26,9 +26,8 @@ def standanizeNoun(noun):
     tnoun = noun.replace(' ', '_')
     tnoun = wn.morphy(tnoun, wn.NOUN)
     return tnoun
-#clean 's, 've, 're
+
 #make . mean \.
-#remove all ['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']
 def standandlizeNounsForInputRegex(noun):
     #puctuation = ['\!', '"', '\#', '\$', '\%', '\&', '\(', '\)', '\*', '\+', ',', '-', '\.', '/', ':', ';', '<', '=', '>', '\?', '\@', '\[', '\\', '\]', '\^', '_', '`', '\{', '\|', '\}', '\~']
     tnoun = re.sub("'", "'__", noun)
@@ -161,6 +160,7 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile):
     outputAllbacsicLvlWord = open(ouputFile[1], 'w+')
     outputABLW = open(ouputFile[2], "w+")
     for i in range(0, len(nouns)):
+        nouns[i] = nouns[i].lower()
         if nouns[i]:
             t = isABacsicWord(nouns[i])
             if (t != -1):
@@ -178,3 +178,4 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile):
 
 # getListOfNounsWithCompoundNounsFirst('all-wordnet-nouns.txt', "all-SORTED-wordnet-nouns.txt")
 # getStatisticsWithAllNouns('all-SORTED-wordnet-nouns.txt', ["all-nouns-STATISTIC.txt", "all-BLW-statistic.txt", "all-BLW.txt"])
+# getStatisticsWithAllNouns('input/freq-nouns/words_freq_SORTED.txt', ["input/freq-nouns/all-nouns-STATISTIC.txt","input/freq-nouns/all-BLW-statistic.txt", "input/freq-nouns/all-BLW.txt"])
