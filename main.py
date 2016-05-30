@@ -16,7 +16,7 @@ def generateOutput(processID, filesPath, queue, PROCESS_LOCK, TOTAL_TIME, INPUT_
         TOTAL_TIME[0] = TOTAL_TIME[0] + 1
         TOTAL_TIME[1] = TOTAL_TIME[1] + endTime - startTime
         print(int(TOTAL_TIME[0]), ". process ", processID, " ", file, " time cost: ", int(time.time() - startTime), " time total currently: ", int(TOTAL_TIME[1]))
-        queue.put(file + ";"+str(ratio) + ";" + " | ".join(blwN) + ";"  + " | ".join(allN) + "\n")
+        queue.put(file + ","+str(ratio) + "," + " | ".join(blwN) + ","  + " | ".join(allN) + "\n")
         PROCESS_LOCK.release()
 
 mainStartTime = time.time();
@@ -34,7 +34,7 @@ files = mod1.listAllFile(FILEPATH, 1)
 partFiles = len(files)/MAX_PROCESS
 myProcess = []
 lock = Lock()
-TOTAL_TIME = Array('f', [0, 0], lock=False)
+TOTAL_TIME = Array('f', [0, 0])
 for processID in range(MAX_PROCESS-1):
     tmp = files[int(processID * partFiles):int((processID+1)*partFiles)]
     tmp = Process(target=generateOutput, args=(processID, tmp, queue, lock, TOTAL_TIME, INPUT_BLW_NOUNS, INPUT_ALL_NOUNS, 0, 1, ))
@@ -50,7 +50,7 @@ print("average time if do in", MAX_PROCESS, "process for one file: ", (mainEndTi
 print("program time cost (1 process): ", TOTAL_TIME[1])
 print("program time cost: ", (mainEndTime - mainStartTime))
 output = open(outputPath, 'w')
-output.write("file;ratio;blw;allNoun\n")
+output.write("file,ratio,blw,allNoun\n")
 # output.write(queue)
 while (not queue.empty()):
     output.write(queue.get())
