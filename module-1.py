@@ -179,6 +179,6 @@ if __name__ == '__main__':
     getListOfNounsWithCompoundNounsFirst('input/wn-nouns/all-wn-nouns.txt', "input/wn-nouns/all-wn-SORTED-nouns.txt")
     getStatisticsWithAllNouns('input/wn-nouns/all-wn-SORTED-nouns.txt', ["input/wn-nouns/all-wn-nouns-STATISTIC.txt", "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"])
     getStatisticsWithAllNouns('input/freq-nouns/3000-freq-word-SORTED.txt', ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt","input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"])
-    print 'create file sucessfully'
+    print('create file sucessfully')
 else:
-    print 'import module-1 sucessfully'
+    print('import module-1 sucessfully')
