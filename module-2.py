@@ -16,13 +16,13 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
             if (isFinOut > 0):
                 result.append(searchData[i])
                 if (printForDeBug == 1):
-                    print tempT[j]
-                    print inputData
+                    print(tempT[j])
+                    print(inputData)
     result = set(result)
     if (printForDeBug):
-        print "doc after re.sub all things:"
-        print inputData
-        print result
+        print("doc after re.sub all things:")
+        print(inputData)
+        print(result)
     return result
 
 def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS, printForDeBug=0, isTEI=0):
@@ -47,21 +47,21 @@ def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS, printForDeBug
 
     if (len(nounsInput) == 0):
         if (printForDeBug):
-            print "no BLW"
+            print("no BLW")
         return None
     else:
         if (printForDeBug):
-            print "ratio: ", float(len(nounsBLWInput))/len(nounsInput)*100, "%"
-            print "blw:"
-            print nounsBLWInput
-            print "all nouns:"
-            print nounsInput
+            print("ratio: ", float(len(nounsBLWInput))/len(nounsInput)*100, "%")
+            print("blw:")
+            print(nounsBLWInput)
+            print("all nouns:")
+            print(nounsInput)
         return float(len(nounsBLWInput))/len(nounsInput)*100, nounsBLWInput, nounsInput
 if __name__ == '__main__':
     #a.e. bug
     FILEPATH = 'data/testDataNM'
     files = mod1.listAllFile(FILEPATH, 1)
     for f in files:
-        print calculateReabilityByWordnetForEnglish(f,'input/wn-nouns/all-wn-BLW.txt','input/wn-nouns/all-wn-SORTED-nouns.txt', 0, 0)
+        print(calculateReabilityByWordnetForEnglish(f,'input/wn-nouns/all-wn-BLW.txt','input/wn-nouns/all-wn-SORTED-nouns.txt', 0, 0))
 else:
-    print 'import module-2 sucessfully'
+    print('import module-2 sucessfully')

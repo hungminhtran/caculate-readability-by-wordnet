@@ -15,7 +15,7 @@ def generateOutput(processID, filesPath, output, PROCESS_LOCK, TOTAL_TIME, INPUT
         PROCESS_LOCK.acquire()
         TOTAL_TIME[0] = TOTAL_TIME[0] + 1
         TOTAL_TIME[1] = TOTAL_TIME[1] + endTime - startTime
-        print TOTAL_TIME[0], ". process ", processID, " ", file, " time cost: ", time.time() - startTime, " time total currently: ", TOTAL_TIME[1]
+        print(TOTAL_TIME[0], ". process ", processID, " ", file, " time cost: ", time.time() - startTime, " time total currently: ", TOTAL_TIME[1])
         output.write(file + ";"+str(ratio) + ";" + " | ".join(blwN) + ";"  + " | ".join(allN) + "\n")
         PROCESS_LOCK.release()
 
@@ -28,7 +28,7 @@ INPUT_ALL_NOUNS = sys.argv[5]
 
 testDataTEIMod.testFunc(FILEPATH)
 
-print 'number of process:', MAX_PROCESS, ' working on ', FILEPATH, 'save as ', outputPath
+print('number of process:', MAX_PROCESS, ' working on ', FILEPATH, 'save as ', outputPath)
 output = open(outputPath, 'w')
 output.write("file;ratio;blw;allNoun\n")
 files = mod1.listAllFile(FILEPATH, 1)
@@ -37,17 +37,17 @@ myProcess = []
 lock = Lock()
 TOTAL_TIME = Array('f', [0, 0])
 for processID in range(MAX_PROCESS-1):
-    tmp = files[processID * partFiles:(processID+1)*partFiles]
+    tmp = files[int(processID * partFiles):int((processID+1)*partFiles)]
     tmp = Process(target=generateOutput, args=(processID, tmp, output, lock, TOTAL_TIME, INPUT_BLW_NOUNS, INPUT_ALL_NOUNS, 0, 1, ))
     myProcess.append(tmp)
-myProcess.append(Process(target=generateOutput, args=(MAX_PROCESS-1, files[(MAX_PROCESS - 1) * partFiles:], output, lock, TOTAL_TIME, INPUT_BLW_NOUNS, INPUT_ALL_NOUNS, 0, 1, )))
+myProcess.append(Process(target=generateOutput, args=(MAX_PROCESS-1, files[int((MAX_PROCESS - 1) * partFiles):], output, lock, TOTAL_TIME, INPUT_BLW_NOUNS, INPUT_ALL_NOUNS, 0, 1, )))
 for _process in myProcess:
     _process.start()
 for _process in myProcess:
     _process.join()
 mainEndTime = time.time();
-print "average time if do in one thread for one file: ", float(TOTAL_TIME[1])/TOTAL_TIME[0]
-print "average time if do in", MAX_PROCESS, "process for one file: ", (mainEndTime - mainStartTime)/TOTAL_TIME[0]
-print "program time cost (1 process): ", TOTAL_TIME[1]
-print "program time cost: ", (mainEndTime - mainStartTime)
+print("average time if do in one thread for one file: ", float(TOTAL_TIME[1])/TOTAL_TIME[0])
+print("average time if do in", MAX_PROCESS, "process for one file: ", (mainEndTime - mainStartTime)/TOTAL_TIME[0])
+print("program time cost (1 process): ", TOTAL_TIME[1])
+print("program time cost: ", (mainEndTime - mainStartTime))
 output.closed
