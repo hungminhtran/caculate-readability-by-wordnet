@@ -1,14 +1,28 @@
+#run command
+#python3 get-nouns-and-label.py 'input/POS-nouns' 'output/POS-output.txt'
+
 import sys
 import re
-import importlib
-mod1 = importlib.import_module("module-1")
-#run command
-#python get-nouns-and-label.py 'input/POS-nouns' 'output/POS-output.txt'
+
+def listAllFile(fullPath, listSubDir = 0):
+    from os import listdir
+    from os.path import isfile, join, isdir
+
+    onlyfiles = []
+    for f in listdir(fullPath):
+        tf = join(fullPath, f)
+        if isfile(tf):
+            onlyfiles.append(tf)
+        elif (listSubDir):
+            temp = listAllFile(tf, listSubDir)
+            onlyfiles = onlyfiles + temp
+    return onlyfiles
+
 
 print('can only find *.POS file')
 print('')
 outputFile = open(sys.argv[2], 'w+')
-for f in mod1.listAllFile(sys.argv[1], 1):
+for f in listAllFile(sys.argv[1], 1):
     if (re.search("\.POS$", f) != None):
         print('process file ', f)
         inputData = open(f, 'r').read()
