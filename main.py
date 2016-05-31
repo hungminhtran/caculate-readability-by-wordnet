@@ -8,7 +8,8 @@ mod1 = importlib.import_module("module-1")
 testDataTEIMod = importlib.import_module("test_ExtractText")
 
 #add a tuple of filepath [file1, file2, file3...]
-def generateOutput(processID, filesQueue, outQueue, PROCESS_LOCK, TOTAL_TIME, INPUT_BLW_NOUNS, INPUT_ALL_NOUNS, isDebug = 0, isTEI = 0):
+def generateOutput(processID, filesQueue, outQueue, PROCESS_LOCK, TOTAL_TIME, INPUT_BLW_NOUNS, INPUT_ALL_NOUNS, isDebug = 0
+, isTEI = 0):
     #loop till out of file
     startProTime = datetime.now().time()
     while (1):
@@ -23,14 +24,15 @@ def generateOutput(processID, filesQueue, outQueue, PROCESS_LOCK, TOTAL_TIME, IN
             PROCESS_LOCK.release()
             #begin calculate
             startTime = time.time();
-            ratio, blwN, allN = mod2.calculateReabilityByWordnetForEnglish(_file, INPUT_BLW_NOUNS, INPUT_ALL_NOUNS, isDebug, isTEI)
+            ratio, blwN, allN = mod2.calculateReabilityByWordnetForEnglish(_file, INPUT_BLW_NOUNS, INPUT_ALL_NOUNS, isDebug
+            , isTEI)
             endTime = time.time();
             #write down
             PROCESS_LOCK.acquire()
             TOTAL_TIME[0] = TOTAL_TIME[0] + 1
             TOTAL_TIME[1] = TOTAL_TIME[1] + endTime - startTime
-            print(int(TOTAL_TIME[0]), "-proc", processID, 'startTime', startProTime, _file, "-time cost:",
-            int(time.time() - startTime), "-time total", int(TOTAL_TIME[1]))
+            print(int(TOTAL_TIME[0]), "-proc", processID, 'startTime', startProTime,  "-time cost:",
+            int(time.time() - startTime), "-time total", int(TOTAL_TIME[1]), _file)
             outQueue.put(_file + ","+str(ratio) + "," + " | ".join(blwN) + ","  + " | ".join(allN) + "\n")
             PROCESS_LOCK.release()
 
@@ -46,7 +48,7 @@ if (__name__ == '__main__'):
     testDataTEIMod.testFunc(FILEPATH)
     print('number of process:', MAX_PROCESS, ' working on ', FILEPATH, 'save as ', outputPath, 'debug', DEBUG, 'is tiefile'
     , TEIFILE)
-
+    #queue use for handling file for each worker
     filesQueue = SimpleQueue()
     files = mod1.listAllFile(FILEPATH, 1)
     for f in files:
@@ -56,8 +58,8 @@ if (__name__ == '__main__'):
     TOTAL_TIME = Array('f', [0, 0])
     outQueue = SimpleQueue()
     for processID in range(MAX_PROCESS):
-        myProcess.append(Process(target=generateOutput, args=(processID, filesQueue, outQueue, lock, TOTAL_TIME, INPUT_BLW_NOUNS,
-        INPUT_ALL_NOUNS, DEBUG, TEIFILE)))
+        myProcess.append(Process(target=generateOutput, args=(processID, filesQueue, outQueue, lock, TOTAL_TIME,
+        INPUT_BLW_NOUNS, INPUT_ALL_NOUNS, DEBUG, TEIFILE)))
     for _process in myProcess:
         _process.start()
     for _process in myProcess:
