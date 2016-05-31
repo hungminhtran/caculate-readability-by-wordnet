@@ -4,14 +4,14 @@
 		<fileDesc>
 			<description>Readability corpus from English textbooks</description>
 			<titleStmt>
-				<title>7-agri-16</title>
+				<title>6-homeEco-6</title>
 			</titleStmt>
 			<publicationStmt>
-				<idno type="Timestamp">2014-10-30 12:55:58.75</idno>
-				<idno type="Number of sentences">55</idno>
-				<idno type="Number of tokens">677</idno>
-				<idno type="Number of token types">317</idno>
-				<idno type="Readability level">medium</idno>
+				<idno type="Timestamp">2014-10-30 12:55:58.22</idno>
+				<idno type="Number of sentences">24</idno>
+				<idno type="Number of tokens">236</idno>
+				<idno type="Number of token types">125</idno>
+				<idno type="Readability level">easy</idno>
 				<idno type="Language">English</idno>
 			</publicationStmt>
 			<sourceDesc>
@@ -19,64 +19,33 @@
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
-	<text xml:id="t8">
+	<text xml:id="t106">
 		<body xml:id="b1">
 			<div xml:id="xd1_di1">
-				<sent id ="1">Generally, afforestation is done by planting saplings.</sent>
-				<sent id ="2">In some cases afforestation is done by planting stumps instead of saplings.</sent>
-				<sent id ="3">It has two advantages: stumps can be transported easily.</sent>
-				<sent id ="4">Their transportation cost is less than that of carrying saplings.</sent>
-				<sent id ="5">In case of stumps, damage on the way is the minimum.</sent>
-				<sent id ="6">Afforestation in hills and inaccessible areas with stumps saves money and time.</sent>
-				<sent id ="7">However, there are some disadvantages, too.</sent>
-				<sent id ="8">All kinds of trees do not grow from stumps.</sent>
-				<sent id ="9">When afforestation is done with stumps, taproots of the trees cannot enter very deep into the soil.</sent>
-				<sent id ="10">As a result, there is every possibility that the trees will be uprooted during cyclones.</sent>
-				<sent id ="11">Of the trees planted with stumps, the most important ones are teak, gamar, etc.</sent>
-				<sent id ="12">A stump is usually prepared with a 10-12 months old sapling.</sent>
-				<sent id ="13">First of all the sapling is to be extracted with its roots.</sent>
-				<sent id ="14">While extracting the sapling, care should be taken so that the stem and the roots are not affected.</sent>
-				<sent id ="15">It is wise to wet the bottom of the sapling with water before extraction.</sent>
-				<sent id ="16">A 15.5-26 cm long stump can be prepared with such an extracted sapling.</sent>
-				<sent id ="17">The cut should be oblique.</sent>
-				<sent id ="18">This will check the possibility of the stump being pounded.</sent>
-				<sent id ="19">A stump, prepared in this way, cannot be preserved for a long period.</sent>
-				<sent id ="20">It should be planted in 2-3 days; otherwise, it will be unfit for plantation.</sent>
-				<sent id ="21">Planting stumps: The technique of planting stumps is not much different from that of saplings.</sent>
-				<sent id ="22">The best time for stump plantation is the beginning of the rainy season.</sent>
-				<sent id ="23">This is also true about planting saplings.</sent>
-				<sent id ="24">A hole measuring 30 cm x 30 cm x 30 cm is to be dug before 3-4 weeks of planting the stump.</sent>
-				<sent id ="25">Mix 1 kg cow-dung, 40 gram TSP and 60 gram MP with the earth of the pit.</sent>
-				<sent id ="26">Put it in the pit.</sent>
-				<sent id ="27">The mixture will undergo a physical and chemical change.</sent>
-				<sent id ="28">Thus food will be easily available for the stump.</sent>
-				<sent id ="29">The stump is to be planted after 3-4 weeks of the application of cowdung and fertilizers in the pit.</sent>
-				<sent id ="30">At the time of planting, the contents of the pit should be turned upside down.</sent>
-				<sent id ="31">It will balance the mixture.</sent>
-				<sent id ="32">The stump is to be planted at the centre of the pit in a slightly diagonal position.</sent>
-				<sent id ="33">During planting, it is to be noticed that only the root of the stump is covered with soil.</sent>
-				<sent id ="34">10-15 days after the shoot has emerged from the stump, apply 10-15 grams of urea at the bottom of every stump.</sent>
-				<sent id ="35">If the soil is fertile, you may not apply fertilizer.</sent>
-				<sent id ="36">Inter-culture: Many saplings are planted in our country every year.</sent>
-				<sent id ="37">But most of the saplings die from want of nursing.</sent>
-				<sent id ="38">In these areas the disturbance of cows and goats is more than elsewhere.</sent>
-				<sent id ="39">Soon after the planting of saplings enclosures should be put up.</sent>
-				<sent id ="40">They should be in place for at least 3-4 years.</sent>
-				<sent id ="41">Generally, in 3-4 years the saplings grow to a height beyond the reach of the cattle.</sent>
-				<sent id ="42">For the first 2-3 years the saplings should be irrigated during drought.</sent>
-				<sent id ="43">During this period the roots of the plant cannot go very deep into the soil.</sent>
-				<sent id ="44">As a result, the saplings may die from want of water.</sent>
-				<sent id ="45">On the other hand, weeds may grow at the bottom of the saplings during the rainy season.</sent>
-				<sent id ="46">Those are to be cleared regularly.</sent>
-				<sent id ="47">Saplings do not grow well if weeds grow at their foot.</sent>
-				<sent id ="48">After 4-5 years the plants do not require nursing and gradually grow into a valuable tree resource.</sent>
-				<sent id ="49">Dig pits at the selected places.</sent>
-				<sent id ="50">Mix the cow-dung or fertilizer with the earth of the pits.</sent>
-				<sent id ="51">Ask your teacher to show you please how to groom stumps in the nursery of the school or in any one nearby.</sent>
-				<sent id ="52">Each of the students makes at least two stumps.</sent>
-				<sent id ="53">Plant the stumps in the pits already dug.</sent>
-				<sent id ="54">Post-planting intercultural operations such as irrigation, application of fertilizers, weeding, mulching, etc. should be done as and when required.</sent>
-				<sent id ="55">Write down your jobs chronologically in your practical notebook.</sent>
+				<sent id ="1">Goat is one of the domestic animals in Bangladesh.</sent>
+				<sent id ="2">Goat rearing is a common activity in most of the family in our country.</sent>
+				<sent id ="3">It is a calm andv useful animal.</sent>
+				<sent id ="4">At the homestead or a small farm goat rearing may be done- by little money.</sent>
+				<sent id ="5">In our country two types of goat are found.</sent>
+				<sent id ="6">In local variety Black Bengal Goat is world famous.</sent>
+				<sent id ="7">Black goats of Black Bengal variety are mostly found in Bangladesh.</sent>
+				<sent id ="8">So it is called Black Bengal goat.</sent>
+				<sent id ="9">But in our country mixed colour like white and brown goat is also found.</sent>
+				<sent id ="10">The meat and leather of this goat are of better standard.</sent>
+				<sent id ="11">Demand of our local goat leather is very high in foreign countries.</sent>
+				<sent id ="12">Foreign variety goat is also available in our country.</sent>
+				<sent id ="13">In the foreign variety Jamuna crossing goat is remarkable.</sent>
+				<sent id ="14">This variety of goats came from India.</sent>
+				<sent id ="15">They are also known as castrated goat.</sent>
+				<sent id ="16">This is a big variety of goats with long ears and legs.</sent>
+				<sent id ="17">The colour of this variety is mainly brown ash.</sent>
+				<sent id ="18">They give much milk.</sent>
+				<sent id ="19">Income from Goat Rearing: We can increase our family income by goat rearing.</sent>
+				<sent id ="20">When income is increased family becomes solvent.</sent>
+				<sent id ="21">By this project cultivator femily overcomes their poverty and unhappiness.</sent>
+				<sent id ="22">Women are more active in goat rearing.</sent>
+				<sent id ="23">So it may be an income generating activity for poor women in the village.</sent>
+				<sent id ="24">For this reason goat rearing is very useful for Bangladesh.</sent>
 			</div>
 		</body>
 	</text>
