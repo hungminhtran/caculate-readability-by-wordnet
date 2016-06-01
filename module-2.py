@@ -10,7 +10,8 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
     inputData = mod1.standandlizeNounsForInputRegex(inputData)
     for i  in range(len(searchData)):
         #for plural nouns
-        tempT = [r"\b" + mod1.standanlizeNounsForSearchRegex(searchData[i]) + 's' + r"\b", r"\b" + mod1.standanlizeNounsForSearchRegex(searchData[i]) + r"\b"]
+        #re.search("[ ^ ]{0,1}we[ s]", 'we ')
+        tempT = [r"\b" + mod1.standanlizeNounsForSearchRegex(searchData[i]) + '[s]{0,1}' + r"\b"]
         for j in range(len(tempT)):
             inputData, isFinOut = re.subn(tempT[j], ' ', inputData) #avoid concat string can be created new noun
             if (isFinOut > 0):
@@ -18,6 +19,7 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
                 if (printForDeBug == 1):
                     print(tempT[j])
                     print(inputData)
+    result.sort()
     result = set(result)
     if (printForDeBug):
         print("doc after re.sub all things:")

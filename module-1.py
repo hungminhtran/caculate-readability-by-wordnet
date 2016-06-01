@@ -27,6 +27,11 @@ def standanizeNoun(noun):
     tnoun = wn.morphy(tnoun, wn.NOUN)
     return tnoun
 
+def deStandanizeNoun(noun):
+    tnoun = noun.replace('_', ' ')
+    tnoun = wn.morphy(tnoun, wn.NOUN)
+    return tnoun
+
 #make . mean \.
 def standandlizeNounsForInputRegex(noun):
     #puctuation = ['\!', '"', '\#', '\$', '\%', '\&', '\(', '\)', '\*', '\+', ',', '-', '\.', '/', ':', ';', '<', '=', '>', '\?', '\@', '\[', '\\', '\]', '\^', '_', '`', '\{', '\|', '\}', '\~']
@@ -175,10 +180,33 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile):
     outputAllnouns.close()
     outputAllbacsicLvlWord.close()
     outputABLW.close()
+
+#generate table 2
+def generate_statistic_blw_with_hypernym_hyponym(blwFile, allNounsStatisticfile, outputFile):
+    #list all hyponym
+    #search this line contain in file
+    #add that line to output
+
+    #writedown blw word statistic
+    temp = re.search("^" + 'apple' + ",.*",allNounsStatistic, re.M)
+
+    allHyponyms = wn.synsets('apple')[0].hyponyms()
+    if (allHyponyms != []):
+        pass
+    for synset in allHyponyms:
+        for lemma in synset.lemmas():
+            temp = deStandanizeNoun(lemma.name())
+            temp = re.search("^" + temp + ",.*",allNounsStatistic, re.M)
+            if (temp != None):
+                #write to output
+                pass
+    pass
+
 if __name__ == '__main__':
-    getListOfNounsWithCompoundNounsFirst('input/wn-nouns/all-wn-nouns.txt', "input/wn-nouns/all-wn-SORTED-nouns.txt")
-    getStatisticsWithAllNouns('input/wn-nouns/all-wn-SORTED-nouns.txt', ["input/wn-nouns/all-wn-nouns-STATISTIC.txt", "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"])
-    getStatisticsWithAllNouns('input/freq-nouns/3000-freq-word-SORTED.txt', ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt","input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"])
+    generate_statistic_blw_with_hypernym_hyponym(1, 2, 3)
+    # getListOfNounsWithCompoundNounsFirst('input/wn-nouns/all-wn-nouns.txt', "input/wn-nouns/all-wn-SORTED-nouns.txt")
+    # getStatisticsWithAllNouns('input/wn-nouns/all-wn-SORTED-nouns.txt', ["input/wn-nouns/all-wn-nouns-STATISTIC.txt", "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"])
+    # getStatisticsWithAllNouns('input/freq-nouns/3000-freq-word-SORTED.txt', ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt","input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"])
     print('create file sucessfully')
 else:
     print('import module-1 sucessfully')
