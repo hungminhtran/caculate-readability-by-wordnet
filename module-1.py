@@ -3,8 +3,10 @@ from operator import add
 import nltk
 import re
 import pickle
+import datetime
 
 MAX_LEVEL = 6
+EMPTY_TABLE2_LINE = ",,,,,,,,,\n"
 
 def listAllFile(fullPath, listSubDir = 0):
     from os import listdir
@@ -28,8 +30,8 @@ def standanizeNoun(noun):
     return tnoun
 
 def deStandanizeNoun(noun):
+    # tnoun = wn.morphy(noun, wn.NOUN)
     tnoun = noun.replace('_', ' ')
-    tnoun = wn.morphy(tnoun, wn.NOUN)
     return tnoun
 
 #make . mean \.
@@ -41,7 +43,7 @@ def standandlizeNounsForInputRegex(noun):
 
 def standanlizeNounsForSearchRegex(noun):
     tnoun = noun
-    tnoun = re.sub('\.', '\.', noun)
+    tnoun = re.sub(r'\.', '\.', noun)
     tnoun = tnoun.lower()
     return tnoun
 #compound ration of a word / hyponym
@@ -60,7 +62,7 @@ def cpdRatio(SynsetNoun, level, hypernymName):
     if (level > MAX_LEVEL or not SynsetNoun):
         return cpd, hyponym, total_lens, cpdByLvls
 
-    allHyponyms = SynsetNoun.hyponyms() #why we choose this?
+    allHyponyms = SynsetNoun.hyponyms()
     if (allHyponyms == []):
         return cpd, hyponym, total_lens, cpdByLvls
     for synset in allHyponyms:
@@ -181,32 +183,110 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile):
     outputAllbacsicLvlWord.close()
     outputABLW.close()
 
-#generate table 2
-def generate_statistic_blw_with_hypernym_hyponym(blwFile, allNounsStatisticfile, outputFile):
-    #list all hyponym
-    #search this line contain in file
-    #add that line to output
+#generate table 1, 2
+def generate_statistic_blw_with_hypernym_hyponym(blwFile, allNounsStatisticfile, outputFileT1, outputFileT2, DEBUG=0):
+    # open output file
+    outputT1 = open(outputFileT1, 'w+')
+    outputT2 = open(outputFileT2, 'w+')
 
-    #writedown blw word statistic
-    temp = re.search("^" + 'apple' + ",.*",allNounsStatistic, re.M)
+    # read input data
+    blwF = open(blwFile, 'r')
+    blwArr = blwF.read().split('\n')
+    blwF.close()
 
-    allHyponyms = wn.synsets('apple')[0].hyponyms()
-    if (allHyponyms != []):
-        pass
-    for synset in allHyponyms:
-        for lemma in synset.lemmas():
-            temp = deStandanizeNoun(lemma.name())
-            temp = re.search("^" + temp + ",.*",allNounsStatistic, re.M)
-            if (temp != None):
-                #write to output
-                pass
-    pass
+    allNounsStatisticF = open(allNounsStatisticfile, 'r')
+    allNounsStatisticStream = allNounsStatisticF.read()
+    allNounsStatisticF.close()
+
+    def searchDatT2(temp):
+        temp = deStandanizeNoun(temp)
+        nounbak = temp
+        if (DEBUG == 1):
+            print('search ', temp)
+        temp = re.search(r"^" + temp.lower() + ",.*\n", allNounsStatisticStream, re.M)
+        if (temp == None):
+            print("****", datetime.datetime.now().time(), "Error: None type when search ", nounbak)
+            return 'N/A\n'
+        return temp.group()
+
+    def counterAndwrite(allHyp, outputT2):
+        wlHyp = 0
+        nwlHyp = 0
+        mcHyp = ['', '']
+        for synset in allHyp:
+            wlHyp = wlHyp + synset.name().find('.') - synset.name().count('_') #table 1
+            nwlHyp = nwlHyp + 1 #table 1
+            if (synset.name().find('_') > -1):
+                mcHyp[1] = 'B'
+            else:
+                mcHyp[0] = 'A'
+            for lemma in synset.lemmas():
+                if (lemma.name() != None):
+                    outputT2.write(searchDatT2(lemma.name()))
+        return wlHyp, nwlHyp, mcHyp
+
+    # process
+    if (DEBUG == 1):
+        blwArr = ['guitar', 'apple', 'bus']
+    for noun in blwArr[:]:
+        noun = noun.lower()
+        noun = standanizeNoun(noun)
+        if (noun == None):
+            return -1
+
+        mcNoun = 'A'
+        if (noun.find('_') > -1):
+            mcNoun = 'B'
+        if (DEBUG == 1):
+            print('noun is ', noun)
+        outputT2.write(EMPTY_TABLE2_LINE)
+        outputT2.write(EMPTY_TABLE2_LINE)
+        # with hypernym
+        #table 2
+        allHypernyms = wn.synsets(noun)[0].hypernyms()
+        if (DEBUG == 1):
+            print('all hypernyms\n', allHypernyms)
+        (wlHyper, nwlHyper, mcHyper) = counterAndwrite(allHypernyms, outputT2)
+        #write noun down
+        outputT2.write(EMPTY_TABLE2_LINE)
+        outputT2.write(searchDatT2(noun))
+        outputT2.write(EMPTY_TABLE2_LINE)
+        # with hyponym
+        #table 2
+        allHyponyms = wn.synsets(noun)[0].hyponyms()
+        (wlHypo, nwlHypo, mcHypo) = counterAndwrite(allHyponyms, outputT2)
+        if (DEBUG == 1):
+            print('all hyponyms\n', allHyponyms)
+
+        # table 1 write down
+        outputT1.write(str(len(noun)) + ',' + mcNoun + ',' + str(wlHyper/nwlHyper) + ',' + str(len(allHypernyms)) + ','
+        + " ".join(mcHyper) + ',' + str(wlHypo/nwlHypo) + ',' + str(len(allHyponyms)) + ',' + " ".join(mcHypo) + '\n')
+
+    outputT1.close()
+    outputT2.close()
 
 if __name__ == '__main__':
-    generate_statistic_blw_with_hypernym_hyponym(1, 2, 3)
+    print("start run at ", datetime.datetime.now().time())
+    # print('gen blw')
+    # getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
+    # getStatisticsWithAllNouns("input/blw-nouns/blw-SORTED-nouns.txt", ["input/blw-nouns/all-blw-nouns-STATISTIC.txt",
+    # "input/blw-nouns/all-blw-BLW-statistic.txt", "input/blw-nouns/all-blw-BLW.txt"])
+    # print('gen wn')
     # getListOfNounsWithCompoundNounsFirst('input/wn-nouns/all-wn-nouns.txt', "input/wn-nouns/all-wn-SORTED-nouns.txt")
-    # getStatisticsWithAllNouns('input/wn-nouns/all-wn-SORTED-nouns.txt', ["input/wn-nouns/all-wn-nouns-STATISTIC.txt", "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"])
-    # getStatisticsWithAllNouns('input/freq-nouns/3000-freq-word-SORTED.txt', ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt","input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"])
-    print('create file sucessfully')
+    # getStatisticsWithAllNouns('input/wn-nouns/all-wn-SORTED-nouns.txt', ["input/wn-nouns/all-wn-nouns-STATISTIC.txt",
+    # "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"])
+    # print('gen 3000-freq')
+    # getStatisticsWithAllNouns('input/freq-nouns/3000-freq-word-SORTED.txt', ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt",
+    # "input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"])
+    # print('t1, t2 blw')
+    # generate_statistic_blw_with_hypernym_hyponym('input/blw-nouns/all-blw-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
+    # 'output/blw-table-1.txt', 'output/blw-table-2.txt', DEBUG=0)
+    print('t1, t2 wn')
+    generate_statistic_blw_with_hypernym_hyponym('input/wn-nouns/all-wn-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
+    'output/wn-table-1.txt', 'output/wn-table-2.txt', DEBUG=0)
+    print('t1, t2 3000-freq')
+    generate_statistic_blw_with_hypernym_hyponym('input/freq-nouns/3000-freq-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
+    'output/300-freq-table-1.txt', 'output/300-freq-table-2.txt', DEBUG=0)
+    print("end run at ", datetime.datetime.now().time())
 else:
     print('import module-1 sucessfully')

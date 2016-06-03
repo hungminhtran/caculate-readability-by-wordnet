@@ -1,0 +1,440 @@
+,,,,,,,,,
+,,,,,,,,,
+piano,8/16,51,0,4,4,0,0,0,7
+pianoforte,0/16,1,0,0,0,0,0,0,2
+forte-piano,0/16,1,0,0,0,0,0,0,1
+,,,,,,,,,
+grand piano,3/8,38,0,3,0,0,0,0,4
+,,,,,,,,,
+baby grand,0/0,N/A,0,0,0,0,0,0,N/A
+baby grand piano,0/0,N/A,0,0,0,0,0,0,N/A
+parlor grand,0/0,N/A,0,0,0,0,0,0,N/A
+parlor grand piano,0/0,N/A,0,0,0,0,0,0,N/A
+parlour grand,0/0,N/A,0,0,0,0,0,0,N/A
+parlour grand piano,0/0,N/A,0,0,0,0,0,0,N/A
+concert grand,0/0,N/A,0,0,0,0,0,0,N/A
+concert piano,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+oak,2/2,101,0,2,0,0,0,0,6
+oak tree,0/138,1,0,0,0,0,0,0,6
+,,,,,,,,,
+red oak,4/10,41,0,4,0,0,0,0,8
+,,,,,,,,,
+northern red oak,0/0,N/A,0,0,0,0,0,0,N/A
+quercus rubra,0/0,N/A,0,0,0,0,0,0,N/A
+quercus borealis,0/0,N/A,0,0,0,0,0,0,N/A
+shumard oak,0/0,N/A,0,0,0,0,0,0,N/A
+shumard red oak,0/0,N/A,0,0,0,0,0,0,N/A
+quercus shumardii,0/0,N/A,0,0,0,0,0,0,N/A
+southern red oak,0/0,N/A,0,0,0,0,0,0,N/A
+swamp red oak,0/0,N/A,0,0,0,0,0,0,N/A
+turkey oak,0/0,N/A,0,0,0,0,0,0,N/A
+quercus falcata,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+hand tool,0/241,1,0,0,0,0,0,0,2
+,,,,,,,,,
+screwdriver,4/4,101,0,4,0,0,0,0,11
+,,,,,,,,,
+flat tip screwdriver,0/0,N/A,0,0,0,0,0,0,N/A
+phillips screwdriver,0/0,N/A,0,0,0,0,0,0,N/A
+spiral ratchet screwdriver,0/0,N/A,0,0,0,0,0,0,N/A
+ratchet screwdriver,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+passerine,0/616,1,0,0,0,0,0,0,5
+passeriform bird,0/616,1,0,0,0,0,0,0,2
+,,,,,,,,,
+sparrow,3/5,61,0,3,0,0,0,0,8
+,,,,,,,,,
+english sparrow,0/0,N/A,0,0,0,0,0,0,N/A
+house sparrow,0/0,N/A,0,0,0,0,0,0,N/A
+passer domesticus,0/0,N/A,0,0,0,0,0,0,N/A
+tree sparrow,0/0,N/A,0,0,0,0,0,0,N/A
+passer montanus,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+stringed instrument,1/85,2,0,1,0,0,0,0,9
+,,,,,,,,,
+guitar,5/12,42,0,5,0,0,0,0,4
+,,,,,,,,,
+acoustic guitar,0/0,N/A,0,0,0,0,0,0,N/A
+bass guitar,0/0,N/A,0,0,0,0,0,0,N/A
+cittern,0/0,N/A,0,0,0,0,0,0,N/A
+cithern,0/0,N/A,0,0,0,0,0,0,N/A
+cither,0/1,1,0,0,0,0,0,0,3
+citole,0/0,N/A,0,0,0,0,0,0,N/A
+gittern,0/0,N/A,0,0,0,0,0,0,N/A
+electric guitar,0/0,N/A,0,0,0,0,0,0,N/A
+hawaiian guitar,0/0,N/A,0,0,0,0,0,0,N/A
+steel guitar,0/0,N/A,0,0,0,0,0,0,N/A
+uke,0/0,N/A,0,0,0,0,0,0,N/A
+ukulele,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+edible fruit,0/303,1,0,0,0,0,0,0,2
+,,,,,,,,,
+grape,6/17,36,0,3,2,1,0,0,5
+,,,,,,,,,
+muscadine,0/0,N/A,0,0,0,0,0,0,N/A
+bullace grape,0/1,1,0,0,0,0,0,0,1
+slipskin grape,0/3,1,0,0,0,0,0,0,4
+vinifera grape,0/18,1,0,0,0,0,0,0,3
+,,,,,,,,,
+,,,,,,,,,
+food fish,0/142,1,0,0,0,0,0,0,4
+salmonid,0/43,1,0,0,0,0,0,0,4
+,,,,,,,,,
+salmon,12/25,49,0,10,2,0,0,0,6
+,,,,,,,,,
+atlantic salmon,0/0,N/A,0,0,0,0,0,0,N/A
+salmo salar,0/2,1,0,0,0,0,0,0,4
+blackfish,0/0,N/A,0,0,0,0,0,0,N/A
+chinook,0/0,N/A,0,0,0,0,0,0,N/A
+chinook salmon,0/0,N/A,0,0,0,0,0,0,N/A
+king salmon,0/0,N/A,0,0,0,0,0,0,N/A
+quinnat salmon,0/0,N/A,0,0,0,0,0,0,N/A
+oncorhynchus tshawytscha,0/0,N/A,0,0,0,0,0,0,N/A
+chum salmon,0/0,N/A,0,0,0,0,0,0,N/A
+chum,0/1,1,0,0,0,0,0,0,3
+oncorhynchus keta,0/0,N/A,0,0,0,0,0,0,N/A
+coho,0/0,N/A,0,0,0,0,0,0,N/A
+cohoe,0/0,N/A,0,0,0,0,0,0,N/A
+coho salmon,0/0,N/A,0,0,0,0,0,0,N/A
+blue jack,0/0,N/A,0,0,0,0,0,0,N/A
+silver salmon,0/0,N/A,0,0,0,0,0,0,N/A
+oncorhynchus kisutch,0/0,N/A,0,0,0,0,0,0,N/A
+redfish,0/0,N/A,0,0,0,0,0,0,N/A
+sockeye,0/0,N/A,0,0,0,0,0,0,N/A
+sockeye salmon,0/0,N/A,0,0,0,0,0,0,N/A
+red salmon,0/0,N/A,0,0,0,0,0,0,N/A
+blueback salmon,0/0,N/A,0,0,0,0,0,0,N/A
+oncorhynchus nerka,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+keyboard instrument,0/35,1,0,0,0,0,0,0,8
+percussion instrument,0/68,1,0,0,0,0,0,0,12
+percussive instrument,0/68,1,0,0,0,0,0,0,12
+stringed instrument,1/85,2,0,1,0,0,0,0,9
+,,,,,,,,,
+piano,8/16,51,0,4,4,0,0,0,7
+,,,,,,,,,
+grand piano,3/8,38,0,3,0,0,0,0,4
+grand,0/1,1,0,0,0,0,0,0,5
+mechanical piano,0/0,N/A,0,0,0,0,0,0,N/A
+pianola,0/0,N/A,0,0,0,0,0,0,N/A
+player piano,0/0,N/A,0,0,0,0,0,0,N/A
+upright,0/55,1,0,0,0,0,0,0,2
+upright piano,0/1,1,0,0,0,0,0,0,6
+,,,,,,,,,
+,,,,,,,,,
+hosiery,0/30,1,0,0,0,0,0,0,2
+hose,3/30,11,0,0,3,0,0,0,5
+,,,,,,,,,
+sock,5/13,39,0,5,0,0,0,0,5
+,,,,,,,,,
+anklet,0/0,N/A,0,0,0,0,0,0,N/A
+anklets,0/0,N/A,0,0,0,0,0,0,N/A
+bobbysock,0/0,N/A,0,0,0,0,0,0,N/A
+bobbysocks,0/0,N/A,0,0,0,0,0,0,N/A
+argyle,0/0,N/A,0,0,0,0,0,0,N/A
+argyll,0/0,N/A,0,0,0,0,0,0,N/A
+athletic sock,0/0,N/A,0,0,0,0,0,0,N/A
+sweat sock,0/0,N/A,0,0,0,0,0,0,N/A
+varsity sock,0/0,N/A,0,0,0,0,0,0,N/A
+knee-high,0/0,N/A,0,0,0,0,0,0,N/A
+knee-hi,0/0,N/A,0,0,0,0,0,0,N/A
+tabi,0/0,N/A,0,0,0,0,0,0,N/A
+tabis,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+garment,4/445,1,0,3,1,0,0,0,2
+,,,,,,,,,
+shirt,8/17,48,0,8,0,0,0,0,4
+,,,,,,,,,
+camise,0/0,N/A,0,0,0,0,0,0,N/A
+dashiki,0/0,N/A,0,0,0,0,0,0,N/A
+daishiki,0/0,N/A,0,0,0,0,0,0,N/A
+dress shirt,0/0,N/A,0,0,0,0,0,0,N/A
+evening shirt,0/0,N/A,0,0,0,0,0,0,N/A
+hair shirt,0/0,N/A,0,0,0,0,0,0,N/A
+jersey,0/0,N/A,0,0,0,0,0,0,N/A
+t-shirt,0/3,1,0,0,0,0,0,0,2
+tee shirt,0/3,1,0,0,0,0,0,0,0
+kurta,0/0,N/A,0,0,0,0,0,0,N/A
+polo shirt,0/0,N/A,0,0,0,0,0,0,N/A
+sport shirt,0/0,N/A,0,0,0,0,0,0,N/A
+tank top,0/0,N/A,0,0,0,0,0,0,N/A
+work-shirt,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+array,1/49,3,0,1,0,0,0,0,9
+,,,,,,,,,
+table,7/10,71,0,6,1,0,0,0,11
+,,,,,,,,,
+actuarial table,0/1,1,0,0,0,0,0,0,1
+statistical table,0/1,1,0,0,0,0,0,0,1
+calendar,19/19,101,0,3,14,2,0,0,9
+contents,0/0,N/A,0,0,0,0,0,0,N/A
+table of contents,0/0,N/A,0,0,0,0,0,0,N/A
+correlation table,0/0,N/A,0,0,0,0,0,0,N/A
+file allocation table,0/0,N/A,0,0,0,0,0,0,N/A
+periodic table,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+seat,0/1,1,0,0,0,0,0,0,2
+,,,,,,,,,
+chair,31/48,65,0,17,13,1,0,0,7
+,,,,,,,,,
+armchair,0/10,1,0,0,0,0,0,0,4
+barber chair,0/0,N/A,0,0,0,0,0,0,N/A
+chair of state,0/6,1,0,0,0,0,0,0,4
+chaise longue,0/0,N/A,0,0,0,0,0,0,N/A
+chaise,0/0,N/A,0,0,0,0,0,0,N/A
+daybed,0/0,N/A,0,0,0,0,0,0,N/A
+eames chair,0/0,N/A,0,0,0,0,0,0,N/A
+fighting chair,0/0,N/A,0,0,0,0,0,0,N/A
+folding chair,0/4,1,0,0,0,0,0,0,2
+highchair,0/0,N/A,0,0,0,0,0,0,N/A
+feeding chair,0/0,N/A,0,0,0,0,0,0,N/A
+ladder-back,0/0,N/A,0,0,0,0,0,0,N/A
+ladder-back chair,0/0,N/A,0,0,0,0,0,0,N/A
+lawn chair,0/0,N/A,0,0,0,0,0,0,N/A
+garden chair,0/0,N/A,0,0,0,0,0,0,N/A
+rocking chair,0/3,1,0,0,0,0,0,0,1
+rocker,0/0,N/A,0,0,0,0,0,0,N/A
+straight chair,0/1,1,0,0,0,0,0,0,0
+side chair,0/1,1,0,0,0,0,0,0,4
+swivel chair,0/0,N/A,0,0,0,0,0,0,N/A
+tablet-armed chair,0/0,N/A,0,0,0,0,0,0,N/A
+wheelchair,1/2,51,0,1,0,0,0,0,6
+,,,,,,,,,
+,,,,,,,,,
+motor vehicle,0/153,1,0,0,0,0,0,0,3
+automotive vehicle,0/153,1,0,0,0,0,0,0,8
+,,,,,,,,,
+truck,15/48,32,0,10,5,0,0,0,6
+,,,,,,,,,
+dump truck,0/0,N/A,0,0,0,0,0,0,N/A
+dumper,0/0,N/A,0,0,0,0,0,0,N/A
+tipper truck,0/0,N/A,0,0,0,0,0,0,N/A
+tipper lorry,0/0,N/A,0,0,0,0,0,0,N/A
+tip truck,0/0,N/A,0,0,0,0,0,0,N/A
+tipper,0/0,N/A,0,0,0,0,0,0,N/A
+fire engine,0/2,1,0,0,0,0,0,0,5
+fire truck,0/2,1,0,0,0,0,0,0,6
+garbage truck,0/0,N/A,0,0,0,0,0,0,N/A
+dustcart,0/0,N/A,0,0,0,0,0,0,N/A
+lorry,0/0,N/A,0,0,0,0,0,0,N/A
+camion,0/0,N/A,0,0,0,0,0,0,N/A
+pickup,0/1,1,0,0,0,0,0,0,4
+pickup truck,0/1,1,0,0,0,0,0,0,2
+sound truck,0/0,N/A,0,0,0,0,0,0,N/A
+tow truck,0/0,N/A,0,0,0,0,0,0,N/A
+tow car,0/0,N/A,0,0,0,0,0,0,N/A
+wrecker,1/3,34,0,1,0,0,0,0,4
+tractor,0/4,1,0,0,0,0,0,0,1
+trailer truck,0/1,1,0,0,0,0,0,0,2
+tractor trailer,0/1,1,0,0,0,0,0,0,0
+trucking rig,0/1,1,0,0,0,0,0,0,3
+rig,5/6,84,0,4,1,0,0,0,8
+articulated lorry,0/1,1,0,0,0,0,0,0,2
+semi,0/0,N/A,0,0,0,0,0,0,N/A
+transporter,0/0,N/A,0,0,0,0,0,0,N/A
+car transporter,0/0,N/A,0,0,0,0,0,0,N/A
+van,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+wood,68/206,34,0,60,5,3,0,0,7
+,,,,,,,,,
+maple,1/1,101,0,1,0,0,0,0,12
+,,,,,,,,,
+bird's-eye maple,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+fish,261/1169,23,0,7,6,26,63,80,9
+,,,,,,,,,
+trout,3/3,101,0,3,0,0,0,0,7
+,,,,,,,,,
+rainbow trout,0/0,N/A,0,0,0,0,0,0,N/A
+sea trout,0/0,N/A,0,0,0,0,0,0,N/A
+salmon trout,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+bird of prey,0/176,1,0,0,0,0,0,0,1
+raptor,0/176,1,0,0,0,0,0,0,7
+raptorial bird,0/176,1,0,0,0,0,0,0,1
+,,,,,,,,,
+eagle,14/25,57,0,7,7,0,0,0,9
+,,,,,,,,,
+bald eagle,0/0,N/A,0,0,0,0,0,0,N/A
+american eagle,0/0,N/A,0,0,0,0,0,0,N/A
+haliaeetus leucocephalus,0/0,N/A,0,0,0,0,0,0,N/A
+eaglet,0/0,N/A,0,0,0,0,0,0,N/A
+golden eagle,0/1,1,0,0,0,0,0,0,3
+aquila chrysaetos,0/1,1,0,0,0,0,0,0,8
+harpy,0/0,N/A,0,0,0,0,0,0,N/A
+harpy eagle,0/0,N/A,0,0,0,0,0,0,N/A
+harpia harpyja,0/0,N/A,0,0,0,0,0,0,N/A
+sea eagle,0/0,N/A,0,0,0,0,0,0,N/A
+tawny eagle,0/0,N/A,0,0,0,0,0,0,N/A
+aquila rapax,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+percussion instrument,0/68,1,0,0,0,0,0,0,12
+percussive instrument,0/68,1,0,0,0,0,0,0,12
+,,,,,,,,,
+drum,5/14,36,0,5,0,0,0,0,4
+,,,,,,,,,
+bass drum,0/0,N/A,0,0,0,0,0,0,N/A
+gran casa,0/0,N/A,0,0,0,0,0,0,N/A
+bongo,0/0,N/A,0,0,0,0,0,0,N/A
+bongo drum,0/0,N/A,0,0,0,0,0,0,N/A
+snare drum,0/0,N/A,0,0,0,0,0,0,N/A
+snare,0/2,1,0,0,0,0,0,0,5
+side drum,0/0,N/A,0,0,0,0,0,0,N/A
+tabor,0/0,N/A,0,0,0,0,0,0,N/A
+tabour,0/0,N/A,0,0,0,0,0,0,N/A
+tambour,0/0,N/A,0,0,0,0,0,0,N/A
+tambourine,0/0,N/A,0,0,0,0,0,0,N/A
+tenor drum,0/0,N/A,0,0,0,0,0,0,N/A
+tom-tom,0/0,N/A,0,0,0,0,0,0,N/A
+timbrel,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+source of illumination,0/107,1,0,0,0,0,0,0,11
+,,,,,,,,,
+lamp,27/68,40,0,19,7,1,0,0,8
+,,,,,,,,,
+aladdin's lamp,0/0,N/A,0,0,0,0,0,0,N/A
+candle,2/6,34,0,2,0,0,0,0,4
+taper,0/0,N/A,0,0,0,0,0,0,N/A
+wax light,0/6,1,0,0,0,0,0,0,1
+discharge lamp,0/0,N/A,0,0,0,0,0,0,N/A
+electric lamp,0/17,1,0,0,0,0,0,0,1
+flash,1/14,8,0,1,0,0,0,0,4
+photoflash,0/0,N/A,0,0,0,0,0,0,N/A
+flash lamp,0/0,N/A,0,0,0,0,0,0,N/A
+flashgun,0/0,N/A,0,0,0,0,0,0,N/A
+flashbulb,0/0,N/A,0,0,0,0,0,0,N/A
+flash bulb,0/0,N/A,0,0,0,0,0,0,N/A
+fluorescent lamp,0/0,N/A,0,0,0,0,0,0,N/A
+gas lamp,0/0,N/A,0,0,0,0,0,0,N/A
+hurricane lamp,0/0,N/A,0,0,0,0,0,0,N/A
+hurricane lantern,0/0,N/A,0,0,0,0,0,0,N/A
+tornado lantern,0/0,N/A,0,0,0,0,0,0,N/A
+storm lantern,0/0,N/A,0,0,0,0,0,0,N/A
+storm lamp,0/0,N/A,0,0,0,0,0,0,N/A
+lantern,3/4,76,0,3,0,0,0,0,7
+limelight,0/0,N/A,0,0,0,0,0,0,N/A
+calcium light,0/0,N/A,0,0,0,0,0,0,N/A
+neon lamp,0/0,N/A,0,0,0,0,0,0,N/A
+neon induction lamp,0/0,N/A,0,0,0,0,0,0,N/A
+neon tube,0/0,N/A,0,0,0,0,0,0,N/A
+oil lamp,0/2,1,0,0,0,0,0,0,3
+kerosene lamp,0/2,1,0,0,0,0,0,0,2
+kerosine lamp,0/2,1,0,0,0,0,0,0,2
+sodium-vapor lamp,0/0,N/A,0,0,0,0,0,0,N/A
+sodium-vapour lamp,0/0,N/A,0,0,0,0,0,0,N/A
+spirit lamp,0/0,N/A,0,0,0,0,0,0,N/A
+spotlight,0/0,N/A,0,0,0,0,0,0,N/A
+spot,0/93,1,0,0,0,0,0,0,5
+streetlight,0/0,N/A,0,0,0,0,0,0,N/A
+street lamp,0/0,N/A,0,0,0,0,0,0,N/A
+taillight,0/0,N/A,0,0,0,0,0,0,N/A
+tail lamp,0/0,N/A,0,0,0,0,0,0,N/A
+rear light,0/0,N/A,0,0,0,0,0,0,N/A
+rear lamp,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+motor vehicle,0/153,1,0,0,0,0,0,0,3
+automotive vehicle,0/153,1,0,0,0,0,0,0,8
+,,,,,,,,,
+car,21/76,28,0,19,2,0,0,0,6
+,,,,,,,,,
+ambulance,0/1,1,0,0,0,0,0,0,3
+beach wagon,0/1,1,0,0,0,0,0,0,4
+station wagon,0/1,1,0,0,0,0,0,0,2
+wagon,10/38,27,0,10,0,0,0,0,4
+estate car,0/1,1,0,0,0,0,0,0,5
+beach waggon,0/1,1,0,0,0,0,0,0,3
+station waggon,0/1,1,0,0,0,0,0,0,1
+waggon,1/38,3,0,1,0,0,0,0,3
+bus,3/5,61,0,3,0,0,0,0,9
+jalopy,0/0,N/A,0,0,0,0,0,0,N/A
+heap,4/18,23,0,4,0,0,0,0,4
+cab,0/0,N/A,0,0,0,0,0,0,N/A
+hack,0/2,1,0,0,0,0,0,0,4
+taxi,0/2,1,0,0,0,0,0,0,5
+taxicab,0/2,1,0,0,0,0,0,0,2
+compact,0/0,N/A,0,0,0,0,0,0,N/A
+compact car,0/0,N/A,0,0,0,0,0,0,N/A
+convertible,0/0,N/A,0,0,0,0,0,0,N/A
+coupe,0/0,N/A,0,0,0,0,0,0,N/A
+cruiser,0/1,1,0,0,0,0,0,0,3
+police cruiser,0/1,1,0,0,0,0,0,0,4
+patrol car,0/1,1,0,0,0,0,0,0,0
+police car,0/1,1,0,0,0,0,0,0,0
+prowl car,0/1,1,0,0,0,0,0,0,1
+squad car,0/1,1,0,0,0,0,0,0,1
+electric,0/0,N/A,0,0,0,0,0,0,N/A
+electric automobile,0/0,N/A,0,0,0,0,0,0,N/A
+electric car,0/0,N/A,0,0,0,0,0,0,N/A
+gas guzzler,0/0,N/A,0,0,0,0,0,0,N/A
+hardtop,0/0,N/A,0,0,0,0,0,0,N/A
+hatchback,0/0,N/A,0,0,0,0,0,0,N/A
+horseless carriage,0/0,N/A,0,0,0,0,0,0,N/A
+hot rod,0/0,N/A,0,0,0,0,0,0,N/A
+hot-rod,0/0,N/A,0,0,0,0,0,0,N/A
+jeep,0/0,N/A,0,0,0,0,0,0,N/A
+landrover,0/0,N/A,0,0,0,0,0,0,N/A
+limousine,0/1,1,0,0,0,0,0,0,2
+limo,0/1,1,0,0,0,0,0,0,3
+loaner,0/5,1,0,0,0,0,0,0,3
+minicar,0/1,1,0,0,0,0,0,0,1
+minivan,0/0,N/A,0,0,0,0,0,0,N/A
+model t,0/0,N/A,0,0,0,0,0,0,N/A
+pace car,0/0,N/A,0,0,0,0,0,0,N/A
+racer,0/1,1,0,0,0,0,0,0,4
+race car,0/2,1,0,0,0,0,0,0,1
+racing car,0/2,1,0,0,0,0,0,0,1
+roadster,0/0,N/A,0,0,0,0,0,0,N/A
+runabout,0/0,N/A,0,0,0,0,0,0,N/A
+two-seater,0/0,N/A,0,0,0,0,0,0,N/A
+sedan,0/1,1,0,0,0,0,0,0,4
+saloon,1/5,21,0,1,0,0,0,0,6
+sport utility,0/0,N/A,0,0,0,0,0,0,N/A
+sport utility vehicle,0/0,N/A,0,0,0,0,0,0,N/A
+s.u.v.,0/0,N/A,0,0,0,0,0,0,N/A
+suv,0/0,N/A,0,0,0,0,0,0,N/A
+sports car,0/0,N/A,0,0,0,0,0,0,N/A
+sport car,0/0,N/A,0,0,0,0,0,0,N/A
+stanley steamer,0/0,N/A,0,0,0,0,0,0,N/A
+stock car,0/0,N/A,0,0,0,0,0,0,N/A
+subcompact,0/0,N/A,0,0,0,0,0,0,N/A
+subcompact car,0/0,N/A,0,0,0,0,0,0,N/A
+touring car,0/0,N/A,0,0,0,0,0,0,N/A
+phaeton,0/0,N/A,0,0,0,0,0,0,N/A
+tourer,0/4,1,0,0,0,0,0,0,4
+used-car,0/0,N/A,0,0,0,0,0,0,N/A
+secondhand car,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+public transport,0/38,1,0,0,0,0,0,0,6
+,,,,,,,,,
+bus,3/5,61,0,3,0,0,0,0,9
+,,,,,,,,,
+minibus,0/0,N/A,0,0,0,0,0,0,N/A
+school bus,0/0,N/A,0,0,0,0,0,0,N/A
+trolleybus,0/0,N/A,0,0,0,0,0,0,N/A
+trolley coach,0/0,N/A,0,0,0,0,0,0,N/A
+trackless trolley,0/0,N/A,0,0,0,0,0,0,N/A
+,,,,,,,,,
+,,,,,,,,,
+wood,68/206,34,0,60,5,3,0,0,7
+,,,,,,,,,
+oak,2/2,101,0,2,0,0,0,0,6
+,,,,,,,,,
+fumed oak,0/0,N/A,0,0,0,0,0,0,N/A
+holm oak,0/0,N/A,0,0,0,0,0,0,N/A
