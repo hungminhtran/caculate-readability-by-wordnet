@@ -267,20 +267,20 @@ def generate_statistic_blw_with_hypernym_hyponym(blwFile, allNounsStatisticfile,
 
 if __name__ == '__main__':
     print("start run at ", datetime.datetime.now().time())
-    # print('gen blw')
-    # getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
-    # getStatisticsWithAllNouns("input/blw-nouns/blw-SORTED-nouns.txt", ["input/blw-nouns/all-blw-nouns-STATISTIC.txt",
-    # "input/blw-nouns/all-blw-BLW-statistic.txt", "input/blw-nouns/all-blw-BLW.txt"])
-    # print('gen wn')
-    # getListOfNounsWithCompoundNounsFirst('input/wn-nouns/all-wn-nouns.txt', "input/wn-nouns/all-wn-SORTED-nouns.txt")
-    # getStatisticsWithAllNouns('input/wn-nouns/all-wn-SORTED-nouns.txt', ["input/wn-nouns/all-wn-nouns-STATISTIC.txt",
-    # "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"])
-    # print('gen 3000-freq')
-    # getStatisticsWithAllNouns('input/freq-nouns/3000-freq-word-SORTED.txt', ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt",
-    # "input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"])
-    # print('t1, t2 blw')
-    # generate_statistic_blw_with_hypernym_hyponym('input/blw-nouns/all-blw-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
-    # 'output/blw-table-1.txt', 'output/blw-table-2.txt', DEBUG=0)
+    print('gen blw')
+    getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
+    getStatisticsWithAllNouns("input/blw-nouns/blw-SORTED-nouns.txt", ["input/blw-nouns/all-blw-nouns-STATISTIC.txt",
+    "input/blw-nouns/all-blw-BLW-statistic.txt", "input/blw-nouns/all-blw-BLW.txt"])
+    print('gen wn')
+    getListOfNounsWithCompoundNounsFirst('input/wn-nouns/all-wn-nouns.txt', "input/wn-nouns/all-wn-SORTED-nouns.txt")
+    getStatisticsWithAllNouns('input/wn-nouns/all-wn-SORTED-nouns.txt', ["input/wn-nouns/all-wn-nouns-STATISTIC.txt",
+    "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"])
+    print('gen 3000-freq')
+    getStatisticsWithAllNouns('input/freq-nouns/3000-freq-word-SORTED.txt', ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt",
+    "input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"])
+    print('t1, t2 blw')
+    generate_statistic_blw_with_hypernym_hyponym('input/blw-nouns/all-blw-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
+    'output/blw-table-1.txt', 'output/blw-table-2.txt', DEBUG=0)
     print('t1, t2 wn')
     generate_statistic_blw_with_hypernym_hyponym('input/wn-nouns/all-wn-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
     'output/wn-table-1.txt', 'output/wn-table-2.txt', DEBUG=0)
