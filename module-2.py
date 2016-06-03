@@ -60,6 +60,9 @@ def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS, printForDeBug
             print(nounsInput)
         return float(len(nounsBLWInput))/len(nounsInput)*100, nounsBLWInput, nounsInput
 if __name__ == '__main__':
+    import sys
+    if sys.version_info[0] < 3:
+        raise "Must be using Python 3"
     #a.e. bug
     FILEPATH = 'data/testDataNM'
     files = mod1.listAllFile(FILEPATH, 1)

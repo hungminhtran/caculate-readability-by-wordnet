@@ -71,6 +71,9 @@ def writeOUt(outQueue, fileName, PROCESS_LOCK):
     outFile.close()
 
 if (__name__ == '__main__'):
+    import sys
+    if sys.version_info[0] < 3:
+        raise "Must be using Python 3"
     mainStartTime = time.time();
     MAX_PROCESS = int(sys.argv[1])
     FILEPATH = sys.argv[2]

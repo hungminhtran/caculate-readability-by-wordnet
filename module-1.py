@@ -60,11 +60,11 @@ def cpdRatio(SynsetNoun, level, hypernymName):
     cpdByLvls = [0] * (MAX_LEVEL + 1)
         #maximum is recurse 6 level
     if (level > MAX_LEVEL or not SynsetNoun):
-        return cpd, hyponym, total_lens, cpdByLvls
+        return [cpd, hyponym, total_lens, cpdByLvls]
 
     allHyponyms = SynsetNoun.hyponyms()
     if (allHyponyms == []):
-        return cpd, hyponym, total_lens, cpdByLvls
+        return [cpd, hyponym, total_lens, cpdByLvls]
     for synset in allHyponyms:
         for lemma in synset.lemmas():
             hyponym = hyponym + 1
@@ -81,9 +81,9 @@ def cpdRatio(SynsetNoun, level, hypernymName):
             cpd = cpd + tmp1
             hyponym = hyponym + tmp2
             total_lens = total_lens + tmp3
-            cpdByLvls = map(add, cpdByLvls, tmp4)
+            cpdByLvls = list(map(add, cpdByLvls, tmp4))
     #return result
-    return cpd, hyponym, total_lens, cpdByLvls
+    return [cpd, hyponym, total_lens, cpdByLvls]
 
 # testNoun = ['guitar', 'apples', 'piano', 'drum', 'peach', 'grape', 'hammer', 'saw', 'screwdriver', 'pants', 'paper']
 # for noun in testNoun:
@@ -125,9 +125,9 @@ def isABacsicWord(noun):
     else:
         t0 = t1 = t2 = 'N/A'
     if hyponym and t0 >= 25 and t2 >= 4:
-        return True, cpd, hyponym, t0, cpdByLvls, len(noun), t1, t2
+        return [True, cpd, hyponym, t0, cpdByLvls, len(noun), t1, t2]
     else:
-        return False, cpd, hyponym, t0, cpdByLvls, len(noun), t1, t2
+        return [False, cpd, hyponym, t0, cpdByLvls, len(noun), t1, t2]
 
 #input: string a, b
 #output: return true if a has more space (#32 in ASCII) than b, else return false
@@ -223,7 +223,7 @@ def generate_statistic_blw_with_hypernym_hyponym(blwFile, allNounsStatisticfile,
             for lemma in synset.lemmas():
                 if (lemma.name() != None):
                     outputT2.write(searchDatT2(lemma.name()))
-        return wlHyp, nwlHyp, mcHyp
+        return [wlHyp, nwlHyp, mcHyp]
 
     # process
     if (DEBUG == 1):
@@ -266,7 +266,19 @@ def generate_statistic_blw_with_hypernym_hyponym(blwFile, allNounsStatisticfile,
     outputT2.close()
 
 if __name__ == '__main__':
+    import sys
+    if sys.version_info[0] < 3:
+        raise "Must be using Python 3"
+
     print("start run at ", datetime.datetime.now().time())
+    # print('gen blw DEBUG')
+    # getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
+    # getStatisticsWithAllNouns("input/blw-nouns/blw-SORTED-nouns.txt", ["input/blw-nouns/all-blw-nouns-STATISTIC.txt",
+    # "input/blw-nouns/all-blw-BLW-statistic.txt", "input/blw-nouns/all-blw-BLW.txt"])
+    # print('t1, t2 blw')
+    # generate_statistic_blw_with_hypernym_hyponym('input/blw-nouns/all-blw-BLW.txt', 'input/blw-nouns/all-blw-nouns-STATISTIC.txt',
+    # 'output/blw-table-1.txt', 'output/blw-table-2.txt', DEBUG=0)
+    # end of debug code
     print('gen blw')
     getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
     getStatisticsWithAllNouns("input/blw-nouns/blw-SORTED-nouns.txt", ["input/blw-nouns/all-blw-nouns-STATISTIC.txt",
@@ -280,13 +292,13 @@ if __name__ == '__main__':
     "input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"])
     print('t1, t2 blw')
     generate_statistic_blw_with_hypernym_hyponym('input/blw-nouns/all-blw-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
-    'output/blw-table-1.txt', 'output/blw-table-2.txt', DEBUG=0)
+    'output/blw-table-1.csv', 'output/blw-table-2.csv', DEBUG=0)
     print('t1, t2 wn')
     generate_statistic_blw_with_hypernym_hyponym('input/wn-nouns/all-wn-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
-    'output/wn-table-1.txt', 'output/wn-table-2.txt', DEBUG=0)
+    'output/wn-table-1.csv', 'output/wn-table-2.csv', DEBUG=0)
     print('t1, t2 3000-freq')
     generate_statistic_blw_with_hypernym_hyponym('input/freq-nouns/3000-freq-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
-    'output/300-freq-table-1.txt', 'output/300-freq-table-2.txt', DEBUG=0)
+    'output/300-freq-table-1.csv', 'output/300-freq-table-2.csv', DEBUG=0)
     print("end run at ", datetime.datetime.now().time())
 else:
     print('import module-1 sucessfully')
