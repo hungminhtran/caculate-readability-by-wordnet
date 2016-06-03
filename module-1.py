@@ -26,7 +26,7 @@ def listAllFile(fullPath, listSubDir = 0):
 #output: standardized noun
 def standanizeNoun(noun):
     tnoun = noun.replace(' ', '_')
-    tnoun = wn.morphy(tnoun, wn.NOUN)
+    # tnoun = wn.morphy(tnoun, wn.NOUN) # disable for vietnet
     return tnoun
 
 def deStandanizeNoun(noun):
@@ -115,19 +115,25 @@ def quickSort(arr, compareFunc):
 def isABacsicWord(noun):
     noun = standanizeNoun(noun)
     if (noun == None):
+        print('Error isABacsicWord: standanizeNoun failed:', noun)
         return -1
-    cpd, hyponym, total_lens, cpdByLvls = cpdRatio(wn.synsets(noun)[0],1, noun)
-    # cpd, hyponym, total_lens, cpdByLvls = cpdRatio(wn.synsets('guitar')[0],1, 'guitar')
-    if hyponym > 0:
-        t0 = int(round(float(cpd)*100/hyponym + 0.5)) #floor, not round
-        t1 = int(round(float(total_lens)/hyponym + 0.5))
-        t2 = abs(-len(noun) + t1)
-    else:
-        t0 = t1 = t2 = 'N/A'
-    if hyponym and t0 >= 25 and t2 >= 4:
-        return [True, cpd, hyponym, t0, cpdByLvls, len(noun), t1, t2]
-    else:
-        return [False, cpd, hyponym, t0, cpdByLvls, len(noun), t1, t2]
+    # print('synset is being process: ',wn.synsets(noun))
+    try:
+        cpd, hyponym, total_lens, cpdByLvls = cpdRatio(wn.synsets(noun)[0],1, noun)
+        # cpd, hyponym, total_lens, cpdByLvls = cpdRatio(wn.synsets('guitar')[0],1, 'guitar')
+        if hyponym > 0:
+            t0 = int(round(float(cpd)*100/hyponym + 0.5)) #floor, not round
+            t1 = int(round(float(total_lens)/hyponym + 0.5))
+            t2 = abs(-len(noun) + t1)
+        else:
+            t0 = t1 = t2 = 'N/A'
+        if hyponym and t0 >= 25 and t2 >= 4:
+            return [True, cpd, hyponym, t0, cpdByLvls, len(noun), t1, t2]
+        else:
+            return [False, cpd, hyponym, t0, cpdByLvls, len(noun), t1, t2]
+    except:
+        print('Error isABacsicWord: noun is not found when get synset:', noun)
+        return -1
 
 #input: string a, b
 #output: return true if a has more space (#32 in ASCII) than b, else return false
@@ -179,6 +185,8 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile):
                 if t[0]:
                     outputABLW.write(xxx + "\n")
                     outputAllbacsicLvlWord.write(stringOut+ str(t[7]) + "\n")
+            else:
+                print('Error getStatisticsWithAllNouns: cannot process noun:', nouns[i])
     outputAllnouns.close()
     outputAllbacsicLvlWord.close()
     outputABLW.close()
@@ -243,7 +251,11 @@ def generate_statistic_blw_with_hypernym_hyponym(blwFile, allNounsStatisticfile,
         outputT2.write(EMPTY_TABLE2_LINE)
         # with hypernym
         #table 2
-        allHypernyms = wn.synsets(noun)[0].hypernyms()
+        try:
+            allHypernyms = wn.synsets(noun)[0].hypernyms()
+        except:
+            print('Error generate_statistic_blw_with_hypernym_hyponym: can not get hyppernyms: ', noun)
+            allHypernyms = []
         if (DEBUG == 1):
             print('all hypernyms\n', allHypernyms)
         (wlHyper, nwlHyper, mcHyper) = counterAndwrite(allHypernyms, outputT2)
@@ -253,14 +265,24 @@ def generate_statistic_blw_with_hypernym_hyponym(blwFile, allNounsStatisticfile,
         outputT2.write(EMPTY_TABLE2_LINE)
         # with hyponym
         #table 2
-        allHyponyms = wn.synsets(noun)[0].hyponyms()
+        try:
+            allHyponyms = wn.synsets(noun)[0].hyponyms()
+        except:
+            print('Error generate_statistic_blw_with_hypernym_hyponym: can not get hypponyms: ', noun)
+            allHyponyms = []
         (wlHypo, nwlHypo, mcHypo) = counterAndwrite(allHyponyms, outputT2)
         if (DEBUG == 1):
             print('all hyponyms\n', allHyponyms)
 
         # table 1 write down
-        outputT1.write(str(len(noun)) + ',' + mcNoun + ',' + str(wlHyper/nwlHyper) + ',' + str(len(allHypernyms)) + ','
-        + " ".join(mcHyper) + ',' + str(wlHypo/nwlHypo) + ',' + str(len(allHyponyms)) + ',' + " ".join(mcHypo) + '\n')
+        awlHypo = 0
+        if (nwlHypo != 0):
+            awlHypo = wlHypo/nwlHypo
+        awlHyper = 0
+        if (nwlHyper != 0):
+            awlHyper = wlHyper/nwlHyper
+        outputT1.write(str(len(noun)) + ',' + mcNoun + ',' + str(awlHyper) + ',' + str(len(allHypernyms)) + ','
+        + " ".join(mcHyper) + ',' + str(awlHypo) + ',' + str(len(allHyponyms)) + ',' + " ".join(mcHypo) + '\n')
 
     outputT1.close()
     outputT2.close()
@@ -269,16 +291,7 @@ if __name__ == '__main__':
     import sys
     if sys.version_info[0] < 3:
         raise "Must be using Python 3"
-
     print("start run at ", datetime.datetime.now().time())
-    # print('gen blw DEBUG')
-    # getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
-    # getStatisticsWithAllNouns("input/blw-nouns/blw-SORTED-nouns.txt", ["input/blw-nouns/all-blw-nouns-STATISTIC.txt",
-    # "input/blw-nouns/all-blw-BLW-statistic.txt", "input/blw-nouns/all-blw-BLW.txt"])
-    # print('t1, t2 blw')
-    # generate_statistic_blw_with_hypernym_hyponym('input/blw-nouns/all-blw-BLW.txt', 'input/blw-nouns/all-blw-nouns-STATISTIC.txt',
-    # 'output/blw-table-1.txt', 'output/blw-table-2.txt', DEBUG=0)
-    # end of debug code
     print('gen blw')
     getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
     getStatisticsWithAllNouns("input/blw-nouns/blw-SORTED-nouns.txt", ["input/blw-nouns/all-blw-nouns-STATISTIC.txt",
@@ -299,6 +312,16 @@ if __name__ == '__main__':
     print('t1, t2 3000-freq')
     generate_statistic_blw_with_hypernym_hyponym('input/freq-nouns/3000-freq-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
     'output/300-freq-table-1.csv', 'output/300-freq-table-2.csv', DEBUG=0)
+    print("gen vietnamesewn")
+    from nltk.corpus import vietnet as wn
+    getListOfNounsWithCompoundNounsFirst('input/vietnamesewn-nouns/all-vietnamesewn-nouns.txt'
+    , "input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt")
+    getStatisticsWithAllNouns('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt'
+    , ["input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt"
+    , "input/vietnamesewn-nouns/all-vietnamesewn-BLW-statistic.txt", "input/vietnamesewn-nouns/all-vietnamesewn-BLW.txt"])
+    generate_statistic_blw_with_hypernym_hyponym('input/vietnamesewn-nouns/all-vietnamesewn-BLW.txt'
+    , 'input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt','output/vietnamesewn-table-1.csv'
+    , 'output/vietnamesewn-table-2.csv', DEBUG=0)
     print("end run at ", datetime.datetime.now().time())
 else:
     print('import module-1 sucessfully')

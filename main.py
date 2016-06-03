@@ -14,6 +14,8 @@ def generateOutput(processID, filesQueue, outQueue, PROCESS_LOCK, TOTAL_TIME, IN
     #loop till out of file
     PROCESS_LOCK.acquire()
     print('='*5, 'proc', processID, 'start at', datetime.now().time(), '='*5)
+    if (isDebug):
+        print('process debug isTEI: ', isTEI)
     PROCESS_LOCK.release()
     while (1):
         #get a file from queue
@@ -82,7 +84,8 @@ if (__name__ == '__main__'):
     INPUT_ALL_NOUNS = sys.argv[5]
     DEBUG = int(sys.argv[6])
     TEIFILE = int(sys.argv[7])
-    testDataTEIMod.testFunc(FILEPATH)
+    if (TEIFILE == 1):
+        testDataTEIMod.testFunc(FILEPATH)
     print('number of process:', MAX_PROCESS, ' working on ', FILEPATH, 'save as ', outputPath, 'debug', DEBUG, 'is tiefile'
     , TEIFILE)
     #queue use for handling file for each worker

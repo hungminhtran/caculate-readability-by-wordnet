@@ -1,7 +1,6 @@
 import importlib
 mod1 = importlib.import_module("module-1")
 extractText = importlib.import_module("ExtractText")
-from nltk.corpus import wordnet as wn
 import nltk
 import re
 
