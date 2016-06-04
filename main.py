@@ -84,8 +84,7 @@ if (__name__ == '__main__'):
     INPUT_ALL_NOUNS = sys.argv[5]
     DEBUG = int(sys.argv[6])
     TEIFILE = int(sys.argv[7])
-    if (TEIFILE == 1):
-        testDataTEIMod.testFunc(FILEPATH)
+    testDataTEIMod.testFunc(FILEPATH, DEBUG, TEIFILE)
     print('number of process:', MAX_PROCESS, ' working on ', FILEPATH, 'save as ', outputPath, 'debug', DEBUG, 'is tiefile'
     , TEIFILE)
     #queue use for handling file for each worker

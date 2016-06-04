@@ -3,10 +3,10 @@ extractText = importlib.import_module("ExtractText")
 mod1 = importlib.import_module("module-1")
 import sys
 
-def testFunc(PATH, debug=0):
+def testFunc(PATH, debug=0, TEI = 1):
     print('')
     for f in mod1.listAllFile(PATH, 1):
-        temp = extractText.extractTextTEI(f, 1)
+        temp = extractText.extractTextTEI(f, TEI)
         print('[OK]', f)
         if (debug != 0):
             print(temp)
