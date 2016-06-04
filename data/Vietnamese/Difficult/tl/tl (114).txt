@@ -1,0 +1,132 @@
+﻿ĐỀ TÀI: PHÂN TÍCH BẢN CHẤT CỦA PHẠM TRÙ GIÁ TRỊ THẶNG DƯ TRONG BỘ TƯ BẢN - MÁC ĐÃ PHÂN TÍCH NHƯ THẾ NÀO VỀ PHƯƠNG PHÁP SẢN XUẤT GIÁ TRỊ THẶNG DƯ
+I. SỰ CHUYỂN HOÁ TIỀN TỆ THÀNH TƯ BẢN:
+1. Công thức chung của tư bản:
+Mọi tư bản mới đầu đều biểu hiện dưới một số tiền nhất định nhưng tiền tệ chỉ biến thành tư bản trong những điều kiện nhất định. Nếu là tiền thông thường thì hoạt động theo phương thức hàng - tiền - hàng (H-T-H). Công thức này gọi là công thức lưu thông hàng hoá giản đơn, còn nếu tiền là tư bản thì vận động theo công thức tiền - hàng - tiền (T-H-T). Công thức này gọi là công thức lưu thông của tư bản. Mục đích của lưu thông hàng hoá giản đơn là giá trị sử dụng. Vì vậy sự vận động sẽ kết thúc khi những người trao đổi có được giá trị sử dụng mà anh ta cần đến. Trái lại, mục đích sự vận động của tư bản không phải là giá trị sử dụng mà là giá trị. Hơn nữa là giá trị tăng thêm vì vậy nếu số tiền thu về bằng số tiền ứng ra thì sự vận động trở nên vô nghĩa. Vì vậy số tiền thu về phải lớn hơn số tiền ứng ra. Do đó công thức vận động đầy đủ của tư bản là T-H-T’ trong đó T’= T + t. Số dôi ra đó (t) Mác gọi là giá trị thặng dư và số tiền ban đầu chuyển hoá thành tư bản. Vậy tư bản là giá trị mang lại giá trị thặng dư.
+Sự lớn lên của giá trị là không có giới hạn. Vì vậy sự vận động của tư bản cũng không có giới hạn. Mác gọi công thức T-H-T’ là công thức chung của tư bản vì mọi tư bản đều biểu hiện trong lưu thông dưới dạng tổng quát đo dù là tư bản thương nghiệp, tư bản công nghiệp hay tư bản cho vay.
+2. Mâu thuẫn chung của công thức chung của tư bản
+Tư bản vận động theo công thức T-H-T’ trong đó T’ = T + t. Vậy t được sinh ra như thế nào? Như vậy chỉ có 2 trường hợp: trong lưu thông và ngoài lưu thông.
+a. Trong lưu thông (Trao đổi, mua bán): Dù trao đổi ngang giá hay không ngang giá cũng không tạo ra giá trị mới và do đó không tạo ra giá trị thặng dư
+- Trường hợp trao đổi ngang giá (mua bán đúng giá trị ) chỉ là sự chuyển hoá hình thái giá trị từ H - T và ngược lại . Do đó, tiền không lớn lên, giá trị không tăng thêm.
+- Trao đổi không ngang giá:
+Mua rẻ (thấp hơn giá trị) thì có lợi trong khi mua. Nhưng khi bán, bán thấp hơn giá trị thì chịu thiệt thòi.
+Bán đắt (cao hơn giá trị): cái được lợi khi là người bán thì sẽ chịu thiệt khi là người mua.
+Mua rẻ, bán đắt: điều này chỉ giải thích sự làm giàu của những thương nhân cá biệt chứ không giải thích sự làm giàu của tư bản nói chung
+Như vậy trao đổi không ngang giá thì giá trị không tăng thêm
+b. Ngoài lưu thông (xét hai nhân tố) không có sự tiếp xúc hàng tiền:
+Nhân tố (T) tiền: “tiền” tự nó không lớn lên.
+Xét nhân tố (H) hàng: Hàng ngoài lưu thông tức là vào tiêu dùng:
++ Tiêu dùng vào sản xuất, tức là tư liệu sản xuất. Vậy giá trị của nó chuyển dịch dần vào sản phẩm - không tăng lên.
++ Tư liệu tiêu dùng, tiêu dùng cho cá nhân - cả giá trị và giá trị sử dụng đều mất đi.
+Như vậy cả trong lẫn ngoài lưu thông xét tất cả các nhân tố thì T không tăng thêm.
+Nhưng nhà tư bản không thể vận động ngoài lưu thông, có nghĩa là nhà tư bản phải tìm thấy trên thị trường mua được một thứ hàng hoá (trong lưu thông ) nhưng nhà tư bản không bán hàng hoá đó, vì nếu bán cũng không thu được gì. Nhà tư bản tiêu dùng hàng hoá đó (ngoài lưu thông) tạo ra một giá trị mới lớn hơn giá trị bản thân nó - hàng hoá đó là sức lao động.
+Như vậy công thức đầy đủ có thể viết:
+Sức lao động
+T - H sản xuất hàng hoá ...H’ - T’
+TLSX
+Như vậy thì mâu thuẫn của công thức chung là tư bản vận động vừa trong lưu thông nhưng đồng thời vừa không trong lưu thông.
+3. Hàng hoá sức lao động:
+Sức lao động là toàn bộ thể lực và trí lực tồn tại trong cơ thể con người, thể lực và trí lực mà người đó sẽ vận dụng trong quá trình sản xuất ra một giá trị sử dụng.
+Trong bất cứ xã hội nào, sức lao động cũng đều là điều kiện cần thiết để sản xuất. Nhưng không phải bao giờ sức lao động cũng là hàng hoá. Sức lao động chỉ biến thành hàng hoá trong những điều kiện lịch sử nhất định. Đó là:
+• Người có sức lao động được tự do về thân thể, làm chủ về sức lao động của mình. Việc biến sức lao động thành hàng hoá đòi hỏi phải thủ tiêu chế độ chiếm hữu nô lệ.
+• Người có sức lao động bị tước đoạt hết tư liệu sản xuất, để duy trì cuộc sống phải đi làm thuê để sống. Nếu người lao động được tự do thân thể và có tư liệu sản xuất thì người lao động sẽ bán sản phẩm do mình làm ra chứ không phải sức lao động.
+Sự tồn tại đồng thời 2 điều kiện nói trên tất yếu biến sức lao động thành hàng hoá. Sức lao động biến thành hàng hoá báo hiệu một giai đoạn mới trong sự phát triển xã hội - giai đoạn sản xuất hàng hoá trở thành phổ biến, đó là sản xuất hàng hoá tư bản chủ nghĩa. Hàng hoá sức lao động là nhân tố tách chủ nghĩa tư bản ra khỏi sản xuất hàng hoá giản đơn. Như vậy, sức lao động biến thành hàng hoá là điều kiện quyết định để chuyển hoá tiền tệ thành tư bản. Tuy nhiên để tiền tệ biến thành tư bản thì lưu thông hàng hoá và lưu thông tiền tệ phải đạt tới mức độ nhất định.
+Sức lao động là hàng hoá đặc biệt: Sức lao động phải là hàng hoá và giống hàng hoá thông thường khác nhưng tính đặc biệt được thể hiện:
+• Trong quan hệ mua bán:
+o Chỉ bán quyền sử dụng chứ không bán quyền sở hữu và có thời gian nhất định.
+o Mua bán chịu - Giá trị sử dụng thực hiện trước - giá trị thực hiện sau.
+o Chỉ có phía người bán là công nhân làm thuê - Người mua là nhà tư bản.
+o Giá cả (tiền lương) luôn thấp hơn so với giá trị. Vì sức lao động phải bán trong mọi điều kiện - mua bán trong mọi điều kiện để sinh sống.
+• Hai thuộc tính của hàng hoá sức lao động:
+Giá trị hàng hoá sức lao động cũng giống như hàng hoá thông thường, lượng giá trị sức lao động cũng được đo bằng thời gian lao động xã hội cần thiết để sản xuất và tái sản xuất sức lao động. Nhưng khác hàng hoá thông thường vì sức lao động là năng lực (khả năng) tồn tại trong cơ thể sống của con người, để tái sản xuất ra năng lực đó người công nhân phải tiêu dùng một khối lượng sinh hoạt nhất định để thực hiện nhu cầu tái tạo sức lao động. Như vậy lượng giá trị sức lao động được đo lường gián tiếp bằng lượng giá trị sinh hoạt. 
+- Yếu tố cấu thành giá trị sức lao động:
++ Giá trị tư liệu sinh hoạt cho bản thân người công nhân
++ Giá trị tư liệu sinh hoạt cho gia đình anh ta
++ Chi phí đào tạo
+- Sự vận động của lượng giá trị sức lao động (tăng và giảm):
+* Nhân tố làm tăng là do chí phí đào tạo tăng, do đòi hỏi của cách mạng khoa học kỹ thuật.
+* Nhân tố làm giảm lượng giá trị sức lao động: do giá trị tư liệu sinh hoạt giảm và năng suất lao động của ngành sản xuất tư liệu sinh hoạt tăng.
+* Giá trị sức lao động đặc biệt khác hàng hoá thông thường: nó mang yếu tố tinh thần và lịch sử. Con người sống trong những điều kiện kinh tế cụ thể ngoài nhu cầu vật chất còn có nhu cầu tinh thần.
+Giá trị sử dụng của hàng hoá sức lao động: cũng giống như hàng hoá khác giá trí sử dụng cũng được thể hiện khi tiêu dùng. Nhưng nó khác ở chỗ nhà tư bản tiêu dùng sức lao động của công nhân và bắt công nhân lao động kết hợp với tư liệu sản xuất để tạo ra hàng hoá. Trong quá trình lao động đó người công nhân đã tạo ra một giá trị mới (v + m ) trong đó có một bộ phận ngang bằng với giá trị sức lao động của người công nhân nhà tư bản dùng để trả lương cho người công nhân đó (đó là v), còn một bộ phận dôi ra ngoài bộ phận sức lao động (m) nhà tư bản chiếm không. 
+Như vậy: Có thể nói rằng giá trị sức lao động khi nhà tư bản tiêu dùng nó tạo ra một giá trị mới lớn hơn giá trị bản thân nó. Hay nói cách khác: Giá trị sử dụng đặc biệt của hàng hoá sức lao động là nguồn gốc của giá trị và giá trị thặng dư.
+Còn các hàng hoá thông thường:
+• Nếu là tư liệu sản xuất khi tiêu dùng trong sản xuất thì giá trị của nó được dịch chuyển vào giá trị sản phẩm.
+• Nếu là tư liệu sinh hoạt và tiêu dùng cho cá nhân thì cả giá trị lẫn giá trị sử dụng đều mất đi.
+II. SẢN XUẤT RA GIÁ TRỊ THẶNG DƯ
+1. Quá trình sản xuất giá trị thặng dư:
+Quá trình sản xuất tư bản chủ nghĩa là sự thống nhát giữa quá trình tạo ra giá trị sử dụng và quá trình lớn lên của giá trị hay quá trình sản xuất ra giá trị thặng dư.
+Quá trình lao động với tư cách là quá trình nhà tư bản tiêu dùng sức lao động có hai đặc trưng:
+• Công nhân làm việc dưới sự điều khiển của nhà tư bản như là một bộ phận của tư bản và được nhà tư bản sử dụng với hiệu quả cao nhất.
+• Sản phẩm làm ra thuộc quyền sở hữu của nhà tư bản chứ không phải của công nhân.
+Nghiên cứu quá trình sản xuất ra giá trị thặng dư qua ví dụ sau:
+Giả định để sản xuất 10 kg sợi cần 10 kg bông giá 10 USD, để biến 10 kg bông thành sơi, một công nhân phải lao động trong 6 giờ và mỗi giờ lao động tạo ra một giá trị mới là 0,5 USD. Để biến 10 kg bông thành sợi hao mòn của máy móc là 2 USD. Tiền mua sức lao động trong 1 ngày là 3 USD. Trong quá trình sản xuất sợi đã hao phí theo thời gian lao động xã hội cần thiết.
+Giả định qúa trình lao động dừng lại ở điểm 6 giờ thi:
+Tư bản ứng trướcGiá trị của sản phẩm mới- Tiền mua bông: 10 USD- Giá trị của bông chuyển vào sợi: 10 USD- Tiền hao mòn máy móc: 2 USD- Giá trị của máy móc chuyển vào sợi: 2 USD- Tiền mua sức lao động: 3 USD- Giá trị do lao động của công nhân tạo ra trong 6 giờ: 3 USDCộng: 15 USDCộng: 15 USDSo sánh giá trị của sản phẩm mới với giá trị tư bản ứng trước ta thấy tư bản ứng trước chưa tăng lên, do đó tiền tệ ứng ra ban đầu chưa chuyển hoá thành tư bản.
+Nhưng giá trị sức lao động và giá trị do sức lao động tạo ra là hai đại lượng khác nhau mà nhà tư bản đã tính toán. Nhà tư bản đã mua sức lao động trong 1 ngày nên việc sử dụng sức lao động trong ngày đó là thuộc quyền của nhà tư bản.
+Chẳng hạn nhà tư bản bắt công nhân lao động trong 12 giờ thì:
+Tư bản ứng trướcGiá trị của sản phẩm mới- Tiền mua bông (20kg): 20 USD- Giá trị của bông chuyển vào sợi: 20 USD- Tiền hao mòn máy móc: 4 USD- Giá trị của máy móc chuyển vào sợi: 4 USD- Tiền mua sức lao động: 3 USD- Giá trị do lao động của công nhân tạo ra trong 6 giờ: 6 USDCộng: 27 USDCộng: 30 USDSo sánh giá trị của sản phẩm mới và giá trị của tư bản ứng trước ta thấy tư bản ứng trước đã tăng lên là 3 USD (giá trị thặng dư). Do đó tiền đã chuyển hoá thành tư bản
+Vậy giá trị thặng dư là một phần của giá trị mới dôi ra ngoài giá trị sức lao động do lao động công nhân sản xuất tạo ra mà nhà tư bản chiếm không. (ký hiệu là m)
+Bản chất giá trị thặng dư:
+- Phân tích giá trị của 20Kg sợi do lao động công nhân tạo ra (lao động có tính hai mặt)
++ Xét về lao động cụ thể của người lao động kéo sợi, trong quá trình lao động người công nhân đã bảo tồn và di chuyển giá trị của bông và máy móc vào giá trị của sợi (c = 24)
++ Xét lao động trừu tượng trong thời gian đó người công nhân cũng hao phí sức lao động nói chung tạo ra một giá trị lao động mới (v = 6) trong đó có một phần bằng giá trị sức lao động (v = 3) nhà tư bản dùng để trả lương cho công nhân (trả đúng giá trị sức lao động) còn bộ phận ngoài sức lao đông (m = 3) là giá trị thặng dư.
+- Phân tích ngày lao động của công nhân: 
++ Khi năng suất lao động cao, ngày lao động của công nhân chia thành hai phần : Thời gian lao động cần thiết (6 giờ) là thời gian lao động để tạo ra một giá trị bằng giá trị sức lao động bỏ ra để tái sản xuất sức lao động (v=3)
++ T/gian lao động thặng dư tạo ra giá trị thặng dư cho nhà tư bản (m = 3)
+6 giờ				6giờ
+-----------------------------------+------------------------------- 
+Thời gian lao động cần thiết Thời gian lao động thặng dư
+v		 + m 			= 6
+Thời gian l/đ cần thiết - T/gian l/động của CN - Độ dài ngày tự nhiên
+Mác: Vậy giá trị thặng dư là 1phần giá trị được sáng tạo ra do kéo dài vượt khỏi giơí hạn mà tại điểm đó giá trị sức lao động được trả ngang giá.
+
+III. HAI PHƯƠNG PHÁP SẢN XUẤT GIÁ TRỊ THẶNG DƯ
+Cùng với quá trình phát triển của chủ nghĩa tư bản cũng là quá trình phát triển của lực lượng sản xuất, nâng cao năng suất lao động và cũng là quá trình nâng cao trình độ bóc lột. Có thể khái quát thành hai phương pháp sau:
+1. Sản xuất giá trị thặng dư tuyệt đối:
+Giá trị thặng dư tuyệt đối là giá trị thặng dư thu được do kéo dài tuyệt đối ngày lao động trong điều kiện thời gian lao động cần thiết không đổi. Phương pháp này được áp dụng phổ biến trong giai đoạn đầu của chủ nghĩa tư bản khi còn dựa trên lao động thủ công.
+Ví dụ: Ngày lao động 8 giờ chia thành:
+- Thời gian lao động cần thiết là 4 giờ
+- Thời gian lao động thặng dư là 4 giờ
+
+----------------------------------+------------------------------
+4giờ			 4giờ
+Thời gian lao động cần thiết 	 Thời gian lao động thặng dư
+4
+Tỷ suất giá trị thặng dư là:	m’ = ----100% = 100%
+4	
+Sản xuất m tuyệt đối bằng cách kéo dài thời gian lao động thành 10 giờ trong khi thời gian lao động cần thiết là 6 giờ
+-----------------------------------+-------------------------------------
+4giờ				 6giờ
+Thời gian lao động cần thiết 	 Thời gian lao động thặng dư
+4
+Tỷ suất giá trị thặng dư là:	m’ = ----100% = 150%
+6
+Với sự thèm khát giá trị thặng dư, nhà tư bản phải tìm mọi cách để kéo dài ngày lao động. Nhưng ngày lao động có những giới hạn nhất định. Giới hạn trên của ngày lao động do thể chất và tinh thần của người lao động quyết định, còn giới hạn dưới của ngày lao động là thời gian lao động cần thiết.
+Như vậy về mặt kinh tế, ngày lao động phải dài hơn thời gian lao động cần thiết nhưng không thể vượt quá giới hạn về thể chất và tinh thần của người lao động. Độ dài cụ thể của ngày lao động do cuộc đấu tranh giữa giai cấp vô sản và tư sản trên cơ sở tương quan lực lượng quyết định. Do cuộc đấu tranh của giai cấp công nhân nên chế độ ngày làm 8 giờ đã được thực hiện ở các nước tư bản chủ nghĩa.
+2. Sản xuất giá trị thặng dư tương đối:
+Giá trị thặng dư tương đối là giá trị thặng dư thu được do rút ngắn thời gian lao động cần thiết, kéo dài tương ứng thời gian lao động thặng dư trong điều kiện độ dài ngày lao động không đổi.
+Ví dụ: Ngày lao động 8 giờ chia thành:
+- Thời gian lao động cần thiết là 4 giờ
+- Thời gian lao động thặng dư là 4 giờ
+4
+Tỷ suất giá trị thặng dư là m’= --------- = 100%
+4
+Sản xuất giá trị thặng dư bằng cách rút ngắn thời gian lao động cần thiết còn 2 giờ. Thời gian lao động thặng dư là 6 giờ.
+6
+m’ = ----100% = 300%
+2
+Bằng cách nào để rút ngắn thời gian lao động cần thiết, biết rằng thời gian lao động cần thiết bằng giá trị tạo ra sức lao động, bằng giá trị tư liệu sinh hoạt. Muốn rút ngắn giá trị lao động cần thiết hạ thấp giá trị sức lao động, hạ thấp giá trị tư liệu sinh hoạt bằng cách tăng năng suất lao động trong ngành sản xuất tư liệu sinh hoạt.
+- Khi đã có nền sản xuất công nghiệp thì có sự kết hợp cả hai phương pháp trên.
+Ý nghĩa của việc nghiên cứu:
+- Về mặt lý luận thì khẳng định sự tiến bộ của lịch sử, sự phát triển lực lượng sản xuất của chủ nghĩa tư bản. Do lực lượng sản xuất phát triển, năng suất lao động cao.
+- Vạch rõ thực chất sự bóc lột cho dù giữ nguyên hay rút ngắn ngày lao động
+- Ý nghĩa thực tiễn, trong điều kiện nước ta để có vốn, tích luỹ để công nghiệp hoá, hiện đại hoá thì sử dụng cả biện pháp tăng cường độ, kéo dài ngày lao động, tăng năng suất lao động. Trong đó tăng năng suất lao động là biện pháp cơ bản lâu dài vì nó không vấp phải giới hạn 
+Giá trị thặng dư siêu ngạch:
+Là giá trị thặng dư thu được ngoài mức trung bình do tăng năng suất lao động cá biệt, hạ thấp giá trị cá biệt so với giá trị xã hội.
+Giá trị thặng dư siêu ngạch và giá trị thặng dư tương đối có một cơ sở chunhg, đó là đều dựa trên cơ sở tăng năng suất lao động nên giá trị thặng dư siêu ngạch chỉ là biến tướng cuả giá trị thặng dư tương đối. Tuy vậy giữa chúng vẫn có sự khác nhau. Đó là giá trị thặng dư tương đối dựa trên năng suất lao động xã hội còn giá trị thặng dư siêu ngạch dựa trên năng suất lao động cá biệt. Giá trị thặng dư siêu ngạch sẽ được thay thế bằng giá trị thặng dư tương đối khi trình độ kỹ thuật mới được áp dụng cá biệt trở thành được áp dụng phổ biến. Vì vậy giá trị thặng dư siêu ngạch mang tính chất tạm thời. Mác gọi giá trị thặng dư siêu ngạch là hình thức biến tướng của giá trị thặng dư tương đối.
+Sự khác nhau giữa chúng còn thể hiện ở chỗ: giá trị thặng dư tương đối do toàn bộ giai cấp các nhà tư bản thu được. Nó biểu hiện sự tiến bộ kỹ thuật của chủ nghĩa tư bản được áp dụng rộng rãi. Xét về mặt đó thì nó thể hiện quan hệ của giai cấp công nhân và toàn bộ giai cấp các nhà tư bản. Giá trịt thặng dư siêu ngạch là mục đích trực tiếp cạnh tranh mà mỗi nhà tư bản cố gắng đạt được trong cạnh tranh với các nhà tư bản khác. Xét về mặt này, giá trị thặng dư siêu ngạch không chỉ biểu hiện mối quan hệ giữa công nhân làm thuê và nhà tư bản mà còn thể hiện mối quan hệ giữa các nhà tư bản với nhau. Như vậy giá trị thặng dư siêu ngạch là động lực trực tiếp mạnh nhất thúc đẩy các nhà tư bản cải tiến kỹ thuật, hoàn thiện tổ chức sản xuất và tổ chức lao động để tăng năng suất lao động, làm giảm giá trị của hàng hoá.
+IV. QUY LUẬT KINH TẾ CƠ BẢN CỦA CHỦ NGHĨA TƯ BẢN
+Mỗi phương thức sản xuất bao giờ cũng tồn tại một quy luật phản ánh quan hệ bản chất nhất của phương thức sản xuất đó và đóng vai trò chủ đạo trong hệthống các quy luật kinh tế gọi là quy luật kinh tế cơ bản Theo Mác, sản xuất ra giá trị thặng dư là quy luật kinh tế cơ bản của chủ nghĩa tư bản.
+Mục đích trực tiếp của sản xuất tư bản chủ nghĩa không phải là giá trị sử dụng mà là sản xuất ra giá trị thặng dư, nhân giá trị lên. Theo đuổi giá trị thặng dư bằng bất cứ thủ đoạn nào là mục đích, động cơ thúc đẩy sự hoạt động của mỗi nhà tư bản, cũng như toàn bộ xã hội tư sản. 
+Để sản xuất giá trị thặng dư tối đa, các nhà tư bản tăng cường bóc lột công nhan làm thuê không phải bằng cưỡng bức siêu kinh tế mà bằng cưỡng bức kinh tế dựa trên cơ sở mở rộng sản xuất, phát triển kỹ thuật để tăng năng suất lao động, tăng cường độ lao động và kéo dài ngày lao động/
+Như vậy, sản xuất ra giá trị thặng dư tối đa cho nhà tư bản bằng cách tăng số lượng lao động làm thuê và tăng mức bóc lột là nội dung của quy luật kinh tế cơ bản của phương thức sản xuất tư bản chủ nghĩa.
+Quy luật giá trị thặng dư tác động quyết định đến mọi mặt của xã hội tư bản. Nó quyết định sự phát sinh, phát triển của chủ nghĩa tư bản và sự thay thế nó bằng xã hội cao hơn, là quy luật luật vận động của phương thức sản xuất tư bản chủ nghĩa.
