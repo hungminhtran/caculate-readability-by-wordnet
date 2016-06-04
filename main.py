@@ -14,9 +14,19 @@ def generateOutput(processID, filesQueue, outQueue, PROCESS_LOCK, TOTAL_TIME, IN
     #loop till out of file
     PROCESS_LOCK.acquire()
     print('='*5, 'proc', processID, 'start at', datetime.now().time(), '='*5)
+    inputFile= open('input/wn-nouns/all-wn-BLW.txt', 'r')
+    BLWnounsArray = inputFile.read()
+    inputFile.close()
+
+    #get all nouns
+    inputFile= open('input/wn-nouns/all-wn-SORTED-nouns.txt', 'r')
+    NounsArray = inputFile.read()
+    inputFile.close()
     if (isDebug):
         print('process debug isTEI: ', isTEI)
     PROCESS_LOCK.release()
+    NounsArray = NounsArray.splitlines()
+    BLWnounsArray =BLWnounsArray.splitlines()
     while (1):
         #get a file from queue
         PROCESS_LOCK.acquire()
@@ -31,8 +41,7 @@ def generateOutput(processID, filesQueue, outQueue, PROCESS_LOCK, TOTAL_TIME, IN
             #begin calculate
             startTime = time.time();
             beginTime = datetime.now().time()
-            ratio, blwN, allN = mod2.calculateReabilityByWordnetForEnglish(_file, INPUT_BLW_NOUNS, INPUT_ALL_NOUNS, isDebug
-            , isTEI)
+            ratio, blwN, allN = mod2.calculateReabilityByWordnetForEnglish(_file, BLWnounsArray, NounsArray, isDebug, isTEI)
             endTime = time.time();
             #write down\
             PROCESS_LOCK.acquire()

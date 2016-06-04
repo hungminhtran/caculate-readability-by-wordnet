@@ -1,0 +1,233 @@
+﻿ĐẶT VẤN ĐỀ
+
+Tỷ giá là một biến số kinh tế vĩ mô quan trọng có tác động tới nhiều mặt hoạt động của nền kinh tế . Nó ra đời từ hoạt động ngoại thương và quay trở lại tác động lên hoạt động xuất nhập khẩu và cán cân thương mại cán cân thanh toán của mỗi quốc gia. Xây dựng thành công một chính sách điều hành tỷ giá thích hợp là một vấn đề vô cùng khó khăn phức tạp. Nghiên cứu vấn đề này là một đề tài mang tính cấp thiết trong thời gian gần đây.
+Góp phần vào những nghiên cứu, phân tích , trong bài tiểu luận này em cũng xin được trình bày những suy nghĩ của mình về một vấn đề đa dạng, phức tạp và cũng vô cùng quan trọng này thông qua đề tài :“Chính sách tỷ giá hối đoái và những điều kiện tự do hoá tỷ giá ở Việt nam ” .
+Bài tiểu luận bắt đầu từ việc phân tích cơ sở lí luận của tỷ giá ,cơ chế xác định, những yếu tố ảnh hưởng và vai trò của tỷ giá đối với nền kinh tế . Từ đó làm sáng tỏ lên tầm quan trọng của chính sách tỷ giá trong việc thực hiện các mục tiêu kinh tế vĩ mô . Một vấn đề cũng được coi trọng trình bày là những lí luận về tự do hoá hay thả nổi tỷ giá . Xu thế toàn cầu là từng bước thả nổi tỷ giá để cho nó được tự do xác định trên thị trường theo quy luật cung cầu ngoại hối. Tự do hoá mang lại nhiều lợi thế và muốn phát triển nền kinh tế thì các quốc gia không thể bỏ qua . Tuy nhiên bất cứ một vấn đề nào cũng có mặt trái của nó. Không thể không tính đến những điều kiện tiên quyết cho viêc tự do hoá tỷ giá thành công. Đối với các nước có nền kinh tế mới chuyển đổi có khuyến nghị là vẫn nên duy trì ở một mức độ tương đối cao những công cụ quản lý mang tính hành chính. Một sự tự do hoá vội vã sẽ dẫn đến những tổn thương mà nền tảng kinh tế vĩ mô chưa đủ vững chắc để có thể chống đỡ và kết quả là sự chạy trốn của các luồng vốn .Trình bày bài học kinh nghiệm của các nước là một vấn đề cần thiết cho quá trình hoạch định chính sách .
+Thực trạng điều hành tỷ giá ở Việt Nam thời gian qua là một nội dung quan trọng . Khái quát cả mười năm đổi mới hệ thống tài chính trên lĩnh vực tỷ giá nhằm làm sáng tỏ những ưu nhược điểm để từ đó có những điều chỉnh thích hợp. Giải pháp cho vấn đề được đề cập ở chương cuối nêu lên một vài gợi mở cho vấn đề.
+Với kiến thức còn nhiều thiếu sót , cơ sở số liệu thống kê không đầy đủ và tính phức tạp của đề tài nên trong bài viết không tránh khỏi khiếm khuyết rất mong được sự góp ý của các thầy giáo cô giáo và các bạn. 
+
+CHƯƠNG I
+
+TỶ GIÁ HỐI ĐOÁI VÀ CHÍNH SÁCH TỶ GIÁ HỐI ĐOÁI
+
+I Khái niệm về tỷ giá hối đoái 
+1,Khái niệm : Khối lượng thương mại quốc tế đã tăng lên trong suốt bốn mươi năm qua làm cho các nền kinh tế ngày càng phụ thuộc lẫn nhau.trong xu hướng toàn cầu hoá dần xoá nhoà các đường biên giới quốc gia và làm cho các dòng tư bản lưu chuyển linh hoạt hơn.trong quá trình đó , mỗi quốc gia đều cố gắng đưa đồng nội tệ có thể chuyển đổi và tìm kiếm một chính sách tỷ giá thích hợp. 
+Vậy tỷ giá bắt đầu xuất hiện khi có thương mại quốc tế . Nó là mức giá giữa hai nước mà tại đó họ trao đổi với nhau. 
+a, Tỷ giá hối đoái danh nghĩa : là giá cả của một đồng tiền nước này tính theo đơn vị tiền tệ nước khác.
+Hiện nay trên thế giới có hai phương pháp niêm yết tỷ giá là phương pháp trực tiếp và phương pháp gián tiếp .
+*Phương pháp gián tiếp : ký hiệu e , là phương pháp biểu hiện một đơn vị nội tệ bằng các đơn vị ngoại tệ .
+Ví dụ: Tại thị trường hối đoái London yết giá 1bảng Anh=1,6191 đôla Mỹ 
+*Phương pháp trực tiếp : ký hiệu E , là phương pháp tỷ giá hối đoái của đồng ngoại tệ .Nó chính là giá của một đơn vị ngoại tệ tính theo số đơn vị nội tệ.
+Ví dụ : giá của đôla Mỹ(USD) tính theo đồng Việt Nam(VND) là14058VND/USD.Điều này nói lên rằng 1USD có giá trị bằng 14058 VND 	
+Theo thông lệ quốc tế chỉ có ba loại đồng tiền mạnh trên thế giới (đồng bảng Anh , đồng Euro, đồng USD ) được phép niêm yết giá trực tiếp . Có nghĩa là trên các nước sở tại được phép công bố tỷ giá e.Tất cả các loại tiền khác ngoài ba đồng tiền nêu trên thì phải niêm yết giá gián tiếp . Có nghĩa là trên đất nước sở tại không được phép công bố tỷ giá e mà phải niêm yết giá thông qua một đồng tiền mạnh .
+b.Tỷ giá hối đoái thực tế: là giá tương đối của hàng hoá ở hai nước 
+Công thức tính tỷ giá hối đoái thực tế 
+e’=e*P/P’ 
+e’: Tỷ giá hối đoái thực tế 
+e : Tỷ giá hối đoái danh nghĩa 
+P : Mức giá trong nước 
+P’: Mức giá nước ngoài
+Nếu xét cho một hàng hoá cụ thể thì P chính là giá hàng nội tính bằng nội tệ (giá nội địa ) còn P’ chính là giá mặt hàng cùng loại ở nước ngoài tính theo giá ngoại tệ . 
+Ví dụ : giả sử có một chiếc áo sơ mi ở Việt Nam với giá P=70000VND/chiếc cũng chiếc áo đó sản suất tại Mỹ P’=20USD ,giả sử 
+e=1/14000
+Khi đó tỷ giá hối đoái thực tế bằng e’=e*P/P’=1/14000*(70000/20)=1/4 
+Điều này nói lên rằng một chiếc áo sơ mi Việt Nam có thể bằng 1/4 chiếc áo sơ mi bên Mỹ . Do chất lượng mẫu mã như nhau nên hàng Việt Nam rẻ hơn 1/4 hàng Mỹ . Do đó hàng Việt Nam có sức cạnh tranh hơn hàng Mỹ , hàng Việt Nam có thể xuất khẩu sang Mỹ .
+Nếu tỷ giá hối đoái thực tế cao , hàng ngoại tương đối rẻ và hàng nội tương đối đắt và ngược lại 
+c. Cơ chế xác định tỷ giá : tuỳ thuộc vào chính sách tỷ giá mỗi quốc gia 
+c1, Cơ chế thị trường : tỷ giá cũng là một loại giá cả, nó được xác định dựa trên các lực lượng cung cầu nội ngoại tệ trên thị trường ngoại hối.
+Thị trường ngoại hối là nơi mua bán trao đổi đồng nội và ngoại tệ.
+- Xuất hiện việc cung tiền của nước A trên thị trường ngoại hối so với đồng tiền nước B khi ngươì dân nước A mua hàng nhập khẩu từ B hoặc khi người dân nước A đầu tư sang nước B .
+Đường cung về tiền có độ dốc dương trong không gian hai chiều tỷ giá và lượng cung tiền
+- Xuất hiện về cầu tiền nước A trên Tỷ e
+thị trường ngoại hối khi người nước giá S (VND) 
+B mua hàng xuất khẩu từ nước A hoặc
+khi người nước người dân nước B đầu 
+tư sang nước A. Đường cầu về có độ e* 
+dốc âm trong không gian hai chiều tỷ
+giá và lượng tiền . D (VND)
+Sự cân bằng cung cầu tiền đạt được khi 		 
+hai đường này giao nhau và tỷ giá cân Q* Q(VND) 
+bằng được xác định. 
+C2, Cơ chế hành chính : ở những nước theo đuổi chính sách kiềm chế tài chính và kiểm soát chặt chẽ nguồn vốn thường đưa ra một mức tỷ giá neo cố định .Tỷ giá này có thể được thay đổi điều chỉnh song không phải do các lực lượng thị trường quyết định. Nó được ấn định lại khi các nhà quản lý cần thấy phải thay đổi nó để phục vụ cho một mục đích nào đó.
+2. Các nhân tố ảnh hưởng đến tỷ giá 
+a.Các nhân tố thuộc về dài hạn :
+*Mức giá cả tương đối : Về lâu dài một sự tăng lên mức giá của một nước (tương đối so với mức giá nước khác )làm cho đồng tiền nước đó giảm giá và một sự giảm giá xuống của mức giá tương đối làm cho đồng tiền nước đó tăng giá .
+*Thuế và Cô-ta: Đây là hàng rào đối với hàng nhập khẩu và bảo hộ hnàg sản xuất trong nước . Điều này làm tăng cầu hàng nội và dẫn đến việc tăng giá của đồng nội tệ. Thuế quan và cô-ta về lâu dài làm cho đồng tiền của một nước lên giá. Tuy vậy một quốc gia thực hiện chính sách “bế quan toả cảng” thì vấn đề tỷ giá đối với họ không có nhiều ý nghĩa lắm.
+* Ưa thích hàng nội so với hàng ngoại : Một sự ưa thích hàng ngoại làm tăng cầu về ngoại tệ khiến cho cung nội tệ tăng dịch chuyển và giá đồng nội tệ giảm xuống .Về lâu dài cầu về hàng xuất khẩu của một nước làm cho đồng tiền của nước đó tăng giá trong khi câù về hàng nhập tăng lên làm cho đồng tiền nước đó tăng giá.
+* Năng suất lao động : Năng suất lao động cao làm giá hàng của một nước rẻ tương đối so với các nước khác . Cầu hàng xuất nước đó cao lên kéo theo sự tăng giá của đồng tiền nước đó. Về lâu dài , do năng suát lao động của một nước cao hơn tương đối so với nước khác , nên đồng tiền của nước đó tăng giá.
+*Yếu tố tâm lý cũng ảnh hưởng đến tỷ giá : Phần lớn các nước đang phát triển đều phải đối mặt với tình trạng “Đôla hoá” trong nền kinh tế.Đó là sự mất niềm tin vào đồng bản tệ , người dân và các tổ chức kinh tế găm giữ đôla và chỉ tín nhiệm đòng tiền này trong thanh toán trao đổi . Do vậy cầu USD rất lớn và giá các đồng bản tệ xuống thấp các nước luôn trong tình trạng căng thẳng về dự trữ ngoại hối đảm bảo khả năng thanh toán nợ đến hạn .
+*Tỷ lệ lạm phát: Nếu tỷ lệ lạm phát nước A cao hơn tỷ lệ lạm phát nước B,nước A cần nhiều tiền hơn để đổi lấy một lượng tiền nhất định của nước B.
+Giá đồng tiền nước A giảm xuống . 
+* Cán cân thương mại: Nó liên quan đến hoạt động xuất nhập khẩu .Xuất khẩu lớn tỷ giá lên giá 
+b,Các nhân tố thuộc về ngắn hạn
+* Lãi suất : Lãi suất là một biến số kinh tế tổng hợp tác động đến nhiều chỉ tiêu khác nhau trong đó tỷ giá và lãi suất có mối quan hệ hết sức chặt chẽ với nhau. Trong một nước nếu lãi suất nội tệ tăng trong khi lãi suất thế giới ổn 
+định sẽ làm cho các luồng vốn quốc tế đổ vào nhiều vì mức lãi suất quá hấp dẫn . Do vậy cầu tiền nước này tăng lên và tỷ giá tăng theo .
+* Cán cân thanh toán: Cán cân thanh toán quốc tế phản ánh mức cung- cầu về ngoại tệ trên thị trường ,do đó nó có ảnh hưởng trực tiếp đến tỷ giá hối đoái . Bội thu cán cân thanh toán sẽ làm cho tỷ giá giảm và bội chi cán cânthanh toán sẽ làm cho tỷ giá tăng 
+3,Vai trò của tỷ giá trong nền kinh tế
+Tỷ giá hối đoái là một công cụ kinh tế vĩ mô chủ yếu để điều tiết cán cân thương mại quốc tế theo mục tiêu đã định trước của nhà nước .Nó ra đời từ hoạt động thương mại quốc tế và quay trở lại tác động thúc đẩy hoạt động ngoại thương phát triển. 
+Bởi vì tỷ giá hối đoái có tác động rất lớn đến xuất nhập khẩu hàng hoá và tư bản (vốn), giá cả hàng hoá trong nước , do đó nó có tác động không nhỏ đến nền kinh tế quốc dân của một nước. Khi tỷ giá giảm , tức giá trị đồng nội tệ giảm nên giá cả hàng hoá xuất khẩu tính bằng tiền nước ngoài giảm , sức cạnh tranh của hàng hoá đó trên thị trường thế giới sẽ tăng lên có tác dụng đẩy mạnh xuất khẩu hàng hoá . 
+Đồng thời với việc tỷ giá giảm làm cho giá hàng hoá nhập khẩu tăng lên dẫn đến hạn chế nhập khẩu. Ngược lại khi tỷ giá tăng, nghĩa là giá trị đồng nội tệ tăng thì có tác động giảm xuất khẩu và tăng nhập khẩu hàng hoá.
+Tỷ giá thay đổi cũng có tác động điều tiết việc di chuyển tư bản (vốn) từ quốc gia này sang quốc gia khác. Việc di chuyển tư bản trên thế giới nhằm mục đích kiếm lời nhuận và tránh rủi ro. Do đó, nếu tỷ giá giảm trong trường hợp người ta dự đoán tỷ giá không tiếp tục giảm nữa thì tư bản nhập khẩu sẽ gia tăng và tư bản xuất khẩu sẽ giảm .
+Ngoài các nhân tố khác ,vật giá trong một quốc gia còn chịu sự tác động của tỷ giá hối đoái . Khi tỷ giá giảm ,giá tư liệu sản xuất và tư liệu tiêu dùng nhập khẩu tăng lên kéo theo giá cả các mặt hàng trong nước có liên quan cũng tăng theo. Đồng thời do tác động giảm nhập khẩu nên cầu về các hàng hoá nhập khẩu cũng sẽ gia tăng,tất điều đó làm cho giá cả chung trong nền kinh tế cũng gia tăng. Ngược lại , khi tỷ giá tăng sẽ có tác động làm cho mức giá chung giảm. 
+II. Chính sách tỷ giá hối đoái
+Tỷ giá như phân tích trên có vai trò quan trọng đối với sự tăng trưởng và ổn định của nền kinh tế .
+Do vậy, chính sách hối đoái của bất kỳ một quốc gia nào cũng đều được coi như một trong những bộ phận cấu thành quan trọng của chính sách tiền tệ quốc gia .Duy trì , giữ vững sự ổn định của nền kinh tế vĩ mô là yêu cầu cấp thiết để tăng trưởng kinh tế là mục tiêu hàng đầu và tập trung của các chính sách kinh tế của Chính phủ, trong đó có chính sách tỷ giá. Một quốc gia tuỳtheo điều kiện hoàn cảnh và thời điểm sẽ xác định cho mình một chính sách tỷ giá thích hợp. 
+Trên thế giới hiện nay các nước theo đuổi các cách điều hành tỷ giá khác nhau song rút lại đều đi theo các xu hướng hoặc là chế độ tỷ giá cố định hoặc là chế độ tỷ giá thả nổi hoàn toàn hoặc thả nổi có kiểm soát. 
+Hệ thống tỷ giá thả nổi hoàn toàn : Do cung cầu trên thị trường ngoại hối quyết định tỷ giá .Không có sự can thiệp của chính phủ .
+Hệ thống tỷ giá cố định: đó là tỷ giá do ngân hàng trung ương ấn định ở một mức nào đấy . Tỷ giá có cố định thể cao hơn hay thấp hơn tỷ giá cân bằng trên thị trường ngoại hối Để giữ được tỷ giá ở mức cố định ngân hàng trung ương phải mua bán ngoai tệ trênthị trường ngoại hối .Và như vậy , cung tiền tuột khỏi tay sự kiểm soát của ngân hàng trung ương .Ngân hàng trung ương chỉ có thể đạt được một trong hai mục tiêu :hoặc giữ cho tỷ giá cố định hoặc là kiểm soát được mức cung tiền chứ không thể đồng thời thực hiện được hai mục tiêu đó .
+Hệ thống tỷ giá thả nổi có kiểm soát : Nằm giữa hai thái cực trên.Quan điểm của các nhà kinh tế trường phái chính hiện đại coi trọng cả vai trò kinh tế của Chính phủ và quy luật “bàn tay vô hình”. Tỷ giá được hình thành trên cơ sở thị trường theoquy luật cung cầu , cơ quan điều hành chính sách tiền tệ chỉ tác động lên tỷ giá bằng các công cụ mang tính thị trường tác động lên thị trường ngoại hối
+Nhưng vấn đề dặt ra là cần phải xác định chế độ tỷ giá hối đoái nào: cố định, thả nổi hoàn toàn hay thả nổi có kiểm soát. Một cuộc tranh luận về những chế độ tỷ giá hối đoái đã nổ ra .Thế giới đã chuyển từ chế độ tỷ giá cố định , đươc thực hiện từ sau Chiến tranh thế giới II đến đầu năm 1973 , sang chế độ tỷ giá thả nổi , linh hoạt thay đổi hàng ngày .Nhưng vào cuối những năm 80 chế độ tỷ giá thả nổi hoàn toàn bộc lộ tác động tiêu cực đến các nền kinh tế và người ta bắt đầu nghĩ đến một chế độ tỷ giá thả nổi có điều tiết ,nhằm hạn chế những tác động của chế độ tỷ giá linh hoạt .Hiện nay,các chính phủ đều muốn can thiệp để hạn chế những biến động mạnh mẽ lên xuống của tỷ giá ,một mặt là cần thiết để cân bằng cung cầu trong thời gian ngắn, nhưng mặt khác lại gây ra những biến động không mong muốncho giá cả và đầu ra ở trong nước. 
+III.Quan điểm vấn đề về tự do hoá tỷ giá 
+1. Khái niệm tự do hoá tỷ giá 
+Tự do hoá tài chính là một vấn đề mang tính toàn cầu. Trong thế giới hiện đại không nước nào có thể đứng bên lề của trào lưu quốc tế hoá . Nếu muốn mưu cầu một sự phát triển các nước phải chuẩn bị thật vững chắc những tiền đề cho việc hội nhập. Tự do hoá thương mại và tự do hoá tài chính yêu cầu các quốc gia dần phải từ bỏ cách kiểm soát quá chặt chẽ tỷ giá và tài khoản vốn , nhanh chóng đưa đồng bản tệ có khả năng chuyển đổi. Khi một quốc gia để cho tỷ giá được tự do xác định trên thị trường và chính phủ từ bỏ viẹc can thiệp của mình ta nói nước đó đang theo đuổi chính sách tỷ giá tự do.
+Và vì vậy tự do hoá tỷ giá là một quá trình tiến tới cho phép tỷ giá được tự xác định trên thị trường 
+2. Ưu nhược điểm của tự do hoá tỷ giá
+Từ khái niệm trên về tỷ giá tự do hoá ta thấy đây là chế độ dần dần thả nổi tỷ giá để mặc các lực lượng cung cầu thị trường quyết định các chính sách can thiệp hành chính của nhà nước được từng bước triệt thoái. Trong quá trình thực hiện tiến trình tự do hoá mỗi quốc gia có lộ trình riêng cho mình phù hợp với hoàn cảnh riêng và xu hướng thế giới và chính sách của các cường quốc tài chính . Song tiến trình này vẫn có những đặcđiểm chung và mục tiêu đồng nhất. Ban đầu các ngân hàng trung ương thực hiện sự linh hoạt tỷ giá bằng cách nới rộng các biên độ dao độngcủa tỷ giá. Ngân hàng Trung ương cố gắng hạn chế sự can thiệp của mình chỉ hành động khi có những xu hướng bất lợi hoặc vượt quá một giỡi hạn cho phép đối với nền kinh tế.Tiếp dần đó các ngân hàng sẽ sử dụng các công cụ gián tiếp mang tính thị trường để hướng dẫn tỷ giá thị trường.
+Tỷ giá tự do mang lại nhiều lợi thế. Nó cho phép các quốc gia không còn phả khư khư ngồi giữ cho mức tỷ giá ổn định mà họ dồn sức cho các mục tiêu khác cần kíp hơn, lúc này tỷ giá đóng vai trò là một công cụ để thực hiện các mục tiêu kinh tế vĩ mô chứ không còn phải là mục tiêu nữa. 
+Chính sách tỷ giá tự do tránh cho các quốc gia những tổn thương dễ gặp phải khi cố định tỷ giá , đó là những đe doạ trước những biến động tỷ giá giữa các đồng tiền mạnh.
+Chính sách tỷ giá tự do cải thiện cán cân thanh toán của mỗi quốc gia.
+Tuy nhiên tỷ giá tự do cũng tiềm ẩn trong nó những bất ổn nhất là đối với những nền kinh tế đang phát triển 
+3 . Kinh nghiệm thế giới trong việc tự do hoá tỷ giá 
+Dù tỷ giá tự do còn nhiều tác động mặt trái đối với các nền kinh tế song nó vẫn là mục tiêu theo đuổi của các quốc gia. Trên thế giới có nhiều quốc gia tiến hành thành công tỷ giá tự do song nhiều nước lại phải quay trở lại với con đường kiểm soát tỷ giá . Học tập các nước đi trước là điều cần chú trọng khi một đất nước muốn tiến hành thành công tiến trình tự do hoá tỷ giá .
+Đúc kết từ các bài học của các nước đi trước, kinh nghiệm và lý thuyết chỉ ra rằng muốn tự do tỷ giá thành công thì phải có những tiến trình hoạch định sau:
+- Quá trình tự do tỷ giá cần tiến hành tuần tự theo hai giai đoạn
+Bước 1: Dần nới lỏng các biện pháp quản lý hành chính thiết kế và dần chuyển sang sử dụng các công cụ gián tiếp mang tính thị trường 
+Bước 2: Để tỷ giá tự do xác định trên thị trường ngoại hối
+- Trong giai đoạn đầu dự trữ ngoại hối còn thấp các nước cần quản lý chặt ngoại hối, xây dựng quỹ ngoại tệ để đảm bảo can thiệp khi cần thiết ,cần tích luỹ một lượng dự trữ ngoại tệ đủ lớn để ổn định giá trị nội tệ .
+- Nền kinh tế vĩ mô ổn định và tăng trưởng là điều kiện tiên quyết.Cần có một thị trường ngoại hối và thị trường nội tệ tương đối phát triển, với các công cụ tương đối phong phú và đa dạng . 
+
+CHƯƠNG II
+
+QUÁ TRÌNH ĐIỀU HÀNH CHÍNH SÁCH TỶ GIÁ
+
+I Hoàn cảnh chung 
+Qua hơn mười năm thực hiện đổi mới trong lĩnh vực tỷ giá chúng ta đã thu được những thành tựu bước đầu quan trọng. Đây là kết quả của quá trình cải cách sâu rộng mọi mặt đời sống kinh tế- xã hội.
+Trước năm1986, nền kinh tế nước ta ở trong tình trạng kế hoạch hoá tập trung cao độ mọi vấn đề về sản xuất cái gì , sản xuất như thế nào , và sản xuất cho ai hoàn toàn là do ý muốn chủ quan của các nhà hoạch định chính sách. Nền kinh tế lâm vào khủng hoảng trì trệ đòi hỏi một sự đổi mới kịp thời và toàn diện. Trong thời kỳ này quan hệ ngoại thương của nước ta chỉ bó hẹp trong khối các nước XHCN . Ngoài đồng Rúp chuyển nhượng là chính , dự trữ ngoại hối của chúng ta rất ít các đồng tiền tự do chuyển đổi khác. Đây là một khó khăn rất lớn cho chúng ta trong quá trình hội nhập kinh tế thế giới. Thời kỳ này, đất nước bị đặt trong tình trạng rất nhiều thách thức lạm phát phi mã, cán cân thanh toán mất cân đối nghiêm trọng . Yêu cầu của nền kinh tế lúc này là cần nhanh chóng có một đường lối đổi mới đưa đất nước ra khỏi tình trạng khủng hoảng và suy thoái kéo dài.
+Năm 1986, bắt đầu công cuộc đổi mới toàn diện nền kinh tế. Cơ chế kinh tế quan liêu bao cấp bị xoá bỏ, bắt đầu định hướng một nền kinh tế thị trường. Toàn bộ các tổ chức kinh tế được “cởi trói”, hoàn toàn tự chủ về tài chính và sản xuất bung ra làm ăn tạo nên một sinh khí mới cho nền kinh tế quốcgia.
+Hệ thống ngân hàng tài chính cũng bắt đầu được cải cách . Với việc tách
+
+hệ thống ngân hàng từ một cấp thành hai cấp đã phản ánh được tư duy thị trường trong hoạt động ngân hàng . Trước kia chỉ có một cấp Ngân hàng nhà nước vừa làm nhiệm vụ của cơ quan nhà nước quản lí tiền tệ vừa là người cho vay trong nền kinh tế . Việc “vừa đá bóng vừa thổi còi” đã gây nên sự mất hiệu quả trên cả hai mặt hoạt động. Nay tách ra làm hai:
+* Ngân hàng nhà nuớc: Cơ quan thay mặt nhà nước thiết kế và thi hành chính sách tiền tệ, nghiệp vụ người cho vay cuối cùng
+* Hệ thống ngân hàng Thương mại: nhiệm vụ kinh doanh tiền tệ thu lợi nhuận ,nhờ nó mà vốn được phân phối một cách có hiệu quả trong nền kinh tếPháp lệnh về các ngân hàng và các tổ cức tín dụng và sau này đuợc sửa đổi bổ sung thành luật đã pháp luật hoá và baỏ hộ quyền lợi của các tổ chức kinh tế này .Quan hệ kinh tế đối ngoại dần trở nên sôi động đòi hỏi phải cóchính sách tỷ giá phù hợp. Trong những năm đầu tiên sau đổi mới chúng ta gặp rất nhiều khó khăn về dự trữ ngoại hối và thanh toán quốc tế . Song với cách điều hành chính sách tỷ giá đúng đắn là thả nổi có kiểm soát ,nhanh chóng khắc phục thiếu sót và với sự trưởng mạnh mẽ của nền kinh tế đã giúp ta nhanh chóng làm chủ công cụ tỷ giá. 
+II. Quá trình thực hiện
+1, Giai đoạn 1988 đến 1991
+Từ năm 1987 đến năm 1991 là giai đoạn đầu tiên thực hiện cải cách cơ chế điều chỉnh tỷ giá đồng Việt Nam (VND) với Đôla Mỹ ( đôla Mỹ là đồng tiền đóng vai trò quan trọng trong quan hệ thanh toán của Việt Nam với nước ngoài ). Thời kỳ này tốc độ lạm phát diễn ra với tỷ lệ cao chóng mặt .
+Bảng1
+Năm1985 1986 19871988198919901991Tỷ lệ
+lp(%)191,6587,2 416,7410,9176,0167,1 167,5
+Ngày 20/10/1988 Chủ tịch Hội đồng Bộ trưởng (nay là thủ tướng Chính phủ )
+ra quyết định số 271/CT cho phép Ngân hàng Nhà nước được phép điều chỉnh tỷ giá phù hợp với sự bién động giá cả trong nước theo nguyên tắc thời giá trừ lùi10% đến 30% cá biệt đến 50%.
+Ở Việt Nam ,từ khi xoá bỏ chế độ bao cấp qua hệ thống giá cả cho đến nay ,hầu hết giá cả được hình thành trên thị trường và nó được biến động theoquy luât cung cầu ,thì tỷ giá Việt Nam cũng phải được điều chỉnh một cách linh hoạt hơn phù hợp với sự biến động giá cả trong và ngoài nước .
+Khi bước sang cơ chế thị trường mọi chế độ , chính sách cũng như cơ chế điều hành trong thời kỳ tập trung bao cấp đều phải chuyển đổi phù hợp với cơ chế kinh tế mới để đáp ứng nhu cầu phát triẻn của nền kinh tế thị trường . Tỷ giá là một yếu tố hết sức nhạy cảm đối với hoạt động của nền kinh tế thị trường. Đang từ chế độ tỷ giá cố định và đa tỷ giá chuyển sang cơ chế tỷ giá thị trường biến động theo cung cầu và thống nhất môt tỷ giá là cả một vấn đề không đơn giản . Nếu không có những bước đi thận trọng , tính toán trước những tác động của tỷ giá và cơ chế điều hành linh hoạt của Ngân hàng trung ương thì khó có thể chuyển đổi thành công cơ chế tỷ giá cố định sang cơ chết thả nổi có kiểm soát .
+Từ năm 1987 đến năm 1991, trong sự biến động chung của giá trong nước và quốc tế , tỷ giá cũng được bước đầu điều chỉnh mặc dù chỉ số giá cả hằng năm biến động rất lớn. Nếu tính đơn thuần về mặt số học và các công thức lý thuyết về sức mua ngang giá của đồng Việt Nam với ngoại tệ thì tỷ giá đồng Việt Nam phải phá giá rất lớn .
+Tuy nhiên , với chức năng chính của Ngân hàng trung ương là đảm bảo sự ổn định giá cả trong nước thúc đẩy xuất khẩu , đồng thời khuyến khích tối đa nguồn vốn trong nước và quốc tế , nếu một chính sách tỷ giá mà không đảm bảo tính ổn định tương đối thì không thể khuyến khích các nhà đầu tư trong và ngoài nước bỏ vốn ra đầu tư vì rủi ro tỷ giá quá lớn. Với trách nhiệm hết sức nặng nề , làm sao vừa từng bước chuyển đổi cơ chế điều hành tỷ giá theo hướng thị trường nhưng vẫn phải đảm bảo khuyến khích xuất khâủ , kích thích đầu tư trong nước và ngoài nước mà không tạo những cú sốc đến hoạt động của nền kinh tế trong bối cảnh của Việt Nam lúc đó hết đang sức khó khăn về cán cân thương mại và thanh toán quốc tế thâm hụt trầm trọng . Để giải quyết vấn đề trên , trước hết Ngân hàng Nhà nước đã từng bước đưa dần tỷ giá lên(tức phá giá đồng Việt Nam ) , mặc dù giá cả biến động lớn nhưng Ngân hàng Trung ương đã xem xét mức độ ảnh hưởng của tỷ giá khi đưa lên quá cao sẽ lại trực tiếp ảnh hưởng đến giá đầu vào của sản phẩm và đẩy giá đầu ra lên cao,gây bất ổn định cho cho mức giá cả trong nước . Thực tế của Việt Nam trong những năm 1988,1989 xuất khẩu chỉ bằng 1/3 nhập khẩu . Vì vậy, khi nâng tỷ giá cao đột ngột sẽ gây tác động mạnh đến mức giá trong nước . Xuất phát từ thực tế trong cách điều chỉnh tỷ giá đồng Việt Nam với ngoại tệ (chủ yếu là USD) là mức giá cả dù biến động lớn như trong bảng 1, nhưng tỷ lệ điều chỉnh tỷ giá chỉ khoảng từ 10-30% so với mức thay đổi giá thực tế. Những năm đầu khi khoảng cách tỷ giá danh nghiã với tỷ giá thực tế còn cách xa thì các bước điều chỉnh trên dưới 10%mỗi lần và cụ thể riêng trong năm 1989 đã điều chỉnh giá đồng Việt Nam 43%trong khi tỷ lệ lạm phát là 176% là tương đối phù hợp .
+2. Giai đoạn 1991_1994
+Thời kỳ 1991-1994 là giai đoạn tiếp theo của quá trình chuyển đổi cơ 
+theo hướng thị trường . Trong giai đoạn này , đứng về phương diện thanh toán quốc tế, Việt Nam lại chịu thêm một sức ép vô cùng khó khăn. Tất cả các nước XHCN cũ có quan hệ thanh toán với Việt Nam đều đồng loạt chuyển sang thanh toán với Việt Nam bằng ngoại tệ tự do chuyển đổi trong cả quan hệ mậu dịch và phi mậu dịch . Việc chuyển đổi có ảnh hưởng rất lớn đến khả năng thanh toán của Việt Nam bằng dự trữ ngoại tệ tự do chuyển đổi Vì từ trước những năm 1991 hầu hết nguồn thu ngoại tệ của Việt Nam đều bằng đồng Rúp chuyển nhượng, chỉ có một tỷ lệ rất nhỏ bằng ngoại tệ tự do chuyển đổi. Cán cân thanh toán quốc tế và cán cân thương mại của Việt Nam thiếu hụt lớn, nhập khẩu gấp ba lần xuất khẩu, sự thiếu hụt trong cán cân thưong mại được bù đắp bằng các khoản viện trợ , cho vay của các nước XHCN và chủ yếu của Liênxô cũ.
+Đứng trước tình thế hết sức khó khăn về cung cầu ngoại tệ của nền kinh tế và nhu cầu bức bách về ngoại tệ cho thanh toán quốc tế để phát triển kinh tế , làm thế nào để giải quyết được vấn đề trên mà không tác động mạnh đến tình hình giá cả trong nước, ổn định giá trị đồng tiền, ổn định sản xuất và phát triển kinh tế. Xử lý vấn đề này không phải chỉ có ngành ngân hàng mà phải phối hợp đồng bộ giữa các chính sách lớn của chính phủ và của các ngành .
+a, Các chính sách lớn của chính phủ 
+Nghị quyết Đại hội thanh toán quốc tế lần thứ 6 đề ra 3 chưong trình kinh tế lớn mà Đảng ,Nhà nước , Chính phủ phải tập trung chỉ đạo:
+- Chương trình sản xuất hàng hoá xuất khẩu;
+- Chương trình khuyến khích sản xuất hàng tiêu dùng ;
+- Chương trình lương thực thực phẩm.
+Với ba chương trình kinh tế lớn đó đã hỗ trợ đắc lực cho cung ngoại tệcủa nền kinh tế và giảm nhu cầu chi ngoại tệ tạo nên thế cân bằng cho cán cân thanh toán của Việt Nam.
+b, Về phía Ngân hàng Nhà nước 
+Là cơ quan được Nhà nước giao cho trọng trách quản lý nguồn ngoai tệ vào ra của nền kinh tế, phục vụ đắc lực cho nhu cầu phát triển kinh tế của đất nước và xây dựng điều hành chính sách tỷ giá, năm 1988 với sự tham của Ngân hàng Nhà nước, Chính phủ đã ban hành văn bản quản lý ngoại hối mới trong đó có một số điểm thay đổi cơ bản nhằm khuyến khíchmọi nguồn ngoại tệ chuyển vào Việt Nam và tập trung thu hút nguồn ngoại tệ trong nước cho mục tiêu phát triển kinh tế đất nước .
+Thành lập quỹ điều hoà ngoại tệ:
+Ngân hàng Nhà nước đã tham mưu cho Chính phủ thành lập quỹđiều hoà ngoại tệ tại Ngân hàng Nhà nước để tập trung đáp những nhu cầu thiết yếu của nền kinh tế trong giai đoạn đầu còn khó khăn và can thiệp thị trường để ổn định tỷ giá .
+Việc thành lập quỹ điều hoà ngoại tệ tạo điều kiện để có thể điều hành một cách linh hoạt theo cơ chế thị trườngđầy biến động, kịp thời can thiệp khi có biến động lớn về tỷ giá trên thị trường. Trong thời gian qua với việc điều hành quỹ điều hoà một cách rất linh hoạt và hiệu quả , một mặt tạo cho ngân hàng Trung ương một lực thực sự để can thiệp có hiệu quả nhằm ổn định chính sách tỷ giá , đáp ứng nhu cầu bức thiết của nền kinh tế về ngoại tệ để thanh toán quốc tế , mặt khác thông qua việc mua bán ngoại tệ qua quỹ điều hoà không những quỹ không giảm mà còn tăng lên mức đáng kể trong khi tỷ giá được ổn định một cách tương đối.
+Thành lập hai trung tâm giao dịch ngoại tệ : Năm 1991 là năm đánh dấu mốc lịch sử về việc hình thành nền móng thị trường hối đoái tại Việt Nam , đó là việc NHNN đã hình thành hai trung tâm giao dịch tại Hà Nội và Thành phố Hồ Chí Minh vào tháng 8 vag tháng 11 năm 1991.Việc thành lập hai trung tâm giao dịch là bước ngoặt đầu tiên của hệ thống ngân hàng trong quá trình đổi mới thực sự cơ chế theo hướng thị trường . Nó là tiền than của thị trường hối đoái sau này . Thông qua mua bán trên trung tâm giao dịch ngoại tệ mà Ngân hàng Trung ương là người tổ chức và điều hành ,Ngân hàng Trung ương kịp thời nắm bắt được cung cầu ngoại tệ trên thị trường để điều hành chính sách tiền tệ cũng như tỷ giá theo tín hiệu thị trường . Thông qua việc mua bán ngoại tệ tại hai Trung tâm giao dịch ngoại tệ Ngân hàng Trung ương đã hướng nhu cầu ngoại tệ vào các mục tiêu thiết yếu của mình.
+Việc các ngân hàng thương mại và các tổ chức kinh tế tham gia vào giao dịch tại hai trung tâm là bước tập dượt đầu tiên trong giao dịch ngoại tệ theo cơ chế thị trường . Tỷ giá ngoại tệ và đồng Việt Nam được hình thành tương đối khách quan theo quan hệ cung cầu trên thị trường . Cách thức giao dịch mua bán ngoại tệ theo phương thức đấu giá .
+Trong thời kỳ đầu hoạt động của trung tâm giao dịch ngoại tệ, cung ngoại tệ còn thấp hơn cầu ngoại tệ rất nhiều, nếu để tỷ giá hình thành theo quan hệ thị trường cung cầu, tỷ giá sẽ biến động rất lớn, điều này tác động không tốt tới mức giá trong nước . Vì vậy thông qua hình thức can thiệp của Ngân hàng Trung ương, tỷ giá biến động với một mức độ hợp lý , một mặt vẫn phản ánh quan hệ cung cầu mặt khác không gây tác động tới giá cả và tạo một tâm lý ổn định cho các nhà đầu tư trong và ngoài nước cũng như dân chúng yên tâm đầu tư và gửi tiền để phát triển kinh tế.
+Sau một thời gian dài từ năn 1992 đến năm 1993, Ngân hàng Trung ương kiềnt quan điểm ổn định tỷ giá và toạ lòng tin cho dân chúng vào sự ổn định của đồng Việt Nam cũng như tâm lý ổn định của thị trường đã thu hút được nguồn ngoại tệ lớn lao từ kiều hối, đầu tư nước ngoài, vay nợ vào Việt Nam; mặt khác việc duy trì lãi suất thực dương đồng Việt Nam cao đã khuyến khích các tổ chức cá nhân bán ngoại tệ đẻ gửi đồng Việt Nam. Cả hai yếu tố trên đã đồng thời ảnh hưởng tích cực đến sự ổn định giá trị đồng Việt Nam và tăng dự trữ ngoại tệ quốc gia. Sự ổn định giá trị đồng Việt Nam không phải chỉ về danh nghĩa mà cả về giá trị thực . Việc ổn định tỷ giá có ảnh hưởng tốt tới mặt bằng giá trong nước dẫn đến chỉ số lạm phát được duy trì ở mức chấp nhận được và có chiều hướng đi xuống , trong khi tốc độ tăng trưởng kinh tế của Việt Nam qua các năm không ngừng tăng làm cho quan hệ tiền hàng được đảm bảo và giá trị của đồng Việt Nam được ổn định tạo ra môi trường ổn định vững chắc vĩ mô cho phát triển kinh tế ở Việt Nam. Giai đoạn đầu khi mới bắt đầu điều hành tỷ giá theo vơ chế thị trường , việc can thiệp của Ngân hàng Trung ương rất chặt chẽ trên thị trường, tuy nhiên thời gian tiếp theo khi nguồn vốn ngoại tệ vào Việt Nam tăng lê, quan hệ cung cầu không còn khoảng cách quá lớn thì Ngân hàng Trung ương đã từng bước giảm sự can thiệpvà để cho tỷ giá hình thành một cách khách quan hơn trên thị trường theo quy luật cung cầu. Việc điều hành can thiệp của Ngân hàng Trung ương rất linh hoạt có lúc phải bán ngoạitệ ra đẻ giảm bớt việc xuống giá của đồng Việt Nam quá mạnh những năm 1991, nhưng có lúc phải mua vào rất nhiều như cuối năm 1992 và năm 1995 cũng như 6 tháng đầu năm 1996 nhằm hạn chế việc lên giá của đồng Việt Nam .
+Tỷ giá chính thức đồng Việt Nam trước kia được Ngân hàng Trung ương tính toán trên cơ sở kinh tế mang tính chát chưa phản ánh quan hệ cung cầu và các yếu tố thị trường khác. Từ khi Trung tâm giao dịch ra đời thì tỷ giá chính thức của đồng Việt Nam được xác định có căn cứ vào tỷ giá đóng cửa tại các phiên giaodịch ngoại tệ tại hai trung tâm.
+Sau một khoảng thời gian dài khoảng hơn 3 năm hoạt động của hai trung tâm giao dịch ngoại tệ đã phát huy tích cực vai trò trong việc điều hoà cung cầu ngoại tệ, tạo ra phương thức kinh doanh giao dịch mang tíhn thị trường góp phần ổn định tỷ giá , giá cả. Tuy nhiên,với nhu cầu phát triển kinh tế và nhu cầu giao dịch ngoại tệ của cả nước, cũng như tính nhanh nhạy kịp thời trong giao dịch và thanh toán của cơ chế thị trường ngày càng sôi động. Thực tế đòi hỏi phải có mô hình mới linh hoạt hơn và mang tính thị trường trong cả nước hơn chứ không phải chỉ có Hà Nội và Thành phố Hồ Chí Minh.
+3 Giai đoạn từ tháng 10/1994 đến 1997 
+Tháng 10/1994 để đáp ứng nhu cầu bức thiết trong nhu cầu giao dịch,thanh toán ngoại tệ của nền kinh tế, với các điều kiện khách quan và chủ quan thuận lợi, hệ thống ngân hàng thương mại đã phát triển cao về mặt số lượng cũng như về mặt chất lượng, các điều kiện về mặt kỹ thật trang thiết bị cho phép , trình độ giao dịch của các ngân hàng đã nâng cao. Nguồn ngoại tệ của nền kinh tế dồi dào, thị trường ngoại tệ Liên ngân hàng ra đời đã chính thức ra đời với số thành viên tham gia đầu tiênlà 24 ngân hàng thương mại và đến nay là đã có hơn 40 thành viên.
+Thành viên tham gia thị trường Liên ngân hàng ngoài các ngân hàng thương mại còn có cả những nhà xuất khẩu lớn và các tổ chức có thu ngoại tệ lớn. Thời gian giao dịch hầu hết các ngày làm việc trong tuần , hình thức giao dịch gián tiếp thông qua hệ thống máy vi tính, cung cầu ngoại tệ trên thị trương này lớn phản ánh hầu như toàn bộ cung cầu ngoại tệ trong nền kinh tế. Tỷ giá hình thành trên thị trường ngoại tệ Liên ngân hàng mang tính thị trường cao , linh hoạt ,sâu rộng và khách quan. Từ đó tỷ giá đồng Việt Nam với ngoại tệ cũng được hình thành một cách khách quan hơn và phản ánh tương đối thực tế sức mua của đồng Việt Nam. Đó là bước phảttiển mớivà ở mức độ sâu hơn , cao hơn của hoạt động ngoại tệ ở Việt Nam .
+4. Từ 1997 đến nay: 
+Giai đoạn điều hành tỷ giá linh hoạt có sự điêu tiết của nhà nước . Chủ trương điều hành tỷ giá một cách linh hoạt theo tình hình trong nước và quốc tế nhằm khuyến khích xuất khẩu , hạn chế nhập khẩu và tăng dự trữ ngoại tệ.
+Trong năm 1997 ,cuộc khủng hoảng tài chính tiền tệ khu vực nổ ra và gây 
+hậu quả nghiêm trọng cho các nền kinh tế trong khu vực, đặt Việt Nam trước sức ép phá giá nội tệ. Việt Nam đã thận trọng và nhiều lần điều chỉnh tỷ giá hối đoái của đồng Việt Nam bằng nhiều hình thức.
+Năm 1999 , Ngân hàng Trung ương thực hiện một bước đổi mới về cơ bản về điều hành tỷ giá , từ quản lý có tính chất hành chính sang điều hành theo hướng thị trường có sự quản lý của nhà nước . Từ ngày 26/12/1999 thay bằng việc công bố tỷ giá chính thức ,Ngân hàng Trung ương công bố tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng. Với cơ chế điều hành mới, tỷ giá đồng Việt Nam được hình thành trên cơ sở giao dịch trên thị trường và phản ánh tương đối khách quan sức mua của đồng Việt Nam so với ngoại tệ, tạo điều kiện cho các doanh nghiệp chủ động hơn trong kinh doanh đồng thời vẫn đảm bảo được vai trò kiểm soát của Nhà nước. 
+III.Đánh giá 
+Tóm lại, kể từ khi bước sang giai đoạn phát triển kinh tế mới theo hướng kinh tế thị trường có sự quản lý vĩ mô của nhà nước, về chính sách tỷ giá cơ chế điều hành và diễn biến tỷ giá của đồng Việt Nam với ngoại tệ đã chuyển hướng phù hợp với tình hình thực tế của Việt Nam góp phần không nhỏ vào sự thành công của đất nước sau 10 năm đổi mới và phát triển kinh tế. Các bước đi trong chính sach tỷ giá, cơ ché điều hành tỷ giá và diễn biến tỷ giá của đồng Việt Nam so với ngoại tệ là đúng đắn. Một mặt giữ vững giá trị đồng Việt Nam không những giá trị danh nghĩa mà cả giá trị thực của nó, góp phần ổn định mặt bằng giá trong nước và kìm chế lạm phát, mặt khác vẫn khuyến khích xuất khẩu tăng lên hàng năm, thu hút nguồn ngoại tệ lớn và Việt Nam đáp ứng nhu cầu nhập khẩu của nền kinh tế ngày một tăng mà còn tăng đáng kể dự trữ ngoại tệ quốc gia .
+Sự thành công khong phải chỉ trên lý thuyết mà nó được thể hiện trong mối tương quan với các chỉ tiêu kinh tế vĩ mô khác có liên quan như: chỉ số lạm phát , dự trữ ngoại tệ quốc gia, xuất nhập khẩu, diễn biến tỷ giá trong hệ thống ngan hàng, tỷ giá thị trường tự do,tốc độ phát triển kinh tế , cán cân thanh toán quốc tế được thể hiện dưới đây.
+
+Năm
+GDP
+(tỷ đồng)
+Lạm phát
+% 
+XK
+(tr$)
+NK
+(tr $)
+Tỷ giá
+chính thức
+
+Tỷ giá TT
+tự do
+đ/USD
+Dự trữ 
+ngoại 
+tệ 1990
+1991
+1992
+1993
+1994
+199538.167
+76.707
+110.535
+136.571
+170.000
+167,1
+167,5
+117,5
+105,2
+114,4
+112,72404
+2087,1
+2580,7
+2985,2
+4054
+51982752,4
+2338,1
+2540,8
+3924
+5826
+83816.500
+12.240
+11.200
+10.642
+10.956
+11.021
+5601
+9.920
+11.230
+10.636
+10.978
+11042từ mứcdự trữ không đáng kể,tăng lên hơn hai tháng nhập khẩu 
+
+CHƯƠNG III
+
+GIẢI PHÁP ĐIỀU HÀNH CHÍNH SÁCH TỰ DO TỶ GIÁ
+Ở VIỆT NAM 
+
+I. Những bất lợi của Việt Nam nếu thực hiện tự do hoá trong điều kiện 
+hiện nay.
+Đối với Việt Nam trong thời gian trước mắt chưa thể thực hiện được mậu tự do hoàn toàn nênkhông thể áp dụng chế độ linh hoạt, thả nổi hoàn toàn, bởi vì: 
+Thứ nhất, do trình độ phát triển của lực lượng sản xuất chưa cao, độ co giãn của cung hàng hoá xuất khẩu củaViệt Nam chưa nhiều, nên nếu thả nổi tỷ giá thì xuất khẩu cũng không tăng lên mạnh mẽ và nhập khẩu cũng không thểgiảm nhiều được, cũng không thể kỳ vọng vào việc thả nổi tỷ giá để tự điều chỉnh cán cân thanh toán quốc tế được . Ngược lại, việc thả nổi tỷ giá hoàn toàn lại có khả năng làm cho thương mại không ổn định và dẫn đến nạn đầu cơ tỷ giá mang lại hậu quả tiêu cực cho nền kinh tế.
+Thứ hai ,do nền kinh tế thị trường chưa phát triển , chưa có điều kiện thả nổi tỷ giá hoàn toàn. Đặc biệt là do thị trường tài chính tiền tệ chưa phát triển, chưa có thị trường chứng khoán, nên chưa tạo điều kiện thật tốt cho xuất khẩu-nhập khẩu hàng hoá tư bản. Tất cả điều đó làm cho việc thả nổi tỷ giá sẽ không mang lại nhiều lợi ích cho nền kinh tế Việt Nam . 
+II. Giải pháp cho vấn đề tự do hoá tỷ giá
+1- Tiếp tục hoàn thiện thị trường ngoại hối và thị trường nội tệ 
+2- Tập trung tích luỹ ngoại tệ do Ngân hàng Trung ương quản lý
+3- Hoàn thiện các văn bản pháp quy về quản lý ngoại hối ,cách thức điều hành tỷ giá .
+4- Tiến hành tự do hoá lĩnh vực tài chính , tự do hoá tài khoản vốn và đưa đồng Việt Nam trở thành có khả năng chuyển đổi.
+5- ổn định kinh tế vĩ mô, giảm lạm phát thực hiệ các chương trình sản xuất hàng tiêu dùng và hàng xuất khẩu nhằm cân đối cán cân thanh toán 
+6- Cần tiếp tục duy trì cơ chế điều hành tỷ giá hiện nay trong thời gian ngắn tới theo hướng nới rộng kiểm soát cho phép tỷ giá được hình thành khách quan hơn theo các quy luật của thị trường .
+
+KẾT LUẬN
+
+Xác định cơ chế điều hành tỷ giá và sử dụng tốt công cụ này đòi hỏi một sự phối hợp đồng bộ và nhịp nhàng giữa chính phủ và toàn bộ các chủ thể trong nền kinh tế . Một chế độ tỷ giá đưa ra được coi là hợp lý khi mà nó làm tăng những yếu tố tích cực của các biến số kinh tế vĩ mô. Tỷ giá được tính toán trên cơ sở sao cho không ảnh hưởng đến hoạt động xuất khẩu và còn thu hút được nguồn vốn ngoại tệ của các nhà đâu trong và ngoài nước. 
+Hơn mười năm đổi mới cách điều hành tỷ giá nước ta, chúng ta đang tích cực chuyển sang cơ chế tỷ giá thả nổi có kiểm soát của nhà nước. Cơ chế này là bước trung gian trong quá trình tự do hoá . Với chính sách tỷ giá đúng đắn Việt Nam đã vượt qua đã vượt qua được những cam go thử thách đảm bảo nguồn dự trữ ngoại tệ đủ mạnh cho khả năng thanh toán và chống đỡ được với những cú sốc từ bên ngoài.

@@ -7,45 +7,34 @@ import re
 def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
     result = []
     inputData = mod1.standandlizeNounsForInputRegex(inputData)
-    for i  in range(len(searchData)):
+    for searchPattern  in searchData:
         #for plural nouns
         #re.search("[ ^ ]{0,1}we[ s]", 'we ')
-        tempT = [r"\b" + mod1.standanlizeNounsForSearchRegex(searchData[i]) + '[s]{0,1}' + r"\b"]
-        for j in range(len(tempT)):
-            inputData, isFinOut = re.subn(tempT[j], ' ', inputData) #avoid concat string can be created new noun
-            if (isFinOut > 0):
-                result.append(searchData[i])
-                if (printForDeBug == 1):
-                    print(tempT[j])
-                    print(inputData)
+        tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(searchPattern) + '[s]{0,1}' + r"\b"
+        inputData, isFinOut = re.subn(tempT, ' ', inputData) #avoid concat string can be created new noun
+        if (isFinOut > 0):
+            result.append(searchPattern)
+            # if (printForDeBug == 1):
+            #     print(tempT)
+            #     print(inputData)
+    result = list(set(result))
     result.sort()
-    result = set(result)
-    if (printForDeBug):
-        print("doc after re.sub all things:")
-        print(inputData)
-        print(result)
+    # if (printForDeBug):
+    #     print("doc after re.sub all things:")
+    #     print(inputData)
+    #     print(result)
     return result
 
-def calculateReabilityByWordnetForEnglish(INPUT, BLW_NOUNS, NOUNS, printForDeBug=0, isTEI=0):
+def calculateReabilityByWordnetForEnglish(INPUT, BLWnounsArray, NounsArray, printForDeBug=0, isTEI=0):
     # get input
     inputData = extractText.extractTextTEI(INPUT, isTEI)
     inputData = inputData.lower()
-
-    #get all BLW
-    inputFile= open(BLW_NOUNS, 'r')
-    BLWnounsArray = inputFile.read()
-    inputFile.close()
-
     #get all nouns
-    inputFile= open(NOUNS, 'r')
-    NounsArray = inputFile.read()
-    inputFile.close()
-
-    tmp = inputData
-    nounsBLWInput = findAllItemFromArray(tmp, BLWnounsArray.splitlines(), printForDeBug)
-    # tmp = inputData
-    nounsInput = findAllItemFromArray(tmp, NounsArray.splitlines(), printForDeBug)
-
+    nounsInput = findAllItemFromArray(inputData[:], NounsArray, printForDeBug)
+    #get all blw
+    nounsSet = set(nounsInput)
+    blwSet = set(BLWnounsArray)
+    nounsBLWInput = list(nounsSet.intersection(blwSet))
     if (len(nounsInput) == 0):
         if (printForDeBug):
             print("no BLW")
@@ -65,7 +54,18 @@ if __name__ == '__main__':
     #a.e. bug
     FILEPATH = 'data/testDataNM'
     files = mod1.listAllFile(FILEPATH, 1)
+    #get all BLW
+    inputFile= open('input/wn-nouns/all-wn-BLW.txt', 'r')
+    BLWnounsArray = inputFile.read()
+    BLWnounsArray = BLWnounsArray.splitlines()
+    inputFile.close()
+
+    #get all nouns
+    inputFile= open('input/wn-nouns/all-wn-SORTED-nouns.txt', 'r')
+    NounsArray = inputFile.read()
+    NounsArray = NounsArray.splitlines()
+    inputFile.close()
     for f in files:
-        print(calculateReabilityByWordnetForEnglish(f,'input/wn-nouns/all-wn-BLW.txt','input/wn-nouns/all-wn-SORTED-nouns.txt', 0, 0))
+        print(calculateReabilityByWordnetForEnglish(f, BLWnounsArray, NounsArray, 0, 0))
 else:
     print('import module-2 sucessfully')

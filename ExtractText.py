@@ -7,7 +7,7 @@ def extractTextTEI(fileName, isTEI=0):
         strFile = f.read()
     except:
         print("*"*10, "Error when read file with uft-8: ", fileName)
-        return ""
+        return ["\n"]
     strFile = strFile.replace(" &", " _ ")
     strFile = strFile.replace(" <", " _ ")
     if (isTEI != 0):

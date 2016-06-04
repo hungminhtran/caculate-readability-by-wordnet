@@ -37,7 +37,7 @@ def deStandanizeNoun(noun):
 #make . mean \.
 def standandlizeNounsForInputRegex(noun):
     #puctuation = ['\!', '"', '\#', '\$', '\%', '\&', '\(', '\)', '\*', '\+', ',', '-', '\.', '/', ':', ';', '<', '=', '>', '\?', '\@', '\[', '\\', '\]', '\^', '_', '`', '\{', '\|', '\}', '\~']
-    tnoun = re.sub("'", "'__", noun)
+    tnoun = re.sub("'", "_", noun)
     tnoun = tnoun.lower()
     return tnoun
 
