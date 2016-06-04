@@ -35,6 +35,7 @@ def calculateReabilityByWordnetForEnglish(INPUT, BLWnounsArray, NounsArray, prin
     nounsSet = set(nounsInput)
     blwSet = set(BLWnounsArray)
     nounsBLWInput = list(nounsSet.intersection(blwSet))
+    nounsBLWInput.sort()
     if (len(nounsInput) == 0):
         # if (printForDeBug):
         #     print("no BLW")
