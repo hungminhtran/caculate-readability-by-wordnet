@@ -11,16 +11,15 @@ def testFunc(PATH, debug=0, TEI = 1):
         if (debug != 0):
             print(temp)
 if __name__ == "__main__":
+    PATH = 'data/testDataTEI'
+    DEBUG = 0
+    ISTEI = 1
     if (len(sys.argv) > 1):
         PATH = sys.argv[1]
     if (len(sys.argv) > 2):
         DEBUG = int(sys.argv[2])
     if (len(sys.argv) > 3):
         ISTEI = int(sys.argv[3])
-    else:
-        PATH = 'data/testDataTEI'
-        DEBUG = 0
-        ISTEI = 1
     testFunc(PATH, DEBUG, ISTEI)
 else:
     print("import test_ExtractText module sucessfully")

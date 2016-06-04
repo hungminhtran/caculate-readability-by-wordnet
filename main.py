@@ -14,12 +14,12 @@ def generateOutput(processID, filesQueue, outQueue, PROCESS_LOCK, TOTAL_TIME, IN
     #loop till out of file
     PROCESS_LOCK.acquire()
     print('='*5, 'proc', processID, 'start at', datetime.now().time(), '='*5)
-    inputFile= open('input/wn-nouns/all-wn-BLW.txt', 'r')
+    inputFile= open(INPUT_BLW_NOUNS, 'r')
     BLWnounsArray = inputFile.read()
     inputFile.close()
 
     #get all nouns
-    inputFile= open('input/wn-nouns/all-wn-SORTED-nouns.txt', 'r')
+    inputFile= open(INPUT_ALL_NOUNS, 'r')
     NounsArray = inputFile.read()
     inputFile.close()
     if (isDebug):
