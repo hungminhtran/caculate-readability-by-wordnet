@@ -36,16 +36,16 @@ def calculateReabilityByWordnetForEnglish(INPUT, BLWnounsArray, NounsArray, prin
     blwSet = set(BLWnounsArray)
     nounsBLWInput = list(nounsSet.intersection(blwSet))
     if (len(nounsInput) == 0):
-        if (printForDeBug):
-            print("no BLW")
+        # if (printForDeBug):
+        #     print("no BLW")
         return None
     else:
-        if (printForDeBug):
-            print("ratio: ", float(len(nounsBLWInput))/len(nounsInput)*100, "%")
-            print("blw:")
-            print(nounsBLWInput)
-            print("all nouns:")
-            print(nounsInput)
+        # if (printForDeBug):
+        #     print("ratio: ", float(len(nounsBLWInput))/len(nounsInput)*100, "%")
+        #     print("blw:")
+        #     print(nounsBLWInput)
+        #     print("all nouns:")
+        #     print(nounsInput)
         return float(len(nounsBLWInput))/len(nounsInput)*100, nounsBLWInput, nounsInput
 if __name__ == '__main__':
     import sys
