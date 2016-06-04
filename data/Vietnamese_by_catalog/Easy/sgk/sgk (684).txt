@@ -1,0 +1,5 @@
+Đính khuy hai lỗ
+Đính khuy hai lỗ được thực hiện theo hai bước:
+Vạch dấu các điểm đính khuy trên vải.
+Đính khuy vào các điểm vạch dấu.
+Khi đính khuy hai lỗ cần lên kim qua một lỗ khuy, xuống kim qua lỗ khuy còn lại 4 - 5 lần. Sau đó quấn chỉ quanh chân khuy và nút chỉ.

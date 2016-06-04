@@ -1,0 +1,11 @@
+Khám phá máy tính
+Máy tính xưa và nay
+Máy tính điện tử đầu tiên ra đời năm 1945. Tấm ảnh dưới đây cho thấy một phần chiếc máy tính đầu tiên có tên là ENIAC (đọc là en-ni-ắc). Chiếc máy tính này nặng bằng một chiếc xe tải, khoáng 27 tấn và chiếm diện tích 167 mét vuông.
+Từ đó đến nay công nghệ chế tạo máy tính ngày càng phát triển. Máy tính ngày càng nhỏ gọn hơn, tính toán nhanh hơn, tiêu tốn ít điện hơn, giá thành rẻ hơn và giao tiếp thân thiện hơn với con người.
+Nhờ vậy máy tính ngày càng trở thành phổ biến. Máy tính để bàn ngày nay chỉ nặng khoảng 15 kg và chỉ chiếm diện tích khoảng nửa mét vuông.
+Ngày nay, ngoài máy tính để bàn, em còn có thể thấy nhiều loại máy tính khác với nhiều hình dạng và kích thước khác nhau.
+Tuy có hình dạng và kích thước khác nhau, nhưng các máy tính có một điểm chung: chúng có khá năng thực hiện tự động các chương trình. Chương trình là những lệnh do con người viết ra để chỉ dẫn máy tính thực hiện những việc cụ thể.
+Với chương trình, con người có thể sử dụng máy tính đế làm nhiều việc khác nhau. Ví dụ, em có thể vẽ được những bức tranh đẹp hay nghe nhạc, xem phim,... bằng các chương trình chạy trên máy tính.
+Bàn phím và chuột giúp em đưa thông tin vào để máy tính xử lí theo chỉ dẫn của chương trình.
+Màn hình cho em biết thông tin ra (kết quả) sau khi được máy tính xử lí.
+Hằng ngày, em gặp nhiều hoạt động có thể mô tả giống như trên. Chẳng hạn, nếu thấy bầu trời nhiều mây đen, em nhắc bố mang áo mưa khi đi làm. Bầu trời nhiều mây đen cho em thông tin vào (có thể trời sẽ mưa), còn lời nhắc là thông tin ra sau khi em đã xử lí thông tin vào. Bộ não của em chính là bộ phận xử lí thông tin.

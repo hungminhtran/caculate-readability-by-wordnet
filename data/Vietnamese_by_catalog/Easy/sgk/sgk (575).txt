@@ -1,0 +1,16 @@
+Trang trí đầu báo tường
+Báo tường là tờ báo của một cơ quan hoặc đơn vị bộ đội, nhà máy, trường học,... nhằm phản ánh những hoạt động của đơn vị đó và thường được làm trên giấy khổ lớn, treo trên tường để mọi người cùng xem, cùng đọc. Báo tường thường ra vào những dịp lễ, Tết của dân tộc hoặc các đợt thi đua để động viên phong trào chung của đơn vị.
+Đầu báo tường gồm có :
+Tên tờ báo (như Thi đua, Nhớ nguồn, Học tập,...) thường được viết bằng chữ to, rõ ràng, có thể là chữ in hoa hoặc chữ thường, chữ trang trí.
+Tên đơn vị tổ chức làm báo.
+Dòng chữ thể hiện chủ đề của tờ báo (kỉ niệm ngày 26 - 3, chào mừng ngày 8 - 3,...).
+Hình ảnh minh hoạ cho chủ đề của tờ báo hoặc phản ánh đặc trưng hoạt động của đơn vị. Có thể vẽ, cát, xé dán,... hoặc dùng ảnh.
+Màu sắc ở đầu báo tường cần tươi sáng để tạo sự lôi cuốn hấp dẫn.
+Đặt tên tờ báo. Tìm kiểu chữ, hình minh hoạ phù hợp với nội dung.
+Sắp xếp các mảng hình :
+Mảng chủ tên báo to và ở trung tâm của đầu báo. Có thể sắp xếp dòng chữ vào các hình mảng khác nhau (thẳng hay cong), có thể sắp xếp thành một hoặc hai dòng (H.2a, b).
+Các mảng chữ khác như : số báo, tên đơn vị, nội dung chủ đề (chào mừng ngày Quốc khánh 2 - 9, chào mừng ngày 20 - 11,...) nên nhỏ hơn tên tờ báo.
+Hình minh hoạ : biểu tượng, cờ, hoa, hoạ tiết trang trí, đường diềm,... cần phối hợp với các mảng chữ cho cân đối, hài hòa.
+Phác kiểu chữ và hình minh hoạ.
+Kẻ chữ, vẽ hình (H.2c).
+Vẽ màu tươi sáng, phù hợp với nội dung tờ báo (H.2d).

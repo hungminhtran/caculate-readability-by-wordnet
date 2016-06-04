@@ -1,0 +1,2 @@
+Thêu dấu nhân
+Thêu dấu nhân là cách thêu để tạo thành các mũi thêu giống như dấu nhân nối nhau liên tiếp giữa hai đường thẳng song song ở mặt phải đường thêu. Thêu dấu nhân theo chiều từ phải sang trái. Các mũi thêu được thực hiện luân phiên theo hai đường vạch dấu song song.

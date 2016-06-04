@@ -1,0 +1,6 @@
+Làm quen với bản đồ
+Cách sử dụng bản đồ
+Bản đồ có rất nhiều loại. Mỗi loại bản đồ có những thông tin riêng. Muốn sử dụng bản đồ cần theo các bước sau :
+Đọc tên bản đồ để biết bản đồ đó thể hiện nội dung gì.
+Xem bảng chú giải để biết kí hiệu đối tượng lịch sử hoặc địa lí.
+Tìm đối tượng lịch sử hoặc địa lí trên bản đồ dựa vào kí hiệu.

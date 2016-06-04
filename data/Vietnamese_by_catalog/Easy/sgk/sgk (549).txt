@@ -1,0 +1,9 @@
+Khối hộp và khối cầu
+Khối hộp gồm có sáu mặt : mặt trên, mặt dưới và bốn mặt xung quanh ; các mặt đều phẳng. Khi quan sát từ một phía sẽ chỉ thấy một hay hai hoặc ba mặt của khối hộp. Vẽ khối hộp nhìn thấy ba mặt sẽ đẹp hơn.
+Khối cầu không có các mặt phân biệt rõ như khối hộp mà có bề mặt cong đều, quan sát từ mọi phía luôn thấy có dạng hình tròn.
+Khi ánh sáng chiếu từ một phía thì các độ đậm nhạt của khối hộp sẽ phân biệt rõ ràng, còn ở khối cầu thì các độ đậm nhạt sẽ biến chuyển nhẹ nhàng.
+Nhìn mẫu, ước lượng tỉ lệ và vẽ khung hình chung trên giấy cho cân đối.
+Vẽ khung hình riêng của từng vật mẫu.
+Tìm vị trí, tỉ lệ các mặt của khối hộp. Vẽ phác hình bằng nét thẳng. Với khối cầu, cần vẽ các trục ngang, dọc và đường chéo của khung hình riêng, sau đó lấy các điểm đối xứng qua tâm. Dựa vào các điểm đó, phác hình bằng nét thẳng rồi sửa thành nét cong đều.
+Sửa chữa, hoàn chỉnh hình vẽ.
+Vẽ đậm nhạt (vẽ đơn giản ở ba mức độ : đậm, đậm vừa, nhạt).

@@ -1,0 +1,3 @@
+Cắt theo đường vạch dấu
+Trước khi cắt vải phải vạch dấu để cắt cho chính xác. Có thể vạch dấu theo đường thẳng hoặc đường cong tùy theo mục đích, yêu cầu cắt, khâu, may.
+Cắt vải theo đường dấu được thực hiện theo trình tự : Vạch dấu trên vải và cắt vài theo đường vạch dấu. Khi cắt vải theo đường thẳng phải cắt từng nhát cắt dài, dứt khoát. Còn khi cắt vải theo đường cong phải cắt từng nhát cắt ngắn hơn va xoay vải kết hợp với lượn kéo theo đường cong.

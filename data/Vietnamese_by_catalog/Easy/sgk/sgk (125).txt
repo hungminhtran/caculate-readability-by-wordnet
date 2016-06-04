@@ -1,0 +1,11 @@
+Chuột máy tính giúp em điều khiển máy tính được thuận tiện, nhanh chóng.
+Mặt trên của chuột thường có hai nút: nút trái và nút phải. Mỗi khi em nhấn nút, tín hiệu điều khiển sẽ được chuyển cho máy tính.
+Em cầm chuột và di chuyển chuột trên một mặt phẳng (thường là bàn di chuột).
+Cách cầm chuột
+Đặt úp bàn tay phải lên chuột, ngón trỏ đặt vào nút trái của chuột, ngón giữa đặt vào nút phải của chuột.
+Ngón cái và các ngón còn lại cầm giữ hai bên thân chuột.
+Các thao tác sử dụng chuột
+Di chuyển chuột: Thay đổi vị trí của chuột trên mặt phẳng.
+Nháy chuột: Nhấn nút trái chuột rồi thả ngón tay.
+Nháy đúp chuột: Nháy chuột nhanh hai lần liên tiếp.
+Kéo thả chuột: Nhấn và giữ nút trái của chuột, di chuyển con trỏ chuột đến vị trí cần thiết thì thả ngón tay nhấn giữ chuột.

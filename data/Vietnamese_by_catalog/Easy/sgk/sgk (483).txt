@@ -1,0 +1,1 @@
+Theo báo cáo của Phòng Cảnh sát giao thông thành phố, trung bình mỗi đêm có 1 vụ tai nạn và 4 vụ va chạm giao thông. Phần lớn các tai nạn giao thông xảy ra do vi phạm quy định về tốc độ, thiết bị kém an toàn. Ngoài ra, việc lấn chiếm lòng đường, vỉa hè mở hàng quán, đổ vật liệu xây dựng cũng gây ảnh hưởng rất lớn tới trật tự và an toàn giao thông.

@@ -1,0 +1,8 @@
+Mẫu vẽ có hai vật mẫu
+Tỉ lệ chung giữa chiều cao, chiều ngang của mẫu.
+Xác định vị trí và ước lượng tỉ lệ của từng vật mẫu. Ví dụ : cái chai và quả, cái cốc và quả,... Nhận xét đặc điểm hình dáng của các vật mẫu.
+Tìm độ đậm nhạt chính của mẫu.
+Vẽ phác khung hình chung và khung hình của từng vật mẫu. Tìm tỉ lệ các bộ phận của chai và quả.
+Vẽ phác hình bằng các nét thẳng. Khi vẽ, cần so sánh tỉ lệ giữa các bộ phận như : chiều cao, chiều ngang, vị trí của cổ, vai, thân và đáy chai,...
+Dựa vào các nét phác chính để vẽ nét cong, nét lượn, nét thẳng sao cho hình vẽ gần giống mẫu.
+Vẽ đậm nhạt cho bài vẽ sinh động hơn.

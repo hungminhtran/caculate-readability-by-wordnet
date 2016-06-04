@@ -1,0 +1,13 @@
+Tập kẻ kiểu chữ in hoa nét thanh nét đậm
+Khoảng cách giữa các con chữ trong một tiếng không bằng nhau mà phụ thuộc vào hình dáng bề ngoài của những con chữ khi đứng cạnh nhau. Ví dụ :
+Một số con chữ khi đứng cạnh nhau có khoảng cách hẹp hơn như những con chữ : O, C, G, Q, A, V, T, Y,...
+Một số con chữ khi đứng cạnh nhau có khoảng cách rộng hơn như những con chữ : H, N, M, U,...
+Khoảng cách giữa các tiếng rộng hơn khoảng cách giữa các con chữ.
+Dòng chữ đẹp là dòng chữ được kẻ đúng kiểu chữ, có khuôn khổ chữ và các khoảng cách hợp lí (H.1, 2).
+Dòng chữ thường được kẻ bằng một màu.
+Chọn nội dung dòng chữ. Ví dụ : QUÊ HƯƠNG, ANH HÙNG,...
+Xác định chiều cao, chiều dài của dòng chữ cho phù hợp với khổ giấy, kẻ hai đường thẳng song song.
+Tìm khuôn khổ chữ và khoảng cách giữa các con chữ, các tiếng cho phù hợp.
+Phác hình chữ và kẻ nét thanh, nét đậm.
+Hoàn chỉnh dòng chữ.
+Có thể vẽ màu chữ và nền cho rõ và đẹp.

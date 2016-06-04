@@ -1,0 +1,6 @@
+Khâu ghép hai mép vải bằng mũi khâu thường
+Khâu ghép hai mép vải bảng mùi khâu thường được thực hiện theo ba bước:
+Vạch dấu đường khâu trên mặt trái của một mảnh vải.
+Khâu lược ghép hai mép vải.
+Khâu thường theo đường dấu.
+Trước khi khâu lược cần úp hai mặt phải của hai mảnh vải vào nhau. Đường khâu được thực hiện trên mặt trái của hai mảnh vải.

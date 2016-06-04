@@ -1,0 +1,15 @@
+Làm quen với bản đồ
+Bản đồ
+Bản đồ là hình vẽ thu nhỏ một khu vực hay toàn bộ bề mặt Trái Đất theo một tỉ lệ nhất định.
+Ngày nay, muốn vẽ được bản đồ của một khu vực (ví dụ như khu vực hồ Hoàn Kiếm ở Hà Nội), người ta thường sử dụng ảnh chụp từ máy bay hay vệ tinh ; nghiên cứu vị trí của các đối tượng cần thể hiện như hồ Hoàn Kiếm, đền Ngọc Sơn, bưu điện Hà Nội, các đường phố chính,...; tính toán chính xác các khoảng cách trên thực tế, sau đó thu nhỏ theo tỉ lệ ; lựa chọn các kí hiệu rồi thể hiện các đối tượng đó lên bản đồ.
+Một số yếu tố của bản đồ
+Tên bản đồ : Tên bản đồ cho ta biết tên của khu vực và những thông tin chủ yếu của khu vực đó được thể hiện trên bản đồ.
+Đọc tên bản đồ hình 3.
+Phương hướng : Người ta thường quy định : phía trên bản đồ là hướng Bắc, phía dưới là hướng Nam, bên phải là hướng Đông, bên trái là hướng Tây.
+Chỉ các hướng Bắc, Nam, Đông, Tây trên bản đồ hình 3.
+Tỉ lệ bản đồ : Tỉ lệ bản đồ cho ta biết khu vực được thể hiện trên bản đồ nhỏ hơn kích thước thực của nó bao nhiêu lần. Tỉ lệ bản đồ phần lớn được biểu diễn dưới dạng tỉ số, ví dụ : 1: 100 000 có nghĩa là 1 cm trên bản đồ bằng 100 000cm (hay 1km) trên thực tế.
+Bản đồ hình 2 có tỉ lệ 1: 20 000, vậy 1cm trên bản đồ đó ứng với bao nhiêu mét trên thực tế ?
+Kí hiệu bản đồ : Kí hiệu bản đồ được dùng để thể hiện các đối tượng lịch sử hoặc địa lí trên bản đồ. Tất cả các kí hiệu đó đều được giải thích trong bảng chú giải, ví dụ :
+Bảng chú giải ở hình 3 có những kí hiệu nào ?
+Bản đồ là hình vẽ thu nhỏ một khu vực hay toàn bộ bề mặt Trái Đất theo một tỉ lệ nhất định.
+Một số yếu tố của bản đồ là : tên bản đồ, phương hướng, tỉ lệ bản đồ, kí hiệu bản đồ,...

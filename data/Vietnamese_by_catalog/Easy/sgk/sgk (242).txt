@@ -1,0 +1,11 @@
+Trang trí hình vuông
+Quan sát, nhận xét
+Trong trang trí hình vuông, các họa tiết thường được sắp xếp đối xứng (bằng nhau, giống nhau) qua các đường trục ngang, dọc và các đường chéo.
+Các họa tiết giống nhau được vẽ cùng màu, cùng đậm nhạt (H.1, 2). Quan sát hình 1, 2 để tìm ra sụ giống nhau, khác nhau của màu sắc và cách sắp xếp họa tiết.
+Cách trang trí hình vuông
+Kẻ trục chia hình vuông thành các phần bằng nhau (H.3a).
+Vẽ các hình mảng chính cho rõ trọng tâm và các hình mảng phụ cho cân đối (H.3b).
+Chọn họa tiết rồi vẽ vào các hình mảng (H.3c).
+Vẽ màu của họa tiết và nền (H.3d).
+Chú ý :
+Nếu màu họa tiết đậm thì nên vẽ màu nền nhạt và ngược lại (nên sử dụng từ 3 đến 5 màu).

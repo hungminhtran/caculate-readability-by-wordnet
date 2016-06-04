@@ -1,0 +1,2 @@
+Bóng tối
+Phía sau vật cản sáng (khi được chiếu sáng) có bóng của vật đó. Bóng của một vật thay đổi khi vị trí của vật chiếu sáng đối với vật đó thay đổi.

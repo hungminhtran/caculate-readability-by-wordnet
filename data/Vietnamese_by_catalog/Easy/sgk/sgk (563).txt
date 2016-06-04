@@ -1,0 +1,10 @@
+Trang trí hình chữ nhật
+Trong số các vật dụng quen thuộc, có nhiều đồ vật hình chữ nhật được trang trí đẹp như : khăn trải bàn, cái khay, tấm thảm,...
+Trang trí hình chữ nhật có đặc điểm : hình mảng chính ở giữa, các hình mảng phụ ở xung quanh ; các hoạ tiết, màu sắc thường được sắp xếp đối xứng qua hai trục : trục dọc và trục ngang.
+Có nhiều cách sắp xếp hình mảng, hoạ tiết và sử dụng màu sắc khác nhau để trang trí hình chữ nhật.
+Ví dụ : Có thể sắp xếp hình mảng đối xứng qua các trục hoặc sắp xếp tự do nhưng phải cân đối, hài hòa.
+Xác định tỉ lệ (chiều dài, chiều rộng) và vẽ hình chữ nhật.
+Kẻ các đường trục chia hình chữ nhật ra thành các phần đối xứng bằng nhau.
+Dựa vào các đường trục, vẽ các hình mảng chính, phụ.
+Tìm và vẽ hoạ tiết cho phù hợp với các hình mảng.
+Vẽ màu theo ý thích, có màu đậm, màu nhạt làm rõ trọng tâm.

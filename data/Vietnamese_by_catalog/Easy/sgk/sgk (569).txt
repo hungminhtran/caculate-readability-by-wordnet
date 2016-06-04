@@ -1,0 +1,12 @@
+Mẫu vẽ có hai hoặc ba vật mẫu
+Vị trí của các vật mẫu.
+Ti lệ giữa chiều rộng và chiều cao của mẫu vẽ và của từng vật mẫu.
+Hình dáng, màu sắc, đặc điểm của các vật mẫu.
+Độ đậm nhạt của các vật mẫu.
+Vẽ phác khung hình chung trên tờ giấy (sắp xếp hình vẽ theo chiều ngang hay chiều dọc tờ giấy cho phù hợp).
+Vẽ phác khung hình của từng vật mẫu.
+Tìm tỉ lệ bộ phận và vẽ phác hình bằng các nét thẳng.
+Vẽ nét chi tiết cho rõ đặc điểm của mẫu.
+Vẽ đậm nhạt:
+Phác các mảng đậm, mảng nhạt chính của mẫu.
+Vẽ đậm nhạt bằng các độ : đậm, đậm vừa, nhạt.

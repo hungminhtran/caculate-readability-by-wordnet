@@ -1,0 +1,13 @@
+Trang trí đối xứng qua trục
+Các hình được trang trí đối xứng qua trục như : hình vuông, hình tròn,... luôn có các hình mảng và họa tiết đối xứng với nhau qua đường trục.
+Trang trí đối xứng có thể theo một trục, hai trục hoặc nhiều trục. Ví dụ :
+Hình con chuồn chuồn (H.1) là hình đối xứng qua trục dọc.
+Hình chữ nhật (H.2) được trang trí đối xứng qua trục dọc và ngang.
+Hình tròn (H.3a, b) có thể được trang trí đối xứng qua hai hoặc nhiều trục.
+Hình vuông (H.3c, d) thường được trang trí đối xứng qua bốn trục.
+Những họa tiết đối xứng qua trục luôn bằng nhau, giống nhau về hình và màu sắc.
+Tìm khuôn khổ và vẽ hình định trang trí (hình vuông, hình tròn, hình chữ nhật,...)
+Kẻ các trục đối xứng.
+Vẽ các mảng chính, phụ.
+Vê họa tiết phù hợp với các hình mảng.
+Vẽ màu theo ý thích.

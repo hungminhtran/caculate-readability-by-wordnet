@@ -1,0 +1,12 @@
+Chương trình máy tính được lưu ở đâu ?
+Khi làm việc với máy tính, có thể em muốn lưu kết quả để dùng lại. Chẳng hạn, lưu những bức tranh đã vẽ hay bài thơ, bài văn đã soạn thảo để sau đó mở lại xem, chỉnh sửa hay in ra.
+Đĩa cứng
+Các chương trình và thông tin khác (trong đó có kết quả làm việc) được lưu trên các thiết bị lưu trữ.
+Dưới đây chúng ta sẽ làm quen với một số thiết bị lưu trữ thông dụng.
+Chương trình và thông tin quan trọng thường được lưu trên đĩa cứng. Đĩa cứng là thiết bị lưu trữ quan trọng nhất.
+Đĩa cứng được lắp đặt trong thân máy tính (H. 7).
+Đĩa CD và thiết bị nhớ flash
+Để thuận tiện cho việc trao đổi, thông tin còn được ghi trong đĩa CD (đọc là xi-đi) hoặc trong thiết bị nhớ flash (đọc là ph-lats) và được lưu vào máy tính khi cần thiết.
+Đĩa CD và thiết bị nhớ flash có thể được lắp vào máy tính để sử dụng hoặc tháo ra khỏi máy tính một cách dễ dàng, thuận tiện.
+Khi làm việc với máy tính, ta thường mang theo đĩa CD hoặc thiết bị nhớ flash để tiện sử dụng.
+Tránh để các thiết bị lưu trữ bị rơi, bị va đập và không để ở nơi ẩm hoặc nóng quá. Cần bảo quản để đĩa CD không bị cong vênh, bị xước hay bám bụi. Lưu ý thiết bị nhớ flash có thế bị hỏng nếu bị ướt.

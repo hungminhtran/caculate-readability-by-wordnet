@@ -1,0 +1,5 @@
+Lắp mạch điện đơn giản
+Pin là nguồn cung cấp năng lượng điện làm sáng đèn. Mỗi pin có 2 cực, một cực dương (+) và một cực âm (-).
+Bên trong bóng đèn là dây tóc, hai đầu dây tóc được nối ra bên ngoài. Dòng điện chạy qua dây tóc của bóng đèn làm cho dây tóc bị nóng tới mức phát ra ánh sáng.
+Đèn sáng nếu có dòng điện chạy qua một mạch kín từ cực dương của pin, qua bóng đèn đến cực âm của pin.
+Các vật cho dòng điện chạy qua gọi là vật dẫn điện. Các vật không cho dòng điện chạy qua gọi là vật cách điện.

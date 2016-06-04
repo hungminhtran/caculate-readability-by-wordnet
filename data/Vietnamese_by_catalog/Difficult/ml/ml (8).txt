@@ -1,0 +1,219 @@
+II. QUÁ TRÌNH SẢN XUẤT RA GIÁ TRỊ THẶNG DƯ TRONG XÃ HỘI TƯ BẢN
+
+1. Sự thống nhất giữa quá trình sản xuất ra giá trị sử dụng và quá trình sản xuất ra giá trị thặng dư
+
+Mục đích của sản xuất tư bản chủ nghĩa không phải là giá trị sử dụng mà là giá trị thặng dư. Nhưng để sản xuất giá trị thặng dư, trước hết, nhà tư bản phải sản xuất ra một giá trị sử dụng nào đó, vậy quá trình sản xuất tư bản chủ nghĩa là sự thống nhất giữa quá trình sản xuất ra giá trị sử dụng và quá trình sản xuất ra giá trị thặng dư.
+
+C. Mác viết: "Với tư cách là sự thống nhất giữa quá trình lao động và quá trình tạo ra giá trị thì quá trình sản xuất là một quá trình sản xuất hàng hoá; với tư cách là sự thống nhất giữa quá trình lao động và quá trình làmtăng giá trị thì quá trình sản xuất là một quá trình sản xuất tư bản chủ nghĩa, là hình thái tư bản chủ nghĩa của nền sản xuất hàng hoá”
+
+(C.Mác. Tư bản. Quyển I, tập I, sđd. Tr.294-295.)
+
+Quá trình sản xuất tư bản chủ nghĩa có các đặc điểm là: người công nhân làm việc dưới sự kiểm soát của nhà tư bản và sản phẩm làm ra thuộc sở hữu của nhà tư bản.
+
+Để hiểu rõ quá trình sản xuất giá trị thặng dư, chúng ta lấy việc sản xuất sợi của một nhà tư bản làm ví dụ.
+
+Giả sử để sản xuất 10 kg sợi, cần 10 kg bông và giá 10 kg bông là 10 $.
+
+Để biến số bông đó thành sợi, một công nhân phải lao động trong 6 giờ và hao mòn máy móc là 2 $; giá trị sức lao động trong một ngày là 3 $ và ngày lao động là 12 giờ; trong một giờ lao động, người công nhân tạo ra một lượng giá trị là 0,5 $; cuối cùng giả định trong quá trình sản xuất, sợi đã hao phí theo thời gian lao động xã hội cần thiết.
+
+Với giả định như vậy, ta thấy người công nhân chỉ cần 6 giờ lao động đầu tiên đã hoàn thành công việc và giá trị của sợi được sản xuất ra là 15 $.
+
+Nhưng nếu quá trình lao động chỉ kéo dài đến cái điểm đủ bù đắp lại giá trị sức lao động (6 giờ), tức là bằng thời gian lao động tất yếu, thì chưa sản xuất ra giá trị thặng dư, do đó tiền chưa biến thành tư bản.
+
+Trong thực tế quá trình lao động không dừng lại ở điểm đó. Giá trị sức lao động mà nhà tư bản phải trả khi mua và giá trị mà sức lao động đó có thể tạo ra cho nhà tư bản trong quá trình sản xuất là hai đại lượng khác nhau.
+
+Nhà tư bản đã trả tiền mua sức lao động để sử dụng trong một ngày (12 giờ) nên công nhân vẫn phải tiếp tục lao động trong 6 giờ nữa.
+
+Chi phí sản xuất
+
+Giá trị sản phẩm mới (20 kg sợi)
+
+- Tiền mua bông (20 kg): 20$
+
+- Tiền hao mòn máy móc: 4$
+
+- Tiền mua SLĐ trong ngày: 3$
+
+Tổng chi phí sản xuất: 27$
+
+- Giá trị của bông chuyển vào sợi: 20$
+
+- Giá trị của MM chuyển vào sợi: 4$
+
+- Giá trị mới do lao động của công nhân tạo ra trong 12 giờ lao động: 6$
+
+Tổng giá trị hàng hóa: 30$
+
+Như vậy, toàn bộ chi phí sản xuất mà nhà tư bản bỏ ra là 27 $, còn giá trị của sản phẩm mới (20 kg sợi) do công nhân sản xuất ra trong 12 giờ lao động là 30$. Vậy 27 $ ứng trước đã chuyển hoá thành 30$, đã đem lại một giá trị thặng dư là 3$. Do đó tiền tệ ứng ra ban đầu đã chuyển hoá thành tư bản.
+
+Nghiên cứu quá trình sản xuất giá trị thặng dư, có thể rút ra những kết luận sau đây:
+
+Một là, phân tích giá trị sản phẩm được sản xuất ra (20 kg sợi) ta thấy có hai phần: Giá trị những tư liệu sản xuất nhờ lao động cụ thể của công nhân được bảo toàn và di chuyển vào sản phẩm mới gọi là giá trị cũ (trong ví dụ là 24 $). Giá trị do lao động trừu tượng của công nhân tạo ra trong quá trình sản xuất gọi là giá trị mới (trong ví dụ là 6 $). Phần giá trị mới này lớn hơn giá trị sức lao động, nó bằng giá trị sức lao động cộng với giá trị thặng dư.
+
+Vậy giá trị thặng dư là một bộ phận của giá trị mới dôi ra ngoài giá trị sức lao động do công nhân làm thuê tạo ra và bị nhà tư bản chiếm không.
+
+(ký hiệu là m). Quá trình sản xuất ra giá trị thặng dư chỉ là quá trình tạo ra giá trị kéo dài quá cái điểm mà ở đó giá trị sức lao động do nhà tư bản trả được hoàn lại bằng một vật ngang giá mới.
+
+Hai là, ngày lao động của công nhân bao giờ cũng được chia thành hai phần:
+
+Thời gian lao động cần thiết: là thời gian người công nhân tạo ra một lượng giá trị ngang với giá trị sức lao động của mình.
+
+Thời gian lao động thặng dư: là phần còn lại của ngày lao động và lao động trong khoảng thời gian đó gọi là lao động thặng dư.
+
+Ba là, nghiên cứu quá trình sản xuất giá trị thặng dư, chúng ta thấy mâu thuẫn của công thức chung của tư bản đã được giải quyết: việc chuyển hoá của tiền thành tư bản diễn ra trong lưu thông, mà đồng thời không diễn ra trong lĩnh vực đó. Trong lưu thông nhà tư bản mua được hàng hoá sức lao động và sử dụng hàng hoá đặc biệt đó trong sản xuất, tức là ngoài lĩnh vực lưu thông để sản xuất ra giá trị thặng dư cho nhà tư bản. Nhờ đó, tiền mới chuyển thành tư bản.
+
+Việc nghiên cứu giá trị thặng dư đã vạch rõ bản chất bóc lột của chủ nghĩa tư bản. Trong điều kiện hiện nay, do sự phát triển của công ty cổ phần, một bộ phận nhỏ công nhân cũng có cổ phiếu và trở thành cổ đông, đã xuất hiện quan niệm cho rằng không còn bóc lột giá trị thặng dư, chủ nghĩa tư bản ngày nay đã thay đổi bản chất. Một số học giả tư sản đưa ra thuyết "Chủ nghĩa tư bản nhân dân”. Song, trên thực tế, công nhân chỉ có một số cổ phiếu không đáng kể, họ chỉ là người sở hữu danh nghĩa không có vai trò chi phối doanh nghiệp, phần lớn lợi tức cổ phần vẫn nằm trong tay các nhà tư bản, thu nhập của công nhân chủ yếu vẫn là tiền lương.
+
+2. Bản chất của tư bản. Sự phân chia tư bản thành tư bản bất biến và tư bản khả biến
+
+a. Bản chất của tư bản
+
+Các nhà kinh tế học tư sản cho rằng, mọi công cụ lao động, tư liệu sản xuất đều là tư bản. Thực ra, bản thân tư liệu sản xuất không phải là tư bản, nó chỉ là yếu tố cơ bản của sản xuất trong bất cứ xã hội nào. Tư liệu sản xuất chỉ trở thành tư bản khi nó trở thành tài sản của các nhà tư bản và được dùng để bóc lột lao động làm thuê.
+
+Theo C.Mác, tư bản là giá trị mang lại giá trị thặng dư bằng cách bóc lột công nhân làm thuê. Như vậy bản chất của tư bản là thể hiện quan hệ sản xuất xã hội mà trong đó giai cấp tư sản chiếm đoạt giá trị thặng dư do giai cấp công nhân sáng tạo ra.
+
+b. Tư bản bất biến và tư bản khả biến
+
+Để tiến hành sản xuất, nhà tư bản phải ứng tư bản ra để mua tư liệu sản xuất và sức lao động. Các bộ phận khác nhau đó của tư bản có vai trò khác nhau trong quá trình sản xuất giá trị thặng dư.
+
+Bộ phận tư bản tồn tại dưới hình thức tư liệu sản xuất:
+
+Tư liệu sản xuất có nhiều loại, có loại được sử dụng toàn bộ trong quá trình sản xuất (máy móc, thiết bị, nhà xưởng…), nhưng chỉ hao mòn dần, tức là chuyển dần từng phần giá trị của nó vào sản phẩm; có loại khi đưa vào sản xuất thì chuyển toàn bộ giá trị của nó trong một chu kỳ sản xuất (nguyên liệu, nhiên liệu…). Song, giá trị của bất kỳ tư liệu sản xuất nào cũng đều do lao động cụ thể của công nhân mà được bảo toàn và di chuyển vào sản phẩm, nên giá trị đó không thể lớn hơn giá trị tư liệu sản xuất đã tiêu dùng để sản xuất ra sản phẩm. Giá trị tư liệu sản xuất được bảo toàn dưới dạng giá trị sử dụng mới chứ không phải là được sản xuất ra.
+
+Bộ phận tư bản biến thành tư liệu sản xuất mà giá trị được bảo toàn vàchuyển vào sản phẩm, tức là không thay đổi đại lượng giá trị của nó, đượcC.Mác gọi là tư bản bất biến, và ký hiệu là C.
+
+Bộ phận tư bản dùng để mua sức lao động
+
+Đối với bộ phận tư bản dùng để mua sức lao động thì một mặt, giá trị của nó biến thành các tư liệu sinh hoạt của người công nhân và mặt khác, trong quá trình lao động, bằng lao động trừu tượng, công nhân tạo ra giá trị mới lớn hơn giá trị của bản thân sức lao động. Như vậy, bộ phận tư bản dùng để mua sức lao động đã không ngừng chuyển hoá từ đại lượng bất biến
+
+thành một đại lượng khả biến, tức là đã tăng lên về lượng trong quá trình sản xuất.
+
+Bộ phận tư bản biến thành sức lao động không tái hiện ra, nhưng thông qua lao động trừu tượng của công nhân làm thuê mà tăng lên, tức là biến đổi về đại lượng, được C.Mác gọi là tư bản khả biến, và ký hiệu là v.
+
+Như vậy, tư bản bất biến là điều kiện cần thiết không thể thiếu được để sản xuất ra giá trị thặng dư, còn tư bản khả biến có vai trò quyết định trong quá trình đó, vì nó chính là bộ phận tư bản đã lớn lên.
+
+Việc phát hiện ra tính hai mặt của lao động thể hiện trong hàng hoá đã giúp C.Mác xác định sự khác nhau giữa tư bản bất biến và tư bản khả biến.
+
+C.Mác là người đầu tiên chia tư bản thành tư bản bất biến và tư bản khả biến. Sự phân chia đó dựa vào vai trò khác nhau của các bộ phận của tư bản trong quá trình sản xuất giá trị thặng dư, do đó nó vạch rõ bản chất bóc lột của chủ nghĩa tư bản, chỉ có lao động của công nhân làm thuê mới tạo ra giá trị thặng dư cho nhà tư bản.
+
+3. Tỷ suất giá trị thặng dư và khối lượng giá trị thặng dư
+
+a. Tỷ suất giá trị thặng dư
+
+Sau khi vạch rõ bản chất của giá trị thặng dư, C.Mác nghiên cứu mặt lượng của giá trị thặng dư, tức là nghiên cứu tỷ suất và khối lượng giá trị thặng dư.
+
+Tỷ suất giá trị thặng dư là tỷ số tính theo phần trăm giữa giá trị thặng dư và tư bản khả biến cần thiết để sản xuất ra giá trị thặng dư đó.
+
+Nếu ký hiệu m' là tỷ suất giá trị thặng dư, thì m' được xác định bằng công thức:
+
+m
+
+m' = --- x 100%
+
+v
+
+Theo ví dụ về sản xuất giá trị thặng dư ở trên, tỷ suất giá trị thặng dư là:
+
+3$
+
+m' = x 100 % = 100 %
+
+3$
+
+Tỷ suất giá trị thặng dư chỉ rõ trong tổng số giá trị mới do sức lao động tạo ra, thì công nhân được hưởng bao nhiêu, nhà tư bản chiếm đoạt bao nhiêu. Tỷ suất giá trị thặng dư còn chỉ rõ, trong một ngày lao động, phần thời gian lao động thặng dư chiếm bao nhiêu phần trăm so với thời gian lao động tất. Do đó, có thể biểu thị tỷ suất giá trị thặng dư theo một công thức khác:
+
+t' (thời gian lao động thặng dư)
+
+m' =
+
+x 100%
+
+t (thời gian lao động tất yếu)
+
+b. Khối lượng giá trị thặng dư
+
+Khối lượng giá trị thặng dư là tích số giữa tỷ suất giá trị thặng dư và tổng tư bản khả biến đã được sử dụng.
+
+Nếu ký hiệu M là khối lượng giá trị thặng dư, thì M được xác định bằng công thức: M = m' x V trong đó V là tổng số tư bản khả biến mà nhà tư bản sử dụng. Khối lượng giá trị thặng dư phản ánh quy mô bóc lột của nhà tư bản đối với công nhân làm thuê.
+
+Chủ nghĩa tư bản càng phát triển thì khối lượng giá trị thặng dư càng tăng, vì trình độ bóc lột sức lao động càng tăng.
+
+4. Hai phương pháp sản xuất ra giá trị thặng dư và giá trị thặng dư siêu ngạch
+
+a. Sản xuất ra giá trị thặng dư tuyệt đối
+
+Để sản xuất giá trị thặng dư thì ngày lao động của công nhân thì phải kéo dài vượt quá thời gian lao động tất yếu, còn để tăng giá trị thặng dư thì phải tìm cách để kéo dài thêm thời gian lao động thặng dư.
+
+Trong giai đoạn phát triển đầu tiên của sản xuất tư bản chủ nghĩa, khi kỹ thuật còn thấp, tiến bộ chậm chạp thì phương pháp chủ yếu để tăng giá trị thặng dư là kéo dài ngày lao động của công nhân.
+
+Giá trị thặng dư được sản xuất ra bằng cách kéo dài ngày lao động trong điều kiện thời gian lao động tất yếu không thay đổi, nhờ đó kéo dài thời gian lao động thặng dư gọi là giá trị thặng dư tuyệt đối.
+
+Giả sử ngày lao động là 8 giờ, trong đó 4 giờ là thời gian lao động tất yếu và 4 giờ là thời gian lao động thặng dư.
+
+m' = 4 / 4 x 100% = 100%
+
+Giả sử nhà tư bản kéo dài ngày lao động thêm 2 giờ, trong khi thời gian tất yếu không thay đổi, vẫn là 4 giờ.
+
+Do đó tỷ suất giá trị thặng dư là:
+
+m'= 6 / 4 x 100% = 150%
+
+Như vậy, khi kéo dài tuyệt đối ngày lao động trong điều kiện thời gian lao động tất yếu không thay đổi, thì thời gian lao động thặng dư tăng lên, nên tỷ suất giá trị thặng dư tăng lên. Trước đây tỷ suất giá trị thặng dư là 100%, thì bây giờ là 150%.
+
+Các nhà tư bản tìm mọi cách kéo dài ngày lao động, nhưng ngày lao động có những giới hạn nhất định. Giới hạn trên của ngày lao động do thể chất và tinh thần của người lao động quyết định vì người công nhân phải có thời gian ăn, ngủ, nghỉ ngơi, giải trí để phục hồi sức khoẻ. Việc kéo dài ngày lao động còn vấp phải sự phản kháng của giai cấp công nhân. Giới hạn dưới của ngày lao động không thể bằng thời gian lao động tất yếu, tức là thời gian lao động thặng dư bằng không. Như vậy, về mặt kinh tế, ngày lao động phải dài hơn thời gian lao động tất yếu, nhưng không thể vượt quá giới hạn về thể chất và tinh thần của người lao động.
+
+Trong phạm vi giới hạn nói trên, độ dài của ngày lao động là một đại lượng không cố định và có nhiều mức khác nhau. Độ dài cụ thể của ngày lao động do cuộc đấu tranh giữa giai cấp công nhân và giai cấp tư sản trên cơ sở tương quan lực lượng quyết định.
+
+b. Sản xuất ra giá trị thặng dư tương đối
+
+Việc kéo dài ngày lao động bị giới hạn về thể chất và tinh thần của người lao động và vấp phải cuộc đấu tranh ngày càng mạnh mẽ của giai cấp công nhân. Mặt khác, khi sản xuất tư bản chủ nghĩa phát triển đến giai đoạn đại công nghiệp cơ khí, kỹ thuật đã tiến bộ làm cho năng suất lao động tăng lên nhanh chóng, thì các nhà tư bản chuyển sang phương thức bóc lột dựa trên cơ sở tăng năng suất lao động, bóc lột giá trị thặng dư tương đối. Giá trị thặng dư được tạo ra bằng cách rút ngắn thời gian lao động tất yếu trong điều kiện độ dài của ngày lao động không đổi, nhờ đó kéo dài tương ứng thời gian lao động thặng dư, được gọi là giá trị thặng dư tương đối.
+
+Giả sử ngày lao động là 8 giờ và nó được chia thành 4 giờ là thời gian lao động tất yếu và 4 giờ là thời gian lao động thặng dư.
+
+Do đó tỷ suất giá trị thặng dư là:
+
+m' = 4 / 4 x 100% = 100%
+
+Giả định rằng ngày lao động không thay đổi, nhưng bây giờ công nhân chỉ cần 2 giờ lao động đã tạo ra được một lượng giá trị mới bằng với giá trị sức lao động của mình. Do đó tỷ lệ phân chia ngày lao động sẽ thay đổi: 2 giờ là thời gian lao động tất yếu và 6 giờ là thời gian lao động thặng dư.
+
+Do đó bây giờ tỷ suất giá trị thặng dư sẽ là:
+
+m' = 6 / 2 x 100% = 300%
+
+Muốn rút ngắn thời gian lao động tất yếu phải giảm giá trị sức lao động. Muốn hạ thấp giá trị sức lao động phải giảm giá trị những tư liệu sinh hoạt thuộc phạm vi tiêu dùng của công nhân. Điều đó chỉ có thể thực hiện được bằng cách tăng năng suất lao động trong các ngành sản xuất ra những tư liệu sinh hoạt thuộc phạm vi tiêu dùng của công nhân hay tăng năng suất lao động trong các ngành sản xuất ra tư liệu sản xuất để sản xuất ra những tư liệu sinh hoạt đó.
+
+Nếu trong giai đoạn đầu của chủ nghĩa tư bản, sản xuất giá trị thặng dư tuyệt đối là phương pháp chủ yếu, thì đến giai đoạn tiếp sau, khi kỹ thuật phát triển, sản xuất giá trị thặng dư tương đối là phương pháp chủ yếu.
+
+Hai phương pháp sản xuất giá trị thặng dư nói trên được các nhà tư bản sử dụng kết hợp với nhau để nâng cao trình độ bóc lột công nhân làm thuê trong quá trình phát triển của chủ nghĩa tư bản. Dưới chủ nghĩa tư bản, việc áp dụng máy móc không phải là để giảm nhẹ cường độ lao động của công nhân, mà trái lại tạo điều kiện để tăng cường độ lao động.
+
+c. Giá trị thặng dư siêu ngạch
+
+Cạnh tranh giữa các nhà tư bản buộc họ phải áp dụng phương pháp sản xuất tốt nhất để tăng năng suất lao động trong xí nghiệp của mình nhằm giảm giá trị cá biệt của hàng hoá xuống thấp hơn giá trị xã hội của hàng hoá, nhờ đó thu được giá trị thặng dư siêu ngạch.
+
+Giá trị thặng dư siêu ngạch là phần giá trị thặng dư thu được do áp dụng công nghệ mới làm cho giá trị cá biệt của hàng hóa thấp hơn giá trị thị trường của nó.
+
+Xét từng trường hợp, thì giá trị thặng dư siêu ngạch là hiện tượng tạm thời, xuất hiện và mất đi. Nhưng xét toàn bộ xã hội tư bản thì giá trị thặng dư siêu ngạch là hiện tượng tồn tại thường xuyên. Theo đuổi giá trị thặng dư siêu ngạch là khát vọng của nhà tư bản và là động lực mạnh mẽ nhất thúc đẩy các nhà tư bản cải tiến kỹ thuật, hợp lý hoá sản xuất, tăng năng suất lao động, làm cho năng suất lao động xã hội tăng lên nhanh chóng. C. Mác gọi giá trị thặng dư siêu ngạch là hình thức biến tướng của giá trị thặng dư tương đối, vì giá trị thặng dư siêu ngạch và giá trị thặng dư tương đối đều dựa trên cơ sở tăng năng suất lao động (mặc dù một bên là dựa vào tăng năng suất lao động cá biệt, còn một bên dựa vào tăng năng suất lao động xã hội).
+
+Từ đó, ta thấy rằng giá trị thặng dư siêu ngạch là động lực trực tiếp, mạnh nhất thúc đẩy các nhà tư bản cải tiến kỹ thuật, áp dụng công nghệ mới vào sản xuất, hoàn thiện tổ chức lao động và tổ chức sản xuất để tăng năng suất lao động, giảm giá trị của hàng hoá.
+
+5. Sản xuất ra giá trị thặng dư - quy luật kinh tế tuyệt đối của chủ nghĩa tư bản
+
+Mỗi phương thức sản xuất có một quy luật kinh tế tuyệt đối, quy luật phản ánh mối quan hệ kinh tế bản chất nhất của phương thức sản xuất đó. Theo C.Mác, chế tạo ra giá trị thặng dư, đó là quy luật tuyệt đối của phương thức sản xuất tư bản chủ nghĩa.
+
+Trong chủ nghĩa tư bản, mục đích của sản xuất không phải là giá trị sử dụng mà là sản xuất ra giá trị thặng dư, là nhân giá trị lên. Theo đuổi giá trị thặng dư tối đa là mục đích và động cơ thúc đẩy sự hoạt động của mỗi nhà tư bản, cũng như của toàn bộ xã hội tư bản. Nhà tư bản cố gắng sản xuất ra hàng hoá với chất lượng tốt đi chăng nữa, thì đó cũng chỉ vì nhà tư bản muốn thu được nhiều giá trị thặng dư.
+
+Sản xuất ra giá trị thặng dư tối đa không chỉ phản ánh mục đích của nền sản xuất tư bản chủ nghĩa, mà còn vạch rõ phương tiện, thủ đoạn để đạt được mục đích đó: tăng cường bóc lột công nhân làm thuê bằng cách tăng cường độ lao động và kéo dài ngày lao động, tăng năng suất lao động và mở rộng sản xuất.
+
+Như vậy, sản xuất ra giá trị thặng dư là quy luật kinh tế tuyệt đối của chủ nghĩa tư bản, là cơ sở của sự tồn tại và phát triển của chủ nghĩa tư bản. Nội dung của nó là sản xuất ra giá trị thặng dư tối đa bằng cách tăng cường bóc lột công nhân làm thuê.
+
+Quy luật giá trị thặng dư ra đời và tồn tại cùng với sự ra đời và tồn tại của chủ nghĩa tư bản. Nó quyết định các mặt chủ yếu, các quá trình kinh tế chủ yếu của chủ nghĩa tư bản. Nó là động lực vận động, phát triển của chủ nghĩa tư bản, đồng thời nó cũng làm cho mọi mâu thuẫn của chủ nghĩa tư bản, đặc biệt là mâu thuẫn cơ bản của chủ nghĩa tư bản ngày càng sâu sắc, đưa đến sự thay thế tất yếu chủ nghĩa tư bản bằng một xã hội cao hơn.
+
+Chủ nghĩa tư bản ngày nay tuy có những điều chỉnh nhất định về hình thức sở hữu, quản lý và phân phối để thích nghi ở mức độ nào đó với điều kiện mới, nhưng sự thống trị của chủ nghĩa tư bản vẫn tồn tại nguyên vẹn, bản chất bóc lột của chủ nghĩa tư bản vẫn không thay đổi. Nhà nước tư sản hiện nay tuy có tăng cường can thiệp vào đời sống kinh tế và xã hội, nhưng về cơ bản nó vẫn là bộ máy thống trị của giai cấp tư sản.
+
+Tuy nhiên, do trình độ đã đạt được của văn minh nhân loại và do cuộc đấu tranh của giai cấp công nhân mà một bộ phận không nhỏ công nhân ở các nước tư bản phát triển có mức sống tương đối sung túc, nhưng về cơ bản, họ vẫn phải bán sức lao động và vẫn bị nhà tư bản bóc lột giá trị thặng dư. Trong điều kiện hiện nay, sản xuất giá trị thặng dư có những đặc điểm mới:
+
+Một là, do kỹ thuật và công nghệ hiện đại được áp dụng rộng rãi nên khối lượng giá trị thặng dư được tạo ra chủ yếu nhờ tăng năng suất lao động. Việc tăng năng suất lao động do áp dụng kỹ thuật và công nghệ hiện đại làm cho chi phí lao động sống trong một đơn vị sản phẩm giảm nhanh.
+
+Hai là, cơ cấu lao động xã hội ở các nước tư bản phát triển hiện nay có sự biến đổi lớn. Do áp dụng rộng rãi kỹ thuật và công nghệ hiện đại nên lao động phức tạp, lao động trí tuệ ngày càng tăng lên và ngày càng có vai trò quyết định trong việc sản xuất ra giá trị thặng dư.
+
+Ba là, sự bóc lột của các nước tư bản chủ nghĩa phát triển trên phạm vi quốc tế ngày càng được mở rộng dưới nhiều hình thức: xuất khẩu tư bản và hàng hoá, trao đổi không ngang giá... lợi nhuận siêu ngạch mà các nước tư bản chủ nghĩa phát triển bòn rút từ các nước kém phát triển trong mấy chục năm qua đã tăng lên gấp nhiều lần. Sự cách biệt giữa những nước giàu và những nước nghèo ngày càng tăng và đang trở thành mâu thuẫn nổi bật trong thời đại ngày nay. Các nước tư bản chủ nghĩa phát triển đã bòn rút chất xám, hủy hoại môi sinh, cũng như cội rễ đời sống văn hoá của các nước lạc hậu, chậm phát triển.

@@ -1,0 +1,160 @@
+I. SỰ CHUYỂN HÓA CỦA TIỀN TỆ THÀNH TƯ BẢN
+1. Công thức chung của tư bản
+
+Tiền là sản vật cuối cùng của lưu thông hàng hoá, đồng thời là hình thức biểu hiện đầu tiên của tư bản. Mọi tư bản lúc đầu đều biểu hiện dưới hình thái một số tiền nhất định. Nhưng bản thân tiền không phải là tư bản,
+
+tiền chỉ biến thành tư bản trong những điều kiện nhất định, khi chúng được sử dụng để bóc lột lao động của người khác.
+
+Tiền với tư cách là tiền tiền thông thường vận động theo công thức: H - T – H. Tiền với tư cách là tư bản thì vận động theo công thức: T - H – T. Bất cứ tiền nào vận động theo công thức T - H – T đều chuyển hoá thành tư bản.
+
+So sánh công thức H - T - H và công thức T - H – T
+
+Điểm giống nhau:
+
+Cả hai sự vận động trên đều do hai giai đoạn đối lập nhau là mua và bán hợp thành, trong mỗi giai đoạn đều có hai nhân tố vật chất đối diện nhau là tiền và hàng, và hai người có quan hệ kinh tế với nhau là người mua và người bán. Nhưng đó chỉ là những điểm giống nhau về hình thức.
+
+Điểm khác nhau:
+
+Giữa hai công thức trên có sự khác nhau về chất.
+
+Lưu thông hàng hoá giản đơn bắt đầu bằng việc bán (H - T) và kết thúc bằng việc mua (T - H). Điểm xuất phát và điểm kết thúc của quá trình đều là hàng hoá, còn tiền chỉ đóng vai trò trung gian.
+
+Lưu thông của tư bản bắt đầu bằng việc mua (T - H) và kết thúc bằng việc bán (H – T). Tiền vừa là điểm xuất phát, vừa là điểm kết thúc của quá trình, còn hàng hoá chỉ đóng vai trò trung gian; tiền ở đây không phải là chi ra dứt khoát mà chỉ là ứng ra rồi thu về.
+
+Mục đích của lưu thông hàng hoá giản đơn là giá trị sử dụng để thoả mãn nhu cầu, nên các hàng hoá trao đổi phải có giá trị sử dụng khác nhau.
+
+Mục đích của lưu thông tư bản không phải là giá trị sử dụng, mà là giá trị, hơn nữa giá trị tăng thêm. Vì vậy, nếu số tiền thu về bằng số tiền ứng ra, thì quá trình vận động trở nên vô nghĩa. Do đó, số tiền thu về phải lớn hơn số tiền ứng ra, nên công thức vận động đầy đủ của tư bản phải là T - H - T', trong đó T' = T + ΔT. Số tiền trội hơn so với số tiền ứng ra (ΔT), C.Mác gọi là giá trị thặng dư, ký hiệu là m. Số tiền ứng ra ban đầu chuyển hoá thành tư bản.
+
+Vậy tư bản là giá trị mang lại giá trị thặng dư. Mục đích lưu thông tư bản là sự lớn lên của giá trị, là giá trị thặng dư, nên sự vận động của tư bản là không có giới hạn, vì sự lớn lên của giá trị là không có giới hạn.
+
+C.Mác gọi công thức T - H - T' là công thức chung của tư bản, vì sự vận động của mọi tư bản đều biểu hiện trong lưu thông dưới dạng khái quát đó, dù là tư bản thương nghiệp, tư bản công nghiệp hay tư bản cho vay.
+
+2. Mâu thuẫn của công thức chung của tư bản
+
+Tiền ứng trước, tức là tiền bỏ vào lưu thông, khi quay trở về tay người chủ của nó, thì tăng thêm một lượng nhất định. Vậy có phải lưu thông đã làm cho tiền tăng thêm và do đó hình thành giá trị thặng dư hay không?
+
+Trong lưu thông, dù trao đổi ngang giá hay không ngang giá cũng không tạo ra giá trị mới, do đó cũng không tạo ra giá trị thặng dư.
+
+Trường hợp trao đổi ngang giá: nếu hàng hoá được trao đổi ngang giá, thì chỉ có sự thay đổi hình thái của giá trị, từ tiền thành hàng và từ hàng thành tiền, còn tổng giá trị cũng như phần giá trị thuộc về mỗi bên tham gia trao đổi trước sau vẫn không thay đổi. Tuy nhiên, về mặt giá trị sử dụng, thì cả hai bên trao đổi đều có lợi.
+
+Trường hợp trao đổi không ngang giá:
+
+Nếu hàng hoá được bán cao hơn giá trị, thì số lời anh ta nhận được khi là người bán cũng chính số tiền anh ta sẽ mất đi khi là người mua, rốt cuộc anh ta sẽ không được lợi thêm gì cả. Còn nếu mua hàng hoá thấp hơn giá trị, thì tình hình cũng tương tự như trên. Số lời anh ta nhận được khi là người mua sẽ mất đi khi là người bán. Giả sử có một số người chuyên mua được rẻ bán đắt thì điều đó cũng chỉ giải thích được sự làm giàu của những thương nhân cá biệt chứ không thể giải thích được sự giàu có của toàn bộ giai cấp tư bản vì tổng số giá trị trước và sau khi trao đổi không thay đổi, mà chỉ có phần giá trị của mỗi bên trao đổi là thay đổi, tức là có sự chuyển dịch giá trị từ người này sang người khác chứ không có sự tăng thêm tổng số giá trị trao đổi.
+
+Lưu thông không làm tăng giá trị nhưng nếu tiền không vận động trong lưu thông, tức là đứng ngoài lưu thông, thì cũng không thể lớn lên được.
+
+"Vậy là tư bản không thể xuất hiện từ lưu thông và cũng không thể xuất hiện ở bên ngoài lưu thông. Nó phải xuất hiện trong lưu thông và đồng thời không phải trong lưu thông”
+
+C.Mác và Ph.Ăngghen: Toàn tập. Nxb Chính trị Quốc gia, Hà Nội, 1993, tr.23)
+
+. Đó là mâu thuẫn của công thức chung của tư bản.
+
+3. Hàng hóa sức lao động và tiền công trong chủ nghĩa tư bản
+
+a. Hàng hóa sức lao động
+
+Xem xét công thức chung của tư bản ta thấy sự chuyển hoá của tiền thành tư bản không thể phát sinh từ bản thân số tiền đó vì trong việc mua bán tiền chỉ là phương tiện lưu thông để thực hiện giá cả hàng hoá, nên trước sau giá trị của nó vẫn không thay đổi. Sự chuyển hoá đó phải xảy ra ở hàng hoá nhưng không phải ở giá trị trao đổi của hàng hoá mà chỉ có thể ở giá trị sử dụng của hàng hoá. Do đó, hàng hoá đó không thể là hàng hoá thông thường mà phải là một thứ hàng hoá đặc biệt mà giá trị sử dụng của nó có đặc tính là nguồn gốc sinh ra giá trị, hơn nữa sinh ra một giá trị lớn hơn giá (1)
+
+trị của bản thân nó. Thứ hàng hoá đặc biệt đó là sức lao động mà nhà tư bản đã tìm thấy trên thị trường. Sức lao động biến thành hàng hoá là điều kiện quyết định để tiền biến thành tư bản. Theo C.Mác: "sức lao động hay năng lực lao động là toàn bộ nhữngnăng lực thể chất và tinh thần tồn tại trong một cơ thể, trong một con ngườiđang sống, và được người đó đem ra vận dụng mỗi khi sản xuất ra một giátrị sử dụng nào đó”C.Mác. Tư bản. Quyển I, tập I. Sđd, tr. 233.
+
+Trong bất cứ xã hội nào, sức lao động cũng là điều kiện cơ bản của sản xuất nhưng sức lao động không phải bao giờ cũng là hàng hoá, nó chỉ biến thành hàng hoá trong những điều kiện nhất định:
+
+Thứ nhất, người lao động phải được tự do về thân thể. Sức lao động chỉ xuất hiện trên thị trường với tư cách là hàng hoá khi người lao động phải được tự do về thân thể, có quyền sở hữu sức lao động của mình và có quyền đem bán sức lao động. Muốn bán hàng hóa, người ta phải có quyền sở hữu hàng hóa. Người lao động muốn bán sức lao động của mình thì trước hết họ phải sở hữu sức lao động của mình, có quyền chi phối khả năng làm việc của mình, họ muốn làm việc cho ai là quyền của họ. Trong các xã hội nô lệ và phong kiến, người nô lệ và nông nô không thể bán sức lao động vì bản thân họ thuộc sở hữu của chủ nô hay chúa phong kiến. Do đó việc biến sức lao động thành hàng hoá đòi hỏi phải thủ tiêu chế độ nô lệ và nông nô.
+
+Thứ hai, người lao động bị tước đoạt hết tư liệu sản xuất vì nếu người lao động được tự do về thân thể nhưng có tư liệu sản xuất thì họ sẽ sản xuất ra hàng hoá và bán hàng hoá do mình sản xuất ra chứ không bán sức lao động. Muốn biến sức lao động thành hàng hoá, người lao động phải là người không có tư liệu sản xuất, chỉ trong điều kiện ấy người lao động mới bán sức lao động của mình, vì họ không còn cách nào khác để sinh sống.
+
+Về mặt lịch sử, khi chủ nghĩa tư bản ra đời ở Tây Âu vào thế kỷ XVI, chủ nghĩa tư bản đã tạo ra hai điều kiện trên thông qua quá trình tích lũy nguyên thủy của tư bản.
+
+Sự tồn tại đồng thời hai điều kiện nói trên tất yếu biến sức lao động thành hàng hoá. Sức lao động biến thành hàng hoá là điều kiện quyết định để tiền biến thành tư bản, tuy nhiên, để tiền biến thành tư bản thì lưu thông hàng hoá và lưu thông tiền tệ phải phát triển tới một mức độ nhất định. Sức lao động biến thành hàng hoá là nhân tố đánh dấu một giai đoạn mới trong sự phát triển sản xuất hàng hoá trở thành hình thái phổ biến sản xuất hàng hoá tư bản chủ nghĩa.
+
+Hàng hoá sức lao động cũng có hai thuộc tính là giá trị sử dụng và giá trị.
+
+Giá trị hàng hoá sức lao động
+
+Giá trị sức lao động cũng do thời gian lao động xã hội cần thiết để sản xuất và tái sản xuất sức lao động quyết định. Nhưng sức lao động chỉ tồn tại trong cơ thể sống của con người, muốn tái sản xuất ra sức lao động, người công nhân phải tiêu dùng một lượng tư liệu sinh hoạt nhất định.
+
+Vậy thời gian lao động xã hội cần thiết để tái sản xuất ra sức lao động sẽ được quy thành thời gian lao động xã hội cần thiết để sản xuất ra những tư liệu sinh hoạt ấy; hay nói cách khác, giá trị hàng hoá sức lao động được đo lường gián tiếp bằng giá trị những tư liệu sinh hoạt để tái sản xuất sức lao động.
+
+Là hàng hoá đặc biệt, giá trị hàng hoá sức lao động khác với hàng hóa thông thường ở chỗ nó bao hàm cả yếu tố tinh thần và lịch sử. Điều đó có nghĩa là ngoài những nhu cầu về vật chất, người công nhân còn có những nhu cầu về tinh thần, văn hoá... Những nhu cầu đó phụ thuộc vào hoàn cảnh lịch sử của mỗi nước ở từng thời kỳ, phụ thuộc cả vào điều kiện địa lý, khí hậu của nước đó và mức độ thoả mãn những nhu cầu đó phần lớn phụ thuộc vào trình độ văn minh đã đạt được của mỗi nước.
+
+Giá trị hàng hoá sức lao động do những bộ phận sau đây hợp thành:
+
+Một là, giá trị những tư liệu sinh hoạt về vật chất và tinh thần cần thiết để tái sản xuất sức lao động, duy trì đời sống công nhân;
+
+Hai là, phí tổn đào tạo công nhân;
+
+Ba là, giá trị những tư liệu sinh hoạt vật chất và tinh thần cần thiết cho
+
+con cái công nhân.
+
+Sự biến đổi của giá trị sức lao động trong một thời kỳ nhất định chịu ảnh hưởng của hai loại nhân tố tác động đối lập nhau đến. Một mặt, sự tăng nhu cầu trung bình của xã hội về hàng hoá và dịch vụ, về học tập và trình độ lành nghề dẫn đến làm tăng giá trị sức lao động; mặt khác, sự tăng năng suất
+
+lao động xã hội lại làm giảm giá trị sức lao động.
+
+Giá trị sử dụng của hàng hoá sức lao động
+
+Giá trị sử dụng của hàng hóa sức lao động được biểu hiện trong quátrình tiêu dùng sức lao động, tức là quá trình lao động của người công nhân.
+
+Quá trình đó là quá trình sản xuất ra một loạt hàng hoá nào đó; đồng thời là quá trình tạo ra giá trị mới lớn hơn giá trị của bản thân hàng hoá sức lao động. Phần lớn hơn đó chính là giá trị thặng dư mà nhà tư bản chiếm đoạt.
+
+Như vậy, giá trị sử dụng của hàng hoá sức lao động có tính chất đặc biệt là nguồn gốc sinh ra giá trị, tức là tạo ra giá trị thặng dư. Đó là chìa khoá để giải thích mâu thuẫn của công thức chung của tư bản.
+
+b. Tiền công trong chủ nghĩa tư bản
+
+Bản chất kinh tế của tiền công
+
+Người công nhân làm việc cho nhà tư bản một thời gian nhất định, sản xuất ra một lượng hàng hoá hay hoàn thành một số công việc nào đó thì được nhà tư bản trả cho một số tiền nhất định gọi là tiền công. Hiện tượng đó làm cho người ta lầm tưởng rằng tiền công là giá cả của lao động.
+
+Tiền công không phải là giá trị hay giá cả của lao động, vì lao động không phải là hàng hoá. Sở dĩ như vậy là vì:
+
+- Nếu lao động là hàng hoá, thì nó phải có trước, phải được vật hoá trong một hình thức cụ thể nào đó. Tiền đề để cho lao động vật hoá được là phải có tư liệu sản xuất. Nhưng nếu người lao động có tư liệu sản xuất, thì họ sẽ bán hàng hoá do mình sản xuất ra, chứ không bán "lao động".
+
+- Việc thừa nhận lao động là hàng hoá dẫn tới một trong hai mâu thuẫn về lý luận sau đây:
+
+Thứ nhất, nếu lao động là hàng hoá và được trao đổi ngang giá, thì nhà tư bản không thu được lợi nhuận (giá trị thặng dư); điều này phủ nhận sự tồn tại của quy luật giá trị thặng dư trong chủ nghĩa tư bản.
+
+Thứ hai, nếu "hàng hoá lao động" được trao đổi không ngang giá để có giá trị thặng dư cho nhà tư bản, thì lại phủ nhận quy luật giá trị.
+
+- Nếu lao động là hàng hoá, thì nó phải có giá trị nhưng lao động là thực thể và là thước đo nội tại của giá trị do đó bản thân lao động không có giá trị. Vì thế, cái mà công nhân bán cho nhà tư bản không phải là “lao động” mà là “sức lao động”. Do đó tiền công là giá cả của sức lao động.
+
+Vậy bản chất của tiền công trong chủ nghĩa tư bản là giá trị hay giá cả của sức lao động, nhưng lại biểu hiện ra bề ngoài thành giá trị hay giá cả của lao động.
+
+Hình thức biểu hiện của tiền công đã gây ra sự nhầm lẫn trong cách hiểu về bản chất của nó là do:
+
+Thứ nhất, đặc điểm của hàng hoá sức lao động là không bao giờ tách khỏi người bán, nó chỉ nhận được giá cả sau khi đã cung cấp giá trị sử dụng cho người mua, tức là lao động cho nhà tư bản, do đó bề ngoài chỉ thấy nhà tư bản trả giá trị cho lao động.
+
+Thứ hai, đối với công nhân, toàn bộ lao động trong cả ngày là phương tiện để có tiền sinh sống, do đó bản thân công nhân cũng tưởng rằng mình bán lao động. Còn đối với nhà tư bản bỏ tiền ra là để có lao động, nên cũng nghĩ rằng cái mà họ mua là lao động.
+
+Thứ ba, lượng của tiền công phụ thuộc vào thời gian lao động hoặc số lượng sản phẩm sản xuất ra, điều đó càng làm cho người ta lầm tưởng rằng tiền công là giá cả lao động.
+
+Hai hình thức cơ bản của tiền công trong chủ nghĩa tư bản
+
+Tiền công có hai hình thức cơ bản là tiền công tính theo thời gian và tiền công tính theo sản phẩm.
+
+Tiền công tính theo thời gian là hình thức tiền công mà số lượng của nó ít hay nhiều tuỳ theo thời gian lao động của công nhân (giờ, ngày, tháng) dài hay ngắn.
+
+Tiền công ngày và tiền công tuần chưa nói rõ được mức tiền công đó cao hay là thấp, vì còn tuỳ theo ngày lao động dài hay ngắn. Muốn đánh giá mức tiền công không chỉ căn cứ vào tiền công ngày mà còn phải căn cứ vào độ dài của ngày lao động và cường độ lao động. Giá cả của một giờ lao động là thước đo chính xác mức tiền công tính theo thời gian.
+
+Tiền công tính theo sản phẩm là hình thức tiền công mà số lượng của nó phụ thuộc vào số lượng sản phẩm hay số lượng những bộ phận của sản phẩm mà công nhân đã sản xuất ra hoặc là số lượng công việc đã hoàn thành.
+
+Mỗi sản phẩm được trả công theo một đơn giá nhất định. Đơn giá tiền công là tiền công trả cho thời gian cần thiết sản xuất ra một sản phẩm. Vì thế tiền công tính theo sản phẩm là hình thức chuyển hoá của tiền công tính theo thời gian.
+
+Thực hiện tiền công tính theo sản phẩm, một mặt, giúp cho nhà tư bản trong việc quản lý, giám sát quá trình lao động của công nhân dễ dàng hơn; mặt khác, kích thích công nhân tích cực lao động tạo ra nhiều sản phẩm để nhận được tiền công cao hơn.
+
+Tiền công danh nghĩa và tiền công thực tế
+
+Tiền công danh nghĩa là số tiền mà người công nhân nhận được do bán sức lao động của mình cho nhà tư bản.
+
+Tiền công thực tế là tiền công được biểu hiện bằng số lượng hàng hoá tiêu dùng và dịch vụ mà công nhân mua được bằng tiền công danh nghĩa của mình.
+
+Tiền công danh nghĩa là giá cả sức lao động, nên nó có thể tăng lên hay giảm xuống tuỳ theo sự biến động của quan hệ cung - cầu về hàng hoá sức lao động trên thị trường. Nếu tiền công danh nghĩa không thay đổi, nhưng giá cả tư liệu tiêu dùng và dịch vụ tăng lên hoặc giảm xuống, thì tiền công thực tế sẽ giảm xuống hay tăng lên.
+
+Tiền công là giá cả của sức lao động, nên sự vận động của nó gắn liền với sự biến đổi của giá trị sức lao động. Lượng giá trị sức lao động chịu ảnh hưởng của các nhân tố tác động ngược chiều nhau.
+
+Nhân tố tác động làm tăng giá trị sức lao động như sự nâng cao trình độ chuyên môn của người lao động, sự tăng cường độ lao động và sự tăng lên của nhu cầu cùng với sự phát triển của xã hội.
+
+Nhân tố tác động làm giảm giá trị sức lao động, đó là sự tăng năng suất lao động làm cho giá cả tư liệu tiêu dùng rẻ đi. Sự tác động qua lại của các nhân tố đó dẫn tới quá trình phức tạp của sự biến đổi giá trị sức lao động, do đó dẫn tới sự biến đổi phức tạp của tiền công thực tế.
+
+Xu hướng chung của sản xuất tư bản chủ nghĩa không phải là nâng cao mức tiền công trung bình mà là hạ thấp mức tiền công ấy. Trong quá trình phát triển của chủ nghĩa tư bản, tiền công danh nghĩa có xu hướng tăng lên, nhưng mức tăng của nó nhiều khi không theo kịp mức tăng giá cả tư liệu tiêu dùng và dịch vụ; đồng thời thất nghiệp là hiện tượng thường xuyên, khiến cho cung về lao động vượt quá cầu về lao động, điều đó cho phép nhà tư bản mua sức lao động dưới giá trị của nó, vì vậy tiền công thực tế của giai cấp công nhân có xu hướng hạ thấp.
+
+Sự hạ thấp của tiền công thực tế chỉ diễn ra như một xu hướng, vì có những nhân tố chống lại sự hạ thấp tiền công. Một mặt, đó là cuộc đấu tranh của giai cấp công nhân đòi tăng tiền công. Mặt khác, trong điều kiện của chủ nghĩa tư bản ngày nay, do sự tác động của cuộc cách mạng khoa học – công nghệ nên nhu cầu về sức lao động có chất lượng cao ngày càng tăng buộc các nhà tư sản phải cải tiến tổ chức lao động cũng như kích thích người lao động bằng lợi ích vật chất.

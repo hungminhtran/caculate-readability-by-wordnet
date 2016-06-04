@@ -1,0 +1,4 @@
+Thêu móc xích
+Thêu móc xích là cách thêu để tạo thành những vòng chỉ mốc nối tiếp nhau giống như chuỗi mắt xích.
+Thêu móc xích được thực hiện theo chiều từ phải sang trái. Khi thêu phải tạo vòng chỉ qua đường dấu. Vị trí xuống kim của mũi thêu sau nằm phía trong mũi thêu trước liền kề.
+Khi kết thúc đường thêu phải xuống kim ở ngoài mũi thêu để chặn mũi thêu cuối.
