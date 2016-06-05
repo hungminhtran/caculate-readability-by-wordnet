@@ -1,6 +1,6 @@
 import time
 import sys
-from multiprocessing import Process, Lock, Array, SimpleQueue
+from multiprocessing import Process, Lock, Array, SimpleQueue, Queue
 import importlib
 from datetime import datetime
 END_PROCESS_SIGNAL = 'END_PROCESS_SIGNAL'
@@ -97,7 +97,7 @@ if (__name__ == '__main__'):
     print('number of process:', MAX_PROCESS, ' working on ', FILEPATH, 'save as ', outputPath, 'debug', DEBUG, 'is tiefile'
     , TEIFILE)
     #queue use for handling file for each worker
-    filesQueue = SimpleQueue()
+    filesQueue = Queue()
     files = mod1.listAllFile(FILEPATH, 1)
     for f in files:
         filesQueue.put(f)

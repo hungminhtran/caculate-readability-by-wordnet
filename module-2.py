@@ -39,7 +39,7 @@ def calculateReabilityByWordnetForEnglish(INPUT, BLWnounsArray, NounsArray, prin
     if (len(nounsInput) == 0):
         # if (printForDeBug):
         #     print("no BLW")
-        return None
+        return 0, nounsInput, nounsInput
     else:
         # if (printForDeBug):
         #     print("ratio: ", float(len(nounsBLWInput))/len(nounsInput)*100, "%")
