@@ -119,7 +119,10 @@ def isABacsicWord(noun):
         return -1
     # print('synset is being process: ',wn.synsets(noun))
     try:
-        cpd, hyponym, total_lens, cpdByLvls = cpdRatio(wn.synsets(noun)[0],1, noun)
+        temp = wn.synsets(noun)[0]
+        if (re.search('\.n\.', temp) == None):
+            return -1
+        cpd, hyponym, total_lens, cpdByLvls = cpdRatio(temp ,1, noun)
         # cpd, hyponym, total_lens, cpdByLvls = cpdRatio(wn.synsets('guitar')[0],1, 'guitar')
         if hyponym > 0:
             t0 = int(round(float(cpd)*100/hyponym + 0.5)) #floor, not round
@@ -186,7 +189,7 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile):
                     outputABLW.write(xxx + "\n")
                     outputAllbacsicLvlWord.write(stringOut+ str(t[7]) + "\n")
             else:
-                print('Error getStatisticsWithAllNouns: cannot process noun:', nouns[i])
+                print('Error getStatisticsWithAllNouns: cannot process word:', nouns[i])
     outputAllnouns.close()
     outputAllbacsicLvlWord.close()
     outputABLW.close()
@@ -281,7 +284,7 @@ def generate_statistic_blw_with_hypernym_hyponym(blwFile, allNounsStatisticfile,
         awlHyper = 0
         if (nwlHyper != 0):
             awlHyper = wlHyper/nwlHyper
-        outputT1.write(str(len(noun)) + ',' + mcNoun + ',' + str(awlHyper) + ',' + str(len(allHypernyms)) + ','
+        outputT1.write(noun + ',' + str(len(noun)) + ',' + mcNoun + ',' + str(awlHyper) + ',' + str(len(allHypernyms)) + ','
         + " ".join(mcHyper) + ',' + str(awlHypo) + ',' + str(len(allHyponyms)) + ',' + " ".join(mcHypo) + '\n')
 
     outputT1.close()
@@ -310,16 +313,18 @@ if __name__ == '__main__':
     generate_statistic_blw_with_hypernym_hyponym('input/wn-nouns/all-wn-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
     'output/wn-table-1.csv', 'output/wn-table-2.csv', DEBUG=0)
     print('t1, t2 3000-freq')
-    generate_statistic_blw_with_hypernym_hyponym('input/freq-nouns/3000-freq-BLW.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
+    generate_statistic_blw_with_hypernym_hyponym('input/freq-nouns/3000-freq-word-SORTED.txt', 'input/wn-nouns/all-wn-nouns-STATISTIC.txt',
     'output/300-freq-table-1.csv', 'output/300-freq-table-2.csv', DEBUG=0)
     print("gen vietnamesewn")
     from nltk.corpus import vietnet as wn
+
     getListOfNounsWithCompoundNounsFirst('input/vietnamesewn-nouns/all-vietnamesewn-nouns.txt'
     , "input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt")
     getStatisticsWithAllNouns('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt'
     , ["input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt"
     , "input/vietnamesewn-nouns/all-vietnamesewn-BLW-statistic.txt", "input/vietnamesewn-nouns/all-vietnamesewn-BLW.txt"])
-    generate_statistic_blw_with_hypernym_hyponym('input/vietnamesewn-nouns/all-vietnamesewn-BLW.txt'
+    print('t1, t2 3000-vietnamese nouns')
+    generate_statistic_blw_with_hypernym_hyponym('input/freq-vietnamese/3000vietnamese-nouns.txt'
     , 'input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt','output/vietnamesewn-table-1.csv'
     , 'output/vietnamesewn-table-2.csv', DEBUG=0)
     print("end run at ", datetime.datetime.now().time())
