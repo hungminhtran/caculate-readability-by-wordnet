@@ -1,3 +1,5 @@
+# python3 calculate-using-wn-by-exist-data.py [existing output file] [blw input] [new output file]
+# python3 calculate-using-wn-by-exist-data.py output/ET4RL-outputFreq.csv input/freq-nouns/3000-freq-BLW.txt output/ET4RL-outputFreq_gen.csv
 import sys
 
 existingResult = open(sys.argv[1], 'r').read().split('\n')
