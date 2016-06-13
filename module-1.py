@@ -189,13 +189,13 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile, ENGLISH=0):
     outputAllnouns = open(ouputFile[0], 'w+')
     outputAllbacsicLvlWord = open(ouputFile[1], 'w+')
     outputABLW = open(ouputFile[2], "w+")
-    outputHashMap = open('hashmapKey.txt', 'w+')
+    # outputHashMap = open('hashmapKey.txt', 'w+')
     for i in range(0, len(nouns)):
         nouns[i] = nouns[i].lower()
         if nouns[i]:
             t = isABacsicWord(nouns[i], ENGLISH)
             if (t != -1):
-                outputHashMap.write(nouns[i] + '\n')
+                # outputHashMap.write(nouns[i] + '\n')
                 stringOut = nouns[i] + "," + str(t[1]) + '/' + str(t[2]) + ',' + str(t[3]) + ','
                 xxx = nouns[i]
                 for i in range(0, MAX_LEVEL):
@@ -209,7 +209,7 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile, ENGLISH=0):
     outputAllnouns.close()
     outputAllbacsicLvlWord.close()
     outputABLW.close()
-    outputHashMap.close()
+    # outputHashMap.close()
 
 #generate table 1
 def generate_statistic_blw_with_hypernym_hyponym_table1(blwFile, outputFileT1, DEBUG=0):
@@ -324,13 +324,10 @@ KeyHashFile = "input/wn-nouns/hashmapKey.txt", DEBUG=0):
                 else:
                     print('Error generate_statistic_table2: : retrive hyponyms failure', noun + '__', temp)
                 temp = deStandanizeNoun(tNoun.lemmas()[0].name())
-                if (temp in hashmap):
-                    nounOut = hashmap[temp].split(',')
-                    outputFp.write(",".join(hypernymOut[:9]) + "\n")
-                    outputFp.write(",".join(nounOut[:9]) + "\n")
-                    outputFp.write(",".join(hyponymOut[:9]) + "\n")
-                else:
-                    print("Warning:",temp, "not in hashmap")
+                nounOut = isInhashmap(hashmap, temp)
+                outputFp.write(",".join(hypernymOut[:9]) + "\n")
+                outputFp.write(",".join(nounOut[:9]) + "\n")
+                outputFp.write(",".join(hyponymOut[:9]) + "\n")
     outputFp.close()
 
 if __name__ == '__main__':
@@ -377,7 +374,7 @@ if __name__ == '__main__':
     print("blw table 2")
     generate_statistic_table2('input/blw-nouns/blw-SORTED-nouns.txt', 'output/blw-table-2.csv', DEBUG=0)
     print("freq table 2")
-    generate_statistic_table2('input/freq-nouns/3000-freq-word-SORTED.txt', 'output/3000-freq-table-2.csv', DEBUG=0)
+    generate_statistic_table2('input/freq-nouns/3000-freq-word-SORTED.txt', 'output/3k-freq-table-2.csv', DEBUG=0)
     print("wn table 2")
     generate_statistic_table2('input/wn-nouns/all-wn-SORTED-nouns.txt', 'output/wn-table-2.csv', DEBUG=0)
 
