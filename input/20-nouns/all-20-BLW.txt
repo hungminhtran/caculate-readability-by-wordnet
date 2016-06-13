@@ -1,0 +1,13 @@
+screwdriver
+guitar
+piano
+grape
+shirt
+table
+chair
+truck
+drum
+lamp
+car
+bus
+cat
