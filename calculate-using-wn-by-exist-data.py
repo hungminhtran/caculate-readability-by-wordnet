@@ -6,10 +6,10 @@ BLWnounsArray = open(sys.argv[2], 'r').read().split('\n')
 print('blw  ', sys.argv[2])
 outputFile = open(sys.argv[3], 'w+')
 print('output  ', sys.argv[3])
-outputFile.write("file,ratio,all blw,all nouns")
+outputFile.write("file,ratio,blw,allNoun\n")
 print('')
-for element in existingResult:
-    temp = element.split(',')
+for i in range(1, len(existingResult)):
+    temp = existingResult[i].split(',')
     if (temp != ['']):
         # print('')
         # print('temp is asdf', temp)
@@ -21,7 +21,7 @@ for element in existingResult:
         nounsBLWInput.sort()
         ratio = 0
         if len(nounsBLWInput) > 0:
-            ratio = len(nounsBLWInput)/len(allNouns)
+            ratio = len(nounsBLWInput)/float(len(allNouns))*100.0
         outputFile.write(temp[0] + ',' +  str(ratio) +',' + " | ".join(nounsBLWInput) + ',' + " | ".join(allNouns) + '\n')
 
 outputFile.close()
