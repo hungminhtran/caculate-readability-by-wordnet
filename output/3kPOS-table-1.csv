@@ -1,0 +1,2692 @@
+capital_gains,13,B,13.0,1, B,0,0, 
+interest_rate,13,B,4.0,1,A ,10.8,5,A B
+stock_market,12,B,8.0,1,A ,16.0,2, B
+real_estate,11,B,8.0,1,A ,6.0,3,A 
+stock_index,11,B,5.0,1,A ,0,0, 
+health_care,11,B,15.0,1, B,11.0,3,A B
+credit_card,11,B,18.0,2, B,9.0,3, B
+soft_drink,10,B,8.0,1,A ,8.083333333333334,12,A B
+junk_bond,9,B,4.0,1,A ,0,0, 
+fast_food,9,B,9.0,1,A ,0,0, 
+coca_cola,9,B,4.0,1,A ,0,0, 
+telecommunications,18,A,6.0,1,A ,9.6,5,A 
+responsibilities,16,A,13.0,1, B,11.0,14,A B
+representatives,15,A,10.0,1,A ,12.0,11,A B
+recommendations,15,A,6.0,1,A ,8.0,1,A 
+administration,14,A,10.0,1,A ,9.8,5,A B
+transportation,14,A,8.0,1,A ,13.6,5,A B
+administration,14,A,10.0,1,A ,9.8,5,A B
+reorganization,14,A,12.0,1,A ,0,0, 
+transportation,14,A,8.0,1,A ,13.6,5,A B
+communications,14,A,10.0,1,A ,0,0, 
+responsibility,14,A,13.0,1, B,11.0,14,A B
+communications,14,A,10.0,1,A ,0,0, 
+communications,14,A,10.0,1,A ,0,0, 
+appropriations,14,A,5.0,1,A ,10.0,1, B
+discrimination,14,A,13.0,1, B,7.5,8,A 
+representative,14,A,10.0,1,A ,12.0,11,A B
+international,13,A,9.0,1,A ,0,0, 
+manufacturing,13,A,24.0,1, B,10.333333333333334,3,A 
+investigation,13,A,7.0,1,A ,17.0,1, B
+entertainment,13,A,9.0,1,A ,9.833333333333334,6,A 
+manufacturers,13,A,8.0,1,A ,11.25,4,A B
+opportunities,13,A,11.0,1,A ,6.583333333333333,12,A B
+contributions,13,A,7.0,1,A ,3.0,1,A 
+entertainment,13,A,9.0,1,A ,9.833333333333334,6,A 
+circumstances,13,A,9.0,1,A ,9.5,4,A B
+profitability,13,A,6.0,1,A ,0,0, 
+organizations,13,A,11.0,1, B,9.542857142857143,35,A B
+massachusetts,13,A,0,0, ,0,0, 
+semiconductor,13,A,9.0,1,A ,8.0,2,A 
+professionals,13,A,5.0,1,A ,9.2,10,A B
+consideration,13,A,8.0,1,A ,12.0,3,A 
+participation,13,A,11.0,1, B,13.333333333333334,3,A B
+biotechnology,13,A,16.0,1, B,16.0,2,A B
+manufacturers,13,A,8.0,1,A ,11.25,4,A B
+relationships,13,A,8.0,1,A ,13.5,2,A B
+manufacturers,13,A,8.0,1,A ,11.25,4,A B
+deterioration,13,A,5.0,1,A ,8.75,4,A 
+conversations,13,A,6.0,1,A ,9.4,15,A B
+establishment,13,A,9.0,1,A ,12.6,5,A 
+investigators,13,A,9.0,1,A ,9.0,4,A 
+conservatives,13,A,5.0,1,A ,10.181818181818182,11,A 
+supercomputer,13,A,9.0,1,A ,0,0, 
+shareholders,12,A,8.0,1,A ,19.0,1, B
+construction,12,A,24.0,1, B,11.0,9,A B
+institutions,12,A,12.0,1,A ,11.555555555555555,9,A B
+announcement,12,A,9.0,1,A ,8.5,2,A 
+transactions,12,A,13.0,1, B,13.0,2,A B
+negotiations,12,A,10.0,1,A ,11.0,6,A B
+expectations,12,A,6.0,1,A ,10.2,5,A 
+requirements,12,A,4.0,1,A ,0,0, 
+acquisitions,12,A,9.0,1,A ,10.083333333333334,12,A 
+restrictions,12,A,4.0,1,A ,11.0,3,A 
+corporations,12,A,4.0,1,A ,20.3,10,A B
+headquarters,12,A,6.0,1,A ,7.0,1,A 
+organization,12,A,11.0,1, B,9.542857142857143,35,A B
+distribution,12,A,11.0,1,A ,18.666666666666668,6,A B
+relationship,12,A,8.0,1,A ,13.5,2,A B
+broadcasting,12,A,6.0,1,A ,0,0, 
+underwriters,12,A,5.0,1,A ,9.0,1, B
+philadelphia,12,A,0,0, ,0,0, 
+participants,12,A,9.0,1,A ,8.0,8,A 
+intelligence,12,A,7.0,1,A ,10.538461538461538,13,A B
+manufacturer,12,A,8.0,1,A ,11.25,4,A B
+subcommittee,12,A,9.0,1,A ,0,0, 
+alternatives,12,A,14.0,1, B,11.142857142857142,7,A B
+pennsylvania,12,A,0,0, ,0,0, 
+certificates,12,A,8.0,1,A ,13.625,8,A B
+applications,12,A,3.0,1,A ,12.0,2,A 
+unemployment,12,A,5.0,1,A ,0,0, 
+difficulties,12,A,6.0,1,A ,7.0,2,A B
+appreciation,12,A,13.0,1,A ,5.0,1,A 
+subsidiaries,12,A,9.0,1,A ,7.2,5,A B
+compensation,12,A,10.0,1,A ,12.222222222222221,9,A B
+anticipation,12,A,11.0,1,A ,5.666666666666667,3,A 
+westinghouse,12,A,0,0, ,0,0, 
+organization,12,A,11.0,1, B,9.542857142857143,35,A B
+developments,12,A,11.0,1,A ,12.5,4,A B
+improvements,12,A,14.0,1,A ,9.4,5,A 
+constitution,12,A,3.0,1,A ,0,0, 
+productivity,12,A,12.0,1,A ,0,0, 
+neighborhood,12,A,7.0,1,A ,7.0,5,A B
+headquarters,12,A,6.0,1,A ,7.0,1,A 
+commonwealth,12,A,5.0,1,A ,0,0, 
+fundamentals,12,A,9.0,1,A ,8.0,1,A 
+implications,12,A,9.0,1,A ,0,0, 
+metropolitan,12,A,10.0,1,A ,0,0, 
+introduction,12,A,9.0,1,A ,13.0,4,A B
+racketeering,12,A,6.0,1,A ,0,0, 
+polyethylene,12,A,14.0,1, B,0,0, 
+conglomerate,12,A,4.0,1,A ,0,0, 
+consequences,12,A,10.0,1,A ,10.25,24,A B
+expenditures,12,A,19.0,1, B,8.666666666666666,3,A B
+broadcasting,12,A,6.0,1,A ,0,0, 
+partnerships,12,A,8.0,1,A ,13.0,1,A 
+intelligence,12,A,7.0,1,A ,10.538461538461538,13,A B
+calculations,12,A,9.0,1,A ,15.0,4,A B
+contribution,12,A,7.0,1,A ,3.0,1,A 
+stockholders,12,A,8.0,1,A ,19.0,1, B
+arrangements,12,A,8.0,1,A ,11.5,2,A 
+technologies,12,A,10.5,2,A ,18.857142857142858,7, B
+independence,12,A,7.0,1,A ,8.75,4,A 
+commissioner,12,A,13.0,1,A ,17.25,4, B
+counterparts,12,A,10.0,1,A ,7.666666666666667,3,A 
+registration,12,A,8.0,1,A ,0,0, 
+professional,12,A,5.0,1,A ,9.2,10,A B
+intervention,12,A,10.0,1,A ,9.0,1,A 
+acquisition,11,A,9.0,1,A ,10.083333333333334,12,A 
+transaction,11,A,11.0,1, B,7.4,10,A 
+association,11,A,12.0,1,A ,16.2,20,A B
+information,11,A,7.0,1,A ,8.23076923076923,26,A B
+development,11,A,11.0,1,A ,12.5,4,A B
+performance,11,A,4.0,1,A ,9.666666666666666,12,A B
+legislation,11,A,8.0,1, B,24.5,2, B
+advertising,11,A,9.0,1,A ,8.777777777777779,9,A B
+competition,11,A,16.0,1, B,8.0,1, B
+investments,11,A,7.0,1,A ,13.333333333333334,3,A B
+spokeswoman,11,A,12.0,1,A ,0,0, 
+shareholder,11,A,8.0,1,A ,19.0,1, B
+speculation,11,A,7.0,1,A ,10.0,1,A 
+opportunity,11,A,11.0,1,A ,6.583333333333333,12,A B
+competitors,11,A,10.0,1,A ,7.583333333333333,12,A B
+development,11,A,11.0,1,A ,12.5,4,A B
+individuals,11,A,9.5,2,A B,8.059701492537313,402,A B
+researchers,11,A,9.0,1,A ,9.0,4,A 
+improvement,11,A,14.0,1,A ,9.4,5,A 
+partnership,11,A,8.0,1,A ,13.0,1,A 
+uncertainty,11,A,7.0,1,A ,12.833333333333334,6,A 
+environment,11,A,9.0,1,A ,6.142857142857143,7,A 
+advertisers,11,A,9.0,1,A ,6.666666666666667,3,A 
+specialists,11,A,6.0,1,A ,11.61111111111111,18,A B
+engineering,11,A,10.5,2,A ,18.857142857142858,7, B
+association,11,A,12.0,1,A ,16.2,20,A B
+commitments,11,A,11.0,1,A ,10.0,1,A 
+possibility,11,A,11.0,1,A ,0,0, 
+discussions,11,A,13.0,1,A ,8.0,5,A 
+inventories,11,A,4.0,1,A ,14.0,1, B
+circulation,11,A,13.0,1,A ,0,0, 
+rockefeller,11,A,0,0, ,0,0, 
+regulations,11,A,4.0,1,A ,7.75,4,A B
+prosecutors,11,A,7.0,2,A ,15.5,2, B
+differences,11,A,7.0,1,A ,10.5,8,A 
+authorities,11,A,6.0,1,A ,12.4375,16,A B
+electronics,11,A,7.0,1,A ,13.666666666666666,3,A B
+resignation,11,A,7.0,1,A ,9.0,1,A 
+switzerland,11,A,0,0, ,0,0, 
+politicians,11,A,6.0,1,A ,7.666666666666667,3,A 
+proceedings,11,A,10.0,1, B,9.142857142857142,14,A B
+allegations,11,A,10.0,1,A ,7.666666666666667,3,A 
+republicans,11,A,10.0,1,A ,0,0, 
+instruments,11,A,6.0,1,A ,13.166666666666666,18,A B
+merchandise,11,A,9.0,1,A ,8.0,15,A B
+governments,11,A,6.0,1,A ,12.4375,16,A B
+cooperation,11,A,11.0,1, B,11.5,10,A 
+consultants,11,A,9.0,1,A ,13.461538461538462,13,A B
+speculators,11,A,7.0,1,A ,0,0, 
+corporation,11,A,4.0,1,A ,20.3,10,A B
+commissions,11,A,18.0,1, B,14.947368421052632,19,A B
+maintenance,11,A,6.0,1,A ,11.333333333333334,6,A B
+projections,11,A,10.0,1,A ,0,0, 
+exploration,11,A,10.0,1,A ,0,0, 
+institution,11,A,12.0,1,A ,11.555555555555555,9,A B
+combination,11,A,10.0,1,A ,9.25,4,A B
+consumption,11,A,13.0,1, B,7.0,4,A 
+arrangement,11,A,8.0,1,A ,11.5,2,A 
+christopher,11,A,0,0, ,0,0, 
+marketplace,11,A,8.0,1,A ,10.625,8,A B
+restaurants,11,A,8.0,1,A ,7.933333333333334,15,A B
+acquisition,11,A,9.0,1,A ,10.083333333333334,12,A 
+credibility,11,A,7.0,1,A ,12.0,4,A B
+alternative,11,A,14.0,1, B,11.142857142857142,7,A B
+programming,11,A,8.0,1,A ,0,0, 
+enforcement,11,A,13.0,1, B,10.25,4,A B
+connecticut,11,A,0,0, ,0,0, 
+minneapolis,11,A,0,0, ,0,0, 
+controversy,11,A,7.0,1,A ,7.8,5,A 
+reinsurance,11,A,9.0,1,A ,0,0, 
+subscribers,11,A,9.0,1,A ,0,0, 
+steelmakers,11,A,5.0,1,A ,0,0, 
+underwriter,11,A,5.0,1,A ,9.0,1, B
+involvement,11,A,11.0,1, B,13.333333333333334,3,A B
+experiments,11,A,18.0,1, B,15.75,4,A B
+flexibility,11,A,12.0,1,A ,7.5,2,A 
+commodities,11,A,8.0,1,A ,8.866666666666667,15,A B
+departments,11,A,8.0,1,A ,15.0,6,A B
+indications,11,A,13.0,1,A ,7.75,12,A B
+legislators,11,A,9.0,2,A ,10.583333333333334,12,A B
+businessmen,11,A,10.0,1,A ,0,0, 
+electricity,11,A,18.0,1, B,15.571428571428571,7,A B
+appointment,11,A,8.0,1,A ,9.6,5,A 
+adjustments,11,A,11.0,1,A ,11.25,4,A 
+publication,11,A,4.0,1,A ,8.25,12,A B
+replacement,11,A,12.0,1,A ,11.0,4,A B
+liabilities,11,A,10.0,1,A ,8.666666666666666,6,A B
+obligations,11,A,13.0,1, B,11.0,14,A B
+respondents,11,A,11.0,1,A ,0,0, 
+information,11,A,7.0,1,A ,8.23076923076923,26,A B
+mississippi,11,A,0,0, ,0,0, 
+legislature,11,A,8.0,1,A ,7.875,8,A B
+concessions,11,A,8.0,1,A ,9.0,1,A 
+bondholders,11,A,7.0,2,A ,0,0, 
+oppenheimer,11,A,0,0, ,0,0, 
+agriculture,11,A,20.0,1, B,0,0, 
+distributor,11,A,8.0,1,A ,9.25,4,A B
+partnership,11,A,8.0,1,A ,13.0,1,A 
+application,11,A,3.0,1,A ,12.0,2,A 
+communities,11,A,9.0,1,A ,7.545454545454546,11,A B
+renaissance,11,A,0,0, ,0,0, 
+examination,11,A,13.0,1,A ,9.523809523809524,21,A B
+explanation,11,A,9.0,1,A ,10.272727272727273,11,A 
+arbitragers,11,A,11.0,1,A ,0,0, 
+bureaucracy,11,A,19.0,1, B,8.0,1,A 
+journalists,11,A,6.0,1,A ,11.5,8,A B
+businessman,11,A,14.0,1,A ,9.0,11,A B
+contractors,11,A,7.0,1,A ,12.0,4,A B
+comptroller,11,A,14.0,1,A ,14.333333333333334,6,A B
+enterprises,11,A,11.0,1,A ,11.0,3,A B
+negotiators,11,A,12.0,1,A ,9.714285714285714,7,A 
+electronics,11,A,7.0,1,A ,13.666666666666666,3,A B
+recognition,11,A,10.0,1,A ,0,0, 
+advertising,11,A,9.0,1,A ,8.777777777777779,9,A B
+enterprises,11,A,11.0,1,A ,11.0,3,A B
+congressman,11,A,10.0,1,A ,3.0,1,A 
+government,10,A,6.0,1,A ,12.4375,16,A B
+investment,10,A,7.0,1,A ,13.333333333333334,3,A B
+securities,10,A,6.0,1,A ,8.333333333333334,3,A 
+operations,10,A,11.0,1,A ,0,0, 
+california,10,A,0,0, ,0,0, 
+production,10,A,3.0,1,A ,10.166666666666666,6,A B
+management,10,A,13.0,1, B,11.923076923076923,13,A B
+department,10,A,8.0,1,A ,15.0,6,A B
+executives,10,A,13.0,1,A ,12.4,5,A B
+washington,10,A,0,0, ,0,0, 
+businesses,10,A,10.0,1,A ,8.818181818181818,11,A 
+earthquake,10,A,20.0,1, B,6.333333333333333,3,A 
+subsidiary,10,A,9.0,1,A ,7.2,5,A B
+commission,10,A,18.0,1, B,14.947368421052632,19,A B
+technology,10,A,10.5,2,A ,18.857142857142858,7, B
+university,10,A,4.0,1,A ,5.5,2,A 
+department,10,A,8.0,1,A ,15.0,6,A B
+percentage,10,A,10.0,1,A ,13.0,4, B
+securities,10,A,6.0,1,A ,8.333333333333334,3,A 
+television,10,A,12.0,1,A ,20.0,2, B
+regulators,10,A,7.0,1,A ,7.6,10,A B
+securities,10,A,6.0,1,A ,8.333333333333334,3,A 
+settlement,10,A,4.0,1,A ,15.0,3,A B
+conference,10,A,7.0,1,A ,8.666666666666666,3,A 
+volatility,10,A,16.0,1, B,0,0, 
+conditions,10,A,7.0,1,A ,0,0, 
+protection,10,A,8.0,1,A ,9.055555555555555,18,A B
+management,10,A,13.0,1, B,11.923076923076923,13,A B
+activities,10,A,3.0,1,A ,8.171052631578947,76,A B
+opposition,10,A,6.0,1,A ,11.666666666666666,3,A B
+provisions,10,A,4.0,1,A ,7.5,2,A B
+economists,10,A,15.0,1, B,13.0,4,A 
+investment,10,A,7.0,1,A ,13.333333333333334,3,A B
+debentures,10,A,4.0,1,A ,0,0, 
+facilities,10,A,8.0,1,A ,11.045454545454545,22,A B
+consultant,10,A,9.0,1,A ,13.461538461538462,13,A B
+commission,10,A,18.0,1, B,14.947368421052632,19,A B
+bankruptcy,10,A,7.0,1,A ,0,0, 
+difference,10,A,7.0,1,A ,10.5,8,A 
+properties,10,A,10.0,1,A ,10.954545454545455,22,A B
+industries,10,A,20.0,1, B,14.703703703703704,27,A B
+retirement,10,A,6.0,1,A ,0,0, 
+confidence,10,A,9.0,1,A ,0,0, 
+industries,10,A,20.0,1, B,14.703703703703704,27,A B
+industries,10,A,20.0,1, B,14.703703703703704,27,A B
+experience,10,A,9.0,1,A ,12.0,2,A 
+newspapers,10,A,5.0,1,A ,8.5,4,A B
+defendants,10,A,8.0,1,A ,9.0,2,A 
+technology,10,A,10.5,2,A ,18.857142857142858,7, B
+navigation,10,A,8.0,1,A ,16.0,3, B
+employment,10,A,5.0,1,A ,0,0, 
+accounting,10,A,11.0,1,A ,0,0, 
+leadership,10,A,8.0,1,A ,6.666666666666667,3,A B
+agreements,10,A,9.0,1,A ,12.3125,16,A B
+scientists,10,A,6.0,1,A ,13.15,20,A B
+guidelines,10,A,4.0,1,A ,0,0, 
+candidates,10,A,10.0,1,A ,11.5,6,A B
+assistance,10,A,8.0,1,A ,7.333333333333333,12,A 
+litigation,10,A,10.0,1,A ,16.0,2, B
+associates,10,A,4.0,1,A ,8.363636363636363,11,A 
+suspension,10,A,7.0,1,A ,6.75,4,A 
+strategies,10,A,12.0,1, B,10.272727272727273,11,A B
+specialist,10,A,6.0,1,A ,11.61111111111111,18,A B
+colleagues,10,A,9.0,1,A ,0,0, 
+initiative,10,A,5.0,1,A ,0,0, 
+collection,10,A,5.0,1,A ,8.236559139784946,93,A B
+compromise,10,A,11.0,1,A ,0,0, 
+generation,10,A,6.0,1,A ,10.5,2, B
+obligation,10,A,13.0,1, B,11.0,14,A B
+pittsburgh,10,A,0,0, ,0,0, 
+population,10,A,6.0,1,A ,9.0,1, B
+currencies,10,A,16.0,1, B,8.333333333333334,6,A B
+membership,10,A,4.0,1,A ,0,0, 
+guarantees,10,A,9.0,1,A ,9.0,3,A B
+restaurant,10,A,8.0,1,A ,7.933333333333334,15,A B
+complaints,10,A,8.0,1,A ,8.5,2,A B
+university,10,A,4.0,1,A ,5.5,2,A 
+statements,10,A,7.0,1,A ,9.928571428571429,42,A B
+republican,10,A,10.0,1,A ,0,0, 
+commitment,10,A,11.0,1,A ,10.0,1,A 
+connection,10,A,8.0,1,A ,9.333333333333334,9,A 
+publishing,10,A,20.0,1, B,13.75,4,A B
+resistance,10,A,6.0,1,A ,11.666666666666666,3,A B
+machinists,10,A,9.0,1,A ,0,0, 
+portfolios,10,A,4.0,1,A ,0,0, 
+violations,10,A,5.0,1,A ,12.2,5,A B
+reputation,10,A,5.0,1,A ,6.0,5,A B
+chancellor,10,A,15.0,1, B,0,0, 
+incentives,10,A,14.0,1, B,10.0,1, B
+procedures,10,A,8.0,1,A ,12.8125,16,A B
+regulation,10,A,4.0,1,A ,7.75,4,A B
+cincinnati,10,A,0,0, ,0,0, 
+indication,10,A,13.0,1,A ,7.75,12,A B
+indicators,10,A,4.0,1,A ,12.333333333333334,6, B
+importance,10,A,5.0,1,A ,9.2,10,A B
+assumption,10,A,9.0,1,A ,9.4,5,A B
+processing,10,A,7.0,1,A ,10.6,5,A B
+individual,10,A,9.5,2,A B,8.059701492537313,402,A B
+parliament,10,A,11.0,1,A ,11.333333333333334,3,A B
+developers,10,A,7.0,1,A ,0,0, 
+permission,10,A,8.0,1,A ,7.0,8,A B
+resolution,10,A,8.0,1,A ,15.0,1, B
+difficulty,10,A,6.0,1,A ,7.0,2,A B
+comparison,10,A,11.0,1,A ,9.0,5,A 
+interstate,10,A,7.0,1,A ,0,0, 
+equivalent,10,A,9.0,1,A ,10.5,2,A 
+statistics,10,A,18.0,1, B,14.666666666666666,3,A B
+supporters,10,A,8.0,1,A ,8.958333333333334,24,A B
+associates,10,A,4.0,1,A ,8.363636363636363,11,A 
+contractor,10,A,7.0,1,A ,12.0,4,A B
+mainframes,10,A,15.0,1, B,13.0,1,A 
+disclosure,10,A,9.0,1, B,7.777777777777778,9,A 
+associates,10,A,4.0,1,A ,8.363636363636363,11,A 
+resolution,10,A,8.0,1,A ,15.0,1, B
+bankruptcy,10,A,7.0,1,A ,0,0, 
+collateral,10,A,16.0,1, B,9.0,1,A 
+government,10,A,6.0,1,A ,12.4375,16,A B
+foreigners,10,A,8.0,1,A ,5.6,5,A B
+reductions,10,A,17.0,1, B,10.0,25,A B
+turnaround,10,A,8.0,1, B,0,0, 
+withdrawal,10,A,10.0,1,A ,0,0, 
+discipline,10,A,15.0,1, B,9.95,20,A B
+injunction,10,A,7.0,1,A ,0,0, 
+strategist,10,A,7.0,1,A ,16.0,1, B
+quotations,10,A,4.0,1,A ,13.0,2,A B
+newsletter,10,A,6.0,1,A ,12.0,1, B
+indictment,10,A,13.0,1, B,10.0,2, B
+committees,10,A,18.0,1, B,14.947368421052632,19,A B
+expiration,10,A,3.0,1,A ,0,0, 
+structures,10,A,8.0,1,A ,8.015625,64,A B
+competitor,10,A,10.0,1,A ,7.583333333333333,12,A B
+compliance,10,A,11.0,1,A ,7.0,4,A 
+characters,10,A,14.0,1, B,0,0, 
+sacramento,10,A,0,0, ,0,0, 
+redemption,10,A,6.0,1,A ,9.666666666666666,3,A 
+adjustment,10,A,11.0,1,A ,11.25,4,A 
+experiment,10,A,18.0,1, B,15.75,4,A B
+affiliates,10,A,9.0,1,A ,0,0, 
+cigarettes,10,A,13.0,1, B,10.666666666666666,3,A B
+rothschild,10,A,0,0, ,0,0, 
+plaintiffs,10,A,8.0,1,A ,4.0,1,A 
+discussion,10,A,13.0,1,A ,8.0,5,A 
+securities,10,A,6.0,1,A ,8.333333333333334,3,A 
+conspiracy,10,A,9.0,1,A ,19.0,1, B
+bradstreet,10,A,0,0, ,0,0, 
+automobile,10,A,12.0,1, B,7.967741935483871,31,A B
+consortium,10,A,11.0,1,A ,5.0,1,A 
+conviction,10,A,6.0,1,A ,10.0,1,A 
+conversion,10,A,14.0,1,A ,12.666666666666666,3,A 
+protection,10,A,8.0,1,A ,9.055555555555555,18,A B
+economists,10,A,15.0,1, B,13.0,4,A 
+conclusion,10,A,8.0,1,A ,16.0,1,A 
+completion,10,A,8.0,1,A ,0,0, 
+louisville,10,A,0,0, ,0,0, 
+commercial,10,A,2.0,1,A ,11.0,1,A 
+purchasing,10,A,8.0,1,A ,11.666666666666666,3,A B
+efficiency,10,A,5.0,1,A ,13.0,1, B
+promotions,10,A,7.0,1,A ,9.428571428571429,7,A B
+categories,10,A,10.0,1,A ,12.636363636363637,11,A B
+pesticides,10,A,8.0,1,A ,9.0,8,A B
+perception,10,A,14.0,1,A ,8.333333333333334,3,A B
+atmosphere,10,A,9.0,1,A ,6.75,4,A B
+foundation,10,A,8.0,1,A ,8.5,2,A B
+steelmaker,10,A,5.0,1,A ,0,0, 
+assessment,10,A,14.0,1,A ,11.0,6,A B
+psychology,10,A,7.0,1,A ,19.2,10,A B
+passengers,10,A,8.0,1,A ,8.2,5,A 
+maturities,10,A,10.0,1, B,5.0,1,A 
+background,10,A,11.0,1,A ,0,0, 
+popularity,10,A,7.0,1,A ,8.0,1, B
+publishers,10,A,4.0,1,A ,8.5,2,A 
+appearance,10,A,7.0,1,A ,8.448275862068966,29,A B
+definition,10,A,11.0,1,A ,18.428571428571427,7,A B
+households,10,A,4.0,1,A ,11.833333333333334,6, B
+components,10,A,4.0,1,A ,10.666666666666666,3,A B
+objectives,10,A,4.0,1,A ,5.75,4,A 
+wellington,10,A,0,0, ,0,0, 
+acceptance,10,A,8.0,1,A ,9.5,2,A 
+protesters,10,A,6.0,1,A ,14.25,4,A B
+foundation,10,A,8.0,1,A ,8.5,2,A B
+researcher,10,A,9.0,1,A ,9.0,4,A 
+wrongdoing,10,A,4.0,1,A ,0,0, 
+revolution,10,A,6.0,1,A ,16.5,2, B
+president,9,A,18.0,1, B,0,0, 
+companies,9,A,11.0,1,A ,12.722222222222221,36,A B
+investors,9,A,10.0,1,A ,7.444444444444445,9,A 
+yesterday,9,A,3.0,1,A ,0,0, 
+officials,9,A,13.0,1, B,9.6875,48,A B
+executive,9,A,13.0,1,A ,12.4,5,A B
+spokesman,9,A,12.0,1,A ,0,0, 
+agreement,9,A,9.0,1,A ,12.3125,16,A B
+september,9,A,22.0,1, B,0,0, 
+insurance,9,A,8.0,1,A ,15.285714285714286,14,A B
+president,9,A,18.0,1, B,0,0, 
+employees,9,A,6.0,1,A ,8.875,40,A B
+customers,9,A,8.0,1,A ,7.7,10,A 
+contracts,9,A,16.0,1, B,14.357142857142858,28,A B
+inflation,9,A,15.0,1, B,14.5,4,A B
+equipment,9,A,15.0,1,A ,13.217391304347826,23,A B
+statement,9,A,7.0,1,A ,9.928571428571429,42,A B
+computers,9,A,7.0,1,A ,11.2,10,A B
+financing,9,A,7.0,1,A ,0,0, 
+countries,9,A,13.0,1, B,10.181818181818182,11,A B
+marketing,9,A,8.0,1,A ,9.375,16,A B
+brokerage,9,A,33.0,1, B,13.5,2, B
+portfolio,9,A,4.0,1,A ,0,0, 
+committee,9,A,18.0,1, B,14.947368421052632,19,A B
+committee,9,A,18.0,1, B,14.947368421052632,19,A B
+interests,9,A,9.0,1,A ,8.5,2,A 
+producers,9,A,5.0,1,A ,12.0,5,A B
+wednesday,9,A,7.0,1,A ,0,0, 
+directors,9,A,13.0,1,A ,12.0,3,A B
+increases,9,A,18.0,1, B,9.0,1,A 
+institute,9,A,11.0,1,A ,0,0, 
+arbitrage,9,A,9.0,1,A ,13.0,1, B
+situation,9,A,5.0,1,A ,8.826086956521738,23,A B
+telephone,9,A,19.0,1, B,10.428571428571429,7,A B
+recession,9,A,17.0,1, B,0,0, 
+estimates,9,A,11.0,1,A ,10.0,6,A B
+secretary,9,A,4.0,1,A ,21.466666666666665,15,A B
+newspaper,9,A,5.0,1,A ,8.5,4,A B
+creditors,9,A,6.0,1,A ,9.0,1,A 
+operation,9,A,6.0,1,A ,7.0,3,A 
+economist,9,A,15.0,1, B,13.0,4,A 
+questions,9,A,11.0,1,A ,0,0, 
+consumers,9,A,4.0,1,A ,7.333333333333333,9,A 
+positions,9,A,5.0,1,A ,6.380952380952381,21,A B
+interview,9,A,13.0,1,A ,15.0,2, B
+provision,9,A,9.0,1,A ,0,0, 
+yesterday,9,A,3.0,1,A ,0,0, 
+exchanges,9,A,18.0,1, B,21.0,1, B
+manhattan,9,A,0,0, ,0,0, 
+gorbachev,9,A,0,0, ,0,0, 
+standards,9,A,19.0,1, B,10.8,10,A B
+insurance,9,A,8.0,1,A ,15.285714285714286,14,A B
+americans,9,A,10.0,1,A ,9.897058823529411,68,A B
+dividends,9,A,9.0,1, B,12.25,4,A B
+australia,9,A,0,0, ,0,0, 
+afternoon,9,A,3.0,1,A ,0,0, 
+secretary,9,A,4.0,1,A ,21.466666666666665,15,A B
+purchases,9,A,11.0,1,A ,8.0,2,A 
+attention,9,A,21.0,1, B,7.5,6,A 
+emergency,9,A,6.0,1,A ,0,0, 
+expansion,9,A,8.0,1,A ,9.833333333333334,6,A 
+community,9,A,9.0,1,A ,7.545454545454546,11,A B
+mortgages,9,A,16.0,1, B,14.0,3, B
+reduction,9,A,17.0,1, B,10.0,25,A B
+materials,9,A,9.0,1,A ,8.980392156862745,51,A B
+treatment,9,A,4.0,1,A ,11.294117647058824,17,A B
+ownership,9,A,8.0,1,A ,12.142857142857142,7,A B
+authority,9,A,7.0,1,A ,10.0,7,A B
+democrats,9,A,10.0,1,A ,0,0, 
+investors,9,A,10.0,1,A ,7.444444444444445,9,A 
+hurricane,9,A,7.0,1,A ,0,0, 
+proposals,9,A,7.0,1,A ,10.571428571428571,7,A 
+liquidity,9,A,13.0,1, B,0,0, 
+elections,9,A,4.0,1,A ,9.8,5,A B
+magazines,9,A,8.0,2,A ,9.833333333333334,6,A B
+lawmakers,9,A,6.0,1,A ,10.5,2,A 
+chemicals,9,A,8.0,1,A ,9.272727272727273,22,A B
+advantage,9,A,5.0,1,A ,8.466666666666667,15,A B
+direction,9,A,4.0,1,A ,10.666666666666666,6,A B
+education,9,A,8.0,1,A ,14.9,10,A B
+commodity,9,A,8.0,1,A ,8.866666666666667,15,A B
+practices,9,A,8.0,1,A ,9.366666666666667,30,A B
+resources,9,A,6.0,1,A ,11.0,5,A B
+thousands,9,A,12.0,1, B,9.0,1,A 
+frankfurt,9,A,0,0, ,0,0, 
+buildings,9,A,9.0,1,A ,9.346153846153847,52,A B
+relations,9,A,14.0,1, B,0,0, 
+community,9,A,9.0,1,A ,7.545454545454546,11,A B
+hollywood,9,A,12.0,1, B,0,0, 
+liability,9,A,14.0,1,A ,10.0,2,A 
+structure,9,A,8.0,1,A ,8.015625,64,A B
+residents,9,A,10.0,1,A ,8.714285714285714,14,A 
+singapore,9,A,0,0, ,0,0, 
+prospects,9,A,9.0,1,A ,0,0, 
+documents,9,A,7.0,1,A ,8.95,20,A B
+decisions,9,A,6.0,1,A ,8.0,5,A B
+reporters,9,A,12.0,1,A ,13.5,2,A B
+professor,9,A,11.0,1,A ,16.2,5, B
+telephone,9,A,19.0,1, B,10.428571428571429,7,A B
+retailers,9,A,9.5,2,A ,8.0,2,A 
+publisher,9,A,4.0,1,A ,8.5,2,A 
+petroleum,9,A,6.5,2,A B,11.0,1, B
+criticism,9,A,11.0,1,A ,7.1,10,A 
+utilities,9,A,7.0,1,A ,12.0,5, B
+shipments,9,A,11.0,1,A ,0,0, 
+taxpayers,9,A,5.0,1,A ,9.0,1,A 
+takeovers,9,A,11.0,1, B,11.0,1,A 
+condition,9,A,5.0,1,A ,10.216216216216216,111,A B
+offerings,9,A,7.0,1,A ,10.166666666666666,12,A B
+beginning,9,A,9.0,1,A ,8.125,8,A B
+specialty,9,A,5.0,1,A ,10.0,1, B
+observers,9,A,6.0,1,A ,7.5,10,A B
+attorneys,9,A,12.0,1,A ,11.272727272727273,11,A B
+officials,9,A,13.0,1, B,9.6875,48,A B
+forecasts,9,A,10.0,1,A ,16.0,2, B
+personnel,9,A,12.0,1,A ,11.571428571428571,14,A B
+influence,9,A,5.0,1,A ,5.666666666666667,3,A B
+hampshire,9,A,0,0, ,0,0, 
+amendment,9,A,10.0,1,A ,0,0, 
+household,9,A,4.0,1,A ,11.833333333333334,6, B
+democracy,9,A,20.0,1, B,0,0, 
+retailing,9,A,7.0,1,A ,0,0, 
+pressures,9,A,18.0,1, B,12.545454545454545,11,A B
+divisions,9,A,8.0,1, B,13.0,1, B
+affiliate,9,A,9.0,1,A ,0,0, 
+christmas,9,A,6.0,1,A ,0,0, 
+syndicate,9,A,14.0,1, B,5.0,1,A 
+subsidies,9,A,5.0,1,A ,11.0,2,A B
+challenge,9,A,9.0,1,A ,0,0, 
+authority,9,A,7.0,1,A ,10.0,7,A B
+paintings,9,A,10.0,1, B,9.1,20,A B
+baltimore,9,A,0,0, ,0,0, 
+nicaragua,9,A,0,0, ,0,0, 
+benchmark,9,A,8.0,1,A ,0,0, 
+consensus,9,A,9.0,1,A ,0,0, 
+developer,9,A,7.0,1,A ,0,0, 
+equipment,9,A,15.0,1,A ,13.217391304347826,23,A B
+cleveland,9,A,0,0, ,0,0, 
+potential,9,A,11.0,1,A ,7.5,2,A 
+aerospace,9,A,6.0,1,A ,0,0, 
+principal,9,A,4.0,1,A ,0,0, 
+resources,9,A,6.0,1,A ,11.0,5,A B
+editorial,9,A,7.0,1,A ,11.0,1, B
+promotion,9,A,7.0,1,A ,9.428571428571429,7,A B
+candidate,9,A,10.0,1,A ,11.5,6,A B
+donations,9,A,4.0,1,A ,13.333333333333334,3,A B
+operators,9,A,8.0,1,A ,11.0,2,A B
+franchise,9,A,10.0,1,A ,0,0, 
+composite,9,A,5.0,1,A ,7.0,2,A 
+successor,9,A,4.0,1,A ,0,0, 
+guarantee,9,A,9.0,1,A ,9.0,3,A B
+principle,9,A,14.0,1,A ,5.25,4,A B
+investors,9,A,10.0,1,A ,7.444444444444445,9,A 
+departure,9,A,3.0,1,A ,8.8,10,A B
+communist,9,A,10.0,1,A ,0,0, 
+testimony,9,A,8.0,1,A ,9.8,5,A 
+abortions,9,A,11.0,1,A ,17.0,2, B
+packaging,9,A,20.0,1, B,11.0,2,A 
+character,9,A,14.0,1, B,0,0, 
+companies,9,A,11.0,1,A ,12.722222222222221,36,A B
+machinery,9,A,7.0,1,A ,6.0,2,A 
+telegraph,9,A,9.0,1,A ,0,0, 
+activists,9,A,8.0,1,A ,11.5,2, B
+engineers,9,A,6.0,1,A ,14.461538461538462,13,A B
+borrowing,9,A,13.0,1,A ,13.0,3,A 
+northeast,9,A,12.0,1, B,0,0, 
+cosmetics,9,A,8.0,1,A ,8.6,5,A B
+employers,9,A,6.0,1,A ,7.2,5,A B
+penalties,9,A,13.0,1, B,12.545454545454545,11,A B
+factories,9,A,5.0,1,A ,10.363636363636363,11,A B
+gyrations,9,A,7.0,1,A ,11.6,5,A B
+stability,9,A,10.0,1,A ,0,0, 
+arguments,9,A,8.0,1,A ,7.777777777777778,9,A B
+mainframe,9,A,15.0,1, B,13.0,1,A 
+districts,9,A,6.0,1,A ,13.125,16,A B
+technique,9,A,6.0,1,A ,11.857142857142858,7,A B
+resources,9,A,6.0,1,A ,11.0,5,A B
+bethlehem,9,A,0,0, ,0,0, 
+commodity,9,A,8.0,1,A ,8.866666666666667,15,A B
+incentive,9,A,14.0,1, B,10.0,1, B
+assistant,9,A,6.0,1,A ,9.518518518518519,27,A B
+hospitals,9,A,15.0,1, B,12.0,6,A B
+investors,9,A,10.0,1,A ,7.444444444444445,9,A 
+aerospace,9,A,6.0,1,A ,0,0, 
+coalition,9,A,12.0,1,A ,9.272727272727273,11,A B
+pollution,9,A,15.0,2,A B,17.166666666666668,6, B
+financier,9,A,10.0,1,A ,7.333333333333333,3,A B
+alexander,9,A,4.0,1,A ,0,0, 
+inventory,9,A,4.0,1,A ,14.0,1, B
+sentiment,9,A,7.0,1,A ,11.5,2,A 
+sanctions,9,A,8.0,1,A ,5.333333333333333,3,A B
+composite,9,A,5.0,1,A ,7.0,2,A 
+petroleum,9,A,6.5,2,A B,11.0,1, B
+tennessee,9,A,0,0, ,0,0, 
+economies,9,A,6.0,1,A ,14.0,6,A B
+northwest,9,A,0,0, ,0,0, 
+passenger,9,A,8.0,1,A ,8.2,5,A 
+suppliers,9,A,14.0,1,A ,9.11111111111111,9,A B
+violation,9,A,5.0,1,A ,12.2,5,A B
+apartment,9,A,7.0,1,A ,12.363636363636363,11,A B
+opponents,9,A,10.0,1,A ,0,0, 
+defendant,9,A,8.0,1,A ,9.0,2,A 
+economics,9,A,13.0,1, B,13.4,5,A B
+extension,9,A,5.0,1,A ,0,0, 
+exchequer,9,A,5.0,1,A ,9.0,4,A B
+charities,9,A,10.0,1,A ,17.666666666666668,3, B
+confusion,9,A,8.0,1,A ,9.8,5,A 
+aftermath,9,A,11.0,1,A ,0,0, 
+complaint,9,A,8.0,1,A ,8.5,2,A B
+executive,9,A,13.0,1,A ,12.4,5,A B
+ministers,9,A,9.0,1,A ,10.0,1,A 
+americans,9,A,10.0,1,A ,9.897058823529411,68,A B
+robertson,9,A,0,0, ,0,0, 
+frederick,9,A,0,0, ,0,0, 
+terrorism,9,A,6.0,1,A ,16.09090909090909,11,A B
+education,9,A,8.0,1,A ,14.9,10,A B
+execution,9,A,18.0,1, B,10.0,5,A 
+advocates,9,A,6.0,1,A ,10.236842105263158,38,A 
+clearance,9,A,8.0,1,A ,0,0, 
+disasters,9,A,9.0,1,A ,0,0, 
+discounts,9,A,8.0,1,A ,0,0, 
+indicator,9,A,4.0,1,A ,12.333333333333334,6, B
+democrats,9,A,10.0,1,A ,0,0, 
+rochester,9,A,0,0, ,0,0, 
+furniture,9,A,10.0,1,A ,8.666666666666666,24,A B
+minnesota,9,A,0,0, ,0,0, 
+regulator,9,A,7.0,1,A ,7.6,10,A B
+hurricane,9,A,7.0,1,A ,0,0, 
+knowledge,9,A,20.0,1, B,8.526315789473685,19,A B
+rejection,9,A,3.0,1,A ,10.857142857142858,7,A 
+carpenter,9,A,10.0,1,A ,0,0, 
+mortality,9,A,12.0,1,A ,0,0, 
+broadcast,9,A,7.0,1,A ,10.0,5,A B
+campaigns,9,A,4.0,1,A ,14.0,2, B
+cigarette,9,A,13.0,1, B,10.666666666666666,3,A B
+movements,9,A,6.0,1,A ,7.878048780487805,41,A B
+universal,9,A,4.0,1,A ,0,0, 
+functions,9,A,20.0,1, B,12.818181818181818,11,A B
+wisconsin,9,A,0,0, ,0,0, 
+amendment,9,A,10.0,1,A ,0,0, 
+intention,9,A,4.0,1,A ,6.5,6,A B
+institute,9,A,11.0,1,A ,0,0, 
+solutions,9,A,7.0,1,A ,10.772727272727273,22,A B
+remainder,9,A,4.0,1,A ,8.0,1,A 
+treasurer,9,A,12.0,1, B,10.333333333333334,3,A B
+locations,9,A,6.0,1,A ,6.1923076923076925,26,A B
+stockholm,9,A,0,0, ,0,0, 
+exception,9,A,8.0,1,A ,0,0, 
+territory,9,A,6.0,1,A ,13.125,16,A B
+publicity,9,A,7.0,1,A ,9.428571428571429,7,A B
+witnesses,9,A,8.0,2,A ,8.5,2,A 
+expertise,9,A,12.0,1,A ,14.5,2,A 
+tradition,9,A,7.0,1,A ,0,0, 
+greenwich,9,A,0,0, ,0,0, 
+apartheid,9,A,12.0,1, B,0,0, 
+sidelines,9,A,4.0,1,A ,9.0,1,A 
+business,8,A,10.0,1,A ,8.818181818181818,11,A 
+interest,8,A,9.0,1,A ,8.5,2,A 
+earnings,8,A,6.0,1,A ,10.222222222222221,9,A B
+industry,8,A,20.0,1, B,14.703703703703704,27,A B
+exchange,8,A,18.0,1, B,21.0,1, B
+chairman,8,A,16.0,1, B,11.0,2, B
+analysts,8,A,6.0,1,A ,13.333333333333334,3,A B
+products,8,A,9.0,1,A ,8.0,15,A B
+american,8,A,10.0,1,A ,9.897058823529411,68,A B
+national,8,A,6.0,1,A ,8.0,3,A 
+contract,8,A,16.0,1, B,14.357142857142858,28,A B
+congress,8,A,11.0,1,A ,0,0, 
+treasury,8,A,5.0,1,A ,9.0,4,A B
+director,8,A,13.0,1,A ,12.0,3,A B
+computer,8,A,7.0,1,A ,11.2,10,A B
+problems,8,A,10.0,1,A ,18.5,2, B
+exchange,8,A,18.0,1, B,21.0,1, B
+takeover,8,A,11.0,1, B,11.0,1,A 
+increase,8,A,18.0,1, B,9.0,1,A 
+services,8,A,10.0,1,A ,0,0, 
+research,8,A,13.0,1,A ,12.833333333333334,6,A B
+addition,8,A,9.0,1,A ,9.0,5,A 
+proposal,8,A,7.0,1,A ,10.571428571428571,7,A 
+investor,8,A,10.0,1,A ,7.444444444444445,9,A 
+programs,8,A,4.0,1,A ,10.0,13,A B
+offering,8,A,7.0,1,A ,10.166666666666666,12,A B
+position,8,A,5.0,1,A ,6.380952380952381,21,A B
+decision,8,A,6.0,1,A ,8.0,5,A B
+managers,8,A,13.0,1,A ,12.0,3,A B
+division,8,A,8.0,1, B,13.0,1, B
+spending,8,A,7.0,1,A ,12.0,2,A B
+chairman,8,A,16.0,1, B,11.0,2, B
+official,8,A,13.0,1, B,9.6875,48,A B
+purchase,8,A,11.0,1,A ,8.0,2,A 
+consumer,8,A,4.0,1,A ,7.333333333333333,9,A 
+dividend,8,A,9.0,1, B,12.25,4,A B
+approval,8,A,7.0,1,A ,7.75,4,A 
+payments,8,A,4.0,1,A ,9.0,28,A B
+columbia,8,A,0,0, ,0,0, 
+magazine,8,A,8.0,2,A ,9.833333333333334,6,A B
+currency,8,A,16.0,1, B,8.333333333333334,6,A B
+strategy,8,A,12.0,1, B,10.272727272727273,11,A B
+building,8,A,9.0,1,A ,9.346153846153847,52,A B
+pressure,8,A,18.0,1, B,12.545454545454545,11,A B
+activity,8,A,3.0,1,A ,8.171052631578947,76,A B
+campaign,8,A,4.0,1,A ,14.0,2, B
+concerns,8,A,8.0,1,A ,10.4,5,A B
+property,8,A,10.0,1,A ,10.954545454545455,22,A B
+mortgage,8,A,16.0,1, B,14.0,3, B
+reserves,8,A,12.0,1, B,5.5,2,A 
+question,8,A,11.0,1,A ,0,0, 
+analysts,8,A,6.0,1,A ,13.333333333333334,3,A B
+thursday,8,A,7.0,1,A ,0,0, 
+attorney,8,A,12.0,1,A ,11.272727272727273,11,A B
+december,8,A,22.0,1, B,0,0, 
+delivery,8,A,14.0,1,A ,7.2,5,A 
+accounts,8,A,6.0,1,A ,10.571428571428571,7,A B
+projects,8,A,4.0,1,A ,8.545454545454545,11,A B
+business,8,A,10.0,1,A ,8.818181818181818,11,A 
+abortion,8,A,11.0,1,A ,17.0,2, B
+children,8,A,8.0,1,A ,7.294117647058823,17,A B
+majority,8,A,6.0,1,A ,0,0, 
+capacity,8,A,10.0,1,A ,0,0, 
+agencies,8,A,18.0,1, B,26.890625,64,A B
+evidence,8,A,11.0,1,A ,6.833333333333333,6,A B
+benefits,8,A,7.0,1,A ,14.166666666666666,6, B
+response,8,A,11.0,1,A ,8.0,1,A 
+software,8,A,4.0,1,A ,14.055555555555555,18,A B
+instance,8,A,9.0,1,A ,6.666666666666667,3,A 
+machines,8,A,6.0,1,A ,9.333333333333334,42,A B
+expenses,8,A,4.0,1,A ,14.75,8, B
+security,8,A,6.0,1,A ,8.333333333333334,3,A 
+customer,8,A,8.0,1,A ,7.7,10,A 
+research,8,A,13.0,1,A ,12.833333333333334,6,A B
+chemical,8,A,8.0,1,A ,9.272727272727273,22,A B
+estimate,8,A,11.0,1,A ,10.0,6,A B
+producer,8,A,5.0,1,A ,12.0,5,A B
+electric,8,A,3.0,1,A ,0,0, 
+holdings,8,A,10.0,1,A ,9.0,2,A 
+commerce,8,A,11.0,1,A ,10.066666666666666,15,A B
+november,8,A,22.0,1, B,0,0, 
+discount,8,A,8.0,1,A ,0,0, 
+policies,8,A,12.0,1, B,12.875,8,A B
+district,8,A,6.0,1,A ,13.125,16,A B
+computer,8,A,7.0,1,A ,11.2,10,A B
+strength,8,A,8.0,1,A ,8.916666666666666,12,A B
+declines,8,A,8.0,1,A ,8.375,8,A B
+thatcher,8,A,0,0, ,0,0, 
+security,8,A,6.0,1,A ,8.333333333333334,3,A 
+airlines,8,A,4.0,1,A ,0,0, 
+students,8,A,8.0,1,A ,9.25,20,A B
+airlines,8,A,4.0,1,A ,0,0, 
+practice,8,A,8.0,1,A ,9.366666666666667,30,A B
+aircraft,8,A,5.0,1,A ,14.8,5,A B
+pentagon,8,A,0,0, ,0,0, 
+approach,8,A,17.0,1,A ,6.0,1,A 
+standard,8,A,19.0,1, B,10.8,10,A B
+collapse,8,A,7.0,1,A ,8.0,4,A 
+minister,8,A,9.0,1,A ,10.0,1,A 
+disaster,8,A,9.0,1,A ,0,0, 
+measures,8,A,8.0,1,A ,12.666666666666666,3,A B
+minority,8,A,11.0,1, B,0,0, 
+vehicles,8,A,10.0,1,A ,8.75,8,A B
+chemical,8,A,8.0,1,A ,9.272727272727273,22,A B
+facility,8,A,8.0,1,A ,11.045454545454545,22,A B
+tomorrow,8,A,3.0,1,A ,0,0, 
+deposits,8,A,20.0,1, B,4.0,1,A 
+recovery,8,A,11.0,1,A ,0,0, 
+weakness,8,A,12.0,1,A ,8.0,3,A 
+maturity,8,A,10.0,1, B,5.0,1,A 
+partners,8,A,11.5,2,A B,7.75,8,A 
+material,8,A,9.0,1,A ,8.980392156862745,51,A B
+election,8,A,4.0,1,A ,9.8,5,A B
+employee,8,A,6.0,1,A ,8.875,40,A B
+stations,8,A,7.0,2,A ,0,0, 
+brothers,8,A,11.0,1, B,11.333333333333334,3,A B
+slowdown,8,A,5.0,1,A ,0,0, 
+ministry,8,A,10.0,1,A ,0,0, 
+proceeds,8,A,6.0,1,A ,9.5,2,A B
+european,8,A,10.0,1,A ,7.75,64,A B
+airlines,8,A,4.0,1,A ,0,0, 
+hundreds,8,A,12.0,1, B,0,0, 
+ventures,8,A,11.0,1,A ,7.8,5,A B
+contrast,8,A,10.0,1,A ,0,0, 
+minister,8,A,9.0,1,A ,10.0,1,A 
+february,8,A,22.0,1, B,0,0, 
+reaction,8,A,15.0,1, B,15.117647058823529,17,A B
+families,8,A,4.0,1,A ,11.833333333333334,6, B
+warrants,8,A,4.0,1,A ,9.714285714285714,7,A B
+saturday,8,A,7.0,1,A ,0,0, 
+language,8,A,13.0,1,A ,11.9375,16,A B
+supplies,8,A,18.0,1, B,9.0,1,A 
+networks,8,A,6.0,1,A ,12.75,4,A B
+insurers,8,A,33.0,1, B,0,0, 
+services,8,A,10.0,1,A ,0,0, 
+operator,8,A,8.0,1,A ,11.0,2,A B
+meetings,8,A,9.0,1,A ,9.785714285714286,14,A B
+mortgage,8,A,16.0,1, B,14.0,3, B
+coverage,8,A,3.0,1,A ,0,0, 
+audience,8,A,9.0,1,A ,7.333333333333333,3,A 
+baseball,8,A,8.0,1, B,9.785714285714286,14,A B
+advisers,8,A,9.0,1,A ,13.461538461538462,13,A B
+movement,8,A,6.0,1,A ,7.878048780487805,41,A B
+senators,8,A,10.0,1,A ,12.0,1, B
+training,8,A,8.0,1,A ,11.11111111111111,9,A B
+millions,8,A,12.0,1, B,0,0, 
+quarters,8,A,7.0,1,A ,10.166666666666666,6,A B
+shopping,8,A,6.0,1,A ,9.0,1,A 
+patients,8,A,7.0,2,A B,9.6,10,A B
+district,8,A,6.0,1,A ,13.125,16,A B
+brothers,8,A,11.0,1, B,11.333333333333334,3,A B
+lawsuits,8,A,10.0,1,A ,10.0,6,A B
+mitchell,8,A,0,0, ,0,0, 
+forecast,8,A,10.0,1,A ,16.0,2, B
+presence,8,A,5.0,1,A ,8.222222222222221,9,A 
+troubles,8,A,10.0,1,A ,9.166666666666666,6,A B
+hearings,8,A,10.0,1,A ,15.0,4, B
+politics,8,A,14.0,1, B,0,0, 
+planning,8,A,11.0,1,A ,11.0,2,A B
+fidelity,8,A,8.0,1,A ,0,0, 
+carriers,8,A,8.0,1,A ,0,0, 
+exposure,8,A,13.0,1,A ,9.5,2,A 
+branches,8,A,8.0,1,A ,14.0,4, B
+lawrence,8,A,0,0, ,0,0, 
+carolina,8,A,0,0, ,0,0, 
+illinois,8,A,0,0, ,0,0, 
+pipeline,8,A,6.0,1,A ,0,0, 
+comments,8,A,9.0,1,A ,8.333333333333334,12,A B
+services,8,A,10.0,1,A ,0,0, 
+controls,8,A,5.0,1,A ,7.2,5,A B
+plastics,8,A,5.0,1,A ,13.5,18,A B
+marshall,8,A,0,0, ,0,0, 
+northrop,8,A,0,0, ,0,0, 
+officers,8,A,10.0,1,A ,13.5,14,A B
+billions,8,A,12.0,1, B,0,0, 
+progress,8,A,11.0,1,A ,8.0,3,A B
+atlantic,8,A,0,0, ,0,0, 
+retailer,8,A,9.5,2,A ,8.0,2,A 
+gasoline,8,A,7.5,2,A ,12.0,3,A B
+standard,8,A,19.0,1, B,10.8,10,A B
+merchant,8,A,14.0,1,A ,8.368421052631579,19,A B
+virginia,8,A,0,0, ,0,0, 
+revenues,8,A,3.0,1,A ,6.5,2,A B
+downturn,8,A,9.0,1,A ,8.0,1,A 
+hospital,8,A,15.0,1, B,12.0,6,A B
+japanese,8,A,5.0,1,A ,5.75,4,A 
+thompson,8,A,0,0, ,0,0, 
+features,8,A,8.0,1,A ,9.727272727272727,11,A B
+northern,8,A,13.0,1, B,0,0, 
+argument,8,A,8.0,1,A ,7.777777777777778,9,A B
+assembly,8,A,7.0,1,A ,10.0,2,A 
+deadline,8,A,5.0,1,A ,6.0,1,A 
+canadian,8,A,13.0,1, B,11.333333333333334,3,A B
+alliance,8,A,9.0,1,A ,0,0, 
+democrat,8,A,10.0,1,A ,0,0, 
+purposes,8,A,4.0,1,A ,6.5,6,A B
+priority,8,A,10.0,1, B,10.5,2, B
+holdings,8,A,10.0,1,A ,9.0,2,A 
+exercise,8,A,6.0,1,A ,11.5625,16,A B
+campbell,8,A,0,0, ,0,0, 
+location,8,A,6.0,1,A ,6.1923076923076925,26,A B
+japanese,8,A,5.0,1,A ,5.75,4,A 
+schedule,8,A,4.0,1,A ,4.0,1,A 
+attitude,8,A,9.0,1,A ,9.352941176470589,17,A B
+analysis,8,A,13.0,1,A ,12.857142857142858,7,A B
+supplier,8,A,14.0,1,A ,9.11111111111111,9,A B
+dealings,8,A,11.0,1,A ,8.0,1,A 
+behavior,8,A,8.0,1,A ,10.857142857142858,7,A B
+prospect,8,A,9.0,1,A ,0,0, 
+michigan,8,A,0,0, ,0,0, 
+category,8,A,10.0,1,A ,12.636363636363637,11,A B
+citizens,8,A,8.0,1,A ,8.857142857142858,7,A B
+ministry,8,A,10.0,1,A ,0,0, 
+turnover,8,A,5.0,1,A ,0,0, 
+premiums,8,A,7.0,1,A ,0,0, 
+surprise,8,A,12.0,1,A ,0,0, 
+football,8,A,10.5,2, B,11.75,4,A B
+machines,8,A,6.0,1,A ,9.333333333333334,42,A B
+breakers,8,A,4.0,1,A ,0,0, 
+leverage,8,A,20.0,1, B,0,0, 
+industry,8,A,20.0,1, B,14.703703703703704,27,A B
+nicholas,8,A,0,0, ,0,0, 
+asbestos,8,A,9.0,1,A ,9.5,2,A 
+reynolds,8,A,0,0, ,0,0, 
+imperial,8,A,5.0,1,A ,0,0, 
+sterling,8,A,5.0,1,A ,0,0, 
+packages,8,A,10.0,1,A ,4.0,1,A 
+versions,8,A,14.0,1,A ,13.0,1,A 
+holdings,8,A,10.0,1,A ,9.0,2,A 
+planners,8,A,6.0,1,A ,8.8,5,A 
+partners,8,A,11.5,2,A B,7.75,8,A 
+partners,8,A,11.5,2,A B,7.75,8,A 
+governor,8,A,10.0,1,A ,8.375,8,A B
+articles,8,A,7.5,2,A ,8.857142857142858,7,A B
+barriers,8,A,11.0,1,A ,8.2,15,A B
+segments,8,A,4.0,1,A ,6.666666666666667,6,A 
+sullivan,8,A,0,0, ,0,0, 
+teachers,8,A,8.0,1,A ,10.857142857142858,21,A B
+emphasis,8,A,10.0,1,A ,6.0,1,A 
+findings,8,A,10.0,1,A ,0,0, 
+director,8,A,13.0,1,A ,12.0,3,A B
+psyllium,8,A,8.0,1,A ,0,0, 
+mortgage,8,A,16.0,1, B,14.0,3, B
+malaysia,8,A,0,0, ,0,0, 
+mountain,8,A,16.0,1, B,5.25,4,A 
+requests,8,A,7.0,1,A ,9.666666666666666,3,A 
+attorney,8,A,12.0,1,A ,11.272727272727273,11,A B
+equities,8,A,6.0,1,A ,0,0, 
+refinery,8,A,5.0,1,A ,12.0,2, B
+anderson,8,A,0,0, ,0,0, 
+colorado,8,A,0,0, ,0,0, 
+maryland,8,A,0,0, ,0,0, 
+hamilton,8,A,0,0, ,0,0, 
+pictures,8,A,14.0,1,A ,7.416666666666667,12,A 
+showtime,8,A,5.0,1,A ,9.0,4,A B
+bartlett,8,A,0,0, ,0,0, 
+graphics,8,A,19.0,1, B,9.5,2,A 
+hardware,8,A,8.0,1,A ,0,0, 
+scenario,8,A,6.0,1,A ,0,0, 
+printing,8,A,7.0,1,A ,0,0, 
+oklahoma,8,A,0,0, ,0,0, 
+conflict,8,A,11.0,1, B,7.666666666666667,9,A B
+machines,8,A,6.0,1,A ,9.333333333333334,42,A B
+injuries,8,A,9.0,1, B,8.318181818181818,22,A B
+earnings,8,A,6.0,1,A ,10.222222222222221,9,A B
+solution,8,A,7.0,1,A ,10.772727272727273,22,A B
+somebody,8,A,9.5,2,A B,8.059701492537313,402,A B
+receipts,8,A,3.0,1,A ,6.5,2,A B
+momentum,8,A,5.0,1,A ,0,0, 
+missouri,8,A,0,0, ,0,0, 
+carnival,8,A,8.0,1,A ,9.0,1, B
+accident,8,A,6.0,1,A ,8.4,5,A B
+delaware,8,A,0,0, ,0,0, 
+sciences,8,A,10.0,1,A ,11.631578947368421,19,A B
+protests,8,A,9.0,1,A ,0,0, 
+brussels,8,A,0,0, ,0,0, 
+visitors,8,A,8.0,1,A ,9.5,4,A B
+franklin,8,A,0,0, ,0,0, 
+kentucky,8,A,0,0, ,0,0, 
+industry,8,A,20.0,1, B,14.703703703703704,27,A B
+proceeds,8,A,6.0,1,A ,9.5,2,A B
+attempts,8,A,8.0,1,A ,6.7368421052631575,19,A B
+employer,8,A,6.0,1,A ,7.2,5,A B
+staffers,8,A,8.0,1,A ,0,0, 
+williams,8,A,0,0, ,0,0, 
+struggle,8,A,7.0,1,A ,5.666666666666667,3,A 
+shortage,8,A,13.0,1,A ,13.0,1, B
+judgment,8,A,7.0,1,A ,8.0,1,A 
+document,8,A,7.0,1,A ,8.95,20,A B
+advances,8,A,16.0,1, B,7.0,1,A 
+products,8,A,9.0,1,A ,8.0,15,A B
+business,8,A,10.0,1,A ,8.818181818181818,11,A 
+berkeley,8,A,0,0, ,0,0, 
+polaroid,8,A,4.0,1,A ,0,0, 
+failures,8,A,17.0,1,A ,7.0,8,A 
+reporter,8,A,12.0,1,A ,13.5,2,A B
+tourists,8,A,8.0,1,A ,9.0,1,A 
+creditor,8,A,6.0,1,A ,9.0,1,A 
+hastings,8,A,0,0, ,0,0, 
+clothing,8,A,10.5,2,A B,8.787878787878787,33,A B
+republic,8,A,15.0,1, B,18.0,2, B
+creation,8,A,8.0,1,A ,13.714285714285714,7,A B
+interest,8,A,9.0,1,A ,8.5,2,A 
+guilders,8,A,22.0,1, B,0,0, 
+heritage,8,A,8.0,1,A ,0,0, 
+hospital,8,A,15.0,1, B,12.0,6,A B
+pictures,8,A,14.0,1,A ,7.416666666666667,12,A 
+japanese,8,A,5.0,1,A ,5.75,4,A 
+railroad,8,A,4.0,1,A ,9.571428571428571,7,A B
+aviation,8,A,10.0,1,A ,0,0, 
+salaries,8,A,14.0,1, B,9.090909090909092,11,A B
+downtown,8,A,12.0,1, B,11.0,1, B
+treasury,8,A,5.0,1,A ,9.0,4,A B
+standing,8,A,6.0,1,A ,7.875,8,A 
+sentence,8,A,13.0,1, B,14.142857142857142,7,A B
+shipping,8,A,20.0,1, B,8.833333333333334,6,A B
+brooklyn,8,A,0,0, ,0,0, 
+massacre,8,A,6.0,1,A ,9.0,1,A 
+colombia,8,A,0,0, ,0,0, 
+diseases,8,A,7.0,1,A ,13.307692307692308,39,A B
+painting,8,A,10.0,1, B,9.1,20,A B
+montreal,8,A,0,0, ,0,0, 
+meredith,8,A,0,0, ,0,0, 
+designer,8,A,10.0,1,A ,0,0, 
+goldberg,8,A,0,0, ,0,0, 
+aluminum,8,A,15.0,1, B,4.0,2,A 
+brothers,8,A,11.0,1, B,11.333333333333334,3,A B
+handling,8,A,11.0,1, B,11.0,3,A B
+displays,8,A,13.0,1,A ,7.5,2,A B
+provider,8,A,14.0,1,A ,9.11111111111111,9,A B
+shipyard,8,A,9.0,1,A ,8.0,1, B
+company,7,A,11.0,1,A ,12.722222222222221,36,A B
+trading,7,A,8.0,1,A ,12.2,5, B
+quarter,7,A,14.0,1, B,0,0, 
+program,7,A,4.0,1,A ,10.0,13,A B
+markets,7,A,8.0,1,A ,10.625,8,A B
+futures,7,A,4.0,1,A ,8.0,5,A B
+traders,7,A,8.0,1,A ,9.0625,16,A B
+concern,7,A,8.0,1,A ,10.4,5,A B
+officer,7,A,10.0,1,A ,13.5,14,A B
+revenue,7,A,3.0,1,A ,6.5,2,A B
+federal,7,A,6.0,1,A ,0,0, 
+economy,7,A,6.0,1,A ,14.0,6,A B
+analyst,7,A,6.0,1,A ,13.333333333333334,3,A B
+capital,7,A,6.0,1,A ,11.0,4,A B
+results,7,A,10.0,1,A ,10.25,24,A B
+country,7,A,13.0,1, B,10.181818181818182,11,A B
+chicago,7,A,0,0, ,0,0, 
+problem,7,A,10.0,1,A ,18.5,2, B
+service,7,A,4.0,1,A ,11.75,4,A B
+example,7,A,11.0,1,A ,8.5,6,A 
+october,7,A,22.0,1, B,0,0, 
+product,7,A,9.0,1,A ,8.0,15,A B
+decline,7,A,8.0,1,A ,8.375,8,A B
+members,7,A,9.0,1,A ,9.23076923076923,26,A B
+workers,7,A,6.0,1,A ,7.507042253521127,71,A B
+general,7,A,14.0,1, B,7.0,1,A 
+meeting,7,A,9.0,1,A ,9.785714285714286,14,A B
+america,7,A,0,0, ,0,0, 
+tuesday,7,A,7.0,1,A ,12.0,1,A 
+changes,7,A,9.0,1,A ,9.344827586206897,29,A B
+dollars,7,A,12.0,1, B,14.434782608695652,23, B
+manager,7,A,13.0,1,A ,12.0,3,A B
+control,7,A,5.0,1,A ,7.2,5,A B
+capital,7,A,6.0,1,A ,11.0,4,A B
+average,7,A,9.0,1,A ,5.25,4,A B
+options,7,A,20.0,1, B,11.25,8,A B
+support,7,A,8.0,1,A ,12.5,2,A B
+defense,7,A,14.0,1, B,12.666666666666666,9,A B
+charges,7,A,6.0,1,A ,13.0,1,A 
+germany,7,A,0,0, ,0,0, 
+britain,7,A,0,0, ,7.0,1,A 
+clients,7,A,4.0,1,A ,0,0, 
+systems,7,A,15.0,1,A ,12.928571428571429,28,A B
+holders,7,A,13.0,1, B,8.2,5,A B
+efforts,7,A,8.0,1,A ,6.7368421052631575,19,A B
+profits,7,A,6.0,1,A ,10.222222222222221,9,A B
+airline,7,A,4.0,1,A ,0,0, 
+network,7,A,6.0,1,A ,12.75,4,A B
+michael,7,A,9.0,1,A ,0,0, 
+banking,7,A,7.0,1,A ,0,0, 
+leaders,7,A,4.0,1,A ,7.5,2,A B
+figures,7,A,12.0,1,A ,0,0, 
+pacific,7,A,0,0, ,0,0, 
+venture,7,A,11.0,1,A ,7.8,5,A B
+account,7,A,6.0,1,A ,10.571428571428571,7,A B
+deficit,7,A,13.0,1,A ,13.0,1, B
+british,7,A,6.0,1,A ,0,0, 
+process,7,A,8.0,1,A ,12.8125,16,A B
+lawyers,7,A,12.0,1,A ,11.272727272727273,11,A B
+revenue,7,A,3.0,1,A ,6.5,2,A B
+reports,7,A,8.0,1,A ,10.125,8,A B
+selling,7,A,8.0,1,A ,9.375,16,A B
+dealers,7,A,8.0,1,A ,9.0625,16,A B
+auction,7,A,6.0,1,A ,0,0, 
+project,7,A,4.0,1,A ,8.545454545454545,11,A B
+reserve,7,A,9.0,1,A ,10.0,1,A 
+partner,7,A,11.5,2,A B,7.75,8,A 
+brokers,7,A,14.0,1,A ,11.875,8,A B
+session,7,A,10.0,1,A ,10.0,7,A B
+service,7,A,4.0,1,A ,11.75,4,A B
+morning,7,A,10.0,1, B,0,0, 
+journal,7,A,7.0,1,A ,6.0,1, B
+measure,7,A,8.0,1,A ,12.666666666666666,3,A B
+history,7,A,4.0,1,A ,0,0, 
+comment,7,A,9.0,1,A ,8.333333333333334,12,A B
+article,7,A,7.5,2,A ,8.857142857142858,7,A B
+express,7,A,4.0,1,A ,11.0,1, B
+nothing,7,A,16.0,1, B,7.0,2,A B
+justice,7,A,13.0,2,A B,6.5,2,A 
+average,7,A,9.0,1,A ,5.25,4,A B
+minutes,7,A,13.0,1, B,13.0,2,A B
+january,7,A,22.0,1, B,0,0, 
+ability,7,A,7.0,1,A ,11.76923076923077,13,A B
+quality,7,A,9.0,1,A ,10.585034013605442,147,A B
+returns,7,A,13.0,1, B,15.4,5, B
+exports,7,A,9.0,1,A ,0,0, 
+offices,7,A,15.0,1, B,11.5,8,A B
+imports,7,A,9.0,1,A ,0,0, 
+machine,7,A,6.0,1,A ,9.333333333333334,42,A B
+attempt,7,A,8.0,1,A ,6.7368421052631575,19,A B
+salomon,7,A,0,0, ,0,0, 
+finance,7,A,20.0,1, B,10.166666666666666,6,A B
+goldman,7,A,0,0, ,0,0, 
+payment,7,A,4.0,1,A ,9.0,28,A B
+margins,7,A,8.0,1,A ,3.0,1,A 
+charles,7,A,0,0, ,0,0, 
+bankers,7,A,9.0,1,A ,6.0,1,A 
+housing,7,A,9.0,1,A ,8.533333333333333,15,A B
+stanley,7,A,0,0, ,0,0, 
+package,7,A,10.0,1,A ,4.0,1,A 
+lincoln,7,A,0,0, ,0,0, 
+savings,7,A,4.0,1,A ,0,0, 
+weekend,7,A,10.0,1, B,0,0, 
+western,7,A,7.0,1,A ,16.0,1, B
+success,7,A,9.0,1,A ,7.25,4,A 
+carrier,7,A,8.0,1,A ,0,0, 
+premium,7,A,7.0,1,A ,0,0, 
+johnson,7,A,0,0, ,0,0, 
+amounts,7,A,6.0,1,A ,7.785714285714286,14,A B
+factors,7,A,5.0,1,A ,12.166666666666666,6,A B
+version,7,A,14.0,1,A ,13.0,1,A 
+trouble,7,A,10.0,1,A ,9.166666666666666,6,A B
+factory,7,A,5.0,1,A ,10.363636363636363,11,A B
+pension,7,A,14.0,1, B,14.0,1, B
+numbers,7,A,0,0, ,0,0, 
+experts,7,A,6.0,1,A ,9.232558139534884,43,A B
+actions,7,A,3.0,1,A ,9.212121212121213,33,A B
+traders,7,A,8.0,1,A ,9.0625,16,A B
+parties,7,A,12.0,1,A ,15.529411764705882,34,A B
+details,7,A,11.0,1,A ,4.0,1,A 
+savings,7,A,4.0,1,A ,0,0, 
+england,7,A,0,0, ,0,0, 
+houston,7,A,0,0, ,0,0, 
+sources,7,A,5.0,1,A ,9.5,10,A B
+players,7,A,10.0,1,A ,10.636363636363637,22,A B
+failure,7,A,17.0,1,A ,7.0,8,A 
+someone,7,A,9.5,2,A B,8.059701492537313,402,A B
+dispute,7,A,12.0,1,A ,7.5,4,A 
+victims,7,A,11.0,1,A ,7.909090909090909,11,A B
+florida,7,A,0,0, ,0,0, 
+arizona,7,A,0,0, ,0,0, 
+portion,7,A,8.0,1,A ,6.6,10,A B
+nations,7,A,13.0,1, B,10.181818181818182,11,A B
+thrifts,7,A,8.0,1,A ,9.0,1, B
+segment,7,A,4.0,1,A ,6.666666666666667,6,A 
+adviser,7,A,9.0,1,A ,13.461538461538462,13,A B
+balance,7,A,11.0,1,A ,13.333333333333334,3,A B
+effects,7,A,16.0,1, B,0,0, 
+reasons,7,A,14.0,1, B,5.333333333333333,3,A 
+ratings,7,A,9.0,1,A ,10.0,6,A B
+council,7,A,18.0,1, B,13.666666666666666,12,A B
+stephen,7,A,0,0, ,0,0, 
+funding,7,A,8.0,1,A ,0,0, 
+bidding,7,A,9.0,1, B,9.0,7,A B
+request,7,A,7.0,1,A ,9.666666666666666,3,A 
+closing,7,A,6.0,1,A ,0,0, 
+medical,7,A,11.0,1,A ,0,0, 
+burnham,7,A,0,0, ,0,0, 
+systems,7,A,15.0,1,A ,12.928571428571429,28,A B
+centers,7,A,4.0,1,A ,9.3,10,A B
+opinion,7,A,6.0,1,A ,6.833333333333333,6,A 
+farmers,7,A,7.0,1,A ,8.76923076923077,13,A B
+beijing,7,A,0,0, ,0,0, 
+parents,7,A,7.0,1,A ,9.166666666666666,6,A B
+scandal,7,A,6.0,1,A ,0,0, 
+central,7,A,9.0,1,A ,9.0,2,A 
+finance,7,A,20.0,1, B,10.166666666666666,6,A B
+barrels,7,A,23.0,1, B,0,0, 
+section,7,A,6.0,2,A ,7.571428571428571,21,A B
+douglas,7,A,0,0, ,0,0, 
+schools,7,A,22.0,1, B,12.962962962962964,27,A B
+damages,7,A,12.0,1,A ,11.4,5,A B
+college,7,A,4.0,1,A ,0,0, 
+lambert,7,A,16.0,1, B,0,0, 
+opening,7,A,5.0,1,A ,6.083333333333333,12,A B
+outlook,7,A,8.0,1,A ,0,0, 
+systems,7,A,15.0,1,A ,12.928571428571429,28,A B
+appeals,7,A,7.0,1,A ,9.666666666666666,6,A 
+utility,7,A,7.0,1,A ,12.0,5, B
+vehicle,7,A,10.0,1,A ,8.75,8,A B
+critics,7,A,12.0,1,A ,12.0,5, B
+toronto,7,A,0,0, ,0,0, 
+traffic,7,A,10.0,1,A ,14.5,4, B
+century,7,A,10.0,1, B,14.0,2,A B
+lending,7,A,8.0,1,A ,5.0,1,A 
+counsel,7,A,6.0,1,A ,0,0, 
+subject,7,A,7.0,1,A ,10.0,4,A B
+hearing,7,A,10.0,1,A ,15.0,4, B
+reserve,7,A,9.0,1,A ,10.0,1,A 
+lenders,7,A,8.0,1,A ,8.0,2,A 
+station,7,A,8.0,1,A ,13.444444444444445,9,A B
+quantum,7,A,8.0,1,A ,0,0, 
+defense,7,A,14.0,1, B,12.666666666666666,9,A B
+control,7,A,5.0,1,A ,7.2,5,A B
+devices,7,A,11.0,1,A ,0,0, 
+picture,7,A,14.0,1,A ,7.416666666666667,12,A 
+advance,7,A,16.0,1, B,7.0,1,A 
+holding,7,A,10.0,1,A ,9.0,2,A 
+society,7,A,11.0,1, B,10.75,4,A B
+studies,7,A,11.0,1,A ,8.0,1,A 
+ceiling,7,A,12.0,1, B,8.0,1,A 
+flights,7,A,9.0,1,A ,0,0, 
+oakland,7,A,0,0, ,0,0, 
+pricing,7,A,10.0,1,A ,12.0,1, B
+general,7,A,14.0,1, B,7.0,1,A 
+soviets,7,A,5.0,1,A ,0,0, 
+lawsuit,7,A,10.0,1,A ,10.0,6,A B
+sellers,7,A,0,0, ,0,0, 
+reforms,7,A,11.0,1,A ,11.666666666666666,3,A B
+markets,7,A,8.0,1,A ,10.625,8,A B
+release,7,A,11.0,1,A ,0,0, 
+culture,7,A,7.0,1,A ,18.428571428571427,7, B
+minimum,7,A,15.5,2,A B,8.0,1,A 
+turmoil,7,A,11.0,1,A ,0,0, 
+benefit,7,A,7.0,1,A ,14.166666666666666,6, B
+expense,7,A,4.0,1,A ,14.75,8, B
+circuit,7,A,16.0,1, B,10.470588235294118,17,A B
+letters,7,A,7.0,1,A ,0,0, 
+founder,7,A,12.0,1,A ,0,0, 
+atlanta,7,A,0,0, ,0,0, 
+georgia,7,A,0,0, ,0,0, 
+stevens,7,A,0,0, ,0,0, 
+matters,7,A,7.0,1,A ,5.0,1,A 
+dealers,7,A,8.0,1,A ,9.0625,16,A B
+chapter,7,A,7.0,1,A ,0,0, 
+highway,7,A,4.0,1,A ,10.166666666666666,6,A B
+affairs,7,A,7.0,1,A ,10.0,1, B
+stories,7,A,7.0,1,A ,9.166666666666666,6,A B
+student,7,A,8.0,1,A ,9.25,20,A B
+hungary,7,A,0,0, ,0,0, 
+tobacco,7,A,11.5,2, B,9.333333333333334,6,A B
+default,7,A,5.5,2,A ,0,0, 
+demands,7,A,7.0,1,A ,8.25,8,A B
+variety,7,A,10.0,1,A ,9.0,7,A B
+peabody,7,A,0,0, ,0,0, 
+banking,7,A,7.0,1,A ,0,0, 
+edition,7,A,10.0,1,A ,11.0,2,A B
+maxwell,7,A,8.0,1, B,0,0, 
+victory,7,A,6.5,2,A ,8.181818181818182,11,A B
+insurer,7,A,33.0,1, B,0,0, 
+promise,7,A,9.5,2,A B,7.0,5,A B
+detroit,7,A,0,0, ,0,0, 
+concept,7,A,4.0,1,A ,7.533333333333333,15,A B
+handful,7,A,23.0,1, B,0,0, 
+message,7,A,13.0,1,A ,8.11111111111111,9,A B
+thomson,7,A,0,0, ,0,0, 
+targets,7,A,14.0,1, B,5.5,2,A 
+friends,7,A,6.0,1,A ,7.6923076923076925,13,A B
+viewers,7,A,8.0,1,A ,0,0, 
+purpose,7,A,4.0,1,A ,6.5,6,A B
+mergers,7,A,13.0,1,A ,0,0, 
+newport,7,A,0,0, ,0,0, 
+skinner,7,A,0,0, ,0,0, 
+rebound,7,A,8.0,1,A ,8.0,3,A 
+remarks,7,A,9.0,1,A ,8.333333333333334,12,A B
+filings,7,A,10.0,1,A ,0,0, 
+markets,7,A,8.0,1,A ,10.625,8,A B
+evening,7,A,3.0,1,A ,10.0,1, B
+husband,7,A,6.0,1,A ,9.0,5,A B
+loyalty,7,A,8.0,1,A ,11.0,4,A 
+hanover,7,A,0,0, ,0,0, 
+readers,7,A,7.0,1,A ,8.0,1,A 
+council,7,A,18.0,1, B,13.666666666666666,12,A B
+phoenix,7,A,0,0, ,0,0, 
+fashion,7,A,8.0,1,A ,6.222222222222222,9,A B
+records,7,A,8.0,1,A ,8.666666666666666,6,A B
+holding,7,A,10.0,1,A ,9.0,2,A 
+weapons,7,A,10.0,1,A ,7.947368421052632,19,A B
+trading,7,A,8.0,1,A ,12.2,5, B
+harvard,7,A,0,0, ,0,0, 
+federal,7,A,6.0,1,A ,0,0, 
+plastic,7,A,5.0,1,A ,13.5,18,A B
+deposit,7,A,20.0,1, B,4.0,1,A 
+futures,7,A,4.0,1,A ,8.0,5,A B
+freedom,7,A,5.0,1,A ,10.7,10,A B
+bidders,7,A,9.0,1,A ,0,0, 
+credits,7,A,9.0,2,A ,0,0, 
+housing,7,A,9.0,1,A ,8.533333333333333,15,A B
+storage,7,A,9.0,1,A ,6.0,1,A 
+spirits,7,A,7.0,1,A ,6.2,15,A B
+pattern,7,A,9.0,1,A ,7.0,6,A 
+kennedy,7,A,0,0, ,0,0, 
+classes,7,A,10.0,1,A ,12.636363636363637,11,A B
+surplus,7,A,13.0,1,A ,0,0, 
+decades,7,A,10.0,1, B,6.217391304347826,23,A 
+outcome,7,A,6.0,1,A ,8.333333333333334,9,A B
+webster,7,A,0,0, ,0,0, 
+charity,7,A,10.0,1,A ,17.666666666666668,3, B
+galileo,7,A,0,0, ,0,0, 
+aspects,7,A,7.0,1,A ,5.666666666666667,3,A 
+zealand,7,A,0,0, ,0,0, 
+senator,7,A,10.0,1,A ,12.0,1, B
+disease,7,A,7.0,1,A ,13.307692307692308,39,A B
+penalty,7,A,13.0,1, B,12.545454545454545,11,A B
+reality,7,A,10.0,1,A ,9.0,1, B
+cleanup,7,A,9.0,1, B,0,0, 
+chapter,7,A,7.0,1,A ,0,0, 
+inquiry,7,A,14.0,1, B,9.166666666666666,6,A B
+roberts,7,A,0,0, ,0,0, 
+theater,7,A,8.0,1,A ,9.857142857142858,7,A B
+capitol,7,A,18.0,1, B,0,0, 
+apparel,7,A,8.0,1,A ,8.0,1,A 
+climate,7,A,22.0,1, B,0,0, 
+weather,7,A,21.0,1, B,8.727272727272727,11,A B
+license,7,A,13.0,1, B,13.5,10,A B
+outlets,7,A,15.0,1, B,9.857142857142858,7,A B
+engines,7,A,5.0,1,A ,14.833333333333334,6,A B
+funding,7,A,8.0,1,A ,0,0, 
+poverty,7,A,18.0,1, B,11.0,4,A 
+lebanon,7,A,0,0, ,0,0, 
+streets,7,A,12.0,1,A ,7.25,8,A B
+vietnam,7,A,0,0, ,0,0, 
+english,7,A,12.0,1, B,12.0,10,A B
+warning,7,A,9.0,1,A ,9.7,10,A B
+periods,7,A,19.0,1, B,7.897637795275591,127,A B
+airport,7,A,8.0,1,A ,8.0,1,A 
+society,7,A,11.0,1, B,10.75,4,A B
+results,7,A,10.0,1,A ,10.25,24,A B
+farmers,7,A,7.0,1,A ,8.76923076923077,13,A B
+setback,7,A,9.0,1,A ,6.0,1,A 
+indexes,7,A,5.0,1,A ,14.0,1, B
+maximum,7,A,15.5,2,A B,0,0, 
+doctors,7,A,19.0,1, B,10.928571428571429,14,A B
+grounds,7,A,11.0,1,A ,6.833333333333333,6,A B
+testing,7,A,10.0,1,A ,0,0, 
+answers,7,A,9.0,1,A ,8.0,2,A 
+airways,7,A,4.0,1,A ,9.25,4,A B
+percent,7,A,10.0,1,A ,13.0,4, B
+sectors,7,A,11.0,1, B,0,0, 
+brother,7,A,11.0,1, B,11.333333333333334,3,A B
+mission,7,A,27.0,1, B,0,0, 
+reading,7,A,17.0,1, B,7.5,4,A 
+budgets,7,A,4.0,1,A ,12.0,2, B
+consent,7,A,10.0,1,A ,15.0,1, B
+kellogg,7,A,0,0, ,0,0, 
+channel,7,A,12.0,1,A ,0,0, 
+baskets,7,A,9.0,1,A ,8.333333333333334,9,A B
+revenue,7,A,3.0,1,A ,6.5,2,A B
+savings,7,A,4.0,1,A ,0,0, 
+anthony,7,A,0,0, ,0,0, 
+smoking,7,A,9.0,1,A ,7.0,1,A 
+futures,7,A,4.0,1,A ,8.0,5,A B
+warrant,7,A,4.0,1,A ,9.714285714285714,7,A B
+limited,7,A,15.0,1, B,0,0, 
+jackson,7,A,0,0, ,0,0, 
+bankers,7,A,9.0,1,A ,6.0,1,A 
+squeeze,7,A,11.0,1,A ,8.0,3,A 
+missile,7,A,6.0,2,A ,15.833333333333334,6,A B
+studios,7,A,9.0,1,A ,16.333333333333332,3, B
+clothes,7,A,8.0,1,A ,8.0,1,A 
+bargain,7,A,9.0,1,A ,0,0, 
+section,7,A,6.0,2,A ,7.571428571428571,21,A B
+formula,7,A,21.0,1, B,16.0,3,A B
+landing,7,A,8.0,1,A ,0,0, 
+program,7,A,4.0,1,A ,10.0,13,A B
+chevron,7,A,5.0,1,A ,0,0, 
+bonuses,7,A,16.0,1, B,0,0, 
+freight,7,A,11.0,1,A ,0,0, 
+workers,7,A,6.0,1,A ,7.507042253521127,71,A B
+tickets,7,A,18.0,1, B,11.5,8,A B
+madison,7,A,0,0, ,0,0, 
+respect,7,A,6.0,1,A ,0,0, 
+brewing,7,A,10.0,1,A ,0,0, 
+planner,7,A,6.0,1,A ,8.8,5,A 
+contest,7,A,11.0,1, B,7.823529411764706,17,A B
+edwards,7,A,0,0, ,0,0, 
+screens,7,A,7.0,1,A ,10.0,1, B
+spiegel,7,A,7.0,1, B,0,0, 
+insider,7,A,18.0,1, B,0,0, 
+chamber,7,A,9.0,1,A ,10.294117647058824,17,A B
+absence,7,A,4.0,1,A ,10.5,2,A 
+circuit,7,A,16.0,1, B,10.470588235294118,17,A B
+regions,7,A,8.0,1,A ,7.7272727272727275,33,A B
+stadium,7,A,9.0,1,A ,8.625,8,A B
+shuttle,7,A,18.0,1, B,0,0, 
+attacks,7,A,9.0,1,A ,8.75,12,A B
+college,7,A,4.0,1,A ,0,0, 
+surgery,7,A,14.0,1, B,0,0, 
+windows,7,A,15.0,1, B,0,0, 
+ringers,7,A,8.0,1,A ,0,0, 
+soviets,7,A,5.0,1,A ,0,0, 
+contras,7,A,0,0, ,0,0, 
+bankers,7,A,9.0,1,A ,6.0,1,A 
+veteran,7,A,10.0,1,A ,0,0, 
+germans,7,A,8.0,1,A ,7.5,6,A B
+thought,7,A,7.0,1,A ,8.3,20,A 
+deposit,7,A,20.0,1, B,4.0,1,A 
+feeling,7,A,5.0,1,A ,7.487804878048781,41,A 
+options,7,A,20.0,1, B,11.25,8,A B
+lawyers,7,A,12.0,1,A ,11.272727272727273,11,A B
+trading,7,A,8.0,1,A ,12.2,5, B
+company,7,A,11.0,1,A ,12.722222222222221,36,A B
+network,7,A,6.0,1,A ,12.75,4,A B
+columns,7,A,4.0,1,A ,0,0, 
+charter,7,A,8.0,1,A ,11.5,2, B
+midwest,7,A,0,0, ,0,0, 
+jewelry,7,A,9.0,1,A ,5.666666666666667,12,A B
+couples,7,A,4.0,1,A ,16.0,1, B
+science,7,A,10.0,1,A ,11.631578947368421,19,A B
+chamber,7,A,9.0,1,A ,10.294117647058824,17,A B
+artists,7,A,7.0,1,A ,9.521739130434783,23,A 
+display,7,A,13.0,1,A ,7.5,2,A B
+context,7,A,9.0,1,A ,0,0, 
+bridges,7,A,0,0, ,0,0, 
+chances,7,A,11.0,1,A ,6.583333333333333,12,A B
+parking,7,A,4.0,1,A ,0,0, 
+cabinet,7,A,9.0,1,A ,10.666666666666666,3,A B
+massage,7,A,9.0,1,A ,10.857142857142858,7,A B
+drivers,7,A,8.0,1,A ,8.857142857142858,14,A B
+finland,7,A,0,0, ,0,0, 
+worries,7,A,16.0,1, B,7.0,3,A 
+vaccine,7,A,9.0,1,A ,15.75,4, B
+teacher,7,A,8.0,1,A ,10.857142857142858,21,A B
+debacle,7,A,8.0,1,A ,0,0, 
+market,6,A,8.0,1,A ,10.625,8,A B
+shares,6,A,6.0,1,A ,7.0,12,A B
+prices,6,A,5.0,1,A ,12.2,5,A B
+months,6,A,10.0,1, B,18.166666666666668,6,A B
+people,6,A,5.0,1,A ,8.1875,48,A B
+stocks,6,A,9.0,1,A ,0,0, 
+friday,6,A,7.0,1,A ,0,0, 
+profit,6,A,6.0,1,A ,10.222222222222221,9,A B
+income,6,A,13.0,1, B,11.333333333333334,15,A B
+growth,6,A,14.0,1, B,11.735294117647058,34,A B
+issues,6,A,7.0,1,A ,11.5,4,A B
+dollar,6,A,12.0,1, B,14.434782608695652,23, B
+number,6,A,6.0,1,A ,10.285714285714286,7,A 
+assets,6,A,10.0,1,A ,8.904761904761905,21,A B
+street,6,A,12.0,1,A ,7.25,8,A B
+period,6,A,19.0,1, B,7.897637795275591,127,A B
+points,6,A,9.0,1,A ,10.0,3,A 
+system,6,A,15.0,1,A ,12.928571428571429,28,A B
+agency,6,A,18.0,1, B,26.890625,64,A B
+office,6,A,15.0,1, B,11.5,8,A B
+monday,6,A,7.0,1,A ,10.0,1,A 
+losses,6,A,13.0,1, B,0,0, 
+august,6,A,22.0,1, B,0,0, 
+london,6,A,0,0, ,0,0, 
+policy,6,A,12.0,1, B,12.875,8,A B
+senate,6,A,11.0,1,A ,18.0,1, B
+report,6,A,8.0,1,A ,10.125,8,A B
+volume,6,A,7.0,1,A ,8.0,1,A 
+credit,6,A,8.0,1,A ,7.0,3,A 
+robert,6,A,0,0, ,0,0, 
+orders,6,A,7.0,1,A ,8.333333333333334,3,A B
+nation,6,A,13.0,1, B,10.181818181818182,11,A B
+warner,6,A,0,0, ,0,0, 
+amount,6,A,6.0,1,A ,7.785714285714286,14,A B
+demand,6,A,7.0,1,A ,8.25,8,A B
+europe,6,A,0,0, ,0,0, 
+estate,6,A,8.0,1,A ,9.5,4,A B
+result,6,A,10.0,1,A ,10.25,24,A B
+things,6,A,8.0,1,A ,0,0, 
+damage,6,A,6.0,1,A ,7.333333333333333,3,A 
+record,6,A,8.0,1,A ,8.666666666666666,6,A B
+action,6,A,3.0,1,A ,9.212121212121213,33,A B
+makers,6,A,7.0,1,A ,9.344827586206897,29,A B
+charge,6,A,6.0,1,A ,13.0,1,A 
+boston,6,A,0,0, ,0,0, 
+rights,6,A,11.0,1,A ,9.0,20,A B
+canada,6,A,0,0, ,0,0, 
+equity,6,A,6.0,1,A ,0,0, 
+budget,6,A,4.0,1,A ,12.0,2, B
+jaguar,6,A,6.0,1, B,0,0, 
+change,6,A,9.0,1,A ,9.344827586206897,29,A B
+family,6,A,4.0,1,A ,11.833333333333334,6, B
+effect,6,A,10.0,1,A ,10.25,24,A B
+levels,6,A,8.0,1,A ,8.461538461538462,13,A B
+effort,6,A,8.0,1,A ,6.7368421052631575,19,A B
+parent,6,A,7.0,1,A ,9.166666666666666,6,A B
+buyers,6,A,8.0,1,A ,9.666666666666666,3,A B
+groups,6,A,11.0,1,A ,8.37037037037037,27,A B
+return,6,A,13.0,1, B,15.4,5, B
+health,6,A,9.0,1,A ,0,0, 
+states,6,A,22.0,1, B,14.142857142857142,7,A B
+morgan,6,A,0,0, ,0,0, 
+reason,6,A,14.0,1, B,5.333333333333333,3,A 
+plants,6,A,15.0,1, B,10.0,11,A B
+stores,6,A,23.0,1, B,9.743589743589743,39,A B
+plunge,6,A,8.0,1,A ,0,0, 
+course,6,A,9.0,1,A ,13.647058823529411,17,A B
+thrift,6,A,8.0,1,A ,9.0,1, B
+claims,6,A,9.0,1,A ,9.0,3,A B
+impact,6,A,7.0,1,A ,4.0,2,A 
+soviet,6,A,7.0,1,A ,0,0, 
+france,6,A,0,0, ,0,0, 
+leader,6,A,6.0,1,A ,8.818181818181818,44,A B
+series,6,A,8.0,1,A ,8.941176470588236,17,A B
+buying,6,A,8.0,1,A ,11.666666666666666,3,A B
+merger,6,A,13.0,1,A ,0,0, 
+george,6,A,0,0, ,0,0, 
+summer,6,A,6.0,1,A ,0,0, 
+trader,6,A,8.0,1,A ,9.0625,16,A B
+francs,6,A,12.0,1, B,12.714285714285714,21, B
+letter,6,A,6.0,2,A ,10.9375,16,A B
+peters,6,A,0,0, ,0,0, 
+pilots,6,A,7.0,1,A ,8.571428571428571,7,A B
+center,6,A,4.0,1,A ,9.3,10,A B
+future,6,A,4.0,1,A ,8.0,5,A B
+school,6,A,22.0,1, B,12.962962962962964,27,A B
+member,6,A,9.0,1,A ,9.23076923076923,26,A B
+series,6,A,8.0,1,A ,8.941176470588236,17,A B
+sector,6,A,11.0,1, B,0,0, 
+filing,6,A,10.0,1,A ,0,0, 
+yields,6,A,10.0,1,A ,4.0,1,A 
+battle,6,A,14.0,1, B,9.166666666666666,6,A B
+energy,6,A,18.0,1, B,11.538461538461538,13,A B
+matter,6,A,7.0,1,A ,5.0,1,A 
+public,6,A,6.0,1,A ,6.0,1,A 
+trades,6,A,8.0,1,A ,9.0,3, B
+people,6,A,5.0,1,A ,8.1875,48,A B
+spring,6,A,6.0,1,A ,0,0, 
+lawyer,6,A,12.0,1,A ,11.272727272727273,11,A B
+hutton,6,A,0,0, ,0,0, 
+safety,6,A,9.0,1,A ,10.6,5,A 
+supply,6,A,18.0,1, B,9.0,1,A 
+strike,6,A,9.0,1, B,10.5,4,A B
+nasdaq,6,A,0,0, ,0,0, 
+decade,6,A,10.0,1, B,6.217391304347826,23,A 
+survey,6,A,11.0,1,A ,8.0,1,A 
+option,6,A,20.0,1, B,11.25,8,A B
+chance,6,A,11.0,1,A ,6.583333333333333,12,A B
+valley,6,A,17.0,1, B,5.857142857142857,7,A B
+cancer,6,A,14.0,1, B,8.0,4,A 
+events,6,A,20.0,1, B,8.2,10,A B
+dallas,6,A,0,0, ,0,0, 
+reagan,6,A,0,0, ,0,0, 
+thomas,6,A,0,0, ,0,0, 
+poland,6,A,0,0, ,0,0, 
+forces,6,A,9.0,1,A ,7.4,5,A 
+owners,6,A,11.0,1,A ,8.8,10,A B
+debate,6,A,10.0,1,A ,9.0,1,A 
+region,6,A,8.0,1,A ,7.7272727272727275,33,A B
+health,6,A,9.0,1,A ,0,0, 
+mexico,6,A,0,0, ,0,0, 
+rating,6,A,9.0,1,A ,10.0,6,A B
+person,6,A,9.5,2,A B,8.059701492537313,402,A B
+output,6,A,7.0,1,A ,5.666666666666667,3,A 
+houses,6,A,8.0,2,A ,9.074074074074074,27,A B
+ruling,6,A,8.0,1,A ,5.0,1,A 
+moscow,6,A,0,0, ,0,0, 
+county,6,A,6.0,1,A ,5.0,1,A 
+nissan,6,A,19.0,1, B,0,0, 
+access,6,A,5.0,1,A ,4.0,1,A 
+figure,6,A,12.0,1,A ,0,0, 
+target,6,A,14.0,1, B,5.5,2,A 
+season,6,A,10.0,1, B,12.294117647058824,17,A B
+office,6,A,15.0,1, B,11.5,8,A B
+margin,6,A,8.0,1,A ,3.0,1,A 
+morris,6,A,0,0, ,0,0, 
+tender,6,A,16.0,1, B,9.0,1, B
+philip,6,A,0,0, ,0,0, 
+client,6,A,4.0,1,A ,0,0, 
+source,6,A,5.0,1,A ,9.5,10,A B
+editor,6,A,13.0,1, B,10.5,8,A B
+threat,6,A,6.0,1,A ,11.0,1, B
+couple,6,A,4.0,1,A ,16.0,1, B
+sunday,6,A,7.0,1, B,0,0, 
+center,6,A,4.0,1,A ,9.3,10,A B
+jersey,6,A,0,0, ,0,0, 
+accord,6,A,7.0,1,A ,10.714285714285714,7,A B
+movies,6,A,5.5,2,A ,10.0,18,A B
+panama,6,A,0,0, ,0,0, 
+sports,6,A,9.0,1,A ,9.1,20,A B
+relief,6,A,7.0,1,A ,0,0, 
+credit,6,A,8.0,1,A ,7.0,3,A 
+source,6,A,5.0,1,A ,9.5,10,A B
+market,6,A,8.0,1,A ,10.625,8,A B
+africa,6,A,0,0, ,0,0, 
+crisis,6,A,9.0,1,A ,8.25,4,A 
+joseph,6,A,0,0, ,0,0, 
+moment,6,A,5.0,1,A ,10.714285714285714,7,A B
+copper,6,A,12.0,2,A B,13.0,1, B
+models,6,A,10.0,1,A ,12.142857142857142,7,A B
+coupon,6,A,18.0,1, B,8.333333333333334,3,A B
+broker,6,A,14.0,1,A ,11.875,8,A B
+cities,6,A,12.0,1,A ,14.666666666666666,3, B
+flight,6,A,9.0,1,A ,0,0, 
+voters,6,A,7.0,1,A ,10.5,4,A B
+values,6,A,6.0,1,A ,0,0, 
+system,6,A,15.0,1,A ,12.928571428571429,28,A B
+rumors,6,A,6.0,1,A ,0,0, 
+school,6,A,22.0,1, B,12.962962962962964,27,A B
+trucks,6,A,12.0,1, B,8.454545454545455,11,A B
+studio,6,A,9.0,1,A ,16.333333333333332,3, B
+energy,6,A,18.0,1, B,11.538461538461538,13,A B
+export,6,A,9.0,1,A ,0,0, 
+volume,6,A,7.0,1,A ,8.0,1,A 
+metals,6,A,15.0,1, B,7.896103896103896,77,A B
+reform,6,A,11.0,1,A ,11.666666666666666,3,A B
+report,6,A,8.0,1,A ,10.125,8,A B
+motors,6,A,7.0,1,A ,8.666666666666666,3,A B
+speech,6,A,9.0,1, B,9.4,10,A B
+review,6,A,9.0,1,A ,11.0,1,A 
+design,6,A,20.0,1, B,8.0,1,A 
+edward,6,A,0,0, ,0,0, 
+courts,6,A,8.0,1,A ,12.576923076923077,26,A B
+ground,6,A,6.0,1,A ,7.235294117647059,17,A B
+extent,6,A,6.0,1,A ,0,0, 
+factor,6,A,5.0,1,A ,12.166666666666666,6,A B
+swings,6,A,6.0,1,A ,0,0, 
+appeal,6,A,7.0,1,A ,9.666666666666666,6,A 
+blacks,6,A,15.0,1, B,9.0,1, B
+patent,6,A,8.0,1,A ,0,0, 
+bureau,6,A,18.0,1, B,26.890625,64,A B
+chains,6,A,7.0,1,A ,0,0, 
+brands,6,A,4.0,1,A ,5.0,1,A 
+judges,6,A,0,0, ,0,0, 
+budget,6,A,4.0,1,A ,12.0,2, B
+banker,6,A,9.0,1,A ,6.0,1,A 
+choice,6,A,14.0,1, B,6.333333333333333,3,A 
+miller,6,A,0,0, ,0,0, 
+agency,6,A,18.0,1, B,26.890625,64,A B
+branch,6,A,8.0,1,A ,14.0,4, B
+luxury,6,A,10.0,1,A ,0,0, 
+dealer,6,A,8.0,1,A ,9.0625,16,A B
+offers,6,A,9.0,1, B,0,0, 
+father,6,A,6.0,1,A ,6.75,4,A B
+israel,6,A,0,0, ,0,0, 
+career,6,A,10.0,1,A ,11.0,4,A B
+public,6,A,6.0,1,A ,6.0,1,A 
+prison,6,A,23.0,1, B,7.8,5,A B
+martin,6,A,0,0, ,0,0, 
+stocks,6,A,9.0,1,A ,0,0, 
+limits,6,A,6.0,1,A ,8.8,5,A B
+nature,6,A,7.0,1,A ,0,0, 
+behalf,6,A,5.0,1,A ,0,0, 
+prices,6,A,5.0,1,A ,12.2,5,A B
+advice,6,A,8.0,1,A ,11.333333333333334,3,A 
+travel,6,A,6.0,1,A ,8.764705882352942,17,A B
+status,6,A,5.0,1,A ,8.538461538461538,26,A B
+harris,6,A,0,0, ,0,0, 
+theory,6,A,11.0,1,A ,11.7,10,A B
+walter,6,A,0,0, ,0,0, 
+mother,6,A,6.0,1,A ,8.88888888888889,9,A B
+agents,6,A,11.0,1, B,9.38888888888889,18,A B
+coffee,6,A,8.0,1,A ,11.0,13,A B
+hooker,6,A,0,0, ,0,0, 
+turner,6,A,0,0, ,0,0, 
+drives,6,A,10.0,1,A ,7.5,2,A 
+player,6,A,10.0,1,A ,10.636363636363637,22,A B
+memory,6,A,14.0,1,A ,11.0,5,A B
+daniel,6,A,0,0, ,0,0, 
+brazil,6,A,0,0, ,0,0, 
+worker,6,A,6.0,1,A ,7.507042253521127,71,A B
+friend,6,A,6.0,1,A ,7.6923076923076925,13,A B
+toyota,6,A,0,0, ,0,0, 
+rivals,6,A,10.0,1,A ,7.583333333333333,12,A B
+basket,6,A,9.0,1,A ,8.333333333333334,9,A B
+fields,6,A,0,0, ,0,0, 
+brooks,6,A,0,0, ,0,0, 
+arthur,6,A,0,0, ,0,0, 
+writer,6,A,12.0,1,A ,9.257142857142858,35,A B
+trends,6,A,9.0,1,A ,0,0, 
+import,6,A,9.0,1,A ,0,0, 
+wright,6,A,0,0, ,0,0, 
+attack,6,A,9.0,1,A ,8.75,12,A B
+motors,6,A,7.0,1,A ,8.666666666666666,3,A B
+street,6,A,12.0,1,A ,7.25,8,A B
+bridge,6,A,9.0,1,A ,11.666666666666666,15,A B
+spread,6,A,16.0,1, B,9.4,5,A 
+delays,6,A,5.0,1,A ,10.0,3,A 
+estate,6,A,8.0,1,A ,9.5,4,A B
+desire,6,A,7.0,1,A ,7.555555555555555,9,A B
+police,6,A,12.5,2,A B,12.0,8,A B
+mining,6,A,10.0,1,A ,11.5,2, B
+deputy,6,A,6.0,1,A ,0,0, 
+bridge,6,A,9.0,1,A ,11.666666666666666,15,A B
+planes,6,A,21.0,1, B,9.933333333333334,15,A B
+device,6,A,15.0,1,A ,8.771653543307087,127,A B
+lufkin,6,A,0,0, ,0,0, 
+deaths,6,A,6.0,1,A ,9.2,5,A B
+holder,6,A,13.0,1, B,8.2,5,A B
+taiwan,6,A,0,0, ,0,0, 
+silver,6,A,9.5,2,A B,10.0,1, B
+bureau,6,A,18.0,1, B,26.890625,64,A B
+states,6,A,22.0,1, B,14.142857142857142,7,A B
+bottom,6,A,4.0,1,A ,5.4,5,A 
+regime,6,A,6.0,1,A ,12.4375,16,A B
+garden,6,A,4.0,1,A ,9.933333333333334,15,A B
+market,6,A,8.0,1,A ,10.625,8,A B
+howard,6,A,0,0, ,0,0, 
+ortega,6,A,0,0, ,0,0, 
+denver,6,A,0,0, ,0,0, 
+winter,6,A,6.0,1,A ,0,0, 
+allies,6,A,8.0,1,A ,0,0, 
+engine,6,A,5.0,1,A ,14.833333333333334,6,A B
+avenue,6,A,8.0,1,A ,0,0, 
+pounds,6,A,15.0,1, B,0,0, 
+herald,6,A,9.0,1,A ,0,0, 
+papers,6,A,7.0,1,A ,8.95,20,A B
+nobody,6,A,8.0,1,A ,12.0,2,A 
+pieces,6,A,4.0,1,A ,7.285714285714286,7,A B
+voting,6,A,6.0,1,A ,10.375,8,A B
+intent,6,A,4.0,1,A ,6.5,6,A B
+motion,6,A,19.0,1, B,7.857142857142857,14,A B
+warren,6,A,0,0, ,0,0, 
+social,6,A,5.0,1,A ,0,0, 
+orange,6,A,6.0,1,A ,11.666666666666666,3, B
+berlin,6,A,0,0, ,0,0, 
+church,6,A,8.0,1,A ,14.666666666666666,6, B
+duties,6,A,13.0,1, B,11.0,14,A B
+series,6,A,8.0,1,A ,8.941176470588236,17,A B
+burden,6,A,7.0,1,A ,7.5,4,A B
+disney,6,A,0,0, ,0,0, 
+search,6,A,8.0,1,A ,7.777777777777778,9,A 
+degree,6,A,8.0,1,A ,8.461538461538462,13,A B
+author,6,A,12.0,1,A ,9.257142857142858,35,A B
+ticket,6,A,18.0,1, B,11.5,8,A B
+edison,6,A,0,0, ,0,0, 
+gandhi,6,A,0,0, ,0,0, 
+scheme,6,A,12.0,1, B,10.272727272727273,11,A B
+screen,6,A,7.0,1,A ,10.0,1, B
+stakes,6,A,6.0,1,A ,3.6666666666666665,3,A 
+barrel,6,A,4.0,1,A ,0,0, 
+unions,6,A,12.0,1,A ,16.0,4, B
+marine,6,A,10.0,1,A ,0,0, 
+scores,6,A,23.0,1, B,0,0, 
+treaty,6,A,16.0,1, B,9.75,4,A B
+whites,6,A,6.0,1,A ,7.363636363636363,11,A B
+grants,6,A,3.0,1,A ,9.5,2,A 
+rebels,6,A,18.0,1, B,0,0, 
+copies,6,A,13.0,1, B,0,0, 
+checks,6,A,5.0,1,A ,9.454545454545455,11,A B
+timing,6,A,19.0,1, B,10.5,12,A B
+profit,6,A,6.0,1,A ,10.222222222222221,9,A B
+weight,6,A,16.0,1, B,8.857142857142858,7,A B
+island,6,A,4.0,1,A ,13.75,4, B
+kansas,6,A,0,0, ,0,0, 
+police,6,A,12.5,2,A B,12.0,8,A B
+farmer,6,A,7.0,1,A ,8.76923076923077,13,A B
+league,6,A,11.0,1,A ,11.666666666666666,9,A B
+london,6,A,0,0, ,0,0, 
+samuel,6,A,0,0, ,0,0, 
+gamble,6,A,11.0,1,A ,5.0,1,A 
+expert,6,A,6.0,1,A ,9.232558139534884,43,A B
+poison,6,A,9.0,1,A ,8.0,3,A 
+answer,6,A,9.0,1,A ,8.0,2,A 
+casino,6,A,13.0,1, B,0,0, 
+places,6,A,5.0,1,A ,7.636363636363637,22,A B
+danger,6,A,9.0,1,A ,13.2,5,A B
+boards,6,A,12.0,1, B,0,0, 
+method,6,A,8.0,1,A ,10.6,10,A B
+signal,6,A,13.0,1,A ,10.153846153846153,26,A B
+master,6,A,6.0,1,A ,9.0,1, B
+german,6,A,8.0,1,A ,7.5,6,A B
+notion,6,A,4.0,1,A ,8.25,4,A B
+little,6,A,23.0,1, B,0,0, 
+quotas,6,A,6.0,1,A ,0,0, 
+plenty,6,A,9.0,1,A ,0,0, 
+museum,6,A,10.0,1,A ,13.0,1, B
+resort,6,A,5.0,1,A ,11.0,3, B
+warsaw,6,A,0,0, ,0,0, 
+ounces,6,A,12.5,2, B,0,0, 
+giants,6,A,6.0,1,A ,0,0, 
+cathay,6,A,0,0, ,0,0, 
+taylor,6,A,0,0, ,0,0, 
+seller,6,A,8.0,1,A ,9.444444444444445,9,A B
+geneva,6,A,0,0, ,0,0, 
+crimes,6,A,13.0,1,A ,9.052631578947368,19,A B
+greece,6,A,0,0, ,0,0, 
+stores,6,A,23.0,1, B,9.743589743589743,39,A B
+stance,6,A,8.0,1,A ,8.333333333333334,3,A 
+artist,6,A,7.0,1,A ,9.521739130434783,23,A 
+belief,6,A,7.0,1,A ,10.064516129032258,31,A B
+league,6,A,11.0,1,A ,11.666666666666666,9,A B
+troops,6,A,5.0,1,A ,7.5,4,A 
+powers,6,A,7.0,1,A ,9.11111111111111,18,A B
+stores,6,A,23.0,1, B,9.743589743589743,39,A B
+victim,6,A,11.0,1,A ,7.909090909090909,11,A B
+hudson,6,A,0,0, ,0,0, 
+comedy,6,A,5.0,1,A ,10.6,10,A B
+zenith,6,A,14.0,1, B,0,0, 
+alaska,6,A,0,0, ,0,0, 
+milton,6,A,0,0, ,0,0, 
+french,6,A,7.0,1,A ,10.857142857142858,7,A B
+marina,6,A,4.0,1,A ,0,0, 
+doctor,6,A,19.0,1, B,10.928571428571429,14,A B
+cattle,6,A,6.0,1,A ,5.666666666666667,12,A B
+fellow,6,A,4.0,1,A ,3.0,1,A 
+carter,6,A,0,0, ,0,0, 
+incest,6,A,23.0,1, B,0,0, 
+pierce,6,A,0,0, ,0,0, 
+routes,6,A,4.0,1,A ,8.681818181818182,22,A B
+skills,6,A,7.0,1,A ,10.0,13,A 
+nelson,6,A,0,0, ,0,0, 
+wilson,6,A,0,0, ,0,0, 
+suitor,6,A,7.0,1,A ,14.0,1, B
+hughes,6,A,0,0, ,0,0, 
+florio,6,A,0,0, ,0,0, 
+salary,6,A,14.0,1, B,9.090909090909092,11,A B
+symbol,6,A,6.0,1,A ,6.476190476190476,21,A B
+crunch,6,A,5.0,1,A ,0,0, 
+string,6,A,4.0,1,A ,9.5,2,A B
+dozens,6,A,23.0,1, B,0,0, 
+launch,6,A,9.0,1,A ,0,0, 
+albert,6,A,0,0, ,0,0, 
+nippon,6,A,0,0, ,0,0, 
+agenda,6,A,4.0,1,A ,4.0,1,A 
+tandem,6,A,9.0,1,A ,0,0, 
+cotton,6,A,10.0,1, B,16.666666666666668,3, B
+window,6,A,9.0,1,A ,11.454545454545455,22,A B
+murder,6,A,8.0,1,A ,9.61111111111111,18,A B
+manner,6,A,8.0,1,A ,6.222222222222222,9,A B
+turkey,6,A,12.0,1, B,10.0,1, B
+nobody,6,A,8.0,1,A ,12.0,2,A 
+affair,6,A,7.0,1,A ,5.0,1,A 
+stress,6,A,7.0,1,A ,11.75,4,A B
+summit,6,A,6.0,1,A ,0,0, 
+upjohn,6,A,0,0, ,0,0, 
+backer,6,A,6.0,1,A ,0,0, 
+rescue,6,A,8.0,1,A ,10.857142857142858,7,A B
+arnold,6,A,0,0, ,0,0, 
+excess,6,A,13.0,1,A ,0,0, 
+blocks,6,A,8.0,1,A ,6.117647058823529,17,A B
+cancer,6,A,14.0,1, B,8.0,4,A 
+church,6,A,8.0,1,A ,14.666666666666666,6, B
+repair,6,A,11.0,1,A ,8.857142857142858,7,A B
+equity,6,A,6.0,1,A ,0,0, 
+manila,6,A,5.0,1,A ,0,0, 
+leader,6,A,6.0,1,A ,8.818181818181818,44,A B
+spirit,6,A,14.0,1, B,4.0,1,A 
+colony,6,A,4.0,1,A ,15.0,3,A B
+wealth,6,A,18.0,1, B,9.4,5,A B
+fusion,6,A,5.0,1,A ,0,0, 
+lesson,6,A,8.0,1,A ,11.6,5, B
+jurors,6,A,8.0,1,A ,10.0,2,A B
+alfred,6,A,0,0, ,0,0, 
+adults,6,A,6.0,1,A ,9.035714285714286,28,A B
+foster,6,A,0,0, ,0,0, 
+dinner,6,A,4.0,1,A ,7.0,1, B
+losers,6,A,10.0,1,A ,7.0,1, B
+minute,6,A,8.0,1, B,0,0, 
+norman,6,A,0,0, ,0,0, 
+bidder,6,A,9.0,1,A ,0,0, 
+zurich,6,A,0,0, ,0,0, 
+second,6,A,8.0,1, B,10.0,1, B
+parker,6,A,0,0, ,0,0, 
+oregon,6,A,0,0, ,0,0, 
+living,6,A,10.0,1,A ,0,0, 
+making,6,A,10.0,1,A ,10.0,2,A 
+suisse,6,A,0,0, ,0,0, 
+share,5,A,6.0,1,A ,7.0,12,A B
+stock,5,A,7.0,1,A ,12.538461538461538,13,A B
+years,5,A,10.0,1, B,6.0,1,A 
+sales,5,A,6.0,1,A ,0,0, 
+cents,5,A,17.5,2, B,0,0, 
+price,5,A,5.0,1,A ,12.2,5,A B
+group,5,A,11.0,1,A ,8.37037037037037,27,A B
+bonds,5,A,10.0,1,A ,11.0,6,A B
+money,5,A,16.0,1, B,9.5,6,A B
+month,5,A,10.0,1, B,18.166666666666668,6,A B
+rates,5,A,3.0,1,A ,9.0,1, B
+state,5,A,22.0,1, B,14.142857142857142,7,A B
+funds,5,A,6.0,1,A ,9.25,8,A B
+japan,5,A,0,0, ,0,0, 
+banks,5,A,0,0, ,0,0, 
+issue,5,A,7.0,1,A ,11.5,4,A B
+index,5,A,5.0,1,A ,14.0,1, B
+house,5,A,8.0,2,A ,9.074074074074074,27,A B
+stock,5,A,7.0,1,A ,12.538461538461538,13,A B
+offer,5,A,9.0,1, B,0,0, 
+costs,5,A,13.0,1,A ,0,0, 
+trade,5,A,8.0,1,A ,9.0,3, B
+stake,5,A,5.0,1,A ,12.090909090909092,11,A B
+loans,5,A,4.0,1,A ,10.7,10,A B
+value,5,A,17.0,1, B,9.333333333333334,3,A B
+board,5,A,9.0,1,A ,12.88888888888889,9,A B
+court,5,A,8.0,1,A ,12.576923076923077,26,A B
+board,5,A,9.0,1,A ,12.88888888888889,9,A B
+world,5,A,13.0,1, B,10.666666666666666,3,A B
+firms,5,A,8.0,1,A ,10.428571428571429,7,A B
+today,5,A,7.0,1,A ,0,0, 
+group,5,A,11.0,1,A ,8.37037037037037,27,A B
+maker,5,A,7.0,1,A ,9.344827586206897,29,A B
+point,5,A,9.0,1,A ,10.0,3,A 
+jones,5,A,0,0, ,0,0, 
+weeks,5,A,10.0,1, B,7.5,4,A B
+chief,5,A,6.0,1,A ,10.3,10,A B
+plant,5,A,15.0,1, B,10.0,11,A B
+first,5,A,4.0,1,A ,6.0,1,A 
+level,5,A,8.0,1,A ,8.461538461538462,13,A B
+texas,5,A,0,0, ,0,0, 
+power,5,A,7.0,1,A ,9.11111111111111,18,A B
+plans,5,A,4.0,1,A ,10.0,13,A B
+notes,5,A,13.0,1, B,6.75,4,A 
+tokyo,5,A,0,0, ,0,0, 
+james,5,A,0,0, ,0,0, 
+gains,5,A,18.0,1, B,9.0,1,A 
+china,5,A,0,0, ,0,0, 
+times,5,A,10.0,1, B,10.5,2, B
+paper,5,A,8.0,1,A ,9.790697674418604,43,A B
+south,5,A,0,0, ,7.0,1,A 
+order,5,A,7.0,1,A ,8.333333333333334,3,A B
+union,5,A,12.0,1,A ,16.0,4, B
+terms,5,A,6.0,1,A ,0,0, 
+units,5,A,16.0,1, B,10.571428571428571,35,A B
+union,5,A,12.0,1,A ,16.0,4, B
+crash,5,A,5.0,1,A ,0,0, 
+david,5,A,0,0, ,0,0, 
+white,5,A,6.0,1,A ,7.363636363636363,11,A B
+talks,5,A,10.0,1,A ,11.0,6,A B
+bills,5,A,13.0,1, B,11.8,5, B
+march,5,A,22.0,1, B,0,0, 
+place,5,A,5.0,1,A ,7.636363636363637,22,A B
+steel,5,A,5.0,1,A ,12.333333333333334,12, B
+sales,5,A,6.0,1,A ,0,0, 
+cases,5,A,9.0,1,A ,6.666666666666667,3,A 
+yield,5,A,10.0,1,A ,4.0,1,A 
+court,5,A,8.0,1,A ,12.576923076923077,26,A B
+thing,5,A,9.0,1,A ,0,0, 
+goods,5,A,9.0,1,A ,10.0,1, B
+rules,5,A,7.0,1,A ,10.5,4,A B
+april,5,A,22.0,1, B,0,0, 
+hours,5,A,8.0,1, B,5.0,1,A 
+world,5,A,13.0,1, B,10.666666666666666,3,A B
+judge,5,A,9.5,2,A ,7.5,12,A B
+basis,5,A,10.0,1,A ,12.0,1, B
+marks,5,A,0,0, ,0,0, 
+areas,5,A,6.0,1,A ,8.25,32,A B
+right,5,A,11.0,1,A ,9.0,20,A B
+force,5,A,9.0,1,A ,7.4,5,A 
+trust,5,A,8.0,1,A ,13.538461538461538,13, B
+judge,5,A,9.5,2,A ,7.5,12,A B
+lines,5,A,9.0,1,A ,6.142857142857143,7,A B
+state,5,A,22.0,1, B,14.142857142857142,7,A B
+floor,5,A,17.0,1, B,8.6,5,A B
+peter,5,A,0,0, ,0,0, 
+taxes,5,A,4.0,1,A ,10.777777777777779,18,A B
+parts,5,A,11.0,1,A ,0,0, 
+staff,5,A,5.0,1,A ,11.375,8,A B
+smith,5,A,0,0, ,0,0, 
+night,5,A,10.0,1, B,10.5,2,A B
+house,5,A,8.0,2,A ,9.074074074074074,27,A B
+close,5,A,3.0,1,A ,0,0, 
+range,5,A,6.0,1,A ,8.8,10,A B
+pound,5,A,15.0,1, B,0,0, 
+study,5,A,11.0,1,A ,8.0,1,A 
+index,5,A,5.0,1,A ,14.0,1, B
+moody,5,A,0,0, ,0,0, 
+north,5,A,0,0, ,0,0, 
+motor,5,A,7.0,1,A ,8.666666666666666,3,A B
+party,5,A,12.0,1,A ,15.529411764705882,34,A B
+labor,5,A,5.0,1,A ,13.666666666666666,3,A B
+women,5,A,5.5,2,A ,7.5,58,A B
+trust,5,A,8.0,1,A ,13.538461538461538,13, B
+space,5,A,9.0,1,A ,12.5,4, B
+chain,5,A,6.0,1,A ,8.0,2,A B
+rally,5,A,9.0,1,A ,7.5,2,A B
+sense,5,A,9.0,1,A ,18.5,2, B
+media,5,A,15.0,1,A ,8.714285714285714,7,A B
+total,5,A,5.0,1,A ,0,0, 
+trial,5,A,7.0,1,A ,9.6,10,A B
+deals,5,A,11.0,1,A ,8.5,2, B
+brand,5,A,4.0,1,A ,5.0,1,A 
+story,5,A,7.0,1,A ,9.166666666666666,6,A B
+quake,5,A,20.0,1, B,6.333333333333333,3,A 
+hands,5,A,12.0,1,A ,0,0, 
+water,5,A,10.0,2,A B,9.733333333333333,15,A B
+korea,5,A,0,0, ,0,0, 
+trade,5,A,8.0,1,A ,9.0,3, B
+calls,5,A,9.0,1,A ,10.25,8,A B
+death,5,A,6.0,1,A ,9.2,5,A B
+press,5,A,7.0,1,A ,0,0, 
+baker,5,A,8.0,1,A ,0,0, 
+phone,5,A,19.0,1, B,10.428571428571429,7,A B
+field,5,A,5.0,1,A ,6.333333333333333,6,A 
+woman,5,A,5.5,2,A ,7.5,58,A B
+moves,5,A,8.0,1,A ,8.0,2,A 
+panel,5,A,5.0,1,A ,7.714285714285714,7,A 
+santa,5,A,0,0, ,0,0, 
+image,5,A,14.0,1,A ,12.8,5, B
+asset,5,A,7.0,1,A ,7.333333333333333,3,A 
+owner,5,A,11.0,1,A ,8.8,10,A B
+limit,5,A,6.0,1,A ,8.8,5,A B
+times,5,A,10.0,1, B,10.5,2, B
+items,5,A,4.0,1,A ,9.0,6,A B
+paris,5,A,0,0, ,0,0, 
+steel,5,A,5.0,1,A ,12.333333333333334,12, B
+movie,5,A,5.5,2,A ,10.0,18,A B
+miles,5,A,10.0,1, B,0,0, 
+drugs,5,A,5.0,1,A ,10.90625,32,A B
+signs,5,A,4.0,1,A ,5.0,1,A 
+trend,5,A,9.0,1,A ,0,0, 
+frank,5,A,8.0,1,A ,11.0,1, B
+brown,5,A,14.0,1, B,8.545454545454545,11,A B
+store,5,A,23.0,1, B,9.743589743589743,39,A B
+chips,5,A,6.0,1,A ,0,0, 
+steps,5,A,8.0,1,A ,6.0,1,A 
+lloyd,5,A,0,0, ,0,0, 
+party,5,A,12.0,1,A ,15.529411764705882,34,A B
+risks,5,A,6.0,1,A ,14.0,4, B
+words,5,A,6.0,1,A ,0,0, 
+buyer,5,A,8.0,1,A ,9.666666666666666,3,A B
+fraud,5,A,5.0,1,A ,12.909090909090908,11,A B
+event,5,A,20.0,1, B,8.2,10,A B
+black,5,A,15.0,1, B,9.0,1, B
+model,5,A,10.0,1,A ,12.142857142857142,7,A B
+homes,5,A,9.0,1,A ,16.0,1, B
+cable,5,A,8.0,1,A ,0,0, 
+ounce,5,A,12.5,2, B,0,0, 
+pages,5,A,4.0,1,A ,7.444444444444445,9,A B
+italy,5,A,0,0, ,0,0, 
+crime,5,A,13.0,1,A ,9.052631578947368,19,A B
+great,5,A,8.0,1,A ,0,0, 
+brady,5,A,0,0, ,0,0, 
+split,5,A,14.0,1, B,0,0, 
+seats,5,A,4.0,1,A ,8.285714285714286,7,A B
+sides,5,A,6.0,1,A ,7.777777777777778,9,A B
+prime,5,A,6.0,1,A ,11.0,1, B
+books,5,A,11.0,1,A ,8.818181818181818,22,A B
+shows,5,A,13.0,1,A ,8.785714285714286,14,A B
+slide,5,A,10.0,1, B,0,0, 
+heart,5,A,9.0,1,A ,0,0, 
+hotel,5,A,8.0,1,A ,7.428571428571429,7,A B
+chase,5,A,6.0,1,A ,7.333333333333333,3,A 
+apple,5,A,7.5,2,A B,10.666666666666666,3, B
+piece,5,A,4.0,1,A ,7.285714285714286,7,A B
+truck,5,A,12.0,1, B,8.454545454545455,11,A B
+tests,5,A,10.0,1,A ,9.4,5, B
+price,5,A,5.0,1,A ,12.2,5,A B
+start,5,A,9.0,1,A ,7.545454545454546,11,A B
+louis,5,A,0,0, ,0,0, 
+pence,5,A,22.0,1, B,0,0, 
+music,5,A,21.0,1, B,8.8125,32,A B
+power,5,A,7.0,1,A ,9.11111111111111,18,A B
+fears,5,A,7.0,1,A ,7.7272727272727275,11,A B
+giant,5,A,6.0,1,A ,0,0, 
+today,5,A,7.0,1,A ,0,0, 
+light,5,A,16.0,1, B,9.130434782608695,23,A B
+claim,5,A,9.0,1,A ,9.0,3,A B
+style,5,A,8.0,1,A ,6.222222222222222,9,A B
+panic,5,A,4.0,1,A ,6.0,1,A 
+ratio,5,A,17.0,1, B,12.324324324324325,37,A B
+labor,5,A,5.0,1,A ,13.666666666666666,3,A B
+hills,5,A,16.0,1, B,5.25,4,A 
+names,5,A,10.0,1,A ,0,0, 
+calif,5,A,5.5,2,A ,0,0, 
+radio,5,A,12.0,1,A ,0,0, 
+force,5,A,9.0,1,A ,7.4,5,A 
+votes,5,A,6.0,1,A ,10.375,8,A B
+terms,5,A,6.0,1,A ,0,0, 
+grand,5,A,12.0,1, B,9.0,1,A 
+india,5,A,0,0, ,0,0, 
+fight,5,A,14.0,1, B,9.166666666666666,6,A B
+surge,5,A,4.0,1,A ,8.5,2,A B
+class,5,A,10.0,1,A ,12.636363636363637,11,A B
+trump,5,A,11.0,1, B,0,0, 
+views,5,A,11.0,1,A ,8.625,8,A B
+davis,5,A,0,0, ,0,0, 
+sugar,5,A,10.0,1,A ,9.625,8,A B
+block,5,A,8.0,1,A ,6.117647058823529,17,A B
+child,5,A,8.0,1,A ,7.294117647058823,17,A B
+games,5,A,8.0,1,A ,9.7,10,A B
+spain,5,A,0,0, ,7.0,1,A 
+dozen,5,A,12.0,1, B,7.0,1,A 
+doubt,5,A,14.0,1, B,11.166666666666666,6,A B
+focus,5,A,13.0,1,A ,13.0,1,A 
+speed,5,A,4.0,1,A ,13.090909090909092,11,A B
+rooms,5,A,9.0,1,A ,0,0, 
+types,5,A,4.0,1,A ,6.0,3,A 
+favor,5,A,8.0,1,A ,4.0,1,A 
+young,5,A,6.0,1,A ,8.0,6,A B
+drive,5,A,10.0,1,A ,7.5,2,A 
+agent,5,A,11.0,1, B,9.38888888888889,18,A B
+voice,5,A,5.0,1,A ,12.0,1,A 
+users,5,A,6.0,1,A ,8.2,5,A B
+major,5,A,27.0,1, B,0,0, 
+coast,5,A,5.0,1,A ,7.75,4,A 
+suits,5,A,7.0,1,A ,12.666666666666666,6,A B
+while,5,A,4.0,1,A ,7.0,3,A B
+cause,5,A,6.0,1,A ,8.6,5,A 
+miami,5,A,10.0,1,A ,0,0, 
+boost,5,A,3.0,1,A ,14.0,1, B
+stage,5,A,10.0,1, B,10.238095238095237,21,A B
+worth,5,A,18.0,1, B,12.0,2,A 
+grain,5,A,4.0,1,A ,7.0,1,A 
+hopes,5,A,12.0,1,A ,0,0, 
+delta,5,A,17.5,2, B,0,0, 
+costa,5,A,9.0,1,A ,0,0, 
+front,5,A,4.0,1,A ,9.0,1,A 
+track,5,A,4.0,1,A ,7.666666666666667,6,A B
+genes,5,A,8.0,1,A ,11.0,21,A B
+table,5,A,5.0,1,A ,13.0,6,A B
+blood,5,A,19.0,1, B,9.5,10,A B
+shift,5,A,11.0,1,A ,8.5,2,A 
+radio,5,A,12.0,1,A ,0,0, 
+title,5,A,7.0,1,A ,0,0, 
+wells,5,A,0,0, ,0,0, 
+goals,5,A,7.0,1,A ,7.0,7,A 
+mason,5,A,0,0, ,0,0, 
+visit,5,A,7.0,1,A ,7.75,4,A B
+forms,5,A,4.0,1,A ,8.0,8,A B
+cells,5,A,11.0,1,A ,0,0, 
+river,5,A,6.0,1,A ,0,0, 
+seoul,5,A,0,0, ,0,0, 
+royal,5,A,4.0,1,A ,0,0, 
+crude,5,A,6.5,2,A B,11.0,1, B
+henry,5,A,14.0,1, B,0,0, 
+pilot,5,A,7.0,1,A ,8.571428571428571,7,A B
+nixon,5,A,0,0, ,0,0, 
+fifth,5,A,22.0,1, B,0,0, 
+metal,5,A,15.0,1, B,7.896103896103896,77,A B
+cycle,5,A,12.0,1, B,0,0, 
+color,5,A,14.0,1, B,11.0,9,A B
+vegas,5,A,0,0, ,0,0, 
+sheet,5,A,7.0,1,A ,0,0, 
+allen,5,A,0,0, ,0,0, 
+round,5,A,10.0,1,A ,0,0, 
+slump,5,A,13.0,1,A ,0,0, 
+scott,5,A,0,0, ,0,0, 
+mayor,5,A,12.0,2,A B,8.5,4,A 
+works,5,A,15.0,1, B,10.0,11,A B
+posts,5,A,8.0,1,A ,9.0,3,A 
+glass,5,A,5.0,1,A ,10.153846153846153,13,A B
+press,5,A,7.0,1,A ,0,0, 
+pence,5,A,22.0,1, B,0,0, 
+cross,5,A,9.0,1,A ,0,0, 
+paper,5,A,8.0,1,A ,9.790697674418604,43,A B
+ships,5,A,6.0,1,A ,9.892857142857142,28,A B
+lives,5,A,5.0,1,A ,6.0,1,A 
+beach,5,A,19.0,1, B,5.0,1,A 
+class,5,A,10.0,1,A ,12.636363636363637,11,A B
+plane,5,A,21.0,1, B,9.933333333333334,15,A B
+award,5,A,5.0,1,A ,9.0,1,A 
+shops,5,A,23.0,1, B,9.743589743589743,39,A B
+rally,5,A,9.0,1,A ,7.5,2,A B
+roman,5,A,7.0,1,A ,0,0, 
+maine,5,A,0,0, ,0,0, 
+green,5,A,14.0,1, B,9.9,10,A B
+scale,5,A,8.0,1,A ,12.555555555555555,9,A B
+peace,5,A,5.0,1,A ,10.6,5,A B
+lewis,5,A,0,0, ,0,0, 
+brain,5,A,15.0,1, B,0,0, 
+teams,5,A,4.0,1,A ,10.35,20,A B
+tiger,5,A,6.0,1,A ,0,0, 
+ideas,5,A,7.0,1,A ,8.3,20,A 
+whole,5,A,7.0,1,A ,6.333333333333333,3,A 
+delay,5,A,5.0,1,A ,10.0,3,A 
+probe,5,A,7.0,1,A ,17.0,1, B
+needs,5,A,9.0,1,A ,6.5,2,A 
+waste,5,A,8.0,1,A ,7.2727272727272725,11,A B
+eagle,5,A,10.0,1, B,8.166666666666666,6,A B
+stuff,5,A,9.0,1,A ,8.980392156862745,51,A B
+scene,5,A,4.0,1,A ,7.0,5,A B
+tools,5,A,9.0,1,A ,6.34375,32,A B
+novel,5,A,7.0,1,A ,10.0,6,A B
+wages,5,A,11.0,1,A ,0,0, 
+wheat,5,A,6.0,1,A ,7.333333333333333,6,A B
+debts,5,A,12.0,1,A ,0,0, 
+cards,5,A,4.0,1,A ,7.458333333333333,24,A B
+bases,5,A,20.0,1, B,8.2,5,A B
+bikes,5,A,12.0,1, B,8.5,2,A B
+shell,5,A,10.0,1,A ,10.2,5,A B
+walls,5,A,9.0,1,A ,8.8,10,A B
+daily,5,A,9.0,1,A ,0,0, 
+stein,5,A,3.0,1,A ,0,0, 
+apple,5,A,7.5,2,A B,10.666666666666666,3, B
+highs,5,A,6.0,1,A ,0,0, 
+kinds,5,A,8.0,1,A ,5.8125,16,A B
+fleet,5,A,10.0,1,A ,0,0, 
+theme,5,A,7.0,1,A ,10.0,4,A B
+entry,5,A,13.0,1, B,12.666666666666666,3, B
+mayor,5,A,12.0,2,A B,8.5,4,A 
+glenn,5,A,0,0, ,0,0, 
+acres,5,A,12.0,1, B,7.928571428571429,14,A B
+brief,5,A,13.0,1, B,17.0,1, B
+facts,5,A,11.0,1,A ,7.333333333333333,9,A B
+glass,5,A,5.0,1,A ,10.153846153846153,13,A B
+aides,5,A,0,0, ,0,0, 
+lotus,5,A,9.0,1, B,0,0, 
+bonds,5,A,10.0,1,A ,11.0,6,A B
+shelf,5,A,7.0,1,A ,7.0,4,A 
+youth,5,A,8.0,1,A ,7.2,5,A 
+ghost,5,A,10.0,1,A ,0,0, 
+stock,5,A,7.0,1,A ,12.538461538461538,13,A B
+latin,5,A,6.0,1,A ,9.166666666666666,6,A B
+films,5,A,5.5,2,A ,10.0,18,A B
+chief,5,A,6.0,1,A ,10.3,10,A B
+shape,5,A,15.0,1, B,9.923076923076923,13,A 
+cable,5,A,8.0,1,A ,0,0, 
+audit,5,A,10.0,1,A ,13.0,2, B
+video,5,A,19.0,1, B,0,0, 
+field,5,A,5.0,1,A ,6.333333333333333,6,A 
+guide,5,A,6.0,1,A ,9.0,1,A 
+crowd,5,A,9.0,1,A ,5.0,7,A 
+break,5,A,9.0,1,A ,9.75,4,A 
+midst,5,A,6.0,1,A ,0,0, 
+bruce,5,A,0,0, ,0,0, 
+storm,5,A,21.0,1, B,9.375,8,A B
+lunch,5,A,4.0,1,A ,13.0,1, B
+cocoa,5,A,8.0,1,A ,0,0, 
+means,5,A,14.0,1,A ,8.076923076923077,13,A B
+tower,5,A,9.0,1,A ,8.529411764705882,17,A B
+tandy,5,A,0,0, ,0,0, 
+moore,5,A,0,0, ,0,0, 
+milan,5,A,0,0, ,0,0, 
+polls,5,A,8.0,1,A ,0,0, 
+mines,5,A,10.0,1,A ,9.142857142857142,7,A B
+check,5,A,5.0,1,A ,9.454545454545455,11,A B
+evans,5,A,0,0, ,0,0, 
+abuse,5,A,12.0,1,A ,10.0,4,A B
+debut,5,A,9.0,1,A ,13.0,4,A B
+bench,5,A,4.0,1,A ,8.125,8,A B
+shock,5,A,12.0,1,A ,0,0, 
+lists,5,A,8.0,1,A ,8.127659574468085,47,A B
+arrow,5,A,4.0,1,A ,0,0, 
+horse,5,A,6.0,1,A ,7.862068965517241,29,A B
+giant,5,A,6.0,1,A ,0,0, 
+stone,5,A,13.0,1, B,8.117647058823529,17,A B
+block,5,A,8.0,1,A ,6.117647058823529,17,A B
+fargo,5,A,0,0, ,0,0, 
+bronx,5,A,0,0, ,0,0, 
+stand,5,A,7.0,1,A ,7.5,4,A B
+jerry,5,A,6.0,1,A ,0,0, 
+waves,5,A,8.0,1,A ,6.076923076923077,13,A B
+quota,5,A,6.0,1,A ,0,0, 
+coast,5,A,5.0,1,A ,7.75,4,A 
+human,5,A,7.0,1,A ,10.857142857142858,7,A B
+truth,5,A,4.0,1,A ,7.5,2,A B
+money,5,A,16.0,1, B,9.5,6,A B
+sound,5,A,13.0,1, B,6.0,4,A 
+spill,5,A,6.0,1,A ,0,0, 
+asset,5,A,7.0,1,A ,7.333333333333333,3,A 
+cargo,5,A,11.0,1,A ,0,0, 
+doors,5,A,14.0,1, B,9.666666666666666,12, B
+array,5,A,11.0,1,A ,5.571428571428571,7,A 
+roads,5,A,9.0,1,A ,0,0, 
+bells,5,A,14.5,2, B,9.090909090909092,11,A B
+sites,5,A,5.0,1,A ,6.533333333333333,15,A B
+third,5,A,14.0,1, B,0,0, 
+mills,5,A,0,0, ,0,0, 
+bonus,5,A,16.0,1, B,0,0, 
+paper,5,A,8.0,1,A ,9.790697674418604,43,A B
+rouge,5,A,6.0,1,A ,0,0, 
+topic,5,A,7.0,1,A ,10.0,4,A B
+clark,5,A,0,0, ,0,0, 
+rates,5,A,3.0,1,A ,9.0,1, B
+swiss,5,A,6.0,1,A ,7.0,1,A 
+ozone,5,A,3.0,1,A ,0,0, 
+guard,5,A,8.0,1,A ,8.6,5,A 
+motor,5,A,7.0,1,A ,8.666666666666666,3,A B
+error,5,A,17.0,1,A ,7.846153846153846,13,A 
+tower,5,A,9.0,1,A ,8.529411764705882,17,A B
+beers,5,A,4.0,1,A ,5.25,4,A B
+saudi,5,A,4.0,1,A ,0,0, 
+dream,5,A,11.0,1,A ,8.5,2,A B
+hotel,5,A,8.0,1,A ,7.428571428571429,7,A B
+grace,5,A,5.0,1,A ,0,0, 
+teddy,5,A,9.0,1,A ,0,0, 
+year,4,A,10.0,1, B,8.166666666666666,12,A B
+york,4,A,7.0,2,A ,0,0, 
+time,4,A,4.0,1,A ,0,0, 
+week,4,A,10.0,1, B,7.5,4,A B
+unit,4,A,16.0,1, B,10.571428571428571,35,A B
+rate,4,A,17.0,1, B,10.285714285714286,35,A B
+days,4,A,4.0,1,A ,0,0, 
+firm,4,A,8.0,1,A ,10.428571428571429,7,A B
+debt,4,A,12.0,1,A ,0,0, 
+bank,4,A,5.0,1,A ,9.0,2,A 
+plan,4,A,4.0,1,A ,10.0,13,A B
+part,4,A,8.0,1,A ,6.6,10,A B
+sale,4,A,7.0,1,A ,11.0,1,A 
+loss,4,A,19.0,1, B,9.0,4,A B
+bank,4,A,5.0,1,A ,9.0,2,A 
+vice,4,A,4.0,1,A ,0,0, 
+cash,4,A,8.0,1,A ,8.6,5,A B
+bush,4,A,10.0,1, B,10.085526315789474,304,A B
+bill,4,A,13.0,1, B,11.8,5, B
+case,4,A,9.0,1,A ,6.666666666666667,3,A 
+wall,4,A,9.0,1,A ,8.8,10,A B
+news,4,A,11.0,1,A ,6.666666666666667,3,A B
+john,4,A,4.0,1,A ,8.75,4,A B
+bond,4,A,10.0,1,A ,11.0,6,A B
+work,4,A,8.0,1,A ,7.703703703703703,27,A B
+junk,4,A,7.0,1,A ,5.0,1,A 
+home,4,A,9.0,1,A ,16.0,1, B
+fund,4,A,5.0,1,A ,9.090909090909092,11,A B
+line,4,A,9.0,1,A ,6.142857142857143,7,A B
+move,4,A,8.0,1,A ,8.0,2,A 
+drop,4,A,6.0,1,A ,7.5,2,A 
+deal,4,A,11.0,1,A ,8.5,2, B
+cost,4,A,5.0,1,A ,10.842105263157896,19,A B
+west,4,A,0,0, ,0,0, 
+life,4,A,5.0,1,A ,6.0,1,A 
+gain,4,A,18.0,1, B,9.0,1,A 
+ford,4,A,0,0, ,0,0, 
+area,4,A,6.0,1,A ,8.25,32,A B
+july,4,A,22.0,1, B,0,0, 
+june,4,A,22.0,1, B,0,0, 
+loan,4,A,4.0,1,A ,10.7,10,A B
+corp,4,A,4.0,1,A ,20.3,10,A B
+suit,4,A,7.0,1,A ,12.666666666666666,6,A B
+city,4,A,12.0,1,A ,14.666666666666666,3, B
+fact,4,A,11.0,1,A ,7.333333333333333,9,A B
+drug,4,A,5.0,1,A ,10.90625,32,A B
+auto,4,A,12.0,1, B,7.967741935483871,31,A B
+city,4,A,12.0,1,A ,14.666666666666666,3, B
+cars,4,A,12.0,1, B,7.967741935483871,31,A B
+head,4,A,16.0,1, B,9.0,1, B
+risk,4,A,6.0,1,A ,14.0,4, B
+half,4,A,14.0,1, B,9.0,2,A B
+food,4,A,9.0,1,A ,8.6,15,A B
+east,4,A,20.0,1, B,0,0, 
+role,4,A,4.0,1,A ,7.4,5,A B
+team,4,A,4.0,1,A ,10.35,20,A B
+rise,4,A,9.0,1,A ,6.0,3,A B
+data,4,A,10.0,1,A ,9.666666666666666,3,A B
+name,4,A,12.0,1, B,8.73076923076923,26,A B
+paul,4,A,0,0, ,0,0, 
+gold,4,A,13.0,1, B,0,0, 
+kind,4,A,8.0,1,A ,5.8125,16,A B
+fees,4,A,11.0,1, B,9.130434782608695,23,A B
+tons,4,A,23.0,1, B,0,0, 
+fall,4,A,6.0,1,A ,0,0, 
+hand,4,A,9.0,1,A ,4.5,4,A 
+view,4,A,11.0,1,A ,8.625,8,A B
+face,4,A,16.0,1, B,11.0,1,A 
+side,4,A,6.0,1,A ,7.777777777777778,9,A B
+show,4,A,13.0,1,A ,8.785714285714286,14,A B
+base,4,A,20.0,1, B,8.2,5,A B
+news,4,A,11.0,1,A ,6.666666666666667,3,A B
+rest,4,A,4.0,1,A ,8.0,1,A 
+test,4,A,10.0,1,A ,9.4,5, B
+game,4,A,8.0,1,A ,9.7,10,A B
+term,4,A,4.0,1,A ,8.0,1,A 
+size,4,A,9.0,1,A ,9.75,4,A 
+idea,4,A,7.0,1,A ,8.3,20,A 
+past,4,A,4.0,1,A ,7.857142857142857,7,A B
+ways,4,A,9.0,1,A ,0,0, 
+time,4,A,4.0,1,A ,0,0, 
+vote,4,A,6.0,1,A ,10.375,8,A B
+form,4,A,4.0,1,A ,8.0,8,A B
+wage,4,A,14.0,1, B,9.090909090909092,11,A B
+fund,4,A,5.0,1,A ,9.090909090909092,11,A B
+hugo,4,A,0,0, ,0,0, 
+hour,4,A,8.0,1, B,9.5,2, B
+date,4,A,3.0,1,A ,8.0,2,A 
+jobs,4,A,8.0,1,A ,8.266666666666667,15,A 
+cuts,4,A,5.0,1,A ,8.0,1,A 
+ohio,4,A,0,0, ,0,0, 
+room,4,A,4.0,1,A ,8.602564102564102,78,A B
+bids,4,A,9.0,1, B,9.0,7,A B
+sign,4,A,4.0,1,A ,5.0,1,A 
+list,4,A,8.0,1,A ,8.127659574468085,47,A B
+feet,4,A,14.0,1, B,8.0,1,A 
+book,4,A,11.0,1,A ,8.818181818181818,22,A B
+ones,4,A,5.0,1,A ,7.0,2,A 
+note,4,A,13.0,1, B,6.75,4,A 
+gulf,4,A,11.0,1, B,0,0, 
+care,4,A,4.0,1,A ,9.8,20,A B
+land,4,A,12.0,1, B,9.666666666666666,3,A B
+veto,4,A,4.0,1,A ,10.0,1, B
+rule,4,A,7.0,1,A ,10.5,4,A B
+laws,4,A,0,0, ,0,0, 
+need,4,A,9.0,1,A ,6.5,2,A 
+film,4,A,5.5,2,A ,10.0,18,A B
+jury,4,A,4.0,1,A ,9.25,4, B
+step,4,A,8.0,1,A ,12.666666666666666,3,A B
+home,4,A,9.0,1,A ,16.0,1, B
+data,4,A,10.0,1,A ,9.666666666666666,3,A B
+lack,4,A,4.0,1,A ,9.333333333333334,6,A B
+post,4,A,8.0,1,A ,9.0,3,A 
+poor,4,A,6.0,1,A ,6.5,2,A 
+bell,4,A,14.5,2, B,9.090909090909092,11,A B
+bond,4,A,10.0,1,A ,11.0,6,A B
+asia,4,A,0,0, ,0,0, 
+help,4,A,8.0,1,A ,7.333333333333333,12,A 
+flow,4,A,16.0,1, B,6.466666666666667,15,A 
+pace,4,A,4.0,1,A ,9.5,2, B
+park,4,A,5.0,1,A ,11.0,2, B
+loan,4,A,4.0,1,A ,10.7,10,A B
+jack,4,A,23.0,1, B,0,0, 
+life,4,A,5.0,1,A ,6.0,1,A 
+bear,4,A,9.0,1,A ,10.0,7,A B
+sort,4,A,8.0,1,A ,5.8125,16,A B
+town,4,A,12.0,1,A ,8.0,7,A B
+wake,4,A,11.0,1,A ,0,0, 
+goal,4,A,7.0,1,A ,7.0,7,A 
+mark,4,A,10.0,1,A ,8.5,4,A B
+hill,4,A,16.0,1, B,5.25,4,A 
+corn,4,A,6.0,1,A ,8.333333333333334,3,A B
+call,4,A,9.0,1,A ,10.25,8,A B
+navy,4,A,15.0,1, B,0,0, 
+site,4,A,5.0,1,A ,6.533333333333333,15,A B
+wife,4,A,5.5,2,A ,8.529411764705882,17,A B
+word,4,A,12.0,1, B,9.037037037037036,54,A B
+core,4,A,3.0,1,A ,5.0,1,A 
+bill,4,A,13.0,1, B,11.8,5, B
+type,4,A,4.0,1,A ,6.0,3,A 
+gene,4,A,8.0,1,A ,11.0,21,A B
+lead,4,A,9.0,1,A ,0,0, 
+fire,4,A,9.0,1,A ,8.666666666666666,9,A B
+coup,4,A,11.0,1, B,11.0,1,A 
+task,4,A,4.0,1,A ,8.545454545454545,11,A B
+mind,4,A,9.0,1,A ,10.0,5,A B
+mail,4,A,7.0,1,A ,10.4,10,A B
+fear,4,A,7.0,1,A ,7.7272727272727275,11,A B
+hope,4,A,12.0,1,A ,0,0, 
+none,4,A,4.0,1,A ,0,0, 
+pact,4,A,16.0,1, B,9.75,4,A B
+talk,4,A,12.0,1,A ,6.857142857142857,7,A B
+sell,4,A,4.0,1,A ,0,0, 
+fine,4,A,7.0,1,A ,11.0,1, B
+ties,4,A,8.0,1,A ,9.333333333333334,6,A B
+ross,4,A,0,0, ,0,0, 
+crop,4,A,6.0,1,A ,8.0,1,A 
+door,4,A,14.0,1, B,9.666666666666666,12, B
+seat,4,A,5.0,1,A ,5.0,1,A 
+spot,4,A,5.0,1,A ,7.636363636363637,22,A B
+dean,4,A,21.0,1, B,0,0, 
+mark,4,A,10.0,1,A ,8.5,4,A B
+chip,4,A,8.0,1,A ,6.75,4,A 
+look,4,A,11.0,1,A ,5.5,2,A 
+road,4,A,3.0,1,A ,7.368421052631579,19,A B
+aide,4,A,15.0,1, B,15.0,1, B
+halt,4,A,8.0,1,A ,9.0,2,A 
+turn,4,A,5.0,1,A ,5.0,1,A 
+card,4,A,5.0,1,A ,10.5,4, B
+drug,4,A,5.0,1,A ,10.90625,32,A B
+king,4,A,9.0,1,A ,13.666666666666666,3, B
+nyse,4,A,0,0, ,0,0, 
+heat,4,A,6.0,1,A ,14.166666666666666,6, B
+race,4,A,7.0,1,A ,12.5,2, B
+aids,4,A,16.5,2,A B,0,0, 
+hall,4,A,8.0,1,A ,9.0,1,A 
+disk,4,A,10.0,1, B,11.5,2,A B
+beer,4,A,4.0,1,A ,5.25,4,A B
+tape,4,A,5.0,1,A ,8.0,3,A B
+wave,4,A,8.0,1,A ,6.076923076923077,13,A B
+army,4,A,15.0,1, B,11.0,5,A B
+boom,4,A,5.0,1,A ,0,0, 
+back,4,A,8.0,1, B,0,0, 
+trip,4,A,7.0,1,A ,6.0,8,A B
+coal,4,A,12.5,2, B,10.0,4,A B
+high,4,A,6.0,1,A ,0,0, 
+wolf,4,A,6.0,1,A ,7.8,5,A B
+food,4,A,9.0,1,A ,8.6,15,A B
+bull,4,A,6.0,1,A ,7.0,1,A 
+mine,4,A,10.0,1,A ,9.142857142857142,7,A B
+opec,4,A,13.0,2, B,0,0, 
+star,4,A,13.0,1, B,8.785714285714286,14,A B
+jump,4,A,8.0,1,A ,11.0,1, B
+will,4,A,7.0,1,A ,8.0,1,A 
+host,4,A,5.0,1,A ,7.0,1,A 
+play,4,A,19.0,1, B,11.375,8,A B
+fans,4,A,6.0,1,A ,9.0,3,A B
+body,4,A,13.0,1, B,8.333333333333334,3, B
+bond,4,A,10.0,1,A ,11.0,6,A B
+mesa,4,A,9.0,1,A ,0,0, 
+fuel,4,A,9.0,1,A ,7.714285714285714,21,A B
+pulp,4,A,4.0,1,A ,0,0, 
+arms,4,A,15.0,1,A ,9.0,7,A B
+gary,4,A,0,0, ,0,0, 
+farm,4,A,9.0,1,A ,7.769230769230769,13,A B
+data,4,A,10.0,1,A ,9.666666666666666,3,A B
+hunt,4,A,0,0, ,0,0, 
+rape,4,A,7.0,1,A ,0,0, 
+eyes,4,A,7.0,1,A ,0,0, 
+tone,4,A,16.0,1, B,7.333333333333333,3,A 
+nasa,4,A,17.0,1, B,0,0, 
+shop,4,A,23.0,1, B,9.743589743589743,39,A B
+lots,4,A,23.0,1, B,0,0, 
+mary,4,A,0,0, ,0,0, 
+fees,4,A,11.0,1, B,9.130434782608695,23,A B
+iowa,4,A,5.0,1,A ,0,0, 
+vice,4,A,4.0,1,A ,0,0, 
+care,4,A,4.0,1,A ,9.8,20,A B
+peak,4,A,5.0,1,A ,7.0,2,A 
+club,4,A,12.0,1, B,0,0, 
+hahn,4,A,0,0, ,0,0, 
+pool,4,A,10.0,1,A ,9.5,4,A B
+bulk,4,A,6.0,1,A ,0,0, 
+guys,4,A,3.0,1,A ,3.0,1,A 
+baby,4,A,5.0,1,A ,8.11111111111111,9,A B
+gold,4,A,13.0,1, B,0,0, 
+bloc,4,A,8.0,1,A ,12.0,1, B
+poll,4,A,7.0,1,A ,8.5,2, B
+wine,4,A,7.0,1,A ,8.791666666666666,24,A B
+free,4,A,6.0,1,A ,0,0, 
+eggs,4,A,9.0,1,A ,0,0, 
+blow,4,A,6.0,1,A ,5.909090909090909,22,A 
+pill,4,A,5.0,1,A ,11.0,1, B
+kids,4,A,8.0,1,A ,7.294117647058823,17,A B
+page,4,A,4.0,1,A ,7.444444444444445,9,A B
+duty,4,A,13.0,1, B,11.0,14,A B
+high,4,A,6.0,1,A ,0,0, 
+sets,4,A,10.0,1,A ,6.8,25,A B
+code,4,A,20.0,1, B,9.25,8,A B
+club,4,A,12.0,1, B,0,0, 
+flag,4,A,6.0,1,A ,8.533333333333333,15,A B
+blue,4,A,14.0,1, B,9.875,8,A B
+coke,4,A,4.0,1,A ,0,0, 
+lire,4,A,19.0,1, B,0,0, 
+mill,4,A,5.0,1,A ,10.363636363636363,11,A B
+amex,4,A,0,0, ,0,0, 
+mass,4,A,17.5,2, B,10.416666666666666,12,A B
+tool,4,A,9.0,1,A ,6.34375,32,A B
+load,4,A,6.0,1,A ,8.0,6,A B
+roll,4,A,8.0,1,A ,6.0,1,A 
+post,4,A,8.0,1,A ,9.0,3,A 
+fiat,4,A,3.0,1,A ,9.555555555555555,9,A B
+wire,4,A,8.0,1,A ,8.8,5,A B
+cent,4,A,17.5,2, B,0,0, 
+shot,4,A,10.0,1,A ,8.0,7,A 
+mood,4,A,7.0,1,A ,6.5,4,A B
+odds,4,A,10.0,1,A ,0,0, 
+park,4,A,5.0,1,A ,11.0,2, B
+lane,4,A,3.0,1,A ,0,0, 
+plea,4,A,8.0,1,A ,0,0, 
+cell,4,A,11.0,1,A ,0,0, 
+toll,4,A,3.0,1,A ,0,0, 
+foot,4,A,14.0,1, B,8.0,1,A 
+line,4,A,9.0,1,A ,6.142857142857143,7,A B
+lows,4,A,7.0,1, B,0,0, 
+hits,4,A,4.0,1,A ,7.0,1, B
+wall,4,A,9.0,1,A ,8.8,10,A B
+seed,4,A,5.0,1,A ,8.055555555555555,18,A B
+rico,4,A,3.0,1,A ,0,0, 
+milk,4,A,10.0,2,A B,11.473684210526315,19,A B
+swap,4,A,8.0,1,A ,10.0,1, B
+sand,4,A,4.0,1,A ,0,0, 
+utah,4,A,0,0, ,0,0, 
+rain,4,A,13.0,1,A ,7.4,5,A 
+edge,4,A,8.0,1,A ,4.5,2,A 
+link,4,A,7.0,1,A ,0,0, 
+rico,4,A,3.0,1,A ,0,0, 
+rock,4,A,13.0,1, B,8.117647058823529,17,A B
+area,4,A,6.0,1,A ,8.25,32,A B
+user,4,A,6.0,1,A ,8.2,5,A B
+acts,4,A,0,0, ,0,0, 
+copy,4,A,13.0,1, B,0,0, 
+star,4,A,13.0,1, B,8.785714285714286,14,A B
+song,4,A,18.0,1, B,7.65,20,A B
+gray,4,A,15.0,1, B,9.5,6,A B
+band,4,A,11.0,1, B,7.375,8,A B
+rout,4,A,5.0,1,A ,8.0,1, B
+path,4,A,6.0,1,A ,9.8,5,A B
+desk,4,A,5.0,1,A ,9.666666666666666,3,A B
+moon,4,A,0,0, ,0,0, 
+bias,4,A,10.0,1,A ,11.857142857142858,7,A B
+lake,4,A,11.0,1, B,5.75,8,A B
+fuji,4,A,15.0,1, B,0,0, 
+army,4,A,15.0,1, B,11.0,5,A B
+alto,4,A,6.0,1,A ,12.0,1,A 
+hold,4,A,8.0,1,A ,9.666666666666666,3,A B
+ship,4,A,6.0,1,A ,9.892857142857142,28,A B
+jail,4,A,23.0,1, B,9.833333333333334,6,A B
+pork,4,A,4.0,1,A ,9.666666666666666,3, B
+cuba,4,A,0,0, ,0,0, 
+rose,4,A,5.0,1,A ,9.636363636363637,11,A B
+rate,4,A,17.0,1, B,10.285714285714286,35,A B
+wars,4,A,14.0,1, B,11.88888888888889,9,A B
+bass,4,A,5.0,1,A ,0,0, 
+yale,4,A,0,0, ,0,0, 
+bike,4,A,12.0,1, B,8.5,2,A B
+tax,3,A,4.0,1,A ,10.777777777777779,18,A B
+way,3,A,8.0,1,A ,6.222222222222222,9,A B
+day,3,A,8.0,1, B,5.571428571428571,7,A 
+bid,3,A,9.0,1, B,9.0,7,A B
+law,3,A,10.0,1,A ,10.785714285714286,14,A B
+end,3,A,9.0,1,A ,6.642857142857143,14,A B
+oil,3,A,5.0,1,A ,9.90625,32,A B
+inc,3,A,10.0,1,A ,0,0, 
+fed,3,A,5.0,1,A ,0,0, 
+lot,3,A,23.0,1, B,5.5,2,A 
+yen,3,A,7.0,1,A ,0,0, 
+use,3,A,8.0,1,A ,8.333333333333334,6,A 
+car,3,A,12.0,1, B,7.967741935483871,31,A B
+yen,3,A,7.0,1,A ,0,0, 
+gas,3,A,13.0,1, B,0,0, 
+net,3,A,15.0,1, B,0,0, 
+air,3,A,3.0,1,A ,7.0,3,A B
+job,3,A,8.0,1,A ,8.266666666666667,15,A 
+one,3,A,5.0,1,A ,7.0,2,A 
+man,3,A,4.5,2,A ,7.333333333333333,51,A B
+bay,3,A,11.0,1, B,9.0,2,A B
+may,3,A,22.0,1, B,0,0, 
+men,3,A,5.0,1,A ,10.0,1,A 
+aid,3,A,8.0,1,A ,0,0, 
+sec,3,A,8.0,1, B,10.0,1, B
+age,3,A,8.0,1,A ,9.555555555555555,9,A B
+irs,3,A,6.0,1,A ,0,0, 
+war,3,A,14.0,1, B,11.88888888888889,9,A B
+cut,3,A,5.0,1,A ,8.0,1,A 
+air,3,A,3.0,1,A ,7.0,3,A B
+ads,3,A,9.0,1,A ,8.777777777777779,9,A B
+lin,3,A,0,0, ,0,0, 
+act,3,A,13.0,1, B,9.0,3,A B
+sir,3,A,3.0,1,A ,0,0, 
+abc,3,A,12.0,1,A ,0,0, 
+art,3,A,8.0,1,A ,8.266666666666667,15,A B
+top,3,A,6.0,1,A ,5.8,5,A 
+bit,3,A,23.0,1, B,0,0, 
+hud,3,A,19.0,1, B,0,0, 
+par,3,A,5.0,1,A ,0,0, 
+pay,3,A,14.0,1, B,9.090909090909092,11,A B
+sun,3,A,0,0, ,0,0, 
+lee,3,A,0,0, ,0,0, 
+eye,3,A,10.0,1, B,10.0,6,A B
+oil,3,A,5.0,1,A ,9.90625,32,A B
+red,3,A,14.0,1, B,8.0,9,A B
+set,3,A,10.0,1,A ,6.8,25,A B
+mac,3,A,8.0,1,A ,7.0,1,A 
+act,3,A,13.0,1, B,9.0,3,A B
+ban,3,A,6.0,1,A ,10.666666666666666,3,A 
+sea,3,A,11.0,1, B,8.0,1, B
+gnp,3,A,5.0,1,A ,24.0,1, B
+cds,3,A,15.0,1, B,0,0, 
+gop,3,A,5.0,1,A ,0,0, 
+gas,3,A,13.0,1, B,0,0, 
+son,3,A,13.0,1, B,8.5,2,A B
+fda,3,A,6.0,1,A ,0,0, 
+war,3,A,14.0,1, B,11.88888888888889,9,A B
+gap,3,A,9.0,1,A ,0,0, 
+bob,3,A,19.0,1, B,0,0, 
+run,3,A,5.0,1,A ,10.333333333333334,3, B
+las,3,A,15.0,1, B,0,0, 
+tom,3,A,5.0,1,A ,0,0, 
+nec,3,A,19.0,1, B,0,0, 
+fha,3,A,6.0,1,A ,0,0, 
+guy,3,A,3.0,1,A ,3.0,1,A 
+sam,3,A,13.0,1, B,6.5,2,A 
+buy,3,A,8.0,1,A ,8.5,2,A B
+arm,3,A,4.0,1,A ,0,0, 
+iii,3,A,5.0,1,A ,0,0, 
+key,3,A,6.0,1,A ,8.666666666666666,3,A B
+fcc,3,A,17.0,1, B,0,0, 
+fee,3,A,11.0,1, B,9.130434782608695,23,A B
+cia,3,A,23.5,2, B,0,0, 
+ton,3,A,15.0,1, B,0,0, 
+van,3,A,16.0,1, B,0,0, 
+hit,3,A,4.0,1,A ,7.0,1, B
+fbi,3,A,20.0,1, B,0,0, 
+usa,3,A,0,0, ,0,0, 
+sex,3,A,13.0,1, B,10.473684210526315,19,A B
+old,3,A,4.0,1,A ,0,0, 
+tax,3,A,4.0,1,A ,10.777777777777779,18,A B
+fox,3,A,6.0,1,A ,6.5,8,A B
+art,3,A,8.0,1,A ,8.266666666666667,15,A B
+day,3,A,8.0,1, B,5.571428571428571,7,A 
+row,3,A,4.0,1,A ,8.0,2,A 
+bar,3,A,4.0,1,A ,11.75,4,A B
+mix,3,A,10.0,1,A ,12.5,2,A B
+far,3,A,0,0, ,0,0, 
+dun,3,A,11.0,1, B,0,0, 
+law,3,A,10.0,1,A ,10.785714285714286,14,A B
+era,3,A,10.0,1, B,8.666666666666666,3,A B
+pit,3,A,4.0,1,A ,8.0,9,A B
+cap,3,A,9.0,1,A ,7.857142857142857,28,A B
+bet,3,A,6.0,1,A ,3.6666666666666665,3,A 
+net,3,A,15.0,1, B,0,0, 
+jet,3,A,8.0,1,A ,7.25,4,A 
+toy,3,A,8.0,1,A ,7.393939393939394,33,A B
+imf,3,A,19.0,1, B,0,0, 
+bus,3,A,15.0,1, B,8.666666666666666,3,A B
+est,3,A,9.0,1, B,0,0, 
+put,3,A,6.0,1,A ,0,0, 
+ftc,3,A,17.0,1, B,0,0, 
+egg,3,A,4.0,1,A ,5.2,5,A B
+sum,3,A,6.0,1,A ,7.785714285714286,14,A B
+epa,3,A,17.0,1, B,0,0, 
+ira,3,A,0,0, ,0,0, 
+des,3,A,8.0,1,A ,0,0, 
+jay,3,A,0,0, ,0,0, 
+pan,3,A,14.0,1, B,8.0,7,A B
+co,2,A,8.0,1,A ,0,0, 
+ad,2,A,9.0,1,A ,8.777777777777779,9,A B
+gm,2,A,16.0,1, B,0,0, 
+tv,2,A,12.0,1,A ,20.0,2, B
+ag,2,A,9.5,2,A B,10.0,1, B
+ec,2,A,17.0,1, B,0,0, 
+ii,2,A,5.0,1,A ,5.5,2,A 
+tv,2,A,12.0,1,A ,20.0,2, B
+ge,2,A,14.0,2,A B,0,0, 
+fe,2,A,15.0,1, B,9.727272727272727,11, B
+de,2,A,0,0, ,0,0, 
+el,2,A,15.0,1, B,0,0, 
+la,2,A,15.0,1, B,0,0, 
+li,2,A,15.0,1, B,0,0, 
+cd,2,A,15.0,1, B,0,0, 
+ps,2,A,4.0,1,A ,0,0, 
+de,2,A,0,0, ,0,0, 
+ab,2,A,16.0,1, B,0,0, 
+cd,2,A,15.0,1, B,0,0, 
+s,1,A,8.0,1, B,10.0,1, B
+p,1,A,15.0,1, B,0,0, 
+s,1,A,8.0,1, B,10.0,1, B
+t,1,A,10.0,1,A ,0,0, 
+a,1,A,16.0,1, B,0,0, 
+g,1,A,16.0,1, B,0,0, 
+b,1,A,10.0,1,A ,15.666666666666666,3, B
+c,1,A,6.0,1,A ,19.0,1, B
+k,1,A,15.0,1, B,0,0, 
+l,1,A,18.0,1, B,0,0, 
+j,1,A,8.0,1, B,0,0, 
+r,1,A,17.0,1, B,0,0, 
+l,1,A,18.0,1, B,0,0, 
+y,1,A,15.0,1, B,0,0, 

@@ -23,10 +23,10 @@ print('can only find *.POS file')
 print('')
 outputFile = open(sys.argv[2], 'w+')
 for f in listAllFile(sys.argv[1], 1):
-    if (re.search("\.POS$", f) != None):
+    if (re.search("\.POS$", f) != None or re.search("\.pos$", f) != None):
         print('process file ', f)
         inputData = open(f, 'r').read()
-        temp = re.findall("[a-zA-Z1-9]+/[A-Z]+", inputData)
+        temp = re.findall("[a-zA-Z1-9][a-zA-Z1-9-]+/[A-Z]+", inputData)
         outputFile.write("\n".join(temp) + "\n")
     else:
         print("no pos file in ", f)
