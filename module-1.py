@@ -25,8 +25,9 @@ def listAllFile(fullPath, listSubDir = 0):
 #input: noun
 #output: standardized noun
 def standanizeNoun(noun, ENGLISH=0):
+    tnoun = noun.lower()
     if (ENGLISH == 1):
-        tnoun = wn.morphy(noun, wn.NOUN) # disable for vietnet
+        tnoun = wn.morphy(tnoun, wn.NOUN) # disable for vietnet
     tnoun = noun.replace(' ', '_')
     return tnoun
 
@@ -115,8 +116,7 @@ def checkIfNounNGetSynsets(noun):
     if (temp == []):
         print('Error checkIfNounNGetSynsets: cannot find', noun, 'in wordnet', '__',temp,'__')
         return -1
-    temp = standanizeNoun(noun)
-    temp = wn.synsets(temp)[0]
+    temp = temp[0]
     if (re.search('\.n\.', temp.name()) == None):
         print('Error', temp, " is not a noun")
         return -1
@@ -249,22 +249,14 @@ def generate_statistic_blw_with_hypernym_hyponym_table1(blwFile, outputFileT1, D
         if (DEBUG == 1):
             print('noun is ', noun)
         # with hypernym
-        temp = checkIfNounNGetSynsets(noun);
-        if (str(temp) != str(-1)):
-            try:
-                allHypernyms = wn.synsets(noun)[0].hypernyms()
-            except:
-                print('Error generate_statistic_blw_with_hypernym_hyponym_table1: can not get hyppernyms: ', noun)
-                allHypernyms = []
+        tNoun = checkIfNounNGetSynsets(noun);
+        if (str(tNoun) != str(-1)):
+            allHypernyms = tNoun.hypernyms()
             if (DEBUG == 1):
                 print('all hypernyms\n', allHypernyms)
             (wlHyper, nwlHyper, mcHyper) = counterAndwrite(allHypernyms)
             # with hyponym
-            try:
-                allHyponyms = wn.synsets(noun)[0].hyponyms()
-            except:
-                print('Error generate_statistic_blw_with_hypernym_hyponym_table1: can not get hypponyms: ', noun)
-                allHyponyms = []
+            allHyponyms = tNoun.hyponyms()
             (wlHypo, nwlHypo, mcHypo) = counterAndwrite(allHyponyms)
             if (DEBUG == 1):
                 print('all hyponyms\n', allHyponyms)
@@ -306,34 +298,36 @@ KeyHashFile = "input/wn-nouns/hashmapKey.txt", DEBUG=0):
     print('total input len:', len(inputArr))
     outputFp = open(outputFile, 'w+')
     for noun in inputArr:
-        if (noun in hashmap):
-            noun = noun.lower()
-            nounOut = hyponymOut = hypernymOut = ("N/A,"*9 + "N/A").split(',')
-            tNoun = checkIfNounNGetSynsets(noun);
-            if (str(tNoun) != str(-1)):
-                temp = tNoun.hypernyms()
-                if (temp != []):
-                    hyperT = deStandanizeNoun(temp[0].lemmas()[0].name())
-                    hypernymOut = isInhashmap(hashmap, hyperT)
-                else:
-                    print('Error generate_statistic_table2: : retrive hypernyms failure', noun + '__', temp)
-                temp =  tNoun.hyponyms()
-                if (temp != []):
-                    hypoT = deStandanizeNoun(temp[0].lemmas()[0].name())
-                    hyponymOut = isInhashmap(hashmap, hypoT)
-                else:
-                    print('Error generate_statistic_table2: : retrive hyponyms failure', noun + '__', temp)
-                temp = deStandanizeNoun(tNoun.lemmas()[0].name())
-                nounOut = isInhashmap(hashmap, temp)
-                outputFp.write(",".join(hypernymOut[:9]) + "\n")
-                outputFp.write(",".join(nounOut[:9]) + "\n")
-                outputFp.write(",".join(hyponymOut[:9]) + "\n")
+        noun = noun.lower()
+        nounOut = hyponymOut = hypernymOut = ("N/A,"*9 + "N/A").split(',')
+        tNoun = checkIfNounNGetSynsets(noun);
+        if (str(tNoun) != str(-1)):
+            temp = tNoun.hypernyms()
+            if (temp != []):
+                hyperT = deStandanizeNoun(temp[0].lemmas()[0].name())
+                hypernymOut = isInhashmap(hashmap, hyperT)
+            else:
+                print('Error generate_statistic_table2: : retrive hypernyms failure', noun + '__', temp)
+            temp =  tNoun.hyponyms()
+            if (temp != []):
+                hypoT = deStandanizeNoun(temp[0].lemmas()[0].name())
+                hyponymOut = isInhashmap(hashmap, hypoT)
+            else:
+                print('Error generate_statistic_table2: : retrive hyponyms failure', noun + '__', temp)
+            temp = deStandanizeNoun(tNoun.lemmas()[0].name())
+            nounOut = isInhashmap(hashmap, temp)
+            outputFp.write(",".join(hypernymOut[:9]) + "\n")
+            outputFp.write(",".join(nounOut[:9]) + "\n")
+            outputFp.write(",".join(hyponymOut[:9]) + "\n")
+        else:
+            print('Error: generate_statistic_table2 retrive from wordnet failure', noun, '__')
     outputFp.close()
 
 if __name__ == '__main__':
     import sys
     if sys.version_info[0] < 3:
         raise "Must be using Python 3"
+    startTimeGlobal = datetime.datetime.now().time()
     print("start run at ", datetime.datetime.now().time())
     # print('gen blw')
     # getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
@@ -352,29 +346,29 @@ if __name__ == '__main__':
     # "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"], ENGLISH=1)
 
     # print("test table 1")
-    # generate_statistic_blw_with_hypernym_hyponym_table1('input/blw-nouns/blw-SORTED-nouns.txt', 'output/3kPOS-table-1.csv', DEBUG=0)
-    # print("blw")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/blw-nouns/blw-SORTED-nouns.txt',
+    # 'output/3kPOS-table-1.csv', DEBUG=0)
+    # print("blw table 1")
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/blw-nouns/blw-SORTED-nouns.txt',
     # 'output/blw-table-1.csv', DEBUG=0)
-    # print("freq-nouns")
+    # print("freq-nouns table 1")
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/freq-nouns/3000-freq-word-SORTED.txt',
     # 'output/3kfreq-table-1.csv', DEBUG=0)
-    # print("POS")
+    # print("POS table 1")
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/POS-nouns/all-3kPOS-SORTED-nouns.txt',
     # 'output/3kPOS-table-1.csv', DEBUG=0)
-    # print("wn")
+    # print("wn table 1")
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/wn-nouns/all-wn-SORTED-nouns.txt',
     # 'output/wn-table-1.csv', DEBUG=0)
 
     # print("test table 2")
     # generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/3kPOS-table-2.csv', DEBUG=0)
-
-    print("3kPOS table 2")
-    generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/3kPOS-table-2.csv', DEBUG=0)
     print("blw table 2")
     generate_statistic_table2('input/blw-nouns/blw-SORTED-nouns.txt', 'output/blw-table-2.csv', DEBUG=0)
     print("freq table 2")
     generate_statistic_table2('input/freq-nouns/3000-freq-word-SORTED.txt', 'output/3k-freq-table-2.csv', DEBUG=0)
+    print("3kPOS table 2")
+    generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/3kPOS-table-2.csv', DEBUG=0)
     print("wn table 2")
     generate_statistic_table2('input/wn-nouns/all-wn-SORTED-nouns.txt', 'output/wn-table-2.csv', DEBUG=0)
 
@@ -390,6 +384,6 @@ if __name__ == '__main__':
     # generate_statistic_blw_with_hypernym_hyponym('input/freq-vietnamese/3000vietnamese-nouns.txt'
     # , 'input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt','output/vietnamesewn-table-1.csv'
     # , 'output/vietnamesewn-table-2.csv', DEBUG=0)
-    print("end run at ", datetime.datetime.now().time())
+    print("end run time: ", datetime.datetime.now().time())
 else:
     print('import module-1 sucessfully')
