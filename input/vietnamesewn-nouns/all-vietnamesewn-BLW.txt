@@ -1536,6 +1536,7 @@ sự đọc
 vũ trụ
 bội số
 cấp số
+đơn vị
 tọa độ
 đại số
 âm học
@@ -1773,7 +1774,6 @@ micrô
 nhiễu
 piano
 xoong
-video
 tường
 giếng
 thẳng
@@ -2101,6 +2101,7 @@ dái
 đùi
 đới
 tài
+ngữ
 hơi
 đau
 tin

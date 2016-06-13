@@ -64,27 +64,29 @@ def cpdRatio(SynsetNoun, level, hypernymName):
         #maximum is recurse 6 level
     if (level > MAX_LEVEL or not SynsetNoun):
         return [cpd, hyponym, total_lens, cpdByLvls]
-
-    allHyponyms = SynsetNoun.hyponyms()
-    if (allHyponyms == []):
-        return [cpd, hyponym, total_lens, cpdByLvls]
-    for synset in allHyponyms:
-        for lemma in synset.lemmas():
-            hyponym = hyponym + 1
-            #use sandalizeNounsForRegex to avoid . in some nouns like a.e can be understand '.' in regex
-            if re.search(standanlizeNounsForSearchRegex(hypernymName), lemma.name()): #noun in cpd hyponym, don't care whole word???
-                cpd = cpd + 1
-                cpdByLvls[level] = cpdByLvls[level] + 1 #count cpd in current level
-            total_lens = total_lens + len(lemma.name())
-#            print level, SynsetNoun.hyponyms()[0].name(), lemma.name()
-            # total_lens = total_lens - synset.name().count('_') #remove space from len counter
-        if synset.lemmas()[0]:
-            # print cpdRatio(synset, level+1, hypernymName)
-            tmp1, tmp2, tmp3, tmp4 = cpdRatio(synset, level+1, hypernymName)
-            cpd = cpd + tmp1
-            hyponym = hyponym + tmp2
-            total_lens = total_lens + tmp3
-            cpdByLvls = list(map(add, cpdByLvls, tmp4))
+    try:
+        allHyponyms = SynsetNoun.hyponyms()
+        if (allHyponyms == []):
+            return [cpd, hyponym, total_lens, cpdByLvls]
+        for synset in allHyponyms:
+            for lemma in synset.lemmas():
+                hyponym = hyponym + 1
+                #use sandalizeNounsForRegex to avoid . in some nouns like a.e can be understand '.' in regex
+                if re.search(standanlizeNounsForSearchRegex(hypernymName), lemma.name()): #noun in cpd hyponym, don't care whole word???
+                    cpd = cpd + 1
+                    cpdByLvls[level] = cpdByLvls[level] + 1 #count cpd in current level
+                total_lens = total_lens + len(lemma.name())
+    #            print level, SynsetNoun.hyponyms()[0].name(), lemma.name()
+                # total_lens = total_lens - synset.name().count('_') #remove space from len counter
+            if synset.lemmas()[0]:
+                # print cpdRatio(synset, level+1, hypernymName)
+                tmp1, tmp2, tmp3, tmp4 = cpdRatio(synset, level+1, hypernymName)
+                cpd = cpd + tmp1
+                hyponym = hyponym + tmp2
+                total_lens = total_lens + tmp3
+                cpdByLvls = list(map(add, cpdByLvls, tmp4))
+    except:
+        print('wtf ', SynsetNoun)
     #return result
     return [cpd, hyponym, total_lens, cpdByLvls]
 
@@ -189,12 +191,14 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile, ENGLISH=0):
     outputAllnouns = open(ouputFile[0], 'w+')
     outputAllbacsicLvlWord = open(ouputFile[1], 'w+')
     outputABLW = open(ouputFile[2], "w+")
+    #for hashmap when neccessery
     # outputHashMap = open('hashmapKey.txt', 'w+')
     for i in range(0, len(nouns)):
         nouns[i] = nouns[i].lower()
         if nouns[i]:
             t = isABacsicWord(nouns[i], ENGLISH)
             if (t != -1):
+                #for hashmap when neccessery
                 # outputHashMap.write(nouns[i] + '\n')
                 stringOut = nouns[i] + "," + str(t[1]) + '/' + str(t[2]) + ',' + str(t[3]) + ','
                 xxx = nouns[i]
@@ -209,6 +213,7 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile, ENGLISH=0):
     outputAllnouns.close()
     outputAllbacsicLvlWord.close()
     outputABLW.close()
+    #for hashmap when neccessery
     # outputHashMap.close()
 
 #generate table 1
@@ -345,10 +350,10 @@ if __name__ == '__main__':
     # getStatisticsWithAllNouns('input/wn-nouns/all-wn-SORTED-nouns.txt', ["input/wn-nouns/all-wn-nouns-STATISTIC.txt",
     # "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"], ENGLISH=1)
 
-    print('20 nouns')
-    getListOfNounsWithCompoundNounsFirst('input/20-nouns/20-nouns.txt', "input/20-nouns/all-20-SORTED-nouns.txt")
-    getStatisticsWithAllNouns('input/20-nouns/all-20-SORTED-nouns.txt', ["input/20-nouns/all-20-nouns-STATISTIC.txt",
-    "input/20-nouns/all-20-BLW-statistic.txt", "input/20-nouns/all-20-BLW.txt"], ENGLISH=1)
+    # print('20 nouns')
+    # getListOfNounsWithCompoundNounsFirst('input/20-nouns/20-nouns.txt', "input/20-nouns/all-20-SORTED-nouns.txt")
+    # getStatisticsWithAllNouns('input/20-nouns/all-20-SORTED-nouns.txt', ["input/20-nouns/all-20-nouns-STATISTIC.txt",
+    # "input/20-nouns/all-20-BLW-statistic.txt", "input/20-nouns/all-20-BLW.txt"], ENGLISH=1)
 
     # print("test table 1")
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/blw-nouns/blw-SORTED-nouns.txt',
@@ -365,9 +370,9 @@ if __name__ == '__main__':
     # print("wn table 1")
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/wn-nouns/all-wn-SORTED-nouns.txt',
     # 'output/wn-table-1.csv', DEBUG=0)
-    print("20 nouns table 1")
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/20-nouns/all-20-SORTED-nouns.txt',
-    'output/20-table-1.csv', DEBUG=0)
+    # print("20 nouns table 1")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/20-nouns/all-20-SORTED-nouns.txt',
+    # 'output/20-table-1.csv', DEBUG=0)
 
     # print("test table 2")
     # generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/3kPOS-table-2.csv', DEBUG=0)
@@ -379,21 +384,43 @@ if __name__ == '__main__':
     # generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/3kPOS-table-2.csv', DEBUG=0)
     # print("wn table 2")
     # generate_statistic_table2('input/wn-nouns/all-wn-SORTED-nouns.txt', 'output/wn-table-2.csv', DEBUG=0)
-    print("20 table 2")
-    generate_statistic_table2('input/20-nouns/all-20-SORTED-nouns.txt', 'output/20-table-2.csv', DEBUG=0)
+    # print("20 table 2")
+    # generate_statistic_table2('input/20-nouns/all-20-SORTED-nouns.txt', 'output/20-table-2.csv', DEBUG=0)
 
-    # print("gen vietnamesewn")
-    # from nltk.corpus import vietnet as wn
-    #
+    print("gen vietnamesewn")
+    from nltk.corpus import vietnet as wn
+
+    # print('vietnamese wn')
     # getListOfNounsWithCompoundNounsFirst('input/vietnamesewn-nouns/all-vietnamesewn-nouns.txt'
     # , "input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt")
     # getStatisticsWithAllNouns('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt'
     # , ["input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt"
     # , "input/vietnamesewn-nouns/all-vietnamesewn-BLW-statistic.txt", "input/vietnamesewn-nouns/all-vietnamesewn-BLW.txt"])
-    # print('t1, t2 3000-vietnamese nouns')
-    # generate_statistic_blw_with_hypernym_hyponym('input/freq-vietnamese/3000vietnamese-nouns.txt'
-    # , 'input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt','output/vietnamesewn-table-1.csv'
-    # , 'output/vietnamesewn-table-2.csv', DEBUG=0)
+    #
+    # print('freq vietnamese')
+    # getListOfNounsWithCompoundNounsFirst('input/freq-vietnamese-nouns/3000vietnamese-nouns.txt'
+    # , "input/freq-vietnamese-nouns/3000vietnamese-freq-SORTED-nouns.txt")
+    # getStatisticsWithAllNouns('input/freq-vietnamese-nouns/3000vietnamese-freq-SORTED-nouns.txt',
+    # ["input/freq-vietnamese-nouns/3000vietnamese-freq-nouns-STATISTIC.txt",
+    # "input/freq-vietnamese-nouns/3000vietnamese-freq-BLW-statistic.txt",
+    # "input/freq-vietnamese-nouns/3000vietnamese-freq-BLW.txt"])
+
+    print("vietnamesewn nouns table 1")
+    generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt',
+    'output/vietnamesewn-table-1.csv', DEBUG=0)
+    print("3000vietnamese-freq nouns table 1")
+    generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt',
+    'output/3000vietnamese-freq-table-1.csv', DEBUG=0)
+
+    print("vietnamesewn table 2")
+    generate_statistic_table2('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt', 'output/vietnamesewn-table-2.csv',
+    allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
+    KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
+    print("3000vietnamese-freq table 2")
+    generate_statistic_table2('input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt',
+    'output/3000vietnamese-freq-table-2.csv', allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
+    KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
+
     print("end run time: ", datetime.datetime.now().time())
 else:
     print('import module-1 sucessfully')
