@@ -32,7 +32,8 @@ def standanizeNoun(noun, ENGLISH=0):
 
 def deStandanizeNoun(noun):
     # tnoun = wn.morphy(noun, wn.NOUN)
-    tnoun = noun.replace('_', ' ')
+    tnoun = noun.lower()
+    tnoun = tnoun.replace('_', ' ')
     return tnoun
 
 #make . mean \.
@@ -109,13 +110,15 @@ def quickSort(arr, compareFunc):
 #return synsets if can get synsets
 #return -1 if not a noun
 def checkIfNounNGetSynsets(noun):
-    temp = wn.synsets(noun)
+    temp = standanizeNoun(noun)
+    temp = wn.synsets(temp)
     if (temp == []):
-        print('Error checkIfNounNGetSynsets: cannot find ', noun, 'in wordnet')
+        print('Error checkIfNounNGetSynsets: cannot find', noun, 'in wordnet', '__',temp,'__')
         return -1
-    temp = wn.synsets(noun)[0]
+    temp = standanizeNoun(noun)
+    temp = wn.synsets(temp)[0]
     if (re.search('\.n\.', temp.name()) == None):
-        print('Error', noun, " is not a noun")
+        print('Error', temp, " is not a noun")
         return -1
     return temp
 
@@ -186,11 +189,13 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile, ENGLISH=0):
     outputAllnouns = open(ouputFile[0], 'w+')
     outputAllbacsicLvlWord = open(ouputFile[1], 'w+')
     outputABLW = open(ouputFile[2], "w+")
+    outputHashMap = open('hashmapKey.txt', 'w+')
     for i in range(0, len(nouns)):
         nouns[i] = nouns[i].lower()
         if nouns[i]:
             t = isABacsicWord(nouns[i], ENGLISH)
             if (t != -1):
+                outputHashMap.write(nouns[i] + '\n')
                 stringOut = nouns[i] + "," + str(t[1]) + '/' + str(t[2]) + ',' + str(t[3]) + ','
                 xxx = nouns[i]
                 for i in range(0, MAX_LEVEL):
@@ -204,6 +209,7 @@ def getStatisticsWithAllNouns(NOUNS, ouputFile, ENGLISH=0):
     outputAllnouns.close()
     outputAllbacsicLvlWord.close()
     outputABLW.close()
+    outputHashMap.close()
 
 #generate table 1
 def generate_statistic_blw_with_hypernym_hyponym_table1(blwFile, outputFileT1, DEBUG=0):
@@ -248,7 +254,7 @@ def generate_statistic_blw_with_hypernym_hyponym_table1(blwFile, outputFileT1, D
             try:
                 allHypernyms = wn.synsets(noun)[0].hypernyms()
             except:
-                print('Error generate_statistic_blw_with_hypernym_hyponym: can not get hyppernyms: ', noun)
+                print('Error generate_statistic_blw_with_hypernym_hyponym_table1: can not get hyppernyms: ', noun)
                 allHypernyms = []
             if (DEBUG == 1):
                 print('all hypernyms\n', allHypernyms)
@@ -257,7 +263,7 @@ def generate_statistic_blw_with_hypernym_hyponym_table1(blwFile, outputFileT1, D
             try:
                 allHyponyms = wn.synsets(noun)[0].hyponyms()
             except:
-                print('Error generate_statistic_blw_with_hypernym_hyponym: can not get hypponyms: ', noun)
+                print('Error generate_statistic_blw_with_hypernym_hyponym_table1: can not get hypponyms: ', noun)
                 allHyponyms = []
             (wlHypo, nwlHypo, mcHypo) = counterAndwrite(allHyponyms)
             if (DEBUG == 1):
@@ -274,6 +280,59 @@ def generate_statistic_blw_with_hypernym_hyponym_table1(blwFile, outputFileT1, D
             + " ".join(mcHyper) + ',' + str(awlHypo) + ',' + str(len(allHyponyms)) + ',' + " ".join(mcHypo) + '\n')
     outputT1.close()
 
+#generate table 2 in paper from data source
+def generate_statistic_table2(inputFile, outputFile, allWNSTATIC="input/wn-nouns/all-wn-nouns-STATISTIC.txt",
+KeyHashFile = "input/wn-nouns/hashmapKey.txt", DEBUG=0):
+
+    def isInhashmap(hashmap, key):
+        key = key.lower()
+        if key in hashmap:
+            return hashmap[key].split(',')
+        else:
+            print('Warning:',key,'not in hashmap')
+            return ("N/A,"*9 + "N/A").split(',')
+
+    print('input file', inputFile)
+    print('output file', outputFile)
+    # create hashmap
+    allWNSTATICArr = open(allWNSTATIC, 'r').read().split('\n')
+    KeyHashArr = open(KeyHashFile, 'r').read().split('\n')
+    hashmap = {}
+    for i in range(len(allWNSTATICArr)):
+        hashmap[KeyHashArr[i]] = allWNSTATICArr[i]
+    print('total hashmap len: ', len(allWNSTATICArr))
+    # read inputfile and writedown to outputfile
+    inputArr = open(inputFile, 'r').read().split('\n')
+    print('total input len:', len(inputArr))
+    outputFp = open(outputFile, 'w+')
+    for noun in inputArr:
+        if (noun in hashmap):
+            noun = noun.lower()
+            nounOut = hyponymOut = hypernymOut = ("N/A,"*9 + "N/A").split(',')
+            tNoun = checkIfNounNGetSynsets(noun);
+            if (str(tNoun) != str(-1)):
+                temp = tNoun.hypernyms()
+                if (temp != []):
+                    hyperT = deStandanizeNoun(temp[0].lemmas()[0].name())
+                    hypernymOut = isInhashmap(hashmap, hyperT)
+                else:
+                    print('Error generate_statistic_table2: : retrive hypernyms failure', noun + '__', temp)
+                temp =  tNoun.hyponyms()
+                if (temp != []):
+                    hypoT = deStandanizeNoun(temp[0].lemmas()[0].name())
+                    hyponymOut = isInhashmap(hashmap, hypoT)
+                else:
+                    print('Error generate_statistic_table2: : retrive hyponyms failure', noun + '__', temp)
+                temp = deStandanizeNoun(tNoun.lemmas()[0].name())
+                if (temp in hashmap):
+                    nounOut = hashmap[temp].split(',')
+                    outputFp.write(",".join(hypernymOut[:9]) + "\n")
+                    outputFp.write(",".join(nounOut[:9]) + "\n")
+                    outputFp.write(",".join(hyponymOut[:9]) + "\n")
+                else:
+                    print("Warning:",temp, "not in hashmap")
+    outputFp.close()
+
 if __name__ == '__main__':
     import sys
     if sys.version_info[0] < 3:
@@ -283,10 +342,6 @@ if __name__ == '__main__':
     # getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
     # getStatisticsWithAllNouns("input/blw-nouns/blw-SORTED-nouns.txt", ["input/blw-nouns/all-blw-nouns-STATISTIC.txt",
     # "input/blw-nouns/all-blw-BLW-statistic.txt", "input/blw-nouns/all-blw-BLW.txt"], ENGLISH=1)
-    # print('gen wn')
-    # getListOfNounsWithCompoundNounsFirst('input/wn-nouns/all-wn-nouns.txt', "input/wn-nouns/all-wn-SORTED-nouns.txt")
-    # getStatisticsWithAllNouns('input/wn-nouns/all-wn-SORTED-nouns.txt', ["input/wn-nouns/all-wn-nouns-STATISTIC.txt",
-    # "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"], ENGLISH=1)
     # print('gen 3000-freq')
     # getStatisticsWithAllNouns('input/freq-nouns/3000-freq-word-SORTED.txt', ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt",
     # "input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"], ENGLISH=1)
@@ -294,21 +349,37 @@ if __name__ == '__main__':
     # getListOfNounsWithCompoundNounsFirst('input/POS-nouns/all-3kPOS-nouns.txt', "input/POS-nouns/all-3kPOS-SORTED-nouns.txt")
     # getStatisticsWithAllNouns('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', ["input/POS-nouns/all-3kPOS-nouns-STATISTIC.txt",
     # "input/POS-nouns/all-3kPOS-BLW-statistic.txt", "input/POS-nouns/all-3kPOS-BLW.txt"], ENGLISH=1)
+    # print('gen wn')
+    # getListOfNounsWithCompoundNounsFirst('input/wn-nouns/all-wn-nouns.txt', "input/wn-nouns/all-wn-SORTED-nouns.txt")
+    # getStatisticsWithAllNouns('input/wn-nouns/all-wn-SORTED-nouns.txt', ["input/wn-nouns/all-wn-nouns-STATISTIC.txt",
+    # "input/wn-nouns/all-wn-BLW-statistic.txt", "input/wn-nouns/all-wn-BLW.txt"], ENGLISH=1)
 
-    # print("test table1")
+    # print("test table 1")
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/blw-nouns/blw-SORTED-nouns.txt', 'output/3kPOS-table-1.csv', DEBUG=0)
-    print("blw")
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/blw-nouns/blw-SORTED-nouns.txt',
-    'output/blw-table-1.csv', DEBUG=0)
-    print("freq-nouns")
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/freq-nouns/3000-freq-word-SORTED.txt',
-    'output/3kfreq-table-1.csv', DEBUG=0)
-    print("POS")
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/POS-nouns/all-3kPOS-SORTED-nouns.txt',
-    'output/3kPOS-table-1.csv', DEBUG=0)
-    print("wn")
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/wn-nouns/all-wn-SORTED-nouns.txt',
-    'output/wn-table-1.csv', DEBUG=0)
+    # print("blw")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/blw-nouns/blw-SORTED-nouns.txt',
+    # 'output/blw-table-1.csv', DEBUG=0)
+    # print("freq-nouns")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/freq-nouns/3000-freq-word-SORTED.txt',
+    # 'output/3kfreq-table-1.csv', DEBUG=0)
+    # print("POS")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/POS-nouns/all-3kPOS-SORTED-nouns.txt',
+    # 'output/3kPOS-table-1.csv', DEBUG=0)
+    # print("wn")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/wn-nouns/all-wn-SORTED-nouns.txt',
+    # 'output/wn-table-1.csv', DEBUG=0)
+
+    # print("test table 2")
+    # generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/3kPOS-table-2.csv', DEBUG=0)
+
+    print("3kPOS table 2")
+    generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/3kPOS-table-2.csv', DEBUG=0)
+    print("blw table 2")
+    generate_statistic_table2('input/blw-nouns/blw-SORTED-nouns.txt', 'output/blw-table-2.csv', DEBUG=0)
+    print("freq table 2")
+    generate_statistic_table2('input/freq-nouns/3000-freq-word-SORTED.txt', 'output/3000-freq-table-2.csv', DEBUG=0)
+    print("wn table 2")
+    generate_statistic_table2('input/wn-nouns/all-wn-SORTED-nouns.txt', 'output/wn-table-2.csv', DEBUG=0)
 
     # print("gen vietnamesewn")
     # from nltk.corpus import vietnet as wn
