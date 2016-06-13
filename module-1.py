@@ -405,21 +405,29 @@ if __name__ == '__main__':
     # "input/freq-vietnamese-nouns/3000vietnamese-freq-BLW-statistic.txt",
     # "input/freq-vietnamese-nouns/3000vietnamese-freq-BLW.txt"])
 
-    print("vietnamesewn nouns table 1")
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt',
-    'output/vietnamesewn-table-1.csv', DEBUG=0)
-    print("3000vietnamese-freq nouns table 1")
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt',
-    'output/3000vietnamese-freq-table-1.csv', DEBUG=0)
+    print('vietnamesePOS')
+    getListOfNounsWithCompoundNounsFirst('input/vietnamesePOS-nouns/3000-vietnamesePOS-nouns.txt'
+    , "input/vietnamesePOS-nouns/3000-vietnamesePOS-SORTED-nouns.txt")
+    getStatisticsWithAllNouns('input/vietnamesePOS-nouns/3000-vietnamesePOS-SORTED-nouns.txt',
+    ["input/vietnamesePOS-nouns/3000-vietnamesePOS-nouns-STATISTIC.txt",
+    "input/vietnamesePOS-nouns/3000-vietnamesePOS-BLW-statistic.txt",
+    "input/vietnamesePOS-nouns/3000-vietnamesePOS-BLW.txt"])
 
-    print("vietnamesewn table 2")
-    generate_statistic_table2('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt', 'output/vietnamesewn-table-2.csv',
-    allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
-    KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
-    print("3000vietnamese-freq table 2")
-    generate_statistic_table2('input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt',
-    'output/3000vietnamese-freq-table-2.csv', allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
-    KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
+    # print("vietnamesewn nouns table 1")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt',
+    # 'output/vietnamesewn-table-1.csv', DEBUG=0)
+    # print("3000vietnamese-freq nouns table 1")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt',
+    # 'output/3000vietnamese-freq-table-1.csv', DEBUG=0)
+    #
+    # print("vietnamesewn table 2")
+    # generate_statistic_table2('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt', 'output/vietnamesewn-table-2.csv',
+    # allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
+    # KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
+    # print("3000vietnamese-freq table 2")
+    # generate_statistic_table2('input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt',
+    # 'output/3000vietnamese-freq-table-2.csv', allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
+    # KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
 
     print("end run time: ", datetime.datetime.now().time())
 else:
