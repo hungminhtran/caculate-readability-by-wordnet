@@ -3,7 +3,7 @@
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 đơn vị hành chính,0/701,0,0,0,0,0,0,0
 phủ,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a093672z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 phòng,15/257,6,0,12,2,1,0,0
 phòng thử nghiệm,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -18,7 +18,7 @@ nhà khoa học,6/196,4,0,2,3,1,0,0
 kỹ thuật viên rađa,0/0,N/A,0,0,0,0,0,0
 công ty,27/169,16,0,4,15,7,1,0
 công ty,27/169,16,0,4,15,7,1,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a096001z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 chánh văn phòng,0/17,0,0,0,0,0,0,0
 tổng thư ký,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -54,7 +54,7 @@ khuyến khích,3/28,11,0,3,0,0,0,0
 cuộc bỏ phiếu tín nhiệm,0/0,N/A,0,0,0,0,0,0
 chủ đề,1/1,100,0,1,0,0,0,0
 quảng bá,0/55,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a084945z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 người đầu sỏ,0/162,0,0,0,0,0,0,0
 trưởng ban,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -78,7 +78,7 @@ chiến thắng,9/34,27,0,9,0,0,0,0
 chiến thắng,9/34,27,0,9,0,0,0,0
 công cuộc kinh doanh,0/450,0,0,0,0,0,0,0
 công nghiệp,1/200,1,0,1,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+industrialization,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sự kiện,0/2,0,0,0,0,0,0,0
 kinh nghiệm,2/41,5,0,2,0,0,0,0
 cảm giác ở ngoài cơ thể,0/0,N/A,0,0,0,0,0,0
@@ -108,7 +108,7 @@ khoảng thời gian,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 chiến trận,0/213,0,0,0,0,0,0,0
 binh đao,0/29,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a016892z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tên,3/3,100,0,3,0,0,0,0
 thương hiệu,1/4,26,0,1,0,0,0,0
 nhãn đĩa,0/0,N/A,0,0,0,0,0,0
@@ -129,7 +129,7 @@ vật cản ngựa đua,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 chất liệu,4/5627,1,0,4,0,0,0,0
 vật liệu,0/4,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a165143z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tiểu thuyết,9/12,76,0,6,3,0,0,0
 tiểu thuyết,9/12,76,0,6,3,0,0,0
 roman fleuve,0/0,N/A,0,0,0,0,0,0
@@ -174,8 +174,8 @@ kết cấu,0/1733,0,0,0,0,0,0,0
 ban công,4/4,100,0,4,0,0,0,0
 ý kiến,2/22,10,0,2,0,0,0,0
 quyết nghị,0/1,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+predetermination,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+industry,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 thị trường,5/8,63,0,5,0,0,0,0
 phố uôn,0/0,N/A,0,0,0,0,0,0
 cơ hội,0/2,0,0,0,0,0,0,0
@@ -295,10 +295,10 @@ hợp sướng,0/0,N/A,0,0,0,0,0,0
 bất đồng,0/8,0,0,0,0,0,0,0
 cuộc chiến,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+interpretation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 giải thích,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+instrumentality,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 phương tiện vận tải,0/1261,0,0,0,0,0,0,0
 cáng,0/0,N/A,0,0,0,0,0,0
 cơ hội,0/2,0,0,0,0,0,0,0
@@ -315,7 +315,7 @@ tuyển mộ,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 ra công,0/2,0,0,0,0,0,0,0
 thử,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a013675z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 phạm vi kiến thức,0/1110,0,0,0,0,0,0,0
 ngành học,0/1,0,0,0,0,0,0,0
 chuyên ngành,0/0,N/A,0,0,0,0,0,0
@@ -360,11 +360,11 @@ chiến dịch quân sự,0/2,0,0,0,0,0,0,0
 cuộc viễn chinh,0/2,0,0,0,0,0,0,0
 sự biến chất,3/7,43,0,3,0,0,0,0
 chuyển đổi,0/4,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+isomerization,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sự huấn luyện,0/0,N/A,0,0,0,0,0,0
 rèn luyện,0/47,0,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+telephone line,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 đường dây đất,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 nhà báo,0/7,0,0,0,0,0,0,0
@@ -372,7 +372,7 @@ bồi bút,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sự ủng hộ,0/0,N/A,0,0,0,0,0,0
 ủng hộ tích cực,0/9,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+insistence,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sự rõ ràng,0/0,N/A,0,0,0,0,0,0
 trong suốt,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -408,13 +408,13 @@ hoàn thiện,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 không trung thực,1/113,1,0,1,0,0,0,0
 sự tham nhũng,0/3,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+infection,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sự xâm lấn,0/20,0,0,0,0,0,0,0
 bồi thường,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 điều kiện bên ngoài,0/59,0,0,0,0,0,0,0
 cơ,0/2,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+conditions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 nhóm,48/130,37,0,40,8,0,0,0
 công chúng,0/11,0,0,0,0,0,0,0
 khán thính giả,0/2,0,0,0,0,0,0,0
@@ -507,7 +507,7 @@ trung tâm,2/2,100,0,2,0,0,0,0
 trung tâm thành phố,0/0,N/A,0,0,0,0,0,0
 quảng cáo,0/2,0,0,0,0,0,0,0
 quảng cáo,0/2,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+infomercial,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 khu vực hành chính,0/152,0,0,0,0,0,0,0
 thành phố,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -528,10 +528,10 @@ phách,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 chính thể,0/0,N/A,0,0,0,0,0,0
 chính thể,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+authoritarian state,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 ngành học,0/1,0,0,0,0,0,0,0
 ngành kỹ thuật,3/52,6,0,3,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+industrial engineering,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 can hệ,0/7096,0,0,0,0,0,0,0
 quan hệ,0/30,0,0,0,0,0,0,0
 cầu nối,0/0,N/A,0,0,0,0,0,0
@@ -879,7 +879,7 @@ nhận,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 điều kiện bên ngoài,0/59,0,0,0,0,0,0,0
 cơ,0/2,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+conditions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 thông cáo,0/41,0,0,0,0,0,0,0
 tuyên cáo,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -1074,7 +1074,7 @@ sự đổi khác,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 hệ thống mét,0/374,0,0,0,0,0,0,0
 cách thức,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a085048z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 ảnh hưởng,0/12,0,0,0,0,0,0,0
 chi,2/9,23,0,2,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -1149,7 +1149,7 @@ tiếp tục,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 năng lượng điện,0/8,0,0,0,0,0,0,0
 dấu hiệu,1/21,5,0,1,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+interrupt,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 hoạt động nhóm,0/3490,0,0,0,0,0,0,0
 tham gia,2/44,5,0,2,0,0,0,0
 sự cam kết,0/16,0,0,0,0,0,0,0
@@ -1174,7 +1174,7 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 thời nay,0/0,N/A,0,0,0,0,0,0
 bây giờ,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+instrumentality,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 hệ thống,23/115,20,0,10,9,4,0,0
 hệ nhiệt mặt trời,0/0,N/A,0,0,0,0,0,0
 tính có thể đoán trước,0/9,0,0,0,0,0,0,0
@@ -1440,7 +1440,7 @@ hiện duy tân,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 khả năng tập trung,0/23,0,0,0,0,0,0,0
 sự canh chừng,0/1,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+jealousy,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 người dân quê,0/37,0,0,0,0,0,0,0
 nông phu,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -1557,7 +1557,7 @@ chiến hữu,0/9,0,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 cơ năng,0/1153,0,0,0,0,0,0,0
 sáng tạo,0/4,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+innovativeness,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 chế tạo,0/0,N/A,0,0,0,0,0,0
 chế biến,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -1579,7 +1579,7 @@ hiện tượng cơ học,0/44,0,0,0,0,0,0,0
 tầm lớn,0/535,0,0,0,0,0,0,0
 cường độ,4/12,34,0,3,1,0,0,0
 cường độ chiếu sáng,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+insurance,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 bảo hiểm,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 quá trình hóa học,0/200,0,0,0,0,0,0,0
@@ -1893,7 +1893,7 @@ tin tưởng,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 xã hội,5/36,14,0,5,0,0,0,0
 văn minh,15/23,66,0,11,4,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+indus civilization,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tính hợp pháp,0/0,N/A,0,0,0,0,0,0
 tính chính đáng,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -1926,7 +1926,7 @@ cơ quan,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 xã hội,5/36,14,0,5,0,0,0,0
 văn minh,15/23,66,0,11,4,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+indus civilization,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 yêu cầu,0/3,0,0,0,0,0,0,0
 yêu cầu,0/3,0,0,0,0,0,0,0
 gọi món ăn làm nhanh,0/0,N/A,0,0,0,0,0,0
@@ -1986,7 +1986,7 @@ bê tông,2/4,50,0,2,0,0,0,0
 bê tông cốt sắt,0/0,N/A,0,0,0,0,0,0
 tình trạng liên kết,0/71,0,0,0,0,0,0,0
 quan hệ,0/30,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+interconnection,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sự hồi âm,0/60,0,0,0,0,0,0,0
 phúc đáp,0/17,0,0,0,0,0,0,0
 bác lại,0/4,0,0,0,0,0,0,0
@@ -2007,7 +2007,7 @@ tác giả,13/143,10,0,10,2,0,1,0
 biên kịch,2/6,34,0,2,0,0,0,0
 tài sản,0/0,N/A,0,0,0,0,0,0
 bảo đảm,2/39,6,0,2,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+insurance,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tiếp thu,4/99,5,0,2,2,0,0,0
 sự áp dụng,0/4,0,0,0,0,0,0,0
 sự tổng hợp,2/8,26,0,2,0,0,0,0
@@ -2061,11 +2061,11 @@ nhân công tự do,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 điều kiện bên ngoài,0/59,0,0,0,0,0,0,0
 cơ,0/2,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+conditions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 quí nương,0/77,0,0,0,0,0,0,0
 bóng gương,0/3,0,0,0,0,0,0,0
 lolita,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+information,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 phong thanh,0/6,0,0,0,0,0,0,0
 tin mới nhất,0/0,N/A,0,0,0,0,0,0
 ai đó,1/18874,1,0,0,1,0,0,0
@@ -2193,7 +2193,7 @@ hình mẫu,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tài sản,0/0,N/A,0,0,0,0,0,0
 bảo đảm,2/39,6,0,2,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+insurance,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sự hấp tấp,0/0,N/A,0,0,0,0,0,0
 thình lình,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -2256,7 +2256,7 @@ giáo sư,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sự quả quyết,0/3,0,0,0,0,0,0,0
 yêu sách,0/4,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+dibs,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 họ gà,0/0,N/A,0,0,0,0,0,0
 gia cầm,2/50,4,0,1,1,0,0,0
 chim di,0/0,N/A,0,0,0,0,0,0
@@ -2344,7 +2344,7 @@ ballad,0/1,0,0,0,0,0,0,0
 thăng chức,0/0,N/A,0,0,0,0,0,0
 ưu đãi,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+instrumentality,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 phương tiện vận tải,0/1261,0,0,0,0,0,0,0
 cáng,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -2400,7 +2400,7 @@ cuộc hội nghị nhóm,0/36,0,0,0,0,0,0,0
 hội nghị lập hiến,0/0,N/A,0,0,0,0,0,0
 tổ chức,0/0,N/A,0,0,0,0,0,0
 hội,0/2,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a094636z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tính qua lại,0/0,N/A,0,0,0,0,0,0
 chia sẻ,0/1,0,0,0,0,0,0,0
 sự dùng chung đồng thời máy tính trung tâm,0/0,N/A,0,0,0,0,0,0
@@ -2568,7 +2568,7 @@ nụ cười,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tình trạng tạm thời,0/68,0,0,0,0,0,0,0
 sự mệt mỏi,0/18,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+jet lag,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 chế tạo,0/0,N/A,0,0,0,0,0,0
 xây dựng,7/9,78,0,7,0,0,0,0
 chế tạo,0/0,N/A,0,0,0,0,0,0
@@ -2581,7 +2581,7 @@ căm giận,0/87,0,0,0,0,0,0,0
 cha đẻ,0/16,0,0,0,0,0,0,0
 ông bô,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+interest,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tính sống động,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 giấu kín,0/13,0,0,0,0,0,0,0
@@ -2652,13 +2652,13 @@ bảo vệ,0/2,0,0,0,0,0,0,0
 sự chắn bức xạ,0/0,N/A,0,0,0,0,0,0
 lượng xác định,0/3068,0,0,0,0,0,0,0
 đơn vị đo lường,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a153973z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tốc độ,21/184,12,0,9,12,0,0,0
 tần số,13/35,38,0,6,7,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+infrared,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 điều kiện bên ngoài,0/59,0,0,0,0,0,0,0
 cơ,0/2,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+conditions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 nhân viên y tế,0/181,0,0,0,0,0,0,0
 bác sĩ,58/138,43,0,5,12,40,1,0
 bác sĩ,58/138,43,0,5,12,40,1,0
@@ -2682,7 +2682,7 @@ lập ra,0/13,0,0,0,0,0,0,0
 lập bản đồ,0/0,N/A,0,0,0,0,0,0
 chính thể,0/0,N/A,0,0,0,0,0,0
 chính thể,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+authoritarian state,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 người tham gia kiện tụng,0/33,0,0,0,0,0,0,0
 thủ phạm,0/0,N/A,0,0,0,0,0,0
 bị cáo,3/10,30,0,3,0,0,0,0
@@ -2826,7 +2826,7 @@ tâm sự,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 địa tầng,0/0,N/A,0,0,0,0,0,0
 vùng chân trời,0/4,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+floor,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 đi bộ,8/22,37,0,6,2,0,0,0
 đi lại,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -2985,7 +2985,7 @@ cơ,0/2,0,0,0,0,0,0,0
 đợt bán hạ giá,0/56,0,0,0,0,0,0,0
 mối quan hệ về lượng,0/356,0,0,0,0,0,0,0
 tỷ lệ,35/164,22,0,16,3,8,6,2
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a156798z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 số nguyên,3/360,1,0,2,1,0,0,0
 hệ số,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -3042,7 +3042,7 @@ thời điểm,1/23,5,0,1,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 vị trí,0/0,N/A,0,0,0,0,0,0
 phương,5/133,4,0,4,1,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+east,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sự kiện,0/2,0,0,0,0,0,0,0
 cải danh,0/500,0,0,0,0,0,0,0
 biến dạng,0/5,0,0,0,0,0,0,0
@@ -3111,7 +3111,7 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 deoxiriboza,0/0,N/A,0,0,0,0,0,0
 khoảng thời gian,0/0,N/A,0,0,0,0,0,0
 tháng,112/129,87,0,5,107,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+islamic calendar month,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 cấu tạo địa chất,0/394,0,0,0,0,0,0,0
 vách,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -3138,7 +3138,7 @@ khoảng,0/0,N/A,0,0,0,0,0,0
 bộ phận cơ thể,0/948,0,0,0,0,0,0,0
 đơn vị hành chính,0/701,0,0,0,0,0,0,0
 phủ,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a093672z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 phương thuốc,2/85,3,0,2,0,0,0,0
 thuốc tẩy,3/13,24,0,3,0,0,0,0
 bột seidlitz,0/0,N/A,0,0,0,0,0,0
@@ -3186,7 +3186,7 @@ thích,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 phương,5/133,4,0,4,1,0,0,0
 hướng la bàn,1/81,2,0,1,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a156897z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 số lượng được ước tính,0/579,0,0,0,0,0,0,0
 lượng,1/6,17,0,1,0,0,0,0
 giá nửa xu,0/0,N/A,0,0,0,0,0,0
@@ -3202,7 +3202,7 @@ bức họa,0/0,N/A,0,0,0,0,0,0
 lời dối trá,0/97,0,0,0,0,0,0,0
 lẩn tránh,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+infectious disease,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 bệnh cùi,1/6,17,0,1,0,0,0,0
 cùi lở,0/0,N/A,0,0,0,0,0,0
 tiền trả đều đặn,0/70,0,0,0,0,0,0,0
@@ -3246,13 +3246,13 @@ lẩn tránh,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 được phép,4/50,8,0,4,0,0,0,0
 sự cam chịu,0/1,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+informed consent,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 ý,12/49,25,0,12,0,0,0,0
 nghĩa,4/4,100,0,4,0,0,0,0
 nghĩa được chấp nhận,0/0,N/A,0,0,0,0,0,0
 hệ thống mét,0/374,0,0,0,0,0,0,0
 cách thức,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a085048z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 nét đặc dị,0/4,0,0,0,0,0,0,0
 thẳng,4/8,50,0,4,0,0,0,0
 sự chĩa thẳng vào,0/0,N/A,0,0,0,0,0,0
@@ -3354,7 +3354,7 @@ luồng,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 cách thức,0/0,N/A,0,0,0,0,0,0
 thang,22/36,62,0,13,9,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+moment magnitude scale,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 nốt nhạc,0/0,N/A,0,0,0,0,0,0
 dấu thăng,1/2,50,0,1,0,0,0,0
 dấu thăng kép,0/0,N/A,0,0,0,0,0,0
@@ -3414,7 +3414,7 @@ buông,0/3,0,0,0,0,0,0,0
 phát âm âm tắc,0/0,N/A,0,0,0,0,0,0
 điều phiền muộn,0/0,N/A,0,0,0,0,0,0
 nhiễu,5/16,32,0,4,1,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+jitter,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 củi,6/13,47,0,5,1,0,0,0
 nhánh,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -3517,7 +3517,7 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tiền kim loại,0/97,0,0,0,0,0,0,0
 xu,0/0,N/A,0,0,0,0,0,0
 50 xu,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ink,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 mực nho,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 quyền hạn,0/3,0,0,0,0,0,0,0
@@ -3573,7 +3573,7 @@ nhịp đập,0/9,0,0,0,0,0,0,0
 tiếng thình thịch,0/1,0,0,0,0,0,0,0
 vị trí,0/0,N/A,0,0,0,0,0,0
 phương,5/133,4,0,4,1,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+east,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 khẳng định,0/8,0,0,0,0,0,0,0
 vâng,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -3648,7 +3648,7 @@ thời điểm bắt đầu,1/17,6,0,1,0,0,0,0
 lúc lọt lòng,0/0,N/A,0,0,0,0,0,0
 dùng nhục hình,0/78,0,0,0,0,0,0,0
 trận đòn,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+flagellation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 cuối cùng,1/56,2,0,1,0,0,0,0
 cáo chung,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -3771,7 +3771,7 @@ châu,1/3,34,0,1,0,0,0,0
 ngọc trai thô,0/0,N/A,0,0,0,0,0,0
 địa điểm,0/0,N/A,0,0,0,0,0,0
 khu vực,0/17,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+island,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 quân giới,1/182,1,0,0,1,0,0,0
 gươm,4/21,20,0,3,1,0,0,0
 gươm đánh kiếm,0/4,0,0,0,0,0,0,0
@@ -3924,7 +3924,7 @@ chia,5/5,100,0,5,0,0,0,0
 phép chia dài dòng,0/0,N/A,0,0,0,0,0,0
 tổ chức,0/0,N/A,0,0,0,0,0,0
 bè đảng,0/62,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a094999z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 độ nóng,0/11,0,0,0,0,0,0,0
 nóng,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -3948,7 +3948,7 @@ giáo hội công giáo,0/0,N/A,0,0,0,0,0,0
 giáo hội chính thống,1/3,34,0,1,0,0,0,0
 cấp bậc,0/1,0,0,0,0,0,0,0
 phẩm cấp,0/15,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a163465z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 địa điểm,0/0,N/A,0,0,0,0,0,0
 quán,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -4015,7 +4015,7 @@ một nghìn,0/0,N/A,0,0,0,0,0,0
 động từ tình thái,0/21,0,0,0,0,0,0,0
 thể khẳng định,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+inside,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 bụng,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 đồ vật,0/14,0,0,0,0,0,0,0
@@ -4163,7 +4163,7 @@ cộng đồng,0/0,N/A,0,0,0,0,0,0
 ấp,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 brazil tiền tệ đơn vị,0/1,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+real,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 mổ,21/429,5,0,6,9,6,0,0
 ghép,4/8,50,0,4,0,0,0,0
@@ -4179,7 +4179,7 @@ cửu,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 điều kiện kinh tế,0/27,0,0,0,0,0,0,0
 giàu có,3/26,12,0,2,1,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+inherited wealth,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 hyđro carbon,0/73,0,0,0,0,0,0,0
 xăng,3/4,76,0,3,0,0,0,0
 bom napan,0/0,N/A,0,0,0,0,0,0
@@ -4188,7 +4188,7 @@ cửa bể,0/3,0,0,0,0,0,0,0
 cảng than,0/0,N/A,0,0,0,0,0,0
 sự chế biến,0/130,0,0,0,0,0,0,0
 thổi,0/1,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+insufflation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 kết cấu,0/1733,0,0,0,0,0,0,0
 bệ thờ,0/0,N/A,0,0,0,0,0,0
 bàn thờ chính,0/0,N/A,0,0,0,0,0,0
@@ -4657,7 +4657,7 @@ bole,0/0,N/A,0,0,0,0,0,0
 tỉ số hòa,0/3,0,0,0,0,0,0,0
 đều,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+information,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tin,28/46,61,0,12,10,6,0,0
 bản tin ngắn,0/20,0,0,0,0,0,0,0
 trứ tác,0/1553,0,0,0,0,0,0,0
@@ -4734,7 +4734,7 @@ mua,11/16,69,0,9,2,0,0,0
 mua bảo hiểm nhân thọ,0/0,N/A,0,0,0,0,0,0
 cấp bậc,0/1,0,0,0,0,0,0,0
 phẩm cấp,0/15,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a163465z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 giờ,38/112,34,0,26,12,0,0,0
 thời gian,0/0,N/A,0,0,0,0,0,0
 giờ buổi sớm mai,0/0,N/A,0,0,0,0,0,0
@@ -4756,7 +4756,7 @@ kì nghỉ,0/0,N/A,0,0,0,0,0,0
 quí,0/14,0,0,0,0,0,0,0
 mùa thu,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a092575z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 ủy ban nhân dân,0/2,0,0,0,0,0,0,0
 uỷ ban tự tổ chức để bảo vệ trật tự,0/0,N/A,0,0,0,0,0,0
 cây ăn quả,0/451,0,0,0,0,0,0,0
@@ -4938,7 +4938,7 @@ thời đại địa chất,0/18,0,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 khiếu nại,0/59,0,0,0,0,0,0,0
 lá đơn,0/29,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+job application,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 lá bắc,2/11,19,0,2,0,0,0,0
 mày,1/2,50,0,1,0,0,0,0
 flowering glume,0/0,N/A,0,0,0,0,0,0
@@ -5134,7 +5134,7 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tiếp nhận,0/0,N/A,0,0,0,0,0,0
 mắc,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+japanese monetary unit,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 yên,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tiền,13/91,15,0,11,2,0,0,0
@@ -5242,7 +5242,7 @@ bữa cơm,0/0,N/A,0,0,0,0,0,0
 địa vị cao trọng,0/3,0,0,0,0,0,0,0
 chúa tể,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+infectious disease,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 lao,11/17,65,0,11,0,0,0,0
 bệnh pott,0/0,N/A,0,0,0,0,0,0
 vận hạn,0/76,0,0,0,0,0,0,0
@@ -5376,7 +5376,7 @@ cảm,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 quan hệ toán học,0/102,0,0,0,0,0,0,0
 hàm,23/87,27,0,9,14,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+expansion,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 quyền hợp pháp,0/49,0,0,0,0,0,0,0
 đại biểu,0/18,0,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -5385,7 +5385,7 @@ bè lũ,0/6,0,0,0,0,0,0,0
 băng đảng thanh thiếu niên,0/0,N/A,0,0,0,0,0,0
 vật liệu,0/4,0,0,0,0,0,0,0
 bụi,0/1,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+interplanetary dust,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 quả dạng đậu,0/20,0,0,0,0,0,0,0
 hạt đậu phộng,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -5415,7 +5415,7 @@ trường thọ,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tốc độ,21/184,12,0,9,12,0,0,0
 tần số,13/35,38,0,6,7,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+infrared,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 lõm,11/140,8,0,6,3,1,1,0
 cốc,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -5464,7 +5464,7 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 cây ăn quả,0/451,0,0,0,0,0,0,0
 vải,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+intelligence,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 đầu óc,0/7,0,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 một nghìn gram,0/3,0,0,0,0,0,0,0
@@ -5497,7 +5497,7 @@ dao bolo,0/0,N/A,0,0,0,0,0,0
 bươu,0/50,0,0,0,0,0,0,0
 phù thũng,3/17,18,0,3,0,0,0,0
 bệnh teo phù,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+investigation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 đếm,20/32,63,0,15,5,0,0,0
 sự tính sai,0/0,N/A,0,0,0,0,0,0
 tác phẩm kịch,0/31,0,0,0,0,0,0,0
@@ -5742,7 +5742,7 @@ rìa,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 hỏa tiễn,0/0,N/A,0,0,0,0,0,0
 đạn,11/12,92,0,11,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a039906z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 quan hệ,0/30,0,0,0,0,0,0,0
 dãy,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -5847,7 +5847,7 @@ uốn,0/3,0,0,0,0,0,0,0
 độ khúc xạ,0/0,N/A,0,0,0,0,0,0
 thực tế,0/1,0,0,0,0,0,0,0
 tập tục,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+institution,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 lượng xác định,0/3068,0,0,0,0,0,0,0
 ram,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -5964,7 +5964,7 @@ cả,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 nhóm,48/130,37,0,40,8,0,0,0
 kết tụ,0/833,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+a093876z,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 kết tụ,0/833,0,0,0,0,0,0,0
 phẩm cấp,0/15,0,0,0,0,0,0,0
 bộ đồng,0/0,N/A,0,0,0,0,0,0
@@ -6102,7 +6102,7 @@ ngưỡng,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 điều kiện bên ngoài,0/59,0,0,0,0,0,0,0
 cơ,0/2,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+conditions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 hoạt động,0/0,N/A,0,0,0,0,0,0
 đo,83/195,43,0,72,5,5,0,0
 lấy mẫu,4/7,58,0,4,0,0,0,0
@@ -6148,12 +6148,12 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 trại cải tạo,0/0,N/A,0,0,0,0,0,0
 rạc,0/9,0,0,0,0,0,0,0
 nhà ngục,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+ink,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 mực nho,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 tờ giấy,0/27,0,0,0,0,0,0,0
 tờ,3/27,12,0,1,0,2,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+interleaf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 bộ phận thực vật,0/1176,0,0,0,0,0,0,0
 tổ,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -6394,7 +6394,7 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 đồi,1/6,17,0,1,0,0,0,0
 cồn,16/68,24,0,10,4,1,1,0
 gò chuột chũi,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+infectious disease,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 bệnh tả,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 thời điểm bắt đầu,1/17,6,0,1,0,0,0,0
@@ -6486,7 +6486,7 @@ hành động,0/0,N/A,0,0,0,0,0,0
 thuê mướn,0/0,N/A,0,0,0,0,0,0
 vitamin hòa tan trong chất béo,1/49,3,0,1,0,0,0,0
 vi-ta-min a,1/8,13,0,1,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+vi-ta-min a2",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 chủ đề,1/1,100,0,1,0,0,0,0
 ý,12/49,25,0,12,0,0,0,0
 hàm ý,0/0,N/A,0,0,0,0,0,0
@@ -6504,7 +6504,7 @@ vi-ta-min e,0/2,0,0,0,0,0,0,0
 anpha-tocopheran,0/0,N/A,0,0,0,0,0,0
 kim loại,20/483,5,0,20,0,0,0,0
 u-ran,0/2,0,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+đồng vị urani 235",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 kết tụ,0/833,0,0,0,0,0,0,0
 lô,0/0,N/A,0,0,0,0,0,0
 bộ,0/0,N/A,0,0,0,0,0,0
