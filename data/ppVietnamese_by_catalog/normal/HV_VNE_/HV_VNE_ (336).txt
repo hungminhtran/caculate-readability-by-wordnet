@@ -1,0 +1,13 @@
+' Tấn_công DDoS vẫn hoành_hành trong năm tới ' 
+Dự_báo về xu_hướng và tình_hình an_ninh mạng tại VN năm 2006 , Mạng an_toàn thông_tin VSEC cho rằng trong bối_cảnh người sử_dụng Internet trong nước còn hạn_chế về kiến_thức mạng , các vụtấn công từ_chối dịch_vụ hay nạn spam , spyware vẫn sẽ tiếp_diễn đều_đều . 
+VSEC cũng khẳng_định , thị_trường tư_vấn , đào_tạo và dịch_vụ an_toàn thông_tin ở Việt_Nam sẽ nóng_bỏng với sự tham_gia của nhiều công_ty và tổ_chức . 
+Bên cạnh đó , hacker thiện trí trong nước có những đóng_góp tích_cực nhằm áp_chế tội_phạm mạng . 
+Bài_toán quản_lý Internet trở_nên cấp_thiết hơn bao_giờ hết . 
+Còn hệ_thống thương_mại điện_tử non_trẻ sẽ phải gánh_chịu hậu_quả nghiêm_trọng nếu không có ý_thức chuẩn_bị các vấn_đề liên_quan đến an_toàn thông_tin . 
+Cũng theo VSEC , trong năm qua một trong các sự_kiện nổi_bật là việc người dùng Internet bắt_đầu bị quấy_rầy bởi e-mail quảng_cáo và spyware phát_tán cửa_sổ pop-up có nguồn_gốc từ Viet_Nam . 
+" Đây là một hoạt_động mà các nước trên thế_giới đang nỗ_lực loại_trừ . 
+Cơ_quan quản_lý trong nước nên lưu_ý khống_chế sớm bởi nó sẽ diễn_tiến phức_tạp " , ông Phùng_Anh_Tuấn , Giám_đốc kỹ_thuật của VSEC , nói . 
+Một tiêu_điểm đáng chú_ý khác là đại_đa_số các tổ_chức hacker Việt_Nam tuyên_bố " bước ra ánh_sáng " và chuyển sang nghiên_cứu bảo_mật . 
+Lực_lượng công_an đã vào cuộc để khống_chế tội_phạm trên mạng mà điển_hình là vụ bắt_giữ nhóm làm thẻ tín_dụng giả để rút tiền ở các ngân_hàng . 
+Hàng_loạt các vụ_việc nổi_đình_đám khác trong lĩnh_vực an_toàn thông_tin mạng như mạng di_động MobiFone bị hack , tấn_công từ_chối dịch_vụ trở_nên nguy_hiểm và diễn_ra liên_tục , hay hàng chụcwebsite chính_phủ bị deface cũng được VSEC liệt_kê . 
+VSEC cũng bình_luận sự ra_đời của Trung_tâm phản_ứng sự_cố máy_tính quốc_gia VNCERT ( Vietnam_Computer_Emergency_Response_Team ) là một cột_mốc đáng ghi_nhớ của giới bảo_mật Việt_Nam . 

@@ -1,0 +1,27 @@
+Trong đó : Giá trước thuế là : 5.000.000.000 VND ; Tiến thuế GTGT 10 % là : 500.000.000 VND . Nhà_thầu B dự thầu với giá bao_gồm thuế cho cả gói thầu là : 5.355.000.000 VND . 
+Trong đó : Giá trước thuế là : 5.100.000.000 VND ; Tiến thuế GTGT 5 % là : 255.000.000 VND . Nếu xếp hạng hồ_sơ dự thầu của 02 nhà_thầu trên ( phương_pháp giá thấp nhấp ) theo giá trước thuế thì nhà_thầu A sẽ được xếp hạng 1 . 
+Còn nếu xếp hạng theo giá sau thuế thì nhà_thầu B sẽ được xếp hạng 1 . ( Giá dự thầu sau thuế của 2 nhà_thầu trên đều không vượt giá kế_hoạch của gói thầu ) . 
+Em thì quan_điểm là xếp hạng hồ_sơ dự thầu căn_cứ vào giá dự thầu cho cả gói thầu đã bao_gồm các loại chi_phí và thuế , có nghĩa là nhà_thầu B sẽ được xếp hạng 1 . Tuy_nhiên , Xếp của em thì cho rằng , phải xếp hạng các hồ_sơ dự thầu theo giá trước thuế , vì tiền thuế GTGT sẽ được khấu_trừ với cơ_quan thuế . 
+Vì vậy , em kính nhờ Luật_sư trả_lời giúp em tình_huống trên để em thực_hiện sao cho đúng theo quy_định . 
+Em xin chân_thành cám_ơn ! Người gửi :V . H_Câu hỏi được biên_tập từ chuyên_mục tư_vấn luật doanh_nghiệp của công_ty luật Minh_Khuê . 
+Luật_sư tư_vấn trực tuyền gọi : 1900 6162 Trả_lời : Chào bạn ! 
+cám_ơn bạn đã gửi câu hỏi tới công_ty luật Minh_Khuê,với thông_tin bạn cung_cấp chúng_tôi xin được tư_vấn như sau : Cơ_sở pháp_lý : Luật đấu_thầu năm 2013 Luật thuế_giá_trị_gia_tăng năm 2013 Nội_dung tư_vấn : Theo điểm a_Khoản 2 Điều 35 của Luật Đấu_thầu 2013 quy_định giá gói thầu ghi trong kế_hoạch lựa_chọn nhà_thầu ( KHLCNT ) được xác_định trên cơ_sở tổng_mức đầu_tư hoặc dự_toán ( nếu có ) đối_với dự_án . 
+Giá gói thầu được tính đúng , tính đủ toàn_bộ chi_phí để thực_hiện gói thầu , kể_cả chi_phí dự_phòng , phí , lệ_phí và thuế . 
+Giá gói thầu được cập_nhật trong thời_hạn 28 ngày trước ngày mở_thầu nếu cần_thiết . 
+Như vậy , giá gói thầu ghi trong KHLCNT là khoản kinh_phí mà người có thẩm_quyền phê_duyệt để chủ đầu_tư thực_hiện hoàn_thành gói thầu trong điều_kiện bình_thường . 
+Trường_hợp trong quá_trình lựa_chọn nhà_thầu và thực_hiện gói thầu nếu xảy_ra bất_khả_kháng hoặc phát_sinh các yếu_tố khách_quan làm tăng chi_phí thực_hiện hoàn_thành gói thầu thì chủ đầu_tư phải báo_cáo người có thẩm_quyền để xem_xét , quyết_định . 
+Theo quy_định của Luật thuế_giá_trị_gia_tăng thì thuế_giá_trị_gia_tăng là một loại thuế_gián_thu đánh trên khoản giá_trị tăng thêm cuả hàng_hoá , dịch_vụ phát_sinh trong quá_trình từ sản_xuất , lưu_thông đến tiêu_dùng và được nộp vào ngân_sách Nhà_nước theo mức_độ tiêu_thụ hàng_hoá , dịch_vụ . Ðây là một loại thuế_doanh_thu đánh vào mỗi giai_đoạn sản_xuất , lưu_thông sản_phẩm hàng_hoá , từ khi còn là nguyên_liệu thô_sơ cho đến sản_phẩm hoàn_thành , và cuối_cùng là giai_đoạn tiêu_dùng . 
+Chính vì vậy mà chúng_ta còn gọi là thuế_doanh_thu có khấu_trừ số thuế đã nộp ở giai_đoạn trước . 
+Thuế gía trị gia_tăng được cộng vào giá bán hàng_hoá , dịch_vụ , và do người tiêu_dùng chịu khi mua hàng_hoá , sử_dụng dịch_vụ . 
+Như vậy giá gói thầu phải là giá sau thuế . 
+Giá_trị thực của gói thầu là giá trước thuế , còn phần thuế là nộp cho nhà_nước . 
+Nếu CĐT là người sử_dụng cuối_cùng thì khoản thuế này CĐT chịu , còn CĐT bán gói thầu cho ai sử_dụng thì người mua sau cùng là người chịu thuế . 
+Căn_cứ vào những điều trên xét thấy với trường_hợp của bạn thì anh B được xếp hạng 1 theo yêu_cầu chủ đấu_thầu đặt ra với đánh_giá hồ_sơ dự thầu theo phương_pháp giá thấp nhất . 
+Trên đây là ý_kiến tư_vấn của chúng_tôi về câu hỏi của quý khách_hàng . 
+Việc đưa ra ý_kiến tư_vấn nêu trên căn_cứ vào các quy_định của pháp_luật về , luật thuế và thông_tin do quý khách_hàng cung_cấp . 
+Mục_đích đưa ra nội_dung tư_vấn này là để các cá_nhân , tổ_chức tham_khảo . 
+Trường_hợp trong nội_dung tư_vấn có điều gì gây nhầm_lẫn , chưa rõ_ràng hoặc thông_tin nêu trong nội_dung tư_vấn khiến quý khách chưa hiểu hết vấn_đề hoặc / và có sự vướng ngại , thắc_mắc , chúng_tôi rất mong nhận được ý_kiến phản_hồi của quý khách_hàng . 
+Mọi vướng_mắc bạn vui_lòng trao_đổi trực_tiếp với bộ_phận luật_sư tư_vấn pháp_luật trực_tuyến qua tổng_đài 24/7 gọi số : 1900 6162 hoặc gửi qua email : luatsu@luatminhkhue . vn để nhận được sự tư_vấn , hỗ_trợ từ Luật Minh_Khuê . 
+Rất mong nhận được sự hợp_tác ! 
+Trân_trọng . / . 
+Bộ_phận tư_vấn pháp_luật doanh_nghiệp 

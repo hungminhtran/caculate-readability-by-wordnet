@@ -1,0 +1,6 @@
+Cisco vá lỗi được công_bố tại diễn_đàn Black_Hat 
+Tập_đoàn giải_pháp mạng Mỹ đã cung_cấp bản sửa cho lỗ_hổng bảo_mật nghiêm_trọng thứ hai mà họ tìm thấy trong IOS , hệ_điều_hành hỗ_trợ cho thiết_bị định_tuyến của hãng . 
+Cisco cho_biết trong những tình_huống cụ_thể , hacker có_thể khai_thác lỗi để kiểm_soát toàn_bộ thiết_bị định_tuyến bằng cách lừa công_cụ bấm_giờ hệ_thống và tận_dụng thành_công các khiếm_khuyết của gói IPv6 để chạy mã nguy_hiểm . 
+Hãng này khẳng_định lỗi vẫn chưa bị khai_thác dù đã có một cuộc đua của hacker tại diễn_đàn Black_Hat hồi tháng 6 ( Las_Vegas , Mỹ ) nhằm xâm_nhập vào hệ_thống . 
+Chuyên_gia phân_tích Michael_Lynn , người tìm ra lỗ_hổng , bị kiện vì ông đã đặt hệ_thống vào tình_trạng nguy_hiểm . 
+Tuy_nhiên , Lynn cho rằng viễn_cảnh sẽ rất ảm đảm nếu một cuộc tấn_công IOS diễn_ra bởi hệ_điều_hành của Cisco được coi là " Windows_XP của Internet " . Tải bản vá lỗi tại đây . 

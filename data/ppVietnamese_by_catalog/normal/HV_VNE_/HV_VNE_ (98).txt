@@ -1,0 +1,13 @@
+Mối đe_doạ mới từ công_nghệ siêu phân luồng 
+Hacker có_thể ăn_cắp khoá bảo_mật bằng cách khống_chế server và tiến_hành một cuộc tấn_công kiểu timing rất tinh_vi nhờ lợi_dụng công_nghệ này của Intel . Công_nghệ siêu phân_luồng giúp phần_mềm tận_dụng tối_đa thời_gian thực_hiện trong thiết_bị xử_lý . 
+Nó cho_phép bộ_vi_xử_lý máy_tính làm_việc đồng_thời trên hai luồng dữ_liệu riêng_biệt , do đó nâng_cao hiệu_suất hoạt_động khi chạy các ứng_dụng phức_tạp . 
+Tuy_nhiên , lợi_dụng tính đặc_thù của chip nhớ cache , tin_tặc có_thể lấy khoá bảo_mật của một máy_tính nhất_định bằng việc theo_dõi và điều_chỉnh cache của những khoá này . 
+Trên những thiết_bị có tính_năng siêu phân_luồng như Pentium IV và Xeon của Intel , cache được chia thành ba phần Level 1 , Level 2 , Level 3 . Bộ_xử_lý đơn luồng thường xoá cache L1 trước khi nó chuyển sang bước tiếp_theo . 
+Ngược lại , một lượng dữ_liệu nhất_định vẫn lưu trong cache của thiết_bị xử_lý siêu phân_luồng khi thực_hiện tiến_trình sau đó . 
+Do vậy , hacker có_thể ăn_cắp khoá bảo_mật hệ_thống bằng việc đợi khoá đó hiển_thị , và sử_dụng một luồng khác để lấy phần còn_lại của khoá . 
+Lặp đi lặp các bước , bit khoá sẽ lộ ra , khi đó hacker chỉ cần tổng_hợp lại thành khoá hoàn_chỉnh . 
+Kiểu khai_thác này được gọi là tấn_công theo thời_gian ( tham_khảo thêm về dạng tấn_công timing attack này tạiWikipedia ) . 
+Bộ_xử_lý siêu phân_luồng có trong máy để bàn , nhưng đây chỉ là lỗi với server . 
+Howard_High , phát_ngôn_viên của Intel , cho_biết hãng đã được thông_báo tin này trước khi nó công_bố rộng_rãi , và không coi đây là lỗi nghiêm_trọng . 
+Tuy_nhiên , hãng vẫn đang hợp_tác với một_số công_ty phần_mềm như Microsoft và Red_Hat để giải_quyết vấn_đề . 
+Howard cũng khẳng_định lỗi xảy_ra với bất_cứ bộ_xử_lý siêu phân_luồng nào , chứ không phải chỉ riêng với chip của Intel . 

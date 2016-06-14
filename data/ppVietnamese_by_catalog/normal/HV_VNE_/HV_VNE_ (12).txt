@@ -1,0 +1,11 @@
+Tóm tác_giả Trojan theo_dõi webcam 
+Cảnh_sát Tây_Ban_Nha vừa bắt_giữ một người đàn_ông bị nghi_ngờ tạo ra phần_mềm có mục_đích bí_mật ghi lại hoạt_động của người sử_dụng Internet thông_qua webcam của họ đồng_thời ăn_cắp những thông_tin bí_mật . 
+Cơ_quan điều_tra xông vào bắt quả_tang tại nhà nhân_vật có biệt_danh J . A . S đầu tuần này khi anh ta đang theo_dõi một_số người lướt web . 
+Trojan do J . A . S tạo ra được phát_tán qua mạng chia_sẻ ngang hàng và có_thể ẩn trong một file . 
+Khi được download vào PC , tác_giả của nó sẽ có_thể truy_nhập máy_tính nạn_nhân từ xa . 
+Trojan này còn cài_đặt một công_cụ theo_dõi hoạt_động bàn_phím để thu_thập những thông_tin như password hoặc quyền truy_nhập những kho ảnh cá_nhân và nhiều thông_tin nhạy_cảm khác trên PC bị lây_nhiễm . 
+Nó cũng tạo điều_kiện cho hacker điều_khiển webcam qua kết_nối với máy_tính , xem và ghi bất_cứ thứ gì trong tầm_nhìn của webcam đó . 
+Cảnh_sát Tây_Ban_Nha đánh_giá Trojan này thuộc loại rất tinh_vi và cho rằng nó đã lây_nhiễm vào ít_nhất vài nghìn máy_tính ở một_số quốc_gia . 
+Theo các nhà chức_trách , hiện chưa có phiên_bản phần_mềm an_ninh mới nào có khả_năng phát_hiện Trojan này . 
+Trong khi đó , Graham_Cluley , chuyên_gia công_nghệ của hãng bảo_mật Anh_Sophos , cho rằng có_thể đây là một phiên_bản Trojan xuất_hiện từ lâu và đã được liệt_kê trong danh_sách phát_hiện của các phần_mềm diệt virus . 
+Vấn_đề bây_giờ là cảnh_sát Tây_Ban_Nha phải cung_cấp thêm thông_tin chi_tiết để khẳng_định đây là Trojan mới hay cũ . 

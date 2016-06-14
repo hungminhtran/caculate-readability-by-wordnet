@@ -1,0 +1,39 @@
+Điện_thoại_di_động : Có xảy_ra nghẽn mạng trong dịp tết ? 
+" Lý_do là số_lượng thuê_bao điện_thoại của cả cố_định và di_động đã tăng lên nhiều trong năm qua , đồng_thời bà_con có nhu_cầu sử_dụng điện_thoại_di_động cũng rất lớn . 
+Vì vậy , từ nay đến tết chúng_tôi sẽ mở thêm 40.000 kênh thoại nhằm đáp_ứng lượng cuộc gọi đi cùng một thời_điểm được nhiều hơn . 
+Song_song với giải_pháp đó , hai đơn_vị chủ_quản của mạng Vinaphone và MobiFone sẽ tăng_cường năng_lực phục_vụ của các tổng_đài và trạm thu phát_sóng ( BTS ) . 
+Hiện_tại , tổng_đài của Vinaphone có_thể đáp_ứng được 5,1 triệu thuê_bao so với số thuê_bao hiện có là 3,5 triệu . 
+Tổng_đài của MobiFone có dung_lượng phục_vụ 3,6 triệu thuê_bao nhưng từ nay đến tết sẽ mở_rộng thêm cho 800.000 thuê_bao nữa , nâng tổng_dung_lượng phục_vụ lên 4,4 triệu thuê_bao so với số thuê_bao hiện có là 3 triệu . 
+Đối_với các trạm BTS , năm qua cả Vinaphone và MobiFone đã lắp mới được 730 trạm . 
+Từ nay đến tết , các khu_vực Hà_Nội và TP. HCM sẽ được lắp mới thêm khoảng 150 trạm của Vinaphone và 60-70 trạm của MobiFone . Đặc_biệt , chúng_tôi cũng sẽ khuyến_mãi các cuộc gọi từ cố_định tới cố_định để giảm bớt số_lượng các cuộc gọi di_động . 
+Ông dự_báo thế_nào về khả_năng nghẽn mạng ? 
+- Mạng cố_định có_thể nghẽn vào thời_điểm giao_thừa , còn mạng di_động sẽ có thời_gian nghẽn kéo dài hơn . 
+Nói_chung sẽ nghẽn mạng trên toàn_quốc trong thời_điểm trước và sau giao_thừa khoảng một tiếng đồng_hồ . 
+Hi_vọng việc mở thêm 40.000 kênh thoại sẽ góp_phần giảm đáng_kể tình_trạng nghẽn . 
+Điều chúng_tôi sợ nhất là nghẽn mạng di_động vào các ngày 26 , 27 tết , đặc_biệt tại khu_vực Hà_Nội , vì thời_điểm này người ở các tỉnh đổ về Hà_Nội mua hàng tết , chúc tết rất đông . 
+Tất_nhiên , với những gì đã chuẩn_bị , chúng_tôi chủ_quan nhận_định tình_trạng nghẽn sẽ không trầm_trọng như năm_ngoái . 
+Chống nghẽn thì như vậy nhưng khi xảy_ra nghẽn các ông sẽ giải_quyết thế_nào ? 
+- Hệ_thống mạng của Vinaphone và MobiFone được thiết_kế cho_phép thực_hiện một giải_pháp chống nghẽn , hiểu nôm_na là " nén file " . 
+Ví_dụ một cuộc gọi bình_thường chiếm 13Kbs trên băng_thông nhưng khi xảy_ra tình_trạng nghẽn thì hệ_thống sẽ nén cuộc gọi đó xuống còn 7Kbs , tức_là chiếm băng_thông ít hơn . 
+Tất_nhiên khi đó chất_lượng cuộc gọi sẽ kém đi nhưng vẫn đảm_bảo đủ để khách_hàng thực_hiện cuộc gọi . 
+Trong trường_hợp các cuộc gọi dồn về tổng_đài quá nhiều so với khả_năng thì phải áp_dụng biện_pháp phân tải cuộc gọi sang các tổng_đài khác để tránh nguy_cơ sập mạng . 
+Nếu tổng_đài bị lấp đầy 95 % dung_lượng thì xác_suất " chết " rất cao nên chúng_tôi phải theo_dõi để phân tải khi dung_lượng tổng_đài lên đến 90 % . 
+Có_vẻ như năm nào VNPT cũng loay_hoay với chống nghẽn mạng ? 
+- Nghẽn mạng trong dịp tết là tình_trạng đột_xuất ( do lưu_lượng cuộc gọi tăng đột_biến - PV ) nên năm nào cũng phải làm . 
+Ngay từ bây_giờ , chúng_tôi phải lấy thiết_bị của kế_hoạch 2006-2008 lắp_đặt phục_vụ tết . 
+Các mạng di_động trên thế_giới cũng làm như vậy . 
+Nếu muốn không nghẽn 1 giờ trong dịp tết thì chúng_tôi phải đầu_tư dung_lượng của cả tổng_đài lẫn trạm BTS tăng gấp ba lần hiện_nay . 
+Còn ở thời_điểm bình_thường , nếu dự_án đầu_tư không kịp thì sẽ bị nghẽn . 
+Chẳng_hạn như tình_trạng nghẽn mạng trong mấy tháng vừa_qua là do đầu_tư chậm . 
+Tình_trạng nghẽn mạng trầm_trọng năm_ngoái cũng là do không kịp tiến_độ đầu_tư . 
+Nguyên_nhân đầu_tư chậm một phần do thủ_tục chặt , phải làm đúng quy_trình , một phần do các nhà cung_cấp dịch_vụ chủ_quan , quản_lý không hiệu_quả trước quá nhiều dự_án . 
+Để xảy_ra liên_tục tình_trạng nghẽn mạng thời_gian qua cũng là do việc mua thiết_bị không đồng_bộ ? 
+- Thiết_bị trước khi đưa vào hoạt_động đều phải qua thử_nghiệm hai lần . 
+Lần thứ nhất do nhà cung_cấp thiết_bị thử dưới sự kiểm_chứng của chúng_tôi , lần thứ hai do chính chúng_tôi thử . 
+Nhưng khi thử_nghiệm ở thời_điểm số_lượng cuộc gọi thấp thì khác , còn khi cuộc gọi tăng thì tất_cả nằm ngoài dự_liệu của con_người . 
+Ngoài_ra còn có nguyên_nhân từ việc mua phải thiết_bị chất_lượng không cao . 
+Trường_hợp đó chúng_tôi gọi là rủi_ro kỹ_thuật . 
+VNPT hiện là nhà cung_cấp dịch_vụ điện_thoại lớn . 
+Liệu dịp tết này có xảy_ra nghẽn mạng khi gọi từ các mạng khác ( Viettel , S-Fone ) vào VNPT không ? 
+- Họ đã đề_nghị chúng_tôi mở thêm kênh kết_nối trong dịp tết . 
+Chúng_tôi sẽ dành 1/3 trong tổng_số 40.000 kênh thoại mới mở để cho các mạng khác kết_nối vào mạng của VNPT . 

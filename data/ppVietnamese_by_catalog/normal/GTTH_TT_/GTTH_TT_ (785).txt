@@ -1,0 +1,6 @@
+Pháp chuyển 1.500 máy Windows sang Linux 
+Được giao trách_nhiệm về hoạt_động của các sân_bay , hệ_thống đường xá và cầu_cảng ... 
+Bộ Giao_thông Pháp đang sử_dụng khoảng 60.000 máy chạm và 2.000 máy_chủ chạy Windows_NT._Theo nguồn tin , kế_hoạch " thay Windows_NT bằng Linux " thực_tế đã được triển_khai một_cách không chính_thức từ tháng 11/2003 . 
+Song_song cùng xu_thế lựa_chọn mã nguồn mở để giảm chi_phí , châu Âu đang dần trở_thành nơi đối_đầu trực_tiếp giữa Microsoft và các nhà phân_phối Linux . Dự_kiến , số cơ_quan , tổ_chức ... 
+chọn_lựa Linux sẽ tiếp_tục tăng khi Microsoft rút bỏ cam_kết hỗ_trợ bảo_mật cho các hệ_điều_hành Windows " đời cũ " . 
+Được biết , nhà sản_xuất phần_cứng Dell cũng vừa giới_thiệu lô máy_tính tích_hợp Linux đầu_tiên nhằm vào thị_trường châu Âu . 

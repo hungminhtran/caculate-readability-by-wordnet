@@ -1,0 +1,10 @@
+Cisco đối_phó với lỗi phần_mềm điện_thoại Internet 
+Khiếm_khuyết , được Trung_tâm an_ninh hạ_tầng thông_tin Anh ( NISCC ) phát_hiện , có_thể mở_cửa dịch_vụ IP_phone cho tấn_công từ_chối dịch_vụ . 
+Danh_sách đầy_đủ các sản_phẩm bị ảnh_hưởng đã được Cisco công_bố ( tại đây ) kèm theo bản nâng_cấp miễn_phí để khắc_phục . 
+Lỗi liên_quan đến những điện_thoại Cisco_IP chạy giao_thức DNS - hệ_thống chuyên xử_lý việc phiên_dịch tên_miền thành địa_chỉ IP. Các server DNS được đặt khắp trên Internet để thực_hiện công_việc này và đảm_bảo các gói dữ_liệu IP đến đúng đích . 
+NISCC cho_biết khiếm_khuyết nói trên bắt_nguồn từ một lỗi trong khâu nén và giải nén những thông_điệp DNS . Lỗ_hổng có_thể bị khai_thác bằng cách sử_dụng những gói dữ_liệu DNS được thiết_kế đặc_biệt , bên trong chứa thông_tin không hợp_lệ trong phần nén của thông_điệp . 
+Điều này dẫn đến sai_sót trong khâu xử_lý trên điện_thoại IP và từ đó khiến thiết_bị trục_trặc . 
+Thông_cáo của Cisco cho_biết chỉ những ứng_dụng khách DNS client , chạy trên điện_thoại IP và một_số sản_phẩm nối mạng khác mới bị ảnh_hưởng . 
+Lỗ_hổng nói trên không xuất_hiện trong những sản_phẩm thực_thi chức_năng server DNS hoặc kiếm tra gói dữ_liệu DNS . Sản_phẩm bị ảnh_hưởng bao_gồm điện_thoại Cisco_IP_Phones_7902/7905/7912 , Cisco_ATA ( Analog_Telephone_Adaptor ) 186/188 , một_số thiết_bị mạng Cisco_Unity_Express và Cisco_ACNS ( Application_and_Content_Networking_System ) . 
+Theo Trung_tâm ứng_cứu sự_cố bảo_mật Pháp ( FrSIRT ) , hiện_nay một_số hãng thiết_bị mạng khác cũng sử_dụng giao_thức DNS trong sản_phẩm và có_thể bị ảnh_hưởng . 
+FrSIRT khuyến_cáo người sử_dụng liên_hệ với nhà cung_cấp sản_phẩm để biết thông_tin về thiết_bị có khả_năng bị lỗi và cập_nhật bản nâng_cấp . 

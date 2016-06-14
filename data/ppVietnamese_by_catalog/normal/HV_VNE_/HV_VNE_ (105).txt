@@ -1,0 +1,7 @@
+Lỗ_hổng cũ trong phiên_bản Netscape mới 
+Netscape 8.0 , được tuyên_bố là an_toàn hơn Internet_Explorer ( IE ) , vừa ra_mắt đã gặp ngay những lỗi bảo_mật nghiêm_trọng của Firefox . 
+Netscape 8.0 được đánh_giá rất an_toàn do tận_dụng những cải_tiến bảo_mật của Firefox . 
+Tuy_nhiên , trình_duyệt này lại xây_dựng trên Firefox_1 . 0.3 - phiên_bản xuất_hiện hailỗ hổng liên_quan đến mã Javascript gần đây , và đã được Mozilla nâng_cấp lên bản vá lỗi 1 . 0.4 . 
+Ben_Goodger , kỹ_sư hàng_đầu của Firefox , đã đăng_tải khám_phá của mình về mức_độ nguy_hiểm của lỗi trong Netscape tại trang Bugzillavà phát_biểu : " Nếu người dùng đánh_giá cao bảo_mật , thì những gì tôi chỉ ra ở trang này đã cho_thấy trình_duyệt nào lấy lại ý_tưởng từ sản_phẩm của Mozilla sẽ không bao_giờ có_thể đưa cho bạn bản nâng_cấp nhanh như chúng_tôi đã hỗ_trợ được " . 
+Tuyên_bố này đã khiến Netscape tự_ái và phản_bác rằng phiên_bản mới nhất của Firefox chẳng có gì mới_mẻ , bởi những lỗi đó đã được nâng_cấp trong Firebadger từ khá lâu . 
+Hãng cũng khẳng_định Netscape chỉ hoạt_động trên Windows , do đó họ không cần phải điều_chỉnh gì cả . 

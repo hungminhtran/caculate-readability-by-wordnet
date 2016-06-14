@@ -1,0 +1,22 @@
+Spyware xuất_hiện trong file tải từ BitTorrent 
+Những nhà tiếp_thị trực_tuyến chuyên dùng pop-up quảng_cáo trên màn_hình máy_tính đã khám_phá và tận_dụng công_cụ BitTorrent như là kênh phát_tán phần_mềm adware mới . 
+Trong khi những ứng_dụng như Kazaa từ lâu đã gặp rắc_rối với adware và spyware , BitTorrent vẫn an_toàn . 
+Tuy_nhiên , Chris_Boyd , chuyên_gia bảo_mật điều_hành trang web Vital_Security , đã phát_hiện ra những kẻ gián_điệp này trên file từ công_cụ của này . 
+Theo các nhà quan_sát , video và nhạc ẩn dấu những phần_mềm quấy_nhiễu đang bắt_đầu tăng nhanh qua việc tải nội_dung tại những trang web BitTorrent . 
+Một tập trong chương_trình TV " Family_Guy " của hãng truyền_thông Fox đã bị dính những phần_mềm quảng_cáo tương_đối quen_thuộc . 
+Nhiều file nhạc và phim liên_quan đến sex cũng xuất_hiện spyware . 
+Alex_Eckelberry , Giám_đốc hãng phần_mềm Sunbelt chuyên cung_cấp chương_trình diệt virus , nghi_ngờ những nhà tiếp_thị online đang bắt_đầu cho một chiến_dịch cài phần_mềm mới bằng công_cụ BitTorrent . 
+" Đây là một trong những trận càn_quét mạnh nhất của spyware mà chúng_ta đã từng thấy " , Eckelberry phát_biểu . 
+" Sự_việc diễn_ra cho_thấy nó không hề là vấn_đề nhỏ khi những kẻ tiếp_thị trực_tuyến đang muốn tấn_công PC của bạn bằng pop-up , làm chậm máy_tính và gây ra sự mất ổn_định hệ_thống " . 
+Trong hầu_hết các trường_hợp , người sử_dụng nhận được một hộp_thoại thông_báo một phần_mềm phụ nào đó chuẩn_bị được tải vào máy , với nội_dung khuyên rằng việc cài_đặt là bắt_buộc để có_thể truy_cập vào nội_dung cần tải . 
+Người dùng đơn_giản chỉ cần từ_chối thông_báo này là đã có_thể tránh được nguy_cơ cho máy_tính . 
+Bram_Cohen , nhà sáng_lập BitTorrent , từ_chối trả_lời e-mail bình_luận về vấn_đề này . 
+BitTorrent đã phát_triển thành một trong những phương_tiện tải file phim , phần_mềm ... 
+được sử_dụng rộng_rãi nhất hiện_nay . 
+Không như mạng chia_sẻ ngang hàng P2P của Kazaa , eDonkey và Napster , BitTorrent không có công_nghệ tìm_kiếm trung_tâm nào , thay vào đó , liên_kết tới những file cụ_thể được đăng ngay trên trang web . 
+Trong một diễn_biến khác , Microsoft vừa giới_thiệu kế_hoạch phát_triển công_nghệ chia_sẻ file tương_tự trong BitTorrent . 
+Phần_mềm này mang tên Avalanche , sử_dụng phương_pháp mới " mạng mật_mã " để tách dữ_liệu thành những gói nhỏ , dễ vận_chuyển để tăng tốc_độ truyền . 
+" Ví_dụ tiêu_biểu nhất cho cấu_trúc phối_hợp cuối hệ_thống này là BitTorrent , công_cụ nổi_tiếng trong việc phân_phối Linux và những nội_dung phổ_biến khác " , Pablo_Rodriguez , chuyên_gia Viện công_nghệ Georgia của Microsoft , phát_biểu . 
+" Mặc_dù có tiềm_năng và tiếng_tăm lớn , hệ_thống kết_hợp các đoạn dữ_liệu tại điểm cuối hiện_nay hoạt_động vẫn kém hiệu_quả " . 
+Phần_mềm cũng bao_gồm hệ_thống chặn " leeche " - những kẻ tải tài_liệu của người khác nhưng lại không chịu chia_sẻ tài_liệu đó . 
+Microsoft hy_vọng giải_pháp hết hợp dữ_liệu tại điểm cuối mới , bằng công_nghệ mạng mật_mã , sẽ vượt_qua hầu_hết những trở_ngại này . 

@@ -1,0 +1,8 @@
+IE7 được trang_bị cơ_chế mã_hoá mạnh hơn 
+Hãng phần_mềm Microsoft dự_định đưa giao_thức mật_mã TLSv1 ( Transport_Layer_Security ) trong thiết_lập HTTPS mặc_định , thay_thế SSLv2 ( Secure_Socket_Layer ) cho phiên_bản 7 của trình_duyệt mới nhất . 
+Điều này sẽ mang lại khả_năng bảo_mật cải_tiến cho giao_dịch thương_mại điện_tử . 
+Microsoft nhận_thấy chỉ có một_số trang web sử_dụng SSLv2 , trong khi đó , việc thêm khả_năng hỗ_trợ SSLv3 hay TLSv1 đối_với một website chỉ là quá_trình thay_đổi cấu_hình đơn_giản . 
+Người dùng Internet_Explorer_6 ( IE 6 ) cũng có_thể tự cấu_hình những thiết_lập này qua tuỳ_biến Tools_Internet Options_Advanced_menu . 
+Bên cạnh đó , IE 7 sẽ chặn truy_cập tới những trang có vấn_đề , và người sử_dụng sẽ nhận thông_báo nếu họ mở một site không an_toàn , tuy_nhiên họ có_thể bỏ_qua cảnh_báo đó . 
+Bản Beta_2 của IE 7 không hiển_thị những nội_dung thiếu an_toàn , nhưng khách_hàng vẫn được phép gỡ bỏ thiết_lập mặc_định này bằng cách sử_dụng Information_Bar . 
+Microsoft cũng tiết_lộ nền_tảng Windows_Vista sẽ hỗ_trợ chuẩn cải_tiến AES , cho_phép mã_hoá tới 256 bit . 

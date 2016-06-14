@@ -1,0 +1,8 @@
+Cisco . com thay_đổi toàn_bộ mật_khẩu khách_hàng 
+Hãng giải_pháp mạng của Mỹ này đang tiến_hành gửi mật_khẩu mới cho tất_cả người dùng đã đăng_ký trong trang Cisco . com sau khi phát_hiện ra một lỗ_hổng lớn trong phần_mềm tìm_kiếm , có_thể làm lộ password . 
+John_Noh , phát_ngôn_viên của Cisco , cho_biết những mật_khẩu này được sử_dụng rộng_rãi bởi khách_hàng , nhân_viên và đối_tác của Cisco để được quyền truy_cập vào những khu_vực đặc_biệt hay nhận e-mail thông_báo ... 
+Cisco đã phát_hiện lỗ_hổng từ hôm 1/8 và đã nhanh_chóng sửa lỗi . 
+Tuy_nhiên , lo_ngại những thông_tin đã bị rò_rỉ trước đó , hãng quyết_định cung_cấp mật_khẩu mới cho người dùng Cisco . com , và khách_hàng sẽ không_thể truy_cập khu_vực đặc_biệt cho đến khi họ nhận được password . 
+Noh không khẳng_định hãng sẽ mất bao_lâu để gửi đi tất_cả thông_báo tới người sử_dụng cũng như từ_chối tiết_lộ chi_tiết về lỗ_hổng . 
+Cisco mua công_cụ của Google để tăng sức_mạnh cho tính_năng tìm_kiếm trên trang của mình . 
+" Lỗi không liên_quan đến sản_phẩm của Google mà xuất_phát từ một phần ứng_dụng web của Cisco " , Noh khẳng_định . 

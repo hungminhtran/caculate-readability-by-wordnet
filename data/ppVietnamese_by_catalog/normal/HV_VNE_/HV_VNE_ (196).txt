@@ -1,0 +1,6 @@
+Trojan lợi_dụng cuộc chiến_tranh Iraq 
+Hai virus mới đang phát_tán rộng qua e-mail với nội_dung thông_báo về những mất_mát và số binh sỹ Mỹ thiệt_mạng trong cuộc_chiến Iraq . Những e-mail này được phát_hiện lần đầu_tiên vào hôm_qua , lừa người dùng mở link trong thư để đọc thông_tin chi_tiết đăng trên tờ The_Guardian về việc 140 lính Hải_quân Mỹ tử_vong . 
+Thực_chất , liên_kết này đưa người dùng tới một trang giả_mạo chứa hai Trojan_Cgab . A và Borodr . Fam , nhằm mục_đích xâm_nhập vào hệ_thống qua những lỗ_hổng trong Internet_Explorer chưa cài bản vá lỗi hoàn_thiện . 
+" Cái chết của lính Hải_quân Mỹ ở Iraq là một bi_kịch lớn và khó có_thể tưởng_tượng tin_tặc lại khai_thác nỗi đau này để đột_nhập vào máy_tính nhằm phát_tán spam , moi_móc dữ_liệu hay ăn_trộm thông_tin " , Graham_Cluley , cố_vấn bảo_mật của Sophos , nói . 
+" Mọi người cần đảm_bảo rằng họ luôn được bảo_vệ bởi những chương_trình diệt virus mới nhất để tránh khỏi mọi cuộc tấn_công bảo_mật vốn nguy_hiểm và biến_hoá khôn lường " . 
+Chủ_đề về Iraq chưa từng được sử_dụng như là một mánh_khoé của tin_tặc để phát_tán virus trước đây . 

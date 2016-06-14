@@ -1,0 +1,7 @@
+Laptop = 2000 USD phần_cứng + 1 triệu USD dữ_liệu 
+Symantec cho_biết rằng 78 % số người dùng máy xách tay tại châu Âu , Trung_Đông và châu Phi thừa_nhận rằng hầu_hết mọi dữ_liệu về tình_hình tài_chính , tải sản , đầu_tư và mọi thông_tin nhạy_cảm của bản_thân và gia_đình … đều được chứa " tuốt_tuồn_tuột " trong chiếc máy xách tay mà họ thường đem theo mình . 
+Giá_trị thương_mại của các thông_tin này đã đạt đến trên 1 triệu USD . 
+Một_số người tham_gia cuộc nghiên_cứu cho rằng giá_trị thông_tin trong máy xách tay của họ có_thể lên đến trên 5 triệu USD . 
+Cuộc nghiên_cứu đã chỉ ra " tệ_nạn " rằng có đến 42 % số công_ty đã tự_động sao lưu mọi e-mail của nhân_viên vào các máy xách tay của công_ty , 45 % số các công_ty thường cho mọi dữ_liệu sao lưu đi " lang_thang " ngoài đường ở nhiều máy xách tay của các nhân_viên cao_cấp . 
+80 % số nhân_viên các công_ty đều " ngây_thơ " cho rằng mọi e-mail và dữ_liệu cá_nhân của mình đều được cấp_trên bảo_toàn cẩn_mật , nhưng thực_chất những người có trách_nhiệm bảo_quản thông_tin cá_nhân và tài_chính cũng những người khác cũng tỏ_ra bất_cẩn thường_xuyên . 
+Lindsey_Armstrong , phó_chủ_tịch của Symantec cho_biết rằng có rất ít công_ty có các biện_pháp bảo_quản máy xách tay theo kiểu " kỷ_luật quân_sự " và đa_số mọi người đều chỉ quan_tâm đến giá_trị phần_cứng của chiếc máy xách tay mà mình mang theo chứ ít ý_thức về giá_trị " kinh_hoàng " của mọi dữ_liệu nhạy_cảm chứa trong đó . 

@@ -1,0 +1,9 @@
+Phlooding làm ' lụt ' hệ_thống xác_thực mạng doanh_nghiệp 
+Cùng với WiPhishing và Evil_Twins , một mối đe_doạ mới liên_quan đến những nguy_cơ bảo_mật trong mạng không dây nội_bộ WLAN đã xuất_hiện với tên_gọi Phlooding , bị lợi_dụng để tấn_công hệ_thống đăng_nhập . 
+Hãng bảo_mật AirMagnet tại Sunnyvale ( Mỹ ) cho_biết Phlooding bao_gồm một nhóm những cuộc tấn_công xảy_ra đồng_thời nhưng xuất_phát từ nhiều vị_trí khác nhau , hướng vào cấu_trúc đăng_nhập mạng hay cơ_chế xác_thực trong doanh_nghiệp , với mục_đích làm quá_tải server xác_thực trung_tâm . 
+Kẻ tấn_công ở những vị_trí khác nhau có_thể " oanh_tạc " vào các điểm truy_cập không dây bằng lệnh log-in sử_dụng phương_pháp liên_kết nhiều mật_khẩu , làm giảm tốc_độ đăng_nhập và chen ngang vào hoạt_động mạng . 
+AirMagnet cho rằng những doanh_nghiệp với cơ_sở , văn_phòng ở nhiều địa_điểm khác nhau nhưng cùng chạy trên một server quản_lý ID đơn_nhất có_thể là mục_tiêu chính của kiểu tấn_công này . 
+Viễn_cảnh về mối đe_doạ Phlooding là hoàn_toàn có_thể xảy tương_tự như cách_thức tổ_chức tấn_công từ_chối dịch_vụ , ngăn_cản hoạt_động bên trong của một doanh_nghiệp . 
+Tuy_nhiên , AirMagnet cũng cho rằng không nên quá cường_điệu nguy_cơ này . 
+Rich_Mironov , Phó_giám_đốc thị_trường của AirMagnet , cho_biết họ đã phát_hiện ra hai trường_hợp tấn_công kiểu này , nhưng gần đây họ mới tìm ra dấu_hiệu cho_thấy chúng được tiến_hành dựa trên cơ_chế làm " lụt " lệnh xác_thực . 
+Mironov khẳng_định việc sử_dụng mạng Wi-Fi mà không cài tường lửa ( firewall ) trên thiết_bị cá_nhân , có lỗi cấu_hình hệ_thống hay để máy_tính Windows ở chế_độ đặc_biệt nào đó là những nguyên_nhân phổ_biến nhất có_thể gây ra Phlooding . 

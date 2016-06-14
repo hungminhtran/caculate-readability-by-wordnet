@@ -1,0 +1,9 @@
+Trojan ' giảng kinh Koran ' để chặn web sex 
+Một loại virus mới đã xuất_hiện và đóng vai_trò như công_cụ " bảo_vệ đạo_đức " , bằng cách hiển_thị một đoạn kinh Hồi_giáo nếu người sử_dụng ghé thăm các trang web khiêu_dâm . 
+Hãng bảo_mật Sophos của Anh cho_biết Trojan mang tên Yusufaly . A sẽ quét thanh tiêu_đề chứa tên trang web trên cửa_sổ trình_duyệt đang hoạt_động . 
+Chương_trình sẽ chỉ chạy nếu nó thấy bất_kỳ một trong 9 từ mặc_định , trong đó có sex , xxx , teen , hay những từ chỉ bộ_phận nhạy_cảm trên cơ_thể ... 
+Khi cho rằng đó là trang web đồi_truỵ , Trojan sẽ thu nhỏ cửa_sổ và hiển_thị một thông_điệp có đoạn " Thánh_Ala biết quý vị đi đến đâu và làm những gì " . 
+Nếu site này vẫn không được đóng lại , nút " Bấm vào đây để thoát " ( For_Exit_Click_Here ) sẽ xuất_hiện và người dùng buộc phải thoát khỏi Windows . 
+Do cách lập_trình hạn_chế này , Yusufaly . A có_thể chặn cả các trang chính_thống như website y_tế , giáo_dục và những site dành riêng cho thanh_thiếu_niên . 
+Sophos không ghi nhân được nhiều thông_báo của người dùng về ảnh_hưởng của Yusufaly . A . 
+Hãng cũng đã đăng_tải các bước hướng_dẫn để xoá Trojan này . 

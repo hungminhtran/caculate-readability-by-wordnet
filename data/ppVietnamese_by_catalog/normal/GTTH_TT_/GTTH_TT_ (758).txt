@@ -1,0 +1,31 @@
+Tivi LCD , bao_giờ xem được hình_ảnh độ nét cao ? 
+Mặc_dù cả hai bên đều gặp nhau ở một điểm : HDTV là tất_yếu nhưng bên thu_hình cứ chờ bên phát hình phát truyền_hình chuẩn HDTV đi rồi mới sản_xuất máy thu HDTV . 
+Còn bên phát hình thì đòi_hỏi ngược lại , phải có máy thu được HDTV , phát mà không thu thì phát làm gì . 
+Câu_chuyện y_hệt như cách đây 30 năm khi chuyển từ truyền_hình đen trắng sang truyền_hình màu . 
+Thực_tế bao_giờ các nhà sản_xuất máy_thu_hình cũng phải đi tiên_phong , thuyết_phục người tiêu_dùng mua HDTV rồi nhà_đài sẽ phát hình HDTV . 
+Ở VN , tivi LCD đang bùng_nổ trong khi chưa nhà_đài nào công_bố sẽ phát_sóng HDTV . 
+Nhưng khá đông người sắm tivi LCD ngoài lý_do thời_thượng còn do kiểu_dáng phẳng và mỏng . 
+Nhiều người không hề biết là hầu_hết tivi LCD mới sản_xuất đều tương_thích với truyền_hình phân_giải cao HDTV . 
+Chất_lượng hình_ảnh HDTV đẹp và nét hơn TV thường nhưng chẳng người tiêu_dùng VN nào cảm_nhận được vì có phát đâu mà thu ! 
+Truyền_hình cũng tính bằng " chấm " 
+Có rất nhiều định_nghĩa về HDTV nhưng ngắn_gọn thì HDTV phải thoả_mãn hai điều_kiện quan_trọng . 
+Đó là kích_thước màn_hình 16 :9 ( tivi thường là 4 :3 ) và độ_phân_giải phải từ 720 dòng quét trở lên . 
+Để dễ hình_dung , chúng_ta cứ tưởng tượng_hình của truyền_hình trắng đen 30 năm trước chỉ đạt độ nét khoảng 200 dòng quét . 
+Truyền_hình màu kỹ_thuật analog hiện đang sử_dụng đạt trên 300 dòng quét , cao hơn cả chất_lượng hình_ảnh VCD chỉ tối_đa 288 dòng quét . 
+Truyền_hình kỹ_thuật số có_thể đạt đến 480 dòng quét xen_kẽ , tương_đương chất_lượng DVD thông_dụng ngoài thị_trường . 
+Nếu kích_thước màn_hình là 4 :3 , có_thể tính số_lượng điểm_ảnh ( pixel ) của truyền_hình số và DVD thông_dụng là 480 x 640 = 307.200 điểm_ảnh , tức khoảng 0,3 mega pixel , nôm_na gọi là 0,3 " chấm " . 
+Rất nhỏ so với truyền_hình HDTV phải từ 720 x 1.280 = 921.600 điểm_ảnh , gần bằng 1 " chấm " . 
+Có_thể hiểu nôm_na , người tiêu_dùng mua tivi LCD là loại tivi độ nét cao đến 1 " chấm " nhưng chẳng có nguồn tín_hiệu nào để xem hình_ảnh rõ_nét 1 " chấm " mà đang phải xem hình_ảnh chỉ 0,3 " chấm " . 
+Còn nếu dùng tivi LCD xem truyền_hình analog từ đài phát thì chất_lượng còn tệ hơn nữa . 
+Sự mất cân_đối này cũng giống như dùng dàn âm_thanh xịn để nghe băng cassette nhão . 
+Giải_pháp trung_gian : đầu DVD phân_giải cao 
+Ở các nước chưa có truyền_hình HDTV , như ở VN , người_ta mua tivi LCD làm gì ? 
+Câu trả_lời là ngoài chương_trình truyền_hình , người_ta còn xem phim trên các đầu DVD phân_giải cao . 
+Cùng một đĩa DVD nhưng chất_lượng hình_ảnh phát ra tuỳ theo bộ giải_mã của đầu DVD đó . 
+Trong khi thế_giới đang rục_rịch chuyển sang DVD phân_giải cao blue-ray thì ở VN vẫn ngập_tràn DVD thông_dụng 480 dòng quét với giá bán rất bình_dân khoảng 600.000 đồng / cái . 
+Thật là mất cân_đối khi mua máy thu tivi LCD phân_giải cao vài chục triệu lại thu_hình từ đầu DVD phân_giải thấp giá chưa đến một triệu . 
+Để khai_thác một phần " tiềm_năng " của tivi LCD , trong khi chờ có sóng truyền_hình HDTV , trên thị_trường có bán các đầu DVD phân_giải cao hơn 480 dòng . 
+Mới_đây là đầu DVD phân_giải cao đến 1080i mang thương_hiệu ACNOS do Công_ty truyền_thông Sơn_Ca ( Soncamedia ) thiết_kế và chế_tạo . 
+Người tiêu_dùng có_thể chọn_lựa các chế_độ ngõ ra hình_ảnh từ 480 , 720 đến 1080i tuỳ vào loại tivi LCD đang có . 
+Đặc_biệt đây còn là đầu_đọc đĩa DVD hai lớp ( dual layer ) có dung_lượng đến 8,5Gbyte thay_vì DVD một lớp chỉ 4,7Gbyte . 
+Ngoài_ra còn chức_năng karaoke sáu số như một đầu karaoke vi_tính thông_dụng . 

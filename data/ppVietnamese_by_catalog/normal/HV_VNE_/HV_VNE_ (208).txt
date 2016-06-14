@@ -1,0 +1,11 @@
+Adobe lại gặp lỗi tràn bộ đệm 
+Một lỗ_hổng bảo_mật trong hệ_thống các ứng_dụng Acrobat và Reader của Adobe có nguy_cơ bị hacker khai_thác để phá sập hay đột_nhập máy_tính cài chương_trình lỗi . 
+Bằng việc cài một file PDF chứa mã_độc , kẻ tấn_công từ xa có_thể gây trục_trặc cho nhiều ứng_dụng , thậm_chí kiểm_soát toàn_bộ hệ_thống . 
+Hãng sản_xuất phần_mềm tại California ( Mỹ ) đã đưa ra lời cảnh_báo ngày 16/8 , đồng_thời nhanh_chóng nâng_cấp chương_trình để khắc_phục vấn_đề . 
+Lỗi này ảnh_hưởng đến chương_trình Adobe_Reader trong Windows , Mac_OS , Linux và Solaris , cũng như Adobe_Acrobat chạy trên Windows và Mac_OS . 
+Hãng bảo_mật Secunia đánh_giá trường_hợp này ở mức " rất nghiêm_trọng " . 
+Lỗ_hổng có_thể gây tràn bộ đệm trong ứng_dụng lõi của Acrobat và Reader . 
+Đây là vấn_đề bị hacker khai_thác khá thường_xuyên . 
+Hiện_tượng tràn bộ đệm xảy_ra khi một chương_trình nào đó cho_phép dữ_liệu viết đè lên phần cuối của bộ_nhớ trung_gian , hay còn gọi là bộ đệm ( buffer ) . 
+Máy_tính cũng có khả_năng gặp kiểu lỗi này nếu nhập quá dữ_liệu cho_phép khiến buffer quá_tải . 
+Tháng trước,Acrobat Reader 5.0 dành cho hệ_điều_hành Linux cũng đã bị tràn bộ đệm . 

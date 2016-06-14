@@ -1,0 +1,12 @@
+Trang_trí hình_vuông 
+Quan_sát , nhận_xét 
+Trong trang_trí hình_vuông , các hoạ_tiết thường được sắp_xếp đối_xứng ( bằng nhau , giống nhau ) qua các đường_trục ngang , dọc và các đường_chéo . 
+Các hoạ_tiết giống nhau được vẽ cùng màu , cùng đậm nhạt ( H . 1 , 2 ) . 
+Quan_sát hình 1 , 2 để tìm ra sụ giống nhau , khác nhau của màu_sắc và cách sắp_xếp hoạ_tiết . 
+Cách trang_trí hình_vuông 
+Kẻ trục chia hình_vuông thành các phần bằng nhau ( H . 3a ) . 
+Vẽ các hình mảng chính cho rõ trọng_tâm và các hình mảng phụ cho cân_đối ( H . 3b ) . 
+Chọn hoạ_tiết rồi vẽ vào các hình mảng ( H . 3c ) . 
+Vẽ màu của hoạ_tiết và nền ( H . 3d ) . 
+Chú_ý : 
+Nếu màu hoạ_tiết đậm thì nên vẽ màu nền nhạt và ngược lại ( nên sử_dụng từ 3 đến 5 màu ) . 

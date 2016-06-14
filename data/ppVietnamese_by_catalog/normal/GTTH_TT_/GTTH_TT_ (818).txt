@@ -1,0 +1,13 @@
+Cười vui với Webcam 
+Để sử_dụng chương_trình , trước_hết , bạn cần phải có một webcam và tải chương_trình FunWebcam về cài_đặt . 
+Sau khi cài_đặt xong , bạn click vào biểu_tượng trên màn_hình hoặc trong menu_Start / Programs / FunWebcam để chạy chương_trình . 
+Chương_trình sẽ có giao_diện như hình bên . 
+Giao_diện chương_trình 
+Trong cửa_sổ bên phải , bạn có_thể tuỳ chọn rất nhiều mẫu khác nhau , từ hình các chú khủng_long ngộ_nghĩnh , cho đến các hình động , các khung hình có sẵn ... 
+rất nhiều mẫu để cho bạn chọn_lựa . 
+Sau khi lựa_chọn được khung hình_như ý , bạn click vào " Start_Webcam " , từ đây bạn có_thể bắt_đầu " Shoot " để lấy được tấm hình mình mong_muốn . 
+Các hình này sẽ được lưu vào trong thư_mục Photo trong thư_mục mà bạn cài_đặt chương_trình . 
+Các nút còn_lại là những tuỳ_biến , rất dễ sử_dụng , bạn có_thể thử . 
+Nếu không muốn hiển_thị khung ảnh , bạn click vào " Cancel " để dỡ bỏ khung ảnh . 
+Để chia_sẻ webcam qua mạng , trước_hết bạn phải tắt chức_năng xem Webcam qua chương_trình FunWebcam ( không tắt chương_trình , bạn vẫn có_thể chọn khung hình để thêm vào màn_hình tuỳ_thích ) , bạn có_thể chia_sẻ hình_ảnh của mình thoải_mái với bạn_bè bằng Yahoo_Messenger hay Google_Talk ... 
+Chúc bạn có những giờ_phút vui cười với bạn_bè và người_thân . 

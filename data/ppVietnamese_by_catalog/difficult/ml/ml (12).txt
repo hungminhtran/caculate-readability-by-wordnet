@@ -1,0 +1,270 @@
+. 
+CÁC HÌNH_THÁI TƯ_BẢN VÀ CÁC HÌNH_THỨC BIỂU_HIỆN CỦA GIÁ_TRỊ THẶNG_DƯ 
+Giá_trị thặng_dư là phạm_trù nói_lên mục_đích của sản_xuất tư_bản_chủ_nghĩa . 
+Trong đời_sống thực_tế của xã_hội tư_sản , giá_trị thặng_dư chuyển_hoá và biểu_hiện thành lợi_nhuận công_nghiệp , lợi_nhuận thương_nghiệp , lợi_nhuận ngân_hàng , lợi_tức cho vay , địa_tô tư_bản_chủ_nghĩa . 
+1 . Chi_phí sản_xuất tư_bản_chủ_nghĩa , lợi_nhuận và tỷ_suất lợi_nhuận a . 
+Chi_phí sản_xuất tư_bản_chủ_nghĩa Muốn tạo ra giá_trị hàng_hoá , tất_yếu phải chi_phí một_số lao_động nhất_định , goị là chi_phí lao_động , bao_gồm lao_động_quá_khứ và lao_động hiện_tại . 
+Lao_động_quá_khứ ( lao_động_vật_hoá ) là giá_trị của tư_liệu_sản_xuất ( = c ) ; lao_động hiện_tại ( lao_động_sống ) là lao_động tạo ra giá_trị mới ( = v+m ) . 
+Đứng trên quan điiểm xã_hội mà xét , chi_phí lao_động đó là chi_phí thực_tế của xã_hội , chi_phí này tạo ra giá_trị hàng_hoá . 
+Ký_hiệu giá_trị hàng_hoá là W_W = c + v + m Về mặt lượng : Chi_phí thực_tế = giá_trị hàng_hoá Song đối_với nhà tư_bản , họ không phải chi_phí lao_động để sản_xuất hàng_hoá , cho_nên họ không quan_tâm đến điều đó . 
+Trên thực_tế , họ chỉ quan_tâm đến việc ứng tư_bản để mua ( c ) và ( v ) . 
+Do đó , nhà tư_bản chỉ xem hao_phí hết bao_nhiêu tư_bản chứ không tính đến hao_phí hết bao_nhiêu lao_động xã_hội . 
+Mac gọi chi_phí đó là chi_phí sản_xuất tư_bản_chủ_nghĩa , ký_hiệu : k k = c + v Chi_phí sản_xuất tư_bản_chủ_nghĩa là phần giá_trị bù lại giá_cả của những tư_liệu_sản_xuất và giá_cả sức_lao_động đã tiêu_dùng để sản_xuất ra hàng_hoá cho nhà tư_bản . 
+Khi xuất_hiện chi_phí sản_xuất tư_bản_chủ_nghĩa thì công_thức giá_trị hàng_hoá sẽ chuyển thành : W = k + m Như vậy , giữa chi_phí thực_tế và chi_phí sản_xuất có sự khác nhau cả về lượng lẫn chất Về lượng : ( c+v ) ‹ ( c+v+m ) Vì tư_bản sản_xuất được chia thành tư_bản_cố_định và tư_bản lưu_động nên chi_phí sản_xuất tư_bản_chủ_nghĩa luôn_luôn nhỏ hơn tư_bản ứng_trước ( K ) Ví_dụ : Một nhà tư_bản sản_xuất đầu_tư tư_bản với số tư_bản_cố_định ( c1 ) là 1200 đơn_vị_tiền_tệ ; số tư_bản lưu_động ( c2 và v ) là 480 đơn_vị_tiền_tệ ( trong đó giá_trị của nguyên , nhiên , vật_liệu ( c2 ) là 300 , tiền_công ( v ) là 180 ) . 
+Nếu tư_bản_cố_định hao_mòn hết trong 10 năm , tức_là mỗi năm hao_mòn 120 đơn_vị_tiền_tệ thì : Chi_phí sản_xuất ( k ) là : 120 + 480 = 600 đơn_vị_tiền_tệ Tư_bản ứng_trước ( K ) là : 1200 + 480 = 1680 đơn_vị_tiền_tệ Tức_là : K › k Nhưng khi nghiên_cứu , Mac thường giả_định tư_bản_cố_định hao_mòn hết trong 1 năm , nên tổng tư_bản ứng_trước ( K ) và chi_phí sản_xuất luôn bằng nhau ( K = k ) Về chất : Chi_phí thực_tế là chi_phí lao_động , phản_ánh đúng , đầy_đủ hao_phí lao_động xã_hội cần_thiết để sản_xuất và tạo ra giá_trị hàng_hoá , còn chi_phí sản_xuất tư_bản_chủ_nghĩa ( k ) chỉ phản_ánh hao_phí tư_bản của nhà tư_bản mà_thôi , nó không tạo ra giá_trị hàng_hoá . 
+Phạm_trù chi_phí sản_xuất không có quan_hệ gì với sự hình_thành giá_trị hàng_hoá , cũng như không có quan_hệ gì với quá_trình làm cho tư_bản tăng thêm giá_trị . 
+Sự hình_thành chi_phí sản_xuất tư_bản_chủ_nghĩa ( k ) che_đậy thực_chất bóc_lột của chủ_nghĩa_tư_bản . 
+Giá_trị hàng_hoá : W = k + m , trong đó k = c+v . 
+Nhìn vào công_thức trên thì sự phân_biệt giữa c và v đã biến_mất , và giờ_đây hình_như toàn_bộ chi_phí sản_xuất tư_bản_chủ_nghĩa sinh ra giá_trị thăng dư . 
+2 . Lợi_nhuận và tỷ_suất lợi_nhuận 
+a . 
+Lợi_nhuận : 
+Do có sự chênh_lệch về lượng giữa giá_trị hàng_hoá và chi_phí sản_xuất tư_bản_chủ_nghĩa , nên khi bán hàng_hoá đúng giá_trị trừ đi phần tư_bản ứng ra , nhà tư_bản còn thu về tiền lời ( ngang bằng với m ) và được gọi là lợi_nhuận , ký_hiệu P : 
+Vậy : Lợi_nhuận là hình_thái chuyển_hoá của giá_trị thặng_dư , được quan_niệm như con đẻ của toàn_bộ tư_bản ứng_trước . 
+" Giá_trị thặng_dư , được quan_niệm là con đẻ của toàn_bộ tư_bản ứng_trước mang hình_thái chuyển_hoá là lợi_nhuận " 
+W = C + V + m 
+= K + m 
+= K + P 
+Nguyên_nhân của sự chuyển_hoá m thành P : + Sự hình_thành K = ( C + V ) đã xoá_nhoà vai_trò khác_biệt giữa C và V . + Do chi_phí SX TBCN luôn nhỏ hơn chi_phí SX thực_tế nên khi bán hàng_hoá chỉ cần giá_cả lớn hơn K một_chút là đã thu lời . 
+- Giữa P và m có gì khác nhau : + m và P giống nhau ở chỗ : đều có chung một nguồn_gốc là kết_quả của lao_động của công_nhân . 
++ Khác nhau : 
+về mặt chất : 
+m phản_ánh nguồn_gốc sinh ra từ V còn p thì được xem như toàn_bộ tư_bản ứng_trước đẻ ra . 
+P che_giấu quan_hệ bóc_lột TBCN , che_giấu nguồn_gốc thực_sự của nó . 
+Giữa m và P có sự không nhất_trí về lượng : 
+• cung = cầu  giá_cả = giá_trị  P = m • cung > cầu  giá_cả < giá_trị  P < m • cung < cầu  giá_cả > giá_trị  P > m • trong một thời_gian nhất_định , xét trên bình_diện toàn_bộ nền kinh_tế : tổng giá_cả = tổng_giá_trị , do đó tổng P = tổng m . 
+b . 
+Tỷ_suất lợi_nhuận : Tỷ_suất lợi_nhuận là lệ phần_trăm giữa giá_trị thặng_dư và tổng tư_bản ứng ra để sản_xuất - kinh_doanh . 
+( P′ ) 
+P′ = mC + V × 100 % = PK × 100 % 
+Trong thực_tế , người_ta thường tính tỷ_suất lợi_nhuận hàng năm bằng tỷ_lệ_phần_trăm giữa tổng_số lợi_nhuận thu được trong năm và tư_bản ứng_trước 
+Tỷ_suất lợi_nhuận là hình_thái chuyển_hoá của tỷ_suất giá_trị thặng_dư . 
+Sự khác nhau giữa tỷ_suất lợi_nhuận và tỷ_suất giá_trị thăng dư : - Về chất : • m’ biểu_hiện mức_độ bóc_lột của nhà tư_bản đối_với LĐ ; • còn P’ nói_lên mức doanh_lợi của đầu_tư tư_bản . 
+- Về lượng : P’ < m’ . 
+Tỷ_suất lợi_nhuận chỉ cho nhà tư_bản biết tư_bản của họ đầu_tư vào đâu thì có lợi hơn . 
+Do đó , việc thu lợi_nhuận và theo_đuổi tỷ_suất lợi_nhuận là động_lực thúc_đẩy các nhà tư_bản , là mục_tiêu cạnh_tranh của các nhà tư_bản . 
+- Những nhân_tố ảnh_hưởng đến tỷ_suất lợi_nhuận : + Tỷ_suất giá_trị thặng_dư : tỷ_suất gía trị thặng_dư càng cao thì tỷ_suất lợi_nhuận càng lớn và ngược lại + Cấu_tạo hữu_cơ của tư_bản :Trong điều_kiện tỷ_suất giá_trị thặng_dư không đổi , nếu cấu_tạo hữu_cơ tư_bản càng cao thì tỷ_suất lợi_nhuận càng giảm và ngược lại . 
++ Tốc_độ chu_chuyển của tư_bản : Nếu tốc_độ chu_chuyển của tư_bản càng lớn , thì tần_suất sản_sinh ra giá_trị thặng_dư trong năm của tư_bản ứng truớc càng nhiều lần , giá_trị thặng_dư theo đó mà tăng lên , làm cho tỷ_suất lợi_nhuận cũng càng tăng . 
++ Tiết_kiệm tư_bản_bất_biến : Trong điều_kiện tỷ_suất giá_trị thặng_dư và tư_bản_khả_biến không đổi , nếu tư_bản_bất_biến càng nhỏ thì tỷ_suất lợi_nhuận càng lớn . 
+Bốn nhân_tố trên đây đều được các nhà tư_bản sử_dụng , khai_thác một_cách triệt_để để đạt được tỷ_suất lợi_nhuận cao nhất . 
+Song , với những đặc_điểm , điều_kiện khác nhau , nên cùng một lượng tư_bản như nhau đầu_tư vào các ngành khác nhau thì tỷ_suất lợi_nhuận lại đạt được khác nhau . 
+Vì vậy , các nhà tư_bản ra_sức cạnh_tranh kịch_liệt vói nhau và dẫn tới việc hình_thành lợi_nhuận bình_quân . 
+3 . Lợi_nhuận bình_quân và giá_cả sản_xuất - Cạnh_tranh là sự ganh_đua giữa những người sản_xuất và lưu_thông_hàng_hoá bằng những biện_pháp và thủ_đoạn khác nhau nhằm giành_giật cho mình những điều_kiện sản_xuất kinh_doanh có lợi nhất . 
+- Động_lực của cạnh_tranh là lợi_nhuận tối_đa . 
+- Trong điều_kiện của sản_xuất tư_bản tự_do cạnh_tranh , Mác phân_chia thành hai loại cạnh_tranh : + Cạnh_tranh nội_bộ ngành ; + Cạnh_tranh giữa các ngành . 
+a . 
+Cạnh_tranh nội_bộ ngành - Đó là sự cạnh_tranh giữa các nhà tư_bản trong cùng một ngành , sản_xuất cùng một loại hàng_hoá nhằm giành điều_kiện sản_xuất và tiêu_thụ hàng_hoá có lợi nhất để thu nhiều lợi_nhuận siêu_ngạch . 
+- Mục_tiêu cạnh_tranh : chiếm tỷ phần thị_trường lớn , muốn vậy phải : + Nâng_cao chất_lượng ; + Giảm chi_phí ; + Chất_lượng phục_vụ tốt ; + Mẫu_mã , bao_gói đẹp … - Biện_pháp cạnh_tranh : Bằng cách cải_tiến kỹ_thuật , tăng năng_suất lao_động , tăng cấu_tạo hữu_cơ C / V . Để hạ thấp hao_phí lao_động cá_biệt nhỏ hơn hao_phí lao_động xã_hội . 
+- Kết_quả cạnh_tranh : là hình_thành giá_trị thị_trường . 
+Giá_trị thị_trường một mặt , là giá_trị trung_bình của những hàng_hoá được sản_xuất ra trong một khu_vực sản_xuất nào đó , mặt_khác phải coi giá_trị thị_trường là giá_trị cá_biệt của những hàng_hoá được sản_xuất ra trong những điều_kiện trung_bình của khu_vực đó và chiếm khối_lượng lớn trong số những sản_phẩm của khu_vực này . 
+b . 
+Cạnh_tranh giữa các ngành - Đó là sự cạnh_tranh của các nhà tư_bản ở các ngành sản_xuất khác nhau nhằm giành_giật nơi đầu_tư có lợi nhất . 
+- Nguyên_nhân cạnh_tranh : Trong các ngành sản_xuất khác nhau , do đặc_điểm của từng ngành , C / V của các ngành khác nhau nên P’ của từng ngành là khác nhau . 
+VD : có 3 ngành SX : cơ_khí , dệt , da , có lượng tư_bản đầu_tư bằng nhau là 100 , m’ = 100 % , nhưng cấu_tạo hữu_cơ khác nhau , do đó P’ khác nhau vì vậy các nhà tư_bản không cam_chịu tình_trạng trên nên họ cạnh_tranh nhau : 
+- Biện_pháp để cạnh_tranh : là tự_do di_chuyển tư_bản vào các ngành khác nhau của xã_hội . 
+Tư_bản của ngành cơ_khí chuyển sang ngành da làm cho : + SP của ngành cơ_khí giảm - dẫn đến cung < cầu  giá_cả > giá_trị  P tăng . 
++ SP của ngành da tăng  cung > cầu  giá_cả < giá_trị  P giảm . 
+- Kết_quả của cạnh_tranh : Hình_thành tỷ_suất lợi_nhuận bình_quân ký_hiệu ( ) và giá_cả sản_xuất . 
+Vậy : - Tỷ_suất lợi_nhuận bình_quân : là con_số trung_bình của tất_cả tỷ_suất lợi_nhuận ở các ngành khác nhau : trong đó : P’1 - tỷ_suất lợi_nhuận của từng ngành ; 
+n - số ngành . 
+Lợi_nhuận bình_quân : là lượng lợi_nhuận mà một tư_bản thu được theo tỷ_suất lợi_nhuận bình_quân - không kể cấu_thành hữu_cơ của nó như thế_nào . 
+= P’.K 
+- Giá_cả SX : Khi hình_thành lợi_nhuận bình_quân , giá_trị hàng_hoá chuyển_hoá thành giá_cả SX : 
+GCSX = chi_phí SX + lợi_nhuận bình_quân . 
+GCSX = K + P ( bình_quân ) . 
+Giá_cả SX là cơ_sở của giá_cả thị_trường , giá_cả thị_trường vận_động lên_xuống xung_quanh giá_cả SX . 
+4 . Sự phân_chia giá_trị thặng_dư giữa các tập_đoàn tư_bản 
+a . Tư_bản thương_nghiệp và lợi_nhuận thương_nghiệp 
+Nguồn_gốc và bản_chất của tư_bản thương nghiệpTrong quá_trình tuần_hoàn và chu_chuyển của tư_bản công_nghiệp , thường_xuyên có một bộ_phận tư_bản tồn_tại dưới hình_thái tư_bản hàng_hoá ( H′ ) , chờ để được chuyển_hoá thành tư_bản tiền_tệ ( T′ ) . 
+Do sự phát_triển của phân_công lao_động xã_hội , đến một trình_độ nhất_định , giai_đoạn này được tách riêng ra để thở thành chức_năng chuyên_môn của một loại_hình tư_bản kinh_doanh riêng_biệt , đó chính là tư_bản thương_nghiệp ( tư_bản kinh_doanh hàng_hoá ) . 
+- Tư_bản thương_nghiệp là một bộ_phận của tư_bản công_nghiệp , tách ra khỏi vòng tuần_hoàn của tư_bản công_nghiệp và trở_thành tư_bản kinh_doanh hàng_hoá . 
+Công_thức vận_động chung của tư_bản thương_nghiệp là : T – H - T′ Với công_thức này , hàng_hoá được chuyển chỗ hai lần : . 
+Lần 1 : Tự tay nhà tư_bản công_nghiệp sang tay nhà tư_bản thương_nghiệp . 
+Lần 2 : Từ tay nhà tư_bản thương_nghiệp sang tay người tiêu_dùng . 
+Điều này cho_thấy tư_bản thương_nghiệp chỉ hoạt_động trong lĩnh_vực lưu_thông và không bao_giờ mang hình_thái là tư_bản sản_xuất cả . 
+- Tư_bản thương_nghiệp vừa phụ_thuộc , vừa độc_lập với tư_bản công_nghiệp : + Sự phụ_thuộc : Tư_bản thương_nghiệp chỉ là một bộ_phận của tư_bản công_nghiệp . 
++ Tính độc_lập tương_đối của tư_bản thương_nghiệp thể_hiện : Tư_bản thương_nghiệp đảm_nhận chức_năng riêng_biệt tách khỏi công_nghiệp . 
+Thực_tế cho_thấy sự ra_đời và phát_triển của tư_bản thương_nghiệp đã làm cho lưu_thông_hàng_hoá phát_triển , thị_trường được mở_rộng , hàng_hoá được lưu_thông nhanh , do vậy , đẩy nhanh tốc_độ chu_chuyển của tư_bản . 
+Từ đó , nó cũng có tác_động ngược lại : thúc_đẩy sự phát_triển của nền sản_xuất tư_bản_chủ_nghĩa . 
+Lợi_nhuận thương_nghiệp 
+Tư_bản thương_nghiệp , xét về chức_năng chỉ là mua và bán , thì chỉ hoạt_động trong lĩnh_vực lưu_thông , tách_rời khỏi lĩnh_vực sản_xuất của tư_bản công_nghiệp . 
+Mà theo lý_luận giá_trị của Mac thì lưu_thông không tạo ra giá_trị , cũng không tạo ra giá_trị thặng_dư và lợi_nhuận . 
+Nhưng thực_tế , các nhà tư_bản thương_nghiệp than gia hoạt_động trong lĩnh_vực lưu_thông_hàng_hoá thì tất_cả đều nhằm vào lợi_nhuận thương_nghiệp và kết_quả là họ đều thu được lợi_nhuận thương_nghiệp . 
+Sự_thực thì , việc thì việc tạo ra giá_trị thặng_dư và phân_chia giá_trị thặng_dư là hai vấn_đề khác nhau . 
+Lĩnh_vực lưu_thông cũng như hoạt_động của các nhà tư_bản thương_nghiệp đúng là không tạo ra được giá_trị thặng_dư , nhưng do vị_trí , tầm quan_trọng của lưu_thông đối_với sự phát_triển của sản_xuất và tái_sản_xuất nên các nhà tư_bản thương_nghiệp vẫn được tham_gia vào việc phân_chia giá_trị thặng_dư cùng với các nhà tư_bản công_nghiệp và phần giá_trị thặng_dư mà các nhà tư_bản thương_nghiệp được chia chính là lợi_nhuận thương_nghiệp . 
++ Lợi_nhuận thương_nghiệp là một phần giá_trị thặng_dư được sáng_tạo ra trong sản_xuất do nhà tư_bản công_nghiệp " nhường " cho nhà tư_bản thương_nghiệp . 
++ Sự hình_thành lợi_nhuận thương_nghiệp do chênh_lệch giữa giá bán với giá mua hàng_hoá của tư_bản thương_nghiệp . 
+Sự tham_gia của tư_bản thương_nghiệp vào việc bình_quân hoá tỷ_suất lợi_nhuận : - Giả_sử tư_bản CN ứng ra 1 lượng tư_bản = 720C + 180V = 900 . Khi m’ = 100 % . 
+Khối_lượng giá_trị thặng_dư là 180 . Giá_trị hàng_hoá = 1080 . 
+Giả_định nhà tư_bản công_nghiệp tự đảm_nhiệm việc mua_bán hàng_hoá của mình thì tỷ_suất lợi_nhuận bình_quân sẽ bằng : 
+ 100 % = 20 % 
+Khi có tư_bản thương_nghiệp tham_gia vào quá_trình kinh_doanh , và ứng_trước = 100 đơn_vị . 
+Vậy toàn_bộ tư_bản ứng_trước sẽ là : 900 + 100 = 1000 . - Tỷ_suất lợi_nhuận bình_quân : = ( 180 / 100 )  100 % = 18 % . 
+- Lợi_nhuận của tư_bản công_nghiệp : PCN = ( 900 / 100 % )  18 % = 162 . - Lợi_nhuận của tư_bản thương_nghiệp : PTN = ( 100 / 100 % )  18 % = 18 . 
+- Giá mua và bán của tư_bản thương_nghiệp : Giá bán của TB thương_nghiệp = 720C + 180V + 180m = 1080 Giá mua của TB thương_nghiệp = 720C + 180V + ( 180  18 )m = 1062 Vậy cả tư_bản công_nghiệp và tư_bản thương_nghiệp đều thu lợi_nhuận bình_quân . 
+Chi_phí lưu_thông thương_nghiệp 
+Bao_gồm phí lưu_thông thuần_tuý và phí lưu_thông bổ_sung . 
+Phí lưu_thông thuần_tuý : 
+- Là chi_phí liên_quan đến việc mua_bán hàng_hoá tức_là các chi_phí để thực_hiện giá_trị hàng_hoá như : + Tiền mua quầy bán hàng_hoá . 
++ Tiền_lương nhân_viên bán hàng . 
++ Mua sổ_sách kế_toán , lập chứng_từ … + Thông_tin , quảng_cáo . 
+- Chi_phí lưu_thông thuần_tuý không làm cho giá_trị hàng_hoá tăng lên . 
+- Nguồn bù_đắp cho chi_phí này là một phần của tổng_giá_trị thặng_dư do lao_động của công_nhân trong lĩnh_vực SX tạo ra . 
+Phí lưu_thông bổ_sung : là các chi_phí mang tính_chất SX , liên_quan đến việc bảo_tồn và di_chuyển hàng_hoá . 
++ Gồm :  gói bọc ; 
+ chuyên_chở ; 
+ bảo_quản . 
++ Chi_phí này được tính thêm vào giá_trị hàng_hoá . 
+b . 
+Tư_bản cho vay và lợi_tức cho vay . 
+Nguồn_gốc của tư_bản cho vay Trong quá_trình tuần_hoàn và chu_chuyển của tư_bản công_nghiệp , thường_xuyên có một bộ_phận tư_bản tiền_tệ ở trạng_thái nhàn_rỗi . 
+Ví_dụ : tiền trong quỹ khấu_hao nhưng chưa đến kỳ đổi_mới hoặc sửa chũa lớn tư_bản_cố_định , tiền mua nguyen nhiên vật_liệu nhưng chưa đến kỳ_hạn mua , quỹ tiền_lương để trả công_nhân nhưng chưa đến kỳ phải trả , phần giá_trị thặng_dư dùng để tích_luỹ mở_rộng sản_xuất nhưng chưa có cơ_hội … Tình_trạng tiền_tệ để rỗi như vậy lại mâu_thuẫn với bản_chất của tư_bản là luôn_luôn vận_động . 
+Chỉ trong quá_trình vận_động tư_bản mới có khả_năng sinh lời . 
+Mặt_khác , cũng do có sự khác_biệt về cơ_hội kinh_doanh giữa các nhà tư_bản cá_biệt . 
+Vì vậy , nếu xét tại một thời_điểm sẽ có những nhà tư_bản cá_biệt có tiền để rỗi , nhưng lại có những nhà tư_bản khác tìm được cơ_hội đầu_tư và lại rất cần tiền . 
+Từ đó nảy_sinh quan_hệ cung - cầu về tư_bản tiền_tệ và xuất_hiện quan_hệ vay_mượn lẫn nhau , trong đó bên cung về tư_bản tiền_tệ chính là bên cho vay , còn bên cầu về tư_bản tiền_tệ chính là bên đi vay . 
+- Tư_bản cho vay xuất_hiện sớm trước chủ_nghĩa_tư_bản - đó là cho vay nặng_lãi . 
+- Tư_bản cho vay trong chủ_nghĩa_tư_bản là một bộ_phận của tư_bản công_nghiệp tách ra . 
+Vậy : Tư_bản cho vay là tư_bản tiền_tệ mà người chủ của nó nhường cho một người khác sử_dụng trong một thời_gian để nhận được một_số lời nào đó . 
+Số lời đó gọi là lợi_tức . 
+Ký_hiệu ( z ) Tư_bản cho vay có những đặc_điểm khác căn_bản so với tư_bản công_nghiệp và tư_bản thương_nghiệp . 
+Điều này được thể_hiện ở chỗ : đối_với tư_bản cho vay thì quyền sử_dụng tư_bản tách rời quyền sở_hữu tư_bản ; tư_bản cho vay là hàng_hoá đặc_biệt . 
+Tư_bản cho vay vận_động theo công_thức T - T′ , trong đó : T′ = T + z . 
+Nhìn vào công_thức Này , sự vận_động của tư_bản cho vay chỉ biểu_hiện mối quan_hệ giữa các nhà tư_bản cho vay và nhà tư_bản đi vay , tiền đẻ ra tiền . 
+Do đó , quan_hệ bóc_lột tư_bản_chủ_nghĩa được che dấu một_cách kín_đáo nhất ; tư_bản cho vay trở_nên thần_bí và được sùng_bái nhất . 
+. 
+Lợi_tức và tỷ_suất lợi_tức Xét dòng lưu_chuyển của đồng_tiền từ tay nhà tư_bản cho vay đến nhà tư_bản đi vay và ngược lại . 
+Do có tư_bản tiền_tệ để rỗi nên nhà tư_bản cho vay đã chuyển tiền của mình cho nhà tư_bản đi vay sử_dụng . 
+Tiền nhàn_rỗi khi vào tay nhà tư_bản đi vay sẽ trở_thành tư_bản hoạt_động . 
+Trong quá_trình vận_động , tư_bản hoạt sẽ thu lợi_nhuận bình_quân . 
+Nhưng vì để có tư_bản hoạt_động , trước đó anh ta đã phải đi vay , nên nhà tư_bản đi vay không được hưởng toàn_bộ lợi_nhuận bình_quân , mà trong số lợi_nhuận bình_quân có một phần được trích ra để trả cho nhà tư_bản cho vay dưới hình_thức lợi_tức . 
+Phần còn_lại của lơi nhuận bình_quân chính là thu_nhập của nhà tư_bản đi vay còn được gọi là lợi_nhuận doanh_nghiệp . 
+- Lợi_tức ( z ) là một phần lợi_nhuận bình_quân mà nhà tư_bản đi vay để hoạt_động phải trả cho người cho vay về quyền được tạm sử_dụng tư_bản tiền_tệ . 
+Nguồn_gốc của lơi tức cũng chính là từ giá_trị thặng_dư do công_nhân làm_thuê tạo ra trong lĩnh_vực sản_xuất . 
+Vì vậy , có_thể khẳng_định tư_bản cho vay cũng gián_tiếp bóc_lột công_nhân làm_thuê thông_qua nhà tư_bản đi vay . 
+Vì là một phần của lợi_nhuận bình_quân , nên thông_thường , giới_hạn của lợi_tức phải ở trong khoảng : 0 ‹ z ‹ - Tỷ xuất lợi_tức : Là tỷ_lệ_phần_trăm giữa số lợi_tức thu được và số tư_bản cho vay trong một thời_gian nhất_định . 
+z’ = ZTổng tư_bản cho vay × 100 % 
+Tỷ_suất lợi_tức vận_động trong giới_hạn : 
+0 < z ' < ’ 
+Thông_thường , tỷ_suất lợi_tức phải nhỏ hơn tỷ_suất lơi nhuận bình_quân ( trừ trường_hợp khủng_hoảng ) và phải lớn hơn số 0 . Trong giới_hạn đó tỷ_suất lợi_tức lên_xuống theo quan_hệ cung_cầu về tư_bản cho vay và biến_động theo chu_kỳ vận_động của tư_bản công_nghiệp . 
+Cụ_thể , tỷ_suất lợi_tức phụ_thuộc vào các nhân_tố sau : - Các nhân_tố ảnh_hưởng đến tỷ_suất lợi_tức : + tỷ_suất lợi_nhuận bình_quân . 
++ quan_hệ cung_cầu về tư_bản cho vay . 
+Giới_hạn tối_đa của tỷ_suất lợi_tức : 
+z’ < ( = ) ’ 
+- Tỷ_suất lợi_tức có xu_hướng giảm : + tỷ_suất lợi_nhuận có xu_hướng giảm ; + cung về tư_bản cho vay tăng nhanh hơn cầu về tư_bản cho vay ; + hệ_thống tín_dụng TBCN ngày_càng phát_triển . 
+Trong CNTB độc_quyền nhà_nước , nhà_nước tư_sản đã thực_thi việc điều_tiết tỷ_suất lợi_tức để điều_hoà cung_cầu về tiền coi đó là công_cụ để điều_tiết và quản_lý nền kinh_tế_thị_trường . 
+c . 
+Quan_hệ tín_dụng tư_bản_chủ_nghĩa . 
+Ngân_hàng và lợi_nhuận ngân_hàng - Quan_hệ tín_dụng tư_bản_chủ_nghĩa : Chủ_nghĩa_tư_bản không_thể phát_triển mạnh_mẽ nếu nhue không có quan_hệ tín_dụng ngày_càng mở_rộng . 
+Tín_dụng tư_bản_chủ_nghĩa là hình_thức vận_động của tư_bản cho vay . 
+Dưới chủ_nghĩa_tư_bản có hai hình_thức tín_dụng cỏ bản là tín_dụng thương_nghiệp và tín_dụng ngân_hàng - Tín_dụng thương_nghiệp : là quan_hệ trực_tiếp giữa các nhà tư_bản kinh_doanh , mua bán_chịu hàng_hoá với nhau . 
+Việc mua_bán chịu hàng_hoá giữa các nhà tư_bản có nghĩa là nhà tư_bản này đã cho nhà tư_bản kia vay một giá_trị tư_bản tương_ứng với giá_trị chứa_đựng trong hàng_hoá đó . 
+Bởi vậy , người cho vay đòi_hỏi phải được trả lợi_tức . 
+Giá hàng_hoá bán_chịu bao_giờ cũng cao hơn giá hàng_hoá trả tiền ngay bởi_vì còn bao_gồm cả phần lợi_tức trong đó . 
+Tuy_nhiên , mục_đích chr yếu của tín_dụng thương_nghiệp không phải là để thu lợi_tức , mà là để thực_hiện giá_trị hàng_hoá và thúc_đẩy lưu_thông_hàng_hoá . 
+Sự vận_động của tín_dụng thương_nghiệp gắn liền với sự vận dộng của tư_bản hàng_hoá , vì đối_tượng của tín_dụng thương_nghiệp là hàng_hoá 
+Tiền làm chức_năng phương_tiện thanh_toán , hàng_hoá được bán không phải lấy tiền ngay mà lấy một tờ khế ước_hẹn thời_hạn trả tiền gọi là kỳ_phiếu . 
+- Tín_dụng ngân_hàng : là quan_hệ vay_mượn giữa người có tiền với những người sản_xuất , kinh_doanh qua ngân_hàng làm môi_giới trung_gian . 
+Đây là hình_thức tín_dụng giữa ngân_hàng với các nhà tư_bản trực_tiếp kinh_doanh và các tầng_lớp dân_cư khác trong xã_hội . 
+Sự vận_động của tín_dụng ngân_hàng gắn liền với sự vận_động của tín_dụng tiền_tệ , vì đối_tượng của tín_dụng ngân_hàng là tiền_tệ . 
+- Ngân_hàng và lơi nhuận ngân_hàng : Ngân_hàng tư_bản_chủ_nghĩa là tổ_chức kinh_doanh tiền_tệ , làm môi_giới giữa người đi vay và người cho vay . 
+Ngân_hàng có hai nghiệp_vụ : nhận gửi và cho vay . 
+Trong dịch_vụ nhận gửi , ngân_hàng trả lợi_tức cho người gửi tiền ; còn trong nghiệp_vụ cho vay , ngân_hàng thu lợi_tức của người đi vay . 
+Về nguyên_tắc lợi_tức cho vay phải cao hơn lợi_tức nhận gửi . 
+Chênh_lệch giữa lợi_tức cho vay và lợi_tức nhận gửi sau khi trừ đi những chi_phí về nghiệp_vụ kinh_doanh ngân_hàng cộng với các thu_nhập khác về kinh_doanh tư_bản tiền_tệ hình_thành nên lợi_nhuận ngân_hàng . 
+Trong cành tranh , rốt_cuộc lợi_nhuận ngân_hàng cũng ngang bằng với lợi_nhuận bình_quân , nếu không sẽ lại diễn_ra sự tự_do di_chuyển tư_bản vào các ngành khác nhau . 
+Nhờ có ngân_hàng mà các nhà tư_bản có điều_kiện mở_rộng sản_xuất nhanh_chóng hơn , có điều_kiện tự_do di_chuyển tư_bản từ ngành này sang ngành khác dễ_dàng hơn , giảm được chi_phí lưu_thông , giảm lượng tiền_mặt trong lưu_thông , đẩy nhanh tốc_độ quay_vòng của đồng_tiền . 
+- Phân_biệt tư_bản ngân_hàng và tư_bản cho vay Tư_bản ngân_hàng có điểm khác_biệt về căn_bản so với tư_bản cho vay , thể_hiện ở điểm sau đây : + Tư_bản cho vay là tư_bản tiềm thế , tư_bản tài_sản , là tư_bản không hoạt_động . 
+Vì vậy , tư_bản cho vay không tham_gia vào quá_trình bình_quân hoá tỷ_suất lợi_nhuận . 
+Lợi_tức – thu_nhập của tư_bản cho vay chỉ là một phần của lợi_nhuận bình_quân . 
++ Tư_bản ngân_hàng là tư_bản chức_năng , tư_bản hoạt_động nen tư_bản ngân_hàng cũng có tham_gia vào quá_trình bình_quân hoá tỷ_suất lợi_nhuận . 
+Trong tự_do cạnh_tranh , lợi_nhuận ngân_hàng cũng ngang bằng với lợi_nhuận bình_quân . 
+d . 
+Công_ty cổ_phần . 
+Tư_bản giả và thị_trường chứng_khoán Sự phát_triển của nền kinh_tế tư_bản_chủ_nghĩa và quan_hệ tín_dụng đã dẫn tới sự hình_thành các công_ty cổ_phần và sự ra_đời của thị truờng chứng_khoán . 
+Công_ty cổ_phần : Công_ty cổ_phần là một loại_hình xí_nghiệp lớn mà vốn của nó được hình_thành từ sự đóng_góp của nhiều nguời thông_qua việc phát_hành cổ_phiếu . 
+Cổ_phiếu là một thứ chứng_khoán có gí do công_ty cổ_phần phát_hành ghi_nhận quyền sở_hữu cổ_phần của người mua cổ_phiếu ( được gọi là cổ_đông ) , đồng_thời còn bảo_đảm cho cổ_đông có quyền được lĩnh một phần thu_nhập của công_ty ( cổ_tức ) căn_cứ vào gía trị cổ_phần và tình_hình sản_xuất kinh_doanh của công_ty . 
+Cổ_phiếu được mua_bán trên thị truờng chứng_khoán theo thị_giá cổ_phiếu . 
+Thị_giá cổ_phiếu được xác_định tương_đương với một số tiền mà nếu đem gửi vào ngân_hàng thì căn_cứ theo tỷ_suất lợi_tức hiện_hành cũng sẽ đem lại một khoản lợi_tức tuơng đương với mức cổ_tức . 
+Vì vậy , thị_giá cổ_phiếu phụ_thuộc vào 2 nhân_tố : . 
+Mức cổ_tức mà cổ_phiếu mang lại . 
+Mức cổ_tức càng cao thì thị_giá cổ_phiếu càng lớn và ngược lại . 
+. 
+Tỷ_suất lợi_tức tiền gửi ngân_hàng . 
+Tỷ_suất lợi_tức tiền gửi ngân_hàng càng cao thì thị_giá cổ_phiếu càng thấp và ngược lại . 
+Tư_bản giả : : Tư_bản giả là tư_bản tồn_tại dưới hình_thức các chứng_khoán có giá và mang lại thu_nhập cho người sở_hữu các chứng_khoán đó . 
+Trên thực_tế , có hai loại chứng_khoán phổ_biến là : cổ_phiếu do công_ty cổ_phần phát_hành và trái_phiếu . 
+Trái_phiếu cũng có hai loại : Loại do các doanh_nghiệp phát_hành được gọi là trái_phiếu công_ty hay trái_phiếu doanh_nghiệp với tư_cách là những chứng_khoán có giá chứng_nhận khoản tiền vay nợ của doanh_nghiệp đối_với người mua trái_phiếu . 
+Người mua trái_phiếu không phải là cổ_đông của doanh_nghiệp mà chỉ đơn_thuần là người cho doanh_nghiệp vay vốn với giá_trị tương_ứng với mệnh_giá trái_phiếu . 
+hết hạn , người sở_hữu trái_phiếu có quyền được hoàn_trả số tiền đã mua trái_phiếu theo mệnh_giá kèm theo khoản lợi_tức gọi là lợi_tức trái_phiếu . 
+Loại do nhà_nước hay chính_phủ phát_hành được gọi là trái_phiếu chính_phủ . 
+Công_trái về bản_chất cũng là một loại trái_phiếu chính_phủ . 
+Về cơ_bản , trái_phiếu chính_phủ cũng giống như trái_phiếu doanh_nghiệp . 
+Sự khác nhau tập_trung ở chỗ : chủ_nợ của trái_phiếu doanh_nghiệp là donanh nghiệp còn chủ_nợ của trái_phiếu chính_phủ chính là nhà_nước . 
+Tư_bản giả có những đặc_điểm sau : - Có_thể mang lại thu_nhập cho người sở_hữu nó . 
+- Có_thể mua_bán được . 
+- Vì là tư_bản giả nên sự tăng hay giảm giá mua_bán của nó trên thị truờng không cần có sự thay_đổi tương_ứng của tư_bản thật . 
+Thị_trường chứng_khoán : Trên thực_tế , tất_cả các chứng_khoán có giá đều có_thể giao_dịch , mua đi bán lại trên thị_trường chứng_khoán . 
+Khái_niệm : Thị_trường chứng_khoán là nơi mua_bán chứng_khoán có_giá . 
+Phân_loại : - Nếu xét về lưu_thông các chứng_khoán . 
+Thị_trường chứng_khoán có hai loại : + Thị_trường sơ_cấp : là mua_bán chứng_khoán phát_hành lần đầu . 
++ Thị_trường thứ_cấp : là mua_bán lại các chứng_khoán đã phát_hành lần đầu . 
+- Nếu xét về phương_thức giao_dịch có ba loại_hình TTCK : + Sở giao_dịch chứng_khoán : Thị_trường tập_trung . 
++ Thị_trường OTC : thị_trường bán_tập_trung : các công_ty môi_giới chứng_khoán thực_hiện các giao_dịch qua hệ_thống điện_thoại và máy_vi_tính nối mạng giữa các thành_viên khắp cả nước . 
++ Thị_trường không chính_thức : mua_bán chuyển_nhượng CK ở bất_cứ đâu , lúc nào . 
+- Thị_trường chứng_khoán có hai chức_năng cơ_bản : + Huy_động tiền tiết_kiệm , tiền nhàn_rỗi của dân ; + Luân_chuyển vốn . 
+Nguyên_tắc cơ_bản của TTCK : 
+- Nguyên_tắc trung_gian ; - Nguyên_tắc đấu_giá ; - Nguyên_tắc công_khai . 
+Thị_trường chứng_khoán là thị_trường phản_ứng rất nhạy_bén đối_với các thay_đổi của nền kinh_tế . 
+Vì vậy , người_ta thường ví thị_trường chưng khoán là phong_vũ_biểu của nền kinh_tế . 
+e . 
+Quan_hệ_sản_xuất tư_bản_chủ_nghĩa nông_nghiệp và địa_tô tư_bản_chủ_nghĩa 
+Tư_bản kinh_doanh nông_nghiệp 
+- Lịch_sử phát_triển của CNTB trong nông_nghiệp ở châu Âu hình_thành theo hai con đường điển_hình : + Bằng cải_cách dần_dần chuyển sang kinh_doanh theo phương_thức TBCN. 
+Đó là con đường của các nước Đức , Italia , Nga , Nhật ... 
++ Thông_qua cách_mạng xoá_bỏ chế_độ kinh_tế địa_chủ , phát_triển kinh_tế TBCN trong nông_nghiệp . 
+Đó là con đường ở Pháp . 
+Khi CNTB hình_thành trong nông_nghiệp , trong nông_nghiệp có ba giai_cấp cơ_bản : + Địa_chủ : độc_quyền sở_hữu ruộng_đất . 
++ Giai_cấp tư_bản kinh_doanh trong nông_nghiệp : độc_quyền kinh_doanh . 
++ Công_nhân nông_nghiệp làm_thuê . 
+Bản_chất của địa_tô tư_bản_chủ_nghĩa 
+- Địa_tô TBCN là bộ_phận giá_trị thặng_dư siêu_ngạch do công_nhân làm_thuê trong nông_nghiệp tạo ra và do nhà tư_bản thuê đất nộp cho địa_chủ . 
+- Nguồn_gốc của địa_tô : là giá_trị thặng_dư do công_nhân nông_nghiệp tạo ra . 
+- Cơ_sở của địa_tô : là quyền sở_hữu ruộng_đất . 
+Địa_tô tư_bản_chủ_nghĩa và địa_tô phong_kiến : 
+- Giống nhau : + Đều là kết_quả của bóc_lột đối_với người lao_động . 
++ Quyền sở_hữu ruộng_đất được thực_hiện về mặt kinh_tế . 
+- Khác nhau : Về mặt chất : + Địa_tô phong_kiến phản_ánh mối quan_hệ giữa hai giai_cấp địa_chủ và nông_dân . 
++ Địa_tô TBCN biểu_hiện quan_hệ ba giai_cấp trong xã_hội : địa_chủ , tư_bản kinh_doanh nông_nghiệp , công_nhân nông_nghiệp . 
+Về mặt lượng : + Địa_tô phong_kiến gồm toàn_bộ sản_phẩm thặng_dư do nông_dân tạo ra , đôi_khi cả một phần sản_phẩm tất_yếu . 
++ Địa_tô tư_bản_chủ_nghĩa là một phần giá_trị thặng_dư do công_nhân nông_nghiệp tạo ra ( một phần giá_trị thặng_dư chuyển thành lợi_nhuận cho tư_bản công_nghiệp ) . 
+Các hình_thức địa_tô tư_bản_chủ_nghĩa 
+a . 
+Địa_tô chênh_lệch - Là phần lợi_nhuận siêu_ngạch ngoài lợi_nhuận bình_quân , thu được trên những ruộng_đất tốt và trung_bình . 
+- Là số chênh_lệch giữa giá_cả SX chung của nông_phẩm ( được quyết_định bởi điều_kiện SX trên ruộng_đất xấu nhất ) và giá_cả SX cá_biệt trên ruộng_đất tốt và trung_bình . 
+Có_thể định_lượng : Địa_tô chênh_lệch = Giá_cả sản_xuất chung - Giá_cả sản_xuất cá_biệt Địa_tô chênh_lệch có hai loại : - Địa_tô chênh_lệch 1 : địa_tô thu được trên cơ_sở đất_đai có điều_kiện tự_nhiên thuận_lợi : + độ mầu_mỡ cao ; + gần nơi tiêu_thụ ; + gần đường giao_thông . 
+Địa_tô chênh_lệch 1 thuộc về chủ ruộng_đất . 
+- Địa_tô chênh_lệch 2 : là địa_tô thu được do thâm_canh mà có : Muốn vậy phải : + đầu_tư thêm TLSX và lao_động ; + cải_tiến kỹ_thuật để tăng NSLĐ , tăng năng_suất của ruộng_đất . 
+Địa_tô tuyệt_đối : Địa_tô tuyệt_đối là loại địa_tô mà tất_cả các nhà tư_bản kinh_doanh nông_nghiệp đều phải nộp cho địa_chủ , cho_dù ruộng_đất là tốt hay xấu . 
+Đây là loại địa_tô thu trên mọi thứ đất . 
+Chúng_ta đều biết , dưới chế_độ tư_bản chủ_nghĩa , do có sự độc_quyền về tư_hữu ruộng_đất , nên đã cản_trở sự phát_triển của quan_hệ_sản_xuất tư_bản_chủ_nghĩa trong lĩnh_vực nông_nghiệp . Điều đó thể_hiện ở chỗ : nông_nghiệp thường lạc_hậu so với công_nghiệp cả về kinh_tế lẫn kỹ_thuật , vì thế cấu_tạo hữu_cơ của tư_bản trong nông_nghiệp thường thấp hơn cấu_tạo hữu_cơ của tư_bản trong công_nghiệp . 
+Vì vậy , nếu trình_độ bóc_lột ngang nhau , và vơi một lượng tư_bản ứng ra bằng nhau thì lượng giá_trị thặng_dư thu được trong nông_nghiệp bao_giờ cũng cao hơn lượng giá_trị thặng_dư thu được trong công_nghiệp . 
+Ví_dụ : Có hai nhà tư_bản công_nghiệp và nông_nghiệp ứng ra một lượng tư_bản là 100 ; cấu_tạo hữu_cơ của tư_bản trong nông_nghiệp là 3/2 ; cấu_tạo hữu_cơ của tư_bản trong công_nghiệp là 4/1 ; tỷ_suất giá_trị thặng_dư trong cả hai ngành nông_nghiệp và công_nghiệp đều bằng nhau , bằng 100 % ; thì giá_trị và giá_trị thặng_dư được sản_xuất ở từng lĩnh_vực là : Trong nông_nghiệp : 60c +40v + 40m = 140 Trong công_nghiệp : 80c +20v + 20m = 120 Giả_sử tỷ_suất lợi_nhuận bình_quân của xã_hội ở mức 20 % , có nghĩa là tương_ứng với lượng tư_bản ứng ra là 100 thì lơi nhuận bình_quân thu được sẽ là 20 và giá_cả sản_xuất chung của xã_hội sẽ bằng : 100 + 20 = 120 . Như vậy , trong ví_dụ này tồn_tại sự chênh_lệch giữa giá_trị nông_sản phẩm và giá_cả sản_xuất chung là : 140 - 120 = 20 . 
+Sự độc_quyền tư_hữu ruộng_đất đã ngăn_cản quá_trình tự_do di_chuyển tư_bản từ các ngành khác vào nông_nghiệp và do đó đã ngăn_cản quá_trình bình_quân hoá tỷ_suất lợi_nhuận giữa công_nghiệp và nông_nghiệp . 
+Địa_tô tuyệt_đối là một loại lợi_nhuận siêu_ngạch ngoài lợi_nhuận bình_quân hình_thành do cấu_tạo hữu_cơ của tư_bản trong nông_nghiệp thấp hơn trong công_nghiệp , mà bất_cứ nhà tư_bản thuê ruộng_đất nào đều phải nộp cho địa_chủ . 
+Nó là số chênh_lệch giữa giá_trị nông_sản với giá_cả SX chung . 
+Địa_tô tuyệt_đối có điểm giống nhưng cũng có điểm khác_biệt so với địa_tô chênh_lệch . 
+Điểm giống nhau : Đều là lợi_nhuận siêu_ngạch , đều có nguồn_gốc từ giá_trị thặng_dư , đều là kết_quả của sự chiếm_đoạt giá_trị thặng_dư của công_nhân nông_nghiệp làm_thuê Điểm khác_biệt : Độc_quyền kinh_doanh ruộng_đất theo kiểu tư_bản_chủ_nghĩa là nguyên_nhân sỉnh ra địa_tô chênh_lệch , còn độc_quyền tư_hữu về ruộng_đất là nguyên nhân_sinh ra địa_tô tuyệt_đối . 
+Vì vậy việc xoá_bỏ chế_độ độc_quyền tư_hữu về ruộng_đất chính là cơ_sở để xoá_bỏ địa_tô tuyệt_đối . 
+Khi đó giá_cả nông_sản phẩm sẽ hạ xuống và có lợi cho người tiêu_dùng . 
+Ngoài hai loại địa_tô chủ_yếu là địa_tô chênh_lệch và địa_tô tuyệt_đối , trong thực_tế còn tồn_tại một_số loại địa_tô khác nữa , như , địa_tô đất xây_dựng , địa_tô hầm_mỏ , địa_tô độc_quyền … về cơ_bản các laọi địa_tô này đều là lợi_nhuận siêu_ngạch gắn liền với những lợi_thế tự_nhiên của đất_đai . 
+Theo Mac , các loại địa_tô ấy " đều dựa trên cơ_sở của địa_tô nông_nghiệp theo đúng nghĩa của danh_từ này " , có nghĩa là do địa_tô nông_nghiệp điều_tiết . 
+Giá_cả ruộng_đất 
+Giá_cả đất_đai không phải là biểu_hiện bằng tiền của giá_trị đất_đai . 
+Giá_cả đất_đai được tính theo sự biến_động của địa_tô và tỷ_suất lợi_tức ngân_hàng . 
+Giá_cả ruộng_đất phụ_thuộc : - Mức địa_tô thu được hàng năm . 
+- Tỷ_suất lợi_tức tiền gửi ngân_hàng . 
+Ví_dụ : Một mảnh ruộng A cho thuê , địa_tô hàng năm nhận được là 1.500 USD , tỷ_suất lợi_tức ngân_hàng là 5 % thì mảnh ruộng A được bán với giá : 
+1500×1005 = 30.000 USD 
+Lý_luận địa_tô TBCN của C . Mác không_chỉ vạch rõ bản_chất của quan_hệ_sản_xuất TBCN trong nông_nghiệp mà_còn là cơ_sở khoa_học để xây_dựng các chính_sách kinh_tế liên_quan đến thuế , đến điều_tiết các loai địa_tô , đến giải_quyết các quan_hệ đất_đai . 
+Nhằm kết_hợp hài_hoà các lợi_ích , khuyến_khích thâm_canh , sử_dụng đất_đai tiết_kiệm , phát_triển một nền nông_nghiệp hàng_hoá sinh_thái bền_vững 

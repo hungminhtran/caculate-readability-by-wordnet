@@ -1,0 +1,9 @@
+Mydoom . O trở_lại tấn_công các website tìm_kiếm 
+Biến_thể này phát_tán rất nhanh từ hôm_qua bằng cách gửi bản_sao của nó qua công_cụ SMTP riêng , thu_thập địa_chỉ e-mail từ những dịch_vụ tìm_kiếm như Yahoo và Google . 
+Hãng phần_mềm diệt virus Sophos ( Anh ) cho_biết , khi chui vào máy_tính nạn_nhân , virus sẽ lùng_sục trên ổ_cứng để tìm địa_chỉ e-mail , sau đó tìm tiếp trên các dịch_vụ search trực_tuyến . 
+Virus này tìm những địa_chỉ mail có cùng tên_miền với PC bị nhiễm nên nó tấn_công vào tất_cả những máy_tính trong cùng một doanh_nghiệp hoặc một nhà cung_cấp dịch_vụ mạng . 
+Virus gửi một lệnh truy_vấn tới công_cụ tìm_kiếm Internet sử_dụng tên_miền từ những địa_chỉ mail mà nó lấy được trên máy nạn_nhân , sau đó kiểm_tra kết_quả tìm_kiếm và lấy thêm được nhiều địa_chỉ hơn . 
+Sophos cho_biết bản Mydoom này gửi 45 % số lệnh truy_vấn tới Google , 22,5 % sang Lycos , 20 % đến Yahoo và 12,5 % tới Altavista . 
+Cả 3 hãng phần_mềm an_ninh hàng_đầu là Sophos , Computer_Associates và Symantec đều thống_nhất rằng đây là một virus lây_lan nhanh nhưng khá dễ loại_bỏ bằng các phần_mềm nâng_cấp . 
+Hồi tháng 8 năm_ngoái , Mydoom . O cũng đã bắn rất nhiều lệnh truy_vấn tới Google khiến hệ_thống này bị chậm và thậm_chí tê_liệt trong những khoảng thời_gian khá lâu . 
+Một phiên_bản khác của cùng họ sâu này cũng đã thành_công trong việc đánh_bật khỏi mạng những dịch_vụ search nhỏ hơn như Lycos và Altavista bằng các cuộc tấn_công từ_chối dịch_vụ DDoS ( bấm vào đây để xem hình minh_hoạ ) . 

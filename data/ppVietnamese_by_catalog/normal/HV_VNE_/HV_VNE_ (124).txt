@@ -1,0 +1,6 @@
+Lỗ_hổng từ 7 năm trước xuất_hiện trong Firefox 
+Những phiên_bản trình_duyệt gần đây của Mozilla bao_gồm Mozilla_1.7 và Firefox 1 đang mắc phải một lỗi đã xảy_ra từ năm 1998 , có_thể tạo điều_kiện cho tin_tặc kiểm_soát website . 
+Theo hãng bảo_mật Secunia ( Đan_Mạch ) , lỗ_hổng " khá nghiêm_trọng " này liên_quan đến khung trình_duyệt , cho_phép tin_tặc khai_thác để cài nội_dung vào site , hoặc tạo ra một khung đăng_nhập giả , thu_thập thông_tin về tên và mật_khẩu tài_khoản trực_tuyến . 
+" Khi bạn đang xem một trang được hệ_thống công_nhận là đáng tin_cậy ( trusted site ) , ví_dụ như trang web ngân_hàng và vô_tình vào trang của một kẻ lừa_đảo nào đó trên một cửa_sổ khác , kẻ đó có_thể cài mã vào cửa_sổ đang hiển_thị site đáng tin_cậy " , quản_trị_viên của diễn_đàn Mozilla_Online mô_tả . 
+Mozilla khuyến_cáo : " Để phòng_ngừa , người sử_dụng trình_duyệt nên đóng tất_cả các cửa_sổ và tab trước khi truy_cập vào site chứa thông_tin bảo_mật của mình như trang web ngân_hàng hay những trang đòi_hỏi khai_báo chi_tiết về tài_khoản , thẻ tín_dụng và các dữ_liệu nhạy_cảm khác " . 
+Hãng Secunia đã cung_cấp mộtchương trình đánh_giá lỗi để người dùng có_thể kiểm_tra mức_độ an_toàn của trình_duyệt mình đang sử_dụng . 

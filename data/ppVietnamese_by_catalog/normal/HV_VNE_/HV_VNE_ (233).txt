@@ -1,0 +1,14 @@
+Hai đợt spam liên_tiếp của virus Bagle 
+Chỉ trong 2 ngày 20 và 21/9 , biến_thể mới nhất Bagle . DI-U đã mở hai cuộc tấn_công , vô_hiệu_hoá các phần_mềm diệt virus , chặn truy_cập tới website bảo_mật nhằm mở_đường cho hacker điều_khiển máy_tính mà không bị cản_trở . 
+Bagle . DI-U lây_lan qua thư rác chứa tiêu_đề trống , phần nội_dung chỉ là dòng chữ " new price " ( giá mới ) và file đính kèm có tên như " 09-price . zip , " " price-new . zip , " và " price2.zip " . 
+Khi người dùng mở những tệp trên , virus này sẽ nhanh_chóng thâm_nhập máy_tính , thay_đổi registry , mở cổng hậu và tắt chương_trình bảo_mật . 
+Bắt_đầu xuất_hiện từ tháng 1/2004 , dòng sâu Bagle đã mở_rộng ít_nhất 70 biến_thể có mức_độ nguy_hiểm tương_đương nhau . 
+Một đợt e-mail virus khác , giả_dạng thiệp điện_tử từ " một người thầm ngưỡng_mộ bạn " , cũng đã khiến hàng_loạt máy_tính bị lây_nhiễm chỉ trong vài ngày tuần này . 
+Sâu có tên Dloader . UT sẽ ngay_lập_tức tải về máy khi người dùng bấm vào link tới trang chứa e-card . 
+Trojan này sau đó kiểm_soát toàn_bộ máy_tính , cho_phép tin_tặc cài phần_mềm bất_kỳ trên hệ_thống để gửi spam hoặc làm vũ_khí tấn_công trực_tuyến những mục_tiêu khác . 
+Nguy_cơ ẩn sau những tấm thiệp điện_tử đã được cảnh_báo khá nhiều gần đây . 
+Ví_dụ điển_hình của mánh_khoé này là sâu Zafi . D , đính kèm trong e-card mừng Giáng_sinh , đã thống_lĩnh các bảng xếp hạng những virus nguy_hiểm nhất trong suốt thời_gian qua . 
+Hãng bảo_mật Sophos của Anh khuyến_cáo người sử_dụng tránh mở file kèm trong thư rác và đảm_bảo phần_mềm chống virus của họ luôn được cập_nhật . 
+" Mọi người cần nghĩ kỹ trước khi bấm vào một thư rác nào đó . 
+Chúng thường khiến ta ' tưởng_bở ' để rồi bị ăn_cắp thông_tin cá_nhân và tài_chính " , Carole_Theriault , cố_vấn bảo_mật của Sophos , nói . 
+" Ngày_càng nhiều những kẻ viết chương_trình Trojan , spyware sử_dụng phương_pháp spam để tối_đa_hoá số_lượng nạn_nhân " . 

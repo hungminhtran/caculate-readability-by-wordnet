@@ -1,0 +1,10 @@
+Sâu tấn_công dịch_vụ IM của Yahoo và AOL 
+Khi người dùng bấm vào đường link trong tin_nhắn AOL , mã độc_hại sẽ tự_động cài vào máy_tính . 
+Với Yahoo , đường liên_kết này dẫn đến một trang web giả nhằm mục_đích ăn_cắp thông_tin cá_nhân . 
+Trong cả hai trường_hợp , người sử_dụng nhận được một thông_điệp liên_quan đến tập phim Star_Wars mới nhất ( Star_Wars_Episode III : Revenge_of_the_Sith ) , mời_gọi họ nhấp chuột vào đường link . 
+Tin_nhắn trong AOL có dòng chữ " Hehe I found this funny movie " , gây tò_mò khiến cho người nhận bấm vào liên_kết ( chữ " this " ) , tải mã nguy_hiểm vào máy_tính . 
+Sau đó , sâu này sẽ nối tới một máy_chủ IRC ( Internet_Relay_Chat ) để tiếp_tục phát_tán qua các thông_điệp AIM . 
+Theo ước_tính của trung_tâm an_ninh NetSec ( Mỹ ) , đến sáng ngày 25/5 , đã có khoảng 15.000 máy bị nhiễm . 
+Riêng người dùng Yahoo sẽ nhận được một URL với liên_kết nằm trong chữ " Stargame " , chủ_yếu hướng vào giới hâm_mộ trò_chơi , để dẫn đến một trang web Yahoo giả , nhằm khai_thác thông_tin như ID , mật_khẩu ... 
+Hãng IMLogic ( Mỹ ) đánh_giá nguy_cơ này ở mức " trung_bình " . 
+Các chuyên_gia bảo_mật khuyến_cáo người dùng nên thận_trọng mỗi khi click vào link trong tin_nhắn nhanh , cho_dù đó là thông_điệp đến từ những người bạn trong danh_sách . 

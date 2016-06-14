@@ -1,0 +1,4 @@
+Nóng , lạnh và nhiệt_độ 
+Nhiệt_độ của hơi_nước đang sôi là 100°c , của nước_đá đang tan là 0 °C . 
+Nhiệt_độ cơ_thể của người khoẻ_mạnh vào khoảng 37°c . 
+Khi nhiệt_độ cơ_thể cao hơn hoặc thấp hơn mức đó là dấu_hiệu cơ_thể bị bệnh , cần phải đi khám và chữa bệnh . 

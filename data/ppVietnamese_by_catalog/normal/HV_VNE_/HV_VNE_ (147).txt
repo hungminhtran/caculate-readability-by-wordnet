@@ -1,0 +1,9 @@
+Lỗi trong IE có_thể phá_vỡ trình_duyệt 
+Các chuyên_gia an_ninh mạng đã khám_phá một lỗ_hổng mới trong Internet_Explorer ( IE ) , có_thể phá_vỡ khả_năng hoạt_động của trình_duyệt , đồng_thời cho_phép hacker cài phần_mềm trên máy_tính bị khống_chế . 
+Lỗ_hổng này được hãng nghiên_cứu và tư_vấn bảo_mật Australia SEC_Consult phát_hiện đầu_tiên và đã cảnh_báo tới Microsoft vài tuần trước đây . 
+Martin_Eisner , Trưởng phòng kỹ_thuật của SEC_Consult , cho_biết khi mở các trang HTML sử_dụng tính_năng ActiveX , tin_tặc có khả_năng viết chèn lên bản đăng_ký trong thiết_bị xử_lý máy_tính . 
+Thủ_thuật này về mặt lý_thuyết có_thể sử_dụng để cài mã nguy_hiểm vào nhiều phần trong bộ_nhớ máy_tính và làm tràn bộ đệm . 
+Microsoft ngày hôm_qua đã khẳng_định sự tồn_tại của lỗ_hổng . 
+Hãng đánh_giá lỗi ở mức " nghiêm_trọng " và đang nghiên_cứu giải_pháp . 
+Tuy_nhiên , Microsoft chưa nhận được bất_cứ thông_báo nào về những vụ tấn_công liên_quan đến lỗ_hổng . 
+Các chuyên_gia bảo_mật hy_vọng hãng phần_mềm này sẽ sớm đưa ra bản vá lỗi trong vòng vài tuần tới , vì " hiện_giờ nó không có biểu_hiện gì nguy_hiểm , nhưng chỉ 1 , 2 tuần nữa chắc_chắn sẽ có ai đó ' rỗi việc ' và khai_thác nó " , Eisner khẳng_định . 

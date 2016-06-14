@@ -1,0 +1,14 @@
+Tấn_công từ_chối dịch_vụ vẫn là nguy_cơ số_một 
+Dù hiện_nay tình_trạng phát_tán virus đã trở_nên phổ_biến , 90 % doanh_nghiệp khẳng_định những cuộc tấn_công DDoS đang là vấn_đề phiền_toái và thường gặp nhất trong công_ty . 
+Hãng Arbor_Networks ( Mỹ ) đã thực_hiện một cuộc điều_tra bảo_mật ISP toàn_cầu với sự tham_gia của 36 nhà cung_cấp dịch_vụ Internet ở Mỹ , châu Âu và châu Á . 
+Kết_quả cho_thấy hình_thức tấn_công thịnh_hành nhất là các trận DDoS qua những gói thông_tin UDP và TCP SYN từ mạng máy_tính bị khống_chế ( zombie ) . 
+Hai mối đe_doạ tiếp_theo là sâu chứa mã nguy_hiểm và nhiễm_độc DNS ( DNS poisoning ) . 
+Tuy_nhiên , nếu xét về khả_năng gây mức_độ rủi_ro cao cho công_ty thì sâu mạng vẫn là nguy_cơ hàng_đầu . 
+Dù đã xuất_hiện và tung_hoành trong vài năm trở_lại đây , chỉ có 29 % các hãng ISP trang_bị phương_pháp ngăn_chặn và dò_tìm tấn_công từ_chối dịch_vụ tự_động . 
+Phần_đông chỉ nhận_biết được rắc_rối khi một khách_hàng nào đó liên_hệ với họ yêu_cầu trợ_giúp . 
+Phương_tiện chính để đối_phó với DDoS hiện_nay vẫn là sử_dụng danh_sách kiểm_soát ALCs ( Access_Control_Lists ) , nhưng mặt_khác nó cũng sẽ chặn khả_năng truy_cập mạng . 
+Động_lực của việc thực_hiện tấn_công từ_chối dịch_vụ là tống_tiền , âm_mưu chống lại các công_ty , thậm_chí để gián_điệp ... 
+Tấn_công từ_chối dịch_vụ ( DDoS / DoS - denial_of_service_attack ) là kiểu tấn_công khiến một hệ_thống máy_tính hoặc một mạng bị quá_tải , dẫn tới không_thể cung_cấp dịch_vụ hoặc phải dừng hoạt_động . 
+Sơ_khai nhất là hình_thức DoS ( Denial_of_Service ) , lợi_dụng sự yếu_kém của giao_thức TCP , tiếp đến là DDoS - tấn_công từ_chối dịch_vụ phân_tán , và gần đây là DRDoS - tấn_công theo phương_pháp phản_xạ phân_tán ( Distributed_Reflection_Denial_of_Service ) . 
+Nhiễm_độc DNS ( DNS cache poisoning ) là thủ_thuật lừa một máy_chủ DNS tin rằng nó vừa nhận được một thông_tin đáng tin_cậy . 
+Một_khi server DNS bị nhiễm , thông_tin sẽ lưu lại ( cache ) và sau đó mở_rộng ảnh_hưởng sang những người sử_dụng server đó . 

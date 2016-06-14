@@ -1,0 +1,6 @@
+Virus giả_dạng đoạn phim về sự_cố London 
+Hãng bảo_mật e-mail MessageLabs ( Mỹ ) cho_biết chưa đầy một ngày sau vụ nổ chấn_động ở thủ_đô Anh , một chương_trình Trojan đã được phát_tán dưới dạng_bản tin video quay lại vụ tấn_công để đánh_lừa người dùng . 
+Mã nguy_hiểm này xuất_hiện trong file đính kèm thư_điện_tử với tiêu_đề " Terror hits London " ( London bị đánh bom khủng_bố ) , được thiết_kế y_hệt bản tin không chính_thức phát đi thường_xuyên qua e-mail ( newsletter ) của kênh CNN . E-mail yêu_cầu người nhận " tải file đính kèm để chứng_kiến những cảnh quay nghiệp_dư độc_nhất_vô_nhị " . 
+Khi được mở ra , file này sẽ tự_động sao thành nhiều bản trong hệ_thống máy_tính người dùng . 
+Sau đó , Trojan sẽ tiếp_cận danh_sách server của e-mail mà máy_tính đã truy_cập tới , và bắt_đầu lợi_dụng những server này để phát_tán thư rác . 
+MessageLabs cho_biết mức_độ lây_lan của virus này không rộng , cho đến nay hãng cũng chỉ mới nhận được một_vài e-mail dạng này . 

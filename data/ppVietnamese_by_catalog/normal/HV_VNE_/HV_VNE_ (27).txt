@@ -1,0 +1,7 @@
+Spyware gia_tăng gấp 3 trong một quý 
+Theo khảo_sát của chương_trình Spy_Audit do hai hãng ISP_Earthlink và Webroot_Software thực_hiện , số máy_tính nhiễm phần_mềm gián_điệp tăng 230 % trong 3 tháng cuối 2004 . Các chương_trình Trojan theo_dõi bàn_phím và hệ_thống cũng phát_triển với tỷ_lệ 114 % trong cùng thời_gian này . 
+Trong quý IV năm_ngoái , Spy_Audit đã quét và phát_hiện tới 33.096.255 phần_mềm spyware , adware và nhiều loại chương_trình xâm_nhập lén_lút khác trên PC . 
+Số phần_mềm theo_dõi hệ_thống tăng từ 48.260 tháng 10/2004 lên 159.262 tháng 12 . Riêng_Trojan tăng từ 55.228 lên 118.043 . 
+Spaw_Audit đã ghi_nhận cả năm 2004 có tổng_số 116,5 triệu spyware , adware và các loại khác . 
+Tỷ_lệ trung_bình là cứ 25 lần quét thì phát_hiện một spyware . 
+Matt_Cobb , Phó_chủ_tịch EarthLink , nhận_xét : Sự gia_tăng này cho_thấy spyware đang nhanh_chóng trở_thành một trong những mối đe_doạ nguy_hiểm nhất trên Internet . Trojan và spyware thường được thiết_kế với khả_năng ghi_nhận các lệnh gõ trên bàn_phím , chụp màn_hình và thu_thập thông_tin cá_nhân như số thẻ an sinh , tài_khoản ngân_hàng , mã truy_nhập , số thẻ tín_dụng , password& . 

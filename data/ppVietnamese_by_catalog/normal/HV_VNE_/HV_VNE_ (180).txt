@@ -1,0 +1,8 @@
+Hacker săn tìm lỗi trong chương_trình bảo_mật 
+Hãng bảo_mật hệ_thống Internet_ISS ( Mỹ ) khẳng_định ngày_càng có nhiều tội_phạm mạng lợi_dụng phần_mềm diệt virus như là " cổng thành " cho chúng khai_thác và xâm_nhập máy_tính . 
+Các chuyên_gia của ISS đã từng phát_hiện nhiều khiếm_khuyết trong sản_phẩm diệt virus của những công_ty nổi_tiếng như Symantec , McAfee , Trend_Micro , F-Secure và gần đây nhất là lỗi trong các chương_trình ClamAV , Ethereal và Sophos_Anti-Virus . 
+Tuy nguy_cơ này mới chỉ dừng ở mức_độ " cảnh_báo " nhưng đã có nhiều bằng_chứng cho_thấy mối đe_doạ này sẽ ngày_một tăng lên rõ_rệt hơn trong tương_lai . 
+Nhóm nghiên_cứu Yankee tháng trước cũng khuyến_cáo rằng phần_mềm diệt virus đang trở_thành mục_tiêu ưa_thích của tin_tặc sau khi đã " ngán_ngẩm " trò khai_thác lỗi chương_trình Windows của Microsoft . Những đề_tài liên_quan đến hệ_điều_hành phổ_biến nhất hiện_nay này xuất_hiện khá hiếm_hoi trong diễn_đàn thường_niên Black_Hat , quy_tụ những chuyên_gia bảo_mật hàng_đầu thế_giới , khai_mạc ngày 27/7 tại Las_Vegas ( Mỹ ) . 
+Ngược lại , điểm yếu của phần_mềm diệt virus lại là một chủ_đề nóng và chiếm hầu_hết nội_dung diễn_đàn . 
+Những vấn_đề khác xảy_ra với khoá USB ( con đường thâm_nhập máy_tính kiểu mới ) , lỗ_hổng chưa được sửa trong hệ_thống của Oracle vốn được coi là thành_trì bất_khả_xâm_phạm , và lỗi thiết_bị định_tuyến Cisco ảnh_hưởng đến hoạt_động của mạng Internet cũng được quan_tâm thảo_luận trong đợt này . 
+Hôm_nay cũng là ngày diễn_ra Hội_thảo DefCon với sự góp_mặt của nhiều chuyên_gia an_ninh mạng , giới hacker chuyên_nghiệp và nghiệp_dư cũng tại Las_Vegas . Hai diễn_đàn lớn này thu_hút sự chú_ý đặc_biệt của các cơ_quan an_ninh pháp_luật do sự gia_tăng tội_phạm mạng trong thời_gian gần đây . 

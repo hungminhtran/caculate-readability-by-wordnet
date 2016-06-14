@@ -1,0 +1,8 @@
+PC ' ma ' phát_tán khoảng 1 triệu thư rác mỗi ngày 
+Microsoft đã tiến_hành một vụ kiện chống lại 13 tổ_chức không được nêu tên vì đã gửi đi hàng triệu thông_điệp spam thông_qua các hệ_thống máy_tính bị khống chế( zombie ) . 
+Mạng máy_tính ma ( botnet ) bao_gồm tập_hợp những PC bị tin_tặc kiểm_soát và sử_dụng để gửi thư rác , quản_lý những website bất_hợp_pháp , có nội_dung khiêu_dâm , đồi_truỵ , hoặc thực_hiện tấn_công từ_chối dịch_vụ DDoS . Hãng phần_mềm khổng_lồ của tỷ_phú Bill_Gates đầu năm nay đã cố_tình khiến một PC bị nhiễm sâu Internet , biến nó trở_thành một phần trong hệ_thống máy_tính ma . 
+Chỉ trong 20 ngày , zombie này đã nhận được 5 triệu lần kết_nối từ những kẻ chuyên phát_tán thư rác , và bị " yêu_cầu " gửi đi 18 triệu thông_điệp quảng_cáo cho 13.000 website . 
+Thậm_chí , trong những ngày cao_điểm , nó có_thể tự gửi đi 1,8 triệu spam . 
+Microsoft đã lần ra ít_nhất 13 nhóm spam có_hạng và tiến_hành khởi_kiện bắt_đầu từ tháng 8 . Trước đây , tập_đoàn cũng đã kiện nhiều tay gửi thư rác , nhưng chưa bao_giờ hướng mục_tiêu vào những đối_tượng sử_dụng botnet . 
+Tim_Cranton , Giám_đốc bảo_mật Internet của Microsoft , cho_biết : " Việc thiết_lập hệ_thống bị khống_chế để thực_hiện những hành_vi phạm tội nguy_hiểm qua mạng đang tăng lên với tốc_độ cao và ảnh_hưởng không nhỏ tới cộng_đồng người dùng Internet toàn_cầu " . 
+Hành_động pháp_lý này được thực_hiện sau khi Hà_Lan bắt_giữ 3 thanh_niên vì tội_danh xây_dựng mạng botnet lên tới 1,5 triệu máy_tính ma . 

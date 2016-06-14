@@ -1,0 +1,8 @@
+Intel thử_nghiệm bộ_xử_lý công_nghệ 45nm 
+Mặc_dù được đưa ra thử_nghiệm là SRAM ( static RAM ) , tuy_nhiên , theo như Intel cho_biết , bộ_phận này có đầy_đủ chức_năng như một bộ_vi_xử_lý đa_nhân . 
+Cuộc thử_nghiệm này chỉ nhằm chứng_minh một điều , Intel có_thể sản_xuất được các bộ_vi_xử_lý sử_dụng công_nghệ 45 nm . 
+45 nm là kích_thước nhỏ nhất của một cấu_kiện có_thể được sản_xuất và định_hình trên đĩa bán_dẫn . 
+Với công_nghệ này , Intel có_thể sản_xuất được những bộ_vi_xử_lý tiêu_thụ ít điện_năng hơn , khả_năng xử_lý cao hơn so với các bộ_vi_xử_lý sản_xuất theo các công_nghệ trước đây , cụ_thể con_số ước đoán là 5 lần . 
+Intel hiện đang sản_xuất các bộ_vi_xử_lý sử_dụng công_nghệ 65 nm , các bộ_vi_xử_lý sử_dụng công_nghệ 45 nm sẽ có_mặt trên thị_trường vào năm 2007 . Định_luật Moore vẫn tiếp_tục được duy_trì . 
+Định_luật này nói rằng , mật_độ cấu_kiện trên các bộ_vi_xử_lý sẽ tăng gấp đôi sau 18 tháng . 
+Chưa biết AMD sẽ có những bước_tiến gì sau những thành_công ấn_tượng gần đây nhất trước đối_thủ truyền_kỳ là Intel . 

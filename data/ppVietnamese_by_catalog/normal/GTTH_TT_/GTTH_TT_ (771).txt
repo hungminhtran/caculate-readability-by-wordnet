@@ -1,0 +1,13 @@
+Sẽ có máy_tính thương_hiệu Google ? 
+Máy_tính NC là một định_nghĩa và là một kế_hoạch đầy tham_vọng của công_ty máy_tính Oracle trong thập_niên 90 của thế_kỷ 20 . Thời đó , công_ty Oracle đã gặp rất nhiều trở_lực rất lớn khi tiến_hành kế_hoạch này , khiến nó không trở_thành hiện_thực được . 
+Không như " bậc tiền_bối " , Google đang âm_thầm phát_triển một chuỗi các phần_mềm dịch_vụ có khả_năng cạnh_tranh với các phần_mềm văn_phòng của Microsoft , tích_hợp nhiều dịch_vụ mạng hơn đặc biệc là các dịch_vụ Internet . Tuy_vậy , các buổi thảo_luận , họp_báo đều tập_trung vào các máy_tính thương_hiệu Google , có giá khoảng 200 USD . 
+Hệ máy này sẽ tích_hợp các gói dịch_vụ của Google nhắm vào thị_trường Ấn_Độ và Trung_Quốc , nơi không phổ_biến hình_thức máy_tính cá_nhân gia_đình ( home PC’s ) , chủ_yếu là trong môi_trường doanh_nghiệp , môi_trường làm_việc cộng_tác trên diện rộng . 
+Thật_ra , các hệ máy như Google đã nêu không phải hoàn_toàn là NC như định_nghĩa của Oracle . 
+Nó thuộc hệ thin client networks computers ( thin client NCs ) , một loại máy khách chuyên_dụng hoạt_động trong môi_trường mạng , một loại thiết_bị_đầu_cuối đa_dụng và chuyên_dụng ( theo định_nghĩa của ông John_Kish , CEO mới của Wyse_Technology ) . 
+Một_vài công_ty đã thử bắt_tay sản_xuất các hệ máy chuyên_dụng để lướt web , duyệt mail vào những năm cuối thập_niên 90 của thế_kỷ 20 nhưng đã thất_bại ( Oracle với hệ máy NC 199 USD , đã ngừng sản_xuất vào năm 2003 ) . 
+Bản_thân Wyse cũng đang nghiên_cứu các hệ thin client NCs trên môi_trường Windows và Linux . Google cho rằng , tình_hình đã thay_đổi kể từ thập_niên 90 , khi mà Internet băng_thông rộng và các " ứng_dụng chạy trên nền Internet " chưa phổ_biến như bây_giờ . 
+Các hệ máy của Google có giá khá thấp thành thấp , linh_động cao và hơn_nữa Google nắm_giữ những nền_tảng về khai_thác cơ_sở_hạ_tầng mạng để phục_vụ cho các ứng_dụng mạng . 
+Nhưng liệu sẽ như thế_nào nếu Internet gặp sự_cố và ngưng_trệ ? 
+Còn quá sớm để đưa ra bất_kỳ kết_luận hoặc một nhận_định mang tính khách_quan . 
+Tuy_nhiên , chúng_ta không phủ_nhận , một " trào_lưu " mới đang khởi_đầu trong ngành công_nghiệp số này . 
+Biết_đâu , một ngày không xa , chúng_ta cũng sẽ có Google_PC , đứng ngang hàng với các đại_gia lẫy_lừng khác như AMD , Intel , IBM … Giới quan_sát đang dõi theo từng bước đi của Google . 

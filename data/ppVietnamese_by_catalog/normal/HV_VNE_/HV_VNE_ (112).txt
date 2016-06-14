@@ -1,0 +1,13 @@
+Cuộc_chiến chống thư rác bước vào giai_đoạn mới 
+Zombie - hiện_tượng PC bị hacker điều_khiển gửi đi hàng triệu thư rác , gây tắc_nghẽn đường truyền và làm tràn hòm_thư - đã khiến Hội_đồng thương_mại liên_bang Mỹ ( FTC ) phải phát_động chiến_dịch ngăn_chặn với sự hợp_tác của 25 quốc_gia hôm 24/5 . 
+Cơ_quan này đã soạn_thảo " Tuyên_bố xử_lý zombie " mà theo đó các ISP trên toàn_cầu sẽ phải khoá cổng 25 TCP ( giao_thức quản_lý đường truyền ) được dùng cho các e-mail SMTP ( giao_thức truyền thư đơn_giản ) và phải hạn_chế lượng thư mà người sử_dụng gửi đi . 
+FTC cho_biết họ sẽ đề_nghị khoảng 3.000 nhà cung_cấp Internet trên thế_giới đảm_bảo hệ_thống máy_tính của khách_hàng không bị những kẻ gửi thư rác tấn_công . 
+Các ISP cần phải giúp khách_hàng dọn sạch máy và tư_vấn cho họ cách_thức bảo_vệ PC , đồng_thời ghi hồ_sơ tất_cả e-mail của khách_hàng gửi qua server của mình . 
+Theo báo_cáo an_ninh Internet của hãng Symantec , trong quý II/2004 , lượng máy bị khống_chế ở Anh là 25,2 % , Mỹ : 24,6 % , Trung_Quốc : 7,8 % , Canada : 4,9 % và Tây_Ban_Nha : 3,8 % . 
+Các chuyên_gia bảo_mật cho rằng tốc_độ phát_triển nhanh và sự thiếu hiểu_biết về mặt kỹ_thuật đã gây ra tình_trạng máy_tính zombie lớn như vậy . 
+Symantec và Sophos cho_biết việc sử_dụng Internet băng_thông rộng ngày_càng tăng đã tạo điều_kiện phát_triển cho zombie . 
+Những kẻ gửi thư rác cũng hợp_tác với các tác_giả virus ( như sâu Sober , SoBig ) để biến PC thành " máy ma " , thả hàng triệu thư rác đến các máy khác mà người sử_dụng không hề hay_biết . 
+Mạng_lưới zombie này gây ra 50 % đến 80 % tổng_lượng thư rác trên mạng . 
+Các cơ_quan an_ninh mạng khuyến_cáo người sử_dụng tích_cực thực_hiện biện_pháp phòng_chống virus để hạn_chế tình_trạng này : 
+- Liên_tục chạy các chương_trình diệt virus , spyware và chương_trình firewall . - Không để máy_tính kết_nối với đường truyền Internet tốc_độ cao trong thời_gian dài khi không sử_dụng . - Không bao_giờ nhấn vào đường link hay các file đính kèm trong e-mail lạ hay tin_nhắn nhanh không rõ nguồn_gốc . 
+Phần_lớn các nhà cung_cấp dịch_vụ Internet đều đã tiến_hành những hành_động như FTC nêu ra nhưng đang gặp vướng_mắc vì đôi_khi rất khó phân_biệt đâu là thư rác đang truyền_tải trong mạng và đâu là thư hợp_lệ hoặc e-mail tin_tức mà người sử_dụng đăng_ký . 

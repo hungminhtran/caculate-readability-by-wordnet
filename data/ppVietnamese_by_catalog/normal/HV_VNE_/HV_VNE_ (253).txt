@@ -1,0 +1,18 @@
+Bảo_mật Windows tháng 10 : Đa_số lỗi có nguy_cơ thấp 
+Microsoft vừa phát_hành 9 bản tin an_ninh để vá 14 lỗ_hổng ở hệ_điều_hành của họ . 
+Trong hầu_hết các trường_hợp , tin_tặc phải lừa người sử_dụng mở website nguy_hiểm , bấm vào kết_nối hoặc mở file chứa mã_độc mới có_thể khai_thác lỗi thành_công . 
+Tuy_nhiên , những lỗ_hổng " nghiêm_trọng " có_thể cho_phép hacker điều_khiển hệ_thống từ xa mà không cần sự tác_động của người dùng . 
+Ví_dụ như lỗi trong một thành_phần Windows dùng để xử_lý giao_dịch , mang tên Microsoft_Distributed_Transaction_Coordinator , hay MSDTC , xuất_hiện trong bản tin MS05-051 . Lỗi tràn bộ đệm MSDTC ảnh_hưởng đến những máy_tính chạy trên Windows_2000 . 
+Tuỳ theo cấu_hình , nó cũng có_thể bị lợi_dụng để khai_thác máy_tính hoạt_động với Windows_XP_SP1 hay Windows_Server_2003 . Stephen_Toulouse , Giám_đốc chương_trình bảo_mật của Microsoft , cho_biết khách_hàng sử_dụng phiên_bản hệ_điều_hành cũ như Windows_2000 cần đặt biệt lưu_tâm đến MS05-051 . 
+Bản tin này đồng_thời sửa 3 lỗi Windows khác , có tỷ_lệ nguy_hiểm khác nhau tuỳ_thuộc hệ_điều_hành , trong đó có một lỗi liên_quan đến nhân_tố quản_lý nguồn COM+ , ảnh_hưởng Windows_2000 và Windows_XP_SP1 . 
+MS05-050 khắc_phục vấn_đề " nghiêm_trọng " của phần_mềm nghe_nhìn DirectShow trong tất_cả các phiên bảnWindows . 
+Kẻ tấn_công có_thể sử_dụng một tệp media chứa mã nguy_hiểm để khống_chế PC của nạn_nhân sau khi họ mở hoặc vào trang chứa file đó . 
+Trong khi đó , MS05-052 giải_quyết lỗi Internet_Explorer ( IE ) tương_tự như trong bản tin tháng 8 . Lỗ_hổng này tách trình_duyệt khỏi những bộ_phận khác , khiến nó không_thể tương_tác với nhiều bộ_phận trong Windows , mở_rộng đường cho kẻ tấn_công kiểm_soát PC . 
+4 trong 6 bản tin còn_lại được đánh_giá ở mức " quan_trọng " . 
+MS05-048 ảnh_hưởng cả Windows lẫn phần_mềm máy_chủ e-mail Microsoft_Exchange . MS05-047 được thiết_kế để loại_bỏ lỗi plug-and-play trong Windows_2000 và Windows_XP , nhưng một_số hãng bảo_mật cho_biết lỗ_hổng này sẽ không_thể bị khai_thác từ xa . 
+Plug-and-play cũng là lỗi gây ra sự_kiện lan_tràn sâu Zotobhai tháng trước khiến nhiều hệ_thống bị trục_trặc trong đó có các hãng tin nhưCNN , ABC và The_New_York_Times . 
+Ngoài ra,MS05-049nâng cấp 3 trục_trặc trong quá_trình Microsoft xử_lý file và ký_tự , còn MS05-046 liên_quan đến phần_mềm hỗ_trợ mạng Novell_NetWare . 
+Hai cảnh_báo cuối_cùng được xếp vào hàng " trung_bình " . 
+MS05-045xử lý lỗ_hổng của chương_trình quản_lý kết_nối mạng Network_Connection_Manager trong Windows_2000 , XP và Server 2003 . MS05-044tập trung vào khiếm_khuyết được tìm thấy trong máy khách Windows_FTP , có_thể tạo cơ_hội kẻ tấn_công thay_đổi địa_chỉ truyền file bằng cách cài một file độc trên máy_chủ FTP. 
+" Nhìn_chung , đa_số các lỗi trong bản tin bảo_mật tháng 10 có ảnh_hưởng thấp và rất khó có_thể bị khai_thác trong hệ_điều_hành mới như Windows_XP_SP2 và Windows_Server_2003_SP1 " , Toulouse cho_biết . 
+Người sử_dụng cài cơ_chế vá lỗi như Windows_Automatic_Updates sẽ được tự_động cập_nhật bản vá . 

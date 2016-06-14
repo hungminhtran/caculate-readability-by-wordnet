@@ -1,0 +1,10 @@
+Mỗi ngày xảy_ra một đợt tấn_công virus mạng IM 
+Người sử_dụng đã nhận_thức rõ về nguy_cơ lây_nhiễm chương_trình nguy_hiểm khi bấm vào một đường link qua e-mail , nhưng việc hạn_chế tình_trạng này trong hệ_thống tin_nhắn nhanh ( IM ) không phải dễ . 
+Virus bắt_đầu lây_lan qua những file gửi từ IM . Virus rồi sẽ không_thể tìm ra con đường sống trong e-mail , nhưng chúng đang di_cư sang IM ngày_một đông " , Francis_Costello , Giám_đốc kỹ_thuật của hãng nghiên_cứu Akonix ( Mỹ ) , nói . 
+Số sâu IM trong quý I năm nay là khoảng 40 , tăng gấp đôi so với toàn_bộ năm 2004 , nhưng con_số ấy vẫn chỉ bằng 1/4 quý II với gần 170 trường_hợp " . 
+Virus IM tấn_công khách_hàng sử_dụng dịch_vụ tin_nhắn nhanh bằng cách rà_soát danh_sách bạn_bè trong tài_khoản chat nào đó . 
+Tiếp_theo , nó gửi một thông_điệp , nội_dung thường là Hehe , tớ vừa kiếm được một bộ phim cực hay : ) , hoặc Xem thử cái ảnh này đi kèm một kết_nối chứa mã_độc . 
+Một_số sâu lai có_thể phát_tán đồng_thời qua cả hai mạng tin_nhắn nhanh và chia_sẻ ngang hàng P2P , ví_dụ như sâu Win32.VB và Bropia . 
+Tháng 8 là tháng của virus Kelvir . HI với trình_độ ngoại_ngữ siêu_hạng khi nó có_thể phát_tán dưới 10 phiên_bản ngôn_ngữ khác nhau . 
+Còn riêng trong tháng 9 , Akonix đã ghi_nhận thêm 7 phiên_bản mới của Mete , Simbag& Tính trung_bình , các mạng IM đang phải chịu một đợt tấn_công hàng ngày với thủ_đoạn tuy thô_sơ nhưng hiệu_quả . 
+Để bảo_vệ mình , người sử_dụng cần cài chương_trình diệt virus theo thời_gian_thực và cảnh_giác trước mọi đường link . 

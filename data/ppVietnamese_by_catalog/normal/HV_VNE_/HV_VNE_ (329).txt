@@ -1,0 +1,7 @@
+Virus ' ông_già Noel ' quấy_nhiễu các dịch_vụ nhắn tin 
+Những kẻ viết virus đang lợi_dụng hình_ảnh Santa_Claus để lừa người dùng hệ_thống tin_nhắn nhanh ( IM ) của America_Online , Microsoft_MSN và Yahoo bấm vào file chứa phần_mềm nguy_hiểm . 
+Theo hãng bảo_mật Mỹ IMLogic , sâu IM . GiftCom . All sẽ khiến người_ta nghĩ rằng họ vừa nhận được một link chứa file chúc_mừng Giáng_sinh . 
+Những_ai bấm vào tệp này sẽ thấy hình_ảnh một ông_già tuyết mà không hề biết rằng một chương_trình rootkit đã nhanh_chóng thâm_nhập vào hệ_thống máy_tính của họ . 
+Rootkit , công_cụ được thiết_kế để hoạt_động mà không_thể bị phần_mềm bảo_mật dò ra và mới bắt_đầu xuất hiệntrên mạng IM gần đây , sẽ giành quyền kiểm_soát , hỗ_trợ kẻ tấn_công phân_tán thông_điệp tới những địa_chỉ khác . 
+Sâu trong mạng tin_nhắn nhanh có_thể lây_lan với tốc_độ nhanh_chóng bởi chúng ém trong thông_điệp có_vẻ như từ một người bạn trong danh_sách . 
+" IM . GiftCom . All có mức phát_tán trung_bình , nhưng về khả_năng gây thiệt_hại cho hệ_thống , chúng tỏ_ra nguy_hiểm hơn nhiều " , IMlogic khuyến_cáo . 

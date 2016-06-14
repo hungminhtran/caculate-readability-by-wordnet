@@ -1,0 +1,14 @@
+Lexus phủ_nhận nguy_cơ virus trên xe của họ 
+Trên website của hãng phần_mềm an_ninh F-Secure ( Phần_Lan ) hôm_qua đăng tuyên_bố của công_ty sản_xuất ôtô Lexus , trong đó bác_bỏ khả_năng virus mạng di_động Cabir lây qua kênh Bluetooth mà một_số sản_phẩm xe_hơi đắt tiền của hãng này sử_dụng trong hệ_thống dẫn hướng . 
+Thông_tin về nguy_cơ virus tấn_công các sản_phẩm của Lexus được hãng bảo_mật Nga Kaspersky công_bố tháng trước . 
+Kaspersky cho_biết đã điều_tra và nhận_thấy khả_năng những chiếc xe sang_trọng này có_thể bị nhiễm virus . 
+Thông_tin đó đã khiến một_số khách_hàng quan_ngại và cố_gắng tìm_hiểu liệu có khả_năng giao_diện Bluetooth trong một_số hệ_thống định_vị GPS ở ôtô có_thể bị lỗ_hổng . 
+Lexus - một công_ty con thuộc tập_đoàn Toyota - khẳng_định rằng công_cụ dẫn hướng ( navigation ) trên ôtô của họ sử_dụng hệ_điều_hành nhúng và bộ_nhớ truy_cập ngẫu_nhiên RAM để lưu một_số dạng thông_tin , chẳng_hạn như những địa_điểm đã đến trong thời_gian gần nhất hoặc danh_bạ điện_thoại . 
+Lexus phủ_nhận thông_tin cho rằng hệ_điều_hành họ dùng là do Symbian sản_xuất , vốn mang_tiếng là bị Cabir tấn_công . 
+Cabir được coi là virus mẫu đầu_tiên có khả_năng tấn_công điện_thoại thông_minh thông_qua kết_nối không dây Bluetooth ở những thiết_bị chạy hệ_điều_hành Symbian , lây_lan từ máy này qua máy khác dưới dạng một file gói , nếu người nhận đồng_ý mở . 
+Lexus cho_biết , mặc_dù giao_diện Bluetooth trong hệ_thống dẫn hướng ôtô của họ hỗ_trợ công_nghệ Object_Push_Protocol ( dùng cho việc chấp_nhận các file từ điện_thoại thông_minh ) , chủ xe hoàn_toàn vẫn kiểm_soát tính_năng này và bất_cứ dữ_liệu nào được truy_cập bằng công_cụ nói trên cũng không_thể truyền từ bộ_phận dẫn hướng . 
+F-Secure kết_luận rằng người sử_dụng ôtô chưa cần quá lo_lắng về một mối đe_doạ thực_sự nào mặc_dù việc Bluetooth hỗ_trợ giao_thức Object_Push_Protocol có_thể cho_phép sâu Cabir gửi bản_sao vào hệ_thống dẫn hướng của Lexus và tạo ra một thông_báo lỗi . 
+Trong khi đó , David E mm , chuyên_gia công_nghệ cao_cấp của Kaspersky , lại cho rằng kết_luận như vậy thực_ra chưa thấu_đáo . 
+Ông này tin rằng mối đe_doạ thực_tế nhắm vào Bluetooth và các công_nghệ không dây khác sẽ sớm xuất_hiện . 
+E mm còn khuyến_cáo rằng , khi các hãng sản_xuất tiếp_tục quá_trình tích_hợp công_nghệ kết_nối truyền_thống ở máy_tính vào xe_cộ , khả_năng ôtô bị dính nhiều loại virus khác nhau cũng tăng lên rất nhiều . 
+Các công_ty ôtô đang hướng tới việc cung_cấp kết_nối Internet trên xe để gửi / nhận e-mail& Khi đó , người sử_dụng sẽ có khả_năng tải về computer trên xe nhiều thứ không an_toàn , E mm cảnh_báo . 

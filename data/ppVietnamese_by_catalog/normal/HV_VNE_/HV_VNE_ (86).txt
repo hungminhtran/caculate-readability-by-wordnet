@@ -1,0 +1,18 @@
+Nguy_cơ virus điện_thoại_di_động đang bị thổi_phồng 
+WDSGlobal , công_ty chuyên cung_cấp dịch_vụ hỗ_trợ các hãng viễn_thông di_động lớn , vừa có phản_ứng lại nghiên_cứu của Symantec mà trong đó cho rằng người sử_dụng mobile phone cần hết_sức cảnh_giác với virus . 
+Theo WDSGlobal ( chuyên xử_lý các cuộc gọi hỗ_trợ cho Hewlett-Packard , Nokia , Orange , Sony_Ericsson và T-Mobile ) , những con_số thống_kê và khảo_sát mới nhất cho_thấy mối đe_doạ của các phần_mềm tấn_công trên điện_thoại vẫn còn một khoảng_cách khá xa từ khái_niệm cho tới hiện_thực . 
+Trong nghiên_cứu công_bố tháng trước , Symantec khẳng_định 73 % người dùng điện_thoại thông_minh cho rằng có virus và nguy_cơ tấn_công nhắm vào thiết_bị của họ . 
+Mặc_dù điều đó có_thể là một dấu_hiệu đáng mừng xét theo nhẽ cẩn_tắc vô áy_náy , Doug_Overton , Giám_đốc truyền_thông của WDSGlobal , vẫn cho rằng người tiêu_dùng nên nhận rõ một điều là những vấn_đề như vậy rất hãn_hữu và còn xa mới trở_thành nguy_cơ thực_sự . 
+Overton cho_biết trong quý vừa_qua , trong tổng_số 275.000 cuộc gọi mà hãng nhận được , chỉ có 10 thắc_mắc của người sử_dụng đầu_cuối về virus điện_thoại thông_minh . 
+Overton cũng đồng_ý rằng sự ý_thức tốt về nguy_cơ virus không phải là điều thừa nhưng cái không_thể chấp_nhận ở đây chính là sự phao tin thái_quá . 
+Nhìn lại khoảng 14 virus điện_thoại xuất_hiện vừa_qua có_thể thấy đại_bộ_phận không nguy_hiểm lắm . 
+Chúng được thiết_kế ra như những bằng_chứng cảnh_báo nguy_cơ cho các nhà sản_xuất điện_thoại và hệ_điều_hành cũng như ngành công_nghiệp phần_mềm diệt virus , Overton phát_biểu . 
+Virus điện_thoại hiếm đến_nỗi khi hãng BBC muốn quay một đoạn phim về cách hoạt_động của virus , chúng_tôi phải mất 3 ngày tìm trên Internet mới thấy mã của một chương_trình như vậy . 
+Quan_chức của WDSGlobal cũng nhấn_mạnh rằng số virus được công_bố gần đây chỉ tấn_công những hệ_điều_hành phức_tạp , vốn chỉ chiếm 4 % trên tổng_số điện_thoại_di_động . 
+Khác với virus máy_tính , ở đây không có chuyện điện_thoại bị cài các chương_trình cổng hậu . 
+Nếu một virus tìm cách xâm_nhập điện_thoại , người sử_dụng sẽ nhận được thông_báo và có_thể lựa_chọn chấp_nhận tải phần_mềm lạ vào máy hay không . 
+Overton nhắc thêm rằng nhiều virus dạng khái_niệm chỉ lây_lan qua sóng Bluetooth và điều đó đồng_nghĩa với khả_năng phát_tán rất hạn_chế . 
+Ông này tin rằng mối lo_sợ về bảo_mật sẽ không_thể làm ảnh_hưởng đến doanh_số bán điện_thoại thông_minh . 
+Trong khi đó , Bruce_Schneier , Giám_đốc công_nghệ của hãng bảo_mật Counterpane_Internet_Security , tin rằng virus điện_thoại và các cuộc tấn_công của chúng không nên bị đánh_giá thấp mặc_dù hiện_nay đúng là chưa xuất_hiện với quy_mô lớn . 
+Ta sẽ thấy nhiều virus điện_thoại hơn khi chúng được sử_dụng vào các mục_đích tài_chính , chẳng_hạn như để giảm bớt số cước liên_lạc phải thanh_toán , Schneier nói . 
+Ngoài_ra , còn rất nhiều thứ khác hấp_dẫn các tác_giả virus khi mà nhiều người đang thực_hiện giao_dịch qua điện_thoại , mở ngỏ các thông_tin cá_nhân và mã tài_khoản ngân_hàng trực_tuyến . 

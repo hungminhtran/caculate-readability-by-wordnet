@@ -1,0 +1,9 @@
+Ngân_hàng mất 2,75 tỷ USD cho tội_phạm mạng 
+Hãng nghiên_cứu Gartner khẳng_định nếu bảo_mật ngân_hàng an_toàn hơn , họ đã có_thể ngăn_ngừa thiệt_hại hàng tỷ USD từ những vụ lừa_đảo với thẻ ATM và Debit . Những mất_mát này là kết_quả của việc rò_rỉ dữ_liệu cá_nhân mà tội_phạm mạng kiếm_chác được qua những vụ lừa_đảo trực_tuyến ( phishing ) và chương_trình dò_phím ( keystroke ) . 
+Sau đó , chúng dùng những thông_tin ăn_cắp để đăng_ký làm thẻ ATM và ung_dung rút tiền từ tài_khoản của khách_hàng . 
+Gartner ước_tính có tới 3 triệu người Mỹ trở_thành nạn_nhân của những cú lừa ngoạn_mục kiểu này trong 12 tháng qua với mức_độ thiệt_hại trung_bình 916 USD mỗi vụ . 
+Trong hầu_hết các trường_hợp , ngân_hàng và trung_tâm tài_chính sẵn_sàng đứng ra hỗ_trợ và bồi_thường cho người sử_dụng . 
+Chuyên_gia của Gartnet cho_biết nguyên_nhân của tình_trạng này là do khách_hàng đơn_giản chỉ cần cung_cấp số chứng_minh_thư và số tài_khoản là đã có_thể đăng_ký được thẻ ATM. 
+Thẻ cũng được phát_hành kèm mã bảo_mật ngân_hàng nhằm tăng thêm độ an_toàn cho tài_khoản . 
+Khách_hàng không được phép biết mã này , do đó họ không_thể vô_tình cung_cấp thông_tin cho tội_phạm mạng khi chúng tấn_công trực_tuyến . 
+Tuy_nhiên , có đến 1/2 những nhà cung_cấp ATM không kiểm_tra mã khi người dùng thực_hiện việc rút tiền 

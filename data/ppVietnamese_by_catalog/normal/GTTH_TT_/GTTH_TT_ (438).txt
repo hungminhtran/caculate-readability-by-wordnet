@@ -1,0 +1,11 @@
+Cảnh_sát để lộ cơ_sở_dữ_liệu email trên Internet 
+Sẽ không có gì quan_trọng , nếu trong đó bao_gồm luôn cả những thông_tin của các nhân_viên và khách_hàng cỡ " bự " như người chỉ_huy lực_lượng chống khủng_bố và các nhà_báo nổi_tiếng của Úc . 
+Cơ_sở_dữ_liệu của gần 800 khách_hàng đăng_ký với cảnh_sát NSW để nhận các ấn bảng media của cảnh_sát đã bị " phơi_bày " trên Internet . Trong đó rất nhiều nhân_vật có tiếng_tăm như ông Mark_Jenkins , một sĩ_quan cảnh_sát và là chỉ_huy lực_lượng chống khủng_bố của bang . 
+Buổi sáng hôm đó , website smh . com . au đã cảnh_báo với ông Jenkins về việc bị lộ password . 
+Tuy_nhiên , ông ấy bảo rằng mình không quan_tâm . 
+Trong cơ_sở_dữ_liệu này cũng bao_gồm password email của một_số nhà_báo nổi_tiếng của The_Sydney_Morning_Herald , The_Daily_Telegraph , The_ABC và rất nhiều kênh thông_tin_đại_chúng khác . 
+Trong số mật_mã này , một_số đơn_giản chỉ là đăng_ký của khách_hàng để nhận được các ấn_bản media của cảnh_sát NSW , tuy_nhiên trong số đó cũng có rất nhiều password có_thể dùng để truy_xuất vào hộp_thư điện_tử của nạn_nhân . 
+Mật_mã cũng gồm rất nhiều loại , có những mật_mã vô_cùng phức_tạp nhưng cũng có mật_mã chỉ đơn_giản là những cái tên . 
+Theo cảnh_sát NSW , cơ_sở_dữ_liệu trên internet dường_như đã bị lấy ra tháng trước , tuy_nhiên vẫn còn có_thể truy_xuất đến nó thông_qua Google . 
+Hiện cảnh_sát NSW vẫn chưa liên_lạc được với các khách_hàng bị lộ mật_mã lần này . 
+Cảnh_sát NSW đã liên_lạc với Google để có_thể gỡ bỏ những thông_tin trên khỏi bộ đệm của website này vì những thông_tin này cũng có_thể khiến các spa mmer có thông_tin để xâm_nhập vào các email của nạn_nhân . 

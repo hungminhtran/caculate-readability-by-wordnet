@@ -1,0 +1,13 @@
+Opera tung ra bản thử_nghiệm Opera_9.0 Merlin 
+Bản chính_thức của Opera_9.0 sẽ được tung ra miễn_phí trong tháng 11 tới . 
+Opera_Merlin đã được trang_bị thêm một_số tính_năng và tiêu_chuẩn mới . 
+Một trong những thay_đổi lớn nhất của trình_duyệt Opera lần này là khả_năng tuỳ_biến giao_diện kiểu mới hết_sức chuyên_nghiệp . 
+Người dùng có_thể vào chức_năng View để điều_khiển tuỳ_biến giao_diện của Merlin bằng rất nhiều hình_thức uyển_chuyển và linh_động đến mức không ngờ . 
+Có_thể nói đây là tính_năng tuỳ_biến giao_diện đầy mê_hoặc mà không trình_duyệt nào có được . 
+Merlin còn có tính_năng mới là tương_thích hoàn_toàn với kiểu biên_tập văn_bản Rich_Text ngay trên trình_duyệt , tương_tự như tính_năng soạn_thảo trong Gmail . 
+Ngoài_ra , Merlin cũng tương_thích hoàn_toàn với các tiêu_chuẩn của IMAP , XSLT , Canvas_2D và Web_Forms_2.0 . 
+Tính_năng hỗ_trợ tải thông_qua ứng_dụng BitTorrent cũng được giữ lại trong Merlin . Tuy_rằng đây là bản thử_nghiệm nhưng qua quá_trình thử sử_dụng ban_đầu thì mọi tính_năng của Merlin đều tỏ_ra khá hoàn_hảo . 
+Nhưng một_số nhược_điểm về thể_hiện font chữ vẫn chưa được khắc_phục triệt_để , nhất_là thể_hiện font chữ tiếng Việt vẫn còn xấu như cũ . 
+Ngoài_ra , các trang web được thiết_kế cho Internet_Explorer khi thể_hiện trên Merlin vẫn còn hiện_tượng chồng lấn chữ . 
+Nhưng dù_sao , các fan của Opera vẫn nên tự_hào rằng mình đang sử_dụng một trình_duyệt có nhiều tính_năng nhất và nhanh nhất thế_giới hiện_nay . 
+Những người yêu_thích Opera có_thể vào đây để tải bản thử_nghiệm của Merlin về dùng . 

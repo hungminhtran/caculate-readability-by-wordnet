@@ -1,0 +1,6 @@
+Microsoft sắp tung ra dịch_vụ bảo_mật OneCare_Live 
+OneCare_Live đã được Microsoft công_bố từ hồi tháng 5-2005 , nó là một dịch_vụ bảo_mật trực_tuyến bao_gồm các ứng_dụng như tường lửa , quét virus , sao lưu và phục_hồi dữ_liệu … OneCare_Live bản beta đã được đưa ra cho mọi người dùng thử miễn_phí từ hồi tháng 11-2005 . 
+Microsoft vừa công_bố giá chính_thức thuê_bao dịch_vụ này là 49,95 USD / năm , cấp phép cho người dùng chung đến tối_đa là 3 máy . 
+Từ ngày 1-4 đến 30-4 , Microsoft bắt_đầu bán ra dịch_vụ này ở dạng_bản thử_nghiệm beta với giá là 19,95 USD , và nghiễm_nhiên những_ai mua dịch_vụ ở dạng beta đều được nâng_cấp lên miễn_phí thành bản chính_thức vào thời_điểm dịch_vụ được tung ra chính_thức . 
+Microsoft cho_biết OneCare_Live không bao_gồm ứng_dụng Windows_AntiSpyware hoặc bản nâng_cấp của nó là Windows_Defender , nhưng khi người dùng cài_đặt xong OneCare_Live thì Windows_Defender sẽ lập_tức được tích_hợp vào các thanh trạng_thái của OneCare_Live . Như vậy Microsoft đã chính_thức bước vào cuộc_chiến tranh_giành thị_phần ở thị_trường các sản_phẩm bảo_mật , nơi mà các đại_gia như Symantec , Trend_Micro , McAfee_… đang làm mưa là gió lâu_nay . 
+Người dùng có_thể vào đây để tải về dùng thử bản beta miễn_phí của OneCare_Live . Lưu_ý : quá_trình cài_đặt OneCare_Live là hoàn_toàn trực_tuyến . 

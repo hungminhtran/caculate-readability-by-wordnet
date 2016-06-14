@@ -1,0 +1,17 @@
+Bản vá phần_mềm của Sony gây trục_trặc máy_tính 
+Trước những phản_ứng trái_ngược về chương_trình chống sao_chép XCP được bí_mật cài trong đĩa CD , hãng điện_tử Nhật đã phát_hành một miếng vá lỗi , tuy_nhiên , nó lại tạo nên một mối quan_tâm mới về bảo_mật . 
+Theo Mark_Russinovich , kiến_trúc_sư_trưởng của hãng Winternals_Software , lỗi thiết_kế trong bản sửa_chữa của Sony về mặt lý_thuyết có_thể khiến máy_tính gặp rắc_rối sau khi cài , dù nguy_cơ không cao . 
+Bản vá này xuất_phát từ những lời phàn_nàn rằng XCP ( Extended_Copy_Protection - Cơ_chế chống sao_chép mở_rộng ) sử_dụng phương_pháp giống như spyware và virus để gần như không_thể bị phát_hiện hoặc xoá khỏi máy_tính . 
+Russinovich khẳng_định nếu phần_mềm bị lợi_dụng để làm chậm hoạt_động PC hoặc bị hacker khai_thác thì hậu_quả sẽ rất khó lường . 
+Ngày 4/11 , Sony đã xoa_dịu dư_luận khi đưa ra một công_cụ có khả_năng phát_hiện chương_trình mà họ đã cài vào máy_tính khách_hàng . 
+Hãng cho_biết bản vá không được dùng để diệt spyware mà chỉ giúp hệ_thống phát_hiện được sự hiện_diện của phần_mềm chống copy này . 
+Sony đăng_ký XCP với công_ty First 4 Internet ( Anh ) và bắt_đầu cài vào các đĩa CD của hãng từ đầu năm nay để ngăn_cản việc sao_chép trái_phép . 
+Phát_ngôn_viên của Sony khẳng_định phần_mềm không hề được sử_dụng để thu_thập thông_tin của khách_hàng . 
+Tuy_nhiên , nếu người dùng phát_hiện và cố xoá khỏi ổ_cứng , máy_tính của họ sẽ mất khả_năng nhận_diện ổ CD . Russinovich đã phát_hiện ra điều bất_thường này khi ông quét hệ_thống và nhận_thấy một chương_trình lạ được cài trong album Get_Right_With_the_Man của Van_Zant . 
+Đây chỉ là một trong những biện_pháp mà nhiều hãng ghi_âm sử_dụng để ngăn mọi người sao_chép nhạc từ CD , bởi họ e_ngại khách_hàng sẽ đăng_tải trực_tuyến file nhạc mà chưa được phép . 
+Hầu_hết các cơ_chế bảo_mật chỉ áp_dụng trên máy_tính Windows . 
+Khách_hàng sử_dụng Mac hoặc Linux vẫn có_thể thoải_mái copy sang đĩa mới , tới ổ_cứng và vào máy_nghe nhạc MP3 . Việc_Sony sử_dụng công_nghệ spyware để bảo_vệ bản_quyền CD nhạc đang ngày_càng trở_nên to_chuyện khi bị công_kích trên nhiều blog , diễn_đàn . 
+Một_số công_ty bảo_mật cũng sẵn_sàng tung ra công_cụ bảo_vệ khách_hàng trước phần_mềm của Sony . 
+Công_ty bảo_mật Kaspersky ( Nga ) coi đây là phần_mềm gián_điệp , có nguy_cơ phá hỏng dữ_liệu trong máy_tính người dùng , chưa kể nó có_thể bị kẻ xấu lợi_dụng để kiểm_soát PC . 
+Hãng Sophos ( Anh ) cũng đang tiến_hành đưa một_số biện_pháp tuơng tự vào trong bản Sophos_Antivirus 6 sắp tới . 
+Theo Graham_Cluley , cố_vấn công_nghệ của Sophos , phần_mềm của Sony có_thể ẩn dưới bất_cứ định_dạng file nào trong hệ_điều_hành , do đó đã hình_thành nên một lỗ_hổng trên máy người dùng . 

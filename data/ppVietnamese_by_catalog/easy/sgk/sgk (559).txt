@@ -1,0 +1,12 @@
+Trang_trí đường diềm ở đồ_vật 
+Trang_trí đường diềm tạo cho đồ_vật thêm đẹp . 
+Có nhiều đồ_vật thường được trang_trí bằng đường diềm như bát , đĩa , lọ , váy_áo , túi_xách , ... 
+Có nhiều cách trang_trí khác nhau : 
+Đường diềm ở xung_quanh đồ_vật . 
+Đường diềm ở trên , dưới hay giữa đồ_vật . 
+Đường diềm phủ kín phần_lớn bề_mặt đồ_vật ( H . 1 ) . 
+Hoạ_tiết và màu_sắc ở đường diềm phải phù_hợp với chất_liệu , hình_dáng và tính_năng sử_dụng của đồ_vật . 
+Tìm và vẽ hình_dáng đồ_vật . 
+Tìm vị_trí thích_hợp để vẽ đường diềm , vẽ hai đường_thẳng hoặc hai đường_cong cách đều , sau đó vẽ phác các mảng hình chính , phụ . 
+Chọn hoạ_tiết cho phù_hợp với đồ_vật và vẽ hoạ_tiết vào các mảng hình . 
+Vẽ màu cho hài_hoà và có màu đậm , màu nhạt . 

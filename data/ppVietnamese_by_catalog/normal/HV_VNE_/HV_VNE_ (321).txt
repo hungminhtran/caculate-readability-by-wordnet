@@ -1,0 +1,21 @@
+Tấn_công từ_chối dịch_vụ diễn_ra khắp nơi 
+Tiếp_theo hàng_loạt website như hvaonline . net , ddth . com , chodientu . com , trananh . com , maihoang.com ... 
+bị tấn_công DDoS , lúc 18h hôm_qua ( 12/12 ) , đến lượt địa_chỉ của Trung_tâm cứu_hộ máy_tính và an_ninh mạng 911 tại Hà_Nội rơi vào tình_trạng bị ngập_lụt bởi số_lượng truy_cập khổng_lồ . 
+Một góc giao_diện của 911.com . vn chụp lại lúc 9h28 ngày 13/12 . 
+www . 911.com . vnlà trang web chuyên xử_lý sự_cố máy_tính và an_ninh mạng , cung_cấp thông_tin về cách diệt các loại virus mới cùng những thủ_thuật máy_tính tiện_lợi . 
+Nhưng chiều_qua , Ban giám_đốc Trung_tâm gửi đi thông_báo " Hiện_nay 911.com . vn bị hacker tấn_công từ_chối dịch_vụ nên các bạn vào tạm địa_chỉ dự_phòng tại http : / / namsao . homeftp . net để xem . 
+Xin nhớ tạm dừng việc post câu hỏi " . 
+" Chúng_tôi đã nhận được cảnh_báo sẽ tấn_công của hacker từ trước đó . 
+Nhưng để đối_phó với việc tấn_công từ_chối dịch_vụ thì chẳng có cách nào cả " , ông Trần_Hùng_Cường , Giám_đốc Trung_tâm 911 , phân_trần . 
+" Việc tấn_công như thế này gây thiệt_hại rất lớn cho đơn_vị vì mỗi ngày có tới 30 % lượng khách_hàng của chúng_tôi giao_dịch qua website " . 
+Site của 911 hiện có khoảng 20.000 - 30.000 lượt truy_cập mỗi ngày . 
+Giải_pháp tình_thế của Trung_tâm là chuyển tên_miền về một sever khác chạy tạm . 
+Đến khoảng 9h sáng nay , trang web này đã hoạt_động lại bình_thường nhưng không biết là sẽ kéo dài được bao_lâu trước khi các hacker mở đợt tấn_công mới . 
+Giám_đốc Trần_Hùng_Cường cho_biết ban quản_trị 911 đang nghiên_cứu tìm ra nguồn_gốc tấn_công và tìm cách khắc_phục sớm nhất . 
+Thời_điểm cuối năm nay , các cuộc tấn_công từ_chối dịch_vụ diễn_ra ở khắp nơi và nhắm vào trang web thuộc đủ mọi loại_hình dịch_vụ . 
+Từ web thương_mại điện_tử , diễn_đàn tin_học , diễn_đàn hacker ... 
+Trong khi các nạn_nhân bó_tay kêu_trời , dường_như chưa có cơ_quan quản_lý nào lên_tiếng còn những kẻ trong bóng_tối vẫn không ngừng tổ_chức những cuộc chinh_phạt lấy oai . 
+Trao_đổi với VnExpress , Giám_đốc Trung_tâm anh ninh mạng Đại_học Bách_khoa Hà_Nội - BKIS Nguyễn_Tử_Quảng tiết_lộ , website của cơ_quan này cũng bị tấn_công cách đây không lâu . 
+Kẻ chủ_mưu bị phát_hiện với mục_đích DDoS bkav . com . vn là để trình_diễn khả_năng tin_học của mình . 
+" Tình_trạng tấn_công từ_chối dịch_vụ diễn_ra với mật_độ cao gây ảnh_hưởng lớn đến nhiều đơn_vị , doanh_nghiệp như hiện_nay quả là đáng báo_động " , ông Quảng nói . 
+" Thời_gian tới , chúng_tôi sẽ theo_dõi dõi sát_sao và sẽ có thống_kê , đánh_giá về vấn_đề này " . 

@@ -1,0 +1,9 @@
+Thêm một hình_thức phishing mới 
+Thay_vì sử_dụng những website giả_mạo , những kẻ lừa_đảo trực tuyếntấn công vào trang web xịn của các ngân_hàng , chèn vào trong cấu_trúc những đoạn mã riêng để moi thông_tin về tài_khoản của người truy_cập . 
+Ngân_hàng Charter_One có trụ_sở tại Mỹ là nạn_nhân đầu_tiên của hình_thức tấn_công này . 
+Cấu_trúc website của ngân_hàng này đã bị thay_đổi một_cách bí_mật khi phisher thêm vào một đoạn script mới , nằm ẩn sau những gì vẫn xuất_hiện bình_thường trên trang web charteone . com . 
+Những người bình_thường truy_cập vào đây không_thể nào phát_hiện được mình đang bị theo_dõi và rất có_thể sẽ trở_thành nạn_nhân của trò lừa_đảo này . 
+Từ site này , một e-mail sẽ được gửi tới hòm_thư của khách_hàng , kèm theo đó là đường link dẫn đến một form cập_nhật thông_tin về tài_khoản . 
+Nếu không tỉnh_táo , người dùng sẽ ngoan_ngoãn cung_cấp những thông_tin quan_trọng , tiếp_tay cho kẻ lừa_đảo ăn_cắp chính tài_sản của mình trong ngân_hàng . 
+Khả_năng sáng_tạo của tội_phạm mạng đang là mối lo_ngại lớn cho các ngân_hàng . 
+Với lợi_ích kinh_tế to_lớn , bọn chúng không ngần_ngại " động_não " ra những chiêu mới và thực_hiện các cuộc tấn_công một_cách táo_bạo . 

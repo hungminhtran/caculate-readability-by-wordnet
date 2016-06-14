@@ -1,0 +1,29 @@
+Microsoft chuẩn_bị cho quả bóng Vista bùng_nổ 
+Thời đó , khách_hàng phải xếp_hàng rất lâu để có_thể có trên tay một phiên_bản hệ_điều_hành " thời_thượng " Windows_95 " và rất vui_mừng khi sở_hữu nó dù_rằng , đôi_khi chính họ cũng chẳng biết nó dùng để làm gì ... 
+Vấn_đề tài_chính cho chiến_dịch này vẫn chưa được tiết_lộ hoàn_toàn , thế nhưng , theo lời phát_ngôn_viên , Microsoft sẽ làm bùng_nổ một " Windows_Vista " như thời của " Windows_95 " cách đây hơn một thập_kỷ . 
+Mục_tiêu chính của đợt quảng_bá này là thuyết_phục các doanh_nghiệp và khách_hàng chuyển qua sử_dụng phiên_bản Windows_Vista mới nhất . 
+Microsoft thông_báo có tất_cả 6 phiên_bản của hệ_điều_hành này , hướng tới các đối_tượng khách_hàng với những mục_đích sử_dụng chuyên_biệt . 
+Microsoft hy_vọng chiến_dịch quảng_bá này sẽ đem đến hơn 400 triệu khách_hàng sử_dụng Windows_Vista trong vòng 24 tháng . 
+Đó lời của ông Block , phát_ngôn_viên của Micrsoft tại diễn_đàn các nhà phát_triển Intel ( IDF : Intel_Developer_Forum ) . 
+Giao_diện mới_lạ , hấp_dẫn và thân_thiện Người dùng sẽ thấy gì từ Vista ... Điểm mấu_chốt vẫn là thuyết_phục khách_hàng chuyển qua sử_dụng hệ_điều_hành " đắt tiền " Vista . 
+Microsoft tập_trung vào việc thuyết_minh tác_dụng ưu_việt của Windows_Vista trong việc quản_lý và thực_thi một_số tác_vụ chính là điểm yếu của các hệ_thống hiện_tại . 
+Về phía người dùng cuối , Microsoft tập_trung vào các chức_năng như TV và phim_ảnh , Games , âm_nhạc và kết_nối liên_lạc , với sự hứa_hẹn về một sự trình_diễn đầy mới mẽ và ấn_tượng . 
+Đối_với SMBs ( doanh_nghiệp vừa và nhỏ ) , Microsoft diễn_đạt Vista như một hệ_điều_hành tối_ưu trong sao lưu phục_hồi ( backup ) và bảo_mật , nâng_cao khả_năng quản_lý , cơ_động , phân_tích tình_huống cho các công_tác nghiệp_vụ và tài_chính . 
+Đối_với các doanh_nghiệp lớn , Vista nổi_bật với khả_năng quản_lý hệ_thống máy_tính , trạm làm_việc , cũng như khả_năng bảo_mật , quản_lý cơ_sở_dữ_liệu và truy_xuất thông_tin . 
+Windows_Vista , thế nhưng Vista sẽ đem đến cho bạn khả_năng chuyên_nghiệp và kinh_nghiệm của một người từng_trải trong công_việc " . 
+Ông Block nhấn_mạnh : " Máy_tính có_thể làm mọi việc mà không cần đến Microsoft_Windows_Vista , thế nhưng Vista sẽ đem đến cho bạn khả_năng chuyên_nghiệp và kinh_nghiệm của một người từng_trải trong công_việc " . 
+Trình_diễn về khả_năng quản_lý Media Trở_lực 
+Cũng trong khuôn_khổ buổi phát_biểu tại IDF , ông Block cho_biết : 
+" Thế_giới số ngày_nay bị phân_chia cho nhiều thiết_bị " nằm ngoài " máy_vi_tính như các máy_ảnh kĩ_thuật số ( KTS ) và máy iPod ... 
+Thế nhưng , chúng_tôi hy_vọng PCs sẽ là một loại thiết_bị tất_cả trong một . 
+Một chiếc PCs có_thể là mọi thứ trong tầm_tay bạn . " 
+Từ lúc khởi_nghiệp đến nay , Microsoft vẫn luôn tuân theo tiêu , biến những sản_phẩm gần như là vô_cùng phức_tạp thành một thứ vô_cùng đơn_giản đến_nỗi một người dù không có kinh_nghiệm gì cũng có_thể sử_dụng hết_sức dễ_dàng . 
+Thế nhưng một_số ý_kiến lại cho rằng , Vista sẽ khó mà đạt được tiêu_chí này . 
+Muốn chiến_thắng những nhà khổng_lồ như Apple , Sony , giải_pháp duy_nhất là phải phát_triển song_song cả phần_cứng lẫn phần_mềm . 
+Đó chính là lý_do ra_đời của một_số thiết_bị như máy xem media cầm tay sử_dụng hệ_điều_hành Windows , máy Xbox ... Windows_Vista hứa_hẹn sẽ giúp Microsoft vượt xa hơn trong con đường này . 
+Một trong những trở_lực khác , Microsoft phải đối_đầu với việc một_số hệ_thống máy_tính có khả_năng chạy Windows_Vista , nhưng lại không đủ " mãnh_lực " về phần_cứng để có_thể thông_qua mọi chức_năng của Vista một_cách tối_ưu nhất , có_thể là do thiếu bộ_nhớ , hoặc khả_năng đồ_hoạ thấp . 
+Microsoft cũng sẽ mất rất nhiều công_sức để thuyết_phục các nhà sản_xuất máy_tính chấp_nhận và sử_dụng Windows_Vista trong các hệ_thống máy của mình . 
+Theo nhiều nguồn tin cho_thấy , có_thể giá của Windows_Vista cũng sẽ đắt hơn Windows_XP một_ít . 
+Office 2007 cũng sẽ được phát_hành trong năm nay , tuy_nhiên nhiều ý_kiến lo_ngại rằng , nhiều quá hoá " loãng " . 
+Liệu tác_dụng có lớn như Microsoft mong_đợi không ? 
+Thời_gian sẽ trả_lời . 

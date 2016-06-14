@@ -1,0 +1,56 @@
+Không_thể chống_đỡ tấn_công từ_chối dịch_vụ 
+Những vụ tấn_công DDoS vào một_số website doanh_nghiệp và tổ_chức ở VN rộ lên gần đây khiến các nạn_nhân chi biết bức_xúc nhưng không có cách nào đối_phó hoặc truy_tìm thủ_phạm . 
+VnExpress trao_đổi với Roberto_Preatoni và Carole_Theriault , hai chuyên_gia bảo_mật quốc_tế nổi_tiếng , về vấn_đề này . 
+- DDoS trở_thành hoạt_động tấn_công phổ_biến từ khi nào ? 
+Roberto_Preatoni là người sáng_lập ra Diễn_đàn bảo_mật nổi_tiếng Zone-H ( www . zone-h . org ) với nickname là SyS64738 . 
+Ông còn là Giám_đốc điều_hành công_ty an_ninh hệ_thống Domina_Security hoạt_động tại nhiều nước châu Âu . 
+Preatoni cũng là một diễn_giả uy_tín tại nhiều đại_hội bảo_mật quốc_tế thường_niên như Defcon ( Mỹ ) . 
+- Roberto_Preatoni : Từ cuối những năm 90 của thế_kỷ trước . 
+Hoạt_động này bắt_nguồn từ khi một_số chuyên_gia bảo_mật , trong quá_trình phát_hiện khiếm_khuyết hệ_thống trên hệ_điều_hành Windows_98 , đã phát_hiện ra rằng chỉ cần gửi một gói dữ_liệu ping có dung_lượng lớn cũng đủ để làm tê_liệt một server mục_tiêu . 
+Phát_hiện này sau đó ngay_lập_tức được giới hacker sử_dụng để triệt_tiêu những đối_tượng mà họ có ý_định tấn_công . 
+Từ đây , hình_thức sơ_khai của DoS ( Denial_of_Service ) đã ra_đời . 
+Trong khi đó , dạng DDoS ( Distributed_Denial_of_Service ) thì dựa vào việc gửi một lệnh ping tới một danh_sách gồm nhiều server ( kiểu này gọi là amplifier , tức_là khuếch đại_độ rộng mục_tiêu ) , giả_dạng là một gói ping để địa_chỉ IP gốc được trá_hình với IP của mục_tiêu nạn_nhân . 
+Các server khi trả_lời yêu_cầu ping này khi đó sẽ làm lụt nạn_nhân với những phản_hồi ( answer ) gọi là pong . 
+Carole_Theriault hiện là cố_vấn công_nghệ bảo_mật cao_cấp của hãng phần_mềm an_ninh Sophos ( Anh ) . 
+Bà cũng là một chuyên_gia tư_vấn uy_tín tại nhiều diễn_đàn và tạp_chí về bảo_mật trên thế_giới . 
+- Carole_Theriault : DDoS bắt_nguồn từ dạng sơ_khởi là DoS . DoS thì ít nguy_hiểm hơn vì người quản_trị hệ_thống thường có_thể xác_định và phong_toả máy host gây rắc_rối . 
+Trong khi đó , DDoS sử_dụng nhiều nguồn phân_tán để điều_phối hoạt_động tấn_công vào mục_tiêu . 
+Rất khó xác_định kết_nối nào là hợp_lệ và cái nào là thù_địch . 
+- Một cuộc tấn_công DDoS thông_thường được khởi_phát như thế_nào ? 
+Carole_Theriault . 
+- Carole_Theriault : Một lệnh truy_cập được gửi tới server . 
+Server xác_thực và rồi chờ lệnh đó khẳng_định việc xác_thực nói trên trước khi cho_phép máy_tính của người sử_dụng truy_nhập . 
+Trong các cuộc tấn_công DDoS , server bị ngập bởi các lệnh truy_cập của một lượng kết_nối khổng_lồ từ những địa_chỉ không có thực và điều đó có nghĩa là server không_thể tìm thấy người sử_dụng có nhu_cầu truy_cập đích_thực . 
+Khi số lệnh truy_cập lớn quá , server bị lụt và không_thể xử_lý được số lệnh mà nó đang được yêu_cầu giải_quyết . 
+Một_số loại virus và sâu mạng cũng đã gây tấn_công DDoS . Các trường_hợp đầu_tiên là những virus phát_tán e-mail số_lượng lớn như Loveletter , Melissa , làm lụt mail server khiến các máy_chủ không_thể xử_lý những yêu_cầu hợp_lệ . 
+Hiện_nay , nhiều loại sâu Internet lợi_dụng lỗi trong máy_tính ( ví_dụ virus Sasser năm 2004 ) để làm lụt các máy_tính chạy Windows có khiếm_khuyết , khiến PC không_thể tải về các bản vá lỗi . 
+Roberto_Preatoni . 
+- Roberto_Preatoni : Nói_chung , kẻ tấn_công thường khống_chế một máy_tính từ xa bằng cách khai_thác một khiếm_khuyết nào đó . 
+Máy_tính này ( về sau sẽ trở_thành mầm của mạng_lưới máy_tính bị khống_chế phục_vụ tấn_công DDoS , gọi là botnet ) sẽ được cài_đặt một quy_trình ẩn nhằm đảm_bảo nó luôn được kết_nối trong một phòng chat bí_mật , nơi mà tác_giả ra_lệnh cho nó . 
+Máy_tính này cũng đồng_thời tìm cách quét trên Internet để tìm những computer khác có lỗ_hổng , lây_nhiễm phần_mềm điều_khiển_từ_xa vào chúng để tất_cả những máy mới bị không chế sẽ cùng gia_nhập vào chatroom nói trên và sẵn_sàng nhận lệnh của hacker hoặc tham_gia tìm_kiếm trên Internet những PC có lỗi khác . 
+Nói_chung , chỉ trong vài ngày , mạng máy_tính ma này sẽ tăng từ một cái lên hàng trăm hoặc hàng nghìn thành_viên . 
+Đến thời_điểm lực_lượng này đủ hùng_hậu , chúng sẽ đồng_loạt được sử_dụng để thực_hiện lệnh tấn_công vào mục_tiêu theo ý_muốn của tác_giả . 
+Mục_tiêu sẽ biến_mất khỏi mạng , tức_là offline hoàn_toàn . 
+Đồng_thời tất_cả những hoạt_động tương_tác trên môi_trường Internet của nạn_nhân cũng ngừng luôn . 
+- Có bao_nhiêu dạng DDoS được ghi_nhận cho tới nay ? 
+- Roberto_Preatoni : Nhìn_chung , có_thể phân nhóm tấn_công từ_chối dịch_vụ theo các dạng HTTP flood ( tấn_công địa_chỉ web ) , Database_flood ( tấn_công cơ_sở_dữ_liệu ) , TCP-IP protocol flood ( tấn_công giao_thức TCP-IP ) , Bandwidth_flood ( tấn_công băng_thông ) , Mail_bombing ( tấn_công mail ) , SMS bombing ( tấn_công tin_nhắn SMS ) . 
+- Carole_Theriault : Phân_loại cụ_thể thì rất khó . 
+Một_số chuyên_gia nói có 3 loại . 
+Nhiều người khác thì cho rằng có tới 12 . Đặc_điểm chính của DDoS là gây quá_tải hệ_thống , làm tê_liệt dịch_vụ , khiến ta không_thể xử_lý những giao_dịch hợp_lệ . 
+Vì thế , theo tôi , có_thể nhìn_nhận DDoS dưới các dạng như tấn_công Internet_Control_Message_Protocol ( ICMP ) , làm lụt User_Datagram_Protocol ( UDP ) , làm lụt Transmission_Control_Protocol ( TCP ) , tấn_công ứng_dụng qua khiếm khuyết& 
+- Tình_hình DDoS nói_chung trên Internet trong những năm gần đây ra_sao ? 
+- Roberto_Preatoni : Các hoạt_động tấn_công từ_chối dịch_vụ không ngừng gia_tăng và ngày_càng phổ_biến trong giới hacker trẻ , những người thích tận_hưởng cảm_giác của kẻ chinh_phạt , và cũng rất phổ_biến trong giới tội_phạm mạng , những kẻ thích tận_hưởng mùi tiền kiếm được từ những hoạt_động này . 
+- Carole_Theriault : Đúng là trong khi một_số cuộc tấn_công DDoS chỉ mang tính gây rối thì nhiều trường_hợp lại là hoạt_động tống_tiền . 
+Khi thương_mại điện_tử ngày_càng phát_triển , các doanh_nghiệp phải dựa nhiều vào website thì nguy_cơ họ bị tống_tiền cũng càng lớn mỗi khi tội_phạm tấn_công trang web và đòi tiền . 
+Rất khó biết thiệt_hại tài_chính kiểu này nhiều đến đâu vì phần_lớn doanh_nghiệp nạn_nhân chấp_nhận nộp tiền và ỉm vụ_việc đi vì bản_thân họ cũng không muốn gây điều_tiếng ầm_ĩ . 
+Trong tương_lai , những cuộc tấn_công như thế này sẽ còn tiếp_tục khi mà khả_năng kiếm tiền vẫn còn . 
+Nhiều trang web nổi_tiếng trên thế_giới như của Google , Microsoft đã nhiều lần là nạn_nhân của DDoS . - Vậy cần làm gì để đương_đầu với DDoS ? 
+- Roberto_Preatoni : Chỉ có_thể làm giảm bớt cường_độ tấn_công . 
+Không có cách đối_phó nào trừ khi website của bạn được đặt ( host ) trên những hệ_thống đắt tiền và hùng_mạnh như Akamai . 
+Việc siết chặt quản_lý cơ_sở_dữ_liệu , ứng_dụng và tường lửa có_thể giúp phần_nào ngăn_ngừa rất nhiều cuộc tấn_công từ_chối dịch_vụ , hoặc ít_nhất cũng hạn_chế bớt những yếu_tố gây ảnh_hưởng website nhưng không phải là tấn_công phá_hoại . 
+- Carole_Theriault : Cần phải sử_dụng một hệ_thống có bảo_vệ , với các ứng_dụng thường_xuyên được cập_nhật bản vá lỗi , thiết_lập tường lửa hợp_lý để lọc các gói dữ_liệu và ngăn_chặn bên thứ 3 không hợp_lệ truy_nhập hệ_thống . 
+Sử_dụng phần_mềm diệt virus cập_nhật cũng là một điều nên làm . Khi đang bị tấn_công , bạn cũng có_thể mở_rộng băng_thông mặc_dù đây là một giải_pháp rất tốn_kém . 
+Ở những nước với hạ_tầng công_nghệ thông_tin phát_triển đã có nhiều hãng cung_cấp dịch_vụ này trong trường_hợp khẩn_cấp hoặc vào những giờ truy_cập cao_điểm cần tăng_cường băng_thông . Một biện_pháp khác là thiết_lập router theo_dõi trên mạng , phát_hiện trước khi một luồng thông_tin đến được các máy_chủ web của website . 
+Router này sẽ lọc những gói dữ_liệu đi ra và đảm_bảo địa_chỉ IP nguồn của tất_cả các gói dữ_liệu đó là cân_bằng với vùng địa_chỉ IP của công_ty đó và không bị giả_mạo . Tuy_nhiên , nơi tốt nhất để ngăn_chặn tấn_công từ_chối dịch_vụ lại không nằm ở mạng của doanh_nghiệp mà là ở nhà cung_cấp dịch_vụ ISP. Ví_dụ , họ có_thể hạn_chế băng_thông của một luồng thông_tin cụ_thể nào đó vào bất_cứ lúc nào . 
+Đáng tiếc là không phải tất_cả các ISP đều làm việc này . 
+Có_lẽ tốt nhất là các doanh_nghiệp nên thảo_luận rõ với ISP về vấn_đề bảo_vệ an_ninh website trước khi ký hợp_đồng với họ . 

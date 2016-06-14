@@ -1,0 +1,4 @@
+Nóng , lạnh và nhiệt_độ 
+Trong thí_nghiệm trên , vật nóng hơn ( cốc nước ) đã truyền nhiệt cho vật lạnh hơn ( chậu nước ) . 
+Khi đó cốc nước toả_nhiệt nên bị lạnh đi , chậu nước thu nhiệt nên nóng lên . 
+Nước và các chất_lỏng khác nở ra khi nóng lên và co lại khi lạnh đi . 

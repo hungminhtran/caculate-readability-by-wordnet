@@ -1,0 +1,14 @@
+Tìm_hiểu về kiểu chữ in hoa nét thanh nét đậm 
+Chữ in hoa có nét nhỏ , nét to gọi là chữ in hoa nét thanh nét đậm ( H . 1 ) 
+Nét thanh , nét đậm tạo cho hình_dáng chữ vẻ_đẹp thanh_thoát , nhẹ_nhàng . 
+Vị_trí của nét thanh , nét đậm căn_cứ vào cách đưa nét bút khi kẻ chữ : 
+Những nét đưa lên , đưa ngang là nét thanh . 
+Nét kéo xuống ( nét nhấn_mạnh ) là nét đậm ( H . 2 ) . 
+Chiều rộng của các con chữ không bằng nhau ( C , G , M , O , Q thường có chiều rộng_lớn hơn so với các con chữ khác ) . 
+Chữ in hoa nét thanh nét đậm có_thể có chân hoặc không có chân . 
+Tìm khuôn_khổ của chữ : chiều cao , chiều ngang . 
+Xác_định nét thanh , nét đậm cho từng con chữ . 
+Kẻ các nét thẳng bằng thước_kẻ , vẽ các nét cong bằng com_pa hoặc bằng tay . 
+Bề rộng của nét thanh , nét đậm trong một dòng chữ tuỳ_thuộc vào ý_định của người trình_bày và nội_dung dòng chữ . 
+Trong một dòng chữ , các nét thanh có độ mảnh như nhau , các nét đậm có bề rộng bằng nhau ( H . 3 ) . 
+Đối_với các phần nét cong ở vị_trí cao nhất và thấp nhất , nét có bề rộng bằng nét thanh ; ở các vị_trí ngoài cùng bên trái và bên phải , nét có bề rộng bằng nét đậm ; đoạn chuyển_tiếp giữa nét thanh và nét đậm là những nét cong đều_đặn 

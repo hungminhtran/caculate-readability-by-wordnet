@@ -1,0 +1,12 @@
+Tiện_dụng sẽ đem đến vị_thế mới cho Skype 
+Chức_năng có tên là SkypeWeb , đã được tích_hợp vào hơn 50 website trên toàn thế_giới . 
+Salesforce . com là một ví_dụ . 
+Họ đã cài_đặt tính_năng này vào trong hệ phần_mềm quản_trị quan_hệ khách_hàng , cho_phép người dùng biết được đối_tác của mình có đang trực_tuyến hay không . 
+Theo một_số đánh_giá thì Skype tốt hơn về chất_lượng dịch_vụ so với Yahoo_Voice hay Google_Talk . 
+Sở_dĩ như vậy là do Skype có nền tản về công_nghệ VoIP tốt hơn . 
+Tuy_nhiên , xét về mặt giao_diện và độ thân_thiện , Skype vẫn chưa_thể bì được với hai đối_thủ . 
+Nhưng với tính_năng kỳ này , có_thể cho rằng Skype đã vượt_qua một trong những hạn_chế lớn nhất của điện_thoại , đó là không_thể quan_sát tình_trạng Online của đối_tác , một trong những " tiện_nghi " không_thể thiếu đối_với cư_dân Internet . Một trong những nguyên_nhân Google_Talk vẫn chưa được yêu_thích bằng Yahoo_Messenger chính ở điểm này . 
+Đứng trên quan_điểm người dùng mà nói thì Yahoo_Messenger vẫn được chấm điểm về độ thân_thiện cao hơn . 
+Tuy_nhiên , để sử_dụng được chức_năng này vẫn còn là một quá_trình khá nhiêu_khê , đòi_hỏi một_số am_hiểu nhất_định về máy_tính . 
+Hiện_nay cũng chỉ mới có quản_trị web mới có_thể thao_tác trên chức_năng này . 
+Hy_vọng Skype có_thể cải_tiến được giao_diện hơn nữa để người dùng … đỡ vất_vả . 

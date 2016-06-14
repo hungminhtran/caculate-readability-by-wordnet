@@ -1,0 +1,12 @@
+Giải vô_địch điền_kinh thế_giới bị virus điện_thoại tấn_công 
+Sự_kiện thể_thao đang diễn_ra tại Phần_Lan vừa trở_thành địa_điểm mới cho virus Cabir tái_xuất . 
+Đã có hàng chục người thông_báo sự_cố với thiết_bị của họ liên_quan đến chương_trình phá_hoại này . 
+Hãng viễn_thông địa_phương TeliaSonera thậm_chí đã phải thiết_lập một trung_tâm đặc_biệt ngay tại sân_vận_động Olympic Stadium ở thủ_đô Helsinki để xử_lý các vụ lây_nhiễm đồng_thời cấp_phát miễn_phí phần_mềm diệt virus với thời_gian sử_dụng giới_hạn . 
+Để ngăn_ngừa chương_trình phá_hoại tiếp_tục lây_lan , chúng_tôi đã phải cung_cấp rộng_rãi những phần_mềm bảo_mật cực mạnh , đồng_thời triển_khai nhiều biện_pháp để ngăn_ngừa sự phát_tán của virus qua con đường tin_nhắn đa_phương_tiện MMS , Pasi_Mehtonen , Phó_chủ_tịch TeliaSonera , cho_biết . 
+Virus_Cabir lây_lan qua kết_nối không dây Bluetooth . 
+Khi xác_định những điện_thoại Symbian_Series 60 khác trong cùng một vùng sóng cho_phép , nó sẽ gửi đi file chứa mã tấn_công . 
+Nếu chủ máy mục_tiêu chấp_nhận tải và cài_đặt file này thì virus mới có_thể phát_tác . 
+Ảnh_hưởng của Cabir là làm tiêu_hao rất nhanh năng_lượng pin của thiết_bị . 
+Phải tắt kết_nối Bluetooth thì việc lây_lan mới được ngăn_chặn . 
+Với cách hoạt_động như vậy , Cabir dễ_dàng tung_hoành khi có một số_lượng hàng chục nghìn người dùng điện_thoại từ khắp nơi trên thế_giới tụ_hội tại một địa_điểm như sân_vận_động , Mikko_Hypponen , Giám_đốc nghiên_cứu của hãng bảo_mật F-Secure ( Phần_Lan ) , phát_biểu . 
+Đầu mùa hè này , tình_trạng tương_tự cũng đã xảy_ra với chương_trình hoà_nhạc Live_8 . Vì thế , hiện_nay chúng_tôi phải cử nhân_viên tới sân Olympic Stadium nhằm hỗ_trợ diệt virus . 

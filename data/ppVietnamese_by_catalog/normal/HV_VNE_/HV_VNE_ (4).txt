@@ -1,0 +1,9 @@
+Trojan đầu_lâu tiếp_tục lây_lan vào điện_thoại_di_động 
+Một biến_thể mới của phần_mềm Skulls nhắm vào điện_thoại chạy Symbian vừa được phát_hiện . 
+Hãng bảo_mật F-Secure ( Phần_Lan ) cho_biết , giống như các Trojan cùng họ trước đây , phiên_bản D này tiêu_diệt tất_cả các ứng_dụng hệ_thống . 
+Tuy_nhiên , thay_vì biến các biểu_tượng trên thiết_bị thành_hình đầu_lâu , Skulls . D báo cho người sử_dụng máy của họ đã bị lây_nhiễm bằng cách hiển_thị một đầu_lâu to nhấp_nháy toàn màn_hình . 
+Theo F-Secure , biến_thể này giả_vờ là một công_cụ Macromedia_Flash , tấn_công các thiết_bị chạy Symbian_Series 60 . Những người có điện_thoại bị lây_nhiễm sẽ không_thể sử_dụng các chương_trình , chụp ảnh hoặc gửi text mặc_dù vẫn có_thể gọi điện . 
+Trojan này còn ngăn_cản chủ máy cài_đặt các ứng_dụng mới , do đó hầu_hết số máy bị nhiễm sẽ phải cài_đặt lại , tức_là trở_về chế_độ mặc_định của máy mới và mọi dữ_liệu , chẳng_hạn như sổ địa_chỉ , sẽ bị xoá . 
+F-Secure cho_biết mới chỉ có 2 người thông_báo bị nhiễm Skulls . D sau khi tải ứng_dụng từ một diễn_đàn web . 
+Theo Mikko_Hypponen , Giám_đốc nghiên_cứu của F-Secure , người sử_dụng điện_thoại có_thể giảm_thiểu nguy_cơ lây_nhiễm bằng cách nâng_cao cảnh_giác khi download những bản_sao ứng_dụng bất_hợp_pháp , nhất_là từ các mạng ngang hàng . 
+Chuyên_gia này cảnh_báo sẽ còn nhiều biến_thể Skulls xuất_hiện trong thời_gian tới . 

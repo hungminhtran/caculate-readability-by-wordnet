@@ -1,0 +1,14 @@
+Biến_hình số_thành bức phác_hoạ với Sketch Master 
+Đây là công_cụ " phù_phép " hình_ảnh nhỏ gọn , có hai tác_dụng chính là lồng_ghép những bức ảnh số vào các khung hình cực đẹp đã được thiết_kế sẵn , hoặc biến những bức ảnh số_thành những nét vẽ phác_hoạ hết_sức đẹp_mắt . 
+Ảnh số sau khi phác_hoạ 
+Giao_diện sử_dụng của Sketch_Master rất đơn_giản và thân_thiện . 
+Đầu_tiên bạn hãy nhắm vào thẻ " Input " , sau đó chọn " Open " để mở ra file ảnh cần lồng_ghép vào khung . 
+Nhắp vào thẻ " Frame sau đó dùng 2 nút " Previous " hoặc " Next " để lựa_chọn 1 trong 99 khung hình cực đẹp đã được thiết_kế sẵn trong Sketch_Master . Sau khi chọn xong , bức ảnh của bạn sẽ được ghép ngay vào khung . 
+Bạn dùng chuột hoặc 2 nút " Zoom_in " , " Zoom_out " để chọn vị_trí phù_hợp nhất cho ảnh trong khung . 
+Nếu cần biến bức ảnh số của mình thành những nét vẽ thì bạn chọn thẻ " Sketch " và đánh_dấu vào ô " Sketch effect " , ngay_lập_tức bức ảnh số sẽ biến thành một bức phác_hoạ thần_tình . 
+Người dùng có_thể chọn độ đậm nhạt của nét vẽ , … bằng 3 chức_năng điều_chỉnh là Precision , Line và Scale . 
+Nhấp vào nút " Add " và lặp lại quy_trình trên với những bức hình khác . 
+Khi đã xử_lý xong số ảnh cần_thiết , bạn nhấn vào nút " Save_all " để lưu lại thành_quả của mình , nhưng tốt nhất nên chọn chức_năng " Make_Album " để Sketch_Master tạo cho bạn một album hình tự_động trình_diễn hấp_dẫn dưới dạng một file .exe để bạn có_thể chép vào thẻ_nhớ để đem đi biểu_diễn khắp nơi . 
+Công_ty Regsoft đang bán ra công_cụ hấp_dẫn này với giá 28 USD . 
+Người dùng có_thể vào đây để tải về bản dùng thử với dung_lượng khoảng 7MB . 
+Hiện Sketch_Master phiên_bản 4.1 đã có bán tại các cửa_hàng phần_mềm tại TP Hồ_Chí_Minh . 

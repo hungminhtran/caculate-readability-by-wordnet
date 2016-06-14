@@ -1,0 +1,15 @@
+Trang_trí đối_xứng qua trục 
+Các hình được trang_trí đối_xứng qua trục như : hình_vuông , hình_tròn , ... 
+luôn có các hình mảng và hoạ_tiết đối_xứng với nhau qua đường_trục . 
+Trang_trí đối_xứng có_thể theo một trục , hai trục hoặc nhiều trục . 
+Ví_dụ : 
+Hình con chuồn_chuồn ( H . 1 ) là hình đối_xứng qua trục dọc . 
+Hình_chữ_nhật ( H . 2 ) được trang_trí đối_xứng qua trục dọc và ngang . 
+Hình_tròn ( H . 3a , b ) có_thể được trang_trí đối_xứng qua hai hoặc nhiều trục . 
+Hình_vuông ( H . 3c , d ) thường được trang_trí đối_xứng qua bốn trục . 
+Những hoạ_tiết đối_xứng qua trục luôn bằng nhau , giống nhau về hình và màu_sắc . 
+Tìm khuôn_khổ và vẽ hình định trang_trí ( hình_vuông , hình_tròn , hình_chữ_nhật , ... ) 
+Kẻ các trục đối_xứng . 
+Vẽ các mảng chính , phụ . 
+Vê hoạ_tiết phù_hợp với các hình mảng . 
+Vẽ màu theo ý_thích . 

@@ -1,0 +1,17 @@
+Dịch_vụ nhạc số iTunes lại bị hack 
+Hacker nổi_tiếng có tên_gọi DVD_Jon một lần nữa phá mã hệ_thống nhạc trực_tuyến của Apple và tung ra một công_cụ cho_phép người sử_dụng khai_thác các nội_dung có công_cụ quản lýbản quyền số DRM . Quả táo đã phản_ứng bằng cách yêu_cầu tất_cả khách_hàng nâng_cấp lên iTunes 4.7 ( phiên_bản này vá được lỗ_hổng mà DVD Jon khai_thác ) trước khi tải bất_cứ bài hát nào . 
+Thế nhưng hiện_nay DVD_Jon và các đồng_sự đã crack xong cả phiên_bản mới và phát_hành một phiên_bản Linux của công_cụ khai_thác nội_dung . 
+Những hệ_thống mã_hoá kỹ_thuật số này , giống như tất_cả mọi kiểu bảo_vệ khác , đều có_thể bị xuyên thủng , Ted_Shadler , nhà phân_tích của hãng khảo_sát Forrester_Research ( Mỹ ) , nhận_xét . 
+Vấn_đề là những hành_động như vậy có là mối đe_doạ quá nghiêm_trọng đối_với các mô_hình kinh_doanh nhạc số hay không . 
+Theo Shadler , thay_vì nhắm vào việc tạo ra một hệ_thống mã_hoá bảo_vệ không_thể phá_vỡ , các doanh_nghiệp cung_cấp dịch_vụ tải nhạc vẫn đang tập_trung nhiều vào việc thiết_kế những hệ_thống khó bắt_chước và dễ nâng_cấp . 
+Ví_dụ như với hệ_thống FairPlay của iTunes , người sử_dụng dịch_vụ này phải dùng đúng phần_mềm ở đây để tải bài hát . 
+Do đó , khi cần Apple có_thể update phần_mềm khá nhanh_chóng . 
+Điều này khác với kiểu mã_hoá trên đĩa DVD chạy bằng đầu đĩa mà người dùng chỉ mua một lần rồi sử_dụng lâu_dài . 
+Một_khi mã này đã bị phá thì chỉ khi có loại đầu đĩa mới xuất_hiện thì đĩa mới có_thể không dùng được nữa . 
+Theo Shadler , DRM là công_nghệ cho_phép chủ bản_quyền kiểm_soát việc truy_nhập vào tài_sản của mình và xây_dựng một mô_hình kinh_doanh trên nội_dung đó . 
+Mục_đích của DRM tất_nhiên là ngăn_ngừa nạn dùng lậu và đảm_bảo khả_năng kiếm lời trên nội_dung cho tác_giả . 
+Để mô_hình kinh_doanh như vậy hoạt_động , nhà cung_cấp dịch_vụ phải làm_sao để người tiêu_dùng cảm_thấy việc sử_dụng kênh hợp_pháp tiện_lợi hơn so với con đường bất_hợp_pháp . 
+Đối_với trường_hợp iTunes , mỗi bài hát có giá chỉ 99 cent ( Mỹ ) . 
+Ngoài_ra , việc tìm những bản_nhạc tương_tự ở chỗ khác trên Internet và tải về bằng phần_mềm của bên thứ 3 là việc khó_khăn nên đã hạn_chế người_ta đi theo cách bất_hợp_pháp . 
+Cuộc_chiến giữa hacker và các chủ_sở_hữu bản_quyền số sẽ kéo dài bất_tận , chuyên_gia Shadler nhận_định . 
+Tuy_nhiên , mô_hình kinh_doanh những dịch_vụ như iTunes và Napster đang phát_triển đến một mức_độ khiến cuộc_chiến này trong tương_lai sẽ khác xa so với hiện_tại . 

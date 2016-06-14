@@ -1,0 +1,20 @@
+Google_Earth cung_cấp bản_đồ dịch cúm gà toàn_cầu Với công_cụ này , người dùng có_thể tìm_kiếm và hiển_thị khu_vực có dịch cúm gà hoành_hành trên thế_giới một_cách đơn_giản nhất . 
+Đây là sự kết_hợp giữa ảnh vệ_tinh , bản_đồ và chức_năng tìm_kiếm của Google để thành một hệ thông_tin địa_lý ( GIS ) toàn thế_giới . 
+Để hiển_thị được bản_đồ , đầu_tiên phải tải về và cài_đặt chương_trình Google_Earth . 
+Bản_đồ thế_giới về thông_tin đại_dịch cúm gia_cầm phiên_bản demo được cung_cấp tại địa_chỉ : http : / / bbs . keyhole . com / ubb / download . php ?Number=172811 . 
+. 
+Sau khi tải xuống và cài_đặt Google_Earth , hãy chạy chương_trình , chọn File rồi Open , và mở file bản_đồ demo đã tải xuống . 
+Tại cửa_sổ Places , kéo chuột xuống dưới mục Temporary places , click chuột chọn ô bên cạnh mục " Avian flu H5N1 outbreaks in birds , and in humans " . 
+Chờ một_chút để chương_trình hiển_thị dữ_liệu . 
+Sử_dụng các chức_năng của chương_trình để nhận được thông_tin rất chi_tiết về các vùng dịch cúm gia_cầm cần quan_tâm . 
+Việt_Nam đang là một trong những điểm " báo_động đỏ " về dịch cúm gia_cầm và có_thể sẽ là một trong những nơi đầu_tiên bùng_phát đại_dịch cúm trên người , với nguy_cơ 10 % dân_số nhiễm_bệnh và 1 % dân_số tử_vong . 
+Chương_trình này đưa ra thông_tin có 95 trường_hợp nhiễm cúm gà tại Việt_Nam . 
+Từ đây cũng có_thể kết_nối đến rất nhiều thông_tin báo_chí , các bài viết , báo_cáo liên_quan của Google , WHO , FAO ... 
+về tình_hình cúm gia_cầm trong nước . 
+Các thông_tin này được cập_nhật thường_xuyên . 
+Cũng có_thể xem chi_tiết mỗi điểm phát dịch bằng cách click chuột vào mỗi điểm đánh_dấu trên bản_đồ . 
+Ví_dụ như : thông_tin tình_hình cúm gia_cầm tại tỉnh Bắc_Giang có cơ_sở_dữ_liệu chủ_yếu dựa trên những báo_cáo của tổ_chức Nông lương quốc_tế ( FAO ) Liên_Hợp_Quốc . 
+Đối_với những trường_hợp có dịch từ tháng 10 , chương_trình sẽ hiển_thị những địa_điểm bùng_phát dịch đầu_tiên cùng với thông_tin miêu_tả đầy_đủ điểm bùng_phát đó của FAO . 
+Còn đối_với những nơi có dịch trước đó , dữ_liệu sẽ xuất_hiện theo các vùng địa_lý cho từng thời_gian nhất_định . 
+Những thông_tin về dịch cúm liên_quan đến người , dữ_liệu chủ_yếu lấy từ tổ_chức Y_tế Thế_giới ( WHO ) . 
+Chương_trình này vẫn tiếp_tục được hoàn_thiện và cập_nhật . 

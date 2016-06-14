@@ -1,0 +1,20 @@
+Virus mới tấn_công ĐTDĐ sử_dụng HĐH Symbian 
+Co mmwarrior . C chuyên phát_tán qua Bluetooth , MMS và thẻ_nhớ MMC khi cắm vào các ĐTDĐ bị nhiễm . 
+Khi lây_nhiễm , Co mmwarrior . C sẽ cố_gắng thay_đổi logo vận_hành đang có trên máy bằng chính của nó . 
+Co mmwarrior . C đã lây_nhiễm trên Nokia_6600 và thay_đổi logo thành " Đã nhiễm Co mmwarrior " . Tuy_vậy , người dùng phải chấp_nhận cài_đặt ứng_dụng thì virus mới có_thể lây_nhiễm trên điện_thoại_di_động của họ . 
+Vì vậy , hãng bảo_mật cũng khuyến_cáo người dùng nên cẩn_thận khi nhận các tập_tin trên ĐTDĐ sử_dụng hệ_điều_hành Symbian . 
+Khi bị lây_nhiễm , Co mmwarrior . C sẽ thực_hiện các công_việc : 
+Khi người dùng trả_lời các tin_nhắn SMS và MMS mới , Co mmwarrior . C sẽ mở một trang web sử_dụng trình_duyệt của ĐTDĐ . 
+Co mmwarrior sử_dụng bluetooth để phát_tán bằng cách dò_tìm các máy điện_thoại_di_động khác xung_quanh và gởi tập_tin SIS đã bị nhiễm virus đến tất_cả ĐTDĐ mà nó tìm thấy . 
+Tên của tập_tin SIS này sẽ không có trật_tự nên người dùng dễ nhầm_lẫn . 
+Khi cho thẻ_nhớ MMC vào ĐTDĐ đã nhiễm Co mmwarrior . C thì nó sẽ tự_động nhân_bản mình vào thẻ_nhớ . 
+Khi máy ĐTDĐ khác bị nhiễm Co mmwarrior do gắn thẻ_nhớ có Co mmwarrior sẽ có đoạn ký_tự sau : 
+" Co mmWarrior Outcast : The_dark_side_of_Symbian_Force . 
+Co mmWarrior v2.0-PRO . 
+Copyright ( c ) 2005 by e10d0r 
+Co mmWarrior is freeware product . 
+You may freely distribute it 
+in it ' s original unmodified form . 
+With best regards from Russia . 
+OTMOP03KAM HET ! 
+" 

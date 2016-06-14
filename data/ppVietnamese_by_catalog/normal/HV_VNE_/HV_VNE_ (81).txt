@@ -1,0 +1,12 @@
+Hơn 2.500 web server bị tấn_công mỗi ngày 
+Kết_quả điều_tra của mạng tin an_ninh Zone-H cho_thấy số máy_chủ web bị hack và website bị xoá_sổ đã tăng 36 % trong suốt năm 2004 với gần 400.000 vụ tấn_công xảy_ra . 
+Trong số đó , có tới 49 vụ đột_nhập vào máy_chủ quân_đội Mỹ và vô_số website của các tổ_chức bị đánh sập . 
+Giáng_sinh được coi là thời_điểm " nở_rộ " của các vụ tấn_công quy_mô lớn . 
+Nhìn_chung , hacker thường xâm_nhập vào trang web , lấy hoặc thay_đổi thông_tin trong đó , rồi trưng lên giao_diện trang_chủ thông_báo rằng " Bạn đã bị hack " hoặc " Trang web này giờ dưới quyền quản_lý của ... " . 
+55 % vụ đột_nhập thành_công nhờ khai_thác rệp điện_tử , lỗ_hổng hay lỗi quản_trị . 
+Các cuộc tấn_công thường diễn_ra ngay sau khi nhà sản_xuất công_bố sự tồn_tại của các lỗ_hổng . 
+Tuy_nhiên , trong nhiều trường_hợp , hacker đã khai_thác và trao_đổi ngầm với nhau về lỗi trong phần_mềm từ lâu trước khi chúng được những nhà điều_hành website phát_hiện và đưa ra lời cảnh_báo . 
+Lỗi quản_trị thường là do mật_khẩu quá dễ đoán hoặc dễ crack . 
+Bên cạnh đó , nhiều nhà quản_trị mạng quên hoặc không hề biết đến những bộ_phận không còn được sử_dụng nhưng vẫn tồn_tại trong hệ_thống , mở_đường cho hacker đột_nhập . 
+Thống_kê cũng cho_thấy đa_số các nhóm hacker tấn_công chỉ để mua_vui , một_vài người muốn lập kỷ_lục hay tạo tiếng_vang khi thâm_nhập thành_công vào những site quan_trọng . 
+Rất ít vụ tấn_công được thực_hiện vì mục_đích chính_trị , mặc_dù nhiều trang web của cả hai phe Mỹ và Hồi_giáo đã bị xoá_sổ trong suốt cuộc_chiến Iraq . Kết_quả điều_tra của Zone-H được công_bố vào dịp khai_mạc hội_nghị Thông_tin an_ninh Châu Âu , diễn_ra tại London từ 26 đến 28/4/05 . 

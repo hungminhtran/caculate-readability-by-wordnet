@@ -1,0 +1,13 @@
+Google - công_cụ đắc_lực cho hacker 
+Cơ_sở_dữ_liệu khổng_lồ của hãng tìm_kiếm lớn nhất thế_giới này bao_gồm cả những thông_tin đáng ra không nên hiển_thị trên mạng mà tin_tặc đang lợi_dụng như là kho các bí_quyết để xâm_nhập hệ_thống . 
+Sử_dụng những khoá tìm_kiếm trên Google , tin_tặc có_thể lục_lọi trong cơ_sở_dữ_liệu của Google để tìm thông_tin hỗ_trợ tấn_công . 
+Nhà nghiên_cứu bảo_mật Johnny_Long của hãng Computer_Sciences ( Mỹ ) và là tác_giả cuốn " Google_Hacking_for_Penetration_Testers " ( Sử_dụng Google để kiểm_tra quá_trình xâm_nhập ) đã trình_bày chủ_đề này tại diễn_đàn Black_Hat tuần trước , và khẳng_định vấn_đề không_chỉ nằm ở chính bản_thân Google mà_còn ở thực_tế rằng nhiều người sử_dụng không nhận ra khả_năng khai_thác to_lớn của công_cụ tìm_kiếm này . 
+Long cho_biết những giao_diện web không được bảo_vệ và những thủ_thuật để điều_khiển chúng bằng một loạt các thiết_bị như mạng máy_in , hệ_thống điện_thoại nhánh PBX , thiết_bị định_tuyến , webcam và hiển_nhiên là chính từ website đó ... 
+đều có_thể tìm thấy trên Google . 
+Không_chỉ dừng ở đó , Google còn bị lợi dung như một dịch_vụ proxy để phục_vụ tin_tặc . 
+Dù phần_mềm bảo_mật có_thể nhận_dạng khi kẻ tấn_công do_thám mạng doanh_nghiệp , hacker vẫn hoàn_toàn có khả_năng tìm ra thông_tin về cấu_trúc liên_kết mạng ( topology ) trên Google thay_vì rình_mò trực_tiếp ngay trên mạng đó . 
+Thực_tế này khiến quản_trị mạng càng khó_khăn hơn trong việc chặn các cuộc tấn_công . 
+" Mục_tiêu không hề nhận ra chúng_tôi đang lẻn và site của họ và lấy thông_tin " , Long cho_biết . 
+Thông_thường , loại thông_tin " đen " thường đến theo hình_thức mà Long gọi là " Google_Turds " . 
+Ví_dụ , do không có website nào hiển_thị với URL " Nasa " , công_cụ Google sẽ hiểu " site :nasa " và thông_báo không có kết_quả nào , thay vào đó , nó hiển_thị một loạt server cung_cấp cấp trúc bên trong mạng nội_bộ cơ_quan hàng_không_vũ_trụ Mỹ . Ngoài_ra , kết_hợp những câu_lệnh Google với công_cụ xử_lý dạng text có_thể thu về mật_khẩu , thậm_chí cả thông_tin lỗi SQL , tạo cơ_hội thực_hiện những cuộc tấn_công để chạy lệnh bất_hợp_pháp trong cơ_sở_dữ_liệu SQL. 
+Mặc_dù bản_thân Google không liên_can đến những vấn_đề bảo_mật đề_cập ở trên , công_cụ tìm_kiếm này vẫn đang vô_tình trở_thành kẻ tiếp_tay và gián_tiếp tham_gia những vụ tấn_công mạng quy_mô lớn . 

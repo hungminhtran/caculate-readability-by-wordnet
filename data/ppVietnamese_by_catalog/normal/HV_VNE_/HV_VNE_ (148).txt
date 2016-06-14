@@ -1,0 +1,40 @@
+Virus kiếm tiền hoành_hành trong 6 tháng đầu năm 
+Chương_trình virus ngày_một nhiều trong khi thời_gian lây_nhiễm lại rút ngắn . 
+Bảng xếp hạng hoạt_động của virus nửa đầu 2005 của Sophos cho_thấy nguy_cơ nhiễm sâu qua Internet lên tới 50 % chỉ trong 12 phút online đối_với máy_tính Windows không cài bản vá lỗi . 
+Patrick_Hinojosa , chuyên_gia bảo_mật hãng phần_mềm Panda , cho_biết Trojan cho_phép tội_phạm mạng cài mã khống_chế máy_tính từ xa đã xuất_hiện từ tháng 6/2004 và đến giờ vẫn đang là đối_thủ khó chơi nhất đối_với PC . 
+" Độ phức_tạp mỗi năm một tăng " , Hinojosa khẳng_định . 
+" Chúng_ta đã chứng khiến từ chương_trình phối_hợp nhiều phần_mềm nguy_hiểm , đến việc đòi quyền_lợi cho kẻ chuyên gửi spam và hàng_loạt những hành_động vì mục_đích tài_chính " . 
+Sâu_Zafi . D vẫn thống_lĩnh vị_trí số 1 trong bản tổng_kết 6 tháng . 
+Ảnh_hưởng dai_dẳng của Zafi . D thể_hiện qua việc nó chiếm tới hơn 1/4 số virus được Sophos tìm thấy trong năm 2005 . Đứng đầu trong suốt 4 tháng đầu năm , virus đến từ Hungari này ẩn trong những thiệp chúc_mừng Giáng_sinh để lừa người dùng mở file đính kèm . 
+" Điều ngạc_nhiên nhất là Zafi . D vẫn hoạt_động mạnh một thời_gian dài sau kỳ nghỉ và trong suốt mùa xuân vừa_qua " , Graham_Cluley , cố_vấn bảo_mật cao_cấp của Sophos , cho_biết . 
+" Chỉ hai tháng trước , Zafi . D mới bắt_đầu đánh mất dần vị_trí của mình trong bảng xếp hạng , nhưng vẫn là một nguy_cơ lớn cho người dùng " . 
+Sâu đa_ngôn_ngữ Sober . N , mới " chào_đời " trong tháng 5 , đã leo lên vị_trí thứ 3 . Ẩn dưới chiêu_bài vé xem World_Cup 2006 tại Đức , Sober . N đã khống_chế hàng nghìn máy_tính trên 40 nước . 
+Nó " phục_kích " âm_thầm trong máy_tính bị nhiễm , trước khi tự nâng_cấp mình lên phiên_bản mới nhằm khuấy_đảo chính_trị và tuyên_truyền chủ_nghĩa_dân_tộc qua các máy_tính bị khống_chế ( zombie ) . 
+" Dòng Sober cho ta thấy tất_cả những thiệt_hại ghê_gớm nhất mà một virus có_thể gây ra qua máy_tính bị nhiễm " , Cluley nhận_định . 
+" Sự kết_hợp giữa kẻ chuyên gửi spam , những tay viết phần_mềm nguy_hiểm và đội quân zombie mạnh_mẽ do chúng điều_khiển đã tung_hoành ngang_dọc khắp nơi . 
+Và ngày_càng nhiều những tổ_chức tin_cậy như chính_phủ , quân_đội ... 
+tự biến mình thành mục_tiêu của spam " . 
+Trojan dò phím cũng tăng số_lượng 3 lần trong năm nay . 
+Chúng chủ_yếu hướng mục_tiêu vào các tổ_chức tài_chính qua file đính kèm trong e-mail hoặc liên_kết tới trang web cài mã nguy_hiểm , tạo cơ_hội cho hacker ăn_trộm thông_tin cá_nhân và tiến_hành những cuộc tấn_công từ xa trong tương_lai . 
+Biến_thể sâu Mytob cũng rất thịnh_hành ở vị_trí số 6 và số 8 . Những phiên_bản mới đã tìm ra một phương_pháp mới , chủ_yếu được dùng bởi những kẻ lừa_đảo trực_tuyến , có khả_năng kết_hợp với nhau để trở_thành một siêu virus . 
+Netsky . P , virus nổi_tiếng nhất trong suốt năm 2004 , vẫn đang ngự_trị ở hàng số 2 trong danh_sách 10 virus nguy_hiểm nhất nửa đầu năm 2005 của Sophos . 
+Cậu thiếu_niên người Đức , Sven_Jaschan , tác_giả của Netsky và Sasser hơn một năm trước , sẽ phải đối_mặt với phiên_toà xét_xử vào tuần tới . 
+" Mặc_dù chương_trình do Jaschan viết vẫn đang tiếp_tục lan rộng và gây nhiều tổn_thất lớn cho người sử_dụng , cậu có_thể sẽ tránh được án tù vì chưa đến tuổi " , Cluley cho_biết . 
+Tội_phạm máy_tính đang tăng nhanh hơn bao_giờ hết . 
+Cuộc đột_kích vào ngân_hàng Sumitomo_Mitsui ở Anh và vụ tấn_công thẻ MasterCard là những ví_dụ rõ_ràng nhất về xu_hướng tội_phạm mạng hoạt_động vì tiền . 
+Trong tháng 5 , cảnh_sát đã tóm_cổ hai vợ_chồng người Israel sống ở London đã viết phần_mềm cho nhiều hãng lớn ở nước này do_thám hoạt_động của đối_thủ . 
+Đây được coi là vụ lừa_đảo bằng Trojan lớn nhất thế_giới . 
+Một tháng trước đó , một gã đàn_ông ở Síp đã theo_dõi một cô gái qua webcam sau khi cài Trojan vào máy cô ta . 
+Trường_hợp tương_tự cũng xảy_ra với một sinh_viên người Tây_Ban_Nha . 
+10 virus nguy_hiểm nhất 6 tháng đầu năm ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) : 
+1 . Zafi . D ( 25,3 % )2 . 
+Netsky . P ( 17,5 % )3 . 
+Sober . N ( 10,3 % )4 . 
+Zafi . B ( 4,7 % )5 . 
+Netsky . D ( 3,8 % )6 . 
+Mytob . BE ( 2,6 % )7 . 
+Netsky . Z ( 2,3 % )8 . 
+Mytob . AS ( 2,0 % )9 . 
+Netsky . B ( 1,9 % )10 . 
+Sober . K ( 1,7 % ) 
+Các loại khác : 27,9 % 

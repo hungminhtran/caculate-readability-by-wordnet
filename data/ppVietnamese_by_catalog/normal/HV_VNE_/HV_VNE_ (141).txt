@@ -1,0 +1,10 @@
+Bí_mật hạt_nhân bị rò_rỉ bởi virus máy_tính 
+Thông_tin bị rò_rỉ bao_gồm hơn 40 MB những báo_cáo bí_mật có liên_quan đến một_vài nhà_máy điện hạt_nhân của Nhật_Bản từ năm 2003 đến nay . 
+Và ngay_lập_tức chúng được phát_tán lên mạng . 
+Ngoài_ra còn có những bức ảnh bên trong nhà_máy điện hạt_nhân . 
+Tên và địa_chỉ của các kĩ_sư trong nhà_máy cũng bị đánh_cắp . 
+Nhà chức_trách Nhật_Bản khẳng_định rằng thông_tin bị rò_rỉ không liên_quan trực_tiếp đến những phần quan_trọng nhất của hệ_thống hạt_nhân . 
+Theo tập_đoàn Mitsubishy , sự_việc xảy_ra khi một kĩ_sư 30 tuổi thuộc công_ty con Electric_Plant_Engineering ( MPE ) của tập_đoàn này sử_dụng máy_tính cá_nhân để truyền file qua mạng chia_sẻ file ngang hàng Winny ( Winny là một trong những mạng chia_sẻ file phổ_biến ở Nhật_Bản với hơn 250.000 người sử_dụng ) . 
+Máy_tính của anh ta bị nhiễm một virus cho_phép người dùng Winy ở ngoài Nhật_Bản truy_cập và lấy đi những thông_tin nhạy_cảm của công_ty . 
+Graham_Cluley , cố_vấn kĩ_thuật cao_cấp của Sophos , phát_biểu : Điều đáng lo là sự_việc liên_quan một nhà_máy điện nguyên_tử . 
+Đây cũng là một lời cảnh_báo nghiêm_khắc đối_với các công_ty về vấn_đề bảo_mật máy_tính . 

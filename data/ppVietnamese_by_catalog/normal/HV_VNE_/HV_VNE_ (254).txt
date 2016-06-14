@@ -1,0 +1,16 @@
+Spyware thế chân virus trong máy_tính doanh_nghiệp 
+Phần_mềm gián_điệp đang trở nguy_hiểm và tinh_vi hơn nhưng người sử_dụng vẫn không_thể thực_hiện các biện_pháp sơ_đẳng nhất để tự bảo_vệ mình . 
+Thống_kê gần đây cho_thấy gần 30 % nhân_viên Mỹ đã trở_thành nạn_nhân của những chương_trình này . 
+Eric_Chien mô_tả quá_trình lấy dữ_liệu của spyware . 
+Các doanh_nghiệp phải đối_diện với thực_tế rằng những tài_liệu sống_còn của công_ty đang rò_rỉ ra bên ngoài từng ngày . 
+Tuy_nhiên , vẫn có quá nhiều tổ_chức tỏ_ra thờ_ơ hoặc thất_bại trong việc rèn_luyện tính kỷ_luật cho nhân_viên . 
+Theo Eric_Chien , chuyên_gia nghiên_cứu của hãng bảo_mật Symantec , tội_phạm mạng không còn chuộng virus . 
+Phương_pháp chụp màn_hình , dò_phím , phân_tích hành_vi và nhận_dạng ký_tự là những thủ_thuật phổ_biến mà các chương_trình spyware đang áp_dụng để xây_dựng chi_tiết hồ_sơ nạn_nhân . 
+" Ở mức_độ cơ_bản nhất , chúng có khả_năng tìm tên , tuổi , giới_tính , số thời_gian online , bạn tìm_kiếm những thông_tin gì , mua gì và những trang web nào bạn đã mở " , Chien khẳng_định . 
+Ông chứng_minh quan_điểm của mình bằng việc liệt_kê số dữ_liệu mà một phần_mềm gián_điệp phổ_thông nhất đã thu_nhặt được . 
+Tinh_vi hơn , nhiều spyware đã được lập_trình để chỉ can_thiệp vào một_số trong hàng trăm website được mở , Ví_dụ , chúng có_thể chụp ảnh màn_hình những trang bán lẻ trực_tuyến xuất_hiện từ " confirm " . 
+" Khi bạn bấm vào nút ' xác_nhận ' , những thông_tin vừa được nhập như số thẻ tín_dụng , tên , ngày hết hạn , đơn_vị thanh_toán , địa_chỉ giao hàng sẽ lập_tức lọt vào tay hacker " , Chien cho_biết . 
+Thậm_chí , phần_mềm còn được cài sẵn những địa_chỉ website ngân_hàng nhất_định , và spyware sẽ chỉ gửi thông_tin đến tội_phạm mạng khi nạn_nhân vào trang đó . 
+Chien cũng khuyến_cáo mọi người không nên đặt quá nhiều niềm tin vào khả_năng bảo_mật của những đường dẫn " https " bởi một_số spyware vẫn có_thể đọc tất_cả thông_tin truyền qua https , dù nguy_cơ chỉ xảy_ra khi máy_tính đã bị nhiễm . 
+Thực_tế , cách duy_nhất bảo_vệ sự an_toàn của người sử_dụng là cần đảm_bảo spyware không tồn_tại trong máy_tính . 
+Bên cạnh việc cài công_cụ chống phần_mềm gián_điệp trên mạng nội_bộ , mọi người cũng nên gỡ bỏ những chương_trình không cần_thiết và không bấm vào pop-up từ những nguồn thiếu tin_cậy . 

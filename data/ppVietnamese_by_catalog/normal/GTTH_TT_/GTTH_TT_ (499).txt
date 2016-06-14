@@ -1,0 +1,6 @@
+Virus cải_dạng thành Microsoft ' s MSN_Messenger beta 
+Tuy_nhiên , chương_trình chạy không phải là chương_trình Install mà là một chương_trình gởi link download này đến cho những người đối_tác ( bao_gồm cả bạn thân của bạn ) mà nó lấy được từ máy bị lây_nhiễm . 
+Những link này đều có nhãn giả_mạo là " MSN_Messenger_8 working beta " . 
+Nó cũng kết_nối máy bạn với những máy_chủ botnet ( software robots : những chương_trình tự_động điều_khiển máy bạn từ xa thường cho mục_đích phát_tán bom_thư và virus ) để tấn_công các máy khác . 
+Những chương_trình nguy_hiểm lây_lan qua các dịch_vụ tin_nhắn trực_tuyến ngày_càng nhiều hơn . 
+Trong một cuộc nghiên_cứu tháng 11 của Akonix_Systems thì đã có đến con_số 62 . Đương_nhiên , MSN_Messenger là một môi_trường lý_tưởng . 

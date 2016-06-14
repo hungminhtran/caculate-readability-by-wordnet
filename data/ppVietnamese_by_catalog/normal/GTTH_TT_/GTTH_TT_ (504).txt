@@ -1,0 +1,23 @@
+Các xu_thế công_nghệ của năm 2006 
+1 . Wi-Fi bùng_nổ mạnh_mẽ : trong năm 2006 , các mạng Wi-Fi tạo điều_kiện cho mọi người truy_cập không dây với giá rẻ vào Internet sẽ phát_triển cực mạnh , tạo điều_kiện cho mọi người có_thể lướt web bằng mọi thiết_bị di_động bất_cứ nơi nào trong khu_vực thành_phố . 
+Cùng với sự phát_triển của Wi-Fi , công_nghệ Wi-Max cũng sẽ từng bước được đưa vào sử_dụng . 
+Wi-Max được xem là công_nghệ đỉnh_cao của Wi-Fi , tầm phủ_sóng của mỗi trạm Wi-Max đến khoảng vài cây_số , không như vài trăm mét của Wi-Fi hiện_nay . 
+Hiện Wi-Max đang được thử_nghiệm tại Mỹ và một_số nước châu Âu . 
+2 . Điện_thoại_di_động làm được mọi thứ : cùng với sự mở_rộng của Wi-Fi , điện_thoại_di_động sẽ là thiết_bị truy_cập mạng hết_sức đa_năng . 
+Hiện_nay các công_ty sản_xuất điện_thoại_di_động đang chuẩn_bị tung ra nhiều kiểu điện_thoại " truy_cập kép " , tức vừa tương_thích với các mạng di_động , vừa tương_thích với mạng Wi-Fi , tạo điều_kiện cho người dùng có_thể lướt web ở bất_kỳ nơi nào . 
+Các loại điện_thoại_di_động này có giá khoảng 600 USD . 
+3 . Internet phone tiếp_tục bùng_nổ : trong vài năm qua Google , Yahoo , Microsoft , AOL … đều đã đưa tính_năng voice chat ( tức gọi điện_thoại Internet từ máy_tính này sang máy_tính kia ) vào các ứng_dụng nhắn tin trực_tuyến của mình , tạo điều_kiện cho mọi người ở mọi hóc hẻm trên hành_tinh có_thể nói_chuyện với nhau gần như miễn_phí . 
+Yahoo đã lên kế_hoạch tung ra dịch_vụ tương_tự như Skype , tạo điều_kiện cho máy_tính có_thể gọi điện_thoại cho tất_cả các điện_thoại_di_động hoặc điện_thoại bàn trên khắp thế_giới với giá rất mềm . 
+Điện_thoại Internet từ_từ thay_thế hoàn_toàn cho điện_thoại bàn sẽ là xu_thế không_thể cưỡng lại được . 
+4 . Đưa văn_phòng lên Web : hiện đang xuất_hiện xu_thế " Đưa văn_phòng lên Web " , tức hầu_hết mọi ứng_dụng văn_phòng đều được thực_hiện trực_tiếp trên mạng , tạo nên một môi_trường cộng_tác tuyệt_vời và giảm mọi chi_phí phần_mềm đến mức tối_đa . 
+Một_số công_ty lớn tại Mỹ hiện_nay đã áp_dụng mô_hình cực_kỳ hiệu_quả này , mọi nhân_viên của công_ty chỉ cần truy_cập vào mạng nội_bộ bằng một trình_duyệt nào đó là có_thể thực_hiện được hầu_hết mọi tác_vụ văn_phòng phổ_biến như soạn_thảo văn_bản , bảng tính , lịch làm_việc , xử_lý hình_ảnh … một_số công_ty khác cũng đưa luôn các tính_năng giải_trí như âm_nhạc và video vào dịch_vụ văn_phòng Web của mình . 
+Trong năm 2006 , Google sẽ làm_việc với Sun trong một dự_án mã nguồn mở OpenOffice nhằm tạo điều_kiện cho mọi nhân_viên của hai bên sử_dụng trực_tiếp bộ công_cụ văn_phòng OpenOffice trực_tiếp trên mạng . 
+Nếu thành_công thì dự_án này cũng sẽ từ_từ được mở ra cho công_chúng . 
+Microsoft cũng đang chuẩn_bị tung ra dịch_vụ cho_phép người dùng xử_lý văn_bản trực_tiếp trên Internet . 5 . 
+Gia_tăng mạnh_mẽ việc nghiên_cứu tế_bào mầm : các công_ty công_nghệ_sinh_học sẽ tiếp_tục tập_trung gia_tăng nghiên_cứu mọi vấn_đề liên_quan đến tế_bào mầm trong năm 2006 . Các viện công_nghệ_sinh_học tại Califonia đã dự_định chi đến 3 tỷ USD để nghiên_cứu về tế_bào mầm trong năm 2006 . 
+Nhiều nhà khoa_học hiện_nay tin_tưởng rằng tế_bào mầm là nguồn_gốc của mọi cấu_trúc trong cơ_thể , nắm được bí_mật của tế_bào mầm là chìa_khoá giải_quyết được hàng_loạt các chứng_bệnh nan_y như : Parkinson , tiểu_đường , chấn_thương thần_kinh tuỷ_sống , ung_thư … Bất_chấp vụ tai_tiếng tế_bào mầm của một_số chuyên_gia công_nghệ_sinh_học Hàn_Quốc vừa gây ra , công_nghệ nghiên_cứu tế_bào mầm trong năm 2006 sẽ có những bước_tiến nhảy_vọt . 
+6 . Gia_tăng mạnh_mẽ việc nghiên_cứu và chế_tạo các loại vaccine ngừa cúm : trong năm 2006 , các công_ty công_nghệ_sinh_học sẽ tập_trung nghiên_cứu mạnh_mẽ để chế_tạo các loại vaccine ngừa cúm có khả_năng ngăn_chặn được đại_dịch cúm gia_cầm nếu có xảy_ra cho người . 
+Tổng_thống Bush đã công_bố kế_hoạch chi ra đến 7,1 tỷ USD để sẵn_sàng đương_đầu với đại_dịch cúm gia_cầm trên người nếu có xảy_ra . 
+Ngoài_ra 3,6 tỷ USD cũng chuẩn_bị được tung ra để nghiên_cứu đủ loại vaccine ngăn_ngừa các chứng_bệnh hiểm_nghèo khác . 
+Chính_phủ Mỹ đặt mục_tiêu đến năm 2010 sẽ có khoảng 150 triệu người Mỹ được chủng ngừa cúm gia_cầm . 
+Các xu_thế công_nghệ còn_lại là : xu_thế chuyển_dịch công_nghệ vào lao_động trình_độ cao về các quốc_gia đầy tiềm_năng như Trung_Quốc , Ấn_Độ … , xu_thế sử_dụng Video_Blog , xu_thế đưa video chất_lượng cao vào mọi thiết_bị di_động , và xu_thế cuối_cùng là sự phát_triển mạnh_mẽ của công_nghệ làm sạch chất_thải . 

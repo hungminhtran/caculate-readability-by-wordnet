@@ -1,0 +1,32 @@
+Hỏi đáp về bệnh cúm A ( phần 1 ) Lợn có_thể nhiễm nhiều loại virus cúm của cả người và gia_cầm , có_thể phát_triển thành dịch_bệnh . 
+Trong đại_dịch cúm H1N1 từng làm chết 40 triệu người năm 1918 , người_ta phát_hiện rằng trước đó , kháng_nguyên của chủng virus này đã gây dịch ở lợn . 
+Tại_sao có tên bệnh cúm A , cúm B , cúm C và cúm gia_cầm ? 
+Dựa trên cơ_sở căn_nguyên virus gây bệnh mà ta gọi tên bệnh là cúm A , cúm B , cúm C . Phổ_biến nhất là type_A và B ; type C chỉ gây bệnh nhẹ , tản_mát . 
+Type_A là thủ_phạm chính hay gây bệnh dịch cho người ( như H3N2 , H1N1 ) cũng như gia_cầm . 
+Type B có_thể gây ra các dịch_bệnh nhẹ cho người . 
+Do sự thích_nghi loài , một_số phân type virus cúm A có_thể bệnh cho gia_cầm như H5N1 , H7N7 ... 
+Đặc_biệt , virus cúm A H5N1 rất độc đối_với loài gà . 
+Trong một_số điều_kiện nhất_định , các virus cúm A thường gây bệnh cho gia_cầm cũng có_thể gây bệnh cho người . 
+Những tác_nhân gây bệnh cúm A cho người từ trước tới nay là gì ? 
+Các phân type virus cúm A được ghi_nhận đã gây dịch hoặc đại_dịch ở người trong các thời_kỳ lịch_sử là : H2N8 ( 1889-1890 ) , H3N8 ( 1900-1903 ) , H1N1 ( 1918-1919 và 1946-1947 ; 1977-1978 ) , H2N2 ( 1957-1958 ) , H3N2 ( 1968-1969 ) . 
+Theo thông_báo của Tổ_chức Y_tế Thế_giới thì hiện_nay có 2 phân type virus cúm A chiếm ưu_thế , lưu_hành rộng_rãi nhiều nơi trên thế_giới , đó là H1N1 và A H3N2 . 
+Ngoài_ra , từ năm 1997 , đã có thông_báo virus cúm gà H5N1 đã lây sang 18 người ; và virus H7N7 cũng từ gà lây sang 2 người . 
+Tên virus gây bệnh cúm A như H1N1 , H3N2 , H5N1 có ý_nghĩa như thế_nào ? 
+Tên của các phân type virus cúm A như H1N1 , H3N2 , H5N1 bao_hàm ý_nghĩa đặc_thù cấu_trúc kháng_nguyên vỏ ngoài virus . 
+Chữ H ( hemaglutinin – chất ngưng kết hồng_cầu ) và N ( Neuraminidase – enzim tan nhầy ) là ký_hiệu của 2 kháng_nguyên gây nhiễm trên vỏ của hạt virus cúm A , giúp virus gắn vào thành tế_bào và sau đó đột_nhập vào tế_bào hô_hấp . 
+Chữ_số 1 , 2 , 3 , 5 ... 
+là chỉ_số thứ_tự của kháng_nguyên H và N đã biến_đổi . 
+Tại_sao chủng H5N1 có_thể gây bệnh cúm gà nguy_hiểm ở người ? 
+H5N1 có ổ chứa thiên_nhiên là các loài chim hoang_dã và một_số loài thuỷ_cầm , nó chủ_yếu gây bệnh cho một_số loài gia_cầm như gà . 
+Đối_với cơ_thể của người , H5N1 hoàn_toàn xa_lạ , con_người bình_thường không có hàng_rào miễn_dịch để chống lại nó . 
+Chính vì thế , khi có điều_kiện xâm_nhập vào cơ_thể người ( do người tiếp_xúc rất gần_gũi , ăn thịt hay trứng gia_cầm có mang H5N1 ... ) , virus này có khả_năng gây bệnh rất nặng cho người , nguy_cơ tử_vong rất cao . 
+Nghe nói lợn và một_số gia_súc cũng có_thể mắc cúm gà và làm lây sang người , có đúng không ? 
+Lợn có_thể nhiễm nhiều loại virus cúm của cả người và gia_cầm , có_thể phát_triển thành dịch_bệnh . 
+Trong đại_dịch cúm H1N1 năm 1918 ở người , người_ta phát_hiện trước đó kháng_nguyên của chủng này đã gây dịch ở lợn . 
+Ở châu Âu cũng có nghiên_cứu phát_hiện thấy ở ngựa có virus cúm , nhưng có ghi_nhận nào về việc virus cúm ở ngựa hoặc súc_vật khác ( trâu_bò , chó , mèo , dê ) gây bệnh cho người . 
+Nghe nói gene của virus cúm gia_cầm có_thể tái_tổ_hợp với virus của lợn . 
+Sự pha_trộn này xảy_ra như thế_nào ? 
+Hiện_tượng pha_trộn gene ( thường gọi là tái_tổ_hợp ) giữa virus cúm gia_cầm và virus cúm của các loài có vú , trước_hết là lợn , được coi là nguyên_nhân của sự bùng_phát đại_dịch cúm ở người , nếu không được khống_chế sớm và hiệu_quả . 
+Cơ_chế tái_tổ_hợp còn nhiều bí_ẩn . 
+Hiện có 2 giải thiết : - Virus cúm gia_cầm H5N1 và virus cúm của người H3N2 cùng lan_truyền sang lợn và tái_tổ_hợp ở cơ_thể lợn , tạo ra chủng cúm A mới có_thể gây dịch lớn cho người . 
+- Virus cúm gia_cầm và virus của người cùng song_song tồn_tại trên người và tái_tổ_hợp ở đây , tạo ra chủng mới gây đại_dịch . 

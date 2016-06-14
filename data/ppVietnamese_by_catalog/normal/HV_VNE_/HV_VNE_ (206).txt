@@ -1,0 +1,9 @@
+Thiết_bị nhỏ , nguy_cơ lớn 
+Những sản_phẩm bỏ_túi như thẻ_nhớ USB , iPod đang trở_thành mối đe_doạ về bảo_mật lớn trong nhiều doanh_nghiệp do họ thường chỉ tập_trung vào giải_quyết những nguy_cơ từ bên ngoài . 
+" Thật dễ_dàng để mang thông_tin nội_bộ ra khỏi công_ty hiện_nay " , Matt_Fisher , Phó_giám_đốc thị_trường của Centennial ( Mỹ ) , cho_biết . 
+" Không cần phải khoác một ba_lô đầy tài_liệu , những ổ mini 2 GB chỉ nhỏ bằng ngón tay cái cũng có_thể gây thiệt_hại lâu_dài và nghiêm_trọng cho hoạt_động cũng như danh_tiếng của mỗi công_ty " . 
+Dù vô_tình hay cố_ý , những thiết_bị này đang trở_thành phương_tiện trung_gian để truyền file nhạy_cảm , phát_tán mã nguy_hiểm hay những nội_dung không phù_hợp trong mạng nội_bộ . 
+Theo Fisher , 80 % các vụ tấn_công hệ_thống công_nghệ thông_tin xuất_phát từ chính bên trong mạng nội_bộ , trong khi nhà quản_trị lại cơ_bản chú_trọng vào việc đối_phó với nguy_cơ từ xa . 
+Centennial , hãng chuyên về phần_mềm bảo_mật , cho_biết họ đang từng bước giải_quyết tình_trạng sử_dụng thiết_bị rời ( removable ) để truy_cập máy_tính . 
+Công_ty Mỹ này hôm_qua đã ra_mắt DeviceWall_3.0 , giải_pháp bảo_mật doanh_nghiệp mới , cung_cấp khả_năng kiểm_soát và quản_lý hoạt_động của USB , iPod , PDA , điện_thoại thông_minh , ổ ghi CD và nhiều thiết_bị khác . 
+Sản_phẩm này cũng kèm tính_năng khoá kết_nối Bluetooth , cổng hồng_ngoại và Wi-Fi , nhằm ngăn_chặn việc chuyển thông_tin qua_lại giữa máy_tính nội_bộ và thiết_bị di_động khi chưa được cho_phép . 

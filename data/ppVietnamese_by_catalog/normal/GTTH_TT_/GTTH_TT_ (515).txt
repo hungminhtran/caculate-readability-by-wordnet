@@ -1,0 +1,5 @@
+Tăng_tốc khởi_động và tắt máy_tính 
+FastWin cho_phép bạn tinh_chỉnh các thông_số để tăng_tốc khởi_động Windows như tắt chức_năng hiển_thị logo Windows , thanh tiến_trình trong quá_trình khởi_động , tắt chức_năng tự_động dò_tìm thư_mục và máy_in mạng , quản_lý các chương_trình tự khởi_động cùng với Windows … 
+Để tăng_tốc quá_trình shutdown máy , chương_trình cho_phép bạn bỏ thông_báo tắt máy_tính , tự_động tắt các ứng_dụng đang chạy mà không cần hỏi ý_kiến của bạn , giảm thời_gian chờ … Bạn có_thể thực_hiện việc tinh_chỉnh bằng tay hoặc nhấn nút Quick_Optimization để chương_trình tự chọn các thông_số tối_ưu . 
+Sau đó nhấn nút Apply và khởi_động lại máy , bạn sẽ thấy quá_trình khởi_động lại nhanh hơn hẳn so với trước_kia . 
+embalado FastWin tương_thích với Windows_XP , giá 9,99 EUR , tải bản dùng thử tại đây ( dung_lượng 1,7 MB ). Bạn cũng có_thể tìm mua phần_mềm này tại các cửa_hàng bán đĩa CD Software . 

@@ -1,0 +1,4 @@
+Hình_thức thanh_toán mới trong game online 
+Khi đăng_ký một tài_khoản và nạp tiền , ngoài việc trừ dần tài_khoản của người chơi theo thời_gian chơi game , ở PTV còn có thêm chức_năng giao_dịch và giữ tiền tương_tự như một ngân_hàng . 
+Với tài_khoản này , người chơi có_thể chuyển_khoản , giao_dịch với nhau , cho vay ... 
+Đặc_biệt , người chơi có_thể rút tiền_mặt từ tài_khoản này tại các điểm rút tiền đối_tác của FPT . 

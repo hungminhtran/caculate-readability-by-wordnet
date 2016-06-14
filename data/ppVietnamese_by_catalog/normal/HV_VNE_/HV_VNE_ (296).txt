@@ -1,0 +1,10 @@
+Chưa có bản vá lỗi nghiêm_trọng trong IE 
+Mã khai_thác lỗ_hổng trong Javascript của Internet_Explorer ( IE ) , có_thể khiến hệ_thống bị điều_khiển_từ_xa , vừa được công_bố hôm_qua . 
+Các chuyên_gia bảo_mật khuyên người dùng nên tắt chức_năng này hoặc sử_dụng một trình_duyệt khác 
+Đoạn mã này khai_thác lỗi " rất nghiêm_trọng " trong IE 5.5 và IE 6 , hoạt_động trên Windows_XP_Service_Pack_2 và IE 6 trên Windows_2000_SP4 . 
+Nó liên_quan đến thành_phần Javascript được dùng để tải trang web vào một máy_tính . 
+Ngay khi người sử_dụng bị lừa ghé thăm một website chứa mã tấn_công , quá_trình xâm_nhập hệ_thống sẽ diễn_ra tự_động mà không cần nạn_nhân phải thực_hiện thêm bất_cứ thao_tác nào . 
+" Một kẻ tấn_công có_thể tận_dụng lỗi để chạy bất_cứ mã nào chúng muốn trên hệ_thống người dùng " , Thomas_Kristensen , Trưởng phòng kỹ_thuật của hãng bảo_mật Secunia ( Đan_Mạch ) , cho_biết . 
+Các chuyên_gia nghiên_cứu cho_biết lỗi đã được biết đến từ cách đây 6 tháng , nhưng được đánh_giá là chỉ gây ra tấn_công từ_chối dịch_vụ thay_vì chạy mã từ xa . 
+Do đó , Microsoft đã không hề cung_cấp bản vá lỗ_hổng . 
+Đại_diện của tập_đoàn phần_mềm không đưa ra lời bình_luận về vấn_đề này nhưng khẳng_định họ đang tiến_hành xem_xét và sẽ tung ra phần_mềm chỉnh_sửa trong bản tin bảo_mật cuối_cùng của năm 2005 . 

@@ -1,0 +1,11 @@
+Lỗi mạng VPN đe_doạ bảo_mật dữ_liệu diện rộng 
+Một lỗ_hổng xuất_hiện trong giao_thức bảo_mật Internet then_chốt của hầu_hết các sản_phẩm mạng riêng ảo ( VPN ) khiến hệ_thống doanh_nghiệp có nguy_cơ gặp phải nhiều kiểu tấn_công khác nhau , kể_cả DoS . Các chuyên_gia nghiên_cứu tại đại_học Oulu ( Phần_Lan ) cho_biết họ đã phát_hiện ra lỗi trong công_nghệ bảo_mật mạng và giao_thức quản_lý khoá ( ISAKMP ) , được sử_dụng trong mạng ảo IPsec và sản_phẩm tường lửa của nhiều công_ty như Juniper_Networks và Cisco . 
+" Những lỗi này có_thể tạo điều_kiện cho tội_phạm mạng tấn_công từ_chối dịch_vụ , tận_dụng lỗ_hổng trong chuỗi ký_tự định_dạng , làm tràn bộ đệm và giảm tốc_độ truyền dữ_liệu qua Internet . Trong một_số trường_hợp nhất_định , kẻ tấn_công còn có khả_năng xử_lý mã và khống_chế thiết_bị từ xa " , Trung_tâm bảo_mật cơ_sở_hạ_tầng quốc_gia ( NISCC ) của Anh khuyến_cáo . 
+Cisco cho_biết lỗi bảo_mật có_thể khiến một_số thiết_bị của hãng phải liên_tục xác_lập lại , do đó có_thể tạo ra tấn_công từ_chối dịch_vụ . 
+Công_ty này đã phát_hành bản nâng_cấp phần_mềm miễn_phí và hướng_dẫn tại đây . 
+Danh_sách những sản_phẩm bị ảnh_hưởng bao_gồm Cisco_IOS , Cisco_PIX_Firewall , Cisco_Firewall_Services_Module , Cisco_VPN 3000 Serie và MDS_Series_SanOS . 
+Những sản_phẩm bị ảnh_hưởng của Juniper bao_gồm tất_cả các thiết_bị định_tuyến thuộc dòng M , T , J , E , và hầu_hết các phiên_bản của phần_mềm bảo_mật Junos và JunoSe . 
+Openswan_Project , phần_mềm IPsec xuất_hiện trong nhiều sản_phẩm Linux , cũng bị nguy_cơ . 
+Tổ_chức hậu_thuẫn chương_trình này đã phát_hành bản update Openswan 2 . 4.2 ngay khi nhận được thông_báo . 
+IBM và Microsoft tuyên_bố hệ_thống của họ vẫn an_toàn . 
+Danh_sách những công_ty phản_hồi trước cảnh_báo này có_thể xem tại đây . 

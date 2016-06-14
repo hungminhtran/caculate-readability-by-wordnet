@@ -1,0 +1,16 @@
+Sâu_Sober trở_lại 
+Các tác_giả virus lại tung ra một biến_thể mới của chương_trình tấn_công này với tốc_độ lây_lan khá nhanh trên Internet . Phiên_bản Sober . M có khả_năng thu_thập và báo_cáo các địa_chỉ e-mail của nạn_nhân về cho tác_giả . 
+Kỹ_thuật này được gọi là thu_hoạch ( harvesting ) . 
+Những địa_chỉ e-mail mà tác_giả virus kiếm được sau đó thường được bán cho giới phát_tán thư rác quảng_cáo để những đối_tượng này mở_rộng thêm vùng phủ spam . 
+Những bức thư_điện_tử chứa virus Sober . M sử_dụng dòng chủ_đề ( subject ) " I ' ve_got_your_e-mail_on_my_account " . 
+Đây là dạng virus phát_tán e-mail số_lượng lớn , sử_dụng file đính kèm dạng .ZIP và chỉ tấn_công máy_tính dùng Windows . 
+E-mail chứa virus được gửi đi bằng tiếng Anh và tiếng Đức . 
+Nội_dung text trong thư như sau : Xin chào . 
+Xin_lỗi vì tiếng Anh của tôi không tốt . 
+Có người đang gửi những e-mail riêng của bạn vào địa_chỉ của tôi . 
+Đây có_lẽ là lỗi của nhà cung_cấp dịch_vụ . 
+Nhiều lúc có tới 10 thư gửi cho bạn lại chạy vào tài_khoản của tôi . 
+Tôi đã copy tất_cả những thông_điệp này và nén lại ( zip ) . 
+Hãy đảm_bảo thư của bạn không tiếp_tục chui vào hộp_thư của tôi nữa . 
+Hãng bảo_mật Sophos ( Anh ) cho_biết đây là biến_thể virus mới có số thông_báo mà họ nhận được nhiều thứ năm trong 24 giờ qua , tiếp sau là Zafi và NetSky . 
+Hầu_hết các công_ty cung_cấp phần_mềm chống virus đều đã cập_nhật phiên_bản mới . 

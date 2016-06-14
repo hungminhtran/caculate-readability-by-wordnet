@@ -1,0 +1,13 @@
+Gia_tốc Windows_XP 
+SystemBoosterXP là một chương_trình tự_động điều_phối với cách cấu_hình cực_kỳ đơn_giản . 
+Chương_trình sẽ theo_dõi những tập_tin mà bạn truy_cập nhiều nhất và tiến_hành cache nó . 
+Tức_là , những tập_tin này sẽ được nằm trong tư_thế sẵn_sàng để cho Windows sử_dụng , giảm_thiểu tối_đa thời_gian máy_tính cần để truy_xuất đến nó . 
+Cách sử_dụng cũng rất đơn_giản . 
+Mặc_định , booster sẽ theo_dõi tất_cả các tập_tin trên đĩa_cứng . 
+Bạn có_thể thiết_lập chế_độ chạy booster cho một_số thư_mục cụ_thể để tiết_kiệm không_gian bộ_nhớ . 
+Cũng có_thể chọn chế_độ ưu_tiên của chương_trình ( Boosting_priority ) , tốc_độ làm mới ( cập_nhật ) các tập_tin ( Refresh_rate ) . 
+Lưu_ý SystemBooster yêu_cầu bạn mở chức_năng DisableLastAccess của NTFS, 
+có_thể kích_hoạt chức_năng này bằng thao_tác sau : 
+Run - -&gt ; cmd , gõ vào FSUTIL BEHAVIOR SET DISABLELASTACCESS 0 , nhấn Enter . 
+Chương_trình hiệu_quả nhất với các máy_tính có dung_lượng RAM từ 128 - 256 MB . Ít hơn hoặc nhiều hơn đều không đem lại hiệu_quả rõ_rệt . 
+Bạn có_thể tải về bản dùng thử tại địa_chỉ http : / / www . systembooster . com / download.htm . 

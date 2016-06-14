@@ -1,0 +1,50 @@
+Mỗi học_sinh một laptop 
+NICHOLAS NEGROPONTE ( Viện Kỹ_thuật Massachusetts ) 
+Laptop bán với giá 100 USD khi nào trở_thành hiện_thực ? 
+- Cuối năm 2006 . TTCN - Khởi_đầu từ hai định_đề cơ_bản . 
+Thứ nhất : nguồn tài_nguyên lớn nhất của một quốc_gia là trẻ_em . 
+Dù thách_thức của một quốc_gia có to_lớn đến cỡ nào , như : vãn_hồi hoà_bình , xoá nghèo_đói , bảo_vệ sức_khoẻ hay môi_trường , một phần của giải_pháp đều luôn nằm trong vấn_đề giáo_dục . 
+Thứ nhì : dù các thầy_giáo có khắc sâu vào trí_não các em điều gì , phần_lớn sự hiểu_biết vẫn được thu_thập bằng tự khám_phá , quan_hệ với tha_nhân và tò_mò thuần_tuý . 
+Hệ_thống giáo_dục Mỹ , vốn có truyền_thống xoay quanh lớp_học và giao cho một thầy_giáo chịu trách_nhiệm , không tạo được khả_năng tự học và tương_tác với tha_nhân . 
+Hệ_thống giáo_dục này không thích_hợp với các nước đang phát_triển . 
+Cần phải đưa đứa trẻ hoà_nhập vào giáo_dục , không phải như một học_trò , mà_còn như người thầy đối_với chính bản_thân nó và bè_bạn . 
+Vấn_đề không phải là đứa trẻ học được những gì mà là những ý_tưởng mà nó có_thể tìm thấy để giải_quyết một vấn_đề . 
+Kinh_nghiệm cho_thấy : học theo mạng , được sự hỗ_trợ của kỹ_thuật và máy_vi_tính là tạo ra kết_quả tốt nhất . 
+Năm 1982 tôi cùng với Seymour_Papert , một đồng_nghiệp tại Viện Kỹ_thuật Massachusetts ( MIT ) , lập ra chương_trình Apple_II dành cho các trường mẫu_giáo ở ngoại_ô thành_phố Dakar ( Senegal ) . 
+" Dự_án Senegal " đã minh_chứng không_thể chối_cãi : trẻ_con các vùng nghèo_khổ , nông_thôn hay hẻo_lánh làm_quen với máy_vi_tính rất dễ_dàng . 
+Bốn năm sau chúng_tôi thành_lập một chương_trình tương_tự , nhưng có tầm_vóc lớn hơn , tại Costa_Rica . 
+Từ đó , quốc_gia này trở_thành một ví_dụ điển_hình về sự tương_tác của máy_vi_tính và thầy_giáo đối_với học_trò . 
+Bằng_chứng là " mạch_tích_hợp điện_tử " ngày_nay chiếm hơn 50 % hàng xuất_khẩu của Costa_Rica , cao hơn chuối và cà_phê cộng lại . 
+10 năm sau nữa , tại Campuchia , tôi và gia_đình thành_lập mấy trường mẫu_giáo tại hai làng nghèo đến mức không có điện và nước . 
+Ý_định ban_đầu của chúng_tôi chỉ là lập trường_học . 
+Nhưng cuối_cùng chúng_tôi quyết_định cung_cấp cho mỗi học_sinh một máy_vi_tính sử_dụng năng_lượng rất ít và trang_bị module Wifi , có_thể nối mạng Internet không cần dây . 
+Buổi tối , bọn trẻ có_thể mang máy về nhà để cả gia_đình cũng có_thể sử_dụng cho mọi mục_đích : xem đá bóng , khảo_sát giá gạo hay chỉ đơn_giản là làm nguồn thắp sáng từ màn_hình . 
+Từ tiếng Anh đầu_tiên mà đứa trẻ học được là Google ! 
+Cạnh_tranh khốc_liệt sẽ khiến khả_năng tiếp_cận Internet trở_nên phổ_biến rộng_rãi hơn nữa . 
+Dù chúng_ta không can_thiệp chuyện đó vẫn xảy đến . 
+Nhưng điều chúng_tôi muốn làm là một máy_vi_tính xách tay ( laptop ) giá 100 USD ! 
+Chiếc máy này phải bền , đa_năng và các nước đang phát_triển có_thể mua được . 
+Các đại_gia trong ngành sản_xuất máy_vi_tính đều quả_quyết chuyện này là bất_khả . 
+Nhưng chúng_tôi không đồng_ý . 
+Bởi thế MIT quyết_định thành_lập một tổ_chức phi_lợi_nhuận mang tên One_laptop per child ( OLPC - Mỗi trẻ_em một laptop ) nhằm nghiên_cứu chế_tạo và phân_phối laptop cho các chính_phủ với giá bèo nhất . 
+Họ sẽ phân_phối lại cho các trường , và đến tận_tay học_trò . 
+Máy sẽ mạnh , điều_hành bằng hệ Linux , và tiêu_thụ ít năng_lượng đến mức có_thể dùng tay_quay và không cần có điện . 
+Nó có_thể sử_dụng như một cuốn sách điện_tử , và nối mạng đa_cấp , cho_phép nhiều máy cùng lúc nối mạng Internet từ một nguồn liên_kết duy_nhất . 
+Sau đây là những lý_do để giá_thành một laptop không quá 100 USD . 
+Trước_tiên , 50 % giá bán một laptop hiện_nay là tiền lời , rơi vào túi nhà sản_xuất . 
+OLPC loại_bỏ khoản này . 
+50 % còn_lại có_thể tạm chia đều như sau : màn_hình và " phần còn_lại " . 
+Đương_nhiên màn_hình là thách_thức lớn nhất . 
+Media_Lab của MIT có_thể tạo ra một màn_hình với giá 30 USD . 
+Phần còn_lại là bộ_vi_xử_lý - processor , bộ_nhớ - memory , và nguồn cung_cấp điện . 
+Laptop hiện_nay sử_dụng 75 % công_suất xử_lý để điều_hành các phần_mềm rất nặng_nề , có_thể gọi là " béo phì " và ít đạt hiệu_quả cần_thiết . 
+Vấn_đề là phải chắt_lọc lại những yêu_cầu then_chốt . 
+Máy sẽ được trang_bị phần_mềm mà mọi trẻ_con trên hành_tinh này sử_dụng được . 
+Giải_pháp nằm ở Linux , một hệ_thống khai_thác ... 
+ốm nhưng chắc_nịch . 
+Một laptop giá 100 USD khi nào trở_thành hiện_thực ? 
+Thưa : cuối năm 2006 . Ở đâu ? 
+Chắc_chắn là tại Brazil , Thái_Lan và Ai_Cập để làm khởi_điểm . 
+Chúng_tôi cũng hy_vọng sẽ ký được hợp_đồng với Trung_Quốc . 
+Tuy_nhiên thị_trường là cả hành_tinh . 
+Chúng_tôi có 1 tỷ trẻ_em để thụ_hưởng lợi_ích từ chương_trình One laptop one child . 

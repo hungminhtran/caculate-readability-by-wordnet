@@ -1,0 +1,168 @@
+CÚM GIA_CẦM 
+Báo_cáo tình_hình dịch cúm gà 
+( Trong ngày 15-02-2004 ) 
+STT 
+Tên tỉnh , thành_phố 
+Quận , huyện có dịch 
+Xã , phường có dịch 
+Thời_gian bắt_đầu 
+Số gia_cầm mắc bệnh 
+( Trong ngày 15/02/04 ) 
+Số gia_cầm xử_lý 
+( Trong ngày 15/02/04 ) 
+Ghi_chú 
+Cũ 
+Mới 
+Cũ 
+Mới 
+1 
+Long_An 
+2 
+0 
+0 
+2 
+Tháng12/03 
+2642 
+116745 
+H . 
+Thủ_Thừa , Mộc_Hoá 
+2 
+Tiên Giang 
+1 
+0 
+1 
+0 
+25/12.03 
+0 
+1776 
+Số gà khoẻ_mạnh tự nguyên xử_lý 
+Sốgà khoẻ_mạnh tự_nguyện xử_lý 
+3 
+Vĩnh_Long 
+1 
+0 
+0 
+1 
+Tháng 1/04 
+3186 
+4 
+Đồng_Tháp 
+2 
+0 
+0 
+1 
+9/1/04 
+423 
+3303 
+Xã An_Long , Phú_Cường huyên Tam_Nông 
+5 
+Bạc_Liêu 
+0 
+0 
+3 
+0 
+24/1/04 
+6514 
+Vĩnh_Lợi , Phước_Long , Ðồng_Lai 
+6 
+Ðắc_Lắc 
+1 
+0 
+1 
+0 
+31/1/04 
+74 
+74 
+Xã Eapa , huyên Buôn_Ðôn 
+7 
+Gia_Lai 
+3 
+0 
+3 
+0 
+21/1/04 
+364 
+H . 
+Chư_Pông , Chư prăh , Kông_Chro 
+8 
+Hà_Tây 
+4 
+0 
+0 
+0 
+27/12/04 
+23404 
+H . 
+Chương Mỹ , phú Xuyên , ba Vì , Thạch_Thất 
+9 
+Phú Thọ 
+2 
+0 
+2 
+0 
+Tháng 12/03 
+80 
+984 
+Số gia_cầm tiêu_huỷ thêm 
+10 
+Vĩnh_Phúc 
+0 
+0 
+0 
+0 
+21/1/04 
+140 
+6444 
+11 
+Thái_Bình 
+1 
+0 
+2 
+1 
+Tháng 1/04 
+553 
+2572 
+H_Vũ_Thư(_xa_Vũ_Tiến , Vũ_Ðoài ) 
+12 
+Trà Vinh 
+1 
+0 
+0 
+1 
+Tháng 1/04 
+233 
+1567 
+13 
+Thái_Nuyên 
+1 
+0 
+0 
+0 
+27/1/04 
+953 
+Số gà khoẻ_mạnh tự nguyên xử_lý 
+14 
+Hà_Nội 
+0 
+0 
+0 
+0 
+17/1/04 
+10831 
+15 
+Bắc_Ninh 
+1 
+0 
+0 
+1 
+23/1/04 
+35 
+165 
+Xã nhgiã Ðạo , H_Thuận_Thành 
+Tổng_cộng 
+19 
+0 
+12 
+8 
+4180 
+178864 

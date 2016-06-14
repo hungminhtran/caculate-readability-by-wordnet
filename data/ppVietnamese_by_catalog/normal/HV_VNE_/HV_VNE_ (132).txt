@@ -1,0 +1,9 @@
+Nguy_cơ rò_rỉ thông_tin trong doanh_nghiệp qua thẻ_nhớ 
+Đa_số các công_ty đều thừa_nhận thiết_bị sao lưu dữ_liệu như máy_nghe nhạc MP3 hay thẻ_nhớ được phép sử_dụng rộng_rãi trong mạng , nhưng lại không đưa ra bất_cứ quy_định nào để quản_lý chúng . 
+Theo điều_tra của hãng nghiên_cứu PointSec ( Anh ) , máy_nghe nhạc và thẻ_nhớ đang xâm_phạm nghiêm_trọng đến bảo_mật trong mỗi công_ty . 
+Thông_thường , mọi người có_thể dùng những thiết_bị kiểu này tự_do trong giờ làm_việc mà không cần sự cho_phép của cấp_trên . 
+Thẻ_nhớ được nhân_viên mang đi khắp phòng và cắm vào cổng USB để sao_chép bài hát có sẵn trong máy_tính của người khác . 
+Tuy_nhiên , sự lỏng_lẻo này sẽ tiếp_tay cho bất_cứ ai cũng có_thể lưu toàn_bộ thông_tin trên máy_tính nào đó vào trong thẻ_nhớ dung_lượng lớn một_cách có chủ_ý hết_sức nhanh_chóng . 
+Rõ_ràng , trong khi nhiều hãng đã tiêu tốn cả núi tiền để bảo_vệ mình thoát khỏi nguy_cơ từ virus , spyware , spam ... , thì họ lại quên lời cảnh_báo muôn_thuở của các chuyên_gia bảo_mật rằng hiểm_hoạ lớn nhất bao_giờ cũng nằm chính bên trong mỗi công_ty . 
+Một_số hãng đã thực_hiện nhiều biện_pháp để ngăn_cản việc sao_chép dữ_liệu từ máy_tính vào thẻ_nhớ và máy_nghe nhạc , nhưng cấm dùng những thiết_bị này là vô_lý và sẽ không_thể thực_hiện được trên thực_tế . 
+Do đó , các công_ty cần trang_bị những công_cụ , ứng_dụng tinh_vi có_thể ghi lại hoạt_động của người trong mạng nội_bộ để tránh thất_thoát dữ_liệu , rò_rỉ thông_tin hoặc nhiễm virus . 

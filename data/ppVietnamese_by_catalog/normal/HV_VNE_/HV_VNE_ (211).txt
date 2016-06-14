@@ -1,0 +1,10 @@
+Microsoft loay_hoay xử_lý lỗi mới trong Internet Explorer 
+Nhà cung_cấp hệ_điều_hành Windows đang cố_gắng tìm cách khắc_phục một lỗ_hổng trong trình_duyệt web của họ với nguy_cơ cho_phép hacker giành quyền truy_nhập máy_tính mục_tiêu từ xa thông_qua các trang web riêng . 
+Hiện_tại vẫn chưa có bản vá lỗi nào được phát_hành mặc_dù nhiều chuyên_gia bảo_mật trấn_an rằng mức_độ nguy_hiểm của lỗ_hổng này - liên_quan đến thành_phần DDS Library_Shape_Control_COM_object ( msdds . dll ) - không lớn lắm . 
+Nếu người sử_dụng máy_tính không duyệt phải trang web của tin_tặc thì PC của họ không bị tấn_công , Gerhard_Eschelbeck , Giám_đốc công_nghệ hãng bảo_mật Qualys ( Mỹ ) , cho_biết . 
+Trong khi đó , Stephen_Toulouse , Giám_đốc Trung_tâm an_ninh của Microsoft , thì khẳng_định thành_phần cơ_sở tạo ra nguy_cơ trên không được tích_hợp mặc_định trong hệ_điều_hành Windows . 
+Microsoft tuyên_bố những PC chạy Visual_Studio 2002 không có bản nâng_cấp Service_Pack 1 , hoặc dùng Office_2003 với Service_Pack 3 , có_thể bị tấn_công . 
+Tuy_nhiên , họ cũng khẳng_định đến nay chưa có khách_hàng nào thông_báo máy_tính bị khai_thác . 
+Người truy_cập mạng bằng trình_duyệt Internet_Explorer được khuyến_cáo nên cẩn_thận khi mở những trang web từ đường link trong e-mail . 
+Thông_báo về khả_năng lợi_dụng lỗi Internet_Explorer nói trên được một nhóm chuyên_gia bảo_mật Pháp công_bố trước khi Microsoft ra khuyến_cáo . 
+Do đó , hãng phần_mềm Mỹ chỉ_trích đây là hành_động rất thiếu trách_nhiệm vì đã đặt máy_tính của nhiều người vào nguy_cơ bị lợi_dụng . 

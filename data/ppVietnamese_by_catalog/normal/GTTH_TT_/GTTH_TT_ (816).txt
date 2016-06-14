@@ -1,0 +1,22 @@
+Graphics_Converter_Pro : Chuyển_đổi các định_dạng file ảnh dùng trong đồ_hoạ 
+Ngoài_ra , chương_trình còn cung_cấp 50 bộ lọc và 12 hiệu_ứng khác nhau , chắc_chắn bạn sẽ một công_cụ xử_lý ảnh tuyệt_vời . 
+Chương_trình tương_thích mọi Windows , tải bản dùng thử tại www . graphics-converter-pro . com hay tìm mua trên các đĩa CD phần_mềm tổng_hợp hiện có bán trên thị_trường . 
+Sau khi cài_đặt vào máy , bạn truy_cập vào Start_&gt ; programs &gt ; Graphics_Converter_Pro_&gt ; Graphics_Converter_Pro để mở chương_trình ra . 
+Tiếp đến bạn cần thiết_lập một_vài thông_số trước khi sử_dụng chương_trình bằng cách truy_cập vào menu Options_&gt ; Conversion_Options . 
++ Tại thẻ Convert , bạn chọn các định_dạng ảnh xuất ra khi tiến_hành chuyển_đổi trong phần Export to , rồi thiết_lập số điểm_ảnh trong phần Bits per pixels , chất_lượng ảnh xuất ra trong phần Quality ( nên chọn chất_lượng ảnh xuất ra cao nhất để ảnh không bị bể ) , mục Sub type cho_phép bạn chọn chuẩn nén ( tuỳ theo định_dạng ảnh sẽ có những chuẩn khác nhau ) . 
+Chỉ_định thư_mục lưu file sau khi xuất trong phần Target_Folder . 
++ Thẻ list : Cung_cấp danh_sách các file ảnh mà chương_trình hỗ_trợ , nếu muốn mở các file ảnh bằng chương_trình này , bạn đánh_dấu kiểm chọn file ảnh hoặc nhấn Select_All để chọn hết các định_dạng ảnh . 
++ Thẻ_Capture : Thiết_lập chiều rộng và chiều cao ảnh khi sử_dụng công_cụ bắt hình . 
+Sau khi thiết_lập xong , bạn nhấn Ok để hoàn_tất việc xác_lập . 
+1 . Chuyển_đổi định_dạng ảnh 
+Trong giao_diện chính của chương_trình , khung bên trái bạn duyệt đến thư_mục chứa các hình_ảnh muốn chuyển_đổi định_dạng . 
+Khung bên phải sẽ hiển_thị tương_ứng các hình_ảnh có trong thư_mục đó . 
+Bạn đánh_dấu kiểm và chọn các hình_ảnh muốn chuyển_đổi , sau đó vào menu Convert chọn Convert current image để chuyển_đổi file ảnh hiện_hành , chọn Convert selected files nếu muốn chuyển_đổi các hình_ảnh đã được đánh_dấu chọn , hoặc chọn Convert all graphic file nếu muốn chuyển_đổi tất_cả các hình_ảnh có trong danh_sách . 
+Một thông_báo sẽ xuất_hiện sau khi thực_hiện xong quá_trình chuyển_đổi định_dạng , bạn nhấn nút Done để hoàn_tất . 
+Lưu_ý : Bạn phải xác_lập lại các thông_số trong hộp_thoại Convert_Options trong trường_hợp bạn muốn thực_hiện việc chuyển_đổi khác nhau cho từng đối_tượng ảnh . 
+2 . Sử_dụng các bộ lọc của chương_trình 
+Chương_trình phân ra 6 chủ_đề bao_gồm các bộ lọc Color ( màu_sắc ) , Outline ( chỉnh_sửa đường viền ảnh ) , Distort ( làm biến_dạng ảnh ) , Stylize , Buttonize và Others . 
+Để áp bộ lọc tạo hiệu_ứng cho ảnh , bạn chọn ảnh cần xử_lý , tiếp đến vào menu Filter , chọn một trong những chủ_đề trên , rồi chọn tiếp các hiệu_ứng có trong mỗi chủ_đề . 
+Ảnh sau khi áp_dụng bộ lọc nằm ở khung cuối_cùng trong giao_diện chính của chương_trình . 
+Nếu cảm_thấy không hài_lòng ảnh đã tạo , bạn nhấn nút Reload để bắt_đầu chỉnh_sửa lại . 
+Ngoài_ra , bạn cũng có_thể tham_khảo tạo hiệu_ứng cho ảnh trong menu Effect . 

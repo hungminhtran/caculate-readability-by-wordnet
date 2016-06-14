@@ -1,0 +1,43 @@
+Chia_sẻ qua mạng với Windows_Messenger 
+Thông_thường ở Việt_Nam hầu_như đa_số đã quen dùng Yahoo_Messenger để chat , chia_sẻ tập_tin ... 
+Tuy_nhiên , Khi bạn cài_đặt Windows_XP thì kèm theo đã có chương_trình Windows_Messenger ( WM ) . 
+Ngoài chức_năng " chat " , gởi kèm tập_tin , gởi webcam ... 
+như các chương_trình khác , WM còn hỗ_trợ thêm các chức_năng : chia_sẻ màn_hình , chương_trình ứng_dụng , xài chung một bảng trắng để vẽ .... 
+Bắt_đầu với WM 
+Hộp_thoại đăng_nhập WM , bạn có_thể đăng_nhập hay tạo một tài_khoản để đăng_nhập ở đây . 
+Như thông_thường , để đăng_nhập WM bạn cũng phải có tài_khoản ( Windows gọi là Passport ) . 
+Nếu bạn chưa có tài_khoản đăng_nhập WM , bạn cần đăng_ký , cách_thức đăng_ký rất đơn_giản , bạn chỉ cần nhập vào một E-mail của mình , mật_khẩu đăng_nhập , chọn câu hỏi bí_mật , ... 
+như thông_thường khi đăng_ký một tài_khoản trên mạng . 
+Bạn có_thể đăng_ký tài_khoản WM bằng cách vào Flie\Sign_In as trên cửa_sổ WM và click Get_a_.NET_Passport ở hộp_thoại đăng_nhập . 
+Bây_giờ , bạn có_thể đăng_nhập WM và sử_dụng các chức_năng của nó . 
+Chia_sẻ màn_hình qua mạng 
+Cửa số chat của người kia , trên đó có các tuỳ_chọn chia_sẻ màn_hình , tập_tin ... 
+Dĩ_nhiên là để sử_dụng các chương_trình máy của bạn và người kia đều đã đăng_nhập vào WM , bạn click chuột vào người nào mà bạn muốn chia_sẻ màn_hình , hộp_thoại của người đó sẽ hiện lên và bạn chọn : Start_Remote_Assistance . 
+Khi đó của sổ chat của người bên kia sẽ hiện lên lời mời chia_sẻ màn_hình của bạn và nhấn Accept ( chấp_nhận ) , sau đó bạn sẽ nhận được lời xác_nhận chia_sẻ màn_hình một lần nữa và bạn chọn Yes để đồng_ý . 
+Ngay sau đó , những gì trên màn_hình của bạn sẽ hiện lên trong một cửa_sổ riêng_biệt ở máy_tính mà bạn chia_sẻ . 
+Chia_sẻ chương_trình 
+Cửa_sổ chia_sẻ chương_trình , trên đây bạn có_thể đánh_dấu các chương_trình cần chia_sẻ . 
+Một tính_năng khá độc_đáo nữa của WM là chức_năng chia_sẻ trình ứng_dụng , nghĩa_là khi bạn sử_dụng chức_năng này thì máy_tính của bạn sẽ được chuyển quyền kiểm_soát qua cho máy_tính được chia_sẻ . 
+Lúc này máy_tính được chia_sẻ có_thể sử_dụng tất_cả các chương_trình trên máy bạn đã chia_sẻ y_hệt như xài trên chính máy_tính đó : chỉnh_sửa , xoá .... 
+Cách làm như sau : Bạn bấm vào Start_Application_Sharing , bên kia sẽ chấp_nhận bằng cách ấn Accept . 
+Khi này cửa_sổ chia_sẻ chương_trình sẽ hiện lên như hình bên . 
+Bạn chọn chương_trình cần chia_sẻ bên hộp bên trái và click vào nút Share bên phải . 
+Sau đó , bạn ấn vào nút Allow control bên dưới để máy bên kia có_thể sử_dụng , điều_khiển chương_trình đượcchia sẻ . 
+Lúc này máy bên kia vào Control\Request control để xin quyền điều_khiển chương_trình . 
+Bạn bấm chọn Accept ở cửa_sổ xác_nhận hoặc Reject nếu không chấp_nhận . 
+Cửa_sổ quản_lý của máy được chia_sẻ . 
+Trên " menu " có các mục để yêu_cầu được chia_sẻ , cửa_sổ quản_lý các chương rình ... 
+Nếu bạn chấp_nhận thì máy_tính của bạn đã chuyển quyền đều khiển các chương_trình đã chia_sẻ cho máy kia và bên màn_hình của máy bạn sẽ hiển thì tất_cả những gì bên kia đang thực_hiện . 
+Lúc này , máy bên kia sẽ hiện lên cửa_sổ share chương_trình riêng_biệt . 
+Điều cần lưu_ý là khi bạn đã chia_sẻ thì bạn không_thể sử_dụng máy_tính của mình vì đã chuyển quyền kiểm_soát , điều_khiển ( control ) cho máy bên kia . 
+Nếu bạn sử_dụng máy_tính của mình hoặc máy bên kia chọn " Control\Release control " thì sẽ ngắt quyền điều_khiển của máy được chia_sẻ . 
+Ở mục Windows sẽ chứa danh_sách các chương_trình được chia_sẻ , máy được chia_sẻ có_thể lựa_chọn chương_trình để sử_dụng . 
+Dùng chung bảng trắng 
+Cửa_sổ Whiteboard . 
+Mặc_dù ở xa nhau nhưng các bạn có_thể vẽ chung một bức tranh thông_qua Whiteboard_Với chức_năng này , máy của bạn và máy được chia_sẻ có_thể sử_dụng chung một bảng trắng . 
+Nghĩa_là trên cùng một bảng này , cả hai có_thể thao_tác chung , thu ngắn khoảng_cách , giống như bạn và người đó đang ngồi cạnh nhau và cùng viết , vẽ lên một tờ giấy trắng . 
+Để sử_dụng chương_trình này bạn click vào Start_Whiteboard Thao_tác mời và chấp_nhận tương_tự như trên , cửa_sổ bảng trắng trình_bày gần giồng như chương_trình Paint của Windows . 
+Tuy_nhiên , bạn có_thể copy và dán các hình_ảnh , text từ các trình ứng_dụng khác vào . 
+Tuy_nhiên , chương_trình còn có một_số hạn_chế : Phụ_thuộc đường truyền nên tốc_độ có_thể hơi chậm , chất_lượng hình_ảnh truyền từ máy này sang máy kia hơi kém ... 
+Whiteboard hỗ_trợ chức_năng hơi ít . 
+Mặc_dù như vậy nhưng nó vẫn rất hữu_ích khi bạn dùng để trao_đổi trực_tuyến với bạn_bè thông_qua mạng internet . 

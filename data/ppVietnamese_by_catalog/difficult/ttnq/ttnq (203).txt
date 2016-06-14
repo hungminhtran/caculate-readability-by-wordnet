@@ -1,0 +1,135 @@
+>> Tải văn_bản : Thông_tư 56/2012/TT-BGTVT quy_định về kiểm_định an_toàn kỹ_thuật và bảo_vệ môi_trường phương_tiện giao_thông cơ_giới đường_bộ Luật_sư tư_vấn pháp_luật trực_tuyến qua điện_thoại gọi : - 1900 6162 - ----------------------------------------------------------------------------------------------------------------------------- - BỘ GIAO_THÔNG VẬN_TẢI - ------ - Số : 56/2012/TT-BGTVT CỘNG HÒA XÃ_HỘI_CHỦ_NGHĨA VIỆT NAM Độc_lập - Tự_do - Hạnh_phúc - -------------- - Hà_Nội , ngày 27 tháng 12 năm 2012 THÔNG_TƯ QUY_ĐỊNH VỀ KIỂM_ĐỊNH AN_TOÀN KỸ_THUẬT VÀ BẢO_VỆ MÔI_TRƯỜNG PHƯƠNG_TIỆN GIAO_THÔNG CƠ_GIỚI ĐƯỜNG_BỘ Căn_cứ Luật Giao_thông đường_bộ ngày 13 tháng 11 năm 2008 ; Căn_cứ Nghị_định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ; Theo đề_nghị của Vụ tưởng Vụ Khoa_học - Công_nghệ và Cục_trưởng Cục Đăng_kiểm Việt_Nam ; Bộ_trưởng Bộ Giao_thông vận_tải ban_hành Thông_tư quy_định về kiểm_định an_toàn kỹ_thuật và bảo_vệ môi_trường phương_tiện giao_thông cơ_giới đường_bộ , Chương 1 . QUY_ĐỊNH CHUNG Điều 1 . 
+Phạm_vi điều_chỉnh 1 . Thông_tư này quy_định về kiểm_định an_toàn kỹ_thuật và bảo_vệ môi_trường phương_tiện giao_thông cơ_giới đường_bộ ( sau đây gọi chung là xe_cơ_giới ) . 
+2 . Thông_tư này không áp_dụng đối_với : a ) Xe mô_tô , xe_gắn_máy ; b ) Xe_cơ_giới của quân_đội , công_an sử_dụng vào mục_đích quốc_phòng , an_ninh . 
+Điều 2 . Đối_tượng áp_dụng Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân có liên_quan đến hoạt_động kiểm_định an_toàn kỹ_thuật và bảo_vệ môi_trường xe_cơ_giới . 
+Điều 3 . Giải_thích từ_ngữ Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau : 1 . 
+Kiểm_định an_toàn kỹ_thuật và bảo_vệ môi_trường phương_tiện giao_thông cơ_giới đường_bộ ( sau đây gọi tắt là kiểm_định ) là việc tiến_hành kiểm_tra , đánh_giá tình_trạng an_toàn kỹ_thuật và bảo_vệ môi_trường của xe_cơ_giới để chứng_nhận xe_cơ_giới có đủ điều_kiện tham_gia giao_thông . 
+2 . Giấy Chứng_nhận kiểm_định an_toàn kỹ_thuật và bảo_vệ môi_trường phương_tiện giao_thông cơ_giới đường_bộ ( sau đây gọi tắt là Giấy chứng_nhận ) là chứng_chỉ xác_nhận xe_cơ_giới đã được kiểm_tra theo quy_định , đủ điều_kiện tham_gia giao_thông trong lãnh_thổ nước Cộng_hoà xã_hội_chủ_nghĩa Việt_Nam và các nước mà Việt_Nam đã ký Hiệp_định công_nhận lẫn nhau Giấy chứng_nhận . 
+3 . Tem kiểm_định an_toàn kỹ_thuật và bảo_vệ môi_trường xe_cơ_giới ( sau đây gọi tắt là Tem kiểm_định ) là biểu_trưng cấp cho xe_cơ_giới đã kiểm_định đạt tiêu_chuẩn và được phép tham_gia giao_thông đường_bộ theo thời_hạn ghi trên Tem kiểm_định . 
+4 . Phiếu lập Hồ_sơ phương_tiện là bản ghi các thông_tin hành_chính , thông_số kỹ_thuật của xe_cơ_giới nguyên_thuỷ và cập_nhật những thay_đổi trong suốt quá_trình sử_dụng . 
+5 . Ấn_chỉ kiểm_định là phôi của các loại : Giấy chứng_nhận , Tem kiểm_định và Phiếu lập Hồ_sơ phương_tiện . 
+6 . Phiếu kiểm_định là bản kết_quả kiểm_tra và có ảnh chụp xe_cơ_giới khi kiểm_định . 
+7 . Đơn_vị đăng_kiểm xe_cơ_giới ( sau đây gọi tắt là Đơn_vị đăng_kiểm ) là tổ_chức có đủ điều_kiện theo quy_định được cấp Giấy chứng_nhận hoạt_động kiểm_định xe_cơ_giới . 
+8 . Hồ_sơ phương_tiện gồm Phiếu lập Hồ_sơ phương_tiện và các giấy_tờ liên_quan để quản_lý về hành_chính , thông_số kỹ_thuật khi kiểm_tra lần đầu và những thay_đổi trong suốt quá_trình sử_dụng xe_cơ_giới . 
+9 . Hồ_sơ kiểm_định gồm các giấy_tờ ghi_nhận kết_quả của mỗi lần kiểm_định , cấp Giấy chứng_nhận . 
+10 . Chủ xe là chủ phương_tiện , lái_xe hoặc người đưa xe_cơ_giới đến kiểm_định . 
+11 . Chương_trình Quản_lý kiểm_định là Hệ_thống ph��n mềm của Cục Đăng_kiểm Việt_Nam xây_dựng phục_vụ việc quản_lý thông_tin hành_chính , thông_số kỹ_thuật và kết_quả kiểm_định của xe_cơ_giới sử_dụng tại các Đơn_vị đăng_kiểm và Cục Đăng_kiểm Việt_Nam . 
+Điều 4 . Hành_vi bị nghiêm_cấm trong kiểm_định xe_cơ_giới 1 . 
+Kiểm_định không đầy_đủ nội_dung , không đúng quy_trình , quy_định . 
+2 . Kiểm_định khi thiết_bị kiểm_tra không bảo_đảm độ_chính_xác ; khi mạng máy_tính nội_bộ hư_hỏng ; kiểm_định ngoài dây_chuyền sai quy_định . 
+3 . Bố_trí người thực_hiện công_việc kiểm_định không đúng với quy_định . 
+4 . Ép_buộc chủ xe đưa xe đi sửa_chữa , bảo_dưỡng tại các cơ_sở sửa_chữa , bảo_dưỡng chỉ_định . 
+5 . Thu phí hoặc lệ_phí sai quy_định ; có hành_vi tiêu_cực , sách_nhiễu và nhận tiền hoặc quà biếu dưới mọi hình_thức . 
+6 . Kiểm_định và cấp Giấy chứng_nhận cho xe_cơ_giới hết niên_hạn sử_dụng ; kiểm_định khi đã có văn_bản đề_nghị không kiểm_định của cơ_quan quản_lý_nhà_nước có thẩm_quyền hoặc xe có vi_phạm đã cảnh_báo trên Chương_trình Quản_lý kiểm_định . 
+7 . Lập hồ_sơ giả cho phương_tiện , sử_dụng ấn_chỉ kiểm_định , in Giấy chứng_nhận , Tem kiểm_định , cấp chứng_chỉ và báo_cáo kết_quả kiểm_định không đúng quy_định . 
+Chương 2 . KIỂM_ĐỊNH XE_CƠ_GIỚI Điều 5 . 
+Giấy_tờ cần_thiết khi xe vào kiểm_định 1 . Kiểm_định lần đầu lập Hồ_sơ phương_tiện Khi kiểm_định lần đầu lập Hồ_sơ phương_tiện , chủ xe cần có các giấy_tờ sau : a ) Bản_chính giấy đăng_ký xe do cơ_quan nhà_nước có thẩm_quyền cấp hoặc một trong các giấy_tờ còn hiệu_lực sau để xuất_trình : - Bản_sao giấy đăng_ký xe có xác_nhận của ngân_hàng đang cầm giữ . 
+- Bản_sao giấy đăng_ký xe có xác_nhận của cơ_quan cho thuê tài_chính . 
+- Giấy hẹn cấp giấy đăng_ký xe ( có đủ chữ_ký , dấu ) . 
+b ) Bản_chính Giấy chứng_nhận bảo_hiểm trách_nhiệm dân_sự của chủ xe_cơ_giới còn hiệu_lực để xuất_trình . 
+c ) Giấy_tờ chứng_minh nguồn_gốc phương_tiện để nộp , gồm một trong các giấy_tờ sau : - Bản_chính Giấy chứng_nhận chất_lượng an_toàn kỹ_thuật và bảo_vệ môi_trường xe_cơ_giới nhập_khẩu hoặc Thông_báo miễn kiểm_tra chất_lượng an_toàn kỹ_thuật và bảo_vệ môi_trường xe_cơ_giới nhập_khẩu đối_với xe_cơ_giới nhập_khẩu ; bản_sao chụp Phiếu kiểm_tra chất_lượng xuất_xưởng đối_với xe_cơ_giới sản_xuất , lắp_ráp trong nước ; - Bản_sao có chứng_thực quyết_định tịch_thu bán_đấu_giá của cấp có thẩm_quyền đối_với xe_cơ_giới bị tịch_thu bán_đấu_giá và văn_bản thông_báo kết_quả kiểm_tra chất_lượng an_toàn kỹ_thuật và bảo_vệ môi_trường xe_cơ_giới của Cục Đăng_kiểm Việt_Nam đối_với trường_hợp xe_cơ_giới bị tịch_thu bán_đấu_giá chưa có dữ_liệu trên Chương_trình Quản_lý kiểm_định hoặc có dữ_liệu không phù_hợp . 
+- Bản_sao có chứng_thực quyết_định thanh_lý đối_với xe_cơ_giới của lực_lượng quốc_phòng , công_an ; bản_sao có chứng_thực quyết_định bán xe dự_trữ Quốc_gia . 
+d ) Bản_chính Giấy chứng_nhận chất_lượng an_toàn kỹ_thuật và bảo_vệ môi_trường xe_cơ_giới cải_tạo để nộp ( đối_với xe_cơ_giới mới cải_tạo ) . 
+đ ) Bản_chính Giấy chứng_nhận chất_lượng an_toàn kỹ_thuật của cần_cẩu , xi téc , bình nhiên_liệu CNG , LPG được trang_bị , lắp_đặt trên xe_cơ_giới được cấp theo quy_định tại Thông_tư số 35/2011/TT-BGTVT ngày 06 tháng 5 năm 2011 của Bộ_trưởng Bộ Giao_thông vận_tải quy_định về thủ_tục cấp Giấy chứng_nhận chất_lượng an_toàn kỹ_thuật thiết_bị xếp_dỡ , nồi_hơi , thiết_bị áp_lực sử_dụng trong giao_thông vận_tải để xuất_trình . 
+2 . Kiểm_định các lần tiếp_theo Khi xe_cơ_giới vào kiểm_định , chủ xe phải xuất_trình các giấy_tờ nêu tại điểm a , b , d và điểm đ khoản 1 Điều này . 
+Điều 6 . Nội_dung kiểm_định 1 . 
+Hạng_mục và phương_pháp kiểm_tra an_toàn kỹ_thuật và bảo_vệ môi_trường xe_cơ_giới khi kiểm_định thực_hiện theo quy_định tại Thông_tư số 10/2009/TT-BGTVT ngày 24 tháng 6 năm 2009 của Bộ_trưởng Bộ Giao_thông vận_tải quy_định về kiểm_tra an_toàn kỹ_thuật và bảo_vệ môi_trường phương_tiện giao_thông cơ_giới đường_bộ ( sau đây gọi tắt là Thông_tư số 10/2009/TT-BGTVT ) . 
+2 . Xe_cơ_giới phải được kiểm_định trên dây_chuyền kiểm_định . 
+Trường_hợp xe_cơ_giới quá_khổ , quá_tải không vào được dây_chuyền kiểm_định thì được kiểm_tra sự làm_việc và hiệu_quả phanh trên đường thử ngoài dây_chuyền . 
+Đối_với xe_cơ_giới hoạt_động tại các vùng đảo , vùng_sâu , vùng_xa không đủ điều_kiện đưa xe tới Đơn_vị đăng_kiểm thì được kiểm_định ngoài Đơn_vị đăng_kiểm ; trình_tự , cách_thức thực_hiện theo quy_định tại khoản 3 Điều 8 của Thông_tư này . 
+Điều 7 . Đơn_vị đăng_kiểm thực_hiện kiểm_định 1 . 
+Xe_cơ_giới mới đăng_ký biển số , khi kiểm_định lần đầu để lập Hồ_sơ phương_tiện thực_hiện tại Đơn_vị đăng_kiểm trực_thuộc Sở Giao_thông vận_tải hoặc Cục Đăng_kiểm Việt_Nam trên cùng địa_phương với địa_chỉ chủ xe trong giấy đăng_ký xe . 
+2 . Xe_cơ_giới kiểm_định các lần tiếp_theo ( kể_cả có bổ_sung , sửa_đổi Hồ_sơ phương_tiện ) được thực_hiện tại bất_kỳ Đơn_vị đăng_kiểm nào trên cả nước . 
+Điều 8 . Trình_tự , cách_thức thực_hiện 1 . 
+Lập Hồ_sơ phương_tiện Xe_cơ_giới kiểm_định lần đầu , nếu có đủ giấy_tờ theo quy_định tại khoản 1 , Điều 5 của Thông_tư này thì Đơn_vị đăng_kiểm kiểm_tra , lập Phiếu lập Hồ_sơ phương_tiện theo mẫu quy_định tại Phụ_lục I của Thông_tư này và nhập thông_tin vào Chương_trình Quản_lý kiểm_định . 
+2 . Kiểm_định tại dây_chuyền kiểm_định a ) Tổ_chức , cá_nhân đưa xe_cơ_giới và các giấy_tờ theo quy_định tại Điều 5 của Thông_tư này đến Đơn_vị đăng_kiểm để kiểm_định . 
+b ) Đơn_vị đăng_kiểm tiếp_nhận , kiểm_tra , đối_chiếu hồ_sơ với dữ_liệu trên Chương_trình Quản_lý kiểm_định . 
+Nếu không đầy_đủ hoặc không hợp_lệ thì hướng_dẫn chủ xe hoàn_thiện lại ; nếu đầy_đủ , hợp_lệ thì thu phí và kiểm_định . 
+c ) Xe_cơ_giới kiểm_định đạt tiêu_chuẩn , Đơn_vị đăng_kiểm thu lệ_phí cấp Giấy chứng_nhận . 
+Trả_Giấy chứng_nhận ; Hoá_đơn thu phí đăng_kiểm , lệ_phí cấp Giấy chứng_nhận cho chủ xe và dán Tem kiểm_định cho phương_tiện . 
+Nếu xe_cơ_giới chỉ có Giấy hẹn cấp giấy đăng_ký xe , Đơn_vị đăng_kiểm thực_hiện kiểm_định , nếu đạt thì chỉ dán Tem kiểm_định và cấp Giấy hẹn trả Giấy chứng_nhận cho chủ xe theo mẫu quy_định tại Phụ_lục II của Thông_tư này . 
+Khi chủ xe xuất_trình giấy đăng_ký xe thì Đơn_vị đăng_kiểm trả Giấy chứng_nhận . 
+d ) Xe_cơ_giới kiểm_định có kết_quả không đạt , Đơn_vị đăng_kiểm thông_báo hạng_mục kiểm_tra không đạt của xe cho chủ xe biết để sửa_chữa , khắc_phục để kiểm_định lại , đồng_thời thông_báo phương_tiện không đạt trên Chương_trình Quản_lý kiểm_định . 
+3 . Kiểm_định ngoài Đơn_vị đăng_kiểm a ) Chủ xe có văn_bản đề_nghị nêu rõ lý_do kiểm_định ngoài Đơn_vị đăng_kiểm kèm theo danh_sách xe_cơ_giới đề_nghị kiểm_định gửi Đơn_vị đăng_kiểm . 
+b ) Đơn_vị đăng_kiểm kiểm_tra , xem_xét theo đề_nghị của chủ xe , nếu đúng đối_tượng và đủ điều_kiện đường thử thì trong vòng 5 ngày làm_việc gửi văn_bản đề_nghị kiểm_định ngoài Đơn_vị đăng_kiểm kèm theo danh_sách xe_cơ_giới về Cục Đăng_kiểm Việt_Nam qua đường bưu_điện . 
+c ) Cục Đăng_kiểm Việt_Nam kiểm_tra , xem_xét hồ_sơ , trong vòng 5 ngày làm_việc có văn_bản hướng_dẫn gửi Đơn_vị đăng_kiểm để kiểm_định . 
+d ) Đơn_vị đăng_kiểm tiến_hành kiểm_định xe_cơ_giới và thực_hiện các quy_định tại điểm c , d khoản 2 Điều này . 
+4 . Ghi_nhận bổ_sung , sửa_đổi Hồ_sơ phương_tiện khi xe_cơ_giới có thay_đổi thông_tin hành_chính , thông_số kỹ_thuật . 
+Chủ xe đưa xe_cơ_giới cùng các giấy_tờ theo quy_định tại Điều 5 của Thông_tư này và tài_liệu kỹ_thuật liên_quan của xe_cơ_giới đến các Đơn_vị đăng_kiểm trên cả nước để kiểm_định và ghi_nhận thay_đổi . 
+a ) Trường_hợp xe_cơ_giới đến Đơn_vị đăng_kiểm quản_lý Hồ_sơ phương_tiện : Đơn_vị đăng_kiểm kiểm_tra giấy_tờ và đối_chiếu với Chương_trình Quản_lý kiểm_định , nếu đầy_đủ , họp lệ thì ghi_nhận bổ_sung , sửa_đổi vào Hồ_sơ phương_tiện , Chương_trình Quản_lý kiểm_định và thực_hiện kiểm_định theo quy_định ; nếu không đầy_đủ hoặc không hợp_lệ thì hướng_dẫn chủ xe hoàn_thiện lại . 
+b ) Trường_hợp xe_cơ_giới đến Đơn_vị đăng_kiểm không quản_lý Hồ_sơ phương_tiện : - Đơn_vị đăng_kiểm kiểm_tra giấy_tờ và đối_chiếu với Chương_trình Quản_lý kiểm_định . 
+Nếu đầy_đủ , hợp_lệ thì kiểm_định và nhập yêu_cầu bổ_sung , sửa_đổi Hồ_sơ phương_tiện vào Chương_trình Quản_lý kiểm_định , đồng_thời gửi giấy_tờ liên_quan đến nội_dung bổ_sung , thay_đổi ( trực_tiếp hoặc qua đường bưu_điện ) đến Đơn_vị đăng_kiểm quản_lý Hồ_sơ phương_tiện và lưu Bản_sao vào Hồ_sơ kiểm_định . 
+- Đơn_vị đăng_kiểm quản_lý Hồ_sơ phương_tiện kiểm_tra giấy_tờ và yêu_cầu bổ_sung , sửa_đổi Hồ_sơ phương_tiện trên Chương_trình quản_lý kiểm_định . 
+Nếu đầy_đủ , hợp_lệ thì chấp_nhận bổ_sung , sửa_đổi Hồ_sơ phương_tiện và lưu giấy_tờ vào Hồ_sơ phương_tiện . 
+Nếu không đầy_đủ hoặc không hợp_lệ thì yêu_cầu Đơn_vị đăng_kiểm đã kiểm_định sửa_chữa khắc_phục . 
+Chương 3 . HỒ_SƠ , ẤN_CHỈ KIỂM_ĐỊNH Điều 9 . 
+Giấy chứng_nhận , Tem kiểm_định 1 . Xe_cơ_giới kiểm_định đạt tiêu_chuẩn quy_định được cấp Giấy chứng_nhận và Tem kiểm_định theo mẫu quy_định tại Phụ_lục III của Thông_tư này . 
+Giấy chứng_nhận , Tem kiểm_định in trên phôi do Cục Đăng_kiểm Việt_Nam thống_nhất phát_hành . 
+Giấy chứng_nhận , Tem kiểm_định phải có cùng một seri và có nội_dung phù_hợp với Hồ_sơ phương_tiện . 
+2 . Thời_hạn hiệu_lực của Giấy chứng_nhận và Tem kiểm_định cấp theo chu_kỳ kiểm_định quy_định tại Thông_tư số 10/2009/TT-BGTVT nhưng không vượt quá ngày hết hạn của giấy đăng_ký xe hoặc ngày xe_cơ_giới hết niên_hạn sử_dụng . 
+3 . Giấy chứng_nhận được giao cho chủ xe để mang theo khi tham_gia giao_thông , Tem kiểm_định được dán tại góc trên bên phải , mặt trong kính chắn gió phía trước xe_cơ_giới . 
+Trường_hợp xe_cơ_giới không có kính chắn gió phía trước , Tem kiểm_định được dán vào khung xe ở phía sau , gần vị_trí lắp biển số đăng_ký . 
+4 . Giấy chứng_nhận , Tem kiểm_định bị mất , hư_hỏng , rách_nát thì chủ xe phải đưa xe đi kiểm_định để cấp lại . 
+5 . Khi phát_hiện hồ_sơ do chủ xe cung_cấp bị làm giả hoặc sửa_chữa , tẩy_xoá ; Giấy chứng_nhận , Tem kiểm_định đã cấp không phù_hợp với xe_cơ_giới kiểm_định , các Đơn_vị đăng_kiểm phải thông_báo cho cơ_quan_chức_năng và có trách_nhiệm thu_hồi Giấy chứng_nhận , Tem kiểm_định đã cấp ( nếu còn hiệu_lực ) . 
+6 . Giấy chứng_nhận và Tem kiểm_định hết hiệu_lực khi : a ) Xe_cơ_giới đã được cấp Giấy chứng_nhận và Tem kiểm_định mới ; b ) Đã có khai_báo mất của Chủ xe ; c ) Đã có thông_báo thu_hồi của các Đơn_vị đăng_kiểm ; d ) Xe_cơ_giới bị tai_nạn đến mức không đảm_bảo an_toàn kỹ_thuật và bảo_vệ môi_trường theo quy_định . 
+Điều 10 . Trình_tự , thủ_tục cấp_phát ấn_chỉ kiểm_định 1 . 
+Đơn_vị đăng_kiểm lập và gửi Phiếu đề_nghị cung_cấp hồ_sơ , ấn_chỉ kiểm_định theo mẫu quy_định tại Phụ_lục IV của Thông_tư này về Cục Đăng_kiểm Việt_Nam từ ngày 15 đến ngày 20 hàng tháng . 
+2 . Cục Đăng_kiểm Việt_Nam căn_cứ vào nhu_cầu và năng_lực của các Đơn_vị đăng_kiểm để gửi ấn_chỉ kiểm_định qua đường bưu_chính hoặc cấp trực_tiếp cho Đơn_vị đăng_kiểm từ ngày 23 đến ngày 28 hàng tháng . 
+Điều 11 . Báo_cáo công_tác kiểm_định Các Đơn_vị đăng_kiểm gửi báo_cáo công_tác kiểm_định về Cục Đăng_kiểm Việt_Nam như sau : 1 . 
+Báo_cáo định_kỳ gửi vào ngày làm_việc đầu_tiên của tháng tiếp_theo gồm : a ) Báo_cáo kết_quả thực_hiện công_tác kiểm_định và Báo_cáo sử_dụng ấn_chỉ kiểm_định đã in từ Chương_trình Quản_lý kiểm_định . 
+b ) Báo_cáo kiểm_kê ấn_chỉ kiểm_định theo mẫu quy_định tại Phụ_lục V của Thông_tư này . 
+2 . Báo_cáo kết_quả kiểm_định bằng file dữ_liệu truyền về Chương_trình Quản_lý kiểm_định theo hướng_dẫn của Cục Đăng_kiểm Việt_Nam . 
+3 . Tháng 08 hàng năm , báo_cáo danh_sách ô_tô sẽ hết niên_hạn sử_dụng từ ngày 01 tháng 01 của năm tiếp_theo theo mẫu quy_định tại Phụ_lục VI của Thông_tư này . 
+4 . Trước ngày 10 tháng 01 hàng năm , báo_cáo danh_sách ô_tô đã hết niên_hạn sử_dụng từ 01 tháng 01 của năm đó theo mẫu quy_định tại Phụ_lục VI của Thông_tư này . 
+5 . Báo_cáo đột_xuất khi có yêu_cầu của cơ_quan có thẩm_quyền . 
+Điều 12 . Lưu_trữ Hồ_sơ , dữ_liệu kiểm_định Đơn_vị đăng_kiểm phải quản_lý , lưu_trữ Hồ_sơ phương_tiện , Hồ_sơ kiểm_định và dữ_liệu kiểm_định . 
+Hồ_sơ lưu_trữ yêu_cầu phải đầy_đủ , được bảo_quản tốt , dễ theo_dõi , dễ kiểm_tra . 
+1 . Hồ_sơ phương_tiện gồm : a ) Phiếu lập Hồ_sơ phương_tiện . 
+b ) Giấy_tờ nêu tại điểm c , khoản 1 , Điều 5 Thông_tư này . 
+c ) Các_Giấy chứng_nhận chất_lượng an_toàn kỹ_thuật và bảo_vệ môi_trường xe_cơ_giới cải_tạo ( đối_với xe_cơ_giới cải_tạo ) . 
+d ) Hai ảnh tổng_thể rõ biển số của xe_cơ_giới chụp góc chéo khoảng 45° từ phía trước bên cạnh xe và phía sau góc đối_diện ( kể_cả khi xe_cơ_giới thay_đổi biển số hoặc cải_tạo thay_đổi hình_dáng bố_trí chung ) . 
+đ ) Bản sao_chụp Giấy chứng_nhận , giấy đăng_ký xe khi lập Phiếu lập Hồ_sơ phương_tiện và khi có thay_đổi thông_tin hành_chính , kỹ_thuật . 
+e ) Các giấy_tờ khác ghi_nhận những thay_đổi thông_tin hành_chính , thông_số kỹ_thuật trong quá_trình sử_dụng của xe_cơ_giới ( nếu có ) . 
+2 . Hồ_sơ kiểm_định gồm : a ) Các_Phiếu kiểm_định ; b ) Bản sao_chụp các giấy_tờ : giấy đăng_ký xe , Giấy chứng_nhận cấp mới cho xe_cơ_giới . 
+c ) Các giấy_tờ liên_quan đến bổ_sung , sửa_đổi Hồ_sơ phương_tiện không do Đơn_vị quản_lý . 
+3 . Dữ_liệu kiểm_định được lưu_trữ tại Đơn_vị đăng_kiểm và trên Cơ_sở_dữ_liệu của Chương_trình Quản_lý kiểm_định . 
+4 . Thời_gian lưu_trữ a ) Hồ_sơ phương_tiện : Lưu trong suốt quá_trình sử_dụng của xe_cơ_giới . 
+Đối_với phương_tiện hết niên_hạn sử_dụng , huỷ sau 03 năm kể từ khi phương_tiện hết niên_hạn . 
+b ) Hồ_sơ kiểm_định : Lưu_trữ trong thời_hạn 3 năm kể từ ngày kiểm_định . 
+Chương 4 . TRÁCH_NHIỆM CỦA CHỦ XE Điều 13 . 
+Trách_nhiệm của chủ xe Ngoài việc thực_hiện các nội_dung trong Thông_tư này chủ xe còn có trách_nhiệm thực_hiện các quy_định sau đây : 1 . Không được thay_đổi tổng_thành , linh_kiện , phụ_kiện xe_cơ_giới để đạt tiêu_chuẩn kỹ_thuật khi đi kiểm_định hoặc làm giả , tự bóc , dán , tẩy_xoá , sửa_đổi các nội_dung của chứng_chỉ kiểm_định . 
+2 . Cung_cấp chính_xác các thông_tin cần_thiết có liên_quan tới nội_dung kiểm_định , nội_dung quản_lý hành_chính , quản_lý thông_số kỹ_thuật của xe_cơ_giới kể_cả việc cung_cấp các hồ_sơ , tài_liệu có liên_quan cho các Đơn_vị đăng_kiểm . 
+3 . Nộp lại Giấy chứng_nhận và Tem kiểm_định khi có thông_báo thu_hồi của Đơn_vị đăng_kiểm . 
+Chương 5 . TRÁCH_NHIỆM CỦA CƠ_QUAN QUẢN_LÝ_NHÀ_NƯỚC Điều 14 . 
+Cục Đăng_kiểm Việt_Nam 1 . Tổ_chức hướng_dẫn , chỉ_đạo chuyên_môn nghiệp_vụ về kiểm_định xe_cơ_giới và kiểm_tra thực_hiện Thông_tư này . 
+2 . Xây_dựng , quản_lý , hướng_dẫn sử_dụng thống_nhất Chương_trình Quản_lý kiểm_định ; nối mạng truyền số_liệu và quản_lý dữ_liệu xe_cơ_giới kiểm_định của các Đơn_vị đăng_kiểm . 
+3 . Thực_hiện việc kiểm_tra , đánh_giá sự phù_hợp về điều_kiện và tiêu_chuẩn theo quy_định của Bộ Giao_thông vận_tải đối_với các Đơn_vị đăng_kiểm . 
+4 . Tổ_chức đào_tạo , tập_huấn về chuyên_môn nghiệp_vụ kiểm_định xe_cơ_giới . 
+Đánh_giá , bổ_nhiệm , miễn_nhiệm , cấp và thu_hồi thẻ đối_với đăng_kiểm_viên . 
+5 . Thực_hiện kiểm_tra , giám_sát thường_xuyên , định_kỳ và đột_xuất hoạt_động kiểm_định của các Đơn_vị đăng_kiểm . 
+Xử_lý sai_phạm của cá_nhân và Đơn_vị đăng_kiểm xe_cơ_giới theo quy_định . 
+6 . In_ấn , quản_lý , cấp_phát các loại ấn_chỉ , chứng_chỉ kiểm_định . 
+7 . Báo_cáo kết_quả thực_hiện công_tác kiểm_định theo quy_định . 
+Điều 15 . Sở Giao_thông vận_tải 1 . 
+Kiểm_tra , giám_sát hoạt_động và xử_lý sai_phạm của các cá_nhân , Đơn_vị đăng_kiểm xe_cơ_giới trực_thuộc Sở . 
+Phối_hợp với Cục Đăng_kiểm Việt_Nam kiểm_tra hoạt_động của các Đơn_vị đăng_kiểm xe_cơ_giới tại địa_phương . 
+2 . Đề_nghị Chủ_tịch Uỷ_ban_nhân_dân cấp tỉnh bổ_nhiệm hoặc bổ_nhiệm theo uỷ_quyền chức_danh giám_đốc , phó_giám_đốc các Đơn_vị đăng_kiểm trực_thuộc Sở theo quy_định tại Thông_tư số 11/2009/TT-BGTVT ngày 24 tháng 6 năm 2009 của Bộ_trưởng Bộ Giao_thông vận_tải quy_định điều_kiện đối_với Trung_tâm đăng_kiểm phương_tiện giao_thông cơ_giới đường_bộ . 
+Điều 16 . Đơn_vị đăng_kiểm xe_cơ_giới 1 . 
+Thực_hiện việc kiểm_định và cấp Giấy chứng_nhận cho xe_cơ_giới tham_gia giao_thông đường_bộ theo quy_định . 
+Người đứng đầu Đơn_vị đăng_kiểm và đăng_kiểm_viên trực_tiếp thực_hiện kiểm_định phải chịu trách_nhiệm về kết_quả kiểm_định . 
+2 . Công_khai trình_tự , thủ_tục , nội_dung , quy_trình , tiêu_chuẩn , quy_định , phí , lệ_phí và thời_gian làm_việc . 
+3 . Thực_hiện chế_độ lưu_trữ , báo_cáo theo quy_định . 
+Truyền số_liệu kiểm_định hàng ngày , bảo_quản mật_khẩu và cập_nhật số_liệu cảnh_báo từ mạng dữ_liệu Cục Đăng_kiểm Việt_Nam . 
+4 . Chấp_hành và tạo điều_kiện thuận_lợi cho việc thanh_tra , kiểm_tra , giám_sát hoạt_động kiểm_định của cơ_quan_chức_năng . 
+5 . Quản_lý , giám_sát hoạt_động kiểm_định , thường_xuyên giáo_dục đạo_đức nghề_nghiệp đối_với cán_bộ , đăng_kiểm_viên và nhân_viên , chống tiêu_cực trong hoạt_động kiểm_định của đơn_vị . 
+6 . Kiểm_tra , bảo_dưỡng , sửa_chữa để duy_trì độ_chính_xác , tình_trạng hoạt_động của thiết_bị , dụng_cụ kiểm_định theo quy_định . 
+Báo_cáo Cục Đăng_kiểm Việt_Nam và Sở Giao_thông vận_tải địa_phương khi dây_chuyền kiểm_định ngừng hoạt_động . 
+Chương 6 . TỔ_CHỨC THỰC_HIỆN Điều 17 . 
+Hiệu_lực thi_hành 1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 4 năm 2013 và bãi_bỏ các văn_bản sau đây : a ) Thông_tư số 22/2009/TT-BGTVT ngày 06 tháng 10 năm 2009 của Bộ_trưởng Bộ Giao_thông vận_tải quy_định về thủ_tục kiểm_định an_toàn kỹ_thuật và bảo_vệ môi_trường phương_tiện giao_thông cơ_giới đường_bộ ; b ) Điều 4 của Thông_tư số 37/2011/TT-BGTVT ngày 06 tháng 5 năm 2011 của Bộ_trưởng Bộ Giao_thông vận_tải về sửa_đổi , bổ_sung một_số điều của Quy_định về việc cải_tạo phương_tiện giao_thông cơ_giới đường_bộ ban_hành kèm theo Quyết_định số 15/2005/QĐ-BGTVT ngày 15 tháng 02 năm 2005 , Quy_định điều_kiện thành_lập và hoạt_động của Trung_tâm Đăng_kiểm xe_cơ_giới ban_hành kèm theo Quyết_định số 45/2005/QĐ-BGTVT ngày 23 tháng 09 năm 2005 , Thông_tư số 10/2009/TT-BGTVT ngày 24 tháng 6 năm 2009 quy_định về kiểm_tra an_toàn kỹ_thuật và bảo_vệ môi_trường phương_tiện giao_thông cơ_giới đường_bộ và Thông_tư số 22/2009/TT-BGTVT ngày 06 tháng 10 năm 2009 quy_định về thủ_tục kiểm_định an_toàn kỹ_thuật và bảo_vệ môi_trường phương_tiện giao_thông cơ_giới đường_bộ của Bộ_trưởng Bộ Giao_thông vận_tải . 
+2 . Chứng_chỉ kiểm_định do các Đơn_vị đăng_kiểm đã cấp cho xe_cơ_giới trước ngày Thông_tư này có hiệu_lực vẫn có giá_trị cho đến hết thời_hạn ghi trên Giấy chứng_nhận và Tem kiểm_định . 
+Điều 18 . Tổ_chức thực_hiện Chánh_Văn_phòng Bộ , Chánh_Thanh_tra Bộ , Vụ_trưởng các Vụ , Cục_trưởng Cục Đăng_kiểm Việt_Nam , Giám_đốc Sở Giao_thông vận_tải các tỉnh , thành_phố trực_thuộc Trung_ương , thủ_trưởng các cơ_quan , tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thì hành Thông_tư này . / . 
+Nơi nhận : - Như_Điều 18 ; - Văn_phòng Chính_phủ ; - Các_Bộ , Cơ_quan ngang Bộ , Cơ_quan thuộc CP ; - UBND các tỉnh , TP trực_thuộc TW ; - Các Thứ_trưởng Bộ GTVT ; - Cục Kiểm_tra văn_bản ( Bộ Tư_pháp ) ; - Công_báo ; - Cổng TTĐT Chính_phủ ; - Website_Bộ GTVT ; - Báo GTVT , Tạp_chí GTVT ; - Lưu : VT , KHCN ( Q Hà10b ) . 
+BỘ_TRƯỞNG Đinh_La_Thăng - ---------------------------------------------------------------- - THAM_KHẢO DỊCH_VỤ TƯ_VẤN LIÊN_QUAN : 1 . Tư_vấn pháp_luật lao_động ; 3.Tư vấn pháp_luật lĩnh_vực dân_sự ; 4 . 
+Tư_vấn luật hành_chính Việt_Nam ; 2 . Luật_sư riêng cho doanh_nghiệp ; 5 . 
+Dịch_vụ luật_sư tư_vấn giải_quyết tranh_chấp tại toà_án . 
+6 . Luật_sư tư_vấn giải_quyết tranh_chấp hôn_nhân gia_đình ; 

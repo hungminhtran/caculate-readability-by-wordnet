@@ -1,0 +1,62 @@
+Linux âm_thầm xâm_lược thế_giới công_nghệ 
+Một cuộc cách_mạng đang lặng_lẽ quét qua địa_hạt công_nghệ và tên của nó chính là Linux . Hệ_điều_hành miễn_phí trên mạng Internet này đang từng bước xâm_nhập một loạt các chủng sản_phẩm khác nhau và khiến gã khổng_lồ Microsoft thất_thu một khoản tiền không nhỏ ngay trong lãnh_địa máy_tính cá_nhân . 
+Có_lẽ bạn chưa từng một lần download hay chạy thử Linux . Có_lẽ bạn chưa muốn quay lưng lại với Bill_Gates và hãng của ông ta . 
+Thậm_chí có_lẽ bạn cũng chẳng buồn biết nguồn mở là cái gì . 
+Nhưng dám chắc bạn sẽ là một phần của cuộc cách_mạng này , chẳng sớm thì muộn . 
+Vì rằng Linux không còn tồn_tại bên trong những máy_chủ xa_xôi với cuộc_sống thường_nhật của bạn nữa . 
+Nó và các phần_mềm nguồn mở đang điều_khiển ngày_một nhiều những thiết_bị và công_nghệ vô_cùng thân quen với bạn - từ đầu thu kỹ_thuật số TiVo cho đến chiếc điện_thoại_di_động Motorola . Bạn lướt Web thường_xuyên ? 
+Trình_duyệt Firefox đang hút khách lắm đấy ! 
+Trên thực_tế , số_lượng các website chạy trên nền Linux và phần_mềm nguồn mở như Apache_Web_Server hay MySQL không hề nhỏ chút nào . 
+Với các hãng điện_tử gia_dụng , sức hấp_dẫn của nguồn mở là quá rõ . 
+Khác với máy_tính , phần_mềm mà đồ điện gia_dụng sử_dụng không có chuẩn . 
+Khi họ chỉ cần đến một hệ_điều_hành đơn_giản , Linux luôn ở trong tầm_tay mà không cần chờ_đợi một Windows_phiên-bản-đặc-biệt . 
+Tương_tự , với ĐTDĐ , Linux có_thể cung_cấp một hệ_điều_hành mạnh_mẽ , nơi cộng_đồng phát_triển có_thể tự_do viết game và ứng_dụng cho nó . 
+Một yếu_tố không_thể không nhắc đến là giá_cả . 
+Mặc_dù bạn vẫn phải bỏ tiền khi xài Linux ( để đào_tạo , cung_cấp dịch_vụ và hỗ_trợ kỹ_thuật ) , nhưng chắc_chắn , nó vẫn còn rẻ chán so với các phần_mềm độc_quyền . 
+Vấn_đề duy_nhất : Tất_cả những phân_tích ở trên thuộc về các chuyên_gia công_nghệ . 
+Còn người dùng ? 
+Đại_đa_số vẫn e_dè và nghĩ về nguồn mở như những sản_phẩm không đáng tin_cậy , khó bảo_trì và thậm_chí .. 
+phá_hoại . 
+Vì thế , đừng trông_mong rằng các hãng ĐTDĐ sẽ sớm quảng_bá cho những sản_phẩm dán mác " Linux_Inside " trong một_sớm_một_chiều . 
+Trên Web_
+Nguồn : BusinessWeek 
+Web có_lẽ là nơi người dùng được hưởng trọn_vẹn nhất ích_lợi của công_nghệ nguồn mở . 
+Apache_Web_Server đang chạy trên hơn 50 triệu site . 
+Cơ_sở_dữ_liệu của MySQL thì có hơn 8 triệu database " sống " , phần_lớn chúng thuộc về các hãng Internet . 3/4 trên tổng_số website đang sử_dụng ngôn_ngữ_lập_trình nguồn mở PHP - thay_thế cho Java . 
+Vì thế không có gì ngạc_nhiên khi FireFox , trình_duyệt nguồn mở do Mozilla_Foundation phát_triển , sẽ cất_cánh . 
+Mặc_dù phải đối_đầu với IE của Microsoft , FireFox vẫn đạt được 140 triệu lượt download ( kể từ tháng 11/2004 cho tới nay ) . 
+Hiện Mozilla lại đang nghiên_cứu một ứng_dụng email có tên Thunderbird . 
+Hiện vẫn đang trong giai_đoạn thử_nghiệm , Thunderbird đã được download tổng_cộng 21 triệu lần . 
+TiVo 
+Nguồn : BW Online 
+8 năm trước , TiVo bắt_đầu đưa Linux vào trong chiếc đầu thu KTS đầu_tiên . 
+Ở thời_điểm đó , đấy quả là một ý_tưởng quá cấp_tiến , đến mức TiVo thậm_chí không dám công_bố . 
+Đại_đa_số người mua TiVo đều không hay_biết có Linux bên trong . 
+Dùng_Linux đã giúp TiVo tiết_kiệm được rất nhiều thời_gian và tiền_bạc để chăm_chút cho các sản_phẩm và dịch_vụ của mình . 
+Chưa kể với TiVo , đội_ngũ kỹ_sư của hãng có_thể sửa lỗi , vá lỗi cho sản_phẩm ngay_lập_tức mà không phải cầu_viện tới doanh_nghiệp cung_cấp phần_mềm . 
+Mô_hình của TiVo đã được các đối_thủ bắt_chước . 
+Sony và nhiều hãng khác sẽ giới_thiệu đầu thu kỹ_thuật số Linux trong mấy tháng tới . 
+Routers không dây 
+Nguồn : BW Online 
+Có_lẽ bạn chẳng dư thời_gian tới mức nghĩ xem phần_mềm bên trong router không dây của mình là loại gì . 
+Bạn chỉ việc đấu vào nó , bật laptop lên và thế là ... 
+chạy . 
+Nhưng cũng như đa_số các thiết_bị khác , router cũng có hệ_điều_hành , và với những hãng như Linksys , sử_dụng nguồn mở sẽ giúp họ toàn_tâm_toàn_ý tập_trung cho những ưu_thế nổi_trội nhất của mình - marketing , thiết_kế và hiệu_suất . 
+ĐTDĐ 
+Nguồn : BW Online 
+Smartphone - những mẫu điện_thoại cao_cấp với giá bán lẻ phải trên 300 USD , chỉ chiếm một phần nhỏ trong số hàng tỷ điện_thoại bán được trong năm nay . 
+Nhưng nó là một mảnh sân hiếm_hoi mà Linux đả bại được Microsoft . Mặc_dù bị Symbian cùng Microsoft cạnh_tranh quyết_liệt , Linux vẫn được Motorola lựa_chọn cho hai dòng Razr và Rokr thế_hệ mới . 
+Một chiến_thắng ngọt_ngào , nhưng thách_thức lớn nhất bây_giờ là làm_sao cho mọi chiếc điện_thoại thông_dụng khác cũng dùng Linux . Nokia_Tablet 
+Nguồn : BW Online 
+Cho những_ai muốn có thiết_bị truy_cập Internet không dây mạnh_mẽ trong lòng bàn_tay , Nokia đã tung ra 770 Internet_Tablet với hệ_điều_hành Linux cài_đặt bên trong . 
+Đây là một sự_kiện đáng chú_ý , không_chỉ bởi Nokia là hãng sản_xuất ĐTDĐ số_một thế_giới , mà_còn vì Nokia sở_hữu gần 50 % cổ_phần của Symbian , một hãng có hệ_điều_hành đang kèn_cựa gay_gắt với Linux và hiện đang thống_trị thị_trường HĐH di_động . 
+Ô_tô 
+Nguồn : BW Online Ngày_càng có nhiều mẫu xế_hộp cài_đặt hệ_điều_hành . 
+Nhiều hãng đã chọn Linux để đảm_đương nhiều nhiệm_vụ quan_trọng , chẳng_hạn như chống bó cứng phanh . 
+Hệ_thống " chẩn_bệnh " của DaimlerChrysler có tên " StarScan " cũng dựa trên Linux , mặc_dù nhãn_hiệu Mercedes cao_cấp hơn vẫn dùng công_nghệ độc_quyền từ Microsoft . Một_số site nguồn mở cũng đưa tin BMW dự_định thay_thế Windows bằng Linux cho iDrive , một hệ_thống thông_tin và giải_trí bị cho là có nhiều thiếu_sót . 
+Đại_diện của BMW từ_chối bình_luận về thông_tin này , nhưng nếu thật , đây sẽ là một chiến_thắng lớn dành cho chim_cánh_cụt . 
+Mitsubishy_Robot " Osin " 
+Nguồn :BW Online 
+Cuối_cùng , cho những_ai thực_sự bị ám_ảnh bởi Linux : Một hệ_điều_hành có_thể ôm lấy bạn âu_yếm , hoặc chí_ít cũng có_thể trông nhà khi bạn đi vắng . 
+Wakamaru là một loại robot trông nhà do Mitsubishy chế_tạo , có_thể tải thông_tin từ Web về và chuyển_tiếp nó cho các thành_viên trong gia_đình . 
+Con robot này có_thể nhận_dạng được 10.000 từ và cảnh_báo với chủ_nhân khi có kẻ đột_nhập . 

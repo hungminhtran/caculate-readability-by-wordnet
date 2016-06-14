@@ -1,0 +1,4 @@
+Microsoft_Virtual_Server 2005 RC2 hỗ_trợ Linux 
+Trong " làn_sóng " Windows_Server " Longhorn " tiếp_theo , công_nghệ ảo sẽ trở_thành một phần của môi_trường Windows qua công_nghệ Windows_Hypervisor và người dùng sẽ có_thể sử_dụng không giới_hạn số_lượng các hệ_điều_hành ảo trên một máy_chủ vật_lý . 
+Virtual_Server 2005 RC2 hỗ_trợ các phiên_bản Red_Hat_Enterprise_Linux_2.1 , 3.0 , 4 ; Red_Hat_Linux 7.3 , 9.0 ; SUSE Linux_Enterprise_Server_9.0 , SUSE_Linux_9.2 , 9.3 , 10.0 . 
+Người dùng phiên_bản Virtual_Server 2003 RC2 cũ có_thể tải về Virtual_Machine_Additions cho Linux trên website Microsoft_Connect ( http : / / www . connect . microsoft . com / ) để có_thể bổ_sung tính_năng hỗ_trợ Linux . 

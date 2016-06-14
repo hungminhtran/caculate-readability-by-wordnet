@@ -1,0 +1,22 @@
+IM - ' sân_chơi ' ngày_một mở_rộng của virus 
+Người Pháp có câu " Càng cố_gắng thay_đổi , mọi thứ càng dậm_chân_tại_chỗ " . 
+Điều này thể_hiện qua cuộc_chiến không khoan_nhượng giữa doanh_nghiệp và virus . 
+Trong khi các phần_mềm tấn_công qua e-mail chưa bị đẩy_lùi thì nguy_cơ ở tin_nhắn nhanh ( IM ) lại gia_tăng . 
+Năm_ngoái , hãng thông_tấn Reuters đã tổng_kết rằng virus làm các doanh_nghiệp thiệt_hại tới 55 tỷ USD mỗi năm . 
+Hãng khảo_sát IDC thì cho_biết số người sử_dụng IM sẽ lên tới 450 triệu vào năm 2007 . Tuy_nhiên , theo nghiên_cứu của một công_ty khảo_sát khác là The_Radicaty_Group , trong số 85 % công_ty sử_dụng IM , chỉ có 12 % hỗ_trợ công_nghệ bảo_mật cho ứng_dụng này . 
+Ngay trong quý I năm 2004 , những cuộc tấn_công qua IM và mạng P2P ( chia_sẻ ngang hàng ) đã tăng 250 % so với năm trước đó . 
+Về hình_thức và chức_năng , nguy_cơ qua IM cũng tương_tự như qua e-mail . 
+Mục_tiêu của virus đều là cài mã nguy_hiểm vào càng nhiều máy_tính càng tốt . 
+Phương_pháp phổ_biến là gửi thông_điệp giả_danh một tổ_chức đáng tin_cậy nào đó kèm theo file có chứa virus hoặc đường link đến trang web có khả_năng tự_động cài phần_mềm nguy_hiểm . 
+Một_khi người sử_dụng mở link hay file đính kèm này , virus sẽ bung ra và có_thể lây_nhiễm tới toàn_bộ danh_sách có trong cửa_sổ IM . Nhiều thủ_thuật khác từng được áp_dụng cho e-mail đang dần phổ_biến trong IM , đặc_biệt là phishing . 
+Năm_ngoái , những kẻ lừa_đảo trực_tuyến giả_danh là nhân_viên của Yahoo , gửi thông_điệp qua mạng Yahoo ! 
+IM yêu_cầu người dùng đăng_nhập vào một trang web giả , nhằm mục_đích ăn_cắp tên và mật_khẩu của họ . 
+Với kinh_nghiệm chống các cuộc tấn_công qua e-mail , nhiều người cho rằng việc đối_phó với hiểm_hoạ từ IM không quá khó . 
+Tuy_nhiên , IM luôn_luôn ở trạng_thái hoạt_động , hầu_hết mọi người đặt chế_độ tự_động mở IM khi khởi_động máy và họ online suốt cả ngày . 
+Virus gửi qua IM ngay_tức_thì hiện trên màn_hình , và người dùng thường bấm vào đó trước khi đủ tỉnh_táo để thắc_mắc về nguồn_gốc và độ tin_cậy của chúng . 
+Hơn thế , tin_nhắn đến từ những người bạn trong danh_sách thường được tin_tưởng hơn là từ những kẻ mang tên như " Hot_Steamy_Sex " ... 
+Do đó , người dùng không mấy cảnh_giác khi nhận được thông_điệp của bạn_bè . 
+Các spa mmer đã lợi_dụng hai lý_do sơ_đẳng này để phát_tán virus qua IM với tốc_độ chóng_mặt . 
+Hãng nghiên_cứu Forrester cảnh_báo : " Hiện_nay , nguy_cơ nhiễm virus qua IM trở_nên đáng lo_ngại hơn rất nhiều so với qua e-mail trước đây . 
+Một_khi chuyển sang IM , tin_tặc sẽ có thêm nhiều chiêu mới để phát_tán virus nhanh và hiệu_quả hơn . 
+Đánh sập cả một mạng khổng_lồ qua virus IM không còn là chuyện quá xa_xôi " . 

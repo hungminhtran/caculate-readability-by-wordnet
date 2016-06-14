@@ -1,0 +1,3 @@
+FPT xây_dựng hệ_thống thông_tin quản_lý ngân_sách và kho_bạc 
+Theo hợp_đồng này , FPT sẽ cung_cấp phần_cứng , xây_dựng hệ_thống , đào_tạo , triển_khai và hỗ_trợ vận_hành hệ_thống kho_bạc Nhà_nước tại 64 tỉnh , thành và hơn 600 quận , huyện . 
+TABMIS là dự_án được Ngân_hàng thế_giới tài_trợ với tổng_giá_trị hợp_đồng khoảng 44 triệu USD nhằm tăng_cường tính minh_bạch trong việc chấp_hành ngân_sách và năng_lực giải_trình của cơ_quan tài_chính các cấp , đồng_thời hỗ_trợ việc ra quyết_định đối_với các cơ_quan quản_lý Nhà_nước . 

@@ -1,0 +1,12 @@
+Chuyên_gia bảo_mật có_thể gây rắc_rối cho công_ty 
+Hãng nghiên_cứu Gartner cảnh_báo rằng doanh_nghiệp không nên cho_phép các chuyên_viên công_nghệ thâu_tóm và điều_khiển toàn_bộ hệ_thống an_ninh của mình . 
+Jay_Heiser , Phó_giám_đốc của Gartner , cho_biết rắc_rối sẽ nảy_sinh khi đa_số các kỹ_sư bảo_mật lại không hề am_hiểu về kinh_doanh : " Bạn có_thể tuyển một người mới ra trường để quản_lý firewall . 
+Nhưng một lúc nào đó cậu ta sẽ vô_tình chặn lại những dự_án mang lại lợi_nhuận cao cho công_ty hoặc ' rút tiền ngay trong túi nhà quản_lý ' . 
+Do đó , doanh_nghiệp cần nhận_biết nguy_cơ và xác_định rõ quyền_hạn của những người này , hoặc tìm_kiếm ai đó hiểu được sự phức_tạp trong hệ_thống kinh_doanh , thay_vì chỉ đơn_thuần biết về bảo_mật " . 
+Hãng bảo_hiểm Zurich ( Mỹ ) đã thực_hiện biện_pháp biến những nhà quản_lý doanh_nghiệp thành chuyên_gia an_ninh mạng . 
+Stefan_Vogt , trưởng_nhóm IT của công_ty , nói : " Chúng_tôi không coi quản_lý tường lửa là công_việc hàng ngày và cũng không cần người chuyên về bảo_mật trong tổ_chức của mình . 
+Ngược lại , chúng_tôi tập_trung vào những vấn_đề mang tính chiến_lược " . 
+Vogt khẳng_định chính_sách " luôn đi trước và dự_đoán mọi khả_năng có_thể xảy " ra mới là tiêu_chí đứng đầu trong danh_sách ưu_tiên của ông , còn chương_trình firewall chỉ xếp_hàng cuối bảng . 
+Nhờ xác_định sớm nguy_cơ thay_vì chật_vật giải_quyết hậu_quả , chi_phí cho công_nghệ thông_tin hàng năm tại Zurich đã giảm từ 2 tỷ USD xuống chỉ còn gần 1 tỷ USD . 
+Bên cạnh đó , không hiếm những công_ty đầu_tư quá nhiều cho bảo_mật vòng ngoài , nhưng lại không nhận ra rằng nguy_cơ lớn nhất đe_doạ công_việc kinh_doanh của họ lại nằm ngay bên trong . 
+Tỷ_lệ rò_rỉ tài_sản trí_tuệ và thông_tin nhạy_cảm là rất cao do những thiết_bị lưu_trữ di_động của nhân_viên được phép đem đến hoặc mang ra ngoài mà không hề bị kiểm_soát . 

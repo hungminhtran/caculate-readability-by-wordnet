@@ -1,0 +1,11 @@
+IE 6 đã có bộ lọc phishing 
+Hãng phần_mềm Microsoft vừa cung_cấp cho người sử_dụng trình_duyệt phổ_biến nhất hiện_nay một trong những cải_tiến bảo_mật sẽ xuất_hiện trong phiên_bản 7.0 . 
+Tuy_nhiên , bộ lọc Microsoft_Phishing_Filter chỉ được lấy về theo cách rất hạn_hẹp . 
+Bản tải miễn_phí 1.3 MB này hiện có_mặt trên thanh công_cụ thử_nghiệm MSN Search_Toolbar của Internet_Explorer_6 ( IE 6 ) và chạy trên Windows_XP_Service_Pack 2 . Phishing_Filter sử_dụng cùng công_nghệ tương_tự trong IE 7 nhưng khả_năng hoạt_động trên mỗi phiên_bản sẽ có một_vài thay_đổi . 
+Trong trình_duyệt 6 , mỗi khi người sử_dụng bị lừa mở một trang mà hệ_thống nhận ra là site lừa_đảo , bộ lọc phishing sẽ ngăn họ nhập thông_tin cá_nhân . 
+Ở phiên_bản 7 , chương_trình sẽ tự_động chuyển người lướt web rời trang phishing sang một địa_chỉ mới . 
+Công_nghệ chống phishing , được Symantec đăng_ký bản_quyền , sử_dụng " danh_sách trắng " trên máy khách và " danh_sách đen " trên máy_chủ để xác_định liệu một website nào đó được thiết_lập để ăn_cắp thông_tin cá_nhân hay không . 
+Trên IE 7 , nếu bật bộ lọc , mọi URL mà người sử_dụng ghé thăm không xuất_hiện trong " danh_sách trắng " sẽ được chuyển tới máy_chủ của Microsoft để tiếp_tục quá_trình kiểm_tra . 
+Riêng trong IE 6 , dịch_vụ sẽ hoạt_động như là " hệ_thống cảnh_báo sớm " về những trang có dấu_hiệu không an_toàn và đưa ra 2 mức_độ thông_tin theo màu . 
+Nếu một người vào trang có tên trong danh_sách phishing , chương_trình sẽ hiển_thị thanh màu đỏ và chặn quá_trình nhập dữ_liệu . 
+Nếu website chứa một_số đặc_điểm thường thấy của một trang lừa_đảo nhưng chưa được thống_kê , công_cụ sẽ đưa ra cảnh_báo vàng và người sử_dụng có quyền lựa_chọn tiếp_tục vào site hay đóng trình_duyệt . 

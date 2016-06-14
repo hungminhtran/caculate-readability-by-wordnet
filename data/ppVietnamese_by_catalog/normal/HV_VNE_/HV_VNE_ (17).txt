@@ -1,0 +1,6 @@
+Phần_mềm gián_điệp là hiểm_hoạ số 1 
+Theo một cuộc thăm_dò do hãng WatchGuard ( Mỹ ) thực_hiện , 66 % nhà quản_lý công_nghệ thông_tin và quản_trị mạng đánh_giá spyware sẽ là mối đe_doạ lớn nhất đến an_ninh của hệ_thống trong năm 2005 , nhiều hơn cả virus lẫn phishing . 
+65 % số người được hỏi cho_biết , trong số 3 hiểm_hoạ thường_trực là virus , phishing và spyware , khả_năng chống lại phần_mềm gián_điệp của hệ_thống là yếu_kém nhất . 
+Thậm_chí , các nhà quản_lý còn phàn_nàn rằng cả người điều_hành lẫn người sử_dụng của họ đều không hiểu hoặc ít quan_tâm đến mối nguy_hiểm tiềm_tàng của spyware . 
+54 % coi virus là mối đe_doạ chung , trong khi chỉ 38 % đặt spyware lên hàng_đầu . 
+Ngoài_ra , 3/4 số nhà quản_lý công_nghệ thông_tin cho_biết hơn một nửa số người sử_dụng trong hệ_thống của họ không hề biết spyware là gì . 

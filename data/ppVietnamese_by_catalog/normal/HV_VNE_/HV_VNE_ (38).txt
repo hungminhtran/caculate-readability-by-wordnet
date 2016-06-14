@@ -1,0 +1,10 @@
+Lỗi ứng_dụng bảo_mật Trend_Micro có_thể phát_tán virus 
+Công_ty an_ninh hệ_thống ISS ( Mỹ ) vừa phát_hiện một lỗ_hổng trong phần_mềm quét virus của Trend_Micro . Đây là lần thứ 3 trong tháng này ISS tìm thấy khiếm_khuyết trong các chương_trình chống virus . 
+Khiếm_khuyết trong phần_mềm của Trend_Micro liên_quan đến thư_viện Antivirus_Library , một bộ mã phổ_thông đang được dùng trong ít_nhất 29 sản_phẩm của hãng này . 
+Kẻ tấn_công có_thể tạo ra một chương_trình khai_thác lỗi nói trên , khiến ứng_dụng diệt virus kích_hoạt virus hoạt_động thay_vì phong_toả nó . 
+Việc lợi_dụng thành_công lỗ_hổng này có_thể giúp hacker giành quyền truy_nhập trái_phép vào các mạng và PC được bảo_vệ bằng sản_phẩm Trend_Micro dùng Antivirus_Library , báo_cáo của ISS viết . 
+Lỗi này có nguồn_gốc từ một khiếm_khuyết bộ_nhớ gọi là tràn bộ đệm nhiều lớp ( heap overflow ) , ảnh_hưởng không_chỉ những ứng_dụng của Trend_Micro trên PC chạy Windows mà cả Linux , Solaris và các hệ_điều_hành thuộc họ Unix khác . 
+Thiếu_sót kỹ_thuật tương_tự đã từng được phát_hiện trong sản_phẩm của các hãng bảo_mật hàng_đầu như Symantec ( Mỹ ) và F-Secure ( Phần_Lan ). Chúng_tôi đã tìm_hiểu và xác_nhận khiếm_khuyết này , Joe_Hartmann , Giám_đốc nghiên_cứu phụ_trách khu_vực Bắc_Mỹ của Trend_Micro , phát_biểu . 
+Chúng_tôi đã thiết_kế một giải_pháp để khắc_phục và cảnh_báo khách_hàng về vấn_đề . 
+Những sản_phẩm Trend_Micro bị ảnh_hưởng bởi lỗi nói trên bao_gồm một_số phiên_bản khác nhau của các chương_trình InterScan , ScanMail và ServerProtect . 
+Trend_Micro khuyến_cáo khách_hàng nâng_cấp sang phiên_bản 7.510 để khắc_phục khiếm_khuyết ( thông_báo chi_tiết về lỗi của hãng được cung_cấp tại đây ) . 

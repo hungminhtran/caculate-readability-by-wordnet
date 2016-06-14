@@ -1,0 +1,12 @@
+Virus đầu_tiên xuất_hiện trong Windows_Vista 
+Phiên_bản thử_nghiệm hệ_điều_hành mới của Microsoft mới ra_mắt được 8 ngày , nhưng một hacker người Áo đã thành_công trong việc viết chương_trình khai_thác hàm Monad và được coi là mối đe_doạ đầu_tiên củaVista . 
+Theo Mikko_Hyppnen , Giám_đốc nghiên_cứu của F-Secure , virus được viết bởi một tin_tặc tự coi là " Second_Path_To_Hell ( con đường thứ 2 dẫn tới địa_ngục ) , tên thật là Mario , thuộc nhóm hacker ngầm tự_xưng là Ready_Ranger_Liberation_Front ( Lực_lượng giải_phóng cơ_động ) ở Áo . 
+Virus này được công_bố hôm 21/7 , chỉ vài ngày sau khi Microsoft phát_hành hàm hệ_thống Monad có trong mã của bản thử_nghiệm Beta_1 . Không như giao_diện người dùng đồ_hoạ Windows trước đây phụ_thuộc vào chuột để định_hướng , hàm hệ_thống này cho_phép người dùng sử_dụng câu_lệnh dạng text ( văn_bản ) , rất giống DOS , hệ tiền_nhiệm của Windows 
+Do tính_chất phức_tạp của nó , hàm hệ_thống mới là một cơ_hội lớn để hacker khai_thác . 
+" Monad rất giống hàm BASH của Linux , nghĩa_là nó chứa rất nhiều câu_lệnh và chức_năng " , Mario nói . 
+" Chúng_tôi sẽ có khả_năng tạo ra nhiều mã phức_tạp như chúng_tôi đã thực_hiện với Linux " . F-Secure đặt tên dòng virus này là Danom . 
+Sau khi kiểm_tra mã , Hyppnen khẳng_định Danom chưa_thể gây ra những thiệt_hại đáng_kể cho người dùng Windows . 
+" Tuy_nhiên , đây là bằng_chứng rõ_ràng cho_thấy ý_tưởng viết virus có khả_năng khám_phá những vùng_đất mới và phần nền mới đã hình_thành " . 
+Hầu_hết các chuyên_gia bảo_mật đều ngạc_nhiên do không nghĩ virus lại xuất_hiện nhanh_chóng như thế trong Vista . " Hệ_điều_hành mới ra_mắt được 8 ngày . 
+Điều ngạc_nhiên ở đây là chương_trình nguy_hiểm đến quá sớm , thậm_chí còn vài ngày trước khi hệ_điều_hành được giới_thiệu " . 
+Microsoft chưa có phản_hồi gì về vấn_đề này . 

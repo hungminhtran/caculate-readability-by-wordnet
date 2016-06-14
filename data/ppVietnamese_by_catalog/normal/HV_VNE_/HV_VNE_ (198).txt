@@ -1,0 +1,15 @@
+Phần_mềm theo_dõi virus ' vẽ_đường ' cho hacker 
+Các chương_trình theo_dõi và ghi_nhận những hiện_tượng bất_thường trên Internet do các hãng bảo_mật thiết_lập bí_mật đang bị tin_tặc phát_hiện và lợi_dụng vào những hoạt_động tấn_công của chúng 
+Giống như những chiếc camera giám_sát , các chương_trình gọi là sensor này thường được ẩn đi để tránh bị hacker phát_hiện và đối_phó . 
+Dựa vào chương_trình này , các trung_tâm quản_lý Internet có_thể đưa ra thông_báo về những thay_đổi trong hoạt_động mạng , nhằm hỗ_trợ các nhà phân_tích theo_dõi và tìm_kiếm giải_pháp xử_lý . 
+Tuy_nhiên , trong báo_cáo " Kết_hợp phần_mềm theo_dõi Internet với tấn_công thăm_dò phản_ứng " tại Hội_nghị chuyên_đề bảo_mật Usenix diễn_ra ngày 4/7 tại Mỹ , nhóm nghiên_cứu thuộc trường đại_học Wisconsin khuyến_cáo rằng hacker vẫn có_thể định_vị các sensor để thực_hiện những hành_vi bất_chính mà không sợ bị phát_hiện . 
+John_Bethencourt , một trong những tác_giả của nhóm nghiên_cứu , cho_biết chính những thông_báo của các trung_tâm quản_lý mạng lại gợi_ý cho kẻ tấn_công viết thuật_toán xác_định chương_trình . 
+Tất_cả những gì tin_tặc phải làm là tung các gói thông_tin lên địa_chỉ IP và sau đó kiểm_tra xem liệu hành_động này có xuất_hiện trong thông_báo không . 
+Nếu không , " có_thể kết_luận một_cách an_toàn rằng địa_chỉ đó không nằm trong tầm kiểm_soát " , Bethencourt nói . 
+Sau khi mở cuộc tấn_công giả vào các địa_chỉ IP ngẫu_nhiên trên mạng SANS ( Mỹ ) , nhóm Bethencourt không cần đến một tuần để khám_phá và nhận_dạng chương_trình do_thám trong mạng này cũng như nhiều mạng tương_tự khác . 
+Một_số nhà nghiên_cứu Nhật cũng đưa ra kết_luận tương_tự trong báo_cáo " Lỗ_hổng Internet đe_doạ chương_trình kiểm_soát " . 
+Họ khẳng_định có_thể tạo ra một_số thuật_toán phần_mềm do_thám trong khoảng thời_gian tương_đối ngắn . 
+" Chúng_tôi tin rằng đã phát_hiện ra mối đe_doạ Internet hoàn_toàn mới " , nhóm nghiên_cứu tuyên_bố . 
+" Đây không phải nguy_cơ với hệ_thống máy_chủ , mà là mối đe_doạ ở cấp_độ cao hơn - hệ_thống được xây_dựng để bảo_vệ sự an_toàn của máy_chủ " . 
+Dù vậy , cả hai nhóm đều khẳng_định mức_độ nguy_hiểm sẽ được xoá_bỏ nếu SANS và các trung_tâm quản_lý khác không báo_cáo quá chi_tiết về sơ_đồ hoạt_động mạng . 
+Hơn_nữa , sự mở_rộng IPv6 , thế_hệ Internet mới , cũng có_thể ngăn_chặn các cuộc tấn_công nhờ địa_chỉ IP dài hơn . 

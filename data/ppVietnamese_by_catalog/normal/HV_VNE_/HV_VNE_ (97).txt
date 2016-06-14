@@ -1,0 +1,13 @@
+Rootkit - nguy_hiểm vô_hình trên Windows 
+Kiểu tấn_công thông_minh này không mới , nhưng chúng tạo ra mối đe_doạ thường_trực và đang ngày_một phát_triển rộng đối_với máy_tính Windows . 
+Theo Microsoft , chương_trình phần_mềm nguy_hiểm phổ_biến trong máy_tính hệ_điều_hành Unix này đang ngày_một tinh_vi và lây_lan rộng sang thế_giới Windows . 
+Những chương_trình virus tương_tự Trojan - hay còn gọi là Rootkit - rất khó nhận_biết , phòng_ngừa và có_thể tạo điều_kiện cho hacker hoàn_toàn kiểm_soát máy_tính . 
+Microsoft đã cảnh_báo lần đầu_tiên về nguy_cơ này tại một hội_nghị an_ninh mạng tháng 2 vừa_qua . 
+Tiếp đó , hãng Sysinternals công_bố thiết_bị phòng_chống mang tên RootkitRevealer , và hãng bảo_mật F-Secure cũng giới_thiệu bản bảo_mật thử_nghiệm Blacklight . 
+Rootkit có phương_thức hoạt_động giống Trojan : khai_thác lỗi và tự cài mình vào máy_tính qua e-mail hoặc file tải về . 
+Chúng mở cổng hậu , tạo cơ_hội cho hacker dễ_dàng đột_nhập từ xa , tìm_kiếm mã_số thẻ tín_dụng , thông_tin cá_nhân ... 
+Nhưng Rootkit thâm_nhập hệ_điều_hành ở tầng sâu hơn Trojan , nhờ có những đặc_điểm riêng giúp tự ẩn mình . 
+Diệt_Rootkit thực_sự là một trò_chơi " mèo vờn chuột " . 
+Ngay sau khi F-Secure phát_hành Blacklight , tác_giả của một loại Rootkit mang tên Hacker_Defender đã đăng_tải một đoạn video trình_diễn cách_thức mà phiên_bản Rootkit mới đánh_bại Blacklight và một_số công_cụ bảo_mật khác , trong đó có RootkitRevealer . 
+Tuy_nhiên , Russ_Cooper , nhà sáng_lập và điều_hành mạng tin an_ninh NTBugtraq , không cho rằng Rootkit đang hoành_hành dữ_dội hơn trước đây . 
+Cooper khẳng_định một người không am_hiểu về kỹ_thuật cũng có_thể dọn sạch Rootkit , đơn_giản chỉ bằng việc quét đĩa_cứng và cài lại hệ_điều_hành . 

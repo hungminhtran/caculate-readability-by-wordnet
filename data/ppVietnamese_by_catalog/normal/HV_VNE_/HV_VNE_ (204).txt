@@ -1,0 +1,8 @@
+Windows bị tấn_công sau 5 ngày phát_hành bản sửa lỗi 
+Sâu_Zotob . B , chỉ được hãng bảo_mật Trend_Micro xếp vào hạng " thường_thường bậc trung " , đã tấn_công vào những hệ_thống máy_tính chưa cài bản vá lỗi Windows mới nhất và gây nhiều phiền_toái cho người dùng Internet . Trước đó , sâu Zotob . A đã được sử_dụng để tấn_công lỗi Plug-and-Play với khả_năng tự lây_nhiễm và sao_chép qua một file tên Botzor . exe trong hệ_điều_hành Windows_98/ME/2000/XP / Server_2003 . 
+Microsoft đã công_bố miếng vá trong bản tin bảo_mật hàng tháng vào ngày 9/8 . 
+Tuy_nhiên , chỉ vài hôm sau , chương_trình nguy_hiểm hướng vào khai_thác lỗ_hổng này lại xuất_hiện . 
+Zotob . B cài một chương_trình có tên CSM . exe vào tệp hệ_thống Windows , sau đó nó bắt_đầu thâm_nhập FTP server và nhân_bản . 
+Virus quét địa_chỉ IP của những máy_tính chưa cài bản vá lỗi , tải file HAHA . exe vào FTP server và tiếp_tục lặp lại quá_trình này . 
+Phần_mềm cũng có_thể mở cổng hậu , tạo cổng ngẫu_nhiên trên máy_tính và kết_nối tới IRC server nhằm phục_vụ những mục_đích khác trong tương_lai . 
+Trung_tâm dò_tìm virus của Trend_Micro bắt_đầu ghi_nhận sự xuất_hiện của Zotob . B vào sáng hôm_qua , với khoảng 1.000 máy_tính tại Bắc_Mỹ và Đan_Mạch bị lây_nhiễm . 

@@ -1,0 +1,10 @@
+IE , Firefox và hầu_hết trình_duyệt khác bị thủng 
+Lỗ_hổng này không_chỉ tồn_tại trong những phiên_bản cập_nhật của Internet_Explorer ( IE ) , Firefox , Mozilla , Camino , Opera , và Safari , mà_còn ảnh_hưởng cả trình_duyệt chưa ra_mắt Firefox_1 . 0.5 . 
+Theo hãng Secunia ( Hà_Lan ) , IE của Microsoft , Firefox của Mozilla và gần như tất_cả các trình_duyệt phổ_biến khác hiện_nay đều có_thể bị lợi_dụng bởi những site nguy_hiểm , bằng việc hiển_thị hộp_thoại Java giả trên đỉnh trang web hợp_pháp . 
+" Vấn_đề ở đây là hộp_thoại JavaScript không hiện nguồn_gốc để cho_phép mở ra một cửa_sổ mới , nên trông có_vẻ như nó thuộc chính trang đáng tin_cậy đó " , hãng Secunia cảnh_báo . 
+Để thực_hiện cuộc tấn_công , tin_tặc phải lừa được người dùng ghé qua trang cài mã nguy_hiểm - thông_thường là dụ_dỗ qua e-mail hoặc tin_nhắn nhanh với liên_kết tới một trang trông có_vẻ đáng tin_cậy . 
+Sau khi tung ra mã JavaScript , hacker sẽ hiển_thị hộp yêu_cầu khai_báo mật_khẩu giả để lừa người dùng đăng_nhập thông_tin tài_khoản như bình_thường . 
+Secunia đã cung_cấp mộtbản thử_nghiệm lỗ_hổng để người dùng có_thể nhanh_chóng kiểm_tra xem trình_duyệt của mình đã gặp lỗi đó hay chưa . 
+" Chúng_tôi đang xem_xét lỗ_hổng này và sẽ quyết_định có cài bản vá lỗi cho trình_duyệt mới không " , phát_ngôn_viên của Mozilla cho_biết . 
+" Firefox vẫn đang trong quá_trình sửa lỗi cho bản 1 . 0.4 hiện_tại " . 
+Phiên_bản chưa hoàn_thành của Firefox_1 . 0.5 có_thể được tải tại trang web của Mozilla . 

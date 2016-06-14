@@ -1,0 +1,10 @@
+Lỗi ICMP ảnh_hưởng sản_phẩm của một loạt nhà cung_cấp 
+Các ISP và doanh_nghiệp được cảnh_báo nên nâng_cấp hạ_tầng liên_lạc Internet sau khi người_ta phát_hiện khiếm_khuyết với nhiều mức_độ khác nhau trong sản_phẩm của các công_ty lớn như Cisco , Juniper , Microsoft và IBM . Một_số chuyên_gia bảo_mật nhận_thấy quy_trình thực_hiện TCP / IP không_thể xác_thực một_cách đầy_đủ các thông_báo lỗi của giao_thức Internet_Control_Message_Protocol ( ICMP ) . 
+Do đó , hacker có_thể cài_đặt lại ( reset ) hoặc làm chậm kết_nối đã thiết_lập bằng cách sử_dụng những thông_báo lỗi ICMP giả_mạo . 
+Các ứng_dụng phụ_thuộc vào kết_nối TCP thông lượng cao hoặc thấp nhưng kéo dài bị nguy_cơ lớn nhất từ những vụ tấn_công này . 
+Để giả_mạo một thông_báo ICMP , hacker chỉ cần biết hoặc đoán ra cổng TCP nguồn và đích đến . 
+Trung_tâm an_ninh mạng CERT ( Mỹ ) cảnh_báo các đường truyền Border_Gateway_Protocol ( BGP ) cũng nằm trong nhóm bị nguy_cơ tấn_công nhiều nhất . 
+BGP được sử_dụng để cung_cấp những thông_tin định_tuyến quan_trọng . 
+Một cuộc tấn_công kéo dài nhắm vào các router bị lỗi chạy giao_thức này có_thể tác_động rất xấu đến mạng đang hoạt_động . 
+Các quản_trị_viên được khuyến_cáo nên nâng_cấp hoặc cài bản sửa lỗi ngay ( nếu có ) còn người sử_dụng đầu_cuối cần tìm cách lọc các thông_báo ICMP dưới dạng work-around . 
+Xem danh_sách các sản_phẩm bị ảnh_hưởng và cảnh_báo an_ninh liên_quan tại đây . 

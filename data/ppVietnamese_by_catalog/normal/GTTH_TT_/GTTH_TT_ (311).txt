@@ -1,0 +1,23 @@
+Acoo browser : trình_duyệt web đầy mê hoặc 
+Acoo browser được cho là trình_duyệt tích_hợp đầy_đủ mọi ưu_điểm của các trình_duyệt phổ_biến nhất thế_giới hiện_nay . 
+1 . Tính_năng duyệt web theo bảng ( tab ) của Acoo browser hoàn_toàn sánh ngang với Opera và hơn hẳn so với Firefox và Nestcape , còn Internet_Explorer đã không có tính_năng duyệt bảng thì ... 
+miễn bàn . 
+Acoo browser xem tổ_hợp phím Ctrl+T ( tạo bảng mới ở Firefox ) và Ctrl+N ( tạo cửa_sổ mới ở Internet_Explorer ) đều là chức_năng tạo ra một bảng mới nằm trong cửa_sổ trình_duyệt . 
+Khác với kiểu xếp bảng ở phần phía trên gần Menu , Acoo browser xếp các thanh duyệt bảng ở đáy cửa_sổ gần với Taskbar . 
+2 . Font_Unicode tiếng Việt được thể_hiện hoàn_hảo tương_tự như trong Internet_Explorer và Firefox . 
+Đây được xem là ưu_điểm khi lựa_chọn một trình_duyệt để lướt các trang web tiếng Việt . 3 . 
+Chức_năng " Find " : ngoài việc hỗ_trợ tìm_kiếm ký_tự trong trang web , " Find " của Acoo browser còn hỗ_trợ tìm_kiếm trong Favorites , History , Groups và Address . 
+- Acoo browser hỗ_trợ mọi tính_năng sử_dụng email . 
+Khi nhấn vào biểu_tượng bì_thư , Acoo browser sẽ đưa ra các tính_năng phổ_biến nhất trong Outlook_Express , ngoài_ra nó còn cung_cấp các phím dẫn trực_tiếp đến Hotmail , Incredimail , Mozilla_Thunderbird ... 
+- Tính_năng Edit cũng hết_sức độc_đáo , nó hỗ_trợ xuất toàn_bộ trang web đang hiển_thị vào Word , Excel và Notepad . 
+- Chức_năng Zoom giúp người dùng chỉnh độ_phân_giải của trang trình_duyệt chỉ bằng cách nhấn chuột . 
+Chức_năng này đã bị Internet_Explorer " giấu " quá kỹ , còn Firefox thì lại không có . 
+- Nút chức_năng Tools giúp người dùng truy_cập nhanh vào các chức_năng và ứng_dụng phổ_biến nhất của Windows_như_My_Computer , Notepad , Paint , Registry , Control_Panel , Add_/ Remove_Programs , Windows_Media_Player ... 
+Internet_Explorer và Firefox hoàn_toàn không có chức_năng này . 
+- Ngoài_ra , Acoo browser còn có một nút chức_năng độc_đáo là nút " Clear_Record " hỗ_trợ xoá đi toàn_bộ các file rác lưu_trữ trong Cache , History , Cookie , các địa_chỉ truy_cập gần nhất ... 
+chỉ bằng vài cú click . 
+- Thanh tìm_kiếm của Acoo browser hỗ_trợ tìm_kiếm mọi thứ cùng lúc trên ba cơ_cấu tìm_kiếm phổ_biến là Google , Yahoo , MSN và Altavista . 
+Ngay khi tắt đi trình_duyệt , Acoo browser cũng giới_thiệu luôn một tính_năng rất mới bằng cách đưa ra hai đề_nghị để bạn chọn là truy_cập lại toàn_bộ mọi trang web khi đóng trình_duyệt , hoặc lưu lại toàn_bộ phiên làm_việc cuối_cùng của bạn dưới dạng một nhóm để bạn " tái_sử_dụng " ở lần sau . 
+Tính_năng này dường_như hiện chỉ có ở một trình_duyệt cũng thuộc dạng cực mạnh khác là Maxthon . Acoo browser vẫn còn nhiều tính_năng hấp_dẫn khác để người dùng khám_phá . 
+File cài_đặt của Acoo browser có dung_lượng rất nhỏ , chỉ khoảng 1,3 MB , trong khi dung_lượng của Internet_Explorer 6 là hơn 6MB , Opera_8.5 là 3,65 MB ; Netscape 8 là 14 MB ; Firefox 1.5 là 5,2 MB … 
+Người dùng có_thể vào địa_chỉ http : / / www . acoobrowser . com / để tải bản Acoo browser 1.37 về dùng miễn_phí . 

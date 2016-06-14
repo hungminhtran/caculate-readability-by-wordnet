@@ -1,0 +1,9 @@
+Huỷ một cuộc thi viết virus tấn_công Mac_OS_X 
+Do những quan_ngại về trách_nhiệm pháp_lý , hãng DVForge ( Mỹ ) đã tuyên_bố rút lại lời hứa thưởng 25.000 USD cho người chiến_thắng trong cuộc thi thiết_kế phần_mềm tấn_công tự_động lây_lan trên máy_tính chạy hệ_điều_hành của Apple . 
+Cuộc thi của DVForge , công_ty chuyên sản_xuất thiết_bị_ngoại_vi cho các sản_phẩm của Apple , được công_bố cuối tuần trước với mục_đích bác lại một khảo_sát của hãng bảo_mật Symantec cho rằng những nguy_cơ tấn_công đối_với hệ_điều_hành Mac_OS_X đang gia_tăng . 
+Theo Jack_Campbell , Giám_đốc điều_hành DVForge , báo_cáo của Symantec không có cơ_sở và chỉ gây hoang_mang cho người sử_dụng , đồng_thời phương_hại công_việc kinh_doanh của DVForge và cả Apple . 
+Trong cuộc thi dự_kiến của mình , DVForge bố_trí 2 máy G5 PowerMac chạy phiên_bản hệ_điều_hành OS_X 10.3 Panther nối mạng và đăng một thông_báo lên trang web của họ , thách_thức người truy_cập Internet tạo ra một virus tự lây_lan được từ máy này sang máy kia trong một thời_gian giới_hạn . 
+Tuy_nhiên , ngay sau khi cuộc thi được công_bố , nhiều người sử_dụng Mac_OS_X cũng như các chuyên_gia của Apple đã liên_hệ với DVForge và cho_biết việc tạo ra virus tấn_công OS_X là điều hoàn_toàn có_thể mặc_dù khó . 
+Apple yêu_cầu DVForge chấm_dứt cuộc thi . 
+Trong khi đó , nhà tổ_chức cũng nhận được thư của một công_tố_viên về sở_hữu_trí_tuệ cảnh_báo rằng việc tài_trợ cho hành_động viết một virus như vậy có_thể bị coi là vi_phạm pháp_luật . 
+Lo_sợ nguy_cơ công_ty của mình rơi vào một cuộc_chiến pháp_lý , Giám_đốc DVForge đã quyết_định huỷ cuộc thi nhưng đăng một thông_báo trên website rằng họ sẽ chơi đến_cùng với Symantec và cả những kẻ " chẳng hiểu_biết gì về cơ_chế hoạt_động của virus nhưng hay thổi_phồng nguy_cơ bảo_mật " . 

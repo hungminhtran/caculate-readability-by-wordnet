@@ -1,0 +1,22 @@
+Các phần_mềm keylogger tăng 65 % trong năm 2005 
+Ken_Dunham , chuyên_gia bảo_mật của công_ty VeriSign_iDefense , nhận_định : " Số chương_trình ghi_nhận hoạt_động bàn_phím đã gia_tăng với tốc_độ tên_lửa . 
+Việc tội_phạm sử_dụng keylogger làm công_cụ hoạt_động riêng trong năm nay cũng đã gần bằng 2 năm trước . 
+Keylogger là những chương_trình có dung_lượng rất nhỏ được âm_thầm cài_đặt vào máy_tính sau khi xâm_nhập thành_công vào hệ_thống thông_qua những lỗ_hổng bảo_mật chưa được vá . 
+Về thực_chất thì keylogger không phá_hoại gì đến hệ_thống nhưng chúng bí_mật gửi mọi dữ_liệu về hoạt_động trên bàn_phím về cho hacker điều_khiển . 
+Tin_tặc trên thế_giới đã chế_tạo khoảng 6.191 chương_trình keylogger khác nhau trong năm 2005 , so với 3.753 của năm 2004 . Trong khi đó , năm 2000 chỉ có 300 keylogger được ghi_nhận . 
+Keylogger đang được tích_cực tạo ra chỉ vì một lý_do đơn_giản : chúng là công_cụ kiếm tiền hữu_hiệu nhất cho mọi hacker tham_lam . 
+Ngay khi được kích_hoạt , keylogger sẽ chú_ý ghi_nhận lại mọi dữ_liệu mà người dùng gõ trên bàn_phím . 
+Đặc_biệt , chúng chú_trọng vào các dữ_liệu mà người dùng gõ vào các ô có tiêu_đề username hoặc password . 
+Chúng có khả_năng đánh_hơi khi người dùng máy_tính ghé thăm các trang web chuyên giao_dịch tài_chính để kỹ_lưỡng ghi_nhận lại mọi lệnh gõ trên bàn_phím tại đây . 
+" Hiện_nay đang tồn_tại cả một nền kinh_tế ngầm dựa trên những thông_tin khai_thác từ keylogger . 
+Hầu_như bất_kỳ ai cũng có_thể ' làm_tiền ' người khác bằng những phần_mềm này . 
+Khi đã cài_đặt thành_công keylogger vào máy của một ai đó thì kẻ làm_tiền có_thể ăn_cắp được mọi thông_tin tài_chính , thẻ tín_dụng , thông_tin cá_nhân hoặc ăn_cắp được cả mã_số bản_quyền phần_mềm " , chuyên_gia Dunham nhận_định . 
+" Số_lượng spyware , Trojan , adware& đang gia_tăng hiện_nay cũng chủ_yếu dựa vào công_nghệ keylogger và chủ_yếu nhằm mục_đích cài cho được keylogger vào bất_kỳ máy_tính nào " . 
+Trong năm nay , keylogger đã đạt được những thành_tích kinh_hoàng . 
+Điển_hình là vụ một hacker cao_tay cài thành_công một keylogger vào mạng nội_bộ chi_nhánh London của ngân_hàng Sumitomo_Mitsui trong tháng 3/2005 , và sau đó lên kế_hoạch rút ra đến 432 triệu USD của ngân_hàng này . 
+Tháng 8 , một khối_lượng dữ_liệu lớn của Bank_of_America , Paypal và của khoảng 50 ngân_hàng tại Mỹ cũng đã bị một Trojan có chứa keylogger xâm_nhập và lấy đi . 
+Trong tháng 10 , cảnh_sát Hà_Lan bắt_giữ 3 hacker bị nghi_ngờ tạo ra một loại Trojan cực hiểm có chứa keylogger , đã xâm_nhập thành_công vào khoảng 100.000 máy_tính khắp mọi nơi . 
+Keylogger góp_phần móc_túi của riêng dân Mỹ đến 3 tỷ USD / năm . 
+Trong tất_cả mọi phần_mềm tấn_công thì keylogger là dạng chương_trình khó phát_hiện nhất . 
+Ngay_cả khi virus , Trojan , spyware& bị các công_cụ bảo_mật diệt đi thì keylogger vẫn còn ở lại và vẫn hoạt_động tốt . 
+Một máy_tính sạch vẫn chưa chắc là một máy_tính an_toàn vì biết_đâu trong một ngõ_ngách nào đó vẫn còn một keylogger âm_thầm hoạt_động . 

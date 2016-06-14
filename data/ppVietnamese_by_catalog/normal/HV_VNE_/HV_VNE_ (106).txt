@@ -1,0 +1,18 @@
+Nguy_cơ tấn_công mạng tăng nhanh trong 2005 
+Theo nghiên_cứu của hãng ATT , trong khi số_lượng e-mail đính kèm virus theo kiểu cổ_điển đã giảm , thì tốc_độ lây_lan của các biến_thể sâu mới lại có chiều_hướng tăng nhanh đáng_kể . 
+Bên cạnh đó , số vụ hack cũng nhiều và tinh_vi hơn . 
+Những mối đe_doạ khác nhưphishing và spyware cũng xuất_hiện với tần_số ngày_càng cao và sự nguy_hiểm , phức_tạp không_thể lường hết được . 
+Trong tháng 3 , số e-mail lừa_đảo trực_tuyến mà tổ_chức chống phishing APWG ghi_nhận được là 13.353 kiểu thư . 
+Đặc_biệt , APWG cũng cảnh_báo nguy_cơ phát_triển của những vụ tấn_công dùng Trojan dò lệnh gõ trên bàn_phím . 
+Mật_độ xuất_hiện các chương_trình này đã tăng từ 1-2 biến_thể mỗi tuần trong tháng 11/2004 lên tới 8-10 trong tháng 3 vừa_qua . 
+Hầu_hết các hình_thức tấn_công phishing là lừa người sử_dụng truy cậo vào các trang web giả_mạo ngân_hàng để lấy thông_tin tài_khoản khách_hàng . 
+Nhưng gần đây , tội_phạm lại nhằm thẳng vào cá_nhân với tài_khoản thực trên trang web thực của ngân_hàng , bằng cách ăn_cắp cơ_sở_dữ_liệu để lấy thông_tin về tên , e-mail , hay số tài_khoản ... 
+Ngoài_ra , chúng cũng lợi_dụng cơ_chế hoạt_động của hệ_thống quản_lý tên_miền ( DNS ) để đăng_ký vài địa_chỉ IP cho cùng một trang . 
+Khi một địa_chỉ bị ngừng hoạt_động , chúng chỉ cần chỉnh_sửa hồ_sơ DNS để trỏ sang một IP khác , khiến việc xoá_sổ những site lừa_đảo càng trở_nên khó_khăn . 
+" Chúng_tôi nhận_thấy mật_độ tấn_công trong vòng 6 tháng qua đã dày hơn rất nhiều so với hai năm trước " , Bill_Archer , Chủ_tịch hãng ATT tại châu Âu , phát_biểu . 
+" Sự đa_dạng , số lần xuất_hiện , và cách_thức tấn_công đang biến_đổi với tốc_độ chóng_mặt . 
+Vì vậy , người dùng cần luôn ở mức_độ cảnh_giác cao nhất có_thể " . 
+Tán_thành với quan_điểm này , Malcolm_Harkins , Giám_đốc bộ_phận bảo_mật thông_tin của Intel , nhận_xét : " Chỉ cần nhìn vào sự lây_lan của virus trong hệ_thống tin_nhắn nhanh ( IM ) , có_thể thấy hacker luôn thay_đổi phương_thức và công_nghệ tấn_công . 
+Mọi người đã tỉnh_táo hơn về mối đe_doạ qua e-mail , nhưng lại không biết chuyển kinh_nghiệm ' xương_máu ' này sang IM và các hình_thức liên_lạc khác " . 
+Harkins giải_thích tình_trạng này là do người dùng máy_tính dù có nhận_thức được về virus , những kẻ lừa_đảo vẫn luôn tạo ra nhiều mẹo , thủ_thuật mới để đánh_lừa họ . 
+Ví_dụ như hầu_hết ai cũng biết nhấp chuột vào một URL có_thể dẫn đến hậu_quả khôn lường về bảo_mật , nhưng điều này vô_cùng khó thực_hiện khi người dùng giao_tiếp qua IM . 

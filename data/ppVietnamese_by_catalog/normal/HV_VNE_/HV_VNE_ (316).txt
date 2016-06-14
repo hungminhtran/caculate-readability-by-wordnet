@@ -1,0 +1,12 @@
+Phần_mềm gián_điệp là mối đe_doạ lớn nhất trên web 
+Theo hãng bảo_mật Anh_Sophos , spyware đang lây_lan mạnh_mẽ trong các doanh_nghiệp trong năm nay vì mục_đích chính của tội_phạm mạng khi phát_tán chương_trình nguy_hiểm này là nguồn thu tài_chính . 
+Sophos cho_biết , phần_mềm gián_điệp chiếm tới 66,4 % trong tổng_số toàn_bộ các nguy_cơ xuất_hiện trên mạng tháng 11 . Tốc_độ phát_triển nói_chung của spyware đã tăng 48 % so với năm_ngoái . 
+" Spyware có tính_năng như một virus , có_thể mở cổng hậu tạo cơ_hội cho hacker truy_cập từ xa và hình_thành mạng máy_tính bị khống_chế . 
+Ngày_càng nhiều mã_độc xuất_hiện trên Internet nhưng với lượng phát_tán nhỏ " , Paul_Ducklin , Giám_đốc kỹ_thuật của Sophos , nói . 
+" Tác_giả soạn virus và những nhóm tội_phạm có tổ_chức không còn muốn một phiên_bản Blaster hay Sasser khác bởi chúng sẽ phản_tác_dụng và ảnh_hưởng đến khả_năng quản_lý hệ_thống " . 
+Theo Ducklin , Blaster và Sasser không phù_hợp cho một vụ bội_thu bởi chúng lây_lan quá rộng và vượt ra khỏi tầm kiểm_soát . 
+Một trong những nguy_cơ lớn năm 2005 là phishing có chủ_đích nhằm mang lại hiệu_quả lớn hơn . 
+" Thay_vì gửi đi 1 triệu e-mail lừa_đảo mà trong đó có ít_nhất 900.000 người không quan_tâm đến ngân_hàng trực_tuyến , tại_sao bạn không lập_trình để e-mail chỉ đến tay những đối_tượng người nào sử_dụng dịch_vụ thôi " , Ducklin nói . 
+Mỹ , Hàn_Quốc và Trung_Quốc vẫn chiếm hơn 50 % tất_cả các vụ lừa_đảo toàn_cầu . 
+Thống_kê mới_đây của hãng America_Online cho_thấy cứ 4 người Mỹ thì có 1 người trở_thành mục_tiêu của phishing . 
+AOL cũng khẳng_định 81 % máy_tính tại Mỹ không cài phần_mềm diệt virus , spyware cập_nhật . 

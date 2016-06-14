@@ -1,0 +1,11 @@
+Paris_Hilton - ' mồi ' của virus , mục_tiêu của hacker 
+Hãng bảo_mật Sophos ( Anh ) cảnh_báo 2 virus Sober . K và Ahker . C đang phát_tán trong những e-mail giả_vờ chứa phim sex của Hilton . 
+Trong khi đó , chiếc điện_thoại_di_động của cô đào nhiều điều_tiếng này cũng vừa bị moi thông_tin đưa lên mạng . 
+Sâu_Sober . K phát_tán trong những bức thư có dòng chủ_đề Paris_Hilton , pure ! , You visit illegal websites , Your_new_Password và Paris_Hilton_SexVideos , sử_dụng tiếng Anh hoặc Đức , tuỳ theo đối_tượng mà nó gửi mail tới . 
+Nếu được kích_hoạt , Sober . K sẽ thả vào PC nạn_nhân một_số file thực_hiện như filenamescsrss . exe , winlogon . exe và smss.exe . 
+Trong khi đó , Ahker . C xuất_hiện với những tiêu_đề thư như " Paris_Hilton_...download_it ! " và một file đính kèm có tên " ParisXXX . zip " . 
+Nếu xâm_nhập vào máy_tính , virus này sẽ tắt hết các tính_năng phòng_vệ và tường lửa , phong_toả việc truy_cập tới một_số website và mở cổng hậu cho hacker khai_thác về sau . 
+Đây là một chiêu_bài đã cũ : lấy chuyện sex của nhân_vật nổi_tiếng để lừa người nhận e-mail . 
+Đáng tiếc là vẫn có khá nhiều người mắc bẫy , chuyên_gia Graham_Cluley của Sophos phát_biểu . 
+Sophos phát_hiện 2 virus nói trên cùng ngày với việc hacker đã truy_nhập vào danh_bạ liên_lạc trong chiếc điện_thoại T-Mobile của Paris_Hilton để lấy và công_bố số điện_thoại riêng của những nhân_vật nổi_tiếng khác như Anna_Kournikova , Lindsay_Lohan và Vin_Diesel . Theo một_số hãng dịch_vụ tìm_kiếm thông_tin trực_tuyến , Paris_Hilton hiện là một trong những người_đẹp được search nhiều nhất trên Internet , vì thế mà giới tin_tặc khó có_thể bỏ_qua mà không lợi_dụng . 
+Một điều thú_vị là ngay sau khi xuất_hiện các virus liên_quan đến Hilton nói trên , Sophos lại phát_hiện sâu Derdero . A , phát_tán trong những e-mail với lời cảnh_báo về virus Ahker . C . 

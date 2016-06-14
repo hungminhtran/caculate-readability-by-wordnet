@@ -1,0 +1,11 @@
+' Sober . N được viết vì mục_đích kiếm tiền ' 
+Đó là đánh_giá của Graham_Cluley , cố_vấn công_nghệ cao_cấp cho hãng Sophos ( Anh ) , về một trong những biến_thể sâu Sober nguy_hiểm nhất hiện_nay . 
+Ông cũng khẳng_định thời những hacker viết phần_mềm virus chỉ để nổi_danh giờ đã qua . 
+Hiện_nay , nhiều loại virus được thiết_kế bởi các nhóm tội_phạm chuyên tìm_kiếm mục_tiêu tài_chính thực trên mạng . 
+Virus_Sober . N ( một_số hãng bảo_mật khác gọi là Sober . P hoặc S ) có_thể coi là một ví_dụ điển_hình . 
+Nó xuất_hiện trong 5 % e-mail trên toàn thế_giới , và chiếm tới gần 20 % trong số virus được phát_hiện gần đây . 
+Sober . N được phát_tán nhằm mục_đích xâm_nhập máy_tính cá_nhân , cài phần_mềm ăn_cắp khoá dữ_liệu , tiếp_cận số tài_khoản ngân_hàng , mật_khẩu cũng như các thông_tin tài_chính nhạy_cảm khác . 
+Lý_do khiến Sober lan_tràn nhanh và mạnh như hiện_nay là vì tác_giả của virus này sử_dụng công_nghệ spam để phát_tán ngay từ giai_đoạn đầu . 
+Phần_lớn " thành_công " của Sober . N liên_quan đến việc nó lợi_dụng sự_kiện giải bóng_đá thế_giới để mời chào vé miễn_phí cho người sử_dụng , dù chỉ được phát_tán dưới phiên_bản tiếng Đức . 
+Phiên_bản tiếng Anh chủ_yếu liên_quan đến vấn_đề bảo_mật của người dùng , như báo lỗi tài_khoản e-mail , hay tìm đối_tác giao_dịch trên mạng ... 
+Theo Cluley , rất nhiều virus lây_lan nhanh_chóng nhờ kiểu " thông_báo vấn_đề cho khách_hàng " như vậy . 

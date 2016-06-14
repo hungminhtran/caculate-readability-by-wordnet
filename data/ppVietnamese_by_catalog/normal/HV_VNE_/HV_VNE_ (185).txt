@@ -1,0 +1,11 @@
+Virus chỉ_trích những kẻ viết virus 
+Các chuyên_gia bảo_mật của hãng Sophos vừa phát_hiện một sâu gửi kèm qua e-mail với nội_dung chế_nhạo Sven_Jaschan , tác_giả sâu Sasservừa bị kết_án treo gần đây . 
+Sâu mới mang tênLebreat . D tạo ra một file JPEG mang tên xsas . jpg với ảnh Jaschan và từ bitch lồng bên trên . 
+Ngoài_ra , e-mail có nội_dung khá dài , chê_bai những nghiên_cứu của các hãng diệt virus , thậm_chí phàn_nàn về việc họ không gọi sâu Lebreat là Breatle theo đúng sở_thích của hắn . 
+Netsky ( SkyShit ) , Beagle hay Bagle , Mydoom và Sasser , tạm_biệt bọn ngu_ngốc , tác_giả virus Lebreat viết . 
+Đây sẽ chỉ là sân_chơi của riêng tao bởi FBI hay cảnh_sát không bao_giờ tìm bắt được tao như Jaschan . 
+Và những phiên_bản tới sẽ được trang_bị công_cụ hiệu_quả hơn để gửi hàng nghìn bản_sao tới người sử_dụng . 
+Lebreat . D là sâu kết_hợp ba biến_thể , lây_lan qua việc mở file đính kèm hoặc qua những trình_duyệt chưa cập_nhật bản vá lỗi . 
+Một_khi xâm_nhập vào máy_tính , nó có_thể thực_hiện tấn_công từ_chối dịch_vụ , ngăn khách_hàng truy_cập vào những website sử_dụng chương_trình của Symantec và McAfee và nhiều hãng bảo_mật khác . 
+Kẻ viết chương_trình Lebreat tỏ_ra chẳng một_chút cảm_thông cho Sven_Jaschan , thậm_chí còn chỉ_trích các công_ty bảo_mật , đe_doạ rằng phiên_bản tiếp_theo của hắn sẽ còn lây_lan rộng hơn , Graham_Cluley , cố_vấn công_nghệ của Sophos , cho_biết . 
+Đáng tiếc trò cãi nhau trẻ_con này vẫn thu_hút sự tò_mò của rất nhiều người dùng ngây_thơ . 

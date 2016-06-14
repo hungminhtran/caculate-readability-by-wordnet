@@ -1,0 +1,14 @@
+Mẫu có dạng hình_trụ và hình_cầu 
+Quan_sát , nhận_xét 
+Vị_trí của mẫu ( gần , xa , ... ) . 
+Hình_dáng và tỷ_lệ của từng vật mẫu . 
+Độ đậm nhạt của mẫu . 
+Cách vẽ 
+Cách vẽ ở bài này cũng tiến_hành như các bài trước : 
+Vẽ khung hình chung ( H . 2a ) . 
+Vẽ khung hình của từng vật mẫu ( H . 2b ) . 
+Phác nét chính theo tỷ_lệ của từng vật mẫu bằng nét thẳng nhẹ ( H . 2c ) . 
+Vẽ chi_tiết cho giống mẫu ( H . 2d ) . 
+Lưu_ý : 
+Vẽ hình vừa với khổ giấy , sao cho cân_đối giữa hình_vẽ và khoảng trống của nền . 
+Vẽ đậm nhạt bằng bút_chì đen hoặc vẽ màu . 

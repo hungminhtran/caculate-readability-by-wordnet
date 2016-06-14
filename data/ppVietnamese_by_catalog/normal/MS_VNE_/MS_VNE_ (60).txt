@@ -1,0 +1,11 @@
+Chọn ổn_áp đúng công_suất 
+Thông_thường ở những nơi có điện_áp quá thấp ( các đèn néon không bật sáng lên được ) , bạn phải mua một ổn_áp dùng chung cho cả nhà . 
+Với khu_vực điện_áp sụt giảm không nhiều , bạn nên mua ổn_áp dùng riêng cho các thiết_bị như tivi , máy_vi_tính , máy giặt& 
+Vấn_đề là phải mua kích_cỡ công_suất ổn_áp thích_hợp đảm_bảo hoạt_động của thiết_bị điện trong nhà và tiết_kiệm được số tiền đầu_tư ban_đầu , nếu bạn chọn mua loại công_suất lớn quá thì có giá_thành cao , điều này không cần_thiết . 
+Khi bạn phải mua một ổn_áp dùng cho cả nhà , thì tính_toán công_suất ổn_áp như sau : với thiết_bị không có động_cơ như tivi , máy vi tính& nên lấy công_suất các thiết_bị đó nhân thêm 25 % . 
+Còn với các loại đồ điện có lắp động_cơ bên trong như máy_giặt , tủ_lạnh , máy_điều_hoà không khí& bạn phải lấy công_suất các thiết_bị này nhân thêm 3 lần ( do dòng khởi_động các động_cơ thường tăng rất cao ) . 
+Ví_dụ một gia_đình sử_dụng các thiết_bị điện như sau : một tủ_lạnh 200 lít ( 100 - 150 W ) , ty vi 21 inch ( 80 W ) , một máy_giặt ( 500 W ) , một nồi_cơm_điện ( 1.000 W ) , lò vi_ba ( 1.000 W ) , 2 máy_điều_hoà không_khí ( 2.500 W ) , một máy nấu nước Ariston có hình_dạng chữ nhật cỡ trung_bình ( 1.500 W ) , bơm nước ( khoảng 1.000 W ) , một bàn_ủi ( 1.000 W ) . 
+Sau khi tính_toán , có_thể dùng loại ổn_áp có công_suất khoảng 15 KVA ( 1 KVA = 1.000 W ) chung cho cả nhà . 
+Nếu điện_áp khu_vực không thấp quá , để tiết_kiệm chi_phí đầu_tư ban_đầu , bạn nên lắp riêng ổn_áp chỉ cho các thiết_bị điện và điện_tử đắt tiền như tivi , tủ_lạnh , máy vi tính& 
+Những loại ổn_áp thông_dụng hiện_nay có những khoảng điện_áp vào như sau : 40-250 V , 60-250 V , 90-250 V , và 150-250 V với các mức điện_áp ra là 100 V/110 V/220 V có sai_số 1,5 - 2 % . 
+Thời_gian đáp_ứng với điện_áp vào thay_đổi là 0,4 giây ( loại 350 - 10.000 VA ) và 0,8 giây ( 15.000 - 50.000 VA ). Để kéo dài tuổi_thọ của ổn_áp , bạn cần chú_ý những điểm như phải dùng dây_điện tốt và đủ lớn để nối ổn_áp với nguồn điện ; tránh để gần nơi có nước hay dầu rơi vào ; sử_dụng đúng điện_áp của thiết_bị điện cho_phép , cũng như khoảng điện_áp vào của từng loại ổn_áp ; không dùng quá công_suất của ổn_áp cho_phép . 

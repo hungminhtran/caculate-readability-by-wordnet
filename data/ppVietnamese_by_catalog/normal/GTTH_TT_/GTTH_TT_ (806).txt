@@ -1,0 +1,30 @@
+Tính cước ĐTDĐ một vùng : Khách_hàng được lợi 
+Theo tờ_trình , VNPT đề_nghị được áp_dụng cách tính mới từ ngày 1-7 . 
+Nếu cách tính này được chấp_thuận , hằng tháng các thuê_bao di_động sẽ giảm được một khoản cước_phí đáng_kể . 
+Vì_sao phải tính cước một vùng ? 
+Theo cách tính hiện_nay , các cuộc gọi di_động được chia thành ba vùng : vùng I gồm các tỉnh từ phía Bắc đến Quảng_Bình , vùng III gồm các tỉnh từ Quảng_Trị đến Khánh_Hoà và bốn tỉnh khu_vực Tây_nguyên , vùng II gồm các tỉnh thành còn_lại . 
+Do sự phân_chia này , đa_số các thuê_bao khi thực_hiện cuộc gọi liên_vùng ( còn gọi là ngoại vùng ) đều phải cân_nhắc bởi cước một cuộc gọi liên_vùng cao hơn so với nội_vùng . 
+C 
+ụ thể , cước mỗi cuộc gọi của thuê_bao trả sau bị tính 850 đồng/30 giây ( nội_vùng ) , 1.200 đồng/30 giây ( liên_vùng ) ; cước của thuê_bao trả trước là 1.500 đồng/30 giây ( nội_vùng ) , 1.750 đồng/30 giây ( liên_vùng ) và thuê_bao ngày là 1.000 đồng/30 giây ( nội_vùng ) , 1.400 đồng/30 giây ( liên_vùng ) . 
+Với cách tính cước nói trên , có_thể thấy điều phi_lý đang tồn_tại ở hai " đại_gia " Vinaphone và MobiFone là sự phân_vùng tính cước đối_với những cuộc gọi đều nằm trong phạm_vi một quốc_gia . 
+Trong khi đó , S-Fone dù ra_đời sau hai " đại_gia " nhưng đã áp_dụng ngay mức cước một vùng trên phạm_vi cả nước . 
+Còn Viettel mặc_dù đang chuẩn_bị tung ra dịch_vụ di_động nhưng cũng đã cam_kết sẽ tính cước một vùng . 
+Việc tính cước theo nhiều vùng khác nhau đã khiến số_lượng các cuộc gọi liên_vùng trở_nên ít hơn . 
+Ông Nguyễn_Mạnh_Thắng , phó_giám_đốc Công_ty Thông_tin di_động , nhà cung_cấp mạng MobiFone , thừa_nhận các cuộc gọi liên_vùng chỉ chiếm khoảng 10 % trong tổng_số các cuộc gọi . 
+Tình_trạng tương_tự cũng xảy_ra ở Vinaphone mà lý_do duy_nhất chỉ vì cước cuộc gọi liên_vùng đắt hơn so với nội_vùng . 
+Cùng với đề_nghị được tính cước một vùng cho dịch_vụ điện_thoại_di_động , VNPT cũng trình Bộ Bưu_chính - viễn_thông phương_án tính cước hai vùng thay_vì ba vùng như hiện_nay đối_với dịch_vụ điện_thoại đường dài liên_tỉnh PSTN và dịch_vụ điện_thoại VoIP._Theo đó , mức cước PSTN và VoIP của vùng I sẽ là 909 và 727 đồng / phút . 
+Vùng II và vùng III sẽ có chung mức cước là 1.636 đồng / phút với PSTN và 1.227 đồng / phút với VoIP. Trước đó , mức cước vùng III của PSTN là 2.273 đồng / phút và của VoIP là 1.636 đồng/phút . 
+Mặt_khác , theo ông Thắng , việc áp_dụng cách tính cước nội_vùng , liên_vùng đã khiến nhiều khách_hàng cực_chẳng_đã phải sử_dụng đồng_thời hai số điện_thoại_di_động , một của vùng I , một của vùng II . Khách_hàng được giảm 10 % cước_phí ? 
+Theo phương_án tính cước một vùng mà VNPT trình Bộ Bưu_chính - viễn_thông , VNPT sẽ lấy mức cước nội_vùng đang áp_dụng để tính cho tất_cả các cuộc gọi , bất_kể là nội_vùng hay liên_vùng . 
+Như vậy , mức cước cuộc gọi của thuê_bao trả sau là 850 đồng/30 giây , thuê_bao trả trước là 1.200 đồng/30 giây và thuê_bao ngày là 1.000 đồng/30 giây . 
+Đối_tượng được lợi trước_nhất , theo ông Thắng , là những người thường_xuyên phải liên_lạc từ vùng này sang vùng kia . 
+Theo tính_toán của MobiFone , một khách_hàng thường liên_lạc liên_vùng sẽ giảm được 10 % cước_phí nếu VNPT áp_dụng cách tính cước một vùng . 
+Còn đối_với nhà cung_cấp dịch_vụ , ông Hoàng_Trung_Hải - giám_đốc Công_ty Dịch_vụ viễn_thông , nhà cung_cấp mạng di_động Vinaphone - cho_biết trong khoảng hai tháng đầu , doanh_thu của nhà cung_cấp dịch_vụ sẽ giảm nhưng từ tháng thứ ba trở đi , do không còn tính cước liên_vùng nên số_lượng các cuộc gọi sẽ tăng lên , đồng_nghĩa với việc tăng doanh_thu . 
+Ông Nguyễn_Mạnh_Thắng cũng đồng_ý với ý_kiến đó và nói thêm rằng việc tính cước một vùng sẽ thuận_lợi hơn đối_với cả MobiFone và Vinaphone trong việc quản_lý cước do mỗi loại_hình thuê_bao chỉ còn một giá cước trong phạm_vi cả nước . 
+Liệu có kịp áp_dụng từ ngày 1-7 ? 
+Trả_lời Tuổi_Trẻ vào chiều_qua ( 28-6 ) , Thứ_trưởng Bộ Bưu_chính - viễn_thông Đặng_Đình_Lâm cho_biết bộ đã nhận được tờ_trình của VNPT và đang xem_xét để có quyết_định trong thời_gian sớm nhất . 
+Ông Lâm cũng khẳng_định chủ_trương của bộ là sẽ đồng_ý với cách tính cước một vùng . 
+Tuy_nhiên , ông Nguyễn_Mạnh_Thắng lại tỏ ý băn_khoăn với thời_điểm áp_dụng từ ngày 1-7 . 
+Theo giải_thích của ông Thắng , thứ_năm này đã bước sang tháng bảy , vì thế việc áp_dụng cách tính cước mới chỉ khả_thi đối_với những thuê_bao trả sau vì cước_phí tháng bảy của loại_hình thuê_bao này được tính vào đầu tháng tám , còn các thuê_bao trả trước và thuê_bao ngày tính cước ngay sau khi kết_thúc mỗi cuộc gọi nên sẽ không điều_chỉnh kịp . 
+Nếu chỉ áp_dụng cho riêng thuê_bao trả sau thì sẽ không công_bằng . 
+Vì vậy , trong trường_hợp Bộ Bưu_chính - viễn_thông quyết_định cho tính cước một vùng thì rất có_thể ngày áp_dụng sẽ phải lùi lại sau 1-7 . 

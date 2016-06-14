@@ -1,0 +1,10 @@
+Hai nguy_cơ xâm_nhập và tấn_công DoS ở sản_phẩm Cisco 
+Nhà cung_cấp thiết_bị mạng Mỹ vừa công_bố 2 lỗ_hổng an_ninh trong IOS , một có_thể khiến các thiết_bị dùng hệ_điều_hành mạng của Cisco bị tấn_công từ_chối dịch_vụ ( DoS ) và một cho_phép xâm_nhập bất_hợp_pháp vào hệ_thống . 
+Lỗi cho_phép xâm_nhập giúp hacker xác_định và gửi những gói dữ_liệu đặc_biệt , gọi là thông_điệp Internet_Key_Exchange ( IKE ) Xauth , tới bộ định_tuyến ( router ) cấu_hình giống một Easy_VPN_Server . 
+Sau đó , hacker có_thể giành quyền truy_nhập mạng và khai_thác các tài_nguyên bên trong . 
+Lỗi này chỉ ảnh_hưởng các thiết_bị chạy trên IOS Easy_VPN_Server . 
+Tham_khảo thêm tại đây . 
+Khiếm_khuyết liên_quan đến nguy_cơ tấn_công DoS ảnh_hưởng đến các router và thiết_bị IOS chạy server Secure_Shell ( SSH ) trong quản_lý từ xa . 
+Kẻ tấn_công có_thể lợi_dụng lỗ_hổng này theo nhiều cách khác nhau , trong đó có việc lợi_dụng một lỗi bộ_nhớ để gửi đi nhiều lệnh khiến router khởi_động lại . 
+Lỗi này ảnh_hưởng các thiết_bị IOS chạy SSH phiên_bản 2 . Tham_khảo thêm tại đây . 
+Cisco đã phát_hành bản sửa lỗi cho cả 2 khiếm_khuyết trên . 

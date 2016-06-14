@@ -1,0 +1,6 @@
+Mỹ : Điểm đến thứ 12 của sâu Cabir 
+Bắt_nguồn từ Philippines , virus điện_thoại_di_động đầu_tiên trên thế_giới này đã xuất_hiện tại Bắc_Mỹ trong một cửa_hàng bán thiết_bị điện_tử ở Santa_Monica , California , khi có người qua đường phát_hiện tín_hiệu trên màn_hình chiếc Nokia trong tủ trưng_bày . 
+Theo Mikko_Hypponen , Giám_đốc nghiên_cứu của hãng bảo_mật F-Secure ( Phần_Lan ) , ảnh_hưởng lớn nhất của virus có tới 15 phiên_bản này là khả_năng hút hết pin của thiết_bị liên_lạc . 
+Khác với virus máy_tính lây_lan rất nhanh ra toàn_cầu qua Internet , Cabir ( còn được gọi là Caribe ) phát_tán chậm qua khoảng_cách ngắn của kết_nối không dây Bluetooth . 
+Ngoài_ra , để virus nhiễm vào máy còn cần một điều_kiện là người sử_dụng khởi_động lại điện_thoại sau khi chấp_nhận chương_trình . 
+Theo Hypponen , việc Cabir có_mặt ở nhiều nơi chỉ có_thể là do một chiếc điện_thoại chứa virus được mang đi từ nước này sang nước khác . 

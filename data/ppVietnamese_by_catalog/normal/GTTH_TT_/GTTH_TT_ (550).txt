@@ -1,0 +1,4 @@
+Mobifone tung ra dịch_vụ nhạc chuông cho người gọi 
+Với một mức cước rất hợp_lý , bao_gồm cước thuê_bao ngày 300đ / ngày và cước thay_đổi nội_dung dịch_vụ là : 2000đ/1 nội_dung , khách_hàng của MobiFone có_thể sử_dụng một dịch_vụ rất tiện_ích và hợp túi_tiền . 
+Dịch_vụ FunRing được cung_cấp cho tất_cả khách_hàng là thuê_bao trả sau của mạng MobiFone . Việc đăng_ký sử_dụng dịch_vụ được thực_hiện rất đơn_giản bằng cách gửi SMS ( soạn tin_nhắn : " FunRing " ) , truy_nhập vào MobiFone_Wap ( truy_cập vào mạng và lựa_chọn mục đăng_ký ) hoặc gọi vào hệ_thống trả_lời tự_động của dịch_vụ thông_qua số 9224 . 
+Sau khi đăng_ký , hệ_thống sẽ tự_động gửi SMS xác_nhận việc đăng_ký thành_công và cung_cấp cho khách_hàng mật_khẩu gồm 4 ký_tự , khách_hàng sẽ sử_dụng mật_khẩu này để truy_nhập Web và hệ_thống IVR . Thông_tin chi_tiết được giới_thiệu trên trang web tại địa_chỉ : http : / / www . mobifone . com . vn/funring/ 

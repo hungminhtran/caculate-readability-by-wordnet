@@ -1,0 +1,4 @@
+Đồng_Nai : Truy_cập Internet phải xuất_trình CMND 
+Đây là yêu_cầu nằm trong Quyết_định số 71 do Bộ_trưởng_công_an ban_hành hôm 29/1 . 
+Theo đó , các dịch_vụ Internet phải có sổ đăng_ký sử_dụng dịch_vụ Internet , trong đó thống_kê chi_tiết thông_tin về khách_hàng gồm : họ tên , địa_chỉ , số chứng_minh_nhân_dân hoặc hộ_chiếu , thời_gian sử_dụng dịch_vụ ... 
+Quyết_định cũng yêu_cầu các đại_lý có giải_pháp ngăn_chặn việc truy_cập đến các trang web mang nội_dung xấu và cài_đặt chương_trình phần_mềm có_thể quản_lý tức_thời nội_dung thông_tin của khách_hàng . 

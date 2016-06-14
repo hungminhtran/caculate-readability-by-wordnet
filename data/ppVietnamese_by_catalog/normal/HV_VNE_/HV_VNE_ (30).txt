@@ -1,0 +1,12 @@
+Phát_hiện virus máy_tính bằng phương_pháp ADN 
+Bằng cách tương_tự như phân_tích pháp_y , phương_pháp Genotype do công_ty bảo_mật Sophos ( Anh ) nghiên_cứu và phát_triển sẽ giúp phát_hiện biến_thể , nhận_dạng đặc_điểm tiêu_biểu của virus trước khi xảy_ra nguy_cơ lây_lan . 
+Điều này giống như nghiên_cứu ADN của mỗi virus , Greg_Mastoras , Giám_đốc marketing của Sophos , giải_thích . 
+Điểm yếu của phần_mềm tấn_công là đa_số chúng đều chứa cùng một mã nguồn tương_tự . 
+Phương_pháp Genotype ngăn_cản nhiều loại biến_thể khác nhau của virus trước khi chúng được tạo ra . 
+Một_khi đã giải_mã được sự tương_đồng giữa các biến_thể , phần_mềm của Sophos lưu_ý đến các đặc_tính của chúng nhằm chống lại nguy_cơ lặp lại việc lây_lan sau đó . 
+Theo Mastoras , công_cụ Genotype sẽ giúp các nhà cung_cấp giải_pháp dùng sản_phẩm của Sophos như Anti-Virus 5.0 và PureMessage hạn_chế bớt những nguy_cơ thiệt_hại do virus gây ra . 
+Ngoài Genotype , Sophos sẽ cập_nhật nhiều tính_năng mới hướng đến các doanh_nghiệp lớn có nhu_cầu bảo_mật cao . 
+Những công_cụ mới này sẽ giúp giảm_thiểu nhiều chi_phí quản_lý hiện_nay . 
+Tiện_ích Sophos_Enterprise_Console tăng khả_năng bảo_mật và chống virus đối_với hệ_thống sử_dụng Windows và Macintos . Chương_trình PureMessage , với công_cụ thiết_lập và mở_rộng khoảng thời_gian giữa những lần báo_cáo , dễ_dàng tích_hợp LDAP ( một giao_thức truy_cập thư_mục trong trình_duyệt và phần_mềm e-mail ) , giao_diện web cho người sử_dụng , hỗ_trợ cho hệ_thống Sun_Java_System_Messaging_Platform& sẽ giúp tăng hiệu_quả của hoạt_động quản_lý hạ_tầng thông_tin . 
+Sophos cũng giới_thiệu một gói phần_mềm trợ_giúp được thiết_kế đặc_biệt cho các doanh_nghiệp lớn với đòi_hỏi mức hỗ_trợ cao về an_ninh và quản_lý . 
+Tất_cả các tính_năng mới trên đây sẽ chính_thức được cập_nhật vào cuối tháng 2 này . 

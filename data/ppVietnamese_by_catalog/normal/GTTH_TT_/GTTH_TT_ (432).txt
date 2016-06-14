@@ -1,0 +1,21 @@
+Lướt web 3D với trình_duyệt uBrowser 
+Bạn có_thể vào đây để tải trình_duyệt 3D uBrowser 1 . 0.0 về dùng với dung_lượng khoảng 6MB ở dạng file nén .zip . 
+Sau khi hoàn_tất việc tải về , bạn chỉ việc " bung " thư_mục uBrowser vào ổ_cứng là hoàn_toàn có_thể sử_dụng được . 
+uBrowser là một trong những ứng_dụng hiếm_hoi có_thể chạy độc_lập mà không cần cài_đặt vào Windows . 
+Để chạy trình_duyệt uBrowser , bạn phải vào thư_mục ubrowser và nhấp đúp vào file ubrowser . exe để kích_hoạt trình_duyệt hoạt_động . 
+Ngoài cửa_sổ giao_diện chính hiện lên để sử_dụng , uBrowser còn hiện lên một cửa_sổ giao_diện DOS đen_ngòm như cách đây cả một con_giáp . 
+Đừng can_thiệp gì vào cửa_sổ DOS này mà hãy tập_trung vào cửa số giao_diện chính của uBrowser . 
+Vì là một trình_duyệt dạng " đồ_chơi " nên uBrowser sẽ không có những tính_năng , dù là cơ_bản như các trình_duyệt đang phổ_biến hiện_nay , nhưng bù lại những cách thể_hiện trang web ở dạng không_gian 3 chiều sẽ làm mê_hoặc người dùng mọi giới . 
+Bạn phải nhập địa_chỉ trang web cần xem vào ô " Url " và nhấp nút " Focus " để duyệt trang web . 
+Tốc_độ hiển_thị trang web trên uBrowser cũng như những trình_duyệt hiện_nay , nhưng cái độc_đáo nhất là các nút thể_hiện tính 3D của trình_duyệt này . 
+Ở mục " Type " có 4 chế_độ thể_hiện là : Flat , Cub , Ball và Flag . 
+Chọn kiểu Flat thì trang web hiển_thị sẽ có dạng mặt_phẳng 2 chiều mà mặt sau sẽ thể_hiện mọi thứ ngược lại hoàn_toàn so với mặt trước giống như soi trang web vào một tấm gương . 
+Kiểu_Cub sẽ thể_hiện trang web trên một khối vuông 6 mặt . 
+Kiểu_Ball sẽ thể_hiện trang web trên một khối tròn giống như ta xem quả địa_cầu . 
+Kiểu_Flag sẽ làm cho trang web bay phấp_phới như lá cờ trong gió hoặc dập_dờn như sóng biển . 
+Nút quan_trọng nhất và thú_vị nhất trong trình_duyệt uBrowser là " Rotation " giúp cho trang web xoay đủ 4 phương 8 hướng trong không_gian 3D . 
+Nút " Translate " sẽ làm trang web di_chuyển khắp nơi trong giao_diện . 
+Nút " Scale " giúp phóng to hoặc thu nhỏ trang web trong " không_gian " 3D . 
+Sau khi xoay trang web " mòng_mòng " trong không_gian , bạn sẽ rất khó_khăn khi muốn trả trang web trở_về trạng_thái ban_đầu , nút " Reset " sẽ giúp bạn làm việc đó . 
+uBrowser có_thể được xem là trình_duyệt web thứ 2 trên thế_giới có khả_năng thể_hiện trang web ở dạng không_gian 3 chiều . 
+So với SphereXPlorer , trình_duyệt web 3D đầu_tiên trên thế_giới , thì uBrowser tỏ_ra hơn hẳn về tính hữu_dụng và đơn_giản . 

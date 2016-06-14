@@ -1,0 +1,12 @@
+Tạo dáng con vật hoặc ô_tô bằng vỏ hộp 
+Quan_sát , nhận_xét 
+Có nhiều loại vỏ hộp bằng nhựa , gỗ , sắt , giấy với kích_cỡ , màu_sắc khác nhau có_thể dùng để tạo_thành các hình : con vật , ô_tô , tàu_thuyền , nhà_cửa , ... 
+Nhớ lại các bộ_phận chính của hình định tạo dáng . 
+Ví_dụ : 
+Ô_tô : buồng_lái , thùng chở hàng , bánh_xe , ... 
+Con vật : đầu , mình , chân , đuôi , ... 
+Cách tạo dáng 
+Tìm những hộp có hình_dáng , màu_sắc phù_hợp với các bộ_phận của con vật , hoặc ô_tô định tạo dáng . 
+Có_thể cắt , sửa các khối hình cho vừa với từng bộ_phận của con vật hoặc ô_tô ( H . 2 ) . 
+Ghép , dính các bộ_phận để thành_hình con vật hoặc ô_tô ( H . 3 ) . 
+Tạo thêm một_số chi_tiết ( cắt dán hoặc vẽ ) cho hình sinh_động hơn . 

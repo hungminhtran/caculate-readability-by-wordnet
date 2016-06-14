@@ -1,0 +1,11 @@
+Virus đầu_tiên trong PSP 
+Hãng bảo_mật Symantec vừa đưa ra cảnh_báo về một virus mới trong thiết_bị game cầm tay PlayStation_Portable ( PSP ) của Sony . 
+Tuy_nhiên , Trojan mang tên PSPBrick có mức_độ nguy_hiểm và khả_năng phát_tán không cao . 
+Thông_thường , khách_hàng không_thể cài bất_cứ phần_mềm nào ngoài những chương_trình của Sony , do đó , người sử_dụng phải hack chính máy PSP của mình để cài_đặt trò_chơi khác . 
+Virus_PSPBrick giả_dạng như một công_cụ bẻ khoá , cho_phép mọi người tải và chơi những game bất_kỳ . 
+Tuy_nhiên , một_khi xâm_nhập vào máy , nó sẽ xoá toàn_bộ file hệ_thống và khiến thiết_bị ngừng hoạt_động . 
+PSPBrick xuất_hiện cách đây vài ngày và đã tạo nên cuộc tranh_luận khá sôi_nổi trên nhiều diễn_đàn PSP . 
+Một_số thành_viên cho rằng chính nhóm phát_triển sản_phẩm đã tạo virus này : " Ai đó đã trả tiền Sony và nghĩ rằng họ có_thể làm bất_cứ điều gì với thiết_bị nếu họ muốn " . 
+Nghi_ngờ này xuất_phát từ sự_kiện năm 2000 khi Symantec thông_báo về virus đầu_tiên trong sản_phẩm Palm_OS , và từ đó , hãng bảo_mật này bắt_đầu kinh_doanh công_cụ diệt virus cho thiết_bị cầm tay . 
+Tuy_nhiên , đơn_vị chế_tạo PSP đã lên_tiếng khẳng_định họ không hề phát_hành chương_trình nào như thế , đồng_thời cho_biết họ đang nghiên_cứu để sớm đưa ra bản vá lỗi . 
+Sony cũng khuyến_cáo khách_hàng không nên tải bất_cứ phần_mềm nào về máy nếu chưa có thông_báo chính_thức . 

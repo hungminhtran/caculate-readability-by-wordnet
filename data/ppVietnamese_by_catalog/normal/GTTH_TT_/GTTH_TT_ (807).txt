@@ -1,0 +1,6 @@
+Từ_điển thuật_ngữ CNTT trên mạng 
+Từ_điển có chức_năng cho nhiều người cùng lúc có_thể tham_gia : đưa các phương_án dịch nghĩa khác nhau cho một thuật_ngữ , trao_đổi , ghi_chú và bình_bầu các phương_án từ đó tiến tới thống_nhất một phương_án dịch trên cơ_sở ý_kiến của số_đông . 
+Người dùng còn có_thể đưa các thuật_ngữ mà mình chưa biết dịch để cho mọi người cùng trao_đổi đưa ra các phương_án lựa_chọn . 
+Hiện_tại trang web từ_điển thuật_ngữ CNTT mới xây_dựng được 500 thuật_ngữ bao_gồm : gần 300 thuật_ngữ trong TCVN 6695 :2000 , hơn 100 thuật_ngữ lấy từ diễn_đàn Java và còn_lại là một_số thuật_ngữ lấy trong các diễn_đàn dịch_thuật khác . 
+Anh Đặng_Minh_Tuấn , thành_viên trong tiểu_ban xây_dựng bộ chuẩn thuật_ngữ ( TCVN 6695 :2000 ) thuộc Trung_tâm Tiêu_chuẩn của Tổng_cục tiêu_chuẩn Đo_lường chất_lượng cho_biết , phải mất 2 năm mới ra được 300 từ . 
+Vì vậy việc xây_dựng trang web trên sẽ rút ngắn thời_gian rất nhiều do có sự đóng_góp của cả cộng_đồng . 

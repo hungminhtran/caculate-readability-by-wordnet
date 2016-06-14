@@ -1,0 +1,10 @@
+Đếm ngược cho một cuộc tấn_công Sober mới 
+Các chuyên_gia bảo_mật của iDefense , thuộc công_ty VeriSign ( Mỹ ) , dự_đoán ngày 5/1 có_thể sẽ xảy_ra một đợt bùng_phát sâu mới dựa trên mã của Sober . Z xuất_hiện từ 22/11 . 
+iDefense tin rằng những kẻ viết virus đã chuẩn_bị một chương_trình tuyên_truyền lớn bởi 5/1 là ngày thành_lập đảng quốc_xã cách đây 87 năm . 
+Từ khi xuất_hiện vào tháng 10/2003 , dòng Sober đã sản_sinh gần 30 biến_thể , chủ_yếu được phát_tán qua nhữnge-mail vận_động cho phe cựu_hữu hoặc giả_danh FBI và CIA . Nếu đúng như dự_báo , người sử_dụng Internet sẽ có gần một tháng để xây_dựng hàng_rào bảo_vệ hệ_thống trước dòng virus sinh_sôi nảy_nở với tốc_độ kỷ_lục của năm 2005 . 
+" Cuộc tấn_công có_thể gây ảnh_hưởng nghiêm_trọng đến giao_thông mạng do các máy_chủ e-mail bị ngập_lụt thư rác " , công_ty bảo_mật Mỹ cảnh_báo . 
+Tuy_nhiên , Mikko_Hypponen , Giám_đốc nghiên_cứu của hãng diệt virus Phần_Lan , cho rằng nguy_cơ này có_thể được ngăn_chặn do đa_số những site hỗ_trợ tải Sober đều nằm trên máy_chủ miễn_phí đặt tại Đức và Áo . 
+" Còn rất nhiều thời_gian cho các nhà cung_cấp dịch_vụ và hãng chống chương_trình nguy_hiểm chặn lại những URL chứa sâu . 
+Nếu may_mắn , tháng tới sẽ không có chuyện gì xảy_ra cả " , Hypponen nói . 
+Phiên_bản Sober mới nhất vẫn còn gây nhiều rắc_rối cho người sử_dụng thư_điện_tử . 
+Microsoft tuần trước thừa_nhận khối_lượng e-mail nhiễm sâu quá lớn đã cản_trở lưu_thông trong dịch_vụ Hotmail và MSN . 

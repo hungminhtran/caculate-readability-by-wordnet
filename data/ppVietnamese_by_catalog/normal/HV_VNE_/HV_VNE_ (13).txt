@@ -1,0 +1,11 @@
+MSN_Messenger bị virus tấn_công 
+Hãng bảo_mật Phần_Lan F-Secure cảnh_báo một loại sâu mới đang phát_tán trên Internet thông_qua công_cụ nhắn tin nhanh ( Instant_Messenger - IM ) của Microsoft . Virus mang tên Bropia . A , được phát_hiện hôm 19/1 , lây_lan bằng cách gửi bản_sao tới những địa_chỉ IM trong danh_sách liên_lạc của phần_mềm MSN_Messenger trên máy_tính bị nhiễm . 
+Máy_tính dùng hệ_điều_hành Windows và để mở cửa_sổ MSN_Messenger trên desktop đều có_thể bị tấn_công . 
+F-Secure và Symantec đánh_giá Bropia . A thuộc loại nguy_cơ thấp vì số máy_tính được thông_báo bị lây_nhiễm đến nay không nhiều và các hãng này cũng đã phát_hành bản nâng_cấp công_cụ diệt nên khả_năng lan rộng của virus không cao . 
+Trong khi những dạng virus IM trước đây phát_tán bằng cách gửi đường link tới file virus nhúng trong tin_nhắn , Bropia lan_truyền theo kiểu gửi lệnh yêu_cầu phần_mềm nhắn tin gửi các bản_sao của file virus trực_tiếp vào danh_sách bạn_bè của người sử_dụng MSN_Messenger . Symantec cho_biết Bropia còn có_thể theo_dõi Messenger để nếu thấy có thay_đổi gì trong danh_sách này thì nó sẽ gửi ngay file vào những tên mới khi những người này đăng_nhập vào mạng IM . 
+Khi được kích_hoạt , Bropia sẽ tự sao_chép vào ổ_cứng máy_tính , giả_dạng là một file có những tên như " Drunk-lol . pif " , " Webcam-004.pif " , " sexy-bedroom . pif " , " naked-party . pif " hoặc " love-me . pif " . 
+Virus cũng sẽ tắt ( disable ) nút phải chuột để cản_trở người sử_dụng truy_cập vào những menu phổ_thông , đồng_thời thay_đổi cài_đặt trong hệ_thống chỉnh volume âm_thanh Windows . 
+Bropia . A còn cài một Trojan có tên Rbot ( Symantec gọi là W32.Spybot ) vào PC nạn_nhân để mở một cổng hậu trên hệ_thống , theo_dõi bàn_phím , thu_thập thông_tin và làm kênh chuyển_tiếp thư rác . 
+Virus IM không phải là một khái_niệm mới . 
+Các chuyên_gia bảo_mật vẫn thường_xuyên cảnh_báo về khả_năng lây_lan rất nhanh của chúng qua các mạng nhắn tin lớn như của Microsoft , Yahoo và AOL . 
+Tháng 8/2004 , hãng giải_pháp an_ninh PivX ( Mỹ ) đã phát_hiện một phiên_bản của sâu Scob , sử_dụng các tin_nhắn IM số_lượng lớn để lừa người sử_dụng Internet tới những website phát_tán một loại mã tương_tự như chương_trình Download . ject . 

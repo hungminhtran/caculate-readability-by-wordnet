@@ -1,0 +1,30 @@
+Thêm 3 biến_thể virus các dạng 
+Một sâu e-mail mới ẩn trong file đính kèm với lời chúc năm mới là những hình người khoả_thân , một virus tấn_công điện_thoại_di_động qua kênh Bluetooth và một Trojan nấp trong các file video để download spyware . 
+Hãng bảo_mật Sophos ( Anh ) vừa phát_hiện một chương_trình mà họ đặt tên là Wurmark . D nằm trong phần đính kèm thư_điện_tử . 
+Virus được giấu ở một file ảnh mà trong đó lời chúc Happy_New_Year được tạo nên từ những hình đàn_ông , đàn_bà khoả_thân . 
+Theo chuyên_gia Graham_Cluley của Sophos , khi người nhận e-mail mở file ảnh ra xem , Wurmark . D sẽ bí_mật xâm_nhập vào máy_tính , đồng_thời vô_hiệu_hoá các phần_mềm an_ninh trên hệ_thống . 
+Virus còn tự chuyển_tiếp bản_sao tới các địa_chỉ e-mail mà nó tìm thấy trên máy_tính nạn_nhân . 
+Nạn_nhân chủ_yếu của Wurmark . D là các nhân_viên công_sở trở_lại cơ_quan sau kỳ nghỉ cuối năm và phải mở hàng chục thiệp mừng năm mới của bè_bạn . 
+Và nếu thiếu cảnh_giác , họ sẽ lập_tức khiến máy_tính bị nhiễm virus . 
+May thay , đến bây_giờ số PC mà Sophos xác_định bị Wurmark . D tấn_công không nhiều . 
+Đây cũng không phải lần đầu_tiên tin_tặc sử_dụng mồi câu là các nội_dung khoả_thân nhằm dụ_dỗ người nhận thư mở file đính kèm . 
+Năm_ngoái , sâu Sober cũng đã sử_dụng biện_pháp này với những hình_ảnh một nữ_vũ_công tóc vàng bốc_lửa . 
+Tiếp_nối những phiên_bản virus điện_thoại_di_động liên_tục xuất_hiện trong những tuần gần đây , một chương_trình có tên Lacos . A vừa được hãng bảo_mật Phần_Lan F-Secure phát_hiện . 
+Virus này có khả_năng phát_tán qua kết_nối không dây tầm ngắn Bluetooth và tự đính kèm bản_sao vào các file trên thiết_bị . 
+Đây là lần đầu_tiên chúng_tôi ghi_nhận một virus điện_thoại có 2 cơ_chế phát_tán , Mikko_Hypponen , Giám_đốc nghiên_cứu của F-Secure , cho_biết . 
+Lacos . A nhân_bản vào tất_cả các file SIS vốn được dùng để cài_đặt các ứng_dụng trên hệ_điều_hành Symbian . 
+Nó tấn_công điện_thoại dùng giao_diện Nokia_Series 60 và được kích_hoạt khi người sử_dụng click vào file SIS . 
+Điện_thoại có nguy_cơ bị dính virus nhiều nhất khi trao_đổi file trong tầm sóng Bluetooth , qua tia_hồng_ngoại , thẻ_nhớ hoặc thậm_chí dây_cáp . 
+Lacos . A còn quét tìm những điện_thoại khác có hỗ_trợ Bluetooth để truyền file lây_nhiễm sang , tất_nhiên phải có sự chấp_nhận của chủ máy đó . 
+Khác với Skulls ( hiển_thị hình đầu_lâu khi lây vào máy ) , Lacos . A không thể_hiện nhiều dấu_hiệu về sự xâm_nhập của nó . 
+Thời_lượng pin bị rút ngắn có_lẽ là dấu_hiệu dễ nhận_thấy nhất , Hypponen nói . 
+Các file SIS bị nhiễm virus thường lớn hơn nhưng hầu_hết người sử_dụng không nhận_thấy . 
+Theo chuyên_gia này , Lacos . A thực_ra vẫn chỉ là một virus dạng mẫu chứ chưa phát_tán lung_tung . 
+Tuy_nhiên , đây là phần_mềm tấn_công có tiềm_năng lây_lan rất nhanh . 
+Để phòng_ngừa , người dùng điện_thoại được khuyến_cáo để ẩn chế_độ Bluetooth , tức_là không cho máy khác phát_hiện thiết_bị của mình . 
+Liên_quan đến Windows_Media_Player , các chuyên_gia an_ninh đang cảnh_báo 2 loại Trojan lẩn trong file video và tải về máy_tính các loại spyware , dialer và virus mỗi khi công_cụ nghe_nhìn của Microsoft được sử_dụng trực_tuyến . Hãng phần_mềm an_ninh Panda ( Tây_Ban_Nha ) cho_biết 2 biến_thể có tên Trj / WmvDownloader . A và Trj / WmvDownloader . B phát_tán qua các mạng ngang hàng và lợi_dụng công_cụ quản_lý bản_quyền số DRM được tích_hợp trong Windows_Media , được thiết_kế để bảo_vệ bản_quyền các nội_dung truyền_thông . 
+Thông_thường , khi người sử_dụng cố_gắng mở một file Windows_Media được bảo_vệ , DRM sẽ đòi phải có phép hợp_lệ . 
+Nếu giấy_phép không được lưu sẵn trên máy_tính , ứng_dụng sẽ tìm_kiếm trên Internet , nhờ đó người sử_dụng có_thể lấy được trực_tiếp hoặc mua bản_quyền sử_dụng . 
+Công_nghệ này được áp_dụng trong Windows_XP_Service_Pack_2 và Windows_Media_Player 10 . Panda cho_biết , nếu được sử_dụng , thì các file video bị nhiễm Trojan sẽ giả_vờ tải giấy_phép tương_ứng với nội_dung mà người sử_dụng muốn xem . 
+Tuy_nhiên , trên thực_tế chúng lại dẫn máy_tính nạn_nhân tới những địa_chỉ Internet khác , tại đó các chương_trình spyware , phần_mềm quay số tự_động dialer và virus sẽ được tải vào máy_tính . 
+2 loại Trojan nói trên mới được xác_định trong các file video tải qua mạng ngang hàng như Kazaa hay eMule , nhưng chúng cũng có_thể được phát_tán qua những con đường khác như file đính kèm e-mail , download qua FTP hoặc Internet , đĩa_mềm , CD-ROM& 

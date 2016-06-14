@@ -1,0 +1,8 @@
+Microsoft cảnh_báo lỗi TCP / IP 
+Trong thông_cáo liên_quan đến tính_năng xử_lý giao_thức nói trên ở phần_mềm của họ , Microsoft cho_biết khiếm_khuyết có_thể cho_phép hacker thiết_lập các giá_trị tuỳ_thích trong một kết_nối TCP để gây tê_liệt mạng . 
+Lỗ_hổng này cũng cho_phép kẻ xâm_nhập giành quyền truy_nhập đầy_đủ vào những máy_tính bị lỗi . 
+Khi khai_thác thiếu_sót này , đầu_tiên kẻ tấn_công phải đoán hoặc tìm ra địa_chỉ IP và cổng nguồn thông_tin cũng như điểm đến của một kết_nối mạng TCP , thông_báo tư_vấn của Microsoft giải_thích . 
+Các giao_thức hoặc chương_trình duy_trì những khoảng liên_lạc ( session ) kéo dài hoặc có những thông_tin TCP / IP dễ đoán đều bị nguy_cơ . 
+Tuy_nhiên , Microsoft cũng nhấn_mạnh rằng những máy_tính đã cài bản Windows_XP_SP2 và Windows_Server_SP1 không bị ảnh_hưởng và khiếm_khuyết nói trên không thuộc loại nguy_cơ đặc_biệt nghiêm_trọng . 
+Lỗi này đã được xử_lý trong bản vá lỗi MS05-019 mà Microsoft phát_hành tháng 4 nhưng hiện_nay đã được phát_hành lại vì gặp một_số vấn_đề không tương_thích . 
+Tham_khảo thêm về khiếm_khuyết TCP / IP mà Microsoft thông_báo tại đây . 

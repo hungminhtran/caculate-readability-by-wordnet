@@ -1,0 +1,14 @@
+Trang web của Microsoft ở Anh bị tấn_công 
+Nhóm hacker thực_hiện vụ này là Apocalypse . 
+Họ để lại bức ảnh với thông_điệp : " Tự_do cho RAFA - hacker không phải là tội_phạm " . 
+Vụ tấn_công này được tiến_hành vào ngày thứ 5/7 . 
+Hiện_giờ bức ảnh đã được gỡ bỏ và trang web www . microsoft . co . uk đã hoạt_động trở_lại bình_thường . 
+Người_phát_ngôn của Microsoft cho_biết đây là lời cảnh_báo về bảo_mật : " Không có lý_do gì để tin_tưởng dữ_liệu của khách_hàng hay bất_kì thông_tin nhạy_cảm khác đã không bị xâm_phạm " . 
+Các chuyên_gia kĩ_thuật của Microsoft đang tìm_hiểu nguyên_nhân . 
+Cuộc tấn_công không để lại hậu_quả nghiêm_trọng . 
+Diễn_đàn an_ninh Zone-H dự_đoán lỗi cấu_hình của máy_chủ của Microsoft là lỗ_hổng cho hacker thực_hiện cuộc tấn_công . 
+Máy_chủ của Microsft chạy hệ_điều_hành Windows_2003 servers và sử_dụng phần_mềm web server IIS 6 . Rafael ( Rafa ) Nunez-Aponte là người Venezuela , bị nghi_ngờ là thành_viên của nhóm hacker " World_of_Hell " . 
+Tên này đang bị giam_giữ tại Mỹ sau khi bị bắt vào tháng 4 tại Miami . Rafa đã thực_hiện một loạt các cuộc tấn_công vào máy_chủ của Bộ quốc_phòng Mỹ trước năm 2001 . 
+Các trang web của tổ_chức và chính_phủ Mỹ luôn là mục_tiêu của Apocalypse trong vài tháng gần đây . 
+Nạn_nhân trước bao_gồm trang web của đại_học Stanford và hải_quân nước này . 
+Sau mỗi cuộc tấn_công nhóm tin_tặc đều để lại thông_điệp kêu_gọi trả tự_do cho Rafa . 

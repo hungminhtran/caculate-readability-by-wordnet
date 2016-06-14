@@ -1,0 +1,10 @@
+Thử_nghiệm một_số dịch_vụ mới của Windows_Live_
+Windows_Live_Expo , một dịch_vụ thông_tin thương_mại trực_tuyến Microsoft dự_định phát_hành tại Mỹ . Ngoài các quảng_cáo thông_thường như liệt_kê danh_mục các sản_phẩm hoặc căn_hộ cho thuê , dịch_vụ này còn cung_cấp những chức_năng phục_vụ cộng_đồng . 
+Phiên_bản thử_nghiệm của Windows_Live_Local , trước đây vốn có tên là MSN Virtual_Earth , cho_phép truy_tìm địa_danh cũng như cung_cấp các dịch_vụ bản_đồ . 
+Bản thử_nghiệm sẽ có thêm tính_năng " street side " . 
+Tính_năng này sẽ cung_cấp cho người dùng một vùng những bức ảnh chi_tiết đến độ không ngờ của khá nhiều thành_phố lớn ở Mỹ . Nếu so với Google_Earth thì dịch_vụ này đạt được độ chi_tiết cao hơn , tuy_nhiên , mức_độ thực_tế và tầm rộng thì chưa_thể so_sánh . 
+Phạm_vi địa_lý chỉ mới giới_hạn ở Mỹ . Dịch_vụ thư_điện_tử mới có tên là Windows_Live_Mail với những tính_năng tiện_dụng và quen_thuộc của một trình quản_lý thư điện tự . 
+Windows_Live_Mail sẽ thay_thế cho MSN_mail và tương_thích hoàn_toàn với Hotmail của Microsoft . Microsoft cũng cung_cấp thêm Microsoft_Live_Mail_Desktop , có chức_năng tương_tự như Outlook nhưng dành cho Windows_Live_Mail . 
+Một_số dịch_vụ khác cũng khá thú_vị như Windows_Office_Live và Windows_Live_Safety_Center . Office_Live sẽ là một bộ phần_mềm với các tính_năng phục_vụ cho công_việc văn_phòng như soạn_thảo văn_bản , bảng tính , lên lịch công_tác , nhắc_nhở cuộc họp ... 
+có_thể nói là một MS_Office thu nhỏ . 
+Live_Safety_Center hỗ_trợ những kiến_thức và khả_năng bảo_mật trực_tuyến , cũng như phòng_chống trước những hiểm_hoạ từ Internet . Bạn_đọc quan_tâm có_thể click vào liên_kết sau đây để dùng thử các dịch_vụ của Windows_Live_http : / / ideas . live.com . 

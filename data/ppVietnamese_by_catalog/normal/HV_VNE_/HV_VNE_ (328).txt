@@ -1,0 +1,11 @@
+Các hãng bảo_mật cần 17 giờ để diệt một virus mới 
+Theo công_ty an_ninh mạng Ironport ( Mỹ ) , người sử_dụng máy_tính Windows không được bảo_vệ trước sự tấn_công của những chương_trình nguy_hiểm mới tổng_cộng 56 ngày trong năm . 
+Ironport cho_biết trung_bình các hãng diệt virus mất gần một ngày để sản_xuất " thuốc giải_độc " tính từ khi một virus lạ xuất_hiện . 
+Đôi_khi , quá_trình nâng_cấp diễn_ra rất nhanh_chóng nhưng nói_chung , hệ_thống máy_tính của người sử_dụng thường không an_toàn trong nhiều giờ . 
+Ví_dụ , chương_trình cập_nhật để diệt sâu Sober cần 16 giờ 14 phút sau khi biến_thể mới ra_đời . 
+Ngược lại , sâu Bagle " trêu_ngươi " các công_ty bảo_mật tới 79 giờ 25 phút và họ cũng cần trung_bình 496 giờ 16 phút mới có_thể đương_đầu nổi với Mytob . Nhiều nhóm viết phần_mềm nguy_hiểm gâp áp_lực cho hãng diệt virus bằng cách tung ra liên_tiếp nhiều phiên_bản chỉ khác nhau đôi_chút . 
+Càng nhiều biến_thể trong cùng một dòng virus , thời_gian để nhận_biết và điều_chỉnh càng lâu . 
+Tính đến thời_điểm này , họ_hàng nhà Mytob đã ra_mắt hơn 100 phiên_bản . 
+Hệ_thống kiểm_soát lượng e-mail đến / đi của Ironport thu_thập thông_tin của hơn 100.000 tổ_chức trên toàn thế_giới . 
+Matt_Peachey , Giám_đốc của Ironport tại Bắc_Âu , cho_biết việc theo_dõi lưu_lượng này giúp họ phát_hiện ra mỗi đợt bùng_phát virus ngay khi nó mới bắt_đầu , bởi mọi thông_điệp chứa virus thường có dung_lượng mail giống nhau . 
+Theo Peachey , sự xuất_hiện dồn_dập những e-mail có file đính kèm khoảng 60 - 100 KB , chứng_tỏ một sâu mới đang được phát_tán . 

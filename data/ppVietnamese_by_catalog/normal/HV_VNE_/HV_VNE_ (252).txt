@@ -1,0 +1,10 @@
+Công_cụ chống thư rác ' vô_dụng ' trước hacker 
+Nhiều chuyên_gia tin_tưởng rằng chương_trình xác_thực người dùng sẽ góp_phần giảm tình_trạng ngập_lụt spam . 
+Tuy_nhiên , chỉ cần thêm một_vài dòng mã hoặc huy_động mạng máy_tính bị khống_chế là tin_tặc đã có_thể qua_mặt những phần_mềm đó . 
+Những công_cụ như SPF ( Sender_Policy_Framework ) và chương_trình xác_thực ID người gửi ( Sender_ID ) được xây_dựng kiểm_tra xem liệu hệ_thống máy_tính có được phép gửi e-mail từ một tên_miền cụ_thể nào đó hay không . 
+Tuy_nhiên , " phần_mềm này không thông_báo cho bạn biết người gửi là ai hay tính_chất spam của một thông_điệp " , Nick_FitzGerald , chuyên_gia của công_ty cố_vấn bảo_mật Computer_Virus_Consulting ( New_Zealand ) , nhận_định . 
+" Hơn thế , dù virus không trực_tiếp tấn_công SPF , hacker vẫn có_thể dễ_dàng soạn một_số dòng code để vô_hiệu_hoá nó . 
+Bên cạnh đó , ' botnet ' ( thuật_ngữ ám_chỉ những mạng máy_tính bị khống chếzombiedo hacker kiểm_soát ) sẽ chiến_thắng mọi công_cụ chống spam " . 
+Dmitri_Alperovitch , chuyên_gia của hãng ứng_dụng bảo_mật CipherTrust ( Anh ) , tán_thành quan_điểm của FitzGerald bởi những kẻ chuyên phát_tán thư rác đã quá am_tường công_nghệ xác_thực e-mail : " Nhiều người không hy vong phần_mềm có_thể chấm_dứt spam , nhưng cho rằng nó giúp hạn_chế phishing . 
+Tuy_vậy , ngay_cả điều này cũng đáng phải bàn lại " . 
+Trong khi đó , Vesselin_Bontchev , thuộc hãng diệt virus FRISK ( Iceland ) , phản_bác kết_luận của FitzGerald và khẳng_định công_cụ xác_thực người dùng ít_ra cũng sẽ hỗ_trợ nhà cung_cấp dịch_vụ Internet dò_tìm những máy_tính bị hacker thâu_tóm . 

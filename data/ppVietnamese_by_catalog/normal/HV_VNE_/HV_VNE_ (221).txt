@@ -1,0 +1,4 @@
+DVD_Jon ' ra_tay ' với Windows_Media_Player 
+Jon_Lech_Johansen , hacker người Na_Uy nổi_tiếng với kỹ_thuật vô_hiệu_hoá công_cụ bảo_vệ đĩa DVD ( nên được gọi là DVD_Jon ) , vừa lập chiến_tích mới khi xuyên thủng mã bảo_mật phần_mềm nghe_nhìn của Microsoft . Mục_tiêu của vụ hack là cho_phép mọi người dùng được Windows_Media_Player trên nhiều nền điều_hành khác nhau , trong đó có cả các hệ_điều_hành mã mở . 
+Chi_tiết cách_thức tiến_hành việc này được tác_giả đăng trên website riêng So_Sue_Me . Năm nay 21 tuổi , Johansen có niềm đam_mê đặc_biệt trong việc xâm_nhập và vô_hiệu_hoá các hệ_thống bảo_vệ để cho_phép những hệ_điều_hành khác nhau sử_dụng được nhiều phần_mềm thương_mại hoặc đơn_giản chỉ là loại_bỏ được mã bảo_vệ bản_quyền số . 
+Hồi tháng 3 , Johansen đã tiến_hành phá mã công_cụ chống sao_chép trên hệ_thống nhạc trực_tuyến iTunes của Apple trong vòng 24 giờ . 

@@ -1,0 +1,12 @@
+Công_nghệ bảo_mật làm tăng nguy_cơ bảo_mật 
+Theo Emily_Finch , nhà tội_phạm_học thuộc Đại_học Đông_Anglia ( Anh ) , chip và số nhận_dạng cá_nhân ( PIN ) sẽ khuyến_khích kẻ lừa_đảo sáng_tạo , tinh_vi hơn , do đó , những phát_minh này không hề làm dịu tình_trạng ăn_cắp thông_tin nhạy_cảm . 
+Quá phụ_thuộc vào biện_pháp bảo_mật sẽ dẫn đến lơ_là trong việc đề_phòng , cảnh_giác . 
+" Chúng_ta vẫn tin_tưởng rằng tiến_bộ công_nghệ sẽ cung_cấp giải_pháp đối_phó với các vụ lừa_đảo , tuy_nhiên , hiện_nay xuất_hiện một giả_thuyết đáng lo_ngại là có khả_năng chúng lại làm trầm_trọng thêm vấn_đề " , Finch phát_biểu . 
+" Giới tội_phạm sẽ thích_nghi nhanh_chóng với bất_cứ tình_huống nào xảy_ra " . 
+Finch đã phỏng_vấn nhiều phạm_nhân về lý_do cũng như cách họ phạm_pháp và mức_độ công_nghệ mới ảnh_hưởng đến họ như thế_nào . 
+Bà nhận_thấy chúng khá kiên_trì và liên_tục thay_đổi mưu_mẹo cho đến khi vượt_qua được các vòng bảo_mật . 
+Những kẻ lừa_đảo sẽ chuyển_đổi và lợi_dụng chính những tiến_bộ công_nghệ , ví_dụ như Internet , làm cơ_sở lý_tưởng để tiếp_cận thông_tin cá_nhân . 
+Finch tỏ_ra nghi_ngờ về mã PIN và chip yêu_cầu người dùng nhập số thay_vì chữ_ký khi thực_hiện giao_dịch tiền_tệ . 
+Bà khẳng_định tội_phạm không trông_chờ vào sự may_mắn để đọc trộm mã_số và ăn_cắp thẻ , chúng sẽ dùng những thủ_thuật riêng lấy mẫu đăng_ký thẻ tín_dụng để làm thẻ mới với mã_số mới . 
+Finch cũng cho_biết không phải tất_cả các trường_hợp đều được thực_hiện vì mục_đích tài_chính , mà chỉ là đôi_khi nhiều người muốn kiểm_tra một công_nghệ nào đó . 
+" Nghiên_cứu cách mọi người để lộ thông_tin nhạy_cảm sẽ thực_sự có giá_trị trong việc ngăn_chặn lừa_đảo , hơn là tập_trung một_chiều vào cải_tiến kỹ_thuật " , Finch kết_luận . 

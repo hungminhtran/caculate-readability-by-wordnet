@@ -1,0 +1,13 @@
+Fatso - Assiral : Cuộc đấu mới của giới tin_tặc 
+Loại sâu mới phát_hiện , Fatso . A , đang phát_tán qua công_cụ nhắn tin nhanh MSN_Messenger với những thông_điệp chửi_rủa tác_giả Assiral . A , một virus được viết ra để vô_hiệu_hoá sâu Bropia . 
+Fatso . A ( còn được gọi là Crog và Sumom ) gửi đi những tin_nhắn có đường link mà nếu người sử_dụng MSN_Messenger bấm vào sẽ khiến PC tải virus về . 
+Sâu này còn lây_lan dưới dạng một file trên hệ_thống chia_sẻ ngang hàng eMule . 
+Fatso . A mang thông_điệp của một hacker tự_xưng là Sky_Devil , trong đó dùng ngôn_từ tục_tĩu để chỉ_trích kẻ viết ra chương_trình tấn_công đối_kháng với Bropia , loại sâu Internet xuất_hiện gần đây . 
+Fatso . A có khả_năng đưa nạn_nhân tới một_số website giả_vờ là của các công_ty phần_mềm chống virus . 
+Nó còn tắt các ứng_dụng bảo_mật trên máy_tính mục_tiêu . 
+Loại virus Assiral . A được thiết_kế để gỡ bỏ Bropia và các biến_thể của họ này ra khỏi PC bị lây_nhiễm . 
+Virus này xuất_hiện trong phần đính kèm e-mail ở Outlook , giả_dạng là những bức thư_tình . 
+Khi được kích_hoạt , nó sẽ tìm và tiêu_diệt Bropia nhưng đồng_thời cũng thả những mã tấn_công khác vào máy_tính , trong đó có một chương_trình làm hiển_thị thông_điệp kêu_gọi bảo_vệ thế_giới khỏi hoạ Bropia . 
+2 virus Bropia và Assiral . A có mức phát_tán không cao . 
+Tuy_nhiên , Fatso . A lại đang lây_lan rất nhanh tại Mỹ và Hàn_Quốc . 
+Cuộc đấu của các tác_giả virus nói trên có_vẻ là sự lặp lại của những trận_đấu khẩu thông_qua virus trước đây giữa những kẻ viết ra Mydoom , Bagle và NetSky . 

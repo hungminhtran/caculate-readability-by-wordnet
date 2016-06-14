@@ -1,0 +1,17 @@
+Dùng máy_tính giải_mã điện mật Enigma cách đây … 64 năm 
+Enigma là loại máy mã_hoá đuợc xem là " siêu tân_kỳ " mà phát_xít Đức đã từng sử_dụng trong suốt thế_chiến II và làm cho quân đồng_minh vô_cùng đau đầu khi không_thể bẻ khoá nổi . 
+Máy mã_hoá Enigma 1 trục_quay . 
+Để giải_mã các thông_điệp bắt được từ máy mã_hoá điện từ Enigma , quân đồng_minh đã phải huy_động đến 10.000 chuyên_gia của đủ mọi lĩnh_vực . 
+Sau một thời_gian cố_gắng giải_mã với sự hợp_tác của một_số thiên_tài toán_học , quân đồng_minh đã giải_mã được đa_số các thông_điệp thu được từ máy Enigma nhưng một_số bức vẫn được xem là không_thể giải nổi cho đến tận ngày_nay . 
+Tiếp_nối truyền_thống của nhà toán_học tài_ba người Anh Alan_Turing , người có công đầu trong việc giải_mã máy Enigma , các chuyên_gia giải_mã tại viện nghiên_cứu Bletchley_Park của Anh đã quyết_tâm thành_lập một dự_án mang tên M4 để làm nốt công_việc của tiền_nhân còn dang_dở . 
+Bắt_đầu từ đầu tháng 1-2006 , M4 là một dự_án giải_mã các thông_điệp do máy Enigma tạo ra bằng cách sử_dụng một_số siêu_máy_tính sử_dụng mã nguồn mở . 
+Các giải_pháp giải_mã đã được các chuyên_gia của Bletchley_Park thiết_lập hết_sức công_phu và bức điện đầu_tiên trong 3 bức điện đã được giải xong vào đầu tuần trước . 
+Sau đây là nội_dung bức điện mật với mã_số FT1132/19 , phát ở tần_số sóng_radio 1851/19/252 , đã tồn_tại trong suốt hơn 60 năm qua : " Tàu địch đã bỏ chạy ngay khi cuộc tấn_công mở_màn . 
+Vị_trí tàu địch gần nhất ở 0830h AJ 9863 , 220 độ , 8 hải_lý . 
+Chúng_tôi đang đuổi theo sau . 
+Khí_áp hạ xuống còn 14mb , gió đông đang thổi đến , tầm_nhìn xa khoảng 10 hải_lý " . 
+Như vậy bức điện này là do một tàu_chiến hoặc một tàu_ngầm của quân Đức đang tác_chiến gửi về cho bộ chỉ_huy hải_quân Đức . 
+Sở_dĩ bức điện này vẫn còn mật … mãi cho đến tận ngày_nay là do nó được mã_hoá bằng loại máy Enigma 4 trục_quay , phức_tạp gấp nhiều lần so với loại máy mã_hoá Enigma thông_thường chỉ có một trục_quay . 
+Không lạ gì khi các chuyên_gia giải_mã của quân đồng_minh hồi đó đành chịu bó_tay trước 3 thông_điệp mật này . 
+Đến ngày_nay , với sự hỗ_trợ của các siêu_máy_tính , mà M4 cũng phải mất đến nhiều tuần mới giả mã xong một thông_điệp . 
+2 bức điện còn_lại vẫn còn đang được tiếp_tục giải_mã . 

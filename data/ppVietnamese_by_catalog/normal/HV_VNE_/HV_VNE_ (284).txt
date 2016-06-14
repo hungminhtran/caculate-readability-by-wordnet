@@ -1,0 +1,18 @@
+Microsoft sửa lỗi xử_lý ảnh trong bảo_mật tháng 11 
+Ba lỗ_hổng trong cách Windows quản_lý và điều_khiển file đồ_hoạ có khả_năng mở_đường cho hacker thực_hiện những cuộc tấn_công bằng spyware và Trojan trên máy_tính của người sử_dụng . 
+Trong bản tin an_ninh MS05-53 , Microsoft cho_biết lỗi liên_quan đến cách hệ_điều_hành hiển_thị định_dạng ảnh Windows_Metafile ( WMF ) và Enhanced_Metafile ( EMF ) . 
+Để khai_thác lỗ_hổng , tin_tặc có_thể đăng ảnh chứa mã nguy_hiểm trên website hoặc gửi qua e-mail , sau đó lừa mọi người mở ra xem với mục_đích cài phần_mềm gián_điệp , Trojan , sâu hoặc những chương_trình độc_hại khác . 
+MS05-53 được xếp vào hàng " nghiêm_trọng " , mức_độ nguy_hiểm cao nhất theo cách tính của Microsoft . Hai trong ba lỗi sẽ tạo cơ_hội cho những kẻ có âm_mưu xấu kiểm_soát máy_tính từ xa , lỗi còn_lại chỉ làm hỏng ứng_dụng đang chạy file độc . 
+Mã khai_thác lỗ_hổng gây trục_trặc chương_trình này đã được đăng_tải trên Internet gần đây . 
+Hãng phần_mềm Mỹ cho_biết lỗ_hổng nghiêm_trọng nhất ảnh_hưởng đến tất_cả các hệ_điều_hành của Windows . 
+Hai lỗi còn_lại chỉ xuất_hiện trong Windows_2000 , Windows_XP_Service_Pack 1 và Windows_Server_2003 . Lỗ_hổng trong quá_trình quản_lý và hiển_thị ảnh đang xuất_hiện ngày_một nhiều . 
+Điều này là do định_dạng ảnh tương_đối rắc_rối và các ứng_dụng chương_trình phải hỗ_trợ nhiều kiểu file ảnh cùng lúc . 
+Trong tháng 8 , Microsoft cũng đã cảnh_báo về một lỗi tương_tự liên_quan đến cách Internet_Explorer xử_lý ảnh JPEG . 
+" Trong thời_gian tới , loại khiếm_khuyết này sẽ hiện_diện trong mọi ứng_dụng phổ_biến , mọi định_dạng file phức_tạp , không_chỉ riêng với hình_ảnh " , Neel_Mehta , một trưởng_nhóm tại tổ_chức bảo_mật ISS ( Mỹ ) , nhận_xét . 
+" Chúng_tôi không nghĩ lỗi mới nhất trong Windows sẽ gây ra một cuộc khai_thác rộng khắp , nhưng chúng sẽ bị lợi_dụng để tấn_công vào những mục_tiêu xác_định " . 
+Liên_quan đến bảo_mật của Microsoft , bản vá MS05-038 ( trong bản tin an_ninh tháng 8 ) và MS05-052 ( trong bản tin tháng 10 ) có_thể làm hỏng giao_diện trình_duyệt và khiến nhiều trang web không_thể hiển_thị hoàn_chỉnh . 
+Hai bản vá này loại_bỏ tính_năng " không an_toàn " và thay_đổi cách trình_duyệt vận_hành giao_thức điều_khiển ActiveX . 
+Tuy_nhiên , sau khi cài MS05-038 , những trang chứa đối_tượng Component_Object_Model ( COM ) sẽ không_thể tải xuống như mong_đợi . 
+Trong khi đó , MS05-052 sẽ chặn một_số website có giao_thức ActiveX . 
+Microsoft cho_biết mọi chế_độ bảo_mật của Internet_Explorer phải được đặt ở chế_độ gần như cao nhất mới có_thể khắc_phục được các lỗi liên_quan đến ActiveX . 
+Tập_đoàn của Bill_Gates đã phát hànhhướng dẫn giải_quyết vấn_đề MS05-038 và mô_tả lỗitrong MS05-052 . 

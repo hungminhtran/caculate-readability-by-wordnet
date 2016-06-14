@@ -1,0 +1,14 @@
+2 lỗi nghiêm_trọng ở bản tin bảo_mật Windows cuối năm 
+Microsoft vừa phát_hành 2 bản vá cho 4 lỗ_hổng trong Internet_Explorer ( IE ) và một lỗi của Windows_2000 . Bản cập_nhật trình_duyệt cũng xử_lý trục_trặc liên_quan đến chương_trình rootkit cài trong đĩa CD của Sony_BMG_Music_Entertainment . 
+Hai trong bốn lỗi IE , đề_cập trong bản tin MS05-054 , được đánh_giá ở mức " nghiêm_trọng " , có_thể cho_phép kẻ tấn_công kiểm_soát toàn_bộ hệ_thống . 
+Nguy_cơ diễn_ra ở mọi phiên_bản của trình_duyệt được cài trên bất_cứ hệ_điều_hành Windows nào . 
+Một lỗi xảy_ra khi IE vận_hành những đối_tượng tài_liệu nhất_định . 
+Vấn_đề này xuất_hiện từ tháng 5 nhưng chỉ được coi là sẽ gây ra tấn_công từ_chối dịch_vụ . 
+Nhưng trong tháng 11 , nhiều chuyên_gia đã cảnh_báo rằng nó có_thể tạo cơ_hội cho kẻ tấn_công chạy mã_độc từ xa trên hệ_thống . 
+Thậm_chí hãng bảo_mật Secunia ( Đan_Mạch ) đã xếp lỗ_hổng ở mức nghiêm_trọng cao nhất . 
+Lỗi IE thứ hai tương_tự như rắc_rối đã được mô_tả trong bản tin bảo_mật tháng 7 , 8 và 10 . Bản vá lỗ_hổng lần này gỡ bỏ những kết_nối giữa IE và một_số thành_tố khác không phù_hợp khác trong phần_mềm của Microsoft . 
+Lỗ_hổng thứ 3 liên_quan đến cách trình_duyệt hiển_thị bảng hội_thoại khi tải file từ một trang chứa mã_độc . 
+Trục_trặc cuối_cùng của IE tạo điều_kiện cho hacker theo_dõi những website mà người sử_dụng đang ghé thăm , ngay_cả khi site đó đã được mã_hoá bằng địa_chỉ https . 
+Tuy_nhiên , điều này chỉ xảy_ra khi PC kết_nối Internet thông_qua một loại máy_chủ proxy nhất_định . 
+Ngoài IE , Microsoft cung_cấp sửa lỗi phân_quyền trong Windows_2000 khiến hacker quản_lý hệ_thống thông_qua bản tin MS05-055 . " Những lỗ_hổng này đang bị khai_thác ngày_càng nhiều nhằm lừa_đảo trực_tuyến và khống_chế PC " , Oliver_Friedrichs , Giám_đốc cao_cấp của Symantec_Security_Response , cho_biết . 
+" Symantec đã ghi_nhận nhiều vụ khai_thác lớn , do đó người dùng nên cập_nhật bản vá lỗi càng sớm càng tốt " . 

@@ -1,0 +1,13 @@
+Michael_Jackson tự_vẫn ? 
+Các chuyên_gia tại hãng bảo_mật Sophos cảnh_báo thực_ra đây chỉ là một chiến_dịch thư rác mới nhằm đánh_lừa những người dùng ngây_thơ tin rằng ông vua nhạc Pop đã liều tự_tử để phát_tán Trojan . 
+Nội_dung e-mail nói M . Jackson tự_tử . 
+E-mail có nội_dung : " Đêm qua , tại dinh_cơ Neverland , Michael_Jackson tự_vẫn . 
+Người_ta cho rằng hành_động này là hậu_quả của lời cáo_buộc gần đây nhất chống lại Michael . Vua nhạc Pop 46 tuổi này đã để lại chúc_thư mô_tả và giải_thích cho những việc_làm tội_lỗi của mình . 
+Xem tiếp ... " 
+Tuy_nhiên , khi người dùng click vào kết_nối " Read more " , ngay_lập_tức họ bị dẫn đến một website tự_động cài phần_mềm nguy_hiểm vào máy_tính . 
+" Nếu nhấp chuột vào link này , website sẽ hiện thông_báo quá_tải . 
+Điều này không gây ngạc_nhiên cho những người nghĩ rằng tin sốt_dẻo về Michael_Jackson đã làm tắc_nghẽn đường truyền " , Carole_Theriault , cố_vấn bảo_mật tại Sophos , nói . 
+" Tuy_nhiên , đằng sau chiến_thuật nghi_binh này là phần_mềm nguy_hiểm bí_mật xâm_nhập vào PC mà người dùng không hề hay_biết " . 
+Sophos đã phân_tích mã và khẳng_định đó là phiên_bản Trojan / Borobt-Gen . 
+Hãng cũng cho_biết đây không phải lần đầu_tiên ngôi_sao nhạc Pop này bị lợi_dụng để phát_tán virus . 
+Tháng 10 năm_ngoái , nhiều thông_điệp đã được đăng_tải trên mạng tuyên_truyền rằng đã phát_hiện ra những cuốn video ghi lại tội_ác của Jackson , nhưng thực_ra đó chỉ là kết_nối tải Trojan_Hackarmy . 

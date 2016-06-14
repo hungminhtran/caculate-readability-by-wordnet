@@ -1,0 +1,11 @@
+Trojan mới trên điện_thoại dùng Symbian 
+Hai phiên_bản Gavno . A và B phát_tán dưới dạng file vá lỗi để lừa người sử_dụng điện_thoại_di_động tải về . 
+Riêng biến_thể Gavno . B còn chứa cả sâu Cabir với mưu_toan gửi một bản_sao Trojan tới những thiết_bị khác qua sóng Bluetooth . 
+Aaron_Davidson , Giám_đốc điều_hành SimWorks , hãng phát_hiện 2 Trojan nói trên , cho_biết : Gavno là dạng chương_trình đầu_tiên được thiết_kế để gây gián_đoạn những chức_năng chính của điện_thoại_di_động như gọi điện , nhắn tin , e-mail và danh_bạ liên lạc&Điện thoại có_thể bị biến thành cục chặn giấy vô_giá_trị . 
+Davidson cho_biết thêm : Gavno . A và B , có_thể xuất_xứ từ Nga , vẫn là những chương_trình có tính chứng_minh khái_niệm chứ chưa phải loại phát_tán lung_tung vì mục_đích xấu . 
+Chúng_tôi được cảnh_báo nên để_ý tới những dạng phần_mềm này vì nguy_cơ từ chúng đang trở_thành hiện_thực . 
+Dù không phải là những phần_mềm tinh_vi , Gavno vẫn có_thể gây ra khá nhiều rắc_rối . 
+Gavno . A có dung_lượng 2 KB , xuất_hiện dưới vỏ bọc là một file SIS ( Symbian_Installation_System ) có tên patch . sis . 
+Phiên_bản B , nhỏ hơn , được gắn bên trong file patch-v2.sis . 
+Gavno ảnh_hưởng các loại điện_thoại Nokia_6600 và 7610 sử_dụng hệ_điều_hành thiết_bị di_động của hãng Symbian phiên_bản 7 với giao_diện đồ_hoạ Series_60 . Các dòng máy Sony_Ericsson_P900 , P910 , Motorola_A925 , 1000 ( dùng giao_diện đồ_hoạ UIQ_Technology_AB ) , Nokia_3650 , Siemens_SX1 ( chạy Symbian phiên_bản 6.x với giao_diện Series 60 ) không bị ảnh_hưởng 
+Để phòng_ngừa , SimWorks khuyên người dùng điện_thoại cần khôi_phục lại chế_độ cài_đặt mặc_định , và tất_nhiên như thế có_thể phải chấp_nhận mất thông_tin trên máy . 

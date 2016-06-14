@@ -1,0 +1,8 @@
+H5N1 - đề_tài mới của virus máy_tính 
+Những kẻ viết chương_trình nguy_hiểm , vốn luôn tìm_kiếm cơ_hội tốt nhất để tấn_công PC của người sử_dụng , đang khai_thác mối quan_tâm của dư_luận về dịch cúm gà nhằm phát_tán một Trojan nguy_hiểm . 
+Naiva . A ẩn sau những tài_liệu Word có tiêu_đề " Bùng_phát ở Bắc_Mỹ " ( Outbreak_in_North_America ) hoặc " Cúm gà là gì ? " ( What_is_avian_influenza ? ) . 
+Trojan sử_dụng một lệnh macro hỗ_trợ chỉnh_sửa , tạo , xoá file , và một macro khác có khả_năng cài phần_mềm Ranky . FY trên PC , cho_phép tin_tặc điều_khiển máy_tính từ xa . 
+" Lợi_dụng tình_hình rối_ren hiện_tại để gây sự chú_ý và dụ_dỗ người dùng click vào tệp đính kèm trong e-mail là một thủ_thuật khá ranh_mãnh " , Jeanine_Rother , chuyên_gia nghiên_cứu của hãng bảo_mật Panda , bình_luận . 
+" Dù đã liên_tục được cảnh_báo không nên mở file chưa rõ nguồn_gốc , một_số người vẫn tảng_lờ vì đây là vấn_đề liên_quan đến cuộc_sống và tính_mạng của chính họ " . 
+Số_lượng máy_tính bị nhiễm Naiva . A rất khó có_thể ước_tính , nhưng Panda chỉ xếp Trojan này ở mức nguy_hiểm không cao . 
+Naiva . A ra_đời ngay sau khi xuất_hiện hàng_loạt thư rác quảng_cáo cho trang webkinh doanh thuốc Tamiflu , dược_phẩm được cho là hiệu_quả nhất trong việc bảo_vệ con_người trước virus H5N1 . 

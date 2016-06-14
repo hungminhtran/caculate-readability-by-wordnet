@@ -1,0 +1,11 @@
+Mạng_lưới 100.000 máy_tính ' ma ' bị xoá_sổ 
+Cảnh_sát Hà_Lan vừa bắt_giữ 3 thanh_niên với tội_danh sử_dụng hệ_thống PC bị khống_chế ( zombie ) quy_mô lớn trên toàn thế_giới để đột_nhập vào nhiều tài_khoản ngân_hàng quốc_tế và hệ_thống thanh_toán trực_tuyến Paypal ( Mỹ ) . 
+Trong cuộc đột_kích bất_ngờ vào nơi ở của 3 tên này ( 19 , 22 và 27 tuổi ) , cảnh_sát đã thu về " một_số máy_tính , tài_liệu , một tài_khoản ngân_hàng , tiền_mặt và một ôtô thể_thao " . 
+Hơn 100.000 cỗ máy zombie , trong số đó có tới vài nghìn máy_tính của nạn_nhân ở Hà_Lan , bị cài Trojan mang tên Toxbot . 
+Băng hacker này đã chơi trò " mèo vờn chuột " với các hãng bảo_mật . 
+" Toxbot ghi lại toàn_bộ hoạt_động của bàn_phím trên PC bị lây_nhiễm và gửi thông_tin trở_lại cho nhóm tội_phạm mạng . 
+Phần_mềm diệt virus đã nhiều lúc phát_huy tác_dụng , góp_phần cản đường chúng . 
+Tuy_nhiên , 3 tay này đã thường_xuyên chỉnh_sửa chương_trình để duy_trì trò_chơi với công_cụ bảo_mật " , một cảnh_sát tiết_lộ . 
+Nhóm điều_tra cho rằng 3 tên này đã nắm trong tay một lượng lớn tài_khoản của Paypal và eBay , cho_phép chúng đăng_ký mua hàng qua mạng mà không phải trả tiền . 
+Họ cũng khẳng_định có ít_nhất một vụ tấn_công từ_chối dịch_vụ DDoS hướng vào một công_ty không được nêu tên tại Mỹ . DDoS là thủ_thuật chủ_yếu được những kẻ tống_tiền sử_dụng , và nạn_nhân thường là các công_ty đánh_bạc trực_tuyến và hãng bán lẻ trên Internet . 
+Toàn_bộ mạng Trojan " hùng_hậu " đã bị vô_hiệu_hoá với sự hợp_tác của chính_phủ Hà_Lan , XS4All_Internet và một_số nhà cung_cấp dịch_vụ khác ở nước này . 

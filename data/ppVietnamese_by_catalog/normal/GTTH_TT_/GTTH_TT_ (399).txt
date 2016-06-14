@@ -1,0 +1,3 @@
+Viettel thay_đổi cách tính cước 
+Theo đó , thay_vì mỗi block được tính tròn thành 6 giây như hiện_nay , phương_án mới cho_phép khách_hàng gọi giây nào tính tiền giây đấy kể từ sau 6 giây đầu_tiên . 
+Đây là động_thái nhằm tăng_cường sức cạnh_tranh với các nhà cung_cấp viễn_thông khác sau khi VNPT trình phương_án giảm cước cho mạng Vinaphone , MobiFone và mạng S-Fone áp_dụng cách tính cước 6s+1 từ 14-4 . 

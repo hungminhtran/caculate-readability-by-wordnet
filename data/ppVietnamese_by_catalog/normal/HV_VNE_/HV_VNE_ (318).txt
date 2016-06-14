@@ -1,0 +1,13 @@
+Mục_tiêu của hacker năm tới là ĐTDĐ và thiết_bị định_tuyến 
+Theo hãng bảo_mật Symantec , sản_phẩm di_động , router của Cisco , phần_mềm Oracle , VoIP và hệ_điều_hành thế_hệ mới của Microsoft sẽ trở_thành " bia_đỡ_đạn " của tin_tặc và tội_phạm mạng trong năm 2006 . Nếu xét về số bản vá lỗi được công_bố thường_xuyên của Microsoft , những nghiên_cứu của Trung_tâm bảo_mật SANS ( Mỹ ) và số vụ rắc_rối về an_ninh đang diễn_ra , có_thể khẳng_định Windows sẽ là " miếng mồi ngon " đối_với hacker . 
+Tuy_nhiên , Symantec cho rằng tội_phạm sẽ tập_trung hơn vào những sản_phẩm và nền_tảng thay_thế . 
+Khi thiết_bị di_động của người sử_dụng trở lên thông_minh và được trang_bị khả_năng tương_tự một máy_tính , chúng sẽ bị săn tìm và tấn_công nhiều hơn . 
+" Chúng_tôi nhận_thấy hacker bắt_đầu chuyển hướng sang những hệ_thống không phải PC như bộ định_tuyến ( router ) , chuyển mạch ( switch ) , thiết_bị sao lưu dự_phòng ( back_up ) " , Dave_Cole , Giám_đốc trung_tâm bảo_mật của Symantec , nói . 
+" Điều này cũng giống như một đê chắn sóng . 
+Bạn tập_trung chặn ở chỗ này , hacker sẽ chuyển sang nơi khác . 
+Vấn_đề cần_thiết bây_giờ là đảm_bảo toàn_bộ cơ_sở_hạ_tầng được bảo_vệ " . 
+Dù chưa hứng_chịu nhiều vụ thâm_nhập , điện_thoại và thiết_bị di_động sẽ khó tránh khỏi con mắt nhòm_ngó của tin_tặc , đặc_biệt khi phần_mềm tích_hợp có khả_năng tương_tác mạnh_mẽ hơn và mọi người có_thể thực_hiện giao_dịch tài_chính ngay trên điện_thoại . 
+Theo Symantec , VoIP sẽ là dịch_vụ bùng_nổ năm tới nhưng không hẳn là mục_tiêu dễ khai_thác . 
+2006 cũng là năm của rootkit , chương_trình đã khiến hình_ảnh của hãng Sony " tơi_tả " hồi tháng trước . 
+Hacker đang tiến_hành những vụ đột_nhập có tổ thức với mục_tiêu cụ_thể để thu lợi cao nhất . 
+Tuy_nhiên , kiểu khai_thác truyền_thống , không cần xác_định nạn_nhân chính_xác như qua website và chương_trình tin_nhắn nhanh , sẽ vẫn thịnh_hành . 

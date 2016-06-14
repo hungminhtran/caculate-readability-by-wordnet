@@ -1,0 +1,11 @@
+Gia_tăng nạn mã_hoá tài_liệu PC để tống_tiền 
+Bắt_đầu xuất_hiện từ tháng 5 , các chuyên_gia an_ninh mạng tiếp_tục chứng_kiến thêm nhiều vụ tin_tặc cài phần_mềm phong_toả thông_tin trong máy_tính nạn_nhân và đòi một khoản tiền nhất_định nếu khổ_chủ muốn được cung_cấp khoá . 
+Hãng bảo_mật Websense ( Mỹ ) cho_biết kiểu tấn_công này xảy_ra khi người dùng trình_duyệt Internet_Explorer bị lỗi vô_tình vào một trang web chứa Trojan và các chương_trình nguy_hiểm khác . 
+Một_khi thâm_nhập được vào PC , những phần_mềm này sẽ mã_hoá mọi file trong ổ_cứng hoặc bất_cứ ổ lưu nào mà nó có khả_năng tiếp_cận . 
+Sau đó , tin_tặc để lại một thông_điệp với nội_dung như : Giải_mã giá 2.000 USD . 
+Gửi số tiền này qua tài_khoản ... 
+Chỉ_dẫn mở khoá sẽ được trả_lời qua e-mail . 
+Trong khi đó , công_ty Frost_Sullivan ( Mỹ ) cũng vừa lên_tiếng cảnh_báo về xu_hướng tội_phạm trực_tuyến chuyển từ phương_pháp tấn_công mạng nội_bộ sang khai_thác những ứng_dụng doanh_nghiệp trên web . 
+Hãng chuyên cung_cấp giải_pháp doanh_nghiệp này khuyên các công_ty cần sớm triển_khai công_nghệ tường lửa cho ứng_dụng web ( WAF - web application firewall ) : Bảo_mật mạng truyền_thống chỉ bao_quát tầng dưới OSI ( kết_nối hệ_thống mở ) và không có khả_năng kiểm_soát được các ứng_dụng web , vốn hoạt_động tại tầng 7 của OSI . 
+WAF là công_nghệ duy_nhất hiện_nay có khả_năng giám_sát và bảo_vệ toàn_bộ những chương_trình này . 
+Frost Sullivan cũng trích_dẫn rằng Luật bảo_vệ thông_tin cá_nhân của Mỹ và Nhật đều buộc các doanh_nghiệp thông_báo đầy_đủ cho khách_hàng trong trường_hợp cơ_sở_dữ_liệu của họ bị , hoặc nghi là bị , bên thứ 3 khống_chế . 

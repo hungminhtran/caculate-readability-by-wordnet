@@ -1,0 +1,9 @@
+Microsoft công_bố bản tin bảo_mật tháng 6 
+Hôm_qua , hãng phần_mềm số_một thế_giới đã chính_thức cung_cấp 10 bản vá lỗi , trong đó có 3 bản khắc_phục lỗ_hổng " nghiêm_trọng " của Windows và Internet_Explorer ( IE ) , có nguy_cơ cho_phép hacker khống_chế hoàn_toàn máy_tính . 
+Trong số 3 lỗi này , lỗ_hổng trong IE ( MS05-025 ) và hệ_thống hỗ_trợ HTML_Help ( 026 ) cho_phép các trang web cài phần_mềm nguy_hiểm lưu trong file đồ_hoạ PNG để kiểm_soát hệ_thống người dùng . 
+Lỗi mang số 027 liên_quan đến Server_Message_Block ( SMB ) - giao_thức Windows dùng để chia_sẻ file , máy_in , cổng serial và giữa các PC - được đánh_giá là có nguy_cơ lây_nhiễm sâu cao nhất trong Windows_2000 , XP và Server 2003 . " Tin_tặc có_thể tạo ra một cuộc tấn_công tự_động để cài virus hoặc sâu vào PC " , Stephen_Toulouse , Giám_đốc Trung_tâm bảo_mật của Microsoft , cho_biết . 
+" Tuy_nhiên , cả 3 lỗi này cũng như 7 lỗi khác đều chưa từng được thông_báo hoặc bị hacker khai_thác , dù chúng ảnh_hưởng đến tất_cả các phiên_bản Windows " . 
+7 bản tin bảo_mật còn_lại công_bố 4 lỗ_hổng được xếp ở mức " quan_trọng " xuất_hiện trong Web_Client_Service , Outlook_Web_Access_for_Exchange_Server_5.5 , Outlook_Express , và Windows_Interactive_Training , và 3 lỗi " trung_bình " trong Microsoft_Agent , Telnet_Client , và ISA_Server_2000 . Mặc_dù chỉ được liệt vào mức trung_bình , lỗi ở Agent có_thể tạo cơ_hội cho kẻ tấn_công kiểm_soát thông_điệp pop-up trên máy_tính . 
+Agent là một phần_mềm giao_diện người dùng thường được cài trước trong PC để quản_lý tính_năng hoạt ảnh . 
+Sau khi bị khai_thác , Agent có_thể lừa người dùng tải mã nguy_hiểm qua những cảnh_báo pop-up . 
+Bản tin bảo_mật tháng tiếp_theo được dự_kiến sẽ ra_mắt vào ngày 12/7 . 

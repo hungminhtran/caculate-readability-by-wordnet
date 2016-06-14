@@ -1,0 +1,6 @@
+Macromedia vá lỗi nghiêm_trọng trong công_cụ Flash 
+Theo Macromedia , lỗ_hổng bảo_mật trong Flash_Player 7 . 0.19.0 và các phiên_bản trở_về trước , hoạt_động trên nền Windows , có_thể khiến hàng triệu máy_tính sử_dụng Internet gặp nguy_hiểm . 
+Lỗi được xếp vào hàng " nghiêm_trọng " ( hãng bảo_mật Mỹ eEye đã báo riêng cho Macromedia từ 4 tháng trước đây ) và nằm trong mã nguồn của tệp Flash . ocx ( thành_phần có nhiệm_vụ phát các file .swf ) , mở_cửa cho hacker chạy đoạn mã giả và điều hướng dữ_liệu trên máy_tính nạn_nhân . 
+Stephen_Toulouse , Giám_đốc trung_tâm bảo_mật của Microsoft , đã cảnh_báo trên trang web cá_nhân của ông này và yêu_cầu người sử_dụng Internet_Explorer nhanh_chóng cập_nhật Flash_Player lên bản 8.0 . 
+Macromedia_Flash_Player là sản_phẩm bên thứ 3 , được phát_hành cùng với Windows_XP_Service_Pack 1 và 2 . " Nếu bạn không sử_dụng công_cụ này , hoặc thấy không cần_thiết , bạn có_thể vô_hiệu_hoá trong Internet_Explorer qua lựa_chọn Tool - Manage_Add-ons " , Toulouse hướng_dẫn . 
+Macromedia đã phát_hành bản vá lỗi tại Download_Center . Người sử_dụng Windows có_thể chọn cài các phiên_bản Flash_Player tại đây . 

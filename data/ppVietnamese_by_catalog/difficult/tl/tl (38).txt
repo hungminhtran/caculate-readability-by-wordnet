@@ -1,0 +1,356 @@
+ĐẶT VẤN_ĐỀ 
+Tỷ_giá là một biến_số kinh_tế vĩ_mô quan_trọng có tác_động tới nhiều mặt hoạt_động của nền kinh_tế . 
+Nó ra_đời từ hoạt_động ngoại_thương và quay trở_lại tác_động lên hoạt_động xuất_nhập_khẩu và cán_cân thương_mại cán_cân thanh_toán của mỗi quốc_gia . 
+Xây_dựng thành_công một chính_sách điều_hành tỷ_giá thích_hợp là một vấn_đề vô_cùng khó_khăn phức_tạp . 
+Nghiên_cứu vấn_đề này là một đề_tài mang tính cấp_thiết trong thời_gian gần đây . 
+Góp_phần vào những nghiên_cứu , phân_tích , trong bài tiểu_luận này em cũng xin được trình_bày những suy_nghĩ của mình về một vấn_đề đa_dạng , phức_tạp và cũng vô_cùng quan_trọng này thông_qua đề_tài : " Chính_sách tỷ_giá_hối_đoái và những điều_kiện tự_do_hoá tỷ_giá ở Việt_nam " . 
+Bài tiểu_luận bắt_đầu từ việc phân_tích cơ_sở lý_luận của tỷ_giá ,cơ chế xác_định , những yếu_tố ảnh_hưởng và vai_trò của tỷ_giá đối_với nền kinh_tế . 
+Từ đó làm sáng_tỏ lên tầm quan_trọng của chính_sách tỷ_giá trong việc thực_hiện các mục_tiêu kinh_tế vĩ_mô . 
+Một vấn_đề cũng được coi_trọng trình_bày là những lý_luận về tự_do_hoá hay thả_nổi tỷ_giá . 
+Xu_thế toàn_cầu là từng bước thả_nổi tỷ_giá để cho nó được tự_do xác_định trên thị_trường theo quy_luật cung_cầu ngoại_hối . 
+Tự_do_hoá mang lại nhiều lợi_thế và muốn phát_triển nền kinh_tế thì các quốc_gia không_thể bỏ_qua . 
+Tuy_nhiên bất_cứ một vấn_đề nào cũng có mặt_trái của nó . 
+Không_thể không tính đến những điều_kiện tiên_quyết cho viêc tự_do_hoá tỷ_giá thành_công . 
+Đối_với các nước có nền kinh_tế mới chuyển_đổi có khuyến_nghị là vẫn nên duy_trì ở một mức_độ tương_đối cao những công_cụ quản_lý mang tính hành_chính . 
+Một sự tự_do_hoá vội_vã sẽ dẫn đến những tổn_thương mà nền_tảng kinh_tế vĩ_mô chưa đủ vững_chắc để có_thể chống_đỡ và kết_quả là sự chạy trốn của các luồng vốn .Trình bày bài_học kinh_nghiệm của các nước là một vấn_đề cần_thiết cho quá_trình hoạch_định chính_sách . 
+Thực_trạng điều_hành tỷ_giá ở Việt_Nam thời_gian qua là một nội_dung quan_trọng . 
+Khái_quát cả mười năm đổi_mới hệ_thống tài_chính trên lĩnh_vực tỷ_giá nhằm làm sáng_tỏ những ưu_nhược_điểm để từ đó có những điều_chỉnh thích_hợp . 
+Giải_pháp cho vấn_đề được đề_cập ở chương cuối nêu lên một_vài gợi_mở cho vấn_đề . 
+Với kiến_thức còn nhiều thiếu_sót , cơ_sở số_liệu thống_kê không đầy_đủ và tính phức_tạp của đề_tài nên trong bài viết không tránh khỏi khiếm_khuyết rất mong được sự góp_ý của các thầy_giáo cô_giáo và các bạn . 
+CHƯƠNG I 
+TỶ_GIÁ_HỐI_ĐOÁI VÀ CHÍNH_SÁCH TỶ_GIÁ_HỐI_ĐOÁI 
+I Khái_niệm về tỷ_giá_hối_đoái 
+1,Khái niệm : Khối_lượng thương_mại quốc_tế đã tăng lên trong suốt bốn mươi năm qua làm cho các nền kinh_tế ngày_càng phụ_thuộc lẫn nhau . trong xu_hướng toàn_cầu_hoá dần xoá_nhoà các đường biên_giới quốc_gia và làm cho các dòng tư_bản lưu_chuyển linh_hoạt hơn . trong quá_trình đó , mỗi quốc_gia đều cố_gắng đưa đồng nội_tệ có_thể chuyển_đổi và tìm_kiếm một chính_sách tỷ_giá thích_hợp . 
+Vậy tỷ_giá bắt_đầu xuất_hiện khi có thương_mại quốc_tế . 
+Nó là mức giá giữa hai nước mà tại đó họ trao_đổi với nhau . 
+a , Tỷ_giá_hối_đoái danh_nghĩa : là giá_cả của một đồng_tiền nước này tính theo đơn_vị_tiền_tệ nước khác . 
+Hiện_nay trên thế_giới có hai phương_pháp niêm_yết tỷ_giá là phương_pháp trực_tiếp và phương_pháp gián_tiếp . 
+* Phương_pháp gián_tiếp : ký_hiệu e , là phương_pháp biểu_hiện một đơn_vị nội_tệ bằng các đơn_vị ngoại_tệ . 
+Ví_dụ : Tại thị_trường hối_đoái London yết_giá 1bảng Anh=1,6191 đôla Mỹ 
+* Phương_pháp trực_tiếp : ký_hiệu E , là phương_pháp tỷ_giá_hối_đoái của đồng ngoại_tệ .Nó chính là giá của một đơn_vị ngoại_tệ tính theo số đơn_vị nội_tệ . 
+Ví_dụ : giá của đôla Mỹ(_USD ) tính theo đồng Việt_Nam(_VND ) là14058VND / USD . Điều này nói_lên rằng 1 USD có giá_trị bằng 14058 VND 
+Theo thông_lệ quốc_tế chỉ có ba loại đồng_tiền mạnh trên thế_giới ( đồng bảng Anh , đồng Euro , đồng USD ) được phép niêm_yết giá trực_tiếp . 
+Có nghĩa là trên các nước sở_tại được phép công_bố tỷ_giá e . Tất_cả các loại tiền khác ngoài ba đồng_tiền nêu trên thì phải niêm_yết giá gián_tiếp . 
+Có nghĩa là trên đất_nước sở_tại không được phép công_bố tỷ_giá e mà phải niêm_yết giá thông_qua một đồng_tiền mạnh . 
+b . Tỷ_giá_hối_đoái thực_tế : là giá tương_đối của hàng_hoá ở hai nước 
+Công_thức tính tỷ_giá_hối_đoái thực_tế 
+e’=e * P / P’ 
+e’ : Tỷ_giá_hối_đoái thực_tế 
+e : Tỷ_giá_hối_đoái danh_nghĩa 
+P : Mức giá trong nước 
+P’ : Mức giá nước_ngoài 
+Nếu xét cho một hàng_hoá cụ_thể thì P chính là giá hàng nội tính bằng nội_tệ ( giá nội_địa ) còn P’ chính là giá mặt_hàng cùng loại ở nước_ngoài tính theo giá ngoại_tệ . 
+Ví_dụ : giả_sử có một chiếc áo sơ_mi ở Việt_Nam với giá P=70000VND / chiếc cũng chiếc áo đó sản suất tại Mỹ P’=20 USD ,giả sử 
+e=1/14000 
+Khi đó tỷ_giá_hối_đoái thực_tế bằng e’=e * P / P’=1/14000 * ( 70000/20 )=1/4 
+Điều này nói_lên rằng một chiếc áo sơ_mi Việt_Nam có_thể bằng 1/4 chiếc áo sơ_mi bên Mỹ . 
+Do chất_lượng mẫu_mã như nhau nên hàng Việt_Nam rẻ hơn 1/4 hàng Mỹ . 
+Do đó hàng Việt_Nam có sức cạnh_tranh hơn hàng Mỹ , hàng Việt_Nam có_thể xuất_khẩu sang Mỹ . 
+Nếu tỷ_giá_hối_đoái thực_tế cao , hàng ngoại tương_đối rẻ và hàng nội tương_đối đắt và ngược lại 
+c . 
+Cơ_chế xác_định tỷ_giá : tuỳ_thuộc vào chính_sách tỷ_giá mỗi quốc_gia 
+c1 , Cơ_chế_thị_trường : tỷ_giá cũng là một loại giá_cả , nó được xác_định dựa trên các lực_lượng cung_cầu nội ngoại_tệ trên thị_trường ngoại_hối . 
+Thị_trường ngoại_hối là nơi mua_bán trao_đổi đồng_nội và ngoại_tệ . 
+- Xuất_hiện việc cung tiền của nước A trên thị_trường ngoại_hối so với đồng_tiền nước B khi ngươì dân nước A mua hàng nhập_khẩu từ B hoặc khi người dân nước A đầu_tư sang nước B . 
+Đường cung về tiền có độ dốc dương trong không_gian hai chiều tỷ_giá và lượng cung tiền 
+- Xuất_hiện về cầu tiền nước A trên Tỷ e 
+thị_trường ngoại_hối khi người nước giá S ( VND ) 
+B mua hàng xuất_khẩu từ nước A hoặc 
+khi người nước người dân nước B đầu 
+tư sang nước A . 
+Đường cầu về có độ e * 
+dốc âm trong không_gian hai chiều tỷ 
+giá và lượng tiền . 
+D ( VND ) 
+Sự cân_bằng cung_cầu tiền đạt được khi 
+hai đường này giao nhau và tỷ_giá cân Q * Q( VND ) 
+bằng được xác_định . 
+C2 , Cơ_chế hành_chính : ở những nước theo_đuổi chính_sách kiềm_chế tài_chính và kiểm_soát chặt_chẽ nguồn vốn thường đưa ra một mức tỷ_giá neo cố_định .Tỷ giá này có_thể được thay_đổi điều_chỉnh song không phải do các lực_lượng thị_trường quyết_định . 
+Nó được ấn_định lại khi các nhà quản_lý cần thấy phải thay_đổi nó để phục_vụ cho một mục_đích nào đó . 
+2 . Các nhân_tố ảnh_hưởng đến tỷ_giá 
+a . Các nhân_tố thuộc về dài hạn : 
+* Mức giá_cả tương_đối : Về lâu_dài một sự tăng lên mức giá của một nước ( tương_đối so với mức giá nước khác )làm cho đồng_tiền nước đó giảm giá và một sự giảm giá xuống của mức giá tương_đối làm cho đồng_tiền nước đó tăng giá . 
+* Thuế và Cô-ta : Đây là hàng_rào đối_với hàng nhập_khẩu và bảo_hộ hnàg sản_xuất trong nước . 
+Điều này làm tăng cầu hàng nội và dẫn đến việc tăng giá của đồng nội_tệ . 
+Thuế_quan và cô-ta về lâu_dài làm cho đồng_tiền của một nước lên giá . 
+Tuy_vậy một quốc_gia thực_hiện chính_sách " bế_quan_toả_cảng " thì vấn_đề tỷ_giá đối_với họ không có nhiều ý_nghĩa lắm . 
+* Ưa_thích hàng nội so với hàng ngoại : Một sự ưa_thích hàng ngoại làm tăng cầu về ngoại_tệ khiến cho cung nội_tệ tăng dịch_chuyển và giá đồng nội_tệ giảm xuống .Về lâu_dài cầu về hàng xuất_khẩu của một nước làm cho đồng_tiền của nước đó tăng giá trong khi câù về hàng nhập tăng lên làm cho đồng_tiền nước đó tăng giá . 
+* Năng_suất lao_động : Năng_suất lao_động cao làm giá hàng của một nước rẻ tương_đối so với các nước khác . 
+Cầu hàng xuất nước đó cao lên kéo_theo sự tăng giá của đồng_tiền nước đó . 
+Về lâu_dài , do năng suát lao_động của một nước cao hơn tương_đối so với nước khác , nên đồng_tiền của nước đó tăng giá . 
+* Yếu_tố tâm_lý cũng ảnh_hưởng đến tỷ_giá : Phần_lớn các nước đang phát_triển đều phải đối_mặt với tình_trạng " Đôla hoá " trong nền kinh_tế . Đó là sự mất niềm tin vào đồng bản_tệ , người dân và các tổ_chức kinh_tế găm_giữ đôla và chỉ tín_nhiệm đòng tiền này trong thanh_toán trao_đổi . 
+Do vậy cầu USD rất lớn và giá các đồng bản_tệ xuống thấp các nước luôn trong tình_trạng căng_thẳng về dự_trữ ngoại_hối đảm_bảo khả_năng thanh_toán nợ đến hạn . 
+* Tỷ_lệ lạm_phát : Nếu tỷ_lệ lạm_phát nước A cao hơn tỷ_lệ lạm_phát nước B,nước_A cần nhiều tiền hơn để đổi lấy một lượng tiền nhất_định của nước B . 
+Giá đồng_tiền nước A giảm xuống . 
+* Cán_cân thương_mại : Nó liên_quan đến hoạt_động xuất_nhập_khẩu .Xuất khẩu lớn tỷ_giá lên giá 
+b,Các nhân_tố thuộc về ngắn hạn 
+* Lãi_suất : Lãi_suất là một biến_số kinh_tế tổng_hợp tác_động đến nhiều chỉ_tiêu khác nhau trong đó tỷ_giá và lãi_suất có mối quan_hệ hết_sức chặt_chẽ với nhau . 
+Trong một nước nếu lãi_suất nội_tệ tăng trong khi lãi_suất thế_giới ổn 
+định sẽ làm cho các luồng vốn quốc_tế đổ vào nhiều vì mức lãi_suất quá hấp_dẫn . 
+Do vậy cầu tiền nước này tăng lên và tỷ_giá tăng theo . 
+* Cán_cân thanh_toán : Cán_cân_thanh_toán_quốc_tế phản_ánh mức cung - cầu về ngoại_tệ trên thị_trường ,do đó nó có ảnh_hưởng trực_tiếp đến tỷ_giá_hối_đoái . 
+Bội_thu cán_cân thanh_toán sẽ làm cho tỷ_giá giảm và bội_chi cán cânthanh toán sẽ làm cho tỷ_giá tăng 
+3,Vai trò của tỷ_giá trong nền kinh_tế 
+Tỷ_giá_hối_đoái là một công_cụ kinh_tế vĩ_mô chủ_yếu để điều_tiết cán_cân thương_mại quốc_tế theo mục_tiêu đã định trước của nhà_nước .Nó ra_đời từ hoạt_động thương_mại quốc_tế và quay trở_lại tác_động thúc_đẩy hoạt_động ngoại_thương phát_triển . 
+Bởi_vì tỷ_giá_hối_đoái có tác_động rất lớn đến xuất_nhập_khẩu hàng_hoá và tư_bản ( vốn ) , giá_cả hàng_hoá trong nước , do đó nó có tác_động không nhỏ đến nền kinh_tế quốc_dân của một nước . 
+Khi tỷ_giá giảm , tức giá_trị đồng nội_tệ giảm nên giá_cả hàng_hoá xuất_khẩu tính bằng tiền nước_ngoài giảm , sức cạnh_tranh của hàng_hoá đó trên thị_trường thế_giới sẽ tăng lên có tác_dụng đẩy_mạnh xuất_khẩu hàng_hoá . 
+Đồng_thời với việc tỷ_giá giảm làm cho giá hàng_hoá nhập_khẩu tăng lên dẫn đến hạn_chế nhập_khẩu . 
+Ngược lại khi tỷ_giá tăng , nghĩa_là giá_trị đồng nội_tệ tăng thì có tác_động giảm xuất_khẩu và tăng nhập_khẩu hàng_hoá . 
+Tỷ_giá thay_đổi cũng có tác_động điều_tiết việc di_chuyển tư_bản ( vốn ) từ quốc_gia này sang quốc_gia khác . 
+Việc di_chuyển tư_bản trên thế_giới nhằm mục_đích kiếm lời nhuận và tránh rủi_ro . 
+Do đó , nếu tỷ_giá giảm trong trường_hợp người_ta dự_đoán tỷ_giá không tiếp_tục giảm nữa thì tư_bản nhập_khẩu sẽ gia_tăng và tư_bản xuất_khẩu sẽ giảm . 
+Ngoài các nhân_tố khác ,vật giá trong một quốc_gia còn chịu sự tác_động của tỷ_giá_hối_đoái . 
+Khi tỷ_giá giảm ,giá tư_liệu_sản_xuất và tư_liệu tiêu_dùng nhập_khẩu tăng lên kéo_theo giá_cả các mặt_hàng trong nước có liên_quan cũng tăng theo . 
+Đồng_thời do tác_động giảm nhập_khẩu nên cầu về các hàng_hoá nhập_khẩu cũng sẽ gia tăng,tất điều đó làm cho giá_cả chung trong nền kinh_tế cũng gia_tăng . 
+Ngược lại , khi tỷ_giá tăng sẽ có tác_động làm cho mức giá chung giảm . 
+II . Chính_sách tỷ_giá_hối_đoái 
+Tỷ_giá như phân_tích trên có vai_trò quan_trọng đối_với sự tăng_trưởng và ổn_định của nền kinh_tế . 
+Do vậy , chính_sách hối_đoái của bất_kỳ một quốc_gia nào cũng đều được coi như một trong những bộ_phận cấu_thành quan_trọng của chính_sách tiền_tệ quốc_gia .Duy trì , giữ vững sự ổn_định của nền kinh_tế vĩ_mô là yêu_cầu cấp_thiết để tăng_trưởng kinh_tế là mục_tiêu hàng_đầu và tập_trung của các chính_sách kinh_tế của Chính_phủ , trong đó có chính_sách tỷ_giá . 
+Một quốc_gia tuỳtheo điều_kiện hoàn_cảnh và thời_điểm sẽ xác_định cho mình một chính_sách tỷ_giá thích_hợp . 
+Trên thế_giới hiện_nay các nước theo_đuổi các cách điều_hành tỷ_giá khác nhau song rút lại đều đi theo các xu_hướng hoặc là chế_độ tỷ_giá_cố_định hoặc là chế_độ tỷ_giá_thả_nổi hoàn_toàn hoặc thả_nổi có kiểm_soát . 
+Hệ_thống tỷ_giá_thả_nổi hoàn_toàn : Do cung_cầu trên thị_trường ngoại_hối quyết_định tỷ_giá .Không có sự can_thiệp của chính_phủ . 
+Hệ_thống tỷ_giá_cố_định : đó là tỷ_giá do ngân_hàng trung_ương ấn_định ở một mức nào đấy . 
+Tỷ_giá có cố_định thể cao hơn hay thấp hơn tỷ_giá cân_bằng trên thị_trường ngoại_hối Để giữ được tỷ_giá ở mức cố_định ngân_hàng trung_ương phải mua_bán ngoai tệ trênthị trường ngoại_hối .Và như vậy , cung tiền tuột khỏi tay sự kiểm_soát của ngân_hàng trung_ương .Ngân hàng trung_ương chỉ có_thể đạt được một trong hai mục_tiêu :hoặc giữ cho tỷ_giá_cố_định hoặc là kiểm_soát được mức cung tiền chứ không_thể đồng_thời thực_hiện được hai mục_tiêu đó . 
+Hệ_thống tỷ_giá_thả_nổi có kiểm_soát : Nằm giữa hai thái_cực trên . Quan_điểm của các nhà kinh_tế trường_phái chính hiện_đại coi_trọng cả vai_trò kinh_tế của Chính_phủ và quy_luật " bàn_tay vô_hình " . 
+Tỷ_giá được hình_thành trên cơ_sở thị_trường theoquy luật cung_cầu , cơ_quan điều_hành chính_sách tiền_tệ chỉ tác_động lên tỷ_giá bằng các công_cụ mang tính thị_trường tác_động lên thị_trường ngoại_hối 
+Nhưng vấn_đề dặt ra là cần phải xác_định chế_độ tỷ_giá_hối_đoái nào : cố_định , thả_nổi hoàn_toàn hay thả_nổi có kiểm_soát . 
+Một cuộc tranh_luận về những chế_độ tỷ_giá_hối_đoái đã nổ ra .Thế giới đã chuyển từ chế_độ tỷ_giá_cố_định , đươc thực_hiện từ sau Chiến_tranh thế_giới II đến đầu năm 1973 , sang chế_độ tỷ_giá_thả_nổi , linh_hoạt thay_đổi hàng ngày .Nhưng vào cuối những năm 80 chế_độ tỷ_giá_thả_nổi hoàn_toàn bộc_lộ tác_động tiêu_cực đến các nền kinh_tế và người_ta bắt_đầu nghĩ đến một chế_độ tỷ_giá_thả_nổi có điều_tiết ,nhằm hạn_chế những tác_động của chế_độ tỷ_giá linh_hoạt .Hiện nay,các chính_phủ đều muốn can_thiệp để hạn_chế những biến_động mạnh_mẽ lên xuống của tỷ_giá ,một mặt là cần_thiết để cân_bằng cung_cầu trong thời_gian ngắn , nhưng mặt_khác lại gây ra những biến_động không mong muốncho giá_cả và đầu_ra ở trong nước . 
+III . Quan_điểm vấn_đề về tự_do_hoá tỷ_giá 
+1 . Khái_niệm tự_do_hoá tỷ_giá 
+Tự_do_hoá tài_chính là một vấn_đề mang tính toàn_cầu . 
+Trong thế_giới hiện_đại không nước nào có_thể đứng bên lề của trào_lưu quốc_tế_hoá . 
+Nếu muốn mưu_cầu một sự phát_triển các nước phải chuẩn_bị thật vững_chắc những tiền_đề cho việc hội_nhập . 
+Tự_do_hoá thương_mại và tự_do_hoá tài_chính yêu_cầu các quốc_gia dần phải từ_bỏ cách kiểm_soát quá chặt_chẽ tỷ_giá và tài_khoản vốn , nhanh_chóng đưa đồng bản_tệ có khả_năng chuyển_đổi . 
+Khi một quốc_gia để cho tỷ_giá được tự_do xác_định trên thị_trường và chính_phủ từ_bỏ viẹc can_thiệp của mình ta nói nước đó đang theo_đuổi chính_sách tỷ_giá tự_do . 
+Và vì vậy tự_do_hoá tỷ_giá là một quá_trình tiến tới cho_phép tỷ_giá được tự xác_định trên thị_trường 
+2 . Ưu_nhược_điểm của tự_do_hoá tỷ_giá 
+Từ khái_niệm trên về tỷ_giá tự_do_hoá ta thấy đây là chế_độ dần_dần thả_nổi tỷ_giá để mặc các lực_lượng cung_cầu thị_trường quyết_định các chính_sách can_thiệp hành_chính của nhà_nước được từng bước triệt_thoái . 
+Trong quá_trình thực_hiện tiến_trình tự_do_hoá mỗi quốc_gia có lộ_trình riêng cho mình phù_hợp với hoàn_cảnh riêng và xu_hướng thế_giới và chính_sách của các cường_quốc tài_chính . 
+Song tiến_trình này vẫn có những đặcđiểm chung và mục_tiêu đồng_nhất . 
+Ban_đầu các ngân_hàng trung_ương thực_hiện sự linh_hoạt tỷ_giá bằng cách nới rộng các biên_độ dao độngcủa tỷ_giá . 
+Ngân_hàng Trung_ương cố_gắng hạn_chế sự can_thiệp của mình chỉ hành_động khi có những xu_hướng bất_lợi hoặc vượt quá một giỡi hạn cho_phép đối_với nền kinh_tế . Tiếp dần đó các ngân_hàng sẽ sử_dụng các công_cụ gián_tiếp mang tính thị_trường để hướng_dẫn tỷ_giá thị_trường . 
+Tỷ_giá tự_do mang lại nhiều lợi_thế . 
+Nó cho_phép các quốc_gia không còn phả khư_khư ngồi giữ cho mức tỷ_giá ổn_định mà họ dồn sức cho các mục_tiêu khác cần_kíp hơn , lúc này tỷ_giá đóng vai_trò là một công_cụ để thực_hiện các mục_tiêu kinh_tế vĩ_mô chứ không còn phải là mục_tiêu nữa . 
+Chính_sách tỷ_giá tự_do tránh cho các quốc_gia những tổn_thương dễ gặp phải khi cố_định tỷ_giá , đó là những đe_doạ trước những biến_động tỷ_giá giữa các đồng_tiền mạnh . 
+Chính_sách tỷ_giá tự_do cải_thiện cán_cân thanh_toán của mỗi quốc_gia . 
+Tuy_nhiên tỷ_giá tự_do cũng tiềm_ẩn trong nó những bất_ổn nhất là đối_với những nền kinh_tế đang phát_triển 
+3 . 
+Kinh_nghiệm thế_giới trong việc tự_do_hoá tỷ_giá 
+Dù tỷ_giá tự_do còn nhiều tác_động mặt_trái đối_với các nền kinh_tế song nó vẫn là mục_tiêu theo_đuổi của các quốc_gia . 
+Trên thế_giới có nhiều quốc_gia tiến_hành thành_công tỷ_giá tự_do song nhiều nước lại phải quay trở_lại với con đường kiểm_soát tỷ_giá . 
+Học_tập các nước đi trước là điều cần chú_trọng khi một đất_nước muốn tiến_hành thành_công tiến_trình tự_do_hoá tỷ_giá . 
+Đúc_kết từ các bài_học của các nước đi trước , kinh_nghiệm và lý_thuyết chỉ ra rằng muốn tự_do tỷ_giá thành_công thì phải có những tiến_trình hoạch_định sau : 
+- Quá_trình tự_do tỷ_giá cần tiến_hành tuần_tự theo hai giai_đoạn 
+Bước 1 : Dần nới lỏng các biện_pháp quản_lý hành_chính thiết_kế và dần chuyển sang sử_dụng các công_cụ gián_tiếp mang tính thị_trường 
+Bước 2 : Để tỷ_giá tự_do xác_định trên thị_trường ngoại_hối 
+- Trong giai_đoạn đầu dự_trữ ngoại_hối còn thấp các nước cần quản_lý chặt ngoại_hối , xây_dựng quỹ ngoại_tệ để đảm_bảo can_thiệp khi cần_thiết ,cần tích_luỹ một lượng dự_trữ ngoại_tệ đủ lớn để ổn_định giá_trị nội_tệ . 
+- Nền kinh_tế vĩ_mô ổn_định và tăng_trưởng là điều_kiện tiên_quyết . Cần có một thị_trường ngoại_hối và thị_trường nội_tệ tương_đối phát_triển , với các công_cụ tương_đối phong_phú và đa_dạng . 
+CHƯƠNG II 
+QUÁ_TRÌNH ĐIỀU_HÀNH CHÍNH_SÁCH TỶ_GIÁ 
+I Hoàn_cảnh chung 
+Qua hơn mười năm thực_hiện đổi_mới trong lĩnh_vực tỷ_giá chúng_ta đã thu được những thành_tựu bước_đầu quan_trọng . 
+Đây là kết_quả của quá_trình cải_cách sâu_rộng mọi mặt đời_sống kinh_tế - xã_hội . 
+Trước năm1986 , nền kinh_tế nước ta ở trong tình_trạng kế_hoạch_hoá tập_trung cao_độ mọi vấn_đề về sản_xuất cái gì , sản_xuất như thế_nào , và sản_xuất cho ai hoàn_toàn là do ý_muốn chủ_quan của các nhà hoạch_định chính_sách . 
+Nền kinh_tế lâm vào khủng_hoảng trì_trệ đòi_hỏi một sự đổi_mới kịp_thời và toàn_diện . 
+Trong thời_kỳ này quan_hệ ngoại_thương của nước ta chỉ bó_hẹp trong khối các nước XHCN. 
+Ngoài đồng Rúp chuyển_nhượng là chính , dự_trữ ngoại_hối của chúng_ta rất ít các đồng_tiền tự_do chuyển_đổi khác . 
+Đây là một khó_khăn rất lớn cho chúng_ta trong quá_trình hội_nhập kinh_tế thế_giới . 
+Thời_kỳ này , đất_nước bị đặt trong tình_trạng rất nhiều thách_thức lạm_phát phi_mã , cán_cân_thanh_toán_mất cân_đối nghiêm_trọng . 
+Yêu_cầu của nền kinh_tế lúc này là cần nhanh_chóng có một đường_lối đổi_mới đưa đất_nước ra khỏi tình_trạng khủng_hoảng và suy_thoái kéo dài . 
+Năm 1986 , bắt_đầu công_cuộc đổi_mới toàn_diện nền kinh_tế . 
+Cơ_chế kinh_tế quan_liêu bao_cấp bị xoá_bỏ , bắt_đầu định_hướng một nền kinh_tế_thị_trường . 
+Toàn_bộ các tổ_chức kinh_tế được " cởi trói " , hoàn_toàn tự_chủ về tài_chính và sản_xuất bung ra làm_ăn tạo nên một sinh_khí mới cho nền kinh_tế quốcgia . 
+Hệ_thống ngân_hàng tài_chính cũng bắt_đầu được cải_cách . 
+Với việc tách 
+hệ_thống ngân_hàng từ một cấp thành hai cấp đã phản_ánh được tư_duy thị_trường trong hoạt_động ngân_hàng . 
+Trước_kia chỉ có một cấp Ngân_hàng nhà_nước vừa làm nhiệm_vụ của cơ_quan nhà_nước quản_lý tiền_tệ vừa là người cho vay trong nền kinh_tế . 
+Việc " vừa đá bóng vừa thổi còi " đã gây nên sự mất hiệu_quả trên cả hai mặt hoạt_động . 
+Nay tách ra làm hai : 
+* Ngân_hàng nhà nuớc : Cơ_quan thay_mặt nhà_nước thiết_kế và thi_hành chính_sách tiền_tệ , nghiệp_vụ người cho vay cuối_cùng 
+* Hệ_thống ngân_hàng Thương_mại : nhiệm_vụ kinh_doanh tiền_tệ thu lợi_nhuận ,nhờ nó mà vốn được phân_phối một_cách có hiệu_quả trong nền kinh tếPháp lệnh về các ngân_hàng và các tổ cức tín_dụng và sau này đuợc sửa_đổi bổ_sung thành luật đã pháp_luật hoá và baỏ hộ quyền_lợi của các tổ_chức kinh_tế này .Quan hệ kinh_tế đối_ngoại dần trở_nên sôi_động đòi_hỏi phải cóchính sách tỷ_giá phù_hợp . 
+Trong những năm đầu_tiên sau đổi_mới chúng_ta gặp rất nhiều khó_khăn về dự_trữ ngoại_hối và thanh_toán quốc_tế . 
+Song với cách điều_hành chính_sách tỷ_giá đúng_đắn là thả_nổi có kiểm_soát ,nhanh chóng khắc_phục thiếu_sót và với sự trưởng mạnh_mẽ của nền kinh_tế đã giúp ta nhanh_chóng làm chủ công_cụ tỷ_giá . 
+II . Quá_trình thực_hiện 
+1 , Giai_đoạn 1988 đến 1991 
+Từ năm 1987 đến năm 1991 là giai_đoạn đầu_tiên thực_hiện cải_cách cơ_chế điều_chỉnh tỷ_giá đồng Việt_Nam ( VND ) với Đôla_Mỹ ( đôla Mỹ là đồng_tiền đóng vai_trò quan_trọng trong quan_hệ thanh_toán của Việt_Nam với nước_ngoài ) . 
+Thời_kỳ này tốc_độ lạm_phát diễn_ra với tỷ_lệ cao chóng_mặt . 
+Bảng1 
+Năm 
+1985 
+1986 
+1987 
+1988 
+1989 
+1990 
+1991 
+Tỷ_lệ 
+lp( % ) 
+191,6 
+587,2 
+416,7 
+410,9 
+176,0 
+167,1 
+167,5 
+Ngày 20/10/1988 Chủ_tịch Hội_đồng Bộ_trưởng ( nay là thủ_tướng Chính_phủ ) 
+ra quyết_định số 271/CT cho_phép Ngân_hàng Nhà_nước được phép điều_chỉnh tỷ_giá phù_hợp với sự bién động giá_cả trong nước theo nguyên_tắc thời_giá trừ lùi10 % đến 30 % cá_biệt đến 50 % . 
+Ở Việt_Nam ,từ khi xoá_bỏ chế_độ bao_cấp qua hệ_thống giá_cả cho đến nay ,hầu hết giá_cả được hình_thành trên thị_trường và nó được biến_động theoquy luât cung_cầu ,thì tỷ_giá Việt_Nam cũng phải được điều_chỉnh một_cách linh_hoạt hơn phù_hợp với sự biến_động giá_cả trong và ngoài nước . 
+Khi bước sang cơ_chế_thị_trường mọi chế_độ , chính_sách cũng như cơ_chế điều_hành trong thời_kỳ tập_trung bao_cấp đều phải chuyển_đổi phù_hợp với cơ_chế kinh_tế mới để đáp_ứng nhu_cầu phát triẻn của nền kinh_tế_thị_trường . 
+Tỷ_giá là một yếu_tố hết_sức nhạy_cảm đối_với hoạt_động của nền kinh_tế_thị_trường . 
+Đang từ chế_độ tỷ_giá_cố_định và đa tỷ_giá chuyển sang cơ_chế tỷ_giá thị_trường biến_động theo cung_cầu và thống_nhất môt tỷ_giá là cả một vấn_đề không đơn_giản . 
+Nếu không có những bước_đi thận_trọng , tính_toán trước những tác_động của tỷ_giá và cơ_chế điều_hành linh_hoạt của Ngân_hàng trung_ương thì khó có_thể chuyển_đổi thành_công cơ_chế tỷ_giá_cố_định sang cơ chết thả_nổi có kiểm_soát . 
+Từ năm 1987 đến năm 1991 , trong sự biến_động chung của giá trong nước và quốc_tế , tỷ_giá cũng được bước_đầu điều_chỉnh mặc_dù chỉ_số giá_cả hằng năm biến_động rất lớn . 
+Nếu tính đơn_thuần về mặt_số học và các công_thức lý_thuyết về sức_mua ngang giá của đồng Việt_Nam với ngoại_tệ thì tỷ_giá đồng Việt_Nam phải phá_giá rất lớn . 
+Tuy_nhiên , với chức_năng chính của Ngân_hàng trung_ương là đảm_bảo sự ổn_định giá_cả trong nước thúc_đẩy xuất_khẩu , đồng_thời khuyến_khích tối_đa nguồn vốn trong nước và quốc_tế , nếu một chính_sách tỷ_giá mà không đảm_bảo tính ổn_định tương_đối thì không_thể khuyến_khích các nhà đầu_tư trong và ngoài nước bỏ vốn ra đầu_tư vì rủi_ro tỷ_giá quá lớn . 
+Với trách_nhiệm hết_sức nặng_nề , làm_sao vừa từng bước chuyển_đổi cơ_chế điều_hành tỷ_giá theo hướng thị_trường nhưng vẫn phải đảm_bảo khuyến_khích xuất khâủ , kích_thích đầu_tư trong nước và ngoài nước mà không tạo những cú sốc đến hoạt_động của nền kinh_tế trong bối_cảnh của Việt_Nam lúc đó hết đang sức khó_khăn về cán_cân thương_mại và thanh_toán quốc_tế thâm_hụt trầm_trọng . 
+Để giải_quyết vấn_đề trên , trước_hết Ngân_hàng Nhà_nước đã từng bước đưa dần tỷ_giá lên( tức phá_giá đồng Việt_Nam ) , mặc_dù giá_cả biến_động lớn nhưng Ngân_hàng Trung_ương đã xem_xét mức_độ ảnh_hưởng của tỷ_giá khi đưa lên quá cao sẽ lại trực_tiếp ảnh_hưởng đến giá đầu_vào của sản_phẩm và đẩy giá đầu_ra lên cao,gây bất_ổn định cho cho mức giá_cả trong nước . 
+Thực_tế của Việt_Nam trong những năm 1988,1989 xuất_khẩu chỉ bằng 1/3 nhập_khẩu . 
+Vì vậy , khi nâng tỷ_giá cao đột_ngột sẽ gây tác_động mạnh đến mức giá trong nước . 
+Xuất_phát từ thực_tế trong cách điều_chỉnh tỷ_giá đồng Việt_Nam với ngoại_tệ ( chủ_yếu là USD ) là mức giá_cả dù biến_động lớn như trong bảng 1 , nhưng tỷ_lệ điều_chỉnh tỷ_giá chỉ khoảng từ 10-30 % so với mức thay_đổi giá thực_tế . 
+Những năm đầu khi khoảng_cách tỷ_giá danh nghiã với tỷ_giá thực_tế còn cách xa thì các bước điều_chỉnh trên_dưới 10 %mỗi lần và cụ_thể riêng trong năm 1989 đã điều_chỉnh giá đồng Việt_Nam 43 %trong khi tỷ_lệ lạm_phát là 176 % là tương_đối phù_hợp . 
+2 . Giai_đoạn 1991-1994 
+Thời_kỳ 1991-1994 là giai_đoạn tiếp_theo của quá_trình chuyển_đổi cơ 
+theo hướng thị_trường . 
+Trong giai_đoạn này , đứng về phương_diện thanh_toán quốc_tế , Việt_Nam lại chịu thêm một sức_ép vô_cùng khó_khăn . 
+Tất_cả các nước XHCN cũ có quan_hệ thanh_toán với Việt_Nam đều đồng_loạt chuyển sang thanh_toán với Việt_Nam bằng ngoại_tệ tự_do chuyển_đổi trong cả quan_hệ mậu_dịch và phi_mậu_dịch . 
+Việc chuyển_đổi có ảnh_hưởng rất lớn đến khả_năng thanh_toán của Việt_Nam bằng dự_trữ ngoại_tệ tự_do chuyển_đổi Vì từ trước những năm 1991 hầu_hết nguồn thu ngoại_tệ của Việt_Nam đều bằng đồng Rúp chuyển_nhượng , chỉ có một tỷ_lệ rất nhỏ bằng ngoại_tệ tự_do chuyển_đổi . 
+Cán_cân thanh_toán quốc_tế và cán_cân thương_mại của Việt_Nam thiếu_hụt lớn , nhập_khẩu gấp ba lần xuất_khẩu , sự thiếu_hụt trong cán_cân thưong mại được bù_đắp bằng các khoản viện_trợ , cho vay của các nước XHCN và chủ_yếu của Liênxô cũ . 
+Đứng trước tình_thế hết_sức khó_khăn về cung_cầu ngoại_tệ của nền kinh_tế và nhu_cầu bức_bách về ngoại_tệ cho thanh_toán quốc_tế để phát_triển kinh_tế , làm thế_nào để giải_quyết được vấn_đề trên mà không tác_động mạnh đến tình_hình giá_cả trong nước , ổn_định giá_trị đồng_tiền , ổn_định sản_xuất và phát_triển kinh_tế . 
+Xử_lý vấn_đề này không phải chỉ có ngành ngân_hàng mà phải phối_hợp đồng_bộ giữa các chính_sách lớn của chính_phủ và của các ngành . 
+a , Các chính_sách lớn của chính_phủ 
+Nghị_quyết Đại_hội thanh_toán quốc_tế lần thứ 6 đề ra 3 chưong trình kinh_tế lớn mà Đảng ,Nhà nước , Chính_phủ phải tập_trung chỉ_đạo : 
+- Chương_trình sản_xuất hàng_hoá xuất_khẩu ; 
+- Chương_trình khuyến_khích sản_xuất hàng_tiêu_dùng ; 
+- Chương_trình lương_thực thực_phẩm . 
+Với ba chương_trình kinh_tế lớn đó đã hỗ_trợ đắc_lực cho cung ngoại tệcủa nền kinh_tế và giảm nhu_cầu chi ngoại_tệ tạo nên thế cân_bằng cho cán_cân thanh_toán của Việt_Nam . 
+b , Về phía Ngân_hàng Nhà_nước 
+Là cơ_quan được Nhà_nước giao cho trọng_trách quản_lý nguồn ngoai tệ vào ra của nền kinh_tế , phục_vụ đắc_lực cho nhu_cầu phát_triển kinh_tế của đất_nước và xây_dựng điều_hành chính_sách tỷ_giá , năm 1988 với sự tham của Ngân_hàng Nhà_nước , Chính_phủ đã ban_hành văn_bản quản_lý ngoại_hối mới trong đó có một_số điểm thay_đổi cơ_bản nhằm khuyến khíchmọi nguồn ngoại_tệ chuyển vào Việt_Nam và tập_trung thu_hút nguồn ngoại_tệ trong nước cho mục_tiêu phát_triển kinh_tế đất_nước . 
+Thành_lập quỹ điều_hoà ngoại_tệ : 
+Ngân_hàng Nhà_nước đã tham_mưu cho Chính_phủ thành_lập quỹđiều hoà ngoại_tệ tại Ngân_hàng Nhà_nước để tập_trung đáp những nhu_cầu thiết_yếu của nền kinh_tế trong giai_đoạn đầu còn khó_khăn và can_thiệp thị_trường để ổn_định tỷ_giá . 
+Việc thành_lập quỹ điều_hoà ngoại_tệ tạo điều_kiện để có_thể điều_hành một_cách linh_hoạt theo cơ_chế thị trườngđầy biến_động , kịp_thời can_thiệp khi có biến_động lớn về tỷ_giá trên thị_trường . 
+Trong thời_gian qua với việc điều_hành quỹ điều_hoà một_cách rất linh_hoạt và hiệu_quả , một mặt tạo cho ngân_hàng Trung_ương một lực thực_sự để can_thiệp có hiệu_quả nhằm ổn_định chính_sách tỷ_giá , đáp_ứng nhu_cầu bức_thiết của nền kinh_tế về ngoại_tệ để thanh_toán quốc_tế , mặt_khác thông_qua việc mua_bán ngoại_tệ qua quỹ điều_hoà không_những quỹ không giảm mà_còn tăng lên mức đáng_kể trong khi tỷ_giá được ổn_định một_cách tương_đối . 
+Thành_lập hai trung_tâm giao_dịch ngoại_tệ : Năm 1991 là năm đánh_dấu mốc lịch_sử về việc hình_thành nền_móng thị_trường hối_đoái tại Việt_Nam , đó là việc NHNN đã hình_thành hai trung_tâm giao_dịch tại Hà_Nội và Thành_phố Hồ_Chí_Minh vào tháng 8 vag tháng 11 năm 1991.Việc thành_lập hai trung_tâm giao_dịch là bước_ngoặt đầu_tiên của hệ_thống ngân_hàng trong quá_trình đổi_mới thực_sự cơ_chế theo hướng thị_trường . 
+Nó là tiền than của thị_trường hối_đoái sau này . 
+Thông_qua mua_bán trên trung_tâm giao_dịch ngoại_tệ mà Ngân_hàng Trung_ương là người tổ_chức và điều_hành ,Ngân hàng Trung_ương kịp_thời nắm_bắt được cung_cầu ngoại_tệ trên thị_trường để điều_hành chính_sách tiền_tệ cũng như tỷ_giá theo tín_hiệu thị_trường . 
+Thông_qua việc mua_bán ngoại_tệ tại hai Trung_tâm giao_dịch ngoại_tệ Ngân_hàng Trung_ương đã hướng nhu_cầu ngoại_tệ vào các mục_tiêu thiết_yếu của mình . 
+Việc các ngân_hàng thương_mại và các tổ_chức kinh_tế tham_gia vào giao_dịch tại hai trung_tâm là bước tập_dượt đầu_tiên trong giao_dịch ngoại_tệ theo cơ_chế_thị_trường . 
+Tỷ_giá ngoại_tệ và đồng Việt_Nam được hình_thành tương_đối khách_quan theo quan_hệ cung_cầu trên thị_trường . 
+Cách_thức giao_dịch mua_bán ngoại_tệ theo phương_thức đấu_giá . 
+Trong thời_kỳ đầu hoạt_động của trung_tâm giao_dịch ngoại_tệ , cung ngoại_tệ còn thấp hơn cầu ngoại_tệ rất nhiều , nếu để tỷ_giá hình_thành theo quan_hệ thị_trường cung_cầu , tỷ_giá sẽ biến_động rất lớn , điều này tác_động không tốt tới mức giá trong nước . 
+Vì vậy thông_qua hình_thức can_thiệp của Ngân_hàng Trung_ương , tỷ_giá biến_động với một mức_độ hợp_lý , một mặt vẫn phản_ánh quan_hệ cung_cầu mặt_khác không gây tác_động tới giá_cả và tạo một tâm_lý ổn_định cho các nhà đầu_tư trong và ngoài nước cũng như dân_chúng yên_tâm đầu_tư và gửi tiền để phát_triển kinh_tế . 
+Sau một thời_gian dài từ năn 1992 đến năm 1993 , Ngân_hàng Trung_ương kiềnt quan_điểm ổn_định tỷ_giá và toạ lòng tin cho dân_chúng vào sự ổn_định của đồng Việt_Nam cũng như tâm_lý ổn_định của thị_trường đã thu_hút được nguồn ngoại_tệ lớn_lao từ kiều_hối , đầu_tư nước_ngoài , vay nợ vào Việt_Nam ; mặt_khác việc duy_trì lãi_suất thực dương đồng Việt_Nam cao đã khuyến_khích các tổ_chức cá_nhân bán ngoại_tệ đẻ gửi đồng Việt_Nam . 
+Cả hai yếu_tố trên đã đồng_thời ảnh_hưởng tích_cực đến sự ổn_định giá_trị đồng Việt_Nam và tăng dự_trữ ngoại_tệ quốc_gia . 
+Sự ổn_định giá_trị đồng Việt_Nam không phải chỉ về danh_nghĩa mà cả về giá_trị thực . 
+Việc ổn_định tỷ_giá có ảnh_hưởng tốt tới mặt_bằng giá trong nước dẫn đến chỉ_số lạm_phát được duy_trì ở mức chấp_nhận được và có chiều_hướng đi xuống , trong khi tốc_độ tăng_trưởng kinh_tế của Việt_Nam qua các năm không ngừng tăng làm cho quan_hệ tiền hàng được đảm_bảo và giá_trị của đồng Việt_Nam được ổn_định tạo ra môi_trường ổn_định vững_chắc vĩ_mô cho phát_triển kinh_tế ở Việt_Nam . 
+Giai_đoạn đầu khi mới bắt_đầu điều_hành tỷ_giá theo vơ chế thị_trường , việc can_thiệp của Ngân_hàng Trung_ương rất chặt_chẽ trên thị_trường , tuy_nhiên thời_gian tiếp_theo khi nguồn vốn ngoại_tệ vào Việt_Nam tăng lê , quan_hệ cung_cầu không còn khoảng_cách quá lớn thì Ngân_hàng Trung_ương đã từng bước giảm sự can thiệpvà để cho tỷ_giá hình_thành một_cách khách_quan hơn trên thị_trường theo quy_luật cung_cầu . 
+Việc điều_hành can_thiệp của Ngân_hàng Trung_ương rất linh_hoạt có lúc phải bán ngoạitệ ra đẻ giảm bớt việc xuống giá của đồng Việt_Nam quá mạnh những năm 1991 , nhưng có lúc phải mua vào rất nhiều như cuối năm 1992 và năm 1995 cũng như 6 tháng đầu năm 1996 nhằm hạn_chế việc lên giá của đồng Việt_Nam . 
+Tỷ_giá chính_thức đồng Việt_Nam trước_kia được Ngân_hàng Trung_ương tính_toán trên cơ_sở kinh_tế mang tính chát chưa phản_ánh quan_hệ cung_cầu và các yếu_tố thị_trường khác . 
+Từ khi Trung_tâm giao_dịch ra_đời thì tỷ_giá chính_thức của đồng Việt_Nam được xác_định có căn_cứ vào tỷ_giá đóng_cửa tại các phiên giaodịch ngoại_tệ tại hai trung_tâm . 
+Sau một khoảng thời_gian dài khoảng hơn 3 năm hoạt_động của hai trung_tâm giao_dịch ngoại_tệ đã phát_huy tích_cực vai_trò trong việc điều_hoà cung_cầu ngoại_tệ , tạo ra phương_thức kinh_doanh giao_dịch mang tíhn thị_trường góp_phần ổn_định tỷ_giá , giá_cả . 
+Tuy nhiên,với nhu_cầu phát_triển kinh_tế và nhu_cầu giao_dịch ngoại_tệ của cả nước , cũng như tính nhanh_nhạy kịp_thời trong giao_dịch và thanh_toán của cơ_chế_thị_trường ngày_càng sôi_động . 
+Thực_tế đòi_hỏi phải có mô_hình mới linh_hoạt hơn và mang tính thị_trường trong cả nước hơn chứ không phải chỉ có Hà_Nội và Thành_phố Hồ_Chí_Minh . 3 Giai_đoạn từ tháng 10/1994 đến 1997 
+Tháng 10/1994 để đáp_ứng nhu_cầu bức_thiết trong nhu_cầu giao dịch,thanh toán ngoại_tệ của nền kinh_tế , với các điều_kiện khách_quan và chủ_quan thuận_lợi , hệ_thống ngân_hàng thương_mại đã phát_triển cao về mặt số_lượng cũng như về mặt chất_lượng , các điều_kiện về mặt kỹ thật trang_thiết_bị cho_phép , trình_độ giao_dịch của các ngân_hàng đã nâng_cao . 
+Nguồn ngoại_tệ của nền kinh_tế dồi_dào , thị_trường ngoại_tệ Liên_ngân_hàng ra_đời đã chính_thức ra_đời với số thành_viên tham_gia đầu tiênlà 24 ngân_hàng thương_mại và đến nay là đã có hơn 40 thành_viên . 
+Thành_viên tham_gia thị_trường Liên_ngân_hàng ngoài các ngân_hàng thương_mại còn có cả những nhà xuất_khẩu lớn và các tổ_chức có thu ngoại_tệ lớn . 
+Thời_gian giao_dịch hầu_hết các ngày làm_việc trong tuần , hình_thức giao_dịch gián_tiếp thông_qua hệ_thống máy_vi_tính , cung_cầu ngoại_tệ trên thị trương này lớn phản_ánh hầu_như toàn_bộ cung_cầu ngoại_tệ trong nền kinh_tế . 
+Tỷ_giá hình_thành trên thị_trường ngoại_tệ Liên_ngân_hàng mang tính thị_trường cao , linh_hoạt ,sâu rộng và khách_quan . 
+Từ đó tỷ_giá đồng Việt_Nam với ngoại_tệ cũng được hình_thành một_cách khách_quan hơn và phản_ánh tương_đối thực_tế sức_mua của đồng Việt_Nam . 
+Đó là bước phảttiển mớivà ở mức_độ sâu hơn , cao hơn của hoạt_động ngoại_tệ ở Việt_Nam . 
+4 . Từ 1997 đến nay : 
+Giai_đoạn điều_hành tỷ_giá linh_hoạt có sự điêu tiết của nhà_nước . 
+Chủ_trương điều_hành tỷ_giá một_cách linh_hoạt theo tình_hình trong nước và quốc_tế nhằm khuyến_khích xuất_khẩu , hạn_chế nhập_khẩu và tăng dự_trữ ngoại_tệ . 
+Trong năm 1997 ,cuộc khủng_hoảng tài_chính tiền_tệ khu_vực nổ ra và gây 
+hậu_quả nghiêm_trọng cho các nền kinh_tế trong khu_vực , đặt Việt_Nam trước sức_ép phá_giá nội_tệ . 
+Việt_Nam đã thận_trọng và nhiều lần điều_chỉnh tỷ_giá_hối_đoái của đồng Việt_Nam bằng nhiều hình_thức . 
+Năm 1999 , Ngân_hàng Trung_ương thực_hiện một bước đổi_mới về cơ_bản về điều_hành tỷ_giá , từ quản_lý có tính_chất hành_chính sang điều_hành theo hướng thị_trường có sự quản_lý của nhà_nước . 
+Từ ngày 26/12/1999 thay bằng việc công_bố tỷ_giá chính_thức ,Ngân hàng Trung_ương công_bố tỷ_giá giao_dịch bình_quân trên thị_trường ngoại_tệ liên_ngân_hàng . 
+Với cơ_chế điều_hành mới , tỷ_giá đồng Việt_Nam được hình_thành trên cơ_sở giao_dịch trên thị_trường và phản_ánh tương_đối khách_quan sức_mua của đồng Việt_Nam so với ngoại_tệ , tạo điều_kiện cho các doanh_nghiệp chủ_động hơn trong kinh_doanh đồng_thời vẫn đảm_bảo được vai_trò kiểm_soát của Nhà_nước . 
+III . Đánh_giá 
+Tóm_lại , kể từ khi bước sang giai_đoạn phát_triển kinh_tế mới theo hướng kinh_tế_thị_trường có sự quản_lý vĩ_mô của nhà_nước , về chính_sách tỷ_giá cơ_chế điều_hành và diễn_biến tỷ_giá của đồng Việt_Nam với ngoại_tệ đã chuyển hướng phù_hợp với tình_hình thực_tế của Việt_Nam góp_phần không nhỏ vào sự thành_công của đất_nước sau 10 năm đổi_mới và phát_triển kinh_tế . 
+Các bước_đi trong chính sach tỷ_giá , cơ ché điều_hành tỷ_giá và diễn_biến tỷ_giá của đồng Việt_Nam so với ngoại_tệ là đúng_đắn . 
+Một mặt giữ vững giá_trị đồng Việt_Nam không_những giá_trị danh_nghĩa mà cả giá_trị thực của nó , góp_phần ổn_định mặt_bằng giá trong nước và kìm chế lạm_phát , mặt_khác vẫn khuyến_khích xuất_khẩu tăng lên hàng năm , thu_hút nguồn ngoại_tệ lớn và Việt_Nam đáp_ứng nhu_cầu nhập_khẩu của nền kinh_tế ngày_một tăng mà_còn tăng đáng_kể dự_trữ ngoại_tệ quốc_gia . 
+Sự thành_công khong phải chỉ trên lý_thuyết mà nó được thể_hiện trong mối tương_quan với các chỉ_tiêu kinh_tế vĩ_mô khác có liên_quan như : chỉ_số lạm_phát , dự_trữ ngoại_tệ quốc_gia , xuất_nhập_khẩu , diễn_biến tỷ_giá trong hệ_thống ngan hàng , tỷ_giá thị_trường tự do,tốc độ phát_triển kinh_tế , cán_cân_thanh_toán_quốc_tế được thể_hiện dưới đây . 
+Năm 
+GDP 
+( tỷ đồng ) 
+Lạm_phát 
+% 
+XK 
+( tr$ ) 
+NK 
+( tr $ ) 
+Tỷ_giá 
+chính_thức 
+Tỷ_giá TT 
+tự_do 
+đ / USD 
+Dự_trữ 
+ngoại 
+tệ 
+1990 
+1991 
+1992 
+1993 
+1994 
+1995 
+38.167 
+76.707 
+110.535 
+136.571 
+170.000 
+167,1 
+167,5 
+117,5 
+105,2 
+114,4 
+112,7 
+2404 
+2087,1 
+2580,7 
+2985,2 
+4054 
+5198 
+2752,4 
+2338,1 
+2540,8 
+3924 
+5826 
+8381 
+6.500 
+12.240 
+11.200 
+10.642 
+10.956 
+11.021 
+5601 
+9.920 
+11.230 
+10.636 
+10.978 
+11042 
+từ mứcdự trữ không đáng kể,tăng lên hơn hai tháng nhập_khẩu 
+CHƯƠNG III 
+GIẢI_PHÁP ĐIỀU_HÀNH CHÍNH_SÁCH TỰ_DO TỶ_GIÁ 
+Ở VIỆT NAM 
+I . Những bất_lợi của Việt_Nam nếu thực_hiện tự_do_hoá trong điều_kiện 
+hiện_nay . 
+Đối_với Việt_Nam trong thời_gian trước_mắt chưa_thể thực_hiện được mậu tự_do hoàn_toàn nênkhông thể áp_dụng chế_độ linh_hoạt , thả_nổi hoàn_toàn , bởi_vì : 
+Thứ nhất , do trình_độ phát_triển của lực_lượng_sản_xuất chưa cao , độ co_giãn của cung hàng_hoá xuất_khẩu củaViệt_Nam chưa nhiều , nên nếu thả_nổi tỷ_giá thì xuất_khẩu cũng không tăng lên mạnh_mẽ và nhập_khẩu cũng không thểgiảm nhiều được , cũng không_thể kỳ_vọng vào việc thả_nổi tỷ_giá để tự điều_chỉnh cán_cân thanh_toán quốc_tế được . 
+Ngược lại , việc thả_nổi tỷ_giá hoàn_toàn lại có khả_năng làm cho thương_mại không ổn_định và dẫn đến nạn đầu_cơ tỷ_giá mang lại hậu_quả tiêu_cực cho nền kinh_tế . 
+Thứ hai ,do nền kinh_tế_thị_trường chưa phát_triển , chưa có điều_kiện thả_nổi tỷ_giá hoàn_toàn . 
+Đặc_biệt là do thị_trường tài_chính tiền_tệ chưa phát_triển , chưa có thị_trường chứng_khoán , nên chưa tạo điều_kiện thật tốt cho xuất khẩu-nhập khẩu hàng_hoá tư_bản . 
+Tất_cả điều đó làm cho việc thả_nổi tỷ_giá sẽ không mang lại nhiều lợi_ích cho nền kinh_tế Việt_Nam . 
+II . Giải_pháp cho vấn_đề tự_do_hoá tỷ_giá 
+1 - Tiếp_tục hoàn_thiện thị_trường ngoại_hối và thị_trường nội_tệ 
+2 - Tập_trung tích_luỹ ngoại_tệ do Ngân_hàng Trung_ương quản_lý 
+3 - Hoàn_thiện các văn_bản pháp_quy về quản_lý ngoại_hối ,cách thức điều_hành tỷ_giá . 
+4 - Tiến_hành tự_do_hoá lĩnh_vực tài_chính , tự_do_hoá tài_khoản vốn và đưa đồng Việt_Nam trở_thành có khả_năng chuyển_đổi . 
+5 - ổn_định kinh_tế vĩ_mô , giảm lạm_phát thực hiệ các chương_trình sản_xuất hàng_tiêu_dùng và hàng xuất_khẩu nhằm cân_đối cán_cân thanh_toán 
+6 - Cần tiếp_tục duy_trì cơ_chế điều_hành tỷ_giá hiện_nay trong thời_gian ngắn tới theo hướng nới rộng kiểm_soát cho_phép tỷ_giá được hình_thành khách_quan hơn theo các quy_luật của thị_trường . 
+KẾT_LUẬN 
+Xác_định cơ_chế điều_hành tỷ_giá và sử_dụng tốt công_cụ này đòi_hỏi một sự phối_hợp đồng_bộ và nhịp_nhàng giữa chính_phủ và toàn_bộ các chủ_thể trong nền kinh_tế . 
+Một chế_độ tỷ_giá đưa ra được coi là hợp_lý khi mà nó làm tăng những yếu_tố tích_cực của các biến_số kinh_tế vĩ_mô . 
+Tỷ_giá được tính_toán trên cơ_sở sao cho không ảnh_hưởng đến hoạt_động xuất_khẩu và còn thu_hút được nguồn vốn ngoại_tệ của các nhà đâu trong và ngoài nước . 
+Hơn mười năm đổi_mới cách điều_hành tỷ_giá nước ta , chúng_ta đang tích_cực chuyển sang cơ_chế tỷ_giá_thả_nổi có kiểm_soát của nhà_nước . 
+Cơ_chế này là bước trung_gian trong quá_trình tự_do_hoá . 
+Với chính_sách tỷ_giá đúng_đắn Việt_Nam đã vượt_qua đã vượt_qua được những cam_go thử_thách đảm_bảo nguồn dự_trữ ngoại_tệ đủ mạnh cho khả_năng thanh_toán và chống_đỡ được với những cú sốc từ bên ngoài . 

@@ -1,0 +1,9 @@
+Lỗi_Cisco khiến mạng Wi-Fi gặp nguy_hiểm 
+Một lỗ_hổng bảo_mật trong bộ điều_khiển ( controller ) LAN không dây của công_ty giải_pháp mạng Mỹ có_thể tạo cơ_hội cho kẻ tấn_công gửi lưu_lượng thông_tin nguy_hiểm tới một mạng Wi-Fi và truy_cập trái_phép . 
+Vấn_đề không liên_quan đến những thiết_lập tại_gia , mà chỉ ảnh_hưởng tới những mạng Wi-Fi lớn . 
+Nó xảy_ra khi điểm truy_cập Wi-Fi thuộc dòng Cisco 1200 , 1131 và 1240 được quản_lý bởi bộ điều_khiển WLAN_Airespace dòng Cisco_2000 và 4400 . Bộ điều_khiển thường được sử_dụng bởi nhà điều_hành những mạng vô_tuyến lớn , bao_gồm nhiều điểm truy_cập khác nhau , có vai_trò làm trung_tâm điều hướng các chức_năng như chính_sách bảo_mật , ngăn_chặn sự xâm_nhập và quản_lý tần sóng . 
+Điểm truy_cập , ngay_cả khi được cấu_hình để chỉ cho_phép những lưu_lượng thông_tin đã mã_hoá , vẫn có_thể chấp_nhận những luồng chưa mã_hoá được gửi tới mạng . 
+Do đó , kẻ tấn_công sẽ khai_thác sơ_hở này và gửi đi những gói tin nguy_hiểm và truy_cập mạng bất_hợp_pháp . 
+Tuy_nhiên , để thành_công , tin_tặc phải sử_dụng một địa_chỉ phần_cứng , còn gọi là số kiểm_soát truy_cập nghe_nhìn ( Media_Access_Control number ) , của những thiết_bị đã được chứng_thực trong mạng đó , nhờ vậy nguy_cơ được hạn_chế đáng_kể . 
+Cisco cũng đã giới_thiệu phần_mềm cập_nhật cho mạch điều_khiển WLAN để sửa lỗi được đánh_giá ở mức " trung_bình " này . 
+Thông_tin chi_tiết xem tại đây . 

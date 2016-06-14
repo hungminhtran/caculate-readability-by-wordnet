@@ -1,0 +1,18 @@
+Sâu gián_điệp lây_lan qua tin_nhắn MSN và AIM 
+Hệ_thống tin_nhắn nhanh của Microsoft và America_Online đang trở_thành mục_tiêu của những thông_điệp kèm liên_kết tải Trojan hoặc một loại sâu nguy_hiểm vào máy_tính người dùng . 
+Nguy_cơ mới nhất này mang tên Trojan_Kirvo , xuất_phát từ một tin_nhắn giả_danh như là từ một người bạn trong danh_sách tán_gẫu . 
+Thông_điệp bao_gồm một link kết_nối tới website tải bản_sao của Kirvo vào máy_tính . 
+Chương_trình đã được lập_trình sẵn để kết_hợp với một phiên_bản của Spybot , sâu nguy_hiểm chuyên lợi_dụng lỗ_hổng bảo_mật để do_thám người dùng . 
+Tim_Hartman , Giám_đốc hệ_thống của Symantec tại khu_vực châu Á - Thái_Bình_Dương và Nhật_Bản , cho_biết Kirvo có khả_năng phối_hợp cùng Spybot và đội quân zombie mà kẻ viết chương_trình đang kiểm_soát nhằm tìm_kiếm và kiểm_soát nhiều máy_tính hơn . 
+" Tất_cả những bản_sao của Trojan mới đều lợi_dụng sự lơ_là của người dùng . 
+Do tin_nhắn đến từ một người bạn , họ thường không nghi_ngờ gì và nhanh_chóng bấm vào kết_nối " , Hartman cảnh_báo . 
+" Một_khi website mở ra , chương_trình sẽ tự_động tải một sâu nguy_hiểm khai_thác các lỗ_hổng trong máy . 
+Kirvo dường_như đóng vai_trò là ' phụ_tá ' của Spybot và hỗ_trợ việc_làm tăng nhanh số_lượng hệ_thống zombie trên Internet " . Spybot hiện_nay là một trong những sâu phổ_biến nhất trên Internet và hoạt_động của chúng đã phát_triển lên tới 300 % chỉ giữa quý I và quý II năm nay . 
+" Spybot tăng từ 3.000 trường_hợp lên 13.000 vụ . 
+Loại sâu này đã mở_rộng ra tới 10.000 biến_thể hoành_hành trên khắp thế_giới " , hãng diệt virus McAfee cho_biết . 
+Ngày 19/7 , công_ty bảo_mật Trend_Micro cũng đã thông_báo về một virus khác tấn_công vào mạng nhắn tin trực_tuyến của AOL . 
+Virus_Opanki này ẩn trong một file mang tên iTunes . exe . 
+Các chuyên_gia lo_ngại khả_năng bị " sập bẫy " là rất cao do người dùng tưởng đó chương_trình phần_mềm hỗ_trợ tải và nghe nhạc từ iTunes . 
+Khi mở file này , Opanki lập_tức chui vào máy_tính , mở_rộng cửa để cài một phần_mềm quảng_cáo ( adware ) . 
+Chương_trình này không_chỉ mở hàng_loạt các cửa_sổ pop-up mà_còn có nhiệm_vụ theo_dõi hoạt_động trên PC nạn_nhân . 
+Đây được coi là một thủ_thuật khá mới_mẻ và chắc_chắn sẽ bị tin_tặc tận_dụng trong thời_gian tới để phát_tán virus , sâu và các chương_trình nguy_hiểm khác . 

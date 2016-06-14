@@ -1,0 +1,12 @@
+Microsoft phát_hành Internet_Explorer 7 Pre-Beta 2 
+Hai cải_tiến đáng_kể nhất trong Internet_Explorer_7 là giao_diện duyệt web dạng thẻ và độ bảo_mật được cải_thiện khá cao . 
+Mặc_dù phiên_bản thử_nghiệm Beta_2 chính_thức chưa được công_bố , nhưng Microsoft luôn đánh_giá cao các phiên_bản " tiền " thử_nghiệm để bổ_sung và hoàn_thiện sản_phẩm của mình . 
+Một bổ_sung đáng lưu_ý là sự kết_hợp của Windows_RSS cung_cấp một cấu_trúc để tải , lưu_trữ và truy_cập đến các tin RSS . 
+Ví_dụ như người dùng có_thể đăng_ký một tin trong một ứng_dụng và dữ_liệu của tin này sẽ sẵn_sàng cho bất_kỳ ứng_dụng nào khác . 
+Những tính_năng bảo_mật như quản_lý ActiveX mặc_định sẽ bị khoá và bộ lọc phishing giữ cho việc lướt web an_toàn hơn khi ngày_càng có nhiều nguy_hiểm đe_doạ người dùng khi truy_cập Internet . IE7 cũng sẽ khoá chặt các mã độc_hại cũng như tên_miền quốc_tế để ngăn_chặn việc tấn_công với các mã hiểm_độc . 
+Mặt_khác , Microsoft cũng giới_thiệu Internet_Explorer_7 với một khung tìm_kiếm sẽ cho_phép người dùng có_thể tìm_kiếm nhanh với những truy_vấn đến các công_cụ tìm_kiếm mà người dùng chọn_lựa và một " Favorites_Center " tổng_hợp các liên_kết đánh_dấu , nhóm thẻ , lịch truy_cập , và tin RSS trên một thanh đơn . 
+Tính_năng phóng to thu nhỏ trang cũng được bổ_sung vào IE7 , khi trang được phóng lớn thì hình_ảnh cũng như chữ trong trang cũng được phóng to theo . 
+IE7 cũng có hỗ_trợ khả_năng rút lại kích_thước trang để in_ấn với một tuỳ_chọn in cho đoạn văn_bản được chọn_lựa . 
+Khả_năng hỗ_trợ nhiều trang_chủ mặc_định cũng được tích_hợp thông_qua việc sử_dụng nhiều thẻ . 
+Ngoài những tính_năng được bổ_sung trước đây như cải_thiện hỗ_trợ CSS , PNG , XMLHTTP ( ứng_dụng web dựa trên AJAX , không cần đến ActiveX ) để cạnh_tranh với các đối_thủ lớn như FireFox . 
+Internet_Explorer 7 Beta 2 Preview chỉ tương_thích với Windows_XP_Service_Pack 2 . Thông_tin về IE7 có_thể tham_khảo tại đây hay tải về tại đây . 

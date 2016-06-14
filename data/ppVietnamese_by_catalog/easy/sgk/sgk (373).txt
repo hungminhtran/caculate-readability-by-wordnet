@@ -1,0 +1,6 @@
+Cắt theo đường vạch dấu 
+Trước khi cắt vải phải vạch dấu để cắt cho chính_xác . 
+Có_thể vạch dấu theo đường_thẳng hoặc đường_cong tuỳ theo mục_đích , yêu_cầu cắt , khâu , may . 
+Cắt vải theo đường dấu được thực_hiện theo trình_tự : Vạch dấu trên vải và cắt vài theo đường vạch dấu . 
+Khi cắt vải theo đường_thẳng phải cắt từng nhát cắt dài , dứt_khoát . 
+Còn khi cắt vải theo đường_cong phải cắt từng nhát cắt ngắn hơn va xoay vải kết_hợp với lượn kéo_theo đường_cong . 

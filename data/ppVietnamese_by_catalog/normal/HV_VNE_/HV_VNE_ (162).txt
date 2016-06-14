@@ -1,0 +1,15 @@
+Sâu_Lebreat mở chiến_dịch theo hai mũi tấn_công 
+Nguy_cơ mới de doạ máy_tính được thực_hiện qua hai hình_thức tấn_công với sự góp_mặt của ít_nhất ba biến_thể sâu nguy_hiểm đã được hãng bản mật Phần_Lan F-Secure cảnh_báo ngày hôm_qua . 
+" Kẻ phá_hoại " mang biệt_danh Lebreat là sự kết_hợp của hai loại sâu phát_tán qua mạng và qua e-mail . 
+" Virus này được bọc dưới lớp vỏ ' Breatle_AntiVirus_v1.0 ' và lây_lan qua hai con đường phổ_biến nhất hiện_nay " , F-Secure khuyến_cáo . 
+Một_khi xâm_nhập vào máy_tính , nó sẽ mở cổng hậu cho hacker tải mã nhằm gửi thư hàng_loạt , tấn_công từ_chối dịch_vụ và vô_hiệu_hoá tính_năng tự_động cập_nhật phần_mềm bảo_mật . 
+Virus nguy_hiểm này còn được một_số công_ty an_ninh mạng khác gọi là Breatle và Reatle . 
+Mục_tiêu tấn_công của sâu mạng Lebreat là một lỗ_hổng cũ trong hệ_thống giám_sát an_ninh nội_bộ - Local_Security_Authority_Subsystem_Service ( LSASS ) của hệ_điều_hành Windows . 
+Lỗi LSASS trước đây bị sâu Sasser khai_thác và Microsoft cũng đã phát_hành bản vá lỗi từ năm_ngoái . 
+Labreat cũng hoạt_động như là một sâu chuyên_dùng để gửi kèm qua e-mail . 
+Một_khi thâm_nhập vào máy , Lebreat sẽ thu_thập tất_cả các địa_chỉ có trong PC bị khống_chế và bắt_đầu tự_động gửi tới những địa_chỉ đó . 
+Nó cũng rà_soát mạng Internet để phát_hiện những máy_tính chưa cài bản vá lỗi LSASS . Như những e-mail phát_tán sâu khác , Lebreat sử_dụng một loạt những tiêu_đề , nội_dung và địa_chỉ thư giả để dụ người dùng bấm vào kết_nối hay file đính kèm , ví_dụ như : " Thẻ tín_dụng của bạn đã bị rút 500 USD . 
+Mở file attach để biết thêm thông_tin chi_tiết " . 
+Ngay sau khi phiên_bản đầu_tiên của Lebreat xuất_hiện , hai biến_thể khác của nó cũng được F-Secure nhanh_chóng tìm ra . 
+Hãng bảo_mật Phần_Lan này đánh_giá Lebreat ở mức " Level 2 " , nghĩa_là có nguy_cơ phát_tán rộng và khả_năng lây_nhiễm cao . 
+MessageLabs cũng đã chặn tới 5.636 phiên_bản e-mail kèm Lebreat chỉ trong_sáng ngày hôm_qua . 

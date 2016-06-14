@@ -1,0 +1,9 @@
+Một vụ phishing mới hướng vào Yahoo Messenger 
+Người sử_dụng dịch_vụ tin_nhắn nhanh của Yahoo có nguy_cơ mắc bẫy trong vụ tấn_công lừa_đảo trực_tuyến với một tin_nhắn tuyên_bố rằng tài_khoản của họ sẽ bị chặn trừ_phi họ gửi thông_tin phản_hồi . 
+Hãng IMLogic ( Mỹ ) gọi vụ tấn_công này là IM . Marphish . Yahoo . Nội_dung thông_điệp giả_mạo nói rằng người sử_dụng đã vi_phạm những cam_kết mà họ chấp_nhận khi đăng_ký tài_khoản . 
+Để bảo_đảm không bị khoá nick , khách_hàng phải bấm vào đường link dẫn tới một trang chứa phần_mềm nguy_hiểm . 
+Từ đây , họ lại bị hướng tới một website trông giống_hệt trang đăng_nhập của Yahoo . 
+Kẻ lừa_đảo sẽ thu_thập toàn_bộ thông_tin nhạy_cảm mà nạn_nhân gõ trên site này . 
+Vụ tấn_công xuất_phát từ nick ychat-complaint-dept-6b và nó có khả_năng tự biến_hoá thành nhiều tên_gọi khác trong quá_trình phát_tán . 
+IMLogic yêu_cầu các công_ty cần tăng_cường hệ_thống bảo_mật , cập_nhật công_cụ diệt virus . 
+Thông_tin thêm về vụ phishing có_thể xem tại đây . 

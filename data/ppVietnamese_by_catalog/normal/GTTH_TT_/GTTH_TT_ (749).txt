@@ -1,0 +1,5 @@
+Viettel được cấp luồng thông_tin lớn nhất 
+Đây là số luồng thông_tin lớn nhất từ trước tới nay mà Viettel nhận được , nâng tổng luồng E1 của mạng này lên 500 luồng . 
+Ông Trung cho_biết để đảm_bảo mạng_lưới thông_suốt trong dịp Tết , công_ty đang khẩn_trương lắp_đặt thêm các trạm thu phát_sóng BTS , phấn_đấu nâng tổng_số trạm BTS trên toàn_quốc lên 1.700 trạm , tăng gần 200 trạm so với hiện_nay . 
+Bên cạnh đó , công_ty sẽ bổ_sung các trạm BTS tại các khu_vực tập_trung đông người và nâng_cấp cấu_hình trạm BTS. 
+Cũng trong chiều 12-1 , Viettel_Mobile đã công_bố đón_nhận khách_hàng thuê_bao thứ 2 triệu . 

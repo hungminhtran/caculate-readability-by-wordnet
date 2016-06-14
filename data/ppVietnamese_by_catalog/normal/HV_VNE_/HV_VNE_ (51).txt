@@ -1,0 +1,12 @@
+Hacker đang kiểm_soát hơn 1 triệu máy_tính 
+Bằng việc sử_dụng phần_mềm ký_sinh ( bot ) , tin_tặc đang khống_chế một số_lượng máy_tính khổng_lồ , kết_nối thành từng mạng ( botnet ) để phục_vụ cho nhiều mục_đích như thả thư rác , virus hay thực_hiện tấn_công từ_chối dịch_vụ ( DoS ) . 
+Các chuyên_gia bảo_mật ở Đại_học Aachen ( Đức ) đã thực_hiện một dự_án mang tên Honeypot ( Hũ mật ) nhằm khiêu_khích hacker thực_hiện việc tấn_công . 
+Phần_mềm được cài sẵn sẽ ghi lại mọi động_tĩnh của hoạt_động xâm_nhập trái_phép này , từ đó giúp khám_phá ra nhiều thông_tin gây bất_ngờ cho không ít người . 
+Những phần_mềm ký_sinh được bí_mật cài_đặt lên máy_tính của nạn_nhân và kết_nối những " PC ma " này thành từng mạng con với số_lượng từ vài trăm đến khoảng 50.000 để thực_hiện những mục_đích riêng . 
+Theo điều_tra của hãng bảo_mật iDefense ( Mỹ ) , trong năm 2003 , họ đã ghi_nhận được một botnet có tới 120.000 máy_tính kết_nối với nhau . 
+Phishing cũng lợi_dụng những mạng này để liên_tục tung ra nhiều chiêu lừa_đảo , thu_thập thông_tin cá_nhân và phân_phối spyware vào máy nạn_nhân . 
+Sự bùng_nổ của botnet đang là một vấn_đề lớn , Ken_Dunham , Giám_đốc iDefense , nhận_xét . 
+Một đặc_điểm chung của hầu_hết botnet là khả_năng lẩn_trốn trong hệ_thống của Windows . 
+Hơn 80 % số cuộc liên_lạc giữa các máy trong botnet bị phát_hiện đều thực_hiện thông_qua những cổng dịch_vụ chung phổ_biến trong Windows như RPC ( Remote_Procedure_Call ) hay NetBIOS_Name Services& 
+Một điều nguy_hiểm nữa là mã khai_thác lỗ_hổng Windows hiện có_mặt khắp nơi trên Internet , hacker chỉ việc copy rồi paste là có được công_cụ để thực_hiện việc tấn_công . 
+Những máy_tính bị điều_khiển , nếu được kết_nối với nhau bằng băng_thông rộng sẽ càng nguy_hiểm hơn bởi kẻ tấn_công sẽ dễ_dàng thực_hiện được những mục_đích không mấy tốt_đẹp của chúng . 

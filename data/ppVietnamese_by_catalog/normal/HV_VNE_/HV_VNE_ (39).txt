@@ -1,0 +1,12 @@
+Sâu_Bagle mới lây_lan mạnh 
+Không_chỉ là một virus phát_tán e-mail số_lượng lớn , BagleD1.L còn là Trojan có khả_năng làm tê_liệt các ứng_dụng an_ninh và thiết_lập kết_nối với một_số website . 
+Hãng bảo_mật McAfee cho_biết , trong 12 giờ qua , virus này được phát đi thông_qua nhiều danh_sách thư rác tới hàng triệu địa_chỉ và được đánh_giá ở mức nguy_cơ trung_bình . 
+Trong khi đó , theo hãng giải_pháp an_ninh thư_điện_tử Postini , sự xuất_hiện của biến_thể mới cũng đã làm gia_tăng gấp 5 lần tổng lưu_lượng của các virus thuộc họ Bagle trong 24 giờ qua . 
+Việc BagleD1.L tắt hệ_thống bảo_vệ máy_tính có_thể khiến PC đứng trước nhiều nguy_cơ tấn_công . 
+Bất_cứ Trojan nào làm tắt phần_mềm chống virus và tường lửa đều có_thể mở_toang máy_tính cho những cuộc tấn_công về sau , trong đó có cả sự đe_doạ của những virus cũ , chuyên_gia Graham_Cluley của hãng bảo_mật Anh_Sophos nhận_định . 
+Khác với sâu phát_tán e-mail số_lượng lớn thông_thường , Trojan này không tự phát_tán nhưng các chuyên_gia an_ninh cảnh_báo mối nguy_hiểm của nó khá cao vì số_lượng e-mail chứa nó được phát_hiện đến nay là đáng_kể . 
+Theo Sophos và hãng F-Secure ( Phần_Lan ) , những website mà BagleD1.L liên_kết tới không chứa mã tấn_công . 
+Tuy_nhiên , Giám_đốc nghiên_cứu virus của McAfee cho_biết nhiều tin_tặc thường bổ_sung mã này vào website sau khi những đợt tấn_công đầu_tiên đã lắng . 
+Trojan mới chỉ có_thể phát_tác nhờ vào sự thiếu cảnh_giác của người sử_dụng e-mail . 
+Những bức thư chứa chương_trình này mang phần đính kèm là một file ZIP mà phải được mở ra để hiển_thị các chương_trình " doc-01.exe " hoặc " prs-03.exe " . 
+BagleD1.L xuất_hiện chỉ vài ngày sau khi địa_chỉ cung_cấp công_cụ phát_tán spam Send-Safe . com bị loại_bỏ khỏi mạng của nhà cung_cấp dịch_vụ Internet_MCI . Send-Safe bị cáo_buộc sử_dụng những PC đã bị khống_chế bằng Trojan để phát_tán thông_điệp không mời . 

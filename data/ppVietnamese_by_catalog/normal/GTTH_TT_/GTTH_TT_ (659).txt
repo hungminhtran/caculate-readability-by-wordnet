@@ -1,0 +1,13 @@
+Sinh_nhật 20 của virus máy_tính đầu_tiên ! 
+Trong ngày 19-1 , công_ty bảo_mật F-Secure đã tiến_hành một lễ " mừng sinh_nhật " nho_nhỏ cho con virus máy_tính đầu_tiên trên thế_giới mang tên Brain_._A này . 
+Chưa rõ trước khi Brain . A ra_đời đã có một virus máy_tính nào được sinh ra trước hay chưa , nhưng hiện Brain . A đuợc xem là con virus đầu_tiên có khả_năng lây_lan qua đĩa_mềm đã bị tóm_cổ cách đây đúng 20 năm . 
+Brain . A được xem là một virus nguy_hiểm vào thời_điểm đó vì nó có khả_năng vô_hiệu_hoá boot sector của các đĩa_mềm khởi_động hoặc đĩa_cứng . 
+F-Secure nhận_định rằng Brain . A là con virus đầu_tiên đã chính_thức mở ra " thời_đại mã_độc " kéo dài cho đến tận ngày_nay và sẽ chỉ chấm_dứt khi trên trái_đất này không còn bất_kỳ một ... 
+máy_tính nào . 
+Đã có rất nhiều virus chuyên tấn_công vào rãnh khởi_động của đĩa_cứng hoặc đĩa_mềm sau khi con Brain . A xuất_hiện . 
+Thời_đại của các virus boot sector kéo dài trong suốt từ năm 1986 đến tận 1995 mới giảm hẳn để nhường chỗ cho các virus đời_mới hơn , chuyên tấn_công vào Windows và có khả_năng lây_lan hàng_loạt qua Internet . Sau khi Brain . A ra_đời được 2 năm thì loại sâu mạng đầu_tiên mang tên Morris_Worm mới xuất_hiện và chuyên tấn_công vào các hệ_thống Unix được kết_nối vào Internet . 
+Đến tận ngày_nay thì virus máy_tính đã gây ra quá nhiều thiệt_hại cho thế_giới loài_người . 
+Trong ngày 19-1 , FBI đã công_bố rằng tổng_số tiền thiệt_hại mà bọn tội_phạm máy_tính đã gây ra cho các doanh_nghiệp Mỹ trong năm 2005 đã lên đến 67,2 tỷ USD , mà virus và sâu mạng là đòn tấn_công được giới xã_hội_đen kỹ_thuật số ưa dùng nhất . 
+Trong 20 năm qua đã có khoảng 150.000 virus đã đuợc phát_hiện và định_danh , số_lượng virus hiện_nay đang tăng với tốc_độ phi_mã mà hầu_như không gì có_thể ngăn_cản được . 
+Đa_số các virus được tạo ra trong thời_gian gần đây đều có khả_năng ăn_cắp thông_tin tài_chính nhằm trục_lợi cho kẻ đã tạo ra nó , hoàn_toàn khác xa với phong_cách tạo ra virus để đùa vui hoặc để tự khẳng_định mình của cách đây 10 năm . 
+Ngoài việc mở ra một thời_đại mã_độc , con Brain . A cũng khai_sinh ra ngành công_nghiệp bảo_mật với tổng_doanh_số trên 4 tỷ USD của năm nay và sẽ đạt đến 7,3 tỷ USD trong năm 2009 . 

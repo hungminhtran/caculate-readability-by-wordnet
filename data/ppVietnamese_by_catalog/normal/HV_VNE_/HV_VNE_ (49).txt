@@ -1,0 +1,8 @@
+Hacker có_thể tấn_công thiết_bị Bluetooth cách 1 km 
+Chuẩn kết_nối không dây này hoá_ra có nguy_cơ bảo_mật lớn hơn mức_độ nhiều người từng nghĩ sau khi các chuyên_gia an_ninh giới_thiệu một thiết_bị có khả_năng bắt đường truyền trong khoảng_cách lên tới 1 km . 
+Công_cụ có tên BlueSniper ( vì mang hình_dáng như một khẩu súng bắn tỉa ) bao_gồm một ăng_ten gắn trên giá đỡ gấp , kèm theo module thu phát_sóng Bluetooth và bộ_vi_xử_lý gắn sẵn . 
+Tổ_hợp này còn có_thể được gắn vào máy_tính xách tay . 
+Với công_cụ này , người_ta hoàn_toàn có_thể phát_hiện bất_cứ một thiết_bị Bluetooth nào khi người sử_dụng đi qua vùng quét , John_Hering , chuyên_gia bảo_mật không dây của hãng Flexilis và là tác_giả của sản_phẩm nói trên , cho_biết . 
+Chỉ trong vài phút khi thử_nghiệm , 20 thiết_bị đã được phát_hiện ở mọi ví trí trong phạm_vi trên_dưới 1 km . 
+BlueSniper được phát_triển từ một công_cụ hack Bluetooth mà công_ty Flexilis đã đem ra giới_thiệu tại triển_lãm DefCon năm_ngoái . 
+Một tổ_chức có tên Hiệp_hội những người quan_tâm đặc_biệt đến Bluetooth , bao_gồm nhiều nhà phát_triển và hãng sản_xuất thiết_bị , tháng Giêng năm nay cũng công_bố một báo_cáo về tình_hình an_ninh Bluetooth . 

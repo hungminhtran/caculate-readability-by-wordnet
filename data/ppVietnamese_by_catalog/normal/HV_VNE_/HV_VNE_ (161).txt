@@ -1,0 +1,14 @@
+Nguy_cơ tấn_công DoS trong Windows_XP 
+Microsoft cho_biết họ đang tiến_hành thử_nghiệm bản vá lỗi cho một lỗ_hổng vừa được phát_hiện trong Windows_XP , cho_phép kẻ tấn_công có_thể điều_khiển máy_tính từ xa . 
+Lỗi ảnh_hưởng đến tính_năng điều_khiển máy_tính từ xa ( Windows_Remote_Desktop_Service ) , dịch_vụ cho_phép khách_hàng tiếp_cận máy_tính Windows từ một vị_trí khác . 
+Kẻ tấn_công có_thể lợi_dụng khả_năng này để tấn_công từ_chối dịch_vụ ( DoS ) . 
+Hệ_thống sử_dụng Windows_XP , trong đó có cả bản cập_nhật Service_Pack 2 và tường lửa , cũng vẫn dễ_dàng bị khai_thác . 
+Khi đó , tất_cả những gì trước_mắt người dùng chỉ là " một màn_hình Windows màu xanh chết_chóc " . 
+Microsoft nhận_thấy tin_tặc sẽ không_thể chạy mã_độc trên máy_tính nạn_nhân , nhưng có_thể khiến máy_tính cài dịch_vụ Remote_Desktop bị treo . 
+" Chúng_tôi đang tiến_hành nâng_cấp và sẽ nhanh_chóng công_bố bản vá lỗi sau khi thử_nghiệm thành_công " , một đại_diện của Microsft khẳng_định . 
+" Điều đáng lo_ngại ở đây là thông_tin về lỗ_hổng này khá phổ_biến , do đó nhiều khách_hàng đang bị đặt trong tình_trạng nguy_hiểm về bảo_mật máy_tính " . 
+Hãng phần_mềm số_một thế_giới này dự_định sẽ cung_cấp bản vá lỗi trong bản tin bản mật tháng 8 . Các chuyên_gia nghiên_cứu tại hãng bảo_mật iDefense cũng đang nghiên_cứu lỗ_hổng này . 
+" Nó được thực_hiện không khác gì một cuộc tấn_công từ_chối dịch_vụ . 
+Hacker không_thể kiểm_soát máy_tính , nhưng có khả_năng vô_hiệu_hoá toàn_bộ hệ_thống " . 
+Cũng trong tuần này Microsoft đã cung_cấp bản vá lỗi cho ba lỗ_hổng trong Word và Windows . 
+Hãng phần_mềm tại Redmond , Washington cho_biết những lỗi đó đều " đang bị những kẻ tấn_công khai_thác " . 

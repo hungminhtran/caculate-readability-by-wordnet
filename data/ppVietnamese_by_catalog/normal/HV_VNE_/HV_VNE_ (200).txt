@@ -1,0 +1,9 @@
+Hacker chuyển sang khai_thác dữ_liệu nạn_nhân qua fax 
+Những kẻ lừa_đảo trực tuyếnđang tiếp_tục tận_dụng một thủ_thuật mới qua những e-mail yêu_cầu người dùng gửi fax với thông_tin nhạy_cảm tới nhà điều_tra bảo_mật giả_danh . 
+Trong phương_pháp này , kẻ tấn_công gửi một e-mail bề_ngoài trông như xuất_phát từ hệ_thống thanh_toán trực_tuyến PayPal ( Mỹ ) , với nội_dung rằng ai đó đang cố cài lại mật_khẩu của người nhận và yêu_cầu họ tham_gia cuộc điều_tra . 
+Hãng bảo_mật Sophos cho_biết e-mail sẽ hướng người dùng đến một tài_liệu Word trên website , yêu_cầu họ tải về , điền thông_tin thẻ tín_dụng và gửi tới một_số fax miễn_phí . 
+" Thủ_đoạn này xuất_hiện khi người dùng bắt_đầu cảnh_giác hơn với vấn_đề lộ thông_tin cá_nhân trong môi_trường trực_tuyến " , Graham_Cluley , cố_vấn cao_cấp của Sophos , khẳng_định . 
+" Chúng_tôi đã phát_hiện những hoạt_động như vậy trong vài ngày gần đây . 
+Kẻ lừa_đảo hy_vọng lợi_dụng được tâm_lý cảm_thấy an_toàn hơn của mọi người khi gửi fax thay_vì khai_báo dữ_liệu trên mạng " . 
+Kiểu lừa_đảo qua e-mail đang dần không còn nhiều hiệu_quả . 
+" Trojan và sâu sẽ trở_nên phổ_biến hơn vì chúng có_thể rà_soát thông_tin lén_lút mà không sợ bị phát_hiện " , Cluley cảnh_báo . 

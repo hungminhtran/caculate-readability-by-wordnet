@@ -1,0 +1,8 @@
+Phần_mềm ngăn_chặn máy_bay khủng_bố cao_ốc 
+Hệ_thống được thiết_kế dựa trên chương_trình đặc_biệt trong đó tập_hợp dữ_liệu từ các bản_đồ chi_tiết về vị_trí địa_lý , sơ_đồ các cao_ốc toạ_lạc và kể_cả những điểm tiềm_ẩn nguy_cơ xảy_ra tắt nghẽn hay sự_cố . 
+Thậm_chí hệ_thống còn ngăn_chặn các máy_bay mạo_hiểm tiến vào không_phận bị cấm hoặc hạn_chế bay . 
+Phần_mềm còn giúp kiểm_tra toạ_độ máy_bay thông_qua các chỉ_số do hệ_thống rađa ghi_nhận được . 
+Nếu phát_hiện có nguy_cơ va_chạm phía trước , rađa sẽ phát tín_hiệu khiến các đèn đỏ sẽ phát sáng và hú chuông báo_động cho phi_công trong vòng hai giây khi máy_bay tiến về khu_vực . 
+Trong trường_hợp phi_công không nhận được tín_hiệu báo_động trên thì hệ_thống sẽ tự_động điều_chỉnh hướng bay thích_hợp . 
+Đây là phần_mềm an_toàn , hiệu_quả và chi_phí rẻ giúp hỗ_trợ đài không_lưu và ngăn_ngừa tai_nạn máy_bay đâm vào nhau trên không rơi hoặc lao vào các toà nhà . 
+Ngòai ra nó còn giúp tăng_cường mức_độ an tòan trong ngành hàng_không dân_dụng thế_giới . 

@@ -1,0 +1,236 @@
+Luật_sư tư_vấn pháp_luật trực_tuyến qua điện_thoại gọi : - 1900 6162 - ---------------------------------------------------------------------------------------------- - BỘ GIAO_THÔNG VẬN_TẢI - ----- - Số : 49/2012/TT-BGTVT CỘNG HÒA XÃ_HỘI_CHỦ_NGHĨA VIỆT NAM Độc_lập - Tự_do - Hạnh_phúc - ------------- - Hà_Nội , ngày 12 tháng 12 năm 2012 THÔNG_TƯ BAN_HÀNH QUY_CHUẨN KỸ_THUẬT QUỐC_GIA VỀ BẾN_XE KHÁCH Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật ngày 29 tháng 6 năm 2006 ; Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật ; Căn_cứ Nghị_định số 51/2008/NĐ-CP ngày 22 tháng 4 năm 2008 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ; Xét đề_nghị của Vụ_trưởng Vụ Khoa_học Công_nghệ và Tổng_cục_trưởng Tổng_cục Đường_bộ Việt_Nam ; Bộ_trưởng Bộ Giao_thông vận_tải ban_hành Thông_tư về " Quy_chuẩn kỹ_thuật quốc_gia về Bến xe_khách " , Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kỹ_thuật quốc_gia về Bến xe_khách - số_hiệu : QCVN 45 : 2012/BGTVT . 
+Điều 2 . Thông_tư này có hiệu_lực thi_hành từ ngày 01 tháng 7 năm 2013 ; bãi_bỏ Chương II . 
+Quy_định về Bến_xe tại Thông_tư số 24/2010/TT-BGTVT ngày 31 tháng 8 năm 2010 của Bộ_trưởng Bộ Giao_thông vận_tải quy_định về bến_xe , bãi đỗ xe , trạm dừng nghỉ và dịch_vụ hỗ_trợ vận_tải đường_bộ . 
+Điều 3 . Chánh_Văn_phòng Bộ , Chánh_Thanh_tra Bộ , Vụ_trưởng các Vụ , Tổng_cục_trưởng Tổng_cục Đường_bộ Việt_Nam , Thủ_trưởng cơ_quan , tổ_chức và các trách_nhiệm thi_hành Thông_tư này . / . 
+Nơi nhận : - Như_Điều 3 ; - Văn_phòng Chính_phủ ; - Các_Bộ , cơ_quan ngang Bộ , cơ_quan thuộc CP ; - UBND các tỉnh , thành_phố trực_thuộc TW ; - Công_báo ; - Cổng_Thông_tin điện_tử CP ; - Bộ Khoa_học và Công_nghệ ( để đăng_ký ) ; - Cục Kiểm_tra văn_bản ( Bộ Tư_pháp ) ; - Website_Bộ GTVT ; - Báo GTVT , Tạp_chí GTVT ; - Lưu_VT , KHCN. 
+BỘ_TRƯỞNG Đinh_La_Thăng_QCVN 45 : 2012/BGTVT QUY_CHUẨN KỸ_THUẬT QUỐC_GIA VỀ BẾN_XE KHÁCH_National technical reguiation on Bus station Lời_nói_đầu QCVN 45 :2012/BGTVT do Tổng_cục Đường_bộ Việt_Nam soạn_thảo , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ Giao_thông vận_tải ban_hành theo Thông_tư số 49/2012/TT-BGTVT ngày 12 tháng 12 năm 2012 MỤC_LỤC I . QUY_ĐỊNH CHUNG 1.1 . 
+Phạm_vi điều_chỉnh 1.2 . 
+Đối_tượng áp_dụng 1.3 . 
+Tài_liệu viện_dẫn 1.4 . 
+Giải_thích từ_ngữ II . QUY_ĐỊNH KỸ_THUẬT 2.1 . 
+Quy_định chung 2.2 . 
+Quy_định về các hạng_mục công_trình cơ_bản 2 . 2.1 . 
+Công_trình dịch_vụ thương_mại 2.3 . 
+Quy_định về diện_tích tối_thiểu và các hạng_mục công_trình 2 . 3.1 . 
+Phân_loại bến_xe khách 2 . 3.2 . 
+Quy_định về khu_vực bán vé 2 . 3.3 . 
+Quy_định khu_vực đón , trả khách 2 . 3.4 . 
+Quy_định về bãi đỗ xe ôtô chờ vào vị_trí đón khách 2 . 3.5 . 
+Quy_định về phòng chờ cho hành_khách 2 . 3.6 . 
+Quy_định về khu_vực phục_vụ ăn_uống , giải_khát 2 . 3.7 . 
+Quy_định về khu vệ_sinh 2 . 3.8 . 
+Quy_định về cung_cấp thông_tin 2 . 3.9 . 
+Quy_định về hệ_thống cấp thoát nước 2 . 3.10 . 
+Quy_định về phòng cháy , nổ 2.4 . 
+Quy_định về bảo_vệ môi_trường III . QUY_ĐỊNH VỀ QUẢN_LÝ 3.1 . 
+Nội_dung quản_lý 3 . 1.1 . 
+Quy_định về loại_hình đơn_vị quản_lý , khai_thác bến xe_khách 3 . 1.2 . 
+Quy_định về thủ_tục công_bố đưa bến_xe vào khai_thác 3 . 1.3 . 
+Quy_định về quy_trình giải_quyết cho xe ra_vào bến 3 . 1.4 . 
+Quy_định về kiểm_tra , giám_sát thực_hiện quy_chuẩn kỹ_thuật quốc_gia bến xe_khách 3.2 . 
+Trách_nhiệm quản_lý_nhà_nước 3 . 2.1 . 
+Trách_nhiệm của Tổng_cục Đường_bộ Việt_Nam 3 . 2.2 . 
+Trách_nhiệm của UBND tỉnh , thành_phố trực_thuộc TW 3 . 2.3 . 
+Trách_nhiệm của Sở GTVT các tỉnh , thành_phố trực_thuộc TW 3.3 . 
+Trách_nhiệm của chủ đầu_tư , đơn_vị khai_thác bến xe_khách 3.4 . 
+Trách_nhiệm của đơn_vị kinh_doanh vận_tải tại bến xe_khách 3.5 . 
+Trách_nhiệm của hành_khách tại bến xe_khách IV . TỔ_CHỨC THỰC_HIỆN QUY_CHUẨN KỸ_THUẬT QUỐC_GIA VỀ BẾN_XE KHÁCH_National technical regulation on Bus station I . 
+QUY_ĐỊNH CHUNG 1.1 . 
+Phạm_vi điều_chỉnh Quy_chuẩn này quy_định điều_kiện cơ_sở vật_chất ; các yêu_cầu trong việc lập quy_hoạch , đầu_tư , xây_dựng mới , cải_tạo , nâng_cấp và quản_lý khai_thác bến xe_khách . 
+1 . 2 . Đối_tượng áp_dụng Quy_chuẩn này áp_dụng đối_với tổ_chức , cá_nhân đầu_tư , xây_dựng mới , cải_tạo , nâng_cấp , quản_lý , khai_thác bến xe_khách ; các cơ_quan , tổ_chức , cá_nhân liên_quan đến việc sử_dụng dịch_vụ , kiểm_tra , kiểm chuẩn công_bố bến_xe khách đủ điều_kiện hoạt_động và quy_hoạch hệ_thống bến xe_khách trong phạm_vi nước Việt_Nam . 
+1 . 3 . Tài_liệu viện_dẫn - QCXDVN 01 :2002 . 
+" Quy_chuẩn xây_dựng công_trình để đảm_bảo người tàn_tật tiếp_cận sử_dụng " được ban_hành kèm theo Quyết_định số 01/2002/QĐ-BXD ngày 17 tháng 01 năm 2002 của Bộ Xây_dựng . 
+- QCXDVN 05 :2008/BXD " Nhà_ở và công_trình công_cộng - An_toàn sinh_mạng và sức_khoẻ " được ban_hành kèm theo Quyết_định số 09/2008/QĐ-BXD ngày 06 tháng 6 năm 2008 của Bộ Xây_dựng . 
+- QCVN 01 :2009/BYT " Quy_chuẩn kỹ_thuật quốc_gia về chất_lượng nước ăn_uống " được ban_hành kèm theo Thông_tư 04/2009/TT-BYT ngày 17 tháng 6 năm 2009 của Bộ Y_tế . 
+- QCVN 02 :2009/BYT " Quy_chuẩn kỹ_thuật quốc_gia về chất_lượng nước sinh_hoạt " được ban_hành theo Thông_tư số 05/2009/TT-BYT ngày 17 tháng 6 năm 2009 của Bộ Y_tế . 
+- QCVN 07 :2010/BXD " Quy_chuẩn kỹ_thuật quốc_gia các công_trình hạ_tầng kỹ_thuật đô_thị " được ban_hành kèm theo Thông_tư số 02/2010/TT-BXD ngày 05 tháng 02 năm 2010 của Bộ Xây_dựng . 
+- QCVN 06 :2010/BXD " Quy_chuẩn kỹ_thuật quốc_gia về an_toàn cháy cho nhà và công_trình " được ban_hành kèm theo Thông_tư số 07/2010/TT-BXD ngày 28 tháng 7 năm 2010 của Bộ Xây_dựng . 
+- TCVN 2622 :1995 Phòng cháy , chống cháy cho nhà và công_trình - Yêu_cầu thiết_kế do Bộ Xây_dựng công_bố năm 1995 . - TCVN 5729 :1997 Đường ô_tô cao_tốc - Tiêu_chuẩn thiết_kế do Bộ Khoa_học và Công_nghệ công_bố năm 1997 - TCXDVN 264 :2002 Nhà và công_trình - Nguyên_tắc cơ_bản xây_dựng công_trình để đảm_bảo người tàn_tật tiếp_cận sử_dụng do Bộ Xây_dựng công_bố năm 2002 . 
+- TCXDVN 276 :2003 " Công_trình công_cộng - Nguyên_tắc cơ_bản để thiết_kế " được ban_hành kèm theo Quyết_định số 08/2003/QĐ-BXD ngày 26 tháng 3 năm 2003 của Bộ Xây_dựng . 
+- TCVN 4054 :2005 Đường ô_tô - Yêu_cầu thiết_kế do Bộ Khoa_học và Công_nghệ công_bố năm 2005 . - TCVN 5687 :2010 Thông gió , điều_tiết_không_khí - Tiêu_chuẩn thiết_kế do Bộ Khoa_học và Công_nghệ công_bố năm 2010 . 
+Cửa_hàng xăng dầu - Yêu_cầu thiết_kế do Bộ Khoa_học và công_nghệ công_bố năm 2011 . - TCVN 4530 :2011 Cửa_hàng xăng dầu - Yêu_cầu thiết_kế do Bộ Khoa_học và Công_nghệ công_bố năm 2011 . 
+- Thông_tư 39/2011/TT-BGTVT Hướng_dẫn thực_hiện một_số điều của Nghị_định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính_phủ quy_định về quản_lý và bảo_vệ kết_cấu_hạ_tầng giao_thông đường_bộ . 
+1 . 4 . Giải_thích từ_ngữ 1 . 4.1 . 
+Bến_xe khách là công_trình thuộc kết_cấu_hạ_tầng giao_thông đường_bộ thực_hiện chức_năng phục_vụ xe ô_tô đón , trả hành_khách và các dịch_vụ hỗ_trợ vận_tải hành_khách công_cộng . 
+1 . 4 . 2 . Đường xe ra , vào bến là đường đấu nối từ đường giao_thông chính , đường nhánh hoặc đường gom vào bến xe_khách . 
+1 . 4 . 3 . Vị_trí đón , trả khách là khu_vực đỗ xe để hành_khách lên xe hoặc xuống xe trong phạm_vi bến xe_khách , diện_tích dành cho 1 vị_trí đỗ xe_khách là 40 m2 ( theo QCVN 07 :2010/BXD ) . 
+1 . 4 . 4 . Bãi đỗ xe ô_tô chờ vào vị_trí đón khách là nơi dành cho xe ô_tô khách đỗ xe để chờ vào vị_trí đón hành_khách . 
+1 . 4 . 5 . Bãi đỗ xe dành cho phương_tiện khác là nơi trông giữ các phương_tiện cá_nhân tại bến xe_khách . 
+1 . 4 . 6 . Phòng chờ cho hành_khách là khu_vực có bố_trí ghế để hành_khách ngồi trong thời_gian chờ mua vé hoặc chờ lên xe . 
+1 . 4 . 7 . Hệ_thống cung_cấp thông_tin là hệ_thống loa phát_thanh , bảng thông_báo và các trang_thiết_bị nghe , nhìn khác trong bến xe_khách . 
+1 . 4 . 8 . Tài chuyến là các chuyến xe xuất bến được xác_định bởi số thứ_tự hoặc giờ xuất bến tại mỗi bến_xe để phục_vụ cho công_tác quản_lý của bến xe_khách . 
+II . QUY_ĐỊNH KỸ_THUẬT 2.1 . 
+Quy_định chung 2 . 1.1 . 
+Bến_xe khách phải được xây_dựng theo Quy_hoạch bến_xe khách đã được Uỷ_ban_nhân_dân cấp tỉnh , thành_phố trực_thuộc Trung_ương phê_duyệt . 
+2 . 1 . 2 . Bến xe_khách chỉ được đưa vào khai_thác sau khi đã được cơ_quan có thẩm_quyền công_bố . 
+2 . 1 . 3 . Điểm đấu nối của đường ra , vào bến_xe với đường quốc_lộ phải được thực_hiện theo đúng quy_định tại Thông_tư số 39/2011/TT-BGTVT ngày 18/5/2011 của Bộ Giao_thông vận_tải . 
+Điểm đấu nối của đường ra , vào bến_xe với các đường khác ( trừ đường_quốc_lộ ) phải được thực_hiện theo quy_định của cơ_quan quản_lý_nhà_nước có thẩm_quyền . 
+2 . 1 . 4 . Đường ra , vào bến xe_khách phải được thiết_kế theo các quy_định của TCVN 4054 :2005 hoặc tương_đương , bảo_đảm lưu_thông thuận_tiện , hạn_chế tối_thiểu xung_đột giữa dòng phương_tiện ra , vào và với người đi bộ . 
+2 . 1 . 5 . Đường lưu_thông dành cho xe_cơ_giới trong bến xe_khách phải có các biển báo_hiệu , vạch kẻ đường ; có bán_kính quay xe phù_hợp , nhưng bán_kính tối_thiểu không nhỏ hơn 10 m tính theo tim đường được quy_định tại QCVN 07 : 2010/BXD để đảm_bảo cho các loại phương_tiện lưu_thông an_toàn trong khu_vực bến xe_khách . 
+2 . 1 . 6 . Các công_trình và lối đi_lại trong khu_vực bến xe_khách phải đáp_ứng các quy_định tại QCXDVN 01 : 2002 để bảo_đảm người khuyết_tật tiếp_cận sử_dụng . 
+2 . 1 . 7 . Bến xe_khách phải bảo_đảm thực_hiện được các chức_năng cơ_bản sau : a ) Cung_cấp các dịch_vụ phục_vụ xe ra , vào bến xe_khách ; b ) Cung_cấp các dịch_vụ phục_vụ lái xe , nhân_viên phục_vụ trên xe , hành_khách và phương_tiện . 
+2 . 1 . 8 . Bến xe_khách phải được xây_dựng phù_hợp với các quy_định tương_ứng với từng loại bến xe_khách được quy_định tại Quy_chuẩn này . 
+2 . 1 . 9 . Các công_trình , các thiết_bị của bến xe_khách phải được xây_dựng , lắp_đặt bảo_đảm chất_lượng và sự bền_vững tương_ứng với cấp công_trình theo quy_định tại TCXDVN 276 :2003 và các quy_định liên_quan khác ; bảo_đảm trật_tự , an_toàn cho hành_khách , hàng_hoá và phương_tiện trong khu_vực bến xe_khách . 
+2 . 1.10 . Hệ_thống điện , nước , chiếu sáng , thông_tin liên_lạc , phòng cháy , chữa_cháy của bến xe_khách phải bảo_đảm đồng_bộ , hoàn_chỉnh , tuân_thủ theo các quy_định để có_thể cung_cấp an_toàn , liên_tục và ổn_định các dịch_vụ cho người và phương_tiện tham_gia giao_thông theo quy_định tại QCVN 07 :2010/BXD và TCXDVN 276 :2003 . 
+2 . 2 . Quy_định về các hạng_mục công_trình cơ_bản Các hạng_mục công_trình cơ_bản của bến xe_khách được chia làm hai nhóm gồm : Các công_trình bắt_buộc phải có và các công_trình dịch_vụ thương_mại . 
+2 . 2 . 1 . Các công_trình bắt_buộc phải có : a ) Khu_vực đón , trả khách ; b ) Bãi đỗ xe ô_tô chờ vào vị_trí đón khách ; c ) Bãi đỗ xe dành cho phương_tiện khác ; d ) Phòng chờ cho hành_khách ; đ ) Khu_vực làm_việc của bộ_máy quản_lý ; e ) Khu_vực bán vé ; g ) Khu vệ_sinh . 
+2 . 2 . 2 . Công_trình dịch_vụ thương_mại : Khuyến_khích xây_dựng a ) Trung_tâm thương_mại ; b ) Khách_sạn , nhà_nghỉ ; c ) Nhà_hàng phục_vụ ăn_uống , giải_khát ; d ) Khu_vực cung_cấp các dịch_vụ vui_chơi , giải_trí , chăm_sóc sức_khoẻ ; đ ) Trạm cấp nhiên_liệu ; e ) Xưởng bảo_dưỡng , sửa_chữa phương_tiện ; g ) Nơi rửa xe ; h ) Nhà để xe nhiều tầng ( cao_tầng hoặc âm tầng hoặc cả 2 ) ; i ) Trung_tâm dịch_vụ đăng_kiểm xe_cơ_giới . 
+2 . 3 . Quy_định về diện_tích tối_thiểu và các hạng_mục công_trình 2 . 3.1 . 
+Phân_loại bến_xe khách . 
+Bến_xe khách được phân thành 6 loại . 
+Quy_định về các hạng_mục công_trình tương_ứng với từng loại bến xe_khách như trong bảng sau : TT Tiêu_chí phân_loại Đơn_vị tính Loại bến xe_khách Loại 1 Loại 2 Loại 3 Loại 4 Loại 5 Loại 6 1 Tổng_diện_tích ( tối_thiểu ) m2 15.000 10.000 5.000 2.500 1.500 500 2 Số vị_trí đón khách ( tối_thiểu ) Vị_trí 30 25 20 10 5 3 3 Số vị_trí trả khách ( tối_thiểu ) Vị_trí 20 15 10 10 5 3 4 Diện_tích bãi đỗ xe ôtô chờ vào vị_trí đón khách ( tối_thiểu ) m2 5.000 3.000 1.000 500 160 80 5 Diện_tích bãi đỗ xe dành cho phương_tiện khác m2 2000 1.500 900 400 50 30 6 Diện_tích phòng chờ cho hành_khách ( tối_thiểu ) m2 500 300 150 100 50 30 7 Số chỗ ngồi tối_thiểu khu_vực phòng chờ cho hành_khách Chỗ_100 60 30 20 10 10 8 Hệ_thống điều_hoà , quạt_điện khu_vực phòng chờ cho hành_khách ( tối_thiểu ) - Đảm_bảo nhiệt_độ không vượt quá 30 °C Quạt_điện Quạt_điện Quạt_điện Quạt_điện 9 Diện_tích khu_vực làm_việc - Bình_quân 4,5m2 / người 10 Diện_tích văn_phòng dành cho Công_an , Y_tế , Thanh_tra giao_thông - Tối_thiểu 20 m2 Tối_thiểu 10 m2 11 Diện_tích khu vệ_sinh - > 1 % Tổng_diện_tích xây_dựng bến ( Có nơi vệ_sinh phục_vụ người khuyết_tật - TCXDVN 264 :2002 ) 12 Diện_tích dành cho cây_xanh , thảm cỏ - Tỷ_lệ diện_tích cây_xanh , thảm cỏ tối_thiểu 5 % tổng_diện_tích . 
+13 Đường xe ra , vào bến - riêng_biệt riêng_biệt riêng_biệt chung ( rộng tối_thiểu 7,5m ) chung ( rộng tối_thiểu 7,5m ) chung ( rộng tối_thiểu 7,5m ) 14 Đường_dẫn từ phòng chờ cho hành_khách đến các vị_trí đón , trả khách Có mái che Khuyến_khích có mái che 15 Mặt sân bến - Thảm nhựa hoặc bê_tông có chiều dày tối_thiểu 07 cm 16 Hệ_thống cung_cấp thông_tin Có hệ_thống phát_thanh , thông_tin chỉ_dẫn hành_khách , lái_xe , nhân_viên phục_vụ 2 . 3.2 . 
+Quy_định về khu_vực bán vé : a ) Vị_trí khu_vực bán vé bảo_đảm hành_khách dễ nhận_biết , thuận_tiện cho hành_khách đến mua vé và ra vị_trí xe đón khách ; phía trước khu_vực bán vé phải có biển_hiệu " Khu_vực bán vé " bằng tiếng Việt và tiếng Anh ; b ) Đơn_vị khai_thác bến xe_khách quy_định thống_nhất về kiểu_dáng và kết_cấu của các quầy bán vé trong phạm_vi bến xe_khách . 
+Diện_tích tối_thiểu của mỗi quầy bán vé là 2 m2 ; c ) Tại mỗi quầy bán vé , đơn_vị vận_tải phải niêm_yết thông_tin về chất_lượng dịch_vụ đã đăng_ký ( hoặc đã được công_bố ) và các thông_tin cần_thiết khác cho hành_khách . 
+2 . 3 . 3 . Quy_định khu_vực đón , trả khách : a ) Khu_vực xe đón khách phải được bố_trí gần với khu_vực phòng chờ và khu_vực bán vé để bảo_đảm thuận_tiện cho hành_khách đi xe ; b ) Khu_vực xe đón khách phải có biển_hiệu chỉ_dẫn để bảo_đảm hành_khách đi xe dễ_dàng nhận_biết đúng vị_trí xe chờ_đón khách ; c ) Khu_vực trả khách phải bố_trí riêng_biệt với khu_vực đón khách , thuận_tiện cho hành_khách đến phòng chờ hoặc đi ra khỏi khu_vực bến xe_khách và gần với các điểm dừng đón khách của các loại_hình vận_tải khách công_cộng có kết_nối với bến xe_khách ; d ) Các vị_trí cho xe đỗ để đón , trả khách phải được phân_định rõ bằng vạch sơn . 
+Đối_với các bến xe_khách có tuyến quốc_tế phải bố_trí khu_vực riêng cho xe vận_chuyển khách trên các tuyến quốc_tế đón , trả khách và phải có biển_hiệu " Khu_vực đón , trả khách Quốc_tế " bằng tiếng Việt và tiếng Anh . 
+Đối_với các bến xe_khách có tuyến xe_buýt , taxi hoạt_động trong khu_vực bến , bến_xe phải bố_trí khu_vực dành riêng cho xe_buýt , xe taxi đón , trả khách . 
+Diện_tích khu_vực này không được tính vào diện_tích tối_thiểu của bến xe_khách quy_định cho từng loại bến tại Quy_chuẩn này . 
+2 . 3 . 4 . Quy_định về bãi đỗ xe ô_tô chờ vào vị_trí đón khách : a ) Thiết_kế hướng đỗ xe hợp_lý , phù_hợp với quy_mô diện_tích và không_gian của bến xe_khách để đáp_ứng nhu_cầu đỗ xe của từng loại phương_tiện , bảo_đảm an_toàn , thuận_tiện ; b ) Diện_tích tối_thiểu cho một vị_trí đỗ của xe ô_tô khách là 40 m2 . 
+Có vạch sơn để phân_định rõ từng vị_trí đỗ xe ( theo QCVN 07 :2010/BXD ) . 
+2 . 3 . 5 . Quy_định về phòng chờ cho hành_khách : a ) Phòng chờ cho hành_khách phải được bố_trí gần khu_vực bán vé và khu_vực xe đón khách . 
+Đối_với bến_xe khách từ loại 1 đến loại 2 phải tổ_chức , bố_trí khu_vực phòng chờ dành riêng cho hành_khách đã mua vé ; b ) Có bố_trí ghế ngồi cho hành_khách theo quy_định đối_với từng loại bến xe_khách . 
+Ghế ngồi phải được đặt cố_định và bảo_đảm tính hài_hoà , thẩm_mỹ , có lối đi_lại giữa các hàng ghế ; c ) Phải có lối đi liên_thông với khu_vực bán vé và khu_vực xe đón , trả khách ; d ) Phải có hệ_thống đèn chiếu sáng và biển chỉ_dẫn " Lối ra xe " để chỉ_dẫn hành_khách ra khu_vực xe đón khách ; 2 . 3.6 . 
+Quy_định về khu_vực phục_vụ ăn_uống , giải_khát : a ) Khu_vực phục_vụ ăn_uống , giải_khát cho hành_khách và lái xe phải được bố_trí một khu_vực riêng hoặc được ngăn_cách bằng vách ngăn lửng với các khu_vực khác ; b ) Khu_vực phục_vụ ăn_uống phải được bố_trí bàn ăn , ghế ngồi và thùng_rác đảm_bảo vệ_sinh môi_trường ; c ) Khu_vực chế_biến thức_ăn và khu_vực phục_vụ hành_khách ăn_uống được ngăn_cách bằng vách ngăn lửng hoặc được bố_trí khu_vực riêng_biệt ; d ) Nền khu_vực phục_vụ ăn_uống phải dùng loại vật_liệu dễ làm vệ_sinh ; đ ) Khu_vực phục_vụ ăn_uống phải được thông gió tự_nhiên và trang_bị hệ_thống quạt mát , quạt hút mùi . 
+Tuỳ theo yêu_cầu cụ_thể của từng trường_hợp có_thể thông gió bằng phương_pháp cơ_giới và thiết_bị điều_hoà nhiệt_độ theo quy_định tại TCVN 5687 :2010 ; e ) Khu_vực ăn_uống phải bảo_đảm luôn sạch_sẽ , đáp_ứng đầy_đủ các quy_định về vệ_sinh môi_trường ; các sản_phẩm ăn_uống phục_vụ khách_hàng phải đảm_bảo các quy_định về vệ_sinh , an_toàn thực_phẩm . 
+2 . 3 . 7 . Quy_định về khu vệ_sinh : a ) Phải có biển chỉ_dẫn đến khu vệ_sinh rõ_ràng , dễ nhận_biết bảo_đảm thuận_tiện cho khách sử_dụng . 
+Vị_trí bố_trí không ảnh_hưởng đến môi_trường của các khu_vực khác trong bến xe_khách . 
+Khu vệ_sinh phải bố_trí vệ_sinh nam , nữ riêng và bảo_đảm người khuyết_tật có_thể tiếp_cận sử_dụng ; nơi vệ_sinh dành cho người khuyết_tật phải có biển_báo theo quy_ước quốc_tế ; b ) Khu vệ_sinh phải đảm_bảo chống thấm , chống ẩm_ướt , thoát mùi hôi_thối , thông_thoáng , tường , mặt sàn và thiết_bị phải luôn sạch_sẽ , số_lượng , chất_lượng các loại thiết_bị vệ_sinh phải theo quy_định tại TCXDVN 276 :2003 ; c ) Khu vệ_sinh phải được thông gió tự_nhiên trực_tiếp ; nếu thông gió tự_nhiên không đáp_ứng yêu_cầu thì phải dùng thông gió cơ_giới theo quy_định tại TCVN 5687 : 2010 ; d ) Nền , mặt tường khu vệ_sinh phải dùng loại vật_liệu không hút nước , không hút bẩn , chịu xâm_thực , dễ làm vệ_sinh ; đ ) Tại các vị_trí bố_trí chậu để rửa tay nên lắp_đặt bàn , gương , móc treo ; e ) Hệ_thống thoát nước phải bảo_đảm không để nước ứ_đọng trên nền trong khu vệ_sinh . 
+2 . 3 . 8 . Quy_định về hệ_thống cung_cấp thông_tin : a ) Tại khu_vực phòng chờ cho hành_khách và khu_vực bán vé của bến xe_khách phải có hệ_thống cung_cấp thông_tin tối_thiểu gồm : hệ_thống phát_thanh và bảng thông_tin chỉ_dẫn cố_định ( hoặc màn_hình điện_tử ) ; đối_với bến_xe khách từ loại 1 đến loại 4 ngoài bảng thông_tin chỉ_dẫn cố_định phải bố_trí màn_hình điện_tử ; b ) Nội_dung thông_tin cung_cấp theo từng tuyến gồm : biển kiểm_soát xé , đơn_vị vận_tải , hành_trình , biểu_đồ chạy xe , giá vé , chất_lượng dịch_vụ vận_tải , thông_tin về hành_lý thất_lạc và các thông_tin cần_thiết khác ; c ) Đối_với bến_xe khách có tuyến vận_tải quốc_tế phải cung_cấp thông_tin theo quy_định tại điểm a , b Mục này bằng tiếng Việt và tiếng Anh ; d ) Hệ_thống phát_thanh phải bảo_đảm cho mọi người đang ở trong khu_vực bến xe_khách có_thể nghe rõ mọi thông_tin phát qua hệ_thống ; đ ) Phải có số điện_thoại đường_dây nóng để tiếp_nhận thông_tin phản_ánh của hành_khách . 
+2 . 3 . 9 . Quy_định về hệ_thống cấp thoát nước : a ) Hệ_thống cấp nước cho bến xe_khách phải bảo_đảm hoạt_động ổn_định , có khả_năng cung_cấp đủ lượng nước cho nhu_cầu sử_dụng của bến xe_khách ; b ) Trong trường_hợp bến_xe khách tự khai_thác nguồn nước để sử_dụng thì : chất_lượng nước phục_vụ cho ăn_uống phải bảo_đảm đáp_ứng đầy_đủ các chỉ_tiêu chất_lượng theo quy_định tại QCVN 01 : 2009/BYT và chất_lượng nước phục_vụ cho sinh_hoạt phải bảo_đảm đáp_ứng đầy_đủ các chỉ_tiêu chất_lượng theo quy_định tại QCVN 02 : 2009/BYT ; c ) Hệ_thống thoát nước của bến xe_khách bao_gồm hệ_thống thoát nước_thải và hệ_thống thoát nước mưa và đấu nối với hệ_thống thoát nước tại địa_phương ; d ) Hệ_thống thoát nước phải bảo_đảm không để ứ_đọng nước làm gián_đoạn hoạt_động của bến_xe khách . 
+2 . 3.10 . Quy_định về phòng cháy , nổ : a ) Bến xe_khách phải được xây_dựng và lắp_đặt các trang_thiết_bị phòng và chống cháy , nổ theo đúng quy_định tại QCVN 06 :2010/BXD và TCVN 2622 :1995 ; Trường_hợp trong bến xe_khách có trạm cấp nhiên_liệu , việc thiết_kế , xây_dựng và hoạt_động của khu_vực cấp nhiên_liệu phải tuân_thủ đúng theo quy_định tại TCVN 4530 :2011 ; b ) Cán_bộ công_nhân_viên của bến xe_khách phải được tập_huấn nghiệp_vụ về phòng và chống cháy , nổ ; c ) Niêm_yết quy_định về phòng và chống cháy , nổ trong khu_vực bến xe_khách . 
+2 . 4 . Quy_định về bảo_vệ môi_trường 2 . 4.1 . 
+Bến_xe khách phải có hệ_thống công_trình thu_gom , xử_lý nước_thải tập_trung theo quy_định . 
+2 . 4 . 2 . Có đủ thiết_bị , phương_tiện và lực_lượng lao_động thu_gom chất_thải , làm vệ_sinh môi_trường trong phạm_vi quản_lý . 
+2 . 4 . 3 . Bố_trí đủ thùng_rác tại tất_cả các khu_vực để bảo_đảm vệ_sinh môi_trường . 
+2 . 4 . 4 . Đối_với bến_xe khách có xưởng bảo_dưỡng sửa_chữa xe ô_tô phải bố_trí khu_vực riêng ; đăng_ký chủ nguồn chất_thải nguy_hại , có hệ_thống thu_gom , lưu_giữ , xử_lý chất_thải nguy_hại ( bao_gồm : ắc_quy , dầu_mỡ , săm lốp , linh_kiện điện_tử ) theo quy_định tại Thông_tư số 12/2011/TT-BTNMT ngày 14/4/2011 của Bộ Tài_nguyên và Môi_trường quy_định về quản_lý chất_thải nguy_hại . 
+2 . 4 . 5 . Niêm_yết quy_định về giữ_gìn vệ_sinh trong khu_vực bến xe_khách . 
+III . QUY_ĐỊNH VỀ QUẢN_LÝ 3.1 . 
+Nội_dung quản_lý 3 . 1.1 . 
+Quy_định về loại_hình đơn_vị quản_lý , khai_thác bến xe_khách . 
+Đơn_vị trực_tiếp quản_lý , khai_thác bến xe_khách là doanh_nghiệp hoặc hợp_tác_xã . 
+3 . 1 . 2 . Quy_định về thủ_tục công_bố đưa bến xe_khách vào khai_thác . 
+3 . 1 . 2 . 1 . Thủ_tục công_bố lần đầu a ) Sau khi hoàn_thành việc xây_dựng , đơn_vị khai_thác bến xe_khách nộp 01 bộ hồ_sơ đề_nghị công_bố đưa bến xe_khách vào khai_thác đến Sở Giao_thông vận_tải địa_phương nơi bến xe_khách được xây_dựng ( nộp trực_tiếp hoặc gửi qua đường bưu_chính ) ; b ) Hồ_sơ đề_nghị công_bố gồm : - Giấy đề_nghị công_bố đưa bến xe_khách vào khai_thác theo mẫu quy_định tại Phụ_lục 1 . 
+- Văn_bản chấp_thuận đấu nối đường ra , vào bến xe_khách với đường giao_thông của cơ_quan có thẩm_quyền . 
+- Sơ_đồ mặt_bằng tổng_thể , thiết_kế kỹ_thuật bến xe_khách . 
+- Quyết_định cho_phép đầu_tư xây_dựng của cơ_quan có thẩm_quyền . 
+- Biên_bản nghiệm_thu xây_dựng . 
+- Bản đối_chiếu các quy_định kỹ_thuật của quy_chuẩn này với các công_trình của bến xe_khách theo mẫu quy_định tại Phụ_lục 2 . - Giấy_phép kinh_doanh của đơn_vị kinh_doanh khai_thác bến xe_khách . 
+- Quy_chế quản_lý khai_thác bến xe_khách do đơn_vị quản_lý , khai_thác bến xe_khách ban_hành . 
+c ) Quy_trình xử_lý hồ_sơ đề_nghị công_bố : - Chậm nhất trong thời_hạn 10 ngày làm_việc kể từ ngày nhận đủ hồ_sơ đúng quy_định , Sở Giao_thông vận_tải tổ_chức kiểm_tra và lập biên_bản kiểm_tra . 
+Trường_hợp sau khi kiểm_tra , nếu bến xe_khách không đáp_ứng đúng các quy_định kỹ_thuật theo Quy_chuẩn này mà đơn_vị khai_thác bến xe_khách đề_nghị thì các tiêu_chí không đạt yêu_cầu phải được ghi rõ trong biên_bản kiểm_tra và được thông_báo ngay cho đơn_vị khai_thác bến xe_khách . 
+- Sau khi kiểm_tra , nếu bến xe_khách đáp_ứng đúng các quy_định kỹ_thuật của loại bến xe_khách mà đơn_vị khai_thác bến xe_khách đề_nghị thì chậm nhất trong thời_hạn 05 ngày làm_việc kể từ ngày kết_thúc kiểm_tra , Sở Giao_thông vận_tải quyết_định công_bố đưa bến xe_khách vào khai_thác theo mẫu quy_định tại Phụ_lục 3 . Quyết_định công_bố đưa bến xe_khách vào khai_thác có giá_trị trong thời_hạn 3 năm kể từ ngày ký . 
+3 . 1 . 2 . 2 . Thủ_tục công_bố lại : a ) Đơn_vị khai_thác bến xe_khách phải làm hồ_sơ và nộp cho Sở Giao_thông vận_tải địa_phương nơi có bến xe_khách để đề_nghị công_bố , xếp loại lại bến xe_khách trong các trường_hợp : - Sau khi cải_tạo cơ_sở vật_chất dẫn đến thay_đổi các tiêu_chí làm ảnh_hưởng đến các điều_kiện phân_loại bến_xe khách ; - Trước khi hết hạn được phép khai_thác 60 ngày theo thời_hạn quy_định tại quyết_định công_bố đưa bến xe_khách vào khai_thác . 
+b ) Hồ_sơ đề_nghị công_bố lại gồm : - Giấy đề_nghị công_bố lại bến xe_khách theo mẫu quy_định tại Phụ_lục 4 . - Sơ_đồ mặt_bằng tổng_thể , thiết_kế kỹ_thuật các công_trình xây_dựng , cải_tạo bến xe_khách ( nếu có thay_đổi so với lần công_bố trước ) . 
+- Quyết_định cho_phép đầu_tư xây_dựng , cải_tạo của cơ_quan có thẩm_quyền ( nếu có thay_đổi so với lần công_bố trước ) . 
+- Biên_bản nghiệm_thu các công_trình xây_dựng , cải_tạo ( nếu có thay_đổi so với lần công_bố trước ) . 
+- Bản đối_chiếu các quy_định kỹ_thuật của quy_chuẩn này với các công_trình của bến xe_khách ( nếu có thay_đổi so với lần công_bố trước ) . 
+c ) Quy_trình xử_lý hồ_sơ đề_nghị công_bố lại được thực_hiện như quy_trình xử_lý hồ_sơ đề_nghị công_bố lần đầu . 
+3 . 1 . 3 . Quy_định về quy_trình giải_quyết cho xe ra , vào bến . 
+3 . 1 . 3 . 1 . Các công_việc thực_hiện khi xe vào bến xe_khách : Khi xe_khách vào bến nhân_viên điều_hành hoặc nhân_viên bảo_vệ của bến xe_khách phải thực_hiện các công_việc sau : a ) Kiểm_tra , xác_định phương_tiện để đảm_bảo phương_tiện đã được cơ_quan có thẩm_quyền cho_phép hoạt_động vận_tải tại bến . 
+Xác_nhận xe đến bến ; b ) Hướng_dẫn lái xe đưa xe vào đúng vị_trí quy_định để trả khách ; c ) Sau khi xe trả khách xong , hướng_dẫn lái xe đưa xe vào vị_trí đỗ xe chờ vào vị_trí đón khách . 
+3 . 1 . 3 . 2 . Bố_trí tài chuyến và đón khách Trước khi thực_hiện đăng_ký tài chuyến cho xe , nhân_viên bến xe_khách phải thực_hiện kiểm_tra các nội_dung sau : a ) Kiểm_tra giấy_tờ của phương_tiện và người lái theo quy_định gồm : giấy_phép lái xe , đăng_ký xe , giấy chứng_nhận an_toàn kỹ_thuật và bảo_vệ môi_trường , bảo_hiểm trách_nhiệm dân_sự ; b ) Kiểm_tra các tiêu_chí theo nội_dung chất_lượng dịch_vụ vận_tải đã đăng_ký với cơ_quan quản_lý tuyến ; kiểm_tra việc niêm_yết giá vé ; Trường_hợp đủ điều_kiện , bến_xe khách tổ_chức bố_trí tài chuyến theo kế_hoạch hàng ngày hoặc theo hợp_đồng đơn_vị vận_tải đã ký_kết với bến xe_khách ( phù_hợp với phương_án chạy xe đã được cơ_quan quản_lý tuyến chấp_thuận ) ; đồng_thời thực_hiện việc bán vé cho hành_khách đi xe nếu đơn_vị vận_tải uỷ_thác cho bến xe_khách bán vé . 
+Trường_hợp xe hoặc lái xe không đủ điều_kiện theo quy_định thì giải_quyết cho xe xuất bến ( không được phép vận_chuyển khách ) để về đơn_vị hoàn_thiện các điều_kiện theo quy_định ; c ) Đến giờ quy_định , nhân_viên điều_hành hoặc nhân_viên bảo_vệ hướng_dẫn đưa xe vào vị_trí đón khách ; d ) Nhân_viên điều_hành phối_hợp với nhân_viên bảo_vệ kiểm_tra để bảo_đảm : Số_lượng hành_khách trên xe không quá số người được phép chở ; tất_cả hành_khách đi xe đều có vé và được sắp_xếp đúng chỗ theo số ghi trên vé ; hành_lý được sắp_xếp theo quy_định . 
+3 . 1 . 3 . 3 . Các công_việc giải_quyết cho xe xuất bến : a ) Trước thời_gian xe xuất bến , nhân_viên kế_toán của bến xe_khách cùng với lái_xe xác_định tổng_số vé đã bán được ( trừ trường_hợp đơn_vị vận_tải tự bán vé ) , thực_hiện việc thanh_toán các khoản dịch_vụ và ký xác_nhận , bàn_giao các chứng_từ kế_toán theo quy_định ; b ) Nhân_viên điều_hành ghi_chép , xác_nhận việc lái_xe đã thực_hiện đầy_đủ các thủ_tục quy_định cho xe xuất bến ; c ) Nhân_viên bảo_vệ bến_xe khách kiểm_tra hoá_đơn ( hoặc giấy xác_nhận đã thu đủ ) các khoản thu dịch_vụ bến_xe khách và xác_nhận xe được xuất bến của nhân_viên điều_hành trước khi cho xe ra khỏi bến . 
+3 . 1 . 3 . 4 . Bến xe_khách từ loại 1 đến loại 4 phải bố_trí thiết_bị , thực_hiện kết_nối internet để kết_nối giữa các bến xe_khách có liên_quan với nhau và với cơ_quan quản_lý tuyến , đồng_thời thực_hiện quản_lý và báo_cáo qua phần_mềm theo quy_định . 
+3 . 1 . 4 . Quy_định về kiểm_tra , giám_sát thực_hiện quy_chuẩn kỹ_thuật quốc_gia bến xe_khách : a ) Doanh_nghiệp , hợp_tác_xã quản_lý , khai_thác bến xe_khách chịu trách_nhiệm duy_trì các tiêu_chí quy_định tại Quy_chuẩn này . 
+Khi tiến_hành cải_tạo cơ_sở vật_chất dẫn đến thay_đổi các tiêu_chí làm ảnh_hưởng đến các điều_kiện phân_loại bến_xe khách phải báo_cáo với Sở Giao_thông vận_tải để kiểm_tra công_bố lại bến xe_khách theo quy_định ; b ) Sở Giao_thông vận_tải các tỉnh , thành_phố trực_thuộc trung_ương hướng_dẫn các đơn_vị quản_lý , khai_thác bến xe_khách trên địa_bàn địa_phương báo_cáo định_kỳ về kết_quả hoạt_động , tình_hình an_ninh trật_tự , việc duy_trì , đầu_tư , cải_tạo cơ_sở vật_chất , việc thực_hiện các quy_định của Quy_chuẩn này và các nội_dung cần_thiết khác ; c ) Các cơ_quan quản_lý_nhà_nước có thẩm_quyền , lực_lượng Thanh_tra đường_bộ tổ_chức kiểm_tra định_kỳ và đột_xuất hoạt_động của bến_xe khách , phát_hiện và xử_phạt vi_phạm hành_chính nhằm đảm_bảo các bến xe_khách luôn duy_trì và thực_hiện đúng các quy_định của Quy_chuẩn này và các quy_định pháp_luật liên_quan khác ; d ) Cơ_quan có thẩm_quyền công_bố đưa bến xe_khách vào khai_thác định_kỳ 3 năm tổ_chức kiểm_tra , đánh_giá tình_hình hoạt_động ; việc chấp_hành các quy_định của đơn_vị quản_lý , khai_thác bến xe_khách ; việc duy_trì các điều_kiện phân_loại bến_xe khách theo Quy_chuẩn này . 
+Căn_cứ vào kết_quả kiểm_tra , cơ_quan có thẩm_quyền ban_hành quyết_định công_bố xếp loại lại bến xe_khách . 
+đ ) Tổng_cục Đường_bộ Việt_Nam tổ_chức kiểm_tra việc xếp loại công_bố bến_xe khách theo Quy_chuẩn này của Sở Giao_thông vận_tải các tỉnh , thành_phố trực_thuộc Trung_ương . 
+Trường_hợp kết_luận kiểm_tra có sự khác_biệt về loại bến xe_khách so với loại bến đã công_bố , Sở Giao_thông vận_tải các tỉnh , thành_phố trực_thuộc Trung_ương phải thực_hiện việc công_bố xếp loại lại bến xe_khách cho phù_hợp với kết_luận kiểm_tra của Tổng_cục Đường_bộ Việt_Nam . 
+3 . 2 . Trách_nhiệm quản_lý_nhà_nước 3 . 2.1 . 
+Trách_nhiệm của Tổng_cục Đường_bộ Việt_Nam : a ) Thực_hiện chức_năng quản_lý_nhà_nước chuyên_ngành đối_với hoạt_động của bến_xe khách trong phạm_vi toàn_quốc ; b ) Quy_định và hướng_dẫn cách ghi mã_số bến xe_khách thống_nhất trong toàn_quốc ; c ) Ban_hành các loại biểu_mẫu dùng cho công_tác thống_kê , báo_cáo về hoạt_động của bến_xe khách ; ban_hành hợp_đồng mẫu giữa đơn_vị vận_tải và bến xe_khách ; d ) Thống_kê , tổng_hợp các dữ_liệu về hệ_thống bến xe_khách trong toàn_quốc ; đ ) Xây_dựng phần_mềm quản_lý bến xe_khách ; chuyển_giao và hướng_dẫn cho các bến xe_khách và các Sở Giao_thông vận_tải thực_hiện theo lộ_trình quy_định khi phần_mềm được xây_dựng xong ; e ) Tổ_chức thanh_tra , kiểm_tra định_kỳ , đột_xuất và xử_lý các vi_phạm đối_với các cơ_quan , đơn_vị quản_lý , đơn_vị khai_thác bến xe_khách trong toàn_quốc . 
+3 . 2 . 2 . Trách_nhiệm của UBND các tỉnh , thành_phố trực_thuộc Trung_ương : a ) Phê_duyệt Quy_hoạch hệ_thống bến xe_khách trên địa_bàn địa_phương . 
+Trước khi quyết_định phê_duyệt Quy_hoạch hoặc điều_chỉnh Quy_hoạch phải có ý_kiến của Bộ Giao_thông vận_tải ; b ) Xác_định và quản_lý quỹ đất dành cho dự_án xây_dựng bến xe_khách theo quy_hoạch đã được phê_duyệt ; c ) Thống_nhất tổ_chức và quản_lý bến xe_khách phù_hợp với quy_hoạch phát_triển giao_thông vận_tải và yêu_cầu đặc_thù của địa_phương . 
+3 . 2 . 3 . Trách_nhiệm của Sở Giao_thông vận_tải các tỉnh , thành_phố trực_thuộc Trung_ương . 
+a ) Xây_dựng Quy_hoạch hệ_thống bến xe_khách trên địa_bàn địa_phương trình Uỷ_ban_nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương ; b ) Thực_hiện công_bố và công_bố lại việc đưa bến xe_khách trên địa_bàn địa_phương vào khai_thác . 
+Văn_bản công_bố được đồng_thời gửi đến Tổng_cục Đường_bộ Việt_Nam để phối_hợp quản_lý ; c ) Thực_hiện chức_năng quản_lý_nhà_nước chuyên_ngành đối_với hoạt_động của các bến xe_khách trên địa_bàn địa_phương ; d ) Chỉ_đạo các bến xe_khách trên địa_bàn thực_hiện áp_dụng phần_mềm quản_lý bến xe_khách và kết_nối theo lộ_trình quy_định ; đ ) Tổ_chức thanh_tra , kiểm_tra định_kỳ , đột_xuất đối_với các đơn_vị khai_thác bến xe_khách trên địa_bàn địa_phương . 
+3 . 3 . Trách_nhiệm của chủ đầu_tư , đơn_vị khai_thác bến xe_khách 3 . 3.1 . 
+Trách_nhiệm của chủ đầu_tư : a ) Đầu_tư xây_dựng bến xe_khách phù_hợp với quy_hoạch hệ_thống bến xe_khách đã được phê_duyệt và phù_hợp với các quy_định của Quy_chuẩn này ; b ) Đầu_tư xây_dựng bến xe_khách phải tuân_thủ trình_tự quản_lý đầu_tư xây_dựng và các quy_định liên_quan khác của pháp_luật ; bảo_đảm tiến_độ , chất_lượng công_trình và bảo_vệ môi_trường . 
+3 . 3 . 2 . Trách_nhiệm của đơn_vị khai_thác bến xe_khách : a ) Thực_hiện đầy_đủ , nghiêm_túc các quy_định của pháp_luật về quản_lý hoạt_động vận_tải hành_khách bằng xe ô_tô ; b ) Bảo_đảm an_ninh trật_tự , an_toàn xã_hội , phòng và chống cháy , nổ , vệ_sinh môi_trường trong bến xe_khách ; chịu trách_nhiệm trước pháp_luật về mọi hoạt_động kinh_doanh trong phạm_vi bến xe_khách ; c ) Thường_xuyên bảo_dưỡng , sửa_chữa , bổ_sung trang_thiết_bị , cơ_sở vật_chất ; phổ_biến , tuyên_truyền pháp_luật , nâng_cao trình_độ chuyên_môn , nghiệp_vụ cho người lao_động nhằm duy_trì và nâng_cao chất_lượng phục_vụ của bến xe_khách , thực_hiện nghiêm_túc các quy_định của nhà_nước về bến xe_khách ; d ) Thực_hiện việc ký_kết hợp_đồng với các đơn_vị vận_tải theo quy_định của pháp_luật trước khi tổ_chức hoạt_động kinh_doanh vận_tải tại bến xe_khách ; đ ) Niêm_yết nội_quy của bến xe_khách và hình_thức xử_lý , chế_tài kèm theo khi vi_phạm nội_quy của bến xe_khách ; e ) Thực_hiện áp_dụng phần_mềm quản_lý bến xe_khách và kết_nối theo lộ_trình quy_định ; g ) Chịu sự quản_lý , thanh_tra , kiểm_tra của các cơ_quan quản_lý_nhà_nước có thẩm_quyền ; h ) Thực_hiện báo_cáo định_kỳ và báo_cáo đột_xuất tình_hình hoạt_động của bến_xe khách theo yêu_cầu của Tổng_cục Đường_bộ Việt_Nam và Sở Giao_thông vận_tải địa_phương . 
+3 . 4 . Trách_nhiệm của đơn_vị kinh_doanh vận_tải tại bến xe_khách 3 . 4.1 . 
+Các đơn_vị vận_tải trước khi hoạt_động tại bến xe_khách phải tiến_hành ký_kết hợp_đồng và thực_hiện nghiêm_túc hợp_đồng đã ký_kết với bến xe_khách ; 3 . 4.2 . 
+Chấp_hành các nội_quy , quy_định , quy_trình giải_quyết cho xe ra , vào bến của đơn_vị quản_lý , khai_thác bến xe_khách và những quy_định pháp_luật liên_quan khác . 
+3 . 5 . Trách_nhiệm của hành_khách tại bến xe_khách 3 . 5.1 . 
+Giữ_gìn an_ninh trật_tự , vệ_sinh môi_trường , phòng và chống cháy , nổ trong khu_vực bến xe_khách ; 3 . 5.2 . 
+Chấp_hành nội_quy , quy_định và hướng_dẫn của nhân_viên bến xe_khách . 
+IV . TỔ_CHỨC THỰC_HIỆN 4.1 . 
+Tổng_cục Đường_bộ Việt_Nam chủ_trì , phối_hợp với Vụ Khoa_học Công_nghệ - Bộ Giao_thông vận_tải và các cơ_quan_chức_năng có liên_quan hướng_dẫn triển_khai và tổ_chức việc thực_hiện Quy_chuẩn này . 
+4 . 2 . Trong quá_trình thực_hiện nếu có khó_khăn vướng_mắc , Tổng_cục Đường_bộ Việt_Nam tổng_hợp và kiến_nghị Bộ Giao_thông vận_tải xem_xét sửa_đổi , bổ_sung . 
+4 . 3 . Trường_hợp các Quy_chuẩn , Tiêu_chuẩn và quy_định pháp_luật được viện_dẫn trong Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế thì áp_dụng theo văn_bản mới tương_ứng . 
+4 . 4 . Các bến xe_khách đã công_bố trước ngày Quy_chuẩn này có hiệu_lực phải hoàn_tất các thủ_tục để được công_bố lại trước ngày 31 tháng 12 năm 2014 . 
+PHỤ_LỤC 1 … … ( 2 ) … … . 
+------ - CỘNG HÒA XÃ_HỘI_CHỦ_NGHĨA VIỆT NAM Độc_lập - Tự_do - Hạnh_phúc - ------------- - Số : … … .. / … … . 
+… … … , ngày tháng năm GIẤY ĐỀ_NGHỊ CÔNG_BỐ ĐƯA BẾN_XE KHÁCH VÀO KHAI_THÁC Kính gửi : … … … … … . 
+( 1 ) … … … … … … … … … … … 1 . Đơn_vị khai_thác bến xe_khách : ( 2 ) : … … … … … … … … … … … … … … … … … … … 2 . 
+Tên giao_dịch quốc_tế ( nếu có ) : … … … … … … … … … … … … … … … … … … … … … 3 . Trụ_sở : … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … . 
+4 . Số điện_thoại ( Fax ) : … … … … … … … … … … … … … … … … … … … … … … … … … … 5 . 
+Giấy chứng_nhận đăng_ký kinh_doanh số … … … do … … … … … … … … .. 
+cấp ngày … tháng … năm … .. 
+Đề_nghị kiểm_tra để đưa bến xe_khách … … … .. 
+( 3 ) … … … … … … … Cụ_thể như sau : - Tên : ( 3 ) … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … . 
+- Địa_chỉ : ( 4 ) … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … - Tổng_diện_tích đất : ( 5 ). … … … … … … … … … … … … … … … … … … … … … … … … … Sau khi xem_xét và đối_chiếu với các quy_định tại QCVN 45 :2012/BGTVT Quy_chuẩn kỹ_thuật quốc_gia về Bến xe_khách , chúng_tôi đề_nghị ....( 1 ) … .. 
+công_bố Bến xe_khách … .. 
+( 3 ) … .. 
+đạt quy_chuẩn Bến_xe loại : … .. 
+( 6 ) … .. 
+và được đưa vào khai_thác … .. 
+( 2 ) .... 
+cam_kết những nội_dung trên là đúng thực_tế . 
+Nơi nhận : - Như trên ; - Lưu ... Đại_diện đơn_vị ( Ký_tên , đóng dấu ) Hướng_dẫn ghi : ( 1 ) Gửi Sở Giao_thông vận_tải địa_phương có bến xe_khách . 
+( 2 ) Ghi tên đơn_vị khai_thác bến xe_khách ( 3 ) Ghi tên bến xe_khách ( 4 ) Ghi tên vị_trí , lý trình , địa_chỉ của bến xe_khách ( 5 ) Ghi diện_tích đất hợp_pháp được sử_dụng để xây_dựng bến xe_khách ( 6 ) Ghi loại bến xe_khách đề_nghị công_bố PHỤ_LỤC 2 … … ( 2 ) … … . 
+------ - CỘNG HÒA XÃ_HỘI_CHỦ_NGHĨA VIỆT NAM Độc_lập - Tự_do - Hạnh_phúc - ------------- - Số : … … .. / … … . 
+… … … , ngày tháng năm BẢN ĐỐI_CHIẾU CÁC QUY Đ|NH KỸ_THUẬT CỦA QUY_CHUẨN VỚI CÁC CÔNG_TRÌNH CỦA BẾN_XE KHÁCH Kính gửi : … … … … … … ( 1 ) … … … … … … … .. 
+1 . Đơn_vị khai_thác bến xe_khách : ( 2 ) : … … … … … … … … … … … … … … … … … … … 2 . 
+Trụ_sở : … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … 3 . Số điện_thoại ( Fax ) : … … … … … … … … … … … … … … … … … … … … … … … … … .. 
+Kết_quả đối_chiếu các quy_định kỹ_thuật của quy_chuẩn với các hạng_mục công_trình của Bến xe_khách … .. 
+( 3 ) … .. 
+như sau : TT Tiêu_chí phân_loại Đơn_vị tính Quy_định kỹ_thuật của Bến xe_khách loại … ( 4 ) … Theo thực_tế 1 Tổng_diện_tích ( tối_thiểu ) m2 2 Số vị_trí đón khách ( tối_thiểu ) Vị_trí 3 Số vị_trí trả khách ( tối_thiểu ) Vị_trí 4 Diện_tích bãi đỗ xe ô_tô chờ vào vị_trí đón khách ( tối_thiểu ) m2 5 Diện_tích bãi đỗ xe dành cho phương_tiện khác m2 6 Diện_tích phòng chờ cho hành_khách ( tối_thiểu ) m2 m2 7 Số chỗ ngồi tối_thiểu khu_vực phòng chờ cho hành_khách Chỗ 8 Hệ_thống điều_hoà , quạt_điện khu_vực phòng chờ cho hành_khách ( tối_thiểu ) 9 Diện_tích khu_vực làm_việc 10 Diện_tích văn_phòng dành cho Công_an , Y_tế , Thanh_tra giao_thông 11 Diện_tích khu vệ_sinh 12 Diện_tích dành cho cây_xanh , thảm cỏ 13 Đường xe ra , vào bến 14 Đường_dẫn từ phòng chờ cho hành_khách đến các vị_trí đón , trả khách 15 Mặt sân bến 16 Hệ_thống cung_cấp thông_tin ....( 2 ) .... 
+cam_kết những nội_dung trên là đúng thực_tế . 
+Nơi nhận : - Như trên ; - Lưu ... Đại_diện đơn_vị ( Ký_tên , đóng dấu ) Hướng_dẫn ghi : ( 1 ) Gửi Sở Giao_thông vận_tải địa_phương có bến xe_khách . 
+( 2 ) Ghi tên đơn_vị khai_thác bến xe_khách ( 3 ) Ghi tên bến_xe ( 4 ) Ghi loại bến_xe đề_nghị công_bố PHỤ_LỤC 3 … … ( 2 ) … … . 
+------ - CỘNG HÒA XÃ_HỘI_CHỦ_NGHĨA VIỆT NAM Độc_lập - Tự_do - Hạnh_phúc - ------------- - Số : … … .. / QĐ - … . 
+… … … , ngày tháng năm QUYẾT_ĐỊNH Về việc công_bố đưa bến xe_khách vào khai_thác ( 2 ) Căn_cứ QCVN 45 :2012/BGTVT Quy_chuẩn kỹ_thuật quốc_gia về Bến xe_khách do Bộ Giao_thông vận_tải ban_hành ngày 12 tháng 12 năm 2012 ; Căn_cứ Quyết_định số … .. 
+của … .. 
+quy_định chức_năng , nhiệm_vụ , quyền_hạn của … … … ( 2 ) … . 
+Căn_cứ Biên_bản kiểm_tra của … … … … … … … … … . 
+( 2 ) … … … .. 
+ngày … … / … … … / ... ... ... ... ..... 
+Xét đề_nghị của … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … QUYẾT_ĐỊNH Điều 1 . Công_bố đưa Bến xe_khách … … … … .. 
+( 1 ) ....vào khai_thác với các nội_dung sau : - Bến xe_khách : ( 1 ) … … … … … … … … … … … … … … … … … .. 
+Mã_số : … … … … … … - Đơn_vị trực_tiếp quản_lý , khai_thác : … … … … … … … … … … … … … … … … … … … … - Vị_trí ( 3 ) … … … … … … … … … … … … Điện_thoại : … … … … … Fax : … … … … … … … - Tổng_diện_tích đất : ...( 4 ) … … … … … … … … … … … … … … … … … … … … … … … … … Trong đó : - Diện_tích bãi đỗ xe ô_tô chờ vào vị_trí đón khách : … … … … … … … … … … … … … … - Diện_tích bãi đỗ xe dành cho phương_tiện khác : … … … … … … … … … … … … … … - Diện_tích phòng chờ cho hành_khách : … … … … … … … … … … … … … … … … … … .. 
+… … … ( 1 ) … … … … … … … đạt quy_chuẩn Bến xe_khách loại : … … … … … … … … … Điều 2 . Quyết_định này có hiệu_lực kể từ ngày … .. 
+tháng … .. 
+năm … .. 
+đến ngày … .. 
+tháng ... ... 
+năm … … … … … … Điều 3 . Các ông ( bà ) … … … … . , Trưởng_phòng … … … … .. ; Thủ_trưởng ...( 1 ) .... 
+và Thủ_trưởng các đơn_vị có liên_quan chịu trách_nhiệm thi_hành quyết_định này . / . 
+Nơi nhận : - Như_Điều 3 ; - Tổng_cục ĐBVN ; - Lưu_Thủ_trưởng ...( 2 ) .... 
+( Ký_tên , đóng dấu ) Hướng_dẫn ghi ( 1 ) Ghi tên bến xe_khách . 
+( 2 ) Ghi tên cơ_quan ban_hành quyết_định công_bố . 
+( 3 ) Ghi tên vị_trí , lý trình , địa_chỉ của bến xe_khách . 
+4 ) Ghi diện_tích đất hợp_pháp được sử_dụng để xây_dựng bến xe_khách PHỤ_LỤC 4 … … ( 2 ) … … . 
+------ - CỘNG HÒA XÃ_HỘI_CHỦ_NGHĨA VIỆT NAM Độc_lập - Tự_do - Hạnh_phúc - ------------- - Số : … … .. / … … . 
+… … … , ngày tháng năm GIẤY ĐỀ_NGHỊ CÔNG_BỐ LẠI BẾN_XE KHÁCH Kính gửi : … … … … … ( 1 ) … … … … … … … … … .. 
+1 . Đơn_vị khai_thác bến xe_khách : … … … . 
+( 2 ) : … … … … … … … … … … … … … … … 2 . Tên giao_dịch quốc_tế ( nếu có ) : … … … … … … … … … … … … … … … … … … … … . 
+3 . Trụ_sở : … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … 4 . 
+Số điện_thoại ( Fax ) : … … … … … … … … … … … … … … … … … … … … … … … … … 5 . Giấy chứng_nhận đăng_ký kinh_doanh số … … … do … … … … … cấp ngày … tháng … năm … .. 
+Đơn_vị hiện đang quản_lý , khai_thác ...( 3 ) … … Theo Quyết_định công_bố đưa Bến xe_khách vào khai_thác số .... 
+ngày .... 
+tháng ...năm ...của ....( 1 ) … .. 
+Thời_gian được phép khai_thác đến ngày ... 
+tháng .... 
+năm … .. 
+Sau khi xem_xét các quy_định tại QCVN 45 :2012/BGTVT Quy_chuẩn kỹ_thuật Quốc_gia về Bến xe_khách , chúng_tôi đề_nghị … . 
+( 1 ) … .. 
+tiếp_tục công_bố đưa Bến xe_khách … . 
+( 3 ) .... 
+đạt loại : … … … ( 4 ) : … … … … . 
+vào khai_thác . .( 2 ) .... 
+cam_kết những nội_dung trên là đúng thực_tế . 
+Nơi nhận : - Như trên ; - Lưu ... Đại_diện đơn_vị ( Ký_tên , đóng dấu ) Hướng_dẫn ghi : ( 1 ) Gửi Sở Giao_thông vận_tải địa_phương có bến xe_khách ( 2 ) Ghi tên đơn_vị khai_thác bến xe_khách ( 3 ) Ghi tên bến xe_khách ( 4 ) Ghi loại bến xe_khách đề_nghị công_bố - --------------------------------------------------------------- - THAM_KHẢO DỊCH_VỤ TƯ_VẤN LIÊN_QUAN : 1 . 
+Tư_vấn pháp_luật lao_động ; 3.Tư vấn pháp_luật lĩnh_vực dân_sự ; 4 . Tư_vấn luật hành_chính Việt_Nam ; 2 . 
+Luật_sư riêng cho doanh_nghiệp ; 5 . Dịch_vụ luật_sư tư_vấn giải_quyết tranh_chấp tại toà_án . 
+6 . Luật_sư tư_vấn giải_quyết tranh_chấp hôn_nhân gia_đình ; 

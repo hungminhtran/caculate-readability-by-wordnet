@@ -1,0 +1,11 @@
+VMware cung_cấp miễn_phí phiên_bản cho máy_chủ 
+VMware_Server miễn_phí là phiên_bản thay_thế cho VMware_GSX mà trước đây , người dùng phải trả đến 1400 USD để có được phiên_bản GSX_Server cho vi_xử_lý kép và 2800 USD cho các hệ_thống nhiều vi_xử_lý . 
+VMware ESX có giá đắt hơn tuỳ theo các yêu_cầu từ người dùng và có_thể xử_lý nhiều các tính_năng cao_cấp hơn . 
+Một trong những tính_năng này là GSX_Server yêu_cầu được hoạt_động dưới một hệ_điều_hành ví_dụ như Windows . 
+Còn ESX Server có_thể tự vận_hành mà không cần đến hệ_điều_hành . 
+Đây được xem như là một phương_thức mới của VMware nhằm thu_hút người dùng tiếp_cận các phần_mềm của mình và kế_tiếp là các tuỳ_chọn bổ_sung cho nó cũng như các phiên_bản thương_mại khác . 
+Do đó , VMware sẽ mở_rộng được thị_phần của mình trên thị_trường phần_mềm so với các đối_thủ . 
+Hơn_nữa , người dùng sẽ có xu_hướng nâng_cấp từ phiên_bản GSX_Server miễn_phí lên phiên_bản ESX_Server để có được những tính_năng cao_cấp hơn . 
+Phần_mềm ảo sẽ trở_thành một phần của Red_Hat_Enterprise_Linux và SUSE Linux_Enterprise_Server của Novell trong một phiên_bản kế_tiếp của các hệ_điều_hành này . 
+Microsoft cũng đã có kế_hoạch bổ_sung công_nghệ này vào LongHorn_Server . 
+VMware_Server tham_gia cùng VMware_Player có_mặt trong danh_sách những ứng_dụng miễn_phí cung_cấp từ VMware_Inc . Thông_tin tham_khảo và tải phiên_bản miễn_phí tại đây . 

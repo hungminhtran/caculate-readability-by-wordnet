@@ -1,0 +1,11 @@
+Quấy_rối tình_dục kiểu hacker 
+Một người đàn_ông ở Síp đã bị bắt_đầu tuần này sau khi dùng kỹ_năng máy_tính xâm_nhập qua đường webcam để thu lén hình_ảnh một cô gái 17 tuổi , sau đó bắt nạn_nhân hành_động theo yêu_cầu . 
+Hacker 45 tuổi ( cảnh_sát không tiết_lộ tên ) đã cài một Trojan vào máy_tính của nạn_nhân ( gửi qua file đính kèm e-mail ) và tiến_hành thu_hình cô gái đang ở trên giường trong tình_trạng không quần_áo . 
+Tên này sau đó đe_doạ sẽ phát_tán những hình_ảnh nói trên tới tất_cả các địa_chỉ liên_lạc của nạn_nhân nếu không chịu trình_diễn nude trước ống_kính webcam theo yêu_cầu của hắn . 
+Cô gái từ_chối và liên_lạc với cảnh_sát . 
+Theo hãng phần_mềm bảo_mật Sophos ( Anh ) , 12 tháng qua chứng_kiến sự gia_tăng đột_biến về các dạng mã tấn_công được thiết_kế cho mục_đích do_thám máy_tính của những người thiếu cảnh_giác . 
+Số virus , sâu và Trojan mới với khả_năng theo_dõi đã tăng từ 5 lên 15 mỗi ngày , chiếm gần một nửa trên tổng_số các loại chương_trình nguy_hại mới mà Sophos phát_hiện hằng ngày . 
+Cá_biệt , gần như tất_cả các phiên_bản mới của loại sâu Rbot đều có tính_năng chụp ảnh và ghi_hình qua webcam . 
+Sophos khuyến_cáo người sử_dụng máy_tính cần cài_đặt tường lửa và thường_xuyên nâng_cấp các công_cụ . 
+diệt virus . 
+Rút kết_nối USB của webcam khi không sử_dụng cũng là một việc nên làm . 

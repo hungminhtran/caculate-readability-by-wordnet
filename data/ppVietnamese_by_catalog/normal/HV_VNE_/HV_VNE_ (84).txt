@@ -1,0 +1,17 @@
+Sâu_Sober mượn danh World_Cup 
+Phiên_bản S của virus này phát_tán với những thông_báo cho các fan túc_cầu rằng họ đã mua được vé xem cúp bóng_đá thế_giới 2006 . Sâu nằm trong file đính kèm với địa_chỉ người gửi là ticket@fifa . de hay gewinn@fifa.de 
+Giống như những phiên_bản trước , virus dùng phần attachment có dạng " .zip " ( file_nén ) đính kèm trong những e-mail viết bằng tiếng Anh và Đức . 
+Đây là đợt phát_tán tiếp_theo biến_thể Sober . P ( đã lan_tràn trên 30 quốc_gia kể từ ngày 2/5 , ảnh_hưởng chủ_yếu đến Mỹ và Nam_Mỹ ). Hãng bảo_mật Sophos ( Anh ) cho_biết Sober . S chiếm tới 77 % các vụ lây_lan trong 24 giờ qua . 
+Theo Graham_Cluley , cố_vấn công_nghệ cấp cao của Sophos , Sober . S có_thể sử_dụng vô_số câu tiêu_đề và nội_dung thư khác nhau . 
+Nếu người sử_dụng mở file đính kèm thì máy_tính sẽ bị nhiễm và sâu sẽ gửi một loạt thư cho những địa_chỉ e-mail khác tìm được trên PC này , đồng_thời tốc_độ máy_tính bị giảm xuống rất nhiều . 
+Cluley nói : " Nhiều người đang rất háo_hức tham_dự sự_kiện thể_thao lớn nhất trong năm tới và họ nghĩ là cũng đáng liều để mở một file đính kèm , nhỡ đâu đúng thật thì sao " . 
+Phát_ngôn_viên Gerd_Graus của FIFA khuyến_cáo e-mail mà ban tổ_chức gửi đến người mua vé không chứa tập_tin đính kèm . 
+Những fan mua vé trong đợt bán đầu_tiên ( kết_thúc vào 31/3 ) đã được thông_báo xong vào 22/4 . 
+Còn những_ai mua vào đợt bán thứ hai ( ngày 2/5 ) đều được thông_báo ngay_lập_tức và e-mail không có file đính kèm . 
+Ông cũng cảnh_báo người sử_dụng phải cẩn_trọng khi mở file đính kèm vì e-mail mang virus sẽ có_vẻ giống như lá thư gửi từ người quen_biết của họ . 
+Ảnh_hưởng của Sober . S được đánh_giá là hạn_chế do nó được phát_tán vào 8 giờ ( giờ Đức - 18 :00 GMT ) ngày 2/5 , khi mà hầu_hết người sử_dụng đã tắt máy . 
+Các hệ_thống chống virus đã có thời_gian cập_nhật trước khi người sử_dụng bật máy vào sáng hôm sau , 3/5 . 
+Tuy_nhiên , do thời_gian ở châu Mỹ khác Đức nên bị ảnh_hưởng mạnh hơn . 
+Mikko_Hypponen , Giám_đốc nghiên_cứu của hãng F - Secure ( Phần_Lan ) , cho_biết chưa xác_định được động_cơ của kẻ lập_trình virus . 
+Theo chuyên_gia này , Sober . S tạo ra một cổng hậu trên máy_tính nạn_nhân để tác_giả của nó có_thể dễ_dàng tiếp_cận mục_tiêu đã bị nhiễm , từ đó phục_vụ cho các cuộc tấn_công website hoặc gửi thư rác về sau . 
+Họ sâu Sober xuất_hiện lần đầu_tiên vào tháng 10/2003 và bùng_phát mạnh trở_lại từ mấy ngày nay . 

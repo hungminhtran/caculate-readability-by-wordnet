@@ -1,0 +1,3 @@
+Kiểm_tra da bằng … USB , sạc pin ĐTDĐ bằng … gió 
+Sau đó sử_dụng phần_mềm đi kèm cài trên máy_tính để lưu_trữ các hình_ảnh hoặc phân_tích các thông_tin về da của mình . 
+Thiết_bị này hoạt_động bằng nguồn năng_lượng lấy từ cổng USB của PC có hai phiên_bản với khả_năng phóng to 50 và 250 lần . 

@@ -1,0 +1,18 @@
+Hacker chạy_đua khám_phá lỗi Cisco 
+Hãng giải_pháp mạng Mỹ đã yêu_cầu toà_án buộc một một chuyên_gia nghiên_cứu không được tiết_lộ thông_tin về lỗi trong thiết_bị định_tuyến của mình . 
+Hành_động này đã gây tức_giận trong giới hacker và họ quyết_định khai_thác lỗ_hổng đó . 
+Chuyên_gia bảo_mật Michael_Lynn lần đầu_tiên mô_tả lỗi hôm 27/7 tại diễn_đàn Black_Hat , bất_chấp sự phản_đối , khó_chịu của Cisco và hãng Lynn_Internet_Security_Systems ( ISS ) . 
+Ông này sau đó đã bỏ việc tại ISS chỉ một_vài giờ trước khi diễn_ra hội_thảo để có_thể tự_do phát_biểu nhưng cuối_cùng đã phải nhún_nhường trước sức_ép luật_pháp . 
+Lynn đã chỉ ra cách khai_thác lỗ_hổng và chạy mã để tấn_công trên hệ_điều_hành mạng IOS của Cisco . Những phiên_bản cũ của IOS đã gặp phải lỗi này khi xử_lý gói IPv6 và tạo cơ_hội cho tin_tặc kiểm_soát toàn_bộ thiết_bị định_tuyến . 
+Lynn cho_biết ông sẵn_sàng hỗ_trợ Cisco xây_dựng bản vá lỗi nhưng muốn thảo_luận rộng_rãi để tất_cả cùng nhận_thức rõ mức_độ nghiêm_trọng của vấn_đề . 
+Tuy_nhiên , Cisco đã được quyền cắt bỏ bài thuyết_trình của Lynn , và diễn_đàn Black_Hat cũng trao_trả cuốn băng quay đoạn phát_biểu này . 
+Ngoài_ra , Lynn phải hoàn lại tất_cả những mã nguồn của Cisco mà ông có . 
+Bất_bình trước hành_động của Cisco khi giấu nhẹm thông_tin về lỗi , nhiều chuyên_gia tại Hội_thảo bảo_mật máy_tính DefCon cuối tuần qua đã đua nhau tìm_kiếm và khai_thác lỗ_hổng . 
+" Lý_do chúng_tôi làm điều này là vì ai đó nói rằng chúng_tôi không có khả_năng " , một hacker giấu tên trả_lời . 
+Giới hacker cho_biết họ không có ý_định xâm_nhập hệ_thống thanh_toán thương_mại , đọc e-mail cá_nhân hay tung ra bất_cứ cuộc tấn_công nguy_hiểm nào khác qua việc khám_phá lỗi Cisco . Họ chỉ muốn chứng_tỏ cho hãng này thấy sự cần_thiết để bảo_vệ người sử_dụng trước những nguy_cơ tiềm_ẩn . 
+" Thật đáng buồn Cisco khi mà họ hành_động như thế , bởi điều đó chỉ làm cho khách_hàng thấy mất lòng tin hơn " , một hacker phát_biểu . 
+" Nếu chúng_tôi không tìm ra cách kiểm_soát hệ_thống , những hacker khác sẽ tiếp_tục khai_thác và sớm thực_hiện điều đó " . 
+Theo các chuyên_gia , phản_ứng của hacker trước hành_động của Cisco có_thể tạo nên một làn_sóng khai_thác lỗ_hổng và gây ảnh_hưởng vô_cùng nghiêm_trọng đến toàn_bộ hoạt_động Internet . Tuy_nhiên , Cisco cho rằng nguy_cơ tiềm_ẩn của lỗi là khá hạn_chế do tin_tặc sẽ phải kết_nối trực_tiếp với thiết_bị định_tuyến chứ không phải qua Net , do đó rất khó có khả_năng làm tràn bộ đệm IOS . 
+" ISS và Cisco không có ý_định ỉm đi vấn_đề này , mà chỉ không muốn sự_việc lan rộng ra bên ngoài " , Mojgan_Khalily , phát_ngôn_viên của Cisco , khẳng_định hãng sẽ bảo_vệ sự an_toàn của khách_hàng . 
+Cisco cho rằng nghiên_cứu của Lynn là chưa thấu_đáo và sẽ cung_cấp thông_tin về lỗi sau . 
+Thiết_bị định_tuyến của Cisco hiện_nay kiểm_soát ít_nhất 60 % lưu_lượng giao_thông Internet . Do đó , lỗ_hổng này đã trở_thành tâm_điểm của diễn_đàn Black_Hat và DefCon , hai hội_thảo thu_hút hàng nghìn chuyên_gia bảo_mật , quan_chức chính_phủ Mỹ và cả những kẻ phá_rối nhỏ_tuổi tới Las_Vegas mỗi hè . 

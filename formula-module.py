@@ -1,4 +1,11 @@
+import importlib
+mod1 = importlib.import_module("module-1")
 import sys
+from multiprocessing import Queue, Pool
+import time
+if (sys.version_info[0] < 3):
+    raise "Must be using Python 3"
+TOTAL_WORKER = 4
 def vietnameseFormual(inputFile):
     vietnameseChar = ["a", "à", "ả", "ã", "á", "ạ", "ă", "ằ", "ẳ", "ẵ", "ắ", "ặ", "â", "ầ", "ẩ", "ẫ", "ấ", "ậ", "b", "c", "d",
     "đ", "e", "è", "ẻ", "ẽ", "é", "ẹ", "ê", "ề", "ể", "ễ", "ế", "ệ", "f", "g", "h", "i", "ì", "ỉ", "ĩ", "í", "ị", "j", "k", "l",
@@ -25,9 +32,17 @@ def vietnameseFormual(inputFile):
     WL = float(totalLetter)/totalWord
     SL = float(totalWord)/totalSentence
     RL = 2*WL + 0.2*SL - 6
-    return (totalLetter, totalWord, totalSentence, RL)
+    return (inputFile, totalLetter, totalWord, totalSentence, RL)
 if __name__ == "__main__":
-    inputFile = 'data/testVietnameseFormula/sample2.txt'
-    if (len(sys.argv) > 1):
-        inputFile = sys.argv[1]
-    print(vietnameseFormual(inputFile))
+    FILEPATH = sys.argv[1]
+    OUTPUTFILE = sys.argv[2]
+    startTime = time.time()
+    files = mod1.listAllFile(FILEPATH, 1)
+    with Pool(TOTAL_WORKER) as p:
+        result = p.map(vietnameseFormual, files)
+    outputFile = open(OUTPUTFILE, 'w+')
+    outputFile.write('file, totalLetter, totalWord, totalSentence, vietnamese formula result\n')
+    for item in result:
+        outputFile.write(item[0] + ',' + str(item[1]) + ',' + str(item[2]) + ',' + str(item[3]) + ',' + str(item[4]) + '\n')
+    outputFile.close()
+    print('total worker: ', TOTAL_WORKER, 'cost: ', time.time() - startTime)

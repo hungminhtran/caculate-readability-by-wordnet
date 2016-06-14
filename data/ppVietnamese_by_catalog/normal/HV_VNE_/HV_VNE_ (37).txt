@@ -1,0 +1,17 @@
+Bảo_mật kết_nối mạng bằng giải_pháp ' password chậm ' 
+Hai chuyên_gia an_ninh hệ_thống tại Đại_học Indiana ( Mỹ ) vừa công_bố một kỹ_thuật mã_hoá mới mà họ cho rằng có_thể ngăn_chặn được các cuộc tấn_công ăn_cắp thông_tin lén_lút vào mạng máy_tính . 
+Theo 2 nhà nghiên_cứu Markus_Jakobsson và Steve_Myers , trong những cuộc tấn_công kiểu này , hacker hoạt_động từ xa và rất khó truy dấu_vết , còn nạn_nhân thì thậm_chí không biết mình bị tấn_công . 
+Dạng tấn_công này đặc_biệt dễ thực_hiện đối_với mạng không dây . 
+Giải_pháp mang tên Giao_thức tiết_lộ password chậm ( delayed password disclosure protocol ) của Jakobsson và Myers cho_phép 2 thiết_bị hoặc 2 nút mạng xác_định lẫn nhau mà không cần tiết_lộ password . 
+Khái_niệm cơ_bản trong ý_tưởng này là người đăng_nhập không phải tiết_lộ password của mình cho nhà cung_cấp dịch_vụ trước khi anh ta chắc rằng nhà cung_cấp dịch_vụ đã biết mật_khẩu hoặc một chức_năng nào đó của mật_khẩu . 
+Trong khi đó , những kẻ lừa_đảo không_thể biết được gì về password từ việc tương_tác với nhà cung_cấp dịch_vụ này . 
+Giao_thức có_thể giúp mạng không dây chống lại các dạng lừa_đảo và ăn_cắp thông_tin tài_khoản và dữ_liệu cá_nhân của người sử_dụng . 
+Kỹ_thuật này sẽ đặc_biệt hữu_dụng đối_với các mạng ad-hoc với từ 2 thiết_bị hoặc nút mạng cần xác_định danh_tính của nhau cùng lúc . 
+Nói một_cách ngắn_gọn , giải_pháp này hoạt_động như sau : điểm A truyền một thông_điệp mã_hoá tới điểm B . 
+Điểm B có_thể giải_mã thông_điệp đó nếu biết password . 
+Nội_dung text đã giải_mã sau đó được gửi trở_lại điểm A để có_thể xác_thực việc giải_mã và khẳng_định rằng điểm B thực_sự biết password của A . 
+Tiếp đó , điểm A sẽ gửi password cho B để khẳng_định nó đích_thực là A và là chính chủ_sở_hữu password . 
+Các chuyên_gia cho_biết điều này sẽ ngăn_ngừa việc kết_nối vào những hub không dây giả_mạo ở sân_bay hoặc ở các quán cafe . 
+Nó cũng có_thể được dùng để thông_báo cho người sử_dụng về các dạng phishing , lừa qua e-mail ( dụ nạn_nhân tiết_lộ thông_tin chi_tiết và mật_khẩu cá_nhân hoặc tài_khoản cho những dịch_vụ giả_mạo ) , đồng_thời cung_cấp xác_thực giữa 2 thiết_bị không dây , và khiến cho tội_phạm khó tẩu_tán tiền qua nhiều tài_khoản trực_tuyến khác nhau . 
+Jakobsson hy_vọng sẽ hoàn_thành mã thử_nghiệm beta của kỹ_thuật này cho Windows và Mac trong đầu năm nay và phấn_đấu đến cuối năm sẽ làm nốt nền áp_dụng cho điện_thoại_di_động . 
+Tham_khảo thêm về nghiên_cứu này tại đây . 

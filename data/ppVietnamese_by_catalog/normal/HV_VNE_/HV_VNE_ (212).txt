@@ -1,0 +1,8 @@
+Hacker tấn_công 33.000 cơ_sở_dữ_liệu không_quân Mỹ 
+Một kẻ xâm_nhập nào đó đã nắm trong tay thông_tin cá_nhân , trong đó có ngày_sinh và số thẻ an sinh , của khoảng hơn một nửa sỹ quan thuộc lực_lượng không_quân Mỹ . Hacker đã sử_dụng thông_tin đăng_nhập hợp_lệ để truy_cập và tải dữ_liệu mật . 
+Bộ quốc_phòng Mỹ đã khám_phá ra vụ tấn_công này hồi tháng 6 , sau khi ghi_nhận những hoạt_động không bình_thường trong hệ_thống quản_lý nghĩa_vụ AMS của một sỹ quan . 
+AMS là chương_trình bao_gồm ngày_sinh , số thẻ an sinh , tình_trạng hôn_nhân , trình_độ học_vấn , năm tốt_nghiệp , thông_tin nghĩa_vụ , nhưng không có địa_chỉ nhà riêng và số điện_thoại của cá_nhân . 
+" Chúng_tôi đã thông_báo khẩn_cấp đến các binh sỹ và vẫn đang trong quá_trình điều_tra vụ_việc " , Thiếu_tá Tony_Przybyslawski thuộc AFPC , hôm 19/8 cho_biết . 
+" Chúng_tôi cũng đang tiến_hành những bước quan_trọng để nâng_cấp hệ_thống an_ninh và hợp_tác với tất_cả các cơ_quan hàng_không để xác_nhận lỗ_hổng " . 
+Przybyslawsk khẳng_định dù AMS không bao_gồm thông_tin tài_chính , dữ_liệu bị đánh_cắp đủ để kẻ tấn_công tận_dụng nhằm truy_cập nhiều hệ_thống điều_khiển quy_trình phân_phối , thanh_toán và chuyển_khoản . 
+Tuy_nhiên , hiện chưa_thể kết_luận hacker sẽ làm gì với những dữ_liệu hắn đang sở_hữu . 

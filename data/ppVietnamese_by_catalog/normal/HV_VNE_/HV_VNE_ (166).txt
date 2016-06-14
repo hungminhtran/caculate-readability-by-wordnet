@@ -1,0 +1,10 @@
+Thêm một Trojan_Downloader xuất_hiện 
+Trong suốt khoảng thời_gian từ lúc phần_mềm này được phát_hiện ra cho đến lúc công_ty BlackSpider ( Anh ) đưa ra công_cụ tiêu_diệt đã có khoảng 58.000 bản_sao của nó được phát_tán . 
+Khoảng 120.000 thư_điện_tử chứa Trojan_Downloader có tên là Small . bdq được gửi tới một nhóm các công_ty của Anh . 
+Theo e-mail cảnh_báo của BlackSpider , Trojan được ghi_nhận khi nó tấn_công các công_ty ở Châu Âu trong khoảng thời_gian 10 phút . 
+Cuộc tấn_công này còn diễn_ra cho đến ngày 18/7 . 
+Thư chứa Trojan có tiêu_đề như Bảo_mật , ' hỗ_trợ , cập_nhật , và cập_nhật bảo_mật . 
+Nội_dung thư là lời cảnh_báo của người quản_trị mạng yêu_cầu người nhận mở một file đính kèm để ngăn việc tài_khoản thư_điện_tử bị đình_chỉ hoạt_động tương_tự như hai Trojan_Downloader đã phát_hiện ngày 6/7 . 
+File đính kèm có kích_cỡ 2,8 KB với tên zam . exe . 
+John_Cheney , Giám_đốc điều_hành của BlackSpider , phát_biểu : " Mục_tiêu của chủ_nhân các phần_mềm tấn_công này là muốn thu được danh_tiếng và Trojan_Small . bdq đã chứng_minh cho điều đó . 
+Ảnh_hưởng của nó là không lớn nhưng doanh_nghiệp cần nhận_thức được mục_tiêu của chúng là khai_thác thông_tin nhạy_cảm về hợp_tác giữa các công_ty " . 

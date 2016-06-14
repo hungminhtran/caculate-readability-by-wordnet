@@ -1,0 +1,12 @@
+Mẫu vẽ có dạng hình_trụ và hình_cầu 
+Có_thể sắp_xếp hai vật mẫu để vẽ . 
+Ví_dụ : 
+Ấm pha trà và cái cốc ( ly ) . 
+Bình đựng nước và quả hoặc lọ hoa và quả ... 
+Nhận_xét về vị_trí , tỷ_lệ , hình_dáng , độ đậm nhạt của mẫu vẽ . 
+Cần chọn các vật mẫu có hình_dáng cao thấp , to_nhỏ và màu đậm , màu nhạt khác nhau . 
+Sắp_xếp các vật mẫu một_cách hợp_lý để bài vẽ có bố_cục đẹp . 
+Phác khung hình chung phù_hợp với khổ giấy . 
+Phác khung hình của từng vật mẫu và tìm tỷ_lệ của các bộ_phận . 
+Vẽ nét chính và vẽ chi_tiết . 
+Hoàn_chỉnh hình và vẽ đậm nhạt . 

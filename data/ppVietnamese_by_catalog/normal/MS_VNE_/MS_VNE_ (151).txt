@@ -1,0 +1,24 @@
+Chọn máy_pha cà_phê 
+Nếu bạn luôn bận_rộn và cần ngay một ly thì không gì bằng máy_pha cà_phê tại nhà bởi nó vẫn ngon và giữ hương_vị . 
+Vấn_đề là phải nắm vững các tính_năng của máy . 
+Có 4 loại máy_pha cà_phê điện : loại nhỏ_giọt ( phổ_biến nhất ) , loại " 2 trong 1 " - vừa nghiền cà_phê thành bột vừa pha ngay . 
+Hai loại ít phổ_biến hơn là thẩm_thấu ( điều_chỉnh tự_động nhiệt_độ và nồng_độ cà_phê ) và chân_không . 
+Loại chân không pha nhanh hơn và mùi_vị rất đậm : máy đun nóng nước làm áp_lực trong ấm tăng lên , ép nước sôi từ ống dẫn nước dâng lên ấm và pha với bột cà_phê . 
+Máy sẽ tự_động ngắt điện và làm cho áp_lực ở dưới thấp hơn phía trên . 
+Nước cà_phê sẽ qua lưới lọc ở giữa và chảy vào dưới ấm . 
+Máy_pha cà_phê loại nhỏ_giọt : Nước_lạnh từ ngăn chứa qua một lỗ nhỏ bên dưới sẽ chảy vào một ống nhôm tròn có gắn cuộn dây_điện trở nung nóng . 
+Nước sôi sẽ đẩy lên theo ống dẫn nước nóng , qua các lỗ nhỏ phía trên bộ lọc và nhỏ_giọt đều vào bộ lọc có chứa cà_phê đã xay , sau cùng thẩm_thấu xuống bình . 
+Dây_điện trở dưới bình đựng cà_phê để tạo hơi_nước sôi , đồng_thời giữ nóng bình chứa . 
+Bộ cảm_biến nhiệt_độ làm cho nước sôi và bình chứa không bị quá nhiệt . 
+Pha cà_phê theo gu : Loại máy có trang_bị nút điều_chỉnh độ đậm cà_phê để cân_bằng giữa lượng cà_phê và nước sẽ cho ly cà_phê đúng ý_thích . 
+Chỉ cần xoay nút điều_chỉnh về một phía để tăng hoặc giảm độ đậm . 
+Chú_ý : cà_phê có_thể có vị tương_đối nhạt hơn khi bạn pha với một lượng ít . 
+Những chi_tiết dễ hỏng : 
+- Dây nguồn điện bị đứt hoặc công_tắc đóng mở bị hư : có_thể thay công_tắc điện khác có cùng công_suất và nối lại dây nguồn nếu bị đứt . 
+- Van một_chiều có_thể bị kẹt : dùng cây tăm để thông . 
+- Ống nhôm nung nóng nước bị nghẽn do cặn vôi : cho máy hoạt_động với nước giấm ăn , sau đó cho hoạt_động hai lần với nước sạch . 
+- Điện_trở nung bị đứt , hoặc các cảm_biến nhiệt bị hư : thay mới bằng các linh_kiện đi kèm của hãng . 
+Chọn mua máy : trên thị_trường có các nhãn_hiệu như Philips , Princess ( Hà_Lan ) , Black-Dekker ( Mỹ ) , Rinnai ( Nhật ) ... 
+Máy_Rinnai , kiểu TCM 2001 , công_suất 350W , không có bình chứa , mỗi lần pha được 1-2 ly ( giá khoảng 390.000 đồng , do Việt_Nam lắp_ráp , bảo_hành 6 tháng ) . 
+Máy Philips kiểu HD 7460 có_thể pha được 5 ly lớn hoặc 7 ly nhỏ , công_suất 590-710W ( giá khoảng 400.000 đồng , hàng Trung_Quốc ) . 
+Kiểu HD_7524 của Philips pha được 10 ly lớn , giá từ 500.000đ ( ngăn chứa nước không tháo được , sản_xuất tại Ba_Lan ) cho đến 700.000 đồng ( tháo được hộc chứa nước , do Đức và Hà_Lan sản_xuất ) . 

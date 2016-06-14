@@ -1,0 +1,13 @@
+Weblog - kho chứa đồ miễn_phí của tin_tặc 
+Các trang web cá_nhân ( weblog ) không được kiểm_tra thường_xuyên những gì mà người sử_dụng lưu bên trong đang trở_thành công_cụ hữu_ích cho hacker . 
+Nghiên_cứu của hãng bảo_mật Websense cho_thấy hàng trăm trường_hợp kênh thông_tin này được dùng để cài Trojan . 
+Theo Websense , việc các nhà cung_cấp dịch_vụ weblog ít khi kiểm_tra hệ_thống của mình nên website cá_nhân đã dần_dần trở_thành nơi cất_giữ công_cụ hack miễn_phí và nặc_danh . 
+Weblog cho_phép bạn tự_do thu_thập và mở account sử_dụng mới , Dan_Hubbard , Giám_đốc an_ninh và công_nghệ của Websense , phát_biểu . 
+Hầu_hết các nhà cung_cấp cho_phép người sử_dụng post file đính kèm và gần như không kiểm_tra những nội_dung đó có chứa thứ gì nguy_hại hay không . 
+Hubbard cho_biết weblog đang bị lợi_dụng theo nhiều cách . 
+Hồi háng 3 , có hacker đã đặt phần_mềm theo_dõi hoạt_động bàn_phím ( keylogger ) vào một website cá_nhân . 
+Đường URL của địa_chỉ này sau đó được phát_tán dưới dạng thông_điệp quảng_cáo về phiên_bản mới của một chương_trình nhắn tin nhanh ( IM ) phổ_biến . 
+Tuy_nhiên , khi người sử_dụng bấm vào đường link thì phần_mềm do_thám nói trên sẽ được cài_đặt vào máy_tính . 
+Một kỹ_thuật tinh_vi hơn là sử_dụng trang weblog để lưu những bản cập_nhật của mã tấn_công . 
+Rất nhiều máy_tính bị khống_chế ( zombie ) thường_xuyên tự_động update những phần_mềm Trojan như vậy . 
+Cả 2 phương_pháp trên đều sử_dụng cách tấn_công dựa trên trình_duyệt mà các chuyên_gia cảnh_báo đang trở_nên ngày_một phổ_biến , cho_phép vượt_qua tường lửa và phần_mềm phát_hiện xâm_nhập khi lợi_dụng lỗ_hổng chưa được vá trên browser . 

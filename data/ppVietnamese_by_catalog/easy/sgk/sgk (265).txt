@@ -1,0 +1,8 @@
+Làm_quen với bản_đồ 
+Cách sử_dụng bản_đồ 
+Bản_đồ có rất nhiều loại . 
+Mỗi loại bản_đồ có những thông_tin riêng . 
+Muốn sử_dụng bản_đồ cần theo các bước sau : 
+Đọc tên bản_đồ để biết bản_đồ đó thể_hiện nội_dung gì . 
+Xem bảng chú_giải để biết kí_hiệu đối_tượng lịch_sử hoặc địa_lý . 
+Tìm đối_tượng lịch_sử hoặc địa_lý trên bản_đồ dựa vào kí_hiệu . 

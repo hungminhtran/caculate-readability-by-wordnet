@@ -1,0 +1,5 @@
+Ổ_khoá nhận_dạng vân tay cho gia_đình 
+FSLocks cho_biết rằng loại khoá nhận_dạng vân tay của mình đã được tích_hợp bộ cảm_ứng vân tay FSLA93 với độ_phân_giải đầu_đọc là 0,3 megapixel . 
+Giá của một ổ_khoá này khoảng 199 USD , hơi cao , nhưng nó có_thể nhớ được vân tay của khoảng 138 người 
+Đây là dạng ổ_khoá đa_năng , có_thể tự_động khoá , sử_dụng được trong cửa cũng như ngoài cửa , dung_lượng pin có_thể đảm_bảo cho ổ_khoá hoạt_động được khoảng 1 năm . 
+Chủ_nhân của mỗi_một ổ_khoá đều được cung_cấp mã_số PIN và mật_khẩu , cho_phép nhận_dạng vân tay của những người được phép sử_dụng khoá bảo_mật cao_cấp này . 

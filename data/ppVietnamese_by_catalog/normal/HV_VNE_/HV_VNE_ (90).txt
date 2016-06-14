@@ -1,0 +1,15 @@
+Firefox sẽ trở_thành mục_tiêu số_một của tin_tặc ? 
+Hai lỗi bảo_mật nghiêm_trọng lại vừa được tìm thấy trongtrình duyệt mã mởcủa Mozilla . Các chuyên_gia bắt_đầu đặt câu hỏi liệu có phải browser này đang trong tầm_ngắm của nhiều kẻ viết phần_mềm nguy_hiểm nhất . 
+Tổ_chức phần_mềm nguồn mở Mozilla , " cha đẻ " của Firefox , cho_biết lỗi JavaScript có_thể bị khai_thác để tạo ra một khung trình_duyệt trỏ về địa_chỉ trang web trước đó , tạo điều_kiện cho hacker cài đoạn mã script vào bất_cứ trang nào để lấy cookies và dữ_liệu nhạy_cảm hay thay_đổi nội_dung trong trang . 
+Mozilla đang tiến_hành viết bản vá lỗi , đồng_thời khuyến_cáo người dùng nên tắt JavaScript hoặc thay_đổi các thiết_lập trình_duyệt để tránh bị nhiễm phần_mềm này . 
+Lỗi này xảy_ra với phiên_bản Firefox_1 . 0.3 , và các phiên_bản khác cũng có_thể bị ảnh_hưởng . 
+Với 50 triệu lượt tải , Firefox đang trở_thành mồi ngon cho những kẻ chuyên săn tìm lỗi hệ_thống . 
+Mozilla trước đó đã phải ba lần đưa ra phiên_bản vá lỗi cho browser này . 
+" Khiếm khuyến trong trình_duyệt là điều khó tránh khỏi " , Jim_Slaby , chuyên_gia phân_tích cao_cấp của hãng phân_tích Yankee , nói . 
+" Càng phổ_biến , càng có nhiều người muốn tìm và lợi_dụng khuyết_điểm của nó . 
+Đó là mặt_trái của sự nổi_tiếng . 
+Dù vậy , vẫn cần khẳng_định Firefox an_toàn hơn trình_duyệt của Microsoft " . Slaby so_sánh tình_trạng này tương_tự như những mối đe_doạ tiềm_ẩn trong công_nghệ VoIP : " Chưa có lỗ_hổng nào của VoIP được khai_thác , nhưng khi nó được triển_khai rộng_rãi , sẽ có nhiều vụ tấn_công trong hệ_thống liên_lạc IP hơn . 
+Chắc_chắn sẽ xuất_hiện một cuộc chạy_đua đầy quyết_liệt giữa hacker và các nhà cung_cấp dịch_vụ VoIP " . Firefox hiện_nay chiếm 7 % thị_trường trình_duyệt nhưng đang có biểu_hiện chững lại . 
+Nhiều người bắt_đầu nghi_ngờ về mục_tiêu đạt 10 % thị_phần trong năm 2005 của Mozilla . " Tốc_độ phát_triển của Firefox đang giảm dần , và khó có_thể tạo ra sự vượt_trội vào cuối năm nay " , Geoff_Johnston , chuyên_gia phân_tích của WebSideStory , phát_biểu . 
+" 50 triệu lượt tải không tương_đương với số người dùng . 
+Thông_thường một người có_thể sẽ tải nhiều lần cho nhiều máy khác nhau , hoặc tải phiên_bản nâng_cấp , mà Firefox lại có tới 3 bản " . 

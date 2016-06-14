@@ -1,0 +1,12 @@
+Firefox và Mozilla bị một loạt lỗi 
+Những khiếm_khuyết trong gói phần_mềm và trình_duyệt mã mở nói trên có_thể cho_phép hacker cài_đặt mã tấn_công hoặc ăn_cắp dữ_liệu cá_nhân . 
+Chi_tiết được công_bố trên website an_ninh của Mozilla cuối tuần qua . 
+Theo Ian_Latter , chuyên_gia của hãng tư_vấn bảo_mật Pure_Hacking , hầu_hết các lỗ_hổng này liên_quan đến cách mà các ứng_dụng xử_lý JavaScript . 
+Có một_số trục_trặc liên_quan đến việc cấp quyền ưu_tiên tăng dần khi chạy JavaScript . 
+Một_số biện_pháp an_ninh dùng để giữ JavaScript đã bị loại_bỏ và cho_phép thực_hiện những hoạt_động nguy_hại trên máy_tính , Latter cho_biết . 
+Một vấn_đề khác là việc cho_phép các đoạn mã script giành quyền truy_nhập vào những đoạn bộ_nhớ bất_kỳ . 
+Đầu tuần này , hãng bảo_mật Đan_Mạch_Secunia đã công_bố mức cảnh_báo rất nghiêm_trọng đối_với những lỗi nói trên . 
+Trong khi đó Trung_tâm phản_ứng sự_cố an_ninh Pháp cho_biết tin_tặc thực_thi mã tấn_công trên hệ_thống của người sử_dụng vì có một lỗi trong công_cụ ngăn_chặn pop-up ở trình_duyệt Mozilla . Lỗi ở Firefox có_thể bị khai_thác khi người sử_dụng truy_cập vào một trang web đòi_hỏi công_cụ plug-in nếu chưa được cài_đặt . 
+Khi tiện_ích tìm_kiếm của trình_duyệt được dùng để tự_động phát_hiện một plug-in phù_hợp , chức_năng cài_đặt thủ_công ( manual install ) sẽ bị tận_dụng để tung ra mã tuỳ_thích nhằm ăn_cắp dữ_liệu nội_bộ hoặc cài phần_mềm tấn_công khác . 
+Tất_cả các phiên_bản của bộ phần_mềm Mozilla_Suite trước bản 1 . 7.7 và tất_cả các phiên_bản Firefox trước bản 1 . 0.3 đều bị lỗi . 
+Người sử_dụng được khuyến_cáo nên tắt JavaScritp hoặc tải bản nâng_cấp tại website của Mozilla . 

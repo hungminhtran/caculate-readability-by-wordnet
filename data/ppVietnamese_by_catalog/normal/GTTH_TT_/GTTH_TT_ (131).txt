@@ -1,0 +1,9 @@
+Hacker Hà_Lan đã bẻ khoá thành_công Xbox_360 
+Trong bản " báo_cáo thành_tích " của mình , Team_PI_Coder cho_biết rằng các chuyên_gia bẻ khoá của họ đã hạ_gục hệ_thống bảo_mật phần_mềm hệ_thống của Xbox_360 . Team_PI_Coder cho_biết hệ_thống mã_hoá phần_mềm hệ_thống của Xbox_360 cũng gần giống như Xbox đời cũ . 
+Nếu tin_tức này là chính_xác , thì chưa đầy 2 tuần sau khi chính_thức tung vào châu Âu , Xbox_360 đã bị các cao_thủ hacker cựu_lục_địa hạ_gục . 
+Một hacker của Team_PI_Coder cho_biết : " Hiện_nay chúng_tôi đã cho ra_đời một công_cụ tuyệt_cú cho_phép người dùng truy_cập vào đầy_đủ các file của Xbox_360 . Chúng_tôi quyết_định là sẽ tung mã nguồn của chương_trình bẻ khoá này ra để người dùng có_thể tìm ra được các file hệ_thống của Xbox_360 và tạo ra các công_cụ bẻ khoá hấp_dẫn khác còn hay hơn công_cụ của chúng_tôi . 
+Hiện công_cụ và mã nguồn của chúng_tôi chỉ hoạt_động tốt trên loại Xbox_360 giản thể " . 
+Nhóm hacker này cũng đã thiết_kế thành_công một công_cụ cho_phép người dùng Xbox_360 lưu lại mọi dữ_liệu game cũng như mã nguồn . 
+Team PI Coder cho_biết rằng đã thử_nghiệm thành_công các công_cụ bẻ khoá phần_mềm của mình trên 13 máy Xbox_360 . Nhưng_Team_PI_Coder chưa cho_biết rằng các bản game sao_chép lậu có_thể chơi được trên các máy bị bẻ khoá phần_mềm hay không . 
+Microsoft đã từng tuyên_bố Xbox_360 của mình là dạng máy " bất_khả_xâm_phạm " nên phát_ngôn_viên của Microsoft tỏ_vẻ không tin rằng nhóm Team_PI_Coder có_thể làm được chuyện " tày_đình " này . 
+Ngay_cả các kỹ_sư thiết_kế hệ_thống Xbox_360 của Microsoft cũng phải phối_hợp với nhau theo nhiều công_đoạn mới có_thể bẻ khoá " hợp_pháp " được Xbox_360 . 

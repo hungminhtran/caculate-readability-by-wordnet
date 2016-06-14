@@ -1,0 +1,19 @@
+Cùng chia_sẻ Webcam 
+Với SplitCam , bạn có_thể chia_sẻ một webcam cho nhiều ứng_dụng khác nhau . 
+Phương_thức cài_đặt tương_đối dễ_dàng . 
+Bạn vào download chương_trình tại đây 
+Sau khi tải về xong bạn làm tuần_tự theo các bước sau : 
+1 . Tắt hết các chương_trình ứng_dụng đang xài . 
+2 . Bật webcam lên , kiểm_tra để chắc_chắn rằng webcam hoạt_động tốt . 
+3 . Cài_đặt SplitCam ( chạy chương_trình bạn tải về ) , Chương_trình sẽ cài vào một driver webcam mới là SplitCam_Capture_Drivers , cho_nên nếu Windows có yêu_cầu bạn xác_nhận khi cài_đặt thì bạn cứ nhấn " Continue " để tiếp_tục . 
+4 . Sau khi cài_đặt hoàn_tất , bạn khởi_động lại máy_tính và bắt_đầu có_thể sử_dụng chương_trình . 
+Bấm vào nút Play để chạy chương_trình 
+5 . Nếu bạn muốn dùng webcam cho hai ứng_dụng khác nhau đồng_thời , ví_dụ là Google ! 
+talk và Yahoo ! 
+Messenger,đầu tiên bạn phải chạy chương_trình Splitcam trước , bằng cách bấm vào nút play ( nút hình_tam_giác dưới màn_hình nhỏ ) . 
+Nếu không thấy hình hiện ra , bạn có_thể chỉnh lại nguồn webcam cho chính_xác . 
+Bạn lưu_ý là nguồn của webcam chính là loại webcam của bạn , không phải là SplitCam_Capture . 6 . 
+Chính nhờ chức_năng chỉnh nguồn này mà bạn cũng có_thể giả_mạo một người khác bằng cách thay_vì lấy nguồn từ webcam thì lấy nguồn từ một đoạn video có sẵn . 
+Chức_năng này khá thú_vị đối_với nhiều người và đã từng được giới_thiệu trong các số báo trước đây . 
+7 . Sau đó , để dùng cho chương_trình nào , bạn phải thiết_lập lại nguồn webcam ( webcam source ) của chương_trình đó là SplitCam_Capture . 
+Vậy là bạn đã có_thể thoải_mái dùng webcam của mình cho rất nhiều ứng_dụng khác nhau . 

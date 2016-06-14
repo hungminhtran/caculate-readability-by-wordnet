@@ -1,0 +1,21 @@
+Học_bổng công_nghệ thông_tin toàn_phần tại Mỹ 
+Khoa công_nghệ thông_tin , ĐH New_Orleans , Mỹ vừa thông_báo cấp một suất học_bổng sau_đại_học ( thạc_sĩ , tiến_sĩ ) chuyên_ngành công_nghệ thông_tin . 
+Học_bổng bao_gồm tòan bộ học_phí và một khỏan chi_phí sinh_hoạt là 1.000 USD / tháng . 
+Điều_kiện : 
+- Có bằng cử nhân_loại khá / giỏi các ngành công_nghệ thông_tin , toán - tin 
+- Thành_thạo : Java , ASP .Net , ArcGIS , ArcPad , ArcSDE , Oracle_Spatial 
+- Biết GIS application development cycle , FME , MS_Visio_and_ErWin là một lợi_thế 
+- Thành_thạo tiếng Anh , điểm TOEFL từ 600 trở lên 
+- Có điểm GRE 
+Thông_tin về ngành_học , xin truy_cập : 
+http : / / www . cs . uno . edu / Academic / BS/index.html 
+Ứng_viên quan_tâm , gửi hồ_sơ bằng email về : 
+fareed@cs . uno . edu 
+UNIVERSITY_of_NEW_ORLEANS 
+DEPARTMENT_OF_COMPUTER_SCIENCE 
+311 Mathematics_Bldg . 
+Lakefront Campus 
+2000 Lakeshore_Drive 
+New_Orleans , Louisiana 70148 
+Tel : 504.280.6594 
+Fax : 504.280.7228 

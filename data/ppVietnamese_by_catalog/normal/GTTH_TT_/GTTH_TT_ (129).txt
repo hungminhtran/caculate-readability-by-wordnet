@@ -1,0 +1,4 @@
+Lập sàn mua_bán tài_sản game online 
+Người chơi có_thể mua đi bán lại các món đồ , nhân_vật hoặc cả tài_khoản của mình cho người khác bằng tiền VND , USD và phải đóng phí . 
+Một sàn giao_dịch ảo sẽ được thiết_lập cho game_thủ giao_dịch . 
+Lâu_nay ở VN các game_thủ mua_bán đồ_chơi theo kiểu chợ_đen trên mạng , thuận_mua_vừa_bán cũng có nhiều trò lường_gạt lẫn nhau . 

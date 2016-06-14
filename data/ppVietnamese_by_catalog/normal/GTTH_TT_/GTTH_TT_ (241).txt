@@ -1,0 +1,18 @@
+Lướt web an_toàn với Mask_Surf 
+Mask_Surf có khả_năng tương_thích với một_số trình_duyệt phổ_biến nhất hiện_nay như Internet_Explorer , Firefox , Opera , Mozilla … Nó có khả_năng xâm_nhập hệ_thống " Settings " của từng loại trình_duyệt để tạo điều_kiện cho người dùng thiết_lập các thể_thức lướt web của riêng mình . 
+Đây được xem là cách quản_lý nhiều trình_duyệt chỉ bằng một công_cụ duy_nhất . 
+Khi cài_đặt thành_công , Mask_Surf sẽ yêu_cầu bạn đánh_dấu vào trình_duyệt nào mà bạn đang sử_dụng như Firefox , Opeara , Mozilla . Khi hoạt_động , nó sẽ hiện_diện dưới dạng biểu_tượng của một chiếc mặt_nạ nằm ở khay đồng_hồ . 
+Khi kích_hoạt thành_công bạn có_thể giấu địa_chỉ IP của máy_tính và tung ra những địa_chỉ IP giả khi kết_nối Internet để lướt web . 
+Để tinh_chỉnh Mask_Surf , bạn nên nhắp chuột phải vào biểu_tượng Mask_Surf và chọn menu Option để tinh_chỉnh cho các trình_duyệt . 
+Nhấn vào thẻ " Surfing " và chọn vào " Masked " để đẩy mức an_toàn lên cao nhất , tức vừa ẩn IP vừa tung ra IP giả . 
+Bạn cũng nên check vào ô " Invisibe " dưới dòng chữ " Address from which you come " . 
+Mask_Surf khuyên bạn nên lướt web thông_qua một địa_chỉ proxy nào đó để đẩy mức_độ giấu IP lên cao nhất . 
+Để lướt web thông_qua proxy , bạn nhắp vào thẻ proxy list - &gt ; Add_one_proxy - &gt ; nhập vào địa_chỉ proxy mà bạn đã chọn và các ghi_chú cần_thiết . 
+Nếu trong tay không có bất_kỳ địa_chỉ proxy nào thì bạn click vào biểu_tượng của hai trang web EliteProxy . us và Proxy . com . 
+Đây là 2 website chuyên cung_cấp hàng ngàn địa_chỉ proxy mới nhất cho bạn sử_dụng thoải_mái đến … hết_đời . 
+Để xoá đi toàn_bộ mọi thứ lưu_trữ trong cache , cookie , history , URL cache … thì bạn chọn thẻ Clean_Option - &gt ; chọn trình_duyệt mà mình đang sử_dụng - &gt ; chọn các đề_mục cần xoá - &gt ; sau đó nhấn vào " Clean " là toàn_bộ mọi file rác lưu trong hệ_thống lưu_trữ của mọi trình_duyệt sẽ tự_động bị xoá đi . 
+Để quản_lý độ kết_nối của các trình_duyệt có trong máy_tính , bạn chọn thẻ " Connections_Center " - &gt ; sau đó chọn " Connect " hoặc " Disconnect " cho từng loại trình_duyệt của mình . 
+Nếu đã chọn " Disconnect " cho một trình_duyệt nào đó thì tuy máy đã nối được vào Internet nhưng người dùng vẫn không_thể dùng trình_duyệt đó để lướt web . 
+Đây được xem là một hình_thức quản_lý lướt web khá hiệu_quả . 
+Công_ty ThankSoft . com đang bán ra phiên_bản Mask_Surf 1.1 với giá là 25 USD . 
+Người dùng có_thể vào http : / / www . thanksoft . com / download . htm để tải về bản dùng . 

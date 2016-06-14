@@ -1,0 +1,11 @@
+Sâu giả_danh game ' Grand_Theft_Auto ' lậu 
+Một chương_trình mới đang bắt_đầu hướng mục_tiêu vào game_thủ khi ẩn dưới những phiên_bản nổi_tiếng tải qua mạng chia_sẻ ngang hàng P2P như Need_for Speed_Underground 2 , Grand_Theft_Auto : San_Andreas và hơn 400 game khác . 
+Sâu_Hagbard . A sẽ tự sao_chép chính nó tới các thư_mục chia_sẻ file trên máy_tính bị khống_chế và mở_rộng qua Windows_Messenger . Một tin_nhắn nhanh kèm link sẽ được gửi tới nhiều người khác với nội_dung : " Hãy tải file này về , đây chỉ là một món quà nhỏ " . 
+" Do sâu có khả_năng phát_tán dưới dạng thông_điệp qua dịch_vụ tin_nhắn nhanh ( IM ) , một_số người dùng có_thể bị lừa vì nghĩ rằng liên_kết đó là do bạn_bè hoặc đồng_nghiệp gửi , hơn là một virus máy_tính " , Graham_Cluley , cố_vấn cao_cấp của Sophos , khuyến_cáo . 
+Thêm vào đó , sâu Hagbard có một phiên_bản khác có_thể cài chương_trình web server trên máy_tính bị nhiễm , cho_phép kẻ tấn_công truy_cập từ xa . 
+" Đây là một hành_động khá khôn_ngoan " , Art_Gilliland , Giám_đốc quản_lý sản_phẩm của IMLogic ( Mỹ ) , cho_biết . 
+" Nó tải một web server về máy để tạo cơ_hội cho ai đó truy_cập và điều_khiển hệ_thống , chứng_tỏ biến_thể này nguy_hiểm hơn spyware hay phần_mềm quảng_cáo được tải qua IM rất nhiều " . 
+Sâu_Hagbard có_vẻ tinh_vi hơn nhưng không lây_lan nhanh như những sâu khác . 
+" Chúng_tôi nhận được rất ít thông_báo lỗi từ phía người sử_dụng . 
+Nhưng có_thể đó là do khách_hàng của chúng_tôi chủ_yếu là các doanh_nghiệp " , Cluley giải_thích . 
+" Nó sẽ chỉ bùng_phát nhanh đối_với những người dùng máy_tính tại nhà , bởi hầu_hết các công_ty cấm sử_dụng mạng chia_sẻ file ngang hàng " . 

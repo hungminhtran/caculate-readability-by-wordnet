@@ -1,0 +1,8 @@
+Mozilla cảnh_báo về lỗi đầu_tiên trong Firefox 1.5 
+Tổ_chức phần_mềm mã mở vừa công_bố một bản hướng_dẫn bảo_mật , thừa_nhận rằng một trục_trặc trong phiên_bản trình_duyệt mới nhất có_thể gây ra hiện_tượng tràn bộ đệm . 
+Tuy_nhiên , họ bác_bỏ những nhận_định rằng vấn_đề này sẽ khiến ứng_dụng bị thiệt_hại lâu_dài nếu diễn_ra một cuộc tấn_công từ_chối dịch_vụ . 
+Mã khai_thác lỗ_hổng đầu_tiên của Firefox_1.5 được công_bố từ ngày 6/12 , liên_quan đến lỗi trong tệp history . dat ( chứa thông_tin về mọi trang web mà người sử_dụng từng ghé thăm ) . 
+Khi file này lớn hơn 10,5 MB , hệ_thống sẽ bị treo và đòi_hỏi khá nhiều thời_gian để xoá bộ đệm history . 
+Theo Mozilla , để khắc_phục lỗi , mọi người phải xoá toàn_bộ nội_dung lưu trong History . 
+Mike_Schroefper , Phó_giám_đốc kỹ_thuật của Mozilla , tuần trước đã không công_nhận đây là một lỗ_hổng bảo_mật và khẳng_định Firefox 1.5 rất an_toàn . 
+Tổ_chức cũng cho_biết họ chưa nhận được bất_cứ phản_ánh nào từ phía khách_hàng . 

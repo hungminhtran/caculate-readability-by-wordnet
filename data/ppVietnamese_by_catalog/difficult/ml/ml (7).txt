@@ -1,0 +1,143 @@
+I . 
+SỰ CHUYỂN HÓA CỦA TIỀN_TỆ THÀNH TƯ_BẢN 
+1 . Công_thức chung của tư_bản 
+Tiền là sản_vật cuối_cùng của lưu_thông_hàng_hoá , đồng_thời là hình_thức biểu_hiện đầu_tiên của tư_bản . 
+Mọi tư_bản lúc đầu đều biểu_hiện dưới hình_thái một số tiền nhất_định . 
+Nhưng bản_thân tiền không phải là tư bản, 
+tiền chỉ biến thành tư_bản trong những điều_kiện nhất_định , khi chúng được sử_dụng để bóc_lột lao_động của người khác . 
+Tiền với tư_cách là tiền tiền thông_thường vận_động theo công_thức : H - T – H . 
+Tiền với tư_cách là tư_bản thì vận_động theo công_thức : T - H – T . 
+Bất_cứ tiền nào vận_động theo công_thức T - H – T đều chuyển_hoá thành tư_bản . 
+So_sánh công_thức H - T - H và công_thức T - H – T 
+Điểm giống nhau : 
+Cả hai sự vận_động trên đều do hai giai_đoạn đối_lập nhau là mua và bán hợp thành , trong mỗi giai_đoạn đều có hai nhân_tố vật_chất đối_diện nhau là tiền và hàng , và hai người có quan_hệ kinh_tế với nhau là người mua và người bán . 
+Nhưng đó chỉ là những điểm giống nhau về hình_thức . 
+Điểm khác nhau : 
+Giữa hai công_thức trên có sự khác nhau về chất . 
+Lưu_thông_hàng_hoá giản_đơn bắt_đầu bằng việc bán ( H - T ) và kết_thúc bằng việc mua ( T - H ) . 
+Điểm xuất_phát và điểm kết_thúc của quá_trình đều là hàng_hoá , còn tiền chỉ đóng vai_trò trung_gian . 
+Lưu_thông của tư_bản bắt_đầu bằng việc mua ( T - H ) và kết_thúc bằng việc bán ( H – T ) . 
+Tiền vừa là điểm xuất_phát , vừa là điểm kết_thúc của quá_trình , còn hàng_hoá chỉ đóng vai_trò trung_gian ; tiền ở đây không phải là chi ra dứt_khoát mà chỉ là ứng ra rồi thu về . 
+Mục_đích của lưu_thông_hàng_hoá giản_đơn là giá_trị sử_dụng để thoả_mãn nhu_cầu , nên các hàng_hoá trao_đổi phải có giá_trị sử_dụng khác nhau . 
+Mục_đích của lưu_thông tư_bản không phải là giá_trị sử_dụng , mà là giá_trị , hơn_nữa giá_trị tăng thêm . 
+Vì vậy , nếu số tiền thu về bằng số tiền ứng ra , thì quá_trình vận_động trở_nên vô_nghĩa . 
+Do đó , số tiền thu về phải lớn hơn số tiền ứng ra , nên công_thức vận_động đầy_đủ của tư_bản phải là T - H - T ' , trong đó T ' = T + ΔT . 
+Số tiền trội hơn so với số tiền ứng ra ( ΔT ) , C . Mác gọi là giá_trị thặng_dư , ký_hiệu là m . 
+Số tiền ứng ra ban_đầu chuyển_hoá thành tư_bản . 
+Vậy tư_bản là giá_trị mang lại giá_trị thặng_dư . 
+Mục_đích lưu_thông tư_bản là sự lớn lên của giá_trị , là giá_trị thặng_dư , nên sự vận_động của tư_bản là không có giới_hạn , vì sự lớn lên của giá_trị là không có giới_hạn . 
+C . Mác gọi công_thức T - H - T ' là công_thức chung của tư_bản , vì sự vận_động của mọi tư_bản đều biểu_hiện trong lưu_thông dưới dạng khái_quát đó , dù là tư_bản thương_nghiệp , tư_bản công_nghiệp hay tư_bản cho vay . 
+2 . Mâu_thuẫn của công_thức chung của tư_bản 
+Tiền ứng_trước , tức_là tiền bỏ vào lưu_thông , khi quay trở_về tay người chủ của nó , thì tăng thêm một lượng nhất_định . 
+Vậy có phải lưu_thông đã làm cho tiền tăng thêm và do đó hình_thành giá_trị thặng_dư hay không ? 
+Trong lưu_thông , dù trao_đổi ngang giá hay không ngang giá cũng không tạo ra giá_trị mới , do đó cũng không tạo ra giá_trị thặng_dư . 
+Trường_hợp trao_đổi ngang giá : nếu hàng_hoá được trao_đổi ngang giá , thì chỉ có sự thay_đổi hình_thái của giá_trị , từ tiền thành hàng và từ hàng thành tiền , còn tổng_giá_trị cũng như phần giá_trị thuộc về mỗi bên tham_gia trao_đổi trước_sau vẫn không thay_đổi . 
+Tuy_nhiên , về mặt giá_trị sử_dụng , thì cả hai bên trao_đổi đều có lợi . 
+Trường_hợp trao_đổi không ngang giá : 
+Nếu hàng_hoá được bán cao hơn giá_trị , thì số lời anh ta nhận được khi là người bán cũng chính số tiền anh ta sẽ mất đi khi là người mua , rốt_cuộc anh ta sẽ không được lợi thêm gì cả . 
+Còn nếu mua hàng_hoá thấp hơn giá_trị , thì tình_hình cũng tương_tự như trên . 
+Số lời anh ta nhận được khi là người mua sẽ mất đi khi là người bán . 
+Giả_sử có một_số người chuyên mua được rẻ bán đắt thì điều đó cũng chỉ giải_thích được sự làm_giàu của những thương_nhân cá_biệt chứ không_thể giải_thích được sự giàu_có của toàn_bộ giai_cấp tư_bản vì tổng_số giá_trị trước và sau khi trao_đổi không thay_đổi , mà chỉ có phần giá_trị của mỗi bên trao_đổi là thay_đổi , tức_là có sự chuyển_dịch giá_trị từ người này sang người khác chứ không có sự tăng thêm tổng_số giá_trị trao_đổi . 
+Lưu_thông không làm tăng giá_trị nhưng nếu tiền không vận_động trong lưu_thông , tức_là đứng ngoài lưu_thông , thì cũng không_thể lớn lên được . 
+" Vậy là tư_bản không_thể xuất_hiện từ lưu_thông và cũng không_thể xuất_hiện ở bên ngoài lưu_thông . 
+Nó phải xuất_hiện trong lưu_thông và đồng_thời không phải trong lưu_thông " 
+C . Mác và Ph . Ăngghen : Toàn_tập . 
+Nxb Chính_trị Quốc_gia , Hà_Nội , 1993 , tr . 23 ) 
+. 
+Đó là mâu_thuẫn của công_thức chung của tư_bản . 
+3 . Hàng_hoá sức_lao_động và tiền_công trong chủ_nghĩa_tư_bản 
+a . 
+Hàng_hoá sức_lao_động 
+Xem_xét công_thức chung của tư_bản ta thấy sự chuyển_hoá của tiền thành tư_bản không_thể phát_sinh từ bản_thân số tiền đó vì trong việc mua_bán tiền chỉ là phương_tiện lưu_thông để thực_hiện giá_cả hàng_hoá , nên trước_sau giá_trị của nó vẫn không thay_đổi . 
+Sự chuyển_hoá đó phải xảy_ra ở hàng_hoá nhưng không phải ở giá_trị trao_đổi của hàng_hoá mà chỉ có_thể ở giá_trị sử_dụng của hàng_hoá . 
+Do đó , hàng_hoá đó không_thể là hàng_hoá thông_thường mà phải là một thứ hàng_hoá đặc_biệt mà giá_trị sử_dụng của nó có đặc_tính là nguồn_gốc sinh ra giá_trị , hơn_nữa sinh ra một giá_trị lớn hơn giá ( 1 ) 
+trị của bản_thân nó . 
+Thứ hàng_hoá đặc_biệt đó là sức_lao_động mà nhà tư_bản đã tìm thấy trên thị_trường . 
+Sức_lao_động biến thành hàng_hoá là điều_kiện quyết_định để tiền biến thành tư_bản . 
+Theo C . Mác : " sức_lao_động hay năng_lực lao_động là toàn_bộ nhữngnăng lực thể_chất và tinh_thần tồn_tại trong một cơ_thể , trong một con ngườiđang sống , và được người đó đem ra vận_dụng mỗi khi sản_xuất ra một giátrị sử_dụng nào đó " C . Mác . 
+Tư_bản . 
+Quyển I , tập I . Sđd , tr . 
+233 . 
+Trong bất_cứ xã_hội nào , sức_lao_động cũng là điều_kiện cơ_bản của sản_xuất nhưng sức_lao_động không phải bao_giờ cũng là hàng_hoá , nó chỉ biến thành hàng_hoá trong những điều_kiện nhất_định : 
+Thứ nhất , người lao_động phải được tự_do về thân_thể . 
+Sức_lao_động chỉ xuất_hiện trên thị_trường với tư_cách là hàng_hoá khi người lao_động phải được tự_do về thân_thể , có quyền sở_hữu sức_lao_động của mình và có quyền đem bán sức_lao_động . 
+Muốn bán hàng_hoá , người_ta phải có quyền sở_hữu hàng_hoá . 
+Người lao_động muốn bán sức_lao_động của mình thì trước_hết họ phải sở_hữu sức_lao_động của mình , có quyền chi_phối khả_năng làm_việc của mình , họ muốn làm_việc cho ai là quyền của họ . 
+Trong các xã_hội nô_lệ và phong_kiến , người nô_lệ và nông_nô không_thể bán sức_lao_động vì bản_thân họ thuộc sở_hữu của chủ_nô hay chúa phong_kiến . 
+Do đó việc biến sức_lao_động thành hàng_hoá đòi_hỏi phải thủ_tiêu chế_độ nô_lệ và nông_nô . 
+Thứ hai , người lao_động bị tước_đoạt hết tư_liệu_sản_xuất vì nếu người lao_động được tự_do về thân_thể nhưng có tư_liệu_sản_xuất thì họ sẽ sản_xuất ra hàng_hoá và bán hàng_hoá do mình sản_xuất ra chứ không bán sức_lao_động . 
+Muốn biến sức_lao_động thành hàng_hoá , người lao_động phải là người không có tư_liệu_sản_xuất , chỉ trong điều_kiện ấy người lao_động mới bán sức_lao_động của mình , vì họ không còn cách nào khác để sinh_sống . 
+Về mặt lịch_sử , khi chủ_nghĩa_tư_bản ra_đời ở Tây_Âu vào thế_kỷ XVI , chủ_nghĩa_tư_bản đã tạo ra hai điều_kiện trên thông_qua quá_trình tích_luỹ nguyên_thuỷ của tư_bản . 
+Sự tồn_tại đồng_thời hai điều_kiện nói trên tất_yếu biến sức_lao_động thành hàng_hoá . 
+Sức_lao_động biến thành hàng_hoá là điều_kiện quyết_định để tiền biến thành tư_bản , tuy_nhiên , để tiền biến thành tư_bản thì lưu_thông_hàng_hoá và lưu_thông tiền_tệ phải phát_triển tới một mức_độ nhất_định . 
+Sức_lao_động biến thành hàng_hoá là nhân_tố đánh_dấu một giai_đoạn mới trong sự phát_triển sản_xuất hàng_hoá trở_thành hình_thái phổ_biến sản_xuất hàng_hoá tư_bản_chủ_nghĩa . 
+Hàng_hoá sức_lao_động cũng có hai thuộc_tính là giá_trị sử_dụng và giá_trị . 
+Giá_trị hàng_hoá sức_lao_động 
+Giá_trị sức_lao_động cũng do thời_gian lao_động xã_hội cần_thiết để sản_xuất và tái_sản_xuất sức_lao_động quyết_định . 
+Nhưng sức_lao_động chỉ tồn_tại trong cơ_thể sống của con_người , muốn tái_sản_xuất ra_sức lao_động , người công_nhân phải tiêu_dùng một lượng tư_liệu sinh_hoạt nhất_định . 
+Vậy thời_gian lao_động xã_hội cần_thiết để tái_sản_xuất ra_sức lao_động sẽ được quy thành thời_gian lao_động xã_hội cần_thiết để sản_xuất ra những tư_liệu sinh_hoạt ấy ; hay nói cách khác , giá_trị hàng_hoá sức_lao_động được đo_lường gián_tiếp bằng giá_trị những tư_liệu sinh_hoạt để tái_sản_xuất sức_lao_động . 
+Là hàng_hoá đặc_biệt , giá_trị hàng_hoá sức_lao_động khác với hàng_hoá thông_thường ở chỗ nó bao_hàm cả yếu_tố tinh_thần và lịch_sử . 
+Điều đó có nghĩa là ngoài những nhu_cầu về vật_chất , người công_nhân còn có những nhu_cầu về tinh_thần , văn_hoá ... 
+Những nhu_cầu đó phụ_thuộc vào hoàn_cảnh lịch_sử của mỗi nước ở từng thời_kỳ , phụ_thuộc cả vào điều_kiện địa_lý , khí_hậu của nước đó và mức_độ thoả_mãn những nhu_cầu đó phần_lớn phụ_thuộc vào trình_độ văn_minh đã đạt được của mỗi nước . 
+Giá_trị hàng_hoá sức_lao_động do những bộ_phận sau đây hợp thành : 
+Một là , giá_trị những tư_liệu sinh_hoạt về vật_chất và tinh_thần cần_thiết để tái_sản_xuất sức_lao_động , duy_trì đời_sống công_nhân ; 
+Hai là , phí_tổn đào_tạo công_nhân ; 
+Ba là , giá_trị những tư_liệu sinh_hoạt vật_chất và tinh_thần cần_thiết cho 
+con_cái công_nhân . 
+Sự biến_đổi của giá_trị sức_lao_động trong một thời_kỳ nhất_định chịu ảnh_hưởng của hai loại nhân_tố tác_động đối_lập nhau đến . 
+Một mặt , sự tăng nhu_cầu trung_bình của xã_hội về hàng_hoá và dịch_vụ , về học_tập và trình_độ lành_nghề dẫn đến làm tăng giá_trị sức_lao_động ; mặt_khác , sự tăng năng_suất 
+lao_động xã_hội lại làm giảm giá_trị sức_lao_động . 
+Giá_trị sử_dụng của hàng_hoá sức_lao_động 
+Giá_trị sử_dụng của hàng_hoá sức_lao_động được biểu_hiện trong quátrình tiêu_dùng sức_lao_động , tức_là quá_trình lao_động của người công_nhân . 
+Quá_trình đó là quá_trình sản_xuất ra một loạt hàng_hoá nào đó ; đồng_thời là quá_trình tạo ra giá_trị mới lớn hơn giá_trị của bản_thân hàng_hoá sức_lao_động . 
+Phần_lớn hơn đó chính là giá_trị thặng_dư mà nhà tư_bản chiếm_đoạt . 
+Như vậy , giá_trị sử_dụng của hàng_hoá sức_lao_động có tính_chất đặc_biệt là nguồn_gốc sinh ra giá_trị , tức_là tạo ra giá_trị thặng_dư . 
+Đó là chìa_khoá để giải_thích mâu_thuẫn của công_thức chung của tư_bản . 
+b . 
+Tiền_công trong chủ_nghĩa_tư_bản 
+Bản_chất kinh_tế của tiền_công 
+Người công_nhân làm_việc cho nhà tư_bản một thời_gian nhất_định , sản_xuất ra một lượng hàng_hoá hay hoàn_thành một_số công_việc nào đó thì được nhà tư_bản trả cho một số tiền nhất_định gọi là tiền_công . 
+Hiện_tượng đó làm cho người_ta lầm_tưởng rằng tiền_công là giá_cả của lao_động . 
+Tiền_công không phải là giá_trị hay giá_cả của lao_động , vì lao_động không phải là hàng_hoá . 
+Sở_dĩ như vậy là vì : 
+- Nếu lao_động là hàng_hoá , thì nó phải có trước , phải được vật hoá trong một hình_thức cụ_thể nào đó . 
+Tiền_đề để cho lao_động_vật_hoá được là phải có tư_liệu_sản_xuất . 
+Nhưng nếu người lao_động có tư_liệu_sản_xuất , thì họ sẽ bán hàng_hoá do mình sản_xuất ra , chứ không bán " lao_động " . 
+- Việc thừa_nhận lao_động là hàng_hoá dẫn tới một trong hai mâu_thuẫn về lý_luận sau đây : 
+Thứ nhất , nếu lao_động là hàng_hoá và được trao_đổi ngang giá , thì nhà tư_bản không thu được lợi_nhuận ( giá_trị thặng_dư ) ; điều này phủ_nhận sự tồn_tại của quy_luật giá_trị thặng_dư trong chủ_nghĩa_tư_bản . 
+Thứ hai , nếu " hàng_hoá lao_động " được trao_đổi không ngang giá để có giá_trị thặng_dư cho nhà tư_bản , thì lại phủ_nhận quy_luật giá_trị . 
+- Nếu lao_động là hàng_hoá , thì nó phải có giá_trị nhưng lao_động là thực_thể và là thước_đo nội_tại của giá_trị do đó bản_thân lao_động không có giá_trị . 
+Vì thế , cái mà công_nhân bán cho nhà tư_bản không phải là " lao_động " mà là " sức_lao_động " . 
+Do đó tiền_công là giá_cả của sức_lao_động . 
+Vậy bản_chất của tiền_công trong chủ_nghĩa_tư_bản là giá_trị hay giá_cả của sức_lao_động , nhưng lại biểu_hiện ra bề_ngoài thành giá_trị hay giá_cả của lao_động . 
+Hình_thức biểu_hiện của tiền_công đã gây ra sự nhầm_lẫn trong cách hiểu về bản_chất của nó là do : 
+Thứ nhất , đặc_điểm của hàng_hoá sức_lao_động là không bao_giờ tách khỏi người bán , nó chỉ nhận được giá_cả sau khi đã cung_cấp giá_trị sử_dụng cho người mua , tức_là lao_động cho nhà tư_bản , do đó bề_ngoài chỉ thấy nhà tư_bản trả giá_trị cho lao_động . 
+Thứ hai , đối_với công_nhân , toàn_bộ lao_động trong cả ngày là phương_tiện để có tiền sinh_sống , do đó bản_thân công_nhân cũng tưởng rằng mình bán lao_động . 
+Còn đối_với nhà tư_bản bỏ tiền ra là để có lao_động , nên cũng nghĩ rằng cái mà họ mua là lao_động . 
+Thứ ba , lượng của tiền_công phụ_thuộc vào thời_gian lao_động hoặc số_lượng sản_phẩm sản_xuất ra , điều đó càng làm cho người_ta lầm_tưởng rằng tiền_công là giá_cả lao_động . 
+Hai hình_thức cơ_bản của tiền_công trong chủ_nghĩa_tư_bản 
+Tiền_công có hai hình_thức cơ_bản là tiền_công tính theo thời_gian và tiền_công tính theo sản_phẩm . 
+Tiền_công tính theo thời_gian là hình_thức tiền_công mà số_lượng của nó ít hay nhiều tuỳ theo thời_gian lao_động của công_nhân ( giờ , ngày , tháng ) dài hay ngắn . 
+Tiền_công ngày và tiền_công tuần chưa nói rõ được mức tiền_công đó cao hay_là thấp , vì còn tuỳ theo ngày lao_động dài hay ngắn . 
+Muốn đánh_giá mức tiền_công không_chỉ căn_cứ vào tiền_công ngày mà_còn phải căn_cứ vào độ dài của ngày lao_động và cường_độ_lao_động . 
+Giá_cả của một giờ lao_động là thước_đo chính_xác mức tiền_công tính theo thời_gian . 
+Tiền_công tính theo sản_phẩm là hình_thức tiền_công mà số_lượng của nó phụ_thuộc vào số_lượng sản_phẩm hay số_lượng những bộ_phận của sản_phẩm mà công_nhân đã sản_xuất ra hoặc là số_lượng công_việc đã hoàn_thành . 
+Mỗi sản_phẩm được trả công theo một đơn_giá nhất_định . 
+Đơn_giá tiền_công là tiền_công trả cho thời_gian cần_thiết sản_xuất ra một sản_phẩm . 
+Vì thế tiền_công tính theo sản_phẩm là hình_thức chuyển_hoá của tiền_công tính theo thời_gian . 
+Thực_hiện tiền_công tính theo sản_phẩm , một mặt , giúp cho nhà tư_bản trong việc quản_lý , giám_sát quá_trình lao_động của công_nhân dễ_dàng hơn ; mặt_khác , kích_thích công_nhân tích_cực lao_động tạo ra nhiều sản_phẩm để nhận được tiền_công cao hơn . 
+Tiền_công danh_nghĩa và tiền_công thực_tế 
+Tiền công_danh_nghĩa là số tiền mà người công_nhân nhận được do bán sức_lao_động của mình cho nhà tư_bản . 
+Tiền_công thực_tế là tiền_công được biểu_hiện bằng số_lượng hàng_hoá tiêu_dùng và dịch_vụ mà công_nhân mua được bằng tiền_công danh_nghĩa của mình . 
+Tiền công_danh_nghĩa là giá_cả sức_lao_động , nên nó có_thể tăng lên hay giảm xuống tuỳ theo sự biến_động của quan_hệ cung - cầu về hàng_hoá sức_lao_động trên thị_trường . 
+Nếu tiền_công danh_nghĩa không thay_đổi , nhưng giá_cả tư_liệu tiêu_dùng và dịch_vụ tăng lên hoặc giảm xuống , thì tiền_công thực_tế sẽ giảm xuống hay tăng lên . 
+Tiền_công là giá_cả của sức_lao_động , nên sự vận_động của nó gắn liền với sự biến_đổi của giá_trị sức_lao_động . 
+Lượng giá_trị sức_lao_động chịu ảnh_hưởng của các nhân_tố tác_động ngược chiều nhau . 
+Nhân_tố tác_động làm tăng giá_trị sức_lao_động như sự nâng_cao trình_độ chuyên_môn của người lao_động , sự tăng cường_độ_lao_động và sự tăng lên của nhu_cầu cùng với sự phát_triển của xã_hội . 
+Nhân_tố tác_động làm giảm giá_trị sức_lao_động , đó là sự tăng năng_suất lao_động làm cho giá_cả tư_liệu tiêu_dùng rẻ đi . 
+Sự tác_động qua_lại của các nhân_tố đó dẫn tới quá_trình phức_tạp của sự biến_đổi giá_trị sức_lao_động , do đó dẫn tới sự biến_đổi phức_tạp của tiền_công thực_tế . 
+Xu_hướng chung của sản_xuất tư_bản_chủ_nghĩa không phải là nâng_cao mức tiền_công trung_bình mà là hạ thấp mức tiền_công ấy . 
+Trong quá_trình phát_triển của chủ_nghĩa_tư_bản , tiền_công danh_nghĩa có xu_hướng tăng lên , nhưng mức tăng của nó nhiều khi không theo kịp mức tăng giá_cả tư_liệu tiêu_dùng và dịch_vụ ; đồng_thời thất_nghiệp là hiện_tượng thường_xuyên , khiến cho cung về lao_động vượt quá cầu về lao_động , điều đó cho_phép nhà tư_bản mua sức_lao_động dưới giá_trị của nó , vì vậy tiền_công thực_tế của giai_cấp công_nhân có xu_hướng hạ thấp . 
+Sự hạ thấp của tiền_công thực_tế chỉ diễn_ra như một xu_hướng , vì có những nhân_tố chống lại sự hạ thấp tiền_công . 
+Một mặt , đó là cuộc đấu_tranh của giai_cấp công_nhân đòi tăng tiền_công . 
+Mặt_khác , trong điều_kiện của chủ_nghĩa_tư_bản ngày_nay , do sự tác_động của cuộc cách_mạng khoa_học – công_nghệ nên nhu_cầu về sức_lao_động có chất_lượng cao ngày_càng tăng buộc các nhà tư_sản phải cải_tiến tổ_chức lao_động cũng như kích_thích người lao_động bằng lợi_ích vật_chất . 

@@ -1,0 +1,15 @@
+Điều_kiện ngoại_cảnh của cây rau , hoa 
+Mỗi loại cây cần một nhiệt_độ thích_hợp . 
+Ví_dụ : Cây cà_rốt cần nhiệt_độ 20 °C - 22 °C ; cây cà_chua cần 20 °C - 30 °C ; cây hoa_hồng cần 18 °C - 25 °C . 
+Nước rất cần_thiết cho cây trồng , nhất_là đối_với cây rau và hoa . 
+Vì vậy phải luôn tưới nước đảm_bảo cho đất đủ nước để cây phát_triển . 
+Cây rau , hoa cần đủ ánh_sáng để quang_hợp . 
+Thiếu ánh_sáng cây sẽ yếu , vươn dài , dễ đổ , màu_sắc của hoa nhợt_nhạt . 
+Do vậy , phải trồng rau , hoa ở nơi có đủ ánh_sáng và đảm_bảo khoảng_cách cây trồng . 
+Cây rau , hoa cần các chất dinh_dưỡng như đạm , lân , ka ly , ... 
+Thiếu các chất này cây sẽ còi_cọc , dễ bị sâu , bệnh phá_hại làm cho năng_suất thu_hoạch thấp . 
+Do vậy , phải thường_xuyên bón phân cho cây để cung_cấp chất dinh_dưỡng kịp_thời . 
+Cây rau , hoa cần không_khí để quang_hợp và hô_hấp . 
+Để đảm_bảo cây có đủ không_khí , ta phải làm cho đất tơi xốp và thường_xuyên vun_xới để đất không bị dí chặt . 
+Mỗi loại cây rau , hoa đều cần các điều_kiện ngoại_cảnh thích_hợp để sinh_trưởng , phát_triển . 
+Nếu điều_kiện ngoại_cảnh không thích_hợp , cây phát_triển kém , năng_suất thấp . 

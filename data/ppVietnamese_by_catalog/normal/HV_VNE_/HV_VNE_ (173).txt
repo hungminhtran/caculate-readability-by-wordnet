@@ -1,0 +1,8 @@
+Lỗi giải nén nghiêm_trọng trong MySQL 
+Các chuyên_gia nghiên_cứu của hãng bảo_mật Secunia ( Đan_Mạch ) vừa cảnh_báo về một lỗ_hổng có nguy_cơ bị lợi_dụng rất cao trong MySQL , cho_phép tấn_công từ_chối dịch_vụ và chạy mã nguy_hiểm trên cơ_sở_dữ_liệu mã mở . 
+Lỗ_hổng này xuất_hiện khi người dùng sử_dụng công_nghệ zlib hỗ_trợ giao_thức nén và tính_năng nén / giải nén hoạt_động trên Windows . 
+Lỗi xảy_ra ở " inftrees . c " , phá_vỡ quá_trình nén dữ_liệu . 
+Theo Secunia , khiếm_khuyết này có khả_năng bị khai_thác để phá sập bất_cứ ứng_dụng nào sử_dụng chương_trình zlib . 
+Lỗi được tìm thấy trong phiên_bản MySQL_1.2 nhưng Secunia khẳng_định tất_cả các phiên_bản trước đó cũng đều bị ảnh_hưởng . 
+Secunia khuyến_cáo người dùng nâng_cấp lên bản 4 . 1.13 . 
+Phát_ngôn_viên của SQL khẳng_định lỗ_hổng này vẫn chưa bị khai_thác cho đến thời_điểm này . 

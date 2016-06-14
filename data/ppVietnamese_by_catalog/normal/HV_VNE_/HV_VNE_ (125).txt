@@ -1,0 +1,8 @@
+51 nguy_cơ mới xuất_hiện trong IM và P2P 
+Theo hãng bảo_mật Akodix ( Mỹ ) , mối đe_doạ khách_hàng dùng tin_nhắn nhanh ( IM ) và mạng chia_sẻ ngang hàng ( P2P ) đã tăng đột_biến trong tháng 5 , chiếm hơn 1/2 số trường_hợp được thông_báo trong suốt ba tháng đầu năm . 
+" Như chúng_ta đã thấy , nguy_cơ qua IM đã được nhắc đến từ lâu , nhưng từ đầu năm 2005 , mạng IM mới bùng_phát thành ' điểm đến ' của virus với những hình_thức tấn_công bảo_mật chưa từng xuất_hiện " , Francis_Costello , Trưởng phòng kinh_doanh Akonix , cho_biết . 
+" Những kẻ viết chương_trình virus , hacker , lừa_đảo trực_tuyến đang trở_nên ngày_càng tinh_vi trong cách tiếp_cận khách_hàng dùng IM - hệ_thống lỏng_lẻo và dễ bị xâm_nhập nhất - cũng như mạng Internet . Chúng phát_tán không_chỉ virus và phần_mềm nguy_hiểm mà kết_hợp cả những vụ tấn_công lừa_đảo nhằm thu lợi " . 
+Tháng trước , Akonix đã liên_tục cảnh_báo về 7 biến_thể sâu Kelvir trong mạng MSN , 6 phiên_bản sâu Opanki tấn_công khách_hàng AOL , 4 sâu Oskabot . 
+Ngay từ tháng 3 , hãng IMLogic cũng đã khuyến_cáo về việc tăng tới 50 % các vụ tấn_công IM mỗi tháng . 
+Một biến_thể sâu Kelvir đã đánh sập hệ_thống tin_nhắn nhanh của Reuters vào giữa tháng 4 khiến trang tin trực_tuyến này bắt_buộc phải đóng_cửa trong vòng gần 24 giờ . 
+Gần đây , các hãng FaceTime , IMLogic , Akonix đang cùng hợp_tác duy_trì trang web liệt_kê các nguy_cơ xuất_hiện trên IM dưới sự hỗ_trợ của Microsoft , Yahoo , IBM và Symantec . 

@@ -1,0 +1,7 @@
+Cài_đặt và sử_dụng GPRS 
+Sau đó bạn thực_hiện theo từng bước hướng_dẫn , chọn model điện_thoại , chọn cài_đặt WAP , chọn quốc_gia , chọn mạng , sau đó bạn nhập vào số ĐTDĐ của mình . 
+Bạn chờ tổng_đài gửi tin_nhắn xuống máy , mở tin_nhắn này lên , nhập vào mã CODE ( trên web cung_cấp ) , sau đó lưu cấu_hình cài_đặt lại là xong . 
+- Với máy Nokia_6610i , bạn có_thể gửi tin_nhắn để cài_đặt tự_động như sau : với mạng MobiFone , bạn vào phần tin_nhắn , soạn nội_dung : GPRS N6610 sau đó gửi đến 994 . Tổng_đài sẽ gửi về cho bạn hai tin_nhắn , tin đầu bạn bỏ_qua , tin_nhắn thứ hai mở lên và nhập vào 1234 , sau đó chọn Save lại và chọn Default là xong ; với mạng Vinaphone , bạn vào phần tin_nhắn , soạn nội_dung : SET GPRS , sau đó gửi về 333 . 
+Tổng_đài sẽ gửi về cho bạn hai tin_nhắn , tin đầu bạn bỏ_qua , tin_nhắn thứ hai mở lên và nhập vào 1234 , sau đó chọn Save lại và chọn Default là xong . 
+- Để cài_đặt cho máy SonyEricsson_Z300i , bạn có_thể cài_đặt tự_động từ web bằng cách vào trang : http : / / www . sonyericsson . com chọn ngôn_ngữ là VN , chọn mục Hỗ_trợ &gt ; Cài_đặt điện_thoại , chọn kiểu điện_thoại của mình là Z300i , sau đó bạn lần_lượt thực_hiện theo hướng_dẫn để chọn quốc_gia , mạng sử_dụng , số thuê_bao ... 
+Sau đó mạng sẽ gửi cho bạn cấu_hình cài_đặt tự_động , bạn chỉ việc lưu cấu_hình này lại là xong . 

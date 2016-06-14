@@ -1,0 +1,12 @@
+Virus Bin_Laden xuất_hiện trở_lại 
+Từ ngày 1/6 , những e-mail kèm ảnh chụp công_bố cảnh bắt_giữ thủ_lĩnh mạng_lưới khủng_bố al-Qaeda đã xuất_hiện . 
+Nhưng nếu mở file đi kèm , PC sẽ ngay_lập_tức trở_thành nạn_nhân của virus . 
+Những e-mail này , dù ở dưới hình_thức nào , đều có nội_dung rất thuyết_phục người đọc như kênh tin_tức CNN và BBC sẽ sớm tường_thuật vụ bắt_giữ và cung_cấp nhiều hình_ảnh chi_tiết hơn . 
+Một loại e-mail lại khẳng_định sở_hữu những tấm hình lấy từ kênh_truyền_hình quân_đội , nhiều thư khác hướng người nhận đến trang web lưu đoạn video về vụ_việc này ... 
+Những_ai mở file đính kèm này hay vào website sẽ ngay_lập_tức tự " rước " phiên_bản Trojan_Psyme về máy_tính của mình . 
+Biến_thể Psyme khai_thác lỗ_hổng trong Windows_2000 , 95 , 98 , ME , NT , XP và Windows_Server_2003 . Các hãng bảo_mật khuyến_cáo người dùng nhanh_chóng cài phiên_bản nâng_cấp của Windows để tránh nguy_cơ bị ảnh_hưởng , và không mở những e-mail thông_báo Osama_Bin_Laden bị bắt . 
+Công_ty Blackspider ( Mỹ ) cho_biết đã chặn tới hơn 1 triệu thư rác kiểu này từ khi chúng bắt_đầu xuất_hiện . 
+Hãng bảo_mật F-Secure và Panda cũng đồng_thời cảnh_báo về nguy_cơ mới xuất_hiện . 
+Nhiều chuyên_gia lo_ngại rằng mối quan_tâm và sự tò_mò về nơi trú_ngụ cũng như những thông_tin khác về Bin_Laden sẽ có_thể khiến virus bùng_phát thành một nguy_cơ lớn . 
+Tháng 7 năm_ngoái cũng ghi_nhận những e-mail kèm đường link tới một website tuyên_bố có cảnh Bin_Laden tự_tử . 
+Một virus khác cũng hoành_hành vào tháng 11/2004 giả_dạng thông_điệp video liên_quan đến thủ_lĩnh al-Qaeda . 

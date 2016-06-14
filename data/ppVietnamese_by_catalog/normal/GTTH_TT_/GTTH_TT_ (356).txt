@@ -1,0 +1,7 @@
+Diễn_đàn của fan Arsenal Việt_Nam bị hacker tấn_công 
+Theo Ban Quản_trị diễn_đàn , hacker đã đánh_cắp mật_mã ( password ) nick đăng_nhập của một thành_viên trong Ban Quản_trị và sử_dụng quyền của thành_viên này để vào diễn_đàn xoá tất_cả các chủ_đề . 
+Tuy_nhiên , do diễn_đàn có hai lớp mật_mã bảo_vệ nên những nội_dung bị xoá vẫn có_thể khôi_phục lại được . 
+AFCVN hiện có hơn 5.500 thành_viên , là một trong những hội cổ_động_viên bóng_đá lớn nhất Việt_Nam . 
+Cùng với việc mở diễn_đàn cho các thành_viên yêu bóng_đá thảo_luận ở trên , AFCVN cũng có trang web chính_thức tại địa_chỉ www . arsenal . com . vn để cập_nhật những tin_tức hằng ngày liên_quan đến đội bóng Arsenal . 
+Trang web diễn_đàn của AFCVN bị hacker tấn_công là trang web thứ hai bị hack trong thời_gian qua . 
+Trước đó , website của Liên_đoàn Bóng_đá Việt_Nam ( www . vff . org . vn ) cũng đã bị hacker tấn_công và thay_đổi nội_dung . 

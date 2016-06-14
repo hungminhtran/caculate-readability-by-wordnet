@@ -1,0 +1,15 @@
+Ghép sim , nên không ? 
+- Sử_dụng hai sim trên một máy di_động được gọi là " ép sim " hay " ghép sim " . 
+Ép sim tức_là cho hai số vào cùng một sim và sử_dụng trên một máy . 
+Có_thể sim ép của bạn là cùng một mạng hoặc khác mạng ( mỗi số_một mạng hoặc khác mạng ) . 
+Khi ép sim , bạn sẽ sử_dụng tài_khoản cho từng sim . 
+Ví_dụ : sim của bạn có hai số là MobiFone và Viettel_Mobile , bạn muốn sử_dụng mạng MobiFone thì vào chế_độ chọn / dò mạng của máy và chọn mạng để sử_dụng . 
+Nếu bạn chọn MobiFone thì mặc_định bạn sẽ sử_dụng số 090 và ngược lại với Viettel_Mobile là 098 . Giá dịch_vụ này hiện_nay rất chênh_lệch , từ vài chục ngàn đến vài trăm ngàn đồng và được thực_hiện bởi các cửa_hàng sửa_chữa ĐTDĐ . 
+Tuy_nhiên , hiện các nhà cung_cấp mạng di_động khuyến_cáo không nên sử_dụng theo cách này vì ghép sim , máy rất dễ hỏng . 
+Tôi vừa mua một sim card của Vinaphone , khi gắn sim vào thì máy yêu_cầu nhập mã pin , tôi nhập 123 nhưng không được nên đã thử các dãy số khác . 
+Sau nhiều lần thì máy bị khoá và yêu_cầu nhập mã PUK . 
+Hiện_tại cả máy và sim đều không sử_dụng được , tôi phải làm cách nào ? 
+( Vuongduongdinh@ ) 
+- Theo mặc_định của nhà cung_cấp , khi kích_hoạt bộ hoà_mạng , mã_số ban_đầu là 1234 thì sim sẽ hoạt_động . 
+Trong sim , mã_số này như một mã bảo_vệ , bạn đã nhập sai mã_số nên sim báo đã khoá PUK để bảo_vệ . 
+Bạn nên đến đại_lý của công_ty hoặc gọi vào số 18001091 để được hướng_dẫn mở khoá cho sim . 

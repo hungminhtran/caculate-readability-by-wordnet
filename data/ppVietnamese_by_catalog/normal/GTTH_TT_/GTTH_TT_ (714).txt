@@ -1,0 +1,9 @@
+Microsoft trả gần 2 tỷ USD để giảng_hoà với Sun 
+Theo thoả_thuận 10 năm , Microsoft sẽ trả cho Sun 700 triệu USD để giải_quyết vấn_đề chống độc_quyền , và 900 triệu USD để sử_dụng bằng phát_minh . 
+Hai công_ty cũng sẽ trả tiền sử_dụng công_nghệ của nhau . 
+Trước_mắt , người khồng lồ về phần_mềm sẽ chi 350 triệu USD , còn Sun sẽ trả sau tuỳ vào mức_độ sử_dụng . 
+Dự_kiến , Sun và Microsoft sẽ hợp_tác để cải_tiến công_nghệ .Net và Java . 
+Microsoft sẽ tiếp_tục hỗ_trợ khách_hàng dùng Java_Virtual_Machine - phần_mềm quan_trọng để chạy các chương_trình java . 
+Còn với bản_quyền công_nghệ của Microsoft , Sun có_thể xây_dựng máy_chủ cho khách_hàng đang dùng Windows . 
+Ngoài_ra , hai bên cũng hợp_tác về hệ_thống quản_lý nhận_dạng , cho_phép người dùng vào hàng_loạt website với một tên truy_cập và mật_khẩu . 
+Tuy_nhiên , lấy được tiền không có nghĩa sẽ giúp Sun thoát khỏi những khó_khăn tiềm_ẩn trong thời_gian tới , và điều gì sẽ xảy_ra khi cả hai đều khẳng_định : " Chúng_tôi sẽ tiếp_tục cạnh_tranh , như thoả_thuận này được xem là một bước_tiến cộng_tác lớn , mang lại lợi_ích cho cả hai hãng cũng như khách_hàng , Giám_đốc điều_hành Microsoft , Steve_Ballmer , nói . 

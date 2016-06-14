@@ -1,0 +1,13 @@
+Mẫu vẽ có hai hoặc ba vật mẫu 
+Vị_trí của từng vật mẫu . 
+Tỉ_lệ chung của mẫu vẽ và tỷ_lệ của các vật mẫu . 
+Hình_dáng , đặc_điểm của các vật mẫu . 
+Các độ đậm nhạt chính ở mẫu vẽ ( đậm , đậm vừa , nhạt ) . 
+Vẽ khung hình chung của mẫu . 
+Vẽ khung hình riêng của từng vật mẫu . 
+Vẽ đường_trục của các vật mẫu . 
+Tìm tỷ_lệ của từng bộ_phận . 
+Vẽ phác các nét chính . 
+Vẽ nét chi_tiết cho giống mẫu . 
+Phác các mảng đậm nhạt và diễn_tả độ dậm nhạt chính của mẫu . 
+Hoàn_thành bài vẽ . 

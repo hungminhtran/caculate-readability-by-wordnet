@@ -1,0 +1,11 @@
+Trojan ăn_cắp mã khoá tài_khoản game ' Lineage ' 
+Hãng bảo_mật Sophos ( Anh ) đang cảnh_báo về một chương_trình mới có khả_năng ăn_cắp thông_tin của người đăng_ký tham_gia một trong những game trực_tuyến phổ_biến nhất thế_giới . 
+Trojan này có tên LegMir . Y , được thiết_kế để ăn_cắp username và password của người tham_gia Lineage , game_online đang thu_hút tới 4 triệu người đăng_ký chơi trả tiền , chủ_yếu là ở Hàn_Quốc và một_số quốc_gia châu Á . 
+Ngoài_ra , LegMir . Y còn tắt bỏ tất_cả các phần_mềm diệt virus trên PC bị lây_nhiễm . 
+Nhờ những trò như Lineage , game trực_tuyến đã trở_thành một ngành công_nghiệp béo_bở ở châu Á , nơi hàng triệu khách_hàng sẵn_sàng móc hầu_bao 15-20 USD mỗi tháng để truy_nhập vào thế_giới kỳ_ảo của các trò_chơi nối mạng . 
+Theo Graham_Cluley , chuyên_gia công_nghệ của Sophos , LegMir . Y là chương_trình tấn_công mới nhất sau một loạt Trojan tương_tự nhắm vào việc khai_thác thông_tin liên_quan đến game . 
+Chúng_tôi phát_hiện ngày_càng nhiều những phần_mềm loại này . 
+Ngoài nguy_cơ gây gián_đoạn , chúng còn ăn_cắp mã khoá đăng_ký , password và dữ_liệu của người tham_gia game , Cluley cho_biết . 
+Sự ganh_đua trong cộng_đồng các gamer trên mạng cũng sẽ dẫn đến sự ra_đời thêm nhiều Trojan tương_tự với mục_đích hỗ_trợ những hành_động kiểu ăn_cắp như vậy . 
+Trong các loại rệp game trước đây có một_số biến_thể của sâu Randex , được thiết_kế để biến máy_tính bị lây_nhiễm thành PC " ma " ( zombie ) , giúp hacker giành thêm điểm khi chơi trò Outwar . 
+Các phiên_bản trước của LegMir cũng tập_trung vào việc ăn_cắp mật_khẩu và những thông_tin đăng_ký của người chơi trò Legends_of_Mir 2 . Sophos khuyến_cáo người dùng máy_tính Windows nên nâng_cấp phần_mềm chống virus và tránh mở những file không rõ nguồn_gốc . 

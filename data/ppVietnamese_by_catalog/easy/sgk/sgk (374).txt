@@ -1,0 +1,4 @@
+Khâu thường 
+Khâu thường là cách khâu để tạo_thành các mũi khâu cách đều nhau ở hai mặt vải . 
+Khi khâu mũi thường có_thể khâu liền nhiều mũi mới rút chỉ một lần . 
+Khâu thường được thực_hiện theo chiều từ phải sang trái và luân_phiên lên kim , xuống kim cách đều nhau theo đường dấu . 

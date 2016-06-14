@@ -1,0 +1,7 @@
+Điện_thoại_di_động cũng có_thể bị tấn_công từ_chối dịch_vụ 
+Trên thực_tế , nhiều mạng di_động đã bị nghẽn khi lượng SMS tăng đột_biến vào những dịp lễ , ngày nghỉ ... 
+Giới hacker , với đội quân zombie hùng_hậu , cũng có_thể khai_thác điểm yếu trong giao_thức nhắn tin để kiểm_soát toàn_bộ hệ_thống . 
+Với một_chút sáng_tạo , kẻ tấn_công sẽ dễ_dàng tạo_dựng cơ_sở_dữ_liệu bao_gồm các số điện_thoại của từng khu_vực cụ_thể , bằng cách sử_dụng danh_bạ công_cộng hoặc tìm_kiếm trên Google . 
+Sau đó , chúng có_thể huy_động hệ_thống máy_tính bị khống_chế để phát đi hàng_loạt tin_nhắn qua những dịch_vụ SMS miễn_phí trên Internet . Do quá_trình tạo cuộc gọi và gửi tin bằng điện_thoại_di_động chỉ chiếm một tỷ_lệ rất nhỏ trong toàn_bộ tần_số radio , lượng SMS quá lớn hoàn_toàn có_thể làm ngập_lụt mạng . 
+Nhiều năm qua , phương_pháp tấn_công từ_chối dịch_vụ DoSđã được hacker khai_thác để " đánh sập " các website , nhưng cho đến nay , nó vẫn chưa được áp_dụng vào mạng viễn_thông di_động . 
+Dù mỗi cuộc spam tin_nhắn thành_công cũng chỉ khiến mạng phải đóng_cửa một thời_gian ngắn , hãng nghiên_cứu toàn_cầu IDC cho rằng các nhà điều_hành vẫn nên chuẩn_bị tinh_thần đối_phó với nguy_cơ DoS ngay từ bây_giờ . 

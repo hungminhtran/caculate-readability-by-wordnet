@@ -1,0 +1,11 @@
+Zotob . B gây lỗi máy_tính nhiều hãng truyền_thông lớn 
+Biến_thể virusZotob mới , được hãng bảo_mật Trend_Micro phát_hiện ngày 15/8 , đã ảnh_hưởng đến hàng_loạt hệ_thống của CNN , ABC_News và The_News_York_Times . 
+Kênh CNN , thay_vì phát chương_trình như thông_lệ , đã phải đưa ra thông_báo rằng những máy_tính cá_nhân dùng hệ_điều_hành Microsoft_Windows_2000 của họ đã bị nhiễm sâu và liên_tục phải khởi_động nhiều lần . 
+Tờ The_News_York_Times cũng khẳng_định họ đang phải đối_mặt với sự ngưng_trệ của hệ_thống . 
+" Chúng_tôi không_thể xác_định rõ nguyên_nhân . 
+Sự_việc diễn_ra đầu ngày hôm_nay và hy_vọng nó không ảnh_hưởng đến quá_trình sản_xuất báo giấy " , Catherine_Mathis , phát_ngôn_viên của báo , hôm_qua cho_biết . 
+Đài ABC_News cũng vừa thông_báo lỗi hệ_thống . 
+" Chúng_tôi không nhận_thấy nhiều biểu_hiện rõ_ràng trong ngày " , phát_ngôn_viên của Microsoft khẳng_định . 
+" Có_lẽ chỉ một số_lượng nhỏ khách_hàng bị ảnh_hưởng " . 
+Sâu_Zotob . B khai_thác lỗ_hổng trong các hệ_điều_hành Windows_98/ME/2000/XP . 
+Sự lây_lan này cho_thấy dù bản vá lỗi của Microsoft đã được phát_hành hơn một tuần , người sử_dụng vẫn hầu_như không để_tâm và chậm_chạp trong việc nâng_cấp . 

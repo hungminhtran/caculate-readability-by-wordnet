@@ -1,0 +1,31 @@
+Zafi . D là virus phổ_biến nhất năm 2005 
+Trong bảng xếp hạng 10 virus nguy_hiểm 12 tháng qua , Netsky . P , sâu khó đánh_bại nhất của năm 2004 đã bị hạ_bệ xuống vị_trí thứ hai , trong khi Sober . Z , dù mới xuất_hiện giữa tháng 11 , đã leo lên hàng thứ 3 . Zafi . D , virus số_một của năm , tròn 1 tuổi vào 14/12 . 
+Cố_vấn bảo_mật Graham_Cluley của Sophos khẳng_định nếu xuất_hiện trước tháng 11 , Sober . Z sẽ nhanh_chóng trở_thành sâu được phát_tán rộng nhất 2005 . Tháng 11 cũng phá kỷ_lục về lượng virus , spyware ... 
+( xét từ khi Sophos thiết_lập hồ_sơ vào giữa năm 1980 ) với 1.940 file chữ_ký bảo_mật được bổ_sung vào thư_viện . 
+Trong khi đó , năm 2005 đón_nhận tới hơn 16.000 virus mới , tăng 48 % so với năm trước . 
+Các tác_giả viết chương_trình nguy_hiểm hiện_nay có nhiều cơ_hội hơn nhờ kết_nối băng_thông rộng . 
+Dù phát_tán thông_qua những chủ_đề về đại_dịch cúm gà , trò lừa 419 , vụ đánh bom London hay giả_danh bản vá lỗi phần_mềm , chúng đều có khả_năng khởi tạo thành_công một chiến_dịch khai_thác lỗ_hổng chỉ trong vài giờ . 
+Chương_trình chứa mã_độc , trong đó có spyware , tăng từ 54,2 % trong tháng 1 lên 66,4 % tại thời_điểm này . 
+Ngoài_ra , 60 % lượng thư rác trên toàn thế_giới được gửi đi qua các hệ_thống máy_tính bị khống_chế ( zombie ) . 
+Trojan đã đánh_bại sâu mạng với tỷ_lệ 2/1 . 
+" Không như virus và sâu , Trojan không_thể tự nhân_bản . 
+Nghĩa_là chúng phải gửi gửi hoặc cài trên website một_cách có chủ_đích . 
+Sự tăng nhanh những ' con ngựa thành Troa ' một lần nữa cho_thấy những băng_nhóm tội_phạm có tổ_chức đang lợi_dụng mạng Internet để trục_lợi " , Cluley nhận_xét . 
+Cluley đánh_giá cao Windows_Service_Pack 2 và khẳng_định đó là chương_trình an_toàn cho người dùng Internet . Ngược lại , máy_tính nối mạng chạy trên hệ_điều_hành Windows_XP không được bảo_vệ chỉ có 6 % cơ_hội tránh được nguy_cơ lây_nhiễm trong một giờ . 
+Hệ_thống Apple hay Linux có tỷ_lệ ảnh_hưởng rất thấp . 
+Điều này không có nghĩa là Mac_OS_X và Linux không chứa virus , nhưng chương_trình nguy_hiểm tấn_công Windows quá nhiều đã lấn_át chúng . 
+Microsoft cũng có nỗi lo_ngại riêng khi chỉ có khoảng 30 % khách_hàng cài phần_mềm diệt virus , nếu có thì cũng không hề được cập_nhật . 
+Nguy_hiểm hơn , nhiều người cho rằng cung_cấp nền_tảng an_toàn là nhiệm_vụ của Microsoft . 35 % doanh_nghiệp đổ lỗi cho hãng phần_mềm này về làn_sóng Zotob hồi tháng 8 . 
+Tuy_nhiên , Cluley khẳng_định việc xây_dựng một hệ_thống hoàn_hảo , không tỳ_vết chỉ là ảo_tưởng . 
+Theo Cluley , Microsoft thực_ra đang hoạt_động rất hiệu_quả , khiến hacker bắt_đầu chùn bước và quay sang tấn_công các ứng_dụng , chương_trình plug-in phổ_biến , như công_cụ Desktop_Searchcủa_Google hay MSN . 10 virus nguy_hiểm nhất năm 2005 ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) : 
+1 . Zafi . D ( 16,7 % )2 . 
+Netsky . P ( 15,7 % )3 . 
+Sober . Z ( 6,0 % )4 . 
+Sober . N ( 4,3 % )5 . 
+Zafi . B ( 4,0 % )6 . 
+Mytob . BE ( 3,9 % )7 . 
+Mytob . AS ( 3,8 % )8 . 
+Netsky . D ( 3,0 % )9 . 
+Mytob . GH ( 1,9 % )10 . 
+Mytob . EP ( 1,8 % ) 
+Các loại khác : 38,9 % 

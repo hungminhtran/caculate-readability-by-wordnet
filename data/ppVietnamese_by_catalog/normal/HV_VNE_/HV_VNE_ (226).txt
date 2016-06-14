@@ -1,0 +1,10 @@
+Lỗi IOS đe_doạ cơ_sở_hạ_tầng Internet 
+Lỗ_hổng nghiêm_trọng trong hệ_điều_hành Internetwork ( IOS ) của Cisco có_thể bị khai_thác để phá_vỡ hay cài mã nguy_hiểm từ xa trên những thiết_bị sử_dụng phần_mềm hệ_thống này . 
+Khai_thác thành_công lỗi trong IOS có_thể giúp tin_tặc nạp lại thiết_bị hoặc chạy mã bất_kỳ " , hãng giải_pháp mạng của Mỹ cảnh_báo . 
+Lặp lại liên_tục quá_trình này sẽ gây ra tấn_công từ_chối dịch_vụ hoặc cho_phép xử_lý mã tuỳ_ý . 
+IOS hoạt_động trên thiết_bị định_tuyến và chuyển_đổi của Cisco , vốn chiếm một tỷ_lệ lớn trong cơ_sở_hạ_tầng mạng Internet . Thông_báo của Cisco đã khiến hãng bảo_mật Symantec phải xếp lỗi này ở mức_độ 2 . 
+Chúng_ta sẽ chứng_kiến nhiều mưu_toan khai_thác khi mà thông_tin về lỗ_hổng IOS được công_bố rộng , Symantec nhận_định . 
+Tuy_nhiên , cả hai đều khẳng_định chưa có vụ tấn_công nào xuất_hiện và Cisco cũng đã nhanh_chóng cung_cấp phần_mềm để khắc_phục vấn_đề . 
+Lỗi chỉ ảnh_hưởng các phiên_bản 12.2ZH , 12.2ZL , 12.3 , 12.3T , 12.4 và 12.4T của IOS , hơn_nữa cũng chỉ xảy_ra nếu Firewall_Authentication_Proxy cho FTP và bộ_phận Telnet ( chương_trình cho_phép người dùng thâm_nhập vàp máy_tính từ xa thông_qua ghép nối TCP / IP ) đang trong quá_trình hoạt_động . 
+Cisco đã trải_qua một mùa hè tương_đối nóng về bảo_mật . 
+Tại hai đại_hội bảo_mật là Diễn_đàn Black_Hat và Hội_nghị Defcon diễn_ra vào tháng 7 ở Las_Vegas ( Mỹ ) , chuyên_gia nghiên_cứu Michael_Lynn đã cảnh_báo về lỗi IOS và nhiều hacker kỳ_cựu đã tham_gia vào cuộc đua khám_phá lỗ hổngở sản_phẩm Cisco . Symantec khuyên người dùng nếu chưa_thể cài phần_mềm vá lỗi cần ngay_lập_tức gỡ bỏ Firewall_Authentication_Proxy và Telnet , hoặc hạn_chế truy_cập vào dịch_vụ mạng và máy_chủ . 

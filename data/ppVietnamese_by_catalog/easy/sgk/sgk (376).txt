@@ -1,0 +1,3 @@
+Khâu đột thưa 
+Khâu đột thưa là cách khâu từng mũi một để tạo_thành các mũi khâu cách đều nhau ở mặt phải của sản_phẩm , ở mặt_trái , mũi khâu sau lấn lên một phần ba mũi khâu trước liền kề . 
+Khâu đột thưa theo chiều từ phải sang trái và được thực_hiện theo quy_tắc lùi 1 mũi , tiến 3 mũi trên đường dấu . 

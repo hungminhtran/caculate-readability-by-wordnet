@@ -1,0 +1,6 @@
+Bản vá lỗi an_ninh dành cho Linux 
+3 nhà cung_cấp Linux chính trên thị_trường thế_giới là Red_Hat , Novell_SuSE và Mandrakesoft đã đồng_loạt đưa ra các bản nâng_cấp dành cho hệ_điều_hành " Chim_cánh_cụt " , nhằm bịt các lỗ_hổng an_ninh được phát_hiện trong thời_gian vừa_qua . 
+Hãng bảo_mật Secunia ( Đan_Mạch ) cho_biết , Red_Hat đưa ra 3 bản , Mandrakesoft 2 bản và Novell_SuSE cung_cấp 1 bản , tất_cả đều nằm trong nỗ_lực ngăn_chặn nguy an_ninh đe_doạ những máy_tính sử_dụng hệ_điều_hành Linux . Trong tháng 12 vừa_qua , một nhà nghiên_cứu về bảo_mật và an_ninh mạng đã phát_hiện ra một lỗi nghiêm_trọng ở chương_trình xử_lý đồ_hoạ của Linux , cho_phép kẻ tấn_công tạo ra ảnh đính kèm những đoạn mã nguy_hiểm . 
+Việc người sử_dụng click vào những bức ảnh này sẽ mở_cửa cho kẻ tấn_công xâm_nhập trái_phép hệ_thống . 
+Trước đó , nhiều lỗ_hổng khác cũng được đề_cập , cho_phép hacker sử_dụng phương_pháp tấn_công từ_chối dịch_vụ ( denial-of-service ) , khai_thác lỗi tràn bộ đệm và sai_sót trong các văn_bản Adobe_Acrobat để len_lỏi vào máy_tính của nạn_nhân . 
+Thời_gian gần đây , những kẻ chuyên viết virus và hacker đã bắt_đầu chú_ý nhiều hơn đến hệ_điều_hành ngày_càng phổ_biến này . 

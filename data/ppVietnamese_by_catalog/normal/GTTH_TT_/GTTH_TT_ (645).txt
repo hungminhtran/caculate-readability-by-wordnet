@@ -1,0 +1,6 @@
+14 tuổi tìm ra lỗi trong Gmail 
+Anthony , một lập_trình_viên 14 tuổi đã phát_hiện ra lỗi có_thể khai_thác vận_hành đoạn mã Javascript khi cậu bé này gởi một dòng mã javascript từ email Yahoo đến một tài_khoản Gmail và thật đáng ngạc_nhiên là khi mở email này ra thì Gmail cũng đồng_thời vận_hành nó . 
+Theo như Anthony cho_biết thì các hacker có_thể lợi_dụng lỗi bảo_mật này để ăn_cắp những tài_khoản Gmail hay làm nguy_hại đến các tài_khoản này . 
+Sau khi thông_tin được gởi lên , Google đã rất nhanh_chóng thử_nghiệm và sửa_chữa ngay lỗi này chỉ trong vòng 24 giờ . 
+Tuy có_thể sửa_chữa nhanh_chóng , nhưng chúng_ta có_thể nghĩ đến việc một nhóm những cracker chuyên bẻ khoá và có khả_năng lập_trình cao kết_hợp với nhau để tấn_công những " gã khổng_lồ " như Google và khai_thác những dịch_vụ email mà các " đại_gia " này cung_cấp thì sẽ nguy_hiểm đến mức nào . 
+Thông_tin về lỗi này có_thể tham_khảo tại blog của Anthony hay phần phản_hồi của Google tại đây . 

@@ -1,0 +1,9 @@
+B . Pitt và A . Jolie tấn_công từ_chối dịch_vụ Microsoft ? 
+Một virus mới đang lợi_dụng tên_tuổi của 2 ngôi_sao màn_bạc Mỹ để tấn_công vào website của hãng phần_mềm khổng_lồ . 
+Loại sâu có tên Ahker-F xuất_hiện trong những file đính kèm dạng .ZIP với tiêu_đề Hãy xem video_clip_sex_của Angelina_Jolie và Brad_Pitt . 
+Một_khi được kích_hoạt , virus sẽ tự sao_chép vào ổ_cứng , tìm cách tắt hết các phần_mềm bảo_mật trên máy_tính và dùng e-mail hoặc các hệ_thống chia_sẻ ngang hàng P2P hoặc kênh chat IRC để phát_tán sang mục_tiêu khác . 
+Không_chỉ tấn_công từ_chối dịch_vụ vào website Windows_Update của Microsoft , Ahker-F còn xử_lý cả địa_chỉ Rohitab . com của một công_ty phần_mềm khác . 
+Tính hiếu_kỳ luôn_luôn kích_thích mọi người mở các nội_dung trên Internet , đặc_biệt là khi những nội_dung đó được quảng_cáo có tính_chất khiêu_dâm , Graham_Cluley , chuyên_gia công_nghệ của hãng bảo_mật Sophos ( Anh ) , nhận_xét . 
+Tin_tặc đã sử_dụng thủ_đoạn lừa_bịp này từ rất lâu và chúng_ta không nên để PC tiếp_tục trở_thành nạn_nhân do sự tò_mò của mình . 
+Virus nói trên là biến_thể thứ 6 của họ sâu Ahker , xuất_xứ từ cùng một tác_giả xưng danh Agent_Hacker . 
+Trong phiên_bản F này , kẻ thiết_kế còn chèn vào một thông_điệp gửi tới các công_ty cung_cấp phần_mềm diệt virus : Các vị không bao_giờ bắt được tôi - Agent_Hacker - Bazzi . 

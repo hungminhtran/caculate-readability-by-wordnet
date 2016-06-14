@@ -1,0 +1,12 @@
+Chương_trình nguy_hiểm Rootkit xuất_hiện trong IM 
+Các chuyên_gia bảo_mật vừa cảnh_báo về một loại sâu mới chưa được đặt tên trong hệ_thống tin_nhắn nhanh ( IM ) . 
+Nó là sự pha_trộn của những phần_mềm không mong_muốn , trong đó có cả Rootkit , công_cụ khai_thác những phần chưa được bảo_vệ trong máy_tính . 
+Khi bạn bấm vào link chứa sâu , một chương_trình chứa mã tấn_công sẽ nhanh_chóng thâm_nhập vào hệ_thống của bạn , Tyle_Wells , Giám_đốc kỹ_thuật của công_ty FaceTime ( Mỹ ) , cho_biết . 
+Đây là lần đầu_tiên chúng_tôi chứng_kiến rootkit hoạt_động như là một gói các ứng_dụng nguy_hiểm được gửi tới máy_tính qua IM . Xu_hướng này quả không dễ_chịu chút nào . 
+Ngoài tệp rootkit lockx . exe , sâu mới còn tung ra một phiên_bản của Sdbot . 
+Trojan này sẽ mở một cổng hậu trên máy_tính bị nhiễm để hacker điều_khiển hệ_thống từ xa . 
+Nó cũng để lại một_vài ứng_dụng spyware và phần_mềm quảng_cáo adware , bao_gồm 180Solutions , Zango , Freepod_Toolbar , MaxSearch , SearchMiracle và Media_Gateway . 
+Tất_cả phần_mềm " không mời mà đến " này sẽ khai_thác toàn_bộ tài_nguyên của hệ_thống , làm chậm máy_tính , vô_hiệu_hoá chương_trình bảo_mật và thay_đổi trang tìm_kiếm trên trình_duyệt của người dùng . 
+Sâu mới chỉ được tìm thấy trong chatroom của hệ_thống tin_nhắn nhanh AOL . 
+Những cuộc tấn_công IM bằng sâu và mã nguy_hiểm đang diễn_ra với mật_độ ngày_càng dày hơn trước đây . 
+Theo nhà cung_cấp bảo_mật IMlogic của Mỹ , số nguy_cơ trong mạng tin_nhắn nhanh và chia_sẻ ngang hàng P2P đã tăng 3.269 % trong quý III/2005 so với cùng kỳ năm_ngoái . 

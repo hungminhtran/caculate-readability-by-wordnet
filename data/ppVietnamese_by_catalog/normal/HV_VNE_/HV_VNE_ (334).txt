@@ -1,0 +1,21 @@
+Năm 2005 báo_hiệu sự suy_tàn của virus máy_tính 
+Hacker năm nay tỏ_ra thờ_ơ với virus nhưng những chương_trình nguy_hiểm khác lại bùng_phát dữ_dội và khiến hệ_thống PC của người sử_dụng dễ bị tấn_công hơn bao_giờ hết . 
+Tội_phạm mạng giờ_đây tăng_cường xây_dựng các phần_mềm gián_điệp , nhằm thu_thập thông_tin cá_nhân để đem ra rao_bán hoặc tự khai_thác về sau . 
+Ngày_trước , những tác_giả viết virus chỉ muốn nổi_danh , họ tấn_công để chứng_minh sức_mạnh kỹ_thuật của mình . 
+Cuộc khai_thác càng lớn , hacker càng được đánh_giá là " giỏi và gây ấn_tượng " . 
+Ngày_nay , đặc_biệt là năm 2005 , không ai còn bỏ công_sức ra chỉ vì tiếng_tăm . 
+Chúng phát_tán chương_trình độc_hại để kiếm tiền và sử_dụng hai phương_pháp ăn_cắp thông_tin cá_nhân phổ_biến là cài phần_mềm dò ký_tự bàn_phím ( key_logger ) hoặc hình_thành mạng máy_tính bị khống_chế bởi Trojan . 
+Xu_hướng này được ghi_nhận ngay trong tháng 1 với Trojan_Downloader . GK đứng đầu trong bảng xếp hạng của hãng bảo_mật Panda . 
+Năm 2005 có hứng_chịu một_vài vụ bùng_nổ sâu lớn cùng đợt xâm_lấn ồ_ạt của Sober hồi đầu và cuối năm . 
+Hình_thức tấn_công cũng bắt_đầu biến_đổi . 
+Dù hầu_hết vẫn phụ_thuộc vào việc lợi_dụng sự mất cảnh_giác để thuyết_phục nạn_nhân mở file đính kèm , một_số hacker đã chuyển sang phương_pháp hướng người sử_dụng tới trang web chứa phần_mềm khai_thác trình_duyệt chưa cập_nhật bản vá lỗi . 
+Không_chỉ hệ_điều_hành Windows , Internet_Explorer cũng bị " dội bom " quá nhiều lần trong năm khiến hãng bảo_mật Đan_Mạch_Secunia đề_nghị loại_bỏ nó và dùng trình_duyệt khác . 
+Nhưng sản_phẩm mã mở Firefox liên_tục gặp lỗi , còn Safari và Opera cũng không hề được " miễn_dịch " . 
+Không_chỉ trình_duyệt , các ứng_dụng tương_thích cũng vô_tình trở_thành kẻ tiếp_tay giúp hacker " đi đường vòng " để né_tránh tường lửa . 
+Với sự gia_tăng tấn_công , các bản vá lỗi được quan_tâm hơn bao_giờ hết nhưng chúng lại ra_mắt rất " từ_tốn " . 
+Một chuyên_gia nghiên_cứu phát_hiện ra lỗ_hổng trong phần_mềm của Oracle đã phải đợi 2 năm để bản nâng_cấp xuất_hiện trước công_chúng . 
+Ngay_cả khi công_ty phát_hành tới 88 miếng vá , người_ta vẫn băn_khoăn về lời hứa đảm_bảo an_ninh . 
+Trong khi đó , mọi bản vá của Microsoft dường_như lại trở_thành " kim_chỉ_nam " của hacker để soạn mã khai_thác mới . 
+Tin_tặc chỉ cần 3 ngày sau khi bản tin tháng 8 ra_mắt để phát_tán Zotob và 24 giờ để làm_việc tương tựtrong tháng 10 . Năm 2005 còn chứng_kiến cuộc xung_đột giữa chuyên_gia bảo_mật với hãng sản_xuất khi một nhân_viên của tập_đoàn ISS ( Mỹ ) bị sa_thải chỉ vì công_khai một lỗ_hổng trong sản_phẩm của Cisco . 
+Cisco cũng cố đóng_cửa những website chứa thông_tin về lỗi này . 
+Đặc_biệt , Microsoft bắt_đầu thay_đổi thái_độ thù_nghịch với hacker khi mời họ xem_xét mã của Internet_Explorer_7 . 

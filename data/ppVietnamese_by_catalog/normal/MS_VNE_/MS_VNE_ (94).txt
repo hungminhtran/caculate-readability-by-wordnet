@@ -1,0 +1,13 @@
+Mua cầu_dao tự_động 
+Cầu_dao tự_động hoạt_động như 1 thiết_bị bảo_vệ để chống quá dòng , quá_tải và ngắt mạch . 
+Có_thể chia cầu_dao làm 2 loại chính : Loại bảo_vệ quá dòng , quá_tải bằng cơ_cấu thanh lưỡng kim và loại chống điện giật , bảo_vệ quá dòng và ngắn mạch có rơle . 
+Loại bảo_vệ quá dòng ngoài cơ_cấu thanh lưỡng kim để bảo_vệ quá dòng còn có rơle điện_từ . 
+Khi có ngắn mạch thì rơle điện từ sẽ hoạt_động tức_thời để cắt dòng_điện . 
+Các loại có cấu_tạo theo cơ_cấu hỗn_hợp này thường được sản_xuất từ châu Âu và Mỹ , Nhật hoạt_động hữu_hiệu hơn và giá_cả cũng thường đắt hơn . 
+Khi mua cần lưu_ý : Dòng_điện định_mức ghi trên CB phải phù_hợp với dòng_điện đang sử_dụng , có_thể chọn dòng_điện định_mức trên CB bằng từ 120 % - 150 % ( ví_dụ sử_dụng thiết_bị khoảng 12A thì có_thể dùng loại CB 15 A ) . 
+Cầu_dao chống điện giật có nhiệm_vụ phát_hiện dòng rò và cắt ngay dòng_điện . 
+Thiết_bị chống dòng rò hoạt_động theo nguyên_lý cân_bằng dòng_điện . 
+Khi có dòng_điện rò thì trong cuộn dây hình_xuyến sẽ có sự mất cân_bằng và sẽ cảm_biến đến 1 rơle điện từ làm nhánh cơ_cấu đóng cắt mạch điện tức_thời . 
+Khi mua loại cầu_dao chống giật , cần lưu_ý có loại cầu_dao chỉ làm nhiệm_vụ phát_hiện dòng rò , nhưng cũng có loại vừa phát_hiện dòng rò vừa bảo_vệ quá_tải . 
+Các loại của châu Âu thông_thường sử_dụng cơ_cấu điện từ nên bền hơn , hiệu_quả hơn , tuy_nhiên khá đắt và thường phải gắn theo hộp điện của hãng chế_tạo . 
+Khi sử_dụng ELCB , phải thường_xuyên thử kiểm_tra ( bấm vào nút test xem cầu_dao có nhảy hay không ) . 

@@ -1,0 +1,18 @@
+OpenOffice 2.0 bản chính_thức đã được tung ra 
+Bộ công_cụ văn_phòng OpenOffice_2.0 có đầy_đủ sức_mạnh và tính_năng có_thể cạnh_tranh thoải_mái với bộ công_cụ văn_phòng nổi_tiếng của Microsoft . Bản_OpenOffice_2.0 đã được phát_triển cách đây 2 năm và dự_định chính_thức tung vào cuối tháng 9-2005 vừa_qua , nhưng vì một_số trục_trặc nhỏ vào phút chót nên OpenOffice_2.0 đã bị trì_hoãn khoảng gần 1 tháng . 
+Hiện_nay OpenOffice_2.0 đã sẵn_sàng sử_dụng cho toàn_thể người dùng Windows , Linux và Solaris . 
+Bản cho người dùng Mac_OS_X sẽ được tung ra trong thời_gian tới . 
+Jonathan_Schwartz , giám_đốc điều_hành của Sun nhận_định : " OpenOffice 2.0 đang trên đường trở_thành bộ công_cụ văn_phòng miễn_phí nổi_tiếng nhất thế_giới từ trước đến nay " . 
+Sun và OpenOffice . org đã thoả_thuận kết_nối liên_thông mã nguồn của OpenOffice với bộ công_cụ văn_phòng mã mở StarOffice cũng rất nổi_tiếng của Sun . 
+Sun và một công_ty mã mở của Đức đã kết_hợp với nhau trong hơn 1 năm qua để phát_triển bộ StarOffice phiên_bản 8.0 và bản chung_cuộc đã được tung ra từ hồi cuối tháng 9 vừa_qua . 
+StarOffice 8.0 trên nguyên_tắc vẫn là bộ công_cụ văn_phòng có tính phí nhưng trong thực_tế thì Sun vẫn tung ra miễn_phí bộ công_cụ này với một_số điều_kiện nhỏ để nhằm hỗ_trợ cho sự phát_triển không ngừng của cộng_đồng mã nguồn mở trên toàn thế_giới . 
+Sun cũng sẽ là nhà phân_phối chính_thức bộ OpenOffice_2.0 bằng cách thiết_lập nhiều trang web tải miễn_phí cho người dùng ở khắp mọi nơi trên thế_giới . 
+Ngoài_ra công_việc này còn nhận được sự hỗ_trợ nhiệt_tình của nhiều đại_công_ty như Novell , Red_Hat , Debian , Propylon và Intel . Trên thực_tế thì bộ OpenOffice_2.0 ra_đời được cũng nhờ vào sự hỗ_trợ nhiệt_tình của đội_ngũ chuyên_gia của các công_ty này từ lúc lập dự_án cho đến thiết_kế , phát_triển , thử_nghiệm … cho đến lúc phân_phối . 
+Ngay từ lúc chưa được ra_đời , OpenOffice_2.0 đã được sự ủng_hộ nhiệt_liệt của rất nhiều quốc_gia . 
+Một_số chính_phủ đã chính_thức tuyên_bố sẽ sử_dụng bộ công_cụ văn_phòng mã mở này để thay_thế cho bộ Microsoft_Office vốn quá đắt_đỏ . 
+Ngoài_ra họ cũng sẽ công_nhận các chuẩn mã mở sẽ là chuẩn thống_nhất cho mọi cơ_quan , công_sở trên toàn_quốc , thay_vì phải phụ_thuộc vào một chuẩn_mực duy_nhất của Microsoft . Cách đây hơn 1 tháng , chính_quyền bang Massachusetts đã tuyên_bố chính_thức từ_bỏ Microsoft_Office để chuyển sang OpenOffice và xem các chuẩn_mực mã mở là chuẩn duy_nhất mà các cơ_quan công_quyền phải sử_dụng . 
+Các định_dạng của bộ OpenOffice_2.0 đều tương_thích hoàn_hảo với các định_dạng ứng_dụng của bộ Microsoft_Office , tức_là dạng tài_liệu của bên này sẽ vẫn hoạt_động tốt khi được xử_lý trên môi_trường ứng_dụng kia . 
+Điểm đặc_biệt ưu_việt của OpenOffice_2.0 là khả_năng tạo ra định_dạng tài_liệu PDF từ bất_kỳ dạng tài_liệu nào có trong OpenOffice_2.0 . 
+Microsoft cũng công_bố rằng bộ Office_12 sắp ra_đời cũng sẽ có tính_năng này . 
+Ngoài_ra OpenOffice_2.0 cũng tương_thích hoàn_hảo với mọi tính_năng XML . Người dùng có_thể vào OpenOffice . org để tải OpenOffice_2.0 về sử_dụng . 
+Thủ_tục tải về hết_sức dễ_dàng , dung_lượng khoảng 78 MB . 

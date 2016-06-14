@@ -1,0 +1,7 @@
+RealPlayer và Helix_Player bị nguy_cơ bị tấn_công cao 
+Hai phần_mềm nghe_nhìn có quan_hệ họ_hàng với nhau nói trên đang ở trong tình_trạng có_thể hứng_chịu những cuộc tấn_công ồ_ạt sau khi một đoạn mã khai_thác lỗi được công_bố trên Internet . Theo hãng bảo_mật Đan_Mạch_Secunia , khiếm_khuyết - có khả_năng ảnh_hưởng những người dùng RealPlayer và Helix_Player trên hệ_điều_hành Linux hoặc UNIX - liên_quan đến một lỗi string định_dạng và có_thể được khai_thác qua các dạng file .rp và .rt , cũng như một_vài định_dạng khác . 
+Kẻ tấn_công có_thể lừa người sử_dụng mở trực_tiếp file chứa mã kích_hoạt hoặc dẫn nạn_nhân tới một website nơi các file của hacker được cài sẵn . 
+Khi đó chúng sẽ tự_động tải và chạy mã tấn_công . 
+Secunia đánh_giá lỗi này thuộc loại rất nguy_hiểm . 
+Các phiên_bản bị ảnh_hưởng là Helix_Player 1 . 0 . 5.757 ( gold ) và RealPlayer_10 . 0 . 5.756 ( gold ) . 
+Helix_Player là một dự_án mã nguồn mở đặt nền_móng cho sự ra_đời của phiên_bản thương_mại RealPlayer sau này . 

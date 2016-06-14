@@ -1,0 +1,6 @@
+Anh đối_phó với nạn Trojan quay số tự_động 0871 mới 
+Những đối_tượng điều_hành các dịch_vụ quay số modem máy_tính khiến người sử_dụng phải chịu những khoản cước_phí không ngờ đang bắt_đầu thay_đổi cách bóc_lột nạn_nhân bằng thủ_đoạn tinh_vi hơn . 
+Thay_vì sử_dụng các số điện_thoại tính cước cao ( premium ) mà thông_thường là khoảng 1,5 bảng / phút để khai_thác người kém cảnh_giác , các đối_tượng lừa_đảo hiện_nay sử_dụng những số điện_thoại quốc_tế để tăng lợi_nhuận đồng_thời tránh bị phát_hiện . 
+Trong những tuần gần đây đã xuất_hiện một_số chương_trình dialler mới , sử_dụng các số 0871 ( số điện_thoại thường dùng cho các dịch_vụ marketing ở Anh ) . 
+Mặc_dù những phần_mềm này chỉ khiến người dùng máy_tính mất khoảng 10 pence / phút , chúng vẫn có_thể gây ra những khoản phí lớn nếu PC kết_nối Internet với thời_gian lâu . 
+Theo Cơ_quan điều_phối viễn_thông Anh ( Ofcom ) , hiện còn sớm để có_thể xác_định mức_độ lan rộng của thủ_đoạn này nhưng trong khoảng 1 tháng qua , họ bắt_đầu nhận được khoảng 5-6 khiếu_nại mỗi tuần về các vấn_đề liên_quan đến phần_mềm lén_lút quay số 0871 . Tập_đoàn viễn_thông Anh BT cũng đã ghi_nhận thủ_đoạn mới và cho_biết nạn phát_tán phần_mềm quay số tự_động , gây thiệt_hại cho hàng chục nghìn người ở nước này , đang thay_đổi phương_thức hoạt_động theo hướng chọn những số có mức phí thấp hơn nhưng khó bị phát_hiện . 

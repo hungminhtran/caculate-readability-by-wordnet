@@ -1,0 +1,8 @@
+Mẫu vẽ có hai hoặc ba vật mẫu ( vẽ màu ) 
+Vị_trí , tỷ_lệ , hình_dáng của lọ , hoa và quả . 
+Màu_sắc và độ đậm nhạt của lọ , hoa và quả . 
+Cách vẽ như đã hướng_dẫn ở các bài đã học . 
+Khi vẽ màu cần lưu_ý : 
+Màu_sắc riêng của từng vật mẫu . 
+Các màu trong bài vẽ cần phải hài_hoà . 
+Có_thể vẽ hoặc xé dán bằng giấy màu . 

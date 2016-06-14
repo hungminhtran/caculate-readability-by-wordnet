@@ -1,0 +1,27 @@
+Virus mạo_danh VnExpress , BKAV ... 
+để phát_tán 
+Hôm_qua , Trung_tâm an_ninh mạng Bách_Khoa ( BKIS ) đã phát_hiện được một_số thư lợi_dụng tên_tuổi của BKAV , Microsoft , VnExpress , Vietnamnet , Nhacso . net , Gmail ... 
+để phát_tán chương_trình tấn_công mới . 
+Sâu có tên W32.Noob . Worm ẩn sau tệp đính kèm có tên file . zip . 
+Virus sẽ sao_chép chính nó vào file %System %\reader-sl . exe , tạo khoá Adobe_Reader_Speed_Launch với nội_dung là reader-sl . exe trong HKLM\ Software\Microsoft\Windows\CurrentVersion\Run và HKLM\ Software\Microsoft\Windows\CurrentVersion\RunServices để virus được kích_hoạt mỗi lần máy_tính khởi_động . 
+Nguy_hiểm hơn , nếu kết_nối thành_công tới IRC server , virus sẽ gửi thông_tin về máy_tính bị nhiễm và nhận lệnh mở cổng hậu cho_phép hacker điều_khiển máy_tính từ xa . 
+Đồng_thời , W32.Noob . Worm tìm địa_chỉ e-mail trong các file có đuôi .xls , .mdb , .doc , .txt ... 
+và lưu lại trong e-mail . log . 
+Trung_tâm BKIS đã nhanh_chóng cập_nhật phiên_bản BKAV_795 và khẳng_định : " Vì lý_do an_toàn , chúng_tôi không bao_giờ gửi file đính kèm trong e-mail tới khách_hàng . 
+Bạn nên cẩn_thận và không chạy trực_tiếp tệp attach trong thư , dù e-mail có_vẻ được gửi từ bạn_bè hay từ một tổ_chức có uy_tín nào đó " . 
+Virus được phát_tán qua các địa_chỉ TinNhanh@vnexpess . net và Thongbao@bkav . com.vn . 
+Ngoài_ra virus còn lợi_dụng một_số trang báo và website nổi_tiếng khác là Vnn . vn , Nhacso . net , Tinhyeu . com , Microsoft và Gmail với những tiêu_đề tương_ứng cho từng địa_chỉ . 
+Nội_dung thư lợi_dụng VnExpress 
+Subject : Chuong trinh xem tin nhanh qua bao dien tu - vnexpress . netFrom : tinnhanh@vnexpess . net Attachment : File.zip 
+File dinh kem trong thu duoi dang nen zip la chuong trinh cho phep cac ban doc tin nhanh tren bao dien tu VnExpress . De_su_dung_duoc_chuong_trinh , cac ban hay giai nen va cap nhan nhung thong tin moi nhat . 
+Xin chan thanh cam on va chuc cac ban thanh cong . 
+Toa soan VnExpress_Co quan chu quan : Bo_Khoa hoc Cong_ngheGiay phep : So 511/GP - BVHTT ngay 25/11/2002Tong bien tap : Thang_Duc_ThangToa soan : 2B - Khu_Ngoai giao doan - Van_Phuc - Ba_Dinh , Hanoi 
+Nội_dung thư mạo_danh BKAV : 
+Subject : Thong bao ve virus moi - BKAV updateFrom : thongbao@bkav . com . vnAttachment : File.zip 
+Chao cac ban 
+He thong quet virus qua mang cua chung toi - BKAV NET phat hien may cua ban da bi nhiem virus worm32.netcodo . 
+Virus nay hoat dong nhu mot chuong trinh keylogger , danh cap toan bo thong tin ca nhan trong may cua ban va gui ra ngoai mang . 
+File dinh kem duoi dang zip la file dung de diet nhanh virusnay , ban hay giai nen va quet qua mot lan , chuong trinh se thong bao cho ban neu thuc su co virus worm32.netcodo trong may . 
+De biet them thong tin chi tiet ve virus nay , ban co the vao : http : / / www . bkav . com . vn / frmView . aspx ?Noidung=netcodob.htm 
+Trung tam An_ninh mang - Dai hoc Bach khoa Ha_NoiDia chi : Tang 5 - Nha_Hitech - 1A Dai_Co_Viet - Ha_NoiDien thoai : 04-8683853 Email : bkav@bkav . com.vn 
+Tham_khảo nội_dung những e-mail khác tại đây . 

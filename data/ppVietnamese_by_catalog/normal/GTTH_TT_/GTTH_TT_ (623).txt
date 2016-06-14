@@ -1,0 +1,8 @@
+Chương_trình đào_tạo Oracle_Database_10G đầu_tiên tại VN 
+Khoá_học 4 tháng , gồm 2 cấp_độ OCA và OCP ( Oracle_Database_10G chưa đào_tạo cấp_độ OCM ) . 
+Cung_cấp cho người học đầy_đủ kiến_thức về cài_đặt , tạo và quản_lý Oracle_Database_10G , quản_lý tài_nguyên người dùng và bảo_mật trong cơ_sở_dữ_liệu ; cách ứng_dụng các công_cụ chuyên_dụng trong quản_lý và tối_ưu_hoá việc xử_lý của cơ_sở_dữ_liệu , … 
+Học xong OCA , học_viên có khả_năng quản_trị Oracle_Database_10G ở mức_độ cơ_bản . 
+Tiếp_tục học lên OCP , người học sẽ được trang_bị đầy_đủ kiến_thức đảm_bảo quản_trị tốt một hệ_thống Oracle_Database_10G của công_ty . 
+Học_viên có_thể đăng_ký thi lấy chứng_chỉ quốc_tế OCA , OCP về Oracle_Database_10G của Oracle ngay tại Trung_tâm khảo_thí quốc_tế VUE . Oracle_Database 10g là hệ_thống cơ_sở_dữ_liệu đầu_tiên được thiết_kế nhằm tăng sức_mạnh lưu_trữ và xử_lý dữ_liệu dựa trên công_nghệ tính_toán mạng_lưới ( Grid_Computing ) . 
+Ưu_điểm là , thông_tin luôn_luôn sẳn sàng , tính bảo_mật cao và dễ_dàng nâng_cấp với nền_tảng công_nghệ là Grid computing . 
+Hệ_thống có khả_năng tự quản_lý , tự_động phát_hiện và hiệu_chỉnh các lỗi không nghiêm_trọng , giúp giảm chi_phí và tăng hiệu_quả kinh_doanh . 

@@ -1,0 +1,14 @@
+Vẽ tranh đề_tài tự chọn là vẽ về những đề_tài em yêu_thích . 
+Có_thể chọn một trong số những nội_dung sau đây để vẽ tranh : 
+Học_tập 
+Lao_động sản_xuất 
+Vui_chơi , lễ_hội 
+Nhà_trường 
+Chân_dung ông_bà , cha_mẹ , thầy_giáo , cô_giáo , bạn_bè , ... 
+Tĩnh_vật 
+Phong_cảnh ( danh_lam_thắng_cảnh , phong_cảnh quê_hương , ... ) 
+Ước_mơ của em ... 
+Cách vẽ tranh như đã hướng_dẫn ở các bài đã học . 
+Chọn và vẽ các hình_ảnh sao cho sinh_động và phù_hợp với nội_dung đề_tài . 
+Sắp_xếp các hình mảng có chính , có phụ . 
+Vẽ màu tươi_sáng , có đậm nhạt thay_đổi . 

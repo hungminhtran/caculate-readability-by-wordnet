@@ -1,0 +1,10 @@
+Trojan tấn_công ứng_dụng chống virus trên điện_thoại 
+Tin_tặc lại phát_tán một chương_trình nhắm vào các loại điện_thoại thông_minh dùng hệ_điều_hành Symbian . 
+Trojan mang tên Drever . C có khả_năng loại_bỏ bất_cứ ứng_dụng bảo_mật nào mà nó tìm thấy . 
+Sản_phẩm diệt virus trên điện_thoại của các công_ty F-Secure , Kaspersky và Simworks dùng cho thiết_bị chạy Symbian đều là mục_tiêu của Trojan này . 
+F-Secure cho_biết Drever . C giả_dạng là một bản nâng_cấp an_ninh và tìm cách làm tê_liệt công_cụ khởi_động và ứng_dụng F-Secure_Mobile_Anti-Virus . 
+Tuy_nhiên , hãng bảo_mật Phần_Lan khẳng_định cách tấn_công này không gây ra thiệt_hại gì vì phần_mềm nói trên có khả_năng phong_toả mọi mưu_toan chỉnh_sửa file . 
+Mã của Drever . C có chứa một thông_điệp gửi tới F-Secure , trong đó hacker tuyên_bố nếu F-Secure ngừng thiết_kế phần_mềm chống virus thì chúng sẽ không thiết_kế những chương_trình tấn_công ứng_dụng của hãng này nữa . 
+Tin_tặc còn cho_biết mục_tiêu tiếp_theo của chúng sẽ là sản_phẩm an_ninh của hãng Simworks . 
+Giống như tất_cả những dạng phần_mềm tấn_công điện_thoại_di_động từng được ghi_nhận đến nay , Drever . C là loại hiếm và chỉ nguy_hiểm đối_với những_ai tải nội_dung từ những nguồn không rõ_ràng . 
+Việc virus tìm cách vô_hiệu_hoá công_cụ an_ninh trên máy_tính là chuyện rất phổ_biến trên máy_tính nhưng Drever . C là một trong số_ít trường_hợp một Trojan thực_hiện điều tương_tự đối_với điện_thoại_di_động . 

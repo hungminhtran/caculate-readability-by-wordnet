@@ -1,0 +1,9 @@
+Lỗi kết_nối Bluetooth cho_phép tấn_công DoS 
+Khiếm_khuyết này được công_bố trên mạng tin an_ninh Bugtraq bởi một chuyên_gia tư_vấn bảo_mật có tên Hugo_Vázquez_Caramés và chi_tiết cũng đã được chuyển đến cơ_quan quản_lý chuẩn kết_nối không dây tầm ngắn Bluetooth . 
+Lỗ_hổng này cho_phép thực_hiện một dạng tấn_công từ_chối dịch_vụ đơn_giản với một công_cụ L2ping_Linux , Caramés cho_biết . 
+Do bản_chất ping ( thăm_dò để tìm đối_tượng kết_nối ) trong giao_thức Bluetooth - trong đó đòi_hỏi phải có kết_nối được thiết_lập - và số_lượng kết_nối hạn_chế mà chuẩn không dây này có_thể quản_lý , chỉ cần một đợt lệnh ping đơn_giản với công_cụ L2ping cũng có_thể cản_trở Bluetooth trên nhiều thiết_bị . 
+Khi đó , thiết_bị sẽ không_thể xác_định các máy khác và ngược lại . 
+Việc tấn_công được thực_hiện bằng cách làm lụt thiết_bị bằng các lệnh ping , chiếm_dụng tất_cả khả_năng thu_nhận yêu_cầu ( request ) . 
+Thiết_bị mục_tiêu sau đó sẽ ngừng cố_gắng thực_hiện kết_nối và có_thể phải khởi_động lại để hoạt_động bình_thường . 
+Nokia cũng đã phát_hiện vấn_đề này và phát_hành phần_mềm bảo_vệ người sử_dụng . 
+Những sản_phẩm của hãng điện_thoại Phần_Lan có nguy_cơ bị ảnh_hưởng bao_gồm model 6310 , 6310i , 6650 , 8910 , 8910i và các bộ điện_thoại ôtô Nokia_610 , Nokia_810 . 

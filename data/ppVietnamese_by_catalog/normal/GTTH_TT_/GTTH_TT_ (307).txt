@@ -1,0 +1,20 @@
+Trojan , hiểm_hoạ an_ninh tài_chính 
+Các Trojan ăn_cắp tài_khoản đang hoạt_động rất dữ_dội . 
+Phần_mềm này sẽ ẩn mình trên máy_tính của bạn ngay sau khi bạn mở một file đính kèm trong e-mail hoặc viếng_thăm một website có mã_độc . 
+Thế nhưng , thay_vì để được " thừa_nhận " bởi các chế_độ kiểm_soát và chứng_thực ngày_càng gắt_gao , các tội_phạm công_nghệ đang có xu_hướng thay_đổi chiến_lược hoạt_động của mình . 
+Ông Alex_Shipp , chuyên_gia " lão_làng " về công_nghệ chống virus của MessageLabs , phát_biểu tại buổi thảo_luận ở hội_nghị RSA 2006 ( 16-2 ) : " Chúng_tôi nhận_thấy một xu_hướng dịch_chuyển từ việc ăn_cắp tài_khoản và mật_mã của bạn . 
+Các loại Trojan mới sẽ đợi cho đến khi nạn_nhân , tức_là bạn , đã đăng_nhập hoàn_toàn vào tài_khoản ngân_hàng của mình , sau đó chuyển tiền ra ngoài . 
+Chính vì thế , tất_cả các biện_pháp chứng_thực , những tiểu thuật nào là mật_mã hình_ảnh , sinh trắc học không còn là vấn_đề lớn đối_với họ nữa . 
+Những kẻ xấu chỉ việc đợi lúc bạn hoàn_tất việc đăng_nhập là đã có_thể tấn_công " . 
+Loại_Trojan mới này đang trên đà phát_triển dữ_dội , hiện đang đứng ở vị_trí thứ ba trong danh_sách những mối nguy_hiểm thường_trực của MessageLabs . Đứng đầu trong danh_sách này là điều_khiển_từ_xa bằng các mã_độc , biến một máy_tính hoặc một mạng máy_tính thành các Zombie_PC ( các máy_tính bị kiểm_soát và điều_khiển_từ_xa bởi các hacker , trở_thành trung_tâm phát_tán thư rác , quảng_cáo hoặc để tấn_công các máy_tính khác ) . 
+Đứng vị_trí thứ hai chính là các trò lừa_đảo lấy tài_khoản tài_chính của người dùng , thường gọi là phising scams , như nặc_danh website ngân_hàng , người_thân của bạn ... 
+Hạn_chế của loại Trojan mới này là chỉ hoạt_động chuyên_biệt với tài_khoản của một ngân_hàng nhất_định . 
+Tuy_nhiên , danh_sách ngân_hàng hiện ngày_càng nhiều hơn . 
+Các loại Trojan trong nhóm này thường lây_nhiễm vào máy qua con đường email , với các liên_kết nếu nhìn sơ qua thì có_vẻ vô_hại , ví_dụ một thiệp online , thậm_chí một lời quảng_cáo mang ý_nghĩa từ_thiện . 
+Tuy_nhiên , nếu bạn có lỡ tay " sờ vào " nó , ngay_lập_tức , một chương_trình mã_độc đã âm_thầm cài vào máy_tính và không hề hoạt_động cho đến khi bạn truy_xuất vào ngân_hàng . 
+Sự phát_triển của các hình_thái tấn_công là một thách_thức rất lớn đối_với khách_hàng , ngay_cả với các chuyên_gia bảo_mật như Jeanette_Jarvis của Boeing . 
+Ông cho_biết , kể từ năm 2002 , Boeing đã chứng_kiến sự tăng_trưởng 110 lần lượng mã_độc mà họ chặn lại tại cổng kết_nối vào mạng của họ . 
+Ông Javis cho_biết : " Ngay khi chúng_tôi vừa có một chiến_lược chống lại , họ đã có một kế_hoạch và phương_thức tấn_công mới " . 
+Trong quá_khứ , các hacker và nhà viết virus chủ_yếu vì mục_đích là danh_tiếng hoặc là sự tai_tiếng , thì ngày_nay , mục_đích tài_chính xếp hàng_đầu . 
+Những kẻ tội_phạm chuyên_nghiệp cũng nhận_thấy rằng , có_lẽ tấn_công trên mạng sẽ an_toàn hơn là ăn_cướp nhà_băng với việc vượt_qua những bức tường thép với súng_ống vũ_khí . 
+Ông David_Perry , giám_đốc toàn_cầu về giáo_dục của hãng Trend_Micro cho rằng , nền công_nghiệp phải hướng tới việc tìm một giải_pháp ngăn_chặn hiểm_hoạ " suy_giảm lòng tin vào Internet " của khách_hàng , nếu không Internet sẽ không còn mấy ý_nghĩa đối_với nền thương_mại điện_tử hiện_hành . 

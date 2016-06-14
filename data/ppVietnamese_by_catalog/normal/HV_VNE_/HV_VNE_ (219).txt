@@ -1,0 +1,24 @@
+Cảnh_giác với những kẻ môi_giới thông_tin online 
+Nhìn vào hoá_đơn thanh_toán hàng tháng , bạn sẽ thống_kê được những số điện_thoại nào đã gọi cho mình . 
+Tuy_nhiên , có_thể một ai đó cũng đang truy_cập mạng và trả tiền để mua thông_tin tương_tự về bạn . 
+Sau thư rácvàlừa đảo trực tuyếnăn trộm thông_tin thẻ tín_dụng , nhiều tổ_chức bảo_mật lại đang tiếp_tục cảnh_báo một nguy_cơ đáng báo_động mới về những kẻ " môi_giới thông_tin " ( info_broker ) và những trang web kinh_doanh những dữ_liệu cá_nhân của bất_cứ ai . 
+Ví_dụ , với 110 USD , trang LocateCell . com sẽ bí_mật cung_cấp cho cô vợ hay ghen thông_tin liên_quan đến những dịch_vụ điện_thoại_di_động mà chồng mình sử_dụng . 
+Thêm một khoản chi_phí phụ nữa , công_ty này còn tiết_lộ cả danh_tính và địa_chỉ những số điện_thoại đáng ngờ anh ta đã gọi tới . 
+Tất_cả đều " đảm_bảo chính_xác " và có_thể đáp_ứng nhanh_chóng chỉ chưa đầy 1 giờ sau khi nhận được yêu_cầu . 
+Những site khác như BestPeopleSearch . com còn đi xa hơn thế . 
+Khách_hàng có_thể " đào xới " tất_cả các loại dữ_liệu cá_nhân từ dịch_vụ điện_thoại , lịch_trình công_việc đến tiền_án tiền_sự , nhà_ở , địa_chỉ e-mail , thậm_chí cả biển số xe ... 
+với mức thanh_toán từ 37 - 250 USD . 
+Luật_sư trong một vụ ly_dị có_thể bí_mật mua thông_tin với giá 150 - 250 USD nếu cần kiểm_tra xem chồng của thân_chủ có liên_hệ với cô X nào đó hay không . 
+Những website này viện cớ rằng kiểu thông_tin như thế không hề dính_líu đến những vụ lừa_đảo tài_chính hoặc ăn_cắp thông_tin nhận_dạng như thẻ tín_dụng hay số anh sinh xã_hội ... 
+Tuy_vậy , hành_động này không_chỉ xâm_phạm nghiêm_trọng đến tự_do cá_nhân mà_còn vô_tình tiếp_tay cho những mưu_đồ đen_tối khác , đặc_biệt là gián_điệp công_nghiệp . 
+" Nếu bạn là Giám_đốc điều_hành của Google , hoá_đơn điện_thoại của bạn sẽ đáng_giá ngàn vàng " , Chris_Hoofnagle , cố_vấn cao_cấp của trung_tâm thông_tin cá_nhân điện_tử EPIC ( Mỹ ) , nói . 
+" Và chỉ cần một_vài dữ_liệu về số chứng_minh_thư , số điện_thoại là đã có_thể truy ra được nhiều số tài_khoản và hồ_sơ tài_chính khác " . 
+Hoofnagle cũng đang tìm_hiểu bằng cách nào mà những trang web môi_giới có được thông_tin kiểu này : " Họ nói rằng họ thu_thập dữ_liệu hợp_pháp , như là một dạng ' lục_lọi thùng_rác ' , nhưng thực_tế , chẳng có công_ty nào lại để ai đó nắm trong tay hồ_sơ cuộc gọi của khách_hàng chỉ trong 4 giờ bằng cách chui vào thùng_rác điện_tử cả " . 
+" Có_thể chúng có chân trong trong công_ty , hoặc sử_dụng thủ_thuật pretexting " , Rob_Douglas , một cựu_thanh_tra Mỹ , cho_biết . 
+Pretexting là một mánh_khoé đơn_giản đã được cả thanh_tra và giới tội_phạm tận_dụng để khiến các công_ty chịu " nhả " thông_tin cá_nhân . 
+Chỉ cần trang_bị số thẻ an sinh và số điện_thoại , kẻ lừa_đảo có_thể gọi đến đường_dây nóng , vờ như là một thuê_bao cần kiểm_tra tài_khoản và thường các dịch_vụ chăm_sóc khách_hàng vẫn cung_cấp thông_tin trực_tiếp qua điện_thoại . 
+Trong khi luật_pháp bắt_đầu mạnh_tay với lừa_đảo trực_tuyến thì lại có quá ít những quy_định bảo_vệ dạng thông_tin như hồ_sơ điện_thoại . 
+Và những kẻ đầu_cơ , môi_giới online bắt_đầu lợi_dụng kẽ hở này để làm lợi cho bản_thân . 
+Joe_Farren , phát_ngôn_viên của Hiệp_hội công_nghiệp viễn_thông tại Washington D . C . ( Mỹ ) , cho_biết họ hiểu rõ về pretexting và nguy_cơ tiềm_tàng mà những dịch_vụ kinh_doanh trái_phép này mang lại nhưng rất khó để chấm_dứt tình_trạng đó . 
+" Bạn nên thực_hiện 4 bước để bảo_vệ thông_tin của mình : gọi điện và đề_nghị cài mật_khẩu cho tài_khoản , yêu_cầu không sử_dụng hoá_đơn chi_tiết , tắt chế_độ truy_cập online và luôn đảm_bảo thông_tin không được cung_cấp cho bất_cứ ai ngoài bạn " , Farren nhắc_nhở . 
+Bên cạnh đó , khách_hàng cũng không nên đặt số PIN hay mật_khẩu bảo_vệ quá dễ đoán . 

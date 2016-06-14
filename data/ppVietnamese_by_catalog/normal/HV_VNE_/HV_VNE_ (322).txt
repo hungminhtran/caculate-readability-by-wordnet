@@ -1,0 +1,12 @@
+Mã tấn_công website MobiFone đang bị phát_tán trên mạng 
+Dù nhà cung_cấp dịch_vụ viễn_thông lớn thứ hai tại Việt_Nam khẳng_định rằng lỗi bảo_mật trên website của họ đã được vá lại , thế_giới ngầm trên Internet vẫn truyền nhau đoạn mã có_thể lợi_dụng lỗ_hổng tại www . mobifone . com . vn để tuỳ_ý chỉnh_sửa nội_dung trên đó . 
+VnExpress đã tìm được một đường link giao_diện của MobiFone hiện ra ở chế_độ yêu_cầu khách_hàng đăng_nhập thông_tin để khôi_phục password . 
+Tuy_nhiên , thay_vì thông_báo rằng " Số máy 090 ... 
+và ngày sinh 01/01/1970 không tương_thích " nếu thông_tin của khách_hàng nhập không đúng , thì dòng chữ này đã được thay bằng " Số máy 0 VAI VUI NE MOBILE Bao mat cao nhi anh mobile và ngày_sinh - 1/1/-1 không tương_thích " . 
+Một góc giao_diện website của MobiFone có phần dữ_liệu ( chữ màu đỏ ) bị thay_đổi . 
+Hình phóng to phần dữ_liệu đã bị hacker thay_đổi trên site của MobiFone . Để tìm_hiểu thêm , lúc 15h40 hôm_nay , VnExpress đã thử thay_đổi thông_tin trên đường link nhận được . 
+Kết_quả là nội_dung trên site cũng được thay_đổi theo ý_muốn . 
+Nửa giờ sau đó , lỗi này đã không còn trên site của MobiFone . Tuy_nhiên , cũng có_thể thấy phần_nào về tình_trạng bảo_mật tại địa_chỉ này . 
+Những kẻ thiếu thiện_chí có_thể sẽ không_chỉ đơn_thuần là " dạo chơi " qua đây và để lại vài thông_tin nhắn_nhủ như vậy . 
+Mới_đây , đại_diện của doanh_nghiệp viễn_thông này khẳng_định hệ_thống của MobiFone có độ an_toàn và bảo_mật tốt nhất hiện_nay . 
+Tuy_nhiên , Mạng an_toàn thông_tin VSEC thì kiên_quyết bảo_vệ quan_điểm cho rằng MobiFone nên bình_tĩnh phân_tích tình_hình , tiến_hành các biện_pháp cải_tiến cũng như tăng_cường theo_dõi hoạt_động trên hệ_thống , đề_phòng khả_năng bị lộ , mất cơ_sở_dữ_liệu vì quyền_lợi và sự riêng_tư của khách_hàng . 

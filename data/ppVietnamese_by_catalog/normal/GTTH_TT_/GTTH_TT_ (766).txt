@@ -1,0 +1,16 @@
+Tự_tạo album flash để chia_sẻ cho mọi người 
+CoffeeCup_Flash_Photo_Gallery sẽ giúp bạn tạo ra một album ảnh dạng flash rất uyển_chuyển mà không cần bạn biết tý gì về flash . 
+Khi tạo xong chương_trình còn có công_cụ hỗ_trợ bạn upload lên website cho mọi người cùng thưởng_thức . 
+Sau khi cài_đặt , để tạo một album mới , trong cửa_sổ chính , bạn nhấn nút Create / Edit_Album . 
+Cửa_sổ Photo_Albums xuất_hiện . 
+Bạn nhấn Add_Album để tạo album mới . 
+Sau đó là bước đưa hình vào album : nhấn Add_Images , chọn Add_Images nếu bạn muốn đưa từng hình vào album hay chọn Add_a_Folder nếu muốn đưa vào tất_cả các hình trong một thư_mục . 
+Trong cửa_sổ Photo_Albums , ở thẻ Settings , bạn nhập tiêu_đề album tại mục Album_Title , nhập ghi_chú tại mục Album_Description . 
+Nhấn_Back to Gallery để quay về cửa_sổ chính . 
+Trong cửa_sổ này , trong thẻ Gallery_Settings bạn có_thể thay_đổi một_số tuỳ chọn cho album của mình như bề rộng , bề cao , có hiển_thị đường viền hay không , có chơi nhạc nền hay không … 
+Bạn có_thể nhấn nút Preview trên thanh công_cụ để xem qua diện_mạo của album mình vừa tạo xong . 
+Nếu ưng_ý thì nhấn nút Save , chọn nơi lưu lại album . 
+Kế đến nhấn nút Upload_Now và làm theo hướng_dẫn để đưa album này lên website . 
+Thật đơn_giản phải không nào ! 
+CoffeeCup_Flash_Photo_Gallery là phần_mềm thương_mại của hãng CoffeeCup_Software . 
+Bạn có_thể tải bản dùng thử tại http : / / www . coffeecup . com / photo-gallery hay tìm mua trên các đĩa CD phần_mềm tổng_hợp , hiện có bán ngoài thị_trường . 

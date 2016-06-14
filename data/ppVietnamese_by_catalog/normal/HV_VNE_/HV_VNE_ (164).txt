@@ -1,0 +1,7 @@
+Nguy_cơ tấn_công DoS không_chỉ ở Windows_XP 
+Lỗ_hổng bảo_mật tạo cơ_hội cho tin_tặc phá sập máy_tính Windows từ xa mà Microsoft đã cảnh_báo tuần trước không_những ảnh_hưởng đến XP mà là hầu_hết các phiên_bản hệ_điều_hành khác . 
+Windows_2000 , Windows_XP và Windows_Server_2003 đều " dính " phải lỗi trong giao_thức điều_khiển máy_tính từ xa ( Remote_Desktop_Protocol - RDP ) , tạo điều_kiện cho tin_tặc dễ_dàng thực_hiện tấn_công từ_chối dịch_vụ . 
+Microsoft vẫn đang xây_dựng bản vá lỗi và khẳng_định hãng chưa nhận được thông_báo về trường_hợp máy_tính bị khai_thác nào từ phía khách_hàng . 
+Tuy_nhiên , các chuyên_gia tại viện nghiên_cứu SANS ( Mỹ ) đã nhận_thấy sự gia_tăng trong các hoạt_động rà_soát cổng mạng sử_dụng RDP . 
+Đây có_thể chính là dấu_hiệu cho_thấy hacker đang cố dò_tìm mục_tiêu . 
+Cho đến khi công_bố bản sửa lỗi , Microsoft khuyên khách_hàng nên chặn cổng TCP 3389 bằng tường lửa , gỡ bỏ dịch_vụ Terminal_Services , Remote_Desktop và kết_nối mạng riêng ảo ( VPN ) nếu không cần_thiết . 

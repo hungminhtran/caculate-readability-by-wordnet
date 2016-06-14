@@ -1,0 +1,13 @@
+Trojan giả_danh thông_báo đình_chỉ tài_khoản e-mail 
+Hai chương_trình tấn_công mới đang lây_lan rất nhanh qua nhiều hệ_thống mạng trên toàn thế_giới . 
+Hãng MessageLabs ( Mỹ ) khẳng_định đã chặn tới 54.000 phiên_bản của chương_trình này bắt_đầu từ 18 giờ ngày 6/7 . 
+" Hacker dùng những tiêu_đề e-mail quen_thuộc , đã từng được sử_dụng trước đây " , Alex_Shipp , chuyên_gia virus của MessageLabs , cho_biết . 
+" Tôi phát_hiện những chương_trình này ở mọi nơi " . 
+E-mail , bao_gồm chương_trình Trojan_Downloader . abc và Downloader . xz , giả_dạng những thông_báo từ nhà quản_trị mạng . 
+Nội_dung trong thư yêu_cầu người nhận mở một file đính kèm để ngăn việc tài_khoản thư_điện_tử bị đình_chỉ hoạt_động : " Tài_khoản e-mail của bạn đã bị kẻ khác sử_dụng để gửi đi hàng_loạt thư rác trong suốt tuần qua . 
+Nếu bạn có_thể dành ra 5 - 10 phút mở tài_liệu đính kèm , chương_trình sẽ hỗ_trợ bạn tránh gặp rắc_rối với dịch_vụ trực_tuyến . 
+Nếu bạn bỏ_qua yêu_cầu của chúng_tôi , rất tiếc tài_khoản của bạn sẽ bị ngừng hoạt_động . 
+Kính thư , nhóm quản_trị mạng " . 
+MessageLabs khẳng_định nội_dung thông_điệp này sẽ khiến mọi người rất dễ bị lừa . 
+Và khi mở chúng ra , một phần_mềm mở cổng hậu sẽ nhanh_chóng được cài vào máy_tính , dọn đường cho hacker xâm_nhập . 
+MessageLabs đánh_giá sự nguy_hiểm của Trojan này ở mức_độ cao . 

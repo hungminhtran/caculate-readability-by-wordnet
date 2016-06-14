@@ -1,0 +1,14 @@
+Thông_tin dạng văn_bản 
+Sách_giáo_khoa , sách truyện , bài báo và cả những tấm bia cổ , ... 
+chứa_đựng thông_tin dạng văn_bản ( chữ , số ) . 
+Ví_dụ , tấm bảng ở Cổng trời Quản_Bạ thuộc tỉnh Hà_Giang ghi thông_tin dạng văn_bản . 
+Thông_tin dạng âm_thanh 
+Tiếng chuông , tiếng trống trường báo cho em biết giờ học , giờ ra chơi bắt_đầu hoặc kết_thúc . 
+Tiếng còi xe_cứu_thương , cứu_hoả cho chúng_ta biết có việc khẩn_cấp . 
+Tiếng em_bé khóc cho_biết em_bé đói bụng hoặc đòi bế , ... 
+Chúng_ta nghe các buổi phát_thanh , trò_chuyện với nhau để nhận và trao_đổi thông_tin . 
+Loài vật cũng có âm_thanh riêng để gọi bầy , báo nguy hoặc biểu_lộ sự sung_sướng . 
+Đó là những thông_tin dạng âm_thanh . 
+Thông_tin dạng hình_ảnh 
+Những bức ảnh , tranh vẽ trong sách_giáo_khoa , trên các tờ báo , ... 
+cho em hiểu thêm nội_dung của bài_học , bài báo , ... 

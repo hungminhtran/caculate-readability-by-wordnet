@@ -1,0 +1,8 @@
+Oracle sửa lỗi trong ... 
+bản vá lỗi 
+Hãng phần_mềm cơ_sở_dữ_liệu này vừa tung ra hai bản nâng_cấp để sửa những khiếm_khuyết trong bản vá lỗ_hổng ra_mắt gần đây . 
+Nói cách khác , đây là " miếng vá cho bản vá cũ " . 
+Một lỗ_hổng nghiêm_trọng đã xuất_hiện trong MySQL , hệ_thống quản_lý cơ_sở_dữ_liệu mã mở phổ_biến , cho_phép kẻ tấn_công kiểm_soát hệ_thống . 
+Oracle tuần trước tuyên_bố đã nhận_dạng lỗi này và công_bố miếng vá , đồng_thời sửa luôn một_số lỗi nhỏ tạo cơ hôi cho hacker phá_vỡ hệ_thống . 
+Một bản vá khác liên_quan đến khiếm_khuyết trong chương_trình nâng_cấp Critical_Patch_Update tháng 4 , vá 70 lỗi trong cơ_sở_dữ_liệu và server ứng_dụng . 
+Oracle đã đưa ra giải_pháp cho vấn_đề này trong Critical_Patch_Update tháng 7 , tuy_nhiên vẫn gặp trục_trặc với Oracle_Database 10 . 1 . 0.3 , 10 . 1 . 0.4 và Oracle_Enterprise_Manager . Tuy_nhiên , Oracle vẫn chưa_thể đưa ra giải_pháp cho6 lỗ_hổng nghiêm_trọng mà hãng bảo_mật Đức Red_Database_Security đã khuyến_cáo từ hai năm trước . 

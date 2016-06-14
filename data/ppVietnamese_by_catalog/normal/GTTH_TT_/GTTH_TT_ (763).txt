@@ -1,0 +1,22 @@
+Sử_dụng phím tắt trên ĐTDĐ : Mạng_MobiFone - 090 
+1 . Hộp_thư thoại : 
+Kích_hoạt : thuê_bao vùng 1 ( miền Bắc ) , vùng 3 ( miền Nam ) bấm : 9,4,1 OK , với thuê_bao vùng 2 ( miền Trung ) bấm : 9,8,1 OK . 
+Tiếp_theo , người sử_dụng cần nhập mật_mã cho hộp_thư gồm bốn chữ_số rồi bấm phím # , nhập lại mật_mã một lần nữa và kết_thúc bằng phím # để xác_nhận . 
+Nếu muốn thoát khỏi hộp_thư , bấm phím kết_thúc . 
+Cách cài_đặt dịch_vụ chuyển_tiếp cuộc gọi vào hộp_thư thoại : chuyển tất_cả các cuộc gọi đến : 21 XXX#OK ; huỷ dịch_vụ : ##21#OK . 
+Chuyển các cuộc gọi đến khi không trả_lời : 61 XXX#OK ; huỷ dịch_vụ : ##61#OK . 
+Chuyển các cuộc gọi đến khi máy bận : 67 XXX#OK ; huỷ dịch_vụ : ##67#OK . 
+Chuyển các cuộc gọi đến khi máy tắt : 62 XXX#OK ; huỷ dịch_vụ : ##62#OK . 
+Lưu_ý : XXX là số chuyển_tiếp cuộc gọi vào hộp_thư thoại , tương_ứng số này ở miền Bắc , miền Trung là 940 , miền Nam là 980 . Cách ghi lời chào cho hộp_thư thoại : hệ_thống đã có sẵn lời chào cho thuê_bao sử_dụng dịch_vụ . 
+Nếu bạn muốn có lời chào riêng của mình , bạn có_thể ghi lời chào hoặc ghi tên của bạn ( bằng giọng nói ) cho hộp_thư . 
+Để cài_đặt phần này , người sử_dụng cần gọi vào hộp_thư thoại theo quy_ước : thuê_bao vùng I , III : bấm 9,4,1 OK , thuê_bao vùng II : bấm 9,8,1 OK . 
+Tiếp_theo bấm phím 3 ( chọn thông_tin cá_nhân ) , phím 1 ( quản_lý hộp_thư ) , phím 1 ( chọn lời chào ) , phím 1 ( ghi lời chào ) , phím # ( bắt_đầu ghi lời chào ) , phím # lần nữa ( kết_thúc ) và bấm phím # để sử_dụng lời chào này cho hộp_thư . 
+2 . Dịch_vụ giữ cuộc gọi : với dịch_vụ này , người sử_dụng có_thể thiết_lập hai cuộc gọi cùng một lúc và đảm_bảo thông_tin được tuyệt_đối giữ bí_mật . 
+Cách sử_dụng : cài_đặt : 43 11# OK ; huỷ_bỏ dịch_vụ : #43 11#YES . 
+Kiểm_tra trạng_thái có hoặc không có dịch_vụ trên máy : #43#YES . 
+Với dịch_vụ này , khi đang nói_chuyện với người thứ nhất có tín_hiệu báo có một cuộc gọi đến , muốn nói_chuyện với người thứ hai bấm OK . 
+Để quay lại nói_chuyện với cuộc gọi đầu_tiên , bấm tiếp phím OK . 
+3 . Chuyển cuộc gọi : dịch_vụ này được áp_dụng khi bạn muốn chuyển cuộc gọi đến một_số máy khác vì lý_do nào đó . 
+Để kiểm_tra tài_khoản còn_lại : bấm : 101#OK thì hệ_thống sẽ thông_báo số tiền hiện có trong tài_khoản và thời_gian sử_dụng . 
+Tuỳ vào chủng_loại máy di_động mà phím chọn có_thể là YES , OK hoặc SEND . 
+Số giải_đáp của tổng_đài MobiFone hiện_nay là 18001090 , tuy_nhiên tổng_đài thường_xuyên báo bận . 

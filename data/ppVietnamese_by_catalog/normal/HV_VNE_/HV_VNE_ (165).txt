@@ -1,0 +1,13 @@
+Phần_mềm tấn_công website phát_tán spam 
+Một hãng bảo_mật tại Mỹ đã tuyên_chiến với thư rác bằng hệ_thống đăng_ký " Do-Not-Intrude " ( Cấm xâm_phạm ) , nhằm mục_đích khiến những kẻ chuyên phát_tán thư rác khó_lòng hoạt_động trơn_tru . 
+" Nếu ai đó spam hộp_thư của bạn , bạn có quyền phàn_nàn về việc đó " , Eran_Reshef , Giám_đốc điều_hành công_ty hãng bảo_mật Blue_Security tại California ( Mỹ ) , giải_thích . 
+" Nếu họ gửi một thư rác , bạn sẽ đáp_trả lại một lần . 
+Nếu họ gửi 1.000 spam , bạn cũng sẽ phàn_nàn đến họ 1.000 lần " . 
+Người dùng có_thể tải miễn_phí chương_trình máy khách Blue_Frog và đăng_nhập qua hệ_thống Do-Not-Intrude . Sau khi cài_đặt phần_mềm , khách_hàng có_thể đăng_ký 3 địa_chỉ e-mail để đối_phó với spam . 
+Blue_Security sẽ phân_tích thông_điệp nhận được từ tài_khoản người dùng , sau đó lần theo kết_nối hoặc file đính kèm bên trong thư để dò ra site gốc , nơi tiếp_thị cho một sản_phẩm hay dịch_vụ nào đó . 
+Tuy_vậy , hãng sẽ chấp_nhận những mẫu quảng_cáo có kèm hệ_thống " Remove_from_e-mail_list " , nghĩa_là người dùng có_thể xoá địa_chỉ của mình trong danh_sách spam của dịch_vụ nhất_định . 
+Nếu không , một thông_điệp sẽ tự_động chuyển đến trang web đó với nội_dung : " I kindly ask that you cease sending me or other registered users spam " ( Tôi rất cảm_ơn nếu quý công_ty ngừng việc gửi thư rác đến địa_chỉ e-mail của tôi cũng như của người khác ) . 
+Reshef cho_biết ý_tưởng này là để trừng_phạt thích_đáng hành_động của những kẻ spam . 
+Phương_thức " ăn_miếng_trả_miếng " sẽ làm ngập_lụt , thậm_chí có_thể phá sập trang web quảng_cáo . 
+Hành_động của Blue_Security không trái pháp_luật , vì người sử_dụng có quyền phản_ánh về những dịch_vụ không mong_muốn . 
+Nhưng kết_quả mang lại có_vẻ khá gần với kiểu tấn_công từ_chối dịch_vụ , trong đó hàng_loạt máy_tính cùng đồng_thời truy_cập vào một web server với mục_đích làm quá_tải để kéo sập website . 

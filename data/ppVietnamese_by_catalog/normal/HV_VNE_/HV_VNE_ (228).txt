@@ -1,0 +1,25 @@
+Khôi_phục 96 % ký_tự nhờ ghi_âm tiếng đánh_máy 
+Nguy_cơ bảo_mật mới mà các nhà khoa_học máy_tính tại trường đại_học California_Berkeley ( UC_Berkeley ) khám_phá cũng " đủ để một_số người tránh xa bàn_phím và quay trở_lại với giấy và bút " . 
+Các chuyên_gia đã ghi_âm tiếng gõ bàn_phím trong 10 phút , sau đó đưa đoạn âm_thanh này vào một máy_tính và sử_dụng một thuật_toán giải_mã . 
+Họ đã phục_hồi tới 96 % nội_dung từ mật_khẩu cho đến những tin_nhắn bí_mật cho người yêu 
+" Đây là một dạng công_cụ gián_điệp dựa vào nguồn âm_thanh và cần được các chuyên_gia bảo_mật xếp vào hàng báo_động đỏ " , Doug_Tygar , nhà khoa_học tại UC_Berkeley , khuyến_cáo . 
+" Nếu chúng_tôi có khả_năng thực_hiện điều này thì nhiều kẻ với mưu_đồ đen_tối khác cũng sẽ làm được như thế " . 
+Nguyên_nhân khiến thủ_thuật này khả_thi là vì mỗi lệnh gõ ( keystroke ) tạo ra một âm_thanh tương_đối đặc_trưng . 
+Trung_bình mỗi người gõ khoảng 300 ký_tự / phút , đủ để máy_tính tách âm_thanh của các keystroke và phân_loại ký_tự dựa trên nét đặc_trưng của hệ_thống chữ_cái tiếng Anh . 
+Ví_dụ , chữ " th " sẽ xuất_hiện thường_xuyên hơn " tj " , và từ " yet " phổ_biến hơn nhiều so với " yrg " . 
+" Sử_dụng nguyên_lý này , máy_tính có_thể phân_loại âm_thanh khi mỗi phím được nhấn xuống và xây_dựng quá_trình phỏng_đoán bước_đầu với độ_chính_xác 60 % ký_tự và 20 % từ " , Li_Zhuang , Trưởng nhóm nghiên_cứu , cho_biết . 
+" Sau đó chúng_tôi sử_dụng chương_trình sửa lỗi chính_tả và ngữ_pháp để sàng_lọc lại kết_quả , tăng độ_chính_xác về ký_tự lên 70 % và 50 % về từ_ngữ " . 
+Không dừng ở đó , việc phát đi phát lại đoạn ghi_âm sẽ " luyện " cho máy_tính nâng_cao độ chuẩn_xác . 
+Trong thí_nghiệm của UC_Berkeley , 3 lần tua lại đủ để khôi_phục 88 % từ và 96 % ký_tự . 
+Càng về sau , hệ_thống khôi_phục nội_dung nhanh hơn , kể_cả những thông_tin như mật_khẩu và không thuộc tiếng Anh . 
+Chỉ sau 20 lần thử , họ có_thể nhận_dạng 90 % mật_khẩu 5 ký_tự , 77 % 8 ký_tự và 69 % password 10 ký_tự . 
+Tuy_nhiên , hệ_thống khó phân_biệt phím Shift , Control , Backspace , Caps_Lock hoặc khi sử_dụng chuột . 
+Nghiên_cứu dựa trên kết_quả trước đó của Dmitri_Asonov và Rakesh_Agrawal . 
+Hai chuyên_gia của hãng IBM đã khôi_phục 80 % nội_dung nhờ " đào_tạo " máy_tính làm_quen với tiếng gõ phím của một người đánh_máy duy_nhất trên cùng một bàn_phím . 
+Một đoạn thông_tin mà các nhà khoa_học UC Berkeley khôi_phục được : 
+Bản_gốc ( từ gạch chân là do người đánh_máy gõ sai ) : 
+the big money fight has drawn the_support_of_dozens_of_companies_in_the_entertainment_industry_as_well_as_attorneys_gnnerals_in_states , who fear the file sharing software will encourage illegal activity , stem the growth_of_small_artists_and_lead_to_lost_jobs_and_dimisheh_sales_tax_revenue . 
+Bản khôi_phục trước khi sử_dụng công_cụ sửa lỗi chính_tả ( từ gạch chân là từ nhận_dạng sai ) : 
+the big money fight has drawn the shoporo od dosens_of_companies_in_the_entertainment_industry_as_well_as_attorneys_gnnerals_on_states , who fear the fild shading softwate will encourage illegal acyivitt , srem the grosth_of_small_arrists_and_lead_to_lost_cobs_and_dimished_sales_tas_revenue . 
+Bản khôi_phục sau khi sử_dụng công_cụ sửa lỗi chính_tả : 
+the big money fight has drawn the_support_of_dozens_of_companies_in_the_entertainment_industry_as_well_as_attorneys_generals_in_states , who fear the film sharing software will encourage illegal activity , stem the growth_of_small_artists_and_lead_to_lost_jobs_and_finished_sales_tax_revenue . 

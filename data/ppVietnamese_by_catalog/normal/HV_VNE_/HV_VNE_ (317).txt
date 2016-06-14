@@ -1,0 +1,13 @@
+Mã sử_dụng trong virus Sober bị phá 
+Hãng bảo_mật Phần_Lan F-Secure tuyên_bố đã crack thành_công một đoạn mã trong Sober . 
+Điều đó cho_phép họ có_thể chặn lại âm_mưu tự_động cập_nhật phiên_bản mới của sâu này . 
+Một trong những đặc_điểm khiến Sober trở_nên nguy_hiểm là khả_năng tự tải biến_thể mới và tốc_độ lây_lan nhanh_chóng trên toàn thế_giới . 
+Công_ty diệt virus iDefense ( Mỹ ) cho rằng phiên_bản xuất_hiện tháng 11 sẽ tự kích_hoạt chính nó vào ngày 5/1 nhằm tuyên_truyền cho phe cực_hữu . 
+" Mẫu virus này đã ' chơi khó ' các chuyên_gia bởi nó sử_dụng thuật_toán bí_mật , tạo URL giả ngẫu_nhiên liên_tục thay_đổi theo ngày . 
+Những URL này nằm trên hệ_thống máy_chủ miễn_phí hoạt_động tại Đức và Áo " , Mikko_Hypponen , Giám_đốc F-Secure , nói . 
+" Tác_giả virus có_thể tính_toán trước URL cho bất_cứ ngày nào . 
+Khi muốn chạy một đoạn mã nhất_định trên máy bị nhiễm , hắn chỉ cần đăng_ký URL đúng , cài chương_trình và tấn_công " . 
+F-Secure khẳng_định họ đã bẻ khoá được thuật_toán và có_thể xác_định những URL thực mà biến_thể sâu Sober cố tải về . 
+Điều này sẽ giúp các nhà cung_cấp dịch_vụ và quản_trị mạng chặn lại URL trên những site chứa mã_độc . 
+Sober hoạt_động trên 15 site , với tên_miền đơn_thuần chỉ là các chữ_cái . 
+Hypponen cho_biết F-Secure đã tìm thấy thuật_toán lần đầu_tiên từ tháng 5/2005 nhưng không công_bố rộng_rãi nhằm tiếp_tục theo_dõi tác_giả viết virus này . 

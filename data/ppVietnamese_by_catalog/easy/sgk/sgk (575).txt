@@ -1,0 +1,23 @@
+Trang_trí đầu báo_tường 
+Báo_tường là tờ báo của một cơ_quan hoặc đơn_vị bộ_đội , nhà_máy , trường_học , ... 
+nhằm phản_ánh những hoạt_động của đơn_vị đó và thường được làm trên giấy khổ lớn , treo trên tường để mọi người cùng xem , cùng đọc . 
+Báo_tường thường ra vào những dịp lễ , Tết của dân_tộc hoặc các đợt thi_đua để động_viên phong_trào chung của đơn_vị . 
+Đầu báo_tường gồm có : 
+Tên tờ báo ( như Thi_đua , Nhớ nguồn , Học_tập , ... ) thường được viết bằng chữ to , rõ_ràng , có_thể là chữ in hoa hoặc chữ thường , chữ trang_trí . 
+Tên đơn_vị tổ_chức làm_báo . 
+Dòng chữ thể_hiện chủ_đề của tờ báo ( kỉ_niệm ngày 26 - 3 , chào_mừng ngày 8 - 3 , ... ) . 
+Hình_ảnh minh_hoạ cho chủ_đề của tờ báo hoặc phản_ánh đặc_trưng hoạt_động của đơn_vị . 
+Có_thể vẽ , cát , xé dán , ... 
+hoặc dùng ảnh . 
+Màu_sắc ở đầu báo_tường cần tươi_sáng để tạo sự lôi_cuốn hấp_dẫn . 
+Đặt tên tờ báo . 
+Tìm kiểu chữ , hình minh_hoạ phù_hợp với nội_dung . 
+Sắp_xếp các mảng hình : 
+Mảng chủ tên báo to và ở trung_tâm của đầu báo . 
+Có_thể sắp_xếp dòng chữ vào các hình mảng khác nhau ( thẳng hay cong ) , có_thể sắp_xếp thành một hoặc hai dòng ( H . 2a , b ) . 
+Các mảng chữ khác như : số báo , tên đơn_vị , nội_dung chủ_đề ( chào_mừng ngày Quốc_khánh 2 - 9 , chào_mừng ngày 20 - 11 , ... ) nên nhỏ hơn tên tờ báo . 
+Hình minh_hoạ : biểu_tượng , cờ , hoa , hoạ_tiết trang_trí , đường diềm , ... 
+cần phối_hợp với các mảng chữ cho cân_đối , hài_hoà . 
+Phác kiểu chữ và hình minh_hoạ . 
+Kẻ chữ , vẽ hình ( H . 2c ) . 
+Vẽ màu tươi_sáng , phù_hợp với nội_dung tờ báo ( H . 2d ) . 

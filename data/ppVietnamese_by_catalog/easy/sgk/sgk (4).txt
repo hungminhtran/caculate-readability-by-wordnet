@@ -1,0 +1,4 @@
+Lắp rô-bốt 
+Rô-bốt được lắp theo các bước : 
+Lắp các bộ_phận của rô-bốt ( đầu , thân , tay , chân ) . 
+Lắp_ráp các bộ_phận với nhau để được rô-bốt hoàn_chỉnh . 

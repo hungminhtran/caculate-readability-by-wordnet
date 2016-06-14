@@ -1,0 +1,10 @@
+Phần_mềm an_ninh McAfee liên_tục xuất_hiện lỗi 
+Lại thêm một lổ hổng nữa vừa được công_bố , nâng tổng_số lỗi bảo_mật trong chương_trình chống virus McAfee được phát_hiện lên con_số 9 chỉ trong vòng 2 tháng qua . 
+Sai_sót kỹ_thuật mới xảy_ra trong thư_viện của phần_mềm này , nơi chứa những đoạn mã dùng chung giữa các hãng chống virus máy_tính trên thế_giới , trong đó có module GroupShield dùng để quét máy_chủ e-mail và VirusScan dùng cho PC . 
+Kẻ tấn_công sẽ khai_thác lỗi này bằng cách sử_dụng bất_kỳ một phương_thức trao_đổi thông_tin nào trên mạng , được phần_mềm của McAfee kiểm_soát , như e-mail , trình_duyệt và các file chia_sẻ trong Windows . 
+Khi công_cụ chống virus này muốn mở một file nghi_ngờ để kiểm_tra , nó sẽ vô_tình giúp thực_thi file đó thay_vì cô_lập chúng . 
+Loại file qua_mặt được chương_trình quét virus này có định_dạng là LHA . Đây là sai_sót thứ 4 của phần_mềm do McAfee sản_xuất được hệ_thống an_ninh Internet ( ISS ) , tổ_chức chuyên cung_cấp giải_pháp phần_cứng và phần_mềm tăng_cường khả_năng bảo_mật , phát_hiện . 
+Những lỗi tương_tự cũng xuất_hiện trong thư_viện của các sản_phẩm chống virus do Symantec , F-Secure , Trend_Micro và Computer_Associates phát_triển . 
+Tuy_nhiên , chỉ những người dùng không cập_nhật sản_phẩm thông_qua hệ_thống thuê_bao hoặc chưa tải file nhận_dạng virus ( DAT ) mới nhất từ công_ty này mới có nguy_cơ bị tấn_công . 
+Một bản cập_nhật đã được cung_cấp cho các thuê_bao từ tháng 11 vừa_qua . 
+Với những khách_hàng không phải là thuê_bao , tốt nhất là hãy update phiên_bản mới hơn để đảm_bảo an_toàn , Marc_Solomon , Giám_đốc sản_phẩm của McAfee , đưa ra lời khuyến_cáo . 

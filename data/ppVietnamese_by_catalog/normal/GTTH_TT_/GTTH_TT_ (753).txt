@@ -1,0 +1,8 @@
+Sun tung ra Java_Studio_Creator 2.0 
+Java_Studio_Creator 2 được thiết_kế với nhiều cải_tiến độc_đáo , có nhiều công_cụ tạo ứng_dụng Java cho web , bao_gồm một thư_viện đầy_đủ mọi thành_phần thiết_kế tương_thích hoàn_hảo với các cấu_trúc và công_nghệ ngôn_ngữ_lập_trình mới nhất như Asynchronous_JavaScript và XML ( AJAX ) . 
+Java_Studio_Creator 2 cũng đồng tương_thích với các công_nghệ lập_trình Netbaeans_IDE 4.1 ; JavaServer_Faces_Technology thường được sử_dụng trong các ứng_dụng AJAX tương_thích với chuẩn JSR-168 , được cho là hiện_đại nhất hiện_nay . 
+Nó tích_hợp hoàn_hảo giữa các cổng Java và cổng Web , có khả_năng gia_tăng kiểm_soát các ứng_dụng đồ_hoạ , CSS trong các công_cụ tạo trang HTML . 
+Sun đã tung ra phiên_bản đầu_tiên của Java_Studio_Creator trong năm 2004 . Sun có_lẽ cũng đã " bắt_chước " một_số chiêu_thức thiết_kế công_cụ sao cho thật dễ sử_dụng từ Visual_Studio . Net của Microsoft . 
+Phiên_bản đời thứ hai của Java_Studio_Creator này cũng đã chứng_tỏ được sức_sống cực_kỳ mạnh_mẽ của ngôn_ngữ Java trên web và nó cũng là công_cụ dùng để thu_hút thêm nhiều chuyên_gia lập_trình chuyển sang sử_dụng Java làm đối_trọng với hệ ngôn_ngữ Visual của Microsoft . Công_cụ này hiện đang được phân_phối miễn_phí cho tất_cả mọi lập_trình_viên trên toàn_cầu đã đăng_ký tại mạng Sun_Developer_Network . 
+Người dùng quan_tâm có_thể vào đây để tìm_hiểu và tải về sử_dụng . 
+Hiện Java_Studio_Creator 2.0 chạy hoàn_hảo trên Windows , Mac_OS_X_and , Linux và Solaris 

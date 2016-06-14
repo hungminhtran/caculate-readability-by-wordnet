@@ -1,0 +1,10 @@
+Sẽ không có bản nâng_cấp an_ninh Microsoft tháng 9 
+Ngày 8/9 , hãng phần_mềm khổng_lồ Mỹ tuyên_bố sẽ chỉ cung_cấp 01 bản sửa lỗi cho lỗ_hổng nghiêm_trọng trong hệ_điều_hành Windows . 
+Tuy_nhiên , hôm_qua họ lại khẳng_định không phát_hành bất_cứ bản update nào cho tháng này nữa . 
+Microsoft từ_chối giải_thích chi_tiết lý_do họ huỷ_bỏ kế_hoạch vào phút chót . 
+" Quyết_định liên_quan đến chất_lượng của bản vá . 
+Chúng_tôi phát_hiện ra một trục_trặc và các kỹ_sư bảo_mật sẽ cần thêm thời_gian thử_nghiệm , do đó giải_pháp tốt nhất là không đưa ra bản tin an_ninh tháng 9 " , một phát_ngôn_viên của Microsoft cho_biết . 
+Đây là lần thứ hai tập_đoàn này thay_đổi kế_hoạch về việc cung_cấp bản vá . 
+Microsoft dự_định phát_hành bản cập_nhật cho lỗi Windows_Plug-and-Play . 
+Hãng đã sửa lỗ_hổng trong bản tin bảo_mật tháng 8 , nhưng chỉsau vài ngày , hàng_loạt vụ tấn_công với nhiều biến_thể virus khác nhau của Zotob , Esbot , Rbot ... 
+đã xảy_ra liên_quan đến lỗi này , ảnh_hưởng khoảng 250.000 máy_tính chủ_yếu chạy trên Windows_2000 . 

@@ -1,0 +1,12 @@
+Anh bắt hacker , Mỹ bỏ_tù tác_giả virus 
+Cảnh_sát Anh vừa tóm_cổ một người đàn_ông 28 tuổi ở London vì mưu_toan xâm_nhập vào website mà Uỷ_ban cứu nạn nước này mở để quyên_góp từ_thiện cho nạn_nhân thiên_tai vừa_qua ở châu Á . 
+Tại Mỹ , kẻ thiết_kế một phiên_bản virus Blaster nổi_tiếng năm 2003 lĩnh án 18 tháng tù . 
+Vụ xâm_nhập của hacker người Anh diễn_ra vào đêm_ngày 31/12 và đã bị Tập_đoàn viễn_thông Anh_quốc_BT ( đơn_vị điều_hành hệ_thống thanh_toán bảo_mật của website nói trên ) phát_hiện và ngăn_chặn . 
+Chúng_tôi đặt ưu_tiên bảo_vệ an_ninh rất cao cho website của Uỷ_ban cứu nạn , phát_ngôn_viên cảnh_sát London nói . 
+Hệ_thống bảo_mật ở đây đã cho_phép xác_định và phong_toả nhanh_chóng âm_mưu phá_hoại . 
+Kẻ bị bắt_giữ ( không công_bố tên ) được tại_ngoại sau khi bị thẩm_vấn và đóng tiền bảo_lãnh . 
+Nhân_vật này sẽ phải trở_lại với cơ_quan pháp_luật vào tháng tới . 
+Hơn 1 năm sau khi tung lên Internet phiên_bản Blaster gây trục_trặc cho hàng chục nghìn máy_tính trên thế_giới , cuối tuần qua , Jeffrey_Lee_Parson , 19 tuổi , đã bị toà_án ở Seattle ( Mỹ ) tuyên_án một năm rưỡi tù_giam , phải lao_động công_ích , trả tiền bồi_thường và sau khi mãn án sẽ bị quản_thúc 3 năm . 
+Parson là kẻ tạo ra biến_thể B của sâu Blaster , khởi_đầu cho lây_nhiễm vào 50 máy_tính , sau đó dùng những PC bị khống_chế này thực_hiện một cuộc tấn_công lớn hơn vào nhiều máy_tính . 
+Các luật_sư của Microsoft - nạn_nhân của Blaster vì virus khai_thác một lỗ_hổng trong Windows , hệ_điều_hành đang có_mặt trên 90 % máy_tính toàn_cầu - ước_tính giá_trị thiệt_hại do Blaster . B gây ra có_thể lên đến hơn 1 triệu USD . 
+Phán_quyết về số tiền mà Parson phải bồi_thường cho Microsoft và các nạn_nhân bị ảnh_hưởng khác sẽ được toà quyết_định vào tháng tới . 

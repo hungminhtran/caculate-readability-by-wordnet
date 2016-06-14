@@ -1,0 +1,12 @@
+Microsoft tìm_kiếm các trang phần_mềm gián_điệp 
+Hãng phần_mềm khổng_lồ này đang xây_dựng một hệ_thống máy khách Windows_XP ảo với mục_đích tìm ra các trang web chuyên lợi_dụng những lỗ_hổng chưa được công_bố để khống_chế người dùng . 
+Mỗi khi khám_phá lỗi trong Windows , thay_vì thông_báo tới bộ_phận bảo_mật của Microsoft , nhiều nhóm tội_phạm Internet lại lợi_dụng chúng để phát_tán phần_mềm gián_điệp . 
+Mang tên " Con khỉ vàng " ( Honey_Monkeys ) , máy ảo của Microssoft chạy phiên_bản chính_thức của Windows_XP với phần_mềm quản_lý có_thể xâm_nhập vào những khu_vực mức_độ nguy_hiểm cao của trang web để dò_tìm manh_mối . 
+Microsoft đã cài vô_số bản vá lỗi ở nhiều mức_độ khác nhau vào 6 máy_tính ảo Windows_XP. Những máy này chạy trên một ứng_dụng mang tên Strider , cho_phép thay_đổi cấu_hình để bảo_vệ máy_tính , tránh bị cài chương_trình nguy_hiểm . 
+Máy_tính ảo cũng có_thể kiểm_tra 7.000 site mỗi ngày , thâm_nhập vào cả triệu đường link để đảm_bảo các trang web đó có nhiễm spyware hay không . 
+Phương_pháp này đã được nhiều hãng chống phần_mềm gián_điệp áp_dụng . 
+Điển_hình là hãng phần_mềm Webroot đã sử_dụng máy_tính để rà_soát các trang web trên Internet , tìm_kiếm những địa_chỉ tự_động cài spyware vào máy_tính . 
+Trong khi Microsoft tìm các trang khai_thác những lỗi chưa công_bố , Webroot lại thu_thập các loại spyware chưa được biết đến . 
+Đây là một phần trong kế_hoạch kiểm_soát ảnh_hưởng của các lỗi tiềm_tàng trong Windows_XP. Trước đó , Microsoft đã đặt cơ_chế đánh_giá mức_độ bảo_mật cho hệ_điều_hành của khách_hàng trong phiên_bản nâng_cấp bảo_mật tháng 8 - Service_Pack 2 . 
+Tháng này , Microsoft cũng tuyên_bố cung_cấp bản hướng_dẫn tạm_thời để đối_phó với các nguy_cơ an_ninh cho người dùng . 
+Thêm vào đó , hãng đang bắt_tay với nhiều nhà nghiên_cứu để hạn_chế tình_trạng rò_rỉ thông_tin về các lỗ_hổng trước khi nhóm sản_xuất của hãng có cơ_hội tiến_hành vá lỗi . 

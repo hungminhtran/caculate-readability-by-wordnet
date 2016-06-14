@@ -1,0 +1,14 @@
+Trojan mới lây qua tin_nhắn MMS trên điện_thoại_di_động 
+Các công_ty phần_mềm bảo_mật cho_biết một chương_trình tấn_công mới xuất_hiện , có khả_năng gây ra mối đe_doạ rộng hơn so với sâu Cabir . Trojan này có tên Co_mmWarrior , được mô_tả giống như virus , nhắm vào các thiết_bị Nokia_Series 60 chạy hệ_điều_hành Symbian . 
+Các hãng F-Secure , SimWorks_International và một_số nhà cung_cấp giải_pháp an_ninh khác cho_biết Co_mmWarrior phát_tán bằng cách gửi thông_điệp qua kết_nối không dây Bluetooth và tiện_ích nhắn tin đa_phương_tiện MMS . Đây là đặc_điểm mới so với virus Cabir , vốn chỉ lây_lan qua Bluetooth . 
+Co mmWarrior tìm cách xâm_nhập phần_mềm danh_bạ điện_thoại trong máy Nokia . 
+Mỗi lần , nó lựa_chọn bất_kỳ một thư_mục và gửi bản_sao tới_số điện_thoại đó . 
+Trojan này có_thể được gửi tới bất_cứ một máy_tính hay thiết_bị không dây nào chạy hệ_điều_hành Symbian . 
+Giống như với Cabir , người sử_dụng có_thể chấp_nhận hoặc từ_chối download Co_mmWarrior . Chính vì thế , Trojan sử_dụng trên 20 nội_dung thông_điệp khác nhau để lừa người nhận tin_nhắn mở file chứa nó , trong đó có những thông_báo giả_dạng là bản nâng_cấp phần_mềm hợp_pháp của hãng Symbian hoặc giả_vờ là ảnh khiêu_dâm . 
+MMS ( Multimedia_Message_Service ) , công_nghệ di_động gửi tin_nhắn text có kèm hình_ảnh , âm_thanh , được tích_hợp trong thiết_bị của nhiều hãng như Ericsson , Motorola& Tuy_nhiên , Co_mmWarrior lại chỉ tấn_công điện_thoại Nokia_Series 60 . Do MMS cho_phép gửi tin_nhắn toàn_cầu nên virus có_thể lợi_dụng để vươn xa hơn nhiều so với sóng Bluetooth , đặc_biệt là có_thể dễ_dàng forward thông_điệp . 
+Tốc_độ lây_lan nhanh nhất của sâu Cabir cùng lắm cũng chỉ bằng máy_bay , tức_là do người mang điện_thoại bị nhiễm lên phương_tiện này đi qua nhiều địa_điểm , Mikko_Hypponen , Giám_đốc nghiên_cứu của F-Secure , cho_biết . 
+Tuy_nhiên , virus MMS mạnh hơn nhiều và có_thể sánh gần bằng với những sâu e-mail như Bagle , Mydoom , Sobig& Một chương_trình tấn_công lây qua MMS có_thể đi khắp thế_giới chỉ trong vài giờ . 
+Hypponen cho_biết đến nay đã phát_hiện 2 biến_thể của Co_mmWarrior , bên trong file chứa Trojan có ẩn một_số đoạn text bằng tiếng Nga , bằng_chứng cho_thấy có_thể Trojan bắt_nguồn từ đây . 
+Một cá_nhân cũng đã tự_xưng là tác_giả của Co_mmWarrior và cho download chương_trình này qua website riêng nhưng không cung_cấp thêm thông_tin gì . 
+Vì chưa có nhiều thông_báo bị lây_nhiễm của người sử_dụng , các chuyên_gia cho rằng Co_mmWarrior chưa_thể lây_lan vào số_lượng lớn thiết_bị . 
+Một phần lý_do nữa là Co_mmWarrior còn gửi file tới cả các đường_dây điện_thoại cố_định vì nó không_thể phân_biệt giữa số điện_thoại_di_động và cố_định . 

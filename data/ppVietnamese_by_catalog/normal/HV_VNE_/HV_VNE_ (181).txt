@@ -1,0 +1,11 @@
+Công_cụ tìm_kiếm lỗi trong định_dạng file 
+Công_ty bảo_mật iDefense ( Mỹ ) hôm_qua đã cung_cấp chương_trình tự_động khám khá những lỗ_hổng trong định_dạng phổ_biến như ảnh JPEG và GIF . 
+Công_cụ - mang tên SpikeFile , NotSpikeFile cho Linux và FileFuzz đối_với Windows - có_thể tự_động phân_tích từng bit của file và mở tệp trên bất_cứ ứng_dụng nào . 
+Nếu phát_hiện ra một lỗ_hổng trong quá_trình mở file , chương_trình sẽ ghi_nhận lỗi đó để các nhà nghiên cứ có_thể kiểm_tra và xác_định lỗi . 
+" Định_dạng file là một con đường quá dễ cho tin_tặc khai_thác lỗ_hổng " , Michael_Sutton , Trưởng phòng nghiên_cứu của iDefense , khẳng_định hãng đã tìm thấy một_số lỗi kiểu này . 
+" Chúng_tôi sẽ không tập_trung vào việc tìm lỗi , mà chủ_yếu phát_triển công_cụ " . 
+Phần_mềm này có nguy_cơ sẽ bị lợi_dụng cho những mục_đích nguy_hiểm , khi tin_tặc có_thể dùng để tìm lỗ_hổng và tấn_công máy_tính , nhưng iDefense hy_vọng chúng sẽ góp_phần hỗ_trợ bảo_vệ người dùng . 
+Gần đây , nhiều lỗi xảy_ra trong quá_trình ứng_dụng và quản_lý định_dạng file có mức_độ khá nghiêm_trọng . 
+Máy_tính có_thể bị đột_nhập đơn_giản chỉ bằng việc nạn_nhân vô_tình xem một hình_ảnh chứa mã nguy_hiểm trên website hay qua e-mail . 
+Đầu tháng này , Microsoft cũng đã công_bố miếng vá cho 3 lỗ_hổng bảo_mật nghiêm_trọng đầu tháng , trong đó có 2 lỗi liên_quan đến định_dạng file . 
+Người dùng có_thể tải công_cụ mã mở này tại website của iDefense . 

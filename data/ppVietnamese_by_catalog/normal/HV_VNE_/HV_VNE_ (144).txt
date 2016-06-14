@@ -1,0 +1,14 @@
+Virus_Kedebe . F lợi_dụng cái chết của Giáo_hoàng 
+Hôm_qua , hãng bảo_mật Sophos cảnh_báo loại sâu này đang phát_tán qua những e-mail với nội_dung nói về một âm_mưu nào đó xung_quanh sự qua_đời của vị lãnh_tụ Thiên chúa_giáo và cả_tin Michael_Jackson đột_tử . 
+Sâu_Kedebe . F giả_dạng như những tin nóng gửi qua e-mail . 
+Khi người dùng mở file đính kèm , virus sẽ vô_hiệu_hoá phần_mềm bảo_mật và có_thể lây_lan sang nhiều máy khác . 
+Những thông_điệp dính sâu Kedebe . F có nội_dung khá đa_dạng . 
+Không_chỉ gây tò_mò bằng những sự_kiện mới_mẻ đang diễn_ra , e-mail còn đề_cập đến tài_khoản Internet của người dùng , tài_liệu người_lớn nhạy_cảm và nhiều chủ_đề khác . 
+Một trong những thông_điệp mà Sophos nhận được có đoạn : " Ai đó đã gửi cho tôi một tài_liệu ăn_cắp từ cơ_quan mật của chính_phủ đề_cập đến cái chết bí_ẩn của Giáo_hoàng John_Paul . 
+Tài_liệu đó nói rằng Giáo_hoàng đã bị giết bởi hai tên giả_danh bác_sỹ do chính_phủ cử đến . 
+Nội_dung sự_việc và tên_tuổi hai kẻ sát_nhân nằm trong file đính kèm dưới đây " . 
+Nực_cười hơn , một thông_điệp khác tuyên_bố đã tóm_cổ được tác_giả sâu MyDoom : " File này sẽ cho bạn chi_tiết về vụ bắt_giữ tác_giả virus này ngày hôm_nay ... " 
+Việc sử_dụng tin giật_gân để dụ người dùng mở file đính kèm chứa virus là một thủ_thuật khá phổ_biến và đã được nhiều chuyên_gia bảo_mật cảnh_báo . 
+Tên_tuổi của những người nổi_tiếng như Micheal_Jackson , cố_Giáo_hoàng John_Paul hay thủ_lĩnh al-Qaida Osama_Bin laden đã nhiều lần bị lợi_dụng trước đây . 
+Tuy_vậy , vẫn có rất nhiều người cả_tin và mắc bẫy . 
+Theo Sophos , mức_độ lây_lan của sâu Kedebe . F không rộng , tuy_nhiên người dùng vẫn nên cập_nhật phần_mềm diệt virus để bảo_vệ khỏi nguy_hiểm . 

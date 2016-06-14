@@ -1,0 +1,43 @@
+84 loại virus xuất_hiện tại VN trong năm 2004 
+Theo ước_tính của Trung_tâm giải_pháp an_ninh mạng vừa công_bố , mỗi người sử_dụng PC tại VN thiệt_hại khoảng 390.000 đồng / năm vì các loại virus . 
+VnExpress đã có cuộc trao_đổi với ông Nguyễn_Tử_Quảng , Giám_đốc Trung_tâm , về tình_hình an_ninh mạng trong năm qua . 
+- Đánh_giá chung của ông về tình_hình virus năm qua ? 
+- Năm 2004 sâu máy_tính mới xuất_hiện hằng tuần và chúng thường kéo_theo cả một series biến_thể trên cùng một bản_gốc . 
+Ở Việt_Nam , chúng_tôi ghi_nhận được 84 loại virus mới xuất_hiện trong năm qua , tăng thêm 21 % so với năm 2003 . Theo số_liệu điều_tra cuối năm của chúng_tôi , có tới 97 % người trả_lời cho rằng máy_tính của họ bị nhiễm virus ít_nhất 1 lần trong năm . 
+- Theo ông , năm 2005 sẽ chứng_kiến những điểm_nóng an_ninh mạng nào ? 
+- Virus máy_tính sẽ vẫn xuất_hiện hằng tuần . 
+Rất có_thể , một trong số các virus đó sẽ thực_sự gây ra thiệt_hại nặng_nề khi cố_gắng phá_huỷ dữ_liệu trên những máy_tính mà nó lây_nhiễm , sau khi đã di_chuyển an_toàn sang những mục_tiêu khác . 
+Điều này thực_sự có_thể xảy_ra nếu bạn biết rằng trong năm qua , gần như không có virus máy_tính nào làm điều này . 
+Chúng mới chỉ cố_gắng lây_lan thật nhiều mà không cố_tình phá_huỷ dữ_liệu nơi chúng đi qua . 
+Điều này vô_tình đã làm cho hầu_hết người sử_dụng PC trên toàn_cầu cũng như tại Việt_Nam quen với việc chung sống hoà_bình với chúng và mất cảnh_giác . 
+Tại Việt_Nam , spam và spyware sẽ trở_thành những vấn_đề nóng . 
+Chúng thực_sự làm tổn_hao thời_gian , tiền_bạc , ảnh_hưởng tới công_việc của chúng_ta . 
+Các nhà quản_lý dịch_vụ Internet , bộ chủ_quản sẽ phải có các động_thái để khắc_phục tình_trạng này . 
+Các cuộc tấn_công mạng do hacker gây ra chắc cũng không nhiều . 
+-Ông cho rằng spyware và adware gây hại nhiều , vậy tại_sao BKIS không làm phần_mềm xử_lý những đối_tượng này ? 
+- Mục_tiêu quấy_rối của spyware và adware là cố_tình bắt người dùng đọc các quảng_cáo của chúng , can_thiệp vào các thao_tác đọc thông_tin trên mạng , lấy cắp các số_liệu để gửi ra ngoài ... 
+Theo kết_quả điều_tra cuối năm của chúng_tôi , người sử_dụng máy_tính Việt_Nam đang rất bức_xúc về vấn_đề này . 
+Trung_tâm đã thành_lập nhóm nghiên_cứu spyware và adware từ vài tháng qua và đã hoàn_tất . 
+Hy_vọng trong khoảng 2 tháng tới , BKAV sẽ cập_nhật modul xử_lý các spyware và adware có hại . 
+- Hầu_hết những phần_mềm miễn_phí hiện_nay đều hỗ_trợ cập_nhật . 
+Tại_sao ông không để một lệnh update ngay trên BKAV để người dùng dễ_dàng nâng_cấp phần_mềm này thay_vì cứ phải vào trang web của BKAV ? 
+- Trong suốt 3 năm qua chúng_tôi liên_tục nghiên_cứu không_chỉ điều này mà nhiều vấn_đề khác để có_thể đưa ra phiên_bản BKAV mới ( dự_kiến là BKAV 2005 ) có đầy_đủ tất_cả các tính_năng hiện_đại mà vẫn giữ được những ưu_điểm về tính dễ sử_dụng và nhỏ gọn . 
+Sản_phẩm mới đã hoàn_thành vào tháng 9/2004 nhưng vẫn trong giai_đoạn thử_nghiệm nội_bộ . 
+Chúng_tôi đang cố_gắng để có_thể phát_hành vào sau tết Nguyên_đán . 
+- Thời_gian gần đây xuất_hiện thêm nhiều biến_thể của loại mẫu virus điện_thoại_di_động Cabir ( nhiều trang tin bảo_mật còn cho rằng mã của virus đã bị phát_tán rộng ) . 
+Ông đánh_giá thế_nào về nguy_cơ virus điện_thoại trong năm tới ? 
+- Đúng là thời_điểm cuối năm qua chứng_kiến sự tăng bất_thường số virus trên điện_thoại_di_động . 
+Điện_thoại_di_động ngày_nay chính là một máy_vi_tính với những tính_năng rút_gọn , vì thế không ngạc_nhiên gì khi virus có_thể lây trên những chiếc máy cầm tay này . 
+Nhưng trước_mắt , tính_năng của điện_thoại còn rất đơn_giản so với computer . 
+Mặt_khác , số người sử_dụng điện_thoại thế_hệ mới ở Việt_Nam cũng chưa nhiều nên nguy_cơ virus trên điện_thoại_di_động không cao . 
+- BKIS có kế_hoạch gì để hỗ_trợ người dùng điện_thoại phòng_ngừa trước mối đe_doạ này ? 
+- Chúng_tôi đã sẵn_sàng cả về công_nghệ và nguồn_lực để có_thể vào cuộc khi nguy_cơ có_thể ảnh_hưởng lớn tới người sử_dụng điện_thoại cầm tay trong nước . 
+- Đội đặc_nhiệm an_ninh mạng trong đó có sự tham_gia của BKIS đã làm được gì trong năm qua ? 
+- Sự hợp_tác của chúng_tôi chưa nhiều vì đơn_vị cảnh_sát đặc_nhiệm mạng cũng mới được thành_lập và đang trong giai_đoạn chuẩn_bị các điều_kiện cần_thiết cho hoạt_động . 
+Sang_năm tới , chắc là hai đơn_vị sẽ có những hợp_tác cụ_thể hơn . 
+Đặc_biệt trong lĩnh_vực xây_dựng đội_ngũ vì vấn_đề con_người ở đây rất quan_trọng . 
+Theo số_liệu điều_tra của Trung_tâm BKIS , 97 % máy_tính tại VN từng bị nhiễm virus trong năm qua . 
+Phân_loại theo các ngành_nghề cơ_bản thì những người làm_việc trong lĩnh_vực thương_mại thường bị nhiễm nhiều nhất ( 99 % ) , tiếp đến là các lĩnh_vực dịch_vụ ( 97 % ) , tài_chính tiền_tệ ( 94 % ) ... 
+Đặc_biệt , có 88 % người sử_dụng PC từng bị quấy_rối bởi spyware và adware trong năm 2004 . Tỷ_lệ những cơ_quan , công_ty có từ 1 đến 4 máy_tính bị nhiễm trong mỗi lần virus lây_lan vào hệ_thống là 36 % . 
+Đa_số người dùng computer thường cập_nhật chương_trình diệt virus mới định_kỳ hằng tuần ( 43 % ) hoặc hằng ngày ( 30 % ) . 
+Và có 8 % người sử_dụng chỉ cập_nhật chương_trình diệt virus mới khi nghi_ngờ máy_tính của họ đã bị lây_nhiễm . 

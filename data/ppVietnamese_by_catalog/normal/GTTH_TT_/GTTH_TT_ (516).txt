@@ -1,0 +1,13 @@
+Hacker chuyển hướng tấn_công 
+Mặc_dù việc tấn_công vào các máy_chơi game hiện_nay chưa gây tác_hại rõ_rệt gì cho mọi game_thủ dạng bình_thường , nhưng việc đột_nhập vào các máy_chơi game đời_mới như Xbox_360 , PS3 … có tính_năng lướt web chắc_chắn ít_nhiều cũng sẽ gây hại đến người dùng trong tương_lai . 
+Panda_Software khẳng_định rằng giới hacker sẽ tập_trung nỗ_lực để tấn_công ngay khi xBox_360 và PS3 đăng_nhập vào Internet . Trong những ngày qua Panda_Software đã phát_hiện ra 3 loại trojan chuyên tấn_công vào các máy_chơi game xách tay của Sony ( PSP ) và Nintendo DS. 
+3 loại trojan này có tên là Format . a , Tahen . a và Tahen.b . 
+Chúng giả_danh dưới dạng những công_cụ chuyên_dùng để bẻ khoá mã vùng trong các máy Sony_PSP và Nintendo_DS , nhằm tạo điều_kiện cho các máy này có_thể chơi được những đĩa game lậu . 
+Khi người dùng ngây_thơ cài_đặt các chương_trình giả_mạo này vào máy_chơi game của mình thì các con trojan này sẽ xoá ngay_lập_tức các file hệ_thống của hệ_điều_hành trong máy và máy_chơi game sẽ biến thành " cục gạch điện_tử " ngay sau đó . 
+Luis_Corrons , giám_đốc nghiên_cứu của Panda nhận_định : " Các máy_chơi game được thiết_kế ra không dùng để chạy các phần_mềm lạ ngoài các game và hệ_điều_hành chuyên dùng cho nó . 
+Mọi phần_mềm lạ mà người dùng tải về máy từ Internet đều là hiểm_hoạ đối_với máy_chơi game . 
+Hiện_nay lượng phần_mềm mã_độc tấn_công vào các máy_chơi game đang tăng rất nhanh " . 
+Hiện xBox_360 chưa được chính_thức bán ra nhưng các chuyên_gia bảo_mật đang lo_lắng về mọi nguy_cơ mà người dùng xBox_360 sẽ phải đối_mặt . 
+Patrick_Hinojosa , giám_đốc kỹ_thuật của Panda cho_biết : " xBox 360 là dạng máy_chơi game có khả_năng lướt web tân_kỳ nhất từ trước đến nay và cũng chính vì vậy mà xBox_360 sẽ là đích nhắm của hacker , sẽ là mồi ngon của rất nhiều mã_độc " . 
+Hãy tưởng_tượng về hậu_quả mà các game_thủ phải gánh_chịu khi công_trình chơi game của họ_hàng bao tháng trời sẽ bị mã_độc xoá sạch trong chốc_lát , cũng như mọi chi_phí và tổn_thất tinh_thần mà game_thủ phải gánh_chịu trong quá_trình khắc_phục hậu_quả . 
+Bạn có_thể vào đây để tải một video_clip thể_hiện quá_trình một trojan đã vô_hiệu_hoá một máy Sony_PSP như thế_nào ! 

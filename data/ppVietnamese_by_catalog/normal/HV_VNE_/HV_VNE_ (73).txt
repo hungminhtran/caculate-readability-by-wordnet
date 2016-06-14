@@ -1,0 +1,19 @@
+Reuters - nạn_nhân mới của virus IM 
+Hãng truyền_thông Anh hôm 14/4 đã buộc phải khoá hệ_thống nhắn tin nhanh ( IM ) của mình để chống lại một phần_mềm phá_hoại mang tên Kelvir . 
+" Cuộc_chiến " này đã kết_thúc một ngày sau đó nhưng Reuters vẫn chưa hết lo về những đợt tấn_công mới . 
+Reuters cho_biết virus Kelvir xâm_nhập vào hệ_thống mạng của họ từ cổng Internet của một khách_hàng . 
+Theo Johnny_Weir , phát_ngôn_viên của hãng , họ đã khôi_phục lại hoạt_động bình_thường của hệ_thống vào lúc 7 giờ sáng ngày 15/4 . 
+Tuy_nhiên , việc ảnh_hưởng đến 60.000 khách_hàng trong lĩnh_vực tài_chính mà Reuters phục_vụ không nhỏ chút nào . 
+Kelvir được phát_hiện lần đầu_tiên vào tháng 2 năm nay và mới_đầu sử_dụng MSN_Messenger để phát_tán . 
+Cho tới nay đã xuất_hiện đến cả tá biến_thể của virus này , trong đó có Kelvir . W , Kelvir . V , Kelvir . U , Kelvir . T , Kelvir . S , Kelvir . F , Kelvir.Re ... 
+Kelvir được lập_trình để sử_dụng phần_mềm gửi tin_nhắn nhanh ( Instant_Message ) của Microsoft và phát_tán các mã nguy_hiểm . 
+Các ứng_dụng có dùng công_nghệ này là AOL Instant_Messenger , MSN_Messenger , Windows_Messenger và Yahoo_Messenger . Cơ_chế hoạt_động của Kelvir là gửi một tin_nhắn tới các địa_chỉ liên_lạc của người sử_dụng bị nhiễm virus và mời họ nhấn vào đường URL trong tin_nhắn đó . 
+Khi đường dẫn này mở ra thì một phiên_bản của chương trìnhSpybot được tải xuống và virus này tự gửi đến danh_sách liên_lạc của người mới bị nhiễm . 
+Roel_Schouwenberg , chuyên_gia của hãng bảo_mật Nga Kaspersky , cho_biết biến_thể mới nhất của Kelvir có_thể bổ_sung địa_chỉ e-mail của người bị tấn_công mới vào đường dẫn . 
+Nếu người sử_dụng nhấn vào đường link đó và chạy chương_trình thì họ cũng bị nhiễm virus . 
+Tuy_nhiên , ngay_cả khi không chạy chương_trình thì địa_chỉ e-mail của họ cũng bị gửi về tác_giả của virus để phục_vụ cho những cuộc tấn_công về sau . 
+Peter_Shaw , Tổng_giám_đốc hãng Akonix_Systems ( Mỹ ) , cho_biết : " Năm 2005 đã chứng_kiến mức_độ đáng_kể về số vụ tấn_công qua IM vào mạng máy_tính của các công_ty . 
+Những kẻ lập_trình virus đang khai_thác một_cách chuyên_nghiệp dịch_vụ liên_lạc này vì đây được coi là một điểm yếu trong hệ_thống bảo_vệ điện_tử của các doanh_nghiệp " . 
+Trung_tâm cảnh_báo an_ninh nhắn tin nhanh IMlogic cho_biết 50 % những sự_cố nhiễm virus xảy_ra vào quý I năm nay rơi vào các doanh_nghiệp và công_ty nhỏ dùng ứng_dụng này . 
+IMlogic là sự hợp_tác của các công_ty phần_mềm chống virus như Symantec , Sybari và McAfee , cùng một_số nhà cung_cấp dịch_vụ IM như America_Online , Microsoft và Yahoo . 
+IMlogic có nhiệm_vụ theo_dõi các hoạt_động nguy_hiểm nhằm vào những chương_trình IM và P2P ( chia_sẻ ngang hàng ) , để cảnh_báo kịp_thời cho các nhà quản_lý mạng về virus và tư_vấn cho họ cách_thức xử_lý . 

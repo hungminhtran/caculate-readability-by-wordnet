@@ -1,0 +1,7 @@
+OpenOffice tung ra_bộ Portable_OpenOffice 2 . 0.1 
+Đây được xem là bộ công_cụ văn_phòng mã nguồn mở đời_mới nhất , dung_lượng nhỏ nhất những cũng rất hiện_đại với đầy_đủ tính_năng cao_cấp mà giới nguồn mở quyết_tâm cống_hiến cho người dùng mọi nơi . 
+Portable_OpenOffice . org 2 . 0.1 đã được mini hoá với tổng_dung_lượng chỉ còn 144 MB , phù_hợp với dung_lượng của đa_số thẻ_nhớ USB di_động hiện_nay , trong khi bộ OpenOffice . org 2 . 0.1 nguyên_bản có dung_lượng đến những 300 MB . Như vậy từ nay chỉ cần một thẻ_nhớ USB có dung_lượng 256 MB đang quá phổ_biến là người dùng có_thể đem theo bộ công_cụ văn_phòng miễn_phí và quen_thuộc của mình đi khắp nơi . 
+Barnett nhận_định rằng việc giảm_thiểu đi 50 % dung_lượng của bộ gốc những vẫn giữ nguyên được gần như mọi tính_năng là thành_công lớn . 
+Barnett hứa với mọi người rằng chẳng bao_lâu nữa OpenOffice . org sẽ tung ra một bản OpenOffice_Online , tạo điều_kiện cho người dùng toàn_cầu có_thể sử_dụng được bộ công_vụ văn_phòng đa_năng này trực_tiếp trên trình_duyệt web của mình . 
+Người dùng có_thể vào đây để tải bộ Portable_OpenOffice . org 2 . 0.1 đã được nén ở dạng .ZIP với dung_lượng 71 MB về dùng . 
+Khi giải nén để cài_đặt nó sẽ có dung_lượng khoảng 144 MB . 

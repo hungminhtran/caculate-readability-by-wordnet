@@ -1,0 +1,8 @@
+Giải_phóng bộ_nhớ hiệu_quả với Memory_Washer 
+Công_cụ Memory_Washer sẽ giải_quyết vấn_đề này qua nhiều công_đoạn giải_phóng bộ_nhớ , dồn ( defrag ) bộ_nhớ để tối_ưu quá_trình truy_xuất , tự_động quét và làm sạch bộ_nhớ khi bộ_nhớ ở mức " low " … 
+Khi cài_đặt thành_công , đầu_tiên bạn nhấn " Clean now " để Memory_Washer tiến_hành quét và làm sạch bộ_nhớ máy_tính . 
+Chức_năng " Process_Manager " sẽ giúp bạn quản_lý các ứng_dụng đang chạy hiệu_quả . 
+Bạn có_thể tắt đi toàn_bộ các ứng_dụng ẩn hoặc hiện không còn cần dùng trên máy_tính để giải_phóng thêm bộ_nhớ . 
+Tính_năng " Startup_Manager " sẽ giúp bạn quản_lý trình Startup hiệu_quả , bạn nên tắt đi những ứng_dụng không còn cần_thiết để nó không cùng khởi_động với Windows làm choán bộ_nhớ hoặc gây rắc_rối không cần_thiết . 
+Phần System_Info sẽ cung_cấp cho bạn các thông_số cơ_bản về hệ_thống Windows và CPU . Mục cuối_cùng là Program_Settings sẽ giúp bạn thiết_lập các tính_năng vận_hành của Memory_Washer như khởi_động cùng Windows , đặt Memory_Washer vào khay hệ_thống , thiết_lập chế_độ quét theo giờ hay tự_động … 
+Có_thể vào địa_chỉ http : / / www . rightutilities . com / downloads / memwasher / memorywasher-setup . exe để tải về bản dùng thử hoặc tìm mua ở cửa_hàng phần_mềm . 

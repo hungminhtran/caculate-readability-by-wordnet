@@ -1,0 +1,20 @@
+Công_nghệ mới hạn_chế vi_phạm bản_quyền nhạc số 
+Công_nghệ này được phát_triển dành cho một dạng chuẩn âm_thanh khá phổ_biến hiện_nay : MP3 . Đây là một hệ_thống phần_mềm , cho_phép theo_dõi các tập_tin âm_nhạc trong quá_trình chia_sẻ trên mạng ngang hàng . 
+Hệ_thống phần_mềm này dựa trên công_nghệ dán nhãn số của riêng nhóm nghiên_cứu . 
+Mặc_dù công_nghệ dán nhãn này không có gì là mới , vẫn được dùng bởi một_số lớn các hãng nhạc để đánh_dấu sản_phẩm của mình . 
+Tuy_nhiên , đây là lần đầu_tiên , công_nghệ này được ứng_dụng để theo_dõi việc chia_sẻ các tập_tin audio trên mạng ngang hàng . 
+Công_nghệ này cho_phép các nhà cung_cấp nhạc số như là các studio nhạc có_thể dán một " nhãn " ( watermark ) lên nội_dung một file nhạc như một dấu_hiệu chứng_tỏ bản_quyền hợp_pháp của mình trên bản_nhạc đó . 
+" Nhãn " này làm thay_đổi nội_dung của bản_nhạc , có_thể là cường_độ âm một đoạn nào đó lớn hơn bình_thường một_chút . 
+Đối_với các hình_ảnh thì màu_sắc một vùng nào đó có_thể sáng hơn bình_thường . 
+Trong nhãn này còn chứa một con_số " vô trật_tự " nhằm mục_đích tạo một liên_kết giữa nhà cung_cấp và người mua . 
+Con_số lộn_xộn này có ý_nghĩa giống như dấu vân tay vậy . 
+Quyền tự_do cá_nhân ? 
+Các nhà khoa_học ở Fraunhofer cho_biết , kĩ_thuật này căn_bản không vi_phạm điều_luật về quyền tự_do cá_nhân , tức_là không theo_dõi khách_hàng . 
+Nó chỉ theo_dõi các bản_nhạc được tải lên một_cách bất_hợp_pháp cho các chia_sẻ ngang hàng trên Internet ( peer-to-peer ) . 
+Ví_dụ , bạn mua một đĩa CD ROM nhạc có bản_quyền và cho một người bạn mượn . 
+Người bạn đó sao_chép và tung bản_nhạc đó lên mạng theo hình_thức peer-to-peer . 
+Lúc đó hệ_thống theo_dõi sẽ phát_hiện và truy ra rằng bạn là người sao_chép bất_hợp_pháp bản_nhạc trên . 
+Các bản_nhạc tải về sẽ không cần phải kiểm_soát . 
+Bạn chỉ có_thể tải về khi có sự cho_phép của nhà sản_xuất . Chính vì thế , quyền tự_do các nhân không hề bị xâm_phạm . 
+Bạn cũng không hề bị theo_dõi . 
+Được biết , công_nghệ này sẽ được trình_diễn vào tháng tới tại hội_nghị thương_mại Cebit . 

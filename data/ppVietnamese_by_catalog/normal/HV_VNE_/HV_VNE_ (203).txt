@@ -1,0 +1,16 @@
+Tấn_công PC kết_hợp 19 phần_mềm nguy_hiểm 
+Hãng Panda ngày 12/8 phát_hiện những vụ tấn_công dây_chuyền rất tinh_vi , thâm_nhập qua Trojan_SpamNet . A . 
+" Con ngựa thành Troa " này xuất_phát từ một trang web được đặt trên máy_chủ tại Mỹ nhưng có tên_miền đăng_ký từ Moscow ( Nga ) . 
+Giám_đốc Luis_Corrons của Panda cho_biết quá_trình khai_thác máy_tính diễn_ra rất phức_tạp và có_thể cài vào hệ_thống tới gần 20 phần_mềm chứa mã_độc khác nhau . 
+Mục_tiêu của kẻ viết chương_trình kết_hợp này là để gửi thư rác . 
+PC của người dùng Internet sẽ bị lây_nhiễm khi họ ghé thăm website và sử_dụng thẻ Iframe để mở trang mới . 
+Chương_trình sẽ đồng_thời mở ra 6 trang khác có nội_dung khiêu_dâm . 
+Nó cũng dẫn họ đến một site khác kèm virus khai_thác khai_thác lỗ_hổng và thực_hiện kiểu tấn_công Ani / anr và Htmredir . 
+Sau khi thâm_nhập hệ_thống , nó sẽ cài một trong hai file giống_hệt nhau Web . exe hoặc Win32.exe trên máy_tính . 
+Những file này tiếp_tục tạo ra 7 tệp khác , và một trong số đó có khả_năng tự nhân_bản chính nó . 
+" Hiện_nay đã có hơn 3 triệu địa_chỉ e-mail bị virus này sử_dụng để gửi thư rác . 
+Đây là dấu_hiệu rõ_ràng cho_thấy kẻ viết chương_trình đang rất thoả_mãn với thành_quả mà hắn thu được " , Corrons khẳng_định . 
+" Động_lực cơ_bản của những vụ khai_thác không đơn_thuần là để tạo tiếng_vang , mà nói_thẳng ra là vì tiền . 
+Spam là một trong những nguồn thu_nhập chính của kẻ đứng đằng sau SpamNet . A " . 
+Cũng theo Corrons , đây là một trong những vụ tấn_công có quy_mô tổ_chức phức_tạp nhất mà họ từng chứng_kiến . 
+Corron khuyến_cáo người sử_dụng thường_xuyên cập_nhật chương trinh diệt virus do SpamNet . A chủ_yếu dựa vào việc khai_thác lỗ_hổng trong máy_tính của nạn_nhân để tiến_hành các vụ tấn_công . 

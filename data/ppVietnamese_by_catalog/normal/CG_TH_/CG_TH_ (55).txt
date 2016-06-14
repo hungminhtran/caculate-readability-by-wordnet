@@ -1,0 +1,12 @@
+Chip hỗ_trợ chẩn_đoán cúm gà nhanh gấp 4 lần . 
+Hai giáo_sư Robert_Kuchta và Kathy_Rowlen giới_thiệu máy_quét và Flu_Chip . Đại_học Colorado ( Mỹ ) vừa xây_dựng một thiết_bị xử_lý mới , có khả_năng kiểm_tra và phân_loại các loại cúm khác nhau , trong đó có bệnh do virus H5N1 gây ra , chỉ sau 11 giờ . 
+Tuy vẫn đang trong quá_trình thẩm_định , các nhà nghiên_cứu hy_vọng có_thể sớm phát_triển Flu_Chip thành_công cụ chẩn_đoán " ngay_lập_tức " . 
+" Hiện_nay , chúng_ta phải mất 3 , 4 ngày để gửi những mẫu nghi_ngờ nhiễm virus tới phòng thí_nghiệm và tiến_hành phân_tích . 
+Quá_trình này là quá lâu đối_với một căn_bệnh có tỷ_lệ tử_vong cao và dễ lây_lan như cúm gà " , Kathy_Rowlen , giáo_sư hoá_học tại Đại_học Colorado , cho_biết . 
+" Bác_sỹ cần biết kết_quả sớm để cho bệnh_nhân uống kháng_sinh loại mạnh và cách_ly với mọi người " . 
+Trên thị_trường đã xuất_hiện một_số công_cụ xét_nghiệm nhanh , nhưng chỉ có_thể xác_định người sử_dụng có bị cúm hay không , mà không_thể phân_biệt được đó là bệnh cúm gì . 
+Ngược lại , Flu_Chip , được cài và đọc bởi một máy_quét đặc_biệt , có_thể phản_ứng trước hầu_hết các loại cúm và đưa ra kết_quả chính_xác 90 % với virus H5N1 . 
+Trung_bình mỗi năm có khoảng 250.000 - 500.000 người qua_đời vì cúm trên toàn thế_giới . 
+Nguy_cơ lớn nhất hiện_nay là H5N1 , lây_lan qua gia_cầm ở châu Á và châu Âu . 
+Chúng trở_nên đặc_biệt nguy_hiểm khi biến_đổi thành virus lây_lan từ người sang người . 
+Gần đây , loại virus này đã ảnh_hưởng đến 123 người , 1/2 trong số đó đã tử_vong . 

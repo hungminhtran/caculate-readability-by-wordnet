@@ -1,0 +1,6 @@
+Tự_động tắt máy theo ý muốn 
+Để sử_dụng tính_năng tự_động tắt máy theo giờ đã định , người dùng nhấp vào mục Timer , vào Add để nhập giờ tắt máy . 
+Nên ghi_chú nội_dung tắt máy vào mục " Title " để dễ_dàng sử_dụng lại sau này khi cần . 
+Người dùng cũng có_thể thêm vào các cảnh_báo bằng âm_thanh trước khi tắt máy bằng cách nhấp vào mục " Sound " , đánh_dấu vào ô " Enable sound alarm " , sau đó " Browse " đến file âm_thanh mà mình thích . 
+PC Auto_Shutdown hỗ_trợ đủ dạng âm_thanh như MP3 , WMA , WAV , MIDI , SND … Người dùng có_thể vào địa_chỉ http : / / www . drivermagician . com / autoshutdown / downloadAutoShutdown . htm để tải về bản dùng thử . 
+Hiện công_cụ PC Auto_Shutdown 2.2 cũng đã có_mặt tại các cửa_hàng phần_mềm . 

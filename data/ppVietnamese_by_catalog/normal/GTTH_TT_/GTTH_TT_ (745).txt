@@ -1,0 +1,15 @@
+Windows_Vista , vẫn là một " hồi còi dài " của Microsoft … 
+Một_số tính_năng đáng chú_ý của Windows_Vista được giới_thiệu có_thể kể đến như khả_năng cho hình_ảnh 3 chiều của cửa_sổ chương_trình , khả_năng làm_việc cộng_tác trong môi_trường không dây , khả_năng chia_sẻ tập_tin trực_tuyến và công_cụ nhận_dạng chữ_viết được tích_hợp . 
+Đối_với các nhà quản_trị công_nghệ thông_tin , Vista ấn_tượng với khả_năng tạo ảnh đĩa , giúp cho việc cài_đặt Windows_Vista được dễ_dàng và nhanh_chóng trong môi_trường mạng . 
+Được quan_tâm nhiều nhất là khả_năng bảo_mật . 
+Windows_Vista tự_động cảnh_báo người dùng về những trang web lừa_đảo hay những website có chứa các đoạn mã_độc . 
+Nghe thì có_vẻ rất lý_thú , tuy_nhiên tất_cả vẫn còn phải chờ sự chào_đời thật_sự của Windows_Vista để minh_chứng . 
+Những thử_thách 
+Đối_với phần_đông các nhà phân_tích , việc Microsoft nhấn_mạnh vào khả_năng bảo_mật của Windows_Vista là điều không có gì đáng phải ngạc_nhiên . 
+Microsoft có những phần_mềm được sử_dụng rộng_rãi trong cộng_đồng công_nghệ thông_tin và người tiêu_dùng . 
+Đó là một trong những nguyên_nhân khiến phần_mềm của Microsoft nổi_tiếng có độ bảo_mật kém . 
+Tuy đã có rất nhiều cải_tiến , tuy_nhiên Windows_Vista vẫn còn nhiều vấn_đề cần giải_quyết về bảo_mật . 
+Như trong một cảnh_báo gần đây , cách mà Vista quản_lý các tập_tin meta có_thể dẫn đến những rò_rỉ về thông_tin cá_nhân của người dùng . 
+Microsoft đã phát_hành một công_cụ để xoá các tập_tin meta được tạo ra bởi Windows , tuy_nhiên , điều này chưa làm vừa_lòng các chuyên_gia bảo_mật . 
+Phiên_bản mở_rộng có đầy_đủ các tính_năng sẽ được đưa ra thử trong lần cập_nhật kế_tiếp của Co mmunity Technical_Preview , theo như dự_kiến là vào cuối tháng ba . 
+Phiên_bản hiện đang thử_nghiệm hiện_tại nổi_cộm với các vấn_đề về tương_thích phần_cứng , một_số lỗi nhỏ trong giao_diện người dùng và việc hoạt_động chậm_chạp trong các cấu_hình máy hơi yếu . 

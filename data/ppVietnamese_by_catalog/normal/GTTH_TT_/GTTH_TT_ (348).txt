@@ -1,0 +1,7 @@
+MobiFone chuẩn_bị roaming tin_nhắn cho thuê_bao trả trước 
+Sau khi cung_cấp dịch_vụ roaming tin_nhắn , VMS sẽ xúc_tiến việc chuẩn_bị để roaming các cuộc thoại cho loại_hình thuê_bao này . 
+Hiện_tại , chỉ có các thuê_bao trả sau MobiFone khi ra nước_ngoài mới có_thể sử_dụng dịch_vụ roaming để thực_hiện các cuộc thoại và nhắn tin . 
+Cũng bắt_đầu từ quý II , mạng MobiFone sẽ chính_thức cung_cấp dịch_vụ thông_tin cuộc gọi nhỡ . 
+Dịch_vụ này cho_phép các thuê_bao biết được thông_tin về các cuộc gọi đến khi tắt máy di_động . 
+Theo ông Minh , tính riêng trong hai tháng đầu năm nay , mạng di_động MobiFone đã phát_triển thêm được 850.000 thuê_bao mới , nâng tổng_số thuê_bao trên toàn mạng lên con_số 4.670.000 thuê_bao . 
+Để đảm_bảo hoạt_động cho mạng_lưới với số_lượng thuê_bao tăng thêm , trong quý II , VMS sẽ lắp mới thêm 244 trạm thu phát_sóng tại 17 tỉnh phía Bắc , 287 trạm tại 22 tỉnh phía Nam và 157 trạm tại 13 tỉnh khu_vực miền Trung . 

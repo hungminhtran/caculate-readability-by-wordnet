@@ -1,0 +1,9 @@
+Sâu lai báo_hiệu thế_hệ virus mới 
+Phần_mềm xuất_hiện tuần qua được hãng ứng_dụng bảo_mật Panda phát_hiện đã cho_thấy một ví_dụ đầy_đủ về dạng mã tấn_công trong tương_lai . 
+Loại sâu này được Panda đặt tên Eyeveg . D ( Sophos gọi là Bugbear . B còn Symantec gọi là Lanieca . B ) là một sự pha_tạp tinh_vi với cơ_chế lan_truyền theo kiểu sâu nhưng lại tiến_hành các hoạt_động theo kiểu Trojan trên máy nạn_nhân . 
+Eyeveg . D lây_nhiễm vào PC bằng cách sử_dụng một file .EXE theo chiến_thuật đặc_trưng của sâu , và phát_tán sang máy_tính khác bằng cách ăn_cắp địa_chỉ e-mail trên từng máy . 
+Bộ_phận thứ 2 , Trojan , sẽ vào cuộc khi Eyeveg . D nạp một file .DLL dưới dạng phần_mềm bổ_trợ plug-in cho trình_duyệt Internet_Explorer . 
+File .DLL , thực_ra là một phần_mềm theo_dõi hoạt_động bàn_phím , sẽ copy tất_cả các lệnh gõ mỗi khi người sử_dụng máy_tính gửi dữ_liệu tới một server SSL , chẳng_hạn như server được dùng ở các website ngân_hàng và thương_mại điện_tử . 
+Trojan này còn có chứa một trình cổng hậu mà thông_qua đó hacker có_thể gửi lệnh mới hoặc cài thêm phần_mềm nguy_hại vào hệ_thống mục_tiêu . 
+Đây cũng là một thủ_đoạn phishing , thông_qua đó Eyeveg . D thu_thập thông_tin tài_khoản ngân_hàng , password , số thẻ tín_dụng ... , thông_báo của Panda viết . 
+Loại phần_mềm tấn_công kết_hợp này đang trở_nên ngày_một phổ_biến khi mà giới tin_tặc tìm cách nâng_cao sức_mạnh và độ linh_hoạt cho các chương_trình mà chúng viết ra . 

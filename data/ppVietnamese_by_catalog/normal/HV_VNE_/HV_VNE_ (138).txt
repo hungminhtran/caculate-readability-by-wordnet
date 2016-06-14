@@ -1,0 +1,9 @@
+Lỗi phần_mềm bảo_mật lớn hơn ở ứng_dụng cần bảo_vệ 
+Theo những số_liệu mới nhất của hãng khảo_sát Yakee_Group , số lỗ_hổng trong phần_mềm bảo_mật đang tăng lên nhanh_chóng trong vòng 3 năm trở_lại đây và đã vượt_qua số lỗ_hổng trong các sản_phẩm của Micrsoft , mục_tiêu hay bị khai_thác . 
+Trong năm 2004 , các nhà nghiên_cứu an_ninh máy_tính đã phát_hiện được 60 khiếm_khuyết trong phần_mềm bảo_mật . 
+Con_số của năm 2003 là 31 lỗi . 
+Tính đến tháng 5 năm nay , 23 lỗi trong các ứng_dụng bảo_mật đã được ghi_nhận , so với 22 trong các chương_trình phần_mềm của Micrsoft . Theo Yakee_Group , đến hết tháng 5 , số lỗi phần_mềm an_ninh đã bằng 50 % của thời_gian này năm_ngoái . 
+Các khảo_sát của Yakee_Group cho_thấy một xu_hướng đang tăng lên rõ_ràng trong những tháng gần đây là hacker đang chuyển sang tìm_kiếm lỗ_hổng trong phần_mềm bảo_mật hệ_thống . 
+Micrsoft cũng đã nhận ra một điều là : " Các doanh_nghiệp càng tin_tưởng vào sản_phẩm bảo_mật bao_nhiêu thì càng có khả_năng bị tấn_công bấy_nhiêu " . 
+Những công_ty cung_cấp phần_mềm an_ninh lớn trên thế_giới như Symantec , McAfee , Trend_Micro và F - Secure đã phải sửa_chữa những sai_sót bảo_mật rất nghiêm_trọng ở sản_phẩm của họ trong mấy tháng gần đây . 
+Năm_ngoái Symantec phát_hiện ra nhiều lỗi nhất : 16 so với 2 phát_hiện năm nay . 

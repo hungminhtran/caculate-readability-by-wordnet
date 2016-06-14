@@ -1,0 +1,16 @@
+Dell bán ra máy trạm Linux để " né " Microsoft ! ? 
+Jeremy_Bolen , phát_ngôn_viên của Dell cho_biết các máy_tính Dell_Linux này vô_cùng thích_hợp cho các ngành công_nghiệp_nặng với vai_trò máy trạm hoặc máy thiết_kế công_nghiệp tính vì tính ổn_định " thiên_thu " của nó . 
+Ngoài_ra nó cũng đủ sức đảm_nhiệm mọi ứng_dụng từ thấp đến cao hoặc cũng như mọi ứng_dụng giải_trí , tương_tự như mọi PC chạy Windows khác . 
+Hiện Dell đang đeo_đuổi mục_đích trở_thành nhà cung_cấp máy_tính Linux số_một cho người dùng mọi nơi . 
+Dòng máy Dimension E510n_PC của Dell được bán ra với " ổ_cứng trống " tức hầu_như chưa được cài_đặt bất_kỳ ứng_dụng nào ngoại_trừ hệ_điều_hành mã nguồn mở_mang tên FreeDOS , để người dùng có_thể tự mình cài_đặt bất_kỳ hệ_điều_hành nào mà mình muốn lên máy . 
+Hệ máy này hết_sức phù_hợp cho những người yêu_thích Linux và mã nguồn mở . 
+Hiện Dell cũng đang tích_cực quảng_cáo cho hệ máy trạm RHEL_WS 4 đã được cài_đặt bản Linux_Red_Hat_Enterprise 4 chuyên_dùng cho máy trạm công_nghiệp . 
+Một_số nhà phân_tích nhận_định rằng việc Dell bán ra đại_trà các máy_tính Linux dưới hình_thức các máy trạm công_nghiệp không kèm màn_hình này là một kiểu " tránh_né " Microsoft khá tinh_vi , nhằm mục_đích đem các máy để bàn cao_cấp đến cho người dùng với giá hạ hơn . 
+Nhưng rõ_ràng việc_làm này chắc_chắn sẽ làm " phiền_lòng " Microsoft vì Dell đã từng có thoả_thuận với Microsoft rằng các PC bán ra thị_trường của Dell đều được cài mặc_định một hệ_điều_hành Windows nào đó . 
+Rõ_ràng việc " lách luật " với Microsoft này là hoàn_toàn hợp_pháp vì từ năm 1999 Dell đã công_bố rằng các hệ_điều_hành Linux như Red_Hat sẽ là hệ_điều_hành mặc_định chuyên_dùng cho các máy trạm . 
+Dường_như để " xoa_dịu " Microsoft , phát_ngôn_viên của Dell là Jeremy_Bolen cho_biết rằng Dell sẽ chỉ bán những máy trạm công_nghiệp này cho những công_ty và những người dùng chuyên_nghiệp thực_sự chứ không bán đại_trà " dưới dạng những máy_tính dành cho dân tay mơ chỉ để chat , lướt web , e-mail hay xử_lý văn_bản . 
+Nhưng rõ_ràng việc Microsoft có khả_năng kiểm_soát Dell bán máy cho những người dùng dạng nào hay không lại là chuyện khác ! 
+Mặc cho những lời phát_biểu có tính_chất xoa_dịu của Dell , giới người dùng am_hiểu đang mong_chờ ngày bán ra chính_thức của các loại " máy trạm " này vì thực_chất nó là những máy để bàn có cấu_hình cao_cấp có giá rất hạ so với các máy nguyên bộ cùng loại . 
+Các " máy trạm công_nghiệp này " thực_chất là những máy_tính để bàn với cấu_hình không hề " bèo " chút nào : bộ_xử_lý Xeon lõi đơn hoặc lõi kép 2,8GHz của Intel ; 512MBs DDR2 SDRAM ; đĩa_cứng 160 GB SATA 7.200 vòng / phút ; card đồ_hoạ PCIe_x16 nVidia Quadro_NVS 280 với nhiều kiểu dung_lượng … 
+Nhân_dịp này , Dell cũng tung ra một_số máy có giá cực mềm như chiếc OptiPlex có giá khởi_điểm chỉ 400 USD . 
+Đại_đa_số các máy_tính Linux mà Dell tung ra lần này đều được cài mặc_định bộ Red_Hat_Enterprise_Linux workstation 4 với bộ công_cụ văn_phòng OpenOffice và hưởng chế_độ bảo_hành chu_đáo đến 3 năm . 

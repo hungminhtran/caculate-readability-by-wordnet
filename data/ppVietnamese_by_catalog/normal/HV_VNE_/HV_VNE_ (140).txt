@@ -1,0 +1,16 @@
+Đã có hơn 10 biến_thể Mytob tại Việt_Nam 
+Trung_tâm an_ninh mạng Đại_học Bách_Khoa Hà_Nội ( BKIS ) khẳng_định sự ảnh_hưởng của Mytob chưa thực_sự nghiêm_trọng đối_với các PC ở Việt_Nam . 
+Tuy_nhiên , người sử_dụng cần cảnh_giác cao với họ virus này vì các biến_thể Mytob mới vẫn tiếp_tục ra_đời . 
+" Rất có_thể một trong số các virus Mytob mới sẽ gây ra thiệt_hại nặng_nề khi nó cố_gắng phá_huỷ dữ_liệu trên những máy_tính mà nó lây_nhiễm , sau khi đã di_chuyển an_toàn sang những mục_tiêu khác " , ông Vũ_Ngọc_Sơn , Trưởng_phòng Virus Trung_tâm BKIS , cảnh_báo . 
+Virus họ W32.Mytob đầu_tiên xuất_hiện trên thế_giới được phát_hiện vào cuối tháng 3 . Từ đó tới nay , các biến_thể mới của loại sâu này liên_tục ra_đời và chúng nhanh_chóng trở_thành một trong những họ virus lây_lan nhiều nhất thế_giới trong thời_gian vừa_qua . 
+Tại Việt_Nam , BKIS khẳng_định W32.Mytob xuất_hiện vào khoảng đầu tháng 4 và hiện đã có sự góp_mặt của hơn 10 biến_thể . 
+Ông Vũ_Ngọc_Sơn cho_biết : " Các virus Mytob có khả_năng lây_lan theo hai con đường là qua lỗi tràn bộ đệm của dịch_vụ LSASS ( Local_Security_Authority_Subsystem_Service ) trên hệ_điều_hành Windows_2000 , Windows_XP ( Microsoft_Security_Bulletin_MS04-011 ) , giống như Sasser trước đây , và lây_lan qua thư_điện_tử như các loại sâu thông_thường khác " . 
+Đặc_điểm chung của virus họ Mytob là khi lây vào một máy_tính , chúng sẽ tự_động tìm địa_chỉ e-mail có chứa trong các file .adb , .asp , .dbx , .htm , .php , .sht , .tbb ,.txt , .wab& để gửi thư giả_mạo có kèm chính nó tới những địa_chỉ này . 
+Ngoài_ra , để lẩn_trốn các công_cụ diệt virus trên thế_giới , Mytob sẽ không gửi thư tới địa_chỉ e-mail nó tìm thấy có domain của những hãng này và ngăn không cho người sử_dụng truy_cập đến website của các hãng đó . 
+Cùng với việc gửi e-mail có chứa virus , Mytob cũng quét trên mạng để tìm ra máy_tính có lỗi tràn bộ đệm nhằm thực_hiện việc lây_lan từ xa . 
+Sau đó , Mytob còn tạo ra các cổng hậu ( backdoor ) trên máy_tính nạn_nhân bằng cách kết_nối tới một kênh đã được những kẻ viết ra virus chỉ_định sẵn tại một IRC_Server trên thế_giới , cho_phép những kẻ tấn_công này có_thể ra_lệnh điều_khiển và kiểm_soát máy_tính của nạn_nhân từ xa . 
+" Sự khác_biệt chủ_yếu giữa Mytob thế_hệ trước và thế_hệ sau là biến_thể mới sẽ sử_dụng kỹ_thuật mã_hoá đoạn mã thực_thi ngày_càng tinh_vi hơn nhằm tránh sự phát_hiện của các phần_mềm diệt virus cũng như tăng tốc_độ lây_lan " , Trưởng_phòng Virus của BKIS mô_tả . 
+" Ngoài_ra , mỗi biến_thể mới của Mytob lại sử_dụng một IRC Server và cổng hậu cũng có chức_năng khác với ' đời ' trước nên việc kiểm_soát các virus họ Mytob trở_nên khó_khăn hơn so với các họ sâu máy_tính khác " . 
+Theo ông Vũ_Ngọc_Sơn , để phòng_chống Mytob , người sử_dụng máy_tính có_thể tải về và cài bản bản sửa lỗi dịch_vụ LSASS cho hệ_điều_hành Windows_2000 và XP tại đây hoặc tại website của BKIS . 
+Chuyên_gia BKIS cũng khuyến_cáo không nên chạy trực_tiếp các file đính kèm khi nhận một bức thư lạ . 
+Nếu sử_dụng Bkav2005_Home_Edition , hãy bật chức_năng tự cảnh_báo của Bkav để chương_trình này có_thể tự_động diệt các virus khi phát_hiện chúng xâm_nhập vào máy_tính . 

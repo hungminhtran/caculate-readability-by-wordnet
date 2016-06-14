@@ -1,0 +1,25 @@
+Power6 khẳng_định hướng đi cho BXL 
+Từ nhiều năm nay , các nhà sản_xuất luôn tìm cách nâng_cao tốc_độ của bộ_xử_lý ( BXL ) , bằng cách nâng_cao mật_độ transitor trên đế bán_dẫn . 
+Các công_nghệ sản_xuất transitor ngày_càng nhỏ hơn như 180nm , 135 nm , 90nm , 45nm … ra_đời đều là vì mục_đích này . 
+Tuy_nhiên , càng_ngày , họ phải đối_mặt với vấn_đề về năng_lượng và nhiệt_độ . 
+Các hệ_thống tản nhiệt ngày_càng cồng_kềnh hơn để có_thể làm mát và đảm_bảo độ ổn_định cho server . 
+Một giải_pháp được chọn_lựa , chính là nâng_cao số_nhân xử_lý . 
+IBM là nhà sản_xuất đầu_tiên đi tiên_phong trong lĩnh lực này . 
+Sản_phẩm đa_nhân đầu_tiên của họ là Power4 được giới_thiệu vào năm 2000 . IBM Power6 
+IBM chính là nhà sản_xuất đưa ra ý_tưởng , xác_định một xu_thế mới của các nhà sản_xuất vi_xử_lý . 
+Lịch_sử của ngành công_nghệ thông_tin luôn khẳng_định điều này . 
+Bất_kỳ một chuẩn_mực công_nghệ nào ra_đời cũng luôn có " IBM " . 
+Bộ_xử_lý mới của IBM , Powe6 , dành cho dòng server cao_cấp , dự_đoán sẽ chạy ở tốc_độ 4 - 5 Ghz . 
+Các bộ_vi_xử_lý dành cho máy để bàn và server thấp cấp đương_nhiên chưa_thể so với những bộ_xử_lý này . 
+Trong các bộ_xử_lý cấp cao này , hai tiêu_chí đáng quan_trọng nhất lại là đa_nhân và điện_năng - khẳng_định chắc_chắn một thời_đại mới trong ngành công_nghiệp sản_xuất vi_xử_lý . 
+Các bộ_vi_xử_lý ở các cấp thấp hơn rồi cũng sẽ dần theo xu_thế của nhà khổng_lồ . 
+Và thực_tế ngày_càng minh_chứng rõ_ràng khi lần_lượt AMD , Intel đều đã cho ra_đời các BXL giá rẻ đa_nhân , tiết_kiệm năng_lượng . 
+Có mật_độ transitor thấp hơn so với một_số bộ_xử_lý hiện_tại , nhưng Power6 không vì thế mà thấp_kém so với thời_đại . 
+Trước đây , theo thói_quen trong công_nghệ , mật_độ transitor ( hay cũng chính là độ nhỏ của transitor ) cũng là một tiêu_chí chính để đánh_giá về vi_xử_lý . 
+BXL có transitor nhỏ hơn được xem như tốt hơn , hoạt_động hiệu_quả hơn . 
+Giờ_đây , điều đó xem_ra sẽ không còn quan_trọng . 
+Tuy_nhiên , thế_giới sẽ vẫn phải tiếp_tục nghiên_cứu để sản_xuất vi_xử_lý với transitor ngày_càng nhỏ hơn , nhỏ đến mức ... 
+bằng một tế_bào não . 
+Hy_vọng , lúc đó , máy_tính cũng có năng_lực như con_người chăng . 
+Theo kế_hoạch , chi_tiết về bộ_xử_lý Power6 chỉ có_thể được biết vào năm sau , nhưng giờ_đây , nó đã được trưng_bày tại hội_nghị quốc_tế về mạch bán_dẫn đang diễn_ra ở San_Francisco . 
+Hội_nghị sẽ kết_thúc vào ngày thứ 6 tuần này . 

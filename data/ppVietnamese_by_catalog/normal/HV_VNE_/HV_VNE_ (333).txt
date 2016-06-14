@@ -1,0 +1,7 @@
+Ông_già tuyết ' tặng ' thêm một virus mới 
+Những_ai dại_dột bấm vào file đính kèm trong e-mail hứa_hẹn về một món quà bất_ngờ từ Santa_Claus sẽ vô_tình khiến hệ_thống máy_tính chạy trên Windows của họ gặp nguy_hiểm . 
+Theo hãng bảo_mật Mỹ_Panda , Trojan_MerryX . A được phát_tán qua file có hình ông_già Noel . 
+Sau khi được mở , chương_trình độc_hại SQLServer . exe sẽ nhanh_chóng thâm_nhập vào PC , truyền thông_tin hệ_thống tới một máy_chủ từ xa , sau đó cố tải về những file chứa phần_mềm nguy_hiểm khác . 
+Đầu tuần này , các chuyên_gia an_ninh mạng cũng đã ghi_nhận một sâu xuất_hiện trong hệ_thống tin_nhắn nhanh mang tên IM . GiftCom . All . Nó cài tự_động vào PC và phát_tán thông_điệp tới mọi địa_chỉ lưu trong danh_sách bạn_bè của người dùng . 
+Giai_đoạn cuối năm luôn tạo ra hàng chục cơ_hội cho tác_giả virus thực_hiện những mánh_khoé xã_hội bởi mọi người sẽ không cảm_thấy bất_ngờ nếu nhận được thư của một người bạn lâu rồi không liên_lạc hay từ phía công_ty đối_tác . 
+Cũng thời_điểm này năm_ngoái , sâu Zafi đã tung_hoành dưới mác " Merry_Christmas " và vẫn là nỗi ám_ảnh cho người dùng Internet trong suốt năm 2005 . 

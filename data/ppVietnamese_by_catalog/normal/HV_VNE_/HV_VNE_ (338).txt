@@ -1,0 +1,9 @@
+Lỗi_Windows nghiêm_trọng đang bị khai_thác 
+Microsoft vừa đưa ra cảnh_báo về một lỗ_hổng chưa được vá trong hệ_điều_hành và đang bị tội_phạm trực_tuyến lợi_dụng để tấn_công máy_tính của người sử_dụng . 
+Hacker khai_thác lỗ_hổng trong cách Windows quản_lý định_dạng file đồ_hoạ có đuôi .wmf . 
+Một ảnh .wmf chứa mã nguy_hiểm được cài bị phát_tán qua qua thư rác sẽ cho_phép hacker xử_lý mã ngay trên hệ_thống của nạn_nhân . 
+Sau đó , chúng có_thể cài phần_mềm gián_điệp hoặc thu_nạp máy_tính vào mạng PC bị khống_chế ( zombie ) để tấn_công từ_chối dịch_vụ về sau . 
+Microsoft vẫn đang nghiên_cứu vấn_đề và miếng vá có_thể sẽ chỉ ra_mắt trong bản tin an_ninh tháng 1 tới . 
+Hãng bảo_mật Đan_Mạch_Secunia đã đánh_giá lỗi này ở mức " vô_cùng nguy_hiểm " . 
+Công_ty diệt virus F-Secure cũng khẳng_định họ đã chứng_kiến ít_nhất 3 sâu máy_tính khác nhau mà hãng đặt tên là PFV . Exploit . A , .B và .C đang cố khai_thác lỗ_hổng . 
+Tổ_chức bảo_mật máy_tính Mỹ US-CERT đã công_bố một_số biện_pháp phòng_ngừa nhưng khuyến_cáo rằng nguy_cơ sẽ không_thể bị dẹp_bỏ cho đến khi Microsoft phát_hành bản vá . 

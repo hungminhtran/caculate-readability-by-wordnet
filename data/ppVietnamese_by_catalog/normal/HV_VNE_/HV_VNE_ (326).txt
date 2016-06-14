@@ -1,0 +1,10 @@
+Công_cụ săn tìm lỗi trong Windows_Vista 
+Microsoft vừa giới_thiệu một phần_mềm có khả_năng xác_định nhanh_chóng những trục_trặc khi một ứng_dụng bên thứ ba hoạt_động với tính_năng hạn_chế quyền ưu_tiên của hệ_điều_hành thế_hệ mới . 
+Công_cụ LUA_Buglight được thiết_kế để xác_định lỗi phát_sinh trong tính_năng bảo_mật Least_User_Access ( LUA - Truy_cập với ít quyền nhất ) . 
+LUA hạn_chế tối_đa quyền ưu_tiên của người dùng nhằm cải_tiến bảo_mật Windows , bởi một chương_trình nguy_hiểm khi tìm đường chui vào PC với cơ_chế sử_dụng chuẩn sẽ không_thể gây thiệt_hại nhiều như khi nó thâm_nhập được vào hệ_thống theo chế_độ quản_trị ( administrator ) . 
+" LUA Buglight là một phần_mềm mới , được thiết_kế với mục_đích tìm_kiếm lỗi của LUA mỗi khi người dùng chạy những ứng_dụng khác nhau " , một đại_diện của Microsoft , cho_biết . 
+" " Với thông_tin báo về , lỗ_hổng sẽ nhanh_chóng được xem_xét và sửa_chữa " . 
+Phần_mềm ban_đầu dành cho các chuyên_gia công_nghệ thông_tin cần xác_định và khắc_phục lỗi xuất_hiện trong ứng_dụng bên thứ ba . 
+Tuy_nhiên , hiện_giờ nó cũng được dùng làm công_cụ tìm_kiếm lỗi LUA khi chạy chương_trình cụ_thể . 
+Tuần này , Microsoft cũng cho_biết hãng sẽ loại_bỏ trình điều_khiển đồ_hoạ Avalon trong nhân của Windows_Vista nhằm tăng độ tin_cậy của hệ_điều_hành . 
+Việc chuyển_đổi này khiến cho chương_trình Windows ngày_càng giống Unix và Linux hơn . 

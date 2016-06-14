@@ -1,0 +1,16 @@
+ĐTDĐ : Càng kết_nối càng thiếu an_toàn 
+Dhillon_Kannabhiran , người sáng_lập Hội_thảo bảo_mật quốc_tế " Hack_in_the_Box_Security " , khẳng_định khi giới bảo_mật tập_trung quá nhiều vào máy_tính và server , thì điện_thoại_di_động và PDA sẽ trở_thành mục_tiêu tấn_công đầy hấp_dẫn . 
+Thế_giới đang hướng tới một viễn_cảnh mà trong đó máy_tính và điện_thoại_di_động có_thể tương_tác với những thiết_bị kỹ_thuật số gia_dụng khác , giúp hoạt_động của con_người thuận_tiện và thoải_mái . 
+Nhưng song_hành với nó còn là nỗi lo_ngại cuộc_sống trở_nên bất_an hơn nếu những kẻ chuyên viết mã nguy_hiểm chen_chân vào . 
+" Không đơn_giản chỉ là mất số thẻ tín_dụng , mối đe_doạ đang nhân lên gấp_bội khi mà vi_mạch và phần_mềm xuất_hiện ngày_một rộng_rãi trong ôtô , thiết_bị gia_đình , điện_thoại_di_động , và đặc_biệt là khả_năng kết_nối Internet của các thiết_bị cầm tay " , Kannabhiran cảnh_báo tại Hội_thảo " Hack_in_the_Box_Security " vừa diễn_ra ngày 28/9 tại Kuala_Lumpur , Malaysia . Hiện_nay , dịch_vụ điện_thoại ở một_số nước cho_phép mọi người quan_sát những gì diễn_ra bên trong một toà nhà qua web cam và thiết_bị cảm_ứng di_động . 
+Họ có_thể chụp ảnh và gửi tới chủ_nhân ngôi nhà đó nếu thấy có điều gì đó bất_thường . 
+Nhưng hacker sẽ nhanh_chóng tận_dụng phương_pháp này để theo_dõi và đột_nhập hoặc chụp hình để khống_chế , đe_doạ , tống_tiền ... 
+Nguy_hiểm hơn , ai đó sẽ xâm_nhập vào điện_thoại của lái_xe có chức_năng điều_khiển hệ_thống ôtô và ngắt hoạt_động một_số bộ_phận , như phanh xe , để trấn_lột . 
+Nguy_cơ virus trên điện_thoại_di_động đã tăng đáng_kể trong những năm qua khi điện_thoại thông_minh được cài nhiều phần_mềm hơn , cho_phép khách_hàng lướt web và sử_dụng chúng như những thiết_bị kỹ_thuật số cá_nhân . 
+Hãng bảo_mật Phần_Lan F-Secure cho_biết tổng_số virus di_động hiện_nay là 87 , trong khi năm_ngoái chưa xuất_hiện đến 10 biến_thể . 
+Trong số này có 82 chương_trình nguy_hiểm được viết để chạy trên điện_thoại sử_dụng Symbian_60 . Symbian đang là hệ_điều_hành điện_thoại_di_động phổ_biến nhất hiện_nay . 
+Số vụ tấn_công lớn không có nghĩa là phần_mềm kém bảo_mật hơn những hệ khác . 
+Nó đơn_giản cho_thấy mức_độ phổ_biến của các thiết_bị Symbian và chúng đang trở_thành miếng mồi ngon cho tác_giả virus khai_thác . 
+Symbyan hiện chiếm 62,8 % thị_phần hệ_điều_hành trên toàn thế_giới trong quý II/2005 , tiếp_theo là Microsoft với 15,9 % và PalmSource 9,5 % . 
+Ví_dụ điển_hình nhất về virus di_động là Cardtrap , lây_lan qua điện_thoại Symbian và có khả_năng khống_chế PC qua thẻ_nhớ . 
+Những dạng virus như thế này sẽ sớm lan_tràn trong thời_gian tới . 

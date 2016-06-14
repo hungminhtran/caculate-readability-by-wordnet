@@ -1,0 +1,13 @@
+Nguy_cơ xuất_hiện ' siêu_virus ' tiến_hoá từ Mytob 
+Nhiều dấu_hiệu gần đây cho_thấy HellBot , nhóm tác_giả sâu Mytob , đang lập kế_hoạch tạo một siêu phần_mềm có khả_năng lây_lan từ máy này sang máy khác cho đến khi không còn mục_tiêu tấn_công . 
+" Bằng_chứng cụ_thể nhất thể_hiện qua một loạt biến_thể sâu Mytob xuất_hiện gần đây , cho_thấy quá_trình phát_triển của nó mang tính hệ_thống cao " , Carole_Theriault , cố_vấn bảo_mật của hãng Sophos ( Anh ) , cho_biết . 
+" Chúng xuất_hiện đều_đặn theo một kế_hoạch tổ_chức cẩn_thận , có chiến_lược cụ_thể . 
+Kết_luận duy_nhất của chúng_tôi là HellBot đang tìm mã tối_ưu , phù_hợp nhất để phát_triển một siêu virus " . 
+Sự ra_đời của một siêu virus có khả_năng mở_rộng tấn_công đến khi không còn mục_tiêu luôn là nỗi ám_ảnh của các chuyên_gia bảo_mật . 
+Từ khi được phát_hiện vào tháng 2 , sâu Mytob đã ra_mắt hàng_loạt biến_thể , vô_hiệu_hoá nhiều thiết_lập bảo_mật trong máy bị nhiễm , dù những phiên_bản này không khác nhau rõ_rệt . 
+Trong tuần trước , trên 50 % trường_hợp gửi thông_báo đến hãng bảo_mật Sophos đều liên_quan đến sâu Mytob . Loại_Mytob mới_đây bao_gồm cả spyware và adware nhằm mục_đích kiếm tiền . 
+Còn sâu Mytob . BI , vừa xuất_hiện tuần trước , giả_dạng thông_điệp từ một nhà quản_trị mạng , cảnh_báo rằng tài_khoản e-mail của người nhận chuẩn_bị phải ngừng hoạt_động . 
+Nó quét ổ_cứng máy bị nhiễm và gửi bản_sao tới địa_chỉ e-mail tìm được trong Windows_Address_Book . 
+Virus cũng ngăn_chặn máy_tính truy_cập các trang cung_cấp công_cụ bảo_mật , đồng_thời mở cổng hậu cho tin_tặc điều_khiển_từ_xa . 
+Mytob đang lập kỷ_lục mới trong năm 2005 . Một_số hãng bảo_mật đánh_giá đây là phần_mềm nguy_hiểm nhất tháng 5 . 
+Sophos và Kaspersky_Labs ( Nga ) đã đưa biến_thể mới của Mytob vào danh_sách " tử_thần " và đang tiếp_tục theo_dõi động_thái của sâu này . 

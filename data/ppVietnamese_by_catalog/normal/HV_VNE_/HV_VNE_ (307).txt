@@ -1,0 +1,7 @@
+Gmail được trang_bị tính_năng quét virus 
+Hãng dịch_vụ tìm_kiếm Google vừa tuyên_bố hộp_thư hơn 2 GB của họ đã được trang_bị hệ_thống dò_tìm và xoá chương_trình nguy_hiểm chứa trong file đính kèm , đặc_biệt những tệp tin thi_hành ( executable ) . 
+Gmail sẽ tự_động quét tất_cả các tệp attachment mà người sử_dụng nhận được hay gửi đi . 
+Nó sẽ lập_tức xoá virus trong tệp bị nhiễm , hỗ_trợ mọi người truy_cập thông_tin an_toàn , đồng_thời ngăn họ gửi thông_điệp chứa mã_độc . 
+Trước đây , Google bảo_vệ người sử_dụng Gmail bằng cách chặn tất_cả những file đính kèm có dấu_hiệu của virus . 
+Công_ty phát_hành Gmail bắt_đầu từ tháng 4/2004 và hiện vẫn trong quá_trình thử_nghiệm . 
+Để mở tài_khoản mới , mọi người phải gửi một tin_nhắn SMS tới Google hoặc được mời qua e-mail bởi một người sử_dụng Gmail khác . 

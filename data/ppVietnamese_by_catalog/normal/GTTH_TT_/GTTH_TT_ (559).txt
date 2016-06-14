@@ -1,0 +1,14 @@
+Tết Nguyên_Đán : Cảnh_giác với tội_phạm công_nghệ cao ! 
+Theo thống_kê của nhiều người giữ nhiệm_vụ bảo_vệ hệ_thống thông_tin ở một_số cơ_quan nhạy_cảm tại VN , số vụ tấn_công , xâm_nhập của hacker trong các dịp tết dương_lịch , Noel đều tăng 35 - 50 % . 
+Con_số chắc_chắn sẽ còn cao hơn trong dịp Tết Nguyên_đán . 
+" Thứ nhất , vào dịp cuối năm , các hacker có trình_độ cao thường có thời_gian rỗi để " tìm_tòi " trong các hệ_thống mà họ quan_tâm " - chuyên_gia Đỗ_Ngọc_Duy_Trác , giám_đốc mạng an_toàn thông_tin VSEC ( http : / / www . security . com . vn ) , nhận_định . 
+Như một điều hiển_nhiên , vào cuối năm , nhất_là giáp tết , tần_suất truy_xuất , mua_bán trao_đổi qua mạng sẽ tăng vọt nên các hacker sẽ " trục_lợi " được nhiều nhất khi tấn_công thành_công vào các hệ_thống . 
+Sẽ có rất nhiều đơn hàng mua_bán qua mạng thông_qua các hệ_thống như Amazon … Đây là " cơ_hội vàng " cho dân " Ship hàng chùa " hay những kẻ làm giả thẻ thanh_toán tự_động … 
+Ông Trác đưa ra một_vài phân_tích thêm : tết cũng là thời_điểm mà lực_lượng nhân_sự vận_hành , bảo_vệ và giám_sát hệ_thống mỏng và mất tập_trung nhất nên sẽ là thời_điểm tốt nhất để hacker tấn_công . 
+Ngoài_ra , còn một vấn_đề liên_quan đến " tập_tính " làm_việc của các nhà quản_trị hệ_thống , đó là " nới lỏng " các biện_pháp bảo_vệ để có_thể truy_xuất vào hệ_thống từ xa ( quê_nhà ) . 
+Một ví_dụ điển_hình trên thế_giới là cuộc tấn_công thành_công của Kevin_Mitnick vào hệ_thống của Sun_Microsystem do chuyên_gia Shimomura bảo_vệ vào dịp Noel ( 24-12-1994 ) . 
+Với các nguy_cơ trên , vào dịp cuối năm những cá_nhân và tổ_chức có trách_nhiệm bảo_vệ hệ_thống nên : 
+- Backup các dữ_liệu , xây_dựng kế_hoạch phản_ứng nhanh và khôi_phục hệ_thống sau sự_cố . 
+- Bố_trí người trực_hệ thống đầy_đủ và nghiêm_túc . 
+- Áp_dụng các biện_pháp đầy_đủ để có_thể vận_hành hệ_thống từ xa một_cách an_toàn . 
+- Thiết_lập và duy_trì các kênh liên_lạc với các chuyên_gia để có khả_năng xử_lý sự_cố nhanh và chính_xác nhất . 

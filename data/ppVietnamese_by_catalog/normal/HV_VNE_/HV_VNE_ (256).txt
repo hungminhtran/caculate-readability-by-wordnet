@@ -1,0 +1,8 @@
+Trung_bình mỗi website lừa_đảo tồn_tại trong 5,5 ngày 
+Thông kê này là dấu_hiệu khả_quan cho_thấy những biện_pháp đối_phó với phishing đã có tác_dụng và đây được coi là chiến_thắng lớn của cộng_đồng an_ninh mạng . 
+Theo báo_cáo gần đây của tổ_chức chống lừa_đảo trực_tuyến APWG , số trang phishing được ghi_nhận vào giai_đoạn cao_điểm là 5.259 trong tháng 8 , còn tháng 6 có tổng_cộng 4.564 site được phát_hiện . 
+18 tháng trước đây , những kẻ xây_dựng trang web với mục_đích xấu có_thể tương_đối tự_tin rằng " công_trình " của chúng sẽ có hơn 1 tuần để hoành_hành , đủ cho chúng thu_thập thông_tin cá_nhân , ví_dụ tên người dùng , mật_khẩu đăng_nhập và những số_liệu nhạy_cảm khác . 
+Tuy_nhiên , hiện_nay các trang phishing được dò ra khá nhanh và nhà cung_cấp dịch_vụ Internet sẽ lập_tức khống_chế site đó ngay khi được thông_báo . 
+Những kẻ lừa_đảo cũng đang tìm nhiều thủ_thuật để đối_phó như thiết_lập nhiều site một lúc , để khi một trang_bị vô_hiệu_hoá , trang khác sẽ xuất_hiện , hoặc liên_tục chuyển hướng ( redirect ) người dùng sang địa_chỉ khác , thậm_chí theo từng phút . 
+Tuy_nhiên , phương_pháp này đồng_nghĩa với chi_phí cho một vụ phishing trót_lọt cũng sẽ rất cao . 
+" Nhưng trừ khi cái giá phải trả đắt hơn cả việc buôn_bán ma_tuý hay ăn_cắp xe_hơi , những kẻ lừa_đảo trực_tuyến sẽ không bao_giờ từ_bỏ mục_tiêu " , Peter_Cassidy , Tổng_thư_ký của APWG , nói . 

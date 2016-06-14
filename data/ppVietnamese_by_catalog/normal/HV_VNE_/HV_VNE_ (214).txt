@@ -1,0 +1,10 @@
+Lỗi nghiêm_trọng mới trong PHP 
+Một lỗ_hổng bảo_mật có nguy_cơ ảnh_hưởng lớn đến giao_thức web service phổ_biến PHP và tạo điều_kiện cho tin_tặc kiểm_soát toàn_bộ những máy_chủ lỗi . 
+Lỗ_hổng xuất_hiện trong XML-RPC cho PHP và PEAR XML-RPC , liên_quan một loạt ứng_dụng web , đặc_biệt các blog và phần_mềm quản_lý nội_dung dựa trên PHP . 
+Hacker có_thể tận_dụng phương_pháp tương_tự như đã từng thực_hiện với những lỗi trước đâybằng lệnh eval( ) . 
+Nhóm Hardened-PHP ( Mỹ ) cho_biết : Để loại_bỏ mối đe_doạ này cũng như những khả_năng lây_nhiễm của eval( ) trong tương_lai , chúng_tôi đang xây_dựng bản nâng_cấp cho cả hai chương_trình để hoàn_toàn loại_bỏ nguy_cơ khi sử_dụng eval( ) . 
+Hệ_thống gọi thủ_tục từ xa như XML-RPC sử_dụng HTTP nhằm tăng sức_mạnh cho Web service . 
+Đây là phương_pháp đơn_giản và ngày_càng phổ_biến trong việc cung_cấp dịch_vụ trực_tuyến . 
+XML-RPC cho PHP , còn gọi là PHPXMLRPC , và PEAR XML-RPC là những chương_trình vận_hành XML-RPC cho ngôn_ngữ scripting PHP , mặt trong nhiều ứng_dụng quan_trọng như PostNuke , Drupal , b2evolution và TikiWiki . 
+Phiên_bản PEAR XML-RPC 1 . 4.0 đã giải_quyết lỗi này và có_thể được tải trên website của PEAR . 
+Người dùng cũng được phép tải PHPXMLRPC 1.2 trên trang dự_án của chương_trình . 

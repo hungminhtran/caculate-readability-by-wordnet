@@ -1,0 +1,27 @@
+Hạ_gục máy_chủ e-mail chỉ bằng 1 ' cú đánh ' 
+Tấn_công thu_thập địa_chỉ mail ( Directory harvest attacks - DHA ) đang trở_thành một nguy_cơ mới , đe_doạ trực_tiếp đến mail server , khiến chúng bị quá_tải và có_thể sụp_đổ bất_cứ lúc nào vì hàng_loạt truy_vấn không nghỉ . 
+Những kẻ chuyên gửi thư rác sẽ liên_tục kết_nối tới máy_chủ e-mail nhằm cố_gắng tìm_kiếm các địa_chỉ có thực để sử_dụng cho việc gửi spam về sau này . 
+Trước hàng_loạt truy_vấn này , server sẽ bị quá_tải , giảm hiệu_suất làm_việc và thậm_chí là ngừng hoạt_động . 
+DHA đang giết chết các máy_chủ e-mail một_cách thầm_lặng , Chris_Smith , Giám_đốc makerting của công_ty dịch_vụ kiểm_soát spam Postini đồng_thời là người sáng_lập công_ty E-mail_Security ( Mỹ ) , bình_luận . 
+Đây là một hiểm_hoạ rất nguy_hiểm nhưng lại chưa được cảnh_báo nhiều . 
+Hiện_tại , hình_thức tấn_công này đã trở_thành công_cụ thu_thập địa_chỉ e-mail cho spa mmer . 
+Thêm vao đó , DHA lại rất khó chống_đỡ . 
+Để minh_hoạ rõ hơn về DHA , Smith đã đưa ra đưa ra những nỗ_lực của Postini trong năm 2004 làm ví_dụ . 
+Trung_bình , mỗi ngày công_ty này đã bẻ gãy 150 cuộc tấn_công như thế vào 1 khách_hàng . 
+Hiện_tại , Postini có đến 5.000 đối_tác luôn cần sự giúp_đỡ của họ . 
+Cũng theo Smith , trong mỗi cuộc tấn_công , trung_bình 234 địa_chỉ e-mail không hợp_lệ được spa mmer tìm_kiếm , tạo ra con_số trung_bình 35.000 cuộc tìm_kiếm mỗi ngày đối_với 1 mail server . 
+Để giải_quyết hết khối_lượng công_việc khổng_lồ đó , máy_chủ phải làm_việc hết công_suất , trong vài trường_hợp đã dẫn đến quá_tải và hỏng_hóc . 
+Đó là một khối_lượng công_việc vô_ích rất lớn mà server phải làm , Smith bình_luận . 
+Bạn hãy tưởng_tượng rằng mỗi cuộc tấn_công đơn_lẻ chỉ nhẹ_nhàng như 1 con muỗi đốt . 
+Tuy_nhiên , nếu_như bị 40.000 con tấn_công , chắc_chắn bạn sẽ chết . 
+Trong tháng 12 vừa_qua , công_ty Postini đã giám_sát cuộc tấn_công DHA lớn nhất từ trước đến nay . 
+Mục_tiêu được kẻ tấn_công nhắm đến là máy_chủ e-mail của một hãng bán lẻ hàng_hoá ở Bắc_Mỹ với số_lượng 60.000 truy_vấn trong vòng 1 phút . 
+Nếu không được bảo_vệ thì chỉ với 1 cuộc tấn_công DHA , hạ_tầng e-mail của họ hoàn_toàn có_thể bị đánh sập , Smith nhận_xét . 
+Công_ty Postini cũng nhấn_mạnh rằng số_lượng các cuộc tấn_công DHA đã tăng lên 3 lần trong năm 2004 so với 1 năm trước đó . 
+Hình_thức tấn_công này luôn đi kèm với spam . 
+Chúng_tôi đã chứng_kiến được cảnh ngay sau khi cuộc tấn_công bằng DHA kết_thúc , ngay_lập_tức hàng_loạt thư rác ập đến , Smith cho_biết . 
+Có_thể DHA sẽ không tăng gấp 3 lần như trong năm vừa_qua nhưng theo Smith , tình_hình trong năm nay sẽ tiếp_tục nóng_bỏng : Hình_thức tấn_công này sẽ trở_nên ác_liệt hơn . 
+Mọi người đang trở_nên khôn_ngoan hơn nên chẳng dại phơi_bày địa_chỉ e-mail của mình trên các trang web . 
+Vì vậy , spa mmer sẽ dùng DHA để thu_thập địa_chỉ e-mail . 
+Theo nhiều báo_cáo khác nhau , 80 % e-mail gửi đi trong năm vừa_qua là thư rác . 
+Con_số này lên đến 90 % nếu kể thêm những e-mail được gửi đi bằng con đường DHA hay các thư có dính kèm virus . 

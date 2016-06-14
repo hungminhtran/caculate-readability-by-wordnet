@@ -1,0 +1,30 @@
+Hỏi đáp về bệnh cúm A ( phần 4 ) Thịt gia_cầm có_thể làm lây_nhiễm H5N1 trong khi chế_biến . 
+Mặc_dù virus H5N1 sẽ chết khi thịt và trứng gia_cầm bệnh được nấu chín , nhưng trong quá_trình chế_biến trước khi nấu , virus có_thể truyền sang bà nội_trợ hoặc những người xung_quanh và gây bệnh . 
+Bệnh SARS và cúm gà có gì khác nhau , hay đều là viêm đường hô_hấp cấp ? 
+Hai bệnh trên có 2 căn_nguyên khác nhau . 
+SARS do virus corona SARS , còn cúm gà do virus H5N1 gây ra . 
+Tỷ_lệ tử_vong do SARS xấp_xỉ 10 % , còn ở cúm gà là 30-70 % . 
+Song cả 2 bệnh nói trên đều có đường lây chính là đường hô_hấp ; dấu_hiệu lâm_sàng là viêm phổi cũng nhiều điểm giống nhau , có hình_ảnh tổn_thương kiểu viêm phổi điển_hình trên phim X-quang . Đã có test phát_hiện nhanh , chính_xác bệnh cúm A chưa ? 
+Hiện đã có test nhanh phát_hiện sớm virus cúm H5N1 theo nguyên_lý miễn_dịch sắc_ký . 
+Độ nhanh , nhạy , đặc_hiệu của nó đang được các nhà sản_xuất hoàn_thiện thêm . 
+Còn test nhanh phát_hiện cúm A nói_chung đã phổ_biến trên thị_trường và có tác_dụng sàng_lọc các bệnh_nhân nghi nhiễm . 
+Việc khẳng_định nhiễm virus cúm A và xác_định các phân type bắt_buộc phải có kết_quả dương_tính của một trong các xét_nghiệm sau : - Phát_hiện vật_liệu di_truyền ARN của virus bằng phản_ứng RT-PCR . 
+- Phân_lập được virus thông_qua nuôi_cấy trên hệ_thống tế_bào cảm_nhiễm và định loại virus bằng phản_ứng miễn_dịch huỳnh_quang hoặc ức_chế ngưng kết hồng_cầu . 
+- Phát_hiện kháng_thể đặc_hiệu virus bằng thử_nghiệm ELISA trung_hoà trên huyết_thanh . 
+Để xét_nghiệm phát_hiện virus H5N1 , cần lấy bệnh_phẩm gì và ai được phép lấy ? 
+Bệnh_phẩm dùng cho xác_định nhiễm H5N1 gồm : dịch hầu họng hoặc dịch phế_quản ; huyết_thanh bệnh_nhân trong giai_đoạn cấp ( huyết_thanh 1 ) , và giai_đoạn hồi_phục ( huyết_thanh 2 , thu_thập 10-15 ngày sau khi lấy huyết_thanh 1 ) . 
+Những người thu_thập bệnh_phẩm là : nhân_viên phòng thí_nghiệm đã được tập_huấn về cách thu_thập bệnh_phẩm và phương_pháp bảo_hộ cá_nhân ; các bác_sĩ lâm_sàng ( trong trường_hợp bệnh_nhân nặng cần hỗ_trợ thở ) . 
+Chu_kỳ gây dịch của virus cúm là bao_lâu ? 
+Đại_dịch cúm có chu_kỳ khoảng 10-15 năm . 
+Các vụ dịch nhỏ , dịch có tính tản phát ở từng địa_phương xảy_ra với chu_kỳ 2-3 năm , thậm_chí hằng năm ; đi cùng với sự biến_đổi nhỏ của kháng_nguyên virus cúm cũng như sự xuất_hiện những nhóm người cảm_nhiễm với virus mới ( trẻ mới sinh , dân di_cư ) . 
+Virus cúm có_thể sống và truyền bệnh ngoài môi_trường bao_lâu ? 
+Bản_chất của virus cúm là lipoprotein nên có sức đề_kháng yếu và dễ bị mất hoạt_lực bởi bức_xạ mặt_trời có chứa tia_tử_ngoại , bởi nhiệt_độ trên 56 độ C ( trong vòng vài chục phút ) và bởi các chất dung_môi hoà_tan lipid , chất_khử trùng như formaldehyde , chloramin , cồn ... 
+Tuy_nhiên , virus cúm thường lẫn trong dịch xuất tiết của đường hô_hấp và được bao_bọc trong màng_nhầy của chất này nên có_thể sống lâu hơn ở môi_trường bên ngoài , nhất_là trong mùa lạnh . 
+Trong điều_kiện này , nó có_thể duy_trì hoạt_lực ở môi_trường nhiều giờ hoặc 1-2 ngày . 
+Với virus H5N1 , có_thể do đã thích_ứng cao trên các loài chim hoang_dã nên khả_năng tồn_tại ở môi_trường có_thể cao hơn : trong phân gia_cầm tới hàng tháng , trong sản_phẩm gia_cầm bảo_quản lạnh tới hàng năm . 
+Chúng chỉ bị diệt ở 70 độ C trong 30 phút , hoặc ở môi_trường axit , kiềm sau nhiều giờ . 
+Vai_trò truyền mầm bệnh cúm ở các sản_phẩm gia_cầm ( trứng và thịt ) như thế_nào ? 
+Ngoài chất_thải tiêu_hoá và đường thở , các sản_phẩm từ gia_cầm ốm ( như trứng , thịt ) ở vùng có dịch cúm đều có vai_trò truyền bệnh . 
+Mặc_dù virus cúm H5N1 sẽ bị chết sau khi nấu chín thức_ăn nhưng trong quá_trình giết_mổ , chế_biến trước đun_nấu , có_thể các sản_phẩm từ gia_cầm đã bị nhiễm virus và nó là nguy_cơ truyền tác_nhân gây bệnh cho người chế_biến và cả những người xung_quanh . 
+Ở trứng gia_cầm , mầm bệnh có_thể truyền vào phần bên trong của trứng . 
+Nếu vỏ trứng lại dính phân gia_cầm bệnh thì khả_năng lây_nhiễm càng lớn . 

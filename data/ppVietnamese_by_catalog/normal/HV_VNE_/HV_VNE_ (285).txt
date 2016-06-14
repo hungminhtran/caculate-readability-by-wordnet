@@ -1,0 +1,13 @@
+Doanh_nghiệp trăn_trở về bảo_mật hơn chi_phí quản_lý 
+Khi virus và phần_mềm nguy_hiểm bùng_phát , những biện_pháp để ngăn_chặn tình_trạng rò_rỉ thông_tin trong quá_trình triển_khai mạng IP đồng_quy ( converged IP ) trở_thành mối quan_tâm hàng_đầu của người điều_hành công_ty . 
+Theo nghiên_cứu mới_đây của EIU ( Anh ) và ATT ( Mỹ ) , 26 % trong số 236 nhà quản_lý doanh_nghiệp tại 50 nước tham_gia điều_tra thừa_nhận bảo_mật là vấn_đề khiến họ lo_ngại nhất . 
+Trong khi đó , chỉ có 23 % đánh_giá chi_phí triển_khai là điều đáng bận_tâm nhất và 19 % lựa_chọn " khoản đầu_tư cho thiết_bị mới " . 
+62 % số người tham_gia cho_biết có khả_năng họ sẽ vẫn thiết_lập mạng IP trong 3 năm tới , dù 63 % công_nhận rằng quá_trình xử_lý dữ_liệu khách_hàng trực_tuyến có_thể ảnh_hưởng xấu đến tình_trạng bảo_mật . 
+Bên cạnh đó , thiết_bị di_động đang được sử_dụng rộng_rãi hơn trong công_ty , mở ra nhiều con đường xâm_nhập mạng . 
+Theo các nhà quản_lý , nguy_cơ an_ninh thực_sự xuất_phát từ chính nhân_viên trong doanh_nghiệp . 
+Họ tin rằng hầu_hết các cuộc tấn_công xảy_ra là do nguyên_nhân nội_tại như cố_ý phá_hoại , gián_điệp kinh_tế hay đơn_giản chỉ là những lỗi không chủ_định . 
+Một_số mối đe_doạ khác như lừa_đảo trực_tuyến , với mánh_khoé xây_dựng site giống_hệt trang web thương_mại để thu_thập tên và mật_khẩu người dùng , sẽ tăng nhanh trong nhiều tổ_chức kinh_doanh thời_gian tới . 
+DoS cũng đang hướng mũi tấn_công trực_tiếp vào các viện tài_chính bằng những biện_pháp tinh_vi và chính_xác hơn . 
+Doanh_nghiệp đang trở_thành nạn_nhân của những tay tội_phạm mạng chuyên kiếm tiền bất_chính , chứ không phải " những cậu bé tò_mò về công_nghệ " như trước đây . 
+Công_ty ATT , hiện kiểm_soát khoảng 18-20 % lưu_thông mạng , đã tiến_hành cuộc điều_tra nhằm sớm tìm ra biện_pháp đối_phó trước khi vấn_đề bảo_mật lan rộng . 
+" Đợi đến khi một điều gì đó xảy_ra rồi mới hành_động luôn_luôn là quá muộn " , Kees_Vos , một giám_đốc của ATT , khẳng_định . 

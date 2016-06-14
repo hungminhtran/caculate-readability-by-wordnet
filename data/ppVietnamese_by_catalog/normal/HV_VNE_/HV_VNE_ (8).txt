@@ -1,0 +1,8 @@
+ISP bị cướp tên_miền 
+Một nhà cung_cấp dịch_vụ Internet ở New_York ( Mỹ ) hôm_qua xác_nhận họ đang phải tìm cách thu_hồi lại domain và dịch_vụ e-mail của mình sau một vụ tấn_công khống_chế . 
+Đại_diện của nạn_nhân , hãng Panix . com , cho_biết quyền sở_hữu tên_miền này đã bị chuyển_đổi tối hôm 14/1 sang cho một công_ty ở Australia , hồ_sơ máy_chủ tên_miền ( DNS ) thì bị chuyển sang Anh còn hệ_thống mail của công_ty thì bị lái sang cho một doanh_nghiệp ở Canada . Panix cho_biết hầu_hết khách_hàng sẽ hoặc không_thể truy_cập vào tên_miền Panix . com hoặc sẽ bị dẫn tới một địa_chỉ khác . 
+E-mail gửi tới tên_miền này cũng đang được dẫn về một địa_chỉ khác và tất_cả số thư đó đều được coi là mất hoặc bị khống_chế . 
+Hiện_nay chưa xác_định được domain của Panix đã bị chuyển_đổi như thế_nào trong khi người đại_diện của nạn_nhân tỏ_ra rất phẫn_uất với đơn_vị cấp_phát tên_miền mà họ đăng_ký . 
+Panix được thành_lập năm 1989 , chuyên cung_cấp dịch_vụ truy_cập Internet và thư_điện_tử cho các địa_phương ở Mỹ như New_York , Long_Island , Westchester , Rockland và New_Jersey . 
+Tháng 9 năm_ngoái , cảnh_sát Đức bắt được một thiếu_niên dính_líu đến việc bắt_cóc tên_miền của website eBay tại Đức . 
+Vụ tấn_công này xảy_ra vào cuối tháng 8 khi người truy_cập địa_chỉ eBay . de được dẫn tới một DNS khác và tất_nhiên là không_thể tham_gia các cuộc mua_bán ở mạng giao_dịch trực_tuyến này . 

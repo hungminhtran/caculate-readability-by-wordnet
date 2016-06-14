@@ -1,0 +1,10 @@
+Ra_tay ' hành_hiệp ' bằng virus 
+Các chuyên_gia tại Trung_tâm nghiên_cứu , phân_tích spam và virus của hãng Sophos ( Anh ) vừa phát_hiện một sâu mới mang tên Nopir . B được phát_tán với mục_đích trừng_phạt những kẻ " coi_thường pháp_luật , dám xâm_phạm các file nhạc trên mạng " . 
+Hình_ảnh hiển_thị trên máy nhiễm sâu Nopir . B . 
+Sâu W32/Nopir . B , có nguồn_gốc từ Pháp , lây_lan qua các hệ_thống chia_sẻ ngang hàng ( peer-to-peer ) , lấy mục_tiêu là các đối_tượng sao_chép file để sản_xuất và kinh_doanh DVD . Virus hiển_thị một hình_hoạ mang nội_dung chống xâm_phạm bản_quyền và tìm cách xoá tất_cả các tệp nhạc MP3 , phá hỏng nhiều tiện_ích của hệ_thống cũng như các chương_trình có đuôi .COM trong máy bị nhiễm . 
+Việc ăn_cắp nhạc và phim đang lan_tràn trên Internet , tiêu tốn của ngành công_nghiệp giải_trí hàng triệu USD mỗi năm . 
+Sâu_Nopir . B nhắm vào những kẻ tải nhạc trái_phép , nhưng lại thất_bại trong việc phân_biệt giữa tội_phạm thực_sự và những người tự_tạo các tệp MP3 cho riêng họ , Graham_Cluley , cố_vấn công_nghệ cao_cấp của Sophos , cho_biết . 
+Dù nhìn_nhận theo khía_cạnh nào cũng không_thể nói virus này là ' vô_tội ' vì nó gây thiệt_hại quá lớn cho người dùng máy_tính Windows . 
+Mặc_dù chưa có nhiều thông_báo về Nopir . B , Sophos khuyến_cáo người dùng máy_tính phải luôn đảm_bảo phầm mềm diệt virus được cập_nhật và các doanh_nghiệp cần tự bảo_vệ với các giải_pháp cụ_thể để tránh mối đe_doạ spam và virus . 
+Việc xâm_phạm bản_quyền trên mạng , như phân_phối nhạc , phim , các chương_trình TV bất_hợp_pháp đang là vấn_đề bức_xúc gần đây . 
+Tuần trước , một người đàn_ông ở Canada đã mất việc vì tung lên mạng phần đầu trong loạt phim khoa_học Doctor_Who của đài BBCba tuần trước khi nó chính_thức được phát_sóng . 

@@ -1,0 +1,32 @@
+Thuê_bao MobiFone có nguy_cơ bị mất tiền oan 
+Sau sự_cố lộ cơ_sở_dữ_liệu tuần trước , MobiFone cam_đoan mạng của mình có độ an_toàn cao và sự_cố xảy_ra chưa đến_nỗi nghiêm_trọng . 
+Tuy_nhiên , đại_diện mạng di_động lớn thứ 2 VN này thừa_nhận , khách_hàng có_thể thiệt_hại tới 2.000 đồng / ngày nếu bị hacker dùng trộm tài_khoản để gửi tin_nhắn . 
+Ngay sau khi VnExpress đăng tin về việc cơ_sở_dữ_liệu MobiFone bị lộ , nhiều độc_giả đã gửi thư về , họ tỏ rõ lo_ngại khi những dữ_liệu bí_mật riêng_tư về số sim , lịch_sử cuộc gọi của mình có_thể bị lộ do hacker tấn_công . 
+Nhiều người cũng tỏ rõ nghi_ngờ , phải_chăng những vụ trục_trặc mất tiền trong tài_khoản , không thực_hiện cuộc gọi , lộ danh_tính và nhật_ký cuộc gọi cũng do các hacker gây ra . 
+Chủ thuê_bao số 090342xxxx cho rằng , MobiFone chưa làm hết trách_nhiệm với khách_hàng khi mở ra dịch_vụ tra cước , nhập mạng ... 
+mà không kiểm_soát hết được hậu_quả . 
+" Thật tai_hại nếu điều này xảy_ra với tôi , tôi cảm_thấy như mình bị theo_dõi và cuộc_sống của tôi sẽ bất_an . 
+Khi ấy thiệt_hại sẽ không_thể tính được bằng tiền mà nó sẽ lớn hơn , đó là giá_trị tinh_thần " , chủ thuê_bao này nói . 
+Chị Hương , chủ thuê_bao 090346xxxx cũng nhấn_mạnh , chiếc điện_thoại cũng giống như một cuốn nhật_ký , nó ghi lại những sự_việc diễn_ra hằng ngày và với cả những gì riêng_tư nhất . 
+" Hãy thử tưởng_tượng , cuốn nhật_ký ấy bị người khác đọc và sau đó bị phát_tán rộng_rãi , hậu_quả sẽ ra_sao . 
+Phải_chăng những sự_kiện để lộ thông_tin cho khách_hàng , nghẽn mạch mà báo_chí phản_ánh thời_gian gần đây là do hacker gây ra " , chị nói . 
+Trao_đổi với báo_giới , ông Nguyễn_Mạnh_Hùng - Trưởng phòng Tin_học , tính cước của MobiFone - cũng thừa_nhận việc mạng MobiFone bị hacker tấn_công là hoàn_toàn có thật . 
+Tuy_nhiên , việc tin_tặc có_thể sử_dụng tài_khoản của khách_hàng khác trên server để nhắn tin chùa hay tự_động tạo account của bất_cứ số điện_thoại nào thuộc mạng MobiFone hòng kiểm_soát thông_tin thuê_bao đó thông_qua hệ_thống website ... 
+là không đáng tin_cậy . 
+" Chúng_tôi khẳng_định mạng của mình có độ an_toàn tốt nhất Việt_Nam hiện_nay và được chia làm nhiều lớp bảo_mật " , đại_diện của MobiFone cho_biết . 
+" Bộ_phận lọc của hệ_thống an_ninh này có_thể ' bắn rụng ' các hacker xâm_nhập trái_phép , sau đó mới đến bức tường lửa " . 
+Theo MobiFone , nhờ hệ_thống bảo_mật này nên trung_bình mỗi ngày có khoảng 60 cuộc tấn_công bất_hợp_pháp vào mạng MobiFone nhưng đều bị thất_bại . 
+" Tôi cho rằng cuộc_chiến giữa hacker và nhà cung_cấp dịch_vụ là cuộc_chiến không có hồi kết " , ông Hùng nói . 
+" Và lỗ_hổng bảo_mật trên hệ_thống đã được chúng_tôi vá lại " . 
+Tuy_nhiên , Mạng an_toàn thông_tin VSEC , đơn_vị nhiều lần đưa ra những cảnh_báo đối_với hệ_thống bảo_mật của MobiFone , lại không nghĩ như vậy . 
+Giám_đốc kỹ_thuật của VSEC Phùng_Anh_Tuấn khẳng_định , hệ_thống mạng MobiFone mắc lỗi của Oracle_9iAS JEE_Webserver ( 9 . 0 . 3 . 0.0 ) , cho_phép hacker có_thể tải bất_cứ file JSP trên hệ_thống website về , giúp hacker nghiên_cứu và nắm được hệ_thống www . mobifone.com.vn . 
+Ngoài_ra , những kẻ đột_nhập cũng có_thể lợi_dụng sơ_hở này để thực_hiện lệnh truy_vấn thông_tin máy_chủ nhằm xem cấu_trúc thư_mục , file trên server . 
+Người của VSEC cho rằng , firewall là một thiết_bị an_toàn thông_tin và khả_năng của tường lửa là hữu_hạn . 
+" Chúng_tôi có những nghiên_cứu chuyên_sâu về vấn_đề này và không hiểu làm thế_nào mà firewall của MobiFone có_thể ngăn_chặn các cuộc tấn_công vào web application thông_qua port 80 và dùng protocol HTTP " , ông Tuấn đặt nghi_vấn . 
+" Các vụ tấn_công này có_thể được thực_hiện như một truy_xuất bình_thường của user vào hệ_thống www . mobifone . com . vn , firewall của MobiFone có ngăn_chặn các truy_xuất này không ? " . 
+Và đại_diện của VSEC vẫn khẳng_định , lỗi trên hệ_thống bảo_mật của MobiFone khiến hacker có_thể lấy mã nguồn và nhiều khả_năng lấy cả cơ_sở_dữ_liệu của hệ_thống website . 
+Thậm_chí , kẻ quấy_rối có_thể sử_dụng tài_khoản trên website này để nhắn tin miễn_phí , xem thông_tin cá_nhân của tài_khoản bất kỳ& 
+Trong khi những tranh_cãi , đấu_lý giữa hai đơn_vị còn chưa ngã_ngũ , trên các diễn_đàn tin_học có thông_tin về một_số code và cơ_sở_dữ_liệu của MobiFone đã bị hacker nắm_giữ và phát_tán . 
+Bởi hiện_nay , có khoảng trên 200.000 khách_hàng của MobiFone đăng_ký sử_dụng MobiPortal . Dù khăng_khăng khẳng_định sự_cố xảy_ra chưa đến_nỗi nghiêm_trọng , song đại_diện của MobiFone cũng cho rằng , khách_hàng chỉ có_thể thiệt_hại tối_đa đến 2.000 đồng / ngày nếu bị hacker sử_dụng SMS chùa . 
+" Tuy_nhiên , đến nay , chưa có khách_hàng nào thông_báo cho chúng_tôi việc bị lộ thông_tin cá_nhân và những thiệt_hại " , vị đại_diện này nói . 
+Theo các chuyên_gia , thiệt_hại không_thể tính bằng tiền bởi một_khi những " kẻ xâm_phạm " sử_dụng thông_tin cá_nhân của thuê_bao ( như lịch_sử cuộc gọi , nhắn tin , trạng_thái hoạt_động của thuê_bao , số sim ... ) để làm những chuyện khác thì khi ấy sẽ không_thể tính được mức_độ thiệt_hại của khách_hàng . 

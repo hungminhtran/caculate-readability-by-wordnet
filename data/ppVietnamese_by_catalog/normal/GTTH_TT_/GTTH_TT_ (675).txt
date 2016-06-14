@@ -1,0 +1,40 @@
+Thêm một_số mã_số " bí_mật " của máy Samsung 
+Kỳ này chúng_tôi xin cung_cấp các mã_số " bí_mật " của máy V200 , nhưng các mã_số " nhạy_cảm " chúng_tôi không đưa vào nữa . 
+#9324# 
+Hiển_thị màn_hình thông_tin về mạng di_động ( Network_monitor ) 
+#9998 Help# 
+Hiển_thị màn_hình trợ_giúp , liệt_kê tất_cả các mã . 
+#9998 LOGO# 
+Thay_đổi logo của nhà cung_cấp dịch_vụ mạng 
+#9998 RTC# 
+Hiển_thị màn_hình RTC 
+#9998 Bat# 
+Thông_tin về trạng_thái của pin 
+#9998 Buz# 
+Bật âm_thanh cảnh_báo 
+#9998 Vib# 
+Bật chế_độ rung 
+#9998 9999# 
+Phiên_bản phần_mềm 
+#9998 8888# 
+Phiên_bản phần_cứng 
+#9998 377# 
+Các lỗi trong bộ_nhớ NVM ( Non-Volatile_Memory ) của máy 
+#9998 NET# 
+Hiển_thị thông_tin về mạng 
+#9998 778# 
+Hiển_thị bảng các dịch_vụ của SIM 
+#9998 SIM# 
+Thông_tin về SIM 
+#9998 PN# 
+Hiển_thị số sản_phẩm 
+#9998 NVM# 
+Hiển_thị trạng_thái của bộ_nhớ NVM 
+#06# 
+Hiển_thị số IMEI 
+2767 MEDIA# 
+Xoá tất_cả âm_thanh / hình_ảnh được tải về máy trong quá_trình sử_dụng 
+2767 JAVA# 
+Xoá tất_cả chương_trình Java được tải về máy trong quá_trình sử_dụng 
+2767 WAP# 
+Khôi_phục các thông_số cài_đặt cho WAP , xoá tất_cả địa_chỉ được lưu trong Boo kmark . 

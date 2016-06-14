@@ -1,0 +1,8 @@
+3 hacker khống_chế tới 1,5 triệu máy_tính 
+Kết_quả điều_tra sau vụ bắt giữnhững kẻ tình_nghi người Hà_Lan ngày 6/10 cho_thấy quy_mô mạng máy_tính bị chúng kiểm_soát lớn hơn 15 lần so với ước_tính ban_đầu . 
+Trước đây , cảnh_sát Hà_Lan đã phỏng_đoán có khoảng 100.000 cỗ máy bị lợi_dụng để thực_hiện âm_mưu bất_chính và coi đó là mạng zombie lớn nhất bị phát_hiện . 
+Tuy_nhiên , nhà chức_trách đã lần ra tới 1,5 triệu máy_tính và máy_chủ bị nhiễm sâu Toxbot . 
+Trong số đó , có hơn 30.000 PC đang hoạt_động tại Hà_Lan . Hệ_thống máy_tính ma ( zombie ) này hỗ_trợ đắc_lực cho việc gửi thư rác hoặc thực_hiện tấn_công từ_chối dịch_vụ DDoS . 
+Cả 3 thủ_phạm nói trên bị buộc_tội tống_tiền một công_ty của Mỹ và đang lưu_giữ một lượng lớn tài_khoản ăn_cắp trên hệ_thống thanh_toán trực_tuyến PayPal và eBay để thực_hiện giao_dịch không mất tiền . 
+Giới quan_chức Hà_Lan cho_biết kẻ tình_nghi 27 tuổi trong số 3 tên đã được thả vì " lý_do cá_nhân " trong quá_trình chờ phiên_toà sơ_thẩm . 
+Theo một_số nguồn tin , lượng người bị bắt có_thể sẽ không_chỉ dừng lại ở con_số 3 sau khi vụ án tiếp_tục được mở_rộng điều_tra . 

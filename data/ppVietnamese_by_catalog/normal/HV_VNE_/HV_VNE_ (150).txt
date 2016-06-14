@@ -1,0 +1,11 @@
+Trojan mới xoá sạch dữ_liệu trong ĐTDĐ Symbian 
+Doomboot . A . , với mục_tiêu tấn_công là điện_thoại_di_động Series 60 nhằm tiêu_hao năng_lượng và xoá toàn_bộ dữ_liệu trong máy , mới_đây đã được hãng F-Secure phát_hiện . 
+Theo Anton_Von_Troyer , phụ_trách thị_trường của hãng F-Secure , một_số người sử_dụng thiết_bị chạy trên hệ Symbian đã gặp virus này khi tải lậu game chứa phần_mềm nguy_hiểm về điện_thoại . 
+F-Secure ước_tính sẽ có tới 30 triệu thiết_bị di_động có nguy_cơ bị ảnh_hưởng bởi Trojan . 
+Tuy_nhiên , hãng cũng khẳng_định Doomboot . A chỉ trở_nên thực_sự nguy_hiểm nếu đi kèm với sâu Co mmwarrior . B . Co mmwarrior . B phát_tán qua thông_điệp MMS và kết_nối Bluetooth , hai tính_năng chuẩn của điện_thoại thông_minh . 
+" Sâu sẽ liên_tục gửi thông_điệp MMS vào máy để ngốn sạch pin trong thời_gian chưa đến một giờ " , Von_Troyer giải_thích . 
+" Người sử_dụng không_thể tống_khứ sâu này và ngăn tin_nhắn MMS trừ khi họ định_dạng ( format ) lại điện_thoại và việc này đồng_nghĩa với mất hết toàn_bộ dữ_liệu như ảnh , lịch làm_việc , danh_bạ ... " . 
+Hầu_hết mọi người thường không để_ý thiết_bị của họ đã bị nhiễm , bởi không có bất_cứ thông_báo rõ_ràng nào , trừ biểu_hiện duy_nhất là pin bị tiêu_hao cực nhanh . 
+Von_Troyer khuyến_cáo người dùng nói_chung không nên vào website để tải nội_dung giải_trí như game , ảnh ... 
+lậu , và cần sử_dụng chương_trình diệt virus cho thiết_bị cầm tay của mình . 
+Tải phần_mềm diệt Doomboot . A . tại đây . 

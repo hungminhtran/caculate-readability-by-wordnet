@@ -1,0 +1,17 @@
+Hack qua TV để thay_đổi thông_tin dịch_vụ khách_sạn 
+Khi Adam_Laurie thuê phòng khách_sạn , anh ta có_thể thâm_nhập để theo_dõi chương_trình TV ở các phòng khác , chỉnh_sửa hoá_đơn quầy bar và thực_hiện cuộc gọi miễn_phí . 
+Hacker người Mỹ này không_thể theo_dõi được người khác đang làm gì nhưng anh biết được họ xem gì trên TV và theo chân họ lướt web . 
+Khi kết_nối laptop với hệ_thống TV , Laurie còn có khả_năng kiểm_soát hoạt_động của khách_sạn . 
+Để trêu đùa , anh_chàng đã thay_đổi thông_tin của nhiều người , coi như họ đã hết ngày thuê phòng hoặc đặt cuộc gọi đánh_thức họ dậy vào giữa đêm . 
+Phương_pháp tấn_công của Laurie khá đơn_giản . 
+Anh ta thực_hiện được tất_cả những điều này bởi hệ_thống TV ở khách_sạn hoạt_động theo cơ_chế mà Laurie gọi là " bảo_mật đảo " . 
+Hầu_hết khách_sạn đều có chương_trình quản_lý riêng để thu tiền khách_hàng khi họ vào các kênh thuê_bao , qua địa_chỉ ID đặt riêng cho từng TV trong phòng . 
+Chỉ cần thay_đổi ID là người dùng có_thể truy_cập thông_tin ở phòng khác . 
+Hơn thế , các kênh thu phí thực_ra được phát_sóng cả ngày , nếu mang TV riêng , hoặc laptop với bộ dò sóng USB , người dùng cũng có khả_năng được kết_nối vệ_tinh . 
+Laurie thậm_chí còn chui được vào nhiều hệ_thống khác lưu_thông tin về hoá_đơn thanh_toán , số điện_thoại , hồ_sơ dịch_vụ và chế_độ kiểm_soát video ... 
+Tuy_nhiên , đổi ID hay tìm mã_số hoá_đơn cũng đòi_hỏi một_vài kỹ_năng nhất_định . 
+Do đó , Laurie dùng một thiết_bị hồng_ngoại để kết_nối tới laptop và viết chương_trình gửi mã đến TV . 
+Sau đó anh xâm_nhập vào hệ_thống phụ_trợ chuyên_dùng để kiểm_soát các tính_năng giải_trí và dịch_vụ trong khách_sạn . 
+Khi ở khách_sạn Hilton ( Paris ) , Laurie đã xâm_nhập tự_động và chụp lại mọi hoạt_động cũng như thông_tin về số phòng trống trong khách_sạn , tên người thuê phòng , thời_gian lưu_trú , các cuộc gọi và hoá_đơn ... 
+" Giống như kiểu bạn đang đưa thẻ tín_dụng vào TV " , Laurie nói . 
+Những khám_phá của Laurie được trình_bày tại Hội_thảo bảo_mật DefCon , diễn_ra ngày 27/7 ở Los_Angeles ( Mỹ ) . 

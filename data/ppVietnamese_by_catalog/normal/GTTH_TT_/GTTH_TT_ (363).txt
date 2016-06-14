@@ -1,0 +1,6 @@
+Microsoft cập_nhật IE 6 
+Bản cập_nhật này sẽ kiểm_soát không cho IE 6 thực_thi một_số tập lệnh ActiveX , nếu không hoàn_toàn được sự cho_phép của người dùng . 
+Trên phiên_bản cũ , một_số lệnh ActiveX sẽ tự_động thực_thi mà không cần tới sự can_thiệp của người dùng , tạo điều_kiện cho các Rootkit và mã_độc đột_nhập vào máy_tính . 
+Microsoft cho rằng , bản cập_nhật này không liên_quan đến việc bảo_mật , nó chỉ thay_đổi cách_thức quản_lý và điều_khiển một_số tập lệnh ActiveX mà_thôi . 
+Chính lỗi này dẫn tới hậu_quả là một_số các bản vá đã được phát_hành trong năm 2005 . Riêng IE 7 đang trong thời_gian thử_nghiệm bản beta , và thật_sự không phải khắc_phục lỗi này . 
+Bạn có_thể vào download bản cập_nhật tại đây , hoặc sử_dụng Microsoft_Download_Center , Windows_Update . 

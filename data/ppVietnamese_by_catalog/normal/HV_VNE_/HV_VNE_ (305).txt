@@ -1,0 +1,23 @@
+Tình_hình virus tháng 11 : Sober vô_địch 
+Dù xuất_hiện rất muộn , Sober . Z đã tạo một cơn bão quét và leo thẳng lên vị_trí cao nhất trong bảng xếp hạng 10 virus nguy_hiểm 30 ngày qua của hãng bảo_mật Sophos ( Anh ) với tỷ_lệ đáng nể : cứ 13 e-mail thì có một thư chứa sâu này . 
+Sự hoành_hành của Sober . Z đã khiến Netsky . P bị hạ_bệ xuống hàng á_quân sau khi đứng_số 1 suốt bốn tháng . 
+Sâu_Sober mới nhất chiếm tới 42,9 % tất_cả những virus Sophos ghi_nhận trong tháng 11 . Nó phát_tán qua một file đính kèm trong e-mail và tìm cách vô_hiệu_hoá phần_mềm bảo_mật trên máy_tính nạn_nhân , đồng_thời dò_tìm địa_chỉ e-mail trong ổ_cứng để thâm_nhập các hệ_thống khác . 
+Sober . Z được đánh_giá là virus lan rộng rất tại Việt_Nam ( với tên Sober . X theo cách đặt của BKIS ) cũng như trên toàn thế_giới . 
+" Sau khi tái_xuất vào tháng 11 , tác_giả sâu này đã cải_thiện đáng_kể những mánh_khoé lừa_bịp như tạo cảnh_báo giả từ tổ_chức CIA , FBI với nội_dung buộc_tội họ vào site bất_hợp_pháp " , Carole_Theriault , cố_vấn bảo_mật của Sophos , nhận_xét . 
+" Sober cũng có một ' thông_lệ ' là thường xuất_hiện với hai phiên_bản tiếng Anh và Đức " . 
+Cũng theo Theriault , dòng Sober không dễ gì loại_bỏ nhưng người sử_dụng có_thể tự bảo_vệ mình và tránh lây_nhiễm ra toàn mạng nếu họ cảnh_giác và nghi_ngờ những e-mail được gửi đến ồ_ạt . 
+Ngoài Sober . Z , bảng xếp hạng tháng này chỉ có sự góp_mặt của 3 dòng sâu quen_thuộc : Netsky , Mytob và Zafi . 
+Điều này chứng_tỏ những kẻ tấn_công vẫn kiên_trì mục_tiêu chỉnh_sửa và thay_đổi biến_thể bản cũ nhằm thu về lợi_nhuận cao hơn . 
+Tháng này , khoảng 2,7 % tổng_số e-mail được gửi đi có chứa virus ( tỷ_lệ 1/38 ) . 
+Từ trước đến hết tháng 11 , Sophos đã ghi_nhận tất_cả 114.082 virus , tăng thêm 1.940 so với tháng 10 . 10 virus nguy_hiểm nhất tháng 11 ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) : 
+1 . Sober . Z ( 42,9 % )2 . 
+Netsky . P ( 8,1 % )3 . 
+Mytob . GH ( 6,8 % )4 . 
+Mytob . EX ( 4,5 % )5 . 
+Zafi . D ( 4,0 % )6 . 
+Mytob . BE ( 2,3 % )7 . 
+Zafi . B ( 2,1 % )8 . 
+Mytob . AS ( 1,6 % )9 . 
+Netsky . D ( 1,2 % )10 . 
+Mytob . C ( 1,1 % ) 
+Các loại khác : 25,4 % 

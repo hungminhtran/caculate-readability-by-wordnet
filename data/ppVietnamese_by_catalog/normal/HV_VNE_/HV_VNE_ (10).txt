@@ -1,0 +1,11 @@
+Virus lợi_dụng thảm_hoạ sóng_thần để lây_lan 
+Hãng bảo_mật Sophos ( Anh ) cho_biết , hàng_loạt e-mail đính kèm virus với nội_dung kêu_gọi khẩn_thiết giúp_đỡ nạn_nhân thiên taitsunami vừa được tung ra nhằm lợi_dụng sự quan_tâm của mọi người để lây_lan . 
+Với tiêu_đề Quyên_góp ủng_hộ nạn_nhân sóng_thần ! 
+Hãy ra_tay giúp_đỡ , e-mail chứa sâu máy_tính Sun . A yêu_cầu người nhận mở một tệp đính kèm có tên là tsunami . exe . 
+Việc kích_hoạt file này không_chỉ giúp virus tiếp_tục lây_lan sang nhiều người dùng Internet khác mà_còn tiếp_tay cho việc tấn_công một trang web chuyên về hacking ở Đức bằng phương_pháp tấn_công từ_chối dịch_vụ . 
+Việc lừa người khác tin vào khả_năng có_thể giúp_đỡ nạn_nhân của thảm_hoạ sóng_thần cho_thấy bọn tội_phạm máy_tính giờ_đây không từ một thủ_đoạn thấp_hèn nào , Graham_Cluley , Giám_đốc kỹ_thuật của Sophos , bình_luận . 
+Sophos cũng cho_biết họ đã nhận được một_số báo_cáo về các loại sâu máy_tính như thế này . 
+Sun . A không phải là virus đầu_tiên lợi_dụng sự_kiện đau_thương vừa_qua để phát_tán . 
+Đầu tháng này , một loạt e-mail chứa virus Geven . B đã truyền đi thông_điệp Đó là sự giận_dữ của Chúa trời trước những hành_động tàn_phá trái_đất của con_người . 
+Một loại thư khác lại xuất_hiện dưới hình_thức lời kêu_gọi thống_thiết của một thương_nhân người Thái_Lan giàu_có mắc bệnh hiểm_nghèo lại vừa mất hết gia_đình sau thảm_hoạ sóng_thần , đang cần nhờ ai đó thu_nhận số tiền nhiều triệu USD từ một công_ty chứng_khoán ở châu Âu để san_sẻ với cộng_đồng người bị nạn . 
+Sophos khuyến_cáo người nhận nên xoá ngay những bức thư này , không nên mở các file đính kèm và luôn cập_nhật phiên_bản mới của phần_mềm chống virus . 

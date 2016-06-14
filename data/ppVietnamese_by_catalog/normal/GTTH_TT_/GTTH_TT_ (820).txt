@@ -1,0 +1,10 @@
+Nén file hiệu_quả với TugZip_
+TugZip có thế nén file hoặc thư_mục theo tất_cả những định_dạng nén như : ZIP , YZ11 , TGZ , TAR , SQX , LHA ( LZH ) , CAB , 7-ZIP , BZ2 và giải nén cho những định_dạng nén như : ZIP , 7-ZIP , A , ACE , ARJ , BZ2 , CAB , CPIO , DEB , GCA , GZ , IMP , LHA ( LZH ) , LIB , RAR , RPM , SQX … Ngoài_ra , TugZip còn hỗ_trợ mã_hoá dữ_liệu theo các chuẩn nén mã_hoá an_toàn nhất cho file nén hiện_nay như Rijndael ( 128 bit , 192 bit , 256 bit ) , Triple_DES 168 bit , DES 56 bit và Blowfish 128 bit . 
+Điều đặc_biệt nữa là TugZip còn có một_số công_cụ hỗ_trợ quét virus trước khi nén hoặc giải nén , nó cũng có các công_cụ sửa_chữa file nén bị hư hoặc tạo file nén tự_động . 
+Cách nén và giải nén file hoặc thư_mục trong TugZip cũng vô_cùng dễ_dàng . 
+Bạn chỉ việc dùng chuột click vào thư_mục hoặc file cần nén hoặc giải nén , sau đó click chuột phải để chọn các phương_pháp nén trong menu xổ ra . 
+Một cái độc_đáo khác của TugZip là nó có khả_năng " gói " toàn_bộ những file cần nén vào một file tự_động giải nén ( Self-extractor ) có dạng tênfilenén . EXE . 
+Khi kích_hoạt file này là toàn_bộ nội_dung nén sẽ được tự_động giải nén mà không cần bất_kỳ chương_trình hỗ_trợ giải nén nào . 
+Ngoài_ra , người dùng cũng có_thể sử_dụng TugZip như là một công_cụ quản_lý tập_tin và thư_mục rất hữu_hiệu , hệt như công_cụ Windows_Explorer . 
+TugZip là chương_trình miễn_phí có dung_lượng khoảng 3,7MB và tương_thích với mọi Windows . 
+Người dùng có_thể vào đây để tải bản TugZip_3 . 4 . 0.0 mới nhất về dùng hoặc tìm mua tại các cửa_hàng phần_mềm . 

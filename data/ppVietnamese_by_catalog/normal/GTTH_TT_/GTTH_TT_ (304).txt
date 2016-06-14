@@ -1,0 +1,11 @@
+1/5 người dùng Internet nhận thư rác mỗi ngày 
+Sophos công_bố một bản báo_cáo kết_quả nghiên_cứu về Spam và Phishing_e-mail ( Pemail : e-mail lừa_gạt để lấy thông_tin tài_chính ) , theo đó , 58 % người dùng Internet nhận được ít_nhất 1 thư có mục_đích lừa_gạt và hơn 22 % nhận được hơn 5 lá mỗi ngày . 
+Đó chính là bằng_chứng cho tăng_trưởng các cuộc tấn_công của hacker và những chuyên_gia viết virus vào mục_tiêu tài_chính . 
+Những số_liệu của Anti-Phishing_Working_Group ( APWG ) càng làm rõ hơn xu_thế này . 
+Số_lượng các báo_cáo về lừa_đảo tài_chính trên Internet tính cho đến tháng 12-2005 là 15,244 lần , tăng gần gấp đôi so với năm 2004 , 8829 lần . 
+Trước đây , hầu_hết các email lừa_gạt thường bắt_nguồn từ các doanh_nghiệp nổi_tiếng trên Internet như eBay ... 
+thế nhưng Sophos cũng đã phát_hiện một_số lớn các tổ_chức cũng là nguồn phát của loại e-mail này , bao_gồm cả IRS ( Internal_Revenue_Service ) . 
+Dưới hình_thức trả lại tiền thuế , những kẻ lừa_gạt sẽ dẫn_dắt người dùng qua nhiều website nguy_hiểm mà bạn không_thể ngờ nổi . 
+Theo cô Carole_Theriault , chuyên_gia về bảo_mật Sophos thì sở_dĩ Pemail phát_triển là do xác_suất thành_công của nó rất cao . 
+Những kẻ lừa_gạt ngày_càng lừa_gạt khách_hàng một_cách tinh_vi . 
+Thế nên lời khuyên tốt nhất vẫn là tránh xa những e-mail không rõ nguồn_gốc và tránh chia_sẻ bất_kỳ thông_tin cá_nhân nhạy_cảm nào . 

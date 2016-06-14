@@ -1,0 +1,44 @@
+Biến_tấu đèn 
+Trên thị_trường xuất_hiện nhiều loại đèn có kèm theo những tính_năng độc_đáo . 
+Loại đèn để bàn vừa là phương_tiện chiếu sáng , vừa để trang_trí cho bàn làm_việc hay phòng đón khách . 
+Đèn được thiết_kế trang_nhã , có loại quét nhũ đồng , trang_trí kiểu cổ . 
+Loại thông_dụng gồm có đèn , đồng_hồ để bàn . 
+Đèn tích_hợp điện_thoại là một ý_tưởng nhằm tiết_kiệm không_gian cho phòng làm_việc . 
+Thường thì có hai loại , một loại thiết_kế theo mẫu hiện_đại , điện_thoại được đặt ngay trên đế đèn . 
+Loại này có các màu xanh , hồng , vàng . 
+Loại kia được thiết_kế nghiêng về tính_năng trang_trí hơn , nên điện_thoại được tách rời , ống_nghe được làm theo mẫu của điện_thoại cổ . 
+Để thư_giãn , các nhà sản_xuất thiết_kế bể cá_cảnh giả , có máy_phun khí . 
+Mục_đích của bể cá là giúp mắt điều_tiết , nhất_là khi làm_việc lâu với máy_tính . 
+Loại đèn phòng ngủ có ánh_sáng dịu hơn và thiết_kế cũng khá ngộ_nghĩnh . 
+Loại_Moonland có thiết_kế hình_nón , vỏ màu xanh trong_suốt , có_thể nhìn thấy rõ mạch điện bên trong . 
+Loại này có 8 tiếng nhạc thiên_nhiên như suối reo , chim hót , gà gáy nghe rất vui_tai . 
+Bạn có_thể chọn tiếng gà gáy để làm nhạc báo_thức . 
+Loại đèn khác có hình tháp 7 tầng . 
+Khi kéo tháp lên cao , nó trở_thành ăng-ten để bắt sóng FM . 
+Đèn này dùng 3 pin tiểu AAA , có_thể tự_động dò_đài FM . 
+Một loại đèn trang_trí khác là đèn plasma đặt trong phòng ngủ . 
+Đặc_biệt , đèn này có_thể chớp tắt dựa theo tiếng_động . 
+Gần đây , xu_hướng trang_bị máy_lọc khí ozon cho phòng ngủ được nhiều nhà sản_xuất chú_ý . 
+Do vậy , đèn có điện_thoại và một máy_lọc khí nhỏ ở thân đèn . 
+Muốn đuổi muỗi , có_thể dùng loại đèn có thêm một tấm gia nhiệt . 
+Khi dùng , bạn đặt một miếng thuốc đuổi muỗi ( loại Jumbo ) vào tấm gia nhiệt , đóng kín phòng trong 10 phút , sẽ đuổi được muỗi . 
+Một hộp đuổi muỗi 30 miếng giá 25.000 đồng . 
+Công_ty Đại_Hải ( khu công_nghiệp Sóng_Thần ) đưa ra loại đèn nhấn khẩn_cấp . 
+Khi cần , bạn ấn thẳng vào vỏ đèn , đèn tự_động bật , nhấn tiếp thì đèn tắt . 
+Nếu sử_dụng biến điện 220V sang 6V DC , đèn trở_thành đèn ngủ . 
+Nếu bạn dùng pin xạc , thì đèn trở_thành bộ sạc pin . 
+Đèn này dùng gắn trong phòng ngủ hoặc lối đi chung trong nhà , đề_phòng khi mất điện . 
+Một loại đèn sự_cố khác dùng 3 pin AAA . 
+Đèn này có thiết_kế như kiểu đèn_dầu hồi xưa . 
+Ưu_điểm của nó là nhỏ gọn , dễ di_chuyển . 
+Có thiết_kế tương_tự , nhưng đèn_pin StarAudio có thêm radio FM . 
+Đèn_Star dùng 3 viên pin tiểu AA . 
+Giá tham_khảo 
+Đèn bể cá_cảnh hiệu Max : 185.000 đồng 
+Đèn_Plasma cảm_ứng nhạc : 250.000 đồng 
+Đèn + điện_thoại + bể cá : 475.000 đồng 
+Đèn tháp + radio : 350.000 đồng 
+Đèn_Moonland_8 tiếng nhạc : 350.000 đồng 
+Đèn nhấn khẩn_cấp : 120.000 đồng 
+Đèn sự_cố hình đèn_dầu : 50.000 đồng 
+Đèn sự_cố có radio : 350.000 đồng 

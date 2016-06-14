@@ -1,0 +1,7 @@
+80 % website khiêu_dâm sử_dụng virus và spyware 
+Phân_tích của hãng bảo_mật Aladdin_Knowledge_Systems cho_thấy đại_bộ_phận các trang web cung_cấp nội_dung sex đang cài đủ loại chương_trình do_thám vào máy_tính của những người truy_cập thiếu cảnh_giác . 
+Lựa_chọn ngẫu_nhiên khoảng 2.000 - 3.000 địa_chỉ trong tổng_số 30.000 website loại này , đơn_vị khảo_sát phát_hiện ra một số_lượng rất lớn đang được các nhóm tội_phạm trực_tuyến sử_dụng như những bệ_phóng cho các chương_trình phần_mềm nguy_hiểm . 
+70 % các loại virus và sâu Internet được viết ra với mục_đích phát_tán các chương_trình đi kèm như Trojan , phần_mềm sao_chép hoạt_động bàn_phím ( keylogger ) , lái lệnh truy_cập sang địa_chỉ khác& 
+Virus đang trở_nên chuyên_nghiệp hơn , Shimon_Gruper , Phó_chủ_tịch phụ_trách công_nghệ của Aladdin , phát_biểu . 
+Đã có sự chuyển_đổi mạnh_mẽ về tính_chất của các loại phần_mềm này . 
+Chúng được thiết_kế ngày_một tinh_vi hơn , theo hướng khai_thác tài_chính chứ không còn là những chương_trình phá_hoại đơn_thuần . 

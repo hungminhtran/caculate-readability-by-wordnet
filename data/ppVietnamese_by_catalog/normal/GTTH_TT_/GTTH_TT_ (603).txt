@@ -1,0 +1,21 @@
+USB-TV biến máy_tính thành truyền_hình số 
+Chỉ cần một máy_tính và một USB-TV , bạn có_thể dễ_dàng thưởng_thức hàng chục kênh_truyền_hình , nó biến chiếc PC hay máy_vi_tính xách tay thành chiếc TV kỹ_thuật số . 
+Điểm thú_vị là giờ_đây , dù bạn đang ở văn_phòng , đang ngồi uống cà_phê buổi sáng hay đang vi_vu trên đường cùng chiếc xe_hơi , bạn đều có_thể giải_trí với truyền_hình hoặc cập_nhật những tin_tức mới nhất trong nước và thế_giới . 
+- Dải tần thu sóng : VHF và UHF . 
+- Số kênh thu được : 18-42 kênh , tuỳ điều_kiện cụ_thể . 
+- Giao_tiếp với máy_tính : USB 2.0 / 1.1 - Điện_áp nguồn : 5V ( qua đường cắm USB ) . 
+- Sử_dụng lưu_động : vận_tốc tối_đa 80 km / g . 
+- Yêu_cầu với máy_tính : Windows_2000/XP , CPU 800MHz trở lên , 128Mram trở lên , VGA card tối_thiểu 16MB , có sẵn MS DirectX9 . 0 . Humax USB-TV không cần nguồn điện riêng , chỉ cần cắm trực_tiếp vào cổng USB trên máy_tính nguồn 5V trong máy sẽ cấp_điện cho USB-TV và đầu thu sẽ lập_tức hoạt_động với độ nhạy thu sóng khá cao . 
+Ăngten thu tín_hiệu của máy được làm bằng kim_loại_sạch thiết_kế giống y_như một sợi dây đeo cổ thường thấy ở các USB thông_thường . 
+Trong các khu_vực sóng mạnh , " sợi " ăngten này có_thể đáp_ứng tốt . 
+Nếu ở nơi sóng yếu , bạn có_thể đổi qua dùng ăngten râu nhỏ gọn được cung_cấp kèm theo USBTV để tăng độ nhạy thu sóng . 
+USB-TV của Humax có chức_năng thu và giải_mã tín_hiệu truyền_hình kỹ_thuật số mặt đất . 
+Phần_mềm kèm theo sau khi cài_đặt vào máy_tính sẽ tự_động dò kênh và hiển_thị các kênh đã dò được giao_diện sử_dụng thông_qua điều_khiển trên màn_hình máy_tính của bạn . 
+Để tăng tính tiện_ích của đầu thu , đầu thu này được trang_bị thêm các tính_năng khá hữu_ích như chức_năng theo_dõi đồng_thời nhiều kênh trên một màn_hình chia ô nhỏ hoặc chức_năng chụp hình TV , chức_năng lập_trình để ghi lại các chương_trình và xem_lại khi rảnh_rỗi . 
+Đặc_biệt , Công_ty Điện_tử công_nghiệp ( CDC ) còn viết phần_mềm chuyên_dụng cho thiết_bị này để ghi lại toàn_bộ dòng dữ_liệu phát xuống để xem lại cả gói chương_trình cùng một tần_số ( bạn có_thể xem lại từng kênh trên chín kênh của một băng_tần phát xuống ) . 
+Ngoài_ra , Humax_USB_TV còn chia_sẻ qua mạng LAN để các máy_tính có_thể xem được các chương_trình khác nhau thông_qua một USB_TV . 
+Ông Lê_Quang_Vũ , giám_đốc Công_ty CDC , cho_biết hiện_nay trên thị_trường đã có thêm một_số loại đầu thu USBTV số tương_tự như USB-TV của Humax nhưng không có phần_mềm giải_mã hỗ_trợ như Humax để xem các chương_trình truyền_hình kỹ_thuật số mặt đất ở một_số khu_vực như TP. HCM , Đà_Nẵng , Ninh_Bình ... 
+Ông Vũ nói : " Chỉ trong khoảng tháng đầu tung ra thị_trường đã có hơn 1.000 chiếc USB-TV được tiêu_thụ . 
+Và để đáp_ứng nhu_cầu tiện_dụng cho người xem , sắp tới chúng_tôi sẽ đưa ra thị_trường sản_phẩm Humax_USB_TV có tích_hợp cả thẻ lưu_trữ dữ_liệu " . 
+Nơi cung_cấp : Công_ty CDC ( 8 Lý_Thường_Kiệt , Hà_Nội ) . 
+Chi_nhánh tại TP. HCM : 24 Nguyễn_Thị_Minh_Khai , quận 1 . 

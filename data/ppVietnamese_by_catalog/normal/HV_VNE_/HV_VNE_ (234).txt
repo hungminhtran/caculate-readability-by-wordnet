@@ -1,0 +1,12 @@
+Virus đầu_tiên tấn_công cả điện_thoại lẫn PC 
+Phát_hiện mới nhất của hãng bảo_mật Trend_Micro là bằng_chứng rõ_nét cho_thấy mối đe_doạ về một dòng sâu lai , có khả_năng tấn_công đa mạng , đa_hệ thống , đang dần trở_thành hiện_thực . 
+Trojan " đồng_quy " mang tên Cardtrp phát_tán qua kết_nối không dây Bluetooth trên điện_thoại_di_động sử_dụng hệ_điều_hành Symbian_60 và tin_nhắn đa_phương_tiện MMS . Tuy_nhiên , nếu thiết_bị cầm tay này có thẻ_nhớ , Cardtrp sẽ lập_tức tự sao_chép thành một bản virus Windows , được biết đến với tên_gọi Wukill , thâm_nhập vào trong card . 
+Khi thẻ_nhớ được cài vào máy_tính , phần_mềm nguy_hiểm sẽ giả_dạng như một file hợp_pháp và khuyến_khích người sử_dụng xem nó . 
+Nếu tệp được mở , mã tấn_công lập_tức mở cổng hậu và tìm_kiếm mật_khẩu trong máy . 
+" Kiểu tấn_công này chứng_minh một giai_đoạn phát_triển mới của dòng virus trên thiết_bị di_động " , Raimund_Genes , Giám_đốc Trend_Micro tại châu Âu , khẳng_định . 
+" Chúng_ta sẽ còn chứng_kiến nhiều hơn nữa những trường_hợp tương_tự trong thời_gian tới , thậm_chí với mánh_khoé tinh_xảo và khả_năng ẩn_danh điêu_luyện hơn " . 
+Dù Cardtrp không gây ảnh_hưởng rộng nhưng nó đã gây xôn_xao trong giới bảo_mật . 
+" Đứng trên quan_điểm nghề_nghiệp , đây quả là sự_kiện thú_vị " , Mikko_Hypponen , Giám_đốc hãng F-Secure , cho_biết . 
+" Người dùng điện_thoại chỉ nên tải ứng_dụng từ những trang đáng tin_cậy . 
+Virus kiếm tiền mất 15 năm để xuất_hiện trong máy_tính . 
+Do đó , việc phát_tán sâu trên điện_thoại với mục_đích tài_chính tương_tự chỉ còn là vấn_đề thời_gian " . 

@@ -1,0 +1,7 @@
+Nhắn tin để nhận trả_lời bằng virus ? 
+Tin_tặc lại vừa tung ra phần_mềm thứ 3 có khả_năng phát_tán qua các tin_nhắn đa_phương_tiện ( MMS ) Khi hoạt_động , virus mang tên Mabir . A gửi một thông_điệp dạng MMS cho bất_cứ tin_nhắn SMS hay MMS nào mà điện_thoại bị lây_nhiễm nhận được . 
+Mabir . A , cũng sử_dụng cách phát_tán qua sóng Bluetooth , nhắm vào điện_thoại_di_động Series 60 chạy hệ_điều_hành Symbian . 
+Về cơ_bản , có_thể coi đây là một biến_thể của Cabir( vốn chỉ lây_lan qua Bluetooth ) được bổ_sung thêm khả_năng gửi tin MMS . Phân_tích của hãng bảo_mật Phần_Lan F-Secure cho_thấy Mabir . A sử_dụng mã nguồn và cơ_chế hoạt_động tương_tự như những phiên_bản Cabir đầu_tiên và có_thể là tác_phẩm của cùng một hacker . 
+Khi phát_hiện mục_tiêu đầu_tiên trong tầm sóng , virus sẽ bắt_đầu gửi các bản_sao tới chiếc điện_thoại này . 
+Sau đó , mỗi khi có tin_nhắn gửi đến , virus đều tạo ra và gửi đi một thông_điệp trả_lời ( reply ) . 
+Đầu tháng 3 vừa_qua , các hãng phần_mềm bảo_mật cũng đã phát_hiện virus Co_mmWarrior sử_dụng cách lây_lan qua tin_nhắn MMS . 

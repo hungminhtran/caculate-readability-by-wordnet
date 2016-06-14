@@ -1,0 +1,13 @@
+Tạo dáng trang_trí chậu cảnh 
+Quan_sát , nhận_xét 
+Chậu cảnh dùng để trồng cây , trồng hoa trang_trí cho nhà_ở , trường_học , nơi công_cộng , ... 
+Chậu cảnh có nhiều kiểu_dáng , kích_cỡ và đa_dạng về cách trang_trí , chất_liệu , màu_sắc . 
+Cách tạo dáng và trang_trí 
+Tạo dáng 
+Tìm chiều cao , chiều ngang của chậu ( H . 2a ) . 
+Tìm hình_dáng chung của chậu , phác tỷ_lệ các bộ_phận : miệng , cổ , thân , đáy ( H . 2b , c ) . 
+Vẽ các nét để tạo dáng chậu hoa ( nét cong , nét thẳng , ... ) ( H . 2d ) . 
+Trang_trí 
+Phác các hình mảng đối_xứng hoặc không đối_xứng , đường diềm hoặc các mảng hoạ_tiết trang_trí thân chậu . 
+Vẽ hoạ_tiết : hoa_lá , chim , thú , cảnh , ... 
+Vẽ màu vào hoạ_tiết và nền . 

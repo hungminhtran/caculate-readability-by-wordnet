@@ -1,0 +1,17 @@
+20 % , con_số " vàng " của AMD 
+Tính trên toàn_bộ tất_cả các lĩnh_vực , từ máy_tính để bàn , máy xách tay và máy_chủ sử_dụng vi_xử_lý tập lệnh x86 được bán ra trong quý 4 năm 2005 , AMD hiện_nay chiếm khoảng 21,4 % thị_phần toàn_cầu . 
+Riêng thị_phần dành cho máy_tính để bàn , AMD tăng từ 12,7 % lên 16,4 % trong quý 4 so với quý 3 . Chưa có con_số chính_xác về thị_phần của Intel , song nếu tính ước đoán về tổng thị_phần của AMD và Intel là 98,6 % trên toàn_cầu , thì như vậy thị_phần của Intel sẽ chiếm khoảng 77 % . 
+Con_số chính_xác sẽ được công_bố vào tuần tới . 
+Có nhiều nguyên_nhân để AMD đạt đến con_số này . 
+Đầu_tiên có_thể kể đến là sự thành_công của bộ_vi_xử_lý dành cho server là Opteron . 
+Đây có_thể nói là nguyên_nhân chính dẫn đến sự thành_công của AMD năm 2005 . AMD đã vắng bóng trong thị_trường vi_xử_lý dành cho server từ rất lâu kể từ lần đạt đỉnh 20 % vào năm 2001 . 
+AMD dành được những thị_phần lớn từ tay Intel khi mà nhà khổng_lồ này dự_báo sự chậm lại trong việc tiêu_thụ các bộ_vi_xử_lý dành cho máy_tính để bàn và tập_trung vào thị_trường chipsets ( các bộ_vi_xử_lý dành cho mainboard và các linh_kiện chuyên_dụng ) . 
+Thứ hai , Intel giới_thiệu bộ_xử_lý nhân đôi dành cho server chậm hơn AMD . 
+AMD giới_thiệu bộ_vi_xử_lý Opteron nhân đôi vào tháng 4 trong khi Intel tới tháng 10 mới giới_thiệu bộ_vi_xử_lý Xeon hai nhân . 
+Tuy_nhiên , Xeon chỉ là giải_pháp để " tạm_thời cạnh_tranh " và con_bài thật_sự là dòng Dempsey được giới_thiệu trong quý 1 năm nay . 
+Tuy_vậy , xét trên thị_trường máy_tính xách tay , Intel vẫn chiếm vị_trí dẫn_đầu với dòng vi_xử_lý Duo_Core . Dòng_Turion ( nhân đôi ) dành cho máy_tính xách tay của AMD khó có_thể xuất_hiện trước quý hai năm nay . 
+Mặc_dù vậy , thị_phần vi_xử_lý dành cho máy xách tay của AMD theo báo_cáo là tăng_trưởng trong quý 4 so với quý 3 năm 2005 từ 12,7 % lên 16,4 % . 
+Một nguyên_nhân nữa , AMD đẩy_mạnh vụ kiện chống độc_quyền với Intel trên rất nhiều quốc_gia . 
+Điều này ảnh_hưởng không nhỏ đến uy_tín của Intel lẫn nâng_cao giá_trị thương_hiệu cho AMD . 
+Mục_tiêu của AMD trong năm nay là hướng đến con_số thị_phần là 30 % , tuy_nhiên trong tình_hình hiện_nay , có_thể nói đây là một con_số đầy tham_vọng . 
+Nhà khổng_lồ Intel không bao_giờ là một người dễ chơi . 

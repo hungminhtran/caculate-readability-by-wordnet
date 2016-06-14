@@ -1,0 +1,14 @@
+Miễn_dịch cho web bằng giải_pháp hũ mật_ong 
+Các nhà nghiên_cứu tại Đại_học Tel_Aviv ( Israel ) vừa đề_xuất kế_hoạch triệt_tiêu virus trên Internet bằng một mạng_lưới gồm nhiều hệ_thống phòng_chống tự_động . 
+Họ tin rằng những tệp tin cấp_cứu từ mạng này sẽ phát_tán nhanh hơn các chương_trình tấn_công . 
+Trọng_tâm của dự_án này là một lưới liên_kết gồm nhiều máy_tính gọi là các hũ mật_ong , được thiết_kế để giả_dạng là những PC chưa được vá lỗi và nhử virus lộ_diện . 
+Những computer này sẽ thu_hút virus tấn_công và tự_động tạo ra một file chữ_ký của phần_mềm độc_hại , sau đó phát_tán giải_pháp khắc_phục ngay tức_thời ra toàn mạng . 
+Tất_cả các hũ mật_ong khác trong mạng sẽ được cập_nhật tự_động file cấp_cứu và cùng tung ra hành_động đối_phó . 
+Các tác_giả của kế_hoạch cho rằng đề_xuất của họ không tốn nhiều chi_phí và có_thể mở_rộng một_cách thuận_tiện . 
+Mạng_lưới này càng lớn thì sức_mạnh bảo_vệ của nó càng được tăng lên . 
+Nhóm nghiên_cứu của Đại_học Tel_Aviv khẳng_định những tệp tin chống virus có_thể phát_tán nhanh hơn cả bản_thân những chương_trình tấn_công . 
+Hạn_chế lớn nhất của việc tung ra các chương_trình ngăn_chặn lây_lan chính là sự chậm_trễ hơn so với virus , Eran_Shir , đồng_tác_giả của kế_hoạch , cho_biết . 
+Chúng_tôi đưa ra giải_pháp cung_cấp văcxin chống virus theo hướng làm cho ' thuốc ' phải có ưu_thế so với ' bệnh ' . 
+Cụ_thể là tệp tin khắc_phục có_thể truyền nhanh qua mạng có liên_kết tương_hỗ và do đó cho_phép công_cụ chống virus ngăn_chặn sự bùng_phát một_cách hiệu_quả . 
+Những thử_nghiệm ban_đầu cho_thấy nếu mạng bảo_vệ có khoảng 50.000 nút ( node ) , tức_là các máy_tính tham_gia mạng , và 0,4 % số máy_tính này đóng vai_trò các hũ mật_ong thì 5 % mạng sẽ bị lây_nhiễm trước khi hệ_thống phòng dịch ngăn_chặn được virus . 
+Tuy_nhiên , nếu mạng có 200.000.000 nút với cùng tỷ_lệ máy trong vai_trò hũ mật như trên thì mức PC bị lây_nhiễm sẽ chỉ còn 0,001 % . 

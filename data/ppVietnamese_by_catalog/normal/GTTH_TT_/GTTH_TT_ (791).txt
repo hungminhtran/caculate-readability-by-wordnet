@@ -1,0 +1,59 @@
+Ứng_dụng công_nghệ thông_tin : Những rào_cản xã_hội 
+Ứng_dụng công_nghệ thông_tin do vậy trở_thành một thành_phần không_thể thiếu trong các chiến_lược cạnh_tranh của các doanh_nghiệp và quốc_gia . 
+Ở Việt_Nam , những năm gần đây số người sử_dụng máy_tính , Internet , số trang web của doanh_nghiệp , cơ_quan chính_phủ tăng lên rất nhiều . 
+Tuy_nhiên , vẫn thấy hầu_hết các ứng_dụng công_nghệ thông_tin còn ở mức rất cơ_bản như tìm_kiếm tin_tức , trao_đổi e-mail , soạn_thảo văn_bản . 
+Trong khi các ứng_dụng cao_cấp có tính đột_phá cải_thiện năng_lực cạnh_tranh cho doanh_nghiệp hay chính_phủ như các hệ_thống thông_tin quản_lý hoặc thương_mại điện_tử thì còn rất hạn_chế . 
+Nghiên_cứu của thế_giới về vấn_đề này cũng cho_thấy các doanh_nghiệp cũng như chính_phủ ở một_số quốc_gia đang phát_triển hay các nước công_nghiệp_hoá mới ( NIC ) như Trung_Quốc , hay các nước ASEAN đều có những hạn_chế giống nhau trong ứng_dụng công_nghệ thông_tin vào quản_lý . 
+Các nhà quản_lý / các giám_đốc dành hầu_hết thời_gian để nói_chuyện qua điện_thoại ( hội_chứng mê điện_thoại ! ) , họp_hành , hay nhậu_nhẹt / giao_tiếp . 
+Câu_chuyện Trung_Quốc 
+Năm 1998 , Tập_đoàn CITIC ( China_International_Trust_and_Investment_Corp . ) - một trong những doanh_nghiệp nhà_nước lớn nhất của Trung_Quốc - thuê công_ty tư_vấn danh_tiếng McKinsey với giá 1 triệu USD để phát_triển một hệ_thống thông_tin quản_trị rủi_ro . 
+Khi ứng_dụng hệ_thống vào đánh_giá rủi_ro của từng khách_hàng , một vấn_đề nảy_sinh : hầu_hết khách_hàng của CITIC không đạt tiêu_chuẩn để cho vay . 
+Những khách_hàng được hệ_thống đánh_giá là rất rủi_ro lại là những khách_hàng thân_thuộc có quá_khứ thanh_toán các khoản nợ rất tốt ( giải_thích của CITIC : các khách_hàng thanh_toán đúng hạn do họ có quan_hệ tốt với CITIC , chứ không phải do công_việc làm_ăn của họ thuận_lợi - hiện_tượng rất phổ_biến trong xã_hội Trung_Quốc và cả Việt_Nam ) . 
+Ngược lại những khách_hàng được hệ_thống đánh_giá là rủi_ro thấp , theo CITIC lại là những khách_hàng rất đáng ngờ - họ có những chứng_nhận về tài_chính rất tốt có được từ sự trợ_giúp / quan_hệ bên trong với các công_ty kế_toán và kiểm_toán . 
+Toàn_bộ các chi_nhánh của CITIC bối_rối , không biết nên vận_hành theo cách_thức truyền_thống vẫn làm hay theo máy_tính . 
+Và cuối_cùng các lãnh_đạo cao_cấp của CITIC phải giải_thích với nhân_viên rằng hệ_thống quản_trị rủi_ro của McKinsey là cái mà công_ty sẽ hướng đến trong tương_lai , còn bây_giờ thì tất_cả quay về phương_pháp truyền_thống ! 
+Câu_chuyện Việt_Nam 
+Mới_đây Tuổi_Trẻ đăng bài " Công_nghiệp phần_mềm : tìm lối đi bền_vững " ( 24-6-2004 ) cũng nêu vấn_đề tương_tự . 
+Chính_phủ điện_tử nói nhiều nhưng vẫn nằm trên giấy , còn doanh_nghiệp , đặc_biệt là doanh_nghiệp nhà_nước chẳng hề có nhu_cầu trang_bị phần_mềm và các ứng_dụng của hệ_thống thông_tin . 
+Hầu_hết ngân_sách cho công_nghệ thông_tin hiện_nay là để trang_bị phần_cứng . 
+Công_nghiệp phần_mềm do vậy vẫn lẫm_chẫm dò từng bước ! 
+Tuy_nhiên điều này không có nghĩa là doanh_nghiệp không cần thông_tin . 
+Trước đó trong cuộc trao_đổi với Bộ_trưởng Trương_Đình_Tuyển , các doanh_nghiệp đã bày_tỏ bức_xúc lớn vì thiếu các thông_tin về thị_trường , giá_cả và khách_hàng . 
+Họ cũng sẵn_sàng bỏ tiền mua nếu thông_tin đáng_giá ( " Chúng_tôi sẵn_sàng bỏ tiền để có những thông_tin giá_trị " , Thời_Báo Kinh_Tế_Việt_Nam , 9-4-2004 ) . 
+Một chuyện khác có liên_quan là chuyện hội_nghị và họp_hành liên_miên gây lãng_phí rất nhiều tiền_bạc và thời_gian . 
+Chúng_ta vẫn đang sử_dụng phương_pháp cổ_điển nhất ( họp ) để trao_đổi thông_tin và ra quyết_định trong thời_đại thông_tin truyền theo tốc_độ ánh_sáng . 
+Đây là căn_bệnh trầm_kha của quản_lý mà Bộ_trưởng Nguyễn_Sinh_Hùng mới_đây khi trả_lời phỏng_vấn báo_chí cũng hết_sức nhấn_mạnh ( " Lãng_phí nguy_hiểm như tham_nhũng " , Tuổi_Trẻ , 30-5-2004 ) . 
+Luật_pháp hay quan_hệ cá_nhân ? 
+Samsung giới_thiệu màn_hình xoay Sync_Master_173P - Ảnh : T . T . D . 
+Những câu_chuyện tản_mạn trên có tương_quan thế_nào với nhau và liên_hệ gì đến việc ứng_dụng công_nghệ thông_tin ? 
+Và làm thế_nào để lý_giải thoả_đáng những hiện_tượng trên ? 
+Một_số nhà quan_sát thế_giới hiện_nay không dùng văn_hoá mà sử_dụng trình_độ phát_triển kinh_tế - xã_hội để giải_thích các hiện_tượng này . 
+Theo đó , do khác_biệt về trình_độ phát_triển kinh tê - xã_hội mà các quốc_gia chia thành hai nhóm : nhóm vận_hành dựa trên pháp_luật và nhóm dựa trên quan_hệ . 
+Các quốc_gia nhóm 1 là các quốc_gia có hệ_thống pháp_luật đầy_đủ , minh_bạch , công_khai , cụ_thể_hoá , văn_bản hoá và truyền_thông rộng_rãi . 
+Các quốc_gia này được vận_hành chủ_yếu dựa trên hệ_thống thông_tin công bao_gồm các thông_tin vĩ_mô và vi_mô đáng tin_cậy , được kiểm_chứng bởi các định_chế độc_lập trên thị_trường . 
+Phát_triển kinh_tế_thị_trường vận_hành theo pháp_luật không_chỉ giới_hạn trong việc xây_dựng - thực_thi pháp_luật , tạo ra những " cầu_thủ " ( như nhà sản_xuất , người bán hàng và người tiêu_dùng ) mà_còn phải tạo ra những định_chế hay nói nôm_na là các " trọng_tài " độc_lập như các công_ty kế_toán , kiểm_toán , đánh_giá rủi_ro , tín_dụng , các công_ty đăng_kiểm , các tổ_chức khảo_thí , các tổ_chức đánh_giá xếp loại doanh_nghiệp , trường_học , bệnh_viện ... 
+Ở các quốc_gia nhóm này , các định_chế xã_hội rất phát_triển và là một thành_phần quan_trọng của xã_hội , cung_cấp và kiểm_chứng các thông_tin vi_mô và vĩ_mô cho toàn_thể xã_hội . 
+Chính_phủ , các doanh_nghiệp , các tổ_chức cũng như người tiêu_dùng dựa vào các hệ_thống thông_tin công này để ra các quyết_định quản_lý , kinh_doanh và tiêu_dùng . 
+Các giao_dịch kinh_doanh , trao_đổi giữa các thành_viên của xã_hội đều dựa trên kết_quả phân_tích khách_quan các thông_tin được cung_cấp từ hệ_thống . 
+Chẳng_hạn để quyết_định cho vay , hay cấp tín_dụng cho một khách_hàng , các ngân_hàng sẽ căn_cứ vào các thông_tin trong quá_khứ đã được lưu_trữ . 
+Hay để chọn một trường đại_học , các sinh_viên sẽ căn_cứ vào các thông_tin xếp hạng của các tổ_chức như US_News . 
+Còn các trường lại dựa vào kết_quả thi SAT , TOEFL , GRE của từng sinh_viên do ETS cung_cấp để chọn sinh_viên . 
+Điều này lý_giải tại_sao mô_hình quản_lý của các quốc_gia phát_triển thường phân_quyền , dựa vào các nguồn thông_tin công - khách_quan để ra quyết_định , và do vậy việc ứng_dụng công_nghệ thông_tin trong quản_lý là tối quan_trọng . 
+Quay lại câu_chuyện của Tập_đoàn CITIC của Trung_Quốc kể trên , ta thấy lý_do chính dẫn đến sự thất_bại trong việc ứng_dụng hệ_thống thông_tin quản_trị do McKinsey tư_vấn cũng chính là ở sự thiếu_vắng của các hệ_thống thông_tin công – vi_mô đánh_giá các doanh_nghiệp , người tiêu_dùng một_cách đáng tin_cậy ( như kiểm_toán , kế_toán , xếp hạng , đánh_giá rủi_ro ) . 
+Các quốc_gia nhóm 2 có chung đặc_điểm là trình_độ phát_triển kinh tê - xã_hội còn thấp , hệ_thống pháp_lý còn lỏng_lẻo , năng_lực quản_lý xã_hội của chính_phủ còn hạn_chế , hệ_thống các định_chế xã_hội và thông_tin công còn hết_sức thô_sơ . 
+Do không có các " trọng_tài " đáng tin_cậy cũng như các thông_tin công được kiểm_chứng , các đối_thủ trên thị_trường phải tự mình đánh_giá các đối_tác trong từng giao_dịch , và để giảm rủi_ro cũng như tiếp_cận được các nguồn thông_tin , họ phải xây_dựng các mối quan_hệ lâu_dài với một_số đối_tác . 
+Xã_hội do vậy tồn_tại nhiều nhóm với những quan_hệ xã_hội chằng_chịt . 
+Mỗi nhà quản_lý phải tự mình xây và giữ các quan_hệ để có_thể tiếp_cận được những nguồn thông_tin cá_nhân – một đặc_trưng quyền_lực của họ . 
+Và do vậy dẫn đến các đặc_trưng của nhà quản_lý : rất tập_quyền , gia_trưởng , luôn coi_trọng giao_tiếp , nhậu_nhẹt , họp_hành chứ không dựa trên các trao_đổi thông_qua hệ_thống thông_tin khách_quan . 
+Các câu_chuyện về " hội_chứng " họp_hành , nhậu_nhẹt , bè_cánh ở Việt_Nam được giải_thích khá rõ_nét ở đây . 
+Mặt_khác , rất nhiều các doanh_nghiệp , đặc_biệt là một_số doanh_nghiệp nhà_nước , hiện_nay có một " lợi_thế cạnh_tranh " hết_sức đặc_thù là " độc_quyền thông_tin " , hay đúng hơn là độc_quyền tiếp_cận thông_tin ( do quan_hệ ) và do vậy ứng_dụng công_nghệ thông_tin trong quản_lý đối_với các doanh_nghiệp này chẳng có ý_nghĩa gì . 
+Đôi điều suy_nghĩ 
+Trên phương_diện phân_tích kinh_tế , khi nền kinh_tế còn ở quy_mô nhỏ , chi_phí xây_dựng quan_hệ cá_nhân và tìm_kiếm thông_tin cá_nhân sẽ rẻ hơn chi_phí thiết_lập hệ_thống pháp_lý và thông_tin công cho toàn xã_hội . 
+Tuy_nhiên , khi nền kinh_tế phát_triển và đòi_hỏi hội_nhập với kinh_tế thế_giới , chi_phí xây_dựng quan_hệ cá_nhân trong từng giao_dịch trở_nên quá lớn . 
+Mô_hình quản_lý dựa trên quan_hệ cá_nhân với các thông_tin " bên trong " không còn phù_hợp với bước_tiến của xã_hội và là rào_cản chính cho sự phát_triển . 
+" Bè_cánh " , " độc_quyền thông_tin " còn là căn_nguyên của tham_nhũng , độc_quyền , và lãng_phí ( hội_họp , nhậu_nhẹt ) – những căn_bệnh trầm_kha của xã_hội chúng_ta . 
+Đây cũng là rào_cản lớn cho việc ứng_dụng công_nghệ thông_tin , hệ_thống thông_tin trong quản_lý ở các cấp , các ngành , các doanh_nghiệp . 
+Nó không_chỉ hạn_chế sự phát_triển của ngành công_nghệ thông_tin nói_riêng mà hạn_chế và nới rộng khoảng_cách phát_triển của chúng_ta với thế_giới . 
+Xây_dựng một nhà_nước pháp_quyền với những hệ_thống thông_tin công_ích vĩ_mô và vi_mô là công_việc cần làm ngay và thật triệt_để . 
+Cần tạo điều_kiện , cơ_chế và khuyến_khích phát_triển các định_chế xã_hội độc_lập như đã nêu ở trên để những định_chế này đóng vai_trò thu_thập , xử_lý thông_tin và quảng_bá các thông_tin đó một_cách minh_bạch và rộng_rãi đến mọi tầng_lớp xã_hội . 
+Minh_bạch_hoá các nguồn thông_tin công_chính là cơ_sở xã_hội đầu_tiên để các doanh_nghiệp , các tổ_chức chính_phủ và phi_chính_phủ chuyển_đổi từ mô_hình hoạt_động dựa trên quan_hệ cá_nhân sang hoạt_động dựa trên luật_pháp và thông_tin khách_quan - từ đó đẩy_mạnh các ứng_dụng công_nghệ thông_tin trong quản_lý và điều_hành . 

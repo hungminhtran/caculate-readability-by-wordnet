@@ -1,0 +1,13 @@
+Vẽ cây 
+Quan_sát , nhận_xét 
+Có nhiều loại cây : cây to , cây nhỏ , cây thân cứng , cây thân_mềm , cây dây_leo , ... 
+Cây thường có các bộ_phận chính như : thân , cành , lá , ... 
+Mối loại cây đều có một dáng_vẻ riêng , nhất_là tán lá : cây bàng có tán lá xếp thành tầng ; cây phi_lao có thân thẳng , cao , tán lá hình_chóp ; cây nhãn có tán lá hình_tròn , ... 
+Màu_sắc của lá thường là màu xanh nhưng thay_đổi khi còn non , khi đã già và theo từng mùa ( xuân , hạ , thu , đông ) . 
+Quan_sát kĩ , ta sẽ tìm ra đặc_điểm và vẻ_đẹp của mỗi loại cây . 
+Cách vẽ cây 
+Nhìn dáng của cây và phác hình chung cho vừa với khổ giấy ( thân , vòm lá - H . 2a ) . 
+Phác các nét chính của thân , cành , vòm lá ( H . 2b ) . 
+Vẽ các nét chi_tiết cho rõ đặc_điểm của cây ( H . 2c , d ) . 
+Có_thể vẽ đậm nhạt bằng chì đen hoặc màu . 
+Lưu_ý : Không vẽ quá nhiều chi_tiết , vẽ hình_dáng và đặc_điểm của cây là chính . 

@@ -1,0 +1,40 @@
+" Xài " Google kiểu … hacker 
+Ta nài_nỉ bao_nhiêu lần , tốn hàng trăm nghìn tiền điện_thoại , hắn mới chịu gặp ta . 
+Bây_giờ , tại một quán cà_phê Internet , ngồi trước mặt ta là một tên con_trai cao trên 1,7m , người gầy_nhom . 
+Wow , tay hacker này trông cũng giống … người lắm mà , không có ghê_rợn như ta nghĩ trước đó . 
+Mục_tiêu thứ nhất coi như đã hoàn_thành , ta đã biết được diện_mạo của hắn . 
+Giờ phải nhảy vô mục_tiêu chính liền kẻo hắn lại chuồn mất : lật_tẩy các " chiêu " của hắn . 
+Ê , mi " bật_mí " một_số tuyệt_chiêu của Google đi ? 
+Thế là hắn bắt_đầu click click . 
+Hoá_ra muốn Google tung ra tuyệt_chiêu … dễ như_chơi trò_chơi điện_tử , chỉ cần nhớ vài_ba toán_tử đặc_biệt là xong ( xem chi_tiết cách sử_dụng các toán_tử tại http : / / www . google . com / help / operators.html ) . 
+- Này nhé , nếu mi chỉ muốn thằng Google lục_lọi thông_tin trong một website duy_nhất thì phải dùng đến từ khoá site :tên-miền . 
+Ví_dụ như nếu mi muốn tìm những bài viết về nhóm nhạc rock Bức_Tường trong trang web của Báo Tuổi_Trẻ thì mi dùng từ khoá : " Ban nhạc Bức_Tường " site :www . tuoitre . com.vn . 
+Thế cái từ_khoá này chỉ có_thể tìm_kiếm trong từng website riêng_biệt thôi hay sao ? 
+Nếu ta không_chỉ muốn tìm trong website của Tuổi_Trẻ mà là tất_cả những website của VN thì phải làm_sao ? 
+-Dễ ợt , chỉ cần thế www . tuoitre . com . vn bằng vn , mi sẽ được kết_quả như mong_muốn . 
+Nói thêm với mi , ta thường hay dùng cái từ khoá site : tên-miền này để lấy sitemap của bất_kỳ website nào . 
+Mi thấy đó , mọi việc đều diễn_ra trên Google , ta thậm_chí không cần truy_cập vào www . tuoitre . com . vn vẫn có_thể thăm_dò được website này một_cách dễ_dàng mà không để lại bất_kỳ dấu_vết nào . 
+Chưa hết đâu . 
+Một từ_khoá mà ta thường hay sử_dụng nữa là filetype : phần-mở-rộng . 
+Ngoài các file .txt , .html Google hiện_nay còn có_thể tìm_kiếm thông_tin bên trong 13 loại file khác nhau , từ .pdf , .doc , đến cả flash .swf . 
+Rất nhiều người thường sử_dụng từ khoá này để tìm_kiếm tài_liệu , ebook , ví_dụ như dùng từ_khoá " Google hacker " filetype : pdf , mi sẽ tìm được một tài_liệu rất hay về Google hacking đấy . 
+Thế ngoài dùng để tìm ebook ra , filetype này còn có_thể tìm được gì ? 
+Mi thường dùng filetype này để lục_lọi cái gì ? 
+- Mi thử gõ vào Google từ_khoá này xem intitle : Login filetype :asp site :vn . 
+Ta hý hửng gõ từ khoá đó vào Google , nhấn Enter , chưa đầy 1 giây kết_quả Google trả về làm ta sém . . 
+rớt chuột . 
+Trước mặt ta giờ là " gót chân Achilles " của hơn 70 website ở VN , trong đó có cả website của nhiều " đại_gia " cỡ bự . 
+- Với từ_khoá trên , thằng Google sẽ tìm những webpage có phần mở_rộng là asp ( Active_Server_Page , một ngôn_ngữ_lập_trình web rất thông_dụng ở VN ) trong các website ở VN . Thế còn cái đoạn intitle : Login nó làm gì ? 
+Chỉ tìm những webpage nào có tiêu_đề chứa chữ Login phải không ? 
+- Chính_xác . 
+Từ_khoá intitle , tương_tự như từ khoá allintitle , quy_định thằng Google chỉ tìm những webpage nào có tiêu_đề chứa nội_dung xác_định . 
+Ê mi , thế làm_sao để tránh bị hack bằng Google ? 
+- Một câu hỏi hay . 
+Nói cho mi biết , trong cuốn best-seller Google_hacks ( http : / / douweosinga . com / projects / googlehacks http : / / www . oreilly . com / catalog / googlehks / ) , cuốn sách bàn về các tuyệt_chiêu như làm_sao để đưa website lên top 10 trên Google , có dành hẳn một chương nói về cách phòng và chống lại Google . 
+Đối_với Google , không muốn nó dòm_ngó mình thì ngay từ đầu đừng để cho website của mình bị Google đưa vào danh_mục tìm_kiếm . 
+Nè , mi vào site http : / / www . robotstxt . org / để tìm_hiểu thêm nhé . 
+Thế lỡ bị Google " điểm mặt " rồi thì sao ? 
+- Mi phải tạo một file robots . txt theo hướng_dẫn trong website ở trên , sau đó mi truy_cập vào http : / / services . google . com :8882 / urlconsole / controller , đăng_nhập vào bằng account Google của mi , nếu chưa có account thì mi có_thể đăng_ký miễn_phí . 
+Sau khi đăng_nhập , mi nhập vào địa_chỉ website của mi cùng cái file robots . txt , nhấn Enter và mi đã hết bị Google " ám " ! 
+Thật_ra những " chiêu " trên là kinh_nghiệm vô_cùng quý_báu mà một người sử_dụng Internet bình_thường sử_dụng sẽ rất hữu_dụng . 
+Khi Google cho_phép sử_dụng các thủ_thuật này , mục_đích của họ là giúp những người sử_dụng tối_ưu_hoá khả_năng " lướt " trên Internet . Tất_nhiên , chỉ có những người cố_tình sử_dụng Google vào mục_đích sai_trái như khai_thác thông_tin rò_rỉ từ sitemap , tìm_kiếm lỗ_hổng để cài phần_mềm " gián_điệp " , tìm những file thông_tin mật , những file chứa password rồi file chứa thông_tin tài_chính … thì mới đáng lên_án . 

@@ -1,0 +1,12 @@
+Lỗi_Kerberos ảnh_hưởng một loạt chương_trình phổ_biến 
+Hai lỗ_hổng nghiêm_trọng vừa được phát_hiện trong công_nghệ xác_thực mạng ứng_dụng rộng_rãi này khiến nhiều chuyên_gia khẳng_định sẽ có một " cơn lũ " những bản vá lỗi liên_tục xuất_hiện trong thời_gian tới . 
+Lỗi trong Kerberos , công_nghệ xác_thực phổ_biến do Viện công_nghệ Massachusett ( MIT ) của Mỹ phát_triển , đặt một loạt sản_phẩm phần_mềm vào tình_trạng nguy_hiểm , dễ_dàng cho tin_tặc tấn_công . 
+Nó mở_đường cho kẻ xâm_nhập trực_tuyến phá_vỡ hệ_thống hay tiếp_cận máy_tính sử_dụng phần_mềm này . 
+Cả hai lỗ_hổng xuất_hiện trong Kerberos 5 Release 1 . 4.1 và tất_cả các phiên_bản xuất_hiện trước đó . 
+Hãng bản mật Secunia của Đan_Mạch đánh_giá nguy_cơ này ở mức " rất nghiêm_trọng " . 
+MIT đã kịp_thời cung_cấp bản vá lỗi để giải_quyết vấn_đề và quả_quyết rằng việc thực_hiện tấn_công không phải là một công_việc dễ_dàng cho hacker . 
+Nó đòi_hỏi tin_tặc phải có kiến_thức thực_sự " thâm_hậu " mới có_thể khai_thác những lỗ_hổng này . 
+Nhiều nhà sản_xuất phần_mềm như Red_Hat , Turbolinux và Gentoo đã nhanh_chóng sửa lỗi trong các chương_trình Linux . Hãng Sun_Microsystems cũng đưa ra thông_báo thừa_nhận lỗ_hổng trong nhiều phiên_bản Solaris nhưng chưa tung ra bản cập_nhật . 
+Do ứng_dụng Kerberos rất phổ_biến , trong thời_gian tới sẽ có thêm nhiều công_ty cung_cấp chương_trình thay_đổi của riêng mình . 
+Microsoft cũng sử_dụng công_nghệ xác_thực này nhưng khẳng_định sản_phẩm của hãng đã " thoát hiểm " trước đợt càn_quét này . 
+Đầu tháng này , một lỗ_hổng bảo_mật khác cũng xuất_hiện trong zlib mã mở , khiến nhiều chương_trình phần_mềm đứng trước nguy_cơ bị tấn_công kiểm_soát hệ_thống hay phá_vỡ những ứng_dụng chạy trên công_nghệ nén dữ_liệu đó . 

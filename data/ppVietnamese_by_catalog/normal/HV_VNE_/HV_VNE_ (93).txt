@@ -1,0 +1,10 @@
+Microsoft phát_hành bản nâng_cấp tháng 5 để vá 1 lỗi 
+Tuy_nhiên , đây lại là một khiếm_khuyết khá nghiêm_trọng mà hãng phần_mềm Mỹ khuyến_cáo khách_hàng nên cập_nhật ngay bản update ( phát_hành hôm 10/5 ) . 
+Lỗ_hổng này cho_phép hacker tấn_công từ xa qua Windows_Explorer trong Windows_2000_SP3 và SP_4 . Windows_98/98SE và Windows_ME cũng bị ảnh_hưởng nhưng Microsoft đã ngừng hỗ_trợ nâng_cấp các sản_phẩm này từ lâu và chỉ có biện_pháp khi những lỗi phát_hiện thuộc loại đặc_biệt nguy_hiểm . 
+Windows_XP nằm ngoài diện bị nguy_cơ . 
+Khiếm_khuyết duy_nhất mà bản tin an_ninh tháng 5 MS05-024 xử_lý được phát_hiện cách đây khoảng 4 tuần và công_bố trên một mạng tin an_ninh trước khi Microsoft làm bản vá lỗi . 
+Lỗ_hổng Windows_Explorer này liên_quan tới tính_năng quản_lý file , cụ_thể là phương_thức công_cụ Web_View xử_lý một_số ký_tự HTML trong trường preview . 
+Microsoft xếp khiếm_khuyết ở hàng khá nghiêm_trọng ( important ) , tức_là mức cao thứ 3 trong hệ_thống đánh_giá 4 bậc của họ . 
+Theo Stephen_Toulouse , Giám_đốc an_ninh của Trung_tâm phản_ứng nhanh thuộc Microsoft , lỗi Windows_Explorer có_thể cho_phép những kẻ tấn_công thực_thi mã nguy_hiểm trên máy_tính nạn_nhân hoặc xem và xoá file từ xa . 
+Tuy_nhiên , những cuộc tấn_công như vậy vẫn đòi_hỏi phải có sự tương_tác của người sử_dụng máy_tính , tức_là họ phải click mở file do hacker gửi tới . 
+Đây không phải là dạng tấn_công tự_động . 

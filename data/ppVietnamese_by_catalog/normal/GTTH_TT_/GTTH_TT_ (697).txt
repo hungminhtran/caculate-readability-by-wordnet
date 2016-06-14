@@ -1,0 +1,10 @@
+ICQ sẽ có thêm trò_chơi và nhiều tính_năng giải_trí 
+Người tiên_phong về Internet dự_tính sẽ phát_hành phiên_bản nhắn tin ICQ mới nhất - ICQ 4.0 - vào ngày_mai ( 20-4 ) và lần đầu_tiên cho_phép đối_tác sử_dụng giao_diện lập_trình ứng_dụng ICQ ( API ) . 
+Hiện_nay , ICQ ( trụ_sở tại Tel_Aviv , Israel ) đang hợp_tác với nhà_xuất_bản game Oberon_Media và dịch_vụ hò_hẹn Lava_Life thử_nghiệm chương_trình của hãng . 
+Cả hai đối_tác này đều đưa ra ứng_dụng chạy trên nền ICQ 4.0 . 
+Những ứng_dụng này có_thể tải về và cài_đặt như một plug-in . 
+ICQ 4.0 sẽ có một giao_diện mới , thiệp điện_tử và nhiều tính_năng nhắn tin dạng văn_bản mới cho điện_thoại_di_động . 
+Với bản nâng_cấp này , các đối_tác ICQ sẽ có_thể sử_dụng API để tạo bất_kỳ chương_trình nào chạy trong phần_mềm nhắn tin này . 
+API hỗ_trợ lập_trình theo HTML , DHTML và Flash . 
+Theo AOL , hiện_nay , ICQ có khoảng 10 triệu người sử_dụng mỗi tháng , hầu_hết là ở châu Âu , châu Á và Nam_Mỹ . Ngược lại , AIM chỉ có khoảng 36 triệu người dùng mỗi tháng , phần_lớn là ở Mỹ . 
+Bằng việc mở_rộng phát_hành API tới giới phát_triển , ICQ hy_vọng có_thể biến công_nghệ instant Message của mình trở_thành nền ứng_dụng . 

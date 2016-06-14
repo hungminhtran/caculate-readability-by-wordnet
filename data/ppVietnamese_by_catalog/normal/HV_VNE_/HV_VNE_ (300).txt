@@ -1,0 +1,8 @@
+I-O Data xin_lỗi về sự_cố Trojan trong ổ_cứng 
+Hãng sản_xuất thiết_bị_ngoại_vi Nhật_Bản đang tiến_hành đổi lại sản_phẩm sau khi phát_hiện hàng_loạt đĩa_cứng mà họ đã xuất_xưởng có chứa mã nguy_hiểm . 
+Những ổ_đĩa_cứng lưu_động thuộc dòng HDP-U của I-O Data có_thể đã bị nhiễm Tompai . A , một loại sâu có khả_năng mở cổng hậu , tạo cơ_hội cho hacker khống_chế hệ_thống . 
+Những sản_phẩm bị ảnh_hưởng nằm trong serie : 4957180059693 HDP-U40 YBS0000001xx - YBS0005520xx , 4957180059709 HDP-U60 YBT0000001xx - YBT0001000xx và 4957180059716 HDP-U80 YBV0000001xx - YBV0002480xx . 
+Có_lẽ , máy_tính của một chuyên_gia phát_triển trình điều_khiển đĩa_cứng của I-O Data trước đó đã bị nhiễm virus và phần_mềm nguy_hiểm đó đã thâm_nhập vào hàng_loạt sản_phẩm của hãng này . 
+I-O Data cam_kết sẽ thắt_chặt quá_trình sản_xuất để tránh lặp lại vấn_đề lần thứ hai . 
+HP , IBM và đặc_biệt là Dell cũng từng gặp tại nạn tương_tự trước đây . 
+Năm 1999 , nhiều hệ_thống máy_tính của Dell tại châu Âu đã bị trục_trặc trong 4 ngày do nhiễm chương_trình FunLove - một virus Windows không độc_hại nhưng rất khó xoá_bỏ . 

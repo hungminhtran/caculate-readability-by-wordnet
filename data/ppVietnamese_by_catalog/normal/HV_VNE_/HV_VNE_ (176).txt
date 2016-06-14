@@ -1,0 +1,14 @@
+Tin_tặc mở_rộng tấn_công vào dịch_vụ miễn_phí 
+Trong hai tuần đầu_tiên của tháng 7 , hãng bảo_mật Websense ( Mỹ ) đã chứng_kiến tới hơn 500 trường_hợp hacker xâm_nhập vào các trang web cá_nhân ( blog ) và dịch_vụ trực_tuyến để phát_tán mã nguy_hiểm . 
+Dịch_vụ miễn_phí đang bị tin_tặc lạm_dụng để cài phần_mềm chuyên ăn_cắp thông_tin cá_nhân hay đột_nhập vào máy_tính nạn_nhân . 
+Trong tháng 4 , Websense đã cảnh_báo website cá_nhân đang trở_thành " miếng mồi ngon " cho tội_phạm mạng . 
+Hãng bảo_mật này hôm_qua tiếp_tục khuyến_cáo rằng những dịch_vụ mạng khác , như website dành cho người hâm_mộ , website ảnh , thiệp điện_tử , video ... 
+cũng đang bị hacker khai_thác . 
+" Tháng 7 chính là thời_điểm bùng_phát mục_tiêu mới , chỉ trong 2 tuần , số vụ tấn_công đã nhiều hơn cả tháng 5 và 6 cộng lại " , Dan_Hubbard , Trưởng nhóm nghiên_cứu công_nghệ và bảo_mật tại Websense , tuyên_bố . 
+Tính từ đầu năm đến giữa tháng này , hãng bảo_mật có trụ_sở tại California đã tổng_hợp tới 2.500 trường_hợp phát_tán mã tấn_công qua những dịch_vụ miễn_phí . 
+Kẻ tấn_công thường lừa mọi người mở liên_kết trong e-mail hoặc thông_điệp gửi qua dịch_vụ tin_nhắn nhanh . 
+Khi bấm vào kết_nối , máy_tính sẽ ngay_lập_tức bị nhiễm . 
+Trong nhiều trường_hợp , e-mail hiển_thị cả thiệp điện_tử kèm âm_thanh để thu_hút người dùng trong khi spyware thực_hiện quá_trình xâm_nhập vào máy_tính mà nạn_nhân không hề nhận ra . 
+Websense cũng khẳng_định hacker có_thể sử_dụng một_số công_cụ tự_động để tạo ra một_số trang web độc . 
+Những trang kiểu này chỉ tồn_tại nhiều nhất 4 ngày , nên rất khó có_thể dò ra chúng . 
+Hãng bảo_mật này khuyên người dùng nên dè_chừng trước những kết_nối nhận được , dù là từ bạn_bè , người quen , và phải thường_xuyên cập_nhật phần_mềm diệt virus . 

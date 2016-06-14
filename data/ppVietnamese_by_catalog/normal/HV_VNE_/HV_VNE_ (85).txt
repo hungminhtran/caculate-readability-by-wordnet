@@ -1,0 +1,18 @@
+Spyware đưa virus e-mail vào dĩ_vãng 
+Ngày tàn của mã tấn_công gửi kèm trong thư_điện_tử không còn xa khi mà hacker đang tăng_cường sử_dụng các chương_trình gián_điệp ( spyware ) . 
+Báo_cáo mới_đây của hãng bảo_mật Webroot ( Mỹ ) cho_thấy số PC bị nhiễm spyware riêng trong quý I năm nay đã lên đến 88 % . 
+Các chuyên_gia bảo_mật tại diễn_đàn an_ninh Infosecurity_Europe tại London ( Anh ) tuần qua cũng thống_nhất cho rằng vấn_đề nghiêm_trọng nhất mà người sử_dụng Internet phải đối_mặt hiện_nay chính là sự gia_tăng đáng báo_động của các loại spyware . 
+Lịch_sử phát_triển của các phần_mềm tấn_công máy_tính cũng giống như đại_dương . 
+Người sử_dụng PC nối mạng đang lướt trên những con sóng lớn dần và lớn dần trước khi xô bờ , Larry_Bridwell , Giám_đốc trung_tâm ICSA_Labs ( Mỹ ) , phát_biểu . 
+Hiện_nay , chúng_ta đã ý_thức tốt hơn về cơ_chế hoạt_động của virus e-mail và biết cách ngăn_chặn chúng hiệu_quả . 
+Tuy_nhiên , các dạng mã tấn_công dưới những hình_thức khác sẽ tiếp_tục hoành_hành . 
+Người dùng Internet sẽ tiếp_tục lướt qua những cơn sóng lớn mới . 
+Một trong số đó chính là spyware . 
+Spyware là thuật_ngữ chung để chỉ các chương_trình phần_mềm bí_mật cài vào máy_tính để theo_dõi hoạt_động truy_cập Internet hoặc ăn_cắp thông_tin cá_nhân . 
+Spyware còn gây rắc_rối cho người sử_dụng máy_tính khi tung ra những cửa số quảng_cáo dạng pop-up , khống_chế trang_chủ trình_duyệt ( homepage ) bằng các địa_chỉ lạ , lái các lệnh tìm_kiếm web và sử_dụng thủ_đoạn đầu_độc hệ_thống tên_miền DNS để thu_gom lưu_thông web với mục_đích làm tăng thứ_hạng website . 
+Các dạng spyware phổ_biến nhất hiện_nay bao_gồm adware , phần_mềm ghi lại lệnh gõ trên bàn_phím ( keylogger ) và giám_sát hoạt_động hệ_thống . 
+Webroot cho_biết adware có_mặt trong hơn 50 % số máy_tính doanh_nghiệp bị lây_nhiễm và 60 % PC gia_đình . 
+Trung_bình , mỗi conputer bị dính các ứng_dụng quảng_cáo chứa 7 dạng adware khác nhau . 
+Hiện_nay , spyware đóng_góp gần 25 % tổng_giá_trị của ngành công_nghiệp quảng_cáo trực_tuyến . 
+Xu_hướng gia_tăng của spyware tất_nhiên lại là tin_vui cho các nhà cung_cấp phần_mềm bảo_vệ máy_tính . 
+Nghiên_cứu của Webroot cho_biết ngành công_nghiệp ứng_dụng diệt spyware hiện_nay đã đạt giá_trị xấp_xỉ 1 tỷ USD . 

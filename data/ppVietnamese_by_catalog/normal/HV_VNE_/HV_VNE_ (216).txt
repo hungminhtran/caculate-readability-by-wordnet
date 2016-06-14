@@ -1,0 +1,8 @@
+Tin_tặc phát_tán sâu Zotob bị bắt_giữ 
+Giới quan_chức ở Morocco và Thổ_Nhĩ_Kỳ đã buộc_tội 2 thanh_niên liên_quan đến vụ lây_nhiễm sâu máy_tính ảnh_hưởng hàng_loạt công_ty , tổ_chức chính_phủ và các hãng thông_tấn báo_chí lớn ở Mỹ . Louis_M . 
+Riegel , trợ_lý giám_đốc thuộc bộ_phận tội_phạm mạng của FBI , cho_biết họ đã bắt Farid_Essebar , 18 tuổi , ở Morocco , còn Atilla_Ekici , 21 tuổi , bị " tóm_cổ " tại Thổ_Nhĩ_Kỳ ngày 25/8 và chúng sẽ phải hầu toà tại 2 nước này . 
+Ekici , biệt_danh Coder , đã thuê Essebar ( nick Diabl0 ) viết phần_mềm tấn_công máy_tính chạy trên hệ_điều_hành Windows . 
+Chúng có_thể chưa từng gặp_mặt nhưng biết rõ về nhau qua Internet . FBI nghi_ngờ 2 kẻ này là tác_giả của cả sâu Zotob và Mytob bởi trong Zotob chứa một_vài đoạn mã từng được dùng để viết chương_trình virus phổ_biến nhất tháng 7 . 
+Reigel cho_biết ông không nắm rõ giá_trị cụ_thể trong vụ hợp_tác của 2 tên hacker . 
+Microsoft cũng từ_chối tiết_lộ thiệt_hại tài_chính gây ra bởi sâu Zotob và biến_thể của nó . 
+Những phiên_bản virus này có khả_năng tấn_công PC mà không cần mở bất_cứ một phần_mềm nào , do đó các máy_tính , chủ_yếu dùng Windows_2000 , đã vô_tình bị nhiễm mà người sử_dụng không hề hay_biết . 

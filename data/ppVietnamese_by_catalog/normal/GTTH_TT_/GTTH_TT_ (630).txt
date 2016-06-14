@@ -1,0 +1,6 @@
+HP thu_hồi pin bị lỗi của 135.000 máy xách tay 
+Theo Uỷ_ban này cho_biết thì một_số lỗi xuất_hiện trong quá_trình sản_xuất một dòng pin chuyên_dùng cho máy xách tay của HP đã gây nên hiện_tượng phát_sinh nhiệt bất_thường này và có_thể làm nóng_chảy vỏ nhựa của pin đến mức bùng cháy thành ngọn lửa . 
+Trước đó , Uỷ_ban an_toàn đã chính_thức nhận được 16 thông_báo về hiện_tượng máy_tính bỗng_nhiên nóng lên đột_ngột đến_nỗi người dùng phải tắt máy ngay_lập_tức nhưng may_mắn rằng chưa có trường_hợp nào phát_sinh hoả_hoạn . 
+HP đã ra quyết_định thu_hồi và đổi lại pin mới miễn_phí cho khoảng 135.000 máy_tính xách tay đã bán ra được trang_bị loại pin lỗi này . 
+Loại pin này được sản_xuất trong khoảng thời_gian từ tháng 3-2004 đến tháng 9-2004 và có mã_số pin bắt_đầu bằng GC , IA , L0 và L1 . Người dùng máy xách tay của HP có_thể tự kiểm_tra mã_số pin ở mặt đáy của máy xách tay hoặc vào đây để tham_khảo chi_tiết mọi thông_tin trước khi đưa ra quyết_định đổi lại pin mới nếu có nhu_cầu . 
+Vào giữa tháng 6-2005 , Fujisu-Siemens cũng đã ra quyết_định thu_hồi 250.000 bộ pin máy xách tay cũng bị lỗi tương_tự . 

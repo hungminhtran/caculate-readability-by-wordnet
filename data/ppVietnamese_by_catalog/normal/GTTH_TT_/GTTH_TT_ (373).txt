@@ -1,0 +1,18 @@
+AMD và Intel bật_mí về BXL dành cho server 
+Với Intel , chủ_bài vẫn là bộ_xử_lý thuộc dòng Xeon . BXL nhân đôi Tulsa , hai nhân , chạy ở tốc 3,4Ghz , nhanh hơn BXL 3 GHz_Xeon ( có tên là Paxville ) hiện_nay trên thị_trường . 
+Tulsa cũng được trang_bị 16MB bộ_nhớ đệm hợp_nhất dành cho cả hai nhân . 
+Điều này cho_phép mỗi nhân có_thể truy_xuất đến dữ_liệu nằm trên toàn_bộ vùng nhớ đệm . 
+Hiện_nay , các bộ_xử_lý dành cho server của cả Intel lẫn AMD đều dùng bộ_nhớ đệm độc_lập riêng cho từng nhân . 
+Chỉ có BXL của IBM là dùng bộ_nhớ đệm hợp_nhất . 
+Theo ông Nimish_Modi , phó_chủ_tịch Digital_Enterprise_Group tại Intel , thay_đổi trên có_thể nâng_cao hiệu_suất của một_số ứng_dụng lên 10 % . 
+BXL này cũng là BXL đầu_tiên của Intel hỗ_trợ chạy đa_hệ_điều_hành của Intel , nhờ công_nghệ đa hợp ảo ( virtualization ) có được trong sự hợp_tác với Pellston . 
+BXL_Tulsa cũng có công_nghệ tiết_kiệm năng_lượng . 
+Cải_tiến lần này nằm ở việc bộ_nhớ đệm được chuyển vào chế_độ " ngủ " và " ngủ sâu " để có_thể tiết_kiệm lên đến 6W điện_năng tiêu_thụ . 
+Cho đến hiện_nay , các BXL của Intel đều bỏ_ngỏ chuyện điện_năng bộ_nhớ đệm . 
+Điều này vô_tình làm tăng_cường dòng rò_rỉ dẫn đến việc tăng cao điện_năng tiêu_thụ và nhiệt_độ . 
+Mặc_dù vậy , BXL_Tulsa cũng có mức tiêu_thụ điện_năng là 150W , thấp hơn khoảng 9 % so với 165W của Paxville và chưa_thể so_sánh với AMD . 
+Về phía AMD , Pacifia của hãng này chỉ có 95W điện_năng tiêu_thụ . 
+BXL này cũng tích_hợp công_nghệ đa hợp ảo của riêng AMD . 
+Tuy_nhiên , bộ_nhớ đệm hợp_nhất vẫn chưa xuất_hiện trong các bộ_xử_lý của AMD cho đến đầu năm sau . 
+Mặc_dù vậy , khi so_sánh về hiệu_suất thì cả hai đều ngang_ngửa . 
+AMD vẫn có phần nhỉnh hơn trong một_số ứng_dụng đặc_thù . 

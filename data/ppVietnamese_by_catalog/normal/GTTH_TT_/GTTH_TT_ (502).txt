@@ -1,0 +1,15 @@
+Từ những cảnh_báo đầu_tiên về Windows_Vista 
+Chức_năng tìm_kiếm và tổ_chức là một trong những tính_năng chính của Windows_Vista , thế_hệ tiếp_theo của Windows_XP._Khi xây_dựng chức_năng này , Microsoft đã không quan_tâm đến việc quản_lý những thông_tin mà người dùng mô_tả tập_tin của mình ( dữ_liệu meta ) để phục_vụ cho công_tác quản_lý và tìm_kiếm về sau theo nhu_cầu . 
+Các nhà phân_tích đã cảnh_báo rằng , các thẻ dữ_liệu meta có_thể phơi_bày những thông_tin nhạy_cảm một_cách vô_tình . 
+Ví_dụ , một người đàn_ông có_thể phân_loại các lá thư của mình theo danh_mục là " người_yêu " , " vợ " , và " bạn_gái " để tiện trong việc xử_thế của anh ta . 
+Đây là những thông_tin hoàn_toàn cá_nhân , nhưng nếu không được bảo_mật kỹ quản_lý thì … có trời mới biết chuyện gì xảy_ra khi một trong ba đối_tượng trên nhìn thấy . 
+Trong lịch_sử về bảo_mật , các dữ_liệu của các cơ_quan như CIA , FBI , của Nhà trắng đã từng bị rò_rỉ ra ngoài cũng do việc quản_lý dữ_liệu meta không chu_đáo . 
+Với Microsoft , tiêu_chí của công_ty quan_tâm đến tính riêng_tư và tính bảo_mật của thông_tin người dùng , vì thế , rất là thiếu_sót khi Microsoft chỉ trang_bị cho Vista một công_cụ để loại_bỏ các dữ_liệu meta . 
+Theo các chuyên_gia , đáng ra nên có một chương_trình để quản_lý những dữ_liệu meta này . 
+Tính khả_dụng của Vista ... Windows_Vista chưa thực_sự chào_đời , tuy_nhiên đã bắt_đầu nảy_sinh các vấn_đề rất lớn liên_quan đến việc bảo_mật và an_toàn thông_tin cá_nhân . 
+Rõ_ràng Microsoft đã thêm việc cho mình khi đưa vào sử_dụng chức_năng " metadata tag " , cũng đồng_thời tạo thêm một kẽ hở cho hệ_điều_hành vốn đã quá đồ_sộ của mình . 
+Đối_với rất nhiều người dùng hiện_nay , việc nâng_cấp hệ_điều_hành mới hoàn_toàn không cần_thiết , khi mà họ phải bỏ ra thêm một_số tiền_đề nâng_cấp phần_cứng và phần_mềm chỉ để giải_quyết những công_việc thường_nhật . 
+Còn nói về nhu_cầu vui_chơi giải_trí qua mạng , việc nâng_cấp không đem lại cho họ nhiều dịch_vụ hơn mà chỉ thêm phiền_phức khi phải thay_đổi thói_quen với các công_cụ đã có trên hệ_điều_hành cũ . 
+Rõ_ràng , Google đã có_lý khi họ phát_triển một mô_hình máy_tính dựa trên môi_trường cộng_tác và mạng Internet ( Google_PC ) . 
+Những nhà sản_xuất máy_tính đang bắt_đầu có những bước_đi e_dè trên con đường làm sống lại mô_hình máy_tính NC . 
+Nếu hệ_điều_hành máy PCs không có những biến_chuyển đáng_kể , thì việc mất thị_phần về các công_ty máy_tính mạng trong tương_lai là điều không_thể tránh khỏi . 

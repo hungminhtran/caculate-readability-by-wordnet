@@ -1,0 +1,19 @@
+Trojan ẩn sau phần_mềm chống sao_chép của Sony 
+Các công_ty bảo_mật đã phát_hiện ít_nhất 3 chương_trình nguy_hiểm lợi_dụng " tấm áo_choàng " rootkit trong công cụchống copy XCP2 của Sony để xâm_nhập vào máy_tính mà không bị phát_hiện . 
+Phần_mềm trong các đĩa CD của Sony có khả_năng tự ẩn mình trên ổ_cứng do sử_dụng công_cụ lập_trình mạnh rootkit . 
+Tuy_nhiên , nó cũng mở_rộng cửa đón chương_trình khác , trong đó có cả virus . 
+Phiên_bản Trojan đầu_tiên được phát_hiện sáng_qua , được thiết_kế để tạo điều_kiện cho tin_tặc khống_chế máy_tính từ xa . 
+Đây là một biến_thể của phần_mềm nguy_hiểm trước đây từng được phát_tán qua e-mail . 
+E-mail này mạo_danh từ một nhà_xuất_bản , thông_báo họ đang sử_dụng một bức ảnh của người nhận cho bài viết sắp tới . 
+Khi bấm vào file ảnh đính kèm , một mã_độc ngay_lập_tức được cài vào trong máy , tự_động kết_nối tới mạng Internet_Relay_Chat và tạo cơ_hội cho hacker điều_khiển PC . 
+Trong phiên_bản mới , Trojan đã tận_dụng khả_năng ẩn mình của rootkit và kết_nối tới server mạng chat này nhưng thất_bại . 
+Tuy_nhiên , hai biến_thể khác đã sớm xuất_hiện ngay trong ngày và kiểm soáy máy_tính thành_công . 
+Hầu_hết các công_ty bảo_mật đều đang phát_hành công_cụ dò_tìm và diệt chương_trình rootkit . 
+Sony cũng đã đăng một bản vá lỗi trên trang web công_ty nhằm gỡ bỏ phần_mềm . 
+Tuy_nhiên , người sử_dụng phải liên_hệ với dịch_vụ chăm_sóc khách_hàng của hãng để nhận hướng_dẫn . 
+" Đây không còn là lỗ_hổng bảo_mật trên lý_thuyết nữa " , Sam_Curry , Phó_giám_đốc của eTrust Security_Management ( thuộc Computer_Associates ) , cho_biết . 
+" Nó không liên_quan đến quản_lý quyền kỹ_thuật số hay bảo_vệ nội_dung , mà là máy_tính của người sử_dụng đang có nguy_cơ bị kiểm_soát với mục_đích xấu " . 
+Việc sử_dụng rootkit đã tạo nên một làn_sóng chỉ_trích mạnh_mẽ và Sony có khả_năng sẽ phải đối_mặt với 3 vụ kiện cùng lúc . 
+Một vụ đã được tiến_hành tại toà_án bang California ( Mỹ ) từ 1/11 . 
+Tổ_chức quyền kỹ_thuật số Electronic_Frontier_Foundation ( EFF ) đang thu_thập thông_tin từ phía người sử_dụng để có đủ chứng_cớ cho một vụ kiện tiếp_theo . 
+Một_số nhóm người tiêu_dùng Italia cũng cho_biết họ đang tính đến chuyện can_thiệp bằng pháp_lý với Sony . 

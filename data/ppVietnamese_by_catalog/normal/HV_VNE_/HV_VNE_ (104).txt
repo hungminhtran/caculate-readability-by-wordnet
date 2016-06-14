@@ -1,0 +1,7 @@
+Lỗ thủng ở công_cụ chát chít Yahoo_Messenger 
+Các chuyên_gia bảo_mật của tổ_chức SecuriTeam vừa phát_hiện một khiếm_khuyết cho_phép tấn_công từ_chối dịch_vụ ( DoS ) liên_quan đến phần_mềm nhắn tin nhanh phổ_biến của Yahoo . 
+Hacker có_thể lợi_dụng lỗi để ngắt kết_nối của người sử_dụng khỏi cuộc liên_lạc ( session ) bằng cách gửi những gói dữ_liệu nguỵ_tạo tới các server Yahoo_Messenger . Lỗ_hổng này bắt_nguồn từ một trục_trặc ở thủ_tục xử_lý các đường link URL . 
+Lỗi ảnh_hưởng hai phiên_bản Yahoo_Messenger 5.0 và 6.0 . 
+Nhà cung_cấp hiện chưa có bản vá lỗi tuy_nhiên các chuyên_gia an_ninh trấn_an rằng mặc_dù khiếm_khuyết này có_thể tạo tiền_đề cho nhiều hành_động nguy_hại nhưng bản_thân nó không tạo ra con đường nào để khống_chế hệ_thống . 
+SecuriTeam khuyến_cáo người sử_dụng , nhất_là những người không rành về máy_tính , nên thận_trọng khi áp_dụng các biện_pháp tự khắc_phục như chỉnh_sửa Registry vì hành_động này có_thể khiến máy_tính bị trục_trặc . 
+Tham_khảo thêm về lỗi này tại đây . 

@@ -1,0 +1,15 @@
+Virus mới giả_dạng công_cụ lọc nội_dung sex 
+Loại sâu phát_tán e-mail số_lượng lớn có tên Baba . C được thiết_kế để dụ_dỗ người nhận thư kích_hoạt nó bằng cách thông_báo trên máy_tính nạn_nhân có nhiều nội_dung khiêu_dâm cần xử_lý . 
+Virus sẽ thông_báo với nạn_nhân rằng các nội_dung sex có_thể cho vào chế_độ ẩn bằng cách chạy một chương_trình ở file đính kèm gọi là " Evidence_Cleaner " mà thực_chất chính là virus . 
+Khi đã được kích_hoạt virus sẽ thực_hiện quá_trình tiếp_tục phát_tán và mở các cổng hậu vào hệ_thống Windows nạn_nhân . 
+Mặc_dù mới chỉ có một_số ít máy_tính được thông_báo bị nhiễm Baba . C , những ngwoif sử_dụng máy_tính nối mạng được khuyến_cáo nên cảnh_giác và tải bản nâng_cấp phần_mềm an_ninh . 
+E-mail chứa Baba . C thưởng có dòng chủ_đề ( subject ) : Important ! 
+XXX sites found on your computer ! 
+( Chú_ý ! 
+Có nội_dung khiêu_dâm trên máy_tính của bạn ) 
+Trong khi đó , một phiên_bản mới của sâu Mydoom cũng vừa được phát_hiện cuối tuần qua sau nhiều tháng biến_mất . 
+Biến_thể Mydoom . AI ( có hãng bảo_mật lại gọi là Mydoom . AE ) phát_tán qua e-mail kèm theo một_số hình_ảnh khiêu_dâm . 
+Virus lừa nạn_nhân bằng cách thông_báo bên tỏng phần attachement có password để truy_nhập một_số website sex . 
+Tất_nhiên đây thực_ra là mã tấn_công với khả_năng tắt ( disable ) phần_mềm an_ninh và đưa máy_tính nạn_nhân trở_thành một PC ma ( zombie ) phục_vụ hco các cuộc tấn_công mạng về sau của tác_giả virus . 
+Mức lây_lan của Mydoom . Ai hiện chưa lớn nhưng sự trở_lại của dòng virus rất nguy_hiểm này sau 3 tháng ẩn_tích là một dấu_hiệu đáng báo_động . 
+Kể từ khi xuất_hiện lần đầu vaoft háng 1/2004 , họ_hàng Mydoom đã sinh_sôi tới hơn 30 biến_thể khác nhau . 

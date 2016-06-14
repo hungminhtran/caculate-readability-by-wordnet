@@ -1,0 +1,22 @@
+Sâu_Zotob thất_bại trong việc gây ảnh_hưởng lớn 
+Danh_sách 10 biến_thể virus nguy_hiểm nhất 31 ngày qua của hãng bảo_mật Sophos cho_thấy Netsky . P vẫn tiếp_tục thống_trị , dù nhiều chuyên_gia dự_đoán tháng 8 sẽ là tháng của Zotob . 
+Netsky . P , " thành_quả " của tay hacker trẻ_tuổi người Đức vừa bị kết_án treo , Sven_Jaschan , đã một lần nữa chiếm ngôi đầu_bảng dù tăng không đáng_kể từ 13,9 % trong tháng 7 lên 14,7 % tháng trước . 
+Những phiên_bản của Zotob hoành_hành trong hai tuần gần đây không đủ sức chen_chân vào danh_sách dù đã thu_hút sự chú_ý của báo_chí và đã thành_công trong việc gây nhiễu nhiều cơ_quan thông_tấn lớn . 
+Trong khi đó,Mytob vẫn là nguy_cơ lớn nhất đối_với người dùng máy_tính , chiếm tới 54 % tất_cả các loại virus mà Sophos ghi_nhận được tháng qua . 
+Thêm vào đó , nghiên_cứu của Sophos chứng_tỏ nhóm tác_giả sâu Zotob có liên_quan trực_tiếp tới Mytob . " Mytob và Zotob có_thể lây_lan theo nhiều cách , nhưng mã nguồn thì rất giống nhau " , Carole_Theriault , cố_vấn bảo_mật của Sophos , khẳng_định . 
+" Hơn_nữa , việc biệt_danh Diabl0 của tác_giả Zotob xuất_hiện trong hơn 20 biến_thể của Mytob cho_thấy chúng rõ_ràng được tạo ra từ một nguồn duy_nhất " . 
+Số nạn_nhân của sâu máy_tính đã giảm đáng_kể trong tháng 8 , với tỷ_lệ khoảng 1,99 % , nghĩa_là cứ 50 e-mail mới có một thư chứa virus , so với 38 e-mail của tháng 5 . " Đây không phải là dấu_hiệu khả_quan cho_thấy các tác_giả viết chương_trình nguy_hiểm đang từ_bỏ ý_định xâm_phạm hệ_thống PC , mà chỉ là do tháng 8 là tháng nghỉ_hè lý_tưởng của nhiều người " , Theriault giải_thích . 
+" Khi chủ_nhân thưởng_thức những ly cocktail dưới ánh mặt_trời trên bãi_biển đầy cát trắng thì những chiếc máy_tính cũng được phép nghỉ_ngơi " . 
+Sophos đã ghi_nhận và xử_lý 1.626 virus mới trong tháng qua . 
+Tổng_số virus mà hãng đã diệt được cho đến nay là 109.244 . 
+10 virus nguy_hiểm nhất tháng 8 ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) : 
+1 . Netsky . P ( 14,7 % )2 . 
+Mytob . AS ( 7,9 % )3 . 
+Mytob . BE ( 7,2 % )4 . 
+Zafi . D ( 3,6 % ) 5 . Zafi . B ( 2,9 % )6 . 
+Mytob . C ( 2,8 % )7 . 
+Mytob . EP ( 2,8 % )8 . 
+Mytob . CX ( 2,7 % )9 . 
+Netsky . D ( 2,5 % )10 . 
+Mytob . CJ ( 2,4 % ) 
+Các loại khác : 49,5 % 

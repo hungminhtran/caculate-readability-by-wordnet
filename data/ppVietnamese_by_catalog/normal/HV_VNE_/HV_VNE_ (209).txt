@@ -1,0 +1,9 @@
+Lỗi ảnh_hưởng 10.000 công_ty toàn thế_giới 
+Lỗ_hổng bảo_mật trong một công_cụ phát_triển phổ_biến đã ảnh_hưởng nghiêm_trọng tới hàng_loạt những ứng_dụng rộng_rãi nhất trên Internet , trong đó có Gmail , Flikr và MSN Virtual_Earth . 
+Lỗi liên_quan đến CPAINT , bộ công_cụ được dùng để tạo ra các ứng_dụng AJAX ( JavaScript và XML không đồng_bộ ) . 
+Lỗ_hổng này có_thể bị kẻ tấn_công khai_thác để cài mã nguy_hiểm vào server chạy trực_tiếp CPAINT hay qua một ứng_dụng sử_dụng công_cụ đó . 
+Lỗi ảnh_hưởng đến tất_cả các phiên_bản hiện_nay của CPAINT. " Chúng_tôi khuyến_cáo mọi người đang dùng bất_cứ phiên_bản nào của CPAINT cần ngay_lập_tức nang cấp do nguy_cơ bảo_mật cao " , các nhà phát_triển bộ công_cụ khuyến_cáo . 
+Lỗ_hổng này có khả_năng không_chỉ ảnh_hưởng đến CPAINT mà_còn liên_quan đến những bộ công_cụ AJAX khác . 
+AJAX đã được rất nhiều nhà phát_triển web sử_dụng , đặc_biệt là Google với những ứng_dụng Google_Maps , Google_Suggest , Gmail ... 
+Một_số chương_trình đáng chú_ý khác là MSN Virtual_Earth của Microsoft , Flickr của Yahoo và AIM của AOL . 
+Tải bản vá lỗi CPAINT v1.3-SP tại đây . 

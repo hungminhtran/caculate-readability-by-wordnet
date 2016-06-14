@@ -1,0 +1,6 @@
+Tại_sao không được sử_dụng ĐTDĐ trên các chuyến bay ? 
+TS Hoàng_Đình_Chiến ( bộ_môn viễn_thông ĐH Bách_Khoa - ĐH Quốc_gia TP. HCM ) : 
+- Trên máy_bay có rất nhiều hệ_thống điện_tử , truyền tin vô_tuyến để vận_hành và liên_lạc với mặt đất trong quá_trình điều_khiển bay . 
+Do đó , nếu hành_khách sử_dụng những thiết_bị thu phát_sóng như ĐTDĐ , máy_nhắn_tin , máy thu phát FM thì sóng_vô_tuyến từ các thiết_bị này sẽ bức_xạ sóng_điện_từ , gây nhiễu_loạn các thiết_bị điều_khiển của máy_bay . 
+Trong trường_hợp máy_bay đã tiếp đất , hệ_thống không_lưu cảnh_báo ở mức bớt nguy_hiểm hơn , nhưng toàn_bộ hệ_thống của máy_bay vẫn làm_việc , việc sử_dụng ĐTDĐ cũng có_thể gây ảnh_hưởng đến hệ_thống . 
+Tốt nhất người đi máy_bay chỉ nên mở ĐTDĐ khi máy_bay đã hoàn_toàn dừng lại và chuẩn_bị ra khỏi máy_bay . 

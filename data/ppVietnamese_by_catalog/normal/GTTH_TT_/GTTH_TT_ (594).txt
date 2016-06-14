@@ -1,0 +1,17 @@
+Công_nghệ mới nâng_cao khả_năng lưu_trữ của đĩa_cứng 
+Ổ_đĩa_cứng mới , dành cho máy_tính xách tay của Seagates , với các bits dữ_liệu được phân_bố theo chiều dọc thay_vì theo chiều ngang như các nhà sản_xuất khác vẫn thường dùng . 
+Điều này cho_phép mật_độ đĩa được nâng_cao mà không gây bất_cứ một nguy_hiểm nào đáng lo_ngại về sự mất_mát dữ_liệu do sự giới_hạn về kĩ_thuật và công_nghệ . 
+Kể từ những ổ_đĩa_cứng đầu_tiên được xuất_xưởng vào năm 1956 , các bits dữ_liệu được phân_bố theo các vòng_xoay quanh một tấm đĩa tròn được phủ các hạt từ . 
+Để tăng dung_lượng của đĩa , người_ta giảm kích_thước của các phần_tử từ trên mặt đĩa . 
+Tuy_nhiên , khi dung_lượng đĩa đạt đến con_số 500 GB ( có nghĩa là trên một diện_tích đĩa quy_ước có gần 500 tỷ phần_tử ) , thì mật_độ phân_bố phần_tử tiến tới con_số tới hạn ngưỡng của các công_nghệ sản_xuất . 
+Nếu vượt_qua giới_hạn này , các đầu_đọc không_thể phân_biệt được hai phần_tử nằm gần nhau , chính vì thế , dữ_liệu khi đọc ra hay ghi vào sẽ bị sai_lệch . 
+Ngược lại , bây_giờ các kĩ_sư đã bố_trí lại phân_bố các bits theo chiều dọc , tức_là chiều hướng_tâm của các đĩa_từ . 
+Sự bố_trí này giúp tiết_kiệm không_gian hao_phí , chính vì thế nâng_cao dung_lượng lưu_trữ của đĩa_cứng . 
+Ý_tưởng này tuy không mới , nhưng thực_hiện không phải dễ_dàng . 
+Một nền_tảng công_nghệ hoàn_toàn mới phải được áp_dụng cho việc lưu_trữ và truy_xuất . 
+Ổ_đĩa_cứng mới của Seagates , Momentus 5400.3 , được nâng_cao dung_lượng 160 GB từ ổ 120 GB , tức_là khoảng 33 % , một con_số rất ấn_tượng . 
+Theo dự_đoán , tương_lai chúng_ta có_thể có các ổ_cứng lớn hơn 700 GB . 
+Về giá tiền , ổ_đĩa này của Seagates có giá khoảng 325 USD . 
+Nếu so với 240 USD với ổ_cứng 120 GB , hoàn_toàn có_thể chấp_nhận được . 
+Toshiba cũng đã giới_thiệu ổ_đĩa_cứng 1.8 inches dành cho máy xách tay với công_nghệ tương_tự . 
+Nhìn_chung , công_nghệ mới này cho_phép nâng_cao dung_lượng lưu_trữ bằng cách giảm đi các thành_phần phục_vụ cho các tác_vụ đi kèm trong một ổ_đĩa , điều đó có nghĩa , ít điện_năng hơn , ít nhiệt sinh ra hơn trong suốt quá_trình hoạt_động . 

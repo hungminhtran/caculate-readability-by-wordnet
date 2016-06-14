@@ -1,0 +1,39 @@
+Tấn_công DDoS chủ_yếu nhắm vào web thương_mại điện_tử 
+Những ngày qua , diễn_đàn hacker HVA tiếp_tục hoạt_động chập_chờn vìbị tấn_công DDoStrong khi " kẻ khủng_bố " và động_cơ của vụ_việc vẫn còn là bí_mật . 
+Nhiều doanh_nghiệp có website cho_biết họ cũng là nạn_nhân của hành_động này và đang lo sự_việc có_thể tái_diễn bất_kỳ lúc nào . 
+Ông Trần_Xuân_Kiên , Giám_đốc Công_ty TNHH thương_mại và dịch_vụ Trần_Anh , cho_biết trang web của doanh_nghiệp này bị tấn_công từ đầu tháng 11 và kéo dài đến hơn 10 ngày sau . 
+" Lúc đầu , khi sự_cố xảy_ra , việc truy_cập site rất chậm và sau đó là không_thể vào được nữa " , ông Kiên mô_tả . 
+" Chúng_tôi đã buộc phải ngừng hoạt_động trang web hoàn_toàn trong 3-4 ngày cùng với khoảng 6-7 ngày tiếp_theo chạy cầm_chừng trong tình_trạng chập_chờn " . 
+Theo Giám_đốc Công_ty Trần_Anh , việc tấn_công như vậy đã gây gián_đoạn thông_tin của công_ty với khách_hàng cùng những chi_phí quảng_cáo hằng ngày . 
+" Nhưng chúng_tôi không biết ai đã gây ra mà chỉ có_thể phỏng_đoán đây là một trong những thủ_đoạn cạnh_tranh không lành_mạnh trong kinh_doanh " , ông nói . 
+Chịu chung cảnh_ngộ và cùng thời_điểm với Trần_Anh là Công_ty tin_học Mai_Hoàng . 
+Thậm_chí , những đợt tấn_công vào địa_chỉ mạng của doanh_nghiệp này còn dai_dẳng hơn . 
+" Có_thể thấy ngay là số_lượng người truy_cập vào site chúng_tôi đã giảm đi hẳn sau những lần bị tấn_công từ_chối dịch_vụ ( DDoS ) " , Giám_đốc Mai_Hoàng , Đỗ_Hoàng_Sâm , cho_biết . 
+" Trước_kia , thống_kê cho_thấy mỗi ngày chúng_tôi có từ 2.500 đến 3.000 lượt truy_cập , nay giảm xuống chỉ còn 1.000 lượt . 
+Thiệt_hại đó khó có_thể tính thành tiền nhưng là rất lớn " . 
+Theo ông Phùng_Anh_Tuấn , Giám_đốc kỹ_thuật Mạng an_toàn thông_tin VSEC , trong một năm trở_lại đây , số_lượng các vụ tấn_công DDoS trong nước bùng_phát . 
+" Chúng_tôi không có con_số thông kê cụ_thể . 
+Tuy_nhiên , dựa vào thông_tin quan_sát qua các hệ_thống mạng có_thể thấy rõ sự gia_tăng này " , ông Tuấn tiết_lộ . 
+" Rất nhiều vụ trong số đó nhắm vào các website thương_mại điện_tử như " chodientu " của Công_ty Hoà_Bình hay trang web của Công_ty cổ_phần giải_trí R . C . 
+Đó là những đơn_vị kinh_doanh dựa trên số_lượng khách_hàng online " . 
+Theo ghi_nhận củaVnExpress , các nạn_nhân bị tấn_công từ_chối dịch_vụ đều trong tình_trạng nơm_nớp , phập_phồng lo_ngại bởi việc tấn_công có_thể xảy_ra bất_cứ lúc nào và không_thể biết trước điều gì . 
+" Thú_thật là làm cách gì để ngăn_chặn thì chúng_tôi cũng chịu vì chẳng biết kẻ_thù là ai và cũng không biết phải làm thế_nào để đối_phó với chiêu_thức này " , chủ_nhân của trananh . com . vn bày_tỏ . 
+Các chuyên_gia anh ninh mạng cũng nhận_định trong trường_hợp bị DDoS , việc tìm kẻ " thủ_ác " là hết_sức khó_khăn . 
+Hacker đã huy_động một lượng máy_tính lớn để gửi số lệnh khổng_lồ vào hệ_thống của nạn_nhân , tiêu tốn hết băng_thông khiến nó tê_liệt . 
+Hậu_quả là khách_hàng dùng dịch_vụ của mạng này cũng sẽ không_thể truy_cập được vào nhiều website khác nhau . 
+Với chiêu_thức đó , các quản_trị_viên của hệ_thống bị " dính đòn " chỉ có nước ... 
+chờ cho_qua " cơn bĩ_cực " . 
+Một admin của diễn_đàn hacker HVA cho rằng , để đối_phó với " đòn độc " này chỉ có cách là đọc log tìm ra các site từ đâu tấn_công và liên_hệ với quản_trị site đó rồi cùng nhau vá lỗi , viết lại code để chống . 
+" Tuy_nhiên , chẳng dễ_dàng gì mà tự_dưng người_ta lại nhận sai_lầm hay lỗ_hổng trong mạng của mình cả . 
+Vì thế rất khó có_thể hợp_tác với những admin này " , thành_viên giấu tên của HVA nói . 
+Giám_đốc Trung_tâm An_ninh mạng BKIS Nguyễn_Tử_Quảng tư_vấn : " Nếu đã bị DDoS thì quản_trị của hệ_thống cần phải ' trực_chiến ' , chớp lấy thời_điểm hacker tổ_chức tấn_công . 
+Vì đó sẽ là cơ_hội lần ra tung_tích kẻ giấu mặt " . 
+Người đứng đầu BKIS phân_tích có hai khả_năng về DDoS . Thứ nhất là hacker dùng virus để tấn_công thì quả_thực là& hết cách vì mỗi máy nhiễm virus là một bàn_đạp cho tấn_công . 
+Có_thể phát_hiện được máy_phát lệnh , nhưng lần tiếp ra được virus lây từ nguồn nào là rất khó và như thế mất dấu_vết , giống như việc Microsoft bị tấn_công gần đây . 
+Trường_hợp thứ hai là nếu những kẻ giấu mặt dùng đoạn mã trong các flash thì có_thể lần ra được các site bị lợi_dụng làm đòn_bẩy và yêu_cầu chủ_nhân những trang đó loại các đoạn mã tấn_công đi . 
+" Nói_chung loại tấn_công DDoS thường bị theo từng đợt chứ không kéo dài vì virus thì sẽ bị diệt hết dần , còn các site bị lợi_dụng cũng sẽ được phát_hiện ra . 
+Tuy_nhiên , như thế cũng đủ để các dịch_vụ bị ảnh_hưởng rồi " , ông Nguyễn_Tử_Quảng bình_luận . 
+" Việc phát_hiện kẻ tấn_công không phải là không_thể và cần truy_tìm đến_cùng để pháp_luật xử_lý , hạn_chế những hành_động tương_tự " . 
+" Bản_chất của DDoS là không_thể khống_chế mà chỉ có giảm_thiểu được phần_nào " , Giám_đốc kỹ_thuật của VSEC khẳng_định . 
+" Theo tôi biết , một_số công_ty , tổ_chức là nạn_nhân của những vụ_việc này đã gửi đơn lên các cơ_quan_chức_năng . 
+Vì thế cần có sự phối_hợp đồng_bộ giữa cơ_quan quản_lý_nhà_nước , công_an và các trung_tâm an_ninh mạng để tìm ra kẻ đứng ra tổ_chức các vụ tấn_công và chặn_đứng nó để làm_gương " . 

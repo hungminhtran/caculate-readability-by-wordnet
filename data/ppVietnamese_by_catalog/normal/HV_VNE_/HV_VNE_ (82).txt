@@ -1,0 +1,11 @@
+Hiểm_hoạ khi ghé thăm trang Google 
+Vẫn dùng ngón_nghề cũ nhưng vô_cùng hiệu_quả , những kẻ lừa_đảo trực_tuyến và phần_mềm gián_điệp đã lợi_dụng khi khách_hàng lơ_đãng gõ ký_tự nhầm để tấn_công máy_tính . 
+Hãng bảo_mật Phần_Lan F-Secure đã khám_phá một trang web mà chỉ cần gõ một ký_tự khác so với Google . com là người dùng đã vô_tình rước hoạ vào PC của mình với một lô phần_mềm nguy_hiểm . 
+Khi khách_hàng gõ sai tên Google . com , màn_hình lập_tức nhảy ra hai cửa_sổ pop-up liên_kết tới những trang cài phần_mềm phá_hoại . 
+Trước khi người dùng nhận_thức được nguy_hiểm thì máy đã nhiễm hai Trojan cài file DLL vào thư_mục Windows , một Proxy_Trojan , một Trojan gián_điệp chuyên ăn_cắp dữ_liệu ngân_hàng và một Trojan_Downloader có_thể cài malware ( phần_mềm nguy_hiểm ) vào PC . 
+Nguy_hiểm hơn , một_vài máy_tính sẽ nhận được cửa_sổ pop-up với dòng chữ : " Máy của bạn đã bị nhiễm virus ! " . 
+Ẩn sau cảnh_báo giả này là đường link dẫn đến trang web độc_hại . 
+Nhiều kẻ đã lợi_dụng việc gõ nhầm tên trang web để dẫn_dắt người dùng vào những trang web cài virus hoặc đồi_truỵ . 
+Ví_dụ , rất nhiều người khi truy_cập website Nhà_Trắng ( dinh tổng_thống Mỹ ) đã gõ Whitehouse . gov thành Whitehouse . com - trang web chuyên đăng_tải ảnh khiêu_dâm . 
+Hầu_hết website kiểu này có nguồn_gốc từ Nga , nơi được coi là xứ_sở của những tay hacker giỏi nhất thế_giới . 
+Các nhà cung_cấp dịch_vụ Internet cảnh_báo mỗi tuần diễn_ra hàng nghìn vụ lừa_đảo trực_tuyến và yêu_cầu khách_hàng cần cẩn_thận khi duyệt web để tránh bị tấn_công trong những tình_huống không ngờ tới . 

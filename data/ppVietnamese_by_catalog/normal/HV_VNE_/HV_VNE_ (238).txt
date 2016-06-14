@@ -1,0 +1,25 @@
+Đông_Âu - hang_ổ của tội_phạm công_nghệ cao 
+Trong thế_giới thực , hầu_hết kẻ_trộm đều sống ngay tại thành_phố mà chúng hoạt_động . 
+Nhưng tội_phạm hi-tech lại tác_nghiệp cách đó cả trăm nghìn km , và nơi tập_trung đông nhất loại băng_nhóm này là Nga , Romania , Ukraine , Estonia và Latvia . Andrew_Shearer , chuyên_gia nghiên_cứu tội_phạm máy_tính Đông_Âu tại trường đại_học Keele ( Anh ) , tin rằng một phần lý_do cho sự phát_triển các nhóm tội_phạm mạng thuộc về vấn_đề kinh_tế và văn_hoá . 
+Ở Nga từ lâu đã tồn_tại một " nền kinh_tế ngầm " . 
+Theo Shearer , tình_trạng " đi vòng " qua những luật_lệ của chính_quyền , trốn_tránh thuế đã trở_thành trò tiêu_khiển mang tính quốc_gia . 
+Từ đó đã hình_thành nên một mạng_lưới phạm_pháp có tổ_chức nhằm đối_phó với mọi tình_huống xảy_ra . 
+Tuy_nhiên , các băng_nhóm hoạt_động rất lỏng_lẻo và luôn thay_đổi , sử_dụng hàng_loạt máy_tính khác nhau nhằm xoá dấu_vết . 
+Điều này hoàn_toàn khác với những tổ_chức Mafia luôn cấu_kết trong một hệ_thống chặt_chẽ như một gia_đình mở_rộng . 
+Hơn_nữa , việc các công_ty thường_xuyên tuyển_mộ hacker hoặc những nhà khoa_học thất_nghiệp nhưng nổi_tiếng trong thế_giới ngầm và trả công hậu_hĩnh đã khuyến_khích số người phạm tội ngày_một tăng . 
+" Rất nhiều người trong cộng_đồng khoa_học và công_nghệ có khả_năng vượt_trội nhưng không tìm được việc_làm phù_hợp . 
+Việc họ chuyển sang hoạt_động với mục_đích bất_chính là hoàn_toàn dễ hiểu " , Shearer nhận_xét . 
+Mikko_Hyppnen , Giám_đốc hãng bảo_mật Phần_Lan_F-Secure , tán_thành quan_điểm Đông_Âu chính là " cánh_đồng hoa " thu_hút nhiều tài_năng am_hiểu kỹ_thuật . 
+" Nếu mọi người sở_hữu kỹ_năng máy_tính thành_thục nhưng lại không có nhiều cơ_hội để kiếm_sống , họ sẽ bắt_đầu đi tìm những lựa_chọn mới nhằm phát_huy kiến_thức của họ . 
+Ban_đầu , hacker và những kẻ viết virus chỉ tấn_công để thể_hiện khả_năng , nhưng sớm_muộn họ sẽ tính_toán để có_thể sinh_lợi từ đó " , Hyppnen nói . 
+Số tiền mà nhiều hacker đã thu về từ những phi_vụ ngầm trong thế_giới kỹ_thuật số đủ làm mờ mắt bất_cứ kẻ hám lợi nào . 
+Lance_James , Trưởng nhóm kỹ_thuật của tổ_chức Secure_Science ( Mỹ ) , ước_tính trung_bình mỗi nhóm lừa_đảo trực_tuyến có_thể kiếm được 100.000 - 300.000 USD / tháng . 
+Ông cho_biết ở Đông_Âu có khoảng 50 - 60 nhóm phishing và thực_hiện tới 75 % số e-mail lừa_đảo hiện_nay . 
+" Chúng hoạt_động rất chuyên_nghiệp , thậm_chí xây_dựng lên cả một hệ_thống kinh_doanh toàn_diện . 
+Những kẻ phishing thường không rành công_nghệ nhưng lại quen_biết vô_số hacker và tác_giả virus . 
+Chúng sẽ thuê chuyên_gia thiết_lập hệ_thống hỗ_trợ mỗi khi thực_hiện một kế_hoạch lừa_đảo " , Lance_James giải_thích . 
+" Trước_hết , chúng dành nhiều thời_gian thử_nghiệm e-mail để đảm_bảo qua_mặt được bộ lọc spam và phần_mềm diệt virus . 
+Sau đó , chúng huy_động lực_lượng bao_gồm danh_sách địa_chỉ e-mail và đội quân máy_tính bị khống_chế ( zombie ) để phát_tán thông_điệp giả " . 
+Tội_phạm ở các nước khác nhau cũng tác_nghiệp khác nhau . 
+Những nhóm ở Romania thường quan_tâm đến đối_tượng mở_rộng và sử_dụng kênh chat IRC để lộng_hành . 
+Trong khi đó , tội_phạm Nga lại hướng tới những cộng_đồng chat khép_kín như ICQ. Thậm_chí nhiều băng đảng ở nước này đã khống_chế danh_sách các tài_khoản của nạn_nhân nhằm mục_đích rửa_tiền . 

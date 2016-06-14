@@ -1,0 +1,13 @@
+Vẽ quả dạng hình_cầu 
+Quan_sát , nhận_xét 
+Xung_quanh ta có nhiều loại quả , mỗi loại quả có hình_dáng , màu_sắc khác nhau và có vẻ_đẹp riêng . 
+Thường gặp nhất là các loại quả có dạng hình_cầu : quả cam , quả táo , quả ổi , quả na ( mãng_cầu ) , quả dừa , quả bưởi , ... 
+Cũng có nhiều loại quả dạng hình_trụ dài như : quả dưa_chuột ( dưa_leo ) , quả chuối , quả bí xanh , ... 
+; và còn có nhiều loại quả hình_dạng khác như : quả xoài , quả trám , quả bàng , quả đu_đủ , ... 
+Cách vẽ quả 
+Quan_sát kĩ hình_dáng của quả , so_sánh chiều cao với chiều ngang để tìm ra khung hình chung . 
+Vẽ khung hình và phác đường_trục ( H . 2a ) . 
+Vẽ các nét chính của quả bằng nét thẳng mờ ( H . 2b ) . 
+Vẽ các chi_tiết ( H . 2c ) . 
+Sửa và vẻ hoàn_chỉnh hình cho giống với mẫu hơn ( H . 2d ) . 
+Vẽ màu theo ý_thích ( nên có đậm , có nhạt để gợi khối của quả ) . 

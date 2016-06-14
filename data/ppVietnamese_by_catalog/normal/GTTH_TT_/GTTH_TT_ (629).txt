@@ -1,0 +1,6 @@
+Cảnh_báo virus trong dịp Valentine 
+Ngày 12-2 , Trung_tâm phản_ứng nhanh về virus máy_tính của Trung_Quốc đưa ra cảnh_báo về một virus có tên Vbs-Valentin . A chủ_yếu lây_lan qua thư_điện_tử hoặc các chương_trình chat trên mạng . 
+Những virus khác như Worm-blebla . B và VBS-Iloveyou cũng sẽ tấn_công máy_vi_tính nếu người sử_dụng mở các thư_điện_tử hoặc file đính kèm được nguỵ_trang dưới những lời chúc Valentine . Trong số virus sẽ xuất_hiện trong tuần này có W97M-Concept . F , sẽ bùng_phát ngày 16-2 . 
+Khi những người sử_dụng các tài_liệu trong Word , máy_vi_tính bị nhiễm sẽ hiển_thị một hộp_thư thoại " - Parasite_Virus_1.0X_Your computer is infected_with_the_Parasite_Virus , version 1.0 " . 
+Virus này sẽ thay_thế dấu chấm bằng dấu phẩy , chữ and bằng chữ not và chữ a bằng chữ e trong tài_liệu sử_dụng trong Word . 
+Trung_tâm virus máy_tính Trung_Quốc nhắc_nhở người sử_dụng cảnh_giác với các thư_điện_tử lạ , cập_nhật phần_mềm chống virus và sử_dụng chức_năng kiểm_soát virus bất_cứ khi nào vào Internet . 

@@ -1,0 +1,7 @@
+Khối vuông kỳ_ảo 
+Để kích_hoạt trò_chơi , bạn hãy tiến_hành xả nén tập_tin Rubik_Cube 1.zip vừa được tải về rồi nhấp đúp chuột vào tập_tin RubikCube . exe . 
+Trước_mắt bạn giờ_đây là một khối vuông được đặt trong không_gian ba chiều . 
+Hãy xáo_trộn các mặt của khối vuông càng nhiều lần càng tốt trước khi chơi . 
+Sau đó , di_chuyển con_trỏ và nhấp chuột để xoay chiều các mặt cho đến khi giải được bài_toán . 
+Hãy ấn phím S khi bạn đã bó_tay và xem chương_trình tự_động xoay khối . 
+Với dung_lượng siêu gọn_nhẹ ( chỉ 135 KB ) , tương_thích trên Windows_XP , phiên_bản miễn_phí ( freeware ) được cung_cấp tại địa_chỉ http : / / www . mail2world . com / FileCabinet / netilium@mail2world.com . 

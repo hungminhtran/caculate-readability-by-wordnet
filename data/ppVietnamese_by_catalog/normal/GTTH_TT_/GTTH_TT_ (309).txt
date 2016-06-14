@@ -1,0 +1,18 @@
+Lỗi OS_X gây nguy_hiểm cho người dùng Mac 
+Đây chính là vấn_đề bảo_mật thứ ba sau khi xuất_hiện hai loại virus tấn_công vào OS_X trong tuần vừa_rồi . 
+Điều này cho_thấy , người dùng máy_tính Mac cũng phải chịu những hiểm_nguy tương_tự với người dùng Windows . 
+Trung_tâm SANS Internet_Storm cảnh_báo : mỗi khi bạn dùng trình_duyệt Web_Safari của Apple viếng_thăm một website có chủ_ý tấn_công , hệ_quả phải chịu là rootkits , hoặc các đoạn mã_độc được cài vào máy mà người dùng không hề biết . 
+Máy của bạn sau đó sẽ hoàn_toàn bị kiểm_soát từ xa . 
+Công_ty Apple thông_báo đang phát_triển bản vá cho lỗi bảo_mật này , tuy_nhiên họ chưa cho_biết thời_gian chính_xác . 
+Lỗi bảo_mật trên được phát_hiện bởi Michael_Lehn được đăng_tải lần đầu trên website Heise_Online . 
+Những kẻ tấn_công chỉ cần nhúng một đoạn mã_độc vào trong một tập_tin zip và đưa lên website . 
+Tập_tin và mã đó sẽ được thực_thi mỗi khi có người dùng trình_duyệt Safari truy_xuất vào website . 
+Những đoạn mã này vốn được dấu trong dữ_liệu thống_kê ( metadata ) của tập_tin zip . 
+Điều nguy_hiểm nằm ở chỗ , những kẻ tấn_công không cần phải gởi tập_tin zip đi . 
+Chỉ cần người dùng truy_xuất vào website có chứa tập_tin này , lập_tức mã đã phát_động . 
+Thủ_phạm nằm ở chương_trình Mac_OS_Finder , một thành_phần của hệ_điều_hành nhằm quản_lý và xem các tập_tin . 
+Một tập_tin có_thể giả_danh an_toàn và hoạt_động một_cách công_khai là vì vậy . 
+Công_ty Secunia đánh_giá lỗi này cực_kỳ nghiêm_trọng . 
+Ngay_cả Symantec cũng xếp ở loại tương_tự . 
+Người dùng máy Mac có_thể tự bảo_vệ bằng cách , huỷ_bỏ việc thực_thi chức_năng " Open safe files after downloading " trong phần Option của trình_duyệt Safari . 
+Những người dùng các trình_duyệt khác như Firefox hoặc Camino , tuy không bị tấn_công trực_tiếp từ Internet , nhưng bạn cũng có_thể tự tấn_công mình , nếu tải những tậptin zip đó về và thực_thi trong máy . 

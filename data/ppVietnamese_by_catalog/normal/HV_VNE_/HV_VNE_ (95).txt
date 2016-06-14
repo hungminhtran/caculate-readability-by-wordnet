@@ -1,0 +1,11 @@
+Hệ_điều_hành Tiger vừa ra đã thủng 
+Phiên_bản OS_X_10.4( gọi là Tiger ) của Apple có trình_duyệt Safari_2.0 cho_phép cài hệ_điều_hành trên hệ_thống mà không cần sự chấp_thuận của người sử_dụng . 
+Do đó , Safari có_thể xoá tệp tin , định_dạng ổ_cứng hoặc thay_đổi cài_đặt trên máy . 
+Một_số cách khai_thác thử_nghiệm điểm yếu này đã được tung lên trên mạng và các chuyên_gia khuyến_cáo người sử_dụng không được nhấn vào bất_kỳ trang hướng_dẫn nào ( ví_dụ như trang Stephan . com ) . 
+Những hệ_thống Windows hay các hệ_điều_hành OS_X phiên_bản trước đều có_thể mở trang web này mà không gặp khó_khăn gì . 
+Khi chạy Safari và kết_nối vào trang web nói trên thì những " widget " - những ứng_dụng nhỏ viết bằng chuẩn Java , chạy bên trong nền Dashboard của Tiger cho các ứng_dụng như tính_toán hay báo_giá cổ_phiếu - sẽ tự_động tải xuống và tự_động cài_đặt . 
+Những widget này khi đã cài_đặt thì rất khó gỡ ra . 
+Phần_mềm Dashboard không có mục gỡ bỏ chúng và người sử_dụng sẽ phải xoá file bằng tay từ thư_mục . 
+Các chuyên_gia cũng khuyến_cáo gỡ bỏ chức_năng cài_đặt Safari tự_động cho đến khi Apple đưa ra bản vá lỗi . 
+Một biện_pháp thay_thế là đặt thư_mục chứa widget ở chế_độ " read-only " . 
+Ngoài_ra , khi kết_nối mạng người sử_dụng cũng gặp phải những vấn_đề về bảo_mật . 

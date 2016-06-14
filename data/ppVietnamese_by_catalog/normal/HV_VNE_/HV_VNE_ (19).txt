@@ -1,0 +1,25 @@
+Tội_phạm công_nghệ cao : Tiền là động_cơ chính 
+Những tên trộm tinh_thông về kỹ_thuật đang biến virus , Trojan và nhiều chương_trình nguy_hiểm khác trở_nên tinh_vi hơn nhằm mục_đích đánh_cắp tiền_bạc , thông_tin mật hay kiểm_soát PC của nạn_nhân , vốn chủ_yếu là người giàu_có . 
+Trước đây , những kẻ viết virus thường có mục_đích chủ_yếu là gây sự chú_ý bằng cách lây_lan sản_phẩm của mình ra hàng triệu máy_tính khác nhau . 
+Tuy_nhiên , những người như vậy đang ngày_càng ít đi . 
+Thay vào đó , các hãng bảo_mật đang phải căng sức ra để chống lại một làn_sóng những chương_trình nguy_hiểm ( malicious software - malware ) mới hơn . 
+Tội_phạm gia_tăng sử_dụng malware dẫn đến việc phân_loại virus và chương_trình nguy_hiểm không còn đơn_giản nữa . 
+Trước đây , có_thể gọi tên và phân_loại chúng thông_qua phương_pháp tự nhân_bản và lây_lan sang các máy_tính khác . 
+Nhưng hiện_nay , nhiều virus đã được bọn tội_phạm cài thêm vào những mánh_khoé tinh_vi rất khó nhận_biết . 
+" Chúng_ta không_thể sắp_xếp từng loại virus gọn_gàng vào trong 1 chiếc hộp cỏn_con như trước đây vẫn thường sử_dụng nữa , Pete_Simpson , phụ_trách phòng thí_nghiệm của hãng bảo_mật Clearswift , so_sánh một_cách hình_tượng về sự thay_đổi của số_lượng và chủng_loại virus máy_tính . 
+Virus ngày_nay sử_dụng nhiều phương_pháp biến_hoá để lây_lan như nhân_bản giống loài sâu ( cho_nên được gọi là worm ) , khai_thác lỗ_hổng trình_duyệt hay ẩn_nấp trong e-mail . 
+Đó là bức tranh toàn_cảnh của tội_phạm bây_giờ , Simpson bình_luận thêm . 
+Chuyên_gia này cũng nhận_xét rằng nhiều chương_trình phần_mềm tiếp_tay cho kẻ xấu có nguồn_gốc từ khu_vực Đông_Âu , nơi những băng đảng tội_phạm hùng_mạnh dễ_dàng nhận được sự trợ_giúp về kỹ_thuật và công_nghệ . 
+Marek_Strihavka , một người lập_trình virus kỳ_cựu , hiện_tại đã từ_bỏ malware vì loại phần_mềm này đang được bọn chuyên viết spyware , phishing và spam , những người xem tiền cao hơn yếu_tố kỹ_thuật và công_nghệ , tiếp_quản và khai_thác triệt_để . 
+Ngày_nay , không còn chuyện có kẻ viết virus đưa ra chương_trình để biểu_dương sức_mạnh kỹ_thuật trước đối_thủ trong thế_giới ngầm của những người chuyên viết các chương_trình nguy_hiểm . 
+Việc chống lại những cuộc tấn_công như trước đây đã trở_nên dễ_dàng , Paul_King , chuyên_gia tư_vấn bảo_mật của Cisco , đưa ra thêm một lý_do nữa về sự biến_thể của malware . 
+Trong nhiều cách lây_lan , e-mail trở_thành phương_tiện số 1 vì hiện_tại , phần_mềm chống virus và tường lửa đã trở_nên phổ_biến . 
+Những chương_trình được bọn tội_phạm công_nghệ cao viết ra đều rất thông_minh , mang tính thực_dụng và có nhiều cách để lây_lan , thâm_nhập thông_tin mật hay cài_đặt vào máy người sử_dụng . 
+Nếu trong mắt bạn , bọn tội_phạm chỉ là những người thiếu thông_minh thì bạn đã lầm , King nhấn_mạnh . 
+Thủ_đoạn của bọn tội_phạm đã biến_đổi , nhiều công_ty cũng đã thay_đổi phương_thức để tự bảo_vệ mình , chuyên_gia của Cisco khẳng_định . 
+Nhiều thiết_bị kiểm_soát được sử_dụng để đảm_bảo mạng máy_tính luôn được bảo_vệ . 
+Nhiều công_ty thậm_chí còn không cho_phép máy_tính kết_nối vào hệ_thống và buộc nhân_viên phải ngừng làm_việc cho đến khi việc cài_đặt các bản nâng_cấp nhằm khắc_phục sai_sót được thực_hiện . 
+Việc bọn tội_phạm ngày_càng sử_dụng nhiều thủ_đoạn khác nhau , tinh_vi hơn cũng là điều dễ hiểu . 
+Tiền bây_giờ là động_cơ chính , Gary_Stowell , người_phát_ngôn của hãng phần_mềm St_Bernard , bình_luận . 
+Chuyên_gia này cũng nhận_xét rằng kẻ_cắp đang hướng đến việc sử_dụng máy_tính làm công_cụ vì nguy_cơ bị tóm_cổ rất thấp trong khi hiệu_quả thu được thì lại rất cao . 
+Spyware đã trở_nên phổ_biến với bọn tội_phạm vì nó cho_phép kiểm_soát máy_tính , đánh_cắp dữ_liệu nhạy_cảm của nạn_nhân hay chiếm quyền quản_trị các trang web phổ biến& Trong một_vài trường_hợp , spyware còn được viết ra để truy_tìm và xoá_bỏ những chương_trình tương_tự của kẻ khác nhằm độc_chiếm chiếc PC đó . 

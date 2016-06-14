@@ -1,0 +1,94 @@
+Việc nhận_dạng các triệu_chứng và bản_chất lạm_phát , giảm_phát và thiểu_phát không đơn_giản , không_thể dễ_dãi vì nó trực_tiếp liên_quan đến việc đưa ra các giải_pháp điều_hành kinh_tế vĩ_mô , hiệu_quả của các giải_pháp được đề_xuất , cũng như để phòng tránh những tác_động mặt_trái và bột_phát của chúng trong thực_tiễn . 
+1 - Khái_niệm và môi quan_hệ giữa giảm_phát - lạm_phát và thiểu_phát Theo cuốn " Kinh_tế_học " dịch và xuất_bản ra tiếng Việt 1989 của W . D . Nordhaus và P. A . Samuelson thì lạm_phát xảy_ra khi giá_cả và chi_phí tăng , còn giảm lạm_phát có nghĩa là giá_cả và chí phí nói_chung hạ xuống . 
+Paul R . Krugman và Maurice_Obstfyeld trong cuốn " Kinh_tế_học quốc_tế - Lý_thuyết và chính_sách " được NXB chính_trị quốc_gia Việt_Nam dịch và xuất_bản năm 1996 , viết " Một nền kinh_tế chứng_kiến lạm_phát khi mức giá tăng lên và chứng_kiến sự giảm_phát khi mức giá giảm xuống " ( tr 164 ) . 
+Từ_điển Anh - Việt của Viện Ngôn_ngữ_học xuất_bản năm 1993 định_nghĩa " giảm lạm_phát là giảm bớt khối_lượng tiền lưu_hành ( trong nền kinh_tế ) để hạ giá_cả hoặc giữ cho giá_cả ổn_định " . 
+Cuốn " Kinh_tế_học vĩ_mô " của NXB Giáo_dục 1997 do PTS. 
+Vũ_Đình_Bách chủ_biên đã xác_định " lạm_phát xảy_ra khi mức giá chung thay_đổi . 
+Khi mức giá tăng lên được gọi là lạm_phát . 
+Khi mức giá giảm xuống được gọi là giảm_phát . 
+Vậy lạm_phát là sự tăng lên liên_tục của mức giá trung_bình theo thời_gian " ( tr . 176 ) . 
+Trong thực_tế , lạm_phát ( inflation ) và giảm_phát ( deflation ) là hai quá_trình đối_nghịch nhau liên_tiếp như là những xu_hướng ; đồng_thời , giảm_phát ( deflation ) được hiểu là việc giảm liên_tục mức giá chung của hàng_hoá và dịch_vụ . 
+Giảm_phát khác với giảm giá chỉ ở một khu_vực kinh_tế . 
+Việc giảm giá tư_liệu tiêu_dùng sẽ không trở_thành giảm_phát nếu giá_cả dịch_vụ lại tăng bù vào . 
+Đặc_biệt , cần phân_biệt giảm_phát với thiểu_phát bởi cách hiểu và dùng các thuật_ngữ này vẫn chưa phải đã thống_nhất giữa các nhà kinh_tế trong nước cũng như quốc_tế . 
+Hiện có 2 quan_niệm khá điển_hình cho sự ngộ_nhận và đánh_đồng giữa thiểu_phát với giảm_phát , xuất_phát từ sự xoá_nhoà ranh_giới giữa thuyết " Lạm_phát lưu_thông tiền_tệ " với " lạm_phát giá_cả " . 
+Thứ nhất , " Lạm_phát là hiện_tượng tiền quá ứ thừa trong lưu_thông so với lượng hàng quá ít_ỏi . 
+Còn giảm_phát là lượng tiền quá thiếu trong lưu_thông đi đến ách_tắc lưu_thông , hàng_hoá không tiêu_thụ được " . 
+Thứ hai , " lạm_phát ( inflation ) tức giá_cả tăng và thiểu_phát tức giá_cả hạ . 
+Cả hai hiện_tượng lạm_phát và thiểu_phát đều là sự vi_phạm quy_luật lưu_thông tiền_tệ " . 
+Thuyết " lạm_phát giá_cả " xét lạm_phát là quá_trình tăng giá_cả nói_chung , còn giảm_phát , ngược lại , là quá_trình giảm giá_cả nói_chung . 
+Trong cách hiểu của thuyết này không có chỗ_đứng cho khái_niệm thiểu_phát . 
+Còn thuyết " lạm_phát lưu_thông tiền_tệ " ( hay cũng còn gọi là thuyết " lạm_phát số_lượng tiền_tệ " ) thì xét lạm_phát là hiện_tượng giá_cả tăng do đưa quá nhiều tiền vào lưu_thông . 
+Ngược lại , việc đưa tiền vào lưu_thông ít hơn mức cần_thiết , khiến sản_xuất , lưu_thông xã_hội bị " nghẹt " vì thiếu tiền là hiện_tượng thiểu_phát , hay còn gọi là lạm_phát âm . 
+Đồng_thời , trong cách hiểu nội suy của thuyết " lạm_phát số_lượng tiền_tệ " thì giảm_phát chính là quá_trình kéo lạm_phát xuống mức thấp với " ngưỡng " là " lạm_phát zêrô " - tức thời_điểm tại đó xác_lập sự cân_đối cung - cầu tiền_tệ , lượng tiền phát_hành ra phù_hợp mức yêu_cầu cần_thiết của nhu_cầu lưu_thông_hàng_hoá - dịch_vụ xã_hội . 
+Nếu vượt quá ngưỡng này , giảm_phát sẽ cùng biến_mất với lạm_phát để chuyển_hoá thành thiểu_phát . 
+Như vậy , nội_dung khái_niệm giảm_phát theo thuyết " lạm_phát lưu_thông tiền_tệ " có khác với cách hiểu giảm_phát theo thuyết " lạm_phát giá_cả " ở chỗ , theo thuyết " lạm_phát lưu_thông tiền_tệ " , giảm_phát có nội_dung hẹp hơn giảm_phát hiểu theo thuyết " lạm_phát giá_cả " vì nó không bao_hàm trong đó cả quá_trình thiểu_phát . 
+Như vậy , cả hai quan_niệm : hoặc coi hiện_tượng tiền thiếu là giảm_phát ( chứ không phải là thiểu_phát ) , hoặc coi toàn_bộ sự giảm giá là thiểu_phát ( chứ không phải là giảm_phát + thiểu_phát ) , đều là cực_đoan và ngộ_nhận vì có sự " vượt_rào " trong sử_dụng và cách hiểu nội_dung thuật_ngữ khái_niệm mang tính ước_lệ cao là giảm_phát và thiểu_phát . 
+Hơn_nữa , với cách hiểu theo thuyết " lạm_phát lưu_thông tiền_tệ " trên đây thì rõ_ràng giảm_phát và lạm_phát là cùng biểu_thị quá_trình vận_động của lạm_phát trên mức zêrô , song với sự ngược chiều nhau với tư_cách là hai xu_hướng . 
+Điều này cũng có nghĩa là , trong khái_niệm và trên thực_tế , giảm_phát vẫn bao_hàm tình_trạng có lạm_phát , vì lạm_phát zêrô chỉ là xu_hướng tiệm_cận của quá_trình giảm_phát . 
+Khi lạm_phát trở_về zêrô ( điều cực_kỳ hy_hữu và không bền_vững trên thực_tế ) thì quá_trình giảm_phát kết_thúc . 
+Lạm_phát lùi vượt quá zêrô-lạm phát_âm - sẽ biến thành thiểu_phát . 
+Theo nghĩa đó , chỉ có lạm_phát và thiểu_phát mới là sự vi_phạm lưu_thông tiền_tệ , còn giảm_phát thì không . 
+Giữa thiểu_phát và giảm_phát ít_nhiều có cùng một_số hình_thức biểu_hiện bên ngoài , khó phân_biệt vì cùng là xu_hướng sụt giảm giá_cả chung . 
+Chính cái biểu_hiện chung bên ngoài ít_nhiều giống nhau này là nguyên_nhân gây ra " ảo_giác " thiểu_phát khi thực_chất nền kinh_tế đất_nước vẫn chỉ ở quá_trình giảm_phát . 
+Việc phân_biệt thời_khắc và điểm mốc mà tại đó xác_định quá_trình giảm_phát chuyển_hoá thành thiểu_phát rất có ý_nghĩa trong điều_hành kinh_tế vĩ_mô , nhất_là đối_với điều_chỉnh chính_sách tiền_tệ tài_chính của chính_phủ để vừa đủ liều_lượng , vừa giữ được tính mềm_dẻo cần_thiết cho mục_tiêu kiềm_chế lạm_phát và tăng_trưởng kinh_tế liên_tục , bền_vững . 
+Tuy_nhiên , độ_chính_xác đến đâu , còn tuỳ_thuộc vào các nguyên_nhân và loại_hình lạm_phát , cũng như kỹ_thuật tính_toán phân_tích và công_nghệ xử_lý , đối_phó với lạm_phát của nước đó trong điều_kiện lịch_sử cụ_thể . 
+Về đặc_điểm thời_gian , trong nền kinh_tế_thị_trường hiện_đại , thiểu_phát rất hiếm khi xảy_ra , hoặc nếu có thì cũng không kéo dài do : tình_trạng thâm_hụt ngân_sách liên_miên của hầu_hết các chính_phủ trước nhu_cầu chi_tiêu chính_phủ ngày_càng tăng ; chế_độ tiền_giấy không còn bản_vị kim_loại ; mối quan_hệ ngày_càng gắn_bó với bên ngoài của mô_hình kinh_tế_thị_trường mở ... 
+Ngược lại , lạm_phát là trạng_thái gần như kinh_niên của nền kinh_tế , do đó giảm_phát cũng trở_thành hiện_tượng khá thường_xuyên . 
+Nói cách khác , giảm_phát là một giai_đoạn đặc_biệt trong chu_kỳ vận_động của lạm_phát . 
+Sự phân_biệt này là có ý_nghĩa thực_tế rất lớn , vì lẽ sự đánh_đồng và ngộ_nhận giảm_phát với thiểu_phát khiến tạo ra tình_trạng lưỡng_lự , thiếu kiên_quyết kiềm_chế lạm_phát , mặc_dầu lạm_phát vẫn còn tồn_tại ở mức cao trên thực_tế với tất_cả những tác_hại mà nó gây ra như đã nêu ở phần trên . 
+Có_thể nói , giảm_phát xuất_hiện như một xu_hướng tiềm_tàng luôn đi cùng với lạm_phát và là kết_quả tổng_hợp của những giải_pháp kiềm_chế lạm_phát đã được triển_khai trên thực_tế . 
+Thiểu_phát là có hại vì làm cho lưu_thông_hàng_hoá khó_khăn , ứ_đọng vì thiếu phương_tiện lưu_thông , gây tình_trạng trì_trệ , ách_tắc , ảnh_hưởng xấu đến mở_rộng sản_xuất và tiêu_dùng . 
+Thiểu_phát làm tiêu_dùng thu_hẹp lại do làm tăng tâm_lý " quý tiền " , sản_xuất kinh_doanh đình_trệ do vốn kinh_doanh chuyển mạnh sang cho vay để hưởng lãi " đúp " bao_gồm lãi_suất tiền gửi và lãi do thiểu_phát , tiền lên giá ; thiểu_phát còn làm tăng thất_nghiệp , lỗ_vốn và phá_sản các doanh_nghiệp ( kể_cả các ngân_hàng ) . 
+Thiểu_phát chỉ có lợi cho người hưởng lương từ ngân_sách , nhưng ngân_sách nhà_nước cũng sẽ bế_tắc , sụt giảm do sản_xuất kinh_doanh sụt giảm . 
+Còn lạm_phát ( nhất_là với mức_độ cao ) có tác_hại nhiều hơn có lợi , thậm_chí tàn_phá huỷ_hoại nền kinh_tế - xã_hội . 
+Đến lượt mình , giảm_phát chỉ là có hại khi nó kéo và kiềm_chế giá_cả chung về mức thấp quá mức cần_thiết để kích_thích đầu_tư - tiêu_dùng và khai_thác các tiềm_năng phát_triển có_thể của một nước , nhất_là trong thời_kỳ đầu công_nghiệp_hoá , cần tăng_trưởng nhanh . 
+Thực_tiễn cho_thấy , tốc_độ của lạm_phát và giảm_phát có quan_hệ qua_lại khá chặt_chẽ : tốc_độ lạm_phát tăng càng cao , thì tốc_độ giảm_phát cũng càng lớn . 
+Việc giảm lạm_phát từ 500 % xuống còn 20 % sẽ dễ và nhanh hơn giảm lạm_phát từ 20 % xuống 1-2 % ... 
+Điều này một phần được giải_thích bởi sự tồn_tại khách_quan tỷ_lệ lạm_phát " hợp_lý và chấp_nhận được " của nền kinh_tế . 
+Khi lạm_phát vượt quá nhanh và quá cao so với mức " ngưỡng " an_toàn thì sức tàn_phá càng lớn , khiến vượt quá khả_năng chịu_đựng của nền kinh_tế , buộc chính_phủ phải nhanh_chóng có những giải_pháp cần_thiết kéo lùi thật nhanh lạm_phát trở_về trạng_thái thích_hợp nếu không muốn có sự đổ_vỡ lớn trong đời_sống kinh tế-chính trị đất_nước . 
+Hơn_nữa , khi xảy_ra lạm_phát phi_mã hoặc siêu_lạm_phát , thì nguyên_nhân gây ra hiện_tượng này dễ xác_định hơn , tập_trung hơn , do đó giải_pháp đề ra để khắc_phục cũng trở_nên " đơn_giản " và chính_xác hơn . 
+Cùng với quá_trình giảm_phát , các nhân_tố gây ra lạm_phát bị kiềm_chế và triệt_tiêu dần . 
+2 . Tác_động của giảm_phát và giải_pháp đối_phó Cũng như lạm_phát , bản_thân giảm_phát có cả tác_động tích_cực , lẫn tiêu_cực đến sự phát_triển kinh_tế - xã_hội gắn liền với những nguyên_nhân gây ra chúng . 
+Một mặt , nếu giảm_phát hình_thành như là kết_quả tự_nhiên của những nỗ_lực chống lạm_phát cao trước đó , thì đương_nhiên , lợi_ích của giảm_phát lúc này chính là các lợi_ích của việc kiềm_chế thành_công lạm_phát cao đem lại . 
+Hoặc , nếu giảm_phát gia_tăng do giảm chi_phí sản_xuất nhờ thúc_đẩy tiến_bộ công_nghệ hoặc tự_do_hoá mậu_dịch , thì sẽ rất có lợi , bởi khi đó giá hạ sẽ làm tăng thu_nhập thực_tế , làm tăng sức_mua , thúc_đẩy sản_xuất phát_triển . 
+Ngày_nay , cuộc cách_mạng về công_nghệ thông_tin làm giảm chi_phí chung cả trong sản_xuất lẫn dịch_vụ xã_hội . 
+Bằng cách giảm bớt rào_cản truy_cập và phổ_biến thông_tin , mạng Internet cũng góp_phần hạ giá một loạt mặt_hàng . 
+Sự xuất_hiện của đồng ơ-rô có_thể làm tăng sức cạnh_tranh của các nước khu_vực ( theo ngân_hàng ING_Baring , đồng ơ-rô có khả_năng làm giảm lạm_phát khoảng 0,25 % ở khu_vực EMU trong vòng 5 năm tới ) . 
+Áp_lực giảm giá ở châu Âu và Nhật bản cũng tăng lên do giảm bớt luật_lệ trong ngành điện và điện_thoại . 
+Tất_cả các nguồn giảm_phát này đều tác_dụng tốt đối_với nền kinh_tế . 
+Mặt_khác , giảm_phát sẽ nguy_hiểm nếu nó phản_ánh mức cầu giảm đột_ngột , dư_thừa năng_lực sản_xuất ở mức cao và phổ_biến , cũng như thu_hẹp mức cung tiền như đã từng xảy_ra vào những năm đầu thập_kỷ 30 , thế_kỷ XX ( trong 4 năm kể từ 1929 - 1933 , giá hàng_tiêu_dùng ở Mỹ giảm 25 % và GDP thực_tế giảm 30 % ) . 
+Ngược với lạm_phát , giảm_phát khiến làm tăng tâm_lý thích giữ tiền , hạn_chế hoặc trì_hoãn tiêu_dùng với hy_vọng " giá hàng ngày_mai sẽ thấp hơn giá hàng hôm_nay " . 
+Điều đó làm giảm cầu , giảm sức tiêu_dùng thị_trường , buộc các công_ty phải tiếp_tục giảm giá hàng , giảm sản_lượng sản_xuất , giảm tiền_lương và giảm khả_năng bố_trí công_ăn_việc_làm đưa đến thất_nghiệp . 
+Giảm_phát còn làm tăng gánh_nặng nợ_nần , do lãi_suất danh_nghĩa không_thể âm , nên lãi_suất thực_tế có_thể lên rất cao . 
+Nguy_cơ suy_thoái hay thu_hẹp nền kinh_tế , phá_sản và khủng_hoảng ngân_hàng cũng vì vậy gia_tăng . 
+Xét toàn_cảnh nền kinh_tế , giảm_phát tạo ra một vòng xoáy luẩn_quẩn : hạ giá - tăng dịch_vụ nợ - giảm tiêu_dùng và tăng dư_thừa công_suất - tăng thất_nghiệp và giảm thu_nhập - giảm tiêu_dùng - giảm cầu và tiếp_tục hạ giá .... 
+Các nhà kinh_tế_học đã đưa ra khái_niệm " khoảng_cách sản_lượng " để đo_lường tác_hại của giảm_phát : khoảng_cách sản_lượng là mức chênh_lệch giữa sản_lượng thực_tế và sản_lượng tiềm_năng của một nước . 
+Chẳng_hạn , áp khái_niệm này vào thực_tiễn nước Nhật , người_ta dự_báo chênh_lệch sản_lượng của Nhật sẽ chiếm tới 7 % GDP , tức Nhật_Bản đang gần kề vòng xoáy giảm_phát luẩn_quẩn . 
+Các nước EU có khoảng_cách sản_lượng thấp hơn , nhưng đang ở mức 2 % GDP và sẽ gia_tăng trong năm 1999 vì tỷ_lệ tăng_trưởng giảm xuống . 
+Để chống lại quá_trình giảm_phát với tất_cả những tác_hại tiêu_cực của nó , thường áp_dụng những giải_pháp " ngược chiều " với chống lạm_phát . 
+Nổi_bật là việc giảm lãi_suất , mở_rộng thâm_hụt ngân_sách , nới lỏng tín_dụng và tăng lương ... 
+nhằm " kích_cầu " nền kinh_tế . 
+Đây là những phương_pháp tiêu_biểu mà nhiều nước trên thế_giới đang áp_dụng khá phổ_biến trong thời_gian gần đây , nhất_là ở Mỹ , Tây_Âu , Nhật . 
+Một giải_pháp khác được nhấn_mạnh nhằm giải_toả tình_trạng đầu_tư dư_thừa công_suất trong nền kinh_tế là tiến_hành các cải_cách cơ_cấu cần_thiết , nâng_cao chất_lượng sản_phẩm và cải_thiện danh_mục hàng_hoá , dịch_vụ sản_xuất và chuyển các năng_lực sản_xuất dư_thừa sang các lĩnh_vực mới , còn nhiều tiềm_năng phát_triển , hoặc tạo ra nhu_cầu mới cho xã_hội . 
+Hơn_nữa , về nguyên_tắc thị_trường , người_ta không_thể thụ_động " tự_sát về kinh_tế " khi cứ " vô_tư " sản_xuất mãi những sản_phẩm không_thể bán được hay bán với giá hạ liên_tục để chịu thua_lỗ . 
+Điều cần lưu_ý rằng , việc " ném tiền " vào lưu_thông sẽ không phải bao_giờ và bằng cách nào cũng tự_động làm tăng tổng cầu trong đời_sống kinh_tế – xã_hội của một nước - điều mà thực_tiễn đã chứng_tỏ rất rõ_ràng ở Nhật bản trong thời_kỳ cuối năm 1998 và cũng đã được Keynes chỉ ra từ lâu bởi " tính ham_thích tiền_mặt cao " phổ_biến trong dân_chúng ... 
+Phá_giá đồng_tiền cũng không giải_quyết được năng_lực dư_thừa , mà chỉ có_thể đẩy sang nơi khác . 
+Nhưng trong lúc đó , mức cầu chung trên thế_giới sẽ giảm vì các nước đang phát_triển sẽ tăng lãi_suất để chặn dòng vốn chảy ra . 
+Còn xét toàn_cục diện nền kinh_tế ( nhất_là các nền kinh_tế đang phát_triển ) , nếu tổng cầu giảm và dư_thừa công_suất chiếm mức cao ở thị_trường trong nước , thì tốt nhất là mở_rộng cửa và tăng xâm_nhập vào những thị_trường bên ngoài . 
+Đồng_thời những đợt " phát_hành – lạm_phát " trong chính_sách nới lỏng tài_chính – tín_dụng – tiền_tệ .... 
+sẽ " quất " cho " con ngựa lạm_phát " lồng lên . 
+" Bóng_ma " giảm_phát khi đó sẽ tan nhanh như bong_bóng xà_phòng dưới ánh nắng mặt_trời . 
+( Bản_thân Paul_R . 
+Krugman cũng chính_thức khuyên chính_phủ Nhật_Bản nên mạnh_dạn và lặng_lẽ dùng giải_pháp này để có_thể thoát khỏi sự trì_trệ về sức tiêu_dùng trong nước thời_gian gần đây ) . 
+Thành_thử , chống giảm_phát không quá khó , nhưng phức_tạp , bởi nguy_cơ to_lớn của sự " đổi chiều " giảm_phát thành lạm_phát . 
+Nhìn_chung , có_thể nói , thế_giới còn ít kinh_nghiệm đối_phó với giảm_phát . 
+Điều này có cơ_sở thực_tế là suốt hơn 60 năm qua trên thế_giới chỉ có lạm_phát , và hiện_nay mới chỉ có số_ít nước bị giảm_phát thật_sự và trong thời_điểm ngắn . 
+Mỹ và châu Âu vẫn đang được lợi do hàng nhập_khẩu rẻ hơn . 
+Còn hầu_hết các nước đều có mức giá ổn_định , đây là điều tốt , thành_tựu chung của toàn nhân_loại trong thế_kỷ XX này . 
+Trong tương_lai , quả_thực đối_với tuyệt_đại_đa_số các nước trên thế_giới , nhất_là các nước đang phát_triển thì lạm_phát – chứ không phải giảm_phát theo nghĩa tiêu_cực nói trên - vẫn luôn là thách_đố và mối quan_tâm hàng_đầu trong quá_trình nỗ_lực tạo_lập cơ_sở phát_triển nhanh và bền_vững của mình . 
+Tóm_lại , giữa lạm_phát và giảm_phát cả về lý_thuyết lẫn trên thực_tế đều luôn_luôn tồn_tại mối quan_hệ qua_lại mật_thiết với nhau . 
+Chúng có_thể bao_hàm lẫn nhau về chu_kỳ vận_động , chế_định nhau về nguyên_nhân , tương_tác nhau về cơ_chế tác_động , chi_phối nhau về hậu_quả và gắn_bó nhau về các đối_sách tương_ứng ... 
+Các khía_cạnh quan_hệ giữa lạm_phát và giảm_phát còn thể_hiện khá rõ_rệt và phong_phú khi phân_tích tính hai mặt của những giải_pháp thị_trường đối_phó với lạm_phát , nhất_là trong nền kinh_tế chuyển_đổi . 
+Việc nhận_dạng các triệu_chứng và bản_chất lạm_phát , giảm_phát , thiểu_phát hoàn_toàn không đơn_giản nhưng không_thể không nhận_diện đầy_đủ , chính_xác , bởi nó liên_quan trực_tiếp đến việc đưa ra các giải_pháp điều_hành kinh_tế vĩ_mô , hiệu_quả của các giải_pháp được đề_xuất , cũng như để phòng tránh các tác_động mặt_trái và bột_phát của các biện_pháp đó trong thực_tiễn … / . 
+Nguyễn_Minh_Phong 

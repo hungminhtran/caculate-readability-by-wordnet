@@ -1,0 +1,172 @@
+II . 
+QUÁ_TRÌNH SẢN_XUẤT RA GIÁ_TRỊ THẶNG_DƯ TRONG XÃ_HỘI TƯ_BẢN 
+1 . Sự thống_nhất giữa quá_trình sản_xuất ra giá_trị sử_dụng và quá_trình sản_xuất ra giá_trị thặng_dư 
+Mục_đích của sản_xuất tư_bản_chủ_nghĩa không phải là giá_trị sử_dụng mà là giá_trị thặng_dư . 
+Nhưng để sản_xuất giá_trị thặng_dư , trước_hết , nhà tư_bản phải sản_xuất ra một giá_trị sử_dụng nào đó , vậy quá_trình sản_xuất tư_bản_chủ_nghĩa là sự thống_nhất giữa quá_trình sản_xuất ra giá_trị sử_dụng và quá_trình sản_xuất ra giá_trị thặng_dư . 
+C . Mác viết : " Với tư_cách là sự thống_nhất giữa quá_trình lao_động và quá_trình tạo ra giá_trị thì quá_trình sản_xuất là một quá_trình sản_xuất hàng_hoá ; với tư_cách là sự thống_nhất giữa quá_trình lao_động và quá_trình làmtăng giá_trị thì quá_trình sản_xuất là một quá_trình sản_xuất tư_bản_chủ_nghĩa , là hình_thái tư_bản_chủ_nghĩa của nền sản_xuất hàng_hoá " 
+( C . Mác . Tư_bản . 
+Quyển I , tập I , sđd . 
+Tr . 294-295. ) 
+Quá_trình sản_xuất tư_bản_chủ_nghĩa có các đặc_điểm là : người công_nhân làm_việc dưới sự kiểm_soát của nhà tư_bản và sản_phẩm làm ra thuộc sở_hữu của nhà tư_bản . 
+Để hiểu rõ quá_trình sản_xuất giá_trị thặng_dư , chúng_ta lấy việc sản_xuất sợi của một nhà tư_bản làm ví_dụ . 
+Giả_sử để sản_xuất 10 kg sợi , cần 10 kg bông và giá 10 kg bông là 10 $ . 
+Để biến_số bông đó thành sợi , một công_nhân phải lao_động trong 6 giờ và hao_mòn máy_móc là 2 $ ; giá_trị sức_lao_động trong một ngày là 3 $ và ngày lao_động là 12 giờ ; trong một giờ lao_động , người công_nhân tạo ra một lượng giá_trị là 0,5 $ ; cuối_cùng giả_định trong quá_trình sản_xuất , sợi đã hao_phí theo thời_gian lao_động xã_hội cần_thiết . 
+Với giả_định như vậy , ta thấy người công_nhân chỉ cần 6 giờ lao_động đầu_tiên đã hoàn_thành công_việc và giá_trị của sợi được sản_xuất ra là 15 $ . 
+Nhưng nếu quá_trình lao_động chỉ kéo dài đến cái điểm đủ bù_đắp lại giá_trị sức_lao_động ( 6 giờ ) , tức_là bằng thời_gian lao_động_tất_yếu , thì chưa sản_xuất ra giá_trị thặng_dư , do đó tiền chưa biến thành tư_bản . 
+Trong thực_tế quá_trình lao_động không dừng lại ở điểm đó . 
+Giá_trị sức_lao_động mà nhà tư_bản phải trả khi mua và giá_trị mà sức_lao_động đó có_thể tạo ra cho nhà tư_bản trong quá_trình sản_xuất là hai đại_lượng khác nhau . 
+Nhà tư_bản đã trả tiền mua sức_lao_động để sử_dụng trong một ngày ( 12 giờ ) nên công_nhân vẫn phải tiếp_tục lao_động trong 6 giờ nữa . 
+Chi_phí sản_xuất 
+Giá_trị sản_phẩm mới ( 20 kg sợi ) 
+- Tiền mua bông ( 20 kg ) : 20$ 
+- Tiền hao_mòn máy_móc : 4$ 
+- Tiền mua SLĐ trong ngày : 3$ 
+Tổng_chi_phí sản_xuất : 27$ 
+- Giá_trị của bông chuyển vào sợi : 20$ 
+- Giá_trị của MM chuyển vào sợi : 4$ 
+- Giá_trị mới do lao_động của công_nhân tạo ra trong 12 giờ lao_động : 6$ 
+Tổng_giá_trị hàng_hoá : 30$ 
+Như vậy , toàn_bộ chi_phí sản_xuất mà nhà tư_bản bỏ ra là 27 $ , còn giá_trị của sản_phẩm mới ( 20 kg sợi ) do công_nhân sản_xuất ra trong 12 giờ lao_động là 30$ . 
+Vậy 27 $ ứng_trước đã chuyển_hoá thành 30$ , đã đem lại một giá_trị thặng_dư là 3$ . 
+Do đó tiền_tệ ứng ra ban_đầu đã chuyển_hoá thành tư_bản . 
+Nghiên_cứu quá_trình sản_xuất giá_trị thặng_dư , có_thể rút ra những kết_luận sau đây : 
+Một là , phân_tích giá_trị sản_phẩm được sản_xuất ra ( 20 kg sợi ) ta thấy có hai phần : Giá_trị những tư_liệu_sản_xuất nhờ lao_động cụ_thể của công_nhân được bảo_toàn và di_chuyển vào sản_phẩm mới gọi là giá_trị cũ ( trong ví_dụ là 24 $ ) . 
+Giá_trị do lao_động trừu_tượng của công_nhân tạo ra trong quá_trình sản_xuất gọi là giá_trị mới ( trong ví_dụ là 6 $ ) . 
+Phần giá_trị mới này lớn hơn giá_trị sức_lao_động , nó bằng giá_trị sức_lao_động cộng với giá_trị thặng_dư . 
+Vậy giá_trị thặng_dư là một bộ_phận của giá_trị mới dôi ra ngoài giá_trị sức_lao_động do công_nhân làm_thuê tạo ra và bị nhà tư_bản chiếm không . 
+( ký_hiệu là m ) . 
+Quá_trình sản_xuất ra giá_trị thặng_dư chỉ là quá_trình tạo ra giá_trị kéo dài quá cái điểm mà ở đó giá_trị sức_lao_động do nhà tư_bản trả được hoàn lại bằng một vật ngang giá mới . 
+Hai là , ngày lao_động của công_nhân bao_giờ cũng được chia thành hai phần : 
+Thời_gian lao_động cần_thiết : là thời_gian người công_nhân tạo ra một lượng giá_trị ngang với giá_trị sức_lao_động của mình . 
+Thời_gian lao_động_thặng_dư : là phần còn_lại của ngày lao_động và lao_động trong khoảng thời_gian đó gọi là lao_động_thặng_dư . 
+Ba là , nghiên_cứu quá_trình sản_xuất giá_trị thặng_dư , chúng_ta thấy mâu_thuẫn của công_thức chung của tư_bản đã được giải_quyết : việc chuyển_hoá của tiền thành tư_bản diễn_ra trong lưu_thông , mà đồng_thời không diễn_ra trong lĩnh_vực đó . 
+Trong lưu_thông nhà tư_bản mua được hàng_hoá sức_lao_động và sử_dụng hàng_hoá đặc_biệt đó trong sản_xuất , tức_là ngoài lĩnh_vực lưu_thông để sản_xuất ra giá_trị thặng_dư cho nhà tư_bản . 
+Nhờ đó , tiền mới chuyển thành tư_bản . 
+Việc nghiên_cứu giá_trị thặng_dư đã vạch rõ bản_chất bóc_lột của chủ_nghĩa_tư_bản . 
+Trong điều_kiện hiện_nay , do sự phát_triển của công_ty cổ_phần , một bộ_phận nhỏ công_nhân cũng có cổ_phiếu và trở_thành cổ_đông , đã xuất_hiện quan_niệm cho rằng không còn bóc_lột giá_trị thặng_dư , chủ_nghĩa_tư_bản ngày_nay đã thay_đổi bản_chất . 
+Một_số học_giả tư_sản đưa ra thuyết " Chủ_nghĩa_tư_bản nhân_dân " . 
+Song , trên thực_tế , công_nhân chỉ có một_số cổ_phiếu không đáng_kể , họ chỉ là người sở_hữu danh_nghĩa không có vai_trò chi_phối doanh_nghiệp , phần_lớn lợi_tức cổ_phần vẫn nằm trong tay các nhà tư_bản , thu_nhập của công_nhân chủ_yếu vẫn là tiền_lương . 
+2 . Bản_chất của tư_bản . 
+Sự phân_chia tư_bản thành tư_bản_bất_biến và tư_bản_khả_biến 
+a . 
+Bản_chất của tư_bản 
+Các nhà kinh_tế_học tư_sản cho rằng , mọi công_cụ lao_động , tư_liệu_sản_xuất đều là tư_bản . 
+Thực_ra , bản_thân tư_liệu_sản_xuất không phải là tư_bản , nó chỉ là yếu_tố cơ_bản của sản_xuất trong bất_cứ xã_hội nào . 
+Tư_liệu_sản_xuất chỉ trở_thành tư_bản khi nó trở_thành tài_sản của các nhà tư_bản và được dùng để bóc_lột lao_động làm_thuê . 
+Theo C . Mác , tư_bản là giá_trị mang lại giá_trị thặng_dư bằng cách bóc_lột công_nhân làm_thuê . 
+Như vậy bản_chất của tư_bản là thể_hiện quan_hệ_sản_xuất xã_hội mà trong đó giai_cấp tư_sản chiếm_đoạt giá_trị thặng_dư do giai_cấp công_nhân sáng_tạo ra . 
+b . 
+Tư_bản_bất_biến và tư_bản_khả_biến 
+Để tiến_hành sản_xuất , nhà tư_bản phải ứng tư_bản ra để mua tư_liệu_sản_xuất và sức_lao_động . 
+Các bộ_phận khác nhau đó của tư_bản có vai_trò khác nhau trong quá_trình sản_xuất giá_trị thặng_dư . 
+Bộ_phận tư_bản tồn_tại dưới hình_thức tư_liệu_sản_xuất : 
+Tư_liệu_sản_xuất có nhiều loại , có loại được sử_dụng toàn_bộ trong quá_trình sản_xuất ( máy_móc , thiết_bị , nhà_xưởng … ) , nhưng chỉ hao_mòn dần , tức_là chuyển dần từng phần giá_trị của nó vào sản_phẩm ; có loại khi đưa vào sản_xuất thì chuyển toàn_bộ giá_trị của nó trong một chu_kỳ_sản_xuất ( nguyên_liệu , nhiên_liệu … ) . 
+Song , giá_trị của bất_kỳ tư_liệu_sản_xuất nào cũng đều do lao_động cụ_thể của công_nhân mà được bảo_toàn và di_chuyển vào sản_phẩm , nên giá_trị đó không_thể lớn hơn giá_trị tư_liệu_sản_xuất đã tiêu_dùng để sản_xuất ra sản_phẩm . 
+Giá_trị tư_liệu_sản_xuất được bảo_toàn dưới dạng giá_trị sử_dụng mới chứ không phải là được sản_xuất ra . 
+Bộ_phận tư_bản biến thành tư_liệu_sản_xuất mà giá_trị được bảo_toàn vàchuyển vào sản_phẩm , tức_là không thay_đổi đại_lượng giá_trị của nó , đượcC . Mác gọi là tư_bản_bất_biến , và ký_hiệu là C. 
+Bộ_phận tư_bản dùng để mua sức_lao_động 
+Đối_với bộ_phận tư_bản dùng để mua sức_lao_động thì một mặt , giá_trị của nó biến thành các tư_liệu sinh_hoạt của người công_nhân và mặt_khác , trong quá_trình lao_động , bằng lao_động trừu_tượng , công_nhân tạo ra giá_trị mới lớn hơn giá_trị của bản_thân sức_lao_động . 
+Như vậy , bộ_phận tư_bản dùng để mua sức_lao_động đã không ngừng chuyển_hoá từ đại_lượng bất_biến 
+thành một đại_lượng khả_biến , tức_là đã tăng lên về lượng trong quá_trình sản_xuất . 
+Bộ_phận tư_bản biến thành sức_lao_động không tái_hiện ra , nhưng thông_qua lao_động trừu_tượng của công_nhân làm_thuê mà tăng lên , tức_là biến_đổi về đại_lượng , được C . Mác gọi là tư_bản_khả_biến , và ký_hiệu là v . 
+Như vậy , tư_bản_bất_biến là điều_kiện cần_thiết không_thể thiếu được để sản_xuất ra giá_trị thặng_dư , còn tư_bản_khả_biến có vai_trò quyết_định trong quá_trình đó , vì nó chính là bộ_phận tư_bản đã lớn lên . 
+Việc phát_hiện ra tính hai mặt của lao_động thể_hiện trong hàng_hoá đã giúp C . Mác xác_định sự khác nhau giữa tư_bản_bất_biến và tư_bản_khả_biến . 
+C . Mác là người đầu_tiên chia tư_bản thành tư_bản_bất_biến và tư_bản_khả_biến . 
+Sự phân_chia đó dựa vào vai_trò khác nhau của các bộ_phận của tư_bản trong quá_trình sản_xuất giá_trị thặng_dư , do đó nó vạch rõ bản_chất bóc_lột của chủ_nghĩa_tư_bản , chỉ có lao_động của công_nhân làm_thuê mới tạo ra giá_trị thặng_dư cho nhà tư_bản . 
+3 . Tỷ_suất giá_trị thặng_dư và khối_lượng giá_trị thặng_dư 
+a . 
+Tỷ_suất giá_trị thặng_dư 
+Sau khi vạch rõ bản_chất của giá_trị thặng_dư , C . Mác nghiên_cứu mặt lượng của giá_trị thặng_dư , tức_là nghiên_cứu tỷ_suất và khối_lượng giá_trị thặng_dư . 
+Tỷ_suất giá_trị thặng_dư là tỷ_số tính theo phần_trăm giữa giá_trị thặng_dư và tư_bản_khả_biến cần_thiết để sản_xuất ra giá_trị thặng_dư đó . 
+Nếu ký_hiệu m ' là tỷ_suất giá_trị thặng_dư , thì m ' được xác_định bằng công_thức : 
+m 
+m ' = - - - x 100 % 
+v 
+Theo ví_dụ về sản_xuất giá_trị thặng_dư ở trên , tỷ_suất giá_trị thặng_dư là : 
+3$ 
+m ' = x 100 % = 100 % 
+3$ 
+Tỷ_suất giá_trị thặng_dư chỉ rõ trong tổng_số giá_trị mới do sức_lao_động tạo ra , thì công_nhân được hưởng bao_nhiêu , nhà tư_bản chiếm_đoạt bao_nhiêu . 
+Tỷ_suất giá_trị thặng_dư còn chỉ rõ , trong một ngày lao_động , phần thời_gian lao_động_thặng_dư chiếm bao_nhiêu phần_trăm so với thời_gian lao_động tất . 
+Do đó , có_thể biểu_thị tỷ_suất giá_trị thặng_dư theo một công_thức khác : 
+t ' ( thời_gian lao_động_thặng_dư ) 
+m ' = 
+x 100 % 
+t ( thời_gian lao_động_tất_yếu ) 
+b . 
+Khối_lượng giá_trị thặng_dư 
+Khối_lượng giá_trị thặng_dư là tích_số giữa tỷ_suất giá_trị thặng_dư và tổng tư_bản_khả_biến đã được sử_dụng . 
+Nếu ký_hiệu M là khối_lượng giá_trị thặng_dư , thì M được xác_định bằng công_thức : M = m ' x V trong đó V là tổng_số tư_bản_khả_biến mà nhà tư_bản sử_dụng . 
+Khối_lượng giá_trị thặng_dư phản_ánh quy_mô bóc_lột của nhà tư_bản đối_với công_nhân làm_thuê . 
+Chủ_nghĩa_tư_bản càng phát_triển thì khối_lượng giá_trị thặng_dư càng tăng , vì trình_độ bóc_lột sức_lao_động càng tăng . 
+4 . Hai phương_pháp sản_xuất ra giá_trị thặng_dư và giá_trị thặng_dư siêu_ngạch 
+a . 
+Sản_xuất ra giá_trị thặng_dư tuyệt_đối 
+Để sản_xuất giá_trị thặng_dư thì ngày lao_động của công_nhân thì phải kéo dài vượt quá thời_gian lao_động_tất_yếu , còn để tăng giá_trị thặng_dư thì phải tìm cách để kéo dài thêm thời_gian lao_động_thặng_dư . 
+Trong giai_đoạn phát_triển đầu_tiên của sản_xuất tư_bản_chủ_nghĩa , khi kỹ_thuật còn thấp , tiến_bộ chậm_chạp thì phương_pháp chủ_yếu để tăng giá_trị thặng_dư là kéo dài ngày lao_động của công_nhân . 
+Giá_trị thặng_dư được sản_xuất ra bằng cách kéo dài ngày lao_động trong điều_kiện thời_gian lao_động_tất_yếu không thay_đổi , nhờ đó kéo dài thời_gian lao_động_thặng_dư gọi là giá_trị thặng_dư tuyệt_đối . 
+Giả_sử ngày lao_động là 8 giờ , trong đó 4 giờ là thời_gian lao_động_tất_yếu và 4 giờ là thời_gian lao_động_thặng_dư . 
+m ' = 4 / 4 x 100 % = 100 % 
+Giả_sử nhà tư_bản kéo dài ngày lao_động thêm 2 giờ , trong khi thời_gian tất_yếu không thay_đổi , vẫn là 4 giờ . 
+Do đó tỷ_suất giá_trị thặng_dư là : 
+m ' = 6 / 4 x 100 % = 150 % 
+Như vậy , khi kéo dài tuyệt_đối ngày lao_động trong điều_kiện thời_gian lao_động_tất_yếu không thay_đổi , thì thời_gian lao_động_thặng_dư tăng lên , nên tỷ_suất giá_trị thặng_dư tăng lên . 
+Trước đây tỷ_suất giá_trị thặng_dư là 100 % , thì bây_giờ là 150 % . 
+Các nhà tư_bản tìm mọi cách kéo dài ngày lao_động , nhưng ngày lao_động có những giới_hạn nhất_định . 
+Giới_hạn trên của ngày lao_động do thể_chất và tinh_thần của người lao_động quyết_định vì người công_nhân phải có thời_gian ăn , ngủ , nghỉ_ngơi , giải_trí để phục_hồi sức_khoẻ . 
+Việc kéo dài ngày lao_động còn vấp phải sự phản_kháng của giai_cấp công_nhân . 
+Giới_hạn dưới của ngày lao_động không_thể bằng thời_gian lao_động_tất_yếu , tức_là thời_gian lao_động_thặng_dư bằng không . 
+Như vậy , về mặt kinh_tế , ngày lao_động phải dài hơn thời_gian lao_động_tất_yếu , nhưng không_thể vượt quá giới_hạn về thể_chất và tinh_thần của người lao_động . 
+Trong phạm_vi giới_hạn nói trên , độ dài của ngày lao_động là một đại_lượng không cố_định và có nhiều mức khác nhau . 
+Độ dài cụ_thể của ngày lao_động do cuộc đấu_tranh giữa giai_cấp công_nhân và giai_cấp tư_sản trên cơ_sở tương_quan_lực_lượng quyết_định . 
+b . 
+Sản_xuất ra giá_trị thặng_dư tương_đối 
+Việc kéo dài ngày lao_động bị giới_hạn về thể_chất và tinh_thần của người lao_động và vấp phải cuộc đấu_tranh ngày_càng mạnh_mẽ của giai_cấp công_nhân . 
+Mặt_khác , khi sản_xuất tư_bản_chủ_nghĩa phát_triển đến giai_đoạn đại_công_nghiệp cơ_khí , kỹ_thuật đã tiến_bộ làm cho năng_suất lao_động tăng lên nhanh_chóng , thì các nhà tư_bản chuyển sang phương_thức bóc_lột dựa trên cơ_sở tăng năng_suất lao_động , bóc_lột giá_trị thặng_dư tương_đối . 
+Giá_trị thặng_dư được tạo ra bằng cách rút ngắn thời_gian lao_động_tất_yếu trong điều_kiện độ dài của ngày lao_động không đổi , nhờ đó kéo dài tương_ứng thời_gian lao_động_thặng_dư , được gọi là giá_trị thặng_dư tương_đối . 
+Giả_sử ngày lao_động là 8 giờ và nó được chia thành 4 giờ là thời_gian lao_động_tất_yếu và 4 giờ là thời_gian lao_động_thặng_dư . 
+Do đó tỷ_suất giá_trị thặng_dư là : 
+m ' = 4 / 4 x 100 % = 100 % 
+Giả_định rằng ngày lao_động không thay_đổi , nhưng bây_giờ công_nhân chỉ cần 2 giờ lao_động đã tạo ra được một lượng giá_trị mới bằng với giá_trị sức_lao_động của mình . 
+Do đó tỷ_lệ phân_chia ngày lao_động sẽ thay_đổi : 2 giờ là thời_gian lao_động_tất_yếu và 6 giờ là thời_gian lao_động_thặng_dư . 
+Do đó bây_giờ tỷ_suất giá_trị thặng_dư sẽ là : 
+m ' = 6 / 2 x 100 % = 300 % 
+Muốn rút ngắn thời_gian lao_động_tất_yếu phải giảm giá_trị sức_lao_động . 
+Muốn hạ thấp giá_trị sức_lao_động phải giảm giá_trị những tư_liệu sinh_hoạt thuộc phạm_vi tiêu_dùng của công_nhân . 
+Điều đó chỉ có_thể thực_hiện được bằng cách tăng năng_suất lao_động trong các ngành sản_xuất ra những tư_liệu sinh_hoạt thuộc phạm_vi tiêu_dùng của công_nhân hay tăng năng_suất lao_động trong các ngành sản_xuất ra tư_liệu_sản_xuất để sản_xuất ra những tư_liệu sinh_hoạt đó . 
+Nếu trong giai_đoạn đầu của chủ_nghĩa_tư_bản , sản_xuất giá_trị thặng_dư tuyệt_đối là phương_pháp chủ_yếu , thì đến giai_đoạn tiếp sau , khi kỹ_thuật phát_triển , sản_xuất giá_trị thặng_dư tương_đối là phương_pháp chủ_yếu . 
+Hai phương_pháp sản_xuất giá_trị thặng_dư nói trên được các nhà tư_bản sử_dụng kết_hợp với nhau để nâng_cao trình_độ bóc_lột công_nhân làm_thuê trong quá_trình phát_triển của chủ_nghĩa_tư_bản . 
+Dưới chủ_nghĩa_tư_bản , việc áp_dụng máy_móc không phải là để giảm nhẹ cường_độ_lao_động của công_nhân , mà trái_lại tạo điều_kiện để tăng cường_độ_lao_động . 
+c . 
+Giá_trị thặng_dư siêu_ngạch 
+Cạnh_tranh giữa các nhà tư_bản buộc họ phải áp_dụng phương_pháp sản_xuất tốt nhất để tăng năng_suất lao_động trong xí_nghiệp của mình nhằm giảm giá_trị cá_biệt của hàng_hoá xuống thấp hơn giá_trị xã_hội của hàng_hoá , nhờ đó thu được giá_trị thặng_dư siêu_ngạch . 
+Giá_trị thặng_dư siêu_ngạch là phần giá_trị thặng_dư thu được do áp_dụng công_nghệ mới làm cho giá_trị cá_biệt của hàng_hoá thấp hơn giá_trị thị_trường của nó . 
+Xét từng trường_hợp , thì giá_trị thặng_dư siêu_ngạch là hiện_tượng tạm_thời , xuất_hiện và mất đi . 
+Nhưng xét toàn_bộ xã_hội tư_bản thì giá_trị thặng_dư siêu_ngạch là hiện_tượng tồn_tại thường_xuyên . 
+Theo_đuổi giá_trị thặng_dư siêu_ngạch là khát_vọng của nhà tư_bản và là động_lực mạnh_mẽ nhất thúc_đẩy các nhà tư_bản cải_tiến kỹ_thuật , hợp_lý_hoá sản_xuất , tăng năng_suất lao_động , làm cho năng_suất lao_động xã_hội tăng lên nhanh_chóng . 
+C . Mác gọi giá_trị thặng_dư siêu_ngạch là hình_thức biến_tướng của giá_trị thặng_dư tương_đối , vì giá_trị thặng_dư siêu_ngạch và giá_trị thặng_dư tương_đối đều dựa trên cơ_sở tăng năng_suất lao_động ( mặc_dù một bên là dựa vào tăng năng_suất lao_động cá_biệt , còn một bên dựa vào tăng năng_suất lao_động xã_hội ) . 
+Từ đó , ta thấy rằng giá_trị thặng_dư siêu_ngạch là động_lực trực_tiếp , mạnh nhất thúc_đẩy các nhà tư_bản cải_tiến kỹ_thuật , áp_dụng công_nghệ mới vào sản_xuất , hoàn_thiện tổ_chức lao_động và tổ_chức sản_xuất để tăng năng_suất lao_động , giảm giá_trị của hàng_hoá . 
+5 . Sản_xuất ra giá_trị thặng_dư - quy_luật kinh_tế tuyệt_đối của chủ_nghĩa_tư_bản 
+Mỗi phương_thức_sản_xuất có một quy_luật kinh_tế tuyệt_đối , quy_luật phản_ánh mối quan_hệ kinh_tế bản_chất nhất của phương_thức_sản_xuất đó . 
+Theo C . Mác , chế_tạo ra giá_trị thặng_dư , đó là quy_luật tuyệt_đối của phương_thức_sản_xuất tư_bản_chủ_nghĩa . 
+Trong chủ_nghĩa_tư_bản , mục_đích của sản_xuất không phải là giá_trị sử_dụng mà là sản_xuất ra giá_trị thặng_dư , là nhân giá_trị lên . 
+Theo_đuổi giá_trị thặng_dư tối_đa là mục_đích và động_cơ thúc_đẩy sự hoạt_động của mỗi nhà tư_bản , cũng như của toàn_bộ xã_hội tư_bản . 
+Nhà tư_bản cố_gắng sản_xuất ra hàng_hoá với chất_lượng tốt đi_chăng_nữa , thì đó cũng chỉ vì nhà tư_bản muốn thu được nhiều giá_trị thặng_dư . 
+Sản_xuất ra giá_trị thặng_dư tối_đa không_chỉ phản_ánh mục_đích của nền sản_xuất tư_bản_chủ_nghĩa , mà_còn vạch rõ phương_tiện , thủ_đoạn để đạt được mục_đích đó : tăng_cường bóc_lột công_nhân làm_thuê bằng cách tăng cường_độ_lao_động và kéo dài ngày lao_động , tăng năng_suất lao_động và mở_rộng sản_xuất . 
+Như vậy , sản_xuất ra giá_trị thặng_dư là quy_luật kinh_tế tuyệt_đối của chủ_nghĩa_tư_bản , là cơ_sở của sự tồn_tại và phát_triển của chủ_nghĩa_tư_bản . 
+Nội_dung của nó là sản_xuất ra giá_trị thặng_dư tối_đa bằng cách tăng_cường bóc_lột công_nhân làm_thuê . 
+Quy_luật giá_trị thặng_dư ra_đời và tồn_tại cùng với sự ra_đời và tồn_tại của chủ_nghĩa_tư_bản . 
+Nó quyết_định các mặt chủ_yếu , các quá_trình kinh_tế chủ_yếu của chủ_nghĩa_tư_bản . 
+Nó là động_lực vận_động , phát_triển của chủ_nghĩa_tư_bản , đồng_thời nó cũng làm cho mọi mâu_thuẫn của chủ_nghĩa_tư_bản , đặc_biệt là mâu_thuẫn cơ_bản của chủ_nghĩa_tư_bản ngày_càng sâu_sắc , đưa đến sự thay_thế tất_yếu chủ_nghĩa_tư_bản bằng một xã_hội cao hơn . 
+Chủ_nghĩa_tư_bản ngày_nay tuy có những điều_chỉnh nhất_định về hình_thức sở_hữu , quản_lý và phân_phối để thích_nghi ở mức_độ nào đó với điều_kiện mới , nhưng sự thống_trị của chủ_nghĩa_tư_bản vẫn tồn_tại nguyên_vẹn , bản_chất bóc_lột của chủ_nghĩa_tư_bản vẫn không thay_đổi . 
+Nhà_nước tư_sản hiện_nay tuy có tăng_cường can_thiệp vào đời_sống kinh_tế và xã_hội , nhưng về cơ_bản nó vẫn là bộ_máy thống_trị của giai_cấp tư_sản . 
+Tuy_nhiên , do trình_độ đã đạt được của văn_minh nhân_loại và do cuộc đấu_tranh của giai_cấp công_nhân mà một bộ_phận không nhỏ công_nhân ở các nước tư_bản phát_triển có mức_sống tương_đối sung_túc , nhưng về cơ_bản , họ vẫn phải bán sức_lao_động và vẫn bị nhà tư_bản bóc_lột giá_trị thặng_dư . 
+Trong điều_kiện hiện_nay , sản_xuất giá_trị thặng_dư có những đặc_điểm mới : 
+Một là , do kỹ_thuật và công_nghệ hiện_đại được áp_dụng rộng_rãi nên khối_lượng giá_trị thặng_dư được tạo ra chủ_yếu nhờ tăng năng_suất lao_động . 
+Việc tăng năng_suất lao_động do áp_dụng kỹ_thuật và công_nghệ hiện_đại làm cho chi_phí lao_động_sống trong một đơn_vị sản_phẩm giảm nhanh . 
+Hai là , cơ_cấu lao_động xã_hội ở các nước tư_bản phát_triển hiện_nay có sự biến_đổi lớn . 
+Do áp_dụng rộng_rãi kỹ_thuật và công_nghệ hiện_đại nên lao_động_phức_tạp , lao_động trí_tuệ ngày_càng tăng lên và ngày_càng có vai_trò quyết_định trong việc sản_xuất ra giá_trị thặng_dư . 
+Ba là , sự bóc_lột của các nước tư_bản_chủ_nghĩa phát_triển trên phạm_vi quốc_tế ngày_càng được mở_rộng dưới nhiều hình_thức : xuất_khẩu tư_bản và hàng_hoá , trao_đổi không ngang giá ... 
+lợi_nhuận siêu_ngạch mà các nước tư_bản_chủ_nghĩa phát_triển bòn_rút từ các nước kém phát_triển trong mấy chục năm qua đã tăng lên gấp nhiều lần . 
+Sự cách_biệt giữa những nước giàu và những nước nghèo ngày_càng tăng và đang trở_thành mâu_thuẫn nổi_bật trong thời_đại ngày_nay . 
+Các nước tư_bản_chủ_nghĩa phát_triển đã bòn_rút chất_xám , huỷ_hoại môi_sinh , cũng như cội_rễ đời_sống văn_hoá của các nước lạc_hậu , chậm phát_triển . 

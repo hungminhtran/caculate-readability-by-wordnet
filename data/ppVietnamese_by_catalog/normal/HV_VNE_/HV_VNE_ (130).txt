@@ -1,0 +1,11 @@
+Top 10 nhân_vật nổi_tiếng ' tiếp_tay ' cho virus 
+Theo thống_kê của hãng phần_mềm bảo_mật Panda , " Công_chúa " nhạc Pop_Britney_Spears đã vượt_qua cả Bill_Gates để đứng đầu về thành_tích bị lợi_dụng tên_tuổi để phát_tán phần_mềm nguy_hiểm qua e-mail . 
+Hãng Panda đã tổng_hợp những thông_điệp lưu trong cơ_sở_dữ_liệu của mình suốt 7 năm qua để tìm ra những nhân_vật quan_trọng nào " dính_líu " đến virus nhiều nhất . 
+Ba vị_trí còn_lại trong số 5 nhân_vật hàng_đầu là Jennifer_Lopez , Shakira , và Osama_Bin_Laden . Rất nhiều kẻ viết mã nguy_hiểm thường bịa chuyện liên_quan đến những người nổi_tiếng để kích_thích trí tò_mò , dụ người dùng nhấp chuột vào kết_nối đến trang web , hoặc mở file đính kèm , tạo điều_kiện cho virus tự_động cài vào máy_tính của họ . 
+" Đây là một thủ_thuật cao_tay , qua_mặt rất nhiều người sử_dụng PC . 
+Đa_số những vụ phát_tán phần_mềm xuất_hiện cùng thời_điểm diễn_ra một sự_kiện nào đó " , Patrick_Hinojosa , Trưởng nhóm kỹ_thuật của Panda , khuyến_cáo . 
+Hinojosa cho_biết có hai cách để phát_tán mã tấn_công : tìm lỗ_hổng trong một phần_mềm được sử_dụng rộng_rãi nào đó , hoặc lừa người dùng mở kết_nối để tự cài mã nguy_hiểm vào máy_tính . 
+Cách thứ hai hiệu_quả và đơn_giản hơn rất nhiều . 
+Panda đã chứng_kiến vô_số trường_hợp lây_lan virus qua e-mail liên_quan đến người nổi_tiếng . 
+Những vụ được biết đến nhiều nhất là virus " ILove_You " , " LoveLetter " hay " Anna_Kournikova " , và mới chỉ tuần trước là e-mail tuyên_bố ca_sĩ nhạc Pop_Michael_Jackson tự_tử . 
+Danh_sách 10 nhân_vật nổi_tiếng bị những kẻ viết chương_trình nguy_hiểm lợi_dụng nhiều nhất là : Britney_Spears , Bill_Gates , Jennifer_Lopez , Shakira , Osama_Bin_Laden , Michael_Jackson , Bill_Clinton , Anna_Kournikova , Paris_Hilton , và Pamela_Anderson . 

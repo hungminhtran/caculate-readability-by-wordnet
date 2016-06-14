@@ -1,0 +1,4 @@
+Hà_Nội : nhắn tin bằng điện_thoại cố_định 
+Theo đó , khi nhắn tin từ điện_thoại cố_định cho điện_thoại cố_định , khách_hàng sẽ phải lắp thêm một bộ_phận hiển_thị tin_nhắn để đọc tin . 
+Ngoài_ra , dịch_vụ cũng cho_phép nhắn tin trực_tiếp từ máy điện_thoại cố_định sang điện_thoại_di_động ( ĐTDĐ ) . 
+Hiện_tại , thuê_bao điện_thoại cố_định chỉ có_thể nhắn tin gián_tiếp vào ĐTDĐ ( chỉ áp_dụng với mạng Vinaphone ) thông_qua nhân_viên của tổng_đài mạng di_động Vinaphone . Do hình_thức nhắn tin này không thuận_tiện nên số_lượng tin_nhắn chỉ chiếm 10 % so với các tin_nhắn nhắn trực_tiếp từ ĐTDĐ sang ĐTDĐ . 

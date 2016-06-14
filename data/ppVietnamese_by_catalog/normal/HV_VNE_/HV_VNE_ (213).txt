@@ -1,0 +1,9 @@
+Dùng_Wi-Fi ăn_cắp chính ngân_hàng của mình 
+Một nhân_viên an_ninh vừa bị bắt sau khi ăn_trộm 245.000 USD bằng cách sử_dụng máy_tính xách tay để tấn_công vào hệ_thống ngân_hàng GE_Money ( Phần_Lan ) mà hắn đang làm_việc . 
+Cảnh_sát cho_biết Trưởng ban bảo_mật 26 tuổi của GE_Money đã lấy cắp phần_mềm dữ_liệu ngân_hàng và tiếp_tay cho tòng_phạm truy_cập tài_khoản qua một laptop sử_dụng mạng Wi-Fi không cài chương_trình bảo_vệ từ một toà nhà gần đó . 
+Chúng dùng mật_khẩu ăn_cắp để chuyển tiền đến tài_khoản lập 6 tháng trước đây trong chính ngân_hàng này , và tưởng rằng lợi_dụng mạng không dây của ai đó sẽ giúp chúng xoá dấu_vết dễ_dàng . 
+Nghi_ngờ bắt_đầu tập_trung vào người chủ mạng Wi-Fi cho đến khi cảnh_sát lục tìm toà nhà và khẳng_định người này vô_can . 
+Tuy_nhiên , trong quá_trình điều_tra , họ đã phát_hiện một laptop MAC thuộc GE_Money có dấu vân tay của một cán_bộ an_ninh trong ngân_hàng . 
+Cảnh_sát vẫn đang tiếp_tục điều_tra và nhân_viên này cùng 3 kẻ tình_nghi khác vẫn chưa bị đưa ra toà . 
+" Có_thể khẳng_định nhân_viên bảo_mật của chúng_tôi chắc_chắn liên_quan đến vụ_việc và hắn đã lập_tức bị sa_thải " , Pekka_Pattiniemi , Tổng_giám_đốc của GE_Money , tuyên_bố . 
+" Không có thiệt_hại đáng_kể nào xảy_ra do cơ_chế điều_chỉnh từ bên trong của ngân_hàng hoạt_động hiệu_quả và đã thu_hồi số tiền ngay sáng hôm sau " . 

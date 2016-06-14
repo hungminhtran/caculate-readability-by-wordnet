@@ -1,0 +1,14 @@
+Gartner : ' Nguy_cơ bảo_mật chỉ là sự cường_điệu ' 
+Hãng khảo_sát khẳng_định những vấn_đề nổi_cộm nhất như mối e_ngại phần_mềm nguy_hiểm qua điện_thoại , VoIP không an_toàn , và nỗi lo về một " siêu_virus " phát_tán qua Internet chỉ trong vài phút ... 
+không hơn một sự thổi_phồng . 
+Về phần_mềm nguy_hiểm qua điện_thoại , John_Pescatore , Phó_giám_đốc Gartner , cho_biết : " Các công_ty diệt virus đã thấy trước cơ_hội làm_ăn lớn trong việc kinh_doanh giải_pháp bảo_mật cho hàng tỷ người dùng di_động và PDA . 
+Đặc_biệt , ngành công_nghiệp chống virus dự_đoán điện_thoại sẽ là một cách để tăng doanh_thu cho thị_trường PC . 
+Tuy_nhiên , diệt virus điện_thoại nhờ thiết vị bên ngoài là hoàn_toàn vô_hiệu " . 
+Đề_cập vấn_đề " bội_thực " với những cảnh_báo nâng_cấp bảo_mật , Lawrence_Orans , chuyên_gia phân_tích tại Gartner , phát_biểu ngắn_gọn : " Các hãng bảo_mật vẫn rêu_rao rằng cách tốt nhất để bảo_vệ doanh_nghiệp là mua và cài phần_mềm cho vài lỗ_hổng nhỏ , nhưng lại không có bất_cứ nguyên_tắc nào được xây_dựng tập_trung vào lĩnh_vực này " . 
+Tương_tự , tấn_công qua hệ_thống VoIP là vô_cùng hiếm , do đó việc phát_triển biện_pháp phòng_ngừa là không cần_thiết . 
+Mối đe_doạ người dùng qua hotspot ( điểm truy_cập Wi-Fi ) cũng có_thể được giải_quyết chỉ bằng một_vài thao_tác đơn_giản . 
+Theo Gartner , nguy_cơ gọi là " siêu sâu Warhol " , có khả_năng lây_lan qua đường Internet đến những máy_tính không được bảo_vệ trong vòng 15 phút , cũng chỉ là do nói quá vấn_đề . 
+" Nhiều doanh_nghiệp lưỡng_lự trong việc thực_thi công_nghệ hỗ_trợ tăng năng_suất và hiệu_quả như mạng nội_bộ không dây ( WLAN ) và hệ_thống điện_đàm IP chỉ vì nghe quá nhiều lời khuyến_cáo thổi_phồng về những nguy_cơ tiềm_tàng " , Orans nhấn_mạnh . 
+Tuy_nhiên , năm_ngoái , cũng chính Gartner đã đưa ra lời cảnh_báo rằng VoIP cần được cung_cấp bảo_mật . 
+Và hiện_nay hãng này lại đưa ra tuyên_bố hoàn_toàn trái_ngược . 
+Gartner đã đăng báo thông_báo Hype_Cycle đến rất nhiều doanh_nghiệp trong ngành công_nghệ thông_tin cũng như trên website . 

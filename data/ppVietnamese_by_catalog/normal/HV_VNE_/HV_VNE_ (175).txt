@@ -1,0 +1,9 @@
+Hơn 400 lỗ_hổng bảo_mật trong quý II 
+Bản báo_cáo hàng quý của viện SANS hợp_tác cùng các chuyên_gia máy_tính Mỹ đã tổng_hợp 422 mối đe_doạ nghiêm_trọng , trong đó có cả những mưu_toan tấn_công mới nhằm vào nhiều chương_trình phổ_biến của iTunes và RealPlayer . 
+Theo thống_kê , con_số này đã tăng lên 10,8 % so với quý I và 20 % so với 1 năm trước đây . 
+" Những lỗ_hổng nghiêm_trọng này đang lây_lan rộng , rất nhiều trong số đó đã bị tin_tặc lợi_dụng và khai_thác cả ở gia_đình và công_sở " , Alan_Paller , Trưởng ban nghiên_cứu của viện SANS , cho_biết . 
+" Chúng_tôi công_bố danh_sách này như một báo_động đỏ cho các tổ_chức , cá_nhân và chuyên_gia công_nghệ . 
+Quá nhiều người không nhận_thức được nguy_cơ tiềm_tàng và lầm_tưởng rằng máy_tính của họ vô_cùng an_toàn " . 
+Lỗi trong phần_mềm backup ( sao lưu dự_phòng ) đã nổi lên như là mục_tiêu mới nhất của hacker trong việc tìm_kiếm những bí_mật của tổ_chức . 
+Bản báo_cáo cũng cho_thấy các mối đe_doạ không_chỉ tăng nhanh trong hệ_điều_hành Windows mà_còn xuất_hiện ở nhiều ứng_dụng phổ_biến khác trong lĩnh_vực âm_nhạc . 
+" Người dùng đang đối_mặt với nguy_cơ ngày cao do những lỗ_hổng trong iTunes và RealPlayer , cùng với hàng_loạt lỗi mới được khám_phá ở trình_duyệt Internet_Explorer của Microsoft " . Các chuyên_gia cũng nhấn_mạnh khả_năng hacker đang tìm cách xâm_nhập những trình_duyệt khác , trong đó có Firefox của Mozilla và khẳng_định cần có những bản nâng_cấp theo quý cho tất_cả các sản_phẩm nhằm bảo_vệ người dùng trước nguy_cơ bị xâm_phạm . 

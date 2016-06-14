@@ -1,0 +1,18 @@
+Microsoft phát_hành bản nâng_cấp Windows tháng 4 
+Hôm_qua , Microsoft đã đưa ra bản sửa lỗi bảo_mật định_kỳ hàng tháng với 5 trong số những khiếm_khuyết được khắc_phục được đánh_giá là nghiêm_trọng . 
+Bản update gồm các phần sửa lỗi mức nghiêm_trọng ( mức cảnh_báo nguy_hiểm cao nhất . ) cho hệ_thống TCP / IP của Window , Internet_Explorer , MSN_Messenger , Office và Exchange_Server . 
+Ba lỗi bảo_mật còn_lại trong Windows được đánh_giá là quan_trọng ( mức cao thứ hai ) . 
+Microsoft nhấn_mạnh rằng mỗi lỗ_hổng nếu bị khai_thác đều có_thể tạo cơ_hội cho những kẻ tấn_công chiếm quyền điều_khiển_từ_xa của những máy_tính không được bảo_vệ . 
+Stephen_Toulouse , Giám_đốc trung_tâm bảo_mật của Microsoft , lưu_ý rằng nhiều lỗi được đánh_giá nghiêm_trọng nhưng có_thể không gây nguy_hiểm đến mức nói trên nếu máy_tính được cài phiên_bản phần_mềm mới nhất của Microsoft . Về tình_trạng dễ bị tấn_công của phần_mềm Exchange_Server quản_lý e-mail , danh_bạ liên_lạc và lịch làm_việc , Toulouse cho rằng lỗi này chỉ được đánh_giá trung_bình trên những máy_chạy bản Window_Server 2003 Server_Pack 1 vừa được tung ra . 
+Theo ông này , khó có_thể nói trước lỗ_hổng của Exchange có dẫn đến sự hình_thành một loại sâu mới hay không vì đến nay chưa phát_hiện bất_kỳ một đoạn mã nào chứng_minh sự hình_thành một chương_trình khai_thác thực_thụ . 
+Trong khi đó , Trung_tâm an ninnh ISS , có trụ_sở tại Atlanta ( Mỹ ) , nơi phát_hiện lỗ_hổng của Exchange năm_ngoái , cho rằng với việc lỗi Exchange được công_bố rộng_rãi , một loại virus mới có_thể được tạo ra để lợi_dụng và sẽ nhanh_chóng phát_tác . 
+ISS cũng là đơn_vị xác_định lỗi trong hệ_thống TCP / IP , chuẩn nền cho Internet và các mạng khác . 
+Theo Trung_tâm , lỗi này khó bị khai_thác hơn , nhưng nguy_hiểm lại lớn hơn do được sử_dụng rất rộng_rãi . 
+Stephen_Toulouse của Microsoft thì trấn_an : Mọi hệ_thống mạng của máy_tính sử_dụng hệ_điều_hành Windows đều dùng đến nó nhưng đó không phải là thứ dễ bị vô_hiệu_hoá bằng cách đơn_giản tắt đi . 
+Về lỗi trong Internet_Explorer , Toulouse cho_biết người sử_dụng nào truy_cập tới một trang web được thiết_lập đặc_biệt có_thể sẽ bị lây_nhiễm những đoạn mã nguy_hại trên máy của họ . 
+Đối_với lỗi hổng trên Office , Toulouse nói rằng bất_kỳ một vụ tấn_công nào cũng liên_quan đến việc nhận và mở những file Word đã bị lây_nhiễm . 
+Phản_ứng trước những thông_tin về các lỗ_hổng bảo_mật này , Oliver_Friedrichs , Giám_đốc Trung_tâm cảnh_báo bảo_mật của Symantec , nói : Điều quan_trọng là cả người dùng cá_nhân và doanh_nghiệp cần tích_cực trong việc cài_đặt các bản sửa lỗi . 
+Những khiếm_khuyết mà Microsoft cảnh_báo có_thể dẫn tới một sự bùng_nổ của sâu cũng như các vụ tấn_công theo kiểu từ_chối dịch_vụ . 
+Để bổ_sung thêm cho các bản sửa lỗi nói trên , Microsoft còn đưa ra hai bản nâng_cấp với mức ưu_tiên cao nhưng không liên_quan đến bảo_mật . 
+Một là cho phần Windows_Installer và bản còn_lại là cho Background_Intelligent_Transfer_Service , nơi Microsoft cho_phép download từng phần các phiên_bản nâng_cấp . 
+Người sử_dụng có_thể download phần_mềm sửa lỗi tại trang web của Microsoft hay để hệ_thống tự nâng_cấp . 

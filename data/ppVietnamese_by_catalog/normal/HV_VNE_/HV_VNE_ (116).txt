@@ -1,0 +1,11 @@
+Vụ lừa_đảo bằng Trojan lớn nhất thế_giới 
+Cảnh_sát Israel vừa phát_hiện ra một đường_dây gián_điệp công_nghiệp quy_mô lớn đã sử_dụng phần_mềm Trojan để rình_mò và lấy cắp thông_tin của những công_ty hàng_đầu nước này . 
+Theo tường_thuật của báo_chí Israel , một loạt các công_ty ứng_dụng , sản_xuất TV , điện_thoại_di_động , nhập_khẩu ôtô đã bị cài Trojan - được viết bởi cặp vợ_chồng Michael_Haephraty và Ruth_Brier-Haephraty sống tại Anh - để theo_dõi động_thái của các hãng đối_thủ cạnh_tranh với tỷ_lệ thành_công rất cao . 
+Đôi tin_tặc đã sử_dụng hai phương_pháp tấn_công đơn_giản để qua_mặt hệ_thống an_ninh thông_thường như vành_đai bảo_vệ hay chương_trình chống virus . 
+Phương_pháp đầu_tiên là gửi đĩa đề_xuất một vấn_đề kinh_doanh nào đó tới nhân_viên trong công_ty , và khi được mở ra , đĩa này sẽ tải Trojan vào máy_tính cá_nhân . 
+Một quá_trình tương_tự cũng được thực_hiện qua e-mail , tiếp_cận PC nhờ sự mất cảnh_giác của người dùng . 
+Chương_trình nói trên đã rất hiệu_quả trong việc thu_thập tài_liệu mật của mục_tiêu mà nó nhằm tới , cũng như kiểm_soát hoạt_động những máy_tính bị nhiễm . 
+Cảnh_sát cho_biết họ đã truy_cập một loạt các FTP server ở Anh và Israel , và khám_phá ra tới 10.000 tài_liệu bị phần_mềm nguy_hiểm ăn_cắp từ các công_ty nạn_nhân . 
+" Thật khó có_thể tin rằng hầu_hết các chuyên_viên cao_cấp tại những doanh_nghiệp này lại không hề ý_thức được sự tồn_tại của spyware " , cảnh_sát Israel nói . 
+" Họ đáng_lẽ phải sớm phát_hiện ra rằng tài_liệu đã bị ăn_cắp theo cách_thức nào " . 
+Đến nay , đã có thêm 21 người bị đặt vào diện nghi_vấn bao_gồm cả lãnh_đạo công_ty , thám_tử tư , thậm_chí cựu_thành_viên trong ngành an_ninh Israel . Cảnh_sát nước này đang tiếp_tục mở_rộng điều_tra dưới sự hỗ_trợ của Interpol và các nhà chức_trách tại Anh , Mỹ và Đức . 

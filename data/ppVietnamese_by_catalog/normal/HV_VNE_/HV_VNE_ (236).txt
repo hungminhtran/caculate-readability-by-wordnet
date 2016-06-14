@@ -1,0 +1,8 @@
+PSP nâng_cấp rồi vẫn bị hack 
+Nỗ_lực ngăn_chặn chủ_nhân của những chiếc máy PSP sử_dụng các chương_trình phần_mềm bất_hợp_pháp và chơi game lậu của Sony một lần nữa trở_nên vô_vọng . 
+Ngày 27/9 , giới hacker thông_báo đã thành_công trong việc gỡ bỏ phiên_bản nâng_cấp 2.0 trong máy điện_tử cầm tay của Sony và thay vào đó là bản 1.5 cũ với các đặc_điểm chống hack yếu hơn và họ có_thể chơi được các game lậu . . 
+Sau khi PSP được phát_hành ở châu Âu ngày 1/9 với phần_mềm 2.0 được cài_đặt sẵn , hacker đã tìm được một lỗ_hổng trong bộ đệm của sản_phẩm , cho_phép máy PSP vận_hành một_số chương_trình bất_hợp_pháp nhờ khả_năng kết_nối toàn_cầu . 
+Lỗ_hổng này liên_quan đến một tính_năng mới của PSP , cho_phép người sử_dụng cài_đặt hình_ảnh nền trên máy . 
+Khi máy chờ tải ảnh lên màn_hình thì bộ mã hack sẽ có_thể xâm_nhập vào hệ_thống dữ_liệu của bức ảnh rồi lan vào bộ_nhớ trong thẻ Memory_Stick . 
+Sau đó , khi hình nền hiện ra thì đồng_thời cũng sẽ kích_hoạt vận_hành bộ mã này . 
+Hiện_nay , các chuyên_gia của Sony đang tìm cách khắc_phục lỗ_hổng nói trên và hứa_hẹn sẽ đưa ra một phiên_bản nâng_cấp mới trong tương_lai gần . 

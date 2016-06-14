@@ -1,0 +1,10 @@
+Bản vá lỗi Windows có_thể gây trục_trặc máy_tính 
+Miếng vá MS00-051 trong bản tin bảo_mật tháng 10của Microsoft , sửa bốn lỗ_hổng nghiêm_trọng trong hệ_điều_hành Windows_2000 , Windows_XP và Windows_Server_2003 , đang phát_sinh nhiều phiền_phức cho người sử_dụng . 
+Theo Microsoft , sau khi cài bản sửa lỗi , máy_tính có_thể gặp những sự_cố nghiêm_trọng như tự_động khoá máy ngăn người dùng đăng_nhập tài_khoản , chặn khởi_động Windows_FireWall , không cho_phép cài hoặc chạy một_số ứng_dụng nhất_định , xoá các thư_mục cho kết_nối mạng ... 
+Hãng phần_mềm cho_biết vấn_đề chỉ xảy_ra khi người sử_dụng thay_đổi những thiết_lập mặc_định trong thư_mục Windows . 
+Tuy nhận được rất ít lời phàn_nàn , Microsoft vẫn tiến_hành nghiên_cứu và khắc_phục lỗi . 
+Để giải_quyết trục_trặc do MS05-051 gây ra , người dùng nên khôi_phục lại chế_độ mặc_định trong thư_mục Windows và COM+. Xem chỉ_dẫn chi_tiết tại website của Microsoft . 
+Đại điện của tập_đoàn phần_mềm Mỹ khẳng_định ngay_cả khi khách_hàng gặp rắc_rối sau khi cài , họ vẫn được bảo_vệ trước mọi cuộc tấn_công khai_thác lỗ_hổng . 
+Cũng liên_quan đến bản tin an_ninh tháng 10 , tuần trước công_ty bảo_mật Symantec khuyến_cáo rằng thông_báo lỗi của Microsoft sẽ vô_tình mở_đường cho hacker tấn_công hệ_thống máy_tính người dùng . 
+Đặc_biệt , thành_phần MSDTC của Windows_2000 ( xuất_hiện trong MS05-051 ) được kích_hoạt mặc_định với vai_trò điều_phối và xử_lý giao_dịch chuyển_đổi giữa các máy_chủ , do đó nguy_cơ bị tin_tặc khai_thác để khống_chế máy_tính từ xa là rất cao . 
+Hai tháng trước , hacker cũng đã lợi_dụng lỗi " Plug_and_Play " của Windows_2000 chỉ 5 ngày sau khi Microsoft công bốbản tin an_ninh tháng 8 , và tấn_công ồ_ạt bằng một loạt biến_thể sâu Zotob , gây ảnh_hưởng không nhỏ cho nhiều tổ_chức và hãng truyền_thông lớn trên toàn thế_giới . 

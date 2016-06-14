@@ -1,0 +1,15 @@
+' Cuộc_chiến virus ' gây lỗi hơn 250.000 máy_tính 
+Những biến_thể sâu lây_lan qua hệ_thống chưa cài bản vá lỗi MS05-039 , đã phá sập nhiều hệ_thống trên toàn thế_giới trong những ngày gần đây , đang bắt_đầu quay sang tấn_công lẫn nhau . 
+Mikko_Hypponen , Trưởng nhóm nghiên_cứu của hãng bảo_mật Phần_Lan_F-Secure , ngày hôm_qua khẳng_định : " Chúng_tôi đang chứng_kiến một cuộc_chiến virus . 
+Dường_như đang có 3 nhóm viết chương_trình nguy_hiểm riêng_biệt cùng tung ra những phiên_bản mới với tốc_độ đáng báo_động , như_thể chúng đua nhau xem ai sẽ thống_lĩnh mạng máy_tính bị nhiễm lớn nhất " . 
+Ba sâu Zotob , Bozori và IRCbot ( một_số hãng gọi là RBOT . CBQ ) vẫn đang tiếp_tục khai_thác lỗ_hổng trong hệ_điều_hành Windows_2000 chưa vá lỗi và không có firewall bảo_vệ . 
+" Phiên_bản mới nhất của Bozori thậm_chí còn quét sạch các ' đối_thủ cạnh_tranh ' , ví_dụ như Zotob , trong PC " , Hypponen nói . 
+Đây là những biến_thể virus đã gây trục_trặc máy_tính tại một_số cơ_quan thông_tấn lớn và nhiều công_ty ở Mỹ ngày 16/8 . 
+Microsoft , McAfee và Symantec trước đó đều khẳng_định thiệt_hại không đáng_kể và không_thể lây_lan rộng như những phần_mềm nguy_hiểm SQL Sla mmer hay MyDoom . Tuy_nhiên , chính họ lại tỏ_ra lo_ngại khi mới khám_phá ra IRCbot hôm_qua . 
+Theo McAfee , sâu này xuất_hiện và hoạt_động mạnh chỉ 7 ngày sau khi Microsoft phát_hành bản tin bảo_mật , với tốc_độ còn nhanh hơn cả Sasser ( 14 ngày ) . 
+Khi IRCbot được kích_hoạt , nó sẽ kết_nối tới máy_chủ IRC từ xa và ém ở đó chờ chỉ_dẫn mới . 
+Nếu gặp lỗ_hổng MS05-39 , chương_trình có khả_năng khiến PC phải liên_tục khởi_động nhiều lần . 
+Nó cũng có_thể tự nhân_bản tới thư_mục hệ_thống của Windows , như C :\Windows\System32 trên Windows_XP bằng tệp WINTBP. EXE để khai_thác lỗi . 
+" IRCbot là sâu đầu_tiên trong số 3 dòng virus đã thành_công trong việc thực_hiện tấn_công hàng_loạt . 
+Cho đến thời_điểm này , chúng_tôi đã ghi_nhận tới 150 trường_hợp lây_nhiễm , đa_phần ở Mỹ , một_số tại châu Á và châu Âu , gây trục_trặc hơn 250.000 hệ_thống , chủ_yếu là Windows_2000 " , McAfee nhận_định . 
+Theo Hypponen của F-Secure , đối_với nhiều người dùng hệ_điều_hành Windows , bản tin bảo_mật của Microsoft " có_vẻ như không hề tồn_tại " . 

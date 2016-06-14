@@ -1,0 +1,20 @@
+An_toàn và tránh lãng_phí điện 
+Điện lấy từ ổ_điện , điện ở đường_dây_tải_điện hoặc ở trạm biến_thế rất nguy_hiểm . 
+Điện giật gây nguy_hiểm đến tính_mạng . 
+Vì vậy cần nhớ : 
+Tuyệt_đối không chạm tay vào chỗ hở của đường_dây hoặc các bộ_phận kim_loại nghi là có điện . 
+Không cầm các vật bằng kim_loại cắm vào ổ lấy điện . 
+Khi phát_hiện thấy dây_điện bị đứt hoặc bị hở , cần tránh xa và báo cho người_lớn biết . 
+Khi nhìn thấy người bị điện giật phải lập_tức cắt nguồn điện bằng mọi cách như ngắt cầu_dao , cầu_chì hoặc dùng vật khô không dẫn_điện như gậy gỗ , gậy tre , que nhựa , ... 
+gạt dây_điện ra khỏi người bị nạn . 
+Trên mỗi dụng_cụ dùng điện thường có ghi số kèm theo chữ V ( vôn ) , căn_cứ vào đó , người_ta có_thể chọn nguồn điện thích_hợp với mỗi dụng_cụ dùng điện . 
+Nếu nguồn điện có số vôn lớn hơn số vôn quy_định của dụng_cụ dùng điện thi có_thể làm hỏng dụng_cụ đó . 
+Khi sử_dụng đồng_thời quá nhiều dụng_cụ dùng điện , hoặc khi lõi của hai dây_dẫn điện bị chạm , chập vào nhau thì dòng_điện trong dây sẽ rất mạnh , dây bị nóng có_thể làm bốc cháy lớp vỏ nhựa và gây cháy nhà . 
+Để đề_phòng , người_ta thường mắc thêm vào mạch điện một cầu_chì . 
+Khi dòng_điện quá mạnh , đoạn dây chì sẽ nóng_chảy khiến cho mạch điện bị ngắt , tránh được những sự_cố nguy_hiểm về điện . 
+Mỗi hộ dùng điện đều có một công_tơ điện để đo năng_lượng điện đã dùng . 
+Căn_cứ vào đó , người_ta tính được số tiền điện phải trả . 
+Ta cần sử_dụng điện hợp_lý , tránh lãng_phí . 
+Để tránh lãng_phí điện , cần chú_ý : 
+Chỉ dùng điện khi cần_thiết , ra khỏi nhà nhớ tắt đèn , quạt , ty vi , ... 
+Tiết_kiệm điện khi đun_nấu , sưởi , là ( ủi ) quần_áo ( vì những việc này cần dùng nhiều năng_lượng điện ) . 

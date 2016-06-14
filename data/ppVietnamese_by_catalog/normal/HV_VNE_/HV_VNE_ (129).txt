@@ -1,0 +1,8 @@
+Lỗi phần_mềm Adobe cho_phép khống_chế PC 
+Lỗ_hổng trong một_số ứng_dụng thiết_kế đồ_hoạ phổ_biến của hãng Adobe_Systems có_thể đặt máy_tính của người sử_dụng trước nguy_cơ tấn_công của hacker . 
+Trên website của hãng , Adobe cho_biết khiếm_khuyết an_ninh trong tiện_ích Adobe_License_Management_Service , thành_phần được dùng vào việc kích_hoạt sản_phẩm , có_thể dẫn đến việc người_ngoài giành quyền truy_cập trái_phép vào máy_tính . 
+Sản_phẩm bị ảnh_hưởng là những phiên_bản chạy trên Windows của Adobe_Photoshop_CS , Adobe_Creative_Suite 1.0 và Adobe_Premiere_Pro_1.5 . 
+Adobe khẳng_định họ chưa phát_hiện bất_cứ mã tấn_công nào lợi_dụng lỗi trên . 
+Hãng bảo_mật Secunia đánh_giá khiếm_khuyết này thuộc loại tương_đối nghiêm_trọng , tức_là mức trung_bình trong hệ_thống đánh_giá 5 bậc của họ . 
+Adobe đã phát_hành bản sửa lỗi ( download tại đây ) để khắc_phục vấn_đề . 
+Những máy_tính chạy Photoshop_CS2 hoặc Adobe_Creative_Suite_CS2 không bị ảnh_hưởng . 

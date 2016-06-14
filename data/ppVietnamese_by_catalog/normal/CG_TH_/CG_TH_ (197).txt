@@ -1,0 +1,23 @@
+Virus H5N1 đã tiến_hoá 
+Thoạt_tiên một bệnh_nhân cúm gà 13 tuổi tưởng như may_mắn khi em chỉ bị viêm nhẹ một bên phổi và được điều_trị ngay bằng Tamiflu . 
+Tuy_nhiên , sau vài ngày tỉnh_táo , bệnh_nhân trở_nên khó thở và tử_vong nhanh_chóng - một dấu_hiệu cho_thấy virus H5N1 đã kháng thuốc . 
+" Bệnh_nhân có_mặt ở một bệnh_viện tại tỉnh Đồng_Tháp,Việt_Nam hôm 22/1 sau một ngày bị ho và sốt " , tiến_sĩ Menno_de_Jong từ Bệnh_viện Nhiệt_đới TP HCM và cộng_sự báo_cáo . 
+Sau vài ngày , thuốc dường_như phát_huy tác_dụng . 
+Tuy_nhiên , cô bé đột_nhiên khó thở và cần thêm oxy , tình_trạng viêm phổi trở_nên xấu đi nhanh_chóng . 
+Cuối_cùng bệnh_nhân tử_vong sau 6 ngày nhập_viện . 
+Kết_quả thử_nghiệm tại Hong_Kong cho_thấy , virus tấn_công cô bé đã đột_biến theo cách " miễn_dịch " với Tamiflu . 
+Bệnh_nhân có một " yếu_tố thay_thế H274Y trong men neuraminidase - dấu_hiệu cho_thấy mức kháng oseltamivir ( tên biệt_dược của Tamiflu ) cao " , nhóm tác_giả khẳng_định trong báo_cáo đăng trên tạp_chí Y_học New_England ( Mỹ ) . 
+Hiện_tượng tương_tự cũng xảy_ra với một_số bệnh_nhân được điều_trị bằng nhóm thuốc tương_tự . 
+Ít_nhất đã có 4 trong số 8 người được điều_trị bằng Tamiflu đã chết . 
+Lâu_nay , người_ta không ngạc_nhiên về chuyện virus thường phát_triển khả_năng kháng thuốc , đó là lý_do vì_sao việc điều_trị AIDS cần một hỗn_hợp thuốc . 
+" Cách phòng tránh nguy_cơ kháng thuốc tốt nhất là ức_chế sự phân_bào càng triệt_để và càng sớm càng tốt . 
+Mô_hình ' đánh mạnh và đánh sớm ' vốn được áp_dụng trong điều_trị HIV / AIDS cũng hiệu_quả đối_với bệnh cúm và nhiều bệnh nhiễm virus khác " , de Jong nhận_định . 
+Tamiflu là một trong hai loại thuốc chống cúm thuộc nhóm ức_chế neuraminidase . 
+Chúng nhắm vào một protein trên bề_mặt của tế_bào tên là axit sialic , được ví như " cánh cổng " vào bên trong tế_bào . 
+Các loại virus cúm thường dùng một men gọi là neuraminidase ( chính là chữ N trong H5N1 ) để " mở " cánh cổng này và xâm_nhập vào bên trọng tế_bào lành . 
+Tamiflu có khả_năng khống_chế men neuraminidase , do đó không cho virus bám vào " cánh cổng " axit sialic . 
+Tuy_nhiên , virus cúm có xu_hướng tiến_hoá và thay_đổi liên_tục , nên cấu_trúc của men neuraminidase cũng thay_đổi theo . 
+Hệ_quả là Tamiflu không_thể vô_hiệu_hoá triệt_để neuraminidase . 
+" Hạn_chế về cấu_trúc của Tamiflu là dễ bị suy_yếu sau một_vài đột_biến của virus , cho_phép phân_tử neuraminidase bảo_toàn và virus vẫn hoạt_động mạnh " , tiến_sĩ Anne_Moscona , chuyên_gia các bệnh virus ở trẻ , Đại_học Cornell ( Mỹ ) , cho_biết . 
+Trong khi đó , cấu_trúc của một loại thuốc cùng nhóm là Relenza của hãng GlaxoSmithKline " có phần khác nên nó hạn_chế virus kháng thuốc tốt hơn " . 
+Tuy_nhiên , Relenza ( còn có tên biệt_dược là zanamivir ) lại có những hạn_chế riêng : một là thuốc ở dạng xịt nên không thích_hợp với một_số bệnh_nhân , hai là nó chỉ phát_huy tác_dụng ở phổi , trong khi H5N1 tấn_công cả những cơ_quan khác . 

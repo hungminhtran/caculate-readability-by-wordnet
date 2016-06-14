@@ -1,0 +1,8 @@
+Nghi_phạm đánh_cắp mã nguồn của Cisco sa lưới 
+Bắt_đầu từ e-mail của một hacker gửi tới Đại_học California ( Mỹ ) tuyên_bố lợi_dụng lỗ_hổng trong IOS 12.3 để thâm_nhập vào nhiều hệ_thống máy_tính , cảnh_sát Thuỵ_Điển đã lần ra thủ_phạm . 
+E-mail này được gửi tới một nhà nghiên_cứu tại Đại_học California , trong đó kẻ giấu mặt cho_biết đã tận_dụng mã nguồn bị đánh_cắp trong hệ_điều_hành IOS 12.3 để thâm_nhập vào hệ_thống mạng của nhiều khu_vực quân_sự và chính_phủ Mỹ . Nhờ manh_mối này , FBI đã hợp_tác với cảnh_sát Thuỵ_Điển , tiến_hành điều_tra và bắt_giữ nghi_phạm hôm 9/5 vừa_qua , tuy_nhiên phát_ngôn_viên của FBI từ_chối tiết_lộ thông_tin về sự_kiện này . 
+Phần mã bị đánh_cắp nằm trong hệ_điều_hành Internet_IOS_12.3 , diễn_ra vào tháng 5/2004 . 
+Sự_kiện này thu_hút sự quan_tâm đặc_biệt vì hacker có_thể lợi_dụng phần mã đã bị phát_tán trái_phép trên mạng để khai_thác lỗi bảo_mật và làm suy_giảm tính_năng của thiết_bị định_tuyến ( router ) của Cisco , đe_doạ nghiêm_trọng sự an_toàn của hệ_thống Internet . Nguy_hiểm hơn , hầu_hết các công_ty sử_dụng sản_phẩm mạng của Cisco thường kết_nối trực_tiếp vào Internet , không qua tường lửa hay bất_cứ cơ_chế bảo_mật nào , tạo điều_kiện cho hacker xâm_nhập dễ_dàng . 
+Tại thời_điểm đó , Cisco cho rằng những phần mã bị mất sẽ không gây ra bất_cứ mối lo_ngại nào về bảo_mật . 
+Tuy_nhiên , các chuyên_gia an_ninh mạng khẳng_định đây chính là một trong những nguyên_nhân gây ra hàng nghìn vụ tấn_công vào hệ_thống máy_tính quân_sự và nghiên_cứu . 
+Cisco tỏ thái_độ vui_mừng trước vụ bắt_giữ kẻ tình_nghi : " Chúng_tôi rất phấn_khích và sẽ tiếp_tục hợp_tác với các cơ_quan_chức_năng , đồng_thời sẽ áp_dụng mọi biện_pháp để bảo_vệ tài_sản trí_tuệ của mình " . 

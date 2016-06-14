@@ -1,0 +1,5 @@
+Dịch_vụ tra_cứu thông_tin Basao-VNN 
+Dịch_vụ Basao-VNN sẽ được cung_cấp thử_nghiệm từ ngày 15/04/2004 đến ngày 15/07/2004 . 
+Các dịch_vụ trong thời_gian thử_nghiệm của Basao-VNN bao_gồm : Tra_cứu thông_tin về giao_thông ( dịch_vụ tìm đường dành cho các loại phương_tiện chủ_yếu là tại Hà_Nội và TP. Hồ_Chí_Minh ) ; Tra_cứu thông_tin tổng_hợp ( trang vàng ) kết_hợp với khả nǎng định_vị trực_tiếp trên bản_đồ số . 
+Riêng chuyên_mục kinh_doanh bất_động_sản ( cho_phép đǎng tin mua_bán , cho thuê nhà , đất trên bản_đồ số , tư_vấn tài_chính , Ngân_hàng ) ; Tra_cứu bản_đồ Việt và 61 tỉnh thành ( bản_đồ địa_giới hành_chính ) ; Tra_cứu các loại bản_đồ của TP. Hồ_Chí_Minh ( quy_hoạch , hiện_trạng tỷ_lệ 1/2000 ) và quy_hoạch Hà_Nội ; Chuyên_mục Nhà_hàng - Khách_sạn ( cho_phép đǎng tin quảng_cáo , định_vị nhà_hàng , khách_sạn trên bản_đồ số ) ; Thuê không_gian lưu_trữ thông_tin bản_đồ trên Basao-VNN . 
+Bạn_đọc có_thể tra_cứu miễn_phí tất_cả các dịch_vụ của Basao-VNN tại địa_chỉ : http : / / basao . com.vn 

@@ -1,0 +1,27 @@
+7 biến_thể Mytob trong Top 10 virus tháng 7 
+Báo_cáo tình_hình virus 31 ngày qua của hãng bảo_mật Anh Sophos cho_thấy tuy Netsky . P giữ vị_trí số 1 , tháng 7 vẫn được coi là tháng của Mytob . Sản_phẩm của thanh_niên người Đức vừa bị kết_án treo Sven_Jaschan vẫn chứng_tỏ tầm ảnh_hưởng và nguy_cơ lớn với doanh_nghiệp và người dùng . 
+Tuy_nhiên , đội quânMytob hùng_hậu mới là những kẻ thống_trị bảng xếp hạng khi chiếm tới 7 trong số 10 virus nguy_hiểm . 
+Hơn 1/3 ( 37 % ) biến_thể virus mà Sophos ghi_nhận được trong tháng 6 liên_quan đến sâu này . 
+" Sức lây_lan của Mytob thể_hiện qua việc chúng tung_hoành gần như toàn_bộ bảng_tổng_sắp . 
+Vấn_đề ở đây không phải mức_độ nguy_hiểm , mà là tốc_độ tung ra hàng_loạt những biến_thể na_ná nhau của chúng " , Carole_Theriault , cố_vấn bảo_mật của Sophos , nhận_định . 
+" Cái tên mới duy_nhất trong tháng cũng lại là một thành_viên khác , Mytob . CX , chỉ chiếm 3,2 % nhưng nó càng cho_thấy họ_hàng Mytob đang tiếp_tục tạo nên một làn_sóng lan_tràn , reo rắc nguy_hiểm cho bất_cứ máy_tính nào " . 
+Các chuyên_gia của Sophos đã phân_tích và cung_cấp nhiều chương_trình bảo_vệ , chống lại hàng trăm biến_thể khác nhau của Mytob , nhưng những chương_trình mới tiếp_tục chào_đời với tốc_độ chóng_mặt khiến khó có hãng bảo_mật nào theo kịp . 
+" Dòng sâu Mytob là một trong những đội quân hiếu_chiến nhất mà chúng_tôi từng biết đến " , Theriault tiếp_tục . 
+" Những tên tội_phạm đứng đằng sau đợt tấn_công này đang tung ra ngày_một nhiều phần_mềm nguy_hiểm mới để thực_hiện những âm_mưu đen_tối của chúng " . 
+Hầu_hết các biến_thể Mytob phát_tán qua e-mail và một_số tận_dụng lỗ_hổng phần_mềm . 
+Nhiều phiên_bản được trang_bị mã_độc cho_phép chúng liên_kết với thế_giới bên ngoài dù hệ_thống đã cài tường lửa . 
+Những chương_trình còn_lại bị những kẻ lừa_đảo trực_tuyến lợi_dụng và hướng người dùng đến một website nào đó để tải Mytob . " Điều đáng mừng là dù chúng được trang_bị khá nhiều mánh_khoé , Mytob không phải là quá khó để đối_phó " , Theriault cho_biết . 
+" Doanh_nghiệp hoàn_toàn có_thể xử_lý những sâu này miễn_là họ duy_trì chế_độ bảo_vệ đa_tầng , firewall , bản nâng_cấp bảo_mật và luôn ở chế_độ tự_động cập_nhật phần_mềm diệt virus " . 
+Trong tháng qua , Sophos tổng_kết được tất_cả 1.380 virus mới , nâng số mã tấn_công mà họ ghi_nhận được tới nay lên 107.598 . 
+10 virus nguy_hiểm nhất tháng 7 ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) : 
+1 . Netsky . P ( 13,9 % )2 . 
+Mytob . AS ( 11,6 % )3 . 
+Mytob . BE ( 9,3 % )4 . 
+Mytob . EP ( 5,5 % )5 . 
+Zafi . D ( 3,5 % )6 . 
+Mytob . CX ( 3,2 % )7 . 
+Netsky . D ( 3,1 % )8 . 
+Mytob . CJ ( 2,6 % )9 . 
+Mytob . CN ( 2,6 % )10 . 
+Mytob . AT ( 2,3 % ) 
+Các loại khác : 42,4 % 

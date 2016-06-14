@@ -1,0 +1,22 @@
+Nạn blog ' rác ' xuất_hiện nhằm tăng thứ_hạng website 
+Thảm_hoạ spam đã tự biến_hoá chính nó cho phù_hợp với thế_giới website cá_nhân , và được các chuyên_gia gán cho tên_gọi " splog " ( blog_giả ) . 
+Cuối tuần qua , Google chính là tấm bia_đỡ_đạn của cuộc tấn_công kiểu này . 
+Chương_trình Blogger và Blogspot , hai dịch_vụ blog miễn_phí phổ_biến nhất hiện_nay của hãng tìm_kiếm , đã bị kẻ tấn_công lợi_dụng và thực_hiện vụ " spam blog " lớn nhất từ trước đến nay . 
+Nó cản_trở hoạt_động của bộ đọc tin RSS reader , làm ngập_lụt và có khả_năng đã phần_nào điều_chỉnh được hệ_thống xếp hạng ( rank ) của công_cụ tìm_kiếm . 
+Kẻ tấn_công , tạm gọi là splogger , xử_lý một đoạn script để dò tự_động những từ khoá nhất_định , thường là tên những blogger nổi_tiếng , trên công_cụ tìm_kiếm web cá_nhân . 
+Sau đó , chúng đưa kết_quả vào Blogger và BlogSpot , sử_dụng giao_diện lập_trình ứng_dụng của dịch_vụ ( API ) và tự_động tạo hàng chục nghìn blog chứa nội_dung từ trang web thật của blogger và vô_số đường link tới những site về thế_chấp nhà_cửa , đánh bài và kinh_doanh thuốc_lá ... 
+Hành_động này nhằm mục_đích quảng_cáo hoặc tăng số rank trong kết_quả tìm_kiếm . 
+Khi mọi người gõ tên vào công_cụ search hoặc sử_dụng chương_trình như PubSub , Technorativà_Feedster để tự_động theo_dõi các bài viết của một blogger nổi_tiếng nào đó , RSS reader của họ sẽ bị ngập_lụt bởi những đường kết_nối vô_nghĩa . 
+Splog còn tìm đường thâm_nhập vào cả hệ_thống thông_báo e-mail mới . 
+" Hỡi các cư_dân lãnh_địa blog , tôi nghĩ chúng_ta đang ở trong tình_trạng khẩn_cấp " , Tim_Bray , Giám_đốc công_nghệ web của Sun_Microsystems , viết trên trang cá_nhân của ông . 
+" Số_lượng site giả nhiều đến mức không_thể tin được . 
+Phần_mềm giúp âm_mưu này thành_công phải rất tinh_xảo và khi mới nhìn bạn sẽ nghĩ blog giả đó là trang thực " . 
+Khác với chương_trình e-mail , dịch_vụ blog hiện không có khả_năng đề_phòng và lọc spam . 
+Dù không ước_tính được quy_mô của sự_kiện cuối tuần qua , Bob_Wyman , Giám_đốc công_nghệ dịch_vụ tìm_kiếm web cá_nhân Pubsub , cho_biết số RSS feed mà dịch_vụ của ông gửi tới người đăng_ký đã tăng gấp đôi trong suốt vụ tấn_công , tức khoảng 6 triệu / ngày . 
+Trang Technoraty ước_tính khoảng 5,8 % blog mới là giả . 
+Google cũng khẳng_định họ đã xoá 13.000 splog trong suốt 2 ngày cuối tuần . 
+Jason_Goldman , Giám_đốc sản_xuất Blogger , cho_biết Google đang tập_trung giải_quyết vấn_đề splog như xây_dựng chương_trình để người dùng thông_báo về những site có dấu_hiệu đáng ngờ hoặc yêu_cầu người tạo web gõ thủ_công một_số từ nhất_định để xác_nhận blog được xây_dựng bởi một người thực chứ không phải hệ_thống tự_động . 
+Spam blog , viết tắt là splog , là những trang blog giả mà người tạo ra chúng chỉ sử_dụng để khuếch_trương tăng chỉ_số xếp hạng cho một_số website nhất_định . 
+Nội_dung của splog thường vô_nghĩa hoặc lấy cắp thông_tin từ những trang web cá_nhân khác , cùng với số link nhiều đến bất_thường , đưa người xem tới những site có liên_quan nào đó tới kẻ tạo splog . 
+Thuật_ngữ splog bắt_đầu được nhiều người biết đến vào khoảng giữa tháng 8/2005 khi nó được một_số blogger nổi_tiếng sử_dụng . 
+Tuy_nhiên , từ này đã xuất_hiện rải_rác trên một_số trang web trước đây , ít_nhất là từ năm 2003 ( Wikipedia ) . 

@@ -1,0 +1,12 @@
+Những biểu_hiện bất_thường của " dế " 
+- Với máy SAMSUNG X620 nối qua cáp E700 phải sử_dụng phần_mềm EasyStudio_PIMS_&amp ; File_Manager , để truy_cập Internet bạn phải cài chương_trình Internet_Access riêng thì mới truy_cập được . 
+Bạn có_thể cài phần_mềm này miễn_phí tại 89A Nguyễn_Đình_Chiểu , Q. 3 hoặc tại số 300 Cộng_Hoà , Q. Tân_Bình ( TP. HCM ) . 
+Tôi đang sử_dụng ĐTDĐ Samsung_E800 , nhưng máy dạo này hay bị mất sóng và hay bị treo , tắt nguồn . 
+Trong phần tin_nhắn , nếu chọn ký_tự S viết hoa thì máy bị treo nhưng ký_tự S thường thì không sao ? 
+( Hoàng_Anh , TP. HCM ) 
+- Để khắc_phục lỗi trên trước_tiên bạn phải cài lại phần_mềm cho máy , nếu vẫn bị tình_trạng trên thì phải đem đến trung_tâm để kiểm_tra và sửa_chữa phần_cứng . 
+Hiện_tại giá cài_đặt lại phần_mềm cho Samsung_E800 là khoảng 120.000 đồng tại các siêu_thị ĐTDĐ . 
+Tôi đang dùng ĐTDĐ Siemens_S65 hàng_xách tay , khi mang về Việt_Nam lắp sim Vinaphone vào là dùng được ngay nhưng một_số dịch_vụ qua các tổng_đài 996 , 997 , gửi MMS ... lại không dùng được . 
+Đại_lý chính của hãng tại TP. HCM ở địa_chỉ nào ? 
+( Thế_Phiệt , Bình_Thuận ) 
+- Bạn có_thể nạp lại phần_mềm cho Siemens_S65 với giá 200.000 đồng và phải cài_đặt trên máy thì mới sử_dụng được các dịch_vụ 996 , 997 , GPRS , MMS … địa_chỉ trung_tâm bảo_hành của Siemens tại TP. HCM : 101 Trần_Hưng_Đạo , phường Cầu_Ông_Lãnh , quận 1 . 

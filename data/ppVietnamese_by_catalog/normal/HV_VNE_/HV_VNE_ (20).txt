@@ -1,0 +1,18 @@
+Cisco phát_hiện thêm 3 lỗi phần_mềm router 
+Hãng cung_cấp giải_pháp mạng cho_biết những khiếm_khuyết này nằm trong một_số phiên_bản hệ_điều_hành IOS và có_thể cho_phép tấn_công từ_chối dịch_vụ . 
+Chương_trình nâng_cấp hiện đã được cung_cấp miễn_phí trên website của Cisco . Lỗ_hổng nguy_hiểm nhất trong số nói trên liên_quan đến các bộ định_tuyến IP_Cisco chạy giao_thức BGP ( Border_Gateway_Protocol ) . 
+Ngôn_ngữ này cho_phép router trong những mạng lớn trao_đổi thông_tin với nhau và được sử_dụng rộng_rãi bởi các nhà cung_cấp dịch_vụ Internet . Cisco cho_biết chỉ có router cấu_hình với lệnh " bgp log-neighbor-changes " mới bị nguy_cơ . 
+Lệnh này được bật theo cơ_chế mặc_định trên một_số phiên_bản IOS ( hệ_điều_hành mạng của Cisco ) nhất_định . 
+Khiếm_khuyết thứ 2 ảnh_hưởng tới các phiên_bản router Cisco cấp thấp , chạy giao_thức MPLS ( Multiprotocol_Label_Switching ) . 
+Những sản_phẩm bị nguy_cơ bao_gồm các router Cisco_2600 , 2800 , 3600 , 3700 , 3800 , 4500 và 4700 . Ngoài_ra còn có dòng Access_Servers 5300 , 5350 và 5400 . 
+Những router cao_cấp như 7200 , 7500 và 12000 - được các công_ty điện_thoại và ISP dùng để trao_đổi lưu_thông qua Net - thì không bị ảnh_hưởng . 
+Các bộ chuyển mạch Catalyst_Ethernet phổ_dụng của Cisco cũng nằm trong nhóm đối_tượng an_toàn . 
+Lỗi cuối_cùng , ít nguy_hiểm nhất , liên_quan đến router chạy giao_thức Internet phiên_bản 6 ( IPv6 ) . 
+Giao_thức này được xúc_tiến để thay_thế IPv4 hiện_hành . 
+Khiếm_khuyết ở đây chỉ có_thể bị lợi_dụng khi router được cấu_hình để xử_lý các gói dữ_liệu IPv6 . Hầu_hết router trên Internet hiện_nay vẫn dùng IPv4 nên có_lẽ không gặp vấn_đề an_ninh gì nghiêm_trọng . 
+Giới chuyên_gia thì cho rằng các khiếm_khuyết nói trên không đáng lo ngoại lắm và có_thể coi là chuyện bình_thường trong phát_triển sản_phẩm . 
+Một_số công_ty lớn như Apple , Microsoft và Oracle cũng đang liên_tục thông_báo với khách_hàng của họ về những lỗ_hổng nói trên . 
+Hệ_điều_hành luôn_luôn tiến_hoá . 
+Các tính_năng mới liên_tục được bổ_sung , Kevin_Mitchell , nhà phân_tích của Infonetics_Research , bình_luận . 
+Song khiếm_khuyết liên_quan đến sản_phẩm của Cisco rất được quan_tâm vì hãng này có phạm_vi khách_hàng lớn . 
+Tuần trước , Cisco cũng thông_báo một lỗi phần_mềm router liên_quan đến cơ_chế thoại IP . 

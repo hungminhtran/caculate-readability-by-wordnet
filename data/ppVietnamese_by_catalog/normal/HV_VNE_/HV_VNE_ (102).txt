@@ -1,0 +1,17 @@
+Sober . Q nhằm mục_đích vận_động tranh_cử tại Đức ? 
+Chỉ riêng trong ngày 17/5 , 84 % thư rác tại Đức bắt_nguồn từ sâu Sober . Q . 
+Virus này đang ngày_một lây_lan rộng tại châu Âu , Mỹ và nhiều nước châu Á . 
+Theo hãng bảo_mật MX_Logic ( Mỹ ) , thư rác đầu_tiên của " cơn lũ " spam tiếng Đức này xuất_hiện vào thứ 7 tuần trước tại Mỹ với tiêu_đề như " Multi-Kulturell=Multi-Kriminell " ( Đa_văn_hoá - Đa tội_phạm ) và " Dresden_Bombing_Is_to_Be_Regretted_Enormously " ( Những kẻ đánh bom Dresen rồi sẽ phải hối_tiếc ) ... 
+Ngay sau đó , trong đêm 13/5 và rạng sáng chủ_nhật 14/5 , MX_Logic đã ghi_nhận hơn 125.000 trường_hợp bị Sober . Q khống_chế . 
+Các chuyên_gia an_ninh coi đây là " mối đe_doạ trầm_trọng " cho máy_tính và thậm_chí một_số còn khẳng_định tuần này là tuần thư rác " tự_do ngôn_luận " bằng tiếng Đức . 
+Sober . Q chủ_yếu xâm_nhập vào những máy_tính trước đó đã nhiễm Sober . N , virus đính kèm trong các thông_báo giả rằng người dùng đã mua được vé xem World_Cup 2006 . Sau khi bị khống_chế , virus sẽ mở cổng hậu , cho_phép những kẻ viết phần_mềm nguy_hiểm điều_khiển máy_tính từ xa , gửi spam và tấn_công từ_chối dịch_vụ . 
+Thư rác gửi đến máy_tính nhiễm Sober . Q sử_dụng cả tiếng Đức và tiếng Anh để hướng người nhận đến những trang web có nội_dung ủng_hộ phe cực_hữu . 
+Christoph_Hardy , phát_ngôn_viên của Sophos tại Berlin , nhận_định : " Sự_kiện này dường_như liên_quan đến cuộc bầu_cử tại Đức vào Chủ_nhật tới . 
+Đứng đằng sau vụ_việc chắc_chắn là những kẻ theo phe cực_hữu , đang muốn tuyên_truyền tư_tưởng thân phát_xít , tạo phản_ứng quá_khích để giành số phiếu bầu áp_đảo " . 
+Người dùng e-mail được cảnh_báo nên nâng_cấp bộ lọc spam để bảo_vệ mình trước nguy_cơ mới này . 
+Sáng ngày 16/5 , Sophos cũng đã giới_thiệu công_nghệ Genotype của hãng , mang tên W32/Sober-Gen , có khả_năng ngăn_chặn Troj / Sober . Q . 
+Giải_pháp cổng e-mail hợp_nhất của Sophos màn tên Sophos_PureMessage cũng có_thể tiêu_diệt được virus này . 
+Tại Việt_Nam , nhiều hệ_thống e-mail đã ngập_tràn thư rác tiếng Đức , tuy_nhiên mức_độ ảnh_hưởng được đánh_giá ở cấp " trung_bình " . 
+Nhận_định về vấn_đề này , nhiều chuyên_gia an_ninh mạng Việt_Nam cho rằng người dùng đã nhận_thức khá rõ về nguy_cơ lây_nhiễm virus qua thư rác , đồng_thời , hệ_thống lọc spam cũng hoạt_động tương_đối hiệu_quả , ngăn_chặn được những spam có_thể làm tê_liệt hệ_thống . 
+Trao_đổi với VnExpress , ông Vũ_Ngọc_Sơn , Trưởng_phòng Virus của Trung_tâm an_ninh mạng Đại_học Bách_khoa Hà_Nội ( BKIS ) , cho_biết : " Ở Việt_Nam hiện_nay mới xuất_hiện biến_thể Sober . O , mặc_dù chúng_tôi cũng chỉ nhận được một_vài phản_hồi từ phía khách_hàng về sâu này . 
+Trung_tâm chưa nhận được bất_cứ thông_báo hay mẫu virus Sober . Q nào " . 

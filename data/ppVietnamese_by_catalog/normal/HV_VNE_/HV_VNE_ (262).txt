@@ -1,0 +1,8 @@
+Cả Windows_Media_Player và IE đều bị lỗi mới 
+Một lỗ_hổng được tìm thấy trong chế_độ cài mặc_định của phần_mềm nghe nhạc và trình_duyệt phổ_biến nhất hiện_nay Internet_Explorer ( IE ) của Microsoft , cho_phép tội_phạm mạng thực_hiện tấn_công và khai_thác từ xa . 
+Theo thông_báo của công_ty bảo_mật eEye ( Mỹ ) , những hệ_thống bị ảnh_hưởng bao_gồm Windows_XP_Service_Pack 1 và Service_Pack_2 , Windows_NT , Windows_2003 và Windows_2003_SP1 , cũng như tất_cả các phiên_bản của Windows_2000 . eEye xếp lỗi này ở mức_độ " nghiêm_trọng " bởi nó có_thể bị lợi_dụng từ xa và ảnh_hưởng đến những thiết_lập trong cả hai chương_trình thông_dụng . 
+" Lỗ_hổng sẽ bị khai_thác và nhiễm sâu nếu nạn_nhân mở một file hoặc vào trang chứa phần_mềm nguy_hiểm " , Marc_Maiffret , một giám_đốc của eEye cho_biết . 
+" Sau đó hacker có_thể thay_đổi mã trong máy_tính với vai_trò người sử_dụng " . 
+Phát_ngôn_viên của Microsoft cho_biết họ đã nhận được cảnh_báo của eEye , nhưng khẳng_định chi_tiết lỗ_hổng sẽ không được công_khai rộng_rãi và cũng chưa có vụ tấn_công nào được ghi_nhận . 
+Trung_tâm phản_ứng bảo_mật của tập_đoàn phần_mềm đang tiếp_tục nghiên_cứu và khắc_phục . 
+Lỗi này được phát_hiện chỉ vài ngày sau khi Microsoft công_bố bản tin bảo_mật tháng 10 . Theo eEye , lỗi mới không liên_quan đến bất_cứ 14 lỗ_hổng bảo_mật trong Windows đã được vá tuần trước . 

@@ -1,0 +1,16 @@
+Spyware làm thay_đổi thói_quen duyệt web 
+Quá lo_lắng về phần_mềm gián_điệp ( spyware ) và phần_mềm quảng_cáo ( adware ) , người dùng Internet đang dần tránh xa nhiều trang web , hạn_chế sử_dụng hệ_thống chia_sẻ file , thậm_chí chuyển_đổi sang trình_duyệt an_toàn hơn . 
+Theo nghiên_cứu công_bố hôm_qua của hãng Pew_Internet và American_Life , rất nhiều người bỏ_qua các file đính kèm trong e-mail mà không cần kiểm_tra xem chúng có thực_sự nguy_hiểm hay không . 
+Không như những mối đe_doạ khác , spyware nhận được sự chú_ý đặc_biệt của mọi người và dường_như xuất_hiện trong mọi cảnh_báo về bảo_mật . 
+" Người_ta đang hạn_chế nhiều hoạt_động trên Internet " , Susannah_Fox , trưởng nhóm nghiên_cứu , cho_biết . 
+" Họ ít mạo_hiểm hơn , không còn hứng_thú khám_phá và cảm_thấy mất tự_do khi vào mạng " . 
+Linda_Parra , cố_vấn ứng_dụng công_nghệ tại một hãng bảo_hiểm ở hạt Madison ( Mỹ ) , là một ví_dụ điển_hình cho kiểu " một lần gặp , hãi đến già " này . 
+Sau hai lần dính spyware khi vô_tình gõ lệnh tìm_kiếm trên trang web giả thay_vì trên công_cụ của Google , cô mua một máy_tính Mac mới an_toàn hơn , cài hai tầng firewall và tắt kết_nối mỗi khi ra khỏi mạng . 
+" Tôi thận_trọng hơn rất nhiều , và cũng đã rút ra được rất nhiều bài_học về cơ_chế hoạt_động của máy_tính và Internet " . Parra cũng cấm con_gái mình truy_cập vào các trang game . 
+" Chỉ cần một lần click là bạn có_thể thấy mình đang lạc vào nơi mà bạn không hề muốn đến , và được xuất_hiện thêm vài món quà spyware trong hành_trang . 
+Tôi tin điều này hoàn_toàn có_thể xảy_ra " . 
+Theo Pew , 48 % người sử_dụng Internet ở Mỹ ngừng ghé thăm một_số những trang nhất_định vì sợ thành bến đỗ cho những phần_mềm nguy_hiểm . 
+25 % hạn_chế sử_dụng mạng chia_sẻ file vì nhiều phần_mềm giả_dạng file nhạc và phim ém sẵn trong chương_trình để chờ người tải về . 
+Trong khi đó , khoảng 18 % người dùng Mỹ chuyển sang Mozilla_Firefox hoặc những lựa_chọn mới thay cho Internet_Explorer và 81 % thận_trọng hơn với file đính kèm qua e-mail - cách phổ_biến nhất để phát_tán virus . 
+Tuy_nhiên , vẫn có khoảng 20 % không cài bản vá lỗi khi máy_tính gặp trục_trặc . 
+29 % trong số còn_lại phải đợi đến hơn một tháng sau mới tìm giải_pháp cho vấn_đề . 

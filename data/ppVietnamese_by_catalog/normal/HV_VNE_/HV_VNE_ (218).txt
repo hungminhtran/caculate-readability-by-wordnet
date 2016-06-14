@@ -1,0 +1,11 @@
+Lỗi IE 6 : Cài bản vá vẫn bị khai_thác 
+Microsoft đang xem_xét một lỗ_hổng mới trong trình_duyệt Internet_Explorer ( IE ) , có khả_năng cho_phép tin_tặc chạy mã nguy_hiểm trên máy_tính dùng hệ_điều_hành Windows . 
+Theo Tom_Ferris , chuyên_gia nghiên_cứu bảo_mật tại California , Mỹ , vấn_đề xảy_ra với IE 6 hoạt_động trên Windows_XP và Service_Pack 2 kể_cả đã cài tất_cả các bản vá lỗi từ trước tới nay . 
+Những trình_duyệt và hệ_điều_hành khác cũng có khả_năng bị ảnh_hưởng . 
+Ferris gửi chi_tiết về lỗ_hổng tới Microsoft từ 14/8 và hôm_qua một đại_diện của tập_đoàn này khẳng_định đã nhận được thông_báo nhưng họ vẫn chưa ghi_nhận được bất_cứ trường_hợp khai_thác nào . 
+Hãng bảo_mật Secunia ( Đan_Mạch ) cho_biết hiện_nay vẫn còn khá nhiều lỗi chưa_thể khắc_phục trong IE 6 . Chỉ trong 2 năm qua , họ đã cảnh_báo về 69 lỗ_hổng liên_quan đến IE nhưng mới chỉ có khoảng 2/3 số lỗi được vá . 
+Cuối tuần trước , trung_tâm bảo_mật SANS ( Mỹ ) cũng đưa ra cảnh_báo về một lỗi trong hệ_điều_hành Windows có_thể bị lợi_dụng để vô_hiệu_hoá các chương_trình quét virus . 
+Lỗ_hổng liên_quan đến quá_trình Windows xử_lý khoá registry trong nền_tảng hệ_điều_hành . 
+Nếu khoá registry dài hơn 254 ký_tự , hacker có_thể lợi_dụng để ẩn mã_độc và đánh_lừa phần_mềm diệt virus do chương_trình này không_thể tìm và quét những khoá registry phức_tạp , đồng_thời ứng_dụng quản_lý và sửa_chữa registry của Windows bị vô_hiệu_hoá . 
+Mitchell_Ashley , chuyên_gia công_nghệ của StillSecure ( Mỹ ) , cho_biết tin_tặc cũng có khả_năng giấu và chạy mã nguy_hiểm bằng việc bổ_sung khoá registry vào Autorun hoặc vào khoá Run . 
+Lỗi ảnh_hưởng đến Windows_2000 , XP và Service_Pack 2 . 

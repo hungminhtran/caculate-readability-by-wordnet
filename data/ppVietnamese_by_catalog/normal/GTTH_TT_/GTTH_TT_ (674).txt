@@ -1,0 +1,33 @@
+MEGA VNN : Thấp hơn " cam_kết " đến hơn ... 
+30 lần ! 
+Theo lời khách_hàng này , chất_lượng dịch_vụ ADSL có lúc thấp hơn " cam_kết " đến hơn 30 lần ! 
+Vì_sao như thế ? 
+Hiện nhà cung_cấp dịch_vụ ADSL_MegaVNN thường đầu_tư loại tổng_đài ADSL ( DSLAM ) 120 cổng , tức có_thể cung_cấp dịch_vụ cho 120 thuê_bao . 
+Về nguyên_tắc , khi tải dữ_liệu mỗi thuê_bao phải đảm_bảo tốc_độ 2 Mbps đúng như cam_kết của nhà cung_cấp dịch_vụ . 
+Nếu có khoảng 100 thuê_bao cùng lên mạng tại cùng một thời_điểm thì tổng_lượng băng_thông bị chiếm khoảng 200 Mbps . Thế nhưng theo tìm_hiểu của chúng_tôi , hiện một_số khu_vực ở TP. HCM đường truyền nối từ DSLAM - tổng_đài ADSL - đến Bras ( tạm hiểu là bộ chuyển mạch trung_tâm ) chỉ có 8Mbps . 
+Và đương_nhiên số người dùng ADSL tại một thời_điểm càng nhiều thì tốc_độ càng chậm vì băng_thông càng nhỏ hẹp . 
+Trong khi đó , đường truyền nối từ Bras đến mạng trục Internet chỉ có ba đường 155 Mbps nhưng chia_sẻ cho hơn 4.000 thuê_bao ( tất_nhiên tại một thời_điểm chỉ một tỷ_lệ nào đó trong tổng_số thuê_bao ADSL truy_cập mạng ) . 
+Hiện dịch_vụ ADSL - Mega_VNN tại TP. HCM có hơn 4.300 thuê_bao , chưa kể còn hơn 4.400 hồ_sơ xin lắp_đặt chưa được đáp_ứng . 
+Thế nhưng , số_lượng thuê_bao càng phát_triển thì chất_lượng dịch_vụ lại ngày_càng đi xuống ... 
+Đặc_biệt vào giờ cao_điểm việc tắc_nghẽn , tốc_độ truy_cập chậm_chạp lại càng rõ_ràng hơn . 
+Đó là chưa kể đến các điểm " thắt cổ chai " kéo dài tại điểm kết_nối đến mạng trục Internet và kết_nối Internet quốc_tế . 
+Ngoài_ra , cổng ra Internet quốc_tế tại TP. HCM chỉ có khoảng 300 Mbps nhưng chia_sẻ cho hàng chục nghìn thuê_bao Internet . Nghĩa_là con đường ra Internet hiện còn quá hẹp , trong khi lượng người đi trên con đường này lại quá đông . 
+Chưa hết , trong số thuê_bao dịch_vụ ADSL_MegaVNN thì các đại_lý Internet chiếm một tỷ_lệ không nhỏ . 
+Và chính những đại_lý Internet mới là những thuê_bao hút băng_thông của đường truyền khủng_khiếp nhất , với thời_gian gần như suốt ngày_đêm . 
+" Ông bưu_điện " vẫn " một_mình_một_chợ " ? 
+Đến nay Công_ty Truyền_thông FPT dốc hết lực nhưng chiếm thị_phần ở thị_trường ADSL chỉ khoảng 20 % . 
+Để chiếm được thị_phần như thế FPT phải bỏ ra một chi_phí đầu_tư khoảng 1,5 triệu USD để đầu_tư hạ_tầng mạng . 
+Thật_sự FPT chật_vật để hạch_toán bài_toán_kinh_tế " dịch_vụ ADSL " của mình . 
+Và cũng rất khó_khăn để tìm_kiếm khách_hàng vì hạ_tầng mạng còn hạn_chế , chưa phủ khắp thành_phố . 
+Trong khi đó , cho đến thời_điểm này Công_ty cổ_phần dịch_vụ bưu_chính viễn_thông Sài_Gòn ( SPT ) vẫn chưa có chủ_trương phát_triển nhanh dịch_vụ ADSL , dù biết thị_trường dịch_vụ này rất tiềm_năng . 
+SPT lợi_thế hơn cả FPT vì có sẵn hạ_tầng mạnh . 
+" Nhưng vì giá_thành dịch_vụ cao hơn gấp mấy lần giá_trần ( cước không quá 1 triệu đồng / tháng / thuê_bao ) mà Bộ Bưu_chính viễn_thông đưa ra để áp_dụng cho các thuê_bao ADSL nên chúng_tôi rất khó cung_cấp dịch_vụ rộng_rãi " - một lãnh_đạo SPT cho_biết . 
+Xem_ra thị_trường dịch_vụ ADSL rất cạnh_tranh nhưng thực_chất gần như doanh_nghiệp của ngành bưu_chính viễn_thông đang " một_mình_một_chợ " trong việc khai_thác thị_trường dịch_vụ này . 
+Nhìn vào các văn_bản quy_định về giá cước ADSL của Bộ Bưu_chính viễn_thông ( MPT ) có_thể thấy ngay một hiện_tượng không bình_thường . 
+Tất_cả dịch_vụ khác như VolP_Phone to phone , PC to phone , điện_thoại_di_động ... 
+MPT đều đưa ra giá_sàn thì tại_sao với ADSL lại đưa ra giá_trần ? 
+MPT đưa ra giá_trần hay giá_sàn có phải là tuỳ theo khả_năng chiếm_lĩnh thị_trường của Tổng_công_ty Bưu_chính viễn_thông ( VNPT ) để " đứa con đẻ " này của MPT thủ lợi nhiều nhất ? 
+MPT cần có giải_pháp nào để vừa có lợi cho người tiêu_dùng vừa có lợi cho ngân_sách quốc_gia ? 
+Đó là việc MPT hãy sớm có chính_sách và ban_hành quy_định cụ_thể , chi_tiết việc cho thuê đường_dây điện_thoại nội_hạt . 
+Trong quy_định này nhất_thiết phải đưa ra cho được giá thuê đường_dây điện_thoại nội_hạt để khai_thác ADSL . 
+Các doanh_nghiệp sẽ phát_triển ADSL trên mạng của VNPT ; đồng_thời được thuê chỗ đặt DSLAM ( tổng_đài ADSL ) ngay tại vị_trí tổng_đài điện_thoại nội_hạt của VNPT và được bảo_đảm để không bị cạnh_tranh không lành_mạnh từ phía VNPT . 

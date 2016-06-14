@@ -1,0 +1,13 @@
+Hacker giữ tài_liệu làm ' con_tin ' 
+Người sử_dụng vốn luôn thường_trực nỗi lo về virus giờ lại có thêm lý_do mới để bận_tâm - tin_tặc đã tìm ra cách khoá tài_liệu điện_tử trên máy_tính người dùng và đòi tiền chuộc qua mạng nếu muốn lấy lại . 
+Công_ty Websense ( San_Diego , Mỹ ) đã khám_phá ra âm_mưu tống_tiền này khi một khách_hàng thông_báo bị nhiễm virus khiến cho tất_cả các file , bao_gồm tài_liệu , ảnh và chương_trình bảng tính ... , bị mã_hoá . 
+Máy_tính của người đó đã bị nhiễm khi vào một trang web cài phần_mềm phá_hoại . 
+Chương_trình này khoá ít_nhất 15 loại file dữ_liệu và để lại thông_báo hướng_dẫn việc mua khoá mở tài_liệu qua e-mail . 
+Kẻ tấn_công đã yêu_cầu trả 200 USD qua một tài_khoản ngân_hàng trên Internet . Trang web đã ngay_lập_tức bị đóng_cửa , và các nhân_viên FBI cũng khẳng_định việc dùng tài_khoản ngân_hàng để nhận tiền sẽ rất dễ để dò_tìm manh_mối . 
+Nhưng đây sẽ là một nguy_cơ mới cho an_ninh mạng trong thời_gian tới , khi mà chương_trình đó được phát_triển với nhiều thủ_thuật khôn_ngoan hơn . 
+" Điều này giống như một kẻ nào đó đột_nhập vào nhà bạn , đem tất_cả đồ_đạc có giá_trị cất vào một chỗ bí_mật , và yêu_cầu bạn phải làm gì đó mới trả lại " , Oliver_Friedrichs , Giám_đốc bảo_mật của hãng Symantec ( Mỹ ) , phát_biểu . 
+" Vụ_việc càng làm tăng thêm nguy_cơ vây quanh người dùng Internet , bên cạnh việc liên_tục phải đối_mặt với spyware , virus , sâu máy_tính , e-mail lừa_đảo và những cuộc tấn_công từ_chối dịch_vụ ( DoS ) " . 
+Nhiều hãng bảo_mật và chống virus trong tuần đã nâng_cấp phần_mềm cho công_ty và khách_hàng để tránh gặp phải kiểu tấn_công mà các chuyên_gia gọi là " ransom-ware " ( phần_mềm tống_tiền ) . 
+Joe_Stewart , chuyên_gia nghiên_cứu của hãng Lurqp ( Mỹ ) , sau khi tìm_hiểu , đã khẳng_định chương_trình này thực_sự rất nguy_hiểm . 
+Ông đã mở khoá thành_công tài_liệu , nhưng vẫn lo_lắng rằng những phiên_bản nâng_cấp về sau sẽ vô_cùng khó đối_phó . 
+Paul_Bresson , phát_ngôn_viên của FPI , cho_biết cũng đã có những vụ tống_tiền lên đến hàng chục nghìn USD , đe_doạ tấn_công các website thương_mại , ảnh_hưởng đến giao_dịch mua_bán và ăn_cắp dữ_liệu của khách_hàng . 

@@ -1,0 +1,9 @@
+Windows_AntiSpyware trở_thành ' Defender ' 
+Công_cụ bảo_vệ máy_tính trước phần_mềm gián_điệp của Microsoft đã được đổi tên thành Windows_Defender , với giao_diện mới và nâng_cấp thêm khả_năng truy_tìm rootkit , chương_trình dò ký_tự bàn_phím cũng như những nguy_cơ khác . 
+Ứng_dụng này sẽ là một phần trong Vista , hệ_điều_hành tiếp_theo của Windows_XP ra_mắt năm tới . 
+Microsoft cũng sẽ cung_cấp Windows_Defender cho người sử_dụng XP dưới dạng phiên_bản update của Windows_AntiSpyware( đưa vào thử_nghiệm từ tháng 1/2005 ) . 
+Windows_AntiSpyware được thiết_kế để bảo_vệ PC chống lại spyware và rootkit , công_cụ có khả_năng hoạt_động mà không bị phần_mềm an_ninh dò ra , tiếp_tay cho hacker kiểm_soát toàn_bộ hệ_thống . 
+Chữ_ký bảo_mật , được dùng để xác_định chương_trình nguy_hiểm , cũng được phân_phối qua Windows_Update thay_vì qua một công_cụ riêng_biệt của chương_trình . 
+Hãng phần_mềm cho_biết Windows_Defender sẽ đến tay những nhà thử_nghiệm Vista trong một bản duyệt trước ( CTP ) vào cuối năm nay . 
+Microsoft trước đây dự_định phát_hành Windows_AntiSpyware_Beta 2 vào 31/12/2005 . 
+Tuy_nhiên , theo phát_ngôn_viên của tập_đoàn , thời_gian ra_mắt bản thử_nghiệm thứ hai có khả_năng sẽ phải lùi lại do Windows_Defender chưa phải một sản_phẩm hoàn_thiện . 

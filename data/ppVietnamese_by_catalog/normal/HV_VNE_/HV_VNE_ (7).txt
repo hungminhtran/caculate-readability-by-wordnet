@@ -1,0 +1,17 @@
+Để không bị hack tên_miền 
+Các trang web có_thể bị đánh cướp bất_cứ lúc nào nếu không chú_trọng đến vấn_đề bảo_mật cho tên_miền . 
+Domain có_thể bị tấn_công qua nhà cung_cấp dịch_vụ hoặc khách_hàng . 
+Nếu nhắm vào nhà cung_cấp , hacker sẽ lợi_dụng sơ_hở của người quản_trị hay lỗ_hổng của máy_chủ để chiếm quyền điều_khiển . 
+Sau đó chuyển tên_miền qua nhà cung_cấp khác . 
+Ở cấp_độ thấp hơn , kẻ tấn_công sẽ nhằm vào các reseller ( những người mua lại số_lượng lớn tên_miền từ các nhà cung_cấp gốc để bán lại cho người dùng cuối ) . 
+Tuy_nhiên , hướng tấn_công tên_miền phổ_biến nhất là nhắm vào phía khách_hàng ( chiếm khoảng 90 % các vụ đánh_cắp tên_miền ) . 
+Thủ_thuật của hình_thức này thường giống nhau là tìm cách chiếm_đoạt tài_khoản thông_qua e-mail được người dùng đăng_ký tên_miền . 
+Cách thực_hiện là gửi Trojan , cài keylogger , dùng fake log-in_mail ... 
+để trộm mật_khẩu , đặc_biệt là mật_khẩu của e-mail dùng đăng_ký tên_miền ( domain củaDiễn đàn tin_học bị cướpcũng bằng cách này ) . 
+Một phương_thức khác cũng là mạo_danh e-mail rồi gửi tới nhà cung_cấp tên_miền để yêu_cầu thay mật_khẩu mới , hay chuyển tên_miền qua nơi khác . 
+Để phòng tránh , điều quan_trọng trước_nhất là phải chọn mua tên_miền ở nơi đáng tin_cậy nhất . 
+Có câu " tiền nào của nấy " , đừng nên so_sánh vì_sao giá tên_miền của nhà cung_cấp được tín_nhiệm nhất hiện_nay - Networksolutions . com - là hơn 35 USD / năm , trong khi nhiều nơi chỉ khoảng 5-10 USD / năm . 
+Bước tiếp_theo là phải tự bảo_vệ tài_khoản tên_miền và cả e-mail dùng để đăng_ký ( hạn_chế dùng e-mail này trong các giao_dịch khác ) . 
+Cần yêu_cầu nhà cung_cấp xác_lập trạng_thái " khoá " domain và chỉ thực_hiện chuyển tên_miền khi nhận được yêu_cầu của chính người dùng thông_qua điện_thoại hoặc văn_bản , nhằm tránh bị mạo_danh . 
+Ngoài_ra , nên thường_xuyên quét kiểm_tra Trojan , virus , không nhận hay download những file lạ đính kèm e-mail , không vào các website lạ ... 
+Đặc_biệt là nên thường_xuyên kiểm_tra trạng_thái tên_miền thông_qua đăng_nhập trực_tiếp vào website nhà cung_cấp , hoặc gián_tiếp ở địa_chỉ http : / / checkdomain . com để biết hiện_trạng tên_miền của mình . 

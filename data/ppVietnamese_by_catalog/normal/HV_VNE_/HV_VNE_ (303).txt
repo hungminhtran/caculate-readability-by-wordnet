@@ -1,0 +1,9 @@
+Năm lỗi nghiêm_trọng trong Java 
+Tập_đoàn Sun_Microsystems vừa cảnh_báo thư_viện Java_Runtime_Environment ( JRE ) chứa những lỗ_hổng bảo_mật lớn , có khả_năng mở_đường cho kẻ tấn_công điều_khiển_từ_xa các ứng_dụng trên hệ_thống . 
+Sun đã công_bố ba bản khuyến_cáo riêng_biệt , khẳng_định các lỗi sẽ tạo cơ_hội cho một chương_trình ứng_dụng nhỏ ( Java_applet ) nào đó tăng quyền của nó . 
+Về sau , applet nguy_hiểm này có_thể đọc và ghi file cũng như xử_lý ứng_dụng theo quyền người dùng . 
+Bản khuyến_cáo đầu_tiên đề_cập đến lỗ_hổng xuất_hiện trong SDK , JRE 5.0 và các phiên_bản trước đó dành cho Windows , Solaris và Linux . Bản thứ hailiên quan đến 3 lỗi khi sử_dụng API của JRE . 
+Khuyến_cáo cuối_cùng nhắc tới rắc_rối trong Java_Management_Extensions ( JMX ) . 
+Cả hai tổ_chức bảo_mật Secunia ( Đan_Mạch ) và FrSIRT ( Pháp ) đều đánh_giá 5 lỗ_hổng ở mức " rất nghiêm_trọng " . 
+JRE , mã sử_dụng để xử_lý Java applet trên một hệ_thống cục_bộ , là một trong những sản_phẩm phần_mềm máy khách được phân_phối rộng_rãi nhất . 
+Nhiều phiên_bản của JRE cũng được tìm thấy trong những hệ_thống như điện_thoại_di_động . 

@@ -1,0 +1,23 @@
+Deep Burner : Chương_trình ghi đĩa nhỏ gọn , tiện_dụng 
+Tuy nhỏ gọn nhưng Deep_Burner có đầy_đủ các tính_năng như một trình ghi đĩa chuyên_nghiệp : ghi dữ_liệu lên đĩa CD / DVD , tạo đĩa Audio_CD , sao_chép , xoá và ghi theo chuẩn nén ISO . Chương_trình tương_thích mọi Windows , chạy ngay không cần cài_đặt , tải bản dùng thử tại www . deepburner . com hay tìm mua các đĩa CD phần_mềm hiện có bán trên thị_trường . 
+Cách dùng 
+1 . Ghi dữ_liệu : 
+- Bước 1 : Mở chương_trình Deep_Buner ra , ngay tại giao_diện chính của chương_trình , bạn chọn mục Create data CD / DVD . 
+Nhấn_Next để qua bước tiếp_theo . 
+- Bước 2 : Trong hộp_thoại mới có 3 mục cho bạn chọn : ghi nhiều lần lên đĩa ( Create_Multisession disk ) , ghi nhiều lần lên đĩa đã có dữ_liệu ( Append_session ) và ghi một lần ( No_multisession ) . 
+Tôi chọn Create_Multisession disk để có_thể ghi tiếp những lần sau . 
+Nhấn_Next . 
+- Bước 3 : Trong hộp_thoại mới , khung bên trái mục CD / DVD files , bạn nhấp chọn nút Add_Folder rồi duyệt đến thư_mục chứa các dữ_liệu muốn ghi . 
+Phần_Autorun cho_phép bạn xác_lập chế_độ tự chạy của đĩa CD , phần Print_Label cho_phép bạn tạo nhãn đĩa . 
+Bước 3 
+Bước 4 
+- Bước 4 : Nhấp chọn phần Burn_Disk_&gt ; Burn để bắt_đầu ghi ra đĩa . 
+2 . Ghi chuẩn Audio CD 
+- Tại giao_diện chính của chương_trình , nhấp chọn mục Create_Audio_CD . 
+Trong giao_diện mới bạn nhấp chọn nút Add track to layout , sau đó duyệt đến thư_mục chứa các bài nhạc yêu_thích mà bạn muốn ghi ra đĩa . 
+Danh_sách các bài nhạc sẽ xuất_hiện khung phía dưới , nếu thấy bài hát nào không phù_hợp , bạn nhấp chọn chúng rồi nhấn nút Remove track fromt layout . 
+Nhấn nút Burn_Disk , nhấn tiếp Burn để bắt_đầu ghi . 
+3 . Ghi đĩa CD từ File_Image chuẩn ISO 
+- Trong giao_diện chính , bạn nhấp chọn Burn_ISO_Image_&gt ; Next . 
+Trong hộp_thoại mới xuất_hiện , khung bên trái bạn chọn Copy_CD , khung bên phải mục Image_file , bạn nhấn nút ba chấm rồi duyệt đến thư_mục mở file Image để ghi lên đĩa , đánh_dấu kiểm vào tuỳ_chọn Delete image after successful burn nếu muốn xoá file image sau khi ghi đĩa xong . 
+Nhấp chuột vào nút Burn_Disk_&gt ; Burn để bắt_đầu ghi . 

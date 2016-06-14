@@ -1,0 +1,35 @@
+Hacker chuyển hướng sang ứng_dụng nghe_nhìn 
+Năm 2005 , tội_phạm mạng đã không còn quan_tâm nhiều đến các hệ_điều_hành và hướng mục_tiêu vào chương_trình truyền_thông , chia_sẻ file và ứng_dụng phần_mềm ... 
+Viện nghiên_cứu bảo_mật SANS ( Mỹ ) cho_biết phần_mềm diệt virus cũng đang trở_thành " đích_ngắm " của hacker . 
+Kẻ tấn_công quyết_định thay_đổi chiến_thuật sau khi các nhà cung_cấp dịch_vụ và hệ_điều_hành như Microsoft bắt_đầu xây_dựng hàng_rào mạnh chống virus , sâu và những nguy_cơ bảo_mật khác . 
+Trong số 20 lỗi phần_mềm bị hacker lợi_dụng nhiều nhất 2005 để thâm_nhập máy_tính xuất_hiện cả trình_duyệt Internet_Explorer , Windows_Office và Outlook_Express . 
+Thậm_chí , Mac_OS_X trở_thành chương_trình bị tấn_công nhiều nhất trong số các hệ_điều_hành Unix . 
+Những sản_phẩm như thiết_bị định_tuyến và chuyển mạch điều_khiển giao_thông mạng cũng đang nằm trong tầm_ngắm của tội_phạm . 
+" Thiết_bị mạng thường được trang_bị một hệ_điều_hành riêng và có_thể được lập_trình tương_tự máy_tính " , SANS cho_biết . 
+" Không chế được thiết_bị sẽ tạo cơ_hội cho kẻ tấn_công sở_hữu một trong những nền_tảng màu_mỡ nhất để ăn_cắp thông_tin hoặc tấn_công " . 
+Top 20 lỗi phần_mềm do SANS xếp hạng : 
+Những lỗ_hổng lớn trong Windows 
+W1 . 
+Windows_Services_W2 . 
+Internet_Explorer_W3 . 
+Windows_Libraries_W4 . 
+Microsoft_Office và Outlook_Express_W5 . 
+Lỗi cấu_hình Windows_
+Những lỗ_hổng lớn trong ứng_dụng Cross-Platform 
+C1 . Phần_mềm BackupC2 . 
+Phần_mềm diệt virusC3 . 
+Ứng_dụng PHPC4 . 
+Phần_mềm cơ_sở dữ liệuC5 . 
+Ứng_dụng chia_sẻ fileC6 . 
+Phần_mềm DNSC7 . Media_PlayerC8 . 
+Ứng_dụng tin_nhắn nhanh C9 . Trình_duyệt Mozilla và FirefoxC10 . 
+Những ứng_dụng Cross-platform khác 
+Những lỗ_hổng lớn trong hệ_thống UNIX 
+U1 . 
+Lỗi cấu_hình UNIX_U2 . 
+Mac_OS_X 
+Những lỗ_hổng lớn trong sản_phẩm mạng 
+N1 . 
+Sản_phẩm Cisco_IOS_N2 . 
+Sản_phẩm của Juniper , CheckPoint và SymantecN3 . 
+Lỗi cấu_hình thiết_bị của Cisco 

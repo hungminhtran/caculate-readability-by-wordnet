@@ -1,0 +1,75 @@
+TCCSĐT - Vấn_đề xếp hạng các đại_học ( university ) và trường đại_học ( college ) trong phạm_vi quốc_gia vốn đã có từ lâu . 
+Cách đây 26 năm , tuần_báo US_News & World_Report ( USNWR ) có sáng_kiến đầu_tiên trong việc xếp hạng các đại_học và trường đại_học Mỹ . Các xếp hạng quốc_gia Về cơ_bản , đây là một sáng_kiến cạnh_tranh trong một thị_trường truyền_thông rất khốc_liệt ở Mỹ . 
+Việc xếp hạng này nhắm tới đối_tượng độc_giả đông_đảo là học_sinh , sinh_viên và các bậc phụ_huynh . 
+Nó giúp cho lớp khách_hàng này có một đánh_giá tổng_thể về cơ_sở giáo_dục đại_học dựa trên thứ_bậc của cơ_sở đó trên thang xếp hạng . 
+Điểm_số xếp hạng được tổ_hợp từ các tiêu_chí liên_quan đến 7 dữ_liệu đầu_vào , 4 dữ_liệu về quá_trình , 4 dữ_liệu đầu_ra . 
+Bên cạnh các dữ_liệu khách_quan nói trên , còn phải tính đến một dữ_liệu chủ_quan là việc đánh_giá danh_tiếng nhà_trường trên cơ_sở thu_thập ý_kiến các nhà quản_lý của các trường khác . 
+Thành_công không_thể chối_cãi được của USNWR là đã đi đầu trong công_tác xếp hạng phức_tạp này , đã thiết_lập được nguồn dữ_liệu cốt_lõi cho việc đánh_giá , đã cung_cấp được thông_tin minh_bạch cho sinh_viên trong việc chọn trường . 
+Tuy_nhiên , đến nay , rất nhiều học_giả , nhà quản_lý và nhà nghiên_cứu vẫn phê_phán gay_gắt việc xếp hạng của USNWR trên nhiều phương_diện như sự võ_đoán trong cách chọn tiêu_chí và trọng số , độ tin_cậy của dữ_liệu , khả_năng bóp_méo thực_tế nhà_trường , tác_động tiêu_cực tới hoạt_động dạy và học . 
+Thậm_chí một loạt hiệu_trưởng các trường đại_học Mỹ , trong năm 2007 , đã lên_tiếng bất cộng_tác với USNWR trong việc trả_lời các phiếu khảo_sát . 
+Ở Anh , từ năm 1992 , báo The_Times đã công_bố hằng năm bảng xếp hạng các đại_học Anh dựa trên một_số tiêu_chí liên_quan đến chất_lượng giảng_dạy , kết_quả nghiên_cứu khoa_học , sự hài_lòng của sinh_viên , điểm trung_bình nhập_học , tỷ_lệ sinh_viên tốt_nghiệp , tỷ_lệ sinh_viên khá giỏi , tỷ_lệ sinh_viên kiếm được việc_làm sau tốt_nghiệp . 
+Nhiều báo khác như The_Guardian , Daily_Telegraph , Financial_Times_… cũng công_bố các bảng xếp hạng riêng tạo_thành một thị_trường cạnh_tranh trong xếp hạng đại_học . 
+Ngày_nay , ở khá nhiều nước trên thế_giới , việc xếp hạng đại_học đã trở_thành một hoạt_động phổ_biến và quan_trọng . 
+Mặc_dù còn nhiều tranh_cãi về phương_pháp_luận và tác_động mặt_trái của việc xếp hạng đại_học , nhưng tác_dụng tích_cực của nó trong việc chiếu X quang vào các cơ_sở giáo_dục đại_học đã khiến đại_bộ_phận các nhà chính_trị và công_chúng đi đến kết_luận rằng , giáo_dục đại_học cần tìm cách chung sống với việc xếp hạng . 
+Xu_thế xếp hạng quốc_tế Xu_thế này hình_thành ngẫu_nhiên từ cố_gắng của các nhà khoa_học Trung_Quốc muốn trả_lời một_số câu hỏi thoạt_đầu không hề liên_quan đến việc xếp hạng . 
+Đó là : 1 / thế_nào là một đại_học đẳng_cấp quốc_tế ; 2 / khoảng_cách giữa các đại_học hàng_đầu của Trung_Quốc với các đại_học đẳng_cấp quốc_tế là bao_xa . 
+Để có câu trả_lời khách_quan , chính_xác và tin_cậy , các nhà khoa_học của Đại_học Giao_thông Thượng_Hải ( SJTU ) tiến_hành khảo_sát , đánh_giá và xếp hạng các đại_học hàng_đầu thế_giới . 
+Do yêu_cầu về tính khách_quan và đo được của các tiêu_chí đánh_giá nên chất_lượng dạy và học vốn là một tiêu_chí không đo được , bị đặt ra bên ngoài việc đánh_giá . 
+Việc đánh_giá và xếp hạng quy về một chiều đo duy_nhất là thành_tựu nghiên_cứu khoa_học của đại_học , với các tiêu_chí khách_quan như số bài báo đăng trên các tạp_chí khoa_học hàng_đầu , số nhà khoa_học được trích_dẫn thường_xuyên nhất , số giải Nobel và Fields . 
+Vì thế phạm_vi khảo_sát của Đại_học Giao_thông Thượng_Hải thu lại đáng_kể , chỉ gồm khoảng 2000 đại_học trên toàn thế_giới , với kết_quả công_bố hằng năm từ 2003 đến nay là bảng xếp hạng của top 500 . Theo SJTU , đại_học đẳng_cấp quốc_tế là đại_học thuộc top 100 . 
+Trung_Quốc hiện mới có 2 đại_học hàng_đầu thuộc top 200 , 6 thuộc top 300 , 15 thuộc top 400 , 18 thuộc top 500 . Trên một phương_diện khác , báo The_Times_Higher_Education ( THE ) cho rằng , đại_học đẳng_cấp quốc_tế phải dựa trên 4 cột đỡ chính là chất_lượng giảng_dạy ; chất_lượng nghiên_cứu ; khả_năng làm_việc sau tốt_nghiệp ; tầm quốc_tế . 
+Vì vậy , THE chủ_trương một sự đánh_giá toàn_diện hơn . 
+Tuy_nhiên , bảng xếp hạng của THE không được đánh_giá cao bằng bảng xếp hạng của SJTU vì THE đưa vào một tiêu_chí mang nặng tính chủ_quan là ý_kiến đánh_giá của các chuyên_gia giáo_dục và các nhà tuyển_dụng toàn_cầu . 
+Các ý_kiến đánh_giá chủ_quan này lại được cho điểm với trọng số cao là 50 % . 
+Khá nhiều học_giả cho rằng , đây là một kiểu đánh_giá thiếu tin_cậy . 
+Mặc_dù vậy , từ 2004 đến nay , THE vẫn công_bố đều_đặn bảng xếp hạng hằng năm của các trường thuộc top 100 , top 200 … trong tổng_số khoảng 600 đại_học trên thế_giới được xem_xét để xếp hạng . 
+Với sự quan_tâm đến các đại_học đẳng_cấp quốc_tế , hiển_nhiên SJTU và THE mới tạo ra một " sân_chơi " cao_cấp dành riêng cho các đại_học nghiên_cứu có tầm_cỡ . 
+Vì vậy , cũng vào năm 2004 , Webometrics đã tạo ra một " sân_chơi " đại_chúng hơn , dành cho mọi cơ_sở giáo_dục đại_học miễn là cơ_sở đó có trang web . 
+Việc xếp hạng dựa trên 4 dữ_liệu đo được là kích_thước trang web , khả_năng nhận_diện , số_lượng các files giàu , số_lượng các tài_liệu khoa_học được công_bố trên mạng . 
+Với mức_độ phủ rộng , Webometrics đưa được vào diện khảo_sát tới hơn 16.000 cơ_sở giáo_dục đại_học thuộc 191 nước và lãnh_thổ , hằng năm 2 lần công_bố bảng xếp hạng top 4000 . Trong năm 2009 , Việt_Nam có 89 cơ_sở giáo_dục đại_học được đưa vào cơ_sở_dữ_liệu của Webometrics , trong đó 17 được xếp hạng với vị_trí rất khiêm_tốn . 
+Thứ_hạng cao nhất là Trường đại_học Bách_khoa Thành_phố Hồ_Chí_Minh ( hạng 1.522 ) , thấp nhất là Trường đại_học Kỹ_thuật công_nghệ Thành_phố Hồ_Chí_Minh ( hạng 4986 ) . 
+Cách tiếp_cận mới trong đánh_giá và xếp hạng đại_học Trong mấy năm gần đây , ở nhiều nước trên thế_giới đã hình_thành hội_chứng xếp hạng đại_học . 
+Mặc cho cảnh_báo của những người am_hiểu , rằng đây chỉ là " sân_chơi " của các đại_gia đại_học , tâm_lý được " ngồi cùng chiếu " gần như đã trở_thành một nỗi ám_ảnh toàn_cầu . 
+Việc xếp hạng đại_học vốn có một mục_tiêu cụ_thể và một chiều đo xác_định , nhưng giờ_đây dường_như đã trở_thành một hoạt_động mang mục_đích tự_thân . 
+Vì vậy , cũng giống như căn_bệnh thi gì học nấy , trong giáo_dục đại_học thế_giới đang nảy_sinh xu_hướng xếp hạng thế_nào thì hoạt_động thế nấy . 
+Chẳng_hạn muốn được có_mặt trong bảng xếp hạng của SJTU , cần tăng_cường mời giảng_viên là các nhà khoa_học được giải Nobel hoặc Field , cần có phụ_cấp ưu_đãi cho các giảng_viên có bài báo khoa_học đăng trên Nature và Science . 
+Còn muốn lọt vào bảng xếp hạng của THE thì , theo cách nói của GS Marginson , cần phát_triển du_lịch học_thuật , ưu_đãi các học_giả nước_ngoài theo chế_độ " 5 sao " . 
+Có một điều mà ai cũng hiểu là không có đại_học nào là vua trong mọi lĩnh_vực , cũng không có đại_học nào chiếm vị_trí " ngôi_báu " trong sự chọn_lựa của mọi sinh_viên . 
+Các bảng xếp hạng đại_học quốc_tế chỉ là bức tranh phiến_diện , tập_trung phản_ánh một_chiều đo của nhà_trường đại_học , chứ chưa thể_hiện hết chân_dung đa_chiều của nó . 
+Trong đó , điều đáng nói nhất là chưa phản_ánh đầy_đủ các chiều đo cốt_tử khác là giảng_dạy , học_tập và phục_vụ xã_hội . 
+Vì thế , việc xếp hạng đại_học đang dần nhường chỗ cho những lối đi mới , cách tiếp_cận mới trong đánh_giá và xếp hạng . 
+Chẳng_hạn , ở Đức , Trung_tâm phát_triển giáo_dục đại_học CHE và tuần_báo Die_Zeit đã đưa ra một hướng xếp hạng mới . 
+Điểm xuất_phát cơ_bản trong cách xếp hạng này là cho rằng , mọi xếp hạng đều mang tính chủ_quan trong việc tổ_hợp các tiêu_chí và chọn trọng số . 
+Cho đến nay , việc xếp hạng chỉ phục_vụ cho mục_đích của người xếp hạng chứ không phải người sử_dụng . 
+Vì vậy , trong tiếp_cận của CHE , các đại_học và trường đại_học chỉ được phân thành 3 nhóm tốt , trung_bình và kém . 
+Dữ_liệu về cơ_sở giáo_dục đại_học trong từng nhóm được cung_cấp đầy_đủ . 
+Việc xếp hạng các cơ_sở đó như thế_nào là do người học tự thực_hiện trên cơ_sở tự quyết_định các tiêu_chí và trọng số cần_thiết theo định_hướng của riêng mình . 
+Tuy_nhiên , có_lẽ giới học_thuật và các nhà hoạch_định chính_sách trên thế_giới đang chờ_đợi hơn cả là cố_gắng của khối EC trong việc đưa ra cách tiếp_cận mới trong xếp hạng quốc_tế . 
+Trong cách tiếp_cận này việc xếp hạng từng đại_học riêng_lẻ được thay_thế bằng việc xếp hạng từng hệ_thống đại_học giữa các quốc_gia . 
+Cách xếp hạng đơn_nhất , một chiều cũng được thay_thế bằng cách xếp hạng đa_chiều phản_ánh tính đa_dạng trong tổ_chức cũng như sứ_mệnh của các hệ_thống đại_học trên thế_giới . 
+Mục_đích của việc xếp hạng này không phải là để tạo ra người thắng , kẻ thua giữa các đại_học mà là đem lại sự đối_sánh cần_thiết giữa các hệ_thống đại_học trong việc thực_hiện sứ_mệnh chung là đáp_ứng các thách_thức mới trong bước chuyển sang nền văn_minh trí_tuệ . 
+Sự lựa_chọn của Việt_Nam Giáo_dục đại_học Việt_Nam cũng đang đứng trước bài_toán xếp hạng . 
+Tuy_nhiên , để tìm ra lời_giải của bài_toán này , cần có cách tiếp_cận sòng_phẳng trong một_số vấn_đề tuy đơn_giản nhưng nhạy_cảm . 
+Trước_hết là việc_làm rõ các loại trường đại_học của nước ta . 
+Theo Nghị_định hướng_dẫn thi_hành Luật Giáo_dục , nước ta có ba loại trường đại_học là đại_học , học_viện và trường đại_học . 
+Khái_niệm đại_học của nước ta tương_đồng với khái_niệm university trên thế_giới ; khái_niệm học_viện và trường đại_học tương_đồng với khái_niệm college . 
+Về chính_danh , hiện nước ta chỉ có 5 đại_học , bao_gồm 2 đại_học quốc_gia và 3 đại_học khu_vực , còn_lại là các học_viện và trường đại_học . 
+Tuy_nhiên , thực_tế lại khá lộn_xộn . 
+Phần_lớn các trường đại_học đều tự_xưng là đại_học trong tên_gọi bằng tiếng Việt cũng như tiếng Anh . 
+Vì vậy , cũng chẳng có gì để trách_cứ khi Webometrics , suốt nhiều năm nay , đã đặt một_số trường đại_học thành_viên ở vị_trí cao hơn cả cơ_sở mẹ là Đại_học quốc_gia Thành_phố Hồ_Chí_Minh . Dĩ_nhiên , hiện có một_số học_viện và trường đại_học nước ta đã hội đủ tiêu_chuẩn để được gọi là đại_học . 
+Nhưng để việc xếp hạng được phù_hợp và công_bằng , nhất_thiết phải có bước phân_loại đầu_tiên bằng một văn_bản pháp_quy liệt_kê rõ_ràng cơ_sở nào là đại_học , cơ_sở nào là học_viện , trường đại_học . 
+Tiếp đến lại là việc phân_loại trong nội_bộ các đại_học để làm rõ đại_học nào là đại_học nghiên_cứu . 
+Trên thế_giới , các đại_học nghiên_cứu đều có tiêu_chí riêng , trong đó có tiêu_chí về vai_trò trung_tâm của nghiên_cứu khoa_học trong các hoạt_động của nhà_trường ; tiêu_chí về tỷ_lệ cao các nghiên_cứu_sinh trong tổng_số người học trong trường . 
+Nếu xét theo các tiêu_chí này , e rằng , trước_mắt cũng như trong trung_hạn , chúng_ta chưa có đại_học nào đủ tiêu_chuẩn là đại_học nghiên_cứu . 
+Vì thế , giáo_dục đại_học Việt_Nam cần làm rõ cái lõi hợp_lý trong xếp hạng , từ đó tìm ra lối đi riêng với những lựa_chọn ưu_tiên phù_hợp . 
+Trong điều_kiện cụ_thể của nước ta hiện_nay , ưu_tiên là nâng_cao chất_lượng đào_tạo của toàn hệ_thống và vì vậy cần tập_trung vào xếp hạng quốc_gia . 
+Dự_kiến kết_quả xếp hạng này sẽ được công_bố trong năm 2009 , tuy_nhiên công_việc này còn phải vượt_qua rào_cản về việc phân_loại các đại_học và trường đại_học như đã nói ở trên , đồng_thời phải không ngừng hoàn_thiện từ năm này sang năm khác để nâng_cao chất_lượng và hiệu_quả . 
+Riêng đối_với tầm_nhìn 2020 , giáo_dục đại_học Việt_Nam chỉ nên tập_trung vào cuộc đua khu_vực , chưa nên dấn_mình trong cuộc đua thế_giới . 
+Trong xếp hạng quốc_tế , chúng_ta đều biết hiện Việt_Nam chưa có đại_học nào trong top 500 của SJTU và trong top 400 của THE . 
+Việc phấn_đấu để có thứ_hạng cao trong khối ASEAN xem_ra khả_thi hơn , tuy_rằng cũng không đơn_giản chút nào . 
+Ngoài_ra , cũng phải làm rõ các tiêu_chí xếp hạng trong nội_khối , trong đó có tính đến việc triển_khai thực_hiện " Tuyên_bố Thăng_Long - Hà_Nội về không_gian giáo_dục ASEAN " công_bố ngày 23-11-2007 tại Văn_Miếu - Quốc_Tử_Giám . 
+Để thử sức trên sân_chơi quốc_tế thì sự lựa_chọn hợp_lý hơn cả là Webometrics . 
+Với sự thâm_nhập mạnh_mẽ của ICT vào đời_sống giáo_dục , chắc_chắn trong tương_lai không xa , đây sẽ là một " sân_chơi " có_hạng về chất_lượng và hiệu_quả giáo_dục . 
+Chúng_ta lại đang có một_số lợi_thế nhất_định trên " sân_chơi " này , dù_rằng vị_trí xếp hạng còn rất khiêm_tốn . 
+Một tin_vui để chúng_ta hy_vọng và tin_tưởng : trong bảng xếp hạng về mức_độ nổi_tiếng trang web nhà_trường 2009 , của công_cụ tìm_kiếm 4 International_Colleges_and_Universities với 8.750 cơ_sở giáo_dục đại_học , thì Đại_học quốc_gia Thành_phố Hồ_Chí_Minh được xếp hạng thứ 58 , trên hẳn rất nhiều đại_học danh_tiếng khác trên thế_giới . / . 
+Phạm_Đỗ_Nhật_Tiến 

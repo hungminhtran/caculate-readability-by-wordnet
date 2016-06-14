@@ -1,0 +1,8 @@
+Người dùng Windows không nhận được bản vá lỗi 
+Hãng phần_mềm Microsoft đã sửa 3 lỗ_hổng đồ_hoạ trong hệ_điều_hành của mình nhưng không_thể chuyển các chương_trình update trong bản tin an_ninh tháng 11 tới người đăng_ký dịch_vụ cập_nhật phần_mềm SUS ( Software_Update_Services ) . 
+Bobbie_Harder , Giám_đốc chương_trình của Microsoft , thừa_nhận rằng bản nâng_cấp đáng ra phải xuất_hiện từ 5 giờ chiều ngày 8/11 , nhưng cho đến hôm_nay nó vẫn chưa đến tay khách_hàng . 
+" Chúng_tôi đã phát_hiện trục_trặc này trong SUS 1.0 và hy_vọng sẽ sớm có biện_pháp giải_quyết " , Harder cho_biết . 
+SUS là dịch_vụ phân_phối những bản vá lỗi , nâng_cấp cho sản_phẩm của Microsoft và hoạt_động tương_tự Microsoft_Windows_Update . 
+Tập_đoàn dự_định ngừng chương_trình này vào tháng 12/2006 và khuyến_khích khách_hàng chuyển sang phiên_bản mới hơn Windows_Server_Update_Services ( WSUS ) . 
+Bản tin an_ninh của Microsoft sửa lỗi trong cách hệ_điều_hành xử_lý ảnh Metafile , về mặt lý_thuyết có_thể tạo cơ_hội cho hacker kiểm_soát hệ_thống từ xa . 
+Windows_Metafile là định_dạng đồ_hoạ sử_dụng một_số ứng_dụng CAD ( thiết_kế hỗ_trợ máy_tính - computer-aided_design ) với phần mở_rộng .wfm hoặc .emf . 

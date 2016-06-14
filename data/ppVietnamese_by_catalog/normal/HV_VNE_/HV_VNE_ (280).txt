@@ -1,0 +1,11 @@
+Phát_tán virus có_thể phải chịu 50 năm tù 
+Một thanh_niên người Mỹ vừa bị FBI bắt_giữ vì truyền mã nguy_hiểm tới gần 400.000 máy_tính , trong đó có cả những hệ_thống của quân_đội , sau đó bán lại mạng PC bị khống_chế ( botnet ) này cho hacker và spa mmer để chúng tấn_công hoặc gửi thư rác . 
+Điểm khác_biệt so với những vụ khởi_tố khác chính là việc anh_chàng có tên Jeanson_James_Ancheta 20 tuổi này đã kiếm lời bằng cách kiểm_soát máy_tính nạn_nhân rồi trao_đổi cho hacker và cấy adware vào máy_tính bị nhiễm . 
+" Chúng_ta vẫn chứng_kiến nhiều vụ tội_phạm mạng thiết_lập botnet để tấn_công từ_chối dịch_vụ . 
+Đây là vụ án đầu_tiên ở Mỹ liên_quan đến hành_động trục_lợi kiểu này " , Thom_Mrozek , phát_ngôn_viên một văn_phòng luật_sư Mỹ , cho_biết . 
+" Chỉ với một lệnh , Ancheta có_thể điều hướng hàng nghìn hệ_thống tới một server khác mà anh ta đã kiểm_soát từ trước " . 
+Trong hàng_loạt những máy_tính " nằm dưới quyền " của Ancheta có một_số thuộc Trung_tâm không_chiến của hải_quân Mỹ ( Naval_Air_Warfare_Centre ) tại China_Lake , California và Cơ_quan hệ_thống thông_tin của Bộ quốc_phòng Mỹ ( Defence_Information_Systems_Agency ) . 
+Với những tội_danh cố_tình truyền mã nguy_hiểm tới máy_tính đã được bảo_vệ , tải code vào hệ_thống thuộc chính_phủ , truy_cập trái_phép để thực_hiện lừa_đảo và rửa_tiền , Ancheta có_thể sẽ phải đối_mặt với mức phạt cao nhất 50 năm tù . 
+Tuy_nhiên , có khả_năng anh ta sẽ được giảm nhẹ một_số tội . 
+Toà_án cũng thu_hồi hơn 60.000 USD tiền_mặt , một xe BMW và những thiết_bị máy_tính mà Ancheta đã sử_dụng để thực_hiện âm_mưu . 
+Các công_tố_viên từ_chối nêu tên công_ty đã trả tiền cho Ancheta và khẳng_định những hãng đó không biết họ đã vô_tình phá luật . 

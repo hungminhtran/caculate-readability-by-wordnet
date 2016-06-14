@@ -1,0 +1,18 @@
+Tuy 4 mà 1 , tuy 1 mà 4 
+IOGear giới_thiệu một bộ công_cụ chuyển_đổi tuần_tự có_thể giúp bạn giải_quyết vấn_đề trên . 
+Có tên là MiniView_USB_KVM_Switch , bộ chuyển_đổi này cho_phép bạn sử_dụng xen_kẽ giữa 4 máy_tính với chỉ một bộ thiết_bị_ngoại_vi ( màn_hình , bàn_phím , chuột , loa … ) duy_nhất . 
+Sản_phẩm này cho_phép bạn tối_ưu_hoá vùng không_gian làm_việc trong nhà bạn , không_những thế đây còn là một giải_pháp cho một_số công_việc đặc_thù . 
+Bạn Trần_Thiện_Thanh , hiện đang sống và học_tập tại Mỹ cũng đã từng phải rất mất_công khi muốn điều_khiển , giám_sát hoạt_động của một mạng 6 máy_tính tại phòng thí_nghiệm nhỏ của riêng mình . 
+Sơ_đồ nguyên_tắc hoạt_động của KVM USB Bạn cho_biết : " Lúc đầu , tôi chỉ có 2 màn_hình nhỏ ( 14 inch ) , hai bộ bàn_phím , chuột , do vậy tính ra chỉ có_thể theo_dõi đồng_thời hai máy qua_lại . 
+Nói_chung cũng đủ phục_vụ cho việc học , nhưng rất mất thời_gian và bất_tiện vì phải tháo lắp các thiết_bị_ngoại_vi liên_miên " . 
+" Một thiết_bị như KVM_Switch đỡ cho tôi rất nhiều công_sức . 
+Tôi có_thể ngồi một chỗ và làm_việc thoải_mái với cả 6 máy_tính , thế nhưng , lý_tưởng nhất vẫn là có đủ không_gian cho 6 bộ máy_tính hoàn_chỉnh . 
+Một_số công_việc cần theo_dõi và so_sánh " 
+KVM_Switch thực_chất là một bộ chuyển_tiếp tuần_tự . 
+Chuột và bàn_phím sử_dụng giao_tiếp USB với Switch . 
+Switch nối trực_tiếp với 4 máy_tính qua 4 đường USB . 
+Màn_hình thì có khe cắm riêng . 
+Tại Việt_Nam , bạn có_thể hỏi thêm thông_tin về thiết_bị trên các cửa_hàng như Phong_Vũ . Hiện chỉ có thiết_bị giao_tiếp dùng hệ các cable nối , chưa có thiết_bị hổ trợ USB . 
+Thiết_bị dùng cable có_thể xuất_hiện hiện_tượng " trễ " đặt biệc trên một_số các ứng_dụng đòi_hỏi tốc_độ chuyển hình và thao_tác nhanh . 
+Theo IOGear thì KVM_USB sẽ khắc_phục được các yếu_điểm này , đồng_thời thao_tác cài_đặt và sử_dụng nhanh_chóng và gọn_gàng hơn . 
+Nói_chung khi công_việc đòi_hỏi bạn phải theo_dõi công_việc trên nhiều máy_tính đồng_thời , bạn sẽ tìm thấy nhiều sự tiện_dụng không ngờ với bộ chuyển_tiếp USB KVM . 

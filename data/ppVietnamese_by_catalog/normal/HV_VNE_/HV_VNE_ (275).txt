@@ -1,0 +1,14 @@
+Lỗi trong một loạt công_cụ quét virus phổ_biến 
+Theo chuyên_gia bảo_mật người Isarel_Andrey_Bayora , bằng việc đưa thêm một_số dữ_liệu mà ông gọi là " Magic_Byte " vào file nguy_hiểm , kẻ tấn_công có_thể qua_mặt nhiều hệ_thống dò_tìm virus . 
+Vấn_đề này ảnh_hưởng đến một loạt sản_phẩm bảo_mật , trong đó có phần_mềm của Trend_Micro , McAfee , Computer_Associates ( CA ) và Kaspersky . 
+Bayora cũng liệt_kê một_số chương_trình không bị ảnh_hưởng như của Symantec , F-Secure và BitDefender . 
+" Đây là một trong những lỗ_hổng bảo_mật nghiêm_trọng nhất được phát_hiện trong thời_gian qua vì nó ảnh_hưởng đến một loạt công_cụ quét virus " , Bayora nhận_xét . 
+Công_nghệ bảo_mật hiện phổ_biến rộng trong máy_tính , server , mạng và thiết_bị di_động . 
+Do đó , chúng đang trở_thành mục_tiêu tấn_công của tội_phạm . 
+Tuy_nhiên , trong trường_hợp Bayora nêu , một_số chuyên_gia không coi đây là một lỗi chương_trình . 
+" Chữ_ký trong công_cụ bảo_mật giống như một cuốn từ_điển về những virus đã biết . 
+Nếu một nguy_cơ mới được phát_hiện trong quá_trình dò , một chữ_ký mới sẽ được thêm vào . 
+Việc Bayora chỉnh_sửa virus và cho rằng phần_mềm không_thể dò ra là chưa xác_đáng . 
+Hầu_hết virus hiện_nay được thay_đổi theo cách này và CA coi chúng là những biến_thể mới " , Ken_Williams , đại_diện của CA , nói . 
+Tuy_vậy , Kaspersky và Trend_Micro lại coi Magic_Byte là lỗi phần_mềm và đang tiến_hành nâng_cấp . 
+McAfee chưa đưa ra lời bình_luận cho vấn_đề trên . 

@@ -1,0 +1,18 @@
+Virus_Cabir lây_lan sang Pháp và Nhật 
+Với việc xuất_hiện tại 2 nước nói trên , tổng_số địa_điểm mà sâu điện_thoại_di_động này có_mặt đã lên tới 16 . Tuy_nhiên , theo hãng bảo_mật Phần_Lan_F-Secure , Cabir vẫn chỉ là một chương_trình phát_tán chậm và nguy_cơ gây hại còn thấp do cơ_chế lây_lan của nó . 
+Văn_phòng đại_diện của F-Secure tại Nhật cho_biết một du_khách nước này khi tới HongKong hồi háng 2 đã để Cabir xâm_nhập vào chiếc Vodafone_Group_702NK của mình . 
+Người này sau đó đã đem thiết_bị về nước và mang tới một hàng sửa_chữa sau khi phát_hiện pin của máy bị hao rất nhanh . 
+Cũng trong tháng qua , một khách tham_dự triển_lãm viễn_thông 3GSM tại Cannes ( Pháp ) cũng thông_báo cho F-Secure việc điện_thoại của ông ta bị nhiễm Cabir . Cabir phát_tán trên điện_thoại_di_động có trang_bị tính_năng kết_nối không dây Bluetooth và dùng hệ_điều_hành Symbian , trong đó có các loại điện_thoại Series 60 của Siemens , Nokia,&_Virus này xuất_hiện lần đầu_tiên là tháng 6 năm_ngoái , do nhóm tác_giả có tên 29a tung ra dưới dạng một chương_trình mang tính chứng_minh khả_năng tấn_công của virus trên thiết_bị liên_lạc bỏ_túi . 
+Cabir không cài phần_mềm phá_hoại vào thiết_bị nhưng làm thay_đổi cấu_hình máy , tự sao_chép vào các thư_mục ẩn và làm hiển_thị thông_điệp Caribe hoặc Cariba-VZ-29a . Tháng 8/2004 , phiên_bản Cabir đầu_tiên được ghi_nhận tại Philippines , sau đó lan sang Singapore , Các tiểu_vương_quốc Ảrập thống_nhất , Trung_Quốc , Ấn_Độ,&và mới_đây là Mỹ . 
+Nguyên_nhân lây_lan chủ_yếu là do khách du_lịch đi nước_ngoài và đem máy bị nhiễm virus về nước . 
+Mặc_dù địa_bàn của Cabir đã mở_rộng đáng_kể , khả_năng phát_tán thành_công của nó vẫn là rất hạn_chế nếu so với virus e-mail trên Internet . Sự xuất_hiện của Cabir tại nhiều nước thực_ra không có gì ghê_gớm lắm . 
+Virus này đã tồn_tại 9 tháng và mới chỉ có_mặt tại 16 nước . 
+Trong khi đó , một sâu e-mail có_thể làm được điều này chỉ trong 10 phút , Mikko_Hypponen , Giám_đốc nghiên_cứu của F-Secure , nhận_định . 
+Điện_thoại chỉ có_thể bị nhiễm Cabir nếu nằm trong tầm sóng của nguồn phát_tán và chủ máy phải click lệnh download file Cabir ( thậm_chí nhiều lần ) thì nó mới xâm_nhập được . 
+Thông_thường , người có điện_thoại sẽ nhận được một thông_báo lỗi hoặc cảnh_báo . 
+Click vào đó cho đến khi những thông_báo này ngừng xuất_hiện về cơ_bản cũng đồng_nghĩa với việc chấp_nhận cho virus chui vào máy . 
+Dấu_hiệu dễ nhận_thấy nhất khi điện_thoại bị dính Cabir là sự sụt giảm rất nhanh về thời_lượng pin , từ vài ngày xuống còn khoảng 30 phút . 
+Theo chuyên_gia Hypponen , Cabir đã chứng_minh một thực_tế : các thiết_bị di_động là một nền rất hiệu_quả cho việc phát_tán các phần_mềm tấn_công . 
+Những virus lây_lan trên thiết_bị di_động bằng con đường tin_nhắn SMS hoặc dùng danh_bạ liên_lạc trong máy để xác_định mục_tiêu sẽ có_thể phát_tán nhanh hơn Cabir nhiều . 
+Khác với hệ_thống cập_nhật bản vá lỗi phần_mềm cho máy_tính như Microsoft đang áp_dụng đối_với sản_phẩm của họ , các công_ty cung_cấp hệ_điều_hành điện_thoại_di_động không có một cơ_chế tương_tự để nhanh_chóng phát_hành bản nâng_cấp cho khách_hàng . 
+Thay vào đó , người tiêu_dùng thường phải đem máy_ra tiệm sửa_chữa để cài phần_mềm khắc_phục . 

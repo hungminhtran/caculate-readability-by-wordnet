@@ -1,0 +1,19 @@
+Virus 2005 : Quy_mô nhỏ , ảnh_hưởng cao 
+Xét về bề nổi , 2005 có_vẻ là một năm yên_bình cho bảo_mật máy_tính bởi chỉ có 6 vụ bùng_phát virus gây thiệt_hại hệ_thống Windows trên diện rộng trong khi năm 2004 là 33 trường_hợp . 
+" Hiện_nay , những ' đại_dịch ' virus PC đã giảm đáng_kể trên toàn thế_giới " , Kevin_Hogan , Giám_đốc phản_ứng bảo_mật của Symantec ( Mỹ ) , nói . 
+" Đa_số các hacker đã quyết_định chấm_dứt hành_động phát_tán phần_mềm nguy_hiểm tới hàng nghìn tài_khoản e-mail cùng lúc " . 
+Tuy_nhiên , đây không phải là dấu_hiệu đáng mừng . 
+Thống_kê cuối năm của hãng bảo_mật Phần_Lan F-Secure cho_thấy số vụ khai_thác quy_mô lớn giảm nhưng chương_trình chứa mã_độc tại tăng đột_biến . 
+Tương_tự , công_ty diệt virus của Anh_Sophos cũng ghi_nhận 1.940 biến_thể mới tính riêng trong tháng 11/2005 - con_số kỷ_lục từ khi hãng này bắt_đầu thiết_lập hồ_sơ virus . 
+Xu_hướng tăng phiên_bản mới của virus cũ còn được thể_hiện qua danh_sách 20 virus của năm do hãng Kaspersky ( Nga ) xếp hạng , trong đó sâu Mytob chiếm tới một nửa ( 9 vị_trí ) . 
+Như vậy , thay_vì cố làm lây_lan càng nhiều hệ_thống máy_tính càng tốt , tác_giả virus giờ đang chỉnh_sửa mã nhằm tấn_công những nhóm nhỏ người dùng khác nhau , thường là khách_hàng nhà_băng hoặc nhân_viên của một tổ_chức đơn_lẻ . 
+Hogan cho_biết chỉ có duy_nhất một manh_mối gián_tiếp trong năm 2004 cho_thấy tội_phạm mạng nhúng_tay vào âm_mưu phát_tán virus , spam và phishing . 
+Nhưng năm nay tình_hình đã phát_triển theo chiều_hướng tiêu_cực . 
+" Đã xuất_hiện nhiều chứng_cứ rất rõ_ràng cho_thấy phần_lớn các vụ tấn_công bằng chương_trình nguy_hiểm trong năm nay là vì tiền " , Hogan kết_luận . 
+Không_chỉ tác_giả viết virus , các nhóm phishing cũng sàng_lọc phương_pháp để tăng khả_năng thành_công . 
+Trong tháng 8 , khách_hàng của nhà_băng Nordea ở Thuỵ_Sỹ đã nhận được một e-mail bằng ngôn_ngữ nước này hướng họ tới một website giả_mạo để ăn_cắp mã_số an_ninh . 
+Phát_hiện ra âm_mưu trên , Nordea đã đóng_cửa giao_dịch trực_tuyến để đảm_bảo tiền không bị chuyển_khoản trái_phép . 
+Virus còn được sử_dụng để tấn_công game_thủ và ăn_cắp tài_khoản của người chơi như trong trường_hợp game Lineage II . Năm 2005 cũng chứng_kiến sự ra_đời của những băng_nhóm tội_phạm công_nghệ cao , kiếm lời bằng việc kiểm_soát máy_tính để tung ra pop_up hoặc điều hướng người sử_dụng tới site nhất_định và nhận tiền_công từ một_vài công_ty quảng_cáo . 
+Hãng bảo_mật trực_tuyến ScanSafe cũng cho_biết số spyware họ chặn được đã nhân đôi mỗi tháng từ khi bắt_đầu dịch_vụ đầu 2005 . Nguy_cơ cuối_cùng là sự nổi lên những cuộc tấn_công hướng vào phần_mềm bảo_mật . 
+Rất nhiều trong số các chương_trình bảo_vệ máy_tính như firewall , chương_trình diệt virus ... 
+là do các nhóm hacker mạo_danh . 

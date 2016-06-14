@@ -1,0 +1,17 @@
+Chương_trình máy_tính được lưu ở đâu ? 
+Khi làm_việc với máy_tính , có_thể em muốn lưu kết_quả để dùng lại . 
+Chẳng_hạn , lưu những bức tranh đã vẽ hay bài thơ , bài văn đã soạn_thảo để sau đó mở lại xem , chỉnh_sửa hay in ra . 
+Đĩa_cứng 
+Các chương_trình và thông_tin khác ( trong đó có kết_quả làm_việc ) được lưu trên các thiết_bị lưu_trữ . 
+Dưới đây chúng_ta sẽ làm_quen với một_số thiết_bị lưu_trữ thông_dụng . 
+Chương_trình và thông_tin quan_trọng thường được lưu trên đĩa_cứng . 
+Đĩa_cứng là thiết_bị lưu_trữ quan_trọng nhất . 
+Đĩa_cứng được lắp_đặt trong thân máy_tính ( H . 
+7 ) . 
+Đĩa CD và thiết_bị nhớ flash 
+Để thuận_tiện cho việc trao_đổi , thông_tin còn được ghi trong đĩa CD ( đọc là xi-đi ) hoặc trong thiết_bị nhớ flash ( đọc là ph-lats ) và được lưu vào máy_tính khi cần_thiết . 
+Đĩa CD và thiết_bị nhớ flash có_thể được lắp vào máy_tính để sử_dụng hoặc tháo ra khỏi máy_tính một_cách dễ_dàng , thuận_tiện . 
+Khi làm_việc với máy_tính , ta thường mang theo đĩa CD hoặc thiết_bị nhớ flash để tiện sử_dụng . 
+Tránh để các thiết_bị lưu_trữ bị rơi , bị va_đập và không để ở nơi ẩm hoặc nóng quá . 
+Cần bảo_quản để đĩa CD không bị cong vênh , bị xước hay bám bụi . 
+Lưu_ý thiết_bị nhớ flash có thế bị hỏng nếu bị ướt . 

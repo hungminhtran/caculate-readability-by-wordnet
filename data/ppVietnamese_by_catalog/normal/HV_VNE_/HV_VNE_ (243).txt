@@ -1,0 +1,13 @@
+Virus tấn_công bộ_ba Google , Yahoo và MSN 
+Các chuyên_gia bảo_mật đã khám_phá một chương_trình nguy_hiểm hướng người sử_dụng tới trang web giả giống_hệt 3 trang tìm_kiếm nổi_tiếng nhất hiện_nay , đồng_thời sâu này còn có khả_năng cài thanh công_cụ Google giả vào máy_tính nạn_nhân . 
+PC sẽ bị nhiễm virus có tên PremiumSearch khi chủ_nhân vào một_số trang khiêu_dâm hoặc chuyên cung_cấp phần_mềm lậu . 
+Hãng bảo_mật Panda cho_biết rất khó thống_kê số máy_tính đã bị ảnh_hưởng . 
+Khi nạn_nhân định mở trang tìm_kiếm Google , Yahoo hoặc MSN , họ sẽ lập_tức bị chuyển sang website khác với giao_diện không thay_đổi nhưng kết_quả đã được chỉnh_sửa nhằm quảng_cáo cho một_số công_ty nhất_định . 
+Đây là một thủ_đoạn kinh_doanh , một kiểu phạm tội có tổ_chức bởi chúng đang kiếm lời từ nó , Patrick_Hinojosa , Giám_đốc kỹ_thuật của Panda , quả_quyết . 
+Những trang web giả_mạo này có máy_chủ được đặt tại Mỹ nhưng Hinojosa từ_chối tiết_lộ tên nhà cung_cấp dịch_vụ Internet . Panda cũng đã gửi thông_báo tới những cơ_quan có thẩm_quyền , trong đó có FBI . 
+Trong khi đó , một chương_trình nguy_hiểm có khả_năng khai_thác lỗ_hổng chưa được vá trong gói ứng_dụng văn_phòng Microsoft_Office lại mới xuất_hiện , cho_phép kẻ tấn_công trưng_dụng máy_tính bị nhiễm vào đội quân zombie của chúng . 
+Loại_Trojan mà hãng bảo_mật Symantec gọi là Backdoor . Hesive này lợi_dụng lỗ_hổng của cơ_sở_dữ_liệu Jet_Database . Nó ẩn trong một tệp Microsoft_Access và khi chạy trên hệ_thống lỗi , nó sẽ lập_tức mở cổng hậu cho kẻ tấn_công điều_khiển_từ_xa toàn_bộ hệ_thống . 
+Symantec khẳng_định chương_trình này không phát_tán rộng . 
+Trong khi đó , công_ty bảo_mật Secunia ( Đan_Mạch ) xếp Backdoor . Hesive vào hàng rất nghiêm_trọng và khuyến_cáo : Nó có_thể chạy mã khai_thác sau khi lừa người sử_dụng mở file có đuôi .mdb trong Microsoft_Access . 
+Microsoft đã thừa_nhận sự hiện_diện của Trojan nói trên và đang tiến_hành nghiên_cứu nâng_cấp gói ứng_dụng văn_phòng của họ . 
+Dù lỗ_hổng đã được phát_hiện từ tháng 4 , đây là trường_hợp khai_thác đầu_tiên được ghi_nhận . 

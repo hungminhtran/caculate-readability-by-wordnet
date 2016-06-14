@@ -1,0 +1,11 @@
+Tấn_công máy_tính Windows_2000 qua địa_chỉ IP 
+Một lỗ_hổng nghiêm_trọng được tìm thấy trong lõi hệ_điều_hành phổ_biến nhất của Microsoft , khiến nó mất hoàn_toàn khả_năng hoạt_động cho đến khi được vá lỗi . 
+Marc_Maiffret , Trưởng nhóm nghiên_cứu tại hãng bảo_mật eEye ( Mỹ ) , cho_biết lỗ_hổng trong hệ_điều_hành này có_thể tạo cơ_hội cho những kẻ tấn_công từ xa xâm_nhập vào PC qua địa_chỉ IP mà không cần bất_cứ hành_động hay sự can_thiệp nào từ phía người dùng máy_tính . 
+" Vấn_đề nan_giải nhất ở đây là không_thể tắt thành_phần bị lỗi này " , Maiffret nói . 
+" Nó luôn ở trạng_thái hoạt_động . 
+Người dùng không_thể gỡ bỏ , cũng không_thể cài lại " . 
+Lỗ_hổng xảy_ra với Windows_2000 , những Maiffret lưu_ý rằng họ vẫn đang trong quá_trình thử_nghiệm và có nhiều dấu_hiệu cho_thấy những phiên_bản khác cũng có khả_năng bị ảnh_hưởng . 
+eEye từ_chối cung_cấp thêm thông_tin theo nguyên_tắc " không mô_tả chi_tiết kỹ_thuật lỗ_hổng cho đến khi nhà sản_xuất phần_mềm đưa ra bản vá lỗi hoặc lời khuyên " . 
+eEye cũng đề_cập đến một vấn_đề trong Internet_Explorer cho_phép tin_tặc thực_hiện cuộc tấn_công làm tràn bộ đệm khi người dùng vô_tình vào một trang chứa mã_độc . 
+Lỗi này được xếp vào loại " rất nguy_hiểm " , ảnh_hưởng đến Internet_Explorer , Windows_XP , SP1 , Windows_2003 và Windows_2000 . Đại_diện của Microsoft cho_biết họ sẽ sớm đưa ra nhận_định về thông_tin mà eEye cung_cấp hôm_qua . 
+" Chúng_tôi đang tìm_hiểu và sẽ cố_gắng bảo_vệ khách_hàng như một phản_ứng bảo_mật thông_thường " , một đại_diện của Microsoft nói . 

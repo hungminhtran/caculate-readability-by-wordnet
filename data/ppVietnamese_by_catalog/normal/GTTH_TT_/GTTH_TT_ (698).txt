@@ -1,0 +1,55 @@
+Google : Đam_mê và thành_đạt 
+Chuyện xảy_ra cách đây gần 10 năm , vào năm 1995 , khi Sergey_Brin ( gốc Nga ) gặp Larry_Page tại Đại_học Stanford trong chương_trình luận_án tiến_sĩ khoa_học máy_tính . 
+Họ bắt_đầu thích_thú ứng_dụng tìm_kiếm bằng liên_kết trang web với nhau . 
+Họ gọi dự_án mình là " BackRub " . 
+Nỗi đam_mê kỹ_thuật tìm_kiếm đã ngốn hết thời_giờ và họ quyết_tâm thành_lập " công_ty " ngay trong phòng ký_túc_xá Stanford . 
+Sau đó , họ quyết_định nghỉ học và dời " công_ty " đến cái gara thuê từ người bạn Susan_Wojcicki với giá chính họ đề_nghị là 1.700 USD / tháng . 
+" Tôi nhớ lúc đó mình thậm_chí còn nhắc họ phải thường_xuyên đổ rác ! " - lời kể của Susan_Wojcicki . 
+Đã có quá nhiều bài viết về Google nhưng dường_như vẫn chưa hết chuyện về trang web tìm_kiếm số_một thế_giới này ( một trong những bài viết gần đây là tuần_báo Newsweek số_đề ngày 12-4-2004 ) . 
+Mỗi phút , trên khắp thế_giới có hơn 138.000 cuộc tìm_kiếm thông_tin bằng 90 ngôn_ngữ trên Google ; có nghĩa là mỗi ngày có hơn 200 triệu cú gõ vào ô tìm_kiếm Google . 
+Có_thể xem Google là kho thông_tin khổng_lồ nhất hiện_nay , với 4,28 tỷ trang web và 880 triệu hình_ảnh . 
+Nếu lật mỗi trang trung_bình một phút , bạn phải mất 5.707 tỷ năm mới đến trang cuối của " bộ sách " này . 
+Mới_đây , ngày 31-3-2004 , Google lại cho_biết họ sắp tung ra dịch_vụ email miễn_phí ( gọi là Gmail ) với dung_lượng khổng_lồ ( 1 gigabyte – gấp 250 lần so với Yahoo_Mail và 500 lần so với Hotmail ! ) . 
+Câu_chuyện Google là câu_chuyện về sự thành_công đáng phục của hai chàng trai trẻ ( Larry_Page 31 tuổi và Sergey_Brin 30 tuổi ) ... 
+Thoạt_đầu , Susan_Wojcicki đề_nghị thuê 1.500 USD / tháng kèm một cổ_phần nhỏ trong " công_ty " , nhưng Brin và Page chỉ chấp_nhận nâng giá thuê lên 1.700 USD và không cho Susan_Wojcicki dính_dáng gì vào " công_ty " của họ . 
+Trong thực_tế , Susan_Wojcicki cũng không tin_tưởng khả_năng thành_công của Brin và Page . 
+Thời_điểm đó khi hai cậu sinh_viên bỏ ngang Stanford gần như không có đồng_xu lận_lưng lại ôm tham_vọng lớn , trang web tìm_kiếm Inktomi đã trị_giá 20 tỷ USD . 
+Tuy_nhiên , một năm sau khi chính_thức thành_lập Google_Technologies ( tháng 9-1998 ) từ khoản vay ban_đầu 1 triệu USD từ bạn_bè và gia_đình , Brin và Page đã liên_tục phát_triển công_ty . 
+Sáu tháng sau , họ gom được 25 triệu USD vốn và tổ_chức guồng_máy hoạt_động bài_bản . 
+Cậu bạn_học cũ từ Stanford_Craig_Silverstein là người đầu_tiên trong " ban giám_đốc " . 
+Sau đó , với thành_công ngày_càng khẳng_định của Google , Wojcicki cũng bỏ hãng sản_xuất chip Intel để về làm_việc cho Brin và Page ( hiện cô là giám_đốc phụ_trách quản_lý sản_phẩm ) . 
+Bây_giờ thì Google đã trở_thành công_ty khổng_lồ , tổng_hành_dinh Googleplex nằm tại Mountain_View ( California ) , với hơn 1.000 nhân_viên và 15 chi_nhánh thế_giới ( trong Googleplex , thức_ăn và đồ uống được phục_vụ miễn_phí ) . 
+Tháng 2-2003 , Google mua Pyra_Labs ( nơi sở_hữu Blogger , một trong website tiên_phong trong lưu_trữ các địa_chỉ Internet )._Tháng 10-2003 , với sự khẳng_định vị_trí Google trong thế_giới số_hoá , Microsoft đã mò đến với đề_nghị mua nhưng Google từ_chối ( đầu năm 2004 , Google đã thuê Morgan_Stanley và Goldman_Sachs để giúp phát_hành cổ_phiếu trên thị_trường chứng_khoán , có_thể giúp đem lại 4 tỷ USD , nâng số vốn Google lên 12 tỷ USD – theo Forbes 1-4-2004 ) . 
+Với trang web hỗ_trợ tìm_kiếm hoàn_toàn miễn_phí , Google chỉ " sống " nhờ quảng_cáo ( doanh_thu khoảng 1 tỷ USD / năm ) và những gì họ thực_hiện đã và đang tạo ra cuộc cách_mạng trong quảng_cáo trực_tuyến – nhận_xét của chuyên_san kinh_tế Fortune ( 17-3-2004 ) . 
+Theo Fortune , hiện có 150.000 công_ty đang sử_dụng hệ_thống quảng_cáo của Google . 
+Cuộc " cách_mạng " ở đây chính là hình_thức quảng_cáo mà trong đó công_ty quảng_cáo chỉ trả tiền cho Google khi có người truy_cập click vào mẩu quảng_cáo của họ . 
+Thành_công Google đã kích_thích sự bùng_nổ các trang web tìm_kiếm mà doanh_thu toàn_cầu có_thể đạt đến 8,9 tỷ USD vào năm 2007 ( so với 2,6 tỷ USD hiện_nay ) . 
+Hiện_tại , Yahoo đã đầu_tư 1 tỷ USD cho kỹ_thuật hỗ_trợ tìm_kiếm mới nhằm giật lại thị_phần quảng_cáo của Google và Microsoft cũng có chiến_lược tương_tự . 
+Thế_giới số_hoá của Google 
+Google có nhiều kỹ_thuật hỗ_trợ mà các website tìm_kiếm khác không có , chẳng_hạn nút " I’m feeling lucky " ( nằm sát_nút " Google_Search " ) . 
+Khi gõ từ cân tìm_kiếm và nhấn vào " I’m feeling lucky " , bạn sẽ được dẫn trực_tiếp đến trang web đó ( chứ không_chỉ cung_cấp tên đường dẫn đến trang web ) . 
+Một trong những cải_tiến nữa của Google là Froogle ( tung ra vào tháng 12-2003 ) , nơi cung_cấp các địa_chỉ siêu_thị trực_tuyến . 
+Đó là chưa kể Google_News , với phần cung_cấp tin thời_sự quốc_tế nhanh không thua gì Yahoo_News . 
+Tất_cả đều nhờ có hơn 10.000 máy_tính nối mạng tại Googleplex , giúp " quét " 4,28 tỷ trang web và phân_loại thành hàng ngàn danh_sách phù_hợp " từ_khoá " mà bạn gõ vào ô tìm_kiếm . 
+Sự phân_loại này xảy_ra trong 500 mily giây và do đó hệ_thống máy_tính Google có_thể giải_quyết 7 triệu thắc_mắc mỗi giờ . 
+Bí_quyết cỗ máy tìm_kiếm Google nằm ở thuật_toán gọi là PageRank ( đặt theo tên Larry_Page ) giúp đánh_giá mức_độ quan_trọng của thông_tin để đặt ưu_tiên thông_tin này trước thông_tin kia . 
+Sự phân_loại tầm quan_trọng thông_tin của PageRank còn căn_cứ vào tỷ_lệ truy_cập . 
+Do vậy , trang web nào được truy_cập thường_xuyên hơn sẽ được xếp ở trên trang web được truy_cập ít hơn . 
+Tháng 3-2004 , Google tung ra thêm một phần của Google_Labs , với Google_Web_Alerts – công_cụ giúp gửi email báo cho bạn biết khi nào có thông_tin mới về loại yêu_cầu . 
+Có rất nhiều chuyện kể về sự bất_ngờ đem lại từ Google . 
+Một lần , Orey_Steinmann tại Los_Angeles tò_mò gõ thử tên mình vào Google . 
+Thật bất_ngờ , Orey_Steinmann phát_hiện mình được liệt_kê tại một website Canada chuyên về trẻ thất_lạc ! 
+Google hiện có 4,28 tỷ trang web và 880 triệu hình_ảnh Sau cuộc điều_tra từ thông_tin báo của Orey_Steinmann , cảnh_sát đã bắt " người mẹ " Gisele_Marie_Goudreault , kẻ bắt_cóc Orey_Steinmann hồi nhỏ tại Canada và đem về Mỹ nuôi ( New_York_Times 14-3-2004 ) . 
+Một trường_hợp khác : sau khi bị mất_trộm năm cây guitar điện tại căn_hộ mình ở San_Diego , Robert_McLaughlin đã dò trên Google_Image và phát_hiện ảnh bộ guitar mình đang được rao_bán_đấu_giá ! 
+Tuy_nhiên , chắc_chắn bạn sẽ không phản_đối khi có người nói rằng Google đôi_khi chẳng làm nên tích_sự gì . 
+Điều này không sai . 
+Bất_cứ ai sử_dụng thường_xuyên cũng nhận_thấy Google nhiều lúc không hề " hiểu " được nhu_cầu người sử_dụng ( đặc_biệt ở trường_hợp tìm_kiếm ảnh ) . 
+Hãy thử gõ từ " apple tree " ( cây_táo ) , bạn sẽ có 2,4 triệu kết_quả tìm_kiếm ! 
+Vài năm tới , thế_giới trực_tuyến sẽ còn phát_triển đến đâu nữa ? 
+Theo Newsweek , vài xu_hướng mới sẽ là : 1 . 
+Cung_cấp ( qua trang web tìm_kiếm ) thông_tin bề sâu . 
+Siêu_thị trực_tuyến Amazon đã làm điều này cực tốt ( khi bạn click tìm một quyển sách , Amazon sẽ cung_cấp loạt sách có cùng chủ_đề rất sát ) . 
+2 . Cung_cấp truyền_thông đa_phương_tiện ( ảnh và âm_thanh ) . 
+3 . Cá nhân_hoá ( trang web hỗ_trợ tìm_kiếm có_thể " hiểu " được sở_thích xe_hơi của bạn khi chỉ cần thấy bạn tìm từ " Jaguar " ) . 
+4 . Địa_phương_hoá ( cung_cấp bản_đồ và địa_điểm cụ_thể , chẳng_hạn khi tìm một nhà_hàng ) . 
+5 . Thông_minh nhân_tạo ( công_cụ hỗ_trợ tìm_kiếm có kiến_thức ngữ_nghĩa_học như một thủ_thư ) . 

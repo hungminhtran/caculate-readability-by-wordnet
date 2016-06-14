@@ -1,0 +1,9 @@
+Phishing được trang_bị phương_pháp mới 
+Tội_phạm trực_tuyến vừa khám_phá thêm một thủ_thuật để che dấu đường link địa_chỉ thực_sự của trang web lừa_đảo cũng như dụ người truy_cập tiết_lộ thông_tin ngay trong e-mail của họ . 
+Theo báo_cáo của Trung_tâm Internet_SANS ( Mỹ ) , tin_tặc sử_dụng một mẫu_biểu để lừa người xem điền thông_tin cá_nhân ngay trong e-mail , và sau khi nhấn nút , nó sẽ dẫn họ đến website lừa_đảo . 
+Trong khi đó , kiểu lừa truyền_thống thường là gửi kèm link trong thông_điệp và yêu_cầu người sử_dụng bấm vào kết_nối đó tới một website trông giống_hệt site chính_thức của ngân_hàng , tổ_chức tài_chính ... 
+Nội_dung phổ_biến của cả hai loại e-mail phishing này là tuyên_bố hệ_thống máy_tính ngân_hàng đã gặp sự_cố và người dùng cần đăng_nhập thông_tin để kích_hoạt lại tài_khoản . 
+Mẫu_biểu trên đang được các trang web sử_dụng rộng_rãi , cho_phép khách_hàng gửi thông_tin trở_lại site , ví_dụ điền tên người dùng và mật_khẩu để đăng_nhập tài_khoản từ e-mail của họ . 
+Bên cạnh đó , tin_tặc đã dùng một phương_pháp mới có khả_năng ẩn hoàn_toàn địa_chỉ của site , do đó người dùng khó có_thể xác_định đó là website giả_mạo . 
+Điều này làm tăng cơ_hội cho tin_tặc phạm_pháp . 
+Hiện_nay , việc sử_dụng ngôn_ngữ HTML có_thể giúp kẻ lừa_đảo ẩn địa_chỉ thực_sự của trang web ở cấp_độ nhất_định , nhưng chỉ cần người dùng di_chuyển chuột vào vùng thông_điệp đó , địa_chỉ thực sẽ hiện ra ở cuối cửa_sổ . 

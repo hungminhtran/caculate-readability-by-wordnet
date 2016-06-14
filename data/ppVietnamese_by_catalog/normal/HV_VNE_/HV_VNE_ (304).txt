@@ -1,0 +1,10 @@
+Công_nghệ RSS tạo cơ_hội phát_tán virus 
+Trong bản phân_tích " The_Future_of_Bot_Worms " ( Sâu mạng trong tương_lai ) , David_Sancho , kỹ_sư của hãng bảo_mật Trend_Micro , chỉ ra rằng việc hỗ_trợ RSS trong Internet_Explorer 7.0 sẽ là một mối nguy_hiểm lớn cho máy_tính . 
+RSS cho_phép trình_duyệt tự_động cập_nhật nội_dung mới từ các website . 
+Trong một ví_dụ đơn_giản nhất , Sancho lo_ngại những link hợp_pháp sẽ bị chỉnh_sửa để điều hướng người dùng vào site chứa mã tấn_công . 
+Từ đó , sâu và những phần_mềm nguy_hiểm khác sẽ nhanh_chóng thâm_nhập vào PC mà không đòi_hỏi bất_cứ sự can_thiệp nào của người sử_dụng . 
+Công_nghệ tường lửa và diệt virus hiện_nay sẽ không_thể ngăn_chặn những vụ tấn_công kiểu này do các RSS feed bị chỉnh_sửa vẫn có vỏ ngoài hợp_pháp . 
+Việc biến_đổi một feed không phải thao_tác quá khó bởi RSS hiện còn nhiều lỗi và chưa trở_thành chuẩn chính_thức . 
+RSS đã được tích_hợp hạn_chế trong Mozilla_Firefox từ tháng 11/2004 . 
+Khi Microsoft trang_bị công_nghệ này vào phiên_bản mới của Internet_Explorer , RSS chắc_chắn sẽ trở_thành một tính_năng phổ_thông . 
+Sancho khuyến_cáo các công_ty nên sớm có kế_hoạch quét và bảo_vệ quá_trình lưu_thông http khắt_khe hơn . 

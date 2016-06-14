@@ -1,0 +1,5 @@
+Sun giới_thiệu chương_trình đào_tạo lập_trình chuyên_nghiệp 
+Sun_College_Program là một trong những chương_trình công_nghệ thông_tin trọng_điểm đào_tạo chuyên_gia hàng_đầu về công_nghệ lập_trình , đặc_biệt là J2EE ( công_nghệ được áp_dụng cho việc xây_dựng và triển_khai các ứng_dụng doanh_nghiệp nhiều thành_phần dựa trên web ) . 
+Chương_trình này được các chuyên_gia công_nghệ thông_tin Việt_Nam đánh_giá cao trong việc thúc_đẩy sự phát_triển và ứng_dụng công_nghệ lập_trình nói_riêng và ngành công_nghệ thông_tin nói_chung tại Việt_Nam . 
+Sun_Microsystems và Alliant_Corp . cho_biết , mục_tiêu của họ là đào_tạo được những chuyên_gia về công_nghệ lập_trình , đặc_biệt là J2EE với thời_gian ngắn nhất nhằm cung_cấp cho học_viên những kiến_thức cơ_bản và nâng_cao về khả_năng lập_trình ; các kỹ_năng và công_nghệ tiên_tiến về phân_tích thiết_kế hướng đối_tượng . 
+Ngày hội cùng tên dành cho sinh_viên ngành công_nghệ thông_tin cũng được tổ_chức cùng ngày tại trường Cao_đẳng Điện_lực , Hà_Nội . 

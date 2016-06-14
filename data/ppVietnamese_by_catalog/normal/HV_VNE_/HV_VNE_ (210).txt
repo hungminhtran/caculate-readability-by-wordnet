@@ -1,0 +1,7 @@
+Công_cụ diệt sâu Zotob được phát_hành 
+Tập_đoàn phần_mềm có trụ_sở tại Redmond , Washington ( Mỹ ) vừa tung ra phần_mềm miễn_phí hỗ_trợ nạn_nhân của những vụ tấn_công gây trục_trặc máy tínhdo một loạt biến_thể sâu mới bắt_đầu xảy_ra từ cuối tuần trước . 
+Chương_trình này có khả_năng kiểm_tra và diệt virus từ Zotob . A đến Zotob . E , cũng như Bobax . O , Esbot . A , Rbot . MA , Rbot . MB và Rbot.MC . 
+Đây là phiên_bản nâng_cấp 1 . 7.1 cho công_cụ xoá mã nguy_hiểm Windows_Malicious_Software_Removal_Tool của Microsoft . " Sau khi người sử_dụng khởi_động , chương_trình sẽ đưa ra thông_báo nếu hệ_thống bị nhiễm và quét sạch virus khỏi PC " , Debby_Fry_Wilson , một giám_đốc trong Trung_tâm hỗ_trợ bảo_mật Microsoft , cho_biết . 
+Hãng phần_mềm Mỹ thường giới_thiệu bản nâng_cấp của công_cụ diệt virus cùng thời_gian với bản tin bảo_mật hàng tháng . 
+Phiên_bản mới 1 . 7.1 có_thể hoạt_động trực_tuyến trên trang web của họ hoặc tải từ Microsoft_Download_Centre . " Chúng_tôi sẽ tiếp_tục nghiên_cứu tất_cả các thông_báo về biến_thể sâu mới và sẽ nâng_cấp công_cụ nhằm đáp_ứng nhu_cầu người sử_dụng " , một đại_diện của Microsoft hứa_hẹn . 
+Tuy_nhiên , hãng vẫn đánh_giá đợt tấn_công những ngày qua ở mức_độ " trung_bình " . 

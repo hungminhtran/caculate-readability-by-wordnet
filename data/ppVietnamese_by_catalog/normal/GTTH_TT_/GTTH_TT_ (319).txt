@@ -1,0 +1,3 @@
+Giảm cước ADSL Mega VNN 
+Mức cước lưu_lượng của gói cước 512Kbps/256Kbps và 768Kbps/384Kbps là 27đồng ( giờ thấp_điểm ) , 45 đồng ( giờ cao_điểm ) / Mb trong 3000Mb đầu_tiên và 25 đồng ( giờ thấp_điểm ) , 41 đồng ( giờ cao_điểm ) / Mb cho các Mb tiếp_theo . 
+Các gói cước 1.024Kbps/512Kbps và 2.048Kbps/640Kbps có mức cước tương_ứng là 33 - 55 đồng / Mb trong 6000Mb đầu_tiên và 25 - 41 đồng / Mb cho các Mb tiếp_theo . 

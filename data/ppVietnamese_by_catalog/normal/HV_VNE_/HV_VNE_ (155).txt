@@ -1,0 +1,16 @@
+Lỗi công_nghệ nén phá_vỡ nhiều ứng_dụng phổ_biến 
+Một lỗ_hổng bảo_mật xuất_hiện trong zlib , công_nghệ nén dữ_liệu được sử_dụng khá rộng_rãi , đã khiến nhiều chương_trình phần_mềm có nguy_cơ bị tấn_công cao . 
+Theo hãng Secunia , sử_dụng một file được thiết_kế theo chủ_ý riêng , kẻ tấn_công có_thể gây ra lỗi tràn bộ đệm và kiểm_soát toàn_bộ máy_tính hay phá_vỡ bất_cứ ứng_dụng nào sử_dụng zlib . 
+Lỗ_hổng được tìm thấy trong Zlib 1 . 2.2 và tất_cả những phiên_bản trước đó . 
+Chương_trình zlib được dùng trong rất nhiều ứng_dụng phần_mềm độc_quyền và mã mở để nén , giải nén dữ_liệu , và nó cũng xuất_hiện trong nhiều phiên_bản của Linux và BDS ( Mỹ ) . 
+Zlib được từ_điển_bách_khoa toàn_thư trực_tuyến Wikipedia mô_tả như là một " chuẩn công_nghệ thực_tế " . 
+" Dường_như tất_cả mọi máy_móc đều có zlib , từ thiết_bị game Xbox , điện_thoại_di_động cho đến OpenSSH , do đó mức_độ ảnh_hưởng tiềm_ẩn của lỗi này là rất lớn " , Tavis_Ormandy , thành_viên nhóm khảo_sát bảo_mật của Gentoo_Linux , người khám_phá ra lỗ_hổng , cho_biết . 
+" Lợi_dụng lỗ_hổng để chạy mã nguy_hiểm trên thiết_bị hay máy_tính của nạn_nhân cũng không phải quá_trình dễ_dàng . 
+Tuy_nhiên , việc phá hỏng ứng_dụng trong máy thì không phải quá khó " , Ormandy khuyến_cáo sau khi thử tấn_công ứng_dụng ảnh và trình_duyệt zlib . 
+Secunia xếp lỗi ở mức_độ " rất nghiêm_trọng " còn Trung_tâm phản_ứng sự_cố bảo_mật Pháp SIRT đánh_giá lỗ_hổng ở mức nguy_hiểm cao nhất . 
+" Lỗi ảnh_hưởng đến khá nhiều ứng_dụng , nhưng không_thể đánh_giá chính_xác mức_độ phổ_biến " , Michael_Sutton , Trưởng phòng nghiên_cứu của hãng bảo_mật iDefense , nhận_định . 
+" Khả_năng ảnh_hưởng phụ_thuộc vào thư_viện dữ_liệu trên thiết_bị hoạt_động như thế_nào , do đó khó có_thể biết trước bao_nhiêu ứng_dụng sử_dụng zlib sẽ bị khai_thác " . 
+Bản nâng_cấp 1 . 2.3 đang trong quá_trình thử_nghiệm và sẽ sớm được tung ra để sửa lỗ_hổng này . 
+Một_số bản vá lỗi cho chương_trình Linux của Suse , Red_Hat , Gentoo , Ubuntu , Mandriva , Debian và FreeBSD cũng đã ra_mắt . 
+Microsoft vẫn đang nghiên_cứu vấn_đề và khẳng_định phiên_bản Windows hiện_tại không bị ảnh_hưởng . 
+Hãng cũng đang sử_dụng zlib trong nhiều chương_trình như Office , MSN_Messenger và Internet_Explorer . 

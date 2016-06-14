@@ -1,0 +1,10 @@
+Trojan " Trình_duyệt Đỏ " tấn_công hầu_hết ĐTDĐ 
+Các công_ty bảo_mật đều thừa_nhận rằng đây là một dạng trojan hiếm_hoi có khả_năng tấn_công vào hầu_hết mọi ĐTDĐ hiện_nay . 
+Khi lây_nhiễm vào máy , trojan RedBrowser sẽ đưa ra một thông_điệp trên màn_hình để quảng_cáo cho một dịch_vụ tư_vấn nào đó , có_lẽ là tình_dục , với giá trên trời là từ 5 đến 6 USD cho một thông_điệp gửi đến người dùng . 
+RedBrowser lây_nhiễm bằng cách tự quảng_cáo mình trên web là một trình_duyệt đời_mới hiện_đại nhất . 
+Khi người dùng ngây_thơ dùng ĐTDĐ thông_minh hoặc máy_tính để tải về và cài_đặt lên máy là lập_tức trojan RedBrowser sẽ lây_nhiễm vào máy và tung ra các thông_điệp quảng_cáo . 
+Để lây_nhiễm sang các máy khác , RedBrowser sẽ lấy bất_kỳ một_số điện_thoại nào đó lưu trong máy và gửi đi một tin_nhắn MMS có kèm theo chính nó đến số điện_thoại đã chọn . 
+RedBrowser có thế tấn_công và nhiều loại ĐTDĐ thông_minh , PDA và đặc_biệt ưa_thích những ĐTDĐ thông_thường có cài_đặt Java . 
+Ngoài_ra các thiết_bị điện_tử tiêu_dùng có cài các trình java của Sun_Microsystems cũng có_thể bị trojan này lây_nhiễm . 
+Điều may_mắn rằng RedBrowser hiện mới chỉ lây_nhiễm tại Nga và ngoài việc tung thông_điệp quảng_cáo , nó cũng chưa gây thêm tác_hại gì . 
+Forrester_Research ước_lượng rằng hiện có tổng_cộng khoảng 100 virus ĐTDĐ đã từng xuất_hiện và một_số vẫn còn hoạt_động . 

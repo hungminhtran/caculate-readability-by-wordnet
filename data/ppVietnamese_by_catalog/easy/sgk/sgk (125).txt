@@ -1,0 +1,12 @@
+Chuột máy_tính giúp em điều_khiển máy_tính được thuận_tiện , nhanh_chóng . 
+Mặt trên của chuột thường có hai nút : nút trái và nút phải . 
+Mỗi khi em nhấn nút , tín_hiệu điều_khiển sẽ được chuyển cho máy_tính . 
+Em cầm chuột và di_chuyển chuột trên một mặt_phẳng ( thường là bàn di chuột ) . 
+Cách cầm chuột 
+Đặt úp bàn_tay phải lên chuột , ngón_trỏ đặt vào nút trái của chuột , ngón giữa đặt vào nút phải của chuột . 
+Ngón_cái và các ngón còn_lại cầm giữ hai bên thân chuột . 
+Các thao_tác sử_dụng chuột 
+Di_chuyển chuột : Thay_đổi vị_trí của chuột trên mặt_phẳng . 
+Nháy chuột : Nhấn nút trái chuột rồi thả ngón tay . 
+Nháy đúp chuột : Nháy chuột nhanh hai lần liên_tiếp . 
+Kéo thả chuột : Nhấn và giữ nút trái của chuột , di_chuyển con_trỏ chuột đến vị_trí cần_thiết thì thả ngón tay nhấn giữ chuột . 

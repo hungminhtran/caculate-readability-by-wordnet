@@ -1,0 +1,10 @@
+Oracle vá 88 lỗi trong bản nâng_cấp quý III 
+Gói chương_trình updatekỳ này tập_trung vào các phần_mềm server cơ_sở_dữ_liệu và server ứng_dụng , cũng như các sản_phẩm của PeopleSoft , JD_Edwards - những công_ty mà Oracle đã mua lại trong thời_gian qua . 
+Là một phần trong chương_trình nâng_cấp định_kỳ hàng quý của Oracle , các bản sửa lỗi nói trên liên_quan đến những phần_mềm cơ_sở_dữ_liệu từ phiên_bản 8i trở đi . 
+Khách_hàng nằm trong chương_trình hỗ_trợ mở_rộng Extended_Maintenance_Support hoặc Extended_Support của Oracle đều có_thể tải những phần_mềm này . 
+Rất nhiều trong số 33 khiếm_khuyết phần_mềm server cơ_sở_dữ_liệu mà Oracle xử_lý đợt này thuộc loại dễ bị khai_thác và có_thể có tác_động rộng đến độ ổn_định , tính thống_nhất và sự sẵn_sàng của thông_tin lưu trên cơ_sở_dữ_liệu . 
+Oracle đánh_giá nguy_cơ từ những lỗi này thuộc loại cao . 
+Trong 14 lỗi liên_quan đến phần_mềm server ứng_dụng thì có 4 đã được khắc_phục bằng các bản vá phần_mềm server cơ_sở_dữ_liệu nói trên và 10 lỗ_hổng còn_lại cần bổ_sung thêm bản sửa lỗi riêng . 
+13 khiếm_khuyết tiếp_theo liên_quan đến gói phần_mềm Collaboration_Suite . 
+22 lỗi khác nằm ở gói E-Business_Suite , 4 lỗi ở phần_mềm của PeopleSoft và 2 ở sản_phẩm của JD_Edwards . 
+Bản nâng_cấp tiếp_theo của Oracle sẽ được phát_hành ngày 17/1/2006 . 

@@ -1,0 +1,10 @@
+Mẫu có hai đồ_vật 
+Quan_sát , nhận_xét 
+Hình_dáng , tỷ_lệ , màu_sắc , đặc_điểm của mẫu vẽ 
+Vị_trí của hai vật mẫu 
+Cách vẽ 
+Ước_lượng tỷ_lệ để vẽ khung hình chung . 
+Phác khung hình từng vật mẫu ( chú_ý các tỷ_lệ : cao , thấp , rộng , hẹp và vị_trí trước , sau của chúng - H . 2a ) . 
+Vẽ đường_trục và các nét chính của từng vật mẫu ( H . 2b , c ) . 
+Nhìn mẫu , vẽ các nét chi_tiết ( H . 2d ) . 
+Sửa lại hình_vẽ cho đúng đặc_điểm của mẫu và vẽ đậm nhạt bằng chì đen hoặc vẽ màu ( H . 2e ) . 

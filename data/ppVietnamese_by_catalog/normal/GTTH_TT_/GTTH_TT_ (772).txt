@@ -1,0 +1,15 @@
+Quanta tham_gia dự_án máy_tính xách tay 100 USD 
+Dự_án MTXT 100 USD hiện được rất nhiều công_ty ủng_hộ và tham_gia như AMD , Brightstar , Google , News_Corp . , Nortel và Red_Hat . 
+Dự_án do tổ_chức phi_chính_phủ OLPC ( one laptop per child ) hợp_tác với phòng thí_nghiệm MIT_Media thực_hiện . 
+Quanta đã được chọn làm nhà thiết_kế , sản_xuất ( ODM :original design manufacturer ) chính cho dự_án . 
+Tuy_vậy , Intel lại là nhà sản_xuất hoàn_toàn " không mặn_mà " gì với dự_án này . 
+Một điều khá thú_vị , trong khi rất nhiều người Mỹ dùng sản_phẩm của Quanta , họ lại không biết đến Quanta . 
+Tình_trạng tương_tự cũng xảy đến cho phần_lớn người dùng tại Việt_Nam , và rất nhiều nước ở châu Âu . 
+Quanta là đối_tác sản_xuất của Hewlett-Packard , Dell và rất nhiều công_ty máy_tính khác . 
+Vào đầu năm nay , Quanta cũng đã ký với MIT Media_Lab một hợp_đồng nghiên_cứu trị_giá 20 triệu USD trong năm năm về tính khả_thi của dự_án . 
+Việc_làm trên của công_ty Quanta đã đánh tan những tin_đồn thất_thiệt xung_quanh việc sản_xuất máy_tính chất_lượng thấp dành cho giáo_dục . 
+Những chiếc máy_tính xách tay do Quanta sản_xuất sẽ chạy hệ_điều_hành Linux , sử_dụng rất ít năng_lượng và hỗ_trợ kết_nối Internet . Khoảng 5 – 15 triệu sản_phẩm sẽ được gởi đến các nước Trung_Quốc , Ấn_Độ , Brazil , Argentina , Ai_Cập , Nigeria và Thái_Lan . 
+Hoạt_động của tổ_chức OLPC tuy có mục_đích tốt_đẹp , nhưng trong quá_khứ , việc đem máy_tính giá thấp tới cho người nghèo không phải là 1 điều dễ_dàng . 
+Những chiếc máy_tính Simputer đã từng thất_bại ở Brazil không phải là 1 lần . 
+Các tổ_chức chính_phủ bản_địa cũng không mặn_mà gì với những kế_hoạch kiểu này , họ đang nhắm đến một thế_hệ máy thin-client được cho là có nhiều ưu_điểm hơn so với các máy_tính giá rẻ này . 
+Thời_gian sẽ trả_lời cho tương_lai của máy_tính MIT’s_Laptop 100 USD . 

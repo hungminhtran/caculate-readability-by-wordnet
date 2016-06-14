@@ -1,0 +1,10 @@
+Ngày hội các nhà phát_triển Sun 2006 tại Việt_Nam 
+Ngày hội có sự tham_gia của các diễn_giả , chuyên_gia công_nghệ như : giám_đốc cải_cách công_nghệ Rags_Srivinas , các nhà cải_cách Java như Tiến_sĩ Doris_Chen , Sridhar_Reddy và Kiran_Patel . 
+Các nhà cải_cách công_nghệ từ nhiều nước trên thế_giới đã trình_bày về các chủ_đề liên_quan tới Java , NetBeans và OpenSolaris . 
+Ngày hội sẽ là những buổi thuyết_trình kỹ_thuật chuyên_sâu , và những phần tập_trung vào Web_Services / Service_Oriented_Architecture ( SOA ) , các trò game dành cho di_động . 
+Tất_cả đều phục_vụ cho việc ứng_dụng Java_Studio_Enterprise ( JSE ) , Solaris_OS , Java_Micro_Edition , NetBeans_and_AJAX . 
+Sự_kiện còn bao_gồm những buổi chia_sẻ kiến_thức về các giải_pháp , sự triển_khai và công_nghệ mới nhất . 
+Những người tham_dự sẽ có cơ_hội để nghiên_cứu và ứng_dụng các công_nghệ thuộc thế_hệ kế_tiếp của Sun dành cho việc phát_triển trên toàn_bộ các lĩnh_vực , từ các thiết_bị di_động tới các ứng_dụng doanh_nghiệp . 
+Sun xác_định , những công_nghệ quan_trọng về nguồn mở như Hệ_điều_hành Solaris và các sản_phẩm Java dùng cho doanh_nghiệp sẽ giúp Sun cung_cấp cho các nhà phát_triển , những cá_nhân , các doanh_nghiệp và chính_phủ những công_cụ mới , mức an_ninh tăng_cường và những công_nghệ có ý_nghĩa cho sự phát_triển kinh_tế và tiến_bộ xã_hội trong thời_đại kế_tiếp của điện_toán mạng - đó là Kỷ_nguyên Hội_nhập . 
+Với việc ứng_dụng công_nghệ Java trên hàng tỷ thiết_bị thông_minh trên toàn_cầu , Java là một thành_phần thiết_yếu dành cho các ứng_dụng kết_nối và số_hoá . 
+Java đang được ứng_dụng rộng_rãi cho nhiều thiết_bị , từ những thẻ nhân_dạng ( ID_card ) bảo_mật cho tới những điện_thoại_di_động , máy_in , webcam , máy_tính điều_khiển_từ_xa gắn trên ô_tô , thiết_bị y_tế , máy_chủ , động_cơ_phản_lực , các bộ điều_khiển chuyển_động trên phi_thuyền Mars_Rover của NASA ... 

@@ -1,0 +1,11 @@
+Mỗi tuần có thêm 150 phần_mềm khống_chế PC 
+Các chương_trình tấn_công với khả_năng biến máy_tính gia_đình thành những cỗ máy ma ( zombie ) do hacker kiểm_soát đang gia_tăng , thậm_chí có lúc lên tới 200 phiên_bản / tuần . 
+Báo_cáo của Trung_tâm phản_ứng nhanh thuộc hãng McAfee cho_biết số chương_trình nguy_hiểm và các loại virus phát_tán e-mail số_lượng lớn hiện là mối đe_doạ lớn nhất đối_với các doanh_nghiệp . 
+Trong khi đó , số vụ khai_thác lỗ_hổng và các dạng phần_mềm quảng_cáo adware chiếm 60 % số nguy_cơ . 
+Trung_bình mỗi máy_tính chạy Windows mà McAfee khảo_sát có chứa 13 adware . 
+Hãng bảo_mật cũng cảnh_báo spam được mã_hoá để lợi_dụng những lỗ_hổng mới nhất nhằm cài_đặt spyware sẽ làm gia_tăng nguy_cơ an_ninh đối_với người dùng máy_tính gia_đình . 
+Số virus máy_tính được McAfee đánh_giá ở nguy_cơ trung_bình hoặc cao hơn tăng từ 20 năm 2003 lên 46 năm 2004 , tương_đương 130 % . 
+Đến cuối năm_ngoái , Trung_tâm phản_ứng nhanh của McAfee đã phát_hiện 17.000 chương_trình tấn_công mới . 
+Trong khi đó , các khiếm_khuyết phần_mềm được phát_hiện trong năm qua là khoảng 2.800 , giảm 25 % so với 2003 . Trong năm 2004 , sự gia_tăng về virus , sâu , các vụ lừa phishing , adware và khai_thác lỗi bảo_mật đã vượt_qua mức của 2003 , Vincent_Gullotto , Phó_chủ_tịch McAfee , nói . 
+Chúng_tôi nhận_thấy tỷ_lệ sinh_sản của virus có giảm đều 5 % liên_tục từ năm 2000 đến 2003 , nhưng năm_ngoái thì gia_tăng trở_lại do sự xuất_hiện của NetSky và Bagle . 
+Bên cạnh đó , nhìn_chung còn có quá ít sự quan_tâm đối_với adware và các phần_mềm tương_tự . 

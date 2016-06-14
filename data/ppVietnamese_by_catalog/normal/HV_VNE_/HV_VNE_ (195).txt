@@ -1,0 +1,6 @@
+Chưa có ' virus đầu_tiên ' trong Vista 
+Microsoft hôm_qua khẳng_định Monad , công_cụ scripting mới - đang bị coi là mục_tiêu tấn_công của một kẻ viết chương_trình virus - sẽ không được xây_dựng trong Windows_Vista . Thay vào đó , nhà sản_xuất phần_mềm này dự_định cung_cấp hàm hệ_thống Monad như là một phần trong hệ_điều_hành máy_chủ Longhorn_Server ra_mắt trong năm 2007 . 
+" Monad sẽ không xuất_hiện trong phiên_bản cuối_cùng của Windows_Vista " , Stephen_Toulouse , quản_lý chương_trình nhóm bảo_mật của Microsoft , khẳng_định . 
+" Do đó , nguy_cơ tiềm_tàng về kiểu virus này sẽ không ảnh_hưởng đến hệ_điều_hành " . 
+Lee_Holmes , thành_viên trong nhóm xây_dựng Monad , cũng chỉ_trích hãng F-Secure về những thông_tin liên_quan đến cái gọi là virus Vista đầu_tiên : " Đây là một tuyên_bố sai_lầm , bởi vấn_đề này có_thể ảnh_hưởng tới bất_cứ bộ_máy nào , bất_cứ mã nào trên bất_cứ hệ_điều_hành nào " . 
+Toulouse không lý_giải lý_do vì_sao Monad sẽ không có_mặt trọng hệ_điều_hành Vista chính_thức . 

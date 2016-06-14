@@ -1,0 +1,67 @@
+KINH_TẾ CHÍNH_TRỊ 
+Đề_tài : Tại_sao nói học_thuyết giá_trị thặng_dư là hòn đá_tảng to_lớn nhất trong học_thuyết kinh_tế của C . Mác 
+BÀI_LÀM 
+Các Mác - Nhà kinh_tế_chính_trị_học , Nhà triết_học thiên_tài của Đức đã để lại cho nhân_loại biết_bao học_thuyết mà đến nay vẫn còn nguyên giá_trị . 
+Có_thể nói học_thuyết giá_trị thặng_dư là một phát_hiện vĩ_đại nhất của Mác ở thế_kỷ XIX . Nó là " viên đá_tảng " trong toàn_bộ học_thuyết của ông . 
+Chúng_ta , ai cũng biết rằng : bất_cứ một học_thuyết kinh_tế nào ra_đời hay hình_thành cũng đều dựa trên hai tiền_đề là thực_tiễn và học_thuyết . 
+Bởi lẽ tư_duy học_thuyết bắt_nguồn từ thực_tiễn rồi quay trở_lại thực_tiễn để kiểm_nghiệm tính đúng_đắn của học_thuyết . 
+Hơn_nữa một đặc_điểm kinh_tế của Các_Mác là tính kế_thừa và tính phê_phán : kế_thừa cái đã có , còn đúng và phê_phán để tìm ra những hạn_chế của học_thuyết đã có để lọc bỏ , bổ_sung , sáng_tạo , phát_triển và hoàn_thiện . 
+Học_thuyết kinh_tế của Các_Mác được trình_bày trong tác_phẩm vĩ_đại của ông là Bộ " Tư_bản " . 
+Trong bài viết này chúng_ta chỉ đề_cập đến một học_thuyết vĩ_đại nhất của ông , đó là học_thuyết giá_trị thặng_dư . 
+Học_thuyết giá_trị thặng_dư của Các_Mác ra_đời trong bối_cảnh lịch_sử Tây_Âu của những năm 40 thế_kỷ XIX : 
+- Về thực_tiễn kinh_tế : lực_lượng_sản_xuất và quan_hệ_sản_xuất dựa trên thành_quả của cuộc cách_mạng công_nghiệp đã hoàn_thành . 
+Chính nó đã tạo ra cơ_sở vật_chất để các phạm_trù kinh_tế với tư_cách là bản_chất của quan_hệ_sản_xuất tư_bản_chủ_nghĩa bộc_lộ khá rõ_nét . 
+- Về thực_tiễn chính_trị xã_hội : là thời_kỳ có nhiều biến_đổi về chính_trị và xã_hội đã và đang diễn_ra ( Cách_mạng phản_phong kến của Pháp , Công_xã Pari và phong_trào công_nhân Pháp , Phong_trào hiến_chương , Cuộc cách_mạng tư_sản 1848 mang tính toàn châu Âu ) . 
+Đó là những chất_liệu quý_giá cho sự hình_thành các học_thuyết của Các_Mác . 
+- Về tiền_đề lý_luận : Các Mác đã dựa vào kinh_tế chính_trị tư_sản cổ_điển Anh ( W . 
+Petty , A . Smith , D . Ricardo ) , chủ_nghĩa_xã_hội không_tưởng của Pháp , Triết_học cổ_điển Đức ( Hêghen và Phoiơbắc ) . 
+Các Mác đã kế_thừa những tư_tưởng của nhân_loại , sửa_đổi , bổ xung và phát_triển học_thuyết kinh_tế của mình ở trình_độ cao hơn . 
+Lênin đã nhận_xét : " Tất_cả thiên_tài của C . Mác chính là ở chỗ đã giải_đáp được những vấn_đề mà tư_tưởng tiên_tiến của nhân_loại đã nêu ra . 
+C . Mác đã kế_thừa tất_cả những cái gì tốt_đẹp nhất mà loài_người đã sáng_tạo ra trong thế_kỷ XIX " 
+Với bối_cảnh ra_đời trên , học_thuyết giá_trị thặng_dư của C . Mác được trình_bày từ phần IV đến phần V trong quyển 1 và từ phần I đến phần III trong quyển 3 của Bộ " Tư_bản " 
+Học_thuyết giá_trị thặng_dư nghiên_cứu trực_tiếp sự tồn_tại và phát_triển của quan_hệ_sản_xuất Tư_bản_chủ_nghĩa , tìm ra quy_luật giá_trị thặng_dư với tư_cách là quy_luật kinh_tế tuyệt_đối ( hay quy_luật kinh_tế cơ_bản ) của xã_hội Tư_bản , nghiên_cứu hình_thức biểu_hiện của giá_trị thặng_dư mà trước_tiên là lợi_nhuận và lợi_nhuận bình_quân . 
+Nội_dung cơ_bản của học_thuyết giá_trị thặng_dư của Mác thể_hiện cụ_thể như sau : 
++ Sự chuyển_hoá tiền_tệ thành Tư_bản 
+Từ sự phân_biệt và phân_tích tiền_tệ thông_thường và tiền_tệ làm chức_năng tư_bản thông_qua hai công_thức H-T-H và T-H-T , , C . Mác đã khẳng_định T-H-T , là công_thức chung của Tư_bản , trong đó T , = T + dentaT 
+Khi phân_tích công_thức chung của Tư_bản T-H-T , ở cả hai trường_hợp trao_đổi ngang giá và không ngang giá Mác đều thấy không sinh ra dentaT , và không làm cho tiền_tệ lớn lên , từ đó Mác đã tìm ra mâu_thuẫn của công_thức chung mà nội_dung của nó là : Tiền_tệ lớn lên vừa ở trong lưu_thông , nhưng lại không sinh ra ở trong lưu_thông ( mà sinh ra ở ngoài lưu_thông - trong sản_xuất ) 
+Mác đã giải_quyết mâu_thuẫn trên bằng cách tìm ra một loại hàng_hoá mới đó là hàng_hoá sức_lao_động . 
+Đây là một loại hàng_hoá có thuộc_tính tạo ra giá_trị mới lớn hơn giá_trị của bản_thân nó , làm sinh ra dentaT , và tiền_tệ lớn lên . 
+Từ đó mác đã phân_tích hai điều_kiện để sức_lao_động trở_thành hàng_hoá và hai thuộc_tính của nó ( giá_trị sử_dụng và giá_trị ) . 
+Đến đây Mác đã kết_luận : Tiền trở_thành tư_bản khi sức_lao_động trở_thành hàng_hoá . 
++ Sự sản_xuất ra giá_trị thặng_dư tuyệt_đối 
+Ở nội_dung này mác đã dùng phương_pháp phân_tích đi từ cái chung đến cái riêng ( đặc_thù ) để phân_tích quá_trình lao_động và quá_trình làm gia_tăng giá_trị ( quá_trình sản_xuất giá_trị thặng_dư ) . 
+Đó là cơ_sở kinh_tế - xã_hội cho quá_trình sản_xuất ra m ( giá_trị thặng_dư ) . 
+Từ giá_trị thặng_dư , Mác đã đưa ra khái_niệm tư_bản và lao_động . 
+Mác đã phát_hiện ra tính hai mặt của lao_động sản_xuất hàng_hoá và dựa vào đó Mác đã chia tư_bản thành C và V , từ đó làm rõ mối quan_hệ , vai_trò của C và V đối_với việc sản_xuất ra m . 
+Ông còn phê_phán những quan_điểm không đúng xung_quanh vấn_đề này , tìm ra công_thức tính giá_trị hàng_hoá trong xí_nghiệp Tư_bản là W= ( c + v + m ) 
+Cũng trong nội_dung này . 
+Mác đã phân_tích rõ các khái_niệm : 
+- Ngày lao_động và cơ_cấu của nó . 
+- Tỷ_suất giá_trị thặng_dư : m , =TGLĐTDx100 % / TGLĐCT 
+= mx 100 % / v 
+- Khối_lượng giá_trị thặng_dư : M = m , x V 
+Những khái nioệm trên là tiền_đề để tìm ra phương_pháp sản_xuất ra giá_trị thặng_dư tuyệt_đối dựa trên biện_pháp kéo dài ngày lao_động hoặc gia_tăng cường_độ_lao_động . 
++ Sự sản_xuất ra giá_trị thặng_dư tương_đối 
+Luật lao_động ra làm hạn_chế phương_pháp sản_xuất ra giá_trị thặng_dư tuỵêt đối thì chủ_nghĩa_tư_bản đã chuyển sang phương_pháp sản_xuất ra giá_trị thặng_dư tương_đối . 
+Phương_pháp sản_xuất ra giá_trị thặng_dư tương_đối là một phương_pháp rút ngắn thời_gian lao_động cần_thiết để tăng tương_ứng thời_gian lao_động_thặng_dư dựa trên cơ_sở tăng năng_suất lao_động trong ngành sản_xuất hàng_tiêu_dùng và các ngành sản_xuất tư_liệu_sản_xuất liên_quan tới ngành sản_xuất hàng_hoá tiêu_dùng . 
+Mác đã nghiên_cứu quá_trình tăng năng_suất lao_động của người công_nhân và đã chứng_minh được rằng : Ba giai_đoạn phát_triển lực_lượng_sản_xuất - tăng năng_suất lao_động cũng đồng_thời là ba giai_đoạn nâng_cao tỷ_suất m tương_đối của nhà tư_bản đối_với người công_nhân ( giai_đoạn hiệp_tác giản_đơn Tư_bản_chủ_nghĩa , công_trường_thủ_công Tư_bản_chủ_nghĩa , đại_công_nghiệp cơ_khí Tư_bản_chủ_nghĩa ) 
++ Mối quan_hệ và sự khác_biệt giữa sản_xuất ra giá_trị thặng_dư tương_đối và sản_xuất ra giá_trị thặng_dư tuỵêt đối 
+Cả hai phương_pháp sản_xuất ra giá_trị thặng_dư tương_đối và sản_xuất ra giá_trị thặng_dư tuyệt_đối đều giống nhau về mục_đích - tức đều làm tăng thời_gian lao_động_thặng_dư . 
+Nhưng chúng khác nhau ở cách đặt giả_thiết , biện_pháp thực_hiện và kết_quả thu được . 
++ Quy_luật giá_trị thặng_dư 
+Theo C . Mác , việc sản_xuất ra giá_trị thặng_dư là quy_luật kinh_tế cơ_bản của chủ_nghĩa_tư_bản , ông đã viết : " Việc tạo ra giá_trị thặng_dư , đó là quy_luật tuyệt_đối của phương_thức_sản_xuất đó " . 
+Thật vậy , mục_đích sản_xuất của chủ_nghĩa_tư_bản không phải là sản_xuất ra giá_trị sử_dụng mà là sản_xuất ra giá_trị thặng_dư . 
+Chúng sẽ theo_đuổi giá_trị thặng_dư dù phải trả bằng bất_cứ giá nào . 
+Sản_xuất ra giá_trị thặng_dư chính là động_cơ hoạt_động của xã_hội tư_sản , nó là động_lực chính thúc_đẩy sự vận_động của phương_thức_sản_xuất tư_bản_chủ_nghĩa . 
+Mác viết : " Mục_đích của sản_xuất Tư_bản_chủ_nghĩa là làm_giàu , là nhân giá_trị lên , làm tăng giá_trị , do đó bảo_tồn giá_trị trước_kia và tạo ra giá_trị thặng_dư " 
+Để sản_xuất ra giá_trị thặng_dư tối_đa , các nhà tư_bản tăng_cường bóc_lột công_nhân làm_thuê không phải bằng cưỡng_bức siêu kinh_tế ( bạo_lực , roi_vọt ) , mà bằng cưỡng_bức kinh_tế ( kỷ_luật đói rét ) dựa trên cơ_sở mở_rộng sản_xuất , phát_triển kỹ_thuật để tăng năng_suất lao_động , tăng cường_độ_lao_động . 
+Như vậy , nội_dung của quy_luật kinh_tế cơ_bản của phương_thức_sản_xuất tư_bản_chủ_nghĩa là sản_xuất ra giá_trị thặng_dư tối_đa cho nhà tư_bản bằng cách tăng số_lượng lao_động làm_thuê và tăng mức bót lột . 
+Quy_luật giá_trị thặng_dư có vai_trò cực lớn trong xã_hội tư_bản : nó quyết_định sự phát_sinh , phát_triển của chủ_nghĩa_tư_bản và sự thay_thế nó bằng một xã_hội khác cao hơn , là quy_luật vận_động của của phương_thức_sản_xuất tư_bản_chủ_nghĩa . 
+Sự tác_động của quy_luật này làm cho mâu_thuẫn cơ_bản và nói_chung toàn_bộ mâu_thuẫn của chủ_nghĩa_tư_bản ngày_càng sâu_sắc . 
+Do đó , đối_với giai_cấp tư_sản hiện_đại , việc tìm cách điều_chỉnh để thích_nghi và tồn_tại là rất cần_thiết của phương_thức_sản_xuất này . 
+Với quy_luật trên , giá_trị thặng_dư đã biểu_hiện trong đời_sống cụ_thể của chủ_nghĩa_tư_bản ở giai_đoạn tự_do cạnh_tranh thành sự biểu_hiện của tỷ_suất lợi_nhuận bình_quân và lợi_nhuận bình_quân . 
+Đồng_thời quy_luật giá_trị thặng_dư cũng biểu_hiện thành quy_luật lợi_nhuận bình_quân nếu xét trên phạm vị toàn xã_hội . 
+Tóm_lại , học_thuyết giá_trị thặng_dư được coi là viên đá_tảng trong học_thuyết kinh_tế của C . Mác . Điều đó giải_thích vì_sao các thế_lực thù_địch luôn tìm mọi cách phủ_nhận học_thuyết này . 
+Cho_dù chủ_nghĩa_tư_bản có phủ_nhận , điều_chỉnh hay biến_đổi thì khái_niệm bóc_lột lao_động_thặng_dư của công_nhân cũng không vì thế mà mất đi ý_nghĩa . 
+Ngày_nay , sự bóc_lột không_chỉ nhằm vào những người công_nhân làm_thuê mà_còn nhằm vào các nhà khoa_học , các nhà quản_lý , thậm_chí sự bóc_lột còn vươn ra khỏi phạm_vi đất_nước thông_qua các công_ty xuyên quốc_gia . 
+Tuy_nhiên trong điều_kiện đất_nước và quốc_tế hiện_nay - điều_kiện chung sống hoà_bình để xây_dựng kinh_tế giữa các chế_độ xã_hội khác nhau , khi nghiên_cứu vận_dụng nó , chúng_ta cần biết phải khai_thác theo hướng kinh_tế để nhanh_chóng làm_giàu cho nước ta . 

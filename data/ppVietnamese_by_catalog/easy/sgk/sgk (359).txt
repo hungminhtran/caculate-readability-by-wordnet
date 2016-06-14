@@ -1,0 +1,3 @@
+Bóng_tối 
+Phía sau vật cản sáng ( khi được chiếu sáng ) có bóng của vật đó . 
+Bóng của một vật thay_đổi khi vị_trí của vật chiếu sáng đối_với vật đó thay_đổi . 

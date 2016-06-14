@@ -1,0 +1,8 @@
+500 USD tiền thưởng phát_hiện mỗi lỗi trình_duyệt Mozilla 
+Tổ_chức phát_triển phần_mềm nguồn mở Mozilla_Foundation vừa trao 2.500 USD cho một nhà nghiên_cứu bảo_mật người Đức vì đã xác_định và thông_báo cho họ 5 lỗi trong trình_duyệt web cùng tên . 
+Chúng_tôi quyết_định phát_triển chương_trình trao thưởng tiền_mặt này nhằm khuyến_khích các thành_viên trong cộng_đồng sử_dụng phát_hiện khiếm_khuyết ở trình_duyệt Mozilla , Chris_Hofmann , Giám_đốc kỹ_thuật Mozilla_Foundation , phát_biểu . 
+Đây là một trong những cách để chúng_tôi đảm_bảo một phần_mềm an_toàn cho người sử_dụng . 
+Các lỗi mà chuyên_gia người Đức nói trên phát_hiện liên_quan đến một cơ_chế cho_phép các ứng_dụng thay_đổi chi_tiết giao_diện người sử_dụng của trình_duyệt . 
+Ví_dụ , nếu bị lợi_dụng , chức_năng này có_thể làm thay_đổi nút Home , khiến nó download các chương_trình nguy_hiểm . 
+Tuần trước , Mozilla đã phát_hành bản nâng_cấp 1 . 0.2 để khắc_phục một khiếm_khuyết gây tràn bộ đệm trong mã Netscape mà họ vẫn dùng với trình_duyệt Mozilla và phục_vụ cả việc tạo hoạt ảnh GIF trong Firefox . 
+Microsoft , vốn chỉ áp_dụng tiền thưởng cho người cung_cấp thông_tin bắt_giữ tin_tặc viết virus tấn_công các phần_mềm của họ , không có bình_luận gì về động_thái của Mozilla . 

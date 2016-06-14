@@ -1,0 +1,5 @@
+Truy_tìm địa_chỉ lạ 
+Giao_diện và cách sử_dụng của WhereIsIP vô_cùng đơn_giản . 
+Muốn tìm xuất_phát_điểm của một địa_chỉ IP nào đó bạn chỉ việc nhấp vào ô " IP_Address " , sau đó nhấp " Next " là WhereIsIP sẽ tự_động tìm_kiếm và đưa ra kết_quả cho bạn trong vài giây . 
+Bạn thao_tác tương_tự để săn tìm nơi xuất_phát của một trang web , một kết_nối ICQ , một địa_chỉ email . 
+Người dùng có_thể vào http : / / www . jufsoft . com / whereisip / #download để tải về bản dùng thử có dung_lượng chỉ khoảng 654 KB hoặc tìm mua ở các cửa_hàng phần_mềm tin_học . 

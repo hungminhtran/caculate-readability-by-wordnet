@@ -1,0 +1,21 @@
+Hacker và những quan_niệm sai_lầm 
+Hacker đôi_khi vẽ ra viễn_cảnh khá lãng_mạn rằng việc mình " kiểm_tra " hệ_thống bảo_mật của các công_ty , hay gửi chương_trình virus qua Internet , sẽ được nhiều người biết đến và công_nhận tài_năng . 
+Ngày_càng nhiều doanh_nghiệp tìm_kiếm người có chuyên_môn để hỗ_trợ bảo_mật , vì những vụ tấn_công hệ_thống của tin_tặc đã trở_nên phổ_biến và tinh_vi hơn trước . 
+Sven_Jaschan , 18 tuổi người Đức , năm_ngoái đã bị buộc_tội vì phát_tán sâu Sasser ra hàng nghìn công_ty , với 18 triệu máy_tính bị lây_nhiễm trên toàn thế_giới , khiến cho nhiều doanh_nghiệp phải tạm_thời đóng_cửa để gỡ_lỗi hệ_thống . 
+Từ khi được mời về làm cho hãng an_ninh phần_mềm máy_tính Securepoint ( Đức ) , " cậu đã nhận_thức rất rõ công_việc của mình " , theo lời phát_ngôn_viên của công_ty . 
+Nhưng Jaschan chỉ là một dẫn_chứng rất nhỏ và không đủ để thuyết_phục các chuyên_gia . 
+Phần_lớn giới quản_trị mạng khuyến_cáo rằng tuy hacker có_vẻ là đối_tượng hoàn_hảo để thuê về với mục_đích khám_phá lỗi trong hệ_thống an_ninh của công_ty , những kẻ truy_cập và khai_thác mạng trái_phép này thường có tư_chất đạo_đức đối ngược với hầu_hết nhân_viên , và họ sẽ phải mất khá nhiều thời_gian để có_thể hoà_mình vào khuôn_khổ chung . 
+" Khi ta muốn có ai đó rà_soát và tìm ra điểm yếu trong mạng , kiến_thức của hacker là vô_cùng quan_trọng . 
+Dù vậy , cần để_ý mức_độ ảnh_hưởng của họ tới những nhân_viên khác " , Louise_Yngstroem , chuyên_gia bảo_mật tin_học tại Đại_học Stockholm ( Thuỵ_Điển ) , nhận_định . 
+" Rất khó để thay_đổi quan_niệm và thái_độ làm_việc của hacker . 
+Họ thường hành_động ngay tại nhà và không theo quy_tắc chung " . 
+Csaba_Richter , tin_tặc 26 tuổi người Hungari đã đột_nhập vào mạng nội_bộ của Sony_Ericsson , khiến hãng này ở trong tình_trạng bảo_mật yếu_kém triền_miên , hy_vọng rằng công_ty đó sẽ thuê anh ta vào làm_việc khi đã biết được tài_năng của mình . 
+Tuy_nhiên , Ericsson đã đưa Richter ra toà . 
+Thay_vì được mời một vị_trí trong công_ty , anh ta lại có " hợp_đồng " thời_hạn 3 năm ... 
+trong tù . 
+Đây là bài_học đắt_giá để hacker hiểu rằng gây tiếng_vang bằng hành_động phi_pháp là không hề khôn_ngoan . 
+" Khách_hàng sẽ thấy không thoải_mái khi biết những kẻ viết phần_mềm nguy_hiểm đang chạy chương_trình bảo_mật trong hệ_thống của họ " , Mikko_Hyppoenen , Giám_đốc công_nghệ hãng bảo_mật F-Secure ( Phần_Lan ) , phát_biểu . 
+" Nhận hacker về làm_việc sẽ tạo ra hình_ảnh không hay cho ngành công_nghiệp . 
+Nguy_hiểm hơn , bọn trẻ sẽ hiểu sai vấn_đề ngay khi còn đang ngồi trên ghế nhà_trường . 
+Chúng_ta cần khiến trẻ_em hiểu rằng viết phần_mềm virus là vi_phạm pháp_luật , chứ không phải người_hùng . 
+Việc thuê hacker đã đi ngược lại toàn_bộ quan_niệm đạo_đức mà ta đang cố xây_dựng lên " . 

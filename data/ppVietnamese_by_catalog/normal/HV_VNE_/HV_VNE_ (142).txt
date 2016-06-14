@@ -1,0 +1,9 @@
+Hacker khai_thác lỗ_hổng trong Outlook_Express 
+Nguy_cơ tấn_công liên_quan đến lỗi trong Outlook_Express của Microsoft đã gia_tăng trong tuần qua , sau khi một loạt trang web đen bắt_đầu lưu_hành mã độc_hại để khai_thác chương_trình . 
+Lỗ_hổng này do nhóm phản_ứng nhanh Security_Incident_Response của Pháp phát_hiện ngày 20/6 và có_thể bị khai_thác để kiểm_soát toàn_bộ máy_tính với những phiên_bản của chương_trình e-mail Outlook_Express 5.5 , 6.0 của Windows_2000 , XP và Server_2003 khi người dùng vô_tình ghé thăm những trang web do hacker điều_hành . 
+Vấn_đề xuất_phát từ tính_năng đọc tin của Outlook , hay giao_thức truyền tin Network_News_Transfer_Protocol . 
+Các hãng bảo_mật yêu_cầu mọi người nên cài bản vá lỗi do Microsoft phát_hành tuần trước . 
+" Kẻ tấn_công có_thể cài chương_trình , xem , thay_đổi và xoá dữ_liệu , hoặc tạo ra một tài_khoản mới với đủ các quyền của người dùng " , Microsoft cảnh_báo . 
+Hãng đã xếp lỗi bảo_mật này ở mức_độ " nghiêm_trọng " . 
+Tuy_nhiên , nhiều chuyên_gia đánh_giá việc lan rộng của hình_thức tấn_công này không lớn do nguy_cơ chỉ xảy_ra khi người dùng ghé vào trang cài mã nguy_hiểm . 
+Thêm vào đó , mã khai_thác lỗ_hổng hoạt_động thất_thường , không đều . 

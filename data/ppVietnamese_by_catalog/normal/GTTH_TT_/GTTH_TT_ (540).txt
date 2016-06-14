@@ -1,0 +1,10 @@
+Khi " dế " bị chai pin ? 
+- Máy_Nokia_7650 sử_dụng pin 750 mAh_Li-Ion ( BLB-2 ) . 
+Bạn nên sử_dụng đúng loại pin và đúng dung_lượng thì máy mới dùng ổn_định được . 
+Bạn có_thể mua pin chính_hãng Koracel với giá khoảng 140.000 đồng tại các siêu_thị điện_thoại_di_động ở TP. HCM và Hà_Nội . 
+Tôi đang sử_dụng máy hiệu Motorola_E398 , gọi và nghe đều tốt , kể_cả với dịch_vụ GPRS . 
+Thế nhưng không hiểu vì_sao gửi và nhận MMS ( tin_nhắn đa_phương_tiện ) thì không thực_hiện được . 
+Làm thế_nào để khắc_phục tình_trạng này ? 
+( Tạ_Tường ) 
+- Với trường_hợp của bạn , Motorola hướng_dẫn bạn làm theo trình_tự sau : vào menu , web access , web sessions , di_chuyển đến Vina_MMS , menu , set default ( cài mặc_định ) . 
+Sau khi làm theo những bước này , bạn sẽ gửi được tin_nhắn MMS từ mạng Vinaphone . Bạn_đọc có_thể gửi thư đến toà_soạn báo Tuổi_Trẻ hoặc qua địa_chỉ mail : phongmachalo@tuoitre . com . vn để được giải_đáp chi_tiết . 

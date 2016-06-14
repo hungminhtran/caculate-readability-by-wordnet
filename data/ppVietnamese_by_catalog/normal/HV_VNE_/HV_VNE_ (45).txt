@@ -1,0 +1,11 @@
+Các kết_quả tìm_kiếm đang bị đầu_độc 
+Tin_tặc đang tăng_cường sử_dụng website thay_vì file đính kèm e-mail để phát_tán chương_trình tấn_công . 
+Hãng Websense cho_biết tội_phạm Internet đã lợi_dụng các dịch_vụ search để lái người truy_cập tới những địa_chỉ chứa mã nguy_hiểm . 
+Khảo_sát an_ninh mạng tháng qua của Websense cho_thấy , khi mà các doanh_nghiệp ngày_càng siết chặt việc phong_toả phần attachment thư_điện_tử bằng tường lửa , hacker tăng_cường chuyển sang cách nhúng mã vào các trang web . 
+Để lừa được người lướt web truy_nhập vào những website bẫy đó , tin_tặc đang cố_gắng nâng thật cao xếp hạng của những địa_chỉ này trong danh_mục kết_quả ở công_cụ tìm_kiếm trực_tuyến . 
+Chúng_tôi tin rằng đang có sự gia_tăng về số_lượng kết_quả tìm_kiếm giả_tạo và các server DNS tại những dịch_vụ search phổ_biến nhất , Dan_Hubbard , tác_giả nghiên_cứu nói trên và là phó_giám_đốc của Websense , phát_biểu . 
+Để thành_công , hacker phải đảm_bảo rằng website do chúng tạo ra có thứ_hạng thật cao trong kết_quả tìm_kiếm . 
+Điều này sẽ lừa được người sử_dụng web và nếu họ truy_nhập vào những website này thì máy_tính sẽ bị nhiễm các chương_trình nguy_hại . 
+Ví_dụ , khi tìm_kiếm với từ_khoá anti-spyware ( ứng_dụng diệt spyware ) , một danh_sách rất nhiều địa_chỉ chứa sẵn mã tấn_công sẽ hiện ra trên cao trong bản kết_quả . 
+Hoạt_động phổ_biến nhất hiện_nay thông_qua những trang web kiểu này là cài_đặt Trojan ( chiếm tới 2/3 số vụ tấn_công ) hoặc chiếm trình_duyệt bằng cách thay_đổi homepage bằng chính website đó ( chiếm chiếm 1/4 ) . 
+Websense dự_báo tình_trạng này sẽ còn tồi_tệ hơn nữa khi mà cộng_đồng tội_phạm mạng đang hoạt_động ngày_một có tổ_chức . 

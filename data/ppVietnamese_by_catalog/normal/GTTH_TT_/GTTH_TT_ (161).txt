@@ -1,0 +1,26 @@
+Rev F , bộ_vi_xử_lý đa_nhân AMD 
+Giám_đốc tiếp_thị , Kishna_Weaver cho_biết , Rev_F sẽ có_mặt trên thị_trường trong quý ba năm nay . 
+Opteron là VXL dành cho máy_chủ và trạm làm_việc cao_cấp . 
+Như vậy kỷ_nguyên của các VXL đơn nhân dành cho máy_chủ đã khép lại với AMD . 
+Với Opteron đơn nhân , AMD đã tấn_công vào thị_trường VXL dành cho máy_chủ thấp cấp_vốn được Intel ngự_trị bằng các VXL_Xeon dòng x86 . 
+AMD đã chiến_thắng Intel nhờ rất nhiều tính_năng vượt_trội và đương_nhiên , chiếm_lĩnh không ít thị_phần vốn trước do Intel " thao_túng " . 
+Tất_cả các VXL dòng Rev_F đều có hai nhân . 
+Hệ_thống chân cắm Socket_F với 1207 chân cắm , tương_thích với bộ VXL 4 nhân Opteron theo kế_hoạch sẽ có_mặt vào năm 2007 . Trước_mắt , hệ socket 940 sẽ được sử_dụng cho cả dòng hai nhân và 4 nhân . 
+Đây được xem là giai_đoạn chuyển_tiếp trước khi socket F được chính_thức giới_thiệu . 
+Thao_tác này đảm_bảo được tính tiện_dụng cho các nhà sản_xuất trước các bước_tiến công_nghệ . 
+Rev F được sản_xuất trên công_nghệ 90 nm , giống như các VXL_Opteron hiện_tại . 
+Vào cuối năm nay , AMD sẽ bắt_đầu sản_xuất bằng công_nghệ 65 nm , như Intel đang làm với các dòng Cor ( Duo và Single ) . 
+Intel đã bắt_đầu sử_dụng công_nghệ 65 nm vào năm 2005 . Về mặt công_nghiệp , công_nghệ càng nhỏ cho_phép các nhà sản_xuất tích_hợp nhiều thành_phần hơn lên VXL , cho_phép nâng_cao số_lượng chức_năng được cứng hoá , đồng_thời giảm lượng điện_năng tiêu_thụ . 
+Điều đó có nghĩa hiệu_suất và tốc_độ hoạt_động được nâng lên . 
+Một trong những ảnh_hưởng lớn khác của công_nghệ là giá . 
+Càng nhỏ càng ít tốn vật_tư và giá_thành đương_nhiên sẽ rẻ hơn , đặc biệc là đối_với các VXL đa_nhân . 
+Rev F cũng sẽ trang_bị hai công_nghệ là Pacifia và Presidio , cho_phép nâng_cao khả_năng mô_hình_hoá và bảo_mật . 
+Bộ_nhớ sẽ hoạt_động nhanh hơn và tiêu_thụ ít điện_năng hơn nhờ nâng_cấp công_nghệ từ DDR sang DDR2 . Cache của VXL cũng giữ ở mức 1 MB / nhân và sử_dụng giao_tiếp đơn kênh với bộ_nhớ ngoài ( RAM )gắn trên bo mạch chủ . 
+Các bộ VXL tiết kiện điện_năng của Rev_F cũng sẽ được hợp_nhất thành một dòng , không như Opteron hiện_nay . 
+Hiện_tại , ngoài thiết_kế chuẩn dành cho AMD Opteron tiêu_thụ 95 W điện_năng , thì các dòng tiết_kiệm điện_năng " HE " chỉ tiêu_thụ có 55 W nhưng chạy ở tốc_độ thấp hơn một_chút . 
+Phiên_bản tiết_kiệm điện chạy toàn_phần cũng chỉ tiêu_thụ 68 W . 
+Rev F_HE cũng chỉ tiêu_thụ có 68 W điện_năng . 
+Công_nghệ AMD_PowerNow cũng sẽ được nâng_cấp và trang_bị cho Rev F . 
+Công_nghệ này cho_phép giảm lượng điện_năng tiêu_thụ và nhiệt_lượng toả ra khi yêu_cầu tính_toán của VXL thấp . 
+Hiệu_suất hoạt_động thực_tế phụ_thuộc rất nhiều vào bo mạch chủ . 
+Cho_nên vẫn chưa_thể nói được AMD và Intel , ai sẽ bước lên trước . 

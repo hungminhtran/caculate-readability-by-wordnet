@@ -1,0 +1,12 @@
+Google_Toolbar đời_mới với khả_năng tuỳ_biến độc_đáo 
+Google_Toolebar đời_mới này cho_phép người dùng tuỳ_biến toàn_bộ mọi nút công_cụ , boo kmark , toàn_bộ mọi tính_năng tìm_kiếm cũng như chia_sẻ thông_tin . 
+Với tất_cả mọi tính_năng tuỳ_biến theo yêu_cầu sử_dụng , Google_Toolbar sẽ tạo điều_kiện cho mọi người tìm_kiếm thông_tin , nhận được mọi cảnh_báo , sử_dụng hầu_như toàn_bộ mọi dịch_vụ của Google ở ngay trên cửa số trình_duyệt . 
+Có một_số cách chuyên_dùng để tuỳ_biến các nút công_cụ của Google_Toolbar . 
+Nhưng người dùng nên vào tính_năng " Add_buttons_to_your_toolbar ! " để thêm vào mọi biểu_tượng của các trang web mà mình thường sử_dụng vào Google_Toolbar . 
+Mỗi_một biểu_tượng website được thể_hiện dưới hình_dạng một nút , với menu là toàn_bộ mọi tin_tức mới nhất mà trang web đó vừa cập_nhật và Google_Toolbar đã tự_động thu tin cho người dùng thông_qua tính_năng đọc tin RSS . 
+Hiện có khoảng hơn 50 nút biểu_tượng của các trang web sáng_giá nhất đang só sẵn trong Google_Toolbar . 
+Muốn tuỳ_biến các nút công_cụ của riêng các dịch_vụ của Google thì người dùng nên vào mục Setting - &gt ; Options để tuỳ_biến mọi thứ cần dùng trong Google_Toolbar . 
+Các tính_năng sáng_giá khác là " Add " toàn_bộ boo kmark vào biểu_tượng " Boo kmark " dưới hình ngôi sao_xanh , kiểm_tra lỗi chính_tả , gửi nội_dung trang web đang hiển_thị đến các Blog hoặc Gmail của ai đó … 
+Một tính_năng khác cũng cực_kỳ sáng_giá là chuyển toàn_bộ trang web đang hiển_thị sang dạng file PDF , hoặc chuyển nội_dung website đang hiển_thị vào một file PDF sẵn có nào đó . 
+Người dùng nào là fan của Google thì nên lập_tức vào đây để tải Google_Toolbar đời_mới nhất về dùng và chắc_chắn sẽ không bao_giờ thất_vọng tuy_rằng nó vẫn còn ở tình_trạng bản thử_nghiệm Beta . 
+Đáng tiếc rằng phiên_bản Google_Toolbar này hiện chỉ chạy được với Internet_Explorer . 

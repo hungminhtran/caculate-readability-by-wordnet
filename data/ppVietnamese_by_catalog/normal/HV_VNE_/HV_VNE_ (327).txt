@@ -1,0 +1,6 @@
+Bản vá Windows mới lại gây trục_trặc máy_tính 
+Bản sửa lỗi nghiêm_trọng cho hệ_điều_hành của Microsoft trong bản tin tháng 12 đã gây ra một_số rắc_rối cho những người đang thử_nghiệm trình_duyệt Internet_Explorer_7 . Jeremy_Dallman , Giám_đốc dự_án bảo_mật Internet_Explorer , cho_biết họ đã nhận được nhiều thông_báo từ phía khách_hàng về những biểu_hiện khác_thường của trình_duyệt sau khi cài bản cập_nhật mới nhất . 
+Ví_dụ , Internet_Explorer bị lỗi ngay khi mở , đường kết_nối hiển_thị một trang trống ( blank ) , hoặc nhiều cửa_sổ sẽ mở ra đồng_thời mỗi khi khởi_động trình_duyệt . 
+Dallman cho_biết Internet_Explorer_7 vẫn đang trong giai_đoạn thử_nghiệm và trục_trặc chỉ xảy_ra khi nó được cài song_song với Internet_Explorer 6 . Khi đó , bản beta của trình_duyệt thế_hệ mới sẽ phát_sinh một khoá với cấu_hình không chuẩn trong Windows_Registry , phần lõi của hệ_điều_hành lưu các thiết_lập máy_tính . 
+Chỉ cần xoá khoá này , mọi vấn_đề sẽ được khắc_phục . 
+Bản tin tháng 12 của Microsoft bao_gồm một miếng vá cho lỗ_hổng bảo_mật trong Windows , có khả_năng bị khai_thác để tấn_công trực_tuyến người sử_dụng trình_duyệt , và 3 lỗi khác . 

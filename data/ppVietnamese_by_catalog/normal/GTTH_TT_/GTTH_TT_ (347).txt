@@ -1,0 +1,36 @@
+Để " dế " được bền hơn 
+Thời_tiết ẩm_ướt vào các mùa như mùa đông , mùa xuân thường dễ ảnh_hưởng đến điện_thoại như : bàn_phím không sáng đèn nhưng mọi hoạt_động của máy vẫn diễn_ra bình_thường . 
+Vài hôm sau tình_trạng này lại tiếp_diễn , rồi đâu lại vào đấy . 
+đó có_thể do điện_thoại đang bị ẩm , ảnh_hưởng đến hệ_thống ánh_sáng điện_thoại . 
+Bạn chỉ cần đến các trung_tâm bảo_hành và vệ_sinh máy thì mọi việc sẽ ổn . 
+Sử_dụng pin không đúng 
+Nhiều khách_hàng không hiểu sao điện_thoại của mình lại nhanh hết pin . 
+Thông_thường pin điện_thoại sau một thời_gian sử_dụng sẽ bị suy_giảm , chỉ còn khoảng 80 % so với ban_đầu . 
+Ngoài_ra , sử_dụng sai quy_cách cũng sẽ dẫn đến việc pin " chết_yểu " . 
+Bạn cần chú_ý sạc liên_tục theo đúng chỉ_tiêu thời_gian 12 giờ khi mới mua máy . 
+Canh chừng 3-4 giờ thì ngưng sạc để pin nghỉ_ngơi mươi phút rồi sạc tiếp cho đúng thời_gian quy_định . 
+Để pin không bị chai , hãy dùng hết pin rồi mới sạc tiếp , tránh việc pin chưa hết đã lo nạp dồn cũng như không nên sạc quá lâu hoặc quá mau . 
+Trong quá_trình sạc cũng nên tắt máy , không để pin hoạt_động ở hai trạng_thái vừa nạp vừa phóng_điện . 
+Canh chừng sự tiếp_xúc giữa dây sạc và điện_thoại , thấy máy nóng thì rút ra rồi cắm lại cho chắc_chắn . 
+Bộ_nhớ của máy 
+Không_thể phủ_nhận nhiều tiện_ích có được từ những chương_trình phần_mềm như từ_điển , trò_chơi , nghe nhạc ... 
+khi cài_đặt vào điện_thoại . 
+Tuy_nhiên , cài_đặt quá nhiều sẽ khiến máy khởi_động chậm , treo máy dù máy đã được trang_bị thẻ_nhớ dung_lượng cao . 
+Đó là chưa kể nhiều khách_hàng đã tải nhầm chương_trình chỉ mang tính_chất dùng thử hoặc do các hacker tạo ra , rất có hại cho máy . 
+Kết_quả , máy không kích_hoạt được vào các mục themes , menu như bình_thường . 
+Đặc_biệt , cần cảnh_giác với các mã_số bí_mật chỉ_dẫn để xem phiên_bản máy hoặc để format , reset lại máy . 
+Thông_thường format cũng có tác_dụng là làm sạch các file rác , chỉnh_trang lại bộ_nhớ máy . 
+Tuy_nhiên , sau khi format , toàn_bộ dữ_liệu cũ bị mất sạch , lắm khi hệ_điều_hành bị ảnh_hưởng nếu format không đúng . 
+Vì vậy , khách_hàng cần luôn quan_tâm đến sức_khoẻ của bộ_nhớ . 
+Chương_trình nào cần_thiết thì mới cài_đặt , cái nào không cần_thiết nên xoá_bỏ bớt . 
+Cần xem_xét kỹ_lưỡng thông_tin phần_mềm trước khi cài_đặt . 
+Nếu cần format , reset lại máy thì đến các trung_tâm có uy_tín . 
+Khắc_phục một_số lỗi thông_thường 
+Với Samsung ( dòng A , E , X , S ) thường thấy nhất là lỗi dịch_vụ giới_hạn ( hàng xách tay , chính_hãng đều bị ) và Nokia ( dòng 1100 , 8210 , 8250 series 40 ) , Motorola ( V60 , 66 , 70 , T720 , 720i ) là lỗi treo máy và bộ sưu_tập ( hình_ảnh , âm_thanh trong gallery ) bỗng_nhiên biến_mất . 
+Xử_lý đơn_giản , bạn chỉ việc tắt máy , đợi mươi giây rồi khởi_động lại . 
+Thế nhưng lắm khi máy thường_xuyên bị lỗi giới_hạn ( Samsung ) và tự_nhiên ngắt nguồn ( Nokia ) thì bạn cần xem_lại , có_thể máy đã bị lỗi phần_mềm . 
+Bạn đến các trung_tâm chăm_sóc điện_thoại chuyên_nghiệp để cài_đặt lại phần_mềm cho tốt hơn . 
+Riêng trường_hợp một_số điện_thoại bao_gồm cả Nokia , Samsung , Sony_Ericsson , Siemens , Motorola ... bỗng_dưng bắt sóng rất yếu , lúc có lúc không . 
+Mặc_dù cột hiển_thị sóng vẫn báo đầy sóng nhưng không sao nghe hoặc thực_hiện được cuộc gọi một_cách rõ_ràng . 
+Lỗi này chủ_yếu do máy đã có những va_đập mạnh , bị đánh_rơi nhiều lần , IC nguồn bị hở . 
+Bạn cũng cần sớm đem điện_thoại đi chữa_trị bằng cách thay IC nguồn khác . 

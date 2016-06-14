@@ -1,0 +1,7 @@
+Cứ 6 spyware thì 1 có mục_đích ăn_cắp thông_tin 
+Nghiên_cứu của hãng Aladdin_Knowledge_Systems ( Mỹ ) cho_thấy tỷ_lệ phần_mềm được thiết_kế chuyên vào mục_đích thu_thập dữ_liệu nhận_dạng cá_nhân là khá lớn . 
+Điều này khẳng_định thêm xu_hướng khai_thác spyware trong giới tội_phạm . 
+Khảo_sát của Aladdin_Knowledge_Systems xác_định 15 % trong số 2.000 loại spyware phổ_biến có mục_đích gửi thông_tin cá_nhân mà chúng thu_thập được từ PC bị lây_nhiễm bằng công_cụ ghi_nhận lệnh gõ bàn_phím ( keylogger ) . 
+Bên cạnh đó là các nhiệm_vụ ăn_cắp tên đăng_nhập , password hoặc ăn_cắp địa_chỉ e-mail trong danh_bạ liên_lạc . 
+25 % spyware khác được thiết_kế để lấy những thông_tin không phải là dữ_liệu cá_nhân nhưng cũng được Aladdin liệt vào loại nguy_cơ trung_bình vì những chương_trình này thu_thập dữ_liệu về hệ_điều_hành của PC nạn_nhân , tên_miền , các file log , ứng_dụng an_ninh trên máy , địa_chỉ IP và các bản nâng_cấp bảo_mật . 
+60 % số spyware còn_lại chủ_yếu nhặt_nhạnh những thông_tin có giá_trị thương_mại liên_quan đến thói_quen duyệt web của người sử_dụng đầu_cuối . 

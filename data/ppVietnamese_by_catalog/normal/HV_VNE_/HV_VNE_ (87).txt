@@ -1,0 +1,11 @@
+' Hòm_thư_điện_tử của Tony_Blair bị virus tấn_công ' 
+Đó là nội_dung e-mail giả_danh hãng tin BBC gửi đến nhiều cử_tri Anh sau hôm bầu_cử 5/5 . 
+Hãng phần_mềm bảo_mật Sophos cảnh_báo trong e-mail này có chứa Trojan ăn_cắp thông_tin cá_nhân của người sử_dụng . 
+Do những e-mail nói trên được tung ra sau cuộc bầu_cử quyết_định Tony_Blair tiếp_tục cầm_quyền nhiệm_kỳ 3 nên khả_năng có nhiều người click vào tin này hơn bình_thường . 
+Khi nhấn vào đường dẫn trong mail , máy_tính có_thể bị một loạt phần_mềm gián_điệp xâm_nhập để lấy cắp thông_tin cá_nhân và các chi_tiết về tài_khoản ngân_hàng của người sử_dụng khi giao_dịch trên mạng . 
+" Trojan sẽ cài_đặt mã nguy_hiểm và phần_mềm lấy cắp mật_khẩu vào máy_tính bị nhiễm " , Graham_Cluley , cố_vấn cao_cấp của Sophos , cho_biết . 
+" Tin_tặc biết rằng nhiều người dân Anh sẽ theo_dõi tin_tức về cuộc bầu_cử vào buổi sáng nên chúng cố_ý tạo ra một chuyện giật_gân như thế này để lôi_kéo người sử_dụng nhấn vào đường dẫn cài sẵn " . 
+Một trong những loại sâu nguy_hiểm cài trong các e-mail mạo_danh nói trên là Troj / PWSAgent . A được lập_trình để ăn_cắp mật_khẩu của nhà cung_cấp INETCOMM , password trên trình_duyệt Microsoft_Internet_Explorer , phần_mềm liên_lạc Outlook cùng các địa_chỉ e-mail của ISP , các giao_thức POP3 và HTTP. 
+Một_số mã nguy_hiểm khác được dùng trong cuộc tấn_công này là Troj / JDownL . A , Troj / Viper . A , Troj / Viperjs . A và chương_trình chuyên ăn_cắp các thông_tin tài_khoản ngân_hàng Troj/Dumaru.BE . 
+Theo chuyên_gia Cluley , hacker đã cố_gắng tăng độ tin_cậy cho e-mail của chúng bằng cách đính kèm ảnh Tony_Blair ở trang BBC , nhưng do lỗi kỹ_thuật nên chỉ có phần chữ hiện ra . 
+Vào năm 2003 , virus Quarters . A với mục_tiêu công_kích chính_sách nhập_cư của ông Blair đã được thiết_kế nhằm thực_hiện tấn_công từ_chối dịch_vụ vào trang web của chính_phủ Anh . 

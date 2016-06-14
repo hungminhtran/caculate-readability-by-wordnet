@@ -1,0 +1,20 @@
+Định_danh virus : rối như … canh hẹ 
+F-Secure cũng không chịu thua_kém khi đặt tên là Nyxem . E , Sophos thì lại cho rằng nó không phải là " dòng E " nên đặt tên là Nyxem . D . 
+Các công_ty bảo_mật nhỏ hơn cũng đều muốn thành_lập nên " phòng hộ_tịch virus " của riêng mình nên tha_hồ đặt cho nó nhiều tên khác như Kapser , KillAV , Grew hoặc Blackworm . 
+Thậm_chí Uỷ_ban an_ninh quốc_gia Hoa_Kỳ lại đặt cho nó một cái tên đầy chất … thám_tử là CME-24 . Với những người dùng bình_thường thì một rừng biệt_danh này hoàn_toàn không ảnh_hưởng gì đến thế_giới , nhưng đối_với giới chuyên_gia bảo_mật thì chuyện một con virus mà đã có đến gần chục cái tên đã trở_thành vấn_đề gây nhức đầu không ít . 
+Một người dùng bình_thường , ít am_hiểu về bảo_mật , có_thể vô_tình " bị lừa " khi bỏ tiền ra mua bản nâng_cấp của 3 sản_phẩm bảo_mật mà họ nghĩ rằng có khả_năng diệt 3 loại virus nguy_hiểm nhất trong tháng là Nyxem . D , Kama_Sutra hoặc Blackworm_… nhưng thực_tế thì 3 con virus này chỉ là một . 
+Sự khác_biệt trong việc định_danh virus cũng sẽ gây ra lắm rắc_rối khác ngay_cả cho giới am_hiểu chuyên_môn . 
+Ken_Dunham , giám_đốc kỹ_thuật của công_ty bảo_mật iDefense lớn_tiếng cảnh_báo về " tệ_nạn " này : " Tất_cả mọi công_ty bảo_mật nên có hành_động mau_chóng để giải_quyết vấn_đề rắc_rối này . 
+Đừng nên vì môi_trường cạnh_tranh quá gay_gắt mà bất_chấp một chuẩn_mực thống_nhất trong việc định_danh các loại mã_độc " . 
+Quả_thật là mọi chuyện không đơn_giản khi các chuyên_gia bảo_mật ngồi lại với nhau để bàn về các biện_pháp định_danh thống_nhất . 
+Thông_thường thì giới bảo_mật mặc_nhiên chấp_nhận công_ty nào đầu_tiên phát_hiện ra loại virus nào đó sẽ được quyền đặt tên cho nó . 
+Sau đó nếu có công_ty nào đó phát_hiện ra biến_thể mới của virus này thì cứ thế thêm các chữ_cái theo thứ_tự từ a đến z vào sau tên đầu_tiên . 
+Nhưng trong trường_hợp các công_ty cùng phát_hiện ra một loại virus mới ra_đời và công_bố gần như cùng lúc thì lại nảy_sinh sự khác_biệt khi định_danh . 
+Ngoài_ra với những virus có quá ít , hoặc quá nhiều biến_thể thì số thứ_tự trong tên của các biến_thể cũng có rất nhiều khác_biệt . 
+Thậm_chí có công_ty bảo_mật còn đặt một tên mới cho một biến_thể virus nào đó có cấu_trúc đột_phá , làm cho " nồi canh hẹ " tên_tuổi virus ngày_càng thêm rối . 
+Loại virus vừa xuất_hiện là thí_dụ điển_hình nhất của các bất_đồng trong việc định_danh mã_độc . 
+Symantec và CA đặt tên nó là Kama_Sutra ( tên của một bộ kinh thư tình_dục cổ_đại nổi_tiếng của Ấn_Độ ) vì cho rằng nó là virus khiêu_dâm tấn_công mạnh vào Ấn_Độ trước Mỹ . Một_số công_ty khác lại đặt cho nó tên Grew . A để nhấn_mạnh khả_năng phá_hoại file của nó hơn là gây nghẽn mạch mạng . 
+F-Secure lại thích đặt cho nó tên " Nyxem . E " vì trang web của Thị_trường tài_chính New_York đã từng bị một biến_thể trước đó của virus này tấn_công và Nyxem chính là tên_gọi tắt của thị_trường này . 
+Uỷ_ban an_ninh quốc_gia Hoa_Kỳ cũng quyết_định tham_gia vào " Sở hộ_tịch virus " khi đặt tên cho nó là CME-24 . CME là viết tắt của " Bảng liệt_kê chung danh_sách các mã_độc " còn số 24 có_lẽ là một_số quy_ước nào đó của virus này từ đầu năm đến nay . 
+Tỷ_lệ tăng của mã_độc trong những năm gần đây không bao_giờ dưới 30 % / năm và vấn_đề không thống_nhất trong việc định_danh mã_độc đã dần_dần trở_nên một cuộc_chiến chưa có lối ra . 
+Nên chăng khi thành_lập một công_ty chuyên quản_lý và định_danh các loại mã_độc tương_tự như Cơ_quan quản_lý tên_miền và mã_hiệu quốc_tế ( ICANN ) ? ! 

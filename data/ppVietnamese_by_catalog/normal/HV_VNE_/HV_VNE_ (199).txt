@@ -1,0 +1,10 @@
+Trojan ăn_cắp dữ_liệu 50 ngân_hàng quốc_tế 
+Hãng bảo_mật Sunbelt tại Florida ( Mỹ ) đã phát_hiện ra nguy_cơ một nhóm tấn_công nào đó sử_dụng phần_mềm dò phím để thu_thập thông_tin cá_nhân từ hàng nghìn máy_tính khác nhau , ảnh_hưởng đến hàng chục ngân_hàng thế_giới . 
+Thông_tin bao_gồm chi_tiết thẻ tín_dụng , mã_số bảo_mật , tên người dùng , mật_khẩu đăng_nhập vào website ngân_hàng , các đoạn hội_thoại tin_nhắn nhanh ... 
+Một phần dữ_liệu này sau đó được gửi đi trong một file có nguồn_gốc từ một server tại Mỹ . Alex_Eckelberry , Giám_đốc Sunbelt , cho_biết họ đã nhận_thấy thông_tin bí_mật của khách_hàng ở rất nhiều ngân_hàng khi vô_tình dò ra file này . 
+Trong số đó có chi_tiết về một tài_khoản 350.000 USD của khách_hàng , và dữ_liệu khác của một công_ty nhỏ ở California với tài_khoản 11.000 USD có_thể dễ_dàng tiếp_cận . 
+Trojan dò phím này hoạt_động tương_tự chương_trình phần_mềm gián_điệp CoolWebSearch , bí_mật thâm_nhập vào một máy_tính nào đó để thu_thập dữ_liệu . 
+Sunbelt cho rằng chúng xuất_phát từ một website khiêu_dâm . 
+Người dùng Windows_XP chưa cài bản nâng_cấp Service_Pack 2 sẽ bị nhiễm virus khi vào trang đó . 
+Khách_hàng sử_dụng Windows_2000 và ME cũng có nguy_cơ bị tấn_công nếu hệ_điều_hành chưa cài bản vá lỗi . 
+FBI đang bắt_tay vào tiến_hành điều_tra vụ_việc , dự_kiến diễn_ra trong vòng 2 tuần với khoảng 2.000 máy_tính . 

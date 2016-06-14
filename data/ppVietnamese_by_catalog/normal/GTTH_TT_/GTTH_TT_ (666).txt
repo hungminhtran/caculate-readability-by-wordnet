@@ -1,0 +1,15 @@
+Linus_Torvalds có phải là cha đẻ của Linux ? 
+Bản báo_cáo dài 92 trang của 14 chuyên_gia tại Viện Alexis_de_Tocqueville , Washington cho rằng sản_phẩm mã nguồn mở hiện_nay xuất_thân từ Minix chứ không phải Linux của Linus_Torvalds . 
+Minix do Andrew_Tanenbaum tại Trường ĐH Vrije ( Amsterdam ) thiết_kế nhằm hỗ_trợ cho việc giảng_dạy về hệ_điều_hành và phần_mềm . 
+Và Torvalds đã sử_dụng Minix trước khi anh bắt_tay vào triển_khai Linux vào năm 1991 . Báo_cáo cho rằng Tanenbaum - người đã nghiên_cứu hệ_điều_hành mã nguồn mở lâu_năm và đã từng biết mã nguồn Unix - đã tạo ra Minix trong vòng 3 năm . 
+" Liệu Linus có_thể tạo ra Linux trong vòng có 6 tháng trong khi anh vẫn còn là một sinh_viên dường_như không có kinh_nghiệm gì về phát_triển hệ_điều_hành ? 
+Kenneth_Brown , Chủ_tịch Alexis_de_Tocqueville , chất_vấn . 
+Tại_sao những bộ_óc kinh_doanh đầy mưu_lược trong lịch_sử của ngành máy_tính , với hàng trăm triệu đôla tiền vốn , lại đi dùng nguồn Unix nếu nó chỉ đơn_giản là viết ra mã từ con_số 0 mà không cần mấy sự giúp_đỡ hay kinh_nghiệm ? " 
+Ông Brown cho rằng Linus đã lấy nhiều ý_tưởng từ Minux , bao_gồm hệ_thống file , cây thư_mục nguồn và nhiều thứ khác . 
+Tuy_nhiên , trong một cuộc phỏng_vấn qua e-mail , Torvalds đã cực_lực phản_đối kết_luận của báo_cáo trên . 
+Torvalds tuyên_bố : " Linux chưa bao_giờ dùng mã Minix . Ông nói rằng chính Unix đã đem lại những ý_tưởng đầu_tiên về Linux chứ không phải Minix . 
+Nhưng Torvalds thừa_nhận rằng : " Khi viết Linux thì tôi đang dùng Minix . Nhưng điều đó thì có khác gì việc bạn đang dùng nền Windows khi sáng_tác ra một sản_phẩm riêng . 
+Chẳng_nhẽ như thế thì tác_phẩm của bạn cũng là ăn_cắp mã của Windows ? " . 
+Bản báo_cáo được đưa ra không lâu sau khi có nhiều cuộc công_kích vào Linux , chủ_yếu xuất_phát từ Microsoft , đối_thủ cạnh_tranh của hệ_điều_hành này . 
+Đặc_biệt hơn , những nghi_vấn trên lại được dấy lên trong khi tập_đoàn SCO_Group đâm_đơn kiện Linux và cho rằng hệ_điều_hành đã vi_phạm bản_quyền Unix . 
+Nếu đúng Linux là một " phiên_bản " của Minix , thì Linus_Torvalds có_thể bị cáo_buộc xâm_phạm tài_sản trí_tuệ . 

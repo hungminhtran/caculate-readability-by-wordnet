@@ -1,0 +1,11 @@
+Virus_Bagle lại tiếp_tục hoành_hành 
+Bagle . AX và Bagle . AY , 2 phiên_bản mới nhất của Bagle , loại virus được xếp vào top 10 chương_trình phá_hoại nguy_hiểm nhất trong năm 2004 , đã xuất_hiện và lây_lan trên Internet . Đây là biến_thể thứ 50 và 51 của loại sâu máy_tính bắt ra_đời vào tháng 1/2004 . 
+Cũng giống như bản_gốc ( đôi_khi còn được gọi là Beagle ) , 2 hậu_duệ này ẩn_nấp trong file thực_thi và lây_lan sang máy_tính sử_dụng hệ_điều_hành Windows thông_qua e-mail và hệ_thống chia_sẻ file ngang hàng ( peer-to-peer_network ) . 
+Một_khi người sử_dụng tải các file này về và kích_hoạt , máy_tính của họ sẽ ngay_lập_tức bị lây_nhiễm . 
+Sau khi đã tìm được chỗ " ẩn_nấp " mới , virus bắt_đầu thu_gom địa_chỉ e-mail trong máy_tính nạn_nhân và tự_động gửi thư đến các địa_chỉ này , tất_nhiên là kèm theo những file có bản copy của chúng . 
+Thư do virus gửi đi thường có tiêu_đề như Delivery service mail , Registration is accepted , và You are made active& còn các file đính kèm chứa virus thường có tên là Jol03 , upd02 , zupd02& với phần đuôi mở_rộng như .exe , .scr , .com và .cpl . 
+Trên máy_tính sử_dụng phần_mềm chia_sẻ file ngang hàng , virus tự nhân_bản vào trong các thư_mục có tên bắt_đầu bằng shar , đó rất có_thể là những thư_mục chia_sẻ file ( shared files ) , được sử_dụng để trao_đổi tập_tin trên mạng . 
+Với hình_thức này , file chứa virus thường có tên liên_quan đến những phần_mềm phổ_biến hay ảnh khiêu_dâm , ví_dụ như Adobe_Photoshop 9 full . exe hay XXX hardcore images . exe " & 
+Các công_ty bảo_mật cho_biết đã tiến_hành nâng_cấp phần_mềm giúp phát_hiện ra 2 biến_thể mới này và khuyến cao khách_hàng nên cập_nhật càng sớm càng tốt . 
+Trong ngày hôm_qua , một loại sâu máy_tính khác có tên là Forbot cũng đã xuất_hiện và tấn_công các máy_tính chạy phần_mềm quản_lý cơ_sở_dữ_liệu MySQL._Virus này đã thâm_nhập thành_công vào khoảng 8.000 hệ_thống bằng cách cướp quyền quản_trị đối_với những tài_khoản không thiết_lập mật_khẩu hoặc có nhưng yếu . 
+Phương_pháp của Forbot là thử lần_lượt khoảng 1.000 password thông_dụng mà chúng đã có trong cơ_sở_dữ_liệu . 

@@ -1,0 +1,8 @@
+Lỗ_hổng nghiêm_trọng trong nhiều ứng_dụng web 
+Lỗi bảo_mật đã được tìm thấy trong XML-RPC cho PHP và PEAR XML-RPC , ảnh_hưởng đến rất nhiều ứng_dụng web , tạo điều_kiện cho kẻ tấn_công kiểm_soát toàn_bộ server . 
+Hệ_thống gọi thủ_tục từ xa RPC ( Remote_Procedure_Call ) dựa trên XML như XML-RPC , được sử_dụng với HTTP để nâng hiệu_suất dịch_vụ web , được đánh_giá là một_cách đơn_giản và đang ngày_càng phổ_biến trong dịch_vụ trực_tuyến . 
+Còn được gọi là PHPXMLRPC , giao_thức này được dùng trong rất nhiều ứng_dụng web quan_trọng như PostNuke , Drupal , b2evolution và TikiWiki . 
+" PHPXMLRPC có nguy_cơ bị tấn_công rất lớn qua lỗ_hổng thực_thi mã PHP từ xa , cho_phép hacker khống_chế máy_chủ web " , hãng GulfTech ( Mỹ ) khẳng_định . 
+Lỗ_hổng này xảy_ra do lỗi trong thành_phần làm nhẹ bớt dữ_liệu chuyển tới một cuộc gọi eval( ) với tính_năng parseRequest( ) của máy_chủ XMLRPC . Theo GulfTech , " bằng việc tạo ra một file XML sử_dụng những câu_lệnh đơn trong cuộc gọi eval( ) , kẻ tấn_công có_thể dễ_dàng nhúng một đoạn mã PHP vào máy_chủ đó để thay_đổi hệ_thống " . 
+Phiên_bản sửa lỗi trong PHPXMLRPC có_thể tải tại đây . 
+Riêng với một_số ứng_dụng sử_dụng thành_tố nói trên , như eGroup_Ware và phpGroup_Ware , hãng bảo_mật Secunia khuyên người dùng nên chặn truy_cập đến chức_năng XML-RPC . Phiên_bản 1 . 3.1 vá lỗi trong PEAR XML-RPC cũng đã sớm được ra_mắt . 

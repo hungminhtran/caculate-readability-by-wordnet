@@ -1,0 +1,5 @@
+Mã khai_thác lỗi giống lỗ_hổng bị Zotob lợi_dụng 
+Tuần qua , một đoạn mã đã được công_bố trên Internet nhằm tận_dụng lỗi công_nghệ plug-and-play , từng gây nên " đại_dịch sâu Zotob " , mà Microsoft xếp vào hàng " quan_trọng " trong Windows_2000 và Windows_XP._Hãng bảo_mật Symantec cho_biết mã này cho_phép gây trục_trặc , phá hỏng máy_tính , nhưng tin_tặc không_thể cài chương_trình nguy_hiểm để giành quyền kiểm_soát toàn_bộ hệ_thống . 
+Tập_đoàn sản_xuất hệ_điều_hành Windows đã cung_cấp miếng vá vào ngày 11/10 trong bản tin bảo_mật MS05-047 , cùng với bản sửa lỗi cho 13 lỗ_hổng khác . 
+Đây không phải đoạn mã đầu_tiên tận_dụng một lỗi đã được vá trong bản tin tháng 10 . Tuy_nhiên , dù nhiều chuyên_gia đã đưa ra cảnh_báo về nguy_cơ xuất_hiện sâu mới , vẫn chưa có vụ tấn_công nào thực_sự diễn_ra . 
+Một đại_diện của Microsoft cho_biết họ đã phát_hiện đoạn mã mới nhất , và khuyến_cáo người sử_dụng nhanh_chóng cài MS05-047 . Nhưng ai đã cập_nhật hệ_thống với bản vá MS05-039 được phát_hành trong bản tin tháng 8 cũng được bảo_vệ trước lỗi này . 

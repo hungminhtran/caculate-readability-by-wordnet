@@ -1,0 +1,24 @@
+Bạn muốn trở_thành ngôi_sao Internet ? 
+Anh chỉ muốn thử khai_thác podcast - một kiểu chương_trình phát_thanh mới trên Internet , và nghĩ rằng cũng có nhiều người thích học tiếng Pháp . 
+Nhưng chỉ sau vài tháng , chương_trình FrenchPodClass vui_nhộn và nhẹ_nhàng của Babolat đã thu_hút 10.000 thính_giả và được xếp vào hàng những chương_trình podcast được yêu_thích nhất . 
+Anh_chàng sinh_viên 26 tuổi đến từ nước Pháp cũng hoàn_toàn bất_ngờ trước thành_công nhanh_chóng của chương_trình dạy tiếng Pháp miễn_phí này . 
+Công_nghệ podcast cho_phép mọi người sản_xuất một chương_trình phát_thanh mà thính_giả có_thể tìm , tải về và nghe vào bất_cứ lúc nào . 
+Những chương_trình podcast không_chỉ dành riêng cho iPod , mà_còn có_thể nghe trên máy_tính hoặc các thiết_bị nghe nhạc cầm tay . 
+Đặc_điểm khiến podcast được ưa_chuộng là nó rất đơn_giản . 
+Một chương_trình podcast chỉ bao_gồm một tập_tin âm_thanh kỹ_thuật số với một đường link đặc_biệt cho_phép nó truyền được qua mạng . 
+Nếu bạn cũng muốn tạo những show podcast cho riêng mình , hãy thử làm theo những bước sau đây : 
+Bước 1 : Nghe một_số chương_trình podcast phổ_biến để biết sơ về cấu_trúc chương_trình . 
+Sau đó tập viết một kịch_bản ngắn cho 30 phút phát_sóng . 
+Bước 2 : Lắp_ráp một_số thiết_bị cho máy_tính . 
+Bạn có_thể dùng micro gắn vào máy_tính , nhưng chất_lượng âm_thanh sẽ không được tốt lắm . 
+Do đó nên chuẩn_bị riêng một bộ micro và tai_nghe để kiểm_soát âm_lượng tốt hơn . 
+Bước 3 : Bạn cần một chương_trình để ghi_âm , mix và chỉnh_sửa nội_dung . 
+Phần_mềm Audacity sẽ giúp bạn làm công_việc này một_cách dễ_dàng . 
+( Download tại : http : / / audacity . sourceforge . net / ) 
+Bước 4 : Chuyển tập_tin audio vừa ghi_âm sang dạng MP3 rồi upload nó lên trang web . 
+Nếu việc upload gặp khó_khăn , bạn có_thể vào www . OurMedia . org , trang web này sẵn_sàng host chương_trình podcast của bạn lên và lưu lại miễn_phí . 
+( vào Publish_my_Media ) 
+Bước cuối_cùng : Cho một đường link để chuyển file MP3 thành chương_trình podcast . 
+Điều này giúp thính_giả dễ tìm ra chương_trình podcast của bạn và đăng_ký vào nghe , ngoài_ra mỗi khi bạn phát_sóng một chương_trình mới thì nó sẽ được tự_động tải về máy_tính họ . 
+Trang web www . FeedBurner . com sẽ giúp bạn chuyển đường link miễn_phí . 
+Chúc bạn thành_công ! 

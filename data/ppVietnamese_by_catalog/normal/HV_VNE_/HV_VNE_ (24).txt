@@ -1,0 +1,23 @@
+Mạng Wi-Fi và nguy_cơ bị xâm_nhập trái_phép 
+Chỉ với chiếc máy_tính xách tay dùng card không dây hàng_chợ , người_ta có_thể la_cà ở khu trung_tâm Nguyễn_Huệ , Đồng_Khởi , Lê_Lợi , khu_vực hồ Con Rùa và công_viên 30-4 ( TP HCM ) và ... 
+dễ_dàng truy_cập Internet miễn_phí . 
+Đây là lỗ_hổng bảo_mật dễ bị xâm_phạm nhất khi sử_dụng mạng không dây . 
+Tại mỗi khu_vực nói trên , có hàng chục điểm truy_cập của các công_ty đang hoạt_động và hầu_như đều không dùng chế_độ mã_hoá để bảo_mật . 
+Thậm_chí có điểm bỏ_ngỏ hoàn_toàn việc kiểm_tra kết_nối . 
+Dựa vào tên điểm truy_cập , có_thể dễ_dàng xác_định chủ_nhân của chúng vì nhiều trường_hợp tên này được đặt theo tên doanh_nghiệp đang sử_dụng . Ngoài việc dùng " ké " Internet , từ cửa_ngõ điểm truy_cập , nhiều người còn còn có_thể đi ngược trở vào mạng nội_bộ ( LAN ) của các đơn_vị này . 
+Và tỷ_lệ bị xâm_nhập như vậy là khoảng 15-20 % số mạng LAN không dây . 
+Đó là những trường_hợp bỏ_ngỏ , còn trường_hợp có cài_đặt chế_độ bảo_mật thì vẫn còn nhiều cách để xâm_nhập nếu quản_trị mạng tại các cơ_quan , doanh_nghiệp chỉ bật chế_độ bảo_mật của các điểm truy_cập mà không dùng thêm phần_mềm an_ninh nào khác . Dùng thử một_vài công_cụ tìm được từ cỗ máy Google , người_ta cũng có_thể mở_cửa được các điểm truy_cập , ngoại_trừ các điểm do VDC cung_cấp . 
+Ngay_cả đối_với các chuyên_viên tin_học , bảo_vệ an_ninh cho mạng không dây luôn là vấn_đề cần quan_tâm thường_xuyên . 
+Người sử_dụng bình_thường , nhất_là trong các gia_đình , lại càng đáng ngại hơn vì ít ai để_ý các lỗ_hổng " chết người " này . 
+Theo hãng tin CNet , ngay tại Mỹ , nơi mạng Wi-Fi phát_triển nhanh và người sử_dụng luôn được cảnh_báo về các vấn_đề bảo_mật , cũng ít người dùng tại gia_đình và doanh_nghiệp nhỏ quan_tâm đúng_mức đến việc bảo_vệ mạng không dây . 
+Nguyên_nhân chủ_yếu là do họ ngại đụng đến các thiết_lập thông_số kỹ_thuật rắc_rối nên chỉ cần lắp thiết_bị Wi-Fi và cho máy_tính kết_nối Internet mà_thôi . Theo dự_báo của hãng phân_tích công_nghệ Gartner , đến năm 2007 vẫn còn 80 % số mạng không dây trong gia_đình ở Mỹ không dùng chế_độ bảo_mật . 
+Theo thăm_dò của công_ty phần_mềm an_ninh Symantec , cứ 10 người dùng Wi-Fi trong gia_đình được hỏi thì có 8 người thừa_nhận không dùng bất_cứ chế_độ bảo_mật nào . Hầu_hết quán cà_phê có Wi-Fi tại Việt_Nam cũng không đặt chế_độ bảo_mật nên chỉ cần một máy_tính có card mạng Wi-Fi là bạn có_thể tha_hồ lướt web và xâm_nhập bất_hợp_pháp vào các máy_tính tham_gia mạng . 
+Tất_nhiên , có một_số trường_hợp phải dùng tool ( công_cụ ) mới có_thể đăng_nhập vào . 
+Nhưng sự nguy_hiểm ở chỗ khi phát_hiện mất dữ_liệu , nạn_nhân không_thể biết kẻ xâm_nhập đang ở đâu vì một điểm truy_cập nếu được đặt ở vị_trí thuận_lợi có_thể phát_sóng đi xa cả trăm mét . Tại Việt_Nam vẫn chưa có tình_trạng giả lập điểm truy_cập để đánh_cắp dữ_liệu cá_nhân vì việc thanh_toán trực_tuyến chưa phổ_biến . 
+Nhưng để an_toàn khi sử_dụng công_nghệ này , máy_tính cần được cài_đặt thêm các phần_mềm phát_hiện truy_cập trái_phép như : McAfee_Firewall , Norton_Internet_Security , Seagate_Personal_Firewall ... 
+Bảo_vệ mạng không dây như thế_nào ?1 . 
+Bật chức_năng firewall của router không dây . 2 . 
+Dùng phần_mềm firewall trên từng thiết_bị trong mạng . 3 . 
+Dùng phần_mềm chuyên_dụng để kiểm_tra các lỗ_hổng an_ninh trong mạng Wi-Fi . 4 . 
+Dùng phần_mềm chuyên_dụng để theo_dõi các vụ xâm_nhập . 5 . 
+Thay_đổi password sau khi cho_phép một máy_tính mới truy_nhập vào mạng . 

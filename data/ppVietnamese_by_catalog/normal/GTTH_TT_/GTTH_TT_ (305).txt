@@ -1,0 +1,28 @@
+Dừng hoạt_động máy_chủ P2P 
+Điển_hình có_thể nói đến là Razorback 2 . Máy_chủ này chứa những liên_kết đến 170 triệu tập_tin bản_quyền trên toàn thế_giới bao_gồm phim_ảnh , games và các chương_trình truyền_hình . 
+Razorback 2 được sự viếng_thăm thường_xuyên của cộng_đồng Internet trên toàn_cầu , nhiều nhất là ở châu Âu . 
+Hiện Razorback_2 có khoảng 1 triệu khách_hàng trên toàn thế_giới . 
+Tin từ Reuter cho_biết , những người có thẩm_quyền tại Thuỵ_Sĩ đã bắt_giữ những nhà điều_hành website . 
+Cảnh_sát Bỉ cũng đã tịch_thu máy_chủ của site này . 
+Chủ_tịch và CEO của MPA , ông Dan_Glic kman , cho rằng , đây là một trong những thắng_lợi lớn của công_ty trong cuộc_chiến loại_bỏ những nguồn cung_cấp thông_tin bất_hợp_pháp thông_qua mạng ngang hàng . 
+Liệu có chặn_đứng được dòng_chảy ... 
+Hãng MPA ước_tính , năm 2004 , ngành công_nghiệp phim_ảnh bị thất_thoát 3,5 tỷ USD . 
+Con_số này trong năm 2005 là 5,4 tỷ USD . 
+Điều này nói_lên một thực_trạng đáng báo_động về nạn ăn_cắp bản_quyền thông_tin số , giải_thích được thái_độ quyết_liệt của các nhà cung_cấp nội_dung ( content provider ) trong đấu_tranh xoá_bỏ một trong những cơ_sở làm căn_bản cho việc vi_phạm này lan rộng . 
+Đã có rất nhiều vụ kiện xung_quanh hệ_thống mạng ngang , rất khó mà thắng kiện . 
+Điều này tạo nên một tình_trạng tràn_ngập dịch_vụ P2P như hiện_nay . 
+Thật_ra , dịch_vụ này còn có nhiều chức_năng rất hay khác , nhưng phần_lớn vẫn được sử_dụng như một trung_gian tạo các kết_nối P2P , phục_vụ cho mục_đích chia_sẻ thông_tin số , và rất khó kiểm_soát được tình_trạng bản_quyền của các thông_tin này . 
+Các nhà cung_cấp dịch_vụ cho rằng , họ không_thể chịu trách_nhiệm trước những thông_tin mà khách_hàng gởi nhận . 
+Mãi đến tháng 6 năm 2005 , toà_án tối_cao đã phán_quyết nhà cung_cấp công_nghệ ( dịch_vụ ) phải chịu trách_nhiệm những hoạt_động của khách_hàng của mình , điển_hình là các dịch_vụ P2P_Grokster và dịch_vụ Morpheus hãng StreamCast_Network . 
+Thế nhưng , vệc ngừng hoạt_động eDonkey không có ảnh_hưởng lớn lắm đến những hoạt_động chia_sẻ file P2P bất_hợp_pháp . 
+Theo Yankee_Group , những dịch_vụ P2P " nổi " mà thế_giới ngày_nay biết chỉ chiếm khoảng 20 % thị_trường này . 
+Phần " chìm " còn rất lớn , đến 80 % , vẫn chưa_thể kiểm_soát nổi . 
+Hợp_tác chính là giải_pháp ? 
+Các chuyên_gia thì cho rằng , các nhà cung_cấp nội_dung nên hiểu được sức_mạnh của hệ_thống mạng P2P , mặc_dù các dịch_vụ này gây bất_lợi cho công_việc kinh_doanh của họ . 
+Bởi một lẽ rất đơn_giản , đây chính là phần chìm của hệ_thống , và họ sẽ không bao_giờ loại_bỏ được hoàn_toàn dịch_vụ này . 
+Hơn_nữa dịch_vụ này không phải là hoàn_toàn bất_lợi . 
+Trong năm vừa_qua , hãng MPA cũng đã đạt được một thoả_thuận với BitTorrent , theo đó , BitTorrent sẽ gỡ bỏ những liên_kết trong máy_chủ tìm_kiếm cho_phép người dùng chia_sẻ những tập_tin thuộc quyền sở_hữu của MPA . Điều này không_chỉ là một chiến_thắng dành cho các nhà cung_cấp nội_dung mà cũng là một bước tiến_triển lớn trong hợp_tác giữa nhà cung_cấp nội_dung ( content provider ) và nhà cung_cấp công_nghệ ( technology provider ) . 
+Ngoài_ra thoả_thuận này còn cho_phép MPA tung ra một_số chương_trình dò_tìm tập_tin vi_phạm bản_quyền trên hệ mạng P2P của BitTorrent . 
+Digital_File_Check là một ví_dụ , một sản_phẩm của International_Federation_of_the_Phonographic_Industry ( IFPI ) , cho_phép nhận_dạng các tập_tin vi_phạm bản_quyền và loại_bỏ nó tại bất_kỳ máy_tính nào . 
+Mặc_dù vậy , vấn_nạn chia_sẻ các tập_tin bản_quyền bất_hợp_pháp trên mạng ngang hàng vẫn tồn_tại . 
+Ước_tính của Yankee_Group cho_biết hiện có 40 - 50 triệu khách_hàng của loại_hình dịch_vụ này tại Mỹ . Hợp_tác chính là một trong những giải_pháp , nhưng hợp_tác như thế_nào và các nhà cung_cấp công_nghệ được lợi gì lại là một chuyện khác . 

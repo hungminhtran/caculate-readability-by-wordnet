@@ -1,0 +1,21 @@
+Các virus cũ tiếp_tục hoành_hành 
+Đánh_giá tình_hình bảo_mật tháng 3 của hãng Sophos ( Anh ) cho_thấy Zafi , xuất_hiện cuối năm_ngoái , cùng với họ NetSky , vẫn là những phần_mềm tấn_công được ghi_nhận nhiều nhất bốn tháng liên_tiếp . 
+Bảng xếp hạng 10 chương_trình nguy_hại hàng_đầu tháng qua chủ_yếu vẫn là những cái tên cũ nhưng có sự gia_tăng lớn về số_lượng biến_thể Zafi . D , chiếm tới 45,1 % tổng_số thông_báo , cộng với việc thăng_tiến đáng chú_ý của virus Sober . K . 
+Theo Carole_Theriault , chuyên_gia công_nghệ của Sophos , số máy_tính kém được bảo_vệ là nguyên_nhân duy_nhất cho việc các virus cũ tiếp_tục phát_tác . 
+Một_số trong nhóm 10 virus hàng_đầu phát_tán rất mạnh , lấn_át sự xuất_hiện của những chương_trình tấn_công mới , Theriault nói . 
+Người sử_dụng máy_tính đừng bao_giờ ảo_tưởng về sự an_toàn khi kết_nối Internet vì ngày nào cũng có virus mới được tung lên mạng . 
+Trong tháng 3 , Sophos đã ngăn_chặn và phân_tích thêm 1.225 virus mới . 
+Tổng_số mã tấn_công mà họ xử_lý đến nay là 102.123 . 
+Khảo_sát của hãng bảo_mật Anh cho_thấy 2,62 % trên tổng_số e-mail lưu_thông của tháng 3 - tương_đương tỷ_lệ 1/38 - là những thông_điệp có chứa virus . 
+Con_số này thấp hơn nhiều so với mức 1/28 của tháng 2 . 10 virus nguy_hiểm nhất tháng 3/2005 ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) : 
+1 . Zafi . D ( 45,1 % )2 . 
+NetSky . P ( 21 % )3 . 
+Zafi . B ( 5,9 % )4 . 
+Sober . K ( 5,8 % )5 . 
+NetSky . D ( 4,3 % )6 . 
+NetSky . Z ( 2,7 % )7 . 
+NetSky . B ( 2,3 % )8 . 
+Mydoom . O ( 1,3 % )9 . 
+NetSky . C ( 1,1 % )10 . 
+NetSky . Q ( 1 % ) 
+Các loại khác : 9,5 % 

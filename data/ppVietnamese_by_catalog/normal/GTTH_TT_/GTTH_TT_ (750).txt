@@ -1,0 +1,22 @@
+GetWebPics : công_cụ săn ảnh web chuyên_nghiệp 
+Công_cụ GetWebPics sẽ tìm ra và tự_động tải về giúp bạn toàn_bộ hình_ảnh của một trang web và việc của bạn chỉ là chép toàn_bộ " thành_quả " của GetWebPics vào folder của bạn để tha_hồ lựa_chọn . 
+GetWebPics có giao_diện rất thân_thiện và khá dễ sử_dụng . 
+Sau khi cài_đặt thành_công , bạn có_thể nhắp vào phím " New_Normal_Task " để thực_hiện dự_án săn hình của mình . 
+Bạn chỉ việc nhập vào ô Starting địa_chỉ trang web mà bạn cần lấy hình sau đó nhấn " Start_Now " để GetWebPics bắt_đầu săn hình cho bạn . 
+Những hình tìm đựơc sẽ hiện ngay_lập_tức vào bảng kết_quả và bạn chỉ việc lựa_chọn những hình đạt yêu_cầu để chép vào thư_mục lưu_trữ . 
+" New_Templated_URL " là tính_năng thật_sự cao_cấp của GetWebPics . 
+Đây là bộ lọc chuyên_tải các file Media hết_sức hữu_hiệu . 
+Tính_năng này cho_phép người dùng tuỳ_biến quy_trình tải file media của GetWebPics . 
+Trước khi thực_hiện một dự_án tải file , bạn nên vào chức_năng FileTypes để ra_lệnh cho GetWebPics chỉ tải riêng một kiểu file nào đó về máy . 
+Theo mặc_định , GetWebPics sẽ tải toàn_bộ theo thứ_tự hình_ảnh , các dạng đồ_hoạ , file flash , file nén , file video và file âm_thanh về máy . 
+Nhưng bộ lọc FileTypes sẽ giúp bạn chỉ tải về một loại file nào đó theo nhu_cầu mà_thôi . 
+" New_Templated_URL " rất hữu_dụng khi tải các file MP3 hoặc video , nhưng tính_năng này chỉ hoạt_động với những trang web chuyên cung_cấp nhạc hoặc video_clip miễn_phí . 
+" Search " là tính_năng săn hình hết_sức độc_đáo . 
+Bạn chỉ việc gõ vào từ khoá cần tìm trong ô " Keywords " là GetWebPics sẽ liệt_kê cho bạn " vô_thiên_lủng " hình_ảnh theo từ cần tìm . 
+Bạn có_thể thiết_lập cho GetWebPics tìm tối_đa đến những 100 triệu hình_ảnh theo từ khoá nào đó . 
+Hình tìm được sẽ được hiện lên ngay_lập_tức giống như tìm trong trong Google hoặc Yahoo . 
+Sau khi tìm xong , GetWebPics sẽ chỉ ra địa_chỉ cụ_thể của hình_ảnh để người dùng tải về sử_dụng . 
+Tính_năng này có_thể thay_thế xuất_sắc cho tính_năng tìm_kiếm hình_ảnh của các công_cụ tìm_kiếm hùng_mạnh hiện_nay như Google , Yahoo , MSN … 
+GetWebPics cũng hỗ_trợ đầy_đủ mọi tính_năng như sao_chép hình_ảnh , in_ấn , phóng to – thu nhỏ , gửi ảnh tìm được qua e-mail v . v Hiện công_ty PhotoActions đang bán ra GetWebPics 2.6 với giá là 30 USD . 
+Người dùng có_thể vào đây để tải về bản dùng thử thử có dung_lượng gần 3MB . 
+Hiện GetWebPics 2.6 đã có_mặt tại các cửa_hàng tin_học tại TP Hồ_Chí_Minh . 

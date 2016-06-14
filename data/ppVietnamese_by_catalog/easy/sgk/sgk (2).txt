@@ -1,0 +1,4 @@
+Lắp xe_ben 
+Lắp xe_ben theo các bước : 
+Lắp các bộ_phận : khung sàn xe và các giá đỡ ; sàn ca_bin và các thanh đỡ ; trục bánh_xe trước , bánh_xe sau và ca_bin . 
+Lắp_ráp các bộ_phận với nhau để được xe_ben hoàn_chỉnh . 

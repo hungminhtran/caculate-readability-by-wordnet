@@ -1,0 +1,8 @@
+Thêm một phương_pháp bẻ khoá WGA 
+Nỗ_lực chống lại phần_mềm giả của Microsoft lại vướng phải một khó_khăn mới khi hacker tiếp_tục đăng_tải thủ_thuật mới có_thể " đi vòng " qua công_cụ Windows_Genuine_Advantage ( WGA ) . 
+Chương_trình WGA được sử_dụng để ngăn người dùng phiên_bản hệ_điều_hành lậu tải những tính_năng nâng_cấp của Windows . 
+Tuy_nhiên , theo thông_tin trên một trang web ngày 4/8 , chỉ cần thay_đổi thiết_lập trong công_cụ " GenuineCheck . exe " , sử_dụng chế_độ tương_thích Windows_2000 , là có_thể kích_hoạt mã xác_nhận tính hiệu_lực cho hệ_điều_hành bất_hợp_pháp . 
+Microsoft không xác_nhận phương_pháp trên có thực_hiện được hay không , nhưng hãng phần_mềm Mỹ đang tiến_hành nghiên_cứu vấn_đề và khẳng_định mánh_khoé này sẽ không tồn_tại lâu_dài . 
+" Chúng_tôi không ngạc_nhiên khi ai đó muốn tìm cách phá_vỡ WGA để dùng lậu chương_trình " , một đại_diện của Microsoft cho_biết . 
+" Chúng_tôi vẫn thường_xuyên cập_nhật hệ_thống kiểm_tra tính hiệu_lực , và sẽ nhanh_chóng giải_quyết tất_cả những khiếm_khuyết này " . 
+Tuần trước , một_số trang web cũng tuyên_bố họ có khả_năng qua_mặt khoá bảo_mật WGA bằng những thủ_thuật khác nhau , trong đó có việc sử_dụng dãy JavaScript trên trình_duyệt web . 

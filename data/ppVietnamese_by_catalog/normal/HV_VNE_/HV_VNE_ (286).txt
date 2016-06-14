@@ -1,0 +1,7 @@
+Google bị lợi_dụng để phishing 
+Sau một_số trường_hợp hacker tạo site giống_hệt trang của tập_đoàn tìm_kiếm lớn nhất thế_giới để phát_tán virus và quảng_cáo , hãng Websense ( Mỹ ) lại vừa cảnh_báo về vụ lừa_đảo trực_tuyến liên_quan đến Google . 
+Nạn_nhân sẽ nhận được e-mail hướng họ tới một site với giao_diện tương_tự trang_chủ của Google . 
+Tại đây , họ được thông_báo đã may_mắn giành 400 USD và yêu_cầu nhập số thẻ tín_dụng , địa_chỉ thanh_toán ... 
+Ross_Paul , Giám_đốc sản_xuất của Websense_EMEA , cho_biết : " Thật không_thể tưởng_tượng lại có người vẫn tin họ gặp vận đỏ khi nhận được một khoản tiền nào đó . 
+Kẻ lừa_đảo thường cũng chỉ gặp may vài lần , nhưng tên_tuổi của Google khiến vụ phishing này có_vẻ ' thật ' hơn vì mọi người vẫn biết công_ty có doanh_thu rất cao " . 
+Trang web giả có máy_chủ được đặt tại Mỹ và Websense cho_biết họ chưa ước_tính được số người mắc bẫy . 

@@ -1,0 +1,14 @@
+Các tác_giả virus đang liên_minh hoạt_động 
+Những kẻ thiết_kế ra virus Bagle , Zafi và NetSky đã hợp_tác với nhau trong một liên_minh mà hãng bảo_mật Kaspersky mô_tả là hết_sức nguy_hiểm nhằm mở_rộng các hoạt_động có tính_chất khủng_bố mạng . 
+Cảnh_báo này được Kaspersky cống bố sau một cuộc điều_tra về đợt bùng_phát sâu Bagle gần đây . 
+Công_ty bảo_mật Nga cho rằng cha đẻ của 3 dòng virus nói trên đang phối_hợp rất chặt_chẽ . 
+Bằng_chứng cho điều này xuất_hiện hôm 15/2 sau khi các chuyên_gia của Kaspersky lần đầu phát_hiện mã tấn_công mang tên SpamTool . Win32.Small . b với khả_năng thu_thập địa_chỉ e-mail từ các máy_tính bị lây_nhiễm . 
+Tuy_nhiên , địa_chỉ liên_hệ của các công_ty phần_mềm chống virus lại không xuất_hiện trong danh_sách tấn_công này . 
+Những điều_tra chi_tiết về tình_hình cho_thấy tính_năng phát_tán e-mail số_lượng lớn của SpamTool . Win32.Small . b là giai_đoạn mở_đầu cho cuộc tấn_công mà Bagle thực_hiện hôm 1/3 , Kaspersky cho_biết . 
+Theo hãng này , sau khi tìm_hiểu vụ bùng_phát Bagle , các nhà phân_tích mã virus đã đi đến kết_luận rằng không_chỉ có tác_giả Bagle , Zafi và Netsky mà cả một_số hacker khác đang liên_minh với nhau để trao_đổi thông_tin và kỹ_thuật , hòng tăng_cường tác_động của các vụ tấn_công . 
+Chúng có_thể không biết nhau trực_tiếp nhưng tất_cả đang sử_dụng những thông_tin do tác_giả Bagle cung_cấp để phát_tán qua e-mail các chương_trình của mình . 
+Kaspersky cho_biết gần 50 % số mã cải_tiến của một loạt chương_trình tấn_công đã được tung ra qua e-mail chỉ trong 2 ngày . 
+Thời_điểm những thông_điệp chứa virus này xuất_hiện cho_thấy rõ_ràng chúng được thực_hiện tự_động hoặc bán_tự_động . 
+Những dấu_hiệu này khẳng_định sự phát_triển theo hướng có tổ_chức của tội_phạm Internet , Kaspersky nhận_định . 
+Các cuộc tấn_công mạng giờ_đây được tự_động_hoá , diễn_ra theo một_số giai_đoạn , được đặt giờ và lên kế hoạc rất cẩn_thận . 
+. 

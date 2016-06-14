@@ -1,0 +1,32 @@
+Màu_sắc và cách pha màu 
+Quan_sát , nhận_xét 
+Ba màu cơ_bản ( màu gốc ) : đỏ , vàng , xanh lam ( H . 1 ) . 
+Từ ba màu cơ_bản , lần_lượt pha_trộn hai màu với nhau ta được các màu : da_cam ( đỏ + vàng ) , xanh lục ( xanh lam + vàng ) , tím ( đỏ + xanh lam ) ( H . 2 ) . 
+Các màu được pha từ hai màu cơ_bản đặt cạnh màu cơ_bản còn_lại sẽ tạo_thành từng cặp màu bổ_túc . 
+Hai màu trong cặp màu bổ_túc khi đặt cạnh nhau sẽ tôn nhau lên thêm rực_rỡ . 
+Ví_dụ : 
+Màu đỏ và màu xanh lục . 
+Màu xanh lam và màu da_cam . 
+Màu vàng và màu tím . 
+( Hai màu trong từng cặp màu bổ_túc được đặt đối_diện nhau theo chiều mũi_tên - H . 3 ) . 
+Màu nóng : là những màu gây cảm_giác ấm , nóng ( H . 4 ) . 
+Màu lạnh : là những màu gây cám giác mát , lạnh ( H . 5 ) . 
+Ví_dụ : 
+Màu của lá cờ đỏ , bông hoa đỏ , quả cam chín , ... 
+thuộc màu nóng . 
+Màu của bông hoa tím , nước biển xanh , rừng cây_xanh , ... 
+thuộc màu lạnh . 
+Cách pha màu 
+Màu bột 
+Dùng nước sạch và keo hoặc hồ dán pha loãng để trộn các màu với nhau sẽ tạo ra màu mới . 
+Nếu thay_đổi lượng các màu pha_trộn , màu pha được sẽ có sắc_màu thay_đổi khác nhau . 
+Màu nước 
+Dùng nước sạch pha_trộn các màu với nhau sẽ tạo ra màu mới . 
+Khi pha , cho lượng nước vừa_phải , tránh đặc quá hoặc loãng quá . 
+Nếu pha quá nhiều màu với nhau thì màu pha được sẽ bị xỉn . 
+Sáp màu , chì màu 
+Có_thể vẽ chồng các màu lên nhau để tạo ra một màu khác . 
+Thực_hành 
+Có_thể làm một trong những bài_tập sau đây : 
+Chép lại bảng_màu ở hình 4 , 5 trên giấy vẽ hoặc vở thực_hành . 
+Tìm màu rồi vẽ vào các hình ở vở thực_hành ( chọn ba màu nóng vẽ vào ba hình_vuông , chọn ba màu lạnh vẽ vào ba hình_tròn ) . 

@@ -1,0 +1,7 @@
+Hacker moi thêm lỗ_hổng trong Windows_Server 2003 
+Nhiều trung_tâm bảo_mật hôm_qua thông_báo một lỗ_hổng trong Dịch_vụ định tên Internet_Windows ( WINS ) của Microsoft , bộ_phận phổ_biến trong phần_mềm máy_chủ Windows_Server_2003 đã bị khai_thác nhiều trong ngày cuối_cùng của năm 2004 . Mặc_dù khiếm_khuyết này đã được Microsoft vá từ giữa tháng 12/2004 , Trung_tâm an_ninh Internet REN-ISAC của Đại_học Indiana ( Mỹ ) vẫn phát_hiện thấy có sự gia_tăng đáng_kể về số vụ xâm_nhập nhắm vào các dịch_vụ WINS ( qua cổng TCP và UDP 42 ) . 
+Vá lỗi cho các hệ_thống này giờ_đây là quá chậm , thông_báo của Trung_tâm an_ninh Internet thuộc Viện SAN ( Mỹ ) , viết . 
+Ngoài_ra , các dịch_vụ WINS có_lẽ không vượt_qua ranh_giới router . 
+Vì thế , nên phong_toả các cổng có lỗ_hổng , đề_phòng quản_trị_viên Windows_Server chưa update . 
+Nếu khai_thác thành_công những lỗ_hổng trên máy chưa vá lỗi , kẻ tấn_công có_thể khống_chế hệ_thống để cài_đặt phần_mềm tuỳ_ý ; xem , thay_đổi hoặc xoá dữ_liệu ; tạo ra các user account mới với đầy_đủ quyền ưu_tiên . 
+Bản vá lỗi WINS được cung_cấp tại website của Microsoft . 

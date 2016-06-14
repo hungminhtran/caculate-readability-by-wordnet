@@ -1,0 +1,7 @@
+Yahoo nâng_cấp Yahoo_Messenger_Voice ! 
+Những chức_năng mới đáng_kể trong phiên_bản mới này là tính_năng thông_báo cuộc gọi đến và gọi đi cùng những tính_năng chủ_yếu để phục_vụ cho việc hội_thoại VoIP từ Yahoo_Messenger trong menu Actions . 
+Nhưng dường_như Yahoo đang đi vào bước sai_lầm của AOL với trình AIM khi tích_hợp các banner quảng_cáo vào trình IM của mình . 
+Hiện_tại , Yahoo cùng lúc cung_cấp song_song 2 phiên_bản Yahoo_Messenger cho người dùng , bản Yahoo_Messenger_Voice ! 
+7 . 5 . 0.x vẫn đang trong giai_đoạn thử_nghiệm kết_hợp nhiều tính_năng hỗ_trợ hội_thoại Internet ( VoIP ) còn phiên_bản Yahoo_Messenger 7 . 0 . 2.x dành cho người dùng chủ_yếu để tán_gẫu qua dạng text . 
+Các đối_thủ khác như GoogleTalk với chiêu_bài " kết_nối " đến tất_cả những trình tin_nhắn khác hay Windows_Messenger_Live đẹp_đẽ thu_hút người dùng thì nay Yahoo cũng ngắm_nghía đến một " cường_địch " khác là Skype trong thị_phần VoIP màu_mỡ . 
+Giá gọi từ Yahoo_Messenger khá rẻ , tuy_nhiên theo nhận_xét của người dùng thì Skype vẫn là vô_địch trong thời_gian này . 

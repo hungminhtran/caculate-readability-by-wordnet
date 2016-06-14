@@ -1,0 +1,8 @@
+Cảnh_giác virus trong thiệp điện_tử Valentine 
+Hãng phần_mềm bảo_mật Anh Sophos cho_biết đã phát_hiện 2 chương_trình tấn_công mới đang phát_tán bằng cách ẩn trong phần đính kèm e-mail mang nội_dung ngày lễ tình_yêu và qua các mạng ngang hàng . 
+Sâu_Kipis . H xuất_hiện trong những bức thư có dòng chủ_đề Happy_Valentine ' s Day với phần nội_dung With_the_coming_Valentine ' s_day ! 
+I very much love you và file đính kèm Valentine . EXE . Một_khi được kích_hoạt , virus sẽ tắt hết các tính_năng an_ninh trên máy_tính nạn_nhân , cho_phép hacker truy_cập từ xa bằng cách cài một Trojan cổng hậu , đồng_thời gửi bản_sao của nó tới tất_cả các địa_chỉ liên_hệ trong danh_bạ e-mail . 
+Trong khi đó , sâu VBSWG . D phát_tán trong những thông_điệp có dòng chủ_đề First_Love_Story ... ! ! ! 
+và một file gọi là FirstLove . VBS. 
+Vào đúng ngày hôm_nay , máy_tính bị nhiễm virus này sẽ hiển_thị thông_điệp bậy_bạ bằng tiếng Anh Happy_F ...ing_Valentine ... ! ! !. Tiếp đó , VBSWG . D sẽ làm tắt PC sau khi đã gửi bản_sao của nó tới tất_cả địa_chỉ e-mail trong danh_bạ ở máy_tính . 
+Cũng trong dịp Valentine , Sophos cho_biết một làn_sóng thư rác ăn theo ngày lễ này đã xuất_hiện với hàng chục nghìn thư quảng_cáo dịch_vụ quà_tặng , chocolate , hoa giảm giá ... 

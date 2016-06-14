@@ -1,0 +1,6 @@
+Sâu khai_thác lỗi Windows trong bản vá tháng 10 
+Theo hãng bảo_mật Phần_Lan_F-Secure , sâu Dasher . B , sau khi thâm_nhập vào máy_tính Windows_2000 và Windows_XP chưa cài bàn vá MS05-051 , sẽ tự_động tải một rootkit có khả_năng dò ký_tự bàn_phím ( keylogger ) nằm trên một máy_chủ từ xa . 
+Trước khi Dasher . B ra_mắt một ngày , hôm 14/12 , sâu Dasher . A , được tạo dựa trên đoạn mã khai_thác được tung lên mạng cách đây 2 tuần , cũng xuất_hiện . 
+Tuy_nhiên , phiên_bản đầu_tiên không_thể tiến xa do lỗi lập_trình và được đặt trên một máy_chủ không còn hoạt_động ở Trung_Quốc . 
+Hai biến_thể Dasher không phải là một nguy_cơ lớn nhưng nó cho_thấy những kẻ viết chương_trình nguy_hiểm vẫn đang tiếp_tục sục_sạo xung_quanh các lỗ_hổng của Windows . 
+Cuối tháng 11 , Microsoft cũng thừa_nhận mã khai_thác lỗi MSDTC trong MS05-051 đã bắt_đầu được lưu_hành trên mạng nhưng khẳng_định tin_tặc không_thể kiểm_soát hệ_thống từ xa . 

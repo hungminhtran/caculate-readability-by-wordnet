@@ -1,0 +1,11 @@
+Kẻ xấu vẫn dẫn trước trong cuộc đua bảo_mật hệ_thống 
+Một nghiên_cứu của Gerhard_Eschelbeck , Giám_đốc công_nghệ thông_tin của hãng Qualys ( Mỹ ) , cho_thấy các nhà quản_trị hệ_thống hiện_nay xử_lý lỗ_hổng an_ninh nhanh hơn nhưng những mối đe_doạ lợi_dụng khiếm_khuyết cũng xuất_hiện sớm hơn . 
+Theo Eschelbeck , công_tác vá lỗi trong năm qua đã được cải_thiện nhưng gần 70 % các hệ_thống hiện_tại vẫn bị nguy_cơ tấn_công . 
+Năm 2005 , các nhà quản_trị hệ_thống đã rút ngắn bớt được 2 ngày trong số thời_gian mà người_ta thường phải bỏ ra để bịt lỗ_hổng ở những hệ_thống có kết_nối trực_tiếp với Internet . Cụ_thể , cứ khoảng 19 ngày thì một nửa số lỗi nghiêm_trọng được xử_lý , hoặc là bằng một bản vá hoặc là bằng một giải_pháp an_ninh khác . 
+Năm_ngoái , thời_gian này là 21 ngày còn một năm trước nữa là 30 ngày . 
+Tuy_nhiên , theo Eschelbeck , 19 ngày để khắc_phục được 50 % số hệ_thống bị thủng thì vẫn chưa đủ đảm_bảo : 80 % số vụ khai_thác xuất_phát từ cái 50 % số hệ_thống bị lỗi này mặc_dù tỷ_lệ hổng có_vẻ đang dần được thu_hẹp . 
+Một nửa số hệ_thống bị lỗi hiện_nay được bảo_vệ an_toàn trong vòng khoảng 48 ngày , so với 62 ngày của năm_ngoái . 
+Để tăng_cường khả_năng bảo_mật , Eschelbeck cho rằng các cơ_quan , tổ_chức nên ưu_tiên việc vá lỗi vì 90 % khe hở an_ninh bắt_nguồn từ 10 % số lỗi : Với sự xuất_hiện liên_tục và tính phức_tạp của những lỗ_hổng , các doanh_nghiệp không_thể khắc_phục được hết mọi khiếm_khuyết tiềm_tàng . 
+Điều quan_trọng là ưu_tiên vá những lỗi có nguy_cơ gây thiệt_hại nhất đối_với mạng máy_tính của mình . 
+Nghiên_cứu của Eschelbeck phân_tích dữ_liệu từ hơn 32 triệu lượt quét lỗi . 
+Thông_tin thống_kê về 2003 và 2004 là tính cả năm còn thông_tin của 2005 là tính riêng ở 3 quý đầu năm . 

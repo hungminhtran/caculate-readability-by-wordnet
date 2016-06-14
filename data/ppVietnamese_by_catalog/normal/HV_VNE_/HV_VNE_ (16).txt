@@ -1,0 +1,10 @@
+Bản vá lỗi Windows mới vẫn thủng 
+Hãng phần_mềm chống virus GeCad_Net ( Rumania ) vừa đưa ra cảnh_báo về một khiếm_khuyết xuất_hiện trong bản vá lỗiMS05-001mà Microsoft tung ra đầu tháng này để bịt lỗ_hổng an_ninh xung_quanh tính_năng HTML Help_ActiveX . 
+GeCad cho_biết bản vá lỗi trên đã bỏ_qua ít_nhất một hướng tấn_công mà có_thể cho_phép hacker tiếp_tục lợi_dụng sai_sót trong HTML Help_ActiveX để thâm_nhập hệ_thống và chạy các phần_mềm nguy_hiểm như spyware ... 
+Microsoft đã bắt_đầu khắc_phục sai_sót nói trên nhưng phủ_nhận bản vá lỗi mà họ tung ra trước đây có khiếm_khuyết và cho rằng đây là một lỗi mới được phát_hiện . 
+GeCad quyết_định không công_bố chi_tiết kỹ_thuật về phương_thức để tấn_công vào hệ_thống thông_qua lỗ_hổng này vì lý_do an_ninh . 
+Trước đây , bản_thân Microsoft cũng từng nhiều lần từ_chối cung_cấp thông_tin cho các nhà nghiên_cứu bảo_mật và âm_thầm khắc_phục các khiếm_khuyết xảy_ra . 
+GeCad cho_biết máy_tính cài Windows_XP_Service_Pack 1 hay Windows_2000_Service_Pack 4 cùng với những bản vá lỗi hiện_tại có nguy_cơ bị tấn_công . 
+Tuy_nhiên , việc update phiên_bản Windows_XP_Service_Pack 2 lại có_vẻ giúp giải_quyết được vấn_đề mới nhất này . 
+Trong năm 2003 , Microsoft đã mua lại bộ_phận phát_triển phần_mềm chống virus của GeCad nhưng công_ty này vẫn tiếp_tục hoạt_động dưới hình_thức nghiên_cứu và tư_vấn về bảo_mật . 
+Microsoft dự_kiến sẽ chính_thức ra_mắt phần_mềm chống virus của riêng họ vào cuối năm nay . 

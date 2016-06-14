@@ -1,0 +1,26 @@
+Duy_nhất một cái tên mới trong Top 10 virus tháng 4 
+Theo công_bố hàng tháng của hãng bảo_mật Sophos ( Anh ) , Zafi . D lần thứ 5 liên_tiếp dẫn_đầu bảng xếp hạng những phần_mềm tấn_công nguy_hiểm nhất . 
+Trong danh_sách tháng qua , mối đe_doạ mới - Mytob . Z - chen được vào vị_trí số 7 . Chuyên_gia Carole_Theriault của Sophos cho_biết Mytob . Z được phát_hiện lần đầu_vào giữa tháng 4 và là một phần_mềm khá nguy_hiểm . 
+Nó không_chỉ phát_tán mạnh mà_còn cài Trojan mở cổng hậu để hacker có_thể từ xa truy_nhập và kiểm_soát máy_tính mục_tiêu . 
+Máy_tính bị lây_nhiễm có_thể bị lợi_dụng vào việc gửi spam hoặc tiến_hành tấn_công từ_chối dịch_vụ . 
+" Trong tháng 4 , nhìn_chung các virus cũ vẫn duy_trì vị_trí của mình " , Gregg_Mastoras , chuyên_gia bảo_mật cấp cao của Sophos , nói . 
+" Các biến_thể của Zafi chiếm tới hơn 50 % tổng_số virus mà chúng_tôi phát_hiện tháng này . 
+Rất nhiều trong số đó có khả_năng lây_lan và biến_đổi dưới nhiều dạng ngôn_ngữ khác nhau , do đó dễ qua mắt được người dùng máy_tính " . 
+Hầu_hết virus được gửi qua file đính kèm trong e-mail . 
+Một_số khác có_thể mở cổng hậu trong máy_tính , tạo điều_kiện cho hacker thâm_nhập vào hệ_thống và đánh_cắp thông_tin , gửi spam ... 
+bất_cứ lúc nào . 
+Trong 30 ngày qua , Sophos đã ngăn_chặn và phân_tích 1.146 virus mới . 
+Tổng_số phần_mềm tấn_công mà họ xử_lý đến nay là 103.269 . 
+Khảo_sát của hãng bảo_mật Anh cho_thấy , trong tổng_số thư_điện_tử lưu_thông trong tháng 4 , cứ 46 e-mail thì có 1 ( tương_đương 2,2 % ) chứa virus . 
+Tỷ_lệ này giảm bớt so với 1/38 của tháng 3 . 10 virus nguy_hiểm nhất tháng 4/2005 ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) : 
+1 . Zafi . D ( 46,6 % )2 . 
+NetSky . P ( 20,6 % )3 . 
+Zafi . B ( 4.5 % )4 . 
+NetSky . D ( 4,5 % )5 . 
+NetSky . Z ( 2,5 % )6 . 
+NetSky . B ( 2,4 % )7 . 
+Mytob . Z ( 1.3 % )8 . 
+Mydoom . O ( 1,2 % )9 . 
+NetSky . C ( 1,1 % )10 . 
+NetSky . Q ( 1 % ) 
+Các loại khác : 14,3 % . 

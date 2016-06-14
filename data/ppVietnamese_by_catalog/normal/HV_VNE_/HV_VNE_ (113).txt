@@ -1,0 +1,17 @@
+Hacker mũ trắng ' ra_tay ' với phisher 
+Tức_giận bởi sự gia_tăng cạm_bẫy trên mạng , những " hiệp_sĩ online " đã bắt_đầu tự tay thi_hành công_lý bằng cách tấn_công và xoá_sổ những trang web họ cho là lừa_đảo . 
+Những hacker này đột_nhập vào các website ngân_hàng hay tổ_chức tài_chính giả và để lại thông_điệp như Cảnh_báo - đây là trang lừa_đảo ( Warning - This_was_a_Scam_Site ) hoặc Ngân_hàng gian_lận này đã bị loại_bỏ ( This_Bank_Was_Fraudulent_and_Is_Now_Removed ) . 
+Họ tự coi mình là những " người_hùng hacker " , khuyến_cáo người dùng thận_trọng , tránh để mất mật_khẩu và dữ_liệu cá_nhân khi vào trang phishing . 
+Hãng bảo_mật Netcraft ( Anh ) là một trong những tổ_chức đầu_tiên phát_hiện ra hành_động này khi vào site giả_danh trang hệ_thống thanh_toán qua mạng PayPal ( Mỹ ) và ngân_hàng NetWest ( Anh ) . 
+" Mặc_dù phishing là hành_động trái_phép không có gì phải bàn_cãi , việc tự_ý xoá_sổ những trang lừa_đảo có là hành_động hợp_pháp hay không vẫn còn là chuyện đáng bàn . 
+Tuy_vậy , hai trường_hợp gần đây là hợp tình hợp_lý " , hãng Netcraft phát_biểu . 
+" Chúng_tôi chỉ xử_lý những trang web giả " là nội_dung thông_điệp gửi lên trang SecurityFocus từ một hacker mũ trắng trong nhóm The_Lad_Wrecking_Crew ( Anh ) . 
+" Bọn chúng như những con gián rình_mò trên mạng để ăn_cắp và lừa_đảo . 
+Chúng lấy thẻ tín_dụng , số tài_khoản ... 
+của bất_cứ ai nhằm trục_lợi và sử_dụng dịch_vụ không phải trả tiền , chúng là những kẻ không có đạo_đức . 
+Luật_pháp không làm chúng chùn bước - nhưng chúng_tôi thì có_thể " . 
+Những hành_động nói trên đã góp_phần làm giảm đáng_kể số vụ lừa_đảo trực_tuyến , nhưng các chuyên_gia vẫn hoài_nghi về cách_thức tiến_hành : " Việc này đem lại kết_quả rất đáng khen_ngợi , nhưng đây có được coi là ' công_lý ' không thì còn phải xem_xét lại " , Cory_Altheide , chuyên_gia bảo_mật công_nghệ tại trung_tâm SANS Internet_Storm_Center ( Mỹ ) , cho_biết . 
+" Đóng cửa những site kiểu này cũng không dễ_dàng gì vì tin_tặc có_thể thuê host ở nhiều nước , nơi mà luật_pháp khá lỏng_lẻo " . 
+" Hacker mũ trắng hay ' hiệp_sĩ online ' có trình_độ khá cao , tuy_nhiên , là một chuyên_gia trong lĩnh_vực này , tôi không khuyến_khích những hành_động như thế " , Susan_Larson , Phó_giám_đốc hãng SurfControl ( Anh ) , nói . 
+" Tôi phản_đối việc họ hành_xử như những cao_bồi miền Tây . 
+Tốt hơn ngành công_nghiệp nên tự tìm ra giải_pháp cho vấn_đề " . 

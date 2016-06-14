@@ -1,0 +1,24 @@
+Zafi . D vẫn là virus nguy_hiểm nhất 
+Thống_kê tình_hình an_ninh máy_tính tháng 1/2005 của hãng Sophos ( Anh ) cho_thấy những cái tên cũ vẫn tiếp_tục thống_trị danh_sách các chương_trình phá_hoại hàng_đầu ghi_nhận từ cuối năm_ngoái . 
+Đây là tháng thứ 2 liên_tiếp Zafi . D xếp đầu_tiên trong 10 virus nguy_hiểm mà Sophos đánh_giá , chiếm tới gần 1/2 số thông_báo mà hãng này nhận được . 
+Đây là một virus khá khó_chịu , phát_tán bằng cách giả_dạng thiệp chúc_mừng Giáng_sinh . 
+Zafi . D có_thể sẽ tiếp_tục gây nhiều rắc_rối trong năm nay , Graham_Cluley , chuyên_gia công_nghệ của Sophos , nhận_định . 
+Nhiều người sử_dụng máy_tính đã mở e-mail chứa virus trong khi đinh_ninh rằng sẽ được xem những lời chúc của người_thân . 
+Các doanh_nghiệp nếu muốn chấm_dứt mối đe_doạ này thì nên bảo_vệ cổng_mail với cơ_chế cập_nhật tự_động phần_mềm chống virus . 
+Virus phát_tán mạnh thứ 2 trong tháng đầu năm nay là NetSky . P . 
+Theo Cluley , công_cụ chống loại virus này đã được phát_hành từ tháng 3 năm_ngoái nhưng khá nhiều máy_tính nối mạng trên thế_giới vẫn không cập_nhật nên đã tạo điều_kiện cho nó tiếp_tục lây_lan trên cộng_đồng PC_Windows . 
+Trong tháng 1/2005 , Sophos đã ngăn_chặn và phân_tích 1.329 virus mới , nâng tổng_số chương_trình tấn_công mà họ phát_hiện lên 99.829 . 
+Khảo_sát của Sophos cho_thấy tỷ_lệ 4,3 % ( tương_đương 1/23 ) e-mail lưu_thông trong tháng qua có chứa virus . 
+Con_số này thấp hơn so với tháng trước khi cứ 18 thư_điện_tử thì có 1 cái mang phần_mềm nguy_hiểm . 
+10 virus nguy_hiểm nhất tháng 1/2005 ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) 
+1 . Zafi . D ( 44 % )2 . 
+NetSky . P ( 19,4 % )3 . 
+Zafi . B ( 10,1 % )4 . 
+Sober . I ( 6,3 % )5 . 
+NetSky . D ( 3,2 % )6 . 
+NetSky . Z ( 3,1 % )7 . 
+Bagle . AA ( 2,1 % )8 . 
+NetSky . B ( 1,9 % )9 . 
+Mydoom . O ( 1,2 % )10 . 
+NetSky . C ( 1,1 % ) 
+Các loại khác : 7,6 % 

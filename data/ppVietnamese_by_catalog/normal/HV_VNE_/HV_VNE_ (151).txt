@@ -1,0 +1,12 @@
+Lỗi tràn bộ đệm trong Acrobat_Reader 5x 
+Hacker đã tìm ra một lỗ_hổng mới trên một trong những ứng_dụng khách phổ_biến nhất hiện_nay - Acrobat_Reader , cho_phép chúng tấn_công và kiểm_soát toàn_bộ máy_tính qua liên_kết hay file PDF đính kèm . 
+" Khai_thác lỗi từ xa và làm tràn bộ đệm trong Adobe_Acrobat_Reader dành cho hệ_điều_hành Unix có_thể tạo điều_kiện cho kẻ tấn_công chạy mã tuỳ_ý " , hãng bảo_mật iDefense ( Mỹ ) cảnh_báo . 
+Lỗ_hổng này ảnh_hưởng đến phiên_bản phổ_biến Acrobat_Reader_5x ( bản 5 . trở lên ) dành cho Unix và Linux . 
+Lỗi được tìm thấy trong tính_năng UnixAppOpenFilePerform , hoạt_động khi Acrobat_Reader mở những tài_liệu nhất_định . 
+Dữ_liệu trên máy_tính người dùng sẽ bị sao_chép thành nhiều bản , gây ra hiện_tượng tràn bộ đệm và tạo cơ_hội cho hacker thay_đổi mã . 
+Một kẻ tấn_công từ xa có_thể dễ_dàng chọn bất_cứ dữ_liệu nào để khai_thác mà không cần biết địa_chỉ của các tệp chứa dữ_liệu đó . 
+Lỗ_hổng này không quá nguy_hiểm bởi khi tấn_công xảy_ra , hai thông_báo lỗi sẽ xuất_hiện trên màn_hình . 
+Tuy_vậy , đóng cửa_sổ thông_điệp cũng sẽ không ngăn được nguy_cơ tiếp_tục bị khai_thác . 
+Do đó , iDefense khuyên người dùng nên nâng_cấp lên phiên_bản không bị lỗi như Acrobat_Reader 7.0 . 
+Khá nhiều lỗ_hổng liên_quan đến Acrobat_Reader đã xuất_hiện trong những tuần gần đây , nhưng chưa có lỗi nào thực_sự nguy_hiểm . 
+Lỗi nghiêm_trọng nhất ảnh_hưởng đến Acrobat_Reader là vào tháng 12/2004 khi phiên_bản Acrobat_Reader_5x và 6x xuất_hiện cho_phép hacker cài mã_độc từ xa . 

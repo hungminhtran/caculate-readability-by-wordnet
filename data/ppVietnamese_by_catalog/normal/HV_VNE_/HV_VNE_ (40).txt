@@ -1,0 +1,21 @@
+Zafi và NetSky tiếp_tục là những virus hàng_đầu 
+Báo_cáo tình_hình an_ninh mạng tháng 2 của hãng bảo_mật Anh Sophos cho_thấy biến_thể Zafi . D , xuất_hiện cuối năm_ngoái , vẫn có mức phát_tán nhiều nhất . 
+Những virus cũ tiếp_tục thống_trị bảng xếp hạng tháng qua và chỉ có 2 cái tên mới xuất_hiện trong Top 10 . Sâu_Zafi . D sẽ còn tồn_tại trên Internet thêm một thời_gian dài nữa nếu_như người sử_dụng không nâng_cấp công_cụ diệt virus . 
+Loại virus xuất_xứ từ Hungary này chiếm gần 1/3 số phần_mềm phá_hoại mà chúng_tôi ghi_nhận , chuyên_gia Carole_Theriault của Sophos cho_biết . 
+Mặc_dù mới chỉ xuất_hiện vào cuối tháng qua , sâu Sober . K đã leo rất nhanh trong bảng thống_kê và sẽ là một đối_tượng đáng chú_ý trong tháng 3 này . 
+Chương_trình này sử_dụng rất nhiều vỏ nguỵ_trang khác nhau , khi thì giả_vờ là e-mail của Cục điều_tra liên_bang Mỹ ( FBI ) khi thì trá_hình là phim_video sex của người_đẹp Paris_Hilton . 
+Trong tháng qua , Sophos đã bắt được thêm 1,295 virus mới . 
+Tổng_số mã tấn_công mà họ xử_lý đến nay là 100.898 . 
+Tỷ_lệ e-mail chứa virus lưu_thông trong tháng 2 là 3,54 % , tức_là cứ 28 bức thư_điện_tử thì 1 cái có virus ( tỷ_lệ tháng 1 là 1/23 ) . 
+10 virus nguy_hiểm nhất tháng 2/2005 ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) 
+1 . Zafi . D ( 30,8 % )2 . 
+NetSky . P ( 22,3 % )3 . 
+Zafi . B ( 9,7 % )4 . 
+Bagle . BK ( 5,2 % )5 . 
+NetSky . D ( 4,2 % )6 . 
+NetSky . Z ( 3,8 % )7 . 
+Sober . K ( 3,4 % )8 . 
+Sobig . F ( 2,5 % )9 . 
+NetSky . B ( 2,4 % )10 . 
+Mydoom . O ( 1,5 % ) 
+Các loại khác : 14,2 % 

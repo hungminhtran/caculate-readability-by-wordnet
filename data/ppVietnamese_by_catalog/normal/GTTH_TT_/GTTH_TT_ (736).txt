@@ -1,0 +1,8 @@
+Đã nối xong tuyến cáp Việt_Nam đi Hồng_Kông 
+Công_ty Truyền_thông FPT cho_biết sau khi được tin tuyến cáp_quang biển SMW3 được khắc_phục , FPT đã tiến_hành kiểm_tra và kết_quả là thông_tin được truyền_tải qua tuyến cáp này hoàn_toàn thông_suốt . 
+Trước đó , FPT đã đàm_phán ký hợp_đồng khẩn với VNPT , Viettel và ETC nhằm san tải đường truyền để đảm_bảo thông_tin liên_lạc được thông_suốt , VDC đã cho FPT thuê đường truyền có dung_lượng 45 Mbps qua tuyến cáp TVH ( Thái_Lan - Việt_Nam - Hong_Kong ) . 
+" Chúng_tôi quyết_định thuê dài hạn đường truyền 45 Mbps của VDC , nâng dung_lượng đường truyền của FPT lên 135 Mbps nhằm đảm_bảo tốc_độ truy_cập mạng được nhanh hơn " , vị đại_diện này nói . 
+Hiện_tại , FPT có đường truyền qua SMW3 với dung_lượng 90 Mbps . Thủ_tướng Chính_phủ cũng vừa cho_phép xây_dựng thêm tuyến cáp_quang từ biển Việt_Nam đi Hong_Kong . 
+Tuyến cáp này có dung_lượng 10 Gbps , với tổng_kinh_phí đầu_tư khoảng 150 triệu USD nhằm đảm_bảo yêu_cầu truyền_dẫn thông_tin , đặc_biệt là trong những trường_hợp xảy_ra sự_cố đứt cáp vừa_qua . 
+Đồng_thời , tuyến cáp đi từ Việt_Nam sang Hong_Kong và Singapore cũng được xây_dựng , nâng số tuyến cáp quốc_tế của Việt_Nam thành 4 tuyến . 
+Hiện_nay , nước ta có 2 tuyến cáp_quang quốc_tế là SMW3 với dung_lượng 10 Gbps và tuyến TVH 560 Mbps đi từ Việt_Nam tới Thái_Lan và Hong_Kong . 

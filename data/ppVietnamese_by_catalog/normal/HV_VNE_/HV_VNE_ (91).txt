@@ -1,0 +1,49 @@
+Bảo_mật website VN : Mất bò không lo làm chuồng 
+Những màn_hình homepage đen_ngòm . 
+Những lá cờ đỏ với hình trăng lưỡi_liềm Hồi_giáo . 
+Hàng_loạt website có đuôi .gov . vn gần đây liên_tục bị hack . 
+Chỉ cần vào Diễn_đàn an_ninh Zone-H , gõ từ khoá .gov . vn có_thể thấy một danh_sách dài những mục_tiêu bị hạ . 
+Mạng an_toàn thông_tin VSEC mới_đây đưa ra con_số giật_mình : 60 % các website cơ_quan chính_phủ VN bị tấn_công và khống_chế . 
+Nạn_nhân gần đây nhất là trang web của Bộ Y_tế , bị tấn_công hôm 9/5 , với thông_điệp hacker để lại là hình động lá quốc_kỳ Thổ_Nhĩ_Kỳ bay phấp_phới trên nền nhạc hoành_tráng . 
+Cũng những hacker tự_xưng từ quốc_gia Hồi_giáo này trước đó đã tiến_hành một_số vụ tấn_công các website " .gov . vn " với dạng_thức deface tương_tự . 
+Hacker_Thổ_Nhĩ_Kỳ - thế_lực mới nổi ? 
+Trao_đổi với VnExpress , Kevin_Fernandez ( nickname là Siegfried ) , admin của Diễn_đàn an_ninh Zone-H , cho_biết hacker Thổ_Nhĩ_Kỳ hiện_nay là những đối_tượng hăng_máu hàng thứ nhì trong thế_giới ngầm , chỉ sau hacker Brazil . 
+Thống_kê của chúng_tôi cho_thấy một 
+Danh_sách các website Việt_Nam đã bị hackhacker Thổ_Nhĩ_Kỳ tự_xưng iskorpitx hiện_nay có chiến_tích ' hào_hùng ' nhất với trên 6.000 vụ tấn_công ( trong đó có trang web của Uỷ_ban thể_dục thể_thao VN ) , Fernadez cho_biết . 
+Nhân_vật này nhiều năm nay đã nổi_tiếng với việc xâm_nhập các server trên khắp thế_giới với tốc_độ rất ấn_tượng . 
+Cũng theo Fernandez , các hệ_thống máy_tính ở châu Á nói_chung hiện_nay là những mục_tiêu hay bị tấn_công nhất và đó cũng chính là điều các website VN cần lưu_tâm . 
+Hầu_hết cuộc tấn_công vào website .gov . vn mà Zone-H ghi_nhận đều nhắm vào hệ_thống chạy Windows , trong đó phần_nhiều không được cập_nhật bản vá lỗi còn số khác thì cấu_hình kém . 
+Các dịch_vụ web chính hiện_nay được bảo_mật tốt hơn nên hacker chuyển mục_tiêu sang các ứng_dụng web như ASP. net , PHP , cgi , perl& Người dùng những ứng_dụng này chủ_yếu là webmaster ( những người không mấy quan_tâm đến an_ninh như admin ) nên các trang web càng có nguy_cơ bị tấn_công nhiều hơn , Fernadez giải_thích . 
+Chỉ khi được vá lỗi đầy_đủ và cấu_hình hợp_lý , các hệ_thống mới có_thể tránh được tấn_công và bảo_vệ thông_tin . 
+Bao_nhiêu website Việt_Nam đã bị hack ? 
+Theo thống_kê mà ông Phùng_Anh_Tuấn , Giám_đốc VSEC , đưa ra , số site đuôi .gov . vn là khoảng 306 , trong đó hơn 170 nằm trong tình_trạng đã bị kiểm_soát . 
+Con_số 60 % là hoàn_toàn có cơ_sở vì chúng_tôi đã trải_qua một quá_trình theo_dõi , gạn_lọc , điều_tra từ rất nhiều nguồn thông_tin , ông Tuấn nói . 
+Hiện_tại , chúng_tôi có_thể test xem bao_nhiêu website bị lỗi và đưa ra cảnh_báo cho họ chỉ với những kỹ_thuật rất đơn_giản hoặc thống_kê có bao_nhiêu trang web đã bị tấn_công rồi . 
+Tuy_nhiên , Nguyễn_Tử_Quảng , Giám_đốc Trung_tâm an_ninh mạng Đại_học Bách_khoa Hà_Nội ( BKIS ) , cho rằng thống_kê của VSEC có_vẻ quá lớn so với thực_tế . 
+Tôi cũng đã hỏi Trung_tâm Internet VN ( VNNIC ) và họ cho_biết có 313 website có tên_miền đuôi .gov . vn . 
+Nếu 60 % số đó bị tấn_công tức_là khoảng 187 website . 
+Một con_số quá lớn , Giám_đốc BKIS nói . 
+Triệu Trần_Đức , chuyên_gia bảo_mật giành giải Trí_tuệ VN 2004 , cho rằng chắc_chắn số_lượng trang web bị khống_chế trên thực_tế cao hơn nhiều so với con_số đã được biết . 
+Việc các website của VN gần đây liên_tiếp trở_thành mục_tiêu của hacker nước_ngoài có_thể là vì trong thời_gian vừa_qua xuất_hiện một_số lỗi bảo_mật nguy_hiểm mà các quản_trị mạng chưa kịp cập_nhật hoặc chưa có ý_thức cập_nhật nên để lỗi những kẽ hở lớn . 
+Hacker nội hay ngoại tấn_công ? 
+Giám_đốc VSEC cho VnExpress biết trung_tâm này đã điều_tra cả tên nhóm , website của các nhóm hacker Thổ_Nhĩ_Kỳ . 
+Có khoảng 5 nhóm và cá_nhân hacker Thổ_Nhĩ_Kỳ tấn_công vào website VN , chủ_yếu thông_qua lỗi web server IIS 5.0 . 
+Với lỗi này , hacker có_thể kiểm_soát toàn_bộ hoạt_động của website nằm trên máy_chủ hoặc đoạt quyền hệ_thống của server . 
+" Một_số người nghĩ rằng các hacker VN tự dựng lên chuyện này , nhưng theo tôi được biết , chính cộng_đồng hacker VN cũng đang xôn_xao về việc các nhóm nước_ngoài nhắm vào website VN liên_tục trong thời_gian qua " , ông Phùng_Anh_Tuấn nói . 
+" Theo tôi , nếu mục_đích của họ chỉ là muốn thể_hiện khả_năng thì chừng nào các máy_chủ VN còn lỗi , việc bị tấn_công sẽ tiếp_tục diễn_ra " . 
+Nguyễn_Xuân_Việt , thành_viên ban quản_trị Diễn_đàn bảo_mật HVA , lại cho rằng việc hack các website Việt_Nam cũng giống như việc nhiều công_ty cung_cấp phần_mềm diệt virus muốn bán được sản_phẩm của mình thì ít_nhiều cũng phát_tán virus . 
+Vì thế mà sự_việc chưa hẳn đã là do hacker nước_ngoài làm . 
+" Thực_ra , hacker nước_ngoài không có lý_do gì để nhắm vào VN và VN cũng không nổi_tiếng đến độ được quan_tâm đặc_biệt như thế " , Xuân_Việt nhận_định . 
+" Cũng có_thể có kẻ cõng rắn cắn gà nhà . 
+Cảnh_báo vẫn chỉ để cảnh_báo 
+Vấn_đề lơ_là bảo_mật mạng ở VN là việc đã nói quá nhiều . 
+Bản_thân một website muốn được đảm_bảo an_toàn thì nó phải được xây_dựng từ nền_tảng cơ_bản . 
+Nghĩa_là nó sinh ra để làm gì , người_ta nuôi_dưỡng nó thế_nào , Giám_đốc BKIS Nguyễn_Tử_Quảng phát_biểu . 
+Tình_trạng của rất nhiều website tại VN hiện_nay là dựng lên để làm cảnh . 
+Chính vì thế mà việc bảo_mật cũng chẳng có ý_nghĩa gì . 
+Việc hacker tấn_công thành_công liên_tục như vậy cũng có tác_dụng để thức_tỉnh mọi người rằng nguy_cơ mất_mát là có thật và nó đang hiện_hữu . 
+Các website ở VN thường hay mắc một lỗi rất sơ_đẳng là SQL injection khiến dễ bị tấn_công . 
+Theo Giám_đốc điều_hành VSEC Phùng_Anh_Tuấn , cơ_quan này đã tình_nguyện đưa ra nhiều cảnh_báo nhưng hầu_hết mọi người làm_ngơ . 
+Riêng mạng VISTA , nơi có 2 server đặt host của hầu_hết các website chính_phủ Việt_Nam , VSEC đã cảnh_báo không dưới 3 lần nhưng không có gì thay_đổi . 
+Ông Tuấn cho rằng một vấn_đề cũng đáng nói ở đây là năng_lực của các quản_trị mạng ở VN vẫn còn hạn_chế nên nhiều khi họ ý_thức được mức_độ nguy_hiểm và có quan_tâm đến cảnh_báo nhưng không đủ khả_năng để ngăn_chặn . 
+Phan_Khương - Nguyễn_Hằng_

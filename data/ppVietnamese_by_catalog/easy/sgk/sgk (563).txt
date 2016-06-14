@@ -1,0 +1,10 @@
+Trang_trí hình_chữ_nhật 
+Trong số các vật_dụng quen_thuộc , có nhiều đồ_vật hình_chữ_nhật được trang_trí đẹp như : khăn trải bàn , cái khay , tấm thảm , ... 
+Trang_trí hình_chữ_nhật có đặc_điểm : hình mảng chính ở giữa , các hình mảng phụ ở xung_quanh ; các hoạ_tiết , màu_sắc thường được sắp_xếp đối_xứng qua hai trục : trục dọc và trục ngang . 
+Có nhiều cách sắp_xếp hình mảng , hoạ_tiết và sử_dụng màu_sắc khác nhau để trang_trí hình_chữ_nhật . 
+Ví_dụ : Có_thể sắp_xếp hình mảng đối_xứng qua các trục hoặc sắp_xếp tự_do nhưng phải cân_đối , hài_hoà . 
+Xác_định tỷ_lệ ( chiều dài , chiều rộng ) và vẽ hình_chữ_nhật . 
+Kẻ các đường_trục chia hình_chữ_nhật ra thành các phần đối_xứng bằng nhau . 
+Dựa vào các đường_trục , vẽ các hình mảng chính , phụ . 
+Tìm và vẽ hoạ_tiết cho phù_hợp với các hình mảng . 
+Vẽ màu theo ý_thích , có màu đậm , màu nhạt làm rõ trọng_tâm . 

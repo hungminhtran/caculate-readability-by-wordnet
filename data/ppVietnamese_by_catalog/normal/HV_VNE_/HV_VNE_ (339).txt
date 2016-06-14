@@ -1,0 +1,23 @@
+Download . GK - Trojan số 1 năm 2004 
+Trong danh_sách 10 phần_mềm tấn_công hàng_đầu năm qua do hãng bảo_mật Tây_Ban_Nha_Panda thống_kê , Download . GK chiếm tới 14 % tổng_số trường_hợp lây_nhiễm . 
+Đây là Trojan đầu_tiên có mức_độ nguy_hiểm được xếp cao hơn cả những loại sâu và virus phổ_biến như NetSky và Sasser . 
+Downloader . GK bí_mật tải và cài_đặt spyware có tên BetterInet vào máy_tính . 
+BetterInet lại có_thể cài một loại adware mà Panda gọi là SearchCentrix . 
+Downloader . GK tạo ra một file với tên bất_kỳ trong thư_mục Windows . 
+Rất dễ phát_hiện ra sự tồn_tại của nó vì Downloader . GK làm hiển_thị một_số thông_điệp pop-up trước khi cài chương_trình adware . 
+Máy_tính có_thể bị nhiễm Downloader . GK khi truy_nhập vào một_số website nhất_định và chấp_nhận cài một ActiveX control cụ_thể . 
+Khác với cách xếp hạng của Sophos ( Anh ) hay Symantec ( Mỹ ) , Panda liệt_kê tất_cả các loại virus , sâu và Trojan vào cùng một danh_sách . 
+Họ cho rằng sự xuất_hiện ngày_càng nhiều và tinh_vi của các phần_mềm gián_điệp là một xu_hướng nguy_hiểm và cần được nhìn_nhận như các loại mã tấn_công khác . 
+Trong Top 10 virus hàng_đầu năm 2002 của Panda chỉ có 1 Trojan thì đến 2004 , con_số đã lên tới 4 . Trong xếp hạng của Panda , họ sâu NetSky vẫn là mối đe_doạ lớn đối_với người sử_dụng máy_tính năm qua với sự hiện_diện của 3 biến_thể P,B và D . 
+Sasser cũng có vị_trí cao . 
+10 phần_mềm nguy_hiểm nhất 2004 theo đánh_giá của Panda : 
+Downloader . GK 
+Netsky . P 
+Sasser . ftp 
+Gaobot . gen 
+Mhtredir . gen 
+Netsky . D 
+Downloader . L 
+Qhost . gen 
+Netsky . B 
+StartPage . FH 

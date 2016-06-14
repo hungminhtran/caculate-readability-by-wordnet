@@ -1,0 +1,21 @@
+Hacker bội_thu nhờ số nạn_nhân virus máy_tính 
+Việc hai thanh_niên bị nghi_ngờ đứng đằng sau virus Zotob và Mytob sa lưới đã cung_cấp một cái nhìn cận_cảnh về cuộc_sống cũng như động_cơ thúc_đẩy các hành_vi phạm_pháp của tin_tặc . 
+David_Taylor , chuyên_gia bảo_mật dữ_liệu tại trường Đại_học Pennsylvania ( Mỹ ) , đã tình_cờ có một cuộc nói_chuyện với tin_tặc sử_dụng nickname Diabl0 . Diabl0 khẳng_định : " Sâu_Mytob được phát_tán với mục_đích duy_nhất là vì tiền . 
+Chúng_tôi kiếm lời qua số lần chương_trình nguy_hiểm được cài vào máy_tính " . 
+Diabl0 cũng tiết_lộ một trong những mục_tiêu của Mytob là làm suy_yếu thiết_lập bảo_mật trên trình_duyệt Internet_Explorer của Microsoft để cho_phép một_số pop-up không bị chặn lại . 
+Mỗi khi một quảng_cáo được gửi tới người dùng , Diabl0 sẽ nhận được khoản tiền thù_lao nhất_định . 
+Thậm_chí ngay_cả nếu người dùng đã loại_bỏ virus đó , chế_độ thiết_lập vẫn không thay_đổi và những pop-up không mong_đợi sẽ tiếp_tục hoạt_động . 
+Với sự bùng_nổ của Mytob và Zotob trong năm 2005 , Diabl0 hoàn_toàn có_thể trông_chờ một vụ mùa bội_thu . 
+David_Taylor đã chuyển tất_cả những thông_tin mà ông có được cho FBI . 
+" Mọi thứ đã hoàn_toàn thay_đổi , chúng_ta thường cho rằng những đứa trẻ_tuổi vị_thành_niên viết virus chỉ vì thích_thú và tò_mò " , Mikko_Hypponen , trưởng nhóm nghiên_cứu của hãng F-Secure , nói . 
+" Hầu_hết những vụ tấn_công lớn đều mang tính chuyên_nghiệp cao . 
+Chúng được tiến_hành có tổ_chức từ lúc bắt_đầu cho đến khi kết_thúc " . 
+Cũng theo Hypponen , rất ít tác_giả virus hiện_nay muốn được xuất_hiện trên trang nhất các báo , mà chúng chủ_yếu mong " tác_phẩm " của mình qua_mặt được hệ_thống theo_dõi , tìm_kiếm càng nhiều nạn_nhân càng tốt , rồi sau đó bòn_rút tiền của họ hoặc ăn_cắp những thông_tin có_thể đem ra rao_bán . 
+Tuy chưa có dấu_hiệu rõ_ràng cho_thấy người dùng nick Diabl0 nói_chuyện với Taylor chính là Farid_Essebar , bị bắt tại Morocco sau một cuộc điều_tra mang tính quốc_tế về tình_trạng phát_tán quá nhanh của Zotob đầu tháng trước , Taylor cam_đoan Diabl0 sử_dụng máy_tính đặt tại nước này . 
+Thổ_Nhĩ_Kỳ , nơi cảnh_sát tóm Atilla_Ekici , kẻ thuê Essebar viết sâu Zotob , từ lâu đã được coi là địa_điểm các tác_giả virus hội_tụ và soạn chương_trình nguy_hiểm khống_chế máy_tính , vì thế cái tên Morocco đã khiến nhiều chuyên_gia bất_ngờ . 
+" Đây là lần đầu_tiên tôi từng nghe thấy một sự_kiện như thế này ở Morocco " , Hypponen khẳng_định . 
+Nhưng ông cũng cho_biết Essebar đã từng sống ở Nga , nơi sản_sinh ra những mã máy_tính nguy_hiểm và nhiều nhóm tội_phạm công_nghệ cao ma_mãnh nhất thế_giới . 
+Theo hãng bảo_mật Sophos ( Anh ) , Zotob thực_chất là một biến_thể của Mytob được hình_thành nhờ dùng mã khai_thác của tin_tặc người Nga houseofdabus . 
+Hacker trẻ_tuổi Sven_Jaschan ( Đức ) từng lấy mã này để tạo sâu Sasser . 
+Pete_Simpson , chuyên_gia của hãng chuyên cung_cấp công_cụ lọc e-mail_Clearswift ( Anh ) , cũng cho rằng Essebar , Ekici , và nhiều hacker khác , thực_chất không hề sành_sỏi trong lĩnh_vực kỹ_thuật mà chúng chỉ ranh_mãnh trong việc lợi_dụng những đoạn code có sẵn để tạo phiên_bản mới . 
+Essebar được coi là tác_giả của hơn 20 virus khác bao_gồm những biến_thể của Mydoom , Mytob và đặc_biệt là Zotob , sâu đã khiến hệ_thống máy_tính sử_dụng Windows_2000 của hơn 100 hãng thông_tấn như Financial_Times , ABC_News và CNN gặp trục_trặc và liên_tục phải khởi_động lại . 

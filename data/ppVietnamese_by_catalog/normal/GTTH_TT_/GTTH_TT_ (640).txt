@@ -1,0 +1,6 @@
+Cung_cấp truyền_hình qua Internet ADSL 
+Từ nay đến 10-03-2006 , sẽ có 500 người được chọn là những người đầu_tiên tại Việt_Nam sử_dụng thử_nghiệm Truyền_hình Internet với 1 trong 2 phương_thức : 
+- Download phần_mềm để có_thể xem được 32 kênh_truyền_hình trong nước và quốc_tế qua máy_tính nối mạng ADSL của FPT . 
+- Xem 32 chương_trình truyền_hình trong nước và quốc_tế qua TV của khách_hàng bằng hình_thức FPT cho mượn thiết_bị giải_mã ( IPTV Set_Top_Box – STB ) gắn giữa modem ADSL với TV của khách_hàng . 
+Truyền_hình Internet ( viết tắt là IP_TV - Internet_Protocol_Television ) là hệ_thống dịch_vụ truyền_hình kỹ_thuật số được truyền đến khách_hàng thuê_bao bằng giao_thức Internet băng rộng qua ADSL . 
+Dịch_vụ này thường được cung_cấp kèm theo với Video_on_Demand ( xem phim theo yêu_cầu ) và có_thể bao_gồm luôn các dịch_vụ Internet như truy_cập web và VoIP ( điện_thoại Internet ) . 

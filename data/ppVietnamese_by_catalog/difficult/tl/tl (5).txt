@@ -1,0 +1,137 @@
+A-MỞ BÀI 
+Trong nền kinh_tế hiện_đại , chính_sách tiền_tệ của chính_phủ sử_dụng lãi_suất như một công_cụ quan_trọng để tác_động vào nền kinh_tế , kiểm_soát lượng tiền cung_ứng . 
+Lãi_suất là một phạm_trù kinh_tế , phản_ánh mối quan_hệ giữa người cho vay và người đi vay , phản_ánh mối quan_hệ giữa cung và cầu về tiền_tệ , thực_trạng kinh_tế của một nước . 
+Thông_qua sự biến_động của lãi_suất , người_ta có_thể dự_đoán nền kinh_tế đang phát_triển hay đang suy_thoái . 
+Lãi_suất là một trong những vấn_đề trung_tâm của nền kinh_tế , vì nó tác_động đến chi_phí đầu_tư , do đó nó là yếu_tố quan_trọng quyết_định tổng_mức đầu_tư và tổng_mức cầu về tiền tệ( GNP ) . 
+Việt_Nam trong hơn 10 năm đổi_mới những chính_sách Lãi_Suất ngân_hàng nhà_nước sử_dụng đã có tác_động mạnh_mẽ tới việc huy_động vốn và hoạt_động sản_xuất kinh_doanh của các ngân_hàng Thương_mại và các doanh_nghiệp . 
+Để tăng hiệu_quả hoạt_động của hệ_thống ngân_hàng Thương_mại và thúc_đẩy sự phát_triển của các doanh_nghiệp trong nền kinh_tế đòi_hỏi Ngân_hàng nhà_nước phải tiếp_tục đổi_mới hơn nữa cơ_chế điều_hành Lãi_Suất . 
+Xuất_phát từ nhu_cầu thực_tiễn này em xin chọn đề_tài " Lãi_suất và vai_trò của lãi_suất trong việc huy_động vốn " làm bài tiểu_luận của mình . 
+Do còn hạn_chế trong việc hiểu_biết về lĩnh_vực tài_chính kinh_tế , nên bài tiểu_luận của em không tránh khỏi những thiếu xót . 
+Kính mong thầy_cô giúp_đỡ , góp_ý để em hoàn_thành bài tiểu_luận này . 
+Em xin chân_thành cảm_ơn ! 
+B-NỘI DUNG 
+I . Cơ_sở lý_luận chung về Lãi_suất . 
+1 . Khái_niệm về Lãi_Suất . 
+Lãi_suất là một công_cụ nhạy_cảm trong điều_hành chính_sách tiền_tệ của mọi Ngân_hàng trung ương,cũng là mối quan_tâm của mọi người , mọi doanh_nghiệp thuộc các thành_phần kinh_tế khác nhau . 
+Đã có rất nhiều khái_niệm về Lãi_suất chúng_ta có_thể đưa ra một_số khái_niệm cơ_bản về Lãi_suất như sau : 
+-Lãi suất là tỷ_số giữa tổng_số lợi_tức hàng năm và tổng_số vốn đã bỏ ra cho vay trong năm . 
+Nói cách khác đi , Lãi_suất là giá_cả mà con_nợ phải trả cho chủ_nợ để sử_dụng khoản tiền vay trong một kỳ_hạn nhất_định . 
+- Lãi_suất danh_nghĩa là Lãi_suất bằng tiền trên các tài_sản bằng tiền . 
+-Lãi suất thực_tế ( r ) bằng lãi_suất danh_nghĩa ( i ) trừ đi lạm_phát , lãi_suất thực_tế phản_ánh đúng chi_phí thật của việc vay tiền và điều_chỉnh cho đúng theo những thay_đổi dự_tính về mức . 
+* Ngoài_ra còn có các loại lãi_suất thông_dụng như : Lãi_suất trả trước khi vay , lãi_suất trả sau cùng với vốn , lãi_suất trả dần cùng với vốn theo định_kỳ và lãi_suất trả bằng phiếu lợi_tức . 
+2 . Các nhân_tố tác_động đến Lãi_Suất . 
+Lãi_suất luôn_luôn biến_động do những nhân_tố sau : 
+* Sự thay_đổi của tổng cầu( GNP ) . 
+Khi GNP tăng lên , nền kinh_tế đòi_hỏi phải tăng khối tiền cung ứng( nếu tốc_độ lưu_thông tiền_tệ không thay_đổi ) để đảm_bảo cung_cầu tương_ứng . 
+Nếu trong điều_kiện đó , khối_lượng cung_ứng tiền(_M1 hoặc M2 ) tăng quá cầu thì MV>PQ , cung vốn đầu_tư lớn hơn cầu vốn đầu_tư làm cho lãi_suất giảm . 
+Ngược lại , khi GNP giảm thì khối_lượng tiền cung_ứng thực_tế cũng giảm theo , nếu tốc_độ lưu_thông tiền_tệ không thay_đổi mà giảm khối cung_ứng tiền_tệ xuống quá thấp sẽ đưa đến tình_trạng MV<PQ. Lúc đó , cung vốn đầu_tư nhỏ hơn cầu vốn đầu_tư thì lãi_suất sẽ tăng . 
+* .Sự chi_tiêu của chính_phủ . 
+Trong khi lượng cung_ứng tiền_tệ ( M1 hay M2 ) không thay_đổi mà chính_phủ chi_tiêu nhiều hơn sẽ làm giảm bớt nhu_cầu chi cho đầu_tư và tiêu_dùng của cá_nhân , nhu_cầu tiền của nhân_dân trở_nên khan_hiếm , nguồn cung_ứng vốn nhỏ hơn nhu_cầu vốn , lãi_suất sẽ tăng lên . 
+* . 
+Chính_sách tiền_tệ . 
+Chính_sách tiền_tệ của chính_phủ ban_hành là nhằm mục_đích kiểm_soát lượng cung_ứng tiền_tệ , kiểm_soát tình_trạng lạm_phát và các tác_động đến lãi_suất để thực_hiện các mục_tiêu đã định . 
+* .Nhu cầu tiêu_dùng và đầu_tư . 
+Trong thực_tế khi nhu_cầu tiêu_dùng tăng thì kéo_theo lãi_suất tăng và ngược lại khi nhu_cầu này giảm đi thì sẽ làm giảm lãi_suất . 
+Cũng như khi nhu_cầu về đầu_tư , người_ta đổ_xô vào đầu_tư kinh_doanh kiếm lợi_nhuận thì nhu_cầu về tiền , tài_sản là rất lớn sẽ dẫn tới lãi_suất tăng . 
+II . Vai_trò và tác_động của Lãi_suất trong huy_động vốn nền kinh_tế_thị_trường Việt_Nam . 
+Lãi_suất có vai_trò quan_trọng trong nền kinh_tế , nó là trung_tâm trong chính_sách tiền_tệ của chính_phủ . 
+* Đối_với sự phân_bổ các nguồn_lực thì lãi_suất là một loại giá_cả , nó có vai_trò phân_bổ hiệu_quả các nguồn_lực khan_hiếm của xã_hội và là yếu_tố cần_thiết ban_đầu trước khi đi đến quyết_định đầu_tư vào một ngành kinh_tế , một dự_án hay một tài_sản nào đó … 
+* Thu_nhập của các hộ gia_đình thường được chia làm hai bộ_phận : Tiêu_dùng và tiết_kiệm , tỷ_lệ phân_chia này phụ_thuộc vào nhiều nhân_tố như thu_nhập , tín_dụng tiêu_dùng , hiệu_quả của việc tiết_kiệm trong đó tiền_tệ và lãi_suất có tác_dụng tích_cực tới các nhân_tố khác . 
+Vì vậy trong tiêu_dùng và tiết_kiệm lãi_suất cũng có vai_trò không nhỏ trong việc điều_chỉnh thu_nhập của kinh_tế gia_đình 
+* Với các hoạt_động đầu_tư do chịu nhiều ảnh_hưởng bởi nhiều nhân_tố như thu_nhập , chi_phí trong kinh_doanh … Nên khi lãi_suất cao , thì sẽ có ít khoản đầu_tư vào vốn hiện_vật sẽ mang lại thu_nhập nhiều hơn chi_phí lãi trả cho các khoản đi vay , do vậy chi_tiêu cho đầu_tư giảm , ngược lại khi lãi_suất thấp các doanh_nghiệp sẽ quyết_định đầu_tư cho vốn hiện_vật nhiều hơn , chi_tiêu đầu_tư sẽ tăng . 
+* Không_chỉ có vậy với tỷ_giá_hối_đoái và hoạt_động xuất_nhập_khẩu còn chịu nhiều ảnh_hưởng của lãi_suất ở lãi_suất tiền gửi nội_tệ và ngoại_tệ . 
+* Lãi_suất với lạm_phát Trong thời_kỳ lạm_phát , tăng lãi_suất sẽ cho_phép hệ_thống ngân_hàng có_thể thu_hút phần_lớn số tiền có nhiều trong lưu_thông khiến cho đồng_tiền trong lưu_thông giảm , lượng tiền cung_ứng cũng sẽ giảm và lạm_phát được kiềm_chế . 
+Như vậy , lãi_suất cũng góp_phần chống lạm_phát . 
+* Vai_trò của Lãi_suất đến việc huy_động vốn : Lãi_suất là chi_phí huy_động vốn của doanh_nghiệp và ngân_hàng . 
+Các doanh_nghiệp phải xem_xét khả_năng lợi_nhuận thu được với chi_phí huy_động vốn bỏ ra để quyết_định huy_động vốn từ nguồn nào và đầu_tư vào đâu để có lợi cho doanh_nghiệp nhất . 
+Còn ngân_hàng phải xem_xét giữa lãi_suất huy_động với khả_năng cho vay ở mức lãi_suất cao hơn để đưa ra phương_hướng hoạt_động đảm_bảo mục_tiêu của ngân_hàng tồn_tại và phát_triển . 
+Tóm_lại , lãi_suất là một trong những vấn_đề trung_tâm của nền kinh_tế vì nó tác_động đến chi_phí đầu_tư , do đó nó là yếu_tố quan_trọng quyết_định tổng_mức đầu_tư và tổng_mức cầu về tiền_tệ ( GNP ).Để tìm_hiểu thêm về vai_trò của lãi_suất chúng_ta hãy theo_dõi tình_hình lãi_suất qua một_số năm . 
+* Giai_đoạn từ 1989 – 1993 . Chính_sách Lãi_suất thực dương đã phát_huy hiệu_quả với Lãi_suất tiết_kiệm không kỳ_hạn là 109 % / năm , Lãi_suất 3 tháng là 12 % / tháng tức 144 % / năm huy_động được nguồn vốn nhàn_rỗi trong dân_cư , tạo thế ổn_định tương_đối về tiền_tệ một tiền_đề quan_trọng để ổn_định và phát_triển xã_hội . 
+* . 
+Tác_động tích_cực của chính_sách lãi_suất dương . 
+1 . Đối_với NHTM : Lãi_suất cho vay tín dụng> Lãi_suất tiền gửi tiết_kiệm > Tỷ_lệ lạm_phát . 
+Cho_nên NHTM không còn phải bao_cấp đối_với các doanh_nghiệp vay vốn thông_qua tín_dụng nữa . 
+Lãi_suất thực dương cao đã thu_hút một số_lượng tiền gửi lớn vào các ngân_hàng làm lượng tiền dự_trữ của các ngân_hàng tăng cao đáp_ứng được nhu_cầu vay vốn của doanh_nghiệp . 
+2 . Đối_với Doanh_nghiệp : Khi lãi_suất tiền gửi cao dẫn đến lãi_suất cho vay cao buộc các doanh_nghiệp phải cân_nhắc việc vay vốn đầu_tư , phải xem_xét và lựa_chọn các phương_án đầu_tư có hiệu_quả tốt nhất . 
+Cơ_cấu tổ_chức của các doanh_nghiệp được tổ_chức một_cách hợp_lý hơn , giảm_thiểu bộ_phận quản_lý cồng_kềnh để giảm_thiểu chi_phí . 
+* Tác_động tiêu_cực của chính_sách Lãi_suất dương . 
+1 . Đối_với NHTM : Do lãi_suất tiền gửi cao dẫn đến lãi_suất cho vay cao nên càng khuyến_khích gửi tiền hơn là vay tiền , lãi_suất thực dương cao của ngân_hàng đem lại khả_năng thu được lợi_nhuận lớn hơn là đưa tiền vào đầu_tư mà rủi_ro lại thấp nên cũng khuyến_khích các doanh_nghiệp gửi tiền vào ngân_hàng hơn là vay vốn để kinh_doanh . 
+Đến một lúc do lượng tiền gửi vẫn tăng , khối_lượng vay giảm dẫn đến tài_sản nợ trong bảng_cân_đối của NHTM lớn hơn tài_sản có . 
+2 . Đối_với doanh_nghiệp : Lãi_suất vay vốn không khuyến_khích các doanh_nghiệp đầu_tư mà các doanh_nghiệp tích_cực gửi tiền vào ngân_hàng hơn . 
+Trong tổng_số vốn đầu_tư sản_xuất kinh_doanh , một phần_lớn là đi vay của ngân_hàng , bởi lãi_suất vốn cao dẫn đến chi_phí sản_xuất kinh_doanh lớn do đó giá thành_phẩm cao , giá hàng_hoá cao và như vậy hàng_hoá sẽ giảm tính cạnh_tranh trên thị_trường . 
+* Giai_đoạn 1996 – 2005 . - Thời_gian này ngân_hàng nhà_nước vừa cầu lãi_suất trần . 
+lãi_suất thoả_thuận . 
+- Thoả_thuận trường_hợp ngân_hàng không huy_động đủ vốn để cho vaytheo lãi_suất quy_định phải trả phát_hành kỳ_phiếu với lãi_suất cao hơn thì được cầu lãi suât . 
+Lãi_suất huy_động có_thể cao hơn lãi_suất tiết_kiệm cùng thời_hạn là 0,2 % tháng và cho vay cao hơn mức lãi_suất trần là 2,1 % tháng . 
+- Tăng lãi_suất tiền gửi , lãi_suất cao làm cho người kinh_doanh chủ_yếu đầu_tư vào các lĩnh_vực sản_xuất có lợi_nhuận cao tức_thời và thu_hồi vốn nhanh như : Dịch_vụ , thương_mại , sản_xuất nhỏ tạo nên sự mất cân_bằng trong nền kinh_tế . 
+* Giai_đoạn thực_hiện chính_sách lãi_suất trần . 
+1.Chính sách lãi_suất trần tác_động đến các NHTM. 
+* Tích_cực . 
+- Việc tổ_chức quản_lý lãi_suất trần cho_phép các tổ_chức tín_dụng được tự_do ổn_định các mức lãi_suất cho vay và tiền gửi trong phạm_vi trần do NHNN cho_phép , chính_sách lãi_suất trần đã chấm_dứt thị_trường NHNN quy_định các mức dư_nợ lãi_suất cụ_thể , xoá_bỏ lãi_suất cho vay theo thoả_thuận và từng bước tiến_hành tự_do_hoá lãi_suất . 
+- Để nâng_cao lợi_nhuận các NHTM phải nâng_cao mức dư_nợ cho vay và huy_động vốn gấp nhiều lần . 
+* Hạn_chế : 
+Do lãi_suất cho vay và lãi_suất huy động( ngắn , trung , dài hạn ) liên_tục giảm , nhiều NHTM không lường trước được đã huy_động vốn có thời_hạn 1-3 năm để cho vay trung và dài hạn . 
+Năm 1999 NHNN 5 lần cắt_giảm lãi_suất cho vay tối_đa , có lần NHNN còn buộc NHTM giảm ngay_cả lãi_suất dư_nợ đã cho vay khi đó vốn lao_động theo lãi_suất thời_kỳ trước vẫn được giữ nguyên cho tới khi hết hạn , đồng_thời lãi_suất cho vay và lãi_suất huy_động vốn nhỏ( bằng không hoặc thấp hơn ) . 
+Vậy rủi_ro lãi_suất luôn đặt gánh_nặng lên các NHTM. 
+2 . Chính_sách lãi_suất trần đối_với các doanh_nghiệp . 
+* . 
+Tích_cực . 
+- Đáp_ứng tốt nhu_cầu vốn sản_xuất cho doanh_nghiệp . 
+- Doanh_nghiệp không phải vay với mức lãi_suất vượt trần , tức_là các doanh_nghiệp không bị các ngân_hàng ép khi đi vay tiền . 
+- Trong thời_kỳ hàng cả nước có 6000 doanh_nghiệp nhà_nước hơn 1000 doanh_nghiệp có vốn đầu_tư nước_ngoài , 230000 doanh_nghiệp tư_nhân , công_ty cổ_phần , công_ty trách_nhiệm hữu hạn( phát_biểu của thủ_tướng Phạm_Văn_Khải tại cuộc gặp các nhà doanh_nghiệp tại Hà_Nội 1/1998 ) hầu_hết các doanh_nghiệp này được vốn ngân_hàng hỗ_trợ 80 - 90 % trong sản_xuất kinh_doanh cải_tiến và đổi_mới công_nghệ . 
+* .Hạn chế . 
+Việc giảm lãi_suất là điều_kiện_cần nhưng không đủ để tạo vốn cho doanh_nghiệp . 
+- Lãi_suất còn cao , khó_khăn trong thủ_tục vay NH . 
+Cho_dù lãi_suất cho vay đã giảm khá mạnh song các DN vẫn không dám vay tiền vì tỷ_lệ lãi_suất cho vay ngân_hàng vào khoảng 10 %-11 % năm . 
+- Nhiều DN làm_ăn không có hiệu_quả do trang_thiết_bị cũ_kỹ , công_nghệ lạc_hậu nhưng muốn cơ_cấu vốn lớn , bắt_buộc phải đi vay , với số vốn lớn DN phải trả lãi lớn trong khi lợi_nhuận thu được lại chưa ổn_định do vậy lãi_suất giảm DN vẫn không dám vay . 
+- Các NH cạnh_tranh dẫn đến tăng mức lãi_suất tiền gửi các DN cắt_giảm tất_cả những khoản đầu_tư không đưa lại lợi_nhuận cao bằng gửi tiếp vào NH . 
+- Việc vay vốn trung và dài hạn của các DN không thuận_lợi vì các NH cho vay dễ gặp rủi_ro từ việc huy_động vốn NH cho vay trung và dài hạn trong khi mức chênh_lệch giữa lãi_suất cho vay ngắn hạn , trung và dài hạn bị xoá_bỏ . 
+Mức lãi_suất cơ_bản 
+Các loại lãi_suất chủ_đạo trên của NHNN trong đó có tác_động trực_tiếp đến lãi_suất huy_động vốn và cho vay của các NHTM , nhưng có tác_động gián_tiếp đến lãi_suất trong nền kinh_tế . 
+Việc tăng lãi_suất cơ_bản cho_thấy NHNN phát tín_hiệu tăng lãi_suất trên thị_trường tiền_tệ . 
+Còn việc tăng lãi_suất tái cấp_vốn và lãi_suất tái chiết_khấu chứng_tỏ lãi_suất huy_động vốn và cho vay đều tăng , phản_ứng này có_thể dễ_dàng thấy được bởi các diễn_biến kinh_tế vĩ_mô chủ_yếu được coi là mục_tiêu điều_hành chính_sách tiền_tệ . 
+Theo đó , NHNN sẽ hạn_chế cung_ứng tiền cho các NHTM để mở tín_dụng thông_qua việc tăng lãi_suất tái cấp_vốn và lãi_suất . 
+Đồng_thời để đáp_ứng nhu_cầu vay vốn của khách_hàng buộc các NHTM phải đẩy_mạnh huy_động vốn trên thị_trường , nếu không phải vay vốn của NHNN theo các nghiệp_vụ NHTƯ với lãi_suất cao hơn . Để huy_động được vốn trong xã_hội trong bối_cảnh hiện_nay , điều dễ_dàng xảy_ra khi NHNN tăng các loại lãi_suất chủ_đạo nói trên thì các NHTM phải tăng lãi_suất huy_động vốn . 
+Bởi_vì hiện_nay đang có rất nhiều kênh cạnh_tranh thu_hút vốn . 
+Lãi_suất tăng không biết có tác_dụng kiềm_chế lạm_phát hay không nhưng nó làm tăng rủi_ro cho cả NHTM và doanh_nghiệp thì khá rõ_ràng , bởi_vì với lãi_suất vay vốn nội_tệ bình_quân lên tới 12 %-13 % / năm vào loại cao nhất trong khu_vực , lợi_nhuận của doanh_nghiệp , khả_năng trả nợ của người vay sẽ bị ảnh_hưởng nghiêm_trọng . 
+Mặc_dù lãi_suất cao nhưng nhiều dự_án triển_khai dở_dang vẫn phải tiếp_tục vay vốn ngân_hàng để đầu_tư , đương_nhiên làm tăng độ rủi_ro của dự_án lãi_suất tăng , vốn khan_hiếm , doanh_nghiệp và người kinh_doanh sẽ khó vay được vốn ngân_hàng hơn . 
+Lãi_suất tăng làm chi_phí vốn vay trong cơ_cấu giá bán của sản_phẩm và dịch_vụ tăng , tác_động làm tăng mặt_bằng giá và tăng chỉ_số giá tiêu_dùng trên thị_trường xã_hội . 
+Lãi_suất tăng về nguyên_lý cũng như thực_tiễn sẽ tác_động lớn đến tăng_trưởng kinh_tế của giai_đoạn sau , nhất_là trong điều_kiện vốn hoạt_động của doanh_nghiệp , của người kinh_doanh trông_chờ chủ_yếu vào vốn tín_dụng ngân_hàng 
+* ở Việt_Nam hiện_nay 
+Lãi_suất tín_dụng ngân_hàng rất nhạy_cảm đến mọi người , mọi doanh_nghiệp thuộc các thành_phần kinh_tế . 
+Lãi_suất huy_động vốn và lãi_suất cho vay luôn mâu_thuẫn với nhau , hay nói cách khác đây là mâu_thuẫn về lợi_ích giữa người gửi tiền và người vay tiền NHTM. 
+- Lãi_suất cho vay gồm có : lãi_suất chiết_khấu giấy_tờ có giá với khách_hàng ; lãi_suất cho vay ngắn hạn , trung_hạn và dài hạn ; tỷ_lệ lãi_suất nợ quá hạn so với lãi_suất nợ đang lưu_hành . 
+Lãi_suất huy_động vốn gồm lãi_suất huy_động vốn ngắn hạn ( dưới 12 tháng )và lãi_suất huy_động vốn trung dài hạn . 
+Lãi_suất huy_động vốn ngắn hạn gồm lãi_suất tiền gửi không kỳ_hạn , lãi_suất tiền gửi ngắn hạn có kỳ 3 tháng , 6 tháng , 9 tháng và 12 tháng , lãi_suất huy_động vốn trung_hạn ( trên 12 tháng và dưới 36 tháng ) , lãi_suất huy_động vốn dài hạn ( từ 36 tháng trở lên ) của NHTM. 
+- Ngân_hàng nhà nước( NHNN ) điều_hành lãi_suất tín_dụng ngân_hàng bằng khung lãi_suất tức NHNN chỉ quy_định lãi_suất huy_động vốn thấp nhất và lãi_suất cho vay cao nhất , lãi_suất nợ quá hạn . 
+Lãi_suất cho vay ngắn hạn ( 12 tháng trở xuống ) trong đó có chiết_khấu thương_phiếu , lãi_suất cao nhất đối_với cho vay trung_hạn . 
+Lãi_suất huy_động vốn thấp nhất gọi là sàn lãi_suất , lãi_suất cho vay cao nhất gọi là lãi_suất trần . 
+Nền kinh_tế một nước ổn_định , ngân_hàng trung_ương điều_hành công_cụ lãi_suất tín_dụng ngân_hàng theo khung lãi_suất có tác_dụng mạnh_mẽ đối_với nền kinh_tế và nâng_cao tính độc_lập tự_chủ tài_chính của NHTM , góp_phần tăng_trưởng GDP / năm đồng_thời thể_hiện vai_trò quản_lý_nhà_nước của NHNN . 
+Các NHTM cạnh_tranh với nhau bằng lãi_suất tín_dụng rất quyết_liệt . 
+Nhưng một_số dân có trình_độ kinh_tế cao chưa hẳn gửi tiền vào tổ_chức tín_dụng có lãi_suất cao như Quỹ_tín_dụng nhân_dân cơ_sở hoặc NHTM cổ_phần mà họ đầu_tư vào trái_phiếu chính_phủ , mặc_dù lãi_suất thấp hơn nhưng tính an_toàn rất cao ( chính_phủ vay tiền của nhân_dân ) hoặc gửi tiền vào NHTM nhà_nước , an_toàn hơn gửi tiền vào NHTM cổ_phần . 
+Ở nước ta , các NHTM nhà_nước điển_hình là NH công_thương Việt_Nam đưa ra lãi_suất huy_động vốn ở tất_cả các kỳ dài hạn luôn thấp hơn so với các NHTM nói_chung nhưng nhiều người vẫn gửi vào . 
+Dịch_vụ tiết_kiệm bưu_điện tuy mới hoạt_động hơn 5 năm , lãi_suất huy_động vốn cao hơn một_chút hoặc bằng lãi_suất huy_động của NHTM nhà_nước . 
+Nhưng nguồn vốn huy_động đến cuối quý I / 2005 đạt 24 nghìn tỷ đồng , gấp hơn 20 lần nguồn cổ_phần Sài_Gòn công_thương . 
+Tại_sao lại như vậy ? 
+Bởi_vì dịch_vụ tiết_kiệm bưu_điện cá_nhân được mở tài_khoản tiền gửi không kỳ_hạn với lãi suât như các NHTM nhà_nước ( 2,4 % / năm ) nhưng mở tài_khoản được gửi tiền và rút tiền ở tất_cả các bưu_cục trong cả nước . 
+Dịch_vụ tiết_kiệm bưu_điện do doanh_nghiệp nhà_nước đảm_nhận nhân_dân tin_tưởng hơn các NHTM cổ_phần . 
+Dịch_vụ tiết_kiệm bưu_điện lại có hơn 2700 bưu_cục trong cả nước , nhiều hơn mạng_lưới NHNNvà_PTNN Việt_Nam . 
+Như vậy lãi_suất huy_động vốn cao hay thấp phụ_thuộc vào vị_thế , uy_tín , mạng_lưới và tiện_ích đem lại cho thể_nhân và pháp_nhân gửi tiền . 
+Khi nền kinh_tế ổn_định , GDP tăng trưỏng tốc_độ cao lãi_suất tiền gửi NHTM đảm_bảo nguyên_tắc : Lãi_suất dương ( + ) tức tỷ_lệ lãi_suất tiền gửi kỳ_hạn 12 tháng cao hơn tỷ_lệ lạm_phát / năm . 
+Năm 2004 , lãi_suất tiền gửi kỳ_hạn 12 tháng không vượt tỷ_lệ lạm_phát 9,5 % / năm . 
+Đây là hiện_tượng khác_thường , kể từ năm 1996 trở_lại đây ( trừ năm 1998 lạm_phát là 9,2 % / năm ) . 
+Năm 1987 , nước ta lạm_phát 774 % / năm , NHNN Việt_Nam và các NHTM không_thể đưa ra tỷ_lệ lãi_suất huy_động vốn kỳ_hạn 12 tháng , cao hơn tỷ_lệ lạm_phát ấy . 
+Bởi vậy các nhà kinh_tế ví lạm_phát cao hoặc lạm_phát phi_mã như " sắc_thuế vô_hình " , mọi thể_nhân và pháp_nhân có tiền phải chịu thiệt_hại , cả tiền gửi NHTM hoặc đầu_tư vào giấy_tờ có giá … 
+Các NHTM đua nhau tăng lãi_suất huy_động vốn với nhiều hình_thức : Lãi_suất tiền gửi luỹ_tiến theo thời_gian và theo cả số tiền gửi vào nhiều hay ít , nhiều NHTM còn tổ_chức quay chọn thưởng với những giá_trị hấp_dẫn như giải độc_đắc trị_giá 100 cây vàng bốn số 9 hoặc ô_tô_du_lịch sang_trọng hay một căn nhà chung_cư trị_giá nhiều trăm triệu đồng . 
+Đặc_biệt một_số NHTM cổ_phần còn đưa lãi_suất huy_động vốn có cùng kỳ_hạn , ở miền Nam cao hơn miền Bắc như NHTM cổ_phần Quốc_Tế . 
+Trong lúc này lạm_phát đang gia_tăng , nỗi lo của nhiều người , NHNN Việt_Nam nên điều_hành lãi_suất theo khung lãi_suất - khống_chế lãi_suất trần , nhằm đảm_bảo quyền_lợi của bên vay vốn . 
+NHNN quy_định sàn lãi_suất để người gửi tiền có kỳ_hạn vào NHTM , với một tỷ_lệ lãi_suất thích_hợp vì họ là " tư_bản thực_lợi " . 
+Được biết , trong nhiều năm qua , một_số doanh_nghiệp nhà_nước tỷ_lệ sinh lời trên vốn còn thấp hơn tỷ_lệ lãi_suất tiền gửi Ngân_hàng kỳ_hạn 12 tháng . 
+Đứng về giác_độ kinh_tế lãi_suất tín_dụng ngân_hàng , NHTM đóng vai_trò phân_phối lãi thu_nhập bằng tiền của bên vay với bên gửi tiền vào NHTM. 
+Nói khác đi , các NHTM huy_động vốn ở thành_phố , chuyển một phần nguồn vốn huy_động về nông_thôn cho sản_xuất nông , ngư , lâm_nghiệp và doanh_nghiệp vay . 
+Các NHTM dùng ít_nhất 70 % số lãi thu được từ làm kinh_tế hộ và doanh_nghiệp vay vốn để trả lãi cho người gửi tiền , trong đó thu lãi cho vay ở nông_thôn , trả lãi cho người gửi tiền ở thành_thị . ( Một_số tư_liệu trên trích từ báo Kinh_tế_và Dự_báo số T6/9-2005 ) 
+C - KẾT_LUẬN 
+Hiện_tượng lãi_suất vẫn đang biến_động theo từng ngày từng giờ khắp trong và ngoài nước . 
+Lãi_suất là một trong những biến_số được theo_dõi chặt_chẽ nhất trong nền kinh_tế , sự dao_động của Lãi_Suất được đưa trên các phương_tiện_thông_tin_đại_chúng , nó trực_tiếp tác_động đến các quyết_định của chính_phủ , doanh_nghiệp , cũng như nhiều hoạt_động của các tổ_chức tín_dụng và sự thăng_trầm của toàn_bộ nền kinh_tế . 
+Là một bộ_phận cấu_thành của chính_sách tiền_tệ quốc_gia , là mục_tiêu chính_sách tiền_tệ của quốc_gia , ổn_định tiền_tệ , đảm_bảo mức lạm_phát hợp_lý kích_thích tăng_trưởng kinh_tế , đảm_bảo có sự chênh_lệch lãi_suất kinh_doanh , sử_dụng vốn hiệu_quả tăng sản_phẩm xã_hội chính_phủ Việt_Nam thông_qua NHNN . 
+Trong thời_gian tới chính_sách lãi_suất sẽ còn tiếp_tục điều_chỉnh theo hướng tự_do_hoá lãi_suất phù_hợp với mức_độ thị_trường tài_chính khu_vực và quốc_tế theo chính_sách thị_trường quốc_tế . 

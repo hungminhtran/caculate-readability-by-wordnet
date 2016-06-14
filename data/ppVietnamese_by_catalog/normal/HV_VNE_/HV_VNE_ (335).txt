@@ -1,0 +1,68 @@
+' Sang_năm sẽ có hacker VN bị xử_lý theo pháp_luật ' 
+" Năm 2006 , vấn_đề tội_phạm tin_học sẽ được khép vào khuôn_khổ . 
+Chúng_tôi đang hợp_tác cùng cơ_quan điều_tra để đưa một_số kẻ phạm tội trong lĩnh_vực này ra xử_lý làm_gương " , Giám_đốc Trung_tâm an_ninh mạng Đại_học Bách_khoa Hà_Nội , khẳng_định khi trao_đổi với VnExpress . - Đánh_giá chung của ông về tình_hình virus năm qua ? 
+- Một năm bận_rộn của BKIS với số_lượng virus phải xử_lý gần gấp 3 lần năm_ngoái với 232 virus mới . 
+Bắt_đầu xuất_hiện sâu Internet theo công_nghệ mới ( Internet_worm ) và phần_mềm gián_điệp ( spyware ) made_in_Việt_Nam . 
+Cách đây 5-6 năm thì virus máy_tính có xuất_xứ từ Việt_Nam cũng phổ_biến . 
+Tuy_nhiên , những sâu đó chế_tạo theo các công_nghệ truyền_thống có từ 20 năm trước . 
+- Phần_nhiều sâu mạng hiện_nay phát_tán qua file đính kèm e-mail nội_dung tiếng Anh nên ít người trong nước quan_tâm . 
+Có_lẽ vì thế mà những vụ virus lây_nhiễm số_lượng PC lớn ở VN không nhiều ? 
+- Vẫn có rất nhiều người sử_dụng bị lừa . 
+Nhưng các virus năm nay hầu_như không cố_tình phá_huỷ dữ_liệu nên không gây ra những chú_ý đặc_biệt , dù có_thể đang lây_lan rất mạnh và cũng gây thiệt_hại . 
+Qua điều_tra của chúng_tôi thì có tới 94 % máy_tính ở Việt_Nam từng bị nhiễm virus máy_tính trong năm , giảm hơn so với năm_ngoái ( 97 % ) . 
+- Các loại virus phá_huỷ dữ_liệu không còn xuất_hiện nhiều . 
+Ông lý_giải điều này thế_nào ? 
+- Đây là một điều may_mắn nhưng rất đáng ngại vì nó có_thể khiến mọi người mất cảnh_giác , thậm_chí còn nghĩ có_thể chung sống hoà_bình với virus . 
+Thực_tế là chỉ cần 1 phút bất_chợt , kẻ viết ra virus thay_đổi ý_định và sửa mã lệnh từ 0 thành 1 thôi là một virus không phá_hoại gì lập_tức trở_thành sát_thủ . 
+Có 2 nguyên_nhân chính . 
+Thứ nhất , virus ngày_nay lây_lan quá nhanh . 
+Chỉ trong vài tiếng đồng_hồ có_thể lây hàng triệu máy_tính trên thế_giới . 
+Nếu chúng đến đâu cũng phá_huỷ dữ_liệu thì sẽ rất khủng_khiếp và rõ_ràng trách_nhiệm của kẻ tạo ra virus này là quá lớn mà đôi_khi hắn cũng không_thể tưởng_tượng được . 
+Điều đó buộc hắn phải suy_nghĩ rất kỹ việc có nên chuyển từ 0 thành 1 . Nhưng với tội_phạm chuyên_nghiệp thì chúng_tôi lo_ngại việc này vẫn sẽ xảy_ra . 
+Thứ hai , trước đây virus phải dùng chiêu_thức âm_thầm lây_lan và phải mất cả năm để có_thể lan_toả trên toàn lãnh_thổ của một nước nào đó . 
+Như vậy , cơ_hội thể_hiện mình là không nhiều . 
+Giải_pháp gây chú_ý nhất là phá_huỷ dữ_liệu đồng_loạt vào một ngày định trước trong năm . 
+Còn giờ_đây , virus lây_lan quá nhanh và như vậy chúng cũng đủ để thể_hiện rồi . 
+Đây là vấn_đề tâm_lý của những kẻ viết virus . 
+Tuy không phá_hoại , nhưng một_số loại virus năm nay lại âm_thầm ăn_cắp thông_tin cá_nhân trên máy_tính mà nó lây_nhiễm . 
+Điều này đôi_khi còn tồi_tệ hơn việc dữ_liệu bị xoá sạch . 
+- Chưa có vụ bùng_phát virus đáng chú_ý nào do người trong nước gây ra . 
+Điều đó có nghĩa là hacker VN không đủ trình_độ hoặc " bản_tính hiền_lành " hay thực_tế là chưa ai phát_hiện được ? 
+- Do hacker ở Việt_Nam chưa đủ trình_độ . 
+Thực_tế là trong 3 năm trở_lại đây hầu_như không có virus có xuất_xứ từ Việt_Nam . 
+Chỉ đến cuối 2005 chúng mới bắt_đầu xuất_hiện . 
+Đây cũng là điều đáng mừng . 
+Nhưng thực_tâm , tôi cho rằng điều đó cũng thể_hiện trình_độ nền_tảng CNTT ở Việt_Nam còn yếu . 
+- An_ninh mạng năm qua khá nóng với các vụ deface của hacker Thổ_Nhĩ_Kỳ trên web chính_phủ , nhiều site thương_mại bị tấn_công từ_chối dịch_vụ . 
+Ông có bình_luận gì về điều này ? 
+- Tôi thấy có mấy vấn_đề cần nói . 
+Đó là các hệ_thống mạng trong nước chưa được quan_tâm đúng_mức về an_ninh và việc xây_dựng cũng như thực_thi luật trong lĩnh_vực chống tội_phạm mạng chưa tốt . 
+Hoàn_toàn có_thể tìm ra được những kẻ tấn_công từ_chối dịch_vụ trong những vụ_việc cuối năm qua và thực_tế chúng_tôi đã tìm ra những kẻ như vậy . 
+Tuy_nhiên , việc xử_lý họ lại là vấn_đề khác vì hành_lang pháp_lý chưa đủ . 
+Năm 2006 chúng_tôi sẽ cùng cơ_quan an_ninh xử_lý điểm một_vài trường_hợp để làm_gương . 
+Qua đó , mới xác_định được hành_lang pháp_lý cần phải bổ_sung ra_sao . 
+Một vấn_đề khác là trong các dự_án đầu_tư về CNTT nhất_định phải quan_tâm đúng cách về an_ninh mạng . 
+Tôi dùng từ đúng cách vì hiện_nay các dự_án này đều nhắc đến và có đầu_tư cho an_ninh mạng , nhưng nó chưa đúng cách . 
+Chúng cần sự tư_vấn chuyên_nghiệp về lĩnh_vực này . 
+Năm 2005 , BKIS đã thực_hiện công_việc tư_vấn này cho một_số cơ_quan lớn của Chính_phủ và thấy rằng tình_hình an_ninh được cải_thiện rõ_rệt . 
+- Hiện BKIS có phần_mềm nào để xử_lý spyware và adware ? 
+- Những tháng cuối năm nay , chúng_tôi bắt_đầu thử_nghiệm công_nghệ xử_lý spyware ( phần_mềm gián_điệp ) và adware ( phần_mềm quảng_cáo bất_hợp_pháp ) . 
+Kết_quả phản_hồi từ phía những người tham_gia thử_nghiệm rất khả_quan . 
+Chúng_tôi dự_kiến chính_thức ra_mắt công_nghệ này trong phiên_bản Bkav2006_Pro phát_hành trong tháng 1/2006 . 
+Với version này , chắc_chắn vấn_nạn spyware , adware sẽ bị đẩy_lùi . 
+Thật_ra việc xử_lý chúng không đáng ngại như với virus máy_tính . 
+Cũng trong năm tới chúng_tôi sẽ tiếp_tục đưa ra phần_mềm chống thư rác . 
+- VnExpress nhận được nhiều ý_kiến độc_giả cho_biết họ sử_dụng phần_mềm BKAV và thường_xuyên update nhưng không diệt được nhiều dạng spyware phổ_biến như CoolSearch . Ông giải_thích thế_nào về sức_mạnh của BKAV hiện_nay ? 
+- Như đã nói , công_nghệ xử_lý phần_mềm gián_điệp mới chỉ được chúng_tôi thử_nghiệm và đến tháng 1/2006 mới chính_thức ra_mắt Bkav2006_Pro nên điều đó cũng là dễ hiểu . 
+Tôi khẳng_định , với những gì mà chúng_tôi sắp công_bố , thì việc xử_lý chúng sẽ đơn_giản hơn nhiều . 
+Nếu ai thấy hiện_tượng của spyware , adware thì hãy báo ngay cho chúng_tôi để xử_lý , cập_nhật mẫu nhận_diện . 
+- Vậy theo ông , cộng_đồng bảo_mật có_thể có biện_pháp nào chủ_động đối_phó hay không ? 
+- Với tư_cách là người làm_việc chuyên_sâu và lâu_năm trong lĩnh_vực này , tôi cho rằng điều đó vẫn chỉ là mơ_ước mà_thôi vì nó không_thể vượt ra khỏi quy_luật của cuộc_sống . 
+Đây thực_chất vẫn là cuộc_chiến giữa con_người với con_người . 
+Máy_tính hay phần_mềm cũng chỉ là công_cụ thôi và bên thiện sẽ luôn dành phần thắng . 
+Chưa có virus máy_tính nào mà chúng_tôi chịu bó_tay , tất_nhiên cũng không_thể tránh khỏi mọi thiệt_hại , âu đó cũng là cuộc_sống mà_thôi . 
+- Ông có dự_báo gì về tình_hình virus cũng như an_ninh mạng VN năm 2006 ? 
+- Năm 2006 chắc_chắn sẽ sôi_động không kém năm nay , sâu máy_tính mới vẫn sẽ xuất_hiện hằng tuần . 
+Virus và phần_mềm gián_điệp xuất_xứ ở VN cũng như các vụ tấn_công do hacker trong nước gây ra sẽ tăng lên . 
+Vấn_nạn thư rác ( spam ) được nhắc đến nhiều . 
+Có_thể lần đầu_tiên sẽ có những cá_nhân bị pháp_luật xử_lý với những hành_vi này . 

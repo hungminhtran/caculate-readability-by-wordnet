@@ -1,0 +1,97 @@
+TCCS - Trên cơ_sở trình_bày , phân_tích những quan_điểm cơ_bản của C . Mác về quyền sở_hữu ruộng_đất để phát_triển nông_nghiệp , bài viết rút ra một_số điểm cần lưu_ý , liên_quan trực_tiếp đến thực_trạng quản_lý và sử_dụng ruộng_đất ở nước ta hiện_nay . 
+Những năm qua , việc quản_lý và sử_dụng ruộng_đất ở nước ta bộc_lộ nhiều điểm chưa hợp_lý . 
+Vì vậy , gần đây rộ lên một luồng dư_luận đòi_hỏi phải chỉnh_lý Luật Đất_đai theo hướng trao quyền sở_hữu cho người sử_dụng ruộng_đất vô_thời_hạn . 
+Một cựu_cán_bộ cao_cấp nhiều năm từng quản_lý lĩnh_vực nông_nghiệp coi việc trao quyền sở_hữu ruộng_đất cho nông_dân là " chính_sách nhân_văn nhất , cao_quý nhất . 
+Khi đó , việc mua_bán đất_đai công_khai , người tích_tụ đất_đai yên_tâm bỏ tiền đầu_tư sản_xuất nông_nghiệp hàng_hoá " . 
+Thậm_chí , đây được " coi như cuộc cách_mạng đối_với họ một lần nữa , phấn_khởi lắm . 
+Bởi đây là nút thắt cuối_cùng của quá_trình đổi_mới chính_sách đất_đai sau 60 năm . 
+Đến lúc này coi như chính_sách đất_đai nông_nghiệp đã hoàn_thiện " ( 1 ) . 
+Nếu trực_tiếp tranh_luận về từng điểm cụ_thể thì sẽ rất khó phân_biệt đúng , sai và sẽ tốn nhiều thời_gian mà không đi tới nhận_thức chính_xác về vấn_đề nói trên , như V . I . Lê-nin đã từng chỉ_dẫn : Người nào bắt_tay vào những vấn_đề riêng trước khi giải_quyết các vấn_đề chung , thì kẻ đó , trên mỗi bước đi , sẽ không sao tránh khỏi " vấp phải " những vấn_đề chung đó một_cách không tự_giác . 
+Mà mù_quáng vấp phải những vấn_đề đó trong từng trường_hợp riêng , thì có nghĩa là đưa chính_sách của mình đến chỗ có những sự dao_động tồi_tệ nhất và mất hẳn tính nguyên_tắc . 
+Bởi vậy , chúng_tôi tìm_hiểu những quan_điểm cơ_bản của C . Mác về quyền sở_hữu ruộng_đất để phát_triển nông_nghiệp , với hy_vọng qua đó , rút ra một_số điểm cần lưu_ý , có_thể " làm kim_chỉ_nam " cho việc chỉnh_sửa Luật Đất_đai ở nước ta . 
+Những ưu_điểm và nhược_điểm của chế_độ_sở_hữu ruộng_đất nhỏ Theo C . Mác , chế_độ_sở_hữu ruộng_đất nhỏ phù_hợp với điều_kiện đa_số dân_cư sống ở nông_thôn , trong một nền kinh_tế nông_nghiệp lạc_hậu , kinh_tế nông_hộ là loại_hình phổ_biến , bản_thân những người sản_xuất , tức_là nông_dân , tiêu_dùng đại_bộ_phận sản_phẩm nông_nghiệp , chỉ có phần dư ra mới đi vào giao_lưu buôn_bán với thành_thị với tư_cách là hàng_hoá . 
+Ở đây , quyền chiếm_hữu ruộng_đất là một trong những điều_kiện sản_xuất , còn quyền sở_hữu ruộng_đất là điều_kiện thuận_lợi nhất cho sự phồn_vinh của phương_thức_sản_xuất của những người sản_xuất trực_tiếp . 
+Chế_độ_sở_hữu của những người nông_dân tự canh_tác cho_phép họ trở_thành kẻ sở_hữu sản_phẩm lao_động của mình và không phải nộp địa_tô . 
+Người nào mà lao_động được thực_hiện trong những điều_kiện tự_nhiên thuận_lợi hơn thì còn thu được sản_phẩm thặng_dư siêu_ngạch nữa . 
+Trong trường_hợp này , quyền sở_hữu ruộng_đất là cơ_sở để phát_triển sự độc_lập cá_nhân . 
+Thế nhưng , đến một trình_độ nhất_định , kinh_tế tiểu_nông sẽ phát_huy hết tiềm_năng của nó và bộc_lộ các nhược_điểm khiến cho chế_độ_sở_hữu ruộng_đất nhỏ bị sụp_đổ . 
+Những nhược_điểm chủ_yếu là : Thứ nhất , nguồn vốn hạn_hẹp , khó tiếp_cận tín_dụng , phần_nhiều phải vay nặng_lãi . 
+Trong khi đó , muốn mở_rộng sản_xuất thì phải mua thêm ruộng hoặc thuê ruộng . 
+Tiền mua ruộng sẽ hạn_chế việc đầu_tư vào thâm_canh , thậm_chí giá_cả ruộng_đất có_thể lên cao đến mức khiến cho việc sản_xuất không_thể tiến_hành được . 
+Do năng_suất lao_động thấp , cho_nên nếu thuê ruộng thì tiền thuê ruộng nhiều khi không_những " nuốt " hết phần lợi_nhuận , nghĩa_là phần lao_động_thặng_dư , cái phần mà đáng_lẽ người nông_dân được hưởng với tư_cách là người sở_hữu công_cụ lao_động của mình , mà_còn ngốn mất một phần tiền_công , nghĩa_là phần lao_động_tất_yếu của họ . 
+Thứ hai , sức_sản_xuất thấp : Tư_liệu_sản_xuất thô_sơ , lao_động_sống chiếm ưu_thế , nhân_lực bị lãng_phí rất lớn , người lao_động bị cô_lập , vì chế_độ_sở_hữu ruộng_đất nhỏ loại_trừ sự phát_triển những sức_sản_xuất xã_hội của lao_động , loại_trừ việc trồng_trọt , chăn_nuôi quy_mô lớn và việc ứng_dụng tiến_bộ khoa_học , kỹ_thuật vào nông_nghiệp . 
+Nhận_xét về phạm_vi hạn_hẹp của kinh_tế tiểu_nông , C . Mác nhấn_mạnh : " Đối_với người nông_dân có một mảnh đất nhỏ , giới_hạn kinh_doanh , một mặt , không phải là lợi_nhuận trung_bình của tư_bản , chừng nào bản_thân anh ta là một nhà tư_bản nhỏ ; và mặt_khác , giới_hạn đó cũng không phải là sự cần_thiết phải nộp địa_tô , chừng nào người nông_dân vẫn còn là kẻ sở_hữu ruộng_đất . 
+Với tư_cách là một nhà tư_bản nhỏ , giới_hạn tuyệt_đối duy_nhất là tiền_công mà anh ta tự trả cho mình , sau khi đã trừ các chi_phí theo đúng nghĩa của danh_từ đó đi . 
+Chừng nào giá_cả của sản_phẩm còn đem lại tiền_công ấy cho anh ta thì anh ta vẫn sẽ còn canh_tác mảnh đất của mình , thường_thường cho đến khi chỉ mang lại có một tiền_công tối_thiểu cần_thiết để nuôi_sống mình " ( 2 ) . 
+Đó là lý_do làm cho giá_cả ngũ_cốc trong những nước mà chế_độ_sở_hữu ruộng_đất nhỏ chiếm địa_vị thống_trị thường thấp hơn so với những nước có nền sản_xuất tư_bản_chủ_nghĩa . 
+Một bộ_phận lao_động_thặng_dư của những nông_dân làm_việc trong những điều_kiện bất_lợi nhất , được " biếu " không cho xã_hội . 
+Như vậy , giá_cả thấp ấy là hậu_quả của sự bần_cùng của những người sản_xuất , chứ không phải là kết_quả của năng_suất lao_động của họ . 
+Tình_trạng trên gây trở_ngại cho việc mở_rộng phân_công lao_động xã_hội và chuyển_dịch cơ_cấu kinh_tế . 
+Bởi_vì , theo quy_luật , cùng với sự phát_triển sản_xuất , nhân_khẩu nông_nghiệp sẽ dần_dần giảm , cả theo nghĩa tuyệt_đối và tương_đối . 
+Muốn vậy , " toàn_bộ lao_động nông_nghiệp - lao_động cần_thiết và lao_động_thặng_dư - của một bộ_phận xã_hội phải đủ để sản_xuất ra tư_liệu sinh_hoạt cần_thiết cho toàn_thể xã_hội , và do đó , cho cả những người lao_động phi_nông_nghiệp ; do đó , để cho sự phân_công lớn giữa những người làm nông_nghiệp , và những người làm công_nghiệp , cũng như sự phân_công giữa những người làm nông_nghiệp sản_xuất lương_thực và những người làm nông_nghiệp sản_xuất nguyên_liệu , có_thể thực_hiện được " ( 3 ) . 
+Thứ ba , sức cạnh_tranh kém , không đương_đầu được với sự phát_triển của sản_xuất lớn . 
+Thủ_công_nghiệp gia_đình gắn với kinh_tế hộ bị thủ_tiêu do sự phát_triển của đại_công_nghiệp . 
+Đại nông_nghiệp không kể là được tiến_hành theo kiểu kinh_tế đồn_điền hay theo phương_thức tư_bản_chủ_nghĩa và những sự cải_tiến kỹ_thuật nông_nghiệp , tuy đòi_hỏi những điều_kiện sản_xuất vật_chất đắt tiền hơn với tổng_chi_phí lớn hơn , nhưng lại làm cho giá nông_phẩm hạ thấp . 
+Bởi vậy , những năm được mùa lại là một sự rủi_ro cho những người nông_dân canh_tác theo chế_độ_sở_hữu ruộng_đất nhỏ . 
+Những ưu_điểm và nhược_điểm của chế_độ đại sở_hữu ruộng_đất trong phương_thức_sản_xuất tư_bản_chủ_nghĩa C . Mác nhận_định : " Những công_lao lớn của phương_thức_sản_xuất tư_bản_chủ_nghĩa là , một mặt thì hợp_lý_hoá nông_nghiệp , việc hợp_lý_hoá này lần đầu_tiên đã tạo khả_năng kinh_doanh nông_nghiệp theo phương_thức xã_hội , và mặt_khác làm cho quyền sở_hữu ruộng_đất trở_thành một điều phi_lý " ( 4 ) . 
+Phương_thức_sản_xuất tư_bản_chủ_nghĩa , một mặt , đã tách hoàn_toàn quyền sở_hữu ruộng_đất ra khỏi mọi quan_hệ thống_trị và nô_lệ ; mặt_khác , tách hoàn_toàn ruộng_đất với tư_cách là tư_liệu_lao_động ra khỏi quyền sở_hữu ruộng_đất và người sở_hữu ruộng_đất , đến mức là người chủ đất có_thể suốt đời_sống ở tỉnh này trong khi ruộng_đất của họ lại ở tỉnh khác , họ chỉ cần thu được địa_tô . 
+Địa_tô là hình_thái mà trong đó , quyền sở_hữu ruộng_đất được thực_hiện về mặt kinh_tế , tức_là đem lại thu_nhập . 
+Cũng có trường_hợp nhà tư_bản đồng_thời là địa_chủ hay địa_chủ lại trực_tiếp là nhà tư_bản kinh_doanh nông_nghiệp , nhưng đó chỉ là ngoại_lệ , không phải là hiện_tượng phổ_biến . 
+Ở đây , phéc-mi-ê ( nhà tư_bản nông_nghiệp ) chỉ là người chiếm_hữu ruộng_đất chứ không phải là người sở_hữu , vì thế mà chỉ phải trả địa_tô , ngoài_ra không phải trả gì hết , không phải bỏ tư_bản ra mua ruộng_đất , nên tư_bản hoạt_động trong nông_nghiệp tách_rời với tư_bản do địa_chủ bỏ ra để mua ruộng_đất . 
+Tiền mua ruộng_đất không bao_giờ lại có_thể làm chức_năng tư_bản nữa , tuy nó đem lại cho người mua ruộng_đất cái quyền thu địa_tô , nhưng nó lại hoàn_toàn không dính_dáng gì đến việc sản_xuất ra địa_tô ấy . 
+Người chiếm_hữu ruộng_đất sẽ được quyền kinh_doanh và thu lợi_nhuận ; và khi thâm_canh thì có_thể thu được địa_tô chênh_lệch II trong thời_hạn hợp_đồng thuê đất còn hiệu_lực . 
+Còn người trực_tiếp sản_xuất là công_nhân làm_thuê . 
+Như vậy , trong nông_nghiệp tư_bản_chủ_nghĩa tập_hợp ba giai_cấp cấu_thành " bộ xương_sống " của xã_hội cận_đại - địa_chủ , nhà tư_bản và công_nhân làm_thuê . 
+Khi nghiên_cứu quá_trình tuần_hoàn của tư_bản , C . Mác đã rút ra kết_luận : " … nền sản_xuất tư_bản_chủ_nghĩa ( và do đó , cả nền sản_xuất hàng_hoá ) chỉ xuất_hiện với tất_cả phạm_vi rộng_lớn của nó , khi nào mà ngay_cả người sản_xuất nông_nghiệp trực_tiếp cũng là người lao_động làm_thuê " ( 5 ) . 
+Thế nhưng , không_chỉ chế_độ_tư_hữu ruộng_đất nhỏ mà cả chế_độ_tư_hữu ruộng_đất lớn cũng mâu_thuẫn với một nền nông_nghiệp hợp_lý_hoá . 
+Bởi_vì , những người chủ đất không_những thu địa_tô tuyệt_đối và địa_tô chênh_lệch I , mà_còn tìm cách hết_sức rút ngắn thời_hạn cho thuê đất , để khi hết hạn hợp_đồng sẽ gộp những thành_tựu cải_thiện ruộng_đất do các phéc-mi-ê đã thực_hiện vào sở_hữu của mình . 
+Khi chuyển sang hợp_đồng cho thuê mới , người chủ đất đem tính thêm vào địa_tô chính_cống số lợi_tức về khoản tư_bản đã bỏ vào ruộng_đất , chẳng kể là cho chính những phéc-mi-ê đã tiến_hành những việc cải_thiện ấy thuê tiếp hay cho người khác thuê . 
+Điều này giải_thích vì_sao các địa_chủ ngày_càng giàu thêm . 
+Mặt_khác , do thời_hạn thuê đất ngắn , nên các phéc-mi-ê tránh mọi việc cải_thiện chất đất và mọi khoản chi_phí mà họ không mong thu về được hết trong thời_hạn hợp_đồng . 
+Quyền tư_hữu về ruộng_đất cho_phép người chủ đất thu địa_tô tuyệt_đối , không_những là một nguyên_nhân làm tăng giá_cả nông_phẩm mà_còn là hàng_rào ngăn_cản việc đầu_tư và việc tự_do sử_dụng tư_bản vào ruộng_đất . 
+Hàng_rào này khiến tư_bản đầu_tư vào nông_nghiệp không tham_gia việc bình_quân hoá tỷ_suất lợi_nhuận . 
+Do đó , giá_cả nông_phẩm vận_động xoay quanh giá_trị thị_trường của nó chứ không được bán theo giá_cả sản_xuất . 
+Vì cấu_tạo hữu_cơ tư_bản trong nông_nghiệp thấp hơn cấu_tạo hữu_cơ trung_bình của tư_bản xã_hội , nên giá_trị thị_trường nói trên cao hơn giá_cả sản_xuất . 
+Khoản chênh_lệch này hình_thành địa_tô tuyệt_đối để nộp cho địa_chủ . 
+Nhưng nếu cấu_tạo trung_bình của tư_bản nông_nghiệp cao bằng hoặc cao hơn cấu_tạo của tư_bản xã_hội trung_bình , thì phéc-mi-ê sẽ không thu được khoản chênh_lệch nói trên để nộp địa_tô tuyệt_đối nữa , nên sẽ không_thể tiếp_tục kinh_doanh . 
+Tóm_lại , quyền tư_hữu về ruộng_đất , cả trong chế_độ_sở_hữu nhỏ và chế_độ_sở_hữu lớn đều là một giới_hạn và một trở_ngại đối_với nông_nghiệp . 
+C . Mác đã thừa_nhận quan_điểm sau đây của Đ . 
+Ri-các-đô là đúng_đắn : " Trong thế_giới cổ_đại và trung_cổ , kẻ sở_hữu ruộng_đất có những chức_năng trọng_yếu trong sản_xuất bao_nhiêu thì trong thế_giới công_nghiệp hắn lại là một cái bướu vô_dụng bấy_nhiêu . 
+Vì thế cho_nên về mặt lý_luận , nhà tư_bản cấp_tiến … đi tới chỗ phủ_nhận quyền sở_hữu ruộng_đất mà họ muốn biến thành sở_hữu chung của giai_cấp tư_sản , của tư_bản , dưới hình_thái sở_hữu nhà_nước . 
+Nhưng trong thực_tiễn , hắn ta lại không có đủ can_đảm , bởi_vì tấn_công vào một hình_thái sở_hữu - vào một hình_thái sở_hữu tư_nhân đối_với các điều_kiện lao_động - sẽ rất nguy_hiểm đối_với cả hình_thái khác . 
+Ngoài_ra , bản_thân nhà tư_bản cũng tậu ruộng_đất " ( 6 ) . 
+Từ những điều trình_bày ở trên , có_thể rút ra một_số điểm sau : Một là , quan_hệ sở_hữu ruộng_đất bao_gồm ba quyền cơ_bản : quyền sở_hữu , quyền chiếm_hữu và quyền sử_dụng ruộng_đất . 
+Trong sản_xuất nhỏ , người tiểu_nông thường nắm cả ba quyền . 
+Nhưng xu_hướng chung là , cùng với sự phát_triển sản_xuất hàng_hoá lớn , ba quyền ấy sẽ tách_rời nhau . 
+Song trong các văn_bản pháp_luật ở nước ta thường chưa đề_cập đến quyền chiếm_hữu ruộng_đất và chưa quy_định đầy_đủ , rõ_ràng phạm_vi và lợi_ích gắn với từng quyền nói trên . 
+Vì thế mà có tình_trạng vô_chủ . 
+Hai là , quyền sở_hữu ruộng_đất chỉ liên_quan đến việc thu địa_tô , không liên_quan đến việc canh_tác . 
+Quyền tư_hữu về ruộng_đất mâu_thuẫn với nền nông_nghiệp hợp_lý_hoá . 
+Nó cản_trở việc thâm_canh tăng năng_suất lao_động xã_hội để chuyển bớt lao_động nông_nghiệp trong lĩnh_vực trồng cây_lương_thực sang sản_xuất nguyên_liệu cho công_nghiệp và sang các lĩnh_vực phi_nông_nghiệp . 
+Bởi vậy , trao quyền sở_hữu ruộng_đất cho các hộ nông_dân ở nước ta hiện_nay là kéo lùi lịch_sử , ngăn_cản việc đưa sản_xuất nông_nghiệp lên sản_xuất lớn , gây trở_ngại cho việc chuyển từ phát_triển nông_nghiệp theo chiều rộng sang phát_triển theo chiều sâu . 
+Việc quy_định ruộng_đất thuộc sở_hữu_toàn_dân do Nhà_nước đại_diện chủ_sở_hữu và thống_nhất quản_lý là phù_hợp với quy_luật tiến_hoá và xu_hướng phát_triển của nông_nghiệp hiện_đại . 
+Nhà_nước sẽ xoá_bỏ địa_tô tuyệt_đối , chỉ thu địa_tô chênh_lệch I và gộp vào thuế nông_nghiệp để phục_vụ trở_lại cho phát_triển nông_nghiệp cả nước và hỗ_trợ những vùng khó_khăn . 
+Việc miễn thu thuế nông_nghiệp hiện_nay là thực_hiện " khoan thư sức dân " sau những năm chiến_tranh , về thực_chất là trao cả địa_tô chênh_lệch I cho nông_dân , nhưng không nên kéo dài chính_sách này . 
+Bởi_vì , lãnh_thổ của Tổ_quốc Việt_Nam được bảo_vệ là nhờ công_lao của toàn_thể nhân_dân , nhưng độ màu_mỡ và vị_trí của các vùng_đất lại không đồng_đều và do vậy , nếu tiếp_tục miễn thuế nông_nghiệp thì những vùng có điều_kiện tự_nhiên thuận_lợi được hưởng địa_tô chênh_lệch I , còn các vùng khó_khăn chịu thiệt , sẽ không bảo_đảm công_bằng xã_hội . 
+Không_những thế , nhiều trường_hợp Nhà_nước đầu_tư hạ_tầng giao_thông , tạo ra địa_tô chênh_lệch I rất lớn cho quỹ đất hai bên đường , nhất_là tại những vị_trí có lợi_thế thương_mại ở các đô_thị có giá đất cao , nhưng Nhà_nước lại không thu được vào ngân_sách . 
+Nhà_nước có trách_nhiệm quy_hoạch sử_dụng đất . 
+Pháp_luật cần quy_định rõ : khi thu_hồi đất để phục_vụ an_ninh , quốc_phòng hay các công_trình công_cộng vì quốc_kế_dân_sinh , thì phải đền_bù thích_đáng lợi_ích của người chiếm_hữu ruộng_đất bị thu_hồi ; còn khi cho_phép chuyển quyền chiếm_hữu ruộng_đất từ người làm nông_nghiệp sang tay những người làm công_nghiệp và dịch_vụ thì phải theo nguyên_tắc bình_đẳng , cùng có lợi . 
+Ba là , quyền chiếm_hữu ruộng_đất là một điều_kiện của sản_xuất , vì ruộng_đất là tư_liệu_lao_động quan_trọng của nông_nghiệp . 
+Bởi vậy , để khuyến_khích thâm_canh và trồng cây_lâu_năm , phải quy_định thời_hạn dài cho quyền này . 
+Mặt_khác , muốn đáp_ứng nhu_cầu tập_trung ruộng_đất nhằm phát_triển nông_nghiệp hàng_hoá lớn , cần khuyến_khích tự_do chuyển_nhượng quyền chiếm_hữu ruộng_đất theo cơ_chế_thị_trường và bỏ quy_định hạn điền . 
+Pháp_luật còn phải quy_định các quyền phái_sinh khác , như thừa_kế quyền chiếm_hữu , thế_chấp quyền này để vay vốn , vv . . 
+Bốn là , những nông_dân không đủ điều_kiện và khả_năng cần_thiết để tự kinh_doanh nông_nghiệp mà trở_thành công_nhân nông_trường hay công_nhân làm_thuê cho các chủ trang_trại , dĩ_nhiên sẽ không còn quyền chiếm_hữu tư_nhân về ruộng_đất mà chỉ còn quyền sử_dụng ruộng_đất . 
+Phải coi đây là một tiến_bộ , bởi_vì đó là biểu_hiện sự phát_triển sản_xuất hàng_hoá lớn và xã_hội_hoá nông_nghiệp , sẽ dẫn đến tăng năng_suất lao_động , cải_thiện đời_sống vật_chất và tinh_thần của người lao_động . / . 
+-------------------------------------------- - ( 1 ) " Giao quyền sở_hữu ruộng_đất cho nông_dân : Cách_mạng trong sản_xuất nông_nghiệp " , Báo Tiền_phong , số 44 , ngày 13-2-2012 ( 2 ) C . Mác và Ph . 
+Ăng-ghen : Toàn_tập , Nxb . 
+Chính_trị quốc_gia , Hà_Nội , 1994 , t . 
+25 , phần II , tr . 
+521 - 522 ( 3 ) , ( 4 ) C . Mác và Ph . 
+Ăng-ghen : Sđd , tr . 
+271 , 245 ( 5 ) C . Mác và Ph . 
+Ăng-ghen : Sđd , t . 
+24 , tr . 
+178 ( 6 ) C . Mác và Ph . 
+Ăng-ghen : Sđd , t . 
+26 , phần II , tr . 
+56 Đỗ_Thế_TùngGS , TS , Học_viện Chính_trị - Hành_chính quốc_gia Hồ_Chí_Minh 

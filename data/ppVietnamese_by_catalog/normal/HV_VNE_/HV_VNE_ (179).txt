@@ -1,0 +1,13 @@
+Lỗi nghiêm_trọng trong 3 công_cụ bảo_mật 
+Phần_mềm Sophos_Anti-Virus , ClamAV và chương_trình quét giao_thức mạng Ethereal đã đồng_thời gặp phải nhiều lỗ_hổng lớn trong những ngày gần đây , tạo cơ_hội cho hacker kiểm_soát toàn_bộ hệ_thống . 
+Ethereal và ClamAV đã nhanh_chóng được vá lỗi nhưng Sophos cho_biết vẫn chưa_thể sửa tất_cả các phần_mềm bảo_mật của hãng . 
+Lỗi tràn bộ đệm trong ứng_dụng của Sophos mới chỉ được giải_quyết cho một_số phiên_bản hiện_tại . 
+Những công_ty cài Sophos_Anti-Virus_3.96.0 và 4 . 5.4 trên Windows , Unix , NetWare , OS/2 và OpenVMS sẽ không bị ảnh_hưởng . 
+Hãng bảo_mật Anh này không mô_tả chi_tiết về lỗ_hổng nhưng khẳng_định sẽ cung_cấp miếng vá đầy_đủ trong vòng 14 ngày tới . 
+ClamAV , xuất_hiện trong nhiều ứng_dụng phần nền Mac_OS_X và Windows , gặp phải vấn_đề với ít_nhất 3 thành_tố được dùng trong quá_trình xử_lý định_dạng file TNEF , CHM , và FSG , khiến kẻ tấn_công có_thể ghi đè dữ_liệu để kiểm_soát hệ_thống . 
+Lỗi ảnh_hưởng phiên_bản 0.86.1 và những nhà sản_xuất phần_mềm tích_hợp ClamAV đã nhanh_chóng được cung_cấp miếng vá 0.86.2 . 
+Một loạt phiên_bản từ Etheral 0 . 8.5 đến 0.10.11 đều gặp nhiều lỗ_hổng , trong đó có một lỗi liên_quan đến công_nghệ nén zlib - vấn_đề xảy_ra trong nhiều ứng_dụng và đã được vá cho trình_duyệt web , giao_diện đồ_hoạ KDE , eMule và ứng_dụng chia_sẻ file . 
+Ethereal đã ngay_lập_tức cập_nhật lên phiên_bản 0.10.12 . 
+Những lỗ_hổng khác liên_quan đến thành_phần giao_thức Ethereal , đặc_biệt là LDAP , AgentX , 802.3 , PER , DHCP , BER , MEGACO , GIOP , SMB , WBXML , H1 , DOCSIS , SMPP , HTTP , DCERPC , CAMEL , RADIUS , Telnet , IS-IS LSP và NCP . 
+Chúng gây ra lỗi trong chuỗi định_dạng , làm tràn bộ đệm , và có_thể tạo cơ_hội cho hacker tấn_công từ xa , phá_vỡ chương_trình Ethereal và xử_lý mã_độc . 
+Cả 3 chương_trình bảo_mật trên đều được dùng khá rộng_rãi , trong đó Ethereal và ClamAV ( tích_hợp trong nhiều máy_chủ e-mail để quét file đính kèm ) xuất_hiện trong sản_phẩm mã mở , còn phần_mềm Sophos được ứng_dụng trong doanh_nghiệp . 

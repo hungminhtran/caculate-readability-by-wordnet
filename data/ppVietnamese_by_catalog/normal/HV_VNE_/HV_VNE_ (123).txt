@@ -1,0 +1,13 @@
+Hình_thức tấn_công mới trên điện_thoại Bluetooth 
+Các chuyên_gia nghiên_cứu đã phát_hiện ra một nguy_cơ có_thể kiểm_soát điện_thoại tích_hợp công_nghệ kết_nối sóng ngắn Bluetooth ngay_cả khi tính_năng bảo_mật đang hoạt_động . 
+Trước đây , các chuyên_gia đã cảnh_báo mối đe_doạ cho_phép kẻ tấn_công dùng thiết_bị đặc_biệt kết_nối với điện_thoại Bluetooth trái_phép . 
+Một_khi kết_nối thành_công , chúng có_thể tạo các cuộc gọi đến điện_thoại của người đó , hoặc xâm_nhập vào đường truyền dữ_liệu giữa điện_thoại với thiết_bị khác như máy_tính để lấy thông_tin . 
+Một_số hãng bảo_mật đã khuyến_cáo các thương_gia tránh sử_dụng điện_thoại Bluetooth vì những nguy_cơ tiềm_tàng này . 
+Tuy_nhiên , phương_pháp cũ này không dễ thực_hiện bởi nó đòi_hỏi hacker phải nắm được thời_điểm bắt_đầu diễn_ra kết_nối giữa các thiết_bị Bluetooth , hay còn gọi là " pairing " - điều rất hiếm khi xảy_ra . 
+Hình_thức tấn_công kiểu mới cho_phép kẻ tấn_công điều_khiển thiết_bị lặp đi lặp lại quá_trình pairing để nghe_lỏm hoặc ăn_cắp số PIN bảo_vệ kết_nối . 
+Sử_dụng thông_tin trong quá_trình trao_đổi , các nhà nghiên_cứu đã có_thể lấy được PIN 4 số chỉ trong vòng từ 0,06 đến 3 giây . 
+Từ đó , họ có_thể nghe_lỏm các cuộc đàm_thoại hoặc " bắt " một điện_thoại_di_động nào đó trả tiền cuộc gọi theo hình_thức chen ngang . 
+Các chuyên_gia khuyến_cáo người dùng nên hạn_chế nhập PIN pairing , đặc_biệt ở nơi công_cộng . 
+Sử_dụng những số PIN dài cũng có khả_năng gây khó_khăn cho kẻ tấn_công . 
+PIN 6 số sẽ mất khoảng 10 giây để crack trong khi PIN 10 số thì đòi_hỏi hàng tuần mới khám_phá được . 
+Tuy_vậy , người sử_dụng sẽ không_thể tự lựa_chọn vì nhiều thiết_bị chỉ cho_phép nhập PIN 4 số . 

@@ -1,0 +1,9 @@
+Lỗi nghiêm_trọng ở Internet_Explorer và Outlook 
+Một_số khiếm_khuyết lớn vừa được phát_hiện trong trình_duyệt web và phần_mềm xử_lý e-mail của Microsoft . Hãng bảo_mật eEye cho_biết những lỗi này cho_phép thực_hiện mã tấn_công từ xa mà không cần sự tương_tác của người sử_dụng . 
+Mặc_dù các lỗ_hổng nói trên không cho_phép virus tự phát_tán xâm_nhập hệ_thống , vẫn có khả_năng tin_tặc cài_đặt được Trojan mở cổng hậu mà nạn_nhân không biết . 
+Theo Ben_Nagy , chuyên_gia cao_cấp của eEye , nếu người sử_dụng bị dẫn_dụ tới một website chứa mã nguy_hiểm , máy_tính sẽ bị lây_nhiễm khi mới chỉ lướt qua một banner quảng_cáo . 
+Mấy hôm trước , eEye đã thông_báo cho Microsoft về những lỗi này để hãng phần_mềm khổng_lồ có thời_gian phát_triển một bản nâng_cấp , sau đó eEye mới công_bố rộng_rãi phiên_bản Internet_Explorer và Outlook nào bị ảnh_hưởng . 
+Nagy cho_biết eEye vẫn đang tiến_hành việc kiểm_tra và đánh_giá mức_độ nguy_cơ của các ứng_dụng bị lỗi . 
+Hiện chưa phát_hiện một công_cụ lợi_dụng nào xuất_hiện . 
+Microsoft đã ghi_nhận sự hiện_diện của một khiếm_khuyết nhưng theo Nagy , hãng phần_mềm này chưa chắc sẽ phát_hành một bản sửa lỗi khẩn_cấp . 
+Trong khi đó , Microsoft cho_biết họ đang tiến_hành điều_tra riêng về một_số lỗi trong Windows . 

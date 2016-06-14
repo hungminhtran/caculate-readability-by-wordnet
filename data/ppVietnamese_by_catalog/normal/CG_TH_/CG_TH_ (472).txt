@@ -1,0 +1,11 @@
+CÚM GIA_CẦM 
+Định_nghĩa 
+Bệnh cúm gà 
+Có ít_nhất 15 typ khác nhau của cúm gà mà thường nhiễm ở các loài lông_vũ trên toàn thế_giới . 
+Vụ dịch đầu năm 2004 do chủng H5N1 , có khả_năng lây rất cao ở loài có lông_vũ và gây chết rất nhanh . 
+Không giống như nhiều chủng khác của virus cúm gà khác , H5N1 có_thể lây_nhiễm sang người , gây bệnh nặng và tử_vong . 
+Virus cúm rất không ổn_định và có khả_năng đột_biến rất nhanh , có khả_năng lây_nhiễm từ động_vật này sang động_vật khác . 
+Các nhà khoa_học lo_ngại là virus cúm gà có_thể tiến_hoá thành một dạng dễ lây từ người sang người , làm lây bệnh nhanh_chóng và là một bệnh nguy_hiểm chết người . 
+Điều này có_thể xảy_ra nếu một người nào đó đã bị nhiễm virus cúm người sau đó lại nhiễm virus cúm gà . 
+2 loại virus này sẽ tái_tổ_hợp trong cơ_thể bệnh_nhân , gây ra một virus lai có_thể lây_lan nhanh từ người sang người . 
+Loại virus lai này loài_người chưa bao_giờ tiếp_xúc vì vậy không có miễn_dịch và có_thể gây đại_dịch như đã xảy_ra đại_dịch cúm Tây_Ban_Nha năm 1918-1919 đã giết chết 40-50 triệu người trên toàn thế_giới . 

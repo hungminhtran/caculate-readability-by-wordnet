@@ -1,0 +1,9 @@
+Tội_phạm mạng không còn chuộng virus 
+Nhằm đối_phó với các công_ty bảo_mật , những tay hacker nguy_hiểm đang thay_đổi chiến_thuật từ tấn_công bằng virus qua e-mail sang tạo_dựng các trang web giả_mạo để tìm_kiếm nạn_nhân . 
+Khi mục_tiêu số_một của tội_phạm công_nghệ cao là tài_chính , chúng sẽ tăng_cường xây_dựng các phần_mềm gián_điệp , nhằm thu_thập thông_tin cá_nhân để đem ra rao_bán hoặc tự khai_thác về sau . 
+Thống_kê của hãng bảo_mật Sophos của Anh cho_thấy số virus trong e-mail đã giảm mạnh trong 5 tháng liên_tiếp . 
+Những loại sâu thống_trị bảng xếp hạng như Netsky và Mytob , chủ_yếu phát_tán qua thư_điện_tử , nay cũng đã góp_mặt trong spyware . 
+Ngoài_ra , phần_mềm giả_danh là những ứng_dụng cao_cấp hoặc bản vá lỗi bảo_mật cho những chương_trình phổ_biến như Windows , Outlook cũng tăng cao . 
+Sau khi được cài vào máy , những phần_mềm nguy_hiểm này sẽ tấn_công nạn_nhân bằng hàng_loạt quảng_cáo khó_chịu , hoặc theo_dõi thói_quen duyệt web và tập_hợp thông_tin cá_nhân của họ . 
+" Ngày_càng nhiều mã_độc xuất_hiện qua quá_trình duyệt web thay_vì trong e-mail " , Mark_Sunner , Giám_đốc công_nghệ của công_ty MessageLabs ( Mỹ ) , khẳng_định . 
+" Ví_dụ , nhiều vụ lừa_đảo trực_tuyến đưa người dùng đến website giả để ăn_cắp thông_tin đăng_nhập , thay_vì yêu_cầu họ điền trực_tiếp vào một thông_điệp e-mail " . 

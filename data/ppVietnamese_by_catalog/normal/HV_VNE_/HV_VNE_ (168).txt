@@ -1,0 +1,13 @@
+6 lỗi chưa được sửa trong sản_phẩm của Oracle 
+Một nhà nghiên_cứu người Đức đã công_bố rộng_rãi thông_tin về những lỗ_hổng bảo_mật nghiêm_trọng trong sản_phẩm của Oracle , để chứng_minh rằng hãng phần_mềm cơ_sở_dữ_liệu này đã thất_bại trong việc bảo_vệ khách_hàng . 
+Lỗ_hổng ảnh_hưởng đến Oracle_Reports và Oracle_Forms - hai phần_mềm được tích_hợp rộng_rãi trong các công_cụ doanh_nghiệp . 
+Alexander_Kornbrust , chuyên_gia nghiên_cứu của hãng bảo_mật Red_Database_Security ( Đức ) , đã tìm ra những lỗi này và gợi_ý một_số biện_pháp bảo_vệ cho đến khi Oracle giải_quyết được vấn_đề . 
+Lỗi trong Oracle_Forms liên_quan đến việc xử_lý một biểu_mẫu ( form ) đặt biệt hoặc tham_số " module " , cho_phép khách_hàng đăng_tải form và chạy câu_lệnh với hệ_thống quyền ưu_tiên của Oracle . 
+Kornbrust khẳng_định lỗ_hổng này có nguy_cơ bị lợi_dụng rất cao . 
+Những lỗi còn_lại được tìm thấy trong tham_số Oracle_Reports , tạo điều_kiện cho tin_tặc ghi chèn file , đọc và thay_đổi nội_dung tệp , chạy lệnh nguy_hiểm và mở cuộc tấn_công XSS ( cross site scripting - scripting liên_vùng ) . 
+Oracle đã chịu khá nhiều chỉ_trích về sự chậm_trễ trong việc xử_lý trục_trặc , nhưng hãng phần_mềm này vẫn giậm_chân_tại_chỗ với hàng_loạt lỗ_hổng chưa_thể giải_quyết . 
+Theo Kornbrust , 6 vấn_đề này đã được thông_báo riêng cho Oracle từ 2 năm trước , nhưng thái_độ của hãng là khó có_thể chấp_nhận và khiến khách_hàng gặp nguy_hiểm . 
+" Có ít_nhất một trong 6 lỗ_hổng nghiêm_trọng chắc_chắn sẽ bị tin_tặc lạm_dụng qua Internet trong thời_gian tới . 
+Tôi buộc phải công_bố rộng_rãi thông_tin về những vấn_đề này do lo_ngại nguy_cơ bị tấn_công cao đối_với người sử_dụng " , Kornburst cho_biết . 
+Tuy_nhiên , Oracle bày_tỏ nỗi thất_vọng khi những thông_tin này đã được phổ_biến trước khi hãng đưa ra bản vá lỗi , vì " điều đó sẽ đặt khách_hàng vào tình_trạng đe_doạ về bảo_mật nghiêm_trọng hơn " . 
+Giữu tháng 7 , hãng cũng đã phát_hành bản nâng_cấp quý II gồm 49 bản vá nhưng không đề_cập đến những lỗ_hổng trên . 

@@ -1,0 +1,16 @@
+Hai mã khai_thác lỗi Windows liên_tiếp trong tuần 
+Trên website của nhóm FrSIRT ( Pháp ) hôm_qua xuất_hiện một file hình_ảnh viết bằng mã nguy_hiểm có khả_năng khiến máy_tính Windows ngừng hoạt_động . 
+Đây là đoạn mã thứ hai bị phát_tán tuần này để tấn_công PC chưa cập_nhật bản vá lỗi 
+Mẫu mới nhất khai_thác lỗ_hổng khi hệ_điều_hành của Microsoft xử_lý file lưu trong Windows_Metafile . Đây là định_dạng đồ_hoạ được dùng trong phần_mềm thiết_kế hỗ_trợ máy_tính . 
+Những tệp này có phần mở_rộng là wfm . 
+hoặc emf . 
+Microsoft đã vá lỗi này trong bản tin MS05-53 tháng 10 . FrSIRT không nói cụ_thể những hệ_điều_hành nào gặp nguy_hiểm nhưng khẳng_định họ đã thử_nghiệm đoạn mã trên Windows_2000 , Windows_2000_Server_Service_Pack 4 . 
+Theo Microsoft , vấn_đề gần như có_thể ảnh_hưởng tới tất_cả các phiên_bản được hỗ_trợ của Windows . 
+Một đại_diện của tập_đoàn phần_mềm Mỹ khẳng_định : " Mã này có_thể khai_thác thành_công lỗ_hổng và tấn_công từ_chối dịch_vụ nhưng hacker không_thể điều_khiển_từ_xa những hệ_thống chưa vá lỗi " . 
+Mã khai_thác lỗi thứ hai liên_quan đến thành_phần MSDTC ( Microsoft_Distributed_Transaction_Coordinator ) , xuất_hiện trong bản vá MS05-51 . Theo trung_tâm nghiên_cứu SANS ( Mỹ ) , máy_tính chưa cài bản sửa_chữa chạy trên Windows_2000 sẽ tạo cơ_hội cho tin_tặc xử_lý đoạn mã nhằm điều_khiển hệ_thống từ xa . 
+PC hoạt_động với Windows_Server_2003 và Windows_XP_SP1 chỉ bị tấn_công từ_chối dịch_vụ , dù cấu_hình người dùng cũng có_thể bị ảnh_hưởng và gây ra hậu_quả nghiêm_trọng hơn . 
+Trên lý_thuyết , đoạn mã ( do tổ_chức FrSIRT công_bố ) cho_phép kiểm_soát hệ_thống nhưng tới thời_điểm này , nó chỉ đủ mạnh để tắt toàn_bộ máy_tính . 
+Nhiều chuyên_gia bảo_mật đã cảnh_báo về mối nguy_hiểm khi MS05-051 được phát_hành . 
+Họ lo_ngại hai lỗi đề_cập trong bản vá này sẽ gây ra nhiều vấn_đề an_ninh chúng tương_tự lỗ_hổng PnP ( Windows_Plug_and_Play ) trong bản tin tháng 8 , gây ra sự xuất_hiện ồ_ạt của sâu Zotob chỉ trong chưa đầy 1 tuần . 
+Hai đoạn mã khai_thác mới không phải sự_cố duy_nhất mà bản tin tháng 10 đã gây ra gần đây . 
+Một_số người sử_dụng phàn_nàn rằng máy_tính của họ gặp rắc_rối khi cài bản vá do không tương_thích . 

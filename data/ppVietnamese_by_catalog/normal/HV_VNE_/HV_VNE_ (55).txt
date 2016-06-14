@@ -1,0 +1,14 @@
+Phishing và thư rác - hai vấn_nạn hàng_đầu của Internet 
+Khảo_sát mới công_bố của công_ty bảo_mật Symantec ( Mỹ ) cho_thấy các thủ_đoạn lừa_đảo trực_tuyến ( phishing ) và thư rác ( spam ) tiếp_tục gia_tăng với tốc_độ chóng_mặt trong khi tình_trạng khống_chế máy_tính dưới dạng botnet có dấu_hiệu giảm . 
+Số e-mail lừa_đảo mà Symantec ghi_nhận trong nửa cuối 2004 tăng 300 % trong khi lưu_lượng thư rác vọt lên 77 % . 
+Số lỗi phần_mềm được phát_hiện cũng tăng 13 % . 
+Hệ_thống chống gian_lận điện_tử của hãng này đã phong_toả 33 triệu e-mail lừa_đảo mỗi tuần vào những tháng cuối năm_ngoái , so với 9 triệu thông_điệp mỗi tuần của giữa tháng 7 . Theo Alfred_Huger , Giám_đốc trung_tâm phản_ứng nhanh của Symantec , tình_trạng này khó có_thể thuyên_giảm khi mà tội_phạm ngày_càng tinh_vi hơn trong kỹ_thuật giả_mạo lưu_thông e-mail hợp_lệ . 
+Trong thời_gian nói trên , Symantec cũng đã ghi_nhận sự gia_tăng 64 % về tất_cả các dạng phần_mềm tấn_công , trong đó có virus và Trojan , chưa kể spyware và adware . 
+Liên_quan đến các mạng máy_tính bị khống_chế ( botnet ) , Symantec cho_biết sau sự gia_tăng vào nửa đầu năm_ngoái , số máy_tính ma ( zombie ) mỗi ngày đã giảm từ hơn 300.000 hồi tháng 7 xuống xấp_xỉ 5.000 ngày vào thời_gian cuối năm . 
+Hãng bảo_mật Mỹ không nêu lên lý_do cụ_thể cho sự thuyên_giảm nói trên nhưng cho rằng biện_pháp phong_toả của các nhà cung_cấp dịch_vụ Internet ( ISP ) và việc Microsoft phát_hành bản nâng_cấp Windows_XP_Service_Pack 2 đã có nhiều tác_dụng . 
+Symantec cũng nhắc đến một yếu_tố khác là xu_hướng các mạng botnet lớn tồn_tại kéo dài đang chuyển dần thành những nhóm máy_tính bị khống_chế nhỏ hơn , chỉ online trong những khoảng thời_gian ngắn . 
+Tuy_nhiên , phần_mềm dạng bot vẫn xuất_hiện khá nhiều . 
+Số biến_thể của chúng tăng đột_biến trong thời_gian khảo_sát , chẳng_hạn vào nửa cuối 2004 , Symantec đã phát_hiện tới 4.288 phiên_bản khác nhau của Spybot , một họ phần_mềm loại này , tương_đương tỷ_lệ 23 biến_thể mỗi ngày . 
+Symantec dự_báo tình_hình sâu Internet và virus tấn_công qua những khiếm_khuyết phần_mềm sẽ trở_nên nghiêm_trọng hơn , lan dần sang các nền ứng_dụng di_động và hệ_điều_hành Mac xưa_nay ít bị lây_nhiễm . 
+Từ 1/7/2004 đến 31/12/2004 , Symantec đã ghi_nhận thêm hơn 1.403 lỗi phần_mềm , trung_bình 54 lỗi / tuần so với tỷ_lệ 48 lỗi / tuần của nửa đầu năm_ngoái . 
+Các ứng_dụng web là nguồn lỗ_hổng an_ninh dồi_dào nhất , chiếm tới 48 % trên tổng_số khiếm_khuyết . 

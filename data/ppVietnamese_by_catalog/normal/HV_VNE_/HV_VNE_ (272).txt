@@ -1,0 +1,9 @@
+Lỗi hệ_thống mật_khẩu của Oracle 
+Những yếu_kém trong một cơ_chế bảo_mật của gói phần_mềm cơ_sở_dữ_liệu có_thể tạo cơ_hội cho kẻ tấn_công dễ_dàng khám_phá mật_khẩu người dùng , khiến nhiều doanh_nghiệp có nguy_cơ bị lộ thông_tin . 
+Joshua_Wright , chuyên_viên của viện SANS ( Mỹ ) và Carlos_Sid , thuộc Đại_học London , khẳng_định phương_pháp mà hãng phần_mềm Mỹ đang sử_dụng để lưu và mã_hoá mật_khẩu không đảm_bảo an_toàn . 
+Họ đã tìm ra cách khôi_phục password cơ_sở_dữ_liệu , kể_cả những chuỗi ký_tự được sắp_xếp khá rắc_rối , chỉ trong vài phút . 
+Cả hai đã gửi thông_báo cho Oracle từ tháng 7 nhưng không nhận được câu trả_lời . 
+Công_ty này cũng từ_chối bình_luận về khiếm_khuyết trên . 
+Wright khuyên người sử_dụng có_thể tự bảo_vệ hệ_thống bằng cách thay_đổi sang mật_khẩu phức_tạp hơn và đăng_ký quyền sử_dụng giới_hạn . 
+Hãng phần_mềm cơ_sở_dữ_liệu có trụ_sở tại California đang liên_tục bị công_kích vì những vấn_đề liên_quan đến khả_năng bảo_mật . 
+Oracle thường tỏ_ra chậm chễ trong việc sửa lỗi và cung_cấp những bản vá không chuẩn_xác khi cập_nhật phần_mềm . 

@@ -1,0 +1,9 @@
+Lỗi Internet_Explorer bị lợi_dụng qua Google_Desktop 
+Trình_duyệt của Microsoft đã có một tuần không may_mắn . 
+Sau lỗi bảo_mật vừa được công_bố chưa được vá và mã tấn_công nguy hiểmđược công_bố rộng_rãi thì IE lại có một lỗ_hổng nguy_cơ cao nếu bị khai_thác bằng công_cụ tìm_kiếm Google_Desktop . 
+Được một hacker người Israel có tên Matan_Gillon khám_phá , lỗi này phát_sinh trong cách_thức mà Internet_Explorer ( IE ) nhập CSS ( Cascading_Style_Sheets ) từ các website khác , một phương_pháp kỹ_thuật được giới_thiệu như XSS ( cross site scripting ) . 
+Cụ_thể , IE sẽ nhập bất_kỳ loại tập_tin nào với một dấu ngoặc_đơn bất_chấp được hay không hoặc không phải là một tập_tin CSS . Bằng cách kết_hợp lỗi này với phần_mềm tìm_kiếm nội_dung Desktop_Search của Google , một website chứa mã nguy_hiểm có_thể đọc được và ăn_cắp thông_tin cá_nhân như pasword hoặc số thẻ tín_dụng trên máy của khách truy_cập . 
+Giống như các lỗi XSS cơ_bản , khiếm_khuyết thiết_kế này của IE cho_phép hacker thu_thập thông_tin dữ_liệu cá_nhân của người dùng hay thực_thi các hoạt_động trên PC nạn_nhân qua các tên_miền từ xa , Gillon cho_biết thêm . 
+Chuyên_gia này đã cung_cấp mã khai_thác chứng_minh mức_độ nguy_hiểm của lỗi này tại đây . 
+Lỗi nói trên ảnh_hưởng đến phiên_bản IE 6 trên Windows_XP_Service_Pack 2 , kể_cả người dùng đã cài_đặt tất_cả các bản vá lỗi . 
+Mozilla_FireFox và Opera không bị ảnh_hưởng vì không hỗ_trợ công_cụ chọn_lọc CSS . Microsoft cho_biết họ đang tích_cực sửa lỗi và Google cũng khuyến_cáo người dùng tắt chức_năng hỗ_trợ JavaScript trong IE hoặc tạm_thời sử_dụng một trình_duyệt khác . 

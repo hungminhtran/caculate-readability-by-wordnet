@@ -1,0 +1,13 @@
+Virus ăn_cắp password của game_thủ Priston_Tale 
+Những người tham_gia trò_chơi nhập_vai trực_tuyến có phiên_bản tiếng Việt gọi là PTV - Giành lại miền đất_hứa đang trở_thành mục_tiêu của một loại sâu Internet được thiết_kế để ăn_cắp tên đăng_nhập , mật_khẩu và thông_tin cá_nhân . 
+Khi game_thủ truy_nhập vào Priston_Talehoặc vào trang Yahoo_Mail , virus có tên PrsKey . A sẽ ghi lại các lệnh gõ trên bàn_phím và gửi dữ_liệu thu được về cho hacker . 
+PrsKey . A được lập_trình để phát_tán qua các kênh chia_sẻ trên mạng và đồng_thời còn sử_dụng một_số thủ_đoạn lừa_bịp khác để dụ_dỗ người chơi game tải nó về máy_tính . 
+Đến thời_điểm này , PrsKey . A chưa phát_tán ở mức_độ rộng nhưng vụ tấn_công cũng gây ra một_số vấn_đề đối_với các quản_trị_viên Priston_Tale trong việc ngăn_chặn tình_trạng buôn_bán account người chơi . 
+Giới chuyên_gia bảo_mật cho_biết các phần_mềm tấn_công đang được sử_dụng ngày_càng nhiều vào mục_đích ăn_cắp tiền trong game của người tham_gia thay_vì giành điểm cao . 
+Rất nhiều virus hoặc Trojan không_chỉ gây gián_đoạn hệ_thống mà_còn ăn_cắp mã_số đăng_nhập , mật_khẩu và dữ_liệu của các gamer trên máy_tính , Graham_Cluley , Giám_đốc công_nghệ của hãng bảo_mật Sophos ( Anh ) , phát_biểu . 
+Vũ_khí , tiền và giáp_trụ ảo trong game bị ăn_cắp bằng virus rồi sẽ được đem bán lại để thu về tiền thật . 
+Sự xuất_hiện các virus tấn_công tài_sản của cộng_đồng game_thủ trực_tuyến đang trở_thành một xu_hướng đáng chú_ý gần đây . 
+Nhiều trò_chơi nhập_vai online như Lineage , Outwar hay Legend_of_Mir 2 cũng là mục_tiêu khai_thác của virus và Trojan . 
+Tháng trước tại Hàn_Quốc , trung_tâm game trực_tuyến của thế_giới , một nhóm người đã bị cảnh_sát tóm_cổ vì tội phát_tán các chương_trình ăn_cắp mật_khẩu để khai_thác tài_sản của game_thủ . 
+Trò_chơi Priston_Talelà game 3D nhập_vai trực_tuyến nhiều người tham_gia ( MMORPG ) đang thu_hút hàng triệu người trên thế_giới . 
+Cộng_đồng chơi Priston_Tale đông_đảo nhất là ở Hàn_Quốc , Nhật_Bản , Trung_Quốc , Đài_Loan , Thái_Lan và nhiều quốc_gia nói tiếng Anh . 

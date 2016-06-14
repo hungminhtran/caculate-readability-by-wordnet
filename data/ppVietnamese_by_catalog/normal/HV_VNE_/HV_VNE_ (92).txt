@@ -1,0 +1,7 @@
+Thay_đổi hơn 400 chi_tiết về bảo_mật trong SP2 
+Đây là động_thái tích_cực của Microsoft nhằm thuyết_phục các công_ty tiến_hành cài_đặt phiên_bản nâng_cấp của hệ_điều_hành Windows_XP._Hãng cũng tuyên_bố đã loại_bỏ hai lỗi bảo_mật mới trong hệ_thống . 
+Microsoft cho_biết tổng_cộng 428 đặc_điểm trong Windows_XP liên_quan đến các lỗ_hổng bảo_mật đã được thay_đổi hoặc loại_bỏ . 
+1/5 trong số đó nằm ở Internet_Explorer và 107 thay_đổi liên_quan đến tính_năng hệ_thống mạng của XP. Về hai lỗi bảo_mật chưa từng được công_bố trước đây , Microsoft từ_chối cung_cấp thông_tin chi_tiết nhưng khẳng_định chúng đã hoàn_toàn bị loại_bỏ . 
+Hiện_tại , một_số công_ty vẫn còn chần_chừ trong việc nâng_cấp lên SP2 vì sợ vấn_đề không tương_thích ứng_dụng và muốn tiếp_tục thử_nghiệm thêm . 
+Nỗ_lực tăng_cường an_ninh trong SP2 , Microsoft đang chứng_minh hãng đã thay_đổi phương_pháp truyền_thống " sản_xuất trước , giải_quyết vấn_đề bảo_mật sau " vốn bị nhiều nhà phân_tích chỉ_trích gay_gắt . 
+Giới quan_sát cho rằng Microsoft sẽ không gặp trở_ngại nào quá lớn trong việc phát_hành phiên_bản mới của Windows , bởi ít_nhất , Microsoft đã có nhiều cố_gắng khi hứa hẹnLonghorn sẽ rất an_toàn khi chính_thức ra_mắt . 

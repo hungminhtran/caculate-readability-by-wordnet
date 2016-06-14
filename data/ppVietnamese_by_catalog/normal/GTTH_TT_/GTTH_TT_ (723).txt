@@ -1,0 +1,11 @@
+Từ_điển Anh-Việt 7000 từ cho Mobile 
+Các đặc_điểm của sản_phẩm : 
+- Có_thể cài_đặt cho tất_cả các máy điện_thoại di dộng có hỗ_trợ Java : Nokia ( 6100 , 6610 , 7250 , 3650 ... ) , Samsung ( E100 , X100 , S500 ... ) , và một_số điện_thoại khác như : Siemens , LG , Sony_Ericsson , Motorola . - Dung_lượng : 57 KB . 
+- Số_lượng : 7.000 từ . 
+- Ưu_điểm : dung_lượng nhỏ , không yêu_cầu máy có hệ_điều_hành Symbian , thời_gian tìm_kiếm nhanh , cho kết_quả chính_xác . 
+Bạn download miễn_phí tại địa_chỉ sau : 
+- Từ_điển Anh-Việt 1.0 
+Máy có Unicode : http : / / www . dasisco . com / softs / Bin-Codau.zip 
+Máy không có Unicode : http : / / www . dasisco . com / softs / Bin-khongdau.zip 
+- Từ_điển Anh - Việt 1.1 ( dành cho tất_cả các máy có hỗ_trợ Java ) : http : / / www . dasisco . com / softs / dictionaty.zip 
+Download từ mobile : http : / / www . dasisco . com / wap/wap.wml 

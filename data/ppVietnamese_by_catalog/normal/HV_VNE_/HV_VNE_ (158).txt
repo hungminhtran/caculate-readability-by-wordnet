@@ -1,0 +1,12 @@
+Thêm 3 bản vá lỗi quan_trọng cho Word và Windows_
+Ngày hôm_qua , tại Hội_thảo đối_tác toàn_cầu 2005 , Microsoft cảnh_báo về những lỗ_hổng bảo_mật mới trong hệ_điều_hành và chương_trình xử_lý văn_bản của họ , đồng_thời công_bố phần_mềm nâng_cấp theo định_kỳ hàng tháng . 
+Theo Stephen_Toulouse , Giám_đốc Trung_tâm bảo_mật của Microsoft , cả ba lỗ_hổng này đều được xếp vào hàng " nghiêm_trọng " , có nguy_cơ bị tin_tặc lợi_dụng để kiểm_soát máy_tính cá_nhân và ăn_cắp dữ_liệu hoặc tổ_chức những cuộc tấn_công mới . 
+" Vấn_đề then_chốt ở đây là chúng_tôi muốn mọi người nhận_thức rõ về nguy_cơ của những mối đe_doạ mới này mặc_dù chương_trình phần_mềm vẫn có khả_năng tự nâng_cấp " , Toulouse ám_chỉ một tính_năng trong Windows có_thể tự_động tải và cài bản vá lỗi phần_mềm . 
+Hai trong số ba lỗ_hổng liên_quan đến công_nghệ ảnh trong Windows . 
+Hacker có_thể xâm_nhập máy_tính đơn_giản chỉ bằng cách lừa người dùng xem một hình_ảnh nào đó chứa sẵn mã phần_mềm nguy_hiểm . 
+" Chỉ cần mở một trong số những bức ảnh đó thôi là bạn đã bị nhiễm mã nguy_hiểm , từ phần_mềm quảng_cáo ( adware ) , phần_mềm gián_điệp ( spyware ) hay bất_cứ một loại chương_trình độc_hại nào khác . 
+Chúng ngay_lập_tức xâm_nhập vào hệ_thống mà người dùng không hề hay_biết " , Oliver_Friedrichs , Giám_đốc Trung_tâm bảo_mật của hãng Symantec , khuyến_cáo . 
+" Hiện_nay chúng_tôi đã chứng_kiến sự gia_tăng nhanh_chóng của những website chuyên đi khai_thác lỗi phần_mềm " . 
+Friedrichs khuyến_khích người sử_dụng sớm cài bản vá lỗi của Microsoft và đảm_bảo phần_mềm diệt virus của họ luôn được cập_nhật . 
+Lỗi trong Word ảnh_hưởng đến tất_cả các phiên_bản khác nhau của chương_trình xử_lý văn_bản ra_mắt trong khoảng thời_gian năm 2000 - 2004 . Hacker có_thể điều_khiển máy_tính từ xa nếu người dùng mở một file tài_liệu chứa những mã phần_mềm được thiết_kế chuyên để khai_thác lỗi này . 
+Tham_khảo thêm thông_tin và cách khắc_phục 3 khiếm_khuyết tại đây . 

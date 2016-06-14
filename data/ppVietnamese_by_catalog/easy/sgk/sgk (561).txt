@@ -1,0 +1,14 @@
+Mẫu vẽ có hai vật mẫu 
+Vị_trí của các vật mẫu . 
+So_sánh tỷ_lệ của mẫu : 
+Chiều cao , chiều ngang của mẫu . 
+So_sánh chiều cao , chiều ngang của hai vật mẫu . 
+Hình_dáng của từng vật mẫu . 
+Màu_sắc của từng vật mẫu . 
+Độ đậm nhạt chính của mẫu . 
+Vẽ khung hình chung của màu và khung hình riêng của từng vật mẫu ( H . 3a ) . 
+Vẽ đường_trục của lọ . 
+Xác_định tỷ_lệ các bộ_phận của từng vật mẫu ( H . 3b ) . 
+Vẽ phác những nét chính của các vật mẫu ( H . 3c ) . 
+Vẽ nét chi_tiết và hoàn_chỉnh hình_vẽ cho rõ đặc_điểm hình_dáng của mẫu ( H . 3d ) . 
+Phác các mảng sáng , mảng tối chính và vẽ đậm nhạt ( H . 3e ) . 

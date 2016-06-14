@@ -1,0 +1,17 @@
+Website hacker lớn nhất Việt_Nam bị tấn_công DDoS 
+Từ hơn hai ngày_nay , các cuộctấn công từ_chối dịch_vụ liên_tiếp nhắm thẳng tới địa_chỉ www . hvaonline . net khiến diễn_đàn của hiệp_hội hacker HVA bị tê_liệt hoàn_toàn . 
+Giao_diện của hvaonline . net chụp lại lúc 16h15 ' ngày 1/12 . 
+Hiện_tại , nếu truy_cập vào website này , người_ta chỉ nhận được dòng thông_báo : " The_page_cannot_be_displayed " . 
+Một thành_viên giấu tên trong Ban quản_trị của HVA cho_biết việc các hacker dùng nhiều thủ_đoạn , phương_cách khác nhau để " chơi xấu " diễn_đàn này là ... 
+chuyện thường_ngày . 
+Tuy_nhiên , vụ tấn_công từ_chối dịch_vụ lần này có sức công_phá mạnh gấp đôi lần phá_hoại gần đây nhất . 
+" Các dấu_vết mà chúng_tôi nắm được cho_thấy , kẻ thủ_ác đã sử_dụng chiêu_thức ' xflash ' . 
+Tức_là bí_mật đặt một banner đã cài sẵn mã tấn_công trên một_vài website có số_lượng người truy_cập lớn " , đại_diện của HVA mô_tả . 
+" Như vậy , mỗi_một người truy_cập vào các website này đã tự_động tải đoạn mã tấn_công đó và vô_tình trở_thành một mũi phát_động các lệnh hợp_lệ tiến thẳng đến server của HVA " . 
+Người này cũng tiết_lộ nếu những chiến_dịch phá_phách trước đây chỉ với mức_độ là 10.000 syn / s ( yêu_cầu / giây ) thì đợt tấn_công lần này là khoảng 16.000 syn/s . 
+" Hiếm có server nào đủ mạnh để có_thể chống_đỡ lại ' cú đánh ' liên_tiếp với sức_mạnh như thế " , đại_diện nói trên của HVA nói . 
+Hiện_tại , các thành_viên của HVA chưa biết được tác_giả của hành_động tấn_công và vẫn tiếp_tục phân_tích các đoạn mã để điều_tra . 
+Tuy_nhiên , nơi phát lệnh tấn_công được xác_định là một server tự_do ở Nhật_Bản . 
+HVA đang cố_gắng khôi_phục trang web trong ngày_mai . 
+Tấn_công từ_chối dịch_vụ ( DDoS ) hiện được xem là nguy_cơ số_một về an_ninh mạng và là nỗi hãi_hùng của các website vì khả_năng chống_đỡ lại nó rất ít . 
+Nhiều người đã không ngần_ngại bày_tỏ quan_điểm cho rằng đây là thủ_đoạn đáng lên_án nhất trong những chiêu_thức phá_hoại trên mạng . 

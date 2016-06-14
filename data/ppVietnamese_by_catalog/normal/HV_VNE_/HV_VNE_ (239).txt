@@ -1,0 +1,13 @@
+Microsoft thay_đổi thái_độ thù_nghịch với hacker 
+Trái_ngược với những phản_ứng không thân_thiện với tin_tặc trước đây , tập_đoàn phần_mềm Mỹ lần đầu_tiên trình_diễn cải_tiến sơ_bộ của Internet_Explorer_7Beta 2 trong Hội_thảo bảo_mật hacker tại Kuala_Lumpur ( Malaysia ) ngày 28/9 . 
+Tony_Chor , Giám_đốc quản_lý chương_trình của Internet_Explorer và đồng_nghiệp Andrew_Cushman , Giám_đốc nhóm bảo_mật và thông_tin của Microsoft , đánh_giá cao những lời nhận_xét sau buổi trình_bày . 
+Thay_vì tên_gọi " cộng_đồng hacker " , hai người đã coi những người tham Hội_thảo " Hack_in_the_Box_Security " như là " cộng_đồng nghiên_cứu bảo_mật " . 
+" Hacker - tin_tặc mang nghĩa tiêu_cực , là từ dùng để ám_chỉ những kẻ phạm_pháp " , Cushman nói . 
+" Những người ở đây lại rất khác , họ có tầm_nhìn rộng , những đóng_góp giá_trị và là nguồn thông_tin quý_giá mà chúng_tôi đã chưa tận_dụng " . 
+Chor cũng cho_biết Microsoft đã duy_trì thái_độ không mấy thiện_cảm với cộng_đồng này trong quá_khứ như treo giải cho những_ai bắt được các tác_giả viết virus ... 
+Điều đó chỉ làm cho giới hacker phẫn_nộ và tập_đoàn lớn nhất thế_giới đã không khai_thác và thu lợi được từ niềm đam_mê và chuyên_môn của họ . 
+Nhưng hãng phần_mềm đã quyết_định " gác lại quá_khứ " và mục_tiêu của họ bây_giờ là tạo cơ_hội cho " cộng_đồng nghiên_cứu bảo_mật " kiểm_tra , đánh_giá những sản_phẩm của mình trước khi chính_thức phát_hành . 
+Một trong những tính_năng bảo_mật mới nhất của Internet_Explorer_7 được nhắc đến tại Hội_thảo " Hack_in_the_Box_Security " là chế_độ bảo_vệ " Protected_Mode " cài mặc_định nhằm tránh rủi_ro cho những người sử_dụng không am_hiểu công_nghệ . 
+Tất_cả các gói dữ_liệu tải về đều được để trong thư_mục Internet tạm_thời . 
+Chương_trình sẽ vô_hiệu_hoá toàn_bộ những chương_trình nguy_hiểm trước khi người dùng mở file . 
+Microsoft dự_định sẽ đăng_ký bản_quyền cho công_cụ này . 

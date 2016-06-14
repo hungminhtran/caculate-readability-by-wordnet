@@ -1,0 +1,6 @@
+Nhu_cầu nước của thực_vật 
+Các loài cây khác nhau có nhu_cầu nước khác nhau . 
+Có cây ưa ẩm , có cây chịu được khô_hạn . 
+Cùng một cây , trong những giai_đoạn phát_triển khác nhau cần những lượng nước khác nhau . 
+Ngoài_ra , khi thời_tiết thay_đổi , nhu_cầu nước của cây cũng thay_đổi . 
+Vào những ngày nắng , nóng , lá cây thoát nhiều hơi_nước hơn nên nhu_cầu nước của cây cũng cao hơn . 

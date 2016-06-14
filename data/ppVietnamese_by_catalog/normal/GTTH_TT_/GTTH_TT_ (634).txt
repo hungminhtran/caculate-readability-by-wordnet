@@ -1,0 +1,9 @@
+Mã_hoá thông_điệp bí_mật 
+Khi kích_hoạt Secret_Notes hoạt_động thành_công là con_trỏ soạn_thảo thông_điệp bí_mật đã nằm sẵn trong giao_diện . 
+Bạn chỉ việc gõ vào những nội_dung cần mã_hoá hoặc dán các nội_dung đã soạn_thảo sẵn vào giao_diện này . 
+Secret_Notes có_thể lưu một lượng văn_bản có dung_lượng tương_đương 10 trang A4 soạn_thảo trong MS_Word . 
+Khi nhấn vào File để " Save_As " thông_điệp , Secret_Notes bắt_buộc bạn phải nhập mật_khẩu hai lần để đảm_bảo độ_chính_xác của mật_khẩu . 
+Thông_điệp bí_mật sẽ có dạng đuôi file là .SNX , đảm_bảo " lạ_hoắc " trước mọi cặp mắt tò_mò của mọi " điệp_viên " đối_thủ và file .SNX này chỉ có_thể mở được bằng chính chương_trình Secret_Notes với mật_khẩu chính_xác . 
+Hiện Công_ty Direct_Logic đang bán ra bản Secret_Notes_v2.1 mới nhất với giá 30 USD . 
+Người dùng có_thể vào http : 
+/ / www . freedownloadscenter . com / Utilities / File-Encryption-Utilities / Secret-Notes-Download . html để tải về bản dùng thử hoặc tìm mua tại các cửa_hàng phần_mềm . 

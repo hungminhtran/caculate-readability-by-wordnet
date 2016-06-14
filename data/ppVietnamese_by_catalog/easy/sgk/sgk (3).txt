@@ -1,0 +1,4 @@
+Lắp máy_bay_trực_thăng 
+Lắp máy_bay_trực_thăng theo các bước : 
+Lắp các bộ_phận : thân và đuôi máy_bay ; sàn ca_bin và giá đỡ ; ca_bin ; cánh_quạt ; càng máy_bay . 
+Lắp_ráp các bộ_phận với nhau để được máy_bay_trực_thăng hoàn_chỉnh . 

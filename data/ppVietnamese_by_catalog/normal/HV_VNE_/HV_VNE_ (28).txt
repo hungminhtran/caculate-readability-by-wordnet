@@ -1,0 +1,16 @@
+3 virus giả_dạng mặt người , gà quay và Hussein chết 
+Hãng bảo_mật Sophos ( Anh ) phát_hiện loại sâu có tên Wurmark . F sử_dụng hình mặt người dị_hợm để lừa_bịp người nhận e-mail . 
+Trong khi đó , virus Bobax . H thì lấy mồi câu là ảnh cựu_tống_thống_Iraq bị bắn chết còn sâu Bropia . F dùng hình gà quay . 
+Wurmark . F phát_tán qua e-mail giả_vờ xuất_xứ từ các địa_chỉ easy-lay666@lovenet . com , sexy-guy88@aol . com và sexy-lil-thing@no-ip.com . 
+Dòng chủ_đề ( subject ) có_thể là Hhahahah lol ! ! ! ! , Rate my pic& Phần đính kèm dạng ZIP trong mail có chứa những file con bên trong như Sexy-09.jpg . scr , Photo-01.jpg . scr , is-this-you . jpg . scr và love-04.jpg . scr mà nếu mở ra thì virus sẽ lây_nhiễm vào máy và làm hiển_thị hình mặt một người đàn_ông . 
+Khi hình_ảnh này hiện ra , Wurmark . F sẽ cài một sâu mạng có tên Rbot . US kèm theo một Trojan mở cổng hậu . 
+Những chương_trình này cho_phép hacker kiểm_soát máy_tính nạn_nhân từ xa , theo_dõi lệnh gõ trên bàn_phím và chụp màn_hình . 
+Trong khi đó , sâu phát_tán e-mail số_lượng lớn Bobax . H dụ_dỗ người nhận e-mail mở phần đính kèm để xem những bức ảnh mô_tả ông Saddam_Hussein bị bắn chết khi tìm cách đào_tẩu khỏi nơi giam_cầm . 
+Virus phát_tán bằng cách khai_thác lỗi LSASS trong Windows , giống như sâu Sasser đã lợi_dụng trước đây ( đã có bản vá lỗi ) . 
+Sau khi lây_nhiễm , Bobax . H ăn_cắp địa_chỉ e-mail trong máy nạn_nhân để tiếp_tục phát_tán , đồng_thời tắt hết các phần_mềm an_ninh trên máy và cài một module tiếp_vận để biến PC bị nhiễm thành một nhà_máy chế_biến thư rác . 
+Về virus Bropia . F , hãng bảo_mật Nhật_Bản Trend_Micro cho_biết đây là một loại sâu khá nguy_hiểm . 
+Nó khai_thác những máy_tính kém cập_nhật bản vá lỗi . 
+Bropia . F , được phát_hiện hôm 2/2 , tấn_công những PC dùng chương_trình nhắn tin nhanh MSN_Messenger bằng cách ẩn trong những bức ảnh hình gà quay . 
+Virus này cũng cài_đặt lên máy_tính nạn_nhân một chương_trình con có tên Agobot . ajc . 
+Agobot . ajc có khả_năng thực_hiện tấn_công từ_chối dịch_vụ và khai_thác một_số lỗ_hổng Windows mà các virus Sla mmer , Blaster và Sasser trước đây từng sử_dụng . 
+Trend_Micro cho_biết đây là virus IM đầu_tiên được cảnh_báo ở mức nguy_cơ cao . 

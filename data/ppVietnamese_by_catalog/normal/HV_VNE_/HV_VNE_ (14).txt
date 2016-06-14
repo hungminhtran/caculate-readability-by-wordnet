@@ -1,0 +1,12 @@
+' Quỷ song_sinh ' đe_doạ mạng Wi-Fi 
+Bằng cách tạo ra điểm truy_cập không dây giả_mạo , hacker dễ_dàng lừa nạn_nhân đăng_nhập vào hệ_thống của chúng . 
+Lỗ_hổng anh ninh mới nhất này , được gọi là " quỷ song_sinh " , đặt người dùng Internet không dây trước một hiểm_hoạ mới . 
+Phil_Nobles , nhà nghiên_cứu về Internet không dây và tội_phạm mạng , nhận_định . 
+" Bởi Wi-Fi hoạt_động dựa trên tín_hiệu radio nên dễ_dàng được xác_định bởi người dùng bất_hợp_pháp bằng cách dò_tìm tần_số của sóng " . 
+Một_khi đã kết_nối thành_công vào mạng qua điểm quỷ song_sinh , hacker có_thể chặn_đứng việc truyền dữ_liệu và lừa nạn_nhân đăng_nhập vào hệ_thống của chúng . 
+Những thông_tin nhạy_cảm như username và passworld có_thể bị đánh_cắp từ đây . 
+Tháng 10/2002 , công_ty bảo_mật ISS đã cung_cấp những thông_tin chi_tiết về dạng trạm phát_sóng bất_hợp_pháp có khả_năng nhân_bản này . 
+" Trạm phát_sóng không dây của hacker phát ra tín_hiệu mạnh song_song với các trạm chính_thức của nhà cung_cấp dịch_vụ . 
+Nhờ đó , kẻ tấn_công có_thể lừa người sử_dụng Wi-Fi đăng_nhập vào server do chúng quản_lý " , ISS cho_biết . 
+Brian_Collins , người quản_lý hệ_thống thông_tin ở Đại_học Cranfield ( Anh ) , khuyến_cáo người dùng mạng không dây có_thể tự bảo_vệ mình bằng cách luôn đảm_bảo kích_hoạt chế_độ bảo_mật trên thiết_bị khi kết_nối vào mạng . 
+Thông_thường , khi đưa sản_phẩm ra thị_trường , nhà sản_xuất chỉ đặt chế_độ bảo_mật mặc_định ở mức tối_thiểu . 

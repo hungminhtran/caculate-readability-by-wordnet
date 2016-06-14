@@ -1,0 +1,16 @@
+Dự_án hợp_nhất tên_gọi virus bị chỉ_trích 
+CME được tạo ra để loại_bỏ rắc_rối nảy_sinh do cách đặt tên khác nhau của các nhà cung_cấp phần_mềm bảo_mật , như sâu Sober mới nhất được gọi làSober . Z hoặc Sober . X . 
+Tuy_nhiên , một_số chuyên_gia tỏ_ra nghi_ngờ tính hiệu_quả của kế_hoạch . 
+Ý_tưởng về CME được hình_thành một năm trước đây với sự tham_gia của Trung_tâm an_ninh mạng US-CERT , Bộ an_ninh nội_địa Mỹ và những công_ty sản_xuất chương_trình diệt virus như Microsoft , Trend_Micro , McAfee và Symantec . 
+Kế_hoạch được Viện bảo_mật SANS công_bố qua một e-mail chung , nói rằng " dự_án sẽ phân_loại nguồn dữ_liệu về phần_mềm nguy_hiểm , liệt_kê những virus mới cho người sử_dụng , chuyên_gia phân_tích hoặc bất_cứ ai muốn có thông_tin chính_xác về các loại mã_độc " . 
+Tuy_nhiên , Chris_Mosby , một quản_trị hệ_thống tại Mỹ , phản_đối mạnh_mẽ kế_hoạch này . 
+Ông khẳng_định dự_án chỉ là " ý_kiến của những người theo chủ_nghĩa biệt_lập " và khiến nhà quản_trị gặp khó_khăn mỗi khi virus bùng_phát . 
+" Phần khó nhất của dự_án CME một năm trước - phân_biệt những đoạn mã khai_thác trông có_vẻ giống nhau - hiện đã bắt_đầu hoạt_động hiệu_quả . 
+Nhưng CME vẫn chỉ là một danh_sách nghèo_nàn , bao_gồm tên_gọi khác nhau của virus được các hãng sử_dụng , mà không hề cung_cấp thông_tin chi_tiết hay link kèm theo " , Mosby nói . 
+SANS thừa_nhận điều này khiến triển_vọng của dự_án bị thu_hẹp đáng_kể . 
+CME thậm_chí không chất_lượng bằng những chương_trình độc_lập như cơ_sở_dữ_liệu về virus của hãng bảo_mật Secunia . 
+" Người_ta không nên chỉ_trích chỉ vì nó chưa phải là giải_pháp hoàn_chỉnh 100 % . 
+CME mới thực_hiện những bước_tiến đầu_tiên nhưng rõ_ràng nó đang đi đúng hướng . 
+Điều quan_trọng nhất là CME tạo nên mối tương_quan , so_sánh giữa những tên_gọi riêng_biệt " , Graham_Cluley , cố_vấn bảo_mật của hãng bảo_mật Anh_Sophos , nói . 
+" Hệ_thống sẽ dần được cải_thiện theo thời_gian . 
+Link kết_nối và thông_tin mô_tả chắc_chắn sẽ được đưa vào dự_án " . 

@@ -1,0 +1,10 @@
+52 Trojan ẩn trong game điện_thoại_di_động 
+Công_bố của hãng phần_mềm an_ninh SimWorks hôm_qua cho_thấy một số_lượng đáng_kể các chương_trình tấn_công đang lẩn_trốn trong nhiều dạng trò_chơi và phần_mềm khác nhau trên thiết_bị liên_lạc cầm tay . 
+Số_Trojan nói trên chứa mã nguy_hiểm đủ sức làm tê_liệt nhiều thành_phần quan_trọng trong hệ_thống của điện_thoại . 
+Các chương_trình này chỉ nhắm vào điện_thoại sử_dụng hệ_điều_hành điện_thoại thông_minh Symbian ( đang cạnh_tranh với một phần_mềm tương_tự của Microsoft trong việc đưa các tính_năng PC vào điện_thoại ) . 
+Phát_hiện của SimWorks đã nâng tổng_số phần_mềm tấn_công Symbian được phát_hiện tới nay lên hơn 100 . Theo Aaron_Davidson , Giám_đốc điều_hành SimWorks , tới nay chưa có thiết_bị nào bị tấn_công thực_sự nhưng SimWorks và hãng bảo_mật Phần_Lan F-Secure vẫn đưa ra cảnh_báo ở mức cao đối_với ngành công_nghiệp thiết_bị liên_lạc không dây . 
+Theo Davidson , tin_tặc đang thiết_kế và tung ra các phần_mềm tấn_công điện_thoại với mật_độ ngày_một nhiều . 
+Từ tháng 6 đến tháng 10 năm_ngoái , trung_bình một tháng mới xuất_hiện một virus Symbian mới . 
+Hiện_nay , tốc_độ này là 1 tuần / một virus . 
+Trên thực_tế , điện_thoại thông_minh vẫn chỉ chiếm một tỷ_lệ rất nhỏ trên tổng_số mobile phone bán ra . 
+Tuy_nhiên , giới phân_tích và các hãng chế_tạo cho rằng khi những hệ_điều_hành tiên_tiến như Symbian trở_nên phổ_biến hơn trong thập_kỷ tới , virus cũng sẽ phát_triển mạnh song_hành . 

@@ -1,0 +1,15 @@
+Xuất_hiện thị_trường đen cho máy_tính ' ma ' 
+Hình_thức tấn_công mới sử_dụng đồng_thời ba loại phần_mềm nguy_hiểm - biến PC thành cỗ máy bị khống_chế ( zombie ) và có nguy_cơ bị rao_bán cho những tổ_chức tội_phạm mạng - đã bắt_đầu xuất_hiện trên Internet tuần này . 
+Một phiên_bản của sâu Bagle mà hãng bảo_mật Mỹ CA đặt tên là Glieder có_thể tạo điều_kiện cho hacker cài phần_mềm nguy_hiểm vào máy_tính với mức_độ rất nghiêm_trọng . 
+Sau khi xâm_nhập vào máy , sâu Glieder sẽ hướng PC bị nhiễm tới một website để tải loại Trojan_Fantibag , hướng mũi tấn_công vào mạng máy_tính để ngăn_cản hệ_thống tiếp_cận công_cụ nâng_cấp của các hãng phần_mềm chống virus cũng như website cập_nhật của Microsoft . Sau đó , máy_tính sẽ tiếp_tục tải Trojan_Mitglieder để vô_hiệu_hoá firewall , phần_mềm chống virus và mở cổng hậu , cho_phép tin_tặc điều_khiển PC từ xa . 
+Theo CA , sự " phối_hợp " chiến_thuật giữa Glieder và hai chương_trình còn_lại có tốc_độ và khả_năng vô_hiệu_hoá nạn_nhân ở mức tối_đa . 
+" Máy_tính bị biến thành zombie nhờ ba phần_mềm ' đặc_công ' vô_cùng nguy_hiểm . 
+Và mục_đích duy_nhất ở đây là để kiếm tiền " , Roger_Thompson , Giám_đốc trung_tâm nghiên_cứu phần_mềm nguy_hiểm của CA , nhấn_mạnh . 
+Vừa khi các hãng chống virus nâng_cấp chương_trình để ngăn_chặn một phiên_bản mới của Glieder thì những kẻ tấn_công đã điều_chỉnh ngay chương_trình download để ứng_phó , khiến tình_hình trở_thành một cuộc chạy_đua quyết_liệt giữa hai bên . 
+Việc sử_dụng ba loại phần_mềm nguy_hiểm riêng_biệt cho_thấy hình_thức tấn_công của hacker đã nâng lên một mức_độ tinh_vi mới . 
+CA cảnh_báo đây có_thể là hoạt_động của một nhóm tội_phạm chuyên_nghiệp và khẳng_định đã xuất_hiện một thị_trường đen đứng đằng sau để điều_khiển hành_động của hacker . 
+Chúng thuê tin_tặc viết phần_mềm kiểm_soát máy_tính , và sẽ mua lại những zombie này để gửi spam hoặc lấy thông_tin cá_nhân nhằm mục_đích trục_lợi riêng ... 
+Tương_tự , hãng McAfee đã phát_hiện nhiều dấu_hiệu cho_thấy tội_phạm sử_dụng tiền để thuê hacker phân_tán phần_mềm nguy_hiểm . 
+" Giá_cả có_thể lên tới khoảng 100 cho đến dưới 1.000 USD . 
+Rõ_ràng đã xuất_hiện chợ_đen zombie " , McAfee khẳng_định . 
+AC và McAfee khuyến_cáo người dùng nên tránh mở bất_cứ file không rõ nguồn_gốc nào họ nhận được qua e-mail . 

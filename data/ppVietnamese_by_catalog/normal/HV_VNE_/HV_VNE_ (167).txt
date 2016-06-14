@@ -1,0 +1,7 @@
+Phát_tán virus qua e-card tăng 90 % so với 2004 
+Người dùng PC luôn bất_ngờ và vui_mừng mỗi khi nhận được những thiệp điện_tử ( e-card ) dễ_thương nhưng hãng bảo_mật SurfControl khẳng_định tình_trạng tạo thiệp giả để cài mã nguy_hiểm vào máy_tính đang tăng nhanh . 
+Theo Paris_Trudeau , Giám_đốc thị_trường của SurfControl , e-mail kèm e-card chúc_mừng chứa phần_mềm nguy_hiểm đã tăng 90 % so với năm_ngoái và đang chiếm tới hơn một nửa số thư_điện_tử được gửi đi trên toàn thế_giới . 
+Số vụ lừa_đảo trực_tuyến , dụ người dùng khai_báo thông_tin cá_nhân vào website giả , cũng tăng đáng_kể , nhưng hiện_nay , tin_tặc chủ_yếu tìm cách lừa mọi người tải phần_mềm có khả_năng kiểm_soát PC từ xa , biến chúng thành cỗ máy_tính mazombie , làm " nội_gián " cho hacker khai_thác . 
+Những hoạt_động này được thực_hiện thường_xuyên qua thiệp điện_tử với nội_dung và hình_ảnh cuốn_hút khiến người sử_dụng dễ bấm chuột vào kết_nối tới trang chứa mã nguy_hiểm . 
+Một thủ_thuật khác có tỷ_lệ thành_công cũng khá cao là những thông_điệp giả_dạng như là từ chuyên_viên quản_trị mạng . 
+SurfControl cho_biết hệ_thống lọc e-mail của họ đã thu_nhận được số thư phát_tán phần_mềm nguy_hiểm nhiều gấp 3 lần so với cùng kỳ năm 2004 . 

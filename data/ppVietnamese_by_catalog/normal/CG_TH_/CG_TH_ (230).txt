@@ -1,0 +1,7 @@
+TP. HCM : Diễn_tập phòng_chống dịch CGC và đại_dịch cúm trên người 
+Cuộc diễn_tập quy_mô sẽ diễn_ra vào ngày 18/12 tại huyện Củ_Chi . Tình_huống giả_định là tại Xí_nghiệp X trên địa_bàn huyện có 1 công_nhân mắc bệnh cúm A đã tử_vong và lây_lan cho 3 trong số 5 công_nhân sống cùng phòng_trọ . 
+Từ đó bệnh đã lây_lan cho các công_nhân khác trong cùng xí_nghiệp . 
+Có 14 công_nhân đang được điều_trị tại khu cách_ly điều_trị của huyện Củ_Chi , trong đó có 3 trường_hợp diễn_tiến nặng . 
+Có tới 60 người có tiếp_xúc với 15 ca bệnh thì 20 công_nhân tiếp_xúc trục tiếp sẽ được đưa vào khu cách_ly kiểm_dịch và tổ_chức cách_ly kiểm_dịch tại nhà cho 40 công_nhân . 
+Như vậy , tại Xí_nghiệp X diễn_tiến dịch xảy_ra rất nhanh , gây hoang_mang cho công_nhân Xí_nghiệp và nhân_dân địa_phương . 
+BCĐ phòng_chống dịch huyện Củ_Chi và Trung_tâm Y_tế huyện Củ_Chi sẽ diễn_tập thực_hành các biện_pháp phòng_chống dịch và xử_lý môi_trường . 

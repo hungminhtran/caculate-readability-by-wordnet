@@ -1,0 +1,9 @@
+Chuyển MIDI sang MP3 bằng " MIDI_To_MP3_Maker " 
+Một điều đáng tiếc nữa là hầu_như không có máy_nghe nhạc số nào hiện_nay có khả_năng chơi nhạc MIDI … Để khắc_phục khiếm_khuyết đó , công_ty Softpedia đã giới_thiệu phần_mềm chuyên_dùng để chuyển nhạc MIDI thành MP3 mang tên " MIDI_To_MP3_Maker " , một công_cụ thuộc dạng " hàng hiếm " . 
+" MIDI To_MP3_Maker " có giao_diện thân_thiện và đơn_giản ở mức … không_thể còn gì đơn_giản hơn . 
+Người dùng chỉ việc nhấp vào nút " Open " để tìm đến file MIDI cần chuyển định_dạng sang MP3 , sau đó nhấp nút " Convert " là quá_trình chuyển_đổi bắt_đầu và thư_mục mặc_định để lưu file MP3 mới tạo ra sẽ là thư_mục gốc C . Sau khi chuyển_đổi định_dạng xong , người dùng có_thể bấm " Play " để nghe lại bằng file MP3 . 
+Công_cụ này tương thính với 3 định_dạng nhạc MIDI là midi , mid và rmi . 
+MIDI là định_dạng file nhạc số có dung_lượng nhỏ nhất hiện_nay nhưng khi chuyển thành MP3 thì dung_lượng nó sẽ tăng gấp nhiều lần so với MIDI . Thời_gian chuyển_đổi cũng khá " nhọc_nhằn " , với những file MIDI chỉ vài KB cũng mất khoảng 1 phút , còn với những file MIDI khoảng 100 KB cũng mất gần 5 phút . 
+Có_lẽ vì là " hàng hiếm " nên giá của " MIDI_To_MP3_Maker " cũng thuộc hàng " trên trời " , đến những 30 USD cho dung_lượng chưa đến 500 KB . 
+Người dùng có_thể vào đây để tải về bản dùng thử . 
+Hiện MIDI_To_MP3_Maker phiên_bản mới nhất là 3 . 0.70 đã có_mặt tại các cửa_hàng phần_mềm tin_học . 

@@ -1,0 +1,15 @@
+Tin_tặc Trung_Quốc nhằm vào bí_mật công_nghệ 
+Mạng Internet đang trở_thành " chiến_trường " mới giữa Mỹ và Trung_Quốc khi cường_quốc công_nghệ mới nổi của châu Á dùng sâu máy_tính làm gián_điệp hướng vào mục_tiêu là các công_ty Mỹ . Nhiều hãng bảo_mật từ lâu đã lo_ngại về những phần_mềm nguy_hiểm được viết ra để ăn_trộm file hoặc mật_khẩu . 
+Nhưng một_số chương_trình mới_đây dường_như được thiết_kế tinh_vi hơn và chỉ nhằm vào mục_tiêu sắp_đặt trước . 
+Các chuyên_gia bảo_mật cho rằng đã có ít_nhất một virus đóng vai " con ngựa thành Troa " xuất_phát từ Trung_Quốc xâm_nhập vào các công_ty lớn của Mỹ để ăn_cắp hồ_sơ mật qua hệ_thống máy_tính bị nhiễm . 
+Joe_Steward , chuyên_gia nghiên_cứu của hãng bảo_mật Mỹ Lurhq , khẳng_định : " Tất_cả những e-mail chúng_tôi thu_nhận được với file đính kèm sâu Myfip gần đây đều từ một địa_chỉ duy_nhất ở Trung_Quốc . 
+Rõ_ràng chương_trình này được dùng để làm công_cụ do_thám các hãng sản_xuất công_nghệ cao của Mỹ " . Steward cho_biết có_vẻ như chương_trình này ban_đầu được viết để ăn_cắp bài kiểm_tra của sinh_viên và sau đó được mở_rộng ra để sao_chép nhiều loại tài_liệu , trong đó có cả sơ_đồ và file văn_bản . 
+Tạp_chí Forbes , nơi đầu_tiên đăng_tải về Myfip , mô_tả loại sâu phát_tán qua thư rác này sẽ được kích_hoạt nếu người dùng mở file đính kèm . 
+Forbes nhận_định rất nhiều phiên_bản Myfip đã hoành_hành trong các hệ_thống và đang tìm cách ăn_cắp tài_liệu , đặc_biệt là sơ_đồ máy_móc và bảng vẽ bo mạch điện_tử . 
+Marcus_Sachs , điều_hành trung_tâm SRI_International tại Mỹ , cũng khẳng_định nguy_cơ virus gián_điệp từ Trung_Quốc là hoàn_toàn có cơ_sở : " Tôi tin rằng tin_tặc nước này đang sử_dụng những công_cụ như Myfip để do_thám Mỹ và nhiều nước công_nghiệp khác nhằm sở_hữu những tài_liệu và dự_án còn manh_nha " . 
+Sachs nói thêm : " Đa_số những vụ ăn_cắp thẻ tín_dụng , tiền và lừa_đảo trực_tuyến đều xuất_phát từ Nga . 
+Trung_Quốc dường_như tỏ_ra thông_minh hơn một_chút trong việc xoá dấu_vết , và chĩa mũi tấn_công vào bí_mật công_nghệ hơn là lừa_đảo tài_chính như tội_phạm Nga " . 
+Tuy_vậy , những mánh_khoé này không_chỉ giới_hạn trong việc gián_điệp công_nghiệp . 
+Một_số chuyên_gia cho_biết một phần_mềm nguy_hiểm tương_tự đã nhằm vào tài_liệu chính_trị bí_mật . 
+Hãng bảo_mật SecurityFocus nhận_định đợt phát_tán vào Anh tháng trước là một phần trong nỗ_lực ăn_trộm thông_tin cơ_quan chính_quyền Anh và Mỹ . Trojan này lây qua file đính kèm trong e-mail nhằm " thu_thập những tin kinh_tế và thương_mại tối_mật " . 
+Cảnh_báo đưa ra ngày 16/6 của Trung_tâm phối_hợp anh ninh quốc_gia Anh không_chỉ rõ kẻ châm_ngòi là Trung_Quốc nhưng ám_chỉ rằng hầu_hết những manh_mối họ thu_nhận có nguồn_gốc từ hệ_thống máy_tính ở " khu_vực Viễn_Đông " . 

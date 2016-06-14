@@ -1,0 +1,10 @@
+Virus MMS mò tới quốc_gia thứ 3 
+Loại sâu điện_thoại_di_động Co mmwarrior mới_đây đã xuất_hiện tại Italy , tiếp_tục làm dấy lên những quan_ngại về nguy_cơ an_ninh trên điện_thoại_di_động dùng hệ_điều_hành Symbian , trong khi nhiều chuyên_gia lại khẳng_định mối đe_doạ này bị thổi_phồng . 
+Theo hãng phần_mềm bảo_mật Phần_Lan_F-Secure , trước Italy , sâu Co mmwarrior đã được ghi_nhận tại Ấn_Độ và Oman . 
+Bắt_nguồn từ Ireland hồi tháng Giêng năm nay , virus này có khả_năng khiến điện_thoại gửi tới các địa_chỉ liên_hệ được lựa_chọn ngẫu_nhiên từ danh_bạ liên_lạc những phiên_bản mã tấn_công khác nhau của nó , ẩn bên trong tin_nhắn đa_phương_tiện ( MMS ) . 
+Co mmwarrior cũng phát_tán qua kết_nối Bluetooth . 
+Tuy_nhiên , virus chỉ tấn_công điện_thoại dùng hệ_điều_hành Symbian - tức những thiết_bị thường được gọi là điện_thoại thông_minh vì có các chức_năng giống máy_tính . 
+Điện_thoại chỉ có_thể bị lây_nhiễm virus khi người sử_dụng mở một e-mail và download phần_mềm trong file đính kèm . 
+Trên PC , những e-mail tương_tự sẽ làm hiển_thị một loạt cờ đỏ mà người sử_dụng khó có_thể không phát_hiện . 
+Vì thế , để đánh_lừa nạn_nhân , tác_giả virus Co mmwarrior sử_dụng hơn 20 dạng thông_điệp khác nhau với vẻ ngoài hợp_lệ , trong đó có một nội_dung giả_vờ là bản nâng_cấp phần_mềm của nhà cung_cấp Symbian . 
+Theo F-Secure , số điện_thoại bị nhiễm Co mmwarrior chưa đến 50 chiếc nhưng phần_mềm tấn_công này vẫn là một tiếng chuông cảnh_báo đối_với các chuyên_gia chống virus vì nó là chương_trình đầu_tiên lây qua MMS , một công_nghệ liên_lạc có khả_năng cùng lúc tiếp_cận nhiều điện_thoại và PC kết_nối Interrnet . 

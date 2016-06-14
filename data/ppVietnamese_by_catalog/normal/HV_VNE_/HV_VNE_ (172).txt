@@ -1,0 +1,11 @@
+Nhiều phần_mềm bảo_mật không tương_thích Windows 2000 
+Một_số ứng_dụng bên thứ ba đang vướng phải những vấn_đề khá nghiêm_trọng với bản nâng_cấp cuối_cùng Windows_2000_Update_Rollup của Microsoft phát_hành cuối tháng 6 . Khả_năng tương_thích ảnh_hưởng không_chỉ khách_hàng cài Rollup , mà_còn xảy_ra với những người tải phần_mềm nâng_cấp mang mã_số MS05-019 trong tháng 5 , được cung_cấp để xử_lý lỗ_hổng TCP / IP trong nhiều phiên_bản Windows . 
+Vấn_đề có mức_độ khá nghiêm_trọng bởi nó liên_quan đến nhiều phần_mềm bảo_mật , từ sản_phẩm của Sophos , Panda đến RealSecure và BlackICE ... 
+Cũng đã xuất_hiện thêm một_số trục_trặc giữa Rollup và chương_trình MetaFrame của Citrix_Systems . 
+Hiện_tượng diễn_ra phổ_biến là sau khi cài bản nâng_cấp , " phần_mềm bảo_mật ngừng hoạt_động , và nhiều ứng_dụng mở_rộng của chương_trình bị vô_hiệu_hoá " , RealSecure cho_biết 
+Gregg_Mastoras , chuyên_gia phân_tích của Sophos , khẳng_định sản_phẩm của hãng cũng gặp trục_trặc tương_tự và đang tự nghiên_cứu nhằm loại_bỏ vấn_đề cho người dùng trong vòng 2 tuần nữa . 
+" Chúng_tôi mới chỉ nhận được một đề_nghị hỗ_trợ từ phía Sophos . 
+Và chúng_tôi sẽ đưa ra miếng vá nhanh nhất nếu có_thể " , Peter_Houston , Giám_đốc chiến_lược dịch_vụ của Microsoft , trả_lời những thông_báo gửi đến hãng . 
+Windows_2000 vẫn đang là hệ_điều_hành thống_trị trong các công_ty , đặc_biệt là doanh_nghiệp vừa và nhỏ . 
+Microsoft đã tuyên_bố ngừng nâng_cấp cho cả máy khách và máy_chủ hoạt_động trên Windows_2000 từ 30/6 . 
+Ngay trước khi chấm_dứt hỗ_trợ , hãng phần_mềm tại Redmond , Washington này đã đưa ra Windows_2000 Update_Rollup gồm hơn 50 bản vá lỗi thay_thế cho kế_hoạch nâng_cấp Service_Pack 5 . 

@@ -1,0 +1,6 @@
+Đề_xuất phương_án đơn_giản_hoá việc " trói " thuê_bao trả trước 
+Theo đó , khách_hàng đăng_ký thuê_bao trả trước mới sẽ không phải đến cơ_sở của nhà cung_cấp dịch_vụ để khai_báo thông_tin mà khi kích_hoạt sim chỉ cần khai số CMND của mình và gửi về tổng_đài của nhà cung_cấp dịch_vụ . 
+Nhà cung_cấp dịch_vụ sẽ kiểm_tra thông_tin đó tại kho dữ_liệu của Bộ Công_an để xác_định tên , tuổi của khách_hàng . 
+Tuy_nhiên , đây cũng không hoàn_toàn là giải_pháp tốt trong trường_hợp khách_hàng không có chứng_minh_thư . 
+Các nhà cung_cấp dịch_vụ cho rằng biện_pháp " trói " thuê_bao trả trước sẽ không đáp_ứng được yêu_cầu đảm_bảo an_ninh mà trên thực_tế , thông_qua các biện_pháp kỹ_thuật , nhà cung_cấp vẫn có_thể xác_định được các thuê_bao có hành_vi vi_phạm pháp_luật . 
+Ngoài_ra , việc " trói " thuê_bao trả trước cũng sẽ ảnh_hưởng nghiêm_trọng tới mục_tiêu phát_triển 32 - 42 triệu thuê_bao điện_thoại ( cả di_động và cố_định ) vào năm 2010 . 

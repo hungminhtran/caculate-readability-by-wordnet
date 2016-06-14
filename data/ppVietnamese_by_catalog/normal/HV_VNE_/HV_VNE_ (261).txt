@@ -1,0 +1,9 @@
+Trojan đầu_tiên lợi_dụng Skype 
+Tội_phạm mạng đang tấn_công người sử_dụng máy_tính bằng một chương_trình nguy_hiểm mới , ẩn dưới hình_thức phiên_bản cập_nhật của ứng_dụng điện_thoại Internet phổ_biến Skype ra_mắt cuối tháng 9 . Biến_thể mới nhất của Trojan_IRCBot có khả_năng tự nhân_bản và lây_lan qua e-mail với 5 chủ_đề khác nhau như " Skype cho Windows_1.4 - Bạn đã có chương_trình mới chưa ? " . 
+Nội_dung thông_điệp quảng_cáo về ứng_dụng VoIP và khuyến_khích mọi người bấm vào tệp đính kèm . 
+Sau khi file được mở , IRCBot sẽ hiển_thị một thông_báo lỗi cài_đặt , chặn khả_năng truy_cập đến các trang cung_cấp công_cụ bảo_mật , và thiết_lập cổng hậu trên máy_tính . 
+Những e-mail này xuất_hiện với tốc_độ trung_bình . 
+Công_ty bảo_mật Mỹ_MessageLabs đã nhận được 150 e-mail từ ngày 16/10 . 
+IRCBot được coi là Trojan đầu_tiên dùng tên Skype làm " mồi nhử " . 
+Hacker luôn tìm_kiếm những chủ_đề mới_mẻ để dụ người sử_dụng tải mã nguy_hiểm . 
+Chúng cài Trojan trong những bức ảnh khiêu_dâm , phần_mềm bảo_mật , thông_điệp từ quản_trị hệ_thống , tin ảnh và thông_tin về các nhân_vật nổi_tiếng ... 

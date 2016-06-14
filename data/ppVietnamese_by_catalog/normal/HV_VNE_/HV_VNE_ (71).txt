@@ -1,0 +1,17 @@
+Lời cảnh_báo từ những vụ hack website 
+Tại địa_chỉ ( http : / / www . zoneh . org ) , nơi lưu_danh sách các website đã bị hack , riêng ngày 11/4 đã có 5 trang web Việt_Nam bị tấn_công bởi iSKORPiTX . 
+Một lần nữa , hồi chuông báo_động về vấn_đề bảo_mật lại được gióng lên . 
+Thông_tin trên zoneh . org cho_thấy , iSKORPiTX đang giữ vị_trí thứ 4 trong top 10 hacker thế_giới về tấn_công website với chiến_tích đã deface 316 trang . 
+Việc deface các trang web và thông_báo tại zoneh . org cho_thấy mục_đích của các hacker này là nhằm phô_trương chiến_tích . 
+Các website bị hack có_thể chỉ là những nạn_nhân vô_tình , bị tấn_công một_cách không chủ_đích . 
+Bởi nếu có ý_đồ cụ_thể thì những kẻ giấu mặt sẽ không deface mà âm_thầm khai_thác thông_tin có lợi cho mình . 
+Các nạn_nhân Việt_Nam của iSKORPiTX , trong đó , có cả site chính_phủ mang tên_miền .gov . vn , edu . vn , đều có một điểm chung là máy_chủ sử_dụng hệ_điều_hành Windows , website được phát_triển trên nền công_nghệ .NET ASP . 
+Quản_trị một website hacker VN nhận_định các trang web bị hack đều có nhiều lỗi bảo_mật . 
+Tại một_số site của chính_phủ , lỗi bảo_mật đã được các hacker " mũ trắng " thông_báo , nhưng sau một năm xem_lại thì lỗi vẫn còn đó . 
+Một trang web của Cần_Thơ , nạn_nhân của iSKORPiTX , trước đó cũng đã nhiều lần bị hack với cách_thức tương_tự nhưng vẫn không rút kinh_nghiệm để khắc_phục lỗi của website . 
+Những lỗi bảo_mật giúp iSKORPiTX có_thể khai_thác để tấn_công đã nhiều lần được thông_báo đến admin , nhưng vẫn không được khắc_phục cho đến khi trang web này bị hack và deface . 
+Theo thông_tin được thông_báo lại tại các diễn_đàn hacker Việt_Nam thì với một_số site của chính_phủ như www . ubtdtt . gov . vn , thuộc Uỷ_ban thể_dục thể_thao VN , máy_chủ cũng đang có lỗi bảo_mật nghiêm_trọng . 
+Anh Nguyễn_Hữu_Giáp , Giám_đốc công_ty bảo_mật Xfrog , giảng_viên về bảo_mật thông_tin Đại_học dân_lập Văn_Lang ( TP HCM ) , cho_biết : " Trong tình_huống này , cách xử_lý trước_mắt là nên tắt máy_chủ , kiểm_tra lại hệ_thống xem hacker có để lại back door ( chương_trình do hacker cài lại để khi xâm_nhập lần nữa dễ_dàng hơn ) hay trojan nào không . 
+Người quản_trị nên đọc lại log file ( nhật_ký máy ) để tìm ra cách_thức hacker xâm_nhập cũng như đã thao_tác trên hệ_thống " . 
+Theo anh Giáp , trường_hợp không chắc_chắn loại_bỏ hết các nguy_cơ bảo_mật mà hacker có_thể để lại thì tốt nhất nên cài_đặt lại hệ_thống vá các lỗi và thiết_lập nên công_cụ tăng_cường bảo_mật ... 
+Ngoài_ra , các website khác đang đặt cùng máy_chủ của website bị hack cũng cần cẩn_trọng trước nguy_cơ tấn_công và nên kiểm_tra để khắc_phục ngay các lỗi bảo . 

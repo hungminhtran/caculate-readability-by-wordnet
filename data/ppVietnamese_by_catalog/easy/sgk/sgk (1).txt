@@ -1,0 +1,4 @@
+Lắp xe cần_cẩu 
+Lắp xe cần_cẩu theo các bước : 
+Lắp các bộ_phận : giá đỡ cẩu ; cần_cẩu ; ròng_rọc ; dây tời ; trục bánh_xe . 
+Lắp_ráp các bộ_phận với nhau để được xe cần_cẩu hoàn_chỉnh . 

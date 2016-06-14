@@ -1,0 +1,21 @@
+Màn_hình thứ hai cho máy_tính xách tay 
+PortalPlayer đã giới_thiệu công_nghệ Preface vào những ngày cuối_cùng của tháng 1-2006 . 
+Có vai_trò như một " giao_diện luôn mở " cho_phép bạn truy_xuất vào dữ_liệu và ứng_dụng trong đĩa_cứng mà không cần phải thật_sự bật máy_tính . 
+Hiệu_quả sẽ là thời_gian làm_việc lâu hơn , tuổi_thọ pin cao hơn cho các máy_tính xách tay . 
+Nguyên_tắc hoạt_động giống như các APIs ( Application_Programing_Interfaces ) của Windows . 
+Preface cũng có bộ_vi_xử_lý , bộ_nhớ đệm và hệ_điều_hành riêng . 
+Chúng lưu trước một_số thông_tin vào bộ_nhớ đệm của mình và truy_cập vào hệ thông_tin đó , theo cách mà PortPlayer cho rằng sẽ tiết_kiệm điện_năng hơn so với việc phải mở và cho khởi_động máy_tính . 
+Hiện hệ_thống này sẽ được lắp vào cho các máy_tính xách tay ( theo nhu_cầu ) với giá khoảng 30-40 USD . 
+PortPlayer đang nghiên_cứu để có_thể hạ thấp giá_thành xuống còn 20 USD cho mỗi hệ_thống . 
+Công_nghệ trên đã được thử_nghiệm trên một_số máy_tính của hãng Quanta và Asustek . 
+Vấn_đề giá cả 
+Để có_thể giảm giá_thành sản_phẩm , Preface có_thể sẽ sử_dụng các màn_hình của điện_thoại_di_động , thay_vì phải phát_triển một công_nghệ và kiểu_dáng riêng . 
+Khi phát_triển một thiết_bị riêng thì giá cho mỗi màn_hình sẽ là 18-20 USD , thêm 12 USD cho một bộ_vi_xử_lý , cộng thêm một_vài USD cho hệ RAM và một_vài linh_kiện khác . 
+Thực_chất , Preface chính là một hệ máy con , sử_dụng một bộ_vi_xử_lý tiêu_thụ ít điện_năng , một màn_hình và một hệ điều_khiển có_thể giao_tiếp được với các máy_tính xách tay . 
+Hệ_thống này chỉ thực_hiện một_số tác_vụ rất đơn_thuần , chủ_yếu là truy_xuất dữ_liệu . 
+Bạn có_thể tưởng_tượng một chiếc điện_thoại_di_động có thêm một cái màn_hình thứ hai để tiện cho việc xem đồng_hồ hoặc xem chủ_nhân của các cuộc gọi . 
+Hiện_tại , nếu muốn truy_xuất vào một_số các dữ_liệu bên trong thì Preface cũng phải tạm_thời cho khởi_động máy và hoạt_động ở chế_độ ít tốn điện_năng nhất . 
+Chức_năng này cho_phép bạn tiết_kiệm được một_số thao_tác không cần_thiết như việc mở máy_tính lên khi mà chúng_ta chỉ cần kiểm_tra xem có một tập_tin nào trên máy_tính hay không . 
+Nói_chung , nó có giá_trị " làm cảnh " nhiều hơn là giá_trị thực_dụng . 
+Tuy_nhiên , giá_cả không phải là quá cao đối_với một đồ trang_sức . 
+PortPlayer hy_vọng các hệ máy xách tay sử_dụng hệ_thống Preface sẽ có_mặt trên thị_trường vào cuối quý hai năm 2006 . 

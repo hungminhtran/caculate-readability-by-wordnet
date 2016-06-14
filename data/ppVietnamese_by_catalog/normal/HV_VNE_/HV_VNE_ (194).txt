@@ -1,0 +1,11 @@
+Virus IM bắt_đầu tấn_công nhiều mạng 
+Số_lượng virus đe_doạ hệ_thống tin_nhắn nhanh ( IM ) đang tăng lên , tỷ_lệ_thuận với sự ra_đời một_số thủ_thuật tinh_vi mới , đặc_biệt là những chương_trình nguy_hiểm có khả_năng ảnh_hưởng tới nhiều hệ_thống khác nhau . 
+Trung_tâm bảo_mật Akonix tại San_Diego ( Mỹ ) cho_biết họ đã dò ra 42 biến_thể virus trong tháng 7 , tăng 24 % so với tháng trước đó . 
+Trong số này , đáng chú_ý là sự xuất_hiện của virus Rants , phản_ánh xu_hướng tấn_công đa_hệ thống IM hoàn_toàn mới . 
+Những virus tương_tự Rants đã bắt_đầu hoành trong tháng 4 nhưng ở những mạng độc_lập như chương_trình virus chỉ ảnh_hưởng đến hệ_thống AIM của AOL hoặc Yahoo_Messenger . Tuy_nhiên , tháng qua Akonix đã chứng_kiến một_vài phần_mềm mã_độc có khả_năng lây_lan qua nhiều mạng khác nhau . 
+" Những kẻ viết virus không còn tập_trung tấn_công một mạng duy_nhất nữa " , Jaros nói . 
+" Chúng đang mở_rộng số_lượng mục_tiêu tiềm_năng càng nhiều càng tốt " . 
+Virus IM ảnh_hưởng đến máy_tính khi người dùng mở kết_nối xuất_hiện trong thông_điệp . 
+Sau khi được kích_hoạt , chúng sẽ tự_động gửi tin_nhắn chứa mã_độc tới tất_cả mọi người trong danh_sách bạn_bè của nạn_nhân . 
+Virus cho mạng IM bắt_đầu xuất_hiện 18 tháng trước đây nhưng chỉ thực_sự hoạt_động hiệu_quả trong năm nay . 
+Chỉ riêng trong quý I/2005 , trung_tâm Akonix đã khám_phá ra 25 virus IM , so với 10 virus cùng kỳ năm_ngoái , và quý II/2005 đã tăng lên 121 biến_thể . 

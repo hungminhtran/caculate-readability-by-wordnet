@@ -1,0 +1,11 @@
+Bố làm virus máy_tính vì con ? 
+Hãng bảo_mật Sophos vừa phát_hiện 2 biến_thể sâu phát_tán e-mail số_lượng lớn Mirsa . A và B . 
+Chúng giả_dạng là các thông_điệp ủng_hộ phong_trào Những người cha đòi công_lý ( Fathers_for_Justice ) . 
+Cặp virus Mirsa xuất_hiện trong những file đính kèm e-mail . 
+Biến_thể A giả_vờ là một bản sơ_yếu lý_lịch xin việc còn virus B sử_dụng những dòng chủ_đề như " How_NOT_to_get_Promotion " ( Làm thế_nào để KHÔNG được thăng_tiến ) , " Memorandom to all staff " ( Thông_báo cho tất_cả nhân_viên ) , " Urgent_Document " ( Công_văn khẩn ) , " Extremely_Important " ( Vô_cùng quan_trọng ) hay " Private_and_personal " ( Tài_liệu riêng_tư ) . 
+Nếu phần attachment được mở ra , virus sẽ gửi bản_sao tới tất_cả địa_chỉ mà nó phát_hiện trong Windows_Address_Book , lây_nhiễm vào các file trên ổ_cứng và thả một đoạn text vào văn_bản trên máy_tính ( tất_cả đều liên_quan đến phong_trào Fathers_for_Justice ) . 
+Fathers for Justice là một chiến_dịch đấu_tranh với nhiều mục_tiêu xã_hội , trong đó có việc đòi quyền công_bằng giữa người cha và người mẹ trong chăm_sóc con_cái , nhất_là trường_hợp ly_hôn . 
+Phong_trào này khởi_phát ở Anh và đã lan ra nhiều nơi khác trên thế_giới với những hành_động biểu_tình giật_gân của các thành_viên như trèo lên tường của điện Buckingham ( Anh ) trong trang_phục nhân_vật Người dơi ( Batman ) . 
+Có_vẻ như các ông bố đòi công_lý đã chán trèo lên những nơi nổi_tiếng để gây thanh_thế mà bắt_đầu chấp_nhận cả hành_động viết virus như thế này , chuyên_gia Graham_Cluley của Sophos bình_luận . 
+Đây chỉ là một trong rất nhiều những phiên_bản virus đã và sẽ phát đi các thông_điệp chính trị-xã hội . 
+Số bản_sao của Mirsa phát_tán chưa nhiều nhưng người sử_dụng máy_tính vẫn được khuyến_cáo nên kiểm_tra nâng_cấp phần_mềm diệt virus . 

@@ -1,0 +1,9 @@
+Fontal . A biến điện_thoại trở_nên vô_dụng 
+Loại_Trojan mà hãng bảo_mật F-Secure ( Phần_Lan ) vừa phát_hiện và công_bố có khả_năng làm tê_liệt các loại điện_thoại thông_minh Nokia_Series 60 dùng hệ_điều_hành Symbian . 
+Khác với những chương_trình tấn_công điện_thoại được phát_hiện gần đây như Co_mmWarrior , Fontal . A không phát_tán qua kết_nối Bluetooth hay tiện_ích nhắn tin đa_phương_tiện MMS . Thay vào đó , nó sử_dụng con đường chia_sẻ file và chat Internet ( IRC ) . 
+Fontal . A tìm cách cài một file lỗi có tên " Kill_Saddam_By_OID500.sis " vào điện_thoại mục_tiêu . 
+Trong lần khởi_động tiếp_theo , máy sẽ bị treo và không_thể dùng được trừ khi Trojan được loại_bỏ . 
+Chương_trình tấn_công này còn phá_hoại công_cụ quản_lý ứng_dụng , ngăn_cản việc cài_đặt phần_mềm mới đồng_thời tự bảo_vệ bản_thân nó để không bị gỡ bỏ ( uninstall ) . 
+Theo F-Secure , cách duy_nhất để xử_lý chương_trình này là format lại máy . 
+Tuy_nhiên , làm như vậy có_thể mất hết dữ_liệu lưu trên thiết_bị . 
+Hãng phần_mềm an_ninh khuyến_cáo cách tốt nhất để tránh Fontal . A là đừng tải bất_cứ file nào có nguồn_gốc không rõ_ràng . 

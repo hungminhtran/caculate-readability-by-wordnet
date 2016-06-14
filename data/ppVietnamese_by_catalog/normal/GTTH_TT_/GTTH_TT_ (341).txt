@@ -1,0 +1,13 @@
+Các thiết_bị USB không dây sẽ có_mặt vào tháng 9-2006 
+Các thiết_bị USB không dây sẽ giúp cho người dùng kết_nối chúng đồng_bộ_hoá với tất_cả những thiết_bị có hỗ_trợ kết_nối không dây khác như máy_tính , máy_in , camera kỹ_thuật số , các đĩa_cứng gắn ngoài v . v Công_nghệ " Wireless USB " này sẽ đạt tốc_độ truyền_dẫn dữ_liệu vào khoảng 480 megabit / giây , tức tương_đương tốc_độ của chuẩn USB_2.0 có dây hiện_nay . 
+Một " yêu_cầu nhỏ " đặt ra là các thiết_bị như máy_tính hoặc các thiết_bị khác cũng phải được trang_bị các chip phát sóng_radio tương_tự như công_nghệ không dây của Wireless_USB . 
+Ravencraft đã trả_lời báo_giới trong một cuộc phỏng_vấn tại Diễn_đàn các nhà phát_triển của Intel được tổ_chức vào ngày 6-3 rằng các thiết_bị USB không dây đầu_tiên sẽ tương_thích trước_tiên với các loại đĩa_cứng gắn ngoài , camera và máy_in . 
+Ravencraft cho_biết chuẩn kết_nối USB hiện_nay đã có_mặt trên gần 130 dạng thiết_bị , mà phổ_biến nhất trong số đó là các camera kỹ_thuật số , máy_quét , ĐTDĐ , PDA , đầu ghi DVD và rất nhiều thiết_bị khác liên_quan đến máy_tính hoặc có khả_năng kết_nối với máy_tính . 
+Các thiết_bị USB không dây trong tương_lai sẽ sử_dụng công_nghệ kết_nối không dây siêu băng_thông rộng ( UWB ) , tức gần với công_nghệ kết_nối băng_thông rộng 802.11g với tần_số sóng 2,4GHz hiện_nay , nhưng tần_số phát của UWB sẽ từ 3,1GHz đến những 10,6 GHz . 
+Các tín_hiệu phát_sóng của UWB sẽ đủ thấp để không ảnh_hưởng đến các công_nghệ truyền_thông sử_dụng sóng_radio khác . 
+Một dạng mạng không dây hiện vô_cùng phổ_biến hiện_tại tức_là mạng Wi-Fi , cũng được xây_dựng trên nền công_nghệ 802.11 . 
+Nikon và Canon cũng đã chế_tạo ra một_số camera kỹ_thuật số đầu_tiên có khả_năng kết_nối Wi-Fi , nhưng công_nghệ USB không dây sẽ là dạng công_nghệ hoàn_toàn khác so với công_nghệ Wi-Fi hiện_nay . 
+Các thiết_bị USB không dây đầu_tiên sẽ đạt tốc_độ truyền dữ_liệu vào khoảng 480 megabit / giây với máy_tính ở khoảng_cách hiệu_quả vào khoảng 3 mét . 
+Khoảng_cách xa tối_đa mà USB không dây có_thể kết_nối với máy_tính là vào khoảng 10 mét , nhưng tốc_độ truyền dữ_liệu sẽ giảm xuống chỉ còn 110 megabit / giây . 
+Tuy_nhiên các công_nghệ USB không dây của tương_lai sẽ đạt tốc_độ đến những 1 gigabit / giây hoặc cao hơn . 
+Mức_độ hữu_dụng của công_nghệ UWB không_những chỉ đến với USB không dây , mà nó còn có khả_năng đồng_bộ_hoá với các kết_nối như Bluetooth , Firewire_IEEE_1394 , WiNet … 

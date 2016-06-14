@@ -1,0 +1,10 @@
+Virus_Wurmark tiếp_tục các tác_phẩm kinh_dị 
+Hãng bảo_mật Anh Sophos cảnh_báo phiên_bản mới phát_tán qua e-mail , hiển_thị hình_ảnh một con đười_ươi bạch_tạng với nụ_cười cực_kỳ quyến_rũ . 
+Virus nằm trong file đính kèm dạng .zip và có_thể ăn_cắp thông_tin người sử_dụng . 
+Hình_ảnh đười_ươi do virus Wurmark . K tạo ra . 
+Nếu phần attachment trong e-mail được mở ra , Wurmark . K sẽ thực_thi một_số file bên trong có tên như Sexy-02.scr , Admirer-005.scr , Photo-01.pif , Lover-01.scr và Just-For-You . pif . 
+Cùng với quá_trình hiển_thị hình_ảnh đười_ươi , virus sẽ cài_đặt một sâu mạng có tên Rbot . ABK và một Trojan cổng hậu . 
+Sâu_Rbot . ABK cho_phép hacker xâm_nhập máy_tính nạn_nhân để khai_thác thông_tin hoặc cài_đặt mã tấn_công tuỳ_thích . 
+Cái giá cho việc thưởng_thức nụ_cười của con khỉ_đột sẽ là việc người sử_dụng máy_tính chuyển_giao vào tay tin_tặc những thông_tin giúp chúng khống_chế PC từ xa , Graham_Cluley , cố_vấn công_nghệ của Sophos , phát_biểu . 
+Chuyên_gia này cho rằng Wurmark . K và Rbot . ABK là những bằng_chứng cho_thấy xu_hướng ngày_càng gia_tăng các phần_mềm do_thám trên những hệ_thống kém bảo_vệ , cả ở gia_đình và doanh_nghiệp . 
+Phiên_bản Wurmark . F trước đây sử_dụng hình_ảnh mặt một người đàn_ông cũngcực kỳ dị_hợm . 

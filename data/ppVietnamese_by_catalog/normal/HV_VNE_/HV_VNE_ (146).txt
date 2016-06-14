@@ -1,0 +1,9 @@
+Virus lại mượn danh bản tin an_ninh của Microsoft 
+Cuối ngày 28/7 , một đợt tấn_công spam mới của Trojan lại xuất_hiện , giả_dạng chương_trình vá lỗi của Microsoft , kèm theo liên_kết tải phần_mềm nguy_hiểm , tạo cơ_hội cho kẻ tấn_công tiếp_cận và thâm_nhập máy_tính . 
+Thư rác này tự nhận là Bản tin an_ninh MS05-39 của Microsoft và đưa ra đường dẫn yêu_cầu người dùng cài phần_mềm vá lỗ_hổng liên_quan đến sâu Sober_Zafi và Mytob . Thực_tế , Microsoft chưa bao_giờ ra_mắt bản tin MS05-039 , và hãng cũng chỉ cung_cấp đường link tới thẳng trang tải phần_mềm của mình , hơn là tự đưa ra chương_trình sửa lỗi trực_tiếp . 
+Theo bản báo_cáo mới_đây của hãng tìm_kiếm bảo_mật WebSense , bản vá lỗi giả_danh này thực_chất là một biến_thể của Trojan_SDBot , trước đó vẫn chưa có phần_mềm diệt virus nào tìm ra . 
+Nguy_cơ lây_lan của Trojan_SDBot không cao do máy_chủ hỗ_trợ việc tải chương_trình dường_như không còn hoạt_động . 
+Server này thuê host của dịch_vụ Internet_ThePlanet . comđã vượt quá dung_lượng được phép . 
+" Trường_hợp cụ_thể này không phải là một vấn_đề lớn , tuy_nhiên , đây là một sự_kiện khá thú_vị " , hãng F-Secure cho_biết . 
+" Không có gì phải ngạc_nhiên khi sẽ còn nhiều vụ như thế này xuất_hiện trong thời_gian tới " . 
+Sâu_Swen , xuất_hiện năm 2003 , cũng đã sử_dụng thủ_thuật tương_tự . 

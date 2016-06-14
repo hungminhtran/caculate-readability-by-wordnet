@@ -1,0 +1,15 @@
+Tập kẻ kiểu chữ in hoa nét thanh nét đậm 
+Khoảng_cách giữa các con chữ trong một tiếng không bằng nhau mà phụ_thuộc vào hình_dáng bề_ngoài của những con chữ khi đứng cạnh nhau . 
+Ví_dụ : 
+Một_số con chữ khi đứng cạnh nhau có khoảng_cách hẹp hơn như những con chữ : O , C , G , Q , A , V , T , Y , ... 
+Một_số con chữ khi đứng cạnh nhau có khoảng_cách rộng hơn như những con chữ : H , N , M , U , ... 
+Khoảng_cách giữa các tiếng rộng hơn khoảng_cách giữa các con chữ . 
+Dòng chữ đẹp là dòng chữ được kẻ đúng kiểu chữ , có khuôn_khổ chữ và các khoảng_cách hợp_lý ( H . 1 , 2 ) . 
+Dòng chữ thường được kẻ bằng một màu . 
+Chọn nội_dung dòng chữ . 
+Ví_dụ : QUÊ_HƯƠNG , ANH_HÙNG , ... 
+Xác_định chiều cao , chiều dài của dòng chữ cho phù_hợp với khổ giấy , kẻ hai đường_thẳng song_song . 
+Tìm khuôn_khổ chữ và khoảng_cách giữa các con chữ , các tiếng cho phù_hợp . 
+Phác hình chữ và kẻ nét thanh , nét đậm . 
+Hoàn_chỉnh dòng chữ . 
+Có_thể vẽ màu chữ và nền cho rõ và đẹp . 

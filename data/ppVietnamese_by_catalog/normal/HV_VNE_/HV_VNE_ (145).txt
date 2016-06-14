@@ -1,0 +1,9 @@
+Hacker bẻ khoá phần_mềm mới của Google 
+Một ngày sau khi Google cung_cấp dịch_vụ Video_Viewer , Jon_Johansen , hacker nổi_tiếng người Na-Uy ( có biệt_danh là DVD_Jon ) đã lập_tức thay_đổi ứng_dụng này để chương_trình có_thể phát video không cần qua máy_chủ của Google . 
+Google giới_thiệu công_cụ Video_Viewer hoạt_động trên ứng_dụng VLC nguồn mở ngày 27/6 . 
+Đây là dịch_vụ tìm_kiếm video qua web , cho_phép mọi người chỉ cần sử_dụng từ_khoá để " lục_lọi " video trong cơ_sở_dữ_liệu của nhiều nhà cung_cấp trực_tuyến . 
+Google_Video_Viewer . Hãng dịch_vụ trực_tuyến này đã cài mã để Video_Viewer - dung_lượng 1 MB và vẫn đang trong giai_đoạn thử_nghiệm - chỉ phát những file lưu trên máy_chủ Google qua trình_duyệt Internet_Explorer và Firefox . 
+Tuy_nhiên , Jon_Johansen , còn có biệt_danh DVD_Jon , đã tung phần_mềm bẻ khoá lên trang web " So_Sue_Me " của mình , cho_biết anh ta chỉ cần một ngày để " ra_lệnh " công_cụ của Google phát video trên bất_cứ server nào . 
+Johansen , 21 tuổi , đã nổi_tiếng từ vài năm trước khi công_bố phần_mềm DeCSS phá mã chống sao_chép trên DVD . Hacker này cũng được biết đến khi thay_đổi mã trong phần_mềm âm_nhạc iTunes của hãng máy_tính Apple . 
+Ngày hôm_qua Google đã xác_nhận những chỉnh_sửa của Johansen trên Video_Viewer . Hãng cũng lưu_ý rằng mã Johansen lấy được không phải qua hack bởi đây là nguồn mở , và không đủ mạnh để khống_chế hệ_thống của Google . 
+Google khuyến_cáo mọi người không nên cài phần_mềm của Johansen vì " nó có_thể tạo ra những lỗ_hổng bảo_mật trên máy_tính và phá_vỡ khả_năng truy_cập Google_Video_Viewer của PC " , phát_ngôn_viên của hãng cho_biết . 

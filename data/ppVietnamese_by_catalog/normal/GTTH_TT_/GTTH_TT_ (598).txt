@@ -1,0 +1,12 @@
+Mã nguồn tạo trojan nguy_hiểm đang được rao_bán ! 
+PandaLabs cho_biết rằng Trj / Briz . A là một dạng trojan hết_sức nguy_hiểm vì nó có khả_năng thu_thập mọi dữ_liệu của các cuộc giao_dịch tài_chính - ngân_hàng trực_tuyến cũng như các dữ_liệu khác từ các website . 
+PandaLabs cũng khẳng_định con Trj / Briz . A là " tác_phẩm " khá hoàn_hảo của một " doanh_nghiệp " xã_hội_đen nào đó chuyên kiếm tiền trên mạng . 
+Từ bản mã nguồn này , các hacker cao_tay có_thể chế_biến ra thêm nhiều biến_thể trojan nguy_hiểm khác đủ sức xâm_nhập mọi máy_tính và âm_thầm gửi về cho chủ_nhân của nó đầy_đủ mọi dữ_liệu như địa_chỉ IP , username , password v . v Những dữ_liệu nhạy_cảm này sẽ cho_phép hacker chiếm_đoạt hoàn_toàn máy_tính bị lây_nhiễm từ xa . 
+File có chứa trojan Trj / Briz . A thường có tên " iexplore . exe " , làm cho người dùng lầm_tưởng rằng đây là một file đời_mới có liên_quan hoặc dùng để kích_hoạt trình_duyệt Internet_Explorer . 
+Khi kích_hoạt file này thì nó sẽ lập_tức tải về máy_tính hàng_loạt file mã_độc khác và vô_hiệu_hoá ngay_lập_tức các tính_năng của Windows_Security_Center và Shared_Internet_Access . 
+Sau đó nó sẽ thu_thập các dữ_liệu của các trình quản_lý e-mail như Outlook , Eudora , The_Bat_… để gửi về cho kẻ tấn_công . 
+Ngoài_ra nó cũng ngăn hoàn_toàn đường truy_cập vào các website bảo_mật thông_dụng hiện_nay . 
+Những người dùng bình_thường hầu_như không có khả_năng xoá nó đi khỏi máy_tính . 
+Luis_Corrons , chủ_tịch của PandaLabs nhận_định rằng thời_đại của những hacker tạo mã_độc với mục_đích vui đùa hoặc khẳng_định mình đã hoàn_toàn qua hẳn . 
+Các dạng mã_độc cỡ như trojan Trj / Briz . A_hoàn_toàn được thực_hiện theo các đơn đặt_hàng hẳn_hoi với mục_đích tấn_công lừa_đảo tài_chính . 
+Khi đã " hoàn vốn " và " có lời " chủ_nhân của các loại mã_độc này sẽ bán đi cho những băng_nhóm lừa_đảo khác có nhu_cầu sử_dụng để lấy tiền " tái_đầu_tư " vào các thế_hệ mã_độc mới nguy_hiểm hơn . 

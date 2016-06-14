@@ -1,0 +1,11 @@
+Mỹ vẫn là nước ' chứa_chấp ' các chuyên_gia spam 
+Dù quốc_gia này đã ban_hành luật và kết_án tù hàng_loạt những kẻ chuyên phát_tán thư rác , 26 % các vụ spam trên toàn thế_giới vẫn xuất_phát từ đây . 
+" Tuy là nước đứng đầu , con_số này đã giảm đáng_kể so với năm_ngoái ( 42 % ) . 
+Rõ_ràng , lực_lượng chống spam , giới chức_trách cũng như các nhà cung_cấp dịch_vụ Internet ở Bắc_Mỹ đang hoạt_động hiệu_quả để từng bước giảm lượng thư rác trong năm nay " , Graham_Cluley , cố_vấn bảo_mật của Sophos , khẳng_định . 
+Trong khi Mỹ chứng_kiến nhiều dấu_hiệu khả_quan thì việc sử_dụng băng_thông rộng ngày_càng cao ở Hàn_Quốc và Trung_Quốc đã biến hai nước trở_thành nguồn khai_thác hấp_dẫn của tội_phạm mạng . 
+Tỷ lên spam ở Hàn_Quốc hiện_nay là 20 % ( 12 % năm 2004 ) còn quốc_gia đông dân nhất thế_giới cũng tăng từ 9 % lên 16 % . 
+Tổng_số thư rác được gửi đi trên toàn thế_giới không có nhiều thay_đổi so với năm_ngoái . 
+Những kẻ phát_tán thường sử_dụng phần_mềm nguy_hiểm với mục_đích giành quyền kiểm_soát máy_tính , liên_kết chúng thành mạng zombieđể gửi đi hàng_loạt thông_điệp từ những hệ_thống này , hoặc phục_vụ cho những toan_tính về sau . 
+Băng_thông rộng kết_hợp với việc sử_dụng những phiên_bản hệ_điều_hành Windows cũ là nguyên_nhân chính dẫn đến tình_trạng ngập_lụt thư rác . 
+Hành_động pháp_lý và những tính_năng bảo_mật cải_tiến của Windows_XP_Service_Pack 2 đã làm nản_lòng nhiều kẻ chuyên spam , nhưng cách giải_quyết hiệu_quả nhất là nhà cung_cấp dịch_vụ mạng cần ngăn người sử_dụng thiết_lập server qua " cổng Internet 25 " - vốn được dùng để xác_nhận hệ_thống của chính họ như là những máy_chủ e-mail . 
+Tuy_nhiên , hầu_hết các ISP tỏ_ra lưỡng_lự trong việc chặn cổng 25 , lý_do cơ_bản là quá_trình này tương_đối mất thời_gian và đắt_đỏ . 

@@ -1,0 +1,9 @@
+Ngân_hàng New_Zealand ' cấm_cửa ' khách_hàng vì spyware 
+Nhiều tổ_chức tài_chính lớn tại quốc_gia này đã phải phong_toả khả_năng truy_cập vào hệ_thống giao_dịch trực_tuyến của hàng trăm khách_hàng vì phát_hiện máy_tính của các thượng đế này bị nhiễm các phần_mềm do_thám . 
+Ngân_hàng Westpac sau khi phát_hiện 1.400 người sử_dụng dịch_vụ có máy_tính bị nhiễm spyware đã cùng 3 tổ_chức khác trong đó có Ngân_hàng trung_ương New_Zealand thông_báo cho khách_hàng rằng họ sẽ không_thể thực_hiện bất_cứ giao_dịch nào cho tới khi PC được làm vệ_sinh . 
+Hiện có 1,4 triệu trên tổng_số 4 triệu dân New_Zealand đăng_ký dùng dịch_vụ ngân_hàng trực_tuyến . 
+Loại spyware gây ra tình_hình này , do một công_ty Mỹ có tên Marketscore tạo ra , lây_nhiễm vào PC khi người sử_dụng truy_nhập một_số website nhất_định . 
+Hiện chưa có trường_hợp lừa_đảo nào được phát_hiện nhưng các ngân_hàng liên_quan rất lo_sợ về tác_động của nó đối_với các giao_dịch bảo_mật qua mạng khi khách_hàng khai_báo tên đăng_nhập và password . 
+Paul_Gregory , phát_ngôn_viên của Westpac , cho_biết spyware nói trên giả_dạng là một phần trong quy_trình giao_dịch bảo_mật và ghi_chép lại mọi thông_tin khách_hàng đăng_nhập . 
+Ông này nhấn_mạnh đây là một phần_mềm rất thông_minh . 
+Marketscore là công_ty cung_cấp những phần_mềm miễn_phí trên website , trong đó có một_số chương_trình mà họ giới_thiệu là tăng tốc_độ truy_cập Internet nhưng trên thực_tế cũng đồng_thời tải các phần_mềm thu_thập thông_tin về hoạt_động trực_tuyến của người sử_dụng để rồi bán lại cho các công_ty quảng_cáo . 

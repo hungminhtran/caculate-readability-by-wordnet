@@ -1,0 +1,25 @@
+Bảo_mật tháng 9 : Người sử_dụng ' nhờn ' mọi cảnh_báo 
+Đã 19 tháng kể từ khi virusNetsky . P , thành_quả của cậu thiếu_niên người Đức S . Jaschan , bị phát_hiện , sâu này vẫn tiếp_tục dẫn_đầu danh_sách 10 virus nguy_hiểm nhất tháng qua mà hãng bảo_mật Anh_Sophos vừa công_bố . 
+Hơn thế , Sophos cũng bày_tỏ lo_ngại về tính " trơ lỳ " của virus bởi trung_bình , thời_gian ngự_trị trên bảng xếp hạng của chúng kéo tài tới 8 tháng . 
+Thực_tế này cho_thấy nhiều người vẫn hài_lòng với phần_mềm bảo_vệ lạc_hậu và lỏng_lẻo của mình . 
+Netsky . Plần thứ 3củng cố ngôi vô_địch khi tăng số lần xuất_hiện từ 14,7 % lên 18,6 % . 
+Việc chương_trình của Jaschan tiếp_tục thống_lĩnh đã cho_thấy mức_độ bảo_mật đang được triển_khai tại doanh_nghiệp và gia_đình là không_thể chấp_nhận được , Carole_Theriault , cố_vấn an_ninh của Sophos , nhận_xét . 
+Cả hai đối_tượng này có tới một năm rưỡi để nâng_cấp phần_mềm , nhưng dường_như chẳng ai để_mắt tới . 
+Đã đến lúc cần tiến_hành nhiều biện_pháp tuyên_truyền hơn để người dùng tránh gây hậu_quả cho chính mình và doanh_nghiệp chỉ vì thái_độ coi_thường như thế . 
+79 % chuyên_gia công_nghệ thông_tin tham_gia vào một điều_tra gần đây của Sophos cũng đồng_ý rằng nhân_viên đang gián_tiếp đe_doạ tổ_chức khi không thực_hiện những quy_định về lướt web an_toàn . 
+Không_chỉ đảm_bảo chương_trình chống virus , spyware và spam luôn cập_nhật , mà các nhà quản_trị mạng cũng nên đề ra những chính_sách nghiêm_ngặt , ngăn_cấm nhân_viên gây hại cho hệ_thống , Theriault nói thêm . 
+Zafi . Dvà_Netsky . Dcũng chứng_tỏ mối nguy_hiểm lớn khi đứng hàng số 4 và 5 . Toàn_bộ 7 vị_trí còn_lại là họ_hàng nhà Mytob - loại sâu đã bắt_đầu chen_chân vào bảng xếp hạng top 10 virus của Sophos từ tháng 3/2005 . 
+Theo chuyên_gia Theriault , bên cạnh những virus ra_đời vì mục_đích kiếm tiền mà các chuyên_gia đã cảnh_báo thời_gian qua , vẫn còn một_vài loại phát_tán nhanh và rộng qua e-mail chỉ để có thứ_hạng cao trong các bảng_tổng_sắp . 
+Dấu_hiệu khả_quan nhất 30 ngày qua là số e-mail nhiễm virus đã giảm đáng_kể . 
+Trung_bình cứ 65 thư_điện_tử lưu_thông trong tháng 9 mới có 1 bị nhiễm virus , tương_ứng với tỷ_lệ 1,53 % . 
+Sophos thống_kê được tất_cả 1.233 virus mới trong tháng 9 . 10 virus nguy_hiểm nhất tháng 9 ( trong ngoặc là tỷ_lệ thông_báo mà Sophos nhận được ) : 
+1 . Netsky . P ( 18,6 % )2 . 
+Mytob . BE ( 7,6 % )3 . 
+Mytob . AS ( 6,8 % )4 . 
+Zafi . D ( 4,3 % ) 5 . Netsky . D ( 3,3 % )6 . 
+Mytob . CX ( 2,8 % )7 . 
+Mytob . EP ( 2,7 % )8 . 
+Mytob . CJ ( 2,6 % )9 . 
+Mytob . C ( 2,5 % )10 . 
+Mytob . CN ( 2,0 % ) 
+Các loại khác : 46,8 % 

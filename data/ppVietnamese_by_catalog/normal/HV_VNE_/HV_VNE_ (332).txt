@@ -1,0 +1,9 @@
+Lỗi nghiêm_trọng trong phần_mềm bảo_mật của Symantec 
+Kẻ tấn_công từ xa có_thể giành quyền kiểm_soát toàn_bộ hệ_thống máy_tính đã được bảo_vệ bởi chương_trình chống virus của hãng bảo_mật Mỹ mà không cần bất_cứ sự tương_tác nào từ phía người sử_dụng . 
+Để thực_hiện âm_mưu , kẻ tấn_công gửi một lượng lớn dữ_liệu với mục_đích làm quá_tải vùng lưu_trữ đặc_biệt trong bộ_nhớ ( heap ) . 
+Thủ_thuật này tương_tự như phương_pháp làm tràn bộ đệm , cho_phép kẻ chủ_mưu ghi chèn dữ_liệu lên bộ_nhớ hệ_thống để chạy mã nguy_hiểm . 
+Chuyên_gia nghiên_cứu độc_lập Alex_Wheeler cho_biết nguy_cơ xảy_ra khi phần_mềm Symantec quét file RAR , định_dạng được sử_dụng để lưu những tệp âm_thanh và video lớn , trong e-mail để dò_virus và sâu . 
+Hệ_thống sẽ bị tấn_công ngay_cả khi người dùng không mở thông_điệp hay bấm vào file đính kèm . 
+Wheeler khuyến_nghị mọi người tắt tính_năng quét tệp RAR cho đến khi Symantec cung_cấp bản vá lỗi . 
+Symantec cho_biết họ sẽ nâng_cấp Antivirus_Software_Library để sửa lỗ_hổng này , đồng_thời khẳng_định chưa ghi_nhận trường_hợp bị khai_thác nào . 
+Chi_tiết về bản cập_nhật được đăng tại đây . 

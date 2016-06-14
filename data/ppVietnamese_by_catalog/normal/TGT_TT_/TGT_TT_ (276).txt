@@ -1,0 +1,18 @@
+Anh sinh_viên &amp ; chàng robot " ma_trận " 
+Luân kể : hồi SV năm 2 , một lần xem tivi thấy robot chuyển vật_dụng cứ ám_ảnh lấy Luân . Hỏi ra mới biết giá_thành lên tới gần cả tỷ đồng . 
+Luân âm_thầm nuôi quyết_tâm " mình cũng có_thể chế_tạo những con robot đơn_giản với giá rẻ hơn nhiều và làm_việc hiệu_quả không kém " . 
+Thế rồi phải mất cả năm trời mày_mò sách_vở , lội chợ Nhật_Tảo ( Q. 10 ) tìm_kiếm linh_kiện điện_tử , " robot chuyển hàng di_chuyển theo ma_trận " cũng ra_lò . 
+Các giải_pháp tiết_kiệm cho robot do Luân chế_tạo tập_trung ở ba điểm . 
+Luân đã tự chế_tạo một loại đầu dò vạch tự_động ADC , có tính thông_minh và tin_cậy , nhưng giá_thành lại rất thấp so với bộ dò tích_hợp nhập_khẩu ( giá phần_cứng của một cảm_biến dùng cho công_trình này chỉ 1 USD so với giá gần 100 USD của hàng nhập_khẩu ) . 
+Hầu_hết các robot cùng loại do nước_ngoài chế_tạo có bộ_xử_lý tín_hiệu và điều_khiển bằng PET , robot của Luân dùng vi điều_khiển AT89C51 có_thể linh_hoạt áp_dụng để vận_chuyển nhiều loại hàng_hoá khác nhau . 
+Tại hội_nghị nghiên_cứu khoa_học SV ĐH bán_công Tôn_Đức_Thắng lần 4 vừa_qua , đề_tài " Thiết_kế và thi_công robot chuyển hàng di_chuyển theo ma_trận " của Đào_Trung_Luân đã được trao giải A . 
+Cũng với đề_tài này , Luân vừa bảo_vệ thành_công luận_án tốt_nghiệp ĐH của mình và kiếm được đầy_đủ sáu điểm 10 của hội_đồng ; đồng_thời bước_đầu đề_tài được một công_ty tự_động_hoá chú_ý , đặt_hàng . 
+Đây là robot thông_minh và dễ_tính . 
+Giao_tiếp với người sử_dụng rất thân_thiện qua màn_hình LCD , hiển_thị hướng_dẫn , trạng_thái robot khá rõ_ràng , nhập lệnh bằng phím dễ_dàng . 
+Nhận lệnh bằng bàn_phím 4X4 nên công_nhân không rành máy_móc cao_siêu cũng thao_tác dễ_dàng . 
+Trong quá_trình di_chuyển gặp vật cản robot sẽ dừng lại và báo_động , sau khi báo_động mà chẳng ăn_thua , robot lùi lại tìm đường đi khác . 
+Khi không thực_hiện được lệnh , báo_động đàng_hoàng . 
+Chú robot này có_thể hoán_cải dùng cho rất nhiều công_việc khác nhau , nặng thì có_thể bốc , chuyển gạch , hàng_hoá to cồng_kềnh ; nhẹ_nhàng thì có_thể gắp một chiếc đĩa CD ngon_lành . 
+Tưởng_tượng một cửa_hàng có 65.000 đĩa CD , nhân_viên chỉ cần nhập lệnh tên hay vị_trí của đĩa là cánh_tay thông_minh tự đi tới ngăn chứa lấy mang về . 
+Một giá_trị cộng thêm của robot nữa là có_thể di_chuyển dễ_dàng trong điều_kiện nhà_xưởng nhỏ , sàn mấp_mô rất phổ_biến ở nhà_xưởng VN . Đào_Trung_Luân tự_tin : " Với nguyên_lý của robot này , VN hoàn_toàn có_thể sản_xuất những robot chuyển hàng tự_động với giá_cả thấp hơn rất nhiều robot nhập_ngoại . 
+Robot chuyển gạch ( nhập_ngoại ) ở VN hiện_nay trị_giá khoảng 700 triệu đồng , nhưng hàng VN chất_lượng tương_đương chỉ khoảng 300 triệu và sẽ còn rẻ hơn nếu sản_xuất hàng_loạt " . 

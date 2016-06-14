@@ -1,0 +1,7 @@
+Lỗi bảo_mật trong Internet_Explorer 7 beta2 
+Đây là một dạng lỗi bảo_mật có_thể làm cho trình_duyệt Internet_Explorer_7 bị " sập " ngay trong quá_trình đọc các file HTML đặc_biệt , được thiết_kế chuyên dùng để tấn_công vào Windows . 
+Ferris đã thử_nghiệm Internet_Explorer_7 beta 2 bằng các file và công_cụ đặc_biệt , chuyên dùng để thử_nghiệm độ bảo_mật của Windows và Internet_Explorer , và thật đáng tiếc là Internet_Explorer_7.0 đã không qua được " ải " đầu_tiên . 
+Ngoài_ra lỗi này còn tạo điều_kiện cho kẻ tấn_công tung một_số mã_độc vào hệ_thống của người dùng . 
+Ferris cho_biết rằng đây là một dạng lỗi hoàn_toàn mới mà anh chưa từng gặp trong các trình_duyệt trước đây . 
+Hiện Microsoft chưa đưa ra bất_kỳ lời bình_luận gì về phát_hiện của Ferris , nhưng nữ_phát ngôn_viên của Microsoft cho_biết công_ty hiện đang tích_cực điều_tra về lỗi bảo_mật này . 
+Bạn_đọc quan_tâm có_thể vào đây để tìm_hiểu kỹ về phát_hiện của Tom_Ferris . 

@@ -1,0 +1,15 @@
+Dồn đĩa_cứng hiệu_quả với Perfect_Disk 
+Tuy_nhiên , những_ai đã từng sử_dụng công_cụ dồn đĩa Perfect_Disk của Raxco_Software sẽ nhận ra rằng Disk_Defragmenter của Windows là không đạt yêu_cầu . 
+Trong khi đo , công_cụ dồn đĩa Perfect_Disk có_thể vận_hành hoàn_hảo trên tất_cả mọi máy_chủ Windows_2000 và Server_2003 với nhiều ổ_cứng dung_lượng lên đến nhiều ngàn GB , ngoài_ra nó cũng chạy cực tốt trên mọi máy_tính chạy Windows_XP phổ_biến hiện_nay . 
+Cái độc_đáo nhất của của Perfect_Disk là nó có_thể hoạt_động trong môi_trường vô_cùng " chật_hẹp " , tức khi dung_lượng đĩa trống chỉ còn khoảng 5 % , trong khi Disk_Defragmenter của Windows đòi_hỏi dung_lượng đĩa_cứng phải còn tối_thiểu cỡ 15 % . 
+Giao_diện của Perfect_Disk thể_hiện đầy_đủ mọi chi_tiết của quá_trình dồn đĩa , cho người dùng biết được Perfect_Disk đang thực_hiện quá_trình dồn đĩa ở những hệ_thống file nào hoặc đĩa_cứng nào . 
+Người dùng cũng có_thể lên lịch_trình dồn đĩa cho Perfect_Disk tự_động thực_hiện theo những khoảng thời_gian đã chọn . 
+Trong một_số trường_hợp thử_nghiệm thì trình Disk_Defragmenter của Windows đưa ra thông_báo cho rằng đĩa_cứng hiện_tại không cần dồn vì quá_trình phân mảnh đĩa_cứng hiện_tại là tối_thiểu . 
+Nhưng khi cho Perfect_Disk vận_hành trước_tiên bằng tính_năng " Analyze " thì hình_ảnh một đĩa_cứng phân mảnh như " xơ mướp " sẽ giúp người dùng nghĩ_lại trước mọi " khuyến_cáo " do Windows đưa ra . 
+Giai_đoạn " Analyze " sẽ cho bạn biết về tình_trạng chi_tiết của ổ_cứng bằng những màu_sắc trực_quan khác nhau . 
+Màu xanh nhạt thể_hiện những file rất hiếm khi thayđổi , màu vàng thể_hiện những file ít thay_đổi , màu đỏ thể_hiện những file được tác_động thường_xuyên , màu nâu thể_hiện những file hoán_chuyển tạm_thời , còn màu trắng thể_hiện không gia còn trống của đĩa . 
+Sau khi hoàn_tất quá_trình phân_tích , Perfect_Disk sẽ bắt_đầu thực_hiện quá_trình dồn đĩa mà mọi thao_tác dồn file sẽ được thể_hiện trực_quan trên giao_diện . 
+Quá_trình dồn đĩa bằng Perfect_Disk tỏ_ra nhanh hơn nhiều so với Disk_Defragmenter của Windows . 
+Qua thử_nghiệm thì Perfect_Disk đã hoàn_tất công_việc dồn đĩa chỉ trong vòng 1 giờ 30 phút với đĩa_cứng 120 GB gần đầy . 
+Hiện Raxco_Software đang bán ra Perfect_Disk 7.0 với giá thấp nhất cho một máy con là 40 USD và cho một máy_chủ là 240 USD . 
+Người dùng quan_tâm có_thể vào đây để tải về bản dùng thử của PerfectDisk_for_Exchange . 

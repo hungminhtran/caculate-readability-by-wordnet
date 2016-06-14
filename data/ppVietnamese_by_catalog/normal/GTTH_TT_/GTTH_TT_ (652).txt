@@ -1,0 +1,5 @@
+Chip truyền tín_hiệu âm_thanh … dưới da 
+Đây có_thể nói là một loại công_nghệ " không dây " độc_nhất_vô_nhị vì đã dùng da người làm vật truyền_dẫn tín_hiệu âm_thanh đến tai_nghe . 
+Các nhà khoa_học của Viện nghiên_cứu này đã thiết_kế thành_công một_số chip điện_tử sử_dụng điện_thế cực thấp với kích_thước cực nhỏ đến_nỗi chúng có_thể hoạt_động được bằng năng_lượng lấy từ cơ_thể người khi được cấy vào dưới da hoặc vào trong cơ_thể . 
+Người thử_nghiệm được dán vào tay một_số chip xử_lý dạng này , khi bật nút Play của iPod thì tín_hiệu âm_thanh sẽ truyền từ máy_nghe nhạc đến các chip xứ lý , các chip sẽ truyền_dẫn tín_hiệu dưới da đến tai_nghe với tốc_độ 2 megabit / giây và mức_độ tiêu_thụ năng_lượng chỉ dưới 10 microwatt . 
+Các nhà khoa_học tin_tưởng rằng loại chip đột_phá này của KAIST sẽ cực_kỳ hữu_dụng trong mọi nghiên_cứu về cơ_thể người , ngoài_ra ý_tưởng biến cơ_thể người thành một loại " mạng " có_thể nối với các mạng khác cũng không còn là điều viễn_tưởng . 
