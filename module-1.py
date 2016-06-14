@@ -287,7 +287,7 @@ KeyHashFile = "input/wn-nouns/hashmapKey.txt", DEBUG=0):
             return hashmap[key].split(',')
         else:
             print('Warning:',key,'not in hashmap')
-            return (key + "," + "N/A,"*8 + "N/A").split(',')
+            return (key + ',N/A,' + 'N/A,'*7 + 'N/A').split(',')
 
     print('input file', inputFile)
     print('output file', outputFile)
@@ -412,15 +412,15 @@ if __name__ == '__main__':
     # "input/vietnamesePOS-nouns/3000-vietnamesePOS-BLW-statistic.txt",
     # "input/vietnamesePOS-nouns/3000-vietnamesePOS-BLW.txt"])
 
-    print("vietnamesewn nouns table 1")
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt',
-    'output/vietnamesewn-table-1.csv', DEBUG=0)
-    print("3000vietnamese-freq nouns table 1")
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt',
-    'output/3000vietnamese-freq-table-1.csv', DEBUG=0)
-    print("3000vietnamesePOS nouns table 1")
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamesePOS-nouns/3000-vietnamesePOS-SORTED-nouns.txt',
-    'output/3000-vietnamesePOS-table-1.csv', DEBUG=0)
+    # print("vietnamesewn nouns table 1")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt',
+    # 'output/vietnamesewn-table-1.csv', DEBUG=0)
+    # print("3000vietnamese-freq nouns table 1")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt',
+    # 'output/3000vietnamese-freq-table-1.csv', DEBUG=0)
+    # print("3000vietnamesePOS nouns table 1")
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamesePOS-nouns/3000-vietnamesePOS-SORTED-nouns.txt',
+    # 'output/3000-vietnamesePOS-table-1.csv', DEBUG=0)
 
     print("vietnamesewn table 2")
     generate_statistic_table2('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt', 'output/vietnamesewn-table-2.csv',
