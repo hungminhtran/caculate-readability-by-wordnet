@@ -2,7 +2,7 @@
 import xml.etree.ElementTree as ET
 
 def extractTextTEI(fileName, isTEI=0):
-    f = open(fileName, encoding='utf-8', mode='r')
+    f = open(fileName, mode='r')
     try:
         strFile = f.read()
     except:

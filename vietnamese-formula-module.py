@@ -1,10 +1,11 @@
-import importlib
-mod1 = importlib.import_module("module-1")
 import sys
-from multiprocessing import Queue, Pool
-import time
+print('work on python3 only')
 if (sys.version_info[0] < 3):
     raise "Must be using Python 3"
+import importlib
+mod1 = importlib.import_module("module-1")
+from multiprocessing import Queue, Pool
+import time
 TOTAL_WORKER = 4
 def vietnameseFormual(inputFile):
     vietnameseChar = ["a", "à", "ả", "ã", "á", "ạ", "ă", "ằ", "ẳ", "ẵ", "ắ", "ặ", "â", "ầ", "ẩ", "ẫ", "ấ", "ậ", "b", "c", "d",
