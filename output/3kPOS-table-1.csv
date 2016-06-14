@@ -1,14 +1,14 @@
-capital_gains,13,B,13.0,1, B,0,0, 
-interest_rate,13,B,4.0,1,A ,10.8,5,A B
-stock_market,12,B,8.0,1,A ,16.0,2, B
-real_estate,11,B,8.0,1,A ,6.0,3,A 
-stock_index,11,B,5.0,1,A ,0,0, 
-health_care,11,B,15.0,1, B,11.0,3,A B
-credit_card,11,B,18.0,2, B,9.0,3, B
-soft_drink,10,B,8.0,1,A ,8.083333333333334,12,A B
-junk_bond,9,B,4.0,1,A ,0,0, 
-fast_food,9,B,9.0,1,A ,0,0, 
-coca_cola,9,B,4.0,1,A ,0,0, 
+capital gains,13,B,13.0,1, B,0,0, 
+interest rate,13,B,4.0,1,A ,10.8,5,A B
+stock market,12,B,8.0,1,A ,16.0,2, B
+real estate,11,B,8.0,1,A ,6.0,3,A 
+stock index,11,B,5.0,1,A ,0,0, 
+health care,11,B,15.0,1, B,11.0,3,A B
+credit card,11,B,18.0,2, B,9.0,3, B
+soft drink,10,B,8.0,1,A ,8.083333333333334,12,A B
+junk bond,9,B,4.0,1,A ,0,0, 
+fast food,9,B,9.0,1,A ,0,0, 
+coca cola,9,B,4.0,1,A ,0,0, 
 telecommunications,18,A,6.0,1,A ,9.6,5,A 
 responsibilities,16,A,13.0,1, B,11.0,14,A B
 representatives,15,A,10.0,1,A ,12.0,11,A B

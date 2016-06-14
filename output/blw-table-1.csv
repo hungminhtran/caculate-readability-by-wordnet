@@ -1,28 +1,28 @@
-ball-peen_hammer,16,B,6.0,1,A ,0,0, 
-phillips_screwdriver,20,B,11.0,1,A ,0,0, 
-blueback_salmon,15,B,6.0,1,A ,0,0, 
-concord_grapes,14,B,8.0,1, B,0,0, 
-chinook_salmon,14,B,6.0,1,A ,0,0, 
-kitchen_table,13,B,5.0,1,A ,0,0, 
-rainbow_trout,13,B,5.0,1,A ,0,0, 
-upright_piano,13,B,5.0,1,A ,6.0,1,A 
-field_sparrow,13,B,15.0,1, B,0,0, 
-silver_maple,12,B,5.0,1,A ,0,0, 
-song_sparrow,12,B,15.0,1, B,0,0, 
-striped_bass,12,B,7.0,1, B,0,0, 
-golden_eagle,12,B,5.0,1,A ,8.0,1,A 
-grand_piano,11,B,5.0,1,A ,10.5,2, B
-dress_shirt,11,B,5.0,1,A ,0,0, 
-river_birch,11,B,5.0,1,A ,0,0, 
-claw_hammer,11,B,6.0,1,A ,0,0, 
-sugar_maple,11,B,5.0,1,A ,0,0, 
-white_birch,11,B,5.0,1,A ,0,0, 
-floor_lamp,10,B,4.0,1,A ,0,0, 
-sports_car,10,B,3.0,1,A ,0,0, 
-bald_eagle,10,B,5.0,1,A ,0,0, 
-white_oak,9,B,3.0,1,A ,12.25,8,A B
-sea_bass,8,B,13.0,1, B,11.0,1, B
-red_oak,7,B,3.0,1,A ,12.666666666666666,3, B
+ball-peen hammer,16,B,6.0,1,A ,0,0, 
+phillips screwdriver,20,B,11.0,1,A ,0,0, 
+blueback salmon,15,B,6.0,1,A ,0,0, 
+concord grapes,14,B,8.0,1, B,0,0, 
+chinook salmon,14,B,6.0,1,A ,0,0, 
+kitchen table,13,B,5.0,1,A ,0,0, 
+rainbow trout,13,B,5.0,1,A ,0,0, 
+upright piano,13,B,5.0,1,A ,6.0,1,A 
+field sparrow,13,B,15.0,1, B,0,0, 
+silver maple,12,B,5.0,1,A ,0,0, 
+song sparrow,12,B,15.0,1, B,0,0, 
+striped bass,12,B,7.0,1, B,0,0, 
+golden eagle,12,B,5.0,1,A ,8.0,1,A 
+grand piano,11,B,5.0,1,A ,10.5,2, B
+dress shirt,11,B,5.0,1,A ,0,0, 
+river birch,11,B,5.0,1,A ,0,0, 
+claw hammer,11,B,6.0,1,A ,0,0, 
+sugar maple,11,B,5.0,1,A ,0,0, 
+white birch,11,B,5.0,1,A ,0,0, 
+floor lamp,10,B,4.0,1,A ,0,0, 
+sports car,10,B,3.0,1,A ,0,0, 
+bald eagle,10,B,5.0,1,A ,0,0, 
+white oak,9,B,3.0,1,A ,12.25,8,A B
+sea bass,8,B,13.0,1, B,11.0,1, B
+red oak,7,B,3.0,1,A ,12.666666666666666,3, B
 screwdriver,11,A,8.0,1, B,20.333333333333332,3, B
 instrument,10,A,6.0,1,A ,13.166666666666666,18,A B
 furniture,9,A,10.0,1,A ,8.666666666666666,24,A B
