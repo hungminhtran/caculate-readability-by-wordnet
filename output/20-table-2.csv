@@ -20,10 +20,10 @@ edible fruit,0/303,0,0,0,0,0,0,0
 grape,6/17,36,0,3,2,1,0,0
 muscadine,0/0,N/A,0,0,0,0,0,0
 underpants,0/17,0,0,0,0,0,0,0
-bloomers,0/0,N/A,0,0,0,0,0,0
+pants,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 hosiery,0/30,0,0,0,0,0,0,0
-sock,5/13,39,0,5,0,0,0,0
+socks,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 anklet,0/0,N/A,0,0,0,0,0,0
 garment,4/445,1,0,3,1,0,0,0
 shirt,8/17,48,0,8,0,0,0,0
@@ -44,7 +44,7 @@ source of illumination,0/107,0,0,0,0,0,0,0
 lamp,27/68,40,0,19,7,1,0,0
 aladdin's lamp,0/0,N/A,0,0,0,0,0,0
 saying,0/59,0,0,0,0,0,0,0
-proverb,0/0,N/A,0,0,0,0,0,0
+saw,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 motor vehicle,0/153,0,0,0,0,0,0,0
 car,21/76,28,0,19,2,0,0,0
