@@ -1,28 +1,28 @@
-ball-peen hammer,16,B,6.0,1,A ,0,0, 
-phillips screwdriver,20,B,11.0,1,A ,0,0, 
-sockeye,15,B,6.0,1,A ,0,0, 
-concord grape,14,B,8.0,1, B,0,0, 
-chinook salmon,14,B,6.0,1,A ,0,0, 
-kitchen table,13,B,5.0,1,A ,0,0, 
-rainbow trout,13,B,5.0,1,A ,0,0, 
-upright,13,B,5.0,1,A ,6.0,1,A 
-field sparrow,13,B,15.0,1, B,0,0, 
-silver maple,12,B,5.0,1,A ,0,0, 
-song sparrow,12,B,15.0,1, B,0,0, 
-striped bass,12,B,7.0,1, B,0,0, 
-golden eagle,12,B,5.0,1,A ,8.0,1,A 
-grand piano,11,B,5.0,1,A ,10.5,2, B
-dress shirt,11,B,5.0,1,A ,0,0, 
-black birch,11,B,5.0,1,A ,0,0, 
-carpenter's hammer,11,B,6.0,1,A ,0,0, 
-sugar maple,11,B,5.0,1,A ,0,0, 
-downy birch,11,B,5.0,1,A ,0,0, 
-floor lamp,10,B,4.0,1,A ,0,0, 
-sports car,10,B,3.0,1,A ,0,0, 
-bald eagle,10,B,5.0,1,A ,0,0, 
-white oak,9,B,3.0,1,A ,12.25,8,A B
-sea bass,8,B,13.0,1, B,11.0,1, B
-red oak,7,B,3.0,1,A ,12.666666666666666,3, B
+ball-peen_hammer,16,B,6.0,1,A ,0,0, 
+phillips_screwdriver,20,B,11.0,1,A ,0,0, 
+blueback_salmon,15,B,6.0,1,A ,0,0, 
+concord_grapes,14,B,8.0,1, B,0,0, 
+chinook_salmon,14,B,6.0,1,A ,0,0, 
+kitchen_table,13,B,5.0,1,A ,0,0, 
+rainbow_trout,13,B,5.0,1,A ,0,0, 
+upright_piano,13,B,5.0,1,A ,6.0,1,A 
+field_sparrow,13,B,15.0,1, B,0,0, 
+silver_maple,12,B,5.0,1,A ,0,0, 
+song_sparrow,12,B,15.0,1, B,0,0, 
+striped_bass,12,B,7.0,1, B,0,0, 
+golden_eagle,12,B,5.0,1,A ,8.0,1,A 
+grand_piano,11,B,5.0,1,A ,10.5,2, B
+dress_shirt,11,B,5.0,1,A ,0,0, 
+river_birch,11,B,5.0,1,A ,0,0, 
+claw_hammer,11,B,6.0,1,A ,0,0, 
+sugar_maple,11,B,5.0,1,A ,0,0, 
+white_birch,11,B,5.0,1,A ,0,0, 
+floor_lamp,10,B,4.0,1,A ,0,0, 
+sports_car,10,B,3.0,1,A ,0,0, 
+bald_eagle,10,B,5.0,1,A ,0,0, 
+white_oak,9,B,3.0,1,A ,12.25,8,A B
+sea_bass,8,B,13.0,1, B,11.0,1, B
+red_oak,7,B,3.0,1,A ,12.666666666666666,3, B
 screwdriver,11,A,8.0,1, B,20.333333333333332,3, B
 instrument,10,A,6.0,1,A ,13.166666666666666,18,A B
 furniture,9,A,10.0,1,A ,8.666666666666666,24,A B
@@ -32,20 +32,20 @@ musical,7,A,4.5,2,A ,0,0,
 vehicle,7,A,10.0,1,A ,8.75,8,A B
 sparrow,7,A,9.0,1,A ,12.5,2, B
 guitar,6,A,18.0,1, B,10.333333333333334,6,A B
-grape,6,A,11.0,1, B,11.666666666666666,3,A B
+grapes,6,A,11.0,1, B,11.666666666666666,3,A B
 hammer,6,A,7.0,1,A ,0,0, 
 salmon,6,A,8.0,2,A B,8.285714285714286,7,A B
 fruit,5,A,21.0,1, B,7.862068965517241,29,A B
 piano,5,A,18.666666666666668,3, B,10.666666666666666,3,A B
 apple,5,A,7.5,2,A B,10.666666666666666,3, B
 peach,5,A,9.0,1, B,0,0, 
-bloomers,5,A,10.0,1,A ,0,0, 
-sock,5,A,7.0,1,A ,7.4,5,A B
+pants,5,A,10.0,1,A ,0,0, 
+socks,5,A,7.0,1,A ,7.4,5,A B
 shirt,5,A,7.0,1,A ,7.666666666666667,9,A B
 table,5,A,5.0,1,A ,13.0,6,A B
 chair,5,A,4.0,1,A ,11.333333333333334,15,A B
 truck,5,A,12.0,1, B,8.454545454545455,11,A B
-levi's,5,A,4.0,1,A ,0,0, 
+levis,5,A,4.0,1,A ,0,0, 
 maple,5,A,4.0,1,A ,15.0,1, B
 birch,5,A,4.0,1,A ,0,0, 
 trout,5,A,4.0,1,A ,10.0,2, B
@@ -57,7 +57,7 @@ bird,4,A,10.0,1,A ,10.346153846153847,26,A B
 drum,4,A,20.0,1, B,7.5,8,A B
 lamp,4,A,20.0,1, B,10.0,17,A B
 bass,4,A,5.0,1,A ,0,0, 
-proverb,3,A,6.0,1,A ,0,0, 
+saw,3,A,6.0,1,A ,0,0, 
 car,3,A,12.0,1, B,7.967741935483871,31,A B
 bus,3,A,15.0,1, B,8.666666666666666,3,A B
 oak,3,A,4.0,1,A ,7.5,2, B
