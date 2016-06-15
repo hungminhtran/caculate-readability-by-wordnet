@@ -337,9 +337,10 @@ if __name__ == '__main__':
     # getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
     # getStatisticsWithAllNouns("input/blw-nouns/blw-SORTED-nouns.txt", ["input/blw-nouns/all-blw-nouns-STATISTIC.txt",
     # "input/blw-nouns/all-blw-BLW-statistic.txt", "input/blw-nouns/all-blw-BLW.txt"], ENGLISH=1)
-    # print('gen 3000-freq')
-    # getStatisticsWithAllNouns('input/freq-nouns/3000-freq-word-SORTED.txt', ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt",
-    # "input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"], ENGLISH=1)
+    print('gen 3000-freq')
+    getListOfNounsWithCompoundNounsFirst('input/freq-nouns/3000-freq-word.txt', "input/freq-nouns/3000-freq-word-SORTED-nouns.txt")
+    getStatisticsWithAllNouns("input/freq-nouns/3000-freq-word-SORTED-nouns.txt", ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt",
+    "input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"], ENGLISH=1)
     # print('pos ')
     # getListOfNounsWithCompoundNounsFirst('input/POS-nouns/all-3kPOS-nouns.txt', "input/POS-nouns/all-3kPOS-SORTED-nouns.txt")
     # getStatisticsWithAllNouns('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', ["input/POS-nouns/all-3kPOS-nouns-STATISTIC.txt",
@@ -356,7 +357,7 @@ if __name__ == '__main__':
 
     # print("test table 1")
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/blw-nouns/blw-SORTED-nouns.txt',
-    # 'output/3kPOS-table-1.csv', DEBUG=0)
+    # 'output/test-3kPOS-table-1.csv', DEBUG=0)
     # print("blw table 1")
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/blw-nouns/blw-SORTED-nouns.txt',
     # 'output/blw-table-1.csv', DEBUG=0)
@@ -374,17 +375,19 @@ if __name__ == '__main__':
     # 'output/20-table-1.csv', DEBUG=0)
 
     # print("test table 2")
+    # generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/test-3kPOS-table-2.csv', DEBUG=0)
+    # print("blw table 2")
+    # generate_statistic_table2('input/blw-nouns/blw-SORTED-nouns.txt', 'output/blw-table-2.csv', DEBUG=0)
+    # print("freq table 2")
+    # generate_statistic_table2('input/freq-nouns/3000-freq-word-SORTED.txt', 'output/3k-freq-table-2.csv', DEBUG=0)
+    # print("3kPOS table 2")
     # generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/3kPOS-table-2.csv', DEBUG=0)
-    print("blw table 2")
-    generate_statistic_table2('input/blw-nouns/blw-SORTED-nouns.txt', 'output/blw-table-2.csv', DEBUG=0)
-    print("freq table 2")
-    generate_statistic_table2('input/freq-nouns/3000-freq-word-SORTED.txt', 'output/3k-freq-table-2.csv', DEBUG=0)
-    print("3kPOS table 2")
-    generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/3kPOS-table-2.csv', DEBUG=0)
-    print("wn table 2")
-    generate_statistic_table2('input/wn-nouns/all-wn-SORTED-nouns.txt', 'output/wn-table-2.csv', DEBUG=0)
-    print("20 table 2")
-    generate_statistic_table2('input/20-nouns/all-20-SORTED-nouns.txt', 'output/20-table-2.csv', DEBUG=0)
+    # print("wn table 2")
+    # generate_statistic_table2('input/wn-nouns/all-wn-SORTED-nouns.txt', 'output/wn-table-2.csv', DEBUG=0)
+    # print("20 table 2")
+    # generate_statistic_table2('input/20-nouns/all-20-SORTED-nouns.txt', 'output/20-table-2.csv', DEBUG=0)
+
+    # generate nouns for 
 
     print("gen vietnamesewn")
     from nltk.corpus import vietnet as wn
@@ -421,18 +424,18 @@ if __name__ == '__main__':
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/vietnamesePOS-nouns/3000-vietnamesePOS-SORTED-nouns.txt',
     # 'output/3000-vietnamesePOS-table-1.csv', DEBUG=0)
 
-    print("vietnamesewn table 2")
-    generate_statistic_table2('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt', 'output/vietnamesewn-table-2.csv',
-    allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
-    KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
-    print("3000vietnamese-freq table 2")
-    generate_statistic_table2('input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt',
-    'output/3000vietnamese-freq-table-2.csv', allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
-    KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
-    print("3000vietnamese-POS table 2")
-    generate_statistic_table2('input/vietnamesePOS-nouns/3000-vietnamesePOS-SORTED-nouns.txt',
-    'output/3000-vietnamesePOS-table-2.csv', allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
-    KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
+    # print("vietnamesewn table 2")
+    # generate_statistic_table2('input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt', 'output/vietnamesewn-table-2.csv',
+    # allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
+    # KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
+    # print("3000vietnamese-freq table 2")
+    # generate_statistic_table2('input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt',
+    # 'output/3000vietnamese-freq-table-2.csv', allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
+    # KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
+    # print("3000vietnamese-POS table 2")
+    # generate_statistic_table2('input/vietnamesePOS-nouns/3000-vietnamesePOS-SORTED-nouns.txt',
+    # 'output/3000-vietnamesePOS-table-2.csv', allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
+    # KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
 
     print("end run time: ", datetime.datetime.now().time())
 else:
