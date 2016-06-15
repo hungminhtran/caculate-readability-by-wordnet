@@ -337,10 +337,10 @@ if __name__ == '__main__':
     # getListOfNounsWithCompoundNounsFirst('input/blw-nouns/blw-nouns.txt', "input/blw-nouns/blw-SORTED-nouns.txt")
     # getStatisticsWithAllNouns("input/blw-nouns/blw-SORTED-nouns.txt", ["input/blw-nouns/all-blw-nouns-STATISTIC.txt",
     # "input/blw-nouns/all-blw-BLW-statistic.txt", "input/blw-nouns/all-blw-BLW.txt"], ENGLISH=1)
-    print('gen 3000-freq')
-    getListOfNounsWithCompoundNounsFirst('input/freq-nouns/3000-freq-word.txt', "input/freq-nouns/3000-freq-word-SORTED-nouns.txt")
-    getStatisticsWithAllNouns("input/freq-nouns/3000-freq-word-SORTED-nouns.txt", ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt",
-    "input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"], ENGLISH=1)
+    # print('gen 3000-freq')
+    # getListOfNounsWithCompoundNounsFirst('input/freq-nouns/3000-freq-word.txt', "input/freq-nouns/3000-freq-word-SORTED-nouns.txt")
+    # getStatisticsWithAllNouns("input/freq-nouns/3000-freq-word-SORTED-nouns.txt", ["input/freq-nouns/3000-freq-nouns-STATISTIC.txt",
+    # "input/freq-nouns/3000-freq-BLW-statistic.txt", "input/freq-nouns/3000-freq-BLW.txt"], ENGLISH=1)
     # print('pos ')
     # getListOfNounsWithCompoundNounsFirst('input/POS-nouns/all-3kPOS-nouns.txt', "input/POS-nouns/all-3kPOS-SORTED-nouns.txt")
     # getStatisticsWithAllNouns('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', ["input/POS-nouns/all-3kPOS-nouns-STATISTIC.txt",
@@ -373,6 +373,14 @@ if __name__ == '__main__':
     # print("20 nouns table 1")
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/20-nouns/all-20-SORTED-nouns.txt',
     # 'output/20-table-1.csv', DEBUG=0)
+    
+    # print('input/generator-20 table 1')
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/generator-20/3000-freq-word-SORTED-nouns-20.txt',
+    # 'output/generate-20/3000-freq-word-SORTED-nouns-20-table-1.csv', DEBUG=0)
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/generator-20/all-3kPOS-SORTED-nouns-20.txt',
+    # 'output/generate-20/all-3kPOS-SORTED-nouns-20-table-1.csv', DEBUG=0)
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/generator-20/blw-SORTED-nouns-20.txt',
+    # 'output/generate-20/blw-SORTED-nouns-20-table-1.csv', DEBUG=0)
 
     # print("test table 2")
     # generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/test-3kPOS-table-2.csv', DEBUG=0)
@@ -387,7 +395,13 @@ if __name__ == '__main__':
     # print("20 table 2")
     # generate_statistic_table2('input/20-nouns/all-20-SORTED-nouns.txt', 'output/20-table-2.csv', DEBUG=0)
 
-    # generate nouns for 
+    # print('input/generator-20 table 2')
+    # generate_statistic_table2('input/generator-20/blw-SORTED-nouns-20.txt', 
+    #     'output/generate-20/blw-SORTED-nouns-20-table-2.csv', DEBUG=0)
+    # generate_statistic_table2('input/generator-20/all-3kPOS-SORTED-nouns-20.txt', 
+    #     'output/generate-20/all-3kPOS-SORTED-nouns-20-table-2.csv', DEBUG=0)
+    # generate_statistic_table2('input/generator-20/3000-freq-word-SORTED-nouns-20.txt', 
+    #     'output/generate-20/3000-freq-word-SORTED-nouns-20-table-2.csv', DEBUG=0)
 
     print("gen vietnamesewn")
     from nltk.corpus import vietnet as wn
