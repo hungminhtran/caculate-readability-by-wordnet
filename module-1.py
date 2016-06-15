@@ -381,6 +381,8 @@ if __name__ == '__main__':
     # 'output/generate-20/all-3kPOS-SORTED-nouns-20-table-1.csv', DEBUG=0)
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/generator-20/blw-SORTED-nouns-20.txt',
     # 'output/generate-20/blw-SORTED-nouns-20-table-1.csv', DEBUG=0)
+    generate_statistic_blw_with_hypernym_hyponym_table1('input/generator-20/wn-20-nouns.txt',
+    'output/generate-20/wn-20-nouns-table-1.csv', DEBUG=0)
 
     # print("test table 2")
     # generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/test-3kPOS-table-2.csv', DEBUG=0)
@@ -402,6 +404,8 @@ if __name__ == '__main__':
     #     'output/generate-20/all-3kPOS-SORTED-nouns-20-table-2.csv', DEBUG=0)
     # generate_statistic_table2('input/generator-20/3000-freq-word-SORTED-nouns-20.txt', 
     #     'output/generate-20/3000-freq-word-SORTED-nouns-20-table-2.csv', DEBUG=0)
+    generate_statistic_table2('input/generator-20/wn-20-nouns.txt', 
+        'output/generate-20/wn-20-nouns-table-2.csv', DEBUG=0)
 
     print("gen vietnamesewn")
     from nltk.corpus import vietnet as wn
