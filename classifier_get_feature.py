@@ -76,7 +76,7 @@ def getDataNFeatureFromFile(PROCESS_LOCK, RESULT_QUEUE, filesQueue, labelKWs, di
 if __name__ == '__main__':
     START_TIME = time.time()
     import sys
-    if not sys.version_info[0] < 4:
+    if not sys.version_info[0] < 3:
         raise "Must be using Python 2"
     # getFreqWordsForFileFromDict(['data/ppVietnamese_by_catalog/Easy/ct24/ct24 (100).txt',12.35,3, 4], 'data/TanSoTu.txt')
     # getDataNFeatureFromFile('test_data.txt', 'output/test_Vietnamese_output_classifier.csv', 'test')
