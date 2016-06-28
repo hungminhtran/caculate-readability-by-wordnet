@@ -337,6 +337,13 @@ def generateList_K_sample(k, inputFile, outputFile):
         output.write(inputData[item] + '\n')
     output.close()
 
+def getWordInWordnet(table1File, outputFile):
+    inputData = open(table1File).read().splitlines()
+    output = open(outputFile, 'w+')
+    for i in range(len(inputData)):
+        output.write(inputData[i].split(',')[0] + '\n')
+    output.close()
+
 if __name__ == '__main__':
     import sys
     if sys.version_info[0] < 3:
@@ -416,9 +423,13 @@ if __name__ == '__main__':
     #     'output/generate-20/3000-freq-word-SORTED-nouns-20-table-2.csv', DEBUG=0)
     # generate_statistic_table2('input/generator-20/wn-20-nouns.txt', 
     #     'output/generate-20/wn-20-nouns-table-2.csv', DEBUG=0)
-    generateList_K_sample(30, 'input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'input/POS-nouns/(30)-all-3kPOS-SORTED-nouns.txt')
-    generateList_K_sample(30, 'input/blw-nouns/blw-SORTED-nouns.txt', 'input/blw-nouns/(30)-blw-SORTED-nouns.txt')
-    generateList_K_sample(30, 'input/freq-nouns/3000-freq-word-SORTED-nouns.txt', 'input/freq-nouns/(30)-3000-freq-word-SORTED-nouns.txt')
+    getWordInWordnet('output/3kPOS-table-1.csv', 'input/POS-nouns/hashmapKey.txt')
+    getWordInWordnet('output/3kfreq-table-1.csv', 'input/freq-nouns/hashmapKey.txt')
+    getWordInWordnet('output/blw-table-1.csv', 'input/blw-nouns/hashmapKey.txt')
+
+    generateList_K_sample(30, 'input/POS-nouns/hashmapKey.txt', 'input/POS-nouns/(30)-all-3kPOS-SORTED-nouns.txt')
+    generateList_K_sample(30, 'input/blw-nouns/hashmapKey.txt', 'input/blw-nouns/(30)-blw-SORTED-nouns.txt')
+    generateList_K_sample(30, 'input/freq-nouns/hashmapKey.txt', 'input/freq-nouns/(30)-3000-freq-word-SORTED-nouns.txt')
     generateList_K_sample(3000, 'input/wn-nouns/hashmapKey.txt', 'input/wn-nouns/(3000)-all-wn-SORTED-nouns.txt')
     generateList_K_sample(30, 'input/wn-nouns/(3000)-all-wn-SORTED-nouns.txt', 'input/wn-nouns/(30)-all-wn-SORTED-nouns.txt')
     print("30-blw table 1")
@@ -496,8 +507,11 @@ if __name__ == '__main__':
     # 'output/3000-vietnamesePOS-table-2.csv', allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
     # KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
 
-    generateList_K_sample(30, 'input/vietnamese-freq-nouns/3000vietnamese-freq-SORTED-nouns.txt', 'input/vietnamese-freq-nouns/(30)-3000vietnamese-freq-SORTED-nouns.txt')
-    generateList_K_sample(30, 'input/vietnamesePOS-nouns/3000-vietnamesePOS-SORTED-nouns.txt', 'input/vietnamesePOS-nouns/(30)-3000-vietnamesePOS-SORTED-nouns.txt')
+    getWordInWordnet('output/3000-vietnamesePOS-table-1.csv', 'input/vietnamesePOS-nouns/hashmapKey.txt')
+    getWordInWordnet('output/3000vietnamese-freq-table-1.csv', 'input/vietnamese-freq-nouns/hashmapKey.txt')
+
+    generateList_K_sample(30, 'input/vietnamese-freq-nouns/hashmapKey.txt', 'input/vietnamese-freq-nouns/(30)-3000vietnamese-freq-SORTED-nouns.txt')
+    generateList_K_sample(30, 'input/vietnamesePOS-nouns/hashmapKey.txt', 'input/vietnamesePOS-nouns/(30)-3000-vietnamesePOS-SORTED-nouns.txt')
     generateList_K_sample(3000, 'input/vietnamesewn-nouns/hashmapKey.txt', 'input/vietnamesewn-nouns/(3000)-all-vietnamesewn-SORTED-nouns.txt')
     generateList_K_sample(30, 'input/vietnamesewn-nouns/(3000)-all-vietnamesewn-SORTED-nouns.txt', 'input/vietnamesewn-nouns/(30)-all-vietnamesewn-SORTED-nouns.txt')
 
