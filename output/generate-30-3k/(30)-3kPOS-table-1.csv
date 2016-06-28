@@ -1,29 +1,30 @@
-supercomputer,13,A,9.0,1,A ,0,0, 
-steelmaker,10,A,5.0,1,A ,0,0, 
-attorneys,9,A,12.0,1,A ,11.272727272727273,11,A B
-greenwich,9,A,0,0, ,0,0, 
-williams,8,A,0,0, ,0,0, 
-markets,7,A,8.0,1,A ,10.625,8,A B
-average,7,A,9.0,1,A ,5.25,4,A B
-returns,7,A,13.0,1, B,15.4,5, B
-western,7,A,7.0,1,A ,16.0,1, B
-deposit,7,A,20.0,1, B,4.0,1,A 
-outcome,7,A,6.0,1,A ,8.333333333333334,9,A B
-channel,7,A,12.0,1,A ,0,0, 
-people,6,A,5.0,1,A ,8.1875,48,A B
-record,6,A,8.0,1,A ,8.666666666666666,6,A B
-buying,6,A,8.0,1,A ,11.666666666666666,3,A B
-public,6,A,6.0,1,A ,6.0,1,A 
-option,6,A,20.0,1, B,11.25,8,A B
-center,6,A,4.0,1,A ,9.3,10,A B
-salary,6,A,14.0,1, B,9.090909090909092,11,A B
-equity,6,A,6.0,1,A ,0,0, 
-level,5,A,8.0,1,A ,8.461538461538462,13,A B
-place,5,A,5.0,1,A ,7.636363636363637,22,A B
-model,5,A,10.0,1,A ,12.142857142857142,7,A B
-shows,5,A,13.0,1,A ,8.785714285714286,14,A B
-table,5,A,5.0,1,A ,13.0,6,A B
-pence,5,A,22.0,1, B,0,0, 
-whole,5,A,7.0,1,A ,6.333333333333333,3,A 
-opec,4,A,13.0,2, B,0,0, 
-g,1,A,16.0,1, B,0,0, 
+shareholders,12,A,8.0,1,A ,19.0,1, B
+newspapers,10,A,5.0,1,A ,8.5,4,A B
+connection,10,A,8.0,1,A ,9.333333333333334,9,A 
+newsletter,10,A,6.0,1,A ,12.0,1, B
+cleveland,9,A,0,0, ,0,0, 
+factories,9,A,5.0,1,A ,10.363636363636363,11,A B
+expenses,8,A,4.0,1,A ,14.75,8, B
+senators,8,A,10.0,1,A ,12.0,1, B
+alliance,8,A,9.0,1,A ,0,0, 
+figures,7,A,12.0,1,A ,0,0, 
+credits,7,A,9.0,2,A ,0,0, 
+testing,7,A,10.0,1,A ,0,0, 
+feeling,7,A,5.0,1,A ,7.487804878048781,41,A 
+massage,7,A,9.0,1,A ,10.857142857142858,7,A B
+street,6,A,12.0,1,A ,7.25,8,A B
+london,6,A,0,0, ,0,0, 
+losers,6,A,10.0,1,A ,7.0,1, B
+judge,5,A,9.5,2,A ,7.5,12,A B
+owner,5,A,11.0,1,A ,8.8,10,A B
+words,5,A,6.0,1,A ,0,0, 
+surge,5,A,4.0,1,A ,8.5,2,A B
+scott,5,A,0,0, ,0,0, 
+storm,5,A,21.0,1, B,9.375,8,A B
+abuse,5,A,12.0,1,A ,10.0,4,A B
+third,5,A,14.0,1, B,0,0, 
+mills,5,A,0,0, ,0,0, 
+drop,4,A,6.0,1,A ,7.5,2,A 
+jack,4,A,23.0,1, B,0,0, 
+acts,4,A,0,0, ,0,0, 
+may,3,A,22.0,1, B,0,0, 
