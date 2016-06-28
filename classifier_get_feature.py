@@ -76,13 +76,14 @@ def writeOutResult(RESULT_QUEUE, outputFile):
     print('output file', outputFile)
     isEndWriteOut = MAX_PROCESS
     _tempfile = open(sys.argv[1], 'w+')
-    while (isEndWriteOut):
-        time.sleep(2)   
+    while (isEndWriteOut > 0):
         temp = RESULT_QUEUE.get()
         if (temp == 'EOP'):
             isEndWriteOut = isEndWriteOut - 1
         else:
             _tempfile.write(' '.join(map(lambda x: str(x), temp)) + '\n')
+        while (RESULT_QUEUE.empty() and isEndWriteOut > 0):
+            time.sleep(2)
     _tempfile.close()
 
 if __name__ == '__main__':

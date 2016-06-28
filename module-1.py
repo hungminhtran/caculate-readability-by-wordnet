@@ -4,6 +4,7 @@ import nltk
 import re
 import pickle
 import datetime
+import random
 
 MAX_LEVEL = 6
 
@@ -327,6 +328,15 @@ KeyHashFile = "input/wn-nouns/hashmapKey.txt", DEBUG=0):
             print('Error: generate_statistic_table2 retrive from wordnet failure', noun, '__')
     outputFp.close()
 
+def generateList_K_sample(k, inputFile, outputFile):
+    inputData = open(inputFile, 'r').read().splitlines()
+    sample = random.sample(range(len(inputData)), k)
+    sample.sort()
+    output = open(outputFile, 'w+')
+    for item in sample:
+        output.write(inputData[item] + '\n')
+    output.close()
+
 if __name__ == '__main__':
     import sys
     if sys.version_info[0] < 3:
@@ -381,8 +391,8 @@ if __name__ == '__main__':
     # 'output/generate-20/all-3kPOS-SORTED-nouns-20-table-1.csv', DEBUG=0)
     # generate_statistic_blw_with_hypernym_hyponym_table1('input/generator-20/blw-SORTED-nouns-20.txt',
     # 'output/generate-20/blw-SORTED-nouns-20-table-1.csv', DEBUG=0)
-    generate_statistic_blw_with_hypernym_hyponym_table1('input/generator-20/wn-20-nouns.txt',
-    'output/generate-20/wn-20-nouns-table-1.csv', DEBUG=0)
+    # generate_statistic_blw_with_hypernym_hyponym_table1('input/generator-20/wn-20-nouns.txt',
+    # 'output/generate-20/wn-20-nouns-table-1.csv', DEBUG=0)
 
     # print("test table 2")
     # generate_statistic_table2('input/POS-nouns/all-3kPOS-SORTED-nouns.txt', 'output/test-3kPOS-table-2.csv', DEBUG=0)
@@ -404,8 +414,26 @@ if __name__ == '__main__':
     #     'output/generate-20/all-3kPOS-SORTED-nouns-20-table-2.csv', DEBUG=0)
     # generate_statistic_table2('input/generator-20/3000-freq-word-SORTED-nouns-20.txt', 
     #     'output/generate-20/3000-freq-word-SORTED-nouns-20-table-2.csv', DEBUG=0)
-    generate_statistic_table2('input/generator-20/wn-20-nouns.txt', 
-        'output/generate-20/wn-20-nouns-table-2.csv', DEBUG=0)
+    # generate_statistic_table2('input/generator-20/wn-20-nouns.txt', 
+    #     'output/generate-20/wn-20-nouns-table-2.csv', DEBUG=0)
+    generateList_K_sample(30, 'output/3000-vietnamesePOS-table-1.csv', 'output/generate-30-3k/(30)-3000-vietnamesePOS-table-1.csv')
+    generateList_K_sample(30, 'output/3000-vietnamesePOS-table-2.csv', 'output/generate-30-3k/(30)-3000-vietnamesePOS-table-2.csv')
+    generateList_K_sample(30, 'output/3000vietnamese-freq-table-1.csv', 'output/generate-30-3k/(30)-3000vietnamese-freq-table-1.csv')
+    generateList_K_sample(30, 'output/3000vietnamese-freq-table-2.csv', 'output/generate-30-3k/(30)-3000vietnamese-freq-table-2.csv')
+    generateList_K_sample(30, 'output/3kfreq-table-1.csv', 'output/generate-30-3k/(30)-3kfreq-table-1.csv')
+    generateList_K_sample(30, 'output/3k-freq-table-2.csv', 'output/generate-30-3k/(30)-3k-freq-table-2.csv')
+    generateList_K_sample(30, 'output/3kPOS-table-1.csv', 'output/generate-30-3k/(30)-3kPOS-table-1.csv')
+    generateList_K_sample(30, 'output/3kPOS-table-2.csv', 'output/generate-30-3k/(30)-3kPOS-table-2.csv')
+    generateList_K_sample(30, 'output/blw-table-1.csv', 'output/generate-30-3k/(30)-blw-table-1.csv')
+    generateList_K_sample(30, 'output/blw-table-2.csv', 'output/generate-30-3k/(30)-blw-table-2.csv')
+    generateList_K_sample(3000, 'output/vietnamesewn-table-1.csv', 'output/generate-30-3k/(3000)-vietnamesewn-table-1.csv')
+    generateList_K_sample(3000, 'output/vietnamesewn-table-2.csv', 'output/generate-30-3k/(3000)-vietnamesewn-table-2.csv')
+    generateList_K_sample(3000, 'output/wn-table-1.csv', 'output/generate-30-3k/(3000)-wn-table-1.csv')
+    generateList_K_sample(3000, 'output/wn-table-2.csv', 'output/generate-30-3k/(3000)-wn-table-2.csv')
+    generateList_K_sample(30, 'output/generate-30-3k/(3000)-vietnamesewn-table-1.csv', 'output/generate-30-3k/(30)-vietnamesewn-table-1.csv')
+    generateList_K_sample(30, 'output/generate-30-3k/(3000)-vietnamesewn-table-2.csv', 'output/generate-30-3k/(30)-vietnamesewn-table-2.csv')
+    generateList_K_sample(30, 'output/generate-30-3k/(3000)-wn-table-1.csv', 'output/generate-30-3k/(30)-wn-table-1.csv')
+    generateList_K_sample(30, 'output/generate-30-3k/(3000)-wn-table-2.csv', 'output/generate-30-3k/(30)-wn-table-2.csv')
 
     print("gen vietnamesewn")
     from nltk.corpus import vietnet as wn
