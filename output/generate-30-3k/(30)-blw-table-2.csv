@@ -1,30 +1,60 @@
-screwdriver,4/4,100,0,4,0,0,0,0
+hammer,0/0,N/A,0,0,0,0,0,0
+ball-peen hammer,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 salmon,12/25,48,0,10,2,0,0,0
+blueback salmon,0/0,N/A,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+fox grape,0/0,N/A,0,0,0,0,0,0
+concord grapes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+table,7/10,70,0,6,1,0,0,0
+kitchen table,0/0,N/A,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+piano,8/16,50,0,4,4,0,0,0
+upright piano,0/1,0,0,0,0,0,0,0
+spinet,0/0,N/A,0,0,0,0,0,0
+maple,1/1,100,0,1,0,0,0,0
+silver maple,0/0,N/A,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 new world sparrow,0/18,0,0,0,0,0,0,0
-eagle,14/25,56,0,7,7,0,0,0
-grand piano,3/8,38,0,3,0,0,0,0
-dress shirt,0/0,N/A,0,0,0,0,0,0
-claw hammer,0/0,N/A,0,0,0,0,0,0
-sugar maple,0/0,N/A,0,0,0,0,0,0
+song sparrow,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-sports car,0/0,N/A,0,0,0,0,0,0
-bald eagle,0/0,N/A,0,0,0,0,0,0
+sea bass,0/2,0,0,0,0,0,0,0
 striped bass,0/0,N/A,0,0,0,0,0,0
-device,29/4466,1,0,18,9,2,0,0
-cardinal,0/1,0,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+birch,0/0,N/A,0,0,0,0,0,0
+white birch,0/0,N/A,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+saltwater fish,0/80,0,0,0,0,0,0,0
+sea bass,0/2,0,0,0,0,0,0,0
+striped bass,0/0,N/A,0,0,0,0,0,0
+movie,2/37,6,0,2,0,0,0,0
+musical,0/0,N/A,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+stringed instrument,1/85,2,0,1,0,0,0,0
+guitar,5/12,42,0,5,0,0,0,0
+acoustic guitar,0/0,N/A,0,0,0,0,0,0
+edible fruit,0/303,0,0,0,0,0,0,0
 grapes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-salmon,12/25,48,0,10,2,0,0,0
-peach,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-pants,0/0,N/A,0,0,0,0,0,0
-actuarial table,0/1,0,0,0,0,0,0,0
-seat,0/1,0,0,0,0,0,0,0
-bald eagle,0/0,N/A,0,0,0,0,0,0
+muscadine,0/0,N/A,0,0,0,0,0,0
+keyboard instrument,0/35,0,0,0,0,0,0,0
+piano,8/16,50,0,4,4,0,0,0
+grand piano,3/8,38,0,3,0,0,0,0
+hosiery,0/30,0,0,0,0,0,0,0
+socks,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+anklet,0/0,N/A,0,0,0,0,0,0
+wood,68/206,34,0,60,5,3,0,0
+maple,1/1,100,0,1,0,0,0,0
+bird's-eye maple,0/0,N/A,0,0,0,0,0,0
 implement,4/1099,1,0,3,1,0,0,0
+tool,11/566,2,0,5,3,2,1,0
+abrader,0/2,0,0,0,0,0,0,0
+woody plant,0/5304,0,0,0,0,0,0,0
+tree,338/2911,12,0,110,94,90,32,11
 aalii,0/0,N/A,0,0,0,0,0,0
-bass drum,0/0,N/A,0,0,0,0,0,0
+source of illumination,0/107,0,0,0,0,0,0,0
 lamp,27/68,40,0,19,7,1,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-ambulance,0/1,0,0,0,0,0,0,0
+aladdin's lamp,0/0,N/A,0,0,0,0,0,0
+public transport,0/38,0,0,0,0,0,0,0
 bus,3/5,60,0,3,0,0,0,0
+minibus,0/0,N/A,0,0,0,0,0,0
