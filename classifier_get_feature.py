@@ -5,7 +5,7 @@ import re
 import time
 import datetime
 from multiprocessing import Process, Lock, Array, Queue
-MAX_PROCESS = 4
+MAX_PROCESS = 1
 
 '''
 file: filepath, ratio, blw, all nouns
@@ -19,7 +19,7 @@ def getFreqWordsForFileFromDict(inputDataFromFileInRow, row, dictData, dictFreq,
         temp = r"\b" + word + r"\b"
         temp = re.findall(temp, inputDataFromFileInRow)
         # if (len(temp) > 0):
-        #     print(temp[0], len(temp))
+        #     print(row[0], temp[0], len(temp))
         result.append(len(temp))
         totalWords = totalWords + len(temp)
     if (totalWords > 0):
@@ -64,20 +64,32 @@ def getDataNFeatureFromFile(PROCESS_LOCK, RESULT_QUEUE, filesQueue, labelKWs, di
             inputDataFromFileInRow = _tempfile.read().lower()
             _tempfile.close()
             temp = getFreqWordsForFileFromDict(inputDataFromFileInRow, row, dictData, dictFreq, labelKWs)
-            X.append(temp)
+            RESULT_QUEUE.put(temp)
+            #print(row[0], temp)
         except:
             PROCESS_LOCK.acquire()
             print("ERROR: " + row[0] + " can not open!")
             PROCESS_LOCK.release()
-    PROCESS_LOCK.acquire()
-    RESULT_QUEUE.put(X)
-    PROCESS_LOCK.release()
+    RESULT_QUEUE.put('EOP')
+
+def writeOutResult(RESULT_QUEUE, outputFile):
+    print('output file', outputFile)
+    isEndWriteOut = MAX_PROCESS
+    _tempfile = open(sys.argv[1], 'w+')
+    while (isEndWriteOut):
+        time.sleep(2)   
+        temp = RESULT_QUEUE.get()
+        if (temp == 'EOP'):
+            isEndWriteOut = isEndWriteOut - 1
+        else:
+            _tempfile.write(' '.join(map(lambda x: str(x), temp)) + '\n')
+    _tempfile.close()
 
 if __name__ == '__main__':
     START_TIME = time.time()
     import sys
-    if not sys.version_info[0] < 3:
-        raise "Must be using Python 2"
+    if not sys.version_info[0] > 2:
+        raise "Must be using Python 3"
     # getFreqWordsForFileFromDict(['data/ppVietnamese_by_catalog/Easy/ct24/ct24 (100).txt',12.35,3, 4], 'data/TanSoTu.txt')
     # getDataNFeatureFromFile('test_data.txt', 'output/test_Vietnamese_output_classifier.csv', 'test')
     # X3 = getDataNFeatureFromFile('Difficult_data.txt', 'output/vietnamesewn_Difficult_output.csv', 3)
@@ -93,18 +105,11 @@ if __name__ == '__main__':
     PROCESS_LOCK = Lock()
     myProcess = []
     for processID in range(MAX_PROCESS):
-        #                                   getDataNFeatureFromFile(PROCESS_LOCK, RESULT_QUEUE, filesQueue, outputFile, labelKWs, dictFile='data/TanSoTu.txt', keyword=['Vietnamese_by_catalog', 'ppVietnamese_by_catalog']):
         myProcess.append(Process(target=getDataNFeatureFromFile, args=(PROCESS_LOCK, RESULT_QUEUE, filesQueue, sys.argv[3], sys.argv[4])))
-    result = []
+    myProcess.append(Process(target=writeOutResult, args=(RESULT_QUEUE, sys.argv[1])))
+
     for _process in myProcess:
         _process.start()
     for _process in myProcess:
         _process.join()
-    result = []
-    while (not RESULT_QUEUE.empty()):
-        result = result + RESULT_QUEUE.get()
-    _tempfile = open(sys.argv[1], 'w+')
-    for i in range(len(result)):
-        _tempfile.write(' '.join(map(lambda x: str(x), result[i])) + '\n')
-    _tempfile.close()
     print('total runtime:', time.time() - START_TIME)
