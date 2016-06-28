@@ -1,90 +1,90 @@
+external body part,0/181,0,0,0,0,0,0,0
+head,2/8,26,0,1,1,0,0,0
+human head,0/7,0,0,0,0,0,0,0
+legal document,0/419,0,0,0,0,0,0,0
+bill,5/5,100,0,5,0,0,0,0
+appropriation bill,0/0,N/A,0,0,0,0,0,0
+large indefinite quantity,0/78,0,0,0,0,0,0,0
+lot,0/5,0,0,0,0,0,0,0
+flood,4/8,50,0,3,1,0,0,0
+people,20/226,9,0,10,8,1,1,0
+lost,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-me,0/0,N/A,0,0,0,0,0,0
+institution,7/443,2,0,3,3,1,0,0
+company,41/83,50,0,28,4,9,0,0
+broadcasting company,0/0,N/A,0,0,0,0,0,0
+activity,9/5223,1,0,3,2,2,2,0
+job,1/384,1,0,0,1,0,0,0
+accountancy,0/13,0,0,0,0,0,0,0
+publication,2/210,1,0,1,1,0,0,0
+books,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+appointment book,0/0,N/A,0,0,0,0,0,0
+container,2/1210,1,0,1,1,0,0,0
+empty,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-land,1/3,34,0,1,0,0,0,0
-island,2/4,50,0,2,0,0,0,0
-aegean island,0/0,N/A,0,0,0,0,0,0
-physical phenomenon,0/828,0,0,0,0,0,0,0
-energy,22/189,12,0,15,5,2,0,0
-activation energy,0/0,N/A,0,0,0,0,0,0
-room,105/331,32,0,61,35,9,0,0
-kitchen,1/7,15,0,1,0,0,0,0
-galley,0/0,N/A,0,0,0,0,0,0
-overgarment,0/129,0,0,0,0,0,0,0
-coat,25/84,30,0,16,9,0,0,0
-box coat,0/0,N/A,0,0,0,0,0,0
-improvement,0/28,0,0,0,0,0,0,0
-development,1/12,9,0,1,0,0,0,0
-advancement,0/0,N/A,0,0,0,0,0,0
-act,4/45,9,0,1,3,0,0,0
-action,21/2582,1,0,4,3,1,3,7
-accomplishment,0/175,0,0,0,0,0,0,0
-look,0/5,0,0,0,0,0,0,0
-glance,1/3,34,0,1,0,0,0,0
-eye-beaming,0/0,N/A,0,0,0,0,0,0
-situation,0/113,0,0,0,0,0,0,0
-environment,0/38,0,0,0,0,0,0,0
-context,0/0,N/A,0,0,0,0,0,0
-connective tissue,0/283,0,0,0,0,0,0,0
-bone,72/234,31,0,43,24,5,0,0
-anklebone,0/0,N/A,0,0,0,0,0,0
-shop,32/97,33,0,29,3,0,0,0
-boutique,0/0,N/A,0,0,0,0,0,0
+quantity,9/3819,1,0,4,2,2,1,0
+constant,0/3,0,0,0,0,0,0,0
+parameter,0/1,0,0,0,0,0,0,0
+body of water,0/102,0,0,0,0,0,0,0
+lake,3/20,16,0,3,0,0,0,0
+bayou,0/0,N/A,0,0,0,0,0,0
+abstraction,0/113,0,0,0,0,0,0,0
+absolute,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-structure,6/2427,1,0,3,1,2,0,0
-costas,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+female offspring,0/3,0,0,0,0,0,0,0
+daughter,1/1,100,0,1,0,0,0,0
+mother's daughter,0/0,N/A,0,0,0,0,0,0
+larva,0/85,0,0,0,0,0,0,0
+caterpillar,5/56,9,0,4,1,0,0,0
+armyworm,0/0,N/A,0,0,0,0,0,0
+number,0/13,0,0,0,0,0,0,0
+count,6/9,67,0,6,0,0,0,0
+blood count,0/0,N/A,0,0,0,0,0,0
+extremum,0/6,0,0,0,0,0,0,0
+maximum,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-association,1/96,2,0,1,0,0,0,0
-gang,1/3,34,0,1,0,0,0,0
-nest,9/17,53,0,5,4,0,0,0
-lighter,1/7,15,0,1,0,0,0,0
-match,4/6,67,0,4,0,0,0,0
-fusee,0/0,N/A,0,0,0,0,0,0
-region,0/370,0,0,0,0,0,0,0
-exterior,0/4,0,0,0,0,0,0,0
-outdoors,0/0,N/A,0,0,0,0,0,0
-enclosure,0/158,0,0,0,0,0,0,0
-cage,2/4,50,0,2,0,0,0,0
-birdcage,0/0,N/A,0,0,0,0,0,0
-agglomeration,0/26,0,0,0,0,0,0,0
-lump,0/6,0,0,0,0,0,0,0
-clew,0/0,N/A,0,0,0,0,0,0
-lining,3/6,50,0,3,0,0,0,0
-facing,0/0,N/A,0,0,0,0,0,0
+aid,0/0,N/A,0,0,0,0,0,0
+lift,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-attractiveness,0/14,0,0,0,0,0,0,0
-charm,0/3,0,0,0,0,0,0,0
-siren call,0/0,N/A,0,0,0,0,0,0
-termination,0/0,N/A,0,0,0,0,0,0
-destruction,1/34,3,0,1,0,0,0,0
-annihilation,0/6,0,0,0,0,0,0,0
-line,4/15,27,0,4,0,0,0,0
-horizons,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+creator,0/6,0,0,0,0,0,0,0
+architect,1/6,17,0,1,0,0,0,0
+landscape architect,0/0,N/A,0,0,0,0,0,0
+gamble,0/10,0,0,0,0,0,0,0
+bet,0/6,0,0,0,0,0,0,0
+ante,0/0,N/A,0,0,0,0,0,0
+vessel,4/584,1,0,1,3,0,0,0
+galleys,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-location,2/1945,1,0,1,0,0,1,0
-jungle,1/1,100,0,1,0,0,0,0
-concrete jungle,0/0,N/A,0,0,0,0,0,0
-electrical phenomenon,0/46,0,0,0,0,0,0,0
-currents,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-juice,6/8,76,0,6,0,0,0,0
-sealing material,0/12,0,0,0,0,0,0,0
-filler,0/5,0,0,0,0,0,0,0
-mastic,0/0,N/A,0,0,0,0,0,0
-psychological feature,0/11903,0,0,0,0,0,0,0
-motives,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-ethical motive,0/15,0,0,0,0,0,0,0
-day,5/16,32,0,3,2,0,0,0
-evenings,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-guest night,0/0,N/A,0,0,0,0,0,0
+gramineous plant,0/519,0,0,0,0,0,0,0
+grass,177/480,37,0,74,68,25,10,0
+bahia grass,0/0,N/A,0,0,0,0,0,0
+protective fold,0/6,0,0,0,0,0,0,0
+lid,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-mexico,0/0,N/A,0,0,0,0,0,0
+possession,4/10,40,0,3,1,0,0,0
+assets,4/382,2,0,4,0,0,0,0
+accounts receivable,0/0,N/A,0,0,0,0,0,0
+combustion,2/10,20,0,1,0,1,0,0
+flame,0/5,0,0,0,0,0,0,0
+blaze,0/0,N/A,0,0,0,0,0,0
+traveler,3/284,2,0,3,0,0,0,0
+foreigners,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+au pair,1/1,100,0,1,0,0,0,0
+linear unit,2/147,2,0,2,0,0,0,0
+inch,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-herb,14/2908,1,0,7,3,4,0,0
-alexander,0/0,N/A,0,0,0,0,0,0
+road,18/98,19,0,10,4,2,2,0
+highway,4/23,18,0,4,0,0,0,0
+arterial road,0/0,N/A,0,0,0,0,0,0
+fact,2/26,8,0,1,1,0,0,0
+indicator,1/15,7,0,1,0,0,0,0
+body mass index,0/0,N/A,0,0,0,0,0,0
+large indefinite quantity,0/78,0,0,0,0,0,0,0
+loads,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-edible fruit,0/303,0,0,0,0,0,0,0
-berry,27/37,73,0,26,1,0,0,0
-acerola,0/0,N/A,0,0,0,0,0,0
-change of location,0/183,0,0,0,0,0,0,0
-descent,0/27,0,0,0,0,0,0,0
-drop,2/2,100,0,2,0,0,0,0
+beer,9/29,32,0,3,6,0,0,0
+ale,1/12,9,0,1,0,0,0,0
+bitter,0/0,N/A,0,0,0,0,0,0
+husk,0/1,0,0,0,0,0,0,0
+hull,0/2,0,0,0,0,0,0,0
+shell,4/7,58,0,4,0,0,0,0

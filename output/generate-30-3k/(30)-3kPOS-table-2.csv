@@ -1,90 +1,90 @@
-food,30/2231,2,0,5,19,5,0,0
-provisions,0/2,0,0,0,0,0,0,0
-food cache,0/0,N/A,0,0,0,0,0,0
-rule,3/14,22,0,3,0,0,0,0
-regulation,0/4,0,0,0,0,0,0,0
-age limit,0/0,N/A,0,0,0,0,0,0
-transformation,0/66,0,0,0,0,0,0,0
-conversion,0/4,0,0,0,0,0,0,0
-glycogenesis,0/0,N/A,0,0,0,0,0,0
-economic process,0/23,0,0,0,0,0,0,0
-inflation,2/4,50,0,2,0,0,0,0
-cost-pull inflation,0/0,N/A,0,0,0,0,0,0
-evidence,1/783,1,0,1,0,0,0,0
-testimony,0/7,0,0,0,0,0,0,0
-affidavit,0/1,0,0,0,0,0,0,0
+discipline,2/969,1,0,2,0,0,0,0
+communications,0/0,N/A,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+equivalent,0/11,0,0,0,0,0,0,0
+counterparts,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+complement,0/0,N/A,0,0,0,0,0,0
+administrative unit,0/592,0,0,0,0,0,0,0
+committee,8/59,14,0,8,0,0,0,0
+blue ribbon commission,0/0,N/A,0,0,0,0,0,0
+fossil fuel,0/23,0,0,0,0,0,0,0
+petroleum,0/2,0,0,0,0,0,0,0
+residual oil,0/0,N/A,0,0,0,0,0,0
+enterprise,1/13,8,0,1,0,0,0,0
+business,5/136,4,0,2,1,1,1,0
+agency,3/232,2,0,3,0,0,0,0
+cost,20/362,6,0,11,6,1,1,1
+expenses,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+business expense,0/2,0,0,0,0,0,0,0
+system of measurement,0/247,0,0,0,0,0,0,0
+standard,2/206,1,0,2,0,0,0,0
+baseline,0/0,N/A,0,0,0,0,0,0
+employment,0/0,N/A,0,0,0,0,0,0
+services,0/0,N/A,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 assets,4/382,2,0,4,0,0,0,0
-resources,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-labor resources,0/0,N/A,0,0,0,0,0,0
-point,2/11,19,0,2,0,0,0,0
-position,2/49,5,0,2,0,0,0,0
-anomaly,1/87,2,0,1,0,0,0,0
-acquisition,0/38,0,0,0,0,0,0,0
-purchase,1/11,10,0,1,0,0,0,0
-buying,2/6,34,0,2,0,0,0,0
-priesthood,0/7,0,0,0,0,0,0,0
-ministry,0/0,N/A,0,0,0,0,0,0
+equities,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-traveler,3/284,2,0,3,0,0,0,0
-carriers,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-professional,1/287,1,0,1,0,0,0,0
-lawyers,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-advocate,0/175,0,0,0,0,0,0,0
-fund,9/20,46,0,7,2,0,0,0
-savings,0/0,N/A,0,0,0,0,0,0
-N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+workplace,0/124,0,0,0,0,0,0,0
+shipyard,1/2,50,0,1,0,0,0,0
+navy yard,0/0,N/A,0,0,0,0,0,0
+interest,0/19,0,0,0,0,0,0,0
 concern,2/15,14,0,2,0,0,0,0
-matters,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+matter,0/1,0,0,0,0,0,0,0
+sum,0/100,0,0,0,0,0,0,0
+revenue,0/2,0,0,0,0,0,0,0
+box office,0/0,N/A,0,0,0,0,0,0
+merchant,6/110,6,0,6,0,0,0,0
+traders,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+art dealer,0/1,0,0,0,0,0,0,0
+change of location,0/183,0,0,0,0,0,0,0
+advance,0/2,0,0,0,0,0,0,0
+headway,0/0,N/A,0,0,0,0,0,0
+component,0/17,0,0,0,0,0,0,0
+points,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+attractor,0/0,N/A,0,0,0,0,0,0
+concern,2/15,14,0,2,0,0,0,0
+matter,0/1,0,0,0,0,0,0,0
 least,0/0,N/A,0,0,0,0,0,0
+product,3/38,8,0,3,0,0,0,0
+movies,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+cinema verite,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-kennedy,0/0,N/A,0,0,0,0,0,0
+arnold,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-airfield,1/11,10,0,1,0,0,0,0
-airport,0/1,0,0,0,0,0,0,0
-heliport,0/0,N/A,0,0,0,0,0,0
-person,122/12902,1,0,43,42,21,9,7
-workers,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-assistant,5/147,4,0,4,1,0,0,0
-associate,0/86,0,0,0,0,0,0,0
-member,6/40,16,0,6,0,0,0,0
-areopagite,0/0,N/A,0,0,0,0,0,0
-region,0/370,0,0,0,0,0,0,0
-county,0/2,0,0,0,0,0,0,0
-wight,0/0,N/A,0,0,0,0,0,0
-measure,2/17,12,0,1,1,0,0,0
-volume,0/3,0,0,0,0,0,0,0
-capacity,0/0,N/A,0,0,0,0,0,0
-state,4/9,45,0,2,2,0,0,0
-status,9/307,3,0,4,4,0,1,0
-bastardy,0/0,N/A,0,0,0,0,0,0
-binary compound,0/45,0,0,0,0,0,0,0
-water,21/27,78,0,20,1,0,0,0
-bath water,0/0,N/A,0,0,0,0,0,0
-change,3/279,2,0,1,2,0,0,0
-death,4/17,24,0,3,1,0,0,0
-fatality,0/5,0,0,0,0,0,0,0
-motor vehicle,0/153,0,0,0,0,0,0,0
-truck,15/48,32,0,10,5,0,0,0
-dump truck,0/0,N/A,0,0,0,0,0,0
-time,0/0,N/A,0,0,0,0,0,0
-while,0/4,0,0,0,0,0,0,0
-cold spell,0/0,N/A,0,0,0,0,0,0
-message,2/60,4,0,2,0,0,0,0
-topic,0/31,0,0,0,0,0,0,0
-bone of contention,0/0,N/A,0,0,0,0,0,0
-attraction,2/31,7,0,2,0,0,0,0
-bond,10/13,77,0,7,3,0,0,0
-covalent bond,0/3,0,0,0,0,0,0,0
+written record,0/62,0,0,0,0,0,0,0
+notes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+jotting,0/0,N/A,0,0,0,0,0,0
+psychological feature,0/11903,0,0,0,0,0,0,0
+event,20/11206,1,0,3,5,2,4,4
+act,4/45,9,0,1,3,0,0,0
+artifact,0/16247,0,0,0,0,0,0,0
+block,6/70,9,0,5,1,0,0,0
+anvil,0/0,N/A,0,0,0,0,0,0
+content,0/0,N/A,0,0,0,0,0,0
+goals,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+aim,0/7,0,0,0,0,0,0,0
+italic,0/0,N/A,0,0,0,0,0,0
+latin,0/49,0,0,0,0,0,0,0
+classical latin,0/0,N/A,0,0,0,0,0,0
 tract,0/253,0,0,0,0,0,0,0
-park,2/2,100,0,2,0,0,0,0
-national park,0/0,N/A,0,0,0,0,0,0
-manner of speaking,0/38,0,0,0,0,0,0,0
-tone,1/4,26,0,1,0,0,0,0
-note,0/11,0,0,0,0,0,0,0
-correctional institution,0/32,0,0,0,0,0,0,0
-jail,0/7,0,0,0,0,0,0,0
-bastille,0/0,N/A,0,0,0,0,0,0
-time unit,0/66,0,0,0,0,0,0,0
-s,1/1,100,0,1,0,0,0,0
-leap second,0/0,N/A,0,0,0,0,0,0
+sites,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+apron,0/0,N/A,0,0,0,0,0,0
+room,105/331,32,0,61,35,9,0,0
+john,0/19,0,0,0,0,0,0,0
+head,2/8,26,0,1,1,0,0,0
+fixed charge,0/45,0,0,0,0,0,0,0
+fees,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+anchorage,0/0,N/A,0,0,0,0,0,0
+exchange,1/1,100,0,1,0,0,0,0
+swap,0/2,0,0,0,0,0,0,0
+horse trade,0/0,N/A,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+cuba,0/0,N/A,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+property,7/123,6,0,7,0,0,0,0
+age,9/39,24,0,7,2,0,0,0
+bone age,0/0,N/A,0,0,0,0,0,0
+metric weight unit,0/42,0,0,0,0,0,0,0
+gm,0/0,N/A,0,0,0,0,0,0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

@@ -530,7 +530,7 @@ if __name__ == '__main__':
 
     print("(30)-3000vietnamese-freq table 2")
     generate_statistic_table2('input/vietnamese-freq-nouns/(30)-3000vietnamese-freq-SORTED-nouns.txt',
-    'output/(30)-3000vietnamese-freq-table-2.csv', allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
+    'output/generate-30-3k/(30)-3000vietnamese-freq-table-2.csv', allWNSTATIC='input/vietnamesewn-nouns/all-vietnamesewn-nouns-STATISTIC.txt',
     KeyHashFile='input/vietnamesewn-nouns/hashmapKey.txt', DEBUG=0)
     print("(30)-3000vietnamese-POS table 2")
     generate_statistic_table2('input/vietnamesePOS-nouns/(30)-3000-vietnamesePOS-SORTED-nouns.txt',
