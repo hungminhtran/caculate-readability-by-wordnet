@@ -3,4 +3,5 @@ data/*.csv
 demo*
 *.pkl
 *.npy
-*.big.txt
+*.large.txt
+*.tar.gz
