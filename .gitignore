@@ -1,7 +1,5 @@
 *.pyc
 data/*.csv
 demo*
-*.pkl
-*.npy
 *.large.txt
 *.tar.gz
