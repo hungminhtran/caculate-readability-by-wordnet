@@ -4,33 +4,45 @@ extractText = importlib.import_module("ExtractText")
 import nltk
 import re
 
-def findAllItemFromArray(inputData, searchData, printForDeBug = 0):
-    result = []
-    inputData = mod1.standandlizeNounsForInputRegex(inputData)
-    for searchPattern  in searchData:
-        #for plural nouns
-        #re.search("[ ^ ]{0,1}we[ s]", 'we ')
-        tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(searchPattern) + '[s]{0,1}' + r"\b"
-        inputData, isFinOut = re.subn(tempT, ' ', inputData) #avoid concat string can be created new noun
-        if (isFinOut > 0):
-            result.append(searchPattern)
-            # if (printForDeBug == 1):
-            #     print(tempT)
-            #     print(inputData)
-    result = list(set(result))
-    result.sort()
-    # if (printForDeBug):
-    #     print("doc after re.sub all things:")
-    #     print(inputData)
-    #     print(result)
-    return result
+def findAllItemFromArray(inputData, searchData, printForDeBug = 0, isTEI = 1):
+    if (isTEI == 1):
+        result = []
+        inputData = mod1.standandlizeNounsForInputRegex(inputData)
+        for searchPattern  in searchData:
+            #for plural nouns
+            #re.search("[ ^ ]{0,1}we[ s]", 'we ')
+            tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(searchPattern) + '[s]{0,1}' + r"\b"
+            inputData, isFinOut = re.subn(tempT, ' ', inputData) #avoid concat string can be created new noun
+            if (isFinOut > 0):
+                result.append(searchPattern)
+                # if (printForDeBug == 1):
+                #     print(tempT)
+                #     print(inputData)
+        result = list(set(result))
+        result.sort()
+        # if (printForDeBug):
+        #     print("doc after re.sub all things:")
+        #     print(inputData)
+        #     print(result)
+        return result
+    else:
+        result = []
+        inputData = mod1.standandlizeNounsForInputRegex(inputData)
+        for searchPattern  in searchData:
+            tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(mod1.standanizeNoun(searchPattern)) + '[s]{0,1}' + r"\b"
+            isFindOut = re.search(tempT, inputData)
+            if (isFindOut != None):
+                result.append(searchPattern)
+        result = list(set(result))
+        result.sort()
+        return result
 
 def calculateReabilityByWordnetForEnglish(INPUT, BLWnounsArray, NounsArray, printForDeBug=0, isTEI=0):
     # get input
     inputData = extractText.extractTextTEI(INPUT, isTEI)
     inputData = inputData.lower()
     #get all nouns
-    nounsInput = findAllItemFromArray(inputData[:], NounsArray, printForDeBug)
+    nounsInput = findAllItemFromArray(inputData[:], NounsArray, printForDeBug, isTEI)
     #get all blw
     nounsSet = set(nounsInput)
     blwSet = set(BLWnounsArray)
