@@ -29,7 +29,7 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0, isTEI = 1):
         result = []
         inputData = mod1.standandlizeNounsForInputRegex(inputData)
         for searchPattern  in searchData:
-            tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(mod1.standanizeNoun(searchPattern)) + '[s]{0,1}' + r"\b"
+            tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(mod1.standanizeNoun(searchPattern)) + r"\b"
             isFindOut = re.search(tempT, inputData)
             if (isFindOut != None):
                 result.append(searchPattern)
