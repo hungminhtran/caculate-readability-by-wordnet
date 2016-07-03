@@ -60,6 +60,7 @@ def calculateReabilityByWordnetForEnglish(INPUT, BLWnounsArray, NounsArray, prin
         #     print("all nouns:")
         #     print(nounsInput)
         return float(len(nounsBLWInput))/len(nounsInput)*100, nounsBLWInput, nounsInput
+        
 if __name__ == '__main__':
     import sys
     if sys.version_info[0] < 3:
