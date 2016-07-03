@@ -72,6 +72,8 @@ def getDataNFeatureFromFile(PROCESS_LOCK, RESULT_QUEUE, filesQueue, labelKWs, di
             PROCESS_LOCK.release()
     RESULT_QUEUE.put('EOP')
 
+
+
 def writeOutResult(RESULT_QUEUE, outputFile):
     print('output file', outputFile)
     isEndWriteOut = MAX_PROCESS

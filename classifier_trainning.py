@@ -7,9 +7,8 @@ from sklearn.utils import shuffle
 import numpy
 import time, os
 CF = 0.9
-directory = 'svm_pkl/'
 
-if __name__ == '__main__':
+def smv_freq(directory = 'svm_pkl/'):
     START_TIME = time.time()
     dictFreq = []
     _tempfile = open('data/TanSoTu.txt', 'r') 
@@ -43,7 +42,8 @@ if __name__ == '__main__':
     X = shuffle(X, random_state=0)
     print(X[1])
     X[:,-2] = X[:,-2] / 100
-    X[:,:-2] = dictFreq - X[:,:-2]
+    dictFreq = numpy.power(10.0, -dictFreq)
+    X[:,:-2] = X[:,:-2] - dictFreq
     X = numpy.fabs(X)
     print(X[1])
     print('input data shape', X.shape)
@@ -79,3 +79,6 @@ if __name__ == '__main__':
         print(X[temp1:,:temp2].shape, i, 'clf load test score', clf_name[i], clf2.score(X[temp1:,:temp2], X[temp1:, -1]), 'time', time.time() - TRAIN_TIME)
 
     print('end at ', time.time() - START_TIME)
+
+if __name__ == '__main__':
+    smv_freq()
