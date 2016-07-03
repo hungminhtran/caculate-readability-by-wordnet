@@ -1,31 +1,31 @@
 hammer,0/0,N/A,0,0,0,0,0,0
 ball-peen hammer,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-screwdriver,4/4,100,0,4,0,0,0,0
+screwdriver,4/4,100,4,0,0,0,0,0
 phillips screwdriver,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-salmon,12/25,48,0,10,2,0,0,0
+salmon,12/25,48,10,2,0,0,0,0
 blueback salmon,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 fox grape,0/0,N/A,0,0,0,0,0,0
 concord grapes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-salmon,12/25,48,0,10,2,0,0,0
+salmon,12/25,48,10,2,0,0,0,0
 chinook salmon,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-table,7/10,70,0,6,1,0,0,0
+table,7/10,70,6,1,0,0,0,0
 kitchen table,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-trout,3/3,100,0,3,0,0,0,0
+trout,3/3,100,3,0,0,0,0,0
 rainbow trout,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-piano,8/16,50,0,4,4,0,0,0
+piano,8/16,50,4,4,0,0,0,0
 upright piano,0/1,0,0,0,0,0,0,0
 spinet,0/0,N/A,0,0,0,0,0,0
 new world sparrow,0/18,0,0,0,0,0,0,0
 field sparrow,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-maple,1/1,100,0,1,0,0,0,0
+maple,1/1,100,1,0,0,0,0,0
 silver maple,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 new world sparrow,0/18,0,0,0,0,0,0,0
@@ -34,13 +34,13 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sea bass,0/2,0,0,0,0,0,0,0
 striped bass,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-eagle,14/25,56,0,7,7,0,0,0
+eagle,14/25,56,7,7,0,0,0,0
 golden eagle,0/1,0,0,0,0,0,0,0
 ringtail,0/0,N/A,0,0,0,0,0,0
-piano,8/16,50,0,4,4,0,0,0
-grand piano,3/8,38,0,3,0,0,0,0
+piano,8/16,50,4,4,0,0,0,0
+grand piano,3/8,38,3,0,0,0,0,0
 baby grand,0/0,N/A,0,0,0,0,0,0
-shirt,8/17,48,0,8,0,0,0,0
+shirt,8/17,48,8,0,0,0,0,0
 dress shirt,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 birch,0/0,N/A,0,0,0,0,0,0
@@ -49,56 +49,56 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 hammer,0/0,N/A,0,0,0,0,0,0
 claw hammer,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-maple,1/1,100,0,1,0,0,0,0
+maple,1/1,100,1,0,0,0,0,0
 sugar maple,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 birch,0/0,N/A,0,0,0,0,0,0
 white birch,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-lamp,27/68,40,0,19,7,1,0,0
+lamp,27/68,40,19,7,1,0,0,0
 floor lamp,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-car,21/76,28,0,19,2,0,0,0
+car,21/76,28,19,2,0,0,0,0
 sports car,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-eagle,14/25,56,0,7,7,0,0,0
+eagle,14/25,56,7,7,0,0,0,0
 bald eagle,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-oak,2/2,100,0,2,0,0,0,0
-white oak,6/28,22,0,6,0,0,0,0
+oak,2/2,100,2,0,0,0,0,0
+white oak,6/28,22,6,0,0,0,0,0
 american white oak,0/0,N/A,0,0,0,0,0,0
 saltwater fish,0/80,0,0,0,0,0,0,0
 sea bass,0/2,0,0,0,0,0,0,0
 striped bass,0/0,N/A,0,0,0,0,0,0
-oak,2/2,100,0,2,0,0,0,0
-red oak,4/10,40,0,4,0,0,0,0
+oak,2/2,100,2,0,0,0,0,0
+red oak,4/10,40,4,0,0,0,0,0
 northern red oak,0/0,N/A,0,0,0,0,0,0
 hand tool,0/241,0,0,0,0,0,0,0
-screwdriver,4/4,100,0,4,0,0,0,0
+screwdriver,4/4,100,4,0,0,0,0,0
 flat tip screwdriver,0/0,N/A,0,0,0,0,0,0
-device,29/4466,1,0,18,9,2,0,0
-instrument,14/953,2,0,10,2,1,1,0
+device,29/4466,1,18,9,2,0,0,0
+instrument,14/953,2,10,2,1,1,0,0
 analyzer,0/0,N/A,0,0,0,0,0,0
 furnishing,0/0,N/A,0,0,0,0,0,0
-furniture,4/290,2,0,4,0,0,0,0
+furniture,4/290,2,4,0,0,0,0,0
 baby bed,0/5,0,0,0,0,0,0,0
 consumer goods,0/1074,0,0,0,0,0,0,0
-clothing,5/970,1,0,4,0,1,0,0
+clothing,5/970,1,4,0,1,0,0,0
 accessory,0/16,0,0,0,0,0,0,0
-bishop,2/12,17,0,2,0,0,0,0
+bishop,2/12,17,2,0,0,0,0,0
 cardinal,0/1,0,0,0,0,0,0,0
 dean,0/0,N/A,0,0,0,0,0,0
-movie,2/37,6,0,2,0,0,0,0
+movie,2/37,6,2,0,0,0,0,0
 musical,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 conveyance,0/2,0,0,0,0,0,0,0
-vehicle,22/959,3,0,2,7,7,5,1
+vehicle,22/959,3,2,7,7,5,1,0
 bumper car,0/0,N/A,0,0,0,0,0,0
 passerine,0/616,0,0,0,0,0,0,0
-sparrow,3/5,60,0,3,0,0,0,0
+sparrow,3/5,60,3,0,0,0,0,0
 english sparrow,0/0,N/A,0,0,0,0,0,0
-stringed instrument,1/85,2,0,1,0,0,0,0
-guitar,5/12,42,0,5,0,0,0,0
+stringed instrument,1/85,2,1,0,0,0,0,0
+guitar,5/12,42,5,0,0,0,0,0
 acoustic guitar,0/0,N/A,0,0,0,0,0,0
 edible fruit,0/303,0,0,0,0,0,0,0
 grapes,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
@@ -107,18 +107,18 @@ striker,0/0,N/A,0,0,0,0,0,0
 hammer,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 food fish,0/142,0,0,0,0,0,0,0
-salmon,12/25,48,0,10,2,0,0,0
+salmon,12/25,48,10,2,0,0,0,0
 atlantic salmon,0/0,N/A,0,0,0,0,0,0
 reproductive structure,0/684,0,0,0,0,0,0,0
-fruit,21/565,4,0,7,13,1,0,0
+fruit,21/565,4,7,13,1,0,0,0
 accessory fruit,0/0,N/A,0,0,0,0,0,0
 keyboard instrument,0/35,0,0,0,0,0,0,0
-piano,8/16,50,0,4,4,0,0,0
-grand piano,3/8,38,0,3,0,0,0,0
+piano,8/16,50,4,4,0,0,0,0
+grand piano,3/8,38,3,0,0,0,0,0
 edible fruit,0/303,0,0,0,0,0,0,0
-apple,5/29,18,0,5,0,0,0,0
+apple,5/29,18,5,0,0,0,0,0
 cooking apple,0/4,0,0,0,0,0,0,0
-fruit tree,2/450,1,0,2,0,0,0,0
+fruit tree,2/450,1,2,0,0,0,0,0
 peach,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 underpants,0/17,0,0,0,0,0,0,0
@@ -127,63 +127,63 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 hosiery,0/30,0,0,0,0,0,0,0
 socks,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 anklet,0/0,N/A,0,0,0,0,0,0
-garment,4/445,1,0,3,1,0,0,0
-shirt,8/17,48,0,8,0,0,0,0
+garment,4/445,1,3,1,0,0,0,0
+shirt,8/17,48,8,0,0,0,0,0
 camise,0/0,N/A,0,0,0,0,0,0
-array,1/49,3,0,1,0,0,0,0
-table,7/10,70,0,6,1,0,0,0
+array,1/49,3,1,0,0,0,0,0
+table,7/10,70,6,1,0,0,0,0
 actuarial table,0/1,0,0,0,0,0,0,0
 seat,0/1,0,0,0,0,0,0,0
-chair,31/48,65,0,17,13,1,0,0
+chair,31/48,65,17,13,1,0,0,0
 armchair,0/10,0,0,0,0,0,0,0
 motor vehicle,0/153,0,0,0,0,0,0,0
-truck,15/48,32,0,10,5,0,0,0
+truck,15/48,32,10,5,0,0,0,0
 dump truck,0/0,N/A,0,0,0,0,0,0
 jean,0/2,0,0,0,0,0,0,0
 levis,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-wood,68/206,34,0,60,5,3,0,0
-maple,1/1,100,0,1,0,0,0,0
+wood,68/206,34,60,5,3,0,0,0
+maple,1/1,100,1,0,0,0,0,0
 bird's-eye maple,0/0,N/A,0,0,0,0,0,0
-wood,68/206,34,0,60,5,3,0,0
+wood,68/206,34,60,5,3,0,0,0
 birch,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-fish,261/1169,23,0,7,6,26,63,80
-trout,3/3,100,0,3,0,0,0,0
+fish,261/1169,23,7,6,26,63,80,79
+trout,3/3,100,3,0,0,0,0,0
 rainbow trout,0/0,N/A,0,0,0,0,0,0
 bird of prey,0/176,0,0,0,0,0,0,0
-eagle,14/25,56,0,7,7,0,0,0
+eagle,14/25,56,7,7,0,0,0,0
 bald eagle,0/0,N/A,0,0,0,0,0,0
-implement,4/1099,1,0,3,1,0,0,0
-tool,11/566,2,0,5,3,2,1,0
+implement,4/1099,1,3,1,0,0,0,0
+tool,11/566,2,5,3,2,1,0,0
 abrader,0/2,0,0,0,0,0,0,0
 woody plant,0/5304,0,0,0,0,0,0,0
-tree,338/2911,12,0,110,94,90,32,11
+tree,338/2911,12,110,94,90,32,11,1
 aalii,0/0,N/A,0,0,0,0,0,0
 aquatic vertebrate,0/722,0,0,0,0,0,0,0
-fish,261/1169,23,0,7,6,26,63,80
+fish,261/1169,23,7,6,26,63,80,79
 bony fish,0/1118,0,0,0,0,0,0,0
-vertebrate,2/4042,1,0,1,1,0,0,0
-bird,149/1817,9,0,21,25,30,44,28
+vertebrate,2/4042,1,1,1,0,0,0,0
+bird,149/1817,9,21,25,30,44,28,1
 apodiform bird,0/13,0,0,0,0,0,0,0
 percussion instrument,0/68,0,0,0,0,0,0,0
-drum,5/14,36,0,5,0,0,0,0
+drum,5/14,36,5,0,0,0,0,0
 bass drum,0/0,N/A,0,0,0,0,0,0
 source of illumination,0/107,0,0,0,0,0,0,0
-lamp,27/68,40,0,19,7,1,0,0
+lamp,27/68,40,19,7,1,0,0,0
 aladdin's lamp,0/0,N/A,0,0,0,0,0,0
-pitch,5/17,30,0,5,0,0,0,0
+pitch,5/17,30,5,0,0,0,0,0
 bass,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 saying,0/59,0,0,0,0,0,0,0
 saw,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 motor vehicle,0/153,0,0,0,0,0,0,0
-car,21/76,28,0,19,2,0,0,0
+car,21/76,28,19,2,0,0,0,0
 ambulance,0/1,0,0,0,0,0,0,0
 public transport,0/38,0,0,0,0,0,0,0
-bus,3/5,60,0,3,0,0,0,0
+bus,3/5,60,3,0,0,0,0,0
 minibus,0/0,N/A,0,0,0,0,0,0
-wood,68/206,34,0,60,5,3,0,0
-oak,2/2,100,0,2,0,0,0,0
+wood,68/206,34,60,5,3,0,0,0
+oak,2/2,100,2,0,0,0,0,0
 fumed oak,0/0,N/A,0,0,0,0,0,0

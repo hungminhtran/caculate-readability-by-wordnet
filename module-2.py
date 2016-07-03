@@ -2,28 +2,20 @@ import importlib
 mod1 = importlib.import_module("module-1")
 extractText = importlib.import_module("ExtractText")
 import nltk
+from nltk.tokenize import word_tokenize
 import re
 
 def findAllItemFromArray(inputData, searchData, printForDeBug = 0, isTEI = 1):
     if (isTEI == 1):
         result = []
         inputData = mod1.standandlizeNounsForInputRegex(inputData)
-        for searchPattern  in searchData:
-            #for plural nouns
-            #re.search("[ ^ ]{0,1}we[ s]", 'we ')
-            tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(searchPattern) + '[s]{0,1}' + r"\b"
-            inputData, isFinOut = re.subn(tempT, ' ', inputData) #avoid concat string can be created new noun
-            if (isFinOut > 0):
-                result.append(searchPattern)
-                # if (printForDeBug == 1):
-                #     print(tempT)
-                #     print(inputData)
-        result = list(set(result))
+        tokenInputData = word_tokenize(inputData)
+        for i in range(len(tokenInputData)):
+            tokenInputData[i] =  mod1.standanizeNoun(tokenInputData[i])
+        tokenInputDataSet = set(tokenInputData)
+        searchDataSet = set(searchData)
+        result = list(tokenInputDataSet.intersection(searchDataSet))
         result.sort()
-        # if (printForDeBug):
-        #     print("doc after re.sub all things:")
-        #     print(inputData)
-        #     print(result)
         return result
     else:
         result = []

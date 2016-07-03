@@ -1,4 +1,4 @@
-đình công,10/20,50,0,10,0,0,0,0
+đình công,10/20,50,10,0,0,0,0,0
 cuộc đình công không chính thức,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 thuốc trợ tim,0/15,0,0,0,0,0,0,0
@@ -10,7 +10,7 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 anh đào chi physalis,0/29,0,0,0,0,0,0,0
 cây anh đào đài đỏ cam,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-cờ,8/8,100,0,6,2,0,0,0
+cờ,8/8,100,6,2,0,0,0,0
 cờ nước liên hiệp anh,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 lòng khao khát,0/15,0,0,0,0,0,0,0
@@ -55,10 +55,10 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 cây cối,0/3207,0,0,0,0,0,0,0
 cây đậu thơm,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-hợp chất hữu cơ,5/1800,1,0,4,0,0,1,0
+hợp chất hữu cơ,5/1800,1,4,0,0,1,0,0
 hợp chất béo,0/57,0,0,0,0,0,0,0
 axetylen,0/0,N/A,0,0,0,0,0,0
-chủ đề,1/1,100,0,1,0,0,0,0
+chủ đề,1/1,100,1,0,0,0,0,0
 tay cừ khôi,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sự thay đổi nhiệt độ,0/51,0,0,0,0,0,0,0
@@ -74,9 +74,9 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 malcolm x,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 instrument,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-súng ống,1/446,1,0,0,0,1,0,0
+súng ống,1/446,1,0,0,1,0,0,0
 cung,0/0,N/A,0,0,0,0,0,0
-thiết bị,3/185,2,0,1,1,1,0,0
+thiết bị,3/185,2,1,1,1,0,0,0
 vú da,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A

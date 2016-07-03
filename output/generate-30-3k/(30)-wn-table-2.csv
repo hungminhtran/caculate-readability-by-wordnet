@@ -1,31 +1,31 @@
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 j. j. hill,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-dish,3/27,12,0,3,0,0,0,0
+dish,3/27,12,3,0,0,0,0,0
 chicken and rice,0/1,0,0,0,0,0,0,0
 arroz con pollo,0/0,N/A,0,0,0,0,0,0
-lavender,4/8,50,0,4,0,0,0,0
+lavender,4/8,50,4,0,0,0,0,0
 english lavender,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 gilbert islands,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-vine,63/788,8,0,36,18,5,4,0
+vine,63/788,8,36,18,5,4,0,0
 uruguay potato,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-cleaner,1/27,4,0,1,0,0,0,0
+cleaner,1/27,4,1,0,0,0,0,0
 cleaning lady,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-airfield,1/11,10,0,1,0,0,0,0
+airfield,1/11,10,1,0,0,0,0,0
 landing strip,0/1,0,0,0,0,0,0,0
 flare path,0/0,N/A,0,0,0,0,0,0
-garden,13/28,47,0,12,1,0,0,0
+garden,13/28,47,12,1,0,0,0,0
 market garden,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 sewing stitch,0/38,0,0,0,0,0,0,0
 flame stitch,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-linear unit,2/147,2,0,2,0,0,0,0
+linear unit,2/147,2,2,0,0,0,0,0
 long measure,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 chemical element,0/519,0,0,0,0,0,0,0
@@ -34,23 +34,23 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 coagulation factor,0/33,0,0,0,0,0,0,0
 factor viii,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-terrier,40/57,71,0,25,13,2,0,0
+terrier,40/57,71,25,13,2,0,0,0
 rat terrier,0/4,0,0,0,0,0,0,0
 manchester terrier,0/2,0,0,0,0,0,0,0
-cattle,2/47,5,0,2,0,0,0,0
+cattle,2/47,5,2,0,0,0,0,0
 milch cow,0/8,0,0,0,0,0,0,0
 ayrshire,0/0,N/A,0,0,0,0,0,0
 edible nut,0/39,0,0,0,0,0,0,0
 pine nut,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-distribution,8/15,54,0,8,0,0,0,0
+distribution,8/15,54,8,0,0,0,0,0
 redistribution,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-inflammation,2/229,1,0,1,1,0,0,0
+inflammation,2/229,1,1,1,0,0,0,0
 vesiculitis,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-fact,2/26,8,0,1,1,0,0,0
-indicator,1/15,7,0,1,0,0,0,0
+fact,2/26,8,1,1,0,0,0,0
+indicator,1/15,7,1,0,0,0,0,0
 body mass index,0/0,N/A,0,0,0,0,0,0
 protestantism,0/24,0,0,0,0,0,0,0
 wesleyism,0/0,N/A,0,0,0,0,0,0
@@ -64,22 +64,22 @@ N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 nonsteroidal anti-inflammatory,0/66,0,0,0,0,0,0,0
 voltaren,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-curtain,5/10,50,0,4,1,0,0,0
+curtain,5/10,50,4,1,0,0,0,0
 festoon,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 new world blackbird,0/11,0,0,0,0,0,0,0
 redwing,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-wolf,11/18,62,0,11,0,0,0,0
+wolf,11/18,62,11,0,0,0,0,0
 coyote,0/1,0,0,0,0,0,0,0
 coydog,0/0,N/A,0,0,0,0,0,0
 organic,0/10,0,0,0,0,0,0,0
-manure,4/5,80,0,4,0,0,0,0
+manure,4/5,80,4,0,0,0,0,0
 chicken manure,0/0,N/A,0,0,0,0,0,0
 connective tissue,0/283,0,0,0,0,0,0,0
-marrow,4/4,100,0,4,0,0,0,0
+marrow,4/4,100,4,0,0,0,0,0
 red marrow,0/0,N/A,0,0,0,0,0,0
-measuring instrument,1/347,1,0,0,1,0,0,0
+measuring instrument,1/347,1,0,1,0,0,0,0
 asdic,0/0,N/A,0,0,0,0,0,0
 N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 breechcloth,0/1,0,0,0,0,0,0,0

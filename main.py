@@ -65,7 +65,7 @@ def writeOUt(outQueue, fileName, PROCESS_LOCK):
     outFile = open(fileName, 'w+')
     outFile.write("file,ratio,blw,allNoun\n")
     while (1):
-        time.sleep(10)
+        time.sleep(2)
         temp = ""
         if (EOP == MAX_PROCESS):
             break;

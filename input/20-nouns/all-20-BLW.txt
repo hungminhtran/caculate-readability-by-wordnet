@@ -2,6 +2,7 @@ screwdriver
 guitar
 piano
 grape
+socks
 shirt
 table
 chair
