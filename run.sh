@@ -3,7 +3,7 @@
 #run command
 echo "program running"
 # python3 module-1.py # generate necessary file
-python3 main.py 4 'data/testDataTEI/' 'output/testDataTEI_output.csv' 'input/wn-nouns/all-wn-BLW.txt' 'input/wn-nouns/all-wn-SORTED-nouns.txt' 0 1
+# python3 main.py 1 'data/testDataTEI/' 'output/testDataTEI_output.csv' 'input/wn-nouns/all-wn-BLW.txt' 'input/wn-nouns/all-wn-SORTED-nouns.txt' 1 1
 # python3 main.py 4 'data/English Textbook 4 Readability Level' output/ET4RL-outputBlw.csv input/blw-nouns/all-blw-BLW.txt input/wn-nouns/all-wn-SORTED-nouns.txt  0 1
 # python3 main.py 4 'data/English Textbook 4 Readability Level' output/ET4RL-outputWN.csv input/wn-nouns/all-wn-BLW.txt input/wn-nouns/all-wn-SORTED-nouns.txt  0 1
 # python3 main.py 4 'data/English Textbook 4 Readability Level' output/ET4RL-outputFreq.csv input/freq-nouns/3000-freq-BLW.txt input/wn-nouns/all-wn-SORTED-nouns.txt  0 1
@@ -29,6 +29,10 @@ python3 main.py 4 'data/testDataTEI/' 'output/testDataTEI_output.csv' 'input/wn-
 # python3 calculate-using-wn-by-exist-data.py 'output/vietnamesewn_Difficult_output2.csv' 'input/vietnamesePOS-nouns/3000-vietnamesePOS-BLW.txt' 'output/vietnamese3000POS_Difficult_output2.csv'
 # python3 calculate-using-wn-by-exist-data.py 'output/vietnamesewn_Normal_output2.csv' 'input/vietnamesePOS-nouns/3000-vietnamesePOS-BLW.txt' 'output/vietnamese3000POS_Normal_output2.csv'
 # python3 calculate-using-wn-by-exist-data.py 'output/vietnamesewn_Easy_output2.csv' 'input/vietnamesePOS-nouns/3000-vietnamesePOS-BLW.txt' 'output/vietnamese3000freq_Easy_output2.csv'
+python3 calculate-using-wn-by-exist-data.py 'output/ET4RL-outputWN.csv' 'input/20-nouns/all-20-BLW.txt' 'output/ET4RL-output20nouns.csv'
+python3 calculate-using-wn-by-exist-data.py 'output/ET4RL-outputWN.csv' 'input/POS-nouns/all-3kPOS-BLW.txt' 'output/ET4RL-output3kPOS.csv'
+python3 calculate-using-wn-by-exist-data.py 'output/ET4RL-outputWN.csv' 'input/blw-nouns/all-blw-BLW.txt' 'output/ET4RL-outputBlw.csv'
+python3 calculate-using-wn-by-exist-data.py 'output/ET4RL-outputWN.csv' 'input/freq-nouns/3000-freq-BLW.txt' 'output/ET4RL-outputFreq.csv'
 
-python3 vietnamese-formula-module.py data/ppVietnamese_by_catalog/ output/vietnameseFomula.csv 
+# python3 vietnamese-formula-module.py data/ppVietnamese_by_catalog/ output/vietnameseFomula.csv 
 echo "end"
