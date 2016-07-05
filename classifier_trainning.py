@@ -83,28 +83,31 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
         # print(j, temp[:temp1,:temp2].shape, clf_name[j], 'done', 'time', time.time() - TRAIN_TIME)
         # print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
         # print('')
+        print('train', temp[:temp1,:temp2][1])
         clf = clf_List[j].fit(temp[:temp1,:temp2], temp[:temp1, -1])
         score = clf.score(temp[temp1:,:temp2], temp[temp1:, -1])
         _tempfile = open('output/svm_result_'  + '_' + clf_name[j] + '_score=' + str(score) + '_.csv', 'w+')
-        if (j % 2 == 0):
+        if (j % 2 == 1):
             _tempfile.write('filename,words/sentences,letters/senetences,letters/words,blw,lable,predict\n')
             _tempfile.write('traindata,traindata,traindata,traindata,traindata,traindata,traindata\n')
         else:
             _tempfile.write('filename,words/sentences,letters/senetences,letters/words,lable,predict\n')
             _tempfile.write('traindata,traindata,traindata,traindata,traindata,traindata\n')
         # print('X', X.shape, X[1])
-        _prediction = clf.predict(temp[i][:temp2])
+        # _prediction = clf.predict(temp[1][:temp2])
         # print('predict', str(_prediction[0]))
         for i in range(temp1):
-            _output = ','.join(X[i][:temp2]) + ',' + X[i][-1].tostring()
+            _prediction = clf.predict(temp[i][:temp2])
+            _output = ','.join(X[i][:temp2+1]) + ',' + X[i][-1].tostring()
             _output = _output + ',' + str(_prediction[0]) + '\n'
             _tempfile.write(_output)
-        if (j % 2 == 0):
+        if (j % 2 == 1):
             _tempfile.write('testdata,testdata,testdata,testdata,testdata,testdata,testdata\n')
         else:
             _tempfile.write('testdata,testdata,testdata,testdata,testdata,testdata\n')
         for i in range(temp1+1, X.shape[0]):
-            _output = ','.join(X[i][:temp2]) + ',' + X[i][-1].tostring()
+            _prediction = clf.predict(temp[i][:temp2])            
+            _output = ','.join(X[i][:temp2+1]) + ',' + X[i][-1].tostring()
             _output = _output + ',' + str(_prediction[0]) + '\n'
             _tempfile.write(_output)                
         _tempfile.close()
