@@ -11,7 +11,8 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0, isTEI = 1):
     for searchPattern  in searchData:
         #for plural nouns
         #re.search("[ ^ ]{0,1}we[ s]", 'we ')
-        tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(searchPattern) + '[s]{0,1}' + r"\b"
+        # find word with a_b first        
+        tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(mod1.standanizeNoun(searchPattern)) + '[s]{0,1}' + r"\b"        
         inputData, isFinOut = re.subn(tempT, ' ', inputData) #avoid concat string can be created new noun
         if (isFinOut > 0):
             result.append(searchPattern)
@@ -19,6 +20,13 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0, isTEI = 1):
             if (printForDeBug == 1):
                 print(tempT)
                 print(inputData)
+        else:
+            # then find a b
+            tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(searchPattern) + '[s]{0,1}' + r"\b"
+            inputData, isFinOut = re.subn(tempT, ' ', inputData) #avoid concat string can be created new noun
+            if (isFinOut > 0):
+                result.append(searchPattern)
+                totalWords = totalWords + isFinOut
     
     result = list(set(result))
     result.sort()

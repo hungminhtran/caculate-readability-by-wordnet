@@ -49,10 +49,12 @@ def getShallowFeatureForFile(inputDataFromFileInRow, row, funcArgs):
             for c in sentence:
                 if (c in hashmapVietnameseCharCount):
                     totalLetter = totalLetter + hashmapVietnameseCharCount[c]
-            # totalSentences = totalSentences + 1
+            # totalSentences = totalSentences + 1            
     if (totalSentences > 0 and totalWords > 0):
         # return [float(totalWords)/totalSentences, totalSentences, totalWords, totalLetter, row[0], float(totalLetter)/totalSentences, float(totalLetter)/totalWords, float(row[1]), labelKWs]
-        return [float(hashMapFileCount3kWords[row[0]])/totalWords, float(totalWords)/totalSentences, float(totalLetter)/totalSentences, float(totalLetter)/totalWords, float(row[1]), labelKWs]
+        # if float(hashMapFileCount3kWords[row[0]]) > totalWords:
+        #     print("*"*5, "ERROR", row[0])
+        return [row[0], float(totalWords)/totalSentences, float(totalLetter)/totalSentences, float(totalLetter)/totalWords, float(row[1]), labelKWs]
     # else:
     #     return [-1, -1, -1, float(row[1]), labelKWs]
 
@@ -90,13 +92,13 @@ def writeOutResult(RESULT_QUEUE, outputFile):
     isEndWriteOut = MAX_PROCESS
     _tempfile = open(outputFile, 'w+')
     while (isEndWriteOut > 0):
+        while (RESULT_QUEUE.empty() and isEndWriteOut > 0):
+            time.sleep(1)
         temp = RESULT_QUEUE.get()
         if (temp == 'EOP'):
             isEndWriteOut = isEndWriteOut - 1
-        else:
-            _tempfile.write(' '.join(map(lambda x: str(x), temp)) + '\n')
-        while (RESULT_QUEUE.empty() and isEndWriteOut > 0):
-            time.sleep(1)
+        elif (temp != None):
+            _tempfile.write(','.join(map(lambda x: str(x), temp)) + '\n')
     _tempfile.close()
 
 def getFeatureMultiprocessing(subProcFunc, blwFile, outputFile, funcArgs, keyword=['Vietnamese_by_catalog', 'ppVietnamese_by_catalog']):

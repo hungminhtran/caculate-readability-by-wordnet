@@ -35,9 +35,19 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
         clf_name.append(_kernel + 'noblw')
         clf_name.append(_kernel + 'blw')
 
-    X = numpy.loadtxt(inputFile[0])
-    for _file in range(1, len(inputFile)):
-        X = numpy.concatenate((X, numpy.loadtxt(inputFile[_file])), axis=0)
+    # X = numpy.loadtxt(inputFile[0])
+    # for _file in range(1, len(inputFile)):
+    #     X = numpy.concatenate((X, numpy.loadtxt(inputFile[_file])), axis=0)
+    X = []
+    for i in range(len(inputFile)):
+        _tempfile = open(inputFile[i], 'r')
+        temp = _tempfile.read()
+        _tempfile.close()
+        X = X + temp.splitlines()
+    for i in range(len(X)):
+        X[i] = X[i].split(',')
+    X = numpy.asarray(X)
+
 
     # data = datasets.load_digits().data
     # target = datasets.load_digits().target
@@ -46,29 +56,58 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
     # X = numpy.asarray(X)
     # X = numpy.repeat(X, 10, 0)
 
-    X = shuffle(X, random_state=0)
-    print(X[1])
-    # X[:,-2] = X[:,-2] / 100
     if (isuseDict):
         dictFreq = numpy.power(10.0, -dictFreq)
         X[:,:-2] = X[:,:-2] - dictFreq
         X = numpy.fabs(X)
-    print(X[1])
+    X = shuffle(X, random_state=0)
+    print('X',X[1])
     # for _kernel in mykernel:
     print('input data shape', X.shape)
     print('train and dump clf')  
     if not os.path.exists(directory):
         os.makedirs(directory)
+    temp = X[:,1:].astype(numpy.float)
+    # X[:,-2] = X[:,-2] / 100
+    print('temp',temp[1])
     for j in range(len(clf_List)):
         TRAIN_TIME = time.time()
-        temp1 = int(CF*len(X)) - 1
-        temp2 = len(X[0]) - 1 - (j+1) % 2
+        temp1 = int(CF*len(temp)) - 1
+        temp2 = len(temp[0]) - 1 - (j+1) % 2
         # print(X[:temp1,:temp2], X[:temp1, -1])
         # clf_List[j].fit(X[:temp1,:temp2], X[:temp1, -1])
-        scores = cross_validation.cross_val_score(clf_List[j], X[:temp1,:temp2], X[:temp1, -1], cv=9)
-        print(j, X[:temp1,:temp2].shape, clf_name[j], 'done', 'time', time.time() - TRAIN_TIME)
-        print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
-        print('')
+        # print(X[:temp1,1:temp2].shape,  X[:temp1,1:temp2][1])
+        # print(temp.shape,  temp[:temp1,:temp2][1])
+        # print('temp',temp[1,:temp2])
+        # scores = cross_validation.cross_val_score(clf_List[j], temp[:,:temp2], temp[:, -1], cv=9)
+        # print(j, temp[:temp1,:temp2].shape, clf_name[j], 'done', 'time', time.time() - TRAIN_TIME)
+        # print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
+        # print('')
+        clf = clf_List[j].fit(temp[:temp1,:temp2], temp[:temp1, -1])
+        score = clf.score(temp[temp1:,:temp2], temp[temp1:, -1])
+        _tempfile = open('output/svm_result_'  + '_' + clf_name[j] + '_score=' + str(score) + '_.csv', 'w+')
+        if (j % 2 == 0):
+            _tempfile.write('filename,words/sentences,letters/senetences,letters/words,blw,lable,predict\n')
+            _tempfile.write('traindata,traindata,traindata,traindata,traindata,traindata,traindata\n')
+        else:
+            _tempfile.write('filename,words/sentences,letters/senetences,letters/words,lable,predict\n')
+            _tempfile.write('traindata,traindata,traindata,traindata,traindata,traindata\n')
+        # print('X', X.shape, X[1])
+        _prediction = clf.predict(temp[i][:temp2])
+        # print('predict', str(_prediction[0]))
+        for i in range(temp1):
+            _output = ','.join(X[i][:temp2]) + ',' + X[i][-1].tostring()
+            _output = _output + ',' + str(_prediction[0]) + '\n'
+            _tempfile.write(_output)
+        if (j % 2 == 0):
+            _tempfile.write('testdata,testdata,testdata,testdata,testdata,testdata,testdata\n')
+        else:
+            _tempfile.write('testdata,testdata,testdata,testdata,testdata,testdata\n')
+        for i in range(temp1+1, X.shape[0]):
+            _output = ','.join(X[i][:temp2]) + ',' + X[i][-1].tostring()
+            _output = _output + ',' + str(_prediction[0]) + '\n'
+            _tempfile.write(_output)                
+        _tempfile.close()
     #     DUMP_TIME = time.time()
     #     joblib.dump(clf_List[j],  directory + '/' + clf_name[j] + '.pkl')
     #     print(clf_name[j], 'dump time total: ', time.time() - DUMP_TIME)
