@@ -13,7 +13,7 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0, isTEI = 1):
         #re.search("[ ^ ]{0,1}we[ s]", 'we ')
         # find word with a_b first        
         tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(mod1.standanizeNoun(searchPattern)) + '[s]{0,1}' + r"\b"        
-        inputData, isFinOut = re.subn(tempT, ' ', inputData) #avoid concat string can be created new noun
+        inputData, isFinOut = re.subn(tempT, '_', inputData) #avoid concat string can be created new noun
         if (isFinOut > 0):
             result.append(searchPattern)
             totalWords = totalWords + isFinOut
@@ -23,7 +23,7 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0, isTEI = 1):
         else:
             # then find a b
             tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(searchPattern) + '[s]{0,1}' + r"\b"
-            inputData, isFinOut = re.subn(tempT, ' ', inputData) #avoid concat string can be created new noun
+            inputData, isFinOut = re.subn(tempT, '_', inputData) #avoid concat string can be created new noun
             if (isFinOut > 0):
                 result.append(searchPattern)
                 totalWords = totalWords + isFinOut
