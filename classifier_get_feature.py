@@ -32,6 +32,7 @@ def getFreqWordsForFileFromDict(inputDataFromFileInRow, row, funcArgs):
 def getShallowFeatureForFile(inputDataFromFileInRow, row, funcArgs):
     labelKWs = funcArgs[0]
     paragraph = inputDataFromFileInRow.splitlines()
+    totalSentences = 0
     totalSentences =len(paragraph)
     totalWords = inputDataFromFileInRow.count(' ') 
     punctuations = '“”‘’!()-[]{};:\'\"\\,<>./?@#$^&*~'
@@ -47,10 +48,12 @@ def getShallowFeatureForFile(inputDataFromFileInRow, row, funcArgs):
             for c in sentence:
                 if (c in hashmapVietnameseCharCount):
                     totalLetter = totalLetter + hashmapVietnameseCharCount[c]
+            # totalSentences = totalSentences + 1
     if (totalSentences > 0 and totalWords > 0):
-        return [totalWords/float(totalSentences), totalLetter/float(totalSentences), totalLetter/float(totalWords), float(row[1]), labelKWs]
-    else:
-        return [0, 0, 0, float(row[1]), labelKWs]
+        # return [float(totalWords)/totalSentences, totalSentences, totalWords, totalLetter, row[0], float(totalLetter)/totalSentences, float(totalLetter)/totalWords, float(row[1]), labelKWs]
+        return [float(totalWords)/totalSentences, float(totalLetter)/totalSentences, float(totalLetter)/totalWords, float(row[1]), labelKWs]
+    # else:
+    #     return [-1, -1, -1, float(row[1]), labelKWs]
 
 def getDataNFeatureFromFileForAProc(PROCESS_LOCK, RESULT_QUEUE, filesQueue, subProcFunc, funcArgs):
     X = []
@@ -91,7 +94,7 @@ def writeOutResult(RESULT_QUEUE, outputFile):
         else:
             _tempfile.write(' '.join(map(lambda x: str(x), temp)) + '\n')
         while (RESULT_QUEUE.empty() and isEndWriteOut > 0):
-            time.sleep(2)
+            time.sleep(1)
     _tempfile.close()
 
 def getFeatureMultiprocessing(subProcFunc, blwFile, outputFile, funcArgs, keyword=['Vietnamese_by_catalog', 'ppVietnamese_by_catalog']):
@@ -109,6 +112,10 @@ def getFeatureMultiprocessing(subProcFunc, blwFile, outputFile, funcArgs, keywor
     for i in range(1, len(temp)):
             temp[i] = temp[i].split(',')
             temp[i][0] = re.sub(keyword[0], keyword[1], temp[i][0])
+            if (not temp[i][0].find('ppVietnamese_by_catalog') > 0):
+                print('[ERROR] processing ', temp[i][0])
+                print('sub', keyword[0], keyword[1], re.sub(keyword[0], keyword[1], temp[i][0]))
+                return
             filesQueue.put(temp[i])
     PROCESS_LOCK = Lock()
     myProcess = []
@@ -134,7 +141,7 @@ def getFreqFeatureFromFile(outputFile, blwFile, labelKWs, dictFile='data/TanSoTu
 
 def getShallowFeatureFromFile(outputFile, blwFile, labelKWs):
     funcArgs = [labelKWs]
-    getFeatureMultiprocessing(getShallowFeatureForFile, blwFile, outputFile, funcArgs, ['',''])
+    getFeatureMultiprocessing(getShallowFeatureForFile, blwFile, outputFile, funcArgs)
 
 if __name__ == '__main__':
     import sys
