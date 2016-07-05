@@ -31,6 +31,7 @@ def getFreqWordsForFileFromDict(inputDataFromFileInRow, row, funcArgs):
 
 def getShallowFeatureForFile(inputDataFromFileInRow, row, funcArgs):
     labelKWs = funcArgs[0]
+    hashMapFileCount3kWords = funcArgs[1]
     paragraph = inputDataFromFileInRow.splitlines()
     totalSentences = 0
     totalSentences =len(paragraph)
@@ -51,7 +52,7 @@ def getShallowFeatureForFile(inputDataFromFileInRow, row, funcArgs):
             # totalSentences = totalSentences + 1
     if (totalSentences > 0 and totalWords > 0):
         # return [float(totalWords)/totalSentences, totalSentences, totalWords, totalLetter, row[0], float(totalLetter)/totalSentences, float(totalLetter)/totalWords, float(row[1]), labelKWs]
-        return [float(totalWords)/totalSentences, float(totalLetter)/totalSentences, float(totalLetter)/totalWords, float(row[1]), labelKWs]
+        return [float(hashMapFileCount3kWords[row[0]])/totalWords, float(totalWords)/totalSentences, float(totalLetter)/totalSentences, float(totalLetter)/totalWords, float(row[1]), labelKWs]
     # else:
     #     return [-1, -1, -1, float(row[1]), labelKWs]
 
@@ -67,6 +68,7 @@ def getDataNFeatureFromFileForAProc(PROCESS_LOCK, RESULT_QUEUE, filesQueue, subP
             row = filesQueue.get()
             PROCESS_LOCK.release()
         try:
+        # if (1):
             PROCESS_LOCK.acquire()
             print(filesQueue.qsize(), 'processing', row[0], 'at', datetime.datetime.now().time())
             PROCESS_LOCK.release()
@@ -112,9 +114,9 @@ def getFeatureMultiprocessing(subProcFunc, blwFile, outputFile, funcArgs, keywor
     for i in range(1, len(temp)):
             temp[i] = temp[i].split(',')
             temp[i][0] = re.sub(keyword[0], keyword[1], temp[i][0])
-            if (not temp[i][0].find('ppVietnamese_by_catalog') > 0):
+            if not keyword[0] == '' and (not temp[i][0].find(keyword[-1]) > 0):
                 print('[ERROR] processing ', temp[i][0])
-                print('sub', keyword[0], keyword[1], re.sub(keyword[0], keyword[1], temp[i][0]))
+                print('sub', keyword[0], keyword[-1], re.sub(keyword[0], keyword[-1], temp[i][0]))
                 return
             filesQueue.put(temp[i])
     PROCESS_LOCK = Lock()
@@ -139,15 +141,21 @@ def getFreqFeatureFromFile(outputFile, blwFile, labelKWs, dictFile='data/TanSoTu
     funcArgs = [dictData, dictFreq, labelKWs]
     getFeatureMultiprocessing(getFreqWordsForFileFromDict, blwFile, outputFile, funcArgs)
 
-def getShallowFeatureFromFile(outputFile, blwFile, labelKWs):
-    funcArgs = [labelKWs]
-    getFeatureMultiprocessing(getShallowFeatureForFile, blwFile, outputFile, funcArgs)
+def getShallowFeatureFromFile(outputFile, blwFile, labelKWs, _3kFreqInDoc, _kw):
+    hashMapFileCount3kWords = {}
+    _tempfile = open(_3kFreqInDoc, 'r')
+    _3kFreqInDoc = _tempfile.read().splitlines()
+    _tempfile.close()
+    for i in range(1,len(_3kFreqInDoc)):
+        temp = _3kFreqInDoc[i].split(',')
+        hashMapFileCount3kWords[re.sub(_kw[0], _kw[1], temp[0])] = float(temp[-1].split(' | ')[-1])
+    # print(hashMapFileCount3kWords)
+    funcArgs = [labelKWs, hashMapFileCount3kWords]
+    getFeatureMultiprocessing(getShallowFeatureForFile, blwFile, outputFile, funcArgs, _kw)
 
 if __name__ == '__main__':
     import sys
     if not sys.version_info[0] > 2:
         raise "Must be using Python 3"
-    if (len(sys.argv) == 5):
-        getFreqFeatureFromFile(sys.argv[1],sys.argv[2], sys.argv[3], sys.argv[4])
-    elif (len(sys.argv) == 4):
-        getShallowFeatureFromFile(sys.argv[1],sys.argv[2], sys.argv[3])
+    # getFreqFeatureFromFile(sys.argv[1],sys.argv[2], sys.argv[3], sys.argv[4])
+    getShallowFeatureFromFile(sys.argv[1],sys.argv[2], sys.argv[3], sys.argv[4], [sys.argv[5], sys.argv[6]])

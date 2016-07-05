@@ -48,7 +48,7 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
 
     X = shuffle(X, random_state=0)
     print(X[1])
-    X[:,-2] = X[:,-2] / 100
+    # X[:,-2] = X[:,-2] / 100
     if (isuseDict):
         dictFreq = numpy.power(10.0, -dictFreq)
         X[:,:-2] = X[:,:-2] - dictFreq
