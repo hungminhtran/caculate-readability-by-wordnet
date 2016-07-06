@@ -1,3 +1,4 @@
+ #!/usr/bin/env python -W ignore::DeprecationWarning
 import sys
 if sys.version_info[0] > 2:
     raise "Must be using Python 2"
@@ -28,12 +29,13 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
     for _kernel in mykernel:
         if _kernel == 'linear':
             clf_List.append(svm.LinearSVC())
-            clf_List.append(svm.LinearSVC())            
+            # clf_List.append(svm.LinearSVC())            
         else:
             clf_List.append(svm.SVC(kernel=_kernel))
-            clf_List.append(svm.SVC(kernel=_kernel))
-        clf_name.append(_kernel + 'noblw')
-        clf_name.append(_kernel + 'blw')
+            # clf_List.append(svm.SVC(kernel=_kernel))
+        # clf_name.append(_kernel + 'noblw')
+        # clf_name.append(_kernel + 'blw')
+        clf_name.append(_kernel)
 
     # X = numpy.loadtxt(inputFile[0])
     # for _file in range(1, len(inputFile)):
@@ -73,7 +75,7 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
     for j in range(len(clf_List)):
         TRAIN_TIME = time.time()
         temp1 = int(CF*len(temp)) - 1
-        temp2 = len(temp[0]) - 1 - (j+1) % 2
+        # temp2 = len(temp[0]) - 1 - (j+1) % 2
         # print(X[:temp1,:temp2], X[:temp1, -1])
         # clf_List[j].fit(X[:temp1,:temp2], X[:temp1, -1])
         # print(X[:temp1,1:temp2].shape,  X[:temp1,1:temp2][1])
@@ -83,34 +85,53 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
         # print(j, temp[:temp1,:temp2].shape, clf_name[j], 'done', 'time', time.time() - TRAIN_TIME)
         # print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
         # print('')
-        print('train', temp[:temp1,:temp2][1])
-        clf = clf_List[j].fit(temp[:temp1,:temp2], temp[:temp1, -1])
-        score = clf.score(temp[temp1:,:temp2], temp[temp1:, -1])
-        _tempfile = open('output/svm_result_'  + '_' + clf_name[j] + '_score=' + str(score) + '_.csv', 'w+')
-        if (j % 2 == 1):
-            _tempfile.write('filename,words/sentences,letters/senetences,letters/words,blw,lable,predict\n')
-            _tempfile.write('traindata,traindata,traindata,traindata,traindata,traindata,traindata\n')
-        else:
-            _tempfile.write('filename,words/sentences,letters/senetences,letters/words,lable,predict\n')
-            _tempfile.write('traindata,traindata,traindata,traindata,traindata,traindata\n')
-        # print('X', X.shape, X[1])
-        # _prediction = clf.predict(temp[1][:temp2])
-        # print('predict', str(_prediction[0]))
-        for i in range(temp1):
-            _prediction = clf.predict(temp[i][:temp2])
-            _output = ','.join(X[i][:temp2+1]) + ',' + X[i][-1].tostring()
-            _output = _output + ',' + str(_prediction[0]) + '\n'
-            _tempfile.write(_output)
-        if (j % 2 == 1):
-            _tempfile.write('testdata,testdata,testdata,testdata,testdata,testdata,testdata\n')
-        else:
-            _tempfile.write('testdata,testdata,testdata,testdata,testdata,testdata\n')
-        for i in range(temp1+1, X.shape[0]):
-            _prediction = clf.predict(temp[i][:temp2])            
-            _output = ','.join(X[i][:temp2+1]) + ',' + X[i][-1].tostring()
-            _output = _output + ',' + str(_prediction[0]) + '\n'
-            _tempfile.write(_output)                
-        _tempfile.close()
+        colum_whiteList = [0, 2, 3]
+        header = ['filename','words_sentences','wrong','letters_words','blw']
+        for p in colum_whiteList:
+            for q in colum_whiteList:
+                X_train = 0
+                X_score = 0
+                if p == 3 and q == 3:
+                    print(temp[:temp1,0:1].shape, temp[:temp1,2:4].shape)
+                    X_train = numpy.append(temp[:temp1,0:1], temp[:temp1, 2:4], 1)
+                    X_score = numpy.append(temp[temp1:,1:2], temp[temp1:, 3:5], 1)
+                elif ( p < q):
+                    X_train = numpy.append(temp[:temp1,p:p+1], temp[:temp1,q:q+1], 1)
+                    X_score = numpy.append(temp[temp1:,p:p+1], temp[temp1:,q:q+1], 1)
+                if (p < q or p == 3 and q == 3):
+                    print('train X_train', clf_name[j], p, q, X_train[1])
+                    clf = clf_List[j].fit(X_train, temp[:temp1, -1])
+                    # clf = clf_List[j].fit(temp[:temp1,:temp2], temp[:temp1, -1])
+                    score = clf.score(X_score, temp[temp1:, -1])
+                    # title = ''
+                    if (p == 3 and q == 3):
+                        title = header[1]+ ',' + header[3] + ','+ header[4]
+                        _tempfile = open('output/svm_result_'  + title + '_' + clf_name[j] + '_score=' + str(score) + '_.csv', 'w+')
+                        _tempfile.write(header[0] + ',' + title + ',lable,predict\n')
+                        _tempfile.write('traindata,traindata,traindata,traindata,traindata,traindata\n')
+                    else:
+                        title  = header[p+1] + ',' + header[q+1]
+                        _tempfile = open('output/svm_result_'  + title + '_' + clf_name[j] + '_score=' + str(score) + '_.csv', 'w+')
+                        _tempfile.write('filename,' + title +  ',lable,predict\n')
+                        _tempfile.write('traindata,traindata,traindata,traindata,traindata\n')
+                    # print('X', X.shape, X[1])
+                    # _prediction = clf.predict(temp[1][:temp2])
+                    # print('predict', str(_prediction[0]))
+                    _prediction = clf.predict(X_train)
+                    for i in range(temp1):
+                        _output = X[i][0] + ',' + ','.join(str(_temp) for _temp in X_train[i])  +',' + X[i][-1].tostring()
+                        _output = _output + ',' + str(_prediction[i]) + '\n'
+                        _tempfile.write(_output)
+                    if (p == 3 and q == 3):
+                        _tempfile.write('testdata,testdata,testdata,testdata,testdata,testdata\n')
+                    else:
+                        _tempfile.write('testdata,testdata,testdata,testdata,testdata\n')
+                    _prediction = clf.predict(X_score)
+                    for i in range(X_score.shape[0]):
+                        _output = X[i][0]  + ',' + ','.join(str(_temp) for _temp in X_score[i])  +',' + X[i][-1].tostring()
+                        _output = _output + ',' + str(_prediction[0]) + '\n'
+                        _tempfile.write(_output)                
+                    _tempfile.close()
     #     DUMP_TIME = time.time()
     #     joblib.dump(clf_List[j],  directory + '/' + clf_name[j] + '.pkl')
     #     print(clf_name[j], 'dump time total: ', time.time() - DUMP_TIME)
