@@ -3,3 +3,4 @@ data/*.csv
 demo*
 *.large.txt
 *.tar.gz
+.fuse_hidden*
