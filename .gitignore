@@ -1,6 +1,6 @@
 *.pyc
 data/*.csv
-demo*
+demo.*
 *.large.txt
 *.tar.gz
 .fuse_hidden*
