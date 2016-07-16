@@ -31,7 +31,7 @@ def upload_file(request):
             hashName = m.hexdigest()
             filename ='statics/tmp/' +  hashName
             with open(filename, 'wb+') as destination:
-                print('request file', str(request.FILES['myfile']))
+                # print('request file', str(request.FILES['myfile']))
                 for chunk in request.FILES['myfile'].chunks():
                     destination.write(chunk)
             subprocess.check_call("java -jar statics/vn.hus.nlp.tokenizer-4.1.1-bin/vn.hus.nlp.tokenizer-4.1.1.jar -i " + filename + " -o " + filename + ".tok", shell=True)
@@ -41,18 +41,18 @@ def upload_file(request):
             inputData = _tempfile.read()
             _tempfile.close()
             row = filename + ","+str(ratio) + "," + " | ".join(blwN) + ","  + " | ".join(allN) + "\n"
-            print(row)
+            # print(row)
             _shallowFt = getShallowFeatureForFile(inputData, row.split(','), [-1,0])
             shallowFt = numpy.asarray([float(_shallowFt[3]), float(_shallowFt[4])])
-            print(shallowFt)
-            print('shallow ft', _shallowFt)
+            # print(shallowFt)
+            # print('shallow ft', _shallowFt)
             predictLable = clf2.predict(shallowFt.reshape((1,-1)))
 
             output = ['file content:' + inputData, 'ratio: ' +str(ratio), 'basic level word: ' + "; ".join(blwN) , 'all nouns: ' + "; ".join(allN), 'lable: ' + str(predictLable)]
             # output = "upload file complete"
         else:
             output = "upload file failure"
-        print(output)
+        # print(output)
         timecost = 'time cost: ' + str(time.time() - START_TIME)
         return render(request, 'demosite/demosite.html', {'output': output, 'time': timecost})
     else:
