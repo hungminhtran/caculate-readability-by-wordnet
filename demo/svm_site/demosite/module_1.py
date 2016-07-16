@@ -345,7 +345,7 @@ def getWordInWordnet(table1File, outputFile):
         output.write(inputData[i].split(',')[0] + '\n')
     output.close()
 
-# if __name__ == '__main__':
-#     print('don\' run this file')
-# else:
-#     print('import module-1 sucessfully')
+if __name__ == '__main__':
+    print('don\'t run this file')
+else:
+    print('import module-1 sucessfully')

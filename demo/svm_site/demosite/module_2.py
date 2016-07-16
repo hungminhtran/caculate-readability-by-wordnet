@@ -1,47 +1,45 @@
-# import importlib
+import importlib
 # mod1 = importlib.import_module("module_1")
-from . import module_1
-mod1 = module_1
 # extractText = importlib.import_module("ExtractText")
+from . import module_1, ExtractText
+mod1 = module_1
+extractText = ExtractText
 import nltk
 import re
 
 def findAllItemFromArray(inputData, searchData, printForDeBug = 0, isTEI = 1):
     result = []
     inputData = mod1.standandlizeNounsForInputRegex(inputData)
+    if printForDeBug == 1:
+        print('search data', searchData)
+        print('data ', inputData)
     totalWords = 0;
     for searchPattern  in searchData:
-        #for plural nouns
-        #re.search("[ ^ ]{0,1}we[ s]", 'we ')
-        # find word with a_b first        
-        tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(mod1.standanizeNoun(searchPattern)) + '[s]{0,1}' + r"\b"        
-        inputData, isFinOut = re.subn(tempT, '_', inputData) #avoid concat string can be created new noun
+        # for plural nouns
+        # re.search("[ ^ ]{0,1}we[ s]", 'we ')
+        # find word with a_b first
+        # tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(searchPattern) + '[s]{0,1}' + r"\b"
+        tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(mod1.standanizeNoun(searchPattern)) + '[s]{0,1}' + r"\b"
+        inputData, isFinOut = re.subn(tempT, ',', inputData) #avoid concat string can be created new noun
         if (isFinOut > 0):
             result.append(searchPattern)
             totalWords = totalWords + isFinOut
             if (printForDeBug == 1):
                 print(tempT)
                 print(inputData)
-        else:
-            # then find a b
-            tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(searchPattern) + '[s]{0,1}' + r"\b"
-            inputData, isFinOut = re.subn(tempT, '_', inputData) #avoid concat string can be created new noun
-            if (isFinOut > 0):
-                result.append(searchPattern)
-                totalWords = totalWords + isFinOut
     
     result = list(set(result))
     result.sort()
-    result.append(str(totalWords))
+    # result.append(str(totalWords))
     if (printForDeBug):
         print("doc after re.sub all things:")
         print(inputData)
         print(result)
     return result
 
-def calculateReabilityByWordnetForEnglish(inputData, BLWnounsArray, NounsArray, printForDeBug=0, isTEI=0):
+def calculateReabilityByWordnetForEnglish(INPUT, BLWnounsArray, NounsArray, printForDeBug=0, isTEI=0):
     # get input
-    # inputData = extractText.extractTextTEI(INPUT, isTEI)
+    inputData = extractText.extractTextTEI(INPUT, isTEI)
     inputData = inputData.lower()
     #get all nouns
     nounsInput = findAllItemFromArray(inputData[:], NounsArray, printForDeBug, isTEI)
@@ -63,10 +61,10 @@ def calculateReabilityByWordnetForEnglish(inputData, BLWnounsArray, NounsArray, 
         #     print(nounsInput)
         return float(len(nounsBLWInput))/len(nounsInput)*100, nounsBLWInput, nounsInput
         
-# if __name__ == '__main__':
-#     import sys
-#     if sys.version_info[0] < 3:
-#         raise "Must be using Python 3"
+if __name__ == '__main__':
+    import sys
+    if sys.version_info[0] < 3:
+        raise "Must be using Python 3"
 #     #a.e. bug
 #     FILEPATH = 'data/testDataNM'
 #     files = mod1.listAllFile(FILEPATH, 1)
@@ -83,5 +81,5 @@ def calculateReabilityByWordnetForEnglish(inputData, BLWnounsArray, NounsArray, 
 #     inputFile.close()
 #     for f in files:
 #         print(calculateReabilityByWordnetForEnglish(f, BLWnounsArray, NounsArray, 0, 0))
-# else:
-#     print('import module-2 sucessfully')
+else:
+    print('import module-2 sucessfully')
