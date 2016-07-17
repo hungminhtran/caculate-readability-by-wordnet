@@ -1,0 +1,9 @@
+clothing
+piano
+apple
+table
+chair
+tool
+fish
+bird
+car
