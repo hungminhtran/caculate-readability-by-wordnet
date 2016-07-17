@@ -8,6 +8,7 @@ from sklearn.utils import shuffle
 import numpy
 import time, os
 from multiprocessing import Pool, Process, Lock, Array, Queue
+import random
 MAX_PROCESS = 4
 CF = 0.9
 
@@ -41,15 +42,19 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
     # for _file in range(1, len(inputFile)):
     #     X = numpy.concatenate((X, numpy.loadtxt(inputFile[_file])), axis=0)
     X = []
+    X_all = []
     for i in range(len(inputFile)):
         _tempfile = open(inputFile[i], 'r')
         temp = _tempfile.read()
         _tempfile.close()
-        X = X + temp.splitlines()
+        X_all = X_all + temp.splitlines()
+        X = X + random.sample(temp.splitlines(), 1800)
+    for i in range(len(X_all)):
+        X_all[i] = X_all[i].split(',')
     for i in range(len(X)):
         X[i] = X[i].split(',')
+    X_all = numpy.asarray(X_all)
     X = numpy.asarray(X)
-
 
     # data = datasets.load_digits().data
     # target = datasets.load_digits().target
@@ -70,6 +75,7 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
     if not os.path.exists(directory):
         os.makedirs(directory)
     temp = X[:,1:].astype(numpy.float)
+    temp_all = X_all[:,1:].astype(numpy.float)
     # X[:,-2] = X[:,-2] / 100
     print('temp',temp[1])
     for j in range(len(clf_List)):
@@ -96,24 +102,25 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
                     X_train = temp[:temp1,0:4]
                     X_score = temp[temp1:,0:4]
                     trainCV = temp[:,0:4]
+                    X_all_test = temp_all[:,0:4]
                 elif ( p < q):
                     X_train = numpy.append(temp[:temp1,p:p+1], temp[:temp1,q:q+1], 1)
                     X_score = numpy.append(temp[temp1:,p:p+1], temp[temp1:,q:q+1], 1)
                     trainCV = numpy.append(temp[:,p:p+1], temp[:,q:q+1], 1)
+                    X_all_test = numpy.append(temp_all[:,p:p+1], temp_all[:,q:q+1], 1)
                 if (p < q or p == 3 and q == 3):
-                    print('train X_train', clf_name[j], p, q, X_train[1])
+                    # print('train X_train', clf_name[j], p, q, X_train[1])
                     if (p == 2 and q == 3):
                         clf_List[j].fit(X_train, temp[:temp1, -1])
                         score = clf_List[j].score(X_score, temp[temp1:, -1])
                         print(clf_name[j], p, q, "Accuracy: %0.2f " % (score))
                         joblib.dump(clf_List[j],  directory + '/' + clf_name[j] + '.pkl')
                         clf = joblib.load(directory + '/' +  clf_name[j] + '.pkl')
-                        print(X_score.shape, 'clf load test score', clf_name[j], clf.score(X_score, temp[temp1:,-1]), 'train score', clf.score(X_train, temp[:temp1,-1]))
+                        print(X_score.shape, 'clf load test score', clf_name[j], clf.score(X_score, temp[temp1:,-1]), 'train score', clf.score(X_train, temp[:temp1,-1]), ' test all score ', clf.score(X_all_test, temp_all[:,-1]))
                     
                     # scores = cross_validation.cross_val_score(clf_List[j], trainCV, temp[:, -1], cv=9, n_jobs=-1)
                     # print(clf_name[j], p, q, trainCV.shape, "Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
-                    # # title = ''
-
+                        title = ''
                         if (p == 3 and q == 3):
                             title = header[1]+ ',' + header[3] + ','+ header[4]
                             _tempfile = open('output/svm_result_'  + title + '_' + clf_name[j] + '_score=' + str(score) + '_.csv', 'w+')
@@ -152,7 +159,23 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
                             _output = xx3 +  xxx + xx2
                             _output = _output + ',' + str(_prediction[i]) + '\n'
                             _tempfile.write(_output)                
+
+                        if (p == 3 and q == 3):
+                            _tempfile.write('all_test,all_test,all_test,all_test,all_test,all_test\n')
+                        else:
+                            _tempfile.write('all_test,all_test,all_test,all_test,all_test\n')
+                        _prediction = clf.predict(X_all_test)
+                        for i in range(X_all_test.shape[0]):
+                            xxx = ''
+                            for _temp in X_all_test[i]:
+                                xxx = xxx + ',%.9f' % _temp
+                            xx2 = ', %s' % X_all[i][-1]
+                            xx3 = '%s,' % X_all[i][0]
+                            _output = xx3 +  xxx + xx2
+                            _output = _output + ',' + str(_prediction[i]) + '\n'
+                            _tempfile.write(_output)                
                         _tempfile.close()
+
     #     DUMP_TIME = time.time()
     #     joblib.dump(clf_List[j],  directory + '/' + clf_name[j] + '.pkl')
     #     print(clf_name[j], 'dump time total: ', time.time() - DUMP_TIME)
