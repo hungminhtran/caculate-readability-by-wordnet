@@ -109,8 +109,11 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
                     trainCV = numpy.append(temp[:,p:p+1], temp[:,q:q+1], 1)
                     X_all_test = numpy.append(temp_all[:,p:p+1], temp_all[:,q:q+1], 1)
                 if (p < q or p == 3 and q == 3):
-                    # print('train X_train', clf_name[j], p, q, X_train[1])
-                    if (p == 2 and q == 3):
+                    if (sys.argv[1] == 'k-fold'):
+                        # print('train X_train', clf_name[j], p, q, X_train[1])
+                        scores = cross_validation.cross_val_score(clf_List[j], trainCV, temp[:, -1], cv=9, n_jobs=-1)
+                        print(clf_name[j], p, q, trainCV.shape, "Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
+                    elif (p == 2 and q == 3):
                         clf_List[j].fit(X_train, temp[:temp1, -1])
                         score = clf_List[j].score(X_score, temp[temp1:, -1])
                         print(clf_name[j], p, q, "Accuracy: %0.2f " % (score))
@@ -118,8 +121,6 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
                         clf = joblib.load(directory + '/' +  clf_name[j] + '.pkl')
                         print(X_score.shape, 'clf load test score', clf_name[j], clf.score(X_score, temp[temp1:,-1]), 'train score', clf.score(X_train, temp[:temp1,-1]), ' test all score ', clf.score(X_all_test, temp_all[:,-1]))
                     
-                    # scores = cross_validation.cross_val_score(clf_List[j], trainCV, temp[:, -1], cv=9, n_jobs=-1)
-                    # print(clf_name[j], p, q, trainCV.shape, "Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
                         title = ''
                         if (p == 3 and q == 3):
                             title = header[1]+ ',' + header[3] + ','+ header[4]
