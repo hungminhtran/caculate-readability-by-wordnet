@@ -11,14 +11,14 @@ from .classifier_get_feature import getShallowFeatureForFile
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 
-_tempfile = open('statics/input/vietnamesewn-nouns/all-vietnamesewn-BLW.txt', 'r')
+_tempfile = open('static/input/vietnamesewn-nouns/all-vietnamesewn-BLW.txt', 'r')
 BLWnounsArray = _tempfile.read().splitlines()
 _tempfile.close()
-_tempfile = open('statics/input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt', 'r')
+_tempfile = open('static/input/vietnamesewn-nouns/all-vietnamesewn-SORTED-nouns.txt', 'r')
 NounsArray = _tempfile.read().splitlines()
 _tempfile.close()
 
-clf2 = joblib.load('statics/svm_pkl_4ft' + '/' +  'rbf' + '.pkl')
+clf2 = joblib.load('static/svm_pkl_4ft' + '/' +  'rbf' + '.pkl')
 
 
 def upload_file(request):
@@ -29,12 +29,12 @@ def upload_file(request):
             m = hashlib.md5()
             m.update(str(request.FILES['myfile']).encode('utf-8'))
             hashName = m.hexdigest()
-            filename ='statics/tmp/' +  hashName
+            filename ='static/tmp/' +  hashName
             with open(filename, 'wb+') as destination:
                 # print('request file', str(request.FILES['myfile']))
                 for chunk in request.FILES['myfile'].chunks():
                     destination.write(chunk)
-            subprocess.check_call("java -jar statics/vn.hus.nlp.tokenizer-4.1.1-bin/vn.hus.nlp.tokenizer-4.1.1.jar -i " + filename + " -o " + filename + ".tok", shell=True)
+            subprocess.check_call("java -jar static/vn.hus.nlp.tokenizer-4.1.1-bin/vn.hus.nlp.tokenizer-4.1.1.jar -i " + filename + " -o " + filename + ".tok", shell=True)
             filename = filename + ".tok"
             ratio, blwN, allN = mod2.calculateReabilityByWordnetForEnglish(filename, BLWnounsArray, NounsArray, 0, 0)
             _tempfile = open(filename, 'r')
