@@ -5,9 +5,9 @@ import sys
 print('work on python 3 only')
 if (sys.version_info[0] < 3):
     raise "Must be using Python 3"
-from textstat.textstat import textstat
 import importlib
 import re
+from textstat.textstat import textstat
 mod1 = importlib.import_module("module-1")
 extractText = importlib.import_module("ExtractText")
 from multiprocessing import Queue, Pool
@@ -17,6 +17,8 @@ TOTAL_WORKER = 1
 def calculate2FormulaFromFile(inputFile, isTEI=1):
     inputData = extractText.extractTextTEI(inputFile, isTEI)
     inputData = re.sub('_', ' ', inputData)
+    # r1 = textstat.flesch_kincaid_grade(inputData)
+    # r2 = textstat.dale_chall_readability_score(inputData)
     # import pdb; pdb.set_trace()
     try:
         r1 = textstat.flesch_kincaid_grade(inputData)
@@ -35,6 +37,11 @@ if (__name__ == '__main__'):
     FILEPATH = sys.argv[1]
     OUTPUTFILE = sys.argv[2]
     isTEI = int(sys.argv[3])
+    if (isTEI == 0):
+        from text_stat_mod import textstatistics
+        textstat = textstatistics()
+        print(textstat)
+        # import pdb; pdb.set_trace()
     startTime = time.time()
     files = mod1.listAllFile(FILEPATH, 1)
     result = []
