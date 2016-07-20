@@ -37,10 +37,11 @@ if (__name__ == '__main__'):
     FILEPATH = sys.argv[1]
     OUTPUTFILE = sys.argv[2]
     isTEI = int(sys.argv[3])
-    if (isTEI == 0):
-        from text_stat_mod import textstatistics
-        textstat = textstatistics()
-        print(textstat)
+    print('*'*100, 'not mod')
+    # if (isTEI == 0):
+    #     from text_stat_mod import textstatistics
+    #     textstat = textstatistics()
+    #     print(textstat)
         # import pdb; pdb.set_trace()
     startTime = time.time()
     files = mod1.listAllFile(FILEPATH, 1)
