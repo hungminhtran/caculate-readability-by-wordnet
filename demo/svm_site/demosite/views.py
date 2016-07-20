@@ -56,7 +56,7 @@ def upload_file(request):
                         allN_highlight[i] = '<b>' + allN_highlight[i] + '</b>'
                         # print('aaaaaaaaa', allN_highlight[i], blwN[j])
 
-            output = [' <font size ="4">NỘI DUNG TẬP TIN: </font> <br><br>' + inputData, ' <font size ="4">TỈ LỆ TỪ CƠ BẢN:    ' +str(ratio) + " %</font>", ' <font size ="4">CÁC DANH TỪ TÌM ĐƯỢC (CÁC TỪ CƠ BẢN ĐƯỢC <b>IN ĐẬM</b>): </font><br><br>' + "; ".join(allN_highlight), ' <font size ="4">CẤP ĐỘ DỄ ĐỌC (CÓ 3 CẤP ĐỘ, CÀNG THẤP CÀNG DỄ ĐỌC):    ' +  str(int(predictLable[0])) + '</font>']
+            output = [' <font size ="4">NỘI DUNG TẬP TIN: </font> <br><br>' + inputData, ' <font size ="4">TỈ LỆ TỪ CƠ BẢN:    ' +str(ratio) + " %</font>", ' <font size ="4">CÁC DANH TỪ TÌM ĐƯỢC (CÁC TỪ CƠ BẢN ĐƯỢC <b>IN ĐẬM</b>): </font><br><br>' + "; ".join(allN_highlight), ' <font size ="4">CẤP ĐỘ DỄ ĐỌC (CÓ 3 CẤP ĐỘ: 1, 2, 3; CÀNG THẤP CÀNG DỄ ĐỌC):    ' +  str(int(predictLable[0])) + '</font>']
             # output = "upload file complete"
         else:
             output = ['<font size ="4">TẢI LÊN KHÔNG THÀNH CÔNG!</font>']
