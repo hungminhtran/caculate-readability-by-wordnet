@@ -35,9 +35,9 @@ def upload_file(request):
                 for chunk in request.FILES['myfile'].chunks():
                     destination.write(chunk)
 
+            ratio, blwN, allN = mod2.calculateReabilityByWordnetForEnglish(filename, BLWnounsArray, NounsArray, 0, 0)
             subprocess.check_call("java -jar static/vn.hus.nlp.tokenizer-4.1.1-bin/vn.hus.nlp.tokenizer-4.1.1.jar -i " + filename + " -o " + filename + ".tok", shell=True)
             filename = filename + ".tok"
-            ratio, blwN, allN = mod2.calculateReabilityByWordnetForEnglish(filename, BLWnounsArray, NounsArray, 0, 0)
             _tempfile = open(filename, 'r')
             inputData = _tempfile.read()
             _tempfile.close()

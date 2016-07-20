@@ -19,7 +19,7 @@ def findAllItemFromArray(inputData, searchData, printForDeBug = 0, isTEI = 1):
         # re.search("[ ^ ]{0,1}we[ s]", 'we ')
         # find word with a_b first
         # tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(searchPattern) + '[s]{0,1}' + r"\b"
-        tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(mod1.standanizeNoun(searchPattern)) + '[s]{0,1}' + r"\b"
+        tempT = r"\b" + mod1.standanlizeNounsForSearchRegex(mod1.deStandanizeNoun(searchPattern)) + r"\b"
         inputData, isFinOut = re.subn(tempT, ',', inputData) #avoid concat string can be created new noun
         if (isFinOut > 0):
             result.append(searchPattern)
@@ -41,6 +41,7 @@ def calculateReabilityByWordnetForEnglish(INPUT, BLWnounsArray, NounsArray, prin
     # get input
     inputData = extractText.extractTextTEI(INPUT, isTEI)
     inputData = inputData.lower()
+    inputData = re.sub('_', ' ', inputData)
     #get all nouns
     nounsInput = findAllItemFromArray(inputData[:], NounsArray, printForDeBug, isTEI)
     #get all blw
