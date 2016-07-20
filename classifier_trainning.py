@@ -48,7 +48,8 @@ def smv_freq(inputFile, directory = 'svm_pkl/', mykernel=['linear'], isuseDict =
         temp = _tempfile.read()
         _tempfile.close()
         X_all = X_all + temp.splitlines()
-        X = X + random.sample(temp.splitlines(), 1800)
+        X = X +  temp.splitlines()
+        # X = X + random.sample(temp.splitlines(), 1800)
     for i in range(len(X_all)):
         X_all[i] = X_all[i].split(',')
     for i in range(len(X)):

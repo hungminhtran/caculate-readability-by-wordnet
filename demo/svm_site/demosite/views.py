@@ -34,7 +34,7 @@ def upload_file(request):
                 # print('request file', str(request.FILES['myfile']))
                 for chunk in request.FILES['myfile'].chunks():
                     destination.write(chunk)
-
+            subprocess.check_call("dos2unix " + filename, shell=True)
             ratio, blwN, allN = mod2.calculateReabilityByWordnetForEnglish(filename, BLWnounsArray, NounsArray, 0, 0)
             subprocess.check_call("java -jar static/vn.hus.nlp.tokenizer-4.1.1-bin/vn.hus.nlp.tokenizer-4.1.1.jar -i " + filename + " -o " + filename + ".tok", shell=True)
             filename = filename + ".tok"
@@ -56,7 +56,7 @@ def upload_file(request):
                         allN_highlight[i] = '<b>' + allN_highlight[i] + '</b>'
                         # print('aaaaaaaaa', allN_highlight[i], blwN[j])
 
-            output = [' <font size ="4">NỘI DUNG TẬP TIN: </font> <br><br>' + inputData, ' <font size ="4">TỈ LỆ TỪ CƠ BẢN:    ' +str(ratio) + " %</font>", ' <font size ="4">CÁC DANH TỪ TÌM ĐƯỢC (CÁC TỪ CƠ BẢN ĐƯỢC <b>IN ĐẬM</b>): </font><br><br>' + "; ".join(allN_highlight), ' <font size ="4">CẤP ĐỘ DỄ ĐỌC (CÓ 3 CẤP ĐỘ, CÀNG THẤP CÀNG TỐT):    ' +  str(int(predictLable[0])) + '</font>']
+            output = [' <font size ="4">NỘI DUNG TẬP TIN: </font> <br><br>' + inputData, ' <font size ="4">TỈ LỆ TỪ CƠ BẢN:    ' +str(ratio) + " %</font>", ' <font size ="4">CÁC DANH TỪ TÌM ĐƯỢC (CÁC TỪ CƠ BẢN ĐƯỢC <b>IN ĐẬM</b>): </font><br><br>' + "; ".join(allN_highlight), ' <font size ="4">CẤP ĐỘ DỄ ĐỌC (CÓ 3 CẤP ĐỘ, CÀNG THẤP CÀNG DỄ ĐỌC):    ' +  str(int(predictLable[0])) + '</font>']
             # output = "upload file complete"
         else:
             output = ['<font size ="4">TẢI LÊN KHÔNG THÀNH CÔNG!</font>']
