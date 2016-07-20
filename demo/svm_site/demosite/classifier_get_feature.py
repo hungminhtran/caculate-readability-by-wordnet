@@ -55,8 +55,8 @@ def getShallowFeatureForFile(inputDataFromFileInRow, row, funcArgs):
         # if float(hashMapFileCount3kWords[row[0]]) > totalWords:
         #     print("*"*5, "ERROR", row[0])
         return [row[0], float(totalWords)/totalSentences, float(totalLetter)/totalSentences, float(totalLetter)/totalWords, float(row[1]), labelKWs]
-    # else:
-    #     return [-1, -1, -1, float(row[1]), labelKWs]
+    else:
+        return [-1, -1, -1, float(row[1]), labelKWs]
 
 def getDataNFeatureFromFileForAProc(PROCESS_LOCK, RESULT_QUEUE, filesQueue, subProcFunc, funcArgs):
     X = []

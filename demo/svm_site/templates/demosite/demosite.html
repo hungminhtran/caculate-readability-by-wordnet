@@ -32,23 +32,55 @@
         background-color: #f2f2f2;
         padding: 20px;
     }
-</style>
-<body>
-    <h3>calculate vietnamese readability</h3>
-    <h3>1212157 - Tran Minh Hung</h3>
-    <h3>1212346 - Pham Duy Tam</h3>
+    .loader {
+      border: 16px solid #f3f3f3;
+      border-radius: 50%;
+      border-top: 16px solid #3498db;
+      width: 120px;
+      height: 120px;
+      -webkit-animation: spin 2s linear infinite;
+      animation: spin 2s linear infinite;
+  }
 
-    {% for i in output %}
-    <br><br>{{i}}
-    {% endfor %}
-    <br><br><br>{{time}}<br><br>
+  @-webkit-keyframes spin {
+      0% { -webkit-transform: rotate(0deg); }
+      100% { -webkit-transform: rotate(360deg); }
+  }
+
+  @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+  }    
+</style>
+<script type="text/javascript">
+    function reply_click(clicked_id)
+    {
+        var NAME = document.getElementById("div1");
+        var currentClass = NAME.className;
+        NAME.className = "loader";   // Set other class name
+        NAME = document.getElementById("div2");
+        NAME.style.display = 'none';
+}
+</script>
+<body>
+    <h3>Phiên bản giới thiệu ứng dụng đánh giá tính dễ đọc của văn bản tiếng Việt dựa vào wordnet</h3>
+    <h3>1212157 - Trần Minh Hùng</h3>
+    <h3>1212346 - Phạm Duy Tâm</h3>
+    <div id="div1"> </div>
+    <div id="div2">
+        {% for i in output %}
+        <br><br><br>{{i | safe}}
+        {% endfor %}
+        <br><br><br><br>{{time | safe}}<br><br>
+    </div>
     <div>
       <form method="post" enctype="multipart/form-data">
           {% csrf_token %}
           <input type="file" name="myfile" />
-          <input type="submit" name="submit" value="Upload" />
+          <input id='wtf' onClick="reply_click()" type="submit" name="submit" value="tải lên" />
       </form>
   </div>
+</div>
 </body>
 </html>
 
